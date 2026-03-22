@@ -49,11 +49,24 @@
   --accent-hover: #f97316;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background: var(--background);
   color: var(--foreground);
   font-family: var(--font-sans), system-ui, sans-serif;
   transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+::selection {
+  background: rgba(249, 115, 22, 0.2);
+  color: var(--foreground);
+}
+
+.dark ::selection {
+  background: rgba(251, 146, 60, 0.3);
 }
 
 /* Devanagari text styling */
@@ -63,32 +76,52 @@ body {
 
 .verse-original {
   font-family: var(--font-devanagari), sans-serif;
-  font-size: 1.25rem;
+  font-size: 1.15rem;
   line-height: 2;
   color: var(--foreground);
+  letter-spacing: 0.01em;
+}
+
+@media (min-width: 640px) {
+  .verse-original {
+    font-size: 1.3rem;
+    line-height: 2.1;
+  }
 }
 
 .verse-transliteration {
   font-style: italic;
   color: var(--muted);
-  font-size: 0.95rem;
+  font-size: 0.9rem;
   line-height: 1.8;
 }
 
 .verse-translation {
-  font-size: 1.05rem;
-  line-height: 1.8;
+  font-size: 1rem;
+  line-height: 1.85;
   color: var(--foreground);
+}
+
+@media (min-width: 640px) {
+  .verse-translation {
+    font-size: 1.05rem;
+  }
 }
 
 /* Verse card */
 .verse-card {
   background: var(--verse-bg);
   border-radius: 0.75rem;
-  padding: 1.5rem;
+  padding: 1.25rem;
   margin-bottom: 1rem;
   border: 1px solid var(--card-border);
   transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+@media (min-width: 640px) {
+  .verse-card {
+    padding: 1.5rem;
+  }
 }
 
 /* Card component */

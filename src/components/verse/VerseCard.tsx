@@ -24,15 +24,18 @@ export default function VerseCard({ verse, verseLabel }: VerseCardProps) {
         <div className="verse-original whitespace-pre-line">{verse.original}</div>
       </div>
 
-      {/* Transliteration */}
-      <div className="mb-4">
-        <p className="text-xs font-medium text-[var(--muted)] uppercase tracking-wider mb-1">
-          Transliteration
-        </p>
-        <div className="verse-transliteration whitespace-pre-line">
-          {verse.transliteration}
-        </div>
-      </div>
+      {/* Transliteration — collapsible */}
+      {verse.transliteration && (
+        <details className="mb-4 group">
+          <summary className="text-xs font-medium text-[var(--muted)] uppercase tracking-wider cursor-pointer select-none hover:text-[var(--foreground)] transition-colors">
+            <span className="group-open:hidden">Show Transliteration</span>
+            <span className="hidden group-open:inline">Transliteration</span>
+          </summary>
+          <div className="verse-transliteration whitespace-pre-line mt-2">
+            {verse.transliteration}
+          </div>
+        </details>
+      )}
 
       {/* Translation */}
       <div>

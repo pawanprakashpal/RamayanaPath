@@ -45,16 +45,19 @@ export default async function KandPage({ params }: KandPageProps) {
               href={`/${kandSlug}/doha/${group.dohaNumber}`}
               className="card p-4 hover:border-[var(--accent)] transition-colors group"
             >
-              <div className="flex items-center justify-between">
-                <div>
+              <div className="flex items-center justify-between gap-4">
+                <div className="min-w-0">
                   <h3 className="font-medium group-hover:text-[var(--accent)] transition-colors">
                     {group.label ?? `Doha ${group.dohaNumber}`}
                   </h3>
-                  <p className="text-sm text-[var(--muted)]">
+                  <p className="text-sm text-[var(--muted)] truncate font-devanagari mt-0.5">
+                    {group.verses[0]?.original.split('\n')[0] ?? ""}
+                  </p>
+                  <p className="text-xs text-[var(--muted)] mt-0.5">
                     {group.verses.length} verse{group.verses.length > 1 ? "s" : ""}
                   </p>
                 </div>
-                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-[var(--muted)] group-hover:text-[var(--accent)]">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-[var(--muted)] group-hover:text-[var(--accent)] flex-shrink-0">
                   <polyline points="9 18 15 12 9 6" />
                 </svg>
               </div>

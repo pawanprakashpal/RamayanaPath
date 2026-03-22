@@ -87,6 +87,8 @@ export default async function DohaPage({ params }: DohaPageProps) {
         nextHref={nextDoha !== undefined ? `/${kandSlug}/doha/${nextDoha}` : undefined}
         prevLabel={prevDoha !== undefined ? `Doha ${prevDoha}` : undefined}
         nextLabel={nextDoha !== undefined ? `Doha ${nextDoha}` : undefined}
+        kandHref={`/${kandSlug}`}
+        kandLabel={`All ${kand.tulsidas.name} Dohas`}
       />
     </div>
   );

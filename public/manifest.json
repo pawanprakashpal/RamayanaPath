@@ -1,0 +1,16 @@
+{
+  "name": "RamayanaPath",
+  "short_name": "RamayanaPath",
+  "description": "Read the Ramayana epic with original verses and English translations",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fefdfb",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

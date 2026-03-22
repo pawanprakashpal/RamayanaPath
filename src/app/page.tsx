@@ -8,15 +8,20 @@ export default async function HomePage() {
     <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-12">
       {/* Hero */}
       <div className="text-center mb-12">
-        <h1 className="text-4xl sm:text-5xl font-bold mb-4">
+        <p className="font-devanagari text-lg text-[var(--accent)] mb-2">
+          ॥ श्रीरामचरितमानस ॥
+        </p>
+        <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-4">
           <span className="text-[var(--accent)]">Ramayana</span>Path
         </h1>
-        <p className="font-devanagari text-2xl text-[var(--muted)] mb-4">
-          श्रीरामचरितमानस
-        </p>
-        <p className="text-lg text-[var(--muted)] max-w-2xl mx-auto">
+        <p className="text-lg sm:text-xl text-[var(--muted)] max-w-2xl mx-auto mb-6">
           Read the epic Ramayana with original verses and English translations.
-          Choose between Tulsidas&apos;s Ramcharitmanas and Valmiki&apos;s Sanskrit original.
+        </p>
+        <p className="font-devanagari text-base text-[var(--muted)]">
+          मंगल भवन अमंगल हारी। द्रवउ सो दसरथ अजिर बिहारी॥
+        </p>
+        <p className="text-sm text-[var(--muted)] italic mt-1">
+          May He who sports in the courtyard of Dasaratha remove all sorrows and bring blessings.
         </p>
       </div>
 

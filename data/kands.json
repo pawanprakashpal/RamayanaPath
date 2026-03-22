@@ -1,0 +1,46 @@
+{
+  "kands": [
+    {
+      "index": 1,
+      "slug": "bal-kand",
+      "tulsidas": { "name": "Bal Kand", "nameOriginal": "बालकाण्ड", "totalUnits": 361, "available": false },
+      "valmiki": { "name": "Bala Kanda", "nameOriginal": "बालकाण्डम्", "totalUnits": 77, "available": false }
+    },
+    {
+      "index": 2,
+      "slug": "ayodhya-kand",
+      "tulsidas": { "name": "Ayodhya Kand", "nameOriginal": "अयोध्याकाण्ड", "totalUnits": 326, "available": false },
+      "valmiki": { "name": "Ayodhya Kanda", "nameOriginal": "अयोध्याकाण्डम्", "totalUnits": 119, "available": false }
+    },
+    {
+      "index": 3,
+      "slug": "aranya-kand",
+      "tulsidas": { "name": "Aranya Kand", "nameOriginal": "अरण्यकाण्ड", "totalUnits": 46, "available": false },
+      "valmiki": { "name": "Aranya Kanda", "nameOriginal": "अरण्यकाण्डम्", "totalUnits": 75, "available": false }
+    },
+    {
+      "index": 4,
+      "slug": "kishkindha-kand",
+      "tulsidas": { "name": "Kishkindha Kand", "nameOriginal": "किष्किन्धाकाण्ड", "totalUnits": 30, "available": false },
+      "valmiki": { "name": "Kishkindha Kanda", "nameOriginal": "किष्किन्धाकाण्डम्", "totalUnits": 67, "available": false }
+    },
+    {
+      "index": 5,
+      "slug": "sundar-kand",
+      "tulsidas": { "name": "Sundar Kand", "nameOriginal": "सुन्दरकाण्ड", "totalUnits": 60, "available": true },
+      "valmiki": { "name": "Sundara Kanda", "nameOriginal": "सुन्दरकाण्डम्", "totalUnits": 68, "available": true }
+    },
+    {
+      "index": 6,
+      "slug": "lanka-kand",
+      "tulsidas": { "name": "Lanka Kand", "nameOriginal": "लङ्काकाण्ड", "totalUnits": 121, "available": false },
+      "valmiki": { "name": "Yuddha Kanda", "nameOriginal": "युद्धकाण्डम्", "totalUnits": 131, "available": false }
+    },
+    {
+      "index": 7,
+      "slug": "uttar-kand",
+      "tulsidas": { "name": "Uttar Kand", "nameOriginal": "उत्तरकाण्ड", "totalUnits": 130, "available": false },
+      "valmiki": { "name": "Uttara Kanda", "nameOriginal": "उत्तरकाण्डम्", "totalUnits": 110, "available": false }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 1,
+    "title": "Hanuman's Leap Across the Ocean",
+    "titleSanskrit": "प्रथमः सर्गः",
+    "totalShlokas": 10
+  },
+  "shlokas": [
+    {
+      "id": "sundara-1-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततो रावणनीतायाः सीतायाः शत्रुकर्शनः।\nइयेष पदमन्वेष्टुं चारणाचरिते पथि॥",
+      "transliteration": "tato raavana-neetaayaah seetaayaah shatru-karshanaH.\niyesha padam anveshTum chaarana-aacharite pathi.",
+      "translation": "Then, the destroyer of enemies (Hanuman) wished to search for traces of Sita, who had been carried away by Ravana, on the path frequented by celestial singers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "sundara-1-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "स्वस्ति प्रजाभ्यः परिपालयन्तां\nन्यायेन मार्गेण महीं महीशाः।\nगोब्राह्मणेभ्यः शुभमस्तु नित्यं\nलोकाः समस्ताः सुखिनो भवन्तु॥",
+      "transliteration": "svasti prajaabhyaH paripaalayantaam\nnyaayena maargena maheem maheeshaaH.\ngo-braahmaNebhyaH shubham astu nityam\nlokaaH samastaaH sukhino bhavantu.",
+      "translation": "May the rulers protect the people with justice. May there always be auspiciousness for cows and brahmins. May all the worlds be happy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "sundara-1-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "यस्य विक्रममासाद्य राक्षसा निधनं गताः।\nतमेव चिन्तयन्नास्ते यदा सो ऽभूत् कपिः पथि॥",
+      "transliteration": "yasya vikramam aasaadya raakshasaa nidhanam gataaH.\ntam eva chintayann aaste yadaa so'bhoot kapiH pathi.",
+      "translation": "By whose valor the demons met their destruction — that very Rama did the monkey contemplate as he set upon his path.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "sundara-1-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "अथोत्तरां दिशं रम्यां प्रतिष्ठे स्वर्गसन्निभाम्।\nजगाम लम्बशिखरं महेन्द्रं पर्वतोत्तमम्॥",
+      "transliteration": "atho uttaraam disham ramyaam pratishThe svarga-sannibhaam.\njagaama lamba-shikharam mahendram parvatottamam.",
+      "translation": "Then he proceeded towards the delightful northern direction, resembling heaven, and reached the great Mount Mahendra with its tall peaks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "sundara-1-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "मेरुमन्दरसंकाशं तोयदप्रतिमं गिरिम्।\nधातुसाहस्रचित्रं तं नानाद्रुमलतावृतम्॥",
+      "transliteration": "meru-mandara-sankaasham toyada-pratimam girim.\ndhaatu-saahasra-chitram tam naanaa-druma-lataa-vritam.",
+      "translation": "That mountain resembled Meru and Mandara, rivaled the rain clouds in stature, was adorned with thousands of mineral ores, and was covered with various trees and creepers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "sundara-1-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "सिद्धचारणसंकीर्णं पन्नगायतसेवितम्।\nधातुसान्द्राभिचित्रं तं व्यालमृगसमाकुलम्॥",
+      "transliteration": "siddha-chaarana-sankeerna pannaaga-aayata-sevitam.\ndhaatu-saandhra-abhichitram tam vyaala-mriga-samakulam.",
+      "translation": "It was thronged by Siddhas and Charanas, frequented by great serpents, richly painted with mineral ores, and filled with wild beasts and deer.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "sundara-1-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "स तं समारुह्य गिरिं महात्मा\nप्रकम्पयन् सानुमतां महात्मा।\nस लक्ष्मणस्यार्य समागमं तं\nददर्श वीरो विपुलं समुद्रम्॥",
+      "transliteration": "sa tam samaaruhya girim mahaatmaa\nprakampayan saanumataam mahaatmaa.\nsa lakshmanasya aarya samaagamam tam\nadadarsha veero vipulam samudram.",
+      "translation": "The great-souled one climbed that mountain, shaking its peaks. That hero beheld the vast ocean stretching before him.",
+      "metre": "upajati"
+    },
+    {
+      "id": "sundara-1-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "ततः स नदनदीनाथमशेषं\nमकरालयं कपिकुञ्जरः।\nचकार गमने मतिं सिन्धोः\nसीताशोकविनाशनार्थे॥",
+      "transliteration": "tataH sa nada-nadee-naatham ashesham\nmakaraaalayam kapi-kunjaraH.\nchakaara gamane matim sindhoH\nseetaa-shoka-vinaashana-arthe.",
+      "translation": "Then that elephant among monkeys resolved to cross the ocean — the lord of rivers and streams, the abode of crocodiles — to end Sita's sorrow.",
+      "metre": "vaitaliya"
+    },
+    {
+      "id": "sundara-1-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "आत्मानमभिसंस्तभ्य प्राणानभिनिगृह्य च।\nध्यात्वा मनसि गत्वा च बभूवोत्प्लवने कृतः॥",
+      "transliteration": "aatmaanam abhisanstabhya praaNaan abhinigrihya cha.\ndhyaatvaa manasi gatvaa cha babhoov utplavane kritaH.",
+      "translation": "Steadying himself, restraining his breath, concentrating his mind and focusing his thoughts, he prepared himself for the mighty leap.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "sundara-1-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "स चिक्षेप तदा वीरो लाङ्गूलं रणकर्कशः।\nप्रगृह्य च ततो लाङ्गूलमिदं वचनमब्रवीत्॥",
+      "transliteration": "sa chikshepa tadaa veero laanguulam raNa-karkashaH.\npragrihya cha tato laanguulam idam vachanam abraveet.",
+      "translation": "That hero, fierce in battle, swung his tail. Grasping his tail firmly, he then spoke these words.",
+      "metre": "anushtubh"
+    }
+  ]
+}

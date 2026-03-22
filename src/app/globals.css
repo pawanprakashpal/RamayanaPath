@@ -1,26 +1,118 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-saffron-50: #fff8f0;
+  --color-saffron-100: #ffedd5;
+  --color-saffron-200: #fed7aa;
+  --color-saffron-300: #fdba74;
+  --color-saffron-400: #fb923c;
+  --color-saffron-500: #f97316;
+  --color-saffron-600: #ea580c;
+  --color-saffron-700: #c2410c;
+  --color-saffron-800: #9a3412;
+  --color-saffron-900: #7c2d12;
+
+  --color-cream-50: #fefdfb;
+  --color-cream-100: #fdf8f0;
+  --color-cream-200: #f5ead6;
+  --color-cream-300: #e8d5b0;
+
+  --color-charcoal-700: #2d2d2d;
+  --color-charcoal-800: #1f1f1f;
+  --color-charcoal-900: #141414;
+
+  --font-sans: var(--font-inter);
+  --font-devanagari: var(--font-noto-sans-devanagari);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+/* Light mode (default) */
+:root {
+  --background: #fefdfb;
+  --foreground: #1c1917;
+  --card-bg: #ffffff;
+  --card-border: #e8d5b0;
+  --verse-bg: #fdf8f0;
+  --muted: #78716c;
+  --accent: #f97316;
+  --accent-hover: #ea580c;
+}
+
+/* Dark mode */
+.dark {
+  --background: #141414;
+  --foreground: #e7e5e4;
+  --card-bg: #1f1f1f;
+  --card-border: #3d3d3d;
+  --verse-bg: #2d2d2d;
+  --muted: #a8a29e;
+  --accent: #fb923c;
+  --accent-hover: #f97316;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans), system-ui, sans-serif;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+/* Devanagari text styling */
+.font-devanagari {
+  font-family: var(--font-devanagari), sans-serif;
+}
+
+.verse-original {
+  font-family: var(--font-devanagari), sans-serif;
+  font-size: 1.25rem;
+  line-height: 2;
+  color: var(--foreground);
+}
+
+.verse-transliteration {
+  font-style: italic;
+  color: var(--muted);
+  font-size: 0.95rem;
+  line-height: 1.8;
+}
+
+.verse-translation {
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: var(--foreground);
+}
+
+/* Verse card */
+.verse-card {
+  background: var(--verse-bg);
+  border-radius: 0.75rem;
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+  border: 1px solid var(--card-border);
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+/* Card component */
+.card {
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 0.75rem;
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--background);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--muted);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--accent);
 }

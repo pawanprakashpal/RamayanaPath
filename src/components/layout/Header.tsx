@@ -21,6 +21,9 @@ export default function Header() {
             <Link href="/" className="text-sm text-[var(--muted)] hover:text-[var(--foreground)] transition-colors">
               Home
             </Link>
+            <Link href="/bal-kand" className="text-sm text-[var(--muted)] hover:text-[var(--foreground)] transition-colors">
+              Bal Kand
+            </Link>
             <Link href="/sundar-kand" className="text-sm text-[var(--muted)] hover:text-[var(--foreground)] transition-colors">
               Sundar Kand
             </Link>
@@ -64,6 +67,9 @@ function MobileMenu() {
         <nav className="absolute right-0 top-full mt-2 w-48 rounded-lg border border-[var(--card-border)] bg-[var(--card-bg)] shadow-lg p-2 z-50">
           <Link href="/" className="block px-3 py-2 rounded-md text-sm hover:bg-[var(--verse-bg)] transition-colors">
             Home
+          </Link>
+          <Link href="/bal-kand" className="block px-3 py-2 rounded-md text-sm hover:bg-[var(--verse-bg)] transition-colors">
+            Bal Kand
           </Link>
           <Link href="/sundar-kand" className="block px-3 py-2 rounded-md text-sm hover:bg-[var(--verse-bg)] transition-colors">
             Sundar Kand

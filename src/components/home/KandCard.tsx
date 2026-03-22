@@ -26,11 +26,8 @@ export default function KandCard({ kand }: KandCardProps) {
           : "opacity-50"
       }`}
     >
-      {/* Kand number */}
-      <div className="flex items-start justify-between mb-3">
-        <span className="text-xs font-medium text-[var(--muted)] uppercase tracking-wider">
-          Kand {kand.index}
-        </span>
+      {/* Status badge */}
+      <div className="flex items-start justify-end mb-3">
         {!isAvailable && (
           <span className="text-xs px-2 py-0.5 rounded-full bg-[var(--verse-bg)] text-[var(--muted)]">
             Coming Soon

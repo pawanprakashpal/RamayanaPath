@@ -3,6 +3,16 @@ import { SITE_NAME } from "@/lib/constants";
 import ThemeToggle from "@/components/ui/ThemeToggle";
 import VersionSelector from "@/components/navigation/VersionSelector";
 
+const KANDS = [
+  { slug: "bal-kand", name: "Bal Kand", nameHindi: "बालकाण्ड", available: true },
+  { slug: "ayodhya-kand", name: "Ayodhya Kand", nameHindi: "अयोध्याकाण्ड", available: false },
+  { slug: "aranya-kand", name: "Aranya Kand", nameHindi: "अरण्यकाण्ड", available: false },
+  { slug: "kishkindha-kand", name: "Kishkindha Kand", nameHindi: "किष्किन्धाकाण्ड", available: false },
+  { slug: "sundar-kand", name: "Sundar Kand", nameHindi: "सुन्दरकाण्ड", available: true },
+  { slug: "lanka-kand", name: "Lanka Kand", nameHindi: "लङ्काकाण्ड", available: false },
+  { slug: "uttar-kand", name: "Uttar Kand", nameHindi: "उत्तरकाण्ड", available: false },
+];
+
 export default function Header() {
   return (
     <header className="sticky top-0 z-50 border-b border-[var(--card-border)] bg-[var(--background)]/95 backdrop-blur-sm">
@@ -21,12 +31,7 @@ export default function Header() {
             <Link href="/" className="text-sm text-[var(--muted)] hover:text-[var(--foreground)] transition-colors">
               Home
             </Link>
-            <Link href="/bal-kand" className="text-sm text-[var(--muted)] hover:text-[var(--foreground)] transition-colors">
-              Bal Kand
-            </Link>
-            <Link href="/sundar-kand" className="text-sm text-[var(--muted)] hover:text-[var(--foreground)] transition-colors">
-              Sundar Kand
-            </Link>
+            <KandsDropdown />
             <Link href="/bookmarks" className="text-sm text-[var(--muted)] hover:text-[var(--foreground)] transition-colors">
               Bookmarks
             </Link>
@@ -38,8 +43,6 @@ export default function Header() {
               <VersionSelector />
             </div>
             <ThemeToggle />
-
-            {/* Mobile menu button */}
             <MobileMenu />
           </div>
         </div>
@@ -50,6 +53,43 @@ export default function Header() {
         </div>
       </div>
     </header>
+  );
+}
+
+function KandsDropdown() {
+  return (
+    <div className="relative group">
+      <button className="flex items-center gap-1 text-sm text-[var(--muted)] hover:text-[var(--foreground)] transition-colors">
+        Kands
+        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="transition-transform group-hover:rotate-180">
+          <polyline points="6 9 12 15 18 9" />
+        </svg>
+      </button>
+      <div className="absolute left-1/2 -translate-x-1/2 top-full pt-2 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200">
+        <div className="w-56 rounded-lg border border-[var(--card-border)] bg-[var(--card-bg)] shadow-lg p-2">
+          {KANDS.map((kand) =>
+            kand.available ? (
+              <Link
+                key={kand.slug}
+                href={`/${kand.slug}`}
+                className="flex items-center justify-between px-3 py-2 rounded-md text-sm hover:bg-[var(--verse-bg)] transition-colors"
+              >
+                <span>{kand.name}</span>
+                <span className="font-devanagari text-xs text-[var(--muted)]">{kand.nameHindi}</span>
+              </Link>
+            ) : (
+              <div
+                key={kand.slug}
+                className="flex items-center justify-between px-3 py-2 rounded-md text-sm opacity-40 cursor-default"
+              >
+                <span>{kand.name}</span>
+                <span className="text-xs text-[var(--muted)]">Soon</span>
+              </div>
+            )
+          )}
+        </div>
+      </div>
+    </div>
   );
 }
 
@@ -64,16 +104,33 @@ function MobileMenu() {
             <line x1="3" y1="18" x2="21" y2="18" />
           </svg>
         </summary>
-        <nav className="absolute right-0 top-full mt-2 w-48 rounded-lg border border-[var(--card-border)] bg-[var(--card-bg)] shadow-lg p-2 z-50">
+        <nav className="absolute right-0 top-full mt-2 w-56 rounded-lg border border-[var(--card-border)] bg-[var(--card-bg)] shadow-lg p-2 z-50">
           <Link href="/" className="block px-3 py-2 rounded-md text-sm hover:bg-[var(--verse-bg)] transition-colors">
             Home
           </Link>
-          <Link href="/bal-kand" className="block px-3 py-2 rounded-md text-sm hover:bg-[var(--verse-bg)] transition-colors">
-            Bal Kand
-          </Link>
-          <Link href="/sundar-kand" className="block px-3 py-2 rounded-md text-sm hover:bg-[var(--verse-bg)] transition-colors">
-            Sundar Kand
-          </Link>
+          <div className="my-1 border-t border-[var(--card-border)]" />
+          <p className="px-3 py-1 text-xs font-medium text-[var(--muted)] uppercase tracking-wider">Kands</p>
+          {KANDS.map((kand) =>
+            kand.available ? (
+              <Link
+                key={kand.slug}
+                href={`/${kand.slug}`}
+                className="flex items-center justify-between px-3 py-2 rounded-md text-sm hover:bg-[var(--verse-bg)] transition-colors"
+              >
+                <span>{kand.name}</span>
+                <span className="font-devanagari text-xs text-[var(--muted)]">{kand.nameHindi}</span>
+              </Link>
+            ) : (
+              <div
+                key={kand.slug}
+                className="flex items-center justify-between px-3 py-2 rounded-md text-sm opacity-40 cursor-default"
+              >
+                <span>{kand.name}</span>
+                <span className="text-xs text-[var(--muted)]">Soon</span>
+              </div>
+            )
+          )}
+          <div className="my-1 border-t border-[var(--card-border)]" />
           <Link href="/bookmarks" className="block px-3 py-2 rounded-md text-sm hover:bg-[var(--verse-bg)] transition-colors">
             Bookmarks
           </Link>

@@ -5,12 +5,12 @@ import VersionSelector from "@/components/navigation/VersionSelector";
 
 const KANDS = [
   { slug: "bal-kand", name: "Bal Kand", nameHindi: "बालकाण्ड", available: true },
-  { slug: "ayodhya-kand", name: "Ayodhya Kand", nameHindi: "अयोध्याकाण्ड", available: false },
-  { slug: "aranya-kand", name: "Aranya Kand", nameHindi: "अरण्यकाण्ड", available: false },
-  { slug: "kishkindha-kand", name: "Kishkindha Kand", nameHindi: "किष्किन्धाकाण्ड", available: false },
+  { slug: "ayodhya-kand", name: "Ayodhya Kand", nameHindi: "अयोध्याकाण्ड", available: true },
+  { slug: "aranya-kand", name: "Aranya Kand", nameHindi: "अरण्यकाण्ड", available: true },
+  { slug: "kishkindha-kand", name: "Kishkindha Kand", nameHindi: "किष्किन्धाकाण्ड", available: true },
   { slug: "sundar-kand", name: "Sundar Kand", nameHindi: "सुन्दरकाण्ड", available: true },
-  { slug: "lanka-kand", name: "Lanka Kand", nameHindi: "लङ्काकाण्ड", available: false },
-  { slug: "uttar-kand", name: "Uttar Kand", nameHindi: "उत्तरकाण्ड", available: false },
+  { slug: "lanka-kand", name: "Lanka Kand", nameHindi: "लङ्काकाण्ड", available: true },
+  { slug: "uttar-kand", name: "Uttar Kand", nameHindi: "उत्तरकाण्ड", available: true },
 ];
 
 export default function Header() {

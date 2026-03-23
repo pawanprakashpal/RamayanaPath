@@ -22,7 +22,7 @@ export default function KandCard({ kand }: KandCardProps) {
     <div
       className={`card p-6 h-full flex flex-col ${
         isAvailable
-          ? "hover:border-[var(--accent)] hover:shadow-xl hover:-translate-y-1 hover:scale-[1.02] cursor-pointer transition-all duration-300 ease-out"
+          ? "hover:border-[#fb923c] hover:shadow-xl hover:-translate-y-1 hover:scale-[1.02] cursor-pointer transition-all duration-300 ease-out"
           : "opacity-50"
       }`}
     >

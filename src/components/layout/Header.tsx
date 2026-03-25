@@ -21,7 +21,7 @@ export default function Header() {
         <div className="flex h-16 items-center justify-between">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-3 group">
-            <Image src="/ram-icon.png" alt="Shree Ram" width={32} height={32} className="w-8 h-8 dark:invert dark:brightness-200 dark:sepia dark:hue-rotate-[350deg] dark:saturate-[5]" />
+            <Image src="/ram-icon.png" alt="Shree Ram" width={32} height={32} className="w-8 h-8 ram-icon" />
             <span className="text-xl font-bold text-[var(--accent)] group-hover:text-[var(--accent-hover)] transition-colors">
               {SITE_NAME}
             </span>

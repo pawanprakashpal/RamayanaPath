@@ -10,7 +10,7 @@ export default async function HomePage() {
       {/* Hero */}
       <div className="text-center mb-12">
         <div className="flex justify-center mb-4">
-          <Image src="/ram-icon.png" alt="Shree Ram with bow and arrow" width={80} height={80} className="w-20 h-20 dark:invert dark:brightness-200 dark:sepia dark:hue-rotate-[350deg] dark:saturate-[5]" />
+          <Image src="/ram-icon.png" alt="Shree Ram with bow and arrow" width={80} height={80} className="w-20 h-20 ram-icon" />
         </div>
         <p className="font-devanagari text-lg text-[var(--accent)] mb-2">
           ॥ श्रीरामचरितमानस ॥

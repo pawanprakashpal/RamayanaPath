@@ -1,4 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
   <rect width="64" height="64" rx="14" fill="#f97316"/>
-  <text x="32" y="46" font-family="serif" font-size="38" font-weight="bold" fill="white" text-anchor="middle">Ra</text>
+  <!-- Ram silhouette in white -->
+  <g transform="translate(16, 6) scale(0.55)" fill="white">
+    <circle cx="20" cy="8" r="5.5"/>
+    <path d="M16 4 L20 0 L24 4" fill="white"/>
+    <path d="M17.5 4.5 L20 1.5 L22.5 4.5" fill="white"/>
+    <rect x="18.5" y="13" width="3" height="3" rx="1"/>
+    <path d="M14 16 L26 16 L27 35 L20 38 L13 35 Z"/>
+    <path d="M14 17 L4 28 L5 29 L14 20"/>
+    <path d="M26 17 L34 22 L33 23 L26 20"/>
+    <path d="M2 18 Q-2 28 4 38" stroke="white" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <line x1="2" y1="18" x2="4" y2="38" stroke="white" stroke-width="1.2"/>
+    <line x1="4" y1="28" x2="38" y2="20" stroke="white" stroke-width="2" stroke-linecap="round"/>
+    <path d="M38 20 L35 17 L39 19 Z"/>
+    <path d="M16 35 L14 52 L17 52 L19 38"/>
+    <path d="M24 35 L26 52 L23 52 L21 38"/>
+    <ellipse cx="15" cy="53" rx="3" ry="1.5"/>
+    <ellipse cx="25" cy="53" rx="3" ry="1.5"/>
+  </g>
 </svg>

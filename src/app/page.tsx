@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { getAvailableKands } from "@/lib/data";
 import KandCard from "@/components/home/KandCard";
 
@@ -8,6 +9,9 @@ export default async function HomePage() {
     <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-12">
       {/* Hero */}
       <div className="text-center mb-12">
+        <div className="flex justify-center mb-4">
+          <Image src="/ram-icon.png" alt="Shree Ram with bow and arrow" width={80} height={80} className="w-20 h-20 dark:invert dark:brightness-200 dark:sepia dark:hue-rotate-[350deg] dark:saturate-[5]" />
+        </div>
         <p className="font-devanagari text-lg text-[var(--accent)] mb-2">
           ॥ श्रीरामचरितमानस ॥
         </p>

@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { SITE_NAME } from "@/lib/constants";
 import ThemeToggle from "@/components/ui/ThemeToggle";
 import VersionSelector from "@/components/navigation/VersionSelector";
@@ -20,7 +21,7 @@ export default function Header() {
         <div className="flex h-16 items-center justify-between">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-3 group">
-            <span className="text-2xl" aria-hidden="true">🙏</span>
+            <Image src="/ram-icon.png" alt="Shree Ram" width={32} height={32} className="w-8 h-8 dark:invert dark:brightness-200 dark:sepia dark:hue-rotate-[350deg] dark:saturate-[5]" />
             <span className="text-xl font-bold text-[var(--accent)] group-hover:text-[var(--accent-hover)] transition-colors">
               {SITE_NAME}
             </span>

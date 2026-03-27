@@ -1,5 +1,4 @@
 import Link from "next/link";
-import Image from "next/image";
 import { SITE_NAME } from "@/lib/constants";
 import ThemeToggle from "@/components/ui/ThemeToggle";
 import VersionSelector from "@/components/navigation/VersionSelector";
@@ -21,7 +20,10 @@ export default function Header() {
         <div className="flex h-16 items-center justify-between">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-3 group">
-            <Image src="/ram-icon.png" alt="Shree Ram" width={32} height={32} className="w-8 h-8 ram-icon" />
+            <div className="w-9 h-9 rounded-full bg-[#f97316] dark:bg-[#f97316] p-1.5 flex items-center justify-center">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src="/ram-icon.png" alt="Shree Ram" width="24" height="24" className="w-6 h-6" />
+            </div>
             <span className="text-xl font-bold text-[var(--accent)] group-hover:text-[var(--accent-hover)] transition-colors">
               {SITE_NAME}
             </span>

@@ -150,11 +150,7 @@ body {
   background: var(--accent);
 }
 
-/* Ram icon: colorize black silhouette to saffron (#f97316) */
-.ram-icon {
-  filter: brightness(0) saturate(100%) invert(50%) sepia(95%) saturate(1500%) hue-rotate(360deg) brightness(98%) contrast(95%);
+.ram-icon-img {
+  filter: invert(1) !important;
 }
 
-.dark .ram-icon {
-  filter: brightness(0) saturate(100%) invert(75%) sepia(60%) saturate(1200%) hue-rotate(360deg) brightness(105%) contrast(90%);
-}

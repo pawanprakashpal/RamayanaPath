@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { getAvailableKands } from "@/lib/data";
 import KandCard from "@/components/home/KandCard";
 
@@ -10,7 +9,10 @@ export default async function HomePage() {
       {/* Hero */}
       <div className="text-center mb-12">
         <div className="flex justify-center mb-4">
-          <Image src="/ram-icon.png" alt="Shree Ram with bow and arrow" width={80} height={80} className="w-20 h-20 ram-icon" />
+          <div className="w-24 h-24 rounded-full bg-[#f97316] dark:bg-[#f97316] p-4 flex items-center justify-center">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img src="/ram-icon.png" alt="Shree Ram with bow and arrow" width="64" height="64" className="w-16 h-16" />
+          </div>
         </div>
         <p className="font-devanagari text-lg text-[var(--accent)] mb-2">
           ॥ श्रीरामचरितमानस ॥

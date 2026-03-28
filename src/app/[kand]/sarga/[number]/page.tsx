@@ -47,7 +47,28 @@ export default async function SargaPage({ params }: SargaPageProps) {
     getValmikiTotalSargas(kandSlug),
   ]);
 
-  if (!sarga || !kand) notFound();
+  if (!kand) notFound();
+
+  if (!sarga) {
+    return (
+      <div className="text-center py-16">
+        <p className="text-sm text-[var(--muted)] mb-2">{kand.valmiki.name}</p>
+        <h1 className="text-2xl font-bold mb-4">Sarga {sargaNumber}</h1>
+        <div className="card max-w-md mx-auto p-8">
+          <p className="text-4xl mb-4">🙏</p>
+          <h2 className="text-lg font-semibold mb-2">Coming Soon</h2>
+          <p className="text-[var(--muted)] text-sm">
+            The Valmiki Ramayana translation is being prepared. Currently, the complete
+            Tulsidas Ramcharitmanas with all 5,809 verses is available.
+          </p>
+          <p className="text-[var(--muted)] text-sm mt-3">
+            Switch to <span className="font-medium text-[var(--accent)]">Tulsidas</span> version
+            using the toggle above to read this Kand.
+          </p>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div>

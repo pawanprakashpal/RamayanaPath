@@ -1,0 +1,360 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 15,
+    "title": "Hanuman sees Sita.",
+    "titleSanskrit": "",
+    "totalShlokas": 38
+  },
+  "shlokas": [
+    {
+      "id": "vs-15-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "स वीक्षमाणस्तत्रस्थो मार्गमाणश्च मैथिलीम्।\nअवेक्षमाणश्च महीं सर्वां तामन्ववैक्षत।।5.15.1।।",
+      "transliteration": "",
+      "translation": "Hanuman looked out from the simsupa tree all around for Mythili scanning the ground below.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "सन्तानकलताभिश्च पादपैरुपशोभिताम्।\nदिव्यगन्धरसोपेतां सर्वतस्समलङ्कृताम्।।5.15.2।।\nतां स नन्दनसङ्काशां मृग��क्षिभिरावृताम्।\nहर्म्यप्रासादसम्बाधां कोकिलाकुलनिस्स्वनाम्।।5.15.3।।\nकाञ्चनोत्पलपद्माभिर्वापीभिरुपशोभिताम्।\nबह्वासनकुथोपेतां बहुभूमिगृहायुताम्।।5.15.4।।\nसर्वर्तुकुसुमै रम्यां फलवद्भिश्च पादपैः।\nपुष्पितानामशोकानां श्रिया सूर्योदयप्रभाम्।।5.15.5।।\nप्रदीप्तामिव तत्रस्थो मारुतिस्समुदैक्षत।\nनिष्पत्रशाखां विहगैः क्रियमाणामिवासकृत्।।5.15.6।।\nविनिष्पतद्भिः शतशश्चित्रैः पुष्पावतंसकैः।\nआमूलपुष्पनिचितैरशोकैश्शोकनाशनैः।।5.15.7।।\nपुष्पभारातिभारैश्च स्पृशद्भिरिव मेदिनीम्।\nकर्णिकारैः कुसुमितैः किंशुकैश्च सुपुष्पितैः।।5.15.8।।",
+      "transliteration": "",
+      "translation": "Hanuman surveyed from the Simsupa tree the Ashoka grove of trees full of fine fragrance. It looked welldecorated  like the Nandana garden of Indra. It teemed with animals and birds. It was filled with the voices of the cuckoos. It had tall mansions and underground chamber. There were golden lilies and lotuses in the lakes, enchanting couches with rich coverings and trees full of blossoms of all seasons and fruits in abundance With the  Ashoka tree shedding showers of flowers from time to time the place shone with the splendour of Sunrise. It glittered like inflamed fire. The Ashoka tree had  hundreds of colourful birds on the branches. It appeared as if it had branches without leaves which made them look like earornaments (of the grove). Ashoka flowers in bloom hung down to the base of the tree as if to take away the grief of the onlookers. The blossoms of the Karnikara and kimsuka brightened the whole  grove.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "स देशः प्रभया तेषां प्रदीप्त इव सर्वतः।\nपुन्नागास्सप्तपर्णाश्च चम्पकोद्दालकास्तथा।।5.15.9।।\nविवृद्धमूला बहवश्शोभन्ते स्म सुपुष्पिताः।",
+      "transliteration": "",
+      "translation": "The grove shone bright as if it were inflamed fire with beautiful trees like purnaga, saptaparna, champak and uddalaka in full bloom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "शातकुम्भनिभाः केचित्केचिदग्निशिखोपमाः।।5.15.10।।\nनीलाञ्जननिभाः केचित्तत्राशोकास्सहस्रशः।",
+      "transliteration": "",
+      "translation": "There were thousands of ashoka trees some of which shone like gold, others like the flames of fire and some dark as collyrium.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "नन्दनं विविधोद्यानं चित्रं चैत्ररथं यथा।।5.15.11।।\nअतिवृत्तमिवाचिन्त्यं दिव्यं रम्यं श्रिया वृतम्।\nवितीयमिव चाकाशं पुष��पज्योतिर्गणायुतम्।।5.15.12।।\nपुष्परत्नशतैश्चित्रं द्वितीयं सागरं यथा।\nसर्वर्तुपुष्पैर्निचितं पादपैर्मधुगन्धिभिः।।5.15.13।।\nनानानिनादैरुद्यानं रम्यं मृगगणैर्द्विजैः।\nअनेकगन्धप्रवहं पुण्यगन्धं मनोरमम्।।5.15.14।।",
+      "transliteration": "",
+      "translation": "The grove with different types of gardens spread over looked like the Nandana garden of Indra and Chaitraratha garden of Kubera. It surpassed every other garden. It was unimaginable in splendour. It was divine and delightful filled with the radiance of countless varieties of blossoms shining like stars, like a second firmament. It was like another ocean filled with precious gems of flowers. It had trees with flowers of honeyscented fragrance. Sounds of animals and birds filled the air. It was pleasing to the heart with various divine fragrances wafted (by the breeze)৷৷",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "शैलेन्द्रमिव गन्धाढ्यं द्वितीयं गन्धमादनम्।\nअशोकवनिकायां तु तस्यां वानरपुङ्गवः।।5.15.15।।\nस ददर्शाविदूरस्थं चैत्यप्रासादमुच्छ्रितम्।\nमथ्ये स्तम्भसहस्रेण स्थितं कैलासपाण्डुरम्।।5.15.16।।\nप्रवालकृतसोपानं तप्तकाञ्चनवेदिकम्।\nमुष्णन्तमिव चक्षूंषि द्योतमानमिव श्रिया।।5.15.17।।\nविमलं प्रांशुभावत्वादुल्लिखन्तमिवाम्बरम्।",
+      "transliteration": "",
+      "translation": "The monkey leader saw a lofty templelike structure in the midst of the Ashoka grove which was highly fragrant and appeared like another indescribable structure that stood on a thousand pillars like another Gandhamadana mountain. It gleamed white like mount Kailasa. Its stairs were paved with corals. The altars were made of brightly polished gold. This structure glowing with brilliance was as if stealing the eyes. It looked white with light and lofty as though scratching the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "ततो मलिनसंवीतां राक्षसीभिस्समावृताम्।।5.15.18।।\nउपवासकृशां दीनां निश्श्वसन्तीं पुनः पुनः।\nददर्श शुक्लपक्षादौ चन्द्ररेखामिवामलाम्।।5.15.19।।",
+      "transliteration": "",
+      "translation": "Then he beheld a lady surrounded by female demons. Clad in soiled clothes she looked dejected, emaciated through fasting and was sighing repeatedly. She appeared thin and pale like the crescent Moon at the beginning of the bright fortnight.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "मन्दप्रख्यायमानेन रूपेण रुचिरप्रभाम्।\nपिनद्धां धूमजालेन शिखामिव विभावसोः।।5.15.20।।",
+      "transliteration": "",
+      "translation": "Her form was faintly recognisable. She had a lovely radiance on account of her beautiful form. She looked like the tip of burning fire engulfed in a cloud of smoke.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "पीतेनैकेन संवीतां क्लिष्टेनोत्तमवाससा।\nसपङ्कामनलङ्कारां विपद्मामिव पद्मिनीम्।।5.15.21।।",
+      "transliteration": "",
+      "translation": "She was wearing an excellent single yellow cloth which was soiled. Unadorned, she looked like a muddy lotuspond bereft of lotuses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "व्रीडितां दुःखसन्तप्तां परिम्लानां तपस्विनीम्।\nग्रहेणाङ्गारकेणेव पीडितामिव रोहिणीम्।।5.15.22।।",
+      "transliteration": "",
+      "translation": "She was bashful, tormented with agony, dejected with a withered look. She appeared like the star Rohini oppressed by planet Mars.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "अश्रुपूर्णमुखीं दीनां कृशामनशनेन च।\nशोकध्यानपरां दीनां नित्यं दुःखपरायणाम्।।5.15.23।।",
+      "transliteration": "",
+      "translation": "Her face was filled with tears. She looked dejected and emaciated due to fasting. Always plunged in grief, she looked like one meditating in tears.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "प्रियं जनमपश्यन्तीं पश्यन्तीं राक्षसीगणम्।\nस्वगणेन मृगीं हीनां श्वगणाभिवृतामिव।।5.15.24।।",
+      "transliteration": "",
+      "translation": "Unable to see her dear kith and kin, she sat guarded by ogresses. She appeared like a doe separated from the herd and encircled by a pack of hounds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "नीलनागाभया वेण्या जघनं गतयैकया।\nनीलया नीरदापाये वनराज्या महीमिव।।5.15.25।।\nसुखार्हां दुःखसन्तप्तां व्यसनानामकोविदाम्।",
+      "transliteration": "",
+      "translation": "She (from behind) appeared like the earth covered with a range of trees at the end of rainy season with her single long black braid touching her hips looking like a black serpent. She who deserved to be happy and had not experienced worries was burning in grief. (एकवेणी is a trait of a प्रोषितभर्तृका Sita who was forced to stay in Lanka was a प्रोषितभर्तृका नायिका.)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तां समीक्ष्य विशालाक्षीमधिकं मलिनां कृशाम्।।5.15.26।।\nतर्कयामास सीतेति कारणैरुपपादिभिः।",
+      "transliteration": "",
+      "translation": "After seeing the largeeyed lady worn out and dressed in soiled clothes, Hanuman started deliberating in himself and guessed it was Sita for strong reasons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "ह्रियमाणा तदा तेन रक्षसा कामरूपिणा।।5.15.27।।\nयथारूपा हि दृष्टा वै तथारूपेयमङ्गना।",
+      "transliteration": "",
+      "translation": "Beholding the form of the largeeyed lady, Hanuman guessed, 'This is similar to the form seen while the demon was kidnapping her'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "पूर्णचन्द्राननां सुभ्रूं चारुवृत्तपयोधराम्।।5.15.28।।\nकुर्वतीं प्रभयादेवीं सर्वा वितिमिरा दिशः।\nतां नीलकेशीं बिम्बोष्ठीं सुमध्यां सुप्रतिष्ठिताम्।।5.15.29।।\nसीतां पद्मपलाशाक्षीं मन्मथस्य रतिं यथा।",
+      "transliteration": "",
+      "translation": "Her face resembled the fullmoon which dispelled the encircling gloom by its radiance. She had a slender waist, beautiful round breasts, shapely eyebrows, red lips, dark hair, and eyes like lotus petals with attractive limbs. She was comparable to Rati, consort of Cupid.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "इष्टां सर्वस्य जगतः पूर्णचन्द्रप्रभामिव।।5.15.30।।\nभूमौ सुतनुमासीनां नियतामिव तापसीम्।",
+      "transliteration": "",
+      "translation": "Just as the radiance of the full moon is cherished by all, this lady was liked by every one in this world. With her lovely figure she was seated on the ground like an austere ascetic.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "निःश्वासबहुलां भीरुं भुजगेन्द्रवधूमिव।।5.15.31।।\nशोकजालेन महता विततेन न राजतीम्।",
+      "transliteration": "",
+      "translation": "The timid lady was hissing (sighing) like the consort of the serpent king, who being caught in a widespread cobweb of grief was looking gloomy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "संसक्तां धूमजालेन शिखामिव विभावसोः।।5.15.32।।\nतां स्मृतीमिव सन्दिग्धामृद्धिं निपतितामिव।",
+      "transliteration": "",
+      "translation": "She was like the flames of fire obscured by smoke. She appeared like the text of Smriti of doubtful meaning, a treasure that has been thrown away",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "विहतामिव च श्रद्धामाशां प्रतिहतामिव।।5.15.33।।\nसोपसर्गां यथा सिद्धिं बुद्धिं सकलुषामिव।",
+      "transliteration": "",
+      "translation": "She was like faith shattered, hope frustrated, desires blocked by obstacles, success vitiated, fame marred and intellect blurred.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "अभूतेनापवादेन कीर्तिं निपतितामिव।।5.15.34।।\nरामोपरोधव्यथितां रक्षोहरणकर्शिताम्।",
+      "transliteration": "",
+      "translation": "She appeared like fame besmirched by false allegation. She was pained by the obstruction to meet Rama and emaciated by  abduction.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "अबलां मृगशाबाक्षीं वीक्षमाणां ततस्ततः।।5.15.35।।\nबाष्पाम्बुपरिपूर्णेन कृष्णवक्राक्षिपक्ष्मणा।\nवदनेनाप्रसन्नेन निःश्वसन्तीं पुनः पुनः।।5.15.36।।",
+      "transliteration": "",
+      "translation": "The fawneyed lady was looking here and there with her dark, curved eyelashes. Her unhappy face was streaming with tears.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "मलपङ्कधरां दीनां मण्डनार्हाममण्डिताम्।\nप्रभां नक्षत्रराजस्य कालमेघैरिवावृताम्।।5.15.37।।",
+      "transliteration": "",
+      "translation": "Covered with dirt and mud and shorn of adornments even though she deserved them, she looked wretched like the radiance of the Moon muffled by dark clouds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "तस्य संदिदिहे बुद्धिर्मुहुः सीतां निरीक्ष्य तु।\nआम्नायानामयोगेन विद्यां प्रशिथिलामिव।।5.15.38।।",
+      "transliteration": "",
+      "translation": "Hanuman did recognise Sita after looking at her carefully again and again even as one is able to make out knowledge of shastriclore forgotten with lapse of time and lack of practice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "दुःखेन बुब��धे सीतां हनुमाननलङ्कृताम्।\nसंस्कारेण यथा हीनां वाचमर्थान्तरं गताम्।।5.15.39।।",
+      "transliteration": "",
+      "translation": "Just as an unclear expression which has undergone certain changes in meaning due to lack of usage over a long period is understood by virtue of previous practice so also Hanuman had difficulty in recognising Sita who was devoid of any decoration.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "तां समीक्षय विशालाक्षीं राजपुत्रीमनिन्दिताम्।\nतर्कयामास सीतेति कारणैरुपपादिभिः।।5.15.40।।",
+      "transliteration": "",
+      "translation": "After close observation of different signs and deliberation with reasons he came to the conclusion that the largeeyed lady is the same blameless princess Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "वैदेह्या यानि चाङ्गेषु तदा रामोऽन्वकीर्तयत्।\nतान्याभरणजालानि गात्रशोभीन्यलक्षयत्।।5.15.41।।\nसुकृतौ कर्णवेष्टौ च श्वदंष्ट्रौ च सुसंस्थितौ।\nमणिविद्रुमचित्राणि हस्तेष्वाभरणानि च।।5.15.42।।\nश्यामानि चिरयुक्तत्वात्तथा संस्थानवन्ति च।",
+      "transliteration": "",
+      "translation": "Hanuman observed the ornaments worn by Vaidehi adding grace to her limbs which Rama had described.They were wellcrafted earrings and wellfit Savdamshtras. He  noticed wonderful, variegated ornaments of corals and gems as well as those worn on hands. They were blackened for long wear and Sita had marks of wearing them on her body. (Note: This is a pair ornaments shaped like dog's teeth. It is not known on which part of the body they were worn).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "तान्यैवेतानि मन्येऽहं यानि रामोऽन्वकीर्तयत्।।5.15.43।।\nतत्र यान्यवहीनानि तान्यहं नोपलक्षये।\nयान्यस्या नावहीनानि तानीमानि न संशयः।।5.15.44।।",
+      "transliteration": "",
+      "translation": "\"I think these ornaments are the same that were described by Rama. Those dropped (by Sita) are not found on her body. These were not dropped.There is no doubt.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "पीतं कनकपट्टाभं स्रस्तं तद्वसनं शुभम्।\nउत्तरीयं नगासक्तं तदा दृष्टं प्लवङ्गमैः।।5.15.45।।",
+      "transliteration": "",
+      "translation": "\"The shining yellow upper garment like a golden cloth was torn. Flung down, it stuck to a tree which the monkeys noticed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "भूषणानि च मुख्यानि दृष्टानि धरणीतले।\nअनयैवापविद्धानि स्वनवन्ति महान्ति च।।5.15.46।।",
+      "transliteration": "",
+      "translation": "\"The jingling, choice ornaments were thrown down on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "इदं चिरगृहीतत्वाद्वसनं क्लिष्टवत्तरम्।\nतथाऽपि नूनं तद्वर्णं तथा श्रीमद्यथेतरत्।।5.15.47।।",
+      "transliteration": "",
+      "translation": "\"This cloth worn long is crumpled. Even then it has retained its shine and looks fresh.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "इयं कनकवर्णाङ्गी रामस्य महिषी प्रिया।\nप्रणष्टापि सती याऽस्य मनसो न प्रणश्यति।।5.15.48।।",
+      "transliteration": "",
+      "translation": "\"This lady of golden complexion is Rama's beloved queen who does not disappear from his mind, although away.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "इयं सा यत्कृते रामश्चतुर्भिः परितप्यते।\nकारुण्येनानृशंस्येन शोकेन मदनेन च।।5.15.49।।\nस्त्री प्रणष्टेति कारुण्यादाश्रितेत्यानृशंस्यतः।\nपत्नी नष्टेति शोकेन प्रियेति मदनेन च।।5.15.50।।",
+      "transliteration": "",
+      "translation": "\"She is that same lady for whom Rama has been passing through compassion, benevolence, grief and passion. He is compassionate considering her a woman, kind and benevolent since she is his dependent, stricken with grief for losing a wife and passionate since she is his beloved.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "अस्या देव्या यथा रूपमङ्गप्रत्यङ्गसौष्ठवम्।\nरामस्य च यथा रूपं तस्येयमसितेक्षणा।।5.15.51।।",
+      "transliteration": "",
+      "translation": "\"This blackeyed Sita and her divine,  charming body with perfect limbs are a match for Rama's figure.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "अस्या देव्या मनस्तस्मिंस्तस्य चास्यां प्रतिष्ठितम्।\nतेनेयं स च धर्मात्मा मुहूर्तमपि जीवति।।5.15.52।।",
+      "transliteration": "",
+      "translation": "\"The divine queen's mind is firmly fixed on Rama and his mind, fixed on her. For this reason she and the righteous self (Rama) are able to survive till this moment.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "दुष्करं कृतवान्रामो हीनो यदनया प्रभुः।\nधारयत्यात्मनो देहं न शोकेनावसीदति।।5.15.53।।",
+      "transliteration": "",
+      "translation": "\"Lord Rama had accomplished a difficult task in sustaining the body this way without allowing it to sink and perish during separation from her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "दुष्करं कुरुते रामो य इमां मत्तकाशिनीम्।\nसीतां विना महाबाहुर्मुहूर्तमपि जीवति।।5.15.54।।",
+      "transliteration": "",
+      "translation": "\"Rama, the strongarmed hero has accomplished a difficult task by surviving even for a moment without this Sita who has intoxicating lustre\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-15-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "एवं सीतां तदा दृष्ट्वा हृष्टः पवनसम्भवः।\nजगाम मनसा रामं प्रशशंस च तं प्रभुम्।।5.15.55।।",
+      "transliteration": "",
+      "translation": "On seeing Sita, the son of the Windgod, felt glad at heart and mentally reached Rama the lord of the world. Hanuman was full of praise for Rama. इत्यार्षे  श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे पञ्चदशस्सर्गः। Thus ends the fifteenth sarga in Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

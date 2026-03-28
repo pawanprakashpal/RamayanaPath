@@ -1,0 +1,792 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 35,
+    "title": "Hanuman further narrates his story to Sita -- Gives description of Rama and Lakshmana",
+    "titleSanskrit": "",
+    "totalShlokas": 86
+  },
+  "shlokas": [
+    {
+      "id": "vs-35-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तां तु रामकथां श्रुत्वा वैदेही वानरर्षभात्।\nउवाच वचनं सान्त्वमिदं मधुरया गिरा।।5.35.1।।",
+      "transliteration": "",
+      "translation": "On hearing about Rama from the bull among vanaras, thus spoke Vaidehi politely in a sweet voice:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "क्व ते रामेण संसर्गः कथं जानासि ल��्ष्मणम्।\nवानराणां नराणां च कथमासीत्समागमः।।5.35.2।।",
+      "transliteration": "",
+      "translation": "\"Where did you come in contact with Rama? How did you assess Lakshmana? How did an alliance of vanaras and humans take place?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "यानि रामस्य लिङ्गानि लक्ष्मणस्य च वानर।\nतानि भूयस्समाचक्ष्व न मां शोकस्समाविशेत्।।5.35.3।।",
+      "transliteration": "",
+      "translation": "\"O vanara tell me all about the identification marks of Rama and Lakshmana again so that grief does not enter my mind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "कीदृशं तस्य संस्थानं रूपं रामस्य कीदृशम्।\nकथमूरू कथं बाहू लक्ष्मणस्य च शंस मे।।5.35.4।।",
+      "transliteration": "",
+      "translation": "\"What does Rama look like? And Laksmana? How are his thighs, arms? Tell me\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु वैदेह्या हनुमान्मारुतात्मजः।\nततो रामं यथातत्त्वमाख्यातुमुपचक्रमे।।5.35.5।।",
+      "transliteration": "",
+      "translation": "Questioned thus by Vaidehi, Hanuman, son of the Windgod started describing Rama's physique as it is.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "जानन्ती बत दिष्ट्या मां वैदेहि परिपृच्छसि।\nभर्तुः कमलपत्त्राक्षि संस्थानं लक्ष्मणस्य च।।5.35.6।।",
+      "transliteration": "",
+      "translation": "\"O Vaidehi with eyes like lotus petals although you know your husband's and Lakshmana's form and distinguishing marks, it is my good fortune that you asked me  (to describe them).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "यानि रामस्य चिह्नानि लक्ष्मणस्य च यानि वै।\nलक्षितानि विशालाक्षि वदतश्शृणु तानि मे।।5.35.7।।",
+      "transliteration": "",
+      "translation": "\"O largeeyed lady I will describe those distinguishing marks of Rama and Lakshmana Listen.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "रामः कमलपत्त्राक्ष स्सर्वसत्त्वमनोहरः।\nरूपदाक्षिण्यसम्पन्नः प्रसूतो जनकात्मजे।।5.35.8।।",
+      "transliteration": "",
+      "translation": "\"O daughter of Janaka Rama with eyes like lotus petals is a person born with a delightful form, richly endowed with indescribable charm and politeness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तेजसाऽदित्य सङ्काशः क्षमया पृथिवीसमः।\nबृहस्पतिसमो बुद्ध्या यशसा वासवोपमः।।5.35.9।।",
+      "transliteration": "",
+      "translation": "\"He vies with the Sun in effulgence, with earth in forbearance, with Brihaspati in intelligence, and in fame with Indra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "रक्षिता जीवलोकस्य स्वजनस्याभिरक्षिता।\nरक्षिता स्वस्य वृत्तस्य धर्मस्य च परन्तपः।।5.35.10।।",
+      "transliteration": "",
+      "translation": "\"Rama is a protector of the entire world of living beings not to speak of his own people. He is a protector of his own race. He guards righteousness. He is a scorcher of enemies.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "रामो भामिनि लोकस्य चातुर्वर्ण्यस्य रक्षिता।\nमर्यादानां च लोकस्य कर्ता कारयिता च सः।।5.35.11।।",
+      "transliteration": "",
+      "translation": "\"O beautiful lady Rama is a protector of the four classes of society (Brahmana, Kshatriya, Vaisya and Sudra) in the world. He follows codes of conduct and makes others follow them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अर्चिष्मानर्चितोऽत्यर्थं ब्रह्मचर्यव्रते स्थितः।\nसाधूनामुपकारज्ञः प्रचारज्ञश्च कर्मणाम्।।5.35.12।।",
+      "transliteration": "",
+      "translation": "\"He is luminous and highly revered. He observes vow of selfcontrol. He is steadfast and recognises services rendered by sages. He is aware of the rites and the ways of administration.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "राजविद्याविनीतश्च ब्राह्मणानामुपासिता।\nश्रुतवान्शीलसम्पन्नो विनीतश्च परन्तपः।।5.35.13।।",
+      "transliteration": "",
+      "translation": "\"He is welltrained in statecraft. He is devoted to brahmins. Endowed with an excellent conduct, he is learned in scriptures and a scorcher of enemies.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "यजुर्वेदविनीतश्च वेदविद्भिस्सुपूजितः।\nधनुर्वेदे च वेदेषु वेदाङ्गेषु च निष्ठितः।।5.35.14।।",
+      "transliteration": "",
+      "translation": "\"He is versed in Yajurveda and is respected by Vedic scholars. He has mastered Dhanurveda and other Vedas and auxillary Vedas as well.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "विपुलांसो महाबाहुः कम्बुग्रीवश्शुभाननः।\nगूढजत्रुस्सुताम्राक्षो रामो देवि जनै श्श्रुतः।।5.35.15।।",
+      "transliteration": "",
+      "translation": "\"O godlike lady Rama has broad shoulders, strong arms, conchshaped neck and an auspicious countenance. With his fleshy round arms and copperyred eyes, he is renowned in all the worlds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "दुन्दुभिस्वननिर्घोष स्स्निग्धवर्णः प्रतापवान्।\nसम स्समविभक्ताङ्गो वर्णं श्यामं समाश्रितः।।5.35.16।।",
+      "transliteration": "",
+      "translation": "\"His tone is resonant like drums, he has a beautiful, dark, shining complexion. He has symmetrical, well proportioned limbs. He is neither too tall nor too short.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "त्रिस्थिरस्त्रिप्रलम्बश्च त्रिसमस्त्रिषु चोन्नतः।\nत्रिताम्रस्त्रिषु च स्निग्धो गम्भीरस्त्रिषु नित्यशः।।5.35.17।।",
+      "transliteration": "",
+      "translation": "\"He has three stiff parts, three long parts, three even parts, three shining parts, elevated in three parts, has three raised parts, his body has lines in three parts and is  of coppery reddish colour in three parts. He has a majestic look.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "त्रिवलीवांस्त्र्यवनतश्चतुर्व्यङ्गस्त्रिशीर्षवान्।\nचतुष्कलश्चतुर्लेखश्चतुष्किष्कुश्चतु स्समः।।5.35.18।।",
+      "transliteration": "",
+      "translation": "\"He has three folds in the skin of his neck and belly, is depressed in the middle of his soles and the nipples, undersized at four placesthe neck, penis, shanks and back, has three spirals on his head, has four lines under his thumb, has four lines on his forehead, he is a person with four cubits in height and symmetrical arms, cheeks and thighs.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "चतुर्दशसमद्वन्द्वश्चतुर्दंष्ट्रश्चतुर्गतिः।\nमहोष्ठहनु��ासश्च पञ्चस्निग्धोऽष्टवंशवान्।।5.35.19।।",
+      "transliteration": "",
+      "translation": "\"He is a person with his pairs of eyebrows, nostrils, eyes, ears, lips, nipples, elbows, wrists, knees, testicles, loins, arms, legs and buttocks in good symmetry he has four sharp teeth. He walks in different gaits like a lion, leopard, elephant and bull as occasion demands he has sharp nose, charming lips and jaws. He has smooth hair, eyes, skin, teeth and feet and his eight parts of his body namely back, trunk, limbs, fingers, toes, eyes and testicles are long.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "दशपद्मो दशबृहत्त्रिभिर्व्याप्तो द्विशुक्लवान्।\nषडुन्नतो नवतनुस्त्रिभिर्व्याप्नोति राघवः।।5.35.20।।",
+      "transliteration": "",
+      "translation": "\"Ten limbs of the body resemble lotuses. He has proportionate limbs. He is known by the virtue of his spledour, fame and glory. Both his teeth and eyes are fair. Six parts of his body are elevated, nine parts of his body are fine and sharp. He pursues spiritual merit, worldly comfort and sensual delight in three periods of the dayforenoon, midday and evening. He always adopts the righteous way of life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "सत्यधर्मपरश्श्रीमान् सङ्ग्रहानुग्रहे रतः।\nदेशकालविभागज्ञस्सर्वलोकप्रियंवदः।।5.35.21।।",
+      "transliteration": "",
+      "translation": "\"He is ever established in truth and righteousness. He is prosperous and desires to accumulate wealth in order to shower favour on others. He knows the right use of time and place in discharging his duties. He has endeared himself to all by his words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "भ्राता तस्य च द्वैमात्रस्सौमित्रिरपराजितः।\nअनुरागेण रूपेण गुणैश्चैव तथाविधः।।5.35.22।।",
+      "transliteration": "",
+      "translation": "\"His invincible brother Saumitri born of a different mother is a replica of Rama in affection, charm and virtues.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तावुभौ नरशार्दूलौ त्वद्दर्शनसमुत्सुकौ।\nविचिन्वन्तौ महीं कृत्स्नामस्माभिरभिसङ्गतौ।।5.35.23।।",
+      "transliteration": "",
+      "translation": "\"While earnestly searching for you all over the earth both tigers among men came in contact with us.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "त्वामेव मार्गमाणौ तौ विचरन्तौ वसुन्धराम्।\nददर्शतुर्मृगपतिं पूर्वजेनावरोपितम्।।5.35.24।।\nऋश्यमूकस्य पृष्ठे तु बहुपादपसङ्कुले।\nभ्रातुर्भयार्तमासीनं सुग्रीवं प्रियदर्शनम्।।5.35.25।।",
+      "transliteration": "",
+      "translation": "\"While both of them were wandering, searching for you all over the earth they saw Sugriva, the lord of animals who had been thrown out of kingship by his elder brother and was living on the mountain Rshyamuka frightened of him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "वयं तु हरिराजं तं सुग्रीवं सत्यसङ्गरम्।\nपरिचर्यामहे राज्यात्पूर्वजेनावरोपितम्।।5.35.26।।",
+      "transliteration": "",
+      "translation": "\"Sugriva, king of vanaras who is committed to defend truth has been deposed from the kingdom by his elder brother. We keep attending on him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "ततस्तौ चीरवसनौ धनुः प्रवरपाणिनौ।\nऋश्यमूकस्य शैलस्य रम्यं देशमुपागतौ।।5.35.27।।",
+      "transliteration": "",
+      "translation": "\"Both the princes clad in bark robes and armed with powerful bows reached the beautiful location of Rshyamukha mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "स तौ दृष्ट्वा नरव्याघ्रौ धन्विनौ वानरर्षभः।\nअवप्लुतो गिरेस्तस्य शिखरं भयमोहितः।।5.35.28।।",
+      "transliteration": "",
+      "translation": "\"On seeing the tigers among men armed with bows, Sugriva, the bull among vanaras jumped from the mountain deluded with fear and reached the peak.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "ततस्स शिखरे तस्मिन्वानरेन्द्रो व्यवस्थितः।\nतयोस्समीपं मामेव प्रेषयामास सत्वरम्।।5.35.29।।",
+      "transliteration": "",
+      "translation": "\"Thereafter the lord of vanaras staying on the mountain top quickly sent me to meet both of them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "तावहं पुरुषव्याघ्रौ सुग्रीववचनात्प्रभू।\nरूपलक्षणसम्पन्नौ कृताञ्जलिरुपस्थितः।।5.35.30।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "तौ परिज्ञाततत्त्वार्थौ मया प्रीतिसमन्वितौ।\nपृष्ठमारोप्य तं देशं प्रापितौ पुरुषर्षभौ।।5.35.31।।",
+      "transliteration": "",
+      "translation": "\"I recognised the true status of  both the mighty men who were filled with joy, placed them on my back, and reached the mountaintop.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "निवेदितौ च तत्त्वेन सुग्रीवाय महात्मने।\nतयोरन्योन्यसल्लापाद्भृशं प्रीतिरजायत।।5.35.32।।",
+      "transliteration": "",
+      "translation": "\"I reported faithfully about both the highsouled men to Sugriva. As they got to know each other through conversation a fast friendship developed between them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "ततस्तौ प्रीतिसम्पन्नौ हरीश्वरनरेश्वरौ।\nपरस्परकृताश्वासौ कथया पूर्ववृत्तया।।5.35.33।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "ततस्स सान्त्वयामास सुग्रीवं लक्ष्मणाग्रजः।\nस्त्रीहेतोर्वालिना भ्रात्रा निरस्तमुरुतेजसा।।5.35.34।।",
+      "transliteration": "",
+      "translation": "\"Then Rama, consoled Sugriva who was dethroned and abandoned on acount of a woman by his brother Vali, endowed with great prowess.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "ततस्त्वन्नाशजं शोकं रामस्याक्लिष्टकर्मणः।\nलक्ष्मणो वानरेन्द्राय सुग्रीवाय न्यवेदयत्।।5.35.35।।",
+      "transliteration": "",
+      "translation": "\"Then Lakshmana spoke to the lord of vanaras, Sugriva about your loss and the grief caused to Rama, who is adept in accomplishing difficult deeds with ease.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "स श्रुत्वा वानरेन्द्रस्तु लक्ष्मणेनेरितं वचः।\nतदासीन्निष्प्रभोऽत्यर्थं ग्रहग्रस्त इवांशुमान्।।5.35.36।।",
+      "transliteration": "",
+      "translation": "\"Having heard the words of Lakshmana, the king of vanaras became extremely lustreless like the Sun overshadowed by the planet Rahu.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "ततस्त्वद्गात्रशोभीनि रक्षसा ह्रियमाणया।\nयान्याभरणजालानि पातितानि महीतले।।5.35.37।।\nतानि सर्वाणि रामाय आनीय हरियूथपाः।\nसंहृष्टा दर्शयामासुर्गतिं तु न विदुस्तव।।5.35.38।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "तानि रामाय दत्तानि मयैवोपहृतानि च।\nस्वनवन्त्यवकीर्णानि तस्मिन्विगतचेतसि।।5.35.39।।",
+      "transliteration": "",
+      "translation": "\"I collected the ornaments and gave them to Rama. He lost his senses on seeing the  jingling ornaments scattered.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "तान्यङ्के दर्शनीयानि कृत्वा बहुविधं तव।\nतेन देवप्रकाशेन देवेन परिदेवितम्।।5.35.40।।",
+      "transliteration": "",
+      "translation": "\"The divine self who is effulgent like god wailed in many ways placing the beautiful ornaments on his lap.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "पश्यतस्तानि रुदतस्ताम्यतश्च पुनः पुनः।\nप्रादीपयन्दाशरथेस्तानि शोकहुताशनम्।।5.35.41।।",
+      "transliteration": "",
+      "translation": "\"Rama looked at them and wept clasping them again and again in grief which inflamed like fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "शयितं च चिरं तेन दुःखार्तेन महात्मना।\nमयापि विविधैर्वाक्यैः कृच्छ्रादुत्थापितः पुनः।।5.35.42।।",
+      "transliteration": "",
+      "translation": "\"Rama, the great self, immersed in sorrow lay down on the ground. I also consoled him with great difficulty and helped him to get up.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "तानि दृष्ट्वा महाबाहुर्दर्शयित्वा मुहुर्मुहुः।\nराघवस्सह सौमित्रिस्सुग्रीवे स न्यवेदयत्।।5.35.43।।",
+      "transliteration": "",
+      "translation": "\"Longarmed Rama along with Lakshmana looked at them again and again and gave them to the care of Sugriva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "स तवादर्शनादार्ये राघवः परितप्यते।\nमहता ज्वलता नित्यमग्निनेवाग्निपर्वतः।।5.35.44।।",
+      "transliteration": "",
+      "translation": "\"O divine lady on account of your separation he is ever blazing like a mountain of fire (Samvartaka).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "त्वत्कृते तमनिद्रा च शोकश्चिन्ता च राघवम्।\nतापयन्ति महात्मानमग्न्यगारमिवाग्नयः।।5.35.45।।",
+      "transliteration": "",
+      "translation": "\"Rama is burning like a furnace by (three fires) sleeplessness, grief and intense anxiety just as the three sacred fires keep a firesanctuary intensely heated.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "तवादर्शनशोकेन राघवः प्रविचाल्यते।\nमहता भूमिकम्पेन महानिव शिलोच्चयः।।5.35.46।।",
+      "transliteration": "",
+      "translation": "\"On account of sorrow caused by not being able to see you, Rama of Raghu dynasty is shaken up like a lofty mountain is shaken by earthquake.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "काननानि सुरम्याणि नदीः प्रस्रवणानि च।\nचरन्न रतिमाप्नोति त्वामपश्यन्नृपात्मजे।।5.35.47।।",
+      "transliteration": "",
+      "translation": "\"Oh princess unable to see you, Rama has found no joy in roaming delightful forests, rivers and streams.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "स त्वां मनुजशार्दूलः क्षिप्रं प्राप्स्यति राघवः।\nसमित्रबान्धवं हत्वा रावणं जनकात्मजे।।5.35.48।।",
+      "transliteration": "",
+      "translation": "\"Oh daughter of Janaka after killing Ravana, along with his friends and relatives Rama, the tiger among men, will meet you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "सहितौ रामसुग्रीवावुभावकुरुतां तदा।\nसमयं वालिनं हन्तुं तव चान्वेषणं तथा।।5.35.49।।",
+      "transliteration": "",
+      "translation": "\"(Having become friends) Rama and Sugriva together reached an agreement to kill Vali and search for you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "ततस्ताभ्यां कुमाराभ्यां वीराभ्यां स हरीश्वरः।\nकिष्किन्धां समुपागम्य वाली युद्धे निपातितः।।5.35.50।।",
+      "transliteration": "",
+      "translation": "\"Thereafter both the princes together arrived at Kishkinda and killed Vali, king of vanaras in a combat.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "ततो निहत्य तरसा रामो वालिनमाहवे।\nसर्वर्क्षहरिसङ्घानां सुग्रीवमकरोत्पतिम्।।5.35.51।।",
+      "transliteration": "",
+      "translation": "\"Then Rama quickly killed Vali in a combat and made Sugriva the lord of all troops of vanaras and bears.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "रामसुग्रीवयोरैक्यं देव्येवं समजायत।\nहनुमन्तं च मां विद्धि तयोर्दूतमिहागतम्।।5.35.52।।",
+      "transliteration": "",
+      "translation": "\"Oh Illustrious lady In that manner alliance was established between Rama and Sugriva. Know me to be Hanuman, arrived here as their messenger.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "स्वराज्यं प्राप्य सुग्रीवस्समानीय हरीश्वरान्।\nत्वदर्थं प्रेषयामास दिशो दश महाबलान्।।5.35.53।।",
+      "transliteration": "",
+      "translation": "\"Having obtained his kingdom Sugriva despatched the vanara leaders to all ten directions (to search for you).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "आदिष्टा वानरेन्द्रेण सुग्रीवेण महौजसा।\nअद्रिराजप्रतीकाशास्सर्वतः प्रस्थितौ महीम्।।5.35.54।।",
+      "transliteration": "",
+      "translation": "\"Following Sugriva's orders, the powerful monkey leaders huge as the Himalayas, king of mountains went all over the earth (searching).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "ततस्ते मार्गमाणा वै सुग्रीववचनातुराः।\nचरन्ति वसुधां कृत्स्नां वयमन्ये च वानराः।।5.35.55।।",
+      "transliteration": "",
+      "translation": "\"Following Sugriva's orders, we, the monkeys, since then are moving about searching  the entire earth eager to find you or to carry out Sugriva's orders.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-54",
+      "number": 54,
+      "type": "shloka",
+      "original": "अङ्गदो नाम लक्ष्मीवान्वालिसूनुर्महाबलः।\nप्रस्थितः कपिशार्दूलस्त्रिभागबलसंवृतः।।5.35.56।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-55",
+      "number": 55,
+      "type": "shloka",
+      "original": "तेषां नो विप्रणष्टानां विन्ध्ये पर्वतसत्तमे।\nभृशं शोकपरीतानामहोरात्रगणा गताः।।5.35.57।।",
+      "transliteration": "",
+      "translation": "\"We wasted many nights and days immersed in disappointment (for not being able to find you) and we missed our path in the great Vindhya mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-56",
+      "number": 56,
+      "type": "shloka",
+      "original": "ते वयं कार्यनैराश्यात्कालस्यातिक्रमेण च।\nभयाच्च कपिराजस्य प्राणांस्त्यक्तुं व्यवस्थिताः।।5.35.58।।",
+      "transliteration": "",
+      "translation": "\"We decided to give up our lives due to disappointment, transgression of the time limit  fixed for us and fear of the monkey lord (fear of facing the king without finding you).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-57",
+      "number": 57,
+      "type": "shloka",
+      "original": "विचित्य वनदुर्गाणि गिरिप्रस्रवणानि च।\nअनासाद्य पदं देव्याः प्राणांस्त्यक्तुं समुद्यताः।।5.35.59।।",
+      "transliteration": "",
+      "translation": "\"We decided to give up our lives since we were unable to see the feet of the queen (Sita) even after searching the forest fortresses and the (banks of) mountain streams.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-58",
+      "number": 58,
+      "type": "shloka",
+      "original": "दृष्ट्वा प्रायोपविष्टांश्च सर्वान्वानरपुङ्गवान्।\nभृशं शोकार्णवे मग्नः पर्यदेवयदङ्गदः।।5.35.60।।\nतव नाशं च वैदेहि वालिनश्च वधं तथा।\nप्रायोपवेशमस्माकं मरणं च जटायुषः।।5.35.61।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-59",
+      "number": 59,
+      "type": "shloka",
+      "original": "तेषां नस्वामिसन्देशान्निराशानां मुमूर्षताम्।\nकार्यहेतोरिवायातश्शकुनिर्वीर्यवान्महान्।।5.35.62।।",
+      "transliteration": "",
+      "translation": "\"When we were disappointed (in tracing you) and were at the point of death having been commanded by the king (that whosoever overstays would be killed) a gigantic powerful bird appeared to fulfil our task.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-60",
+      "number": 60,
+      "type": "shloka",
+      "original": "गृध्रराजस्य सोदर्यः सम्पातिर्नाम गृध्रराट्।\nश्रुत्वा भ्रातृवधं कोपादिदं वचनमब्रवीत्।।5.35.63।।",
+      "transliteration": "",
+      "translation": "\"That king of vultures, Sampati was the brother of king of birds Jatayu. Hearing about the death of his younger brother Sampati felt distresed and spoke in anger:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-61",
+      "number": 61,
+      "type": "shloka",
+      "original": "यवीयान्केन मे भ्राता हतः क्व च निपातितः।\nएतदाख्यातुमिच्छामि भवद्भिर्वानरोत्तमाः।।5.35.64।।",
+      "transliteration": "",
+      "translation": "'O best of vanaras by whom was my younger brother killed? Where was he dropped down? I wish you to tell me all about that.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-62",
+      "number": 62,
+      "type": "shloka",
+      "original": "अङ्गदोऽकथयत्तस्य जनस्थाने महद्वधम्।\nरक्षसा भीमरूपेण त्वामुद्दिश्य यथातथम्।।5.35.65।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-63",
+      "number": 63,
+      "type": "shloka",
+      "original": "जटायुषो वधं श्रुत्वा दुःखितस्सोऽरुणात्मजः।\nत्वां शशंस वरारोहे वसन्तीं रावणालये।।5.35.66।।",
+      "transliteration": "",
+      "translation": "\"Having heard about the death of Jatayu, O charming lady that Sampati Aruna's son felt sad and told us that you are at Ravana's palace.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-64",
+      "number": 64,
+      "type": "shloka",
+      "original": "तस्य तद्वचनं श्रुत्वा सम्पातेः प्रीतिवर्धनम्।\nअङ्गदप्रमुखास्तूर्णं ततस्सम्प्रस्थिता वयम्।।5.35.67।।",
+      "transliteration": "",
+      "translation": "\"Having heard Sampati's encouraging words all of us led by Angada departed immediately.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-65",
+      "number": 65,
+      "type": "shloka",
+      "original": "विन्ध्यादुत्थाय सम्प्राप्ता स्सागरस्यान्तमुत्तरम्।\nत्वद्धर्शनकृतोत्साहा हृष्टास्तुष्टाः प्लवङ्गमाः।।5.35.68।।",
+      "transliteration": "",
+      "translation": "\"The happy monkeys were satisfied. Enthusiastic about seeing you, they rose from the Vindhya mountain and reached the limit of the sea  shore in the north.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-66",
+      "number": 66,
+      "type": "shloka",
+      "original": "अङ्गदप्रमुखास्सर्वे वेलोपान्तमुपस्थिताः।\nचिन्तां जग्मुः पुनर्भीतास्त्वद्दर्शनसमुत्सुकाः।।5.35.69।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-67",
+      "number": 67,
+      "type": "shloka",
+      "original": "अथाहं हरिसैन्यस्य सागरं प्रेक्ष्य सीदतः।\nव्यवधूय भयं तीव्रं योजनानां शतं प्लुतः।।5.35.70।।",
+      "transliteration": "",
+      "translation": "\"When the vanara army was feeling despondent at the sight of the ocean, I leaped across the sea, a hundred yojanas, pushing aside  all my fear.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-68",
+      "number": 68,
+      "type": "shloka",
+      "original": "लङ्का चापि मया रात्रौ प्रविष्टा राक्षसाकुला।\nरावणश्च मया दृष्टस्त्वं च शोकपरिप्लुता।।5.35.71।।",
+      "transliteration": "",
+      "translation": "\"I entered at night the city of Lanka teeming with demons and saw Ravana and saw you immersed in sorrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-69",
+      "number": 69,
+      "type": "shloka",
+      "original": "एतत्ते सर्वमाख्यातं यथावृत्तमनन्दिते।\nअभिभाषस्व मां देवि दूतो दाशरथेरहम्।।5.35.72।।",
+      "transliteration": "",
+      "translation": "\"O sinless lady I have given you a faithful account. I am a messenger of Dasaratha's son. And you may speak now, O divine lady",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-70",
+      "number": 70,
+      "type": "shloka",
+      "original": "तं मां रामकृतोद्योगं त्वन्निमित्तमिहागतम्।\nसुग्रीवसचिवं देवि बुद्ध्यस्व पवनात्मजम्।।5.35.73।।",
+      "transliteration": "",
+      "translation": "\"O divine lady Know that I have come here for your cause carrying out the mission of Rama. I am Sugriva'a minister and son of the Windgod.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-71",
+      "number": 71,
+      "type": "shloka",
+      "original": "कुशली तव काकुत्स्थस्सर्वशस्त्रभृतां वरः।\nगुरोराराधने युक्तो लक्ष्मणश्च सुलक्षणः।।5.35.74।।",
+      "transliteration": "",
+      "translation": "\"Your lord Rama of Kakutstha race, supreme among wielders of weapons is doing well. So is venerable Lakshmana endowed with auspicious signs engaged in serving him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-72",
+      "number": 72,
+      "type": "shloka",
+      "original": "तस्य वीर्यवतो देवि भर्तुस्तव हिते रतः।\nअहमेकस्तु सम्प्राप्त स्सुग्रीववचनादिह।।5.35.75।।",
+      "transliteration": "",
+      "translation": "\"O queen seeking the welfare of your Valiant husband I came here at the behest of Sugriva all alone.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-73",
+      "number": 73,
+      "type": "shloka",
+      "original": "मयेयमसहायेन चरता कामरूपिणा।\nदक्षिणा दिगनुक्रान्ता त्वन्मार्गविचयैषिणा।।5.35.76।।",
+      "transliteration": "",
+      "translation": "\"I can assume any form at my will. I searched for you without any help moving in the southern direction and reached this place .",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-74",
+      "number": 74,
+      "type": "shloka",
+      "original": "दिष्ट्याहं हरिसैन्यानां त्वन्नाशमनुशोचताम्।\nअपनेष्यामि सन्तापं तवाभिगमशंसनात्।।5.35.77।।",
+      "transliteration": "",
+      "translation": "\"Fortunately for me I can finally dispel the fear of the vanara chiefs who are regretting your loss, by letting them know that you have been found.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-75",
+      "number": 75,
+      "type": "shloka",
+      "original": "दिष्ट्या हि मम न व्यर्थं देवि सागरलङ्घनम्।\nप्राप्स्याम्यहमिदं दिष्ट्या त्वद्दर्शनकृतं यशः।।5.35.78।।",
+      "transliteration": "",
+      "translation": "\"Oh queen luckily for me, crossing the ocean has not gone in vain. I am fortunate because I will attain fame of finding you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-76",
+      "number": 76,
+      "type": "shloka",
+      "original": "राघवश्च महावीर्यः क्षिप्रं त्वामभिपत्स्यते।\nसमित्रबान्धवं हत्वा रावणं राक्षसाधिपम्।।5.35.79।।",
+      "transliteration": "",
+      "translation": "\"Mighty Raghava will take you after killing Ravana, the king of demons along with his kith and kin.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-77",
+      "number": 77,
+      "type": "shloka",
+      "original": "माल्यवान्नाम वैदेहि गिरीणामुत्तमो गिरिः।\nततो गच्छति गोकर्णं पर्वतं केसरी हरिः।।5.35.80।।",
+      "transliteration": "",
+      "translation": "\"Oh Vaidehi there is a famous mountain called Malyavan. From there a monkey called Kesari went to mount Gokarna.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-78",
+      "number": 78,
+      "type": "shloka",
+      "original": "स च देवर्षिभिर्दिष्टः पिता मम महाकपिः।\nतीर्थे नदीपतेः पुण्ये शम्बसादनमुद्धरत्।।5.35.81।।",
+      "transliteration": "",
+      "translation": "\"He (Kesari) is said to be my father by the divine sages. He retrieved a piece of land in a holy spot of that sea shore and killed Sambasadana, a demon who was oppressing righteous people.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-79",
+      "number": 79,
+      "type": "shloka",
+      "original": "तस्याहं हरिणः क्षेत्रे जातो वातेन मैथिलि।\nहनुमानिति विख्यातो लोके स्वेनैव कर्मणा।।5.35.82।।",
+      "transliteration": "",
+      "translation": "\"O Mythili I was born in that land retrieved by the Windgod. I am known as Hanuman by virtue of my own action.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-80",
+      "number": 80,
+      "type": "shloka",
+      "original": "विश्वासार्थं तु वैदेहि भर्तुरुक्ता मया गुणाः।\nअचिराद्राघवो देवि त्वामितो नयिताऽनघे।।5.35.83।।",
+      "transliteration": "",
+      "translation": "\"In order to inspire confidence in you about me I have narrated the virtues of your husband. O sinless queen Rama will take you from here very soon\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-81",
+      "number": 81,
+      "type": "shloka",
+      "original": "एवं विश्वासिता सीता हेतुभिश्शोककर्शिता।\nउपपन्नैरभिज्ञानैर्दूतं तमवगच्छति।।5.35.84।।",
+      "transliteration": "",
+      "translation": "The griefstricken Sita trusted him by his logical presentation of reasons as well as identifications. She believed that he was a messenger (of Rama).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-82",
+      "number": 82,
+      "type": "shloka",
+      "original": "अतुलं च गता हर्षं प्रहर्षेण च जानकी।\nनेत्राभ्यां वक्रपक्ष्माभ्यां मुमोचानन्दजं जलम्।।5.35.85।।",
+      "transliteration": "",
+      "translation": "Janaki experienced immeasurable happiness and shed tears of joy through her curved eyes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-83",
+      "number": 83,
+      "type": "shloka",
+      "original": "चारु तद्वदनं तस्यास्ताम्रशुक्लायतेक्षणम्।\nअशोभत विशालाक्ष्या राहुमुक्त इवोडुराट्।।5.35.86।।",
+      "transliteration": "",
+      "translation": "Her face with large eyes with a tinge of red corners shone like the Moon released from Rahu.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-84",
+      "number": 84,
+      "type": "shloka",
+      "original": "हनुमन्तं कपिं व्यक्तं मन्यते नान्यथेति सा।\nअथोवाच हनूमांस्तामुत्तरं प्रियदर्शनाम्।।5.35.87।।",
+      "transliteration": "",
+      "translation": "She realised that the monkey was none other than Hanuman. Then he looked at her who was pleasing to see and spoke again:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-85",
+      "number": 85,
+      "type": "shloka",
+      "original": "एतत्ते सर्वमाख्यातं समाश्वसिहि मैथिलि।\nकिं करोमि कथं वा ते रोचते प्रतियाम्यहम्।।5.35.88।।",
+      "transliteration": "",
+      "translation": "\"Mythili, everything I intended to say has been narrated to you. Calm yourself down. What shall I do? Or else, tell me what pleases you. I shall go back.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-35-86",
+      "number": 86,
+      "type": "shloka",
+      "original": "हतेऽसुरे संयति शम्बसादने कपिप्रवीरेण महर्षिचोदनात्।\nततोऽस्मि वायुप्रभवो हि मैथिलि प्रभावतस्तत्प्रतिमश्च वानरः।।5.35.89।।",
+      "transliteration": "",
+      "translation": "\"(My father) a mighty monkey killed Sambasadana in a battle on the command of a great seer. I am a vanara (born to a monkey) by the impact of the Windgod. I am equal to the Windgod in power.\" इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे पञ्चत्रिंशस्सर्गः।। Thus ends the thirtyfifth sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 55,
+    "title": "Hanuman perceiving the damage caused by him to the City of Lanka, thinks of Sita and begins to blame himself -- on seeing good omens he presumes that Sita would have been protected by her chastity",
+    "titleSanskrit": "",
+    "totalShlokas": 34
+  },
+  "shlokas": [
+    {
+      "id": "vs-55-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "लङ्कां समस्तां सन्दीप्य लाङ्गूलाग्निं महाबलः।\nनिर्वापयामास तदा समुद्रे हरिसत्तमः।।\nसन्दीप्यमानां विध्वस्तां त्रस्तरक्षोगणां पुरीम्।\nआवेक्ष्य हनुमान् लङ्कां चिन्तयामास वानरः।।5.55.1।।",
+      "transliteration": "",
+      "translation": "Powerful Hanuman, having burnt the entire city of Lanka, put out the fire on his tail in the ocean. Beholding the burning city, the destroyed gardens and the panic stricken ogres, he began to think:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तस्याभूत्सुमहांस्त्रासः कुत्सा चात्मन्यजायत।\nलङ्कां प्रदहता कर्म किंस्वित्कृतमिदं मया।।5.55.2।।",
+      "transliteration": "",
+      "translation": "Overtaken by great fear, Hanuman felt a sense of selfreproach seeing Lanka reduced to ashes, and said, ' Lanka is burnt. What a heinous action has been perpetrated by me'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "धन्यास्ते पुरुषश्रेष्ठा ये बुद्ध्या कोपमुत्थितम्।\nनिरुन्धन्ति महात्मानो दीप्तमग्निमिवाम्भसा।।5.55.3।।",
+      "transliteration": "",
+      "translation": "'Blessed indeed are the highsouled men, who in their wisdom restrain their own anger as one would put off  burning fire with water.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "क्रुद्धः पापं न कुर्यात्कः क्रुद्धो हन्याद्गुरूनपि।\nक्रुद्धः परुषया वाचा नरस्साधूनधिक्षिपेत्।।5.55.4।।",
+      "transliteration": "",
+      "translation": "'Which sinful act an angry man will not commit? He will even kill his respectable elders or insult sages with his harsh tongue.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "वाच्यावाच्यं प्रकुपितो न विजानाति कर्हिचित्।\nनाकार्यमस्ति क्रुद्धस्य नावाच्यं विद्यते क्वचित्।।5.55.5।।\n&nbsp;",
+      "transliteration": "",
+      "translation": "'An angry person knows not what he should utter and what he should not. No act appears wrong for an angry man. Nothing is unutterable for him at any time, anywhere.&nbsp;&nbsp;",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "यस्समुत्पतितं क्रोधं क्षमयैव निरस्यति।\nयथोरगस्त्वचं जीर्णां स वै पुरुष उच्यते।।5.55.6।।\n&nbsp;",
+      "transliteration": "",
+      "translation": "'A man who drives away his rising anger with tolerance just as a snake casts off its slough is alone called a truly wise man.&nbsp;",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "धिगस्तु मां सुदुर्बुद्धिं निर्लज्जं पापकृत्तमम्।\nअचिन्तयित्वा तां सीतामग्निदं स्वामिघातुकम्।।5.55.7।।",
+      "transliteration": "",
+      "translation": "'Fie upon me, a wicked, shameless person and the greatest sinner for betraying the  master and setting fire to the city without thinking of Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "यदि दग्धा त्वियं लङ्का नूनमार्याऽपि जानकी।\nदग्धा तेन मया भर्तुर्हितं कार्यमजानता।।5.55.8।।",
+      "transliteration": "",
+      "translation": "'If this Lanka is burnt, even noble Janaki is burnt, my master's work is spoilt by me unknowingly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "यदर्थमयमारम्भस्तत्कार्यमवसादितम्।\nमया हि दहता लङ्कां न सीता परिरक्षिता।।5.55.9।।",
+      "transliteration": "",
+      "translation": "'My very mission is foiled. Sita has not been protected by me for no part of Lanka has escaped unburnt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "ईषत्कार्यमिदं कार्यं कृतमासीन्न संशयः।\nतस्य क्रोधाभिभूतेन मया मूलक्षयः कृतः।।5.55.10।।\n&nbsp;",
+      "transliteration": "",
+      "translation": "'A small work is done, no doubt. But the very root of my achievement has been destroyed in my anger.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "विनष्टा जानकी नूनं न ह्यदग्धः प्रदृश्यते।\nलङ्कायां कश्चिदुद्धेशस्सर्वा भस्मीकृता पुरी।।5.55.11।।",
+      "transliteration": "",
+      "translation": "'Surely Janaki has perished in Lanka, for not even a little place is left unburnt. The entire city is reduced to ashes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "यदि तद्विहतं कार्यं मम प्रज्ञाविपर्ययात्।\nइहैव प्राणसंन्यासो ममापि ह्यद्य रोचते।।5.55.12।।",
+      "transliteration": "",
+      "translation": "'If my work has been destroyed by my perversity of judgement, I will give up my life now  and here itself'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "किमग्नौ निपताम्यद्य आहोस्विद्बडबामुखे।\nशरीरमाहो सत्त्वानां दद्मि सागरवासिनाम्।।5.55.13।।",
+      "transliteration": "",
+      "translation": "'Shall I end my life by jumping into fire just now, or else into the mouth of submarine fire? Should I offer my body to the living creatures of the ocean as their food?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "कथं हि जीवता शक्यो मया द्रष्टुं हरीश्वरः।\nतौ वा पुरुषशार्दूलौ कार्यसर्वस्वघातिना।।5.55.14।।",
+      "transliteration": "",
+      "translation": "'Having spoilt the entire work how can I show my face to the king of monkeys? How is it possible to see both the tigers among men?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "मया खलु तदेवेदं रोषदोषात्प्रदर्शितम्।\nप्रथितं त्रिषु लोकेषु कपित्वमनवस्थितम्।।5.55.15।।",
+      "transliteration": "",
+      "translation": "'On account of my mistake of yielding to anger, I have exhibited the unstable monkeynature and made it well established in the three worlds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "धिगस्तु राजसं भावमनीशमनवस्थितम्।\nईश्वरेणापि यद्रागान्मया सीता न रक्षिता।।5.55.16।।",
+      "transliteration": "",
+      "translation": "'Fie upon my hasty action commited due to lack of selfcontrol. I did not save Sita eventhough the entire situation was under my control. (I had the  capacity to save her. But I failed due to anger.)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "विनष्टायां तु सीतायां तावुभौ विनशिष्यतः।\nतयोर्विनाशे सुग्रीवः सबन्धुर्विनशिष्यति।।5.55.17।।",
+      "transliteration": "",
+      "translation": "'If the two princes know about Sita's loss they will die and when they are dead Sugriva would perish along with all his relatives.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "एतदेव वचश्श्रुत्वा भरतो भ्रातृवत्सलः।\nधर्मात्मा सहशत्रुघ्नः कथं शक्ष्यति जीवितुम्।।5.55.18।।",
+      "transliteration": "",
+      "translation": "'How will the loving righteous brother, Bharata along with Satrughna survive after hearing this?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "इक्ष्वाकुवंशे धर्मिष्ठे गते नाशमसंशयम्।\nभविष्यन्ति प्रजास्सर्वाश्शोकसन्तापपीडिताः।।5.55.19।।",
+      "transliteration": "",
+      "translation": "'When the righteous Ikshvaku race perishes the people would be tormented by grief and remorse. There is no doubt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तदहं भाग्यरहितो लुप्तधर्मार्थसङ्ग्रहः।।5.55.20।।\nरोषदोषपरीतात्मा व्यक्तं लोकविनाशनः।",
+      "transliteration": "",
+      "translation": "'I have failed in seeking dharma and artha. It is evident is that I am a destroyer of the world because I was overtaken by anger. How unfortunate I am'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "इति चिन्तयतस्तस्य निमित्तान्युपपेदिरे।\nपूर्वमप्युपलब्धानि साक्षात्पुनरचिन्तयत्।।5.55.21।।",
+      "transliteration": "",
+      "translation": "When Hanuman was thus bemoaning, good omens as in the past appeared before him. He started reflecting once again:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "अथवा चारुसर्वाङ्गी रक्षिता स्वेन तेजसा।\nन नशिष्यति कल्याणी नाग्निरग्नौ प्रवर्तते।।5.55.22।।",
+      "transliteration": "",
+      "translation": "'On the other hand a beautiful and auspicious lady like Sita will be protected by her own splendour and will not perish as fire cannot extinguish fire. (Sita is pure like fire. Here the great sage Valmiki is suggesting the future incident in which Sita emerged safe from 'Agnipariksha' or fireordeal.)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "न हि धर्मात्मनस्तस्य भार्याममिततेजसः।\nस्वचारित्राभिगुप्तां तां स्प्रष्टुमर्हति पावकः।।5.55.23।।",
+      "transliteration": "",
+      "translation": "'Fire cannot touch that lady who is protected by her own chastity and who is wedded to the righteous man of immasureable glory.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "नूनं रामप्रभावेण वैदेह्यास्सुकृतेन च।\nयन्मां दहनकर्मायं नादहद्धव्यवाहनः।।5.55.24।।",
+      "transliteration": "",
+      "translation": "'Fire, the consumer of oblations who has the property of burning has not burnt me and this is surely on account of Rama's power and Vaidehi's merits.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "त्रयाणां भरतादीनां भ्रात्रूणां देवता च या।\nरामस्य च मन: कान्ता सा कथं विनशिष्यति।।5.55.25।।",
+      "transliteration": "",
+      "translation": "'To Bharata, Lakshmana and Satrughna she is a goddess and she is dear to Rama's heart, how would she perish?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "यद्वा दहनकर्मायं सर्वत्र प्रभुरव्ययः।\nन मे दहति लाङ्गूलं कथमार्यां प्रधक्ष्यति।।5.55.26।",
+      "transliteration": "",
+      "translation": "'If not so, the firegod who never fails in burning has not burnt my tail. How will he burn noble Sita?'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "पुनश्चाचिन्तयत्तत्र हनुमान्विस्मितस्तदा।\nहिरण्यनाभस्य गिरेर्जलमध्ये प्रदर्शनम्।।5.55.27।।",
+      "transliteration": "",
+      "translation": "Then Hanuman thought of the appearance of mountain Hiranyanabha in the midst of water, a wonderful phenomenon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "तपसा सत्यवाक्येन अनन्यत्वाच्च भर्तरि।\nअपि सा निर्दहेदग्निं न तामग्निः प्रधक्ष्यति।।5.55.28।।",
+      "transliteration": "",
+      "translation": "'By virtue of her power of asceticism, power of truthfulness and exclusive devotion towards her husband, she may consume the fire. Fire will not burn her'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "स तथा चिन्तयंस्तत्र देव्या धर्मपरिग्रहम्।\nशुश्राव हनुमान्वाक्यं चारणानां महात्मनाम्।।5.55.29।।",
+      "transliteration": "",
+      "translation": "As Hanuman was thinking so, he heard the words of the great charanas who were praising the queen's power of righteousness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "अहो खलु कृतं कर्म दुष्करं हि हनूमता।\nअग्निं विसृजताऽभीक्ष्णं भीमं राक्षसवेश्मनि।।5.55.30।।",
+      "transliteration": "",
+      "translation": "'Oh Hanuman has indeed accomplished the marvellous task of spreading the terrific fire on the demons buildings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "प्रपलायितरक्षः स्त्रीबालवृद्धसमाकुला।\nजनकोलाहलाध्माता क्रन्दन्तीवाद्रिकन्दरै: ।।5.55.31।।",
+      "transliteration": "",
+      "translation": "The city is crowded with women, children and old demons running (in a bid to save themselves). The loud wails of demons resounded in the mountaincaves. It was as if the city was shrieking loudly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "दग्धेयं नगरी सर्वा साट्टप्राकारतोरणा।\nजानकी न च दग्धेति विस्मयोऽद्भुत एव नः।।5.55.32।।",
+      "transliteration": "",
+      "translation": "'The city with its towering markets, ramparts and portals is burnt, but Janaki is not. It is really wonderful, strange",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "स निमित्तैश्च दृष्टार्थैः कारणैश्च महागुणैः।\nऋषिवाक्यैश्च हनुमानभवत्प्रीतमानसः।।5.55.33।।",
+      "transliteration": "",
+      "translation": "With omens that proved to be right and for good reasons and from the words of the sages (charanas), Hanuman felt happy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-55-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "ततः कपिः प्राप्तमनोरथार्थस्तामक्षतां राजसुतां विदित्वा।\nप्रत्यक्षतस्तां पुनरेव दृष्टवा प्रतिप्रयाणाय मतिं चकार।।5.55.34।।",
+      "transliteration": "",
+      "translation": "Hanuman, having fulfilled his desires and knowing that Sita is not hurt, thought of departing after meeting Sita once again (to testify that she is really safe). इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे पञ्चपञ्चाशस्सर्गः।। Thus ends the fiftyfifth sarga of Sundarakanda  of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

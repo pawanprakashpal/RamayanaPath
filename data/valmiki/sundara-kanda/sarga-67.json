@@ -1,0 +1,351 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 67,
+    "title": "Hanuman once again narrates to Rama, Sita's condition.",
+    "titleSanskrit": "",
+    "totalShlokas": 37
+  },
+  "shlokas": [
+    {
+      "id": "vs-67-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु हनुमान् राघवेण महात्मना।\nसीताया भाषितं सर्वं न्यवेदयत राघवे।।5.67.1।।",
+      "transliteration": "",
+      "translation": "Thus asked by Sri Rama, Hanuman repeated everything spoken by Sita to Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "इदमुक्तवती देवी जानकी पुरुषर्षभ।\nपूर्व वृत्तमभिज्ञानं चित्रकूटे यथातथम्।।5.67.2।।",
+      "transliteration": "",
+      "translation": "\"O bull among men queen Janaki related to me as a token of identification an incident  that had taken place at Chitrakuta in the past.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "सुखसुप्ता त्वया सार्धं जानकी पूर्वमुत्थिता।\nवायस स्सहसोत्पत्य विददार स्तनान्तरे।।5.67.3।।",
+      "transliteration": "",
+      "translation": "\"When she was lying on your lap happily she awoke early and a crow came swiftly and scratched on her breast.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "पर्यायेण च सुप्तस्त्वं देव्यङ्के भरताग्रज।\nपुनश्च किल पक्षी स देव्या जनयति व्यथाम्।।5.67.4।।",
+      "transliteration": "",
+      "translation": "\"O Bharata's brother, when Sita awoke from sleep you slept on her lap. The same crow again hurt her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "पुनः पुनरुपागम्य विददार भृशं किल।\nततस्त्वं बोधितस्तस्याश्शोणितेन समुक्षितः।।5.67.5।।\n&nbsp;",
+      "transliteration": "",
+      "translation": "Again and again the crow came to her and scratched her. She woke you up as you were getting wet with blood shed from her body.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "वायसेन च तेनैव सततं बाध्यमानया।\nबोधितः किल देव्या त्वं सुखसुप्तः परन्तप।।5.67.6।।",
+      "transliteration": "",
+      "translation": "\"O scorcher of enemies pained by the crow hurting her repeatedly, while you were sleeping happily, she woke you up and informed you about it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तां तु दृष्ट्वा महाबाहो दारितां च स्तनान्तरे।\nआशीविष इव क्रुद्धो निश्वसन्नभ्यभाषथाः।।5.67.7।।",
+      "transliteration": "",
+      "translation": "\"Seeing the blood flowing from her breasts you became furious like a hissing serpent and said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "नखाग्रैः केन ते भीरु दारितं तु स्तनान्तरम्।\nकः क्रीडति सरोषेण पञ्चवक्त्रेण भोगिना।।5.67.8।।",
+      "transliteration": "",
+      "translation": "\"You are of timid nature. Who has scratched your breasts with the tip of the nail? Who is sporting with an enraged fivehooded serpent\"?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "निरीक्षमाणस्सहसा वायसं समवैक्षथाः।\nनखै स्सरुधिरैस्तीक्ष्णैस्तामेवाभिमुखं स्थितम्।।5.67.9।।",
+      "transliteration": "",
+      "translation": "'Seeing all over, at once I glanced at the crow that stood in front of her with sharp bloodstained nails'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "सुतः किल स शक्रस्य वायसः पततां वरः।\nधरान्तरचरश्शीघ्रं पवनस्य गतौ समः।।5.67.10।।",
+      "transliteration": "",
+      "translation": "'That crow, the foremost of the birds was the son of Indra moving about all over the earth swiftly. His speed matched the Windgod's.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "ततस्तस्मिन्महाबाहो कोपसंवर्तितेक्षणः।\nवायसे त्वं कृथाः क्रूरां मतिं मतिमतां वर।।5.67.11।।",
+      "transliteration": "",
+      "translation": "'O longarmed, wise and revered Rama, then in anguish you took a cruel decision'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "स दर्भं संस्तराद्गृह्य ब्रह्मास्त्रेण ह्ययोजयः।\nस दीप्त इव कालाग्निर्जज्वालाभिमुखः खगम्।।5.67.12।।",
+      "transliteration": "",
+      "translation": "'You took out a blade of grass from your mat and chanted the mantra to invoke the weapon of Brahma (Brahmastra) and hurled it on the crow. It blazed like the fire of the doom's day.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "क्षिप्तवांस्त्वं प्रदीप्तं हि दर्भं तं वायसं प्रति।\nततस्तु वायसं दीप्तस्स दर्भोऽनुजगाम ह।।5.67.13।।",
+      "transliteration": "",
+      "translation": "'You hurled the blazing blade of grass on to the crow. That burning blade of grass chased the crow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "स पित्रा च परित्यक्तस्सुरैश्च समहर्षिभिः।\nत्रीन् लोकान् सम्परिक्रम्य त्रातारं नाधिगच्छति।।5.67.14।।",
+      "transliteration": "",
+      "translation": "'He was abandoned by his father, even by great sages and gods. Then he went round the three worlds but could not find a saviour.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "पुनरेवागतस्त्रस्तस्त्वत्सकाशमरिंदम।\nस तं निपतितं भूमौ शरण्यश्शरणागतम्।।5.67.15।।\nवधार्हमपि काकुत्स्थ कृपया पर्यपालयः।",
+      "transliteration": "",
+      "translation": "'O destroyer of enemies the crow came back again to you trembling seeking protection from you and fell on the ground. Even though it deserved to be slayed, you saved him out of compassion.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "मोघमस्त्रं न शक्यं तु कर्तुमित्येव राघव।।5.67.16।।\nभवांस्तस्याक्षि काकस्य हिनस्ति स्म स दक्षिणम्।",
+      "transliteration": "",
+      "translation": "'O Rama since a divine weapon cannot be withdrawn, it did strike his right eye'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "राम त्वां स नमस्कृत्य राज्ञे दशरथाय च।।5.67.17।।\nविसृष्टस्तु तदा काक प्रतिपेदे स्वमालयम्।",
+      "transliteration": "",
+      "translation": "'Thereafter that crow left without killing offered salutations to you and king Dasaratha and returned to his abode.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "एवमस्त्रविदां श्रेष्ठस्सत्त्ववान् शीलवानपि।।5.67.18।।\nकिमर्थमस्त्रं रक्षस्सु न योजयति राघवः।",
+      "transliteration": "",
+      "translation": "'You are efficient, foremost among wielders of weapons, truthful and powerful. Why are you not directing weapons against the demons?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "न नागा नापि गन्धर्वा नासुरा न मरुद्गणाः।।5.67.19।।\nन च सर्वे रणे शक्ता रामं प्रतिसमासितुम्।",
+      "transliteration": "",
+      "translation": "'It is not possible for nagas, gandharvas, even asuras or Marutas to confront Rama in war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तस्य वीर्यवतः कश्चिद्यद्यस्ति मयि सम्भ्रमः।।5.67.20।।\nक्षिप्रं सुनिशितैर्बाणैर्हन्यतां युधि रावणः।",
+      "transliteration": "",
+      "translation": "'If you have any anxiety about me, you will certainly slay Ravana in the battle immediately with your sharp arrows'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "भ्रातुरादेशमाज्ञाय लक्ष्मणो वा परन्तपः।।5.67.21।।\nस किमर्थं नरवरो न मां रक्षति राघवः।",
+      "transliteration": "",
+      "translation": "'For what reason is the the scorcher of enemies, Lakshmana, the best of men also does not protect me at the behest of Rama, his brother?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "शक्तौ तौ पुरुषव्याघ्रौ वाय्वग्निसमतेजसौ ।।5.67.22।।\nसुराणामपि दुर्धर्षौ किमर्थं मामुपेक्षतः।",
+      "transliteration": "",
+      "translation": "'Why are the two tigers among men whose power is like that of wind and fire and who are unassailable even to suras are neglecting me?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "ममैव दुष्कृतं किञ्चिन्महदस्ति न संशयः।।5.67.23।।\nसमर्थौ सहितौ यन्मां नावेक्षेते परन्तपौ।",
+      "transliteration": "",
+      "translation": "'Have I done any great sin because of which even though both the scorchers of enemies are capable, they are not doing so?'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "वैदेह्या वचनं श्रुत्वा करुणं साश्रु भाषितम्।\nपुनरप्यहमार्यां तामिदं वचनमब्रुवम्।।5.67.24।।",
+      "transliteration": "",
+      "translation": "\"On hearing Vaidehi's piteous words, I once again said this to the noble lady:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "त्वच्छोकविमुखो रामो देवि सत्येन ते शपे।।5.67.25।।\nरामे दुःखाभिभूते तु लक्ष्मणः परितप्यते।",
+      "transliteration": "",
+      "translation": "'O divine lady I swear to you on my truthfulness, that out of grief for you Rama is not interested in anything else and Lakshmana is deeply afflicted because Rama is overhelmed with grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "कथञ्चिद्भवती दृष्टा न कालः परिशोचितुम्।।5.67.26।।\nअस्मिन्मुहूर्ते दुःखानामन्तं द्रक्ष्यसि भामिनि।",
+      "transliteration": "",
+      "translation": "'O lovely lady somehow I could discover you. This is not the moment for lamentation.Your grief will end.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "तावुभौ नरशार्दूलौ राजपुत्रावनिन्दितौ।।5.67.27।।\nत्वद्दर्शनकृतोत्साहौ लङ्कां भस्मीकरिष्यतः।",
+      "transliteration": "",
+      "translation": "'The two princes, tigers among men are blameles. They are anxious to see you. They will reduce this Lanka into ashes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "हत्वा च समरे रौद्रं रावणं सह बान्धवम्।।5.67.28।।\nराघवस्त्वां वरारोहे स्वां पुरीं नयते ध्रुवम्।",
+      "transliteration": "",
+      "translation": "'O fairhipped lady Rama will slay fearsome Ravana and all his relatives and take you to his city. It is certain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "यत्तु रामो विजानीयादभिज्ञानमनिन्दिते।।5.67.29।।\nप्रीतिसञ्जननं तस्य प्रदातुं त्वमिहार्हसि।",
+      "transliteration": "",
+      "translation": "'O blameless lady you should give me that which he would be glad to recognise as a token.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "साभिवीक्ष्य दिशस्सर्वा वेण्युद्ग्रथितमुत्तमम्।।5.67.30।।\nमुक्त्वा वस्त्राद्ददौ मह्यं मणिमेतं महाबल।",
+      "transliteration": "",
+      "translation": "\"O mighty Rama, she glanced at all directions and untied the end of her garment  in which she had this best jewel worn on her hair preserved and gave it to me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "प्रतिगृह्य मणिं दिव्यं तव हेतो र���ूद्वह।।5.67.31।।\nशिरसा तां प्रणम्यार्यामहमागमने त्वरे।",
+      "transliteration": "",
+      "translation": "\"O foremost among the Raghus I took that wonderful gem for your sake from the noble lady and offered her salutations, bowing my head, and returned quickly৷৷",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "गमने च कृतोत्साहमवेक्ष्य वरवर्णिनी।।5.67.32।।\nविवर्धमानं च हि मामुवाच जनकात्मजा।",
+      "transliteration": "",
+      "translation": "\"Seeing me eager to depart and growing in size, the loving daughter of Janaka said.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "अश्रुपूर्णमुखी दीना बाष्पसन्दिग्धभाषिणी।।5.67.33।।\nममोत्पतनसम्भ्रान्ता शोकवेगसमाहता।",
+      "transliteration": "",
+      "translation": "\"She was dejected. Her face was filled with tears. Despondent at my departure, she shed tears profusely and said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "हनुमन् सिंहसंकाशावुभौ तौ रामलक्ष्मणौ।।5.67.34।।\nसुग्रीवञ्च सहामात्यं सर्वान् ब्रूया ह्यनामयम्।",
+      "transliteration": "",
+      "translation": "'Hanuman tell both Rama and Lakshman who are like two lions, Sugriva and his ministers about my welfare.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "यथा च स महाबाहुर्म���ं तारयति राघवः।\nअस्माद्धुःखाम्बुसंरोधात्त्वं समाधातुमर्हसि।।5.67.35।।",
+      "transliteration": "",
+      "translation": "'You may go and tell mighty Rama to make arrangements to relieve me from this  ocean of sorrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "इमं च तीव्रं मम शोकवेगं रक्षोभिरेभिः परिभर्त्सनं च।\nब्रूयास्तु रामस्य गतस्समीपम् शिवश्च तेऽध्वास्तु हरिप्रवीर।।5.67.36।।",
+      "transliteration": "",
+      "translation": "'O foremost among the heroic monkeys approaching Rama, you should tell him the intensity of my sorrow and the threatening of the shedemons. Let your journey be speedy and auspicious.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-67-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "एतत्तवार्या नृपराजसिंह सीता वचः प्राह विषादपूर्वम्।\nएतच्च बुद्ध्वा गदितं मया त्वं श्रद्धत्स्व सीतां कुशलां समग्राम्।।5.67.37।।",
+      "transliteration": "",
+      "translation": "\"O lion among kings noble Sita has spoken these words in grief: 'Make him know all this and tell him that Sita is faithful and safe in all respects.' इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे सप्तषष्टितमस्सर्गः।। Thus ends the sixtyseventh sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

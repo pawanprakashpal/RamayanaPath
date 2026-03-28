@@ -1,0 +1,360 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 47,
+    "title": "Death of Prince Aksha in the combat with Hanuman",
+    "titleSanskrit": "",
+    "totalShlokas": 38
+  },
+  "shlokas": [
+    {
+      "id": "vs-47-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "सेनापतीन्पञ्च स तु प्रमापितान् हनूमता सानुचरान्सवाहनान्।\nसमीक्ष्य राजा समरोद्धतोन्मुखं कुमारमक्षं प्रसमैक्षताग्रतः।।5.47.1।।",
+      "transliteration": "",
+      "translation": "Hearing the sad news of death of the five army generals including their followers and destruction of their vehicles, King (Ravana) gave a suggestive look at prince Aksha who was inclined to fight the war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "स तस्य दृष्ट्यर्पणसम्प्रचोदितः प्रतापवान्काञ्चनचित्रकार्मुकः।\nसमुत्पपाताथ सदस्युदीरितो द्विजातिमुख्यैर्हविषेव पावकः।।5.47.2।।",
+      "transliteration": "",
+      "translation": "Spurred by the mere glance of Ravana, the glorious Aksha with his wonderful bow inlaid with gold sprang up from the royal assembly just as flame rises from firesanctuary when oblations are poured in by reputed brahmins.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "ततो महद्बालदिवाकरप्रभं प्रतप्तजाम्बूनदजालसन्ततम्।\nरथं समास्थाय ययौ स वीर्यवान्महाहरिं तं प्रति नैरृतर्षभः।।5.47.3।।",
+      "transliteration": "",
+      "translation": "Ascending a glittering chariot inlaid with pure gold Aksha, the courageous bull among giants looking splendid like the rising Sun, marched forth towards the great vanara.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "ततस्तपस्सङ्ग्रहसञ्चयार्जितं प्रतप्तजाम्बूनदजालशोभितम्।\nपताकिनं रत्नविभूषितध्वजं मनोजवाष्टाश्ववरैः सुयोजितम्।।5.47.4।।",
+      "transliteration": "",
+      "translation": "The chariot was (strong as it was) gained by his austerities of high order. It was overlaid with pure gold armour, fixed with flags, and staff, studded with precious gems, yoked to the best of eight horses and endowed with the speed of mind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "सुरासुराधृष्यमसङ्गचारिणं रविप्रभं व्योमचरं समाहितम्।\nसतूणमष्टासिनिबद्धबन्धुरं यथाक्रमावेशितशक्तितोमरम्।।5.47.5।।",
+      "transliteration": "",
+      "translation": "(The chariot) was unassailable to suras or asuras.It moved without touching the ground, it could fly in air and had the splendour of the Sun. It was equipped readily with quivers, eight swords, javelins and clubs placed in right order.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "विराजमानं प्रतिपूर्णवस्तुना सहेमदाम्ना शशिसूर्यवर्चसा।\nदिवाकराभं रथमास्थितस्ततस्स निर्जगामामरतुल्यविक्रमः।।5.47.6।।",
+      "transliteration": "",
+      "translation": "Prince Aksha, whose courage was equal to that of gods, shone like the Sun. He ascended the splendid chariot decked with golden garlands shining like Sun and Moon, equipped with all weapons, bows and shields etc, he went out.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "स पूरयन्खं च महीं च साचलां तुरङ्गमातङ्गमहारथस्वनैः।\nबलैस्समेतैस्सहि तोरणस्थितं समर्थमासीनमुपागमत्कपिम्।।5.47.7।।",
+      "transliteration": "",
+      "translation": "Seated on the chariot he (Aksha) sallied forth along with the army filling the entire earth and mountains with the sounds of horses, elephants and rumblings of big chariots and reached the portal where the great vanara stood.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "स तं समासाद्य हरिं हरीक्षणो युगान्तकालाग्निमिव प्रजाक्षये।\nअवस्थितं विस्मितजातसम्भ्रम स्समैक्षताक्षो बहुमानचक्षुषा।।5.47.8।।",
+      "transliteration": "",
+      "translation": "The lioneyed Aksha saw the vanara who appeared like the cosmic fire at the time of dissolution of the universe. The prince was astonished and struck with awe (at the  majestic form of the Vanara) and looked at him with great  respect.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "स तस्य वेगं च कपेर्महात्मनः पराक्रमं चारिषु पार्थिवात्मजः।\nविचारयन्स्वं च बलं महाबलो हिमक्षये सूर्य इवाभिवर्धते।।5.47.9।।",
+      "transliteration": "",
+      "translation": "Aksha, the mighty prince judging the speed and prowess of the monkey with his own in confronting enemies and the strength of the monkey, began to swell up in spirit like the glow of the Sun at the end of winter.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "स जातमन्युः प्रसमीक्ष्य विक्रमं स्थिरं स्थिरस्सम्यति दुर्निवारणम्।\nसमाहितात्मा हनुमन्तमाहवे प्रचोदयामास शरैस्त्रिभि श्शितैः।।5.47.10।।",
+      "transliteration": "",
+      "translation": "Knowing that it is difficult to win Hanuman who was steady and of irresistible valour Aksha was angry. Remaining steady, with full attention, he provoked the vanara to fight and released three sharp arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "ततः कपिं तं प्रसमीक्ष्य गर्वितं जितश्रमं शत्रुपराजयोर्जितम्।\nअवैक्षताक्षस्समुदीर्णमानसस्सबाणपाणिः प्रगृहीतकार्मुकः।।5.47.11।।",
+      "transliteration": "",
+      "translation": "Then Aksha contempuously looked at Hanuman who had conquered his fatigue and was determined to defeat the enemy. Holding in his hands his bow and arrows proudly, he reflected.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "स हेमनिष्काङ्गदचारुकुण्डल स्समाससादाऽशुपराक्रमः कपिम्।\nतयोर्बभूवाप्रतिमस्समागम स्सुरासुराणामपि सम्भ्रमप्रदः।।5.47.12।।",
+      "transliteration": "",
+      "translation": "Adorned with armlets studded with golden coins and lovely earrings Aksha advanced instantaneously to meet the monkey. Their matchless combat excuitement and enthusiasm even among gods and demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "ररास भूमिर्न तताप भानुमा न्वनौ न वायुः प्रच��चल चाचलः।\nकपेः कुमारस्य च वीक्ष्य संयुगं ननाद च द्यौरुदधिश्च चुक्षुभे।।5.47.13।।",
+      "transliteration": "",
+      "translation": "Witnessing the fight between Hanuman and Prince Aksha, even the earth shrieked in agony, the Sun became dim, the wind stopped blowing, mountains were shaken, the sky thundered and even the ocean was agitated.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "ततस्स वीरस्सुमुखान् पतत्रिणस्सुवर्णपुङ्खान्सविषानिवोरगान्।\nसमाधिसम्योगविमोक्षतत्त्वविच्छरानथ त्रीन्कपिमूर्ध्न्यपातयत्।।5.47.14।।",
+      "transliteration": "",
+      "translation": "Heroic Aksha, who was good at targeting correctly, with due  concentration struck the vanara on his head with three goldenshafted, winged arrows with feathers smeared with poison which resembled serpents.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "स तै श्शरैर्मूर्ध्नि समं निपातितैः क्षरन्नसृग्दिग्धविवृत्तलोचनः।\nनवोदितादित्यनिभ श्शरांशुमान् व्यराजतादित्य इवांशुमालिकः।।5.47.15।।",
+      "transliteration": "",
+      "translation": "With the three arrows shot on his forehead simultaneously his eyes were drenched with flowing blood and with arrows shining like rays he appeared like the rising Sun, garlanded by glowing rays.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "ततस्स पिङ्गाधिपमन्त्रिसत्तमः समीक्ष्य तं राजवरात्मजं रणे।\nउदग्रचित्रायुधचित्रकार्मुकं जहर्ष चापूर्यत चाहवोन्मुखः।।5.47.16।।",
+      "transliteration": "",
+      "translation": "Hanuman, the esteemed minister of the copperyeyed Sugriva observed the prince holding manifold splendid weapons. He rejoiced, grew in size ready to fight, making the necessary prepararions (taking the required position).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "स मन्दराग्रस्थ इवांशुमालिको विवृद्धकोपो बलवीर्यसंयुतः।\nकुमारमक्षं सबलं सवाहनं ददाह नेत्राग्निमरीचिभिस्तदा।।5.47.17।।",
+      "transliteration": "",
+      "translation": "Huge Hanuman, endowed with strength and valour looked  like the rising Sun on the peak of mount Mandara. He looked at prince Aksha and his army as well as his vehicles as though he was burning them with the rays emerging from his fiery eyes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "ततस्स बाणासनचित्रकार्मुक श्शरप्रवर्षो युधि राक्षसाम्बुदः।\nशरान्मुमोचाशु हरीश्वराचले वलाहको वृष्टिमिवाचलोत्तमे।।5.47.18।।",
+      "transliteration": "",
+      "translation": "Aksha, with his wonderful quiver and bow, began to rain rapidly a shower of arrows in the battle, on the mountainlike monkeylord just as a cloud rains on a mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "ततः कपिस्तं रणचण्डविक्रमं विवृद्धतेजोबलवीर्यसंयुतम्।\nकुमारमक्षं प्रसमीक्ष्य संयुगे ननाद हर्षाद् घनतुल्यविक्रमम्।।5.47.19।।",
+      "transliteration": "",
+      "translation": "Then Hanuman saw prince Aksha, endowed with excessive splendour, power and  energy advancing in a fierce manner like a cloud in the battle. Then Hanuman happy (to see the heroic prince) roared like a clap of thunder.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "स बालभावाद्युधि वीर्यदर्पितः प्रवृद्धमन्युः क्षतजोपमेक्षणः।\nसमाससादाप्रतिमं कपिं रणे गजो महाकूपमिवावृतं तृणैः।।5.47.20।।",
+      "transliteration": "",
+      "translation": "Young Aksha, proud of his valour with eyes bloodshot in anger rushed towards the matchless Hanuman, just as an elephant would approach a huge pitfall covered with grass.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "स तेन बाणैः प्रसभं निपातितैश्चकार नादं घननादनिस्स्वनः।\nसमुत्पपाताशु नभस्स मारुतिर्भुजोरुविक्षेपणघोरदर्शनः।।5.47.21।।",
+      "transliteration": "",
+      "translation": "Struck by the arrows released by prince Aksha, Hanuman roared violently like a thundering cloud and leaped into the sky  putting up a fierce appearance, stretching his arms and thighs.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "समुत्पतन्तं समभिद्रवद्बली स राक्षसानां प्रवरः प्रतापवान्।\nरथी रथिश्रेष्ठतमः किरन्शरैः पयोधरश्शैलमिवाश्मवृष्टिभिः।।5.47.22।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "स तान्शरांस्तस्य हरिर्विमोक्षयंश्चचार वीरः पथि वायुसेविते।\nशरान्तरे मारुतवद्विनिष्पतन्मनोजवस्संयति चण्डविक्रमः।।5.47.23।।",
+      "transliteration": "",
+      "translation": "Dodging like the wind  between the arrows and also escaping the arrows Hanuman, who was swift in movement like the mind, was seen exhibiting his terrific valour in the battle while he moved in the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "तमात्तबाणासनमाहवोन्मुखं खमास्तृणन्तं विशिखैश्शरोत्तमैः।\nअवैक्षताक्षं बहुमानचक्षुषा जगाम चिन्तां च स मारुतात्मजः।।5.47.24।।",
+      "transliteration": "",
+      "translation": "Admiring the young Aksha's appearance, his skill in holding the quiver and spreading the excellent arrows with missiles and facing the war, Hanuman became thoughtful (as to how to kill him).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "ततश्शरैर्भिन्नभुजान्तरः कपिः कुमारवीरेण महात्मना नदन्।\nमहाभुजः कर्मविशेषतत्त्ववि द्विचिन्तयामास रणे पराक्रमम्।।5.47.25।।",
+      "transliteration": "",
+      "translation": "The strongarmed Hanuman, who was aware of the propriety of actions, wounded in his arms by the warrior prince started roaring and thinking about the next strategy in the combat.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "अबालवद्बालदिवाकरप्रभः करोत्ययं कर्म महन्महाबलः।\nन चास्य सर्वाहवकर्मशोभिनः प्रमापणे मे मतिरत्र जायते।।5.47.26।।",
+      "transliteration": "",
+      "translation": "'He (Aksha) is like the radiant, rising Sun with extraordinary might. He is accomplishing great deeds unlike young warriors of his age and is exhibiting a magnificent feat. He knows all means of fighting. I do not feel like cutting him to size. My mind does not allow me to kill this boy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "अयं महात्मा च महांश्च वीर्यत स्समाहितश्चातिसहश्च संयुगे।\nअसंशयं कर्मगुणोदयादयं सनागयक्षैर्मुनिभिश्च पूजितः��।5.47.27।।",
+      "transliteration": "",
+      "translation": "'He is a great self. His valour is also admirable. He is focused in battle and highly tolerant. There is no doubt that on account of his excellence  even nagas, yakshas and  sages offer salutations to him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "पराक्रमोत्साहविवृद्धमानस स्समीक्षते मां प्रमुखाग्रतःस्थितः।\nपराक्रमो ह्यस्य मनांसि कम्पयेत्सुरासुराणामपि शीघ्रगामिनः।।5.47.28।।",
+      "transliteration": "",
+      "translation": "'His mental horizon is enhanced by his valour and power. He is standing before me and dares to look into my eyes. Surely his swift movement and valour will shake  even the minds of suras and asuras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "न खल्वयं नाभिभवेदुपेक्षितः पराक्रमो ह्यस्य रणे विवर्धते।\nप्रमापणं त्वेव ममाद्य रोचते न वर्धमानोऽग्निरुपेक्षितुं क्षमः।।5.47.29।।",
+      "transliteration": "",
+      "translation": "If I ignore him now, he would get the better of me (I have to consider his challenge seriously). His valour in the battle is growing. It is proper to subdue him now. A spreading fire cannot be neglected.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "इति प्रवेगं तु परस्य चिन्तयन्स्वकर्मयोगं च विधाय वीर्यवान्।\nचकार वेगं तु महाबलस्तदा मतिं च चक्रेऽस्य वधे महाकपिः।।5.47.30।।",
+      "transliteration": "",
+      "translation": "Reflecting on the power of the enemy, the mighty and valiant vanara thought of his own course of action. Hanuman made up his mind to kill the enemy and increased his speed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "स तस्य तानष्टहयान्महाजवान् समाहितान्भारसहान्विवर्तने।\nजघान वीरः पथि वायुसेविते तलप्रहारैः पवनात्मजः कपिः।।5.47.31।।",
+      "transliteration": "",
+      "translation": "Hanuman the brave son of the Windgod hit with his palm and killed the eight horses (yoked to Aksha's chariot) which had great speed were stable and had the capacity to  bear heavy loads while turning round in the sky. (The battle was fought in the air since Hanuman leaped into the air and the demon hero had to resist him there).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "ततस्तलेनाभिहतो महारथ स्स तस्य पिङ्गाधिपमन्त्रिनिर्जितः।\nप्रभग्ननीडः परिमुक्तकूबरः पपात भूमौ हतवाजिरम्बरात्।।5.47.32।।",
+      "transliteration": "",
+      "translation": "Then hit by Hanuman with his palm, the minister of the copperyeyed Sugriva, the huge chariot seat of Aksha was broken, the wooden frame of the yoke was disjointed, horses were  slain and the great chariot fell down from the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "स तं परित्यज्य महारथो रथं सकार्मुकः खङ्गधरः खमुत्पतन्।\nतपोऽभियोगादृषिरुग्रवीर्यवान्विहाय देहं मरुतामिवालयम्।।5.47.33।।\n&nbsp;",
+      "transliteration": "",
+      "translation": "(Aksha) the great charioteer abandoned the chariot, held a sword and a bow, and flew up to the region of the sky with his fierce power just as a sage with his fearsome ascetic power ascends to heaven, leaving his body.&nbsp;",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "ततः कपिस्तं विचरन्तमम्बरे पतत्रिराजानिलसिद्धसेविते।\nसमेत्य तं मारुततुल्यविक्रमः क्रमेण जग्राह स पादयोर्दृढम्।।5.47.34।।",
+      "transliteration": "",
+      "translation": "Thereupon Hanuman with the prowess that was equal to wind, approaching the sky firmly caught hold of the legs of Aksha flying into the abode of Garuda, the Windgod and the Siddhas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "स तं समाविध्य सहस्रशः कपिर्महोरगं गृह्य इवाण्डजेश्वरः।\nमुमोच वेगात्पितृतुल्यविक्रमो महीतले संयति वानरोत्तमः।।5.47.35।।",
+      "transliteration": "",
+      "translation": "Hanuman, the foremost of the vanaras who was equal to his father in valour, seized him just as Garuda, the lord of birds, would seize a great serpent. And spinning him round speedily a thousand times and hitting him, dropped him on the earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "स भग्नबाहूरुकटीशिरोधरः क्षरन्नसृङिनर्मथितास्थिलोचनः।\nसम्भग्नसन्धि: प्रविकीर्णबन्धनो हतः क्षितौ वायुसुतेन राक्षसः।।5.47.36।।",
+      "transliteration": "",
+      "translation": "Hit by Hanuman, the ogre's arms, thighs, hips and neck broken, bones rendered to fragments, eyes protruded, joints disjointed, tendons strewn he was thrown down on the earth dripping blood.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "महाकपिर्भूमितले निपीड्य तं चकार रक्षोधिपतेर्महद्भयम्।\nमहर्षिभिश्चक्रचरैर्महाव्रतै स्समेत्य भूतैश्च सयक्षपन्नगैः।।5.47.37।।\nसुरैश्च सेन्द्रैर्भृशजातविस्मयै र्हते कुमारे स कपिर्निरीक्षितः।",
+      "transliteration": "",
+      "translation": "When the great vanara dashed Aksha down on to the earth, the king of demons was struck with terror. The great sages who go round the planets, great seers who were observants of vows, yakshas, panagas, suras including Indra all beings collected together and looked at the vanara with awe.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-47-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "निहत्य तं वज्रिसुतोपमप्रभं कुमारमक्षं क्षतजोपमेक्षणम्।\nतमेव वीरोऽभिजगाम तोरणं कृतक्षणः काल इव प्रजाक्षये।।5.47.38।।",
+      "transliteration": "",
+      "translation": "Hanuman, the hero with bloodshot eyes having  slain Aksha, shone resplendent like the son of Indra (Jayanta), and reached the portal, and waited looking like the god of death determined to destroy all beings.   इत्यार्षे वाल्मीकीये श्रीमद्रामायणे आदिकाव्ये सुन्दरकाण्डे सप्तचत्वारिंशस्सर्गः।। Thus ends the fortyseventh sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

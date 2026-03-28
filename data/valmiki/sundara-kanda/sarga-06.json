@@ -1,0 +1,306 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 6,
+    "title": "Hanuman enters the palace of Ravana -- description of the palace",
+    "titleSanskrit": "",
+    "totalShlokas": 32
+  },
+  "shlokas": [
+    {
+      "id": "vs-6-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "स निकामं विमानेषु निषण्णः कामरूपधृत्।\nविचचार पुनर्लङ्कां लाघवेन समन्वितः।।5.6.1।।",
+      "transliteration": "",
+      "translation": "The mighty Hanuman, who could assume any form at will, not finding Sita in the tall mansions, again started rapidly ranging in Lanka.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "आससादाथ लक्ष्मीवान्राक्ष���ेन्द्रनिवेशनम्।\nप्राकारेणार्कवर्णेन भास्वरेणाभिसम्वृतम्।।5.6.2।।",
+      "transliteration": "",
+      "translation": "Then he reached the residence of the lord of demons enclosed by a red colour compound wall dazzling like the midday Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "रक्षितं राक्षसैर्घोरैः सिंहैरिव महद्वनम्।\nसमीक्षमाणो भवनं चकाशे कपिकुञ्जरः।।5.6.3।।",
+      "transliteration": "",
+      "translation": "The elephant among vanaras (Hanuman), scanned the mansion defended by dreadful demons like a forest protected by lions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "रूप्यकोपहितै श्चित्रैस्तोरणैर्हेमभूषितैः।\nविचित्राभिश्च कक्ष्याभिर्द्वारैश्च रुचिरैर्वृतम्।।5.6.4।।",
+      "transliteration": "",
+      "translation": "He saw beautiful silver archways decorated with gold, colourful inner apartments with beauteous entrances.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "गजास्थितैर्महामात्रैः शूरैश्च विगतश्रमैः।\nउपस्थितमसंहार्यैः र्हयैः स्यन्दनयायिभिः।।5.6.5।।",
+      "transliteration": "",
+      "translation": "(He saw) archways guarded by riders mounted on majestic elephants and unwearied riders of chariots drawn by horses of irresistible speed kept ready.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "सिंहव्याघ्रतनुत्राणैर्दान्तकाञ्चनराजतैः।\nघोषवद्भिर्विचित्रैश्च सदा विचरितं रथैः।।5.6.6।।",
+      "transliteration": "",
+      "translation": "There were wonderful chariots covered with skins of lions and tigers, encrusted with ivory, gold and silver with ringing bells moving about.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "बहुरत्नसमाकीर्णं परार्थ्यसनभाजनम्।\nमहारथसमावासं महारथमहास्वनम्।।5.6.7।।",
+      "transliteration": "",
+      "translation": "The palace was embellished with excellent seats and vessels with many precious gems. There were spacious places to accommodate big chariorts filled with shouts of great charioteers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "दृश्यैश्च परमोदारैस्तैस्तैश्च मृगपक्षिभिः।\nविविधै र्बहुसाहस्रैः परिपूर्णं समन्ततः।।5.6.8।।",
+      "transliteration": "",
+      "translation": "It was pleasing with several kinds of beautiful beasts in their thousands all over.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "विनीतैरन्तपालैश्च रक्षोभिश्च सुरक्षितम्।\nमुख्याभिश्च वरस्त्रीभिः परिपूर्णं समन्ततः।।5.6.9।।",
+      "transliteration": "",
+      "translation": "The place was full of beautful women, carefully protected by disciplined guards as well as demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "मुदितप्रमदारत्नं राक्षसेन्द्रनिवेशनम्।\nवराभरणसंह्रादैः समुद्रस्वनन्निस्वनम्।।5.6.10।।",
+      "transliteration": "",
+      "translation": "Full of the jewels of joyous women, the residence of the lord of demons reverberated with the jingling of their ornaments and accessories like the sound of the sea.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तद्राजगुणसम्पन्नं मुख्यैश्चागुरुचन्दनैः।\nमहाजनैः समाकीर्णां सिंहैरिव महद्वनम्।।5.6.11।।",
+      "transliteration": "",
+      "translation": "The place was full of eminent demons with royal traits like a dense forest infested with lions. It carried the fragrance of agaru and sandal of good quality.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "भेरीमृदङ्गाभिरुतं शङ्खघोषनिनादितम्।\nनित्यार्चितं पर्वहुतं पूजितं राक्षसैः सदा।।5.6.12।।",
+      "transliteration": "",
+      "translation": "Reverberating with the sounds of trumpets, mridangam and conches, there the demons daily performed worships and sacrifices on new and fullmoon days.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "समुद्रमिव गम्भीरं समुद्रमिव निस्स्वनम्।\nमहात्मनो महाद्वेश्म महारत्नपरिच्छदम्।।5.6.13।।\nमहारत्नसमाकीर्णं ददर्श स महाकपिः।",
+      "transliteration": "",
+      "translation": "The place produced deep sounds like the sea. Those mighty ogres wore gemstudded ornaments. The great vanara saw the residence of the great self, Ravana rich with precious gems.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "विराजमानं वपुषा गजाश्वरथसङ्कुलम्।।5.6.14।।\nलङ्काभरणमित्येव सोऽमन्यत महाकपिः।\nचचार हनुमांस्तत्र रावणस्य समीपतः।।5.6.15।।",
+      "transliteration": "",
+      "translation": "Hanuman, the great monkey, saw the royal mansion looking brilliant with elephants, horses and chariots. He thought that the palace was the very ornament of Lanka. He moved unnoticed into the close quarters of Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "गृहाद्गृहं राक्षसानामुद्यानानि च वानरः।\nवीक्षमाणोऽह्यसंत्रस्तः प्रासादांश्च चचार सः।।5.6.16।।",
+      "transliteration": "",
+      "translation": "Hanuman ranged undaunted from one mansion to another including the pleasure gardens.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अवप्लुत्य महावेगः प्रहस्तस्य निवेशनम्।\nततोऽन्यत्पुप्लुवे वेश्म महापार्श्वस्य वीर्यवान्।।5.6.17।।",
+      "transliteration": "",
+      "translation": "Courageous and swift, Hanuman sprang from Prahasta's house to Mahaparshva's, and so on.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अथ मेघप्रतीकाशं कुम्भकर्णनिवेशनम्।\nविभीषणस्य च तदा पुप्लुवे स महाकपिः।।5.6.18।।",
+      "transliteration": "",
+      "translation": "Then the great vanara leaped from the residence of Kumbhakarna which looked like a cloud to Vibhishana's.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "महोदरस्य च गृहं विरूपाक्षस्य चैव हि।\nविद्युज्जिह्वस्य भवनं विद्युन्मालेस्तथैव च।।5.6.19।।\nवज्रदंष्ट्रस्य च तथा पुप्लुवे स महाकपिः।",
+      "transliteration": "",
+      "translation": "The great vanara leaped from Mahodara's to Virupaksha's, from Vidyujjihva's to Vidyunmali and then to Vajradanstra's.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "शुकस्य च महातेजाः सारणस्य च धीमतः।।5.6.20।।\nतथा चेन्द्रजितो वेश्म जगाम हरियूथपः।",
+      "transliteration": "",
+      "translation": "The brilliant leader of monkeys bounded to the house of Suka, to the clever Sarana's and to Indrajit's.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "जम्बुमालेः सुमालेश्च जगाम हरिसत्तमः।।5.6.21।।\nरश्मिकेतोश्च भवनं सूर्यकेतोस्तथैव च।\nवज्रकायस्य च तथा पुप्लुवे स महाकपिः।।5.6.22।।",
+      "transliteration": "",
+      "translation": "The noble vanara jumped from Jambumali's to Sumali's and from  Rashmiketu's, Suryaketu's and to Vajrakaya's residence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "धूम्राक्षस्य च सम्पातेर्भवनं मारुतात्मजः।\nविद्युद्रूपस्य भीमस्य घनस्य विघनस्य च।।5.6.23।।\nशुकनासस्य वक्रस्य शठस्य विकटस्य च।\nब्रह्मकर्णस्य दंष्ट्रस्य रोमशस्य च रक्षसः।।5.6.24।।\nयुद्धोन्मत्तस्य मत्तस्य ध्वजग्रीवस्य नादिनः।\nविद्युज्जिह्वेन्द्रजिह्वानां तथा हस्तिमुखस्य च।।5.6.25।।\nकराळस्य पिशाचस्य शोणिताक्षस्य चैव हि।",
+      "transliteration": "",
+      "translation": "Hanuman jumped the houses of Dhumraksha, Sampati, Vidyudrupa, Bhima, Ghana and Vighana, Sukanasa, Vakra, Shatha, Vikata, Brahmakarna, Damshtra Romasa, Yuddhonmatta, Matta, Dhvajagriva, Nadi, Vidyujjihva and Indrajihva Hastimukha, Karala, Pisacha and Sonitaksha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "भवनम् क्रममाणः णोऽसौ हनुमान्मारुतात्मजः।।5.6.26।।\nतेषु तेषु महार्हेषु भवनेषु महायशाः।\nतेषामृद्धिमतामृद्धिं ददर्श स महाकपिः।।5.6.27।।",
+      "transliteration": "",
+      "translation": "The illustrious son of the Windgod jumped from house to house in an order and saw the wealth of the wealthy in the lofty mansions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "सर्वेषां समतिक्रम्य भवनानि समन्ततः।\nआससादाथ लक्ष्मीवान् राक्षसेद्रनिवेशनम्।।5.6.28।।",
+      "transliteration": "",
+      "translation": "Passing all the mansions, the lucky Hanuman reached the residence of the demon king, Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "रावणस्योपशायिन्यो ददर्श हरिसत्तमः।\nविचरन्हरिशार्दूलो राक्षसीर्विकृतेक्षणाः।।5.6.29।।\nशूलमुद्गरहस्ताश्च शक्तितोमरधारिणी:।",
+      "transliteration": "",
+      "translation": "The heroic and powerful vanara saw at Ravana's residence demonesses with hideous eyes guarding the bed and an army of demons holding tridents, hammers, powerful javelins and iron cudgels.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "ददर्श विविधान् गुल्मान् तस्य रक्षःपतेर्गृहे।।5.6.30।।\nराक्षसांश्च महाकायान्नानाप्रहरणोद्यतान्।",
+      "transliteration": "",
+      "translation": "At his (Ravana's) residence, Hanuman also noticed troops of huge demons ready with different kinds of weapons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "रक्तान् श्वेतान् सितांश्चैव हरींश्चापि महाजवान्।।5.6.31।।\nकुलीनान् रूपसम्पन्नान् गजान्परगजारुजान्।\nनिष्ठितान् गजशिक्षयामैरावतसमान्युधि।।5.6.32।।\nनिहन्त्रून् परसैन्यानां गृहे तस्मिन् ददर्श सः।\nक्षरतश्च यथा मेघान् स्रवतश्च यथा गिरीन्।।5.6.33।।\nमेघसन्ततिनिर्घोषान् दुर्धर्षान् समरे परैः।",
+      "transliteration": "",
+      "translation": "He saw horses of high speed in red, white and cream colours. He saw beautiful, wellbred elephants, which were not inferior to the enemy's. They were welltrained and had proved equal to Airavata (Indra's elephant) in battles. Resembling the thundering clouds, they were unassailable to the enemy in war and were trumpeting like a cluster of clouds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "सहस्रं वाहिनीस्तत्र जाम्बूनदपरिष्कृताः।।5.6.34।।\nहेमजालपरिच्छन्नास्तरुणादित्यस���्निभाः।\nददर्श राक्षसेन्द्रस्य रावणस्य निवेशने।।5.6.35।।",
+      "transliteration": "",
+      "translation": "He saw in the palace of Ravana, the demon king, thousands of troops adorned with gold, fully protected with armour of gold shining like the morning Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "शिबिका विविधाकाराः स कपिर्मारुतात्मजः।\nलतागृहाणि चित्राणि चित्रशालागृहाणि च।।5.6.36।।\nक्रीडागृहाणि चान्यानि दारुपर्वतकानपि।\nकामस्य गृहकं रम्यं दिवागृहकमेव च।।5.6.37।।\nददर्श राक्षसेन्द्रस्य रावणस्य निवेशने।",
+      "transliteration": "",
+      "translation": "The son of the Windgod saw at the palace of Ravana, the lord of demons, colourful palanquins of several kinds, bowers, picture galleries, spots for sporting, hillocks (artificial) made of wood, apartments for romance, for pleasures and day time activities.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "स मन्दरगिरिप्रख्यं मयूरस्थानसङ्कुलम्।।5.6.38।।\nध्वजयष्टिभिराकीर्णं ददर्श भवनोत्तमम्।\nअनेकरत्नसङ्कीर्णं निधिजालं समन्ततः।।5.6.39।।\nधीरनिष्ठितकर्मान्तं गृहं भूतपतेरिव।",
+      "transliteration": "",
+      "translation": "Comparable to mount Mandara, it was crowded with peacocks, set with flag staffs fixed all over, magnificent mansions built by skilled craftsmen with great efforts, decked with gems of several kinds, rich with treasures comparable to Kailasa, the home of Siva, the Lord of all beings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "अर्चिर्भिश्चापि रत्नानां तेजसा रावणस्य च।।5.6.40।।\nविरराजाथ तद्वेश्म रश्मिमानिव रश्मिभिः।",
+      "transliteration": "",
+      "translation": "The palace of Ravana looked splendid with gems of different hues and with Ravana's presence, it was shining like the radiant Sungod.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "जाम्बूनदमयान्येन शयनान्यासनानि च।।5.6.41।।\nभाजनानि च मुख्यानि ददर्श हरियूथपः।",
+      "transliteration": "",
+      "translation": "The leader of the vanaras saw there beds, seats and main vessels made of gold.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-6-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "मध्वासवकृतक्लेदं मणिभाजनसङ्कुलम्।।5.6.42।।\nमनोरममसंबाधं कुबेरभवनं यथा।\nनूपुराणां च घोषेण काञ्चीनां निनदेन च।।5.6.43।।\nमृदङ्तलघोषैश्च घोषवद्भिर्विनादितम्।\nप्रासादसङ्घातयुतं स्त्रीरत्नशतसङ्कुलम्।।5.6.44।\nसुव्यूढकक्ष्यं हनुमान् प्रविवेश महागृहाम्।",
+      "transliteration": "",
+      "translation": "Hanuman entered the delightful, lofty palace comparable to Kubera's mansion. It was filled with vessels encrusted with gems scattered all over. The floor was drenched with liquor. It was resonating with sounds of golden anklets of women and of drums. The rows of mansions, lofty palaces with welllaid apartments were full of hundreds of exquisite women. इत्यार्षे वाल्मीकीये श्रीमद्रामायणे आदिकाव्ये सुन्दरकाण्डे षष्ठस्सर्गः।। Thus ends the sixth sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

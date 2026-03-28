@@ -1,0 +1,261 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 5,
+    "title": "Hanuman finds demons all over Lanka -- feels sad, unable to find Sita.",
+    "titleSanskrit": "",
+    "totalShlokas": 27
+  },
+  "shlokas": [
+    {
+      "id": "vs-5-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततः स मध्यंगतमंशुमन्तं ज्योत्स्नावितानं महदुद्वमन्तम्।\nददर्श धीमान् दिवि भानुमन्तं गोष्ठे वृषं मत्तमिव भ्रमन्तम्।।5.5.1।।",
+      "transliteration": "",
+      "translation": "Then intelligent Hanuman observed the Moon in the central part of the sky spreading a canopy of his luminescence like the Sun, and looking like an intoxicated mighty (white) bull moving in a stable.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-5-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "लोकस्य पापानि विनाशयन्तं महोदधिं चापि समेधयन्तम्।\nभूतानि सर्वाणि विराजयन्तं ददर्श शीतांशुमथाभियान्तम्।।5.5.2।।",
+      "transliteration": "",
+      "translation": "While moving forward, Hanuman saw the Moon spreading his light, thereby warding off the agony of all creatures, causing the swelling of the ocean and illuminating the earth as well as the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-5-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "या भाति लक्ष्मीर्भुवि मन्दरस्था तथा प्रदोषेषु च सागरस्था।\nतथैव तोयेषु च पुष्करस्था रराज सा चारुनिशाकरस्था।।5.5.3।।",
+      "transliteration": "",
+      "translation": "'The  same splendour on the Mandara mountain on earth, which glows at dusk lay on the ocean is there, on lotuses in the lakes and on the beautiful Moon also.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-5-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "हंसो यथा राजतपञ्जरस्थः सिंहो यथा मन्दरकन्दरस्थः।\nवीरो यथा गर्वितकुञ्जरस्थ चन्द्रोऽपि बभ्राज तथाम्बरस्थः।।5.5.4।।",
+      "transliteration": "",
+      "translation": "'Like a swan in a cage of silver, like a lion in a cave of Mandara mountain, like a hero on a proud, intoxicated elephant, the Moon shone in the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-5-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "स्थितः ककुद्मानिव तीक्ष्णशृङ्गो महाचलः श्वेत इवोच्चशृङ्गः।\nहस्तीव जाम्बूनदबद्धशृङ्गो रराज चन्द्रः परिपूर्णशृङ्गः।।5.5.5।।",
+      "transliteration": "",
+      "translation": "The fullmoon with its hornlike spot  shone like a bull with sharp horns, like the  white Himalayan mountain with its lofty peaks, and like an elephant with gold plated tusks",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-5-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "विनष्टशीताम्बुतुषारपङ्को महाग्रहग्राहविनष्टपङ्कः।\nप्रकाशलक्ष्म्याश्रयनिर्मलाङ्क: रराज चन्द्रो भगवान् शशाङ्कः।।5.5.6।।",
+      "transliteration": "",
+      "translation": "With the Sun, the great planet (star), destroying the frost that forms the dew, the Moon with its stain shone with graceful radiance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-5-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "शिलातलं प्राप्य यथा मृगेन्द्रो महारणं प्राप्य यथा गजेन्द्रः।\nराज्यं समासाद्य यथा नरेन्द्र स्तथाप्रकाशो विरराज चन्द्रः।।5.5.7।।",
+      "transliteration": "",
+      "translation": "The Moon shone bright like a lion mounted on a rock, like a lordly elephant in a deep forest, like a king on attaining the kingdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-5-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "प्रकाशचन्द्रोदयनष्टदोषः प्रवृत्तरक्षः पिशिताशदोषः।\nरामाभिरामेरितचित्तदोषः स्वर्गप्रकाशो भगवान् प्रदोषः।।5.5.8।।",
+      "transliteration": "",
+      "translation": "At  the time of moonrise, the darkness of dusk is dispelled, the dark deeds of cannibals disappear, the natural instinct for love returns to women as the radiance of the Moon spreads everywhere like in heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-5-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तन्त्रीस्वनाः कर्णसुखाः प्रवृत्ताः स्वपन्ति नार्यः पतिभिः सुवृत्ताः।\nनक्तंचराश्चापि तथा प्रवृत्ता: विहर्तुमत्यद्भुतरौद्रवृत्ताः।।5.5.9।।",
+      "transliteration": "",
+      "translation": "Pleasing sounds of string instruments had begun to be heard. Chaste women were found asleep with their husbands.The nightrangers had begun their strange (evil and cruel) deeds exhibiting their anger.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-5-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "मत्तप्रमत्तानि समाकुलानि रथाश्वभद्रासनसङ्कुलानि।\nवीरश्रिया चापि समाकुलानि ददर्श धीमान् स कपिः कुलानि।।5.5.10।।",
+      "transliteration": "",
+      "translation": "Intelligent Hanuman, the great warrior, observed there in the prosperous mansions, demons proud of their wealth, highly intoxicated and dull, their houses full of horsedrawn chariots with comfortable seats.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-5-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "परस्परं चाधिकमाक्षिपन्ति भुजांश्च पीनानधिकं क्षिपन्ति।\nमत्तप्रलापानधिकं क्षिपन्ति मत्तानि चान्योन्यमधिक्षिपन्ति।।5.5.11।।",
+      "transliteration": "",
+      "translation": "The intoxicated demons were quarrelling, ridiculing one another bitterly and wildly throwing their stout arms on one another, indulging in incoherent talk, uttering vulgar words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-5-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "रक्षांसि वक्षांसि च विक्षिपन्ति गात्राणि कान्तासु च विक्षिपन्ति।\nरूपाणि चित्राणि च विक्षिपन्ति दृढानि चापानि च विक्षिपन्ति।।5.5.12।।",
+      "transliteration": "",
+      "translation": "The demons were seen expanding their chests sportively and caressing their wives by placing their limbs on them. They were assuming wonderful forms, and drawing their bows up to their ears.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-5-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "ददर्श कान्ताश्च समालभन्त्य स्तथा परास्तत्र पुनः स्वपन्त्यः।\nसुरूपवक्त्राश्च तथा हसन्त्यः क्रुद्धाः पराश्चापि विनिःश्वसन्त्य।।5.5.13।।",
+      "transliteration": "",
+      "translation": "He even saw women collected there, their limbs smeared with unguents on their bodies, like wise women with beautiful countenances laughing at others, some sleeping, and others hissing (sighing) like angry serpents.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-5-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "महागजैश्चापि तथा नदद्भि: सुपूजितैश्चापि तथा सुसद्भिः।\nरराज वीरैश्च विनिःश्वसद्भिः ह्रदो भुजङ्गैरिव निःश्वसद्भिः।।5.5.14।।",
+      "transliteration": "",
+      "translation": "There were huge elephants trumpeting, respected people, warriors sighing for the lack of enemies (to vanquish). It had a lake infested with hissing snakes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-5-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "बुद्धिप्रधानान् रुचिराभिधानान् संश्रद्धधानान् जगतः प्रधानान्।\nनानाविधानान् रुचिराभिधानान् ददर्श तस्यां पुरि यातुधानान्।।5.5.15।।",
+      "transliteration": "",
+      "translation": "He saw there in the city of Lanka, demons, who were intellectuals, pleasing in words, with faith in religion, preeminent heroes of the world  of different kinds, followers of good practices and with lovely names.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-5-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "ननन्द दृष्ट्वा स च तान् सुरूपान्नानागुणानात्मगुणानुरूपान्।\nविद्योतमानान्स तदानुरूपान् ददर्श कांश्चिच्च पुनर्विरूपान्।।5.5.16।।",
+      "transliteration": "",
+      "translation": "He rejoiced to see the handsome demons radiant with forms commensurate with their virtues. He also saw some ugly figures, their traits in conformity to their forms.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-5-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "ततो वरार्हाः सुविशुद्धभावा स्तेषां स्त्रियस्तत्र महानुभावाः।\nप्रियेषु पानेषु च सक्तभावा ददर्श तारा इव सुप्रभावाः।।5.5.17।।",
+      "transliteration": "",
+      "translation": "There he saw demonesses adorned with choicest ornaments, their minds attached faithfully to their husbands and bottles of wine. Some of the wives of the demons, however, looked gentle and bright like stars.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-5-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "श्रिया ज्वलन्तीस्त्रपयोपगूढा निशीथकाले रमणोपगूढाः।\nददर्श काश्चित्प्रमदोपगूढा यथा विहङ्गाः कुसुमोपगूढाः।।5.5.18।।",
+      "transliteration": "",
+      "translation": "There he saw cheerful demonesses shining brightly, abashed by the embrace of their beloveds during the night. He also saw those sporting with their beloveds freely and looking like birds embracing flowers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-5-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "अन्याः पुनर्हर्म्यतलोपविष्टा स्तत्र प्रियाङ्केषु सुखोपविष्टाः।\nभर्तुः प्रिया धर्मपरा निविष्टा ददर्श धीमान् मदनाभिविष्टाः।।5.5.19।।",
+      "transliteration": "",
+      "translation": "Intelligent Hanuman saw demonesses seated happily on the laps of their beloved ones on the terraces of the mansions, exhibiting their attachment to one another,  overwhelmed with sexual pleasure.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-5-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "अप्रावृताः काञ्चनराजिवर्णाः काश्चित्परार्थ्यास्तपनीयवर्णाः।\nपुनश्च काश्चिच्छशलक्ष्मवर्णाः कान्तप्रहीणा रुचिराङ्गवर्णाः।।5.5.20।।",
+      "transliteration": "",
+      "translation": "Ogresses without veil, some altruistic, some separated from their husbands looked pale like the Moon, though possessed of  polished gold complexion.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-5-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "ततः प्रियान् प्राप्य मनोभिरामाः सुप्रीतियुक्ताः प्रसमीक्ष्यरामाः।\nगृहेषु हृष्टाः परमाभिरामाः हरिप्रवीरः स ददर्श रामाः।।5.5.21।।",
+      "transliteration": "",
+      "translation": "That heroic monkey saw ogresses delighted in the happy company of their loved ones who have joined them, ecstatic wives in the houses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-5-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "चन्द्रप्रकाशाश्च हि वक्त्रमालाः वक्राक्षिपक्ष्माश्च सुनेत्रमालाः।\nविभूषणानां च ददर्श मालाः शतह्रद���नामिव चारुमालाः।।5.5.22।।",
+      "transliteration": "",
+      "translation": "He saw rows of faces of shedemons shining like moonlight with sidelong glances and graceful eyelashes wearing ornaments resembling charmimg flashes of lightning.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-5-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "न त्वेव सीतां परमाभिजातां पथि स्थिते राजकुले प्रजाताम्।\nलतां प्रपुल्लामिव साधु जातां ददर्श तन्वीं मनसाभिजाताम्।।5.5.23।।",
+      "transliteration": "",
+      "translation": "Hanuman could not find Sita  anywhere, an excellent lady  born in a noble royal family, adopting the right path, a lady  delicate like a blossoming creeper of good breed, or so he imagined.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-5-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "सनातने वर्त्मनि सन्निविष्टां रामेक्षणां तां मदनाभिविष्टाम्।\nभर्तुर्मनः श्रीमदनुप्रविष्टां स्त्रीभ्यो वराभ्यश्च सदा विशिष्टाम्।।5.5.24।।",
+      "transliteration": "",
+      "translation": "'Sita must have had a pair of beautiful eyes. She must have been a passionate lady with mind fixed on her glorious husband. Ever established in dharma, she is perhaps a distinguished lady compared to her counterparts (in Lanka).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-5-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "उष्णार्दितां सानुसृतास्रकण्ठीम् पुरा वरार्होत्तमनिष्ककण्ठीम्।\nसुजातपक्ष्मामभिरक्तकण्ठीं वनेऽप्रवृत्तामिव नीलकण्ठीम्।।5.5.25।।",
+      "transliteration": "",
+      "translation": "She whose neck  was adorned with costly ornaments earlier must be shedding hot tears now, her throat choked with grief. With her beautiful eyelashes and a sweet loving voice, she would be now like a  peahen wandering in the woods.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-5-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "अव्यक्तरेखामिव चन्द्ररेखां पांसुप्रदिग्धामिव हेमरेखाम्।\nक्षतप्ररूढामिव बाणरेखां वायुप्रभिन्नामिव मेघरेखाम्।।5.5.26।।",
+      "transliteration": "",
+      "translation": "She would be like a barely visible ray of the Moon, like a streak of gold covered with dust, like an unhealed scar of a wound caused by an arrow only superficially covered and like a flake of cloud swept off by the wind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-5-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "सीतामपश्यन् मनुजेश्वरस्य रामस्य पत्नीं वदतां वरस्य।\nबभूव दुःखाभिहतश्चिरस्य प्लवङ्गमो मन्द इवाचिरस्य।।5.5.27।।",
+      "transliteration": "",
+      "translation": "Hanuman stood griefstricken, having (unsuccessfully) searched for a long time for the wife of Rama, the lord of men. The highly eloquent was now despondent. For a while he looked dull and dejected. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे पञ्चमस्सर्गः।। Thus ends the fifth sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

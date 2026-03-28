@@ -1,0 +1,171 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 4,
+    "title": "Hanuman witnesses Ravana's strength at Lanka.",
+    "titleSanskrit": "",
+    "totalShlokas": 17
+  },
+  "shlokas": [
+    {
+      "id": "vs-4-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "स निर्जित्य पुरीं श्रेष्ठां लङ्कां तां कामरूपिणीम्।\nविक्रमेण महातेजा हनुमान् कपिसत्तमः।।5.4.1।।\nअद्वारेण च महाबाहुः प्राकारमभिपुप्लुवे।",
+      "transliteration": "",
+      "translation": "Hanuman, the strongshouldered, mighty monkey chief having defeated the (presiding) deity of Lanka who could assume any form at her will, leaped over the boundary wall of the rear entrance of the excellent city by his prowess.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-4-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "प्रविश्य नगरीं लङ्कां कपिराजहितंकरः।।5.4.2।।\nचक्रेऽथ पादं सव्यं च शत्रूणां स तु मूर्धनि।",
+      "transliteration": "",
+      "translation": "Hanuman, a devotee of the king of monkeys entered the city of Lanka placing his left foot first on the forehead of the city and proceeded (by tradition one enters the enemy's dwelling by placing the left foot first to cause defeat of the enemy).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-4-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "प्रविष्टः सत्त्वसम्पन्नो निशायां मारुतात्मजः।।5.4.3।।\nस महापथमास्थाय मुक्तापुष्पविराजितम्।\nततस्तु तां पुरीं लङ्कां रम्यामभिययौ कपिः।।5.4.4।।",
+      "transliteration": "",
+      "translation": "The son of the Windgod, endowed with great strength, entered the enchanting Lanka and walked along the highway set with flowers of pearls.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-4-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "हसितोत्कृष्टनिनदैस्तूर्यघोषपुरस्सरैः।\nवज्रांकुशनिकाशैश्च वज्रजालविभूषितैः।।5.4.5।।\nगृहमेघैः पुरी रम्या बभासे द्यौरिवाम्बुदैः।",
+      "transliteration": "",
+      "translation": "The houses reverberating with sounds of laughter and of musical instruments, decorated with lattice windows of diamonds resembled the sky shining with clouds with a goad made of diamond (thunderbolt of Indra).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-4-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "प्रजज्वाल ततो लङ्का रक्षोगणगृहैः शुभैः।।5.4.6।।\nसिताभ्रसदृशैश्चित्रैः पद्मस्वस्तिकसंस्थितैः।\nवर्धमानगृहैश्चापि सर्वतः सुविभूषिता।।5.4.7।।",
+      "transliteration": "",
+      "translation": "The city of Lanka appeared radiant with its tall mansions resembling white clouds. The  mansions had auspicious marks of lotus and swastika engraved on them and were opening in the direction of the south.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-4-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तां चित्रमाल्याभरणां कपिराजहितङ्करः।\nराघवार्थं चरन् श्रीमान् ददर्श च ननन्द च।।5.4.8।।",
+      "transliteration": "",
+      "translation": "Glorious Hanuman, wellwisher of Sugriva, king of vanaras, looked around the city, decorated with colourful garlands. Surveying it for the cause of Raghava, he was greatly delighted.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-4-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "भवनाद्भवनं गच्छन् ददर्श पवनात्मजः।\nविविधाकृतिरूपाणि भवनानि ततस्ततः।।5.4.9।।",
+      "transliteration": "",
+      "translation": "Going from one building to another, Hanuman saw mansions of different kinds  structures.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-4-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "शुश्राव मधुरं गीतं त्रिस्थानस्वरभूषित���्।\nस्त्रीणां मदसमृद्धानां दिवि चाप्सरसामिव।।5.4.10।।",
+      "transliteration": "",
+      "translation": "He heard melodious songs of intoxicated women set to tune in three places namely chest, throat and head and three pitches known as mandra (slow) madhya (medium) and tara (high). The songs resembled those of the apsarasas well set in musical notes set to music.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-4-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "शुश्राव काञ्चीनिनदं नूपुराणां च, निःस्वनम्।\nसोपाननिनदांश्चैव भवनेषु महात्मनाम्।।5.4.11।।\nअस्फोटितनिनादांश्च क्ष्वेलितांश्च ततस्ततः।",
+      "transliteration": "",
+      "translation": "Great Hanuman heard the jingling sounds of waist bells and anklets of women and sounds of great men climbing up and down flights of steps, sounds of clapping and joking everywhere in the mansions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-4-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "शुश्राव जपतां तत्र मन्त्रान् रक्षोगृहेषु वै।।5.4.12।।\nस्वाध्यायनिरतांश्चैव यातुधानान् ददर्श सः।\nरावणस्तवसंयुक्तान् गर्जतो राक्षसानपि।।5.4.13।।",
+      "transliteration": "",
+      "translation": "He heard chantings of sacred verses in the houses of demons engaged in the study of the vedas. And heard demons singing loudly the eulogy of Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-4-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "राजमार्गं समावृत्य स्थितं रक्षोबलं महत्।\nददर्श मध्यमे गुल्मे रावणस्य चरान् बहून्।।5.4.14।।",
+      "transliteration": "",
+      "translation": "He observed large contingents of demons lining the highway and spies of Ravana stationed in the middle of the city.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-4-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "दीक्षितान् जटिलान् मुण्डान् गोजिनाम्बरवाससः।\nदर्भमुष्टिप्रहरणानग्निकुण्डायुघांस्तथा।।5.4.15।।\nकूटमुद्गरपाणींश्च दण्डायुधधरानपि।\nएकाक्षानेककर्णांश्च लम्बोदरपयोधरान्।।5.4.16।।\nकरालान् भुग्नवक्त्रांश्च विकटान् वामनांस्तथा।\nधन्विनः खङ्गिनश्चैव शतघ्नीमुसलायुधान्।।5.4.17।।\nपरिघोत्तमहस्तांश्च विचित्रकवचोज्ज्वलान्।\nनातिस्थूलान्नातिकृशान्नातिदीर्घातिह्रस्वकान्।।5.4.18।।\nनातिगौरान्नातिकृष्णान्नातिकुब्जान्न वामनान्।\nविरूपान् बहुरूपांश्च सुरूपांश्च सुवर्चसः।5.4.19।।\nध्वजीन् पताकिनश्चैव ददर्श विविधायुधान्।",
+      "transliteration": "",
+      "translation": "Going around Lanka, Hanuman witnessed all kinds of demons priests who were performing rituals, ascetics with matted hair, some with shaven heads, and some robed in cowhides. Some were  holding fistfuls of darbha grass (as weapons), others held sacrificial tools (as weapons), some had mallets, some hammers and others had staff and spikes. Some looked frightful with a single eye, some with a single ear, some with drooping stomachs and sagging breasts and in distorted forms. Similarly some dwarfs and some wielding iron weapons, their bodies covered with wonderful shields some not very tall or short, not stout or thin, not very dark and not with hideous forms or mutilated bodies. Some had goodlooking countenances, some were seen holding posts and flags and weapons of several kinds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-4-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "शक्तिवृक्षायुधांश्चैव पट्टिसाशनिधारिणः।।5.4.20।।\nक्षेपणीपाशहस्तांश्च ददर्श स महाकपिः।\nस्रग्विणस्त्वनुलिप्तांश्च वराभरणभूषितान्।।5.4.21।।\nनानावेषसमायुक्तान् यथास्स्वैरगतान् बहून्।\nतीक्ष्णशूलधरांश्चैव वज्रिणश्च महाबलान्।।5.4.22।।",
+      "transliteration": "",
+      "translation": "The great monkey saw the demons who held shaktis and trees as weapons (Shakti is a lance), some held threepointed spears, missiles and slings with which missiles are hurled. Some of them wore flower garlands, smeared unguents on their body and were bedecked with choicest ornaments. They were dressed in several ways and many of them moved freely. They were very strong and held sharp tridents and armed with thunderboltlike weapons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-4-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "शतसाहस्रमव्यग्रमारक्षं मध्यमं कपिः।\nरक्षोधिपतिनिर्दिष्टं ददर्शान्तःपुराग्रतः।।5.4.23।।",
+      "transliteration": "",
+      "translation": "Hanuman saw in front of the harem one hundred thousand strong, vigilant soldiers of a middle rank ordered by the lord of demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-4-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "स तदा तद्गृहं दृष्ट्वा महाहाटकतोरणम्।\nराक्षसेन्द्रस्य विख्यातमद्रिमूर्ध्नि प्रतिष्ठितम्।।5.4.24।।\nपुण्डरीकावतंसाभिः परिखाभिरलङ्कृतम्।\nप्राकारावृतमत्यन्तं ददर्श स महाकपिः।।5.4.25।।",
+      "transliteration": "",
+      "translation": "The great monkey observed the huge archway of the demon king's palace made of gold situated on top of the mountain as if scraping the sky, circled by moats full of white lotuses appearing as though the moats were decorated with earornaments. The whole city was encircled by a boundary wall.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-4-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "त्रिविष्टपनिभं दिव्यं दिव्यनादनिनादितम्।\nवाजिहेषितसङ्घुष्टं नादितं भूषणैस्तथा।।5.4.26।।\nरथैर्यानैर्विमानैश्च तथा हयगजैः शुभैः।\nवारणैश्च चतुर्थन्तैः श्वेताभ्रनिचयोपमैः।।5.4.27।।\nभूषितं रुचिरद्वारं मत्तैश्च मृगपक्षिभिः।\nरक्षितं सुमहावीर्यैर्यातुधानैः सहस्रशः।\nराक्षसाधिपतेर्गुप्तमाविवेश महाकपिः।।5.4.28।।",
+      "transliteration": "",
+      "translation": "And then the great vanara entered the wonderful mansion that resembled heaven. It was resonating with pleasing sounds of jingling ornaments made more noisy by the neighing of the horses. There were carriages, chariots, flying chariots, horses and elephants. The beautiful entrance was looking splendid with intoxicated animals and birds. That place looked splendid with fourtusked elephants resembling heaps of white clouds. The beautiful entrance was guarded by thousands of valiant demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-4-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "सहेमजाम्बूनदचक्रवालं महार्हमुक्तामणिभूषितान्तम्।\nपरार्थ्यकालागुरुचन्दनाक्तं स रावणान्तःपुरमाविवेश।।5.4.29।।",
+      "transliteration": "",
+      "translation": "Hanuman entered the harem of Ravana surrounded by walls of gold inlaid with precious pearls and other gems and sprinkled with excellent black agaru and sandal water. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे चतुर्थस्सर्गः।। Thus ends the fourth sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

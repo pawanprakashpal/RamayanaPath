@@ -1,0 +1,396 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 53,
+    "title": "Ravana orders the ogres to put Hanuman's tail on fire and take him round Lanka with his burning tail",
+    "titleSanskrit": "",
+    "totalShlokas": 42
+  },
+  "shlokas": [
+    {
+      "id": "vs-53-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तस्य तद्वचनं श्रुत्वा दशग्रीवो महात्मनः।\nदेशकालहितं वाक्यं भ्रातुरुत्तरमब्रवीत्।।5.53.1।।",
+      "transliteration": "",
+      "translation": "The tenheaded Ravana heard his brother, the greatsoul Vibhishana's timely advice which was in keeping with the laws of the land and replied.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "सम्यगुक्तं हि भवता दूतवध्या विगर्हिता।\nअवश्यं तु वध���दन्यः क्रियतामस्य निग्रहः।।5.53.2।।",
+      "transliteration": "",
+      "translation": "\"Indeed, you have spoken very well.Killing of emissary is censured (in sastras). Surely we will impose suitable punishment other than killing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "कपीनां किल लाङ्गूलमिष्टं भवति भूषणम्।\nतदस्य दीप्यतां शीघ्रं तेन दग्धेन गच्छतु।।5.53.3।।",
+      "transliteration": "",
+      "translation": "\"The tail is dear to the monkeys and it is an ornament for them. Set fire to it at once and let him go with his burning tail.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "ततः पश्यन्त्विमं दीनमङ्गवैरूप्यकर्शितम्।\nसमित्रज्ञातयस्सर्वे बान्धवाः ससुहृज्जनाः।।5.53.4।।\nआज्ञापयद्राक्षसेन्द्रः पुरं सर्वं सचत्वरम्।\nलाङ्गूलेन प्रदीप्तेन रक्षोभिः परिणीयताम्।।5.53.5।।",
+      "transliteration": "",
+      "translation": "\"Then all his friends, relatives and his kinsmen will see his disfigured and handicapped form. The demon king having ordered thus, the monkey was taken by the ogres round the junctions of the roads all over the city with his tail on fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तस्य तद्वचनं श्रुत्वा राक्षसाः कोपकर्शिताः।\nवेष्टयन्ति स्म लाङ्गूलं जीर्णैः कार्पासकैः पटैः।।5.53.6।।",
+      "transliteration": "",
+      "translation": "\"Obeying the orders of the king, the brutally angry demons wrapped his tail with tatters of cotton.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "संवेष्ट्यमाने लाङ्गूले व्यवर्धत महाकपिः।\nशुष्कमिन्धनमासाद्य वनेष्विव हुताशनः।।5.53.7।।",
+      "transliteration": "",
+      "translation": "While the tail was being swathed, the great vanara grew in size like wild fire fed with dry firewood.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तैलेन परिषिच्याथ तेऽग्निं तत्राभ्यपातयन्।\nलाङ्गूलेन प्रदीप्तेन राक्षसांस्तानपातयत्।।5.53.8।।\nरोषामर्षपरीतात्मा बालसूर्यसमाननः।",
+      "transliteration": "",
+      "translation": "The demons soaked the tail and set fire to it. His face burning in anger shone like the rising Sun and his mind seized with indignation, he struck them with the burning tail.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "लाङ्गूलं सम्प्रदीप्तं तु द्रष्टुं तस्य हनूमतः।।5.53.9।।\nसहस्त्रीबालवृद्धाश्च जग्मुः प्रीता निशाचराः।",
+      "transliteration": "",
+      "translation": "All the demons including the shedemons and their children and the elders went out joyfully to see the burning tail of Hanuman.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "स भूयः सङ्गतैः क्रूरैर्राक्षसैर्हरिसत्तमः।।5.53.10।।\nनिबद्धः कृतवान्वीरस्तत्कालसदृशीं मतिम्।",
+      "transliteration": "",
+      "translation": "When the cruel demons collected together and bound him once again the heroic Hanuman thought what was appropriate to the moment.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "कामं खलु न मे शक्ता निबद्धस्यापि राक्षसाः।।5.53.11।।\nछित्त्वा पाशान् समुत्पत्य हन्यामहमिमान्पुनः।",
+      "transliteration": "",
+      "translation": "'Even though these ogres are not capable, they have bound me. Indeed I will leap (into  the air) once again and sever my bonds and kill them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "यदि भर्तुर्हितार्थाय चरन्तं भर्तृशासनात्।।5.53.12।।\nबध्नन्त्येते दुरात्मनो न तु मे निष्कृतिः कृता।",
+      "transliteration": "",
+      "translation": "'These  evilminded demons bind me, ordered by their lord. When I am moving here for the welfare of  my master, I will not let them escape৷৷",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "सर्वेषामेव पर्याप्तो राक्षसानामहं युधि।।5.53.13।।\nकिंतु रामस्य प्रीत्यर्थं विषहिष्येऽहमीदृशम्।\nलङ्का चारयितव्या वै पुनरेव भवेदिति।।5.53.14।।",
+      "transliteration": "",
+      "translation": "'I am strong enough to destroy all the demons in a battle. I am enduring this humiliation in order to make Rama happy. In this way I will get a chance to see Lanka once again.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "रात्रौ न हि सुदृष्टा मे दुर्गकर्मविधानतः।\nअवश्यमेव द्रष्टव्या मया लङ्का निशाक्षये।।5.53.15।।",
+      "transliteration": "",
+      "translation": "'Indeed I saw Lanka at night for which I could not acquire proper knowledge about the fortification of the city. Surely it should be seen by me now after the night has passed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "कामं बद्धस्य मे भूयः पुच्छस्योद्दीपनेन च।\nपीडां कुर्वन्तु रक्षांसि न मेऽस्ति मनसश्श्रमः।।5.53.16।।",
+      "transliteration": "",
+      "translation": "'Let the demons torture me freely by setting fire to my tail. Let them bind me. I am not exhausted.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "ततस्ते संवृताकारं सत्त्ववन्तं महाकपिम्।\nपरिगृह्य ययुर्हृष्ट�� राक्षसाः कपिकुञ्जरम्।।5.53.17।।",
+      "transliteration": "",
+      "translation": "Then the ogres set forth joyfully capturing the very powerful elephant among the monkeys, the great vanara who had contracted his body.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "शङ्खभेरीनिनादैस्तं घोषयन्तः स्वकर्मभिः।\nराक्षसाः क्रूरकर्माणश्चारयन्ति स्म तां पुरीम्।।5.53.18।।",
+      "transliteration": "",
+      "translation": "The cruel demons started blowing conches and beating drums. They paraded him in the city  announcing their deeds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अन्वीयमानो रक्षोभिर्ययौ सुखमरिन्दमः।\nहनुमांश्चारयामास राक्षसानां महापुरीम्।।5.53.19।।",
+      "transliteration": "",
+      "translation": "Hanuman, the subduer of enemies ranged forth happily while he was followed by the demons in the great city.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अथापश्यद्विमानानि विचित्राणि महाकपिः।\nसंवृतान् भूमिभागांश्च सुविभक्तांश्च चत्वरान्।।5.53.20।।",
+      "transliteration": "",
+      "translation": "The great vanara saw wonderful, towering mansions, secure, mammoth buildings all over and welllaid out squares on the streets.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "वीथीश्च गृहसम्बाधाः कपिश्शृङ्गाटकानि च।\nतथा रथ्योपरथ्याश्च तथैव गृहकान्तरान्।।5.53.21।।\nगृहांश्च मेघसङ्काशान् ददर्श पवनात्मजः।",
+      "transliteration": "",
+      "translation": "The son of the Windgod saw the streets with beautiful, tall mansions and houses appearing like clouds, highways and byways and secret routes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "चत्वरेषु चतुष्केषु राजमार्गे तथैव च।।5.53.22।।\nघोषयन्ति कपिं सर्वे चारीक इति राक्षसाः।",
+      "transliteration": "",
+      "translation": "All the demons went forth through cross roads, altars built on four pillars and royal roads announcing that he (Hanuman) was a spy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "स्त्रीबालवृद्धाः निर्जग्मुस्तत्र तत्र कुतूहलात्।।5.53.23।।\nतं प्रदीपितलाङ्गूलं हनुमन्तं दिदृक्षवः।",
+      "transliteration": "",
+      "translation": "With eagerness to have a glance at Hanuman's blazing tail, women, children and the aged here and there came out of eagerness to see him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "दीप्यमाने ततस्तत्र लाङ्गूलाग्रे हनूमतः।।5.53.24।।\nराक्षस्यस्ता विरूपाक्ष्य श्शंसुर्देव्यास्तदप्रियम्।",
+      "transliteration": "",
+      "translation": "When the tip of Hanuman's tail was set on fire, the uglyeyed shedemon. Carried the unpleasant news to divine Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "यस्त्वया कृतसंवाद स्सीते ताम्रमुखः कपिः।।5.53.25।।\nलाङ्गूलेन प्रदीप्तेन स एष परिणीयते।",
+      "transliteration": "",
+      "translation": "\"O Sita the redfaced monkey who conversed with you is being paraded in the streets with his tail set on fire\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "श्रुत्वा तद्वचनं क्रूरमात्मापहरणोपमम्।।5.53.26।।\nवैदेही शोकसन्तप्ता हुताशनमुपागमत्।",
+      "transliteration": "",
+      "translation": "Distressed on hearing the news which was as cruel as her own abduction Sita started burning with grief and invoked the firegod.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "मङ्गलाभिमुखी तस्य सा तदाऽसीन्महाकपेः।।5.53.27।।\nउपतस्थे विशालाक्षी प्रयता हव्यवाहनम्।",
+      "transliteration": "",
+      "translation": "Wishing the great monkey well, the largeeyed Sita invoked the Firegod in her heart.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "यद्यस्ति पतिशुश्रूषा यद्यस्ति चरितं तपः।\nयदि चास्त्येकपत्नीत्वं शीतो भव हनूमतः।।5.53.28।।",
+      "transliteration": "",
+      "translation": "\"O Firegod if I have served my husband, if I have practised austerities, and if I am loyal to my husband, be cool to Hanuman.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "यदि किञ्चिदनुक्रोशस्तस्य मय्यस्ति धीमतः।।5.53.29।।\nयदि वा भाग्यशेषो मे शीतो भव हनूमतः।",
+      "transliteration": "",
+      "translation": "\"If wise Rama has some compassion for me, if there is any residue of good luck for me, to Hanuman be cool O Firegod.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "यदि मां वृत्तसम्पन्नां तत्समागमलालसाम्।।5.53.30।।\nस विजानाति धर्मात्मा शीतो भव हनूमतः।",
+      "transliteration": "",
+      "translation": "\"O Firegod if Rama is righteous, if I am pure in mind, and if I am longing to unite with him, be cool to Hanuman.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "यदि मां तारयेदार्यस्सुग्रीवः सत्यसङ्गरः।।5.53.31।।\nअस्माद्धुःखाम्बुसंरोधाच्छीतो भव हनूमतः।",
+      "transliteration": "",
+      "translation": "\"If Sugriva is true to his promise to fight (for me), if he should be able to rescue me from this ocean of agony let Hanuman be cool (not consumed by fire.)\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "ततस्तीक्ष्णार्चिरव्यग्रः प्रदक्षिणशिखोऽनलः।।5.53.32।।\nजज्वाल मृगशाबाक्ष्या श्शंसन्निव शिवं कपेः।",
+      "transliteration": "",
+      "translation": "Then the tips of the intense flame appeared steadily moving to the fawneyed Sita indicating the firegod's auspiciousness and safety to Hanuman.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "हनुमज्जनकश्चापि पुच्छानलयुतोऽनिलः।।5.53.33।।\nववौ स्वास्थ्यकरो देव्याः प्रालेयानिलशीतलः।",
+      "transliteration": "",
+      "translation": "\"The Windgod accompanying Hanuman's firelit tail also blew cool like the wind from snow, to calm the mind of the divine lady.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "दह्यमाने च लाङ्गूले चिन्तयामास वानरः।।5.53.34।।\nप्रदीप्तोऽग्निरयं कस्मान्न मां दहति सर्वतः।",
+      "transliteration": "",
+      "translation": "When the tail was burning, the vanara wondered how the fire ablaze on every side was not burning him:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "दृश्यते च महाज्वालः करोति न च मे रुजम्।।5.53.35।।\nशिशिरस्येव सङ��घातो लाङ्गूलाग्रे प्रतिष्ठितः।",
+      "transliteration": "",
+      "translation": "'This huge flame is not hurting me. It  is as though a mass of ice is placed at the end of my tail. (The fire did not torture nor extend beyond the tip of my tail.)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "अथवा तदिदं व्यक्तं यद्दृष्टं प्लवता मया।।5.53.36।।\nरामप्रभावादाश्चर्यं पर्वत स्सरितां पतौ।",
+      "transliteration": "",
+      "translation": "'It must be due to the power of Rama, by which I found a wonderful mountain  emerging from the sea to give me protection while I was crossing the ocean. Now evidently this is due to Rama's power (that my tail is not burning me).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "यदि तावत्समुद्रस्य मैनाकस्य च धीमतः।।5.53.37।।\nरामार्थं सम्भ्रमस्तादृक्किमग्निर्न करिष्यति।",
+      "transliteration": "",
+      "translation": "'If the anxiety of the ocean and the wise Mainaka mountain is to serve Rama what is it that the fire cannot do?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "सीतायाश्चानृशंस्येन तेजसा राघवस्य च।।5.53.38।।\nपितुश्च मम सख्येन न मां दहति पावकः।",
+      "transliteration": "",
+      "translation": "'Because of Sita's steadfast loyalty, Rama's power and my father's friendship with the Firegod, the fire is not burning me.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "भूयस्स चिन्तयामास मुहूर्तं कपिकुञ्जरः।।5.53.39।।\nउत्पपाताथ वेगेन ननाद च महाकपिः।",
+      "transliteration": "",
+      "translation": "Once more a thought came to the great Hanuman,the elephant among monkeys. He sprang up and shouted loud.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "पुरद्वारं ततश्श्रीमान् शैलशृङ्गमिवोन्नतम्।।5.53.40।।\nविभक्तरक्षस्सम्बाधमाससादानिलात्मजः।",
+      "transliteration": "",
+      "translation": "Then the illustrious Hanuman reached the entrance of the lofty city, which was  like the peak of a mountain and turned away the demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "स भूत्वा शैलसङ्काशः क्षणेन पुनरात्मवान्।।5.53.41।।\nह्रस्वतां परमां प्राप्तो बन्धनान्यवशातयत्।",
+      "transliteration": "",
+      "translation": "From his mountainlike form he assumed his original small figure within a moment casting off the bonds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "विमुक्तश्चाभवछ्रचीमान् पुनः पर्वतसन्निभः।।5.53.42।।\nवीक्षमाणश्च ददृशे परिघं तोरणाश्रितम्।",
+      "transliteration": "",
+      "translation": "Illustrious Hanuman was relieved of the bond and once again grew to a mountain size. Looking around he saw an iron club near the archway.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "स तं गृह्य महाबाहुः कालायसपरिष्कृतम्।।5.53.43।।\nरक्षिणस्तान् पुनस्सर्वान्सूदयामास मारुतिः।",
+      "transliteration": "",
+      "translation": "Seizing the black Iron club again, the strongarmed Hanuman killed all the demon guards.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-53-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "स तान्निहत्त्वा रणचण्डविक्रम स्समीक्षमाणः पुनरेव लङ्काम्।\nप्रदीप्तलाङ्गूलकृतार्चिमाली प्रकाशतादित्य इवार्चिमाली।।5.53.44।।",
+      "transliteration": "",
+      "translation": "Hanuman, who was of fearsome valour in war with the demons, having killed them, gazed at Lanka once again. Garlanded by the flames of his tail around, he shone like the Sun covered with garlands of rays.  इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे त्रिपञ्चाशस्सर्गः।। Thus ends the fiftythird sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

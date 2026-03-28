@@ -1,0 +1,405 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 30,
+    "title": "Hanuman  decides to  praise Rama within Sita's earshot.",
+    "titleSanskrit": "",
+    "totalShlokas": 43
+  },
+  "shlokas": [
+    {
+      "id": "vs-30-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "हनुमानपि विक्रान्तः सर्वं शुश्राव तत्त्वतः।\nसीतायास्त्रिजटायाश्च राक्षसीनां च तर्जनम्।।5.30.1।।",
+      "transliteration": "",
+      "translation": "The valiant hero Hanuman heard everything including the lamentation of Sita and the dream of Trijata and the threats of the demonesses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अवेक्षमाण��्तां देवीं देवतामिव नन्दने।\nततो बहुविधां चिन्तां चिन्तयामास व���नरः।।5.30.2।।",
+      "transliteration": "",
+      "translation": "The sight of Sita who seemed a deity in the Nandana garden of Indra, set a chain of reflections in his mind :",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "यां कपीनां सहस्राणि सुबहून्ययुतानि च।\nदिक्षु सर्वासु मार्गन्ते सेयमासादिता मया।।5.30.3।।",
+      "transliteration": "",
+      "translation": "\"This is Sita whom thousands of vanaras are searching in all directions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "चारेण तु सुयुक्तेन शत्रोश्शक्तिमवेक्षता।\nगूढेन चरता तावदवेक्षितमिदं मया।।5.30.4।।",
+      "transliteration": "",
+      "translation": "\"Roaming everywhere incognito to ascertain carefully the strength of the enemy, I have seen everything.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "राक्षसानां विशेषश्च पुरी चेयमवेक्षिता।\nराक्षसाधिपतेरस्य प्रभावो रावणस्य च।।5.30.5।।",
+      "transliteration": "",
+      "translation": "\"I have seen the ability of the demons and the citadel of Lanka. I have seen the power of Ravana the demon king.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "युक्तं तस्याप्रमेयस्य सर्वसत्त्वदयावतः।\nसमाश्वासयितुं भार्यां पतिदर्शनकाङ्क्षिणीम्।।5.30.6।।",
+      "transliteration": "",
+      "translation": "\"It is the opportune time for me to comfort Sita eagerly waiting to see her husband who is of immeasurable prowess and who is compassionate to all beings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "अहमाश्वासयाम्येनां पूर्णचन्द्रनिभाननाम्।\nअदृष्टदुःखां दुःखार्तां दुःखस्यान्तमगच्छतीम्।।5.30.7।।",
+      "transliteration": "",
+      "translation": "\"The moonfaced Sita had never experienced sorrow before. She sees no end to her sorrow and suffering. I will console her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "यद्यप्यहमिमां देवीं शोकोपहतचेतनाम्।\nअनाश्वास्य गमिष्यामि दोषवद्गमनं भवेत्।।5.30.8।।",
+      "transliteration": "",
+      "translation": "\"If I should return to Kishkindha without reassuring Sita, whose understanding has been clouded in grief I would be blamed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "गते हि मयि तत्रेयं राजपुत्री यशस्विनी।\nपरित्राणमविन्दन्ती जानकी जीवितं त्यजेत्।।5.30.9।।",
+      "transliteration": "",
+      "translation": "\"If I so back, this illustrious princess, Janaki will give up her life, finding no means of deliverance (from this tragic situation).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "मया च स महाबाहुः पूर्णचन्द्रनिभाननः।\nसमाश्यासयितुं न्याय्यस्सीतादर्शनलालसः।।5.30.10।।",
+      "transliteration": "",
+      "translation": "\"I should provide some comfort to the strongarmed Rama with a face like the fullmoon yearning to see Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "निशाचरीणां प्रत्यक्षमनर्हं चाभिभाषितम्।\nकथन्नु खलु कर्तव्यमिदं कृच्छ्रगतो ह्यहम्।।5.30.11।।",
+      "transliteration": "",
+      "translation": "\"I cannot talk to her in the presence of these nightroamers. How can I  discharge my duty in this predicament?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अनेन रात्रिशेषेण यदि नाश्वास्यते मया।\nसर्वथा नास्ति सन्देहः परित्यक्ष्यति जीवितम्।।5.30.12।।",
+      "transliteration": "",
+      "translation": "\"If I do not comfort her before the remaining part of the night ends, she will give up her life. There is no doubt about it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "रामश्च यदि पृच्छेन्मां किं मां सीताब्रवीद्वचः।\nकिमहं तं प्रति ब्रूयामसंभाष्य सुमध्यमाम्।।5.30.13।।",
+      "transliteration": "",
+      "translation": "\"If Rama enquires about the message of Sita, this lady of beautiful waist, what can I speak without meeting and talking to her?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "सीतासन्देशरहितं मामितस्त्वरयाऽगतम्।\nनिर्दहेदपि काकुत्स्य क्रुद्धस्तीव्रेण चक्षुषा।।5.30.14।।",
+      "transliteration": "",
+      "translation": "\"If I leave this place without any message from Sita, Rama will burn me with his eyes full of great anger.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "यदि चोद्योजयिष्यामि भर्तारं रामकारणात्।\nव्यर्थमागमनं तस्य ससैन्यस्य भविष्यति।।5.30.15।।",
+      "transliteration": "",
+      "translation": "\"If I get the lord of vanaras and his army for the cause of Rama (without talking to Sita), their arrival will be useless (if Sita would have given up her life by then).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अन्तरं त्वहमासाद्य राक्षसीनामिह स्थितः।\nशनैराश्वासयिष्यामि सन्तापबहुळामिमाम्।।5.30.16।।",
+      "transliteration": "",
+      "translation": "\"I shall wait and speak to her slowly and console this deeply distressed lady when I get  a chance to speak to her (when  these ogresses are asleep).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अहं त्वतितनुश्चैव वानरश्च विशेषतः।\nवाचं चोदाहरिष्यामि मानुषीमिह संस्कृताम्।।5.30.17।।\n&nbsp;",
+      "transliteration": "",
+      "translation": "I am indeed of small size and that too a monkey. Nevertheless I shall speak in Sanskrit, a language of the common people. (as the she-demons cannot understand that language).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "यदि वाचं प्रदास्यामि द्विजातिरिव संस्कृताम्।\nरावणं मन्यमाना मां सीता भीता भविष्यति।।5.30.18।।\nवानरस्य विशेषेण कथं स्यादभिभाषणम्।",
+      "transliteration": "",
+      "translation": "\"If I speak like a brahmin in sanskrit language she would be frightened thinking that I am Ravana and how would a vanara speak?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "अवश्यमेव वक्तव्यं मानुषं वाक्यमर्थवत्।।5.30.19।।\nमया सान्त्वयितुं शक्या नान्यथेयमनिन्दिता।",
+      "transliteration": "",
+      "translation": "\"I will certainly speak to her meaningfully in the language of the people. Otherwise it is  not possible to pacify the sinless Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "सेयमालोक्य मे रूपं जानकी भाषितं तथा।।5.30.20।।\nरक्षोभिस्त्रासिता पूर्वं भूयस्त्रासं गमिष्य��ि।",
+      "transliteration": "",
+      "translation": "\"Since Janaki has already been frightened by the demons, she will be even more terrified seeing me in this form and hearing me speaking this way.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "ततो जातपरित्रासा शब्दं कुर्यान्मनस्विनी।।5.30.21।।\nजानमाना  विशालाक्षी रावणं कामरूपिणम्।",
+      "transliteration": "",
+      "translation": "By seeing me in this form, sensitive largeeyed Sita will scream loudly thinking that I am Ravana who can assume any form at his free will.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "सीतया च कृते शब्दे सहसा राक्षसीगणा:।\nनानाप्रहरणो घोर: समेयादन्तकोपम:।।5.30.22।।",
+      "transliteration": "",
+      "translation": "\"If Sita screams, the  horde of terrific ogresses will at once gather, armed with dreadful weapons like Yama, the god of death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "ततो मां सम्परिक्षिप्य सर्वतो विकृताननाः।।5.30.23।।\nवधे च ग्रहणे चैव कुर्युर्यत्नं यथाबलम्।",
+      "transliteration": "",
+      "translation": "\"Then all these hideous ogresses will swarm round me and make efforts to capture me with all their strength and kill me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "गृह्य शाखाः प्रशाखाश्च स्कन्धांश्चोत्तमशाखिनाम्।।5.30.24।।\nदृष्ट्वा विपरिधावन्तं भवेयुर्भयशङ्किताः।",
+      "transliteration": "",
+      "translation": "\"Seeing me holding big and small branches of large trees and leaping from one place to the other, the ogresses will get scared.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "मम रूपं च सम्प्रेक्ष्य वने विचरतो महत्।।5.30.25।।\nराक्षस्यो भयवित्रस्ता भवेयुर्विकृताननाः।",
+      "transliteration": "",
+      "translation": "\"These ogresses with their hideous faces will be frightened on looking at my huge form moving in this grove.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "ततः कुर्युस्समाह्वानं राक्षस्यो रक्षसामपि।।5.30.26।।\nराक्षसेन्द्रनियुक्तानां राक्षसेन्द्रनिवेशने।",
+      "transliteration": "",
+      "translation": "\"Thereafter the ogresses will draw the attention of demon guards engaged by the king of demons at his residence towards me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "ते शूलशक्तिनिस्त्रिंशविविधायुधपाणयः।।5.30.27।।\nआपतेयुर्विमर्देऽस्मिन्वेगेनोद्वेगकारणात्।",
+      "transliteration": "",
+      "translation": "\"Those ogresses due to fear will come speedily, armed with spears, tridents, swords and different kinds of weapons for a combat.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "समृद्धस्तैस्तु परितो विधमन् रक्षसां बलम्।।5.30.28।।\nशक्नुयां न तु संप्राप्तुं परं पारं महोदधेः।",
+      "transliteration": "",
+      "translation": "\"With them around me, I may not be able to  reach the other end of the ocean (my strength spent in the combat.)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "मां वा गृह्णीयुराप्लुत्य बहवश्शीघ्रकारिणः।।5.30.29।।\nस्यादियं चागृहीतार्था मम च ग्रहणं भवेत्।",
+      "transliteration": "",
+      "translation": "\"The ogres who are in large numbers, here are very prompt to act. They will jump into the sky and bind me. Sita will not receive the message and I will be taken into custody by the demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "हिंसाभिरुचयो हिंस्युरिमां वा जनकात्मजाम्।।5.30.30।।\nविपन्नं स्यात्ततः कार्यं रामसुग्रीवयोरिदम्।",
+      "transliteration": "",
+      "translation": "\"These demons who are keen on indulging in violence will harm Janaka's daughter. Then the mission of Rama and Sugriva will also fail.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "उद्देशे नष्टमार्गेऽस्मिन् राक्षसैः परिवारिते।।5.30.31।।\nसागरेण परिक्षिप्ते गुप्ते वसति जानकी।",
+      "transliteration": "",
+      "translation": "\"Janaki is staying in this untraceable location surrounded by demons. And this location is a secret place surrounded by the ocean .",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "विशस्ते वा गृहीते वा रक्षोभिर्मयि संयुगे।।5.30.32।।\nनान्यं पश्यामि रामस्य सहायं कार्यसाधने।",
+      "transliteration": "",
+      "translation": "\"If I am killed in the combat or captured by the demons, I do not see another person who can help in accomplishing this task.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "विमृशंश्च न पश्यामि यो हते मयि वानरः।।5.30.33।।\nशतयोजनविस्तीर्णं लङ्घयेत महोदधिम्।",
+      "transliteration": "",
+      "translation": "\"When I am killed here, I cannot see any other vanara who can leap over a hundred yojanas of the ocean (to reach this place).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "कामं हन्तुं समर्थोऽस्मि सहस्राण्यपि रक्षसाम्।।5.30.34।।\nन तु शक्ष्यामि सम्प्राप्तुं परं पारं महोदधेः।",
+      "transliteration": "",
+      "translation": "\"I may be capable of killing even thousands of demons but thereafter (thoroughly exhausted) reach the other side of the ocean.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "असत्यानि च युद्धानि संशयो मे न रोचते।।5.30.35।।\nकश्च निस्संशयं कार्यं कुर्यात्प्राज्ञः ससंशयम्।",
+      "transliteration": "",
+      "translation": "\"Battles, no doubt, are unpredictable. Which wise man with a sound intellect will take up a doubtful work unhesitatingly?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "प्राणत्यागश्च वैदेह्या भवेदनभिभाषणे।।5.30.36।।\nएष दोषो महान्हि स्यान्मम सीताभिभाषणे।",
+      "transliteration": "",
+      "translation": "\"If I talk to Vaidehi it will be a great mistake on my part.If I do not speak to Vaidehi she may give up her life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "भूताश्चार्था विनश्यन्ति देशकालविरोधिताः।।5.30.37।।\nविक्लबं दूतमासाद्य तमः सूर्योदये यथा।",
+      "transliteration": "",
+      "translation": "\"Even well planned diplomatic missions fail like darkness dispelled at Sunrise if the messenger is confused and if the place and time are not propitious for them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "अर्थानर्थान्तरे बुद्धिनिश्चितापि न शोभते।।5.30.38।।\nघातयन्ति हि कार्याणि दूताः पण्डितमानिनः।",
+      "transliteration": "",
+      "translation": "\"Swinging from a course of action or an action leading to calamity is not proper.  Messengers who assume that they are scholars (blinded by ego) destroy their mission.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "न विनश्येत्कथं कार्यं वैक्लब्यं न कथं भवेत्।।5.30.39।।\nलङ्घनं च समुद्रस्य कथं नु न वृथा भवेत्।",
+      "transliteration": "",
+      "translation": "\"How can the mission succeed? How can failure of mission be avoided? How can the crossing of the great ocean be not wasted?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "कथं नु खलु वाक्यं मे शृणुयान्नोद्विजेत वा।\nइति सञ्चिन्त्य हनुमांश्चकार मतिमान्मतिम्।।5.30.40।।",
+      "transliteration": "",
+      "translation": "Wise Hanuman came to a decision after reflecting in his mind about how not to create fear in Sita (while communicating with her.)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "राममक्लिष्टकर्माणं सुबन्धुमनुकीर्तयन्।।5.30.41।।\nनैनामुद्वेजयिष्यामि तद्बन्धुगतमानसाम्।",
+      "transliteration": "",
+      "translation": "\"By praising Rama who is very dear, who is judicious in action and in whom her mind is absorbed, I will not create fear.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "इक्ष्वाकूणां वरिष्ठस्य रामस्य विदितात्मनः।।5.30.42।।\nशुभानि धर्मयुक्तानि वचनानि समर्पयन्।\nश्रावयिष्यामि सर्वाणि मधुरां प्रब्रुवन् गिरम्।।5.30.43।।\nश्रद्धास्यति यथाहीयं तथा सर्वं समादधे।",
+      "transliteration": "",
+      "translation": "\"I shall present in auspicious words the esteemed Rama of Ikshvaku family who is a knower of self and make her listen to everything in such a sweet manner that she will trust me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-30-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "इति स बहुविधं महानुभावो\nजगतिपतेः प्रमदामवेक्षमाणः।\nमधुरमवितथं जगाद वाक्यं \nद्रुमविटपान्तरमास्थितो हनूमान्।।5.30.44।।",
+      "transliteration": "",
+      "translation": "Highsouled Hanuman seated on the branch of the tree without being seen began to speak faithfully in praise of the lord of the universe in many ways while looking at her.  इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे त्रिंशस्सर्गः।। Thus ends the thirtieth sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

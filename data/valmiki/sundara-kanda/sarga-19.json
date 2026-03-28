@@ -1,0 +1,216 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 19,
+    "title": "Description of Sita who was overcome with grief.",
+    "titleSanskrit": "",
+    "totalShlokas": 22
+  },
+  "shlokas": [
+    {
+      "id": "vs-19-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तस्मिन्नेव ततः काले राजपुत्री त्वनिन्दिता।\nरूपयौवनसम्पन्नं भूषणोत्तमभूषितम्।।5.19.1।।\nततो दृष्ट्वैव वैदेही रावणं राक्षसाधिपम्।\nप्रावेपत वरारोहा प्रवाते कदली यथा।।5.19.2।।",
+      "transliteration": "",
+      "translation": "On just seeing Ravana, the lord of demons from a distance, adorned with the best of ornaments the charming, young, blameles princess Vaidehi of beautiful waist trembled like a banana plant shaken by a strong wind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-19-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "आच्छाद्योदरमूरुभ्यां बाहुभ्यां च पयोधरौ।\nउपविष्टा विशालाक्षी रुदन्ती वरवर्णिनी।।5.19.3।।",
+      "transliteration": "",
+      "translation": "Largeeyed, faircomplexioned Sita seated there with her belly, thighs and breasts covered with arms cried.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-19-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "दशग्रीवस्तु वैदेहीं रक्षितां राक्षसीगणैः।\nददर्श सीतां दुःखार्तां नावं सन्नामिवार्णवे।।5.19.4।।",
+      "transliteration": "",
+      "translation": "The tennecked Ravana, too, on his part saw Sita, tormented with grief, guarded by the shedemons like a boat sunk in the sea.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-19-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "असंवृतायामासीनां धरण्यां संशितव्रताम्।\nछिन्नां प्रपतितां भूमौ शाखामिव वनस्पतेः।।5.19.5।।",
+      "transliteration": "",
+      "translation": "She looked woeful seated on the bare earth like the broken branch of a tree cut and fallen down on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-19-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "मलमण्डनचित्राङ्गीं मण्डनार्हाममण्डिताम्।\nमृणाली पङ्कदिग्धेव विभाति न विभाति च।।5.19.6।।",
+      "transliteration": "",
+      "translation": "Her body looked colourful with dust. Although she deserved adornment, she had none. She was like a lotus stem in mud looking bright yet dull (with mud).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-19-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "समीपं राजसिंहस्य रामस्य विदितात्मनः।\nसङ्कल्पहयसंयुक्सैर्यान्तीमिव मनोरथैः।।5.19.7।।",
+      "transliteration": "",
+      "translation": "She was as though moving towards the knower of the self, the supreme king, Rama with the horses of her resolution yoked to the chariot of her mind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-19-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "शुष्यन्तीं रुदतीमेकां ध्यानशोकपरायणाम्।\nदुःखस्यान्तमपश्यन्तीं रामां राममनुव्रताम्।।5.19.8।।",
+      "transliteration": "",
+      "translation": "She was emaciated, absorbed in thought of Rama alone and crying and unable to find the end to her grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-19-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "वेष्टमानां तथाऽविष्टां पन्नगेन्द्रवधूमिव।\nधूप्यमानां ग्रहेणेव रोहिणीं धूमकेतुना।।5.19.9।।",
+      "transliteration": "",
+      "translation": "Sitting in that manner she resembled a coiled serpent queen, the star Rohini overshadowed by a smoking comet (that is Ravana).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-19-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "वृत्तशीलकुले जातामाचारवति धार्मिके।\nपुनःसंस्कारमापन्नां जातामिव च दुष्कुले।।5.19.10।।",
+      "transliteration": "",
+      "translation": "Though born in a traditional righteous and virtuous family, she was as though passing through a purificatory process like a lowbred woman.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-19-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अभूतेनापवादेन कीर्तिं निपतितामिव।\nआम्नायानामयोगेन विद्यां प्रशिथिलामिव।।5.19.11।।",
+      "transliteration": "",
+      "translation": "She resembled reputation besmirched by scandals, like Vedic studies  slackened by lack of aplication. (Knowledge is verified with a suitable statment of the Veda which is the ultimate test of ones finding. This method is adopted in all Astika sastras which accept the authority of the Veda).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-19-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "सन्नामिव महाकीर्तिं श्रद्धामिव विमानिताम्।\nपूजामिव परिक्षीणामाशां प्रतिहतामिव।।5.19.12।।",
+      "transliteration": "",
+      "translation": "She was like great fame grown dim, faith slighted, worship meddled and hope frustrated. (Note: Sita's condition is being compared with abstract concepts such as fame, faith, reverence and hope which are hit by reverses in fate. She was the personification of all such suffering.)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-19-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "आयतीमिव विध्वस्तामाज्ञां प्रतिहतामिव।\nदीप्तामिव दिशं काले पूजामपहृतामिव।।5.19.13।।",
+      "transliteration": "",
+      "translation": "She was like a prospect blasted, command flouted, entire direction set on flames at the time of catastrophe and articles of worship abducted by evil forces at the sacrificial ceremony.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-19-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "पद्मिनीमिव विध्वस्तां हतशूरां चमूमिव।\nप्रभामिव तमोध्वस्तामुपक्षीणामिवापगाम्।।5.19.14।।",
+      "transliteration": "",
+      "translation": "She was like a lotuscreeper blighted, an army with its gallant warriors killed, radiance of light blocked by darkness and a stream run dry.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-19-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "वेदीमिव परामृष्टां शान्तामग्निशिखामिव।\nपौर्णमासीमिव निशां राहुग्रस्तेन्दुमण्डलाम्।।5.19.15।।",
+      "transliteration": "",
+      "translation": "(She was) like the altar of worship defiled, blazing fire extinguished, and the Moon eclipsed by Rahu in the full moon night.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-19-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "उत्कृष्टपर्णकमलां वित्रासितविहङ्गमाम्।\nहस्तिहस्तपरामृष्टामाकुलां पद्मिनीमिव।।5.19.16।।",
+      "transliteration": "",
+      "translation": "(She appeared) like a lotuspond the excellent leaves of whose lotuses surrounded by frightened birds are destroyed by the trunks of elephants.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-19-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "पतिशोकातुरां शुष्कां नदीं विस्रावितामिव।\nपरया मृजया हीनां कृष्णपक्षनिशामिव।।5.19.17।।",
+      "transliteration": "",
+      "translation": "Stricken with grief caused by separation from her husband, she appeared like a river gone thin and dry, not fit for ablution, like a night during dark fortnight of the month deprived of all its glow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-19-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "सुकुमारीं सुजाताङ्गीं रत्नगर्भगृहोचिताम्।\nतप्यमानामिवोष्णेन मृणालीमचिरोद्धृताम्।।5.19.18।।",
+      "transliteration": "",
+      "translation": "A delicate lady with beautiful limbs who deserved to be in a gemcrusted house was (now) like a lotus stem just plucked out and  scorched by the Sun's heat.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-19-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "गृहीतामालितां स्तम्भे यूथपेन विनाकृताम्।\nनिःश्वसन्तीं सुदुःखार्तां गजराजवधूमिव।।5.19.19।।",
+      "transliteration": "",
+      "translation": "She was sighing heavily in intense grief like a royal female elephant tied to a pillar and separated from her lord, the leader of the herd.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-19-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "एकया दीर्घया वेण्या शोभमानामयत्नतः।\nनीलया नीरदापाये वनराज्या महीमिव।।5.19.20।।",
+      "transliteration": "",
+      "translation": "She was lovely even with a single braid of unkempt hair like the earth with a single row of dark trees covering its surface at the end of the rainy season.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-19-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "उपवासेन शोकेन ध्यानेन च भयेन च।\nपरिक्षीणां कृशां दीनामल्पाहारां तपोधनाम्।।5.19.21।।",
+      "transliteration": "",
+      "translation": "She was wasted and emaciated through fasting and grief, depressed due to brooding and threatenings. She ate very little but was rich with  austerities.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-19-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "आयाचमानां दुःखार्तां प्राञ्जलिं देवतामिव।\nभावेन रघुमुख्यस्य दशग्रीवपराभवम्।।5.19.22।।",
+      "transliteration": "",
+      "translation": "Tormented with grief, Sita looked like a goddess begging Rama, the foremost of the Raghu family with folded hands in her mind to destroy Ravana, the tennecked demon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-19-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "समीक्षमाणां रुदतीमनिन्दितां सुपक्ष्मताम्रायतशुक्ललोचनाम्।\nअनुव्रतां राममतीव मैथिलीं प्रलोभयामास वधाय रावणः।।5.19.23।।",
+      "transliteration": "",
+      "translation": "Blameless Mythili with clear, large eyes and beautiful eyelashes with a reddish tint at the corners was looking around, crying. Ravana tried to allure Sita who was deeply faithful to Rama and threatened to kill her (when he found her unflinching). इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे एकोनविंशस्सर्गः। Thus ends the nineteenth sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 12,
+    "title": "Hanuman makes a thorough search of Ravana's palace for Sita.",
+    "titleSanskrit": "",
+    "totalShlokas": 23
+  },
+  "shlokas": [
+    {
+      "id": "vs-12-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "स तस्य मध्ये भवनस्य मारुति \nर्लतागृहांश्चित्रगृहान्निशागृहान्।\nजगाम सीतां प्रति दर्शनोत्सुको\nन चैव तां पश्यति चारुदर्शनाम्।।5.12.1।।",
+      "transliteration": "",
+      "translation": "Anxious to find Sita, Hanuman revisited the bowers of creepers, picture galleries and domitories located in the midst of the mansion, but  did not find that beautiful Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-12-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "स चिन्तयामास ततो महाकपिः \nप्रियामपश्यन्रघुनन्दनस्य ताम्।\nध्रुवं हि सीता म्रियते यथा न मे\nविचिन्वतो दर्शनमेति मैथिली।।5.12.2।।",
+      "transliteration": "",
+      "translation": "The great monkey, unable to find the beloved of Rama thought Sita might not be surviving. So he started thinking, ' I could not see her even though I have searched all  over'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-12-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "सा राक्षसानां प्रवरेण जानकी \nस्वशीलसंरक्ष्णतत्परा सती।\nअनेन नूनं प्रति दुष्टकर्मणा \nहता भवेदार्यपथे परे स्थिता।।5.12.3।।",
+      "transliteration": "",
+      "translation": "'Janaki, follower of noble path, anxious to protect her chastity must have been killed by the wicked demon king.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-12-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "विरूपरूपा विकृता विवर्चसो \nमहानना दीर्घविरूपदर्शनाः।\nसमीक्ष्य सा राक्षसराजयोषितो \nभयाद्विनष्टा जनकेश्वरात्मजा।।5.12.4।।",
+      "transliteration": "",
+      "translation": "'The daughter of Janaka might have collapsed out of fear, looking at the distorted faces of ugly, tall and monstrous demon maids of Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-12-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "सीतामदृष्ट्वा ह्यनवाप्य पौरुषं\nविहृत्य कालं सह वानरैश्चिरम्।\nन मेऽस्ति सुग्रीवसमीपगा गतिः\nसुतीक्ष्णदण्डो बलवांश्च वानरः।।5.12.5।।",
+      "transliteration": "",
+      "translation": "'I have spent a long time with vanaras. I have not  succeded in my efforts to find Sita. I dare not see Sugriva now without finding Sita and without fulfilling my task. Sugriva will punish me severely. There is no way out.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-12-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "दृष्टमन्तःपुरं सर्वं दृष्टा रावणयोषितः।\nन सीता दृश्यते साध्वीवृथा जातो मम श्रमः।।5.12.6।।",
+      "transliteration": "",
+      "translation": "'I have searched all over the harem. Ravana's women have been seen. (Yet) I have not been able to see noble Sita. My efforts have been wasted'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-12-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "किं नु मां वानराः सर्वे गतं वक्ष्यन्ति सङ्गताः।\nगत्वा तत्र त्वया वीर किं कृतं तद्वदस्व नः।।5.12.7।।",
+      "transliteration": "",
+      "translation": "'What will the vanaras say when I return? What should I speak when they ask me: O hero, what did you accomplish there?'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-12-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "अदृष्ट्वा किं प्रवक्ष्यामि तामहं जनकात्मजाम्���\nध्रुवं प्रायमुपैष्यन्ति कालस्य व्यतिवर्तने।।5.12.8।।",
+      "transliteration": "",
+      "translation": "'Since the time limit has exceeded and Janaki is not spotted, surely the vanaras would sit and wait unto death. What am I going to say'?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-12-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "किं वा वक्ष्यति वृद्धश्च जाम्बवानाङ्गदश्च सः।\nगतं पारं समुद्रस्य वानराश्च समागताः।।5.12.9।।",
+      "transliteration": "",
+      "translation": "'What will the elderly Jambavan say? What will young prince Angada and other vanaras collected there say when I reach the seashore to meet them'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-12-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अनिर्वेदः श्रियो मूलमनिर्वेदः परं सुखम्।\nअनिर्वेदो हि सततं सर्वार्थेषु प्रवर्तकः।।5.12.10।।",
+      "transliteration": "",
+      "translation": "Wise Hanuman once again declared, 'being free from despair is the root cause of prosperity. Freedom from despondency gives supreme happiness and leads to success'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-12-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "करोति सफलं जन्तोः कर्म यत्तत्करोति सः।\nतस्मादनिर्वेदकृतं यत्नं चेष्टेऽहमुत्तमम्।।5.12.11।।\nभूयस्तावद्विचेष्यामि देशान्रावणपालितान्।",
+      "transliteration": "",
+      "translation": "'The action of a living being certainly bears fruit. Therefore, I shall put forth my best effort without feeling despondent. I will once again search everywhere in Lanka ruled  by Ravana'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-12-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "आपानशाला विचितास्तथा पुष्पगृहाणि च।।5.12.12।।\nचित्रशालाश्च विचिता भूयः क्रीडागृहाणि च।\nनिष्कुटान्तररथ्याश्च विमानानि च सर्वशः।।5.12.13।।",
+      "transliteration": "",
+      "translation": "'I have searched the banquet halls, bowers of creepers, picture galleries and gymnasiums. I have searched everywhere through the paths of gardens and mansions, harems and the Pushpaka chariot also.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-12-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "इति सञ्चिन्त्य भूयोऽपि विचेतुमुपचक्रमे।\nभूमीगृहांश्चैत्यगृहान् गृहातिगृहकानपि।।5.12.14।।",
+      "transliteration": "",
+      "translation": "Thinking thus, he started searching once again the basement cells, temples, homes within homes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-12-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "उत्पतन्निष्पतंश्चापि तिष्ठन्गच्छन् पुनः पुनः।\nअपावृण्वंश्च द्वाराणि कवाटान्यवघाटयन्।।5.12.15।।\nप्रविशन्निष्पतंश्चापि प्रपतन्नुत्पतन्नपि।\nसर्वमप्यवकाशं स विच��ार महाकपिः।।5.12.16।।",
+      "transliteration": "",
+      "translation": "The great vanara searched all over again and again jumping up and down, stopping for a while and moving, opening and closing doors, by crossing, entering and exiting, jumping up and down. Thus he moved about and searched whereever there was scope to search",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-12-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "चतुरङ्गुलमात्रोऽपि नावकाशः स विद्यते।\nरावणान्तःपुरे तस्मिन् यं कपिर्न जगाम सः।।5.12.17।।",
+      "transliteration": "",
+      "translation": "Even a space of four fingers in the inner chambers of Ravana was not left out in his search for Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-12-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "प्राकारान्तररथ्याश्च वेदिकाश्चैत्यसंश्रयाः।\nदीर्घिकाः पुष्करिण्यश्च सर्वं तेनावलोकितम्।।5.12.18।।",
+      "transliteration": "",
+      "translation": "He moved in the lanes inside the boundary walls, around the shrines, altars, wells and tanks whereever it was possible to look for.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-12-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "राक्षस्यो विविधाकारा विरूपा विकृतास्तथा।\nदृष्टा हनुमता तत्र न तु सा जनकात्मजा।।5.12.19।।",
+      "transliteration": "",
+      "translation": "Hanuman could see only ogresses of different typesugly, deformed but could not find the daughter of Janaka.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-12-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "रूपेणाप्रतिमा लोके वरा विद्याधरस्त्रियः।\nदृष्टा हनुमता तत्र न तु राघवनन्दिनी।।5.12.20।।",
+      "transliteration": "",
+      "translation": "Hanuman could see even the women of vidyadharas who were matchless in beauty among women in the world but not Janaki the beloved of Raghava.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-12-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "नागकन्या वरारोहाः पूर्णचन्र्दनिभाननाः।\nदृष्टा हनुमता तत्र न तु सीता सुमध्यमा।।5.12.21।।",
+      "transliteration": "",
+      "translation": "Hanuman could see there moonfaced daughters of nagas with charming limbs but not the slimwaisted Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-12-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "प्रमथ्य राक्षसेन्द्रेण नागकन्या बलाद्धृताः।\nदृष्टा हनुमता तत्र न सा जनकनन्दिनी।।5.12.22।।",
+      "transliteration": "",
+      "translation": "Hanuman saw the daghters of nagas kidnapped by Ravana forcibly after victory in war but not Sita, the delight of Janaka.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-12-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "सोऽपश्यंस्तां महाबाहुः पश्यंश्चान्या वरस्त्रियः।\nविषसाद मुहुर्धीमान् हनुमान् मारुतात्मजः।।5.12.23।।",
+      "transliteration": "",
+      "translation": "The longarmed Hanuman, son of the Windgod was able to see other great women but not Sita. So he became despondent.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-12-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "उद्योगं वानरेन्द्राणां प्लवनं सागरस्य च।\nव्यर्थं वीक्ष्यानिलसुतश्चिन्तां पुनरुपागमत्।।5.12.24।।",
+      "transliteration": "",
+      "translation": "The son of the Wind god, the great monkey realised the futility of his efforts in crossing the sea. He brooded again.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-12-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "अवतीर्य विमानाच्च हनुमान् मारुतात्मजः।\nचिन्तामुपजगामाथ शोकोपहतचेतनः।।5.12.25।।",
+      "transliteration": "",
+      "translation": "Hanuman, son of the Windgod, came out of the aerial chariot, mind stricken with grief and started thinking again. इत्यार्षे  श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे द्वादशस्सर्गः। Thus ends the twelfth sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

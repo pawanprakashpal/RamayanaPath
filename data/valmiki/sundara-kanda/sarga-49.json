@@ -1,0 +1,180 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 49,
+    "title": "Hanuman wonders at the splendour and glory of Ravana",
+    "titleSanskrit": "",
+    "totalShlokas": 18
+  },
+  "shlokas": [
+    {
+      "id": "vs-49-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततस्स कर्मणा तस्य विस्मितो भीमविक्रमः।\nहनुमान्रोषताम्राक्षो रक्षोधिपमवैक्षत।।5.49.1।।",
+      "transliteration": "",
+      "translation": "The highly courageous Hanuman, astonished at  the  action (of binding and dragging him to the court) by the demon king looked at him with eyes turned red in anger.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-49-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "भ्राजमानं महार��हेण काञ्चनेन विराजता।\nमुक्ताजालावृतेनाथ मकुटेन महाद्युतिम्।���5.49.2।।",
+      "transliteration": "",
+      "translation": "(Hanuman looked at Ravana) of innate splendour, who shone with a glittering crown of gold glowing, encircled with strings of pearls.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-49-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "वज्रसंयोगसंयुक्तैर्महार्हमणिविग्रहैः।\nहैमैराभरणैश्चित्रैर्मनसेव प्रकल्पितैः।।5.49.3।।",
+      "transliteration": "",
+      "translation": "He was decked with wonderful golden ornaments studded with diamonds and had small motifs of precious gems fixed to them. They were as though designed by imagination. (An ornament made with the hand connot be so fine and delicate.)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-49-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "महार्हक्षौमसंवीतं रक्तचन्दनरूषितम्।\nस्वानुलिप्तं विचित्राभिर्विविधाभिश्च भक्तिभिः।।5.49.4।।",
+      "transliteration": "",
+      "translation": "He was dressed in exquisite silk and smeared with red sandal paste and had many ornamental designs drawn on his body with fragrant unguents.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-49-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "विचित्रैर्दर्शनीयैश्च रक्ताक्षैर्भीमदर्शनैः।\nदीप्ततीक्ष्णमहादंष्ट्रैः प्रलम्बदशनच्छदैः।।5.49.5।।\nशिरोभिर्दशभिर्वीरं भ्राजमानं महौजसम्।\nनानाव्यालसमाकीर्णैश्शिखरैरिव मन्दरम्।।5.49.6।।",
+      "transliteration": "",
+      "translation": "He appeared terrible with bloodred eyes, shining sharp big teeth, drooping lips and ten heads, which looked like ten peaks of mountain Mandara inhabited by various beasts. He was heroic, powerful and splendid.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-49-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "नीलाञ्जनचयप्रख्यं हारेणोरसि राजता।\nपूर्णचन्द्राभवक्त्रेण सबलाकमिवाम्बुदम्।।5.49.7।।",
+      "transliteration": "",
+      "translation": "He was like a black mountain of collyrium, and with a face like the fullmoon. With a pearl necklace illumining his chest he appeared like a cloud lit up by the fullmoon with white cranes flying across. (The white pearlnecklace moving on his chest appeared like a row of cranes flying through the black cloud.)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-49-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "बाहुभिर्बद्धकेयूरैश्चन्दनोत्तमरूषितैः।\nभ्राजमानाङ्गदैः पीनैः पञ्चशीर्षैरिवोरगैः।।5.49.8।।",
+      "transliteration": "",
+      "translation": "Adorned with armlets (keyura), smeared with choicest sandal paste, his shining, stout armlets appeared like many fivehooded serpents (fingers appearing like hoods).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-49-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "महतिस्फाटिके चित्रे रत्नसंयोगसंस्कृते।\nउत्तमास्तरणास्तीर्णे सूपविष्टं वरासने।।5.49.9।।",
+      "transliteration": "",
+      "translation": "(He was) seated on a huge magnificent throne of crystal encrusted with precious stones and overspread with a wonderful carpet.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-49-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "अलङ्कृताभिरत्यर्थं प्रमदाभिः समन्ततः।\nवालव्यजनहस्ताभिरारात्समुपसेवितम्।।5.49.10।।",
+      "transliteration": "",
+      "translation": "Young and beautiful girls decorated exceedingly well holding whisks all over the vicinity attended on him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-49-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "दुर्धरेण प्रहस्तेन महापार्श्वेन रक्षसा।\nमन्त्रिभिर्मन्त्रतत्त्वज्ञैर्निकुम्भेन च मन्त्रिणा।।5.49.11।।\nसुखोपविष्टं रक्षोभिश्चतुर्भिर्बलदर्पितैः।\nकृत्स्नं परिवृतं लोकं चतुर्भिरिव सागरैः।।5.49.12।।",
+      "transliteration": "",
+      "translation": "He was attended by Durdhara, Prahasta, Mahaparsva and Nikumbha who were his learned ministers. Seated comfortably and attended by the four arrogant ministers, he was puffed with pride of their strength and appeared like the entire world surrounded by four oceans.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-49-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "मन्त्रिभिर्मन्त्रतत्त्वज्ञैरन्यैश्च शुभबुद्धिभिः।\nअन्वास्यमानं रक्षोभिः सुरैरिव सुरेश्वरम्।।5.49.13।।",
+      "transliteration": "",
+      "translation": "He was attended by ogres including ministers who were intellectuals and adept in counselling. He appeared like lord Indra attended by the gods.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-49-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अपश्यद्राक्षसपतिं हनुमानतितेजसम्।\nविष्ठितं मेरुशिखरे सतोयमिव तोयदम्।।5.49.14।।",
+      "transliteration": "",
+      "translation": "Hanuman saw the highly resplendent giant king (seated on the throne) who appeared like a cloud laden with water appearing on the peak of mount Meru.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-49-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "स तैस्सम्पीड्यमानोऽपि रक्षोभिर्भीमविक्रमैः।\nविस्मयं परमं गत्वा रक्षोधिपमवैक्षत।।5.49.15।।",
+      "transliteration": "",
+      "translation": "Hanuman looked at the demon king with great amazement even while he was dealt harshly by the demons of fierce valour.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-49-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "भ्राजमानं ततो दृष्ट्वा हनुमान्राक्षसेश्वरम्।\nमनसा चिन्तयामास तेजसा तस्य मोहितः।।5.49.16।।",
+      "transliteration": "",
+      "translation": "Seeing the splendour of the lord of demons, Hanuman was dimayed and started thinking thus:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-49-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "अहो रूपमहो धैर्यमहो सत्त्वमहो द्युतिः।\nअहो राक्षसराजस्य सर्वलक���षणयुक्तता।।5.49.17।।",
+      "transliteration": "",
+      "translation": "'Oh what charm what courage what strength what splendour How great is this demonking, an endowment of all merits.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-49-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "यद्यधर्मो न बलवान् स्यादयं राक्षसेश्वरः।\nस्यादयं सुरलोकस्य सशक्रस्यापि रक्षिता।।5.49.18।।",
+      "transliteration": "",
+      "translation": "'If only this lord of demons was not unrighteous, he could have become even the lord (protector) of gods including Indra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-49-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अस्य क्रूरैर्नृशंसैश्च कर्मभिर्लोककुत्सितैः।\nसर्वे बिभ्यति खल्वस्माल्लोकास्सामरदानवाः।।5.49.19।।\nअयं ह्युत्सहते क्रुद्धः कर्तुमेकार्णवं जगत्।",
+      "transliteration": "",
+      "translation": "'This Ravana has done many cruel, fierce and contemptible deeds. That is why even  the demons, gods and all the people of this world get scared of him. He will render the entire world into a single ocean when he turns angry'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-49-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "इति चिन्तां बहुविधामकरोन्मतिमान् हरिः।।5.49.20।।\nदृष्ट्वा राक्षसराजस्य प्रभावममितौजसः।",
+      "transliteration": "",
+      "translation": "Many such thoughts crossed Hanuman's intelligent mind on seeing Ravana's brilliance and power. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे एकोनपञ्चाशस्सर्गः।। Thus ends the fortyninth sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

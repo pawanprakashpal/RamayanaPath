@@ -1,0 +1,306 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 46,
+    "title": "Five Generals of Ravana done to death by Hanuman in war",
+    "titleSanskrit": "",
+    "totalShlokas": 32
+  },
+  "shlokas": [
+    {
+      "id": "vs-46-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "हतान्मन्त्रिसुतान् बुद्ध्वा वानरेण महात्मना।\nरावणस्संवृताकारश्चकार मतिमुत्तमाम्।।5.46.1।।",
+      "transliteration": "",
+      "translation": "Coming to know that the seven sons of the ministers were slain by the great vanara,  Ravana, who had concealed his feelings of agony thought of a good plan.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "स विर��पाक्षयूपाक्षौ दुर्धरं चैव राक्षसम्।\nप्रघसं भासकर्णं च पञ्चसे��ाग्रनायकान्।।5.46.2।।\nसन्दिदेश दशग्रीवो वीरान्नयविशारदान्।\nहनुमद्ग्रहणव्यग्रान्वायुवेगसमान्युधि।।5.46.3।।",
+      "transliteration": "",
+      "translation": "The tenheaded Ravana, eager to capture Hanuman, commanded his five army Generals called Virupaksha, Yupaksha, Durdhara, Praghasa and Bhaskarna, who were great warriorstatesmen valiant and, equal to wind in speed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "यात सेनाग्रगास्सर्वे महाबलपरिग्रहाः।\nसवाजिरथमातङ्गास्स कपिश्शास्यतामिति।।5.46.4।।",
+      "transliteration": "",
+      "translation": "\"O Army generals march with a large, strong army with horses, chariots and elephants and punish the vanara.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "यत्नैश्च खलु भाव्यं स्यात्तमासाद्य वनालयम्।\nकर्म चापि समाधेयं देशकालाविरोधिनम्।।5.46.5।।",
+      "transliteration": "",
+      "translation": "\"Go to that forestdweller and make all efforts to impose on him punishment appropriate to time and place (keeping in view the harm he has done).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "न ह्यहं तं कपिं मन्ये कर्मणा प्रतितर्कयन्।\nसर्वथा तन्महद्भूतं महाबलपरिग्रहम्।।5.46.6।।",
+      "transliteration": "",
+      "translation": "\"Judging again and again from all actions, I do not think he is an ordinary monkey. He is a being endowed with great strength.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "भवेदिन्द्रेण वा सृष्टमस्मदर्थं तपोबलात्।\nसनागयक्षगन्धर्वा देवासुरमहर्षयः।।5.46.7।।\nयुष्माभिस्सहितैस्सर्वैर्मया सह विनिर्जिताः।\nतैरवश्यं विधातव्यं व्यलीकं किञ्चिदेव नः।।5.46.8।।\nतदेव नात्र सन्देहः प्रसह्य परिगृह्यताम्।\nनावमान्यो भवद्भिश्च हरिर्धीरपराक्रमः।।5.46.9।।",
+      "transliteration": "",
+      "translation": "\"To me it appears he is created by Indra with his ascetic power (for punishing us). I have subdued nagas, yakshas, gandharvas and even gods, asuras and ascetics with your help. So you should certainly bring him here without doing any harm. Capture the monkey forcibly. Do not insult that mighty monkey.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "दृष्टा हि हरयः पूर्वं मया विपुलविक्रमाः।\nवाली च सहसुग्रीवो जाम्बवांश्च महाबलः।।5.46.10।।\nनीलस्सेनापतिश्चैव ये चान्ये द्विविदादयः।\nनैवं तेषां गतिर्भीमा न तेजो न पराक्रमः।।5.46.11।।\nन मतिर्न बलोत्साहौ न रूपपरिकल्पनम्।",
+      "transliteration": "",
+      "translation": "\"Earlier I have seen monkeys of immense prowess, like Vali and Sugriva as well as Jambavan, the bear. Also I have seen the army general, Nila, Dvivida and others. They do not have such tremendous splendour or movement valour, intellect and strength and energy. They did not have such ability to change form at their will.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "महत्सत्त्वमिदं ज्ञेयं कपिरूपं व्यवस्थितम्।।5.46.12।।\nप्रयत्नं महदास्थाय क्रियतामस्य निग्रहः।",
+      "transliteration": "",
+      "translation": "\"It should be understood that he has taken the form of a monkey. You have to put in extraordinary effort to capture him by acting in a suitable manner.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "कामं लोकास्त्रयस्सेन्द्रास्ससुरासुरमानवाः।।5.46.13।।\nभवतामग्रतः स्थातुं न पर्याप्ता रणाजिरे।",
+      "transliteration": "",
+      "translation": "\"Even Indra, suras, asuras and humans and the three worlds together are incompetent to stand before you in a battlefield.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तथापि तु नयज्ञेन जयमाकाङ्क्षता रणे।।5.46.14।।\nआत्मा रक्ष्यः प्रयत्नेन युद्धसिद्धिर्हि चञ्चला।",
+      "transliteration": "",
+      "translation": "\"Even then, you should safeguard yourself with great effort adopting warstrategies in an intelligent  manner to be victorious, for success in war is uncertain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "ते स्वामिवचनं सर्वे प्रतिगृह्य महौजसः।।5.46.15।।\nसमुत्पेतुर्महावेगा हुताशसमतेजसः।\nरथैर्मत्तैश्च मातङ्गैर्वाजिभिश्च महाजवैः।।5.46.16।।\nशस्त्रैश्च विविधैस्तीक्ष्णैस्सर्वैश्चोपचिता बलैः।",
+      "transliteration": "",
+      "translation": "Taking King's order, the strong and swift warriors, resplendent as the flame of sacrificial fire sallied forth with their army on chariots, on the back of rutting elephants,  some on swift horses equipped with sharp weapons of many kinds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "ततस्तं ददृशुर्वीरा दीप्यमानं महाकपिम्।।5.46.17।।\nरश्मिमन्तमिवोद्यन्तं स्वतेजोरश्मिमालिनम्।\nतोरणस्थं महोत्साहं महासत्त्वं महाबलम्।।5.46.18।।",
+      "transliteration": "",
+      "translation": "The heroic giants caught sight of the vanara, who was blazing  encircled as though he  was by the rays of his own glory, looking like the rising Sun. He was endowed with extraordinary agility, intelligence, and tremendous strength standing, waiting at the archway.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "महामतिं महावेगं महाकायं महाबलम्।\nतं समीक्ष्यैव ते सर्वे दिक्षु सर्वास्ववस्थिताः।।5.46.19।।\nतै स्तै: प्रहरणैर्भीमैरभिपेतुस्ततस्ततः।",
+      "transliteration": "",
+      "translation": "Having observed the tremendous strength, intelligence and swiftness in action of Hanuman, the generals of the army positioned at all directions and assailed him with dreadful weapons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तस्य पञ्चायसास्तीक्ष्णाश्शिताः पीतमुखाश्शराः।।5.46.20।।\nशिरस्युत्पलपत्राभा दुर्धरेण निपातिताः।",
+      "transliteration": "",
+      "translation": "Durdhara pierced into the head of Hanuman with five sharp arrows and polished steel shafts with yellow tips (gold) shining like red lotus petals. They were like petals of lilies thrown on the head of Hanuman (causing no pain).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "स तैः पञ्चभिराविद्धश्शरैश्शिरसि वानरः।।5.46.21।।\nउत्पपात नदन् व्योम्नि दिशो दश विनादयन्।",
+      "transliteration": "",
+      "translation": "With five arrows pierced in the head of the vanara, Hanuman leaped into the sky with terrible roar, which resounded in all the ten directions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "ततस्तु दुर्धरो वीरस्सरथस्सज्यकार्मुकः।।5.46.22।।\nकिरन् शरशतैस्तीक्ष्णैरभिपेदे महाबलः।",
+      "transliteration": "",
+      "translation": "Then the powerful, hero, Durdhara, mounted on his chariot, fastened his bowstring and hit Hanuman with hundreds of sharp arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "स कपिर्वारयामास तं व्योम्नि शरवर्षिणम्।।5.46.23।।\nवृष्टिमन्तं पयोदान्ते पयोदमिव मारुतः।",
+      "transliteration": "",
+      "translation": "The great monkey kept away the showering arrows like the wind prevents raincloud from showering rain drops at the end of monsoon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अर्ध्यमानस्ततस्तेन दुर्धरेणानिलात्मजः।।5.46.24।।\nचकार कदनं भूयो व्यवर्धत च वेगवान्।",
+      "transliteration": "",
+      "translation": "When the son of the Windgod was attacked by Durdhara, he again grew in size",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "स दूरं सहसोत्पत्य दुर्धरस्य रथे हरिः।।5.46.25।।\nनिपपात महावेगो विद्युद्राशिर्गिराविव।",
+      "transliteration": "",
+      "translation": "Hanuman suddenly leaped far off into the air at high speed and fell on Durdhara's chariot just like a thunderous lightning falls on a mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "ततस्स मथिताष्टाश्वं रथं भग्नाक्षकूबरम्।।5.46.26।।\nविहाय न्यपतद्भूमौ दुर्धरस्त्यक्तजीवितः।",
+      "transliteration": "",
+      "translation": "Having lost his chariot, the horses yoked to it killed, its axle and pole broken to pieces, Durdhara fell down dead from the chariot.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तं विरूपाक्षयूपाक्षौ दृष्ट्वा निपतितं भुवि।।5.46.27।।\nसञ्जातरोषौ दुर्धर्षावुत्पेतुररिन्दमौ।",
+      "transliteration": "",
+      "translation": "Seeing the body of Durdhara fallen on the ground, enraged Virupaksha and Yupaksha, the unassailable crushers of enemies leaped towards him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "स ताभ्यां सहसोत्पत्य विष्ठितो विमलेऽम्बरे।।5.46.28।।\nमुद्गराभ्यां महाबाहुर्वक्षस्यभिहतः कपिः।",
+      "transliteration": "",
+      "translation": "As the strongarmed vanara stood stationed in the clear white sky both the generals leaped into the sky and hit him all of a sudden with two iron hammers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तयोर्वेगवतोर्वेगं विनिहत्य महाबलः।।5.46.29।।\nनिपपात पुनर्भूमौ सुपर्णसमविक्रमः।",
+      "transliteration": "",
+      "translation": "Powerful Hanuman, an equal to Garuda in valour fell down while resisting the swift generals.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "स सालवृक्षमासाद्य तमुत्पाट्य च वानरः।।5.46.30।।\nतावुभौ राक्षसौ वीरौ जघान पवनात्मजः।",
+      "transliteration": "",
+      "translation": "Then the son of the Windgod seized a sala tree uprooted it, lifted it and smashed the two giant generals with it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "ततस्तांस्त्रीन्हतान्ज्ञात्वा वानरेण तरस्विना।।5.46.31।।\nअभिपेदे महावेगः प्रसह्य प्रघसो हरिम्।\nभासकर्णश्च सङ्कृद्धश्शूलमादाय वीर्यवान्।।5.46.32।।",
+      "transliteration": "",
+      "translation": "Finding all the three generals dead, swift Praghasa advanced towards the Vanara and attacked him. Valiant Bhasakarna also lifted a trident and attacked him. Both were famous for swift and violent action in war",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "एकतः कपिशार्दूलं यशस्विनमवस्थितम्।\nपट्टिसेन शिताग्रेण प्रघसः प्रत्ययोधयत्।।5.46.33।।\nभासकर्णश्च शूलेन राक्षसः कपिसत्तमम्।",
+      "transliteration": "",
+      "translation": "Praghasa fought back the glorious tiger among vanaras with a sharp crowbar on one side and Bhaskarana attacked with a spear from the other.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "स ताभ्यां विक्षतैर्गात्रैरसृग्दिग्धतनूरुहः।।5.46.34।।\nअभवद्वानरः क्रुद्धो बालसूर्यसमप्रभः।",
+      "transliteration": "",
+      "translation": "Attacked by both the generals, the fur on the vanara's body was smeared with blood from his wounded limbs, shining like the rising Sun smeared with blood became furious.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "समुत्पाट्य गिरेश्शृङ्गं समृगव्यालपादपम्।।5.46.35।।\nजघान हनुमान् वीरो राक्षसौ कपिकुञ्जरः।",
+      "transliteration": "",
+      "translation": "Hanuman, a courageous and mighty elephant among the monkeys uprooted a mountain peak along with its animals, serpents and trees and killed both the demon generals.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "ततस्तेष्ववसन्नेषु सेनापतिषु पञ्चसु।।5.46.36।।\nबलं तदवशेषं च नाशयामास वानरः।",
+      "transliteration": "",
+      "translation": "When the five army chiefs were killed, Hanuman began to destoy the remaining army force.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "अश्वैरश्वान् गजैर्नागान् योधैर्योधान् रथैरथान्।।5.46.37।।\nस कपिर��नाशयामास सहस्राक्ष इवासुरान्।",
+      "transliteration": "",
+      "translation": "The vanara pitted horses against horses, elephants against elephants, warriors against warriors and chariots against chariots as Indra destroyed demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "हतैर्नागैश्च तुरगैर्भग्नाक्षैश्च महारथैः।।5.46.38।।\nहतैश्च राक्षसैर्भूमी रुद्धमार्गा समन्ततः।",
+      "transliteration": "",
+      "translation": "There was no path (one could not move forward) with elephants, and horses killed and with broken axles of great chariots and smashed chariots spread all over the way.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-46-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "ततः कपिस्तान्ध्वजिनीपतीन् रणे निहत्य वीरान्सबलान्सवाहनान्।\nसमीक्ष्य वीरः परिगृह्य तोरणं कृतक्षणः काल इव प्रजाक्षये।।5.46.39।।",
+      "transliteration": "",
+      "translation": "Then the heroic monkey having killed the army generals and their army and destroyed their vehicles in war came back to the archway after reviewing and stood like the timespirit bent upon the destruction of humanity. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे षट्चत्वारिंशस्सर्गः।। Thus ends the fortysixth sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

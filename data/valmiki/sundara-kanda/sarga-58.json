@@ -1,0 +1,1368 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 58,
+    "title": "Hanuman narrates all the incidents starting from his departure for Lanka till his return.",
+    "titleSanskrit": "",
+    "totalShlokas": 150
+  },
+  "shlokas": [
+    {
+      "id": "vs-58-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततस्तस्य गिरेः शृङ्गे महेन्द्रस्य महाबलाः।\nहनुमत्प्रमुखाः प्रीतिं हरयो जग्मुरुत्तमाम्।।5.58.1।।",
+      "transliteration": "",
+      "translation": "Then the mighty Hanuman and other vanaras having assembled on the summit of mountain Mahendra and felt vey much happy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तं ���तः प्रीतिसंहृष्टः प्रीतिमन्तं महाकपिम्।\nजाम्बवान्कार्यवृत्���ान्तमपृच्छदनिलात्मजम्।।5.58.2।।",
+      "transliteration": "",
+      "translation": "Thereafter, very delighted Jambavan inquired Hanuman most affectionately of all that happened.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "कथं दृष्टा त्वया देवी कथं वा तत्र वर्तते।\nतस्यां वा स कथंवृत्तः क्रूरकर्मा दशाननः।।5.58.3।।",
+      "transliteration": "",
+      "translation": "\"How did you find the godlike lady? How was she? How was the tenheaded one, cruel in action, behaving with her? You may narrate what she said.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तत्त्वतस्सर्वमेतन्नः प्रब्रूहि त्वं महाकपे।\nश्रुतार्थाश्चिन्तयिष्यामो भूयः कार्यविनिश्चयम्।।5.58.4।।",
+      "transliteration": "",
+      "translation": "\"O Hanuman, tell us in detail  the entire thing. On hearing it, we will think about the next course of action.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "यश्चार्थस्तत्त्र वक्तव्यो गतैरस्माभिरात्मवान्।\nरक्षितव्यं च यत्तत्र तद्भवान्व्याकरोतु नः।।5.58.5।।",
+      "transliteration": "",
+      "translation": "\"You are wise and you should tell us in detail what is to be told and what has to be hidden when we report.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "स नियुक्तस्ततस्तेन सम्प्रहृष्टतनूरुहः।\nप्रणम्य शिरसा देव्यै सीतायै प्रत्यभाषत।।5.58.6।।",
+      "transliteration": "",
+      "translation": "Having been asked (by Jambavan and others) Hanuman with horripilations all over his  body, bowed down and saluted in the direction of queen Sita and began:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "प्रत्यक्षमेव भवतां महेन्द्राग्रात्खामाप्लुतः।\nउदधेर्दक्षिणं पारं काङ्क्षमाण स्समाहितः।।5.58.7।।",
+      "transliteration": "",
+      "translation": "\"I rose upwards leaping into the sky, intent on reaching the southern shore from the mountain Mahendra.It has been witnessed directly by all of you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "गच्छतश्च हि मे घोरं विघ्नरूपमिवाभवत्।\nकाञ्चनं शिखरं दिव्यं पश्यामि सुमनोहरम्।।5.58.8।।",
+      "transliteration": "",
+      "translation": "\"Even as I was leaping I saw a terrific and wonderful golden peak which came as if to obstruct me on my path.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "स्थितं पन्धानमावृत्य मेने विघ्नं च तं नगम्।\nउपसङ्गम्य तं दिव्यं काञ्चनं नगसत्तमम्।।5.58.9।।\nकृता मे मनसा बुद्धिर्भेत्तव्योऽयं म��ेति च।",
+      "transliteration": "",
+      "translation": "\"The mountain stood on my way turning towards me in order to obstruct me. Then I resolved in my mind that this great, wonderful, golden mountain has to be smashed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "प्रहतं च मया तस्य लाङ्गूलेन महागिरेः।।5.58.10।।\nशिखरं सूर्यसङ्काशं व्यशीर्यत सहस्रधा।",
+      "transliteration": "",
+      "translation": "\"Hit by my tail the great mountain peak, which was radiating like the Sun was shattered into a thousand pieces.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "व्यवसायं च तं बुद्ध्वा स होवाच महागिरिः।।5.58.11।\nपुत्त्रेति मधुरां वाणीं मनः प्रह्लादयन्निव।",
+      "transliteration": "",
+      "translation": "\"Perceiving that I am going to smash him he spoke to me in a sweet tone delighting my heart, addressing me like a son.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "पितृव्यं चापि मां विद्धि सखायं मातरिश्वनः।।5.58.12।।\nमैनाकमिति विख्यातं निवसन्तं महोदधौ।",
+      "transliteration": "",
+      "translation": "'Know me to be a friend of windgod and so I am like your father's brother. I am dwelling in this great ocean and known as Mainaka.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "पक्षवन्तः पुरा पुत्त्र बभूवुः पर्वतोत्तमाः।।5.58.13।।\nछन्दतः पृथिवीं चेरुर्बाधमानाः समन्ततः।",
+      "transliteration": "",
+      "translation": "'O son in the past, foremost of the mountains too had wings and they used to range  at will all over the earth tormenting all.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "श्रुत्वा नगानां चरितं महेन्द्रः पाकशासनः।।5.58.14।।\nचिच्छेद भगवान् पक्षान्वज्रेणैषां सहस्रशः।",
+      "transliteration": "",
+      "translation": "'Mahendra, the killer of ogre Paka, heard the story (of the cruel deeds) of mountains and cut off their wings into a thousand pieces with his thunderbolt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "अहं तु मोक्षितस्तस्मात्तव पित्रा महात्मना।।5.58.15।।\nमारुतेन तदा वत्स प्रक्षिप्तोऽस्मि महार्णवे।",
+      "transliteration": "",
+      "translation": "'O son I was saved from Indra by your kind father Maruta who dropped me in this great  ocean.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "रामस्य च मया साह्ये वर्तितव्यमरिन्दम।।5.58.16।।\nरामो धर्मभृ���ां श्रेष्ठो महेन्द्रसमविक्रमः।",
+      "transliteration": "",
+      "translation": "'O subduer of enemiesI must make efforts to help Rama the foremost among the righteous, for I have received help (from your father) who is equal to Indra in valour'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "एतच्छ्रुत्वा वचस्तस्य मैनाकस्य महात्मनः।।5.58.17।।\nकार्यमावेद्य तु गिरेरुद्यतं च मनो मम।\nतेन चाहमनुज्ञातो मैनाकेन महात्मना।।5.58.18।।",
+      "transliteration": "",
+      "translation": "\"When I heard Mainaka, I told him about my intention to go up. That great self Mainaka allowed me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "स चाप्यन्तर्हितः शैलो मानुषेण वपुष्मता।\nशरीरेण महाशैलः शैलेन च महोदधौ।।5.58.19।।",
+      "transliteration": "",
+      "translation": "\"Then the huge mountain in human form concealed as huge mountains remain hidden in the ocean.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "उत्तमं जवमास्थाय शेषं पन्थानमास्थितः।\nततोऽहं सुचिरं कालं वेगेनाभ्यागमं पथि।।5.58.20।।",
+      "transliteration": "",
+      "translation": "\"Then with great speed I proceeded on my path. It took a long time to cross the ocean.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "ततः पश्याम्यहं देवीं सुरसां नागमातरम्।\nसमुद्रमध्ये सा देवी वचनं मामभाषत।।5.58.21।।",
+      "transliteration": "",
+      "translation": "\"I saw Surasa, the mother of serpents in the midst of the ocean and she said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "मम भक्षः प्रदिष्टस्त्वममरैर्हरिसत्तम।\nअतस्त्वां भक्षयिष्यामि विहितस्त्वं चिरस्य मे।।5.58.22।।",
+      "transliteration": "",
+      "translation": "'O powerful monkey you are destined to be my food provided by the immortals. Therefore, I will eat you as I have I found you after a long time. (of unsatiated hunger).'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "एवमुक्त स्सुरसया प्राञ्जलिः प्रणतः स्थितः।\nविवर्णवदनो भूत्वा वाक्यं चेदमुदीरयम्।।5.58.23।।",
+      "transliteration": "",
+      "translation": "\"When addressed thus by Surasa, I bowed low with joined palms, stood before her with my face turned pale, and said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "रामो दाशरथिः श्रीमान् प्रविष्टो दण्डकावनम्।\nलक्ष्मणेन सह भ्रात्रा सीतया च परन्तपः।।5.58.24।।",
+      "transliteration": "",
+      "translation": "'Dasaratha's son, the illustrious Rama, a scorcher of enemies, accompanied by his brother Lakshmana and wife Sita entered Dandaka forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "तस्य सीता हृता भार्या रावणेन दुरात्मना।\nतस्या स्सङ्काशं दूतोऽहं गमिष्ये रामशासनात्।।5.58.25।।",
+      "transliteration": "",
+      "translation": "'His wife was abducted by the evilminded Ravana. By Rama's command I am going to meet her as messenger from Rama.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "कर्तुमर्हसि रामस्य साहाय्यं विषये सती।\nअथवा मैथिलीं दृष्ट्वा रामं चाक्लिष्टकारिणम्।।5.58.26।।\nआगमिष्यामि ते वक्त्रं सत्यं प्रतिशृणोमि ते।",
+      "transliteration": "",
+      "translation": "\"I told her that it is proper for her (living in the domain of Rama) to help his queen and wife. Or else, I promised after I disclose to Rama, Sita's whereabouts, I will come and enter her mouth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "एवमुक्ता मया सा तु सुरसा कामरूपिणी।5.58.27।।\nअब्रवीन्नातिवर्तेत कश्चिदेष वरो मम।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "एवमुक्तस्सुरसया दशयोजनमायतः।।5.58.28।।\nततोर्थगुणविस्तारो बभूवाहं क्षणेन तु।",
+      "transliteration": "",
+      "translation": "\"When Surasa said this I who was ten yojanas in height increased  by fifteen yojanas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "मत्प्रमाणानुरूपं च व्यादितं च मुखं तया।।5.58.29।।\nतद्दृष्ट्वा व्यादितं चास्यं ह्रस्वं ह्यकरवं वपुः।\nतस्मिन्मुहूर्ते च पुनर्बभूवाङ्गुष्ठमात्रकः।।5.58.30।।",
+      "transliteration": "",
+      "translation": "\"She too opened her mouth wide enough for my size. Seeing her distending her mouth, in a moment I became small equal to the size of thumb and came out.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "अभिपत्याशु तद्वक्त्रं निर्गतोऽहं ततः क्षणात्।\nअब्रवीत्सुरसा देवी स्वेन रूपेण मां पुनः।।5.58.31।।",
+      "transliteration": "",
+      "translation": "\"Then Surasa assumed her natural form again in a moment and said this to me:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "अर्थसिद्ध्यै हरिश्रेष्ठ गच्छ सौम्य यथासुखम्।\nसमानय च वैदेहीं राघवेण महात्मना।।5.58.32।।\nसुखी भव महाबाहो प्रीताऽस्मि तव वानर।",
+      "transliteration": "",
+      "translation": "'O noble vanara O foremost of the vanaras go and accomplish the task.Unite the great Rama with Vaidehi.O strongarmed vanara, be happy. I am pleased with you'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "ततोऽहं साधु साध्विति सर्वभूतैः प्रशंसितः।।5.58.33।।\nततोऽन्तरिक्षं विपुलं प्लुतोऽहं गरुडो यथा।",
+      "transliteration": "",
+      "translation": "\"Then all creatures praised me saying 'well done well done'. Then I leaped into the vast sky like Garuda.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "छाया मे निगृहीता च न च पश्यामि किंचन।।5.58.34।।\nसोऽहं विहतवेगस्तु दिशो दश विलोकयन्।\nन किञ्चित्तत्र पश्यामि येन मेऽपहृता गतिः।।5.58.35।।",
+      "transliteration": "",
+      "translation": "\"Then I was captured by a shadow of some one. I could not see and I reduced my speed and looked around in all the ten directions. I could not see the one who seized me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "ततो मे बुद्धिरुत्पन्ना किन्नाम गगने मम।\nईदृशो विघ्न उत्पन्नो रूपं यत्र न दृश्यते।।5.58.36।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "अधोभागेन मे दृष्टि श्शोचता पातिता मया।\nततोऽद्राक्षमहं भीमां राक्षसीं सलिलेशयाम्।।5.58.37।।",
+      "transliteration": "",
+      "translation": "\"Thinking so I looked down into the water and there I saw a terrific shedemon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "प्रहस्य च महानादमुक्तोऽहं भीमया तया।\nअवस्थितमसम्भ्रान्तमिदं वाक्यमशोभनम्।।5.58.38।।",
+      "transliteration": "",
+      "translation": "\"She was frightening and  laughed in loud voice without any hesitation. Steadfast she uttered these ominous words to me:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "क्वासि गन्ता महाकाय क्षुधिताया ममेप्सितः।\nभक्षः प्रीणय मे देहं चिरमाहारवर्जितम्।।5.58.39।।",
+      "transliteration": "",
+      "translation": "'O huge monkey where are you going? I am hungry since long. I am going without food and must eat you. Make me satisfied'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "बाढमित्येव तां वाणीं प्रत्यगृह्णामहं ततः।\nअस्यप्रमाणादधिकं तस्याः कायमपूरयम्।।5.58.40।।",
+      "transliteration": "",
+      "translation": "\"I said 'well' and enlarged my body more than her mouth could hold.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "तस्याश्चास्यं महद्भीमं वर्धते मम भक्षणे।\nन च मां साधु बुबुधे मम वा विकृतं कृतम्।।5.58.41।।",
+      "transliteration": "",
+      "translation": "\"She opened her huge mouth to eat me as she did not know that I had already assumed a huge ugly form on my own.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "ततोऽहं विपुलं रूपं संक्षिप्य निमिषान्तरात्।\nतस्या हृदयमादाय प्रपतामि नभ:स्थलम्।।5.58.42।।",
+      "transliteration": "",
+      "translation": "\"In a moment I reduced from a huge form to a small one, entered her heart and sprang into the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "सा विसृष्टभुजा भीमा पपात लवणाम्भसि।\nमया पर्वतसङ्काशा निकृत्तहृदया सती।।5.58.43।।",
+      "transliteration": "",
+      "translation": "\"She who resembled a mountain fell into the ocean with her arms hanging down when I pulled out her heart.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "शृणोमि खगतानां च सिद्धानां चारणैस्सह।\nराक्षसी सिंहिका भीमा क्षिप्रं हनुमता हता।।5.58.44।।",
+      "transliteration": "",
+      "translation": "\"I heard the charanas and siddhas residing in the sky talking to each other that the fierce ogres Simhika has been killed by Hanuman in a moment.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "तां हत्वा पुनरेवाहं कृत्यमात्ययिकं स्मरन्।\nगत्वा चाह महध्वानं पश्यामि नगमण्डितम्।।5.58.45।।\nदक्षिणं तीरमुदधेर्लङ्का यत्र च सा पुरी।",
+      "transliteration": "",
+      "translation": "\"Having slained Simhika, I thought of the huge feat that I have done. I remembered the big mission before me and went to the southern shore of the ocean and saw Lanka full of trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "अस्तं दिनकरे याते रक्षसां निलयं पुरम्।।5.58.46।।\nप्रविष्टोऽहमविज्ञातो रक्षोभिर्भीमविक्रमैः।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "तत्र प्रविशतश्चापि कल्पान्तघनसन्निभा।।5.58.47।।\nअट्टहासं विमुञ्चन्ती नारी काप्युत्थिता पुरः।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "जिघांसन्तीं ततस्तां तु ज्वलदग्निशिरोरुहाम्।।5.58.48।।\nसव्यमुष्टिप्रहारेण पराजित्य सुभैरवाम्।\nप्रदोषकाले प्रविशं भीतयाऽहं तयोदितः।।5.58.49।।",
+      "transliteration": "",
+      "translation": "\"Then the frightening form, with its hair burning like sacrificial fire, emerged to kill me. I defeated her hittting with my left fist and entered the city at sunset time.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "अहं लङ्कापुरी वीर निर्जिता विक्रमेण ते।\nयस्मात्तस्माद्विजेतासि सर्वरक्षांस्यशेषतः।।5.58.50।।",
+      "transliteration": "",
+      "translation": "'O hero I am the presiding deity of Lanka whom you have won by your valour. Therefore you will win many demons she foretold.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "तत्राहं सर्वरात्रं तु विचिन्वन् जनकात्मजाम्।\nरावणान्तःपुरगतो न चापश्यं सुमध्यमाम्।।5.58.51।।",
+      "transliteration": "",
+      "translation": "\"There when I went to the harem of Ravana and searched all night, I did not find the fairwaisted Janaka's daughter.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "तत स्सीतामपश्यंस्तु रावणस्य निवेशने।\nशोकसागरमासाद्य न पारमुपलक्षये।।5.58.52।।",
+      "transliteration": "",
+      "translation": "\"Not able to find Sita at the residence of Ravana I was immersed in an ocean of endless sorrow and did not know what to do.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "शोचता च मया दृष्टं प्राकारेण समावृतम्।\nकाञ्चनेन विकृष्टेन गृहोपवनमुत्तमम्।।5.58.53।।",
+      "transliteration": "",
+      "translation": "\"While worrying like that I saw a long golden boundary wall surrounding a splendid home garden. (upabana)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "स प्राकारमवप्लुत्य पश्यामि बहुपादपम्।\nअशोकवनिकामध्ये शिंशुपापादपो महान्।।5.58.54।।\nतमारुह्य च पश्यामि काञ्चनं कदलीवनम्।",
+      "transliteration": "",
+      "translation": "\"I crossed that boundary wall and saw many kinds of trees and in the midst of that Ashoka garden, a huge Simsupa tree. I ascended it and saw rows of banana plants.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "अदूरे शिंशुपावृक्षात्पश्यामि वरवर्णिनीम्।।5.58.55।।\nश्यामां कमलपत्राक्षीमुपवासकृशाननाम्।\nतदेकवासस्संवीतां रजोध्वस्तशिरोरुहाम्।।5.58.56।।\nशोकसन्तापदीनाङ्गीं सीतां भर्तृहिते स्थिताम्।\nराक्षसीभिर्विरूपाभिः क्रूराभिरभिसंवृताम्।।5.58.57।।\nमांसशोणितभक्षाभिर्व्याघ्रीभिर्हरिणीमिव।",
+      "transliteration": "",
+      "translation": "\"Not far from the Simsupa tree I saw beautiful Sita, of dark complexion, with eyes like lotus petals, whose face was emaciated due to fasting, wearing only a single sari (the same one since her abduction) her locks filled with dust, pathetic looking,  immersed in sorrow, meditating on her husband seated like a doe encircled by tigresses, surrounded by ugly and cruel shedemons fed on flesh and blood.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "सा मया राक्षसीमध्ये तर्ज्यमाना मुहुर्मुहुः।।5.58.58।।\nएकवेणीधरा दीना भर्तृचिन्तापरायणा।\nभूमिशय्या विवर्णाङ्गी पद्मिनीव हिमागमे।।5.58.59।।\nरावणाद्विनिवृत्तार्था मर्तव्यकृतनिश्चया।\nकथञ्चिन्मृगशाबाक्षी तूर्णमासादिता मया।।5.58.60।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "तां दृष्ट्वा तादृशीं नारीं रामपत्नीं यशस्विनीम्।\nतत्रैव शिंशुपावृक्षे पश्यन्नहमवस्थितः।।5.58.61।।",
+      "transliteration": "",
+      "translation": "\"I remained there looking on that renowned wife of Rama from the Simsupa tree.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-54",
+      "number": 54,
+      "type": "shloka",
+      "original": "ततो हलहलाशब्दं काञ्चीनूपुरमिश्रितम्।\nशृणोम्यधिकगम्भीरं रावणस्य निवेशने।।5.58.62।।",
+      "transliteration": "",
+      "translation": "\"Then I heard a deep sound mixed with jingling golden girdles and anklets coming from Ravana's residence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-55",
+      "number": 55,
+      "type": "shloka",
+      "original": "ततोऽहं परमोद्विग्नः स्वं रूपं प्रत्यसंहरम्।\nअहं तु शिंशुपावृक्षे पक्षीव गहने स्थितः।।5.58.63।।",
+      "transliteration": "",
+      "translation": "\"I was scared and contracted my body size and stood on the Simsupa tree like a bird in the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-56",
+      "number": 56,
+      "type": "shloka",
+      "original": "ततो रावणदाराश्च रावणश्च महाबलः।\nतं देशं समनुप्राप्ता यत्र सीताऽभवत् स्थिता।।5.58.64।।",
+      "transliteration": "",
+      "translation": "\"Then arrived the powerful Ravana with his consorts to that place where Sita was and stood there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-57",
+      "number": 57,
+      "type": "shloka",
+      "original": "तं दृष्ट्वाथ वरारोहा सीता रक्षोगणेश्वरम्।\nसङ्कुच्योरूस्तनौ पीनौ बाहुभ्यां परिरभ्य च।।5.58.65।।",
+      "transliteration": "",
+      "translation": "\"On seeing Ravana, the king of demons, beautiful Sita, full of fear hid her face and plump breasts between her thighs.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-58",
+      "number": 58,
+      "type": "shloka",
+      "original": "वित्रस्तां परमोद्विग्नां वीक्षमाणां ततस्ततः।\nत्राणं किञ्चिदपश्यन्तीं वेपमानां तपस्विनीम्।।5.58.66।।\nतामुवाच दशग्रीवस्सीतां परमदुःखिताम्।\nअवाक्चिराः प्रपतितो बहुमन्यस्व मामिति।।5.58.67।।",
+      "transliteration": "",
+      "translation": "\"Sita was full of fear and worry, looked here and there without any protector to pacify. She was trembling in fear. To that Sita, the tenheaded Ravana bent his head down and said, 'trust me and respect me'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-59",
+      "number": 59,
+      "type": "shloka",
+      "original": "यदि चेत्त्वं तु दर्पान्मां नाभिनन्दसि गर्विते।\nद्वौ मासावन्तरं सीते पास्यामि रुधिरं तव।।5.58.68।।",
+      "transliteration": "",
+      "translation": "'O Sita if in your pride, you do not respect me, I will see (drink) your blood in two months.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-60",
+      "number": 60,
+      "type": "shloka",
+      "original": "एतच्छ्रुत्वा वचस्तस्य रावणस्य दुरात्मनः।\nउवाच परमक्रुद्धा सीता वचनमुत्तमम्।।5.58.69।।",
+      "transliteration": "",
+      "translation": "\"Hearing the words of evilminded Ravana, Sita became very angry and spoke these approprate words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-61",
+      "number": 61,
+      "type": "shloka",
+      "original": "राक्षसाधम रामस्य भार्याममिततेजसः।\nइक्ष्वाकुकुलनाथस्य स्नुषां दशरथस्य च।।5.58.70।।\nअवाच्यं वदतो जिह्वा कथं न पतिता तव।",
+      "transliteration": "",
+      "translation": "'O lowly demon I am the wife of valiant Rama and daughterinlaw of Dasaratha, the king of Ikshvaku race. How is it your tongue that spoke unspeakable words has not fallen down?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-62",
+      "number": 62,
+      "type": "shloka",
+      "original": "किञ्चिद्वीर्यं तवानार्य यो मां भर्तुरसन्निधौ।।5.58.71।।\nअपहृत्याऽऽगतः पाप ते नादृष्टो महात्मना।",
+      "transliteration": "",
+      "translation": "'O ignoble one when my husband was away, you came and abducted me unseen by the great Rama. You do not have even a little courage (to win me through a straight fight).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-63",
+      "number": 63,
+      "type": "shloka",
+      "original": "न त्वं रामस्य सदृशो दास्येऽप्यस्य न युज्यसे।।5.58.72।।\nयज्ञीय स्सत्यवादी च रणश्लाघी च राघवः।",
+      "transliteration": "",
+      "translation": "'You are not equal to Rama and not even fit to be his servant. He does yagnas and always abides in truth. He is valiant in war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-64",
+      "number": 64,
+      "type": "shloka",
+      "original": "जानक्या परुषं वाक्यमेवमुक्तो दशाननः।।5.58.73।।\nजज्वाल सहसा कोपाच्चितास्थ इव पावकः।",
+      "transliteration": "",
+      "translation": "\"Thus addressed harshly by Janaki, the tenheaded Ravana blazed up in anger suddenly like the flame of the funeral pyre.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-65",
+      "number": 65,
+      "type": "shloka",
+      "original": "विवृत्य नयने क्रूरे मुष्टिमुद्यम्य दक्षिणम्।।5.58.74।।\nमैथिलीं हन्तुमारब्ध: स्त्रीभिर्हाहाकृतं तदा।",
+      "transliteration": "",
+      "translation": "\"Then the wicked Ravana raised his eyebrows and his right fist to strike at Sita and even the shedemon there raised their voice saying, ' alas, alas '",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-66",
+      "number": 66,
+      "type": "shloka",
+      "original": "स्त्रीणां मध्यात्समुत्पत्य तस्य भार्या दुरात्मनः।।5.58.75।।\nवरा मन्दोदरी नाम तया स प्रतिषेधितः।",
+      "transliteration": "",
+      "translation": "\"Evilminded Ravana's wife Mandodari, a noble one among women came forward from the midst and prevented him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-67",
+      "number": 67,
+      "type": "shloka",
+      "original": "उक्तश्च मधुरां वाणीं तया स मदनार्दितः।।5.58.76।।\nसीतया तव किं कार्यं महेन्द्रसमविक्रमः।",
+      "transliteration": "",
+      "translation": "\"She spoke sweetly to Ravana, who was tormented by the god of love saying, 'For what purpose do you desire Sita? You are equal to Mahendra in might'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-68",
+      "number": 68,
+      "type": "shloka",
+      "original": "देवगन्धर्वकन्याभिर्यक्षकन्याभिरेव च।।5.58.77।।\nसार्धं प्रभो रमस्वेह सीतया किं करिष्यसि।",
+      "transliteration": "",
+      "translation": "'O lord you enjoy with the daughters of gods, gandharvas and even the young ladies of yakshas. Why do you need Sita?'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-69",
+      "number": 69,
+      "type": "shloka",
+      "original": "ततस्ताभिस्समेताभिर्नारीभिस्स महाबलः।।5.58.78।।\nप्रसाद्य सहसा नीतो भवनं स्वं निशाचरः।",
+      "transliteration": "",
+      "translation": "\"Then all the women got together and stopped the mighty nightranger, Ravana and quickly took him back to his mansion.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-70",
+      "number": 70,
+      "type": "shloka",
+      "original": "याते तस्मिन् दशग्रीवे राक्षस्यो विकृताननाः।।5.58.79।।\nसीतां निर्भर्त्सयामासुर्वाक्यैः क्रूरैस्सुदारुणैः।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-71",
+      "number": 71,
+      "type": "shloka",
+      "original": "तृणवद्भाषितं तास��ं गणयामास जानकी।।5.58.80।।\nगर्जितं च तदा तासां सीतां प्राप्य निरर्थकम्।",
+      "transliteration": "",
+      "translation": "\"Janaki did not care for their words of threat, as though they were a blade of grass and of no use to her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-72",
+      "number": 72,
+      "type": "shloka",
+      "original": "वृथागर्जितनिश्चेष्टा राक्षस्यः पिशिताशनाः।।5.58.81।।\nरावणाय शशंसुस्ताः सीताध्यवसितं महत्।",
+      "transliteration": "",
+      "translation": "\"Since the threatenings of the shedemons were of no use the ogresses who live on flesh and blood reported to Ravana about great Sita's formidable determination.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-73",
+      "number": 73,
+      "type": "shloka",
+      "original": "ततस्तास्सहितास्सर्वा निहताशा निरुद्यमाः।।5.58.82।।\nपरिक्षिप्य समन्तात्तां निद्रावशमुपागताः।",
+      "transliteration": "",
+      "translation": "\"Then all of them gave up hope of their efforts and scattered around her, succumbed to sleep.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-74",
+      "number": 74,
+      "type": "shloka",
+      "original": "तासु चैव प्रसुप्तासु सीता भर्तृहिते रता।।5.58.83।।\nविलप्य करुणं दीना प्रशुशोच सुदुःखिता।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-75",
+      "number": 75,
+      "type": "shloka",
+      "original": "तासां मध्यात्समुत्थाय त्रिजटा वाक्यमब्रवीत्।।5.58.84।।\nआत्मानं खादत क्षिप्रं न सीता विनशिष्यति।\nजनकस्यात्मजा साध्वी स्नुषा दशरथस्य च।।5.58.85।।",
+      "transliteration": "",
+      "translation": "\"From the midst of all of them got up Trijata, saying, 'You eat me if you like. Know that Janaka's daughter is a chaste woman and is the daughterinlaw of Dasaratha. She cannot be destroyed'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-76",
+      "number": 76,
+      "type": "shloka",
+      "original": "स्वप्नो ह्यद्य मया दृष्टो दारुणो रोमहर्षणः।\nरक्षसां च विनाशाय भर्तुरस्या जयाय च।।5.58.86।।",
+      "transliteration": "",
+      "translation": "'Today I saw in my dream, a dreadful and horripilating scene of destruction of demons and even victory of Sita's husband.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-77",
+      "number": 77,
+      "type": "shloka",
+      "original": "अलमस्मात्परित्रातुं राघवाद्राक्षसीगणम्।\nअभियाचाम वैदेहीमेतद्धि मम रोचते।।5.58.87।।",
+      "transliteration": "",
+      "translation": "'To protect the demon clan from destruction by Rama, it is enough if we beg her (pardon). Indeed, I think that way.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-78",
+      "number": 78,
+      "type": "shloka",
+      "original": "यस्या ह्येवंविधस्स्वप्नो दुःखितायाः प्रदृश्यते।\nसा दुःखैर्विविधैर्मुक्ता सुखमाप्नोत्यनुत्तमम्।।5.58.88।।\nप्रणिपातप्रसन्ना हि मैथिली जनकात्मजा।",
+      "transliteration": "",
+      "translation": "'Whoever in a sorrowful state sees such kind of dream, would be not only relieved of all sorrows but will experience immense happiness. Janaka's daughter Sita will bless us with protection if we pray her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-79",
+      "number": 79,
+      "type": "shloka",
+      "original": "ततस्सा ह्रीमती बाला भर्तुर्विजयहर्षिता।।5.58.89।।\nअवोचद्यदि तत्तथ्यं भवेयं शरणं हि वः।",
+      "transliteration": "",
+      "translation": "'On hearing the words (of Trijata) that 'Rama will succeed', young and bashful Sita felt happy and said that 'If it comes true I will protect thee'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-80",
+      "number": 80,
+      "type": "shloka",
+      "original": "तां चाहं तादृशीं दृष्ट्वा सीताया दारुणां दशाम्।\nचिन्तयामास विक्रान्तो न च मे निर्वृतं मनः।।5.58.90।।",
+      "transliteration": "",
+      "translation": "\"Seeing Sita's deplorable state, her illluck and her dread, I began  to worry and had no peace of mind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-81",
+      "number": 81,
+      "type": "shloka",
+      "original": "सम्भाषणार्थं च मया जानक्याश्चिन्तितो विधिः।।5.58.91।।\nइक्ष्वाकूणां हि वंशस्तु ततो मम पुरस्कृतः।",
+      "transliteration": "",
+      "translation": "\"I thought of a strategy to enter into conversation with Janaki that is to praise the Ikshvaku race.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-82",
+      "number": 82,
+      "type": "shloka",
+      "original": "श्रुत्वा तु गदितां वाचं राजर्षिगणपूजिताम्।।5.58.92।।\nप्रत्यभाषत मां देवी बाष्पैः पिहितलोचना।",
+      "transliteration": "",
+      "translation": "\"The divine lady heard my enumeration, sanctifying the royal seers. She replied me, with  her eyes blinded by tears:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-83",
+      "number": 83,
+      "type": "shloka",
+      "original": "कस्त्वं केन कथं चेह प्राप्तो वानरपुङ्गवः।।5.58.93।।\nका च रामेण ते प्रीतिस्तन्मे शंसितुमर्हसि।",
+      "transliteration": "",
+      "translation": "\"O foremost of vanaras who are you? Why and how have you come here? How did you make friendship with Rama? Tell me all that in detail.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-84",
+      "number": 84,
+      "type": "shloka",
+      "original": "तस्यास्तद्वचनं श्रुत्वा ह्यहमप्यब्रुवं वचः।।5.58.94।।\nदेवि रामस्य भर्तुस्ते सहायो भीमविक्रमः।\nसुग्रीवो नाम विक्रान्तो वानरेन्द्रो महाबलः।।5.58.95।।",
+      "transliteration": "",
+      "translation": "\"Hearing her I also said, 'O queen Sugriva, the warrior of fierce valour and king of monkeys developed friendship with your husband'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-85",
+      "number": 85,
+      "type": "shloka",
+      "original": "तस्य मां विद्धि भृत्यं त्वं हनुमन्तमिहागतम्।\nभर्त्राहं प्रेषितस्तुभ्यं रामेणाक्लिष्टकर्मणा।।5.58.96।।",
+      "transliteration": "",
+      "translation": "'I came here as a servant sent by your tireless husband to find you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-86",
+      "number": 86,
+      "type": "shloka",
+      "original": "इदं च पुरुषव्याघ्रः श्रीमान् दाशरथिः स्वयम्।\nअङ्गुलीयमभिज्ञानमदात्तुभ्यं यशस्विनि।।5.58.97।।",
+      "transliteration": "",
+      "translation": "'O glorious lady the tiger among men, the illustrious son of Dasaratha himself sent this ring to you as a taken of identity.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-87",
+      "number": 87,
+      "type": "shloka",
+      "original": "तदिच्छामि त्वयाऽऽज्ञप्तं देवि किं करवाण्यहम्।\nरामलक्ष्मणयोः पार्श्वं नयामि त्वां किमुत्तरम्।।5.58.98।।",
+      "transliteration": "",
+      "translation": "'O venerable lady I seek your order. What should I do? Should I take you to  Rama and Lakshmana? What do you say?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-88",
+      "number": 88,
+      "type": "shloka",
+      "original": "एतच्छ्रुत्वा विदित्वा च सीता जनकनन्दिनी।\nआहरावणमुत्साद्य राघवो मां नयत्विति।।5.58.99।।",
+      "transliteration": "",
+      "translation": "\"Having heard all that (Hanuman said) Sita, the delight of Janaka thought over and said, 'Rama should kill Ravana and take me'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-89",
+      "number": 89,
+      "type": "shloka",
+      "original": "प्रणम्य शिरसा देवीं महमार्यामनिन्दिताम्।\nराघवस्य मनोह्लादमभिज्ञानमयाचिषम्।।5.58.100।।",
+      "transliteration": "",
+      "translation": "\"Then bowing down I saluted the noble and blameless queen Sita to give a signet, which would be very pleasing to Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-90",
+      "number": 90,
+      "type": "shloka",
+      "original": "अथ मामब्रवीत्सीता गृह्यतामयमुत्तमः।\nमणिर्येन महाबाहू रामस्त्वां बहुमन्यते।।5.58.101।।",
+      "transliteration": "",
+      "translation": "\"Sita then said to me, 'Take this best of gems and present it to the longarmed Rama as a token'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-91",
+      "number": 91,
+      "type": "shloka",
+      "original": "इत्युक्त्वा तु वरारोहा मणिप्रवरमद्भुतम्।\nप्रायच्छत्परमोद्विग्ना वाचा मां सन्दिदेशह।।5.58.102।।",
+      "transliteration": "",
+      "translation": "\"Having said so, the noble lady delivered a wonderful jewel with supreme message to me in a sorrowful mood.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-92",
+      "number": 92,
+      "type": "shloka",
+      "original": "ततस्तस्यै प्रणम्याहं राजपुत्र्यै समाहितः।\nप्रदक्षिणं परिक्राममिहाभ्युद्गतमानसः।।5.58.103।।",
+      "transliteration": "",
+      "translation": "\"Reminded by her again (that Rama should turn up soon to take her), I offered reverential salutations by circumambulating her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-93",
+      "number": 93,
+      "type": "shloka",
+      "original": "उक्तोऽहं पुनरेवेदं निश्चित्य मनसा तया।\nहनुमन्मम वृत्तान्तं वक्तुमर्हसि राघवे।।5.58.104।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-94",
+      "number": 94,
+      "type": "shloka",
+      "original": "यथा श्रुत्वैव न चिरात्तावुभौ रामलक्ष्मणौ।\nसुग्रीवसहितौ वीरावुपेयातां तथा कुरु।।5.58.105।।",
+      "transliteration": "",
+      "translation": "'O heroic Hanuman narrate in such a way that by hearing you both Rama and Lakshmana will come here soon, accompanied by Sugriva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-95",
+      "number": 95,
+      "type": "shloka",
+      "original": "यद्यन्यथा भवेदेतद्द्वौ मासौ जीवितं मम।\nन मां द्रक्ष्यति काकुत्स्थो म्रिये साहमनाथवत्।।5.58.106।।",
+      "transliteration": "",
+      "translation": "'Otherwise with none to protect me, I will live only  for two months.I will die like an orphan and he will not see me'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-96",
+      "number": 96,
+      "type": "shloka",
+      "original": "तच्छ्रुत्वा करुणं वाक्यं क्रोधो मामभ्यवर्तत।\nउत्तरं च मया दृष्टं कार्यशे���मनन्तरम्।।5.58.107।।",
+      "transliteration": "",
+      "translation": "\"When I heard her pathetic appeal, I was overtaken by anger. I perceived the task left over for me to do.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-97",
+      "number": 97,
+      "type": "shloka",
+      "original": "ततोऽवर्धत मे कायस्तदा पर्वतसन्निभः।\nयुद्धकाङ्क्षी वनं तच्च विनाशयितुमारभे।।5.58.108।।",
+      "transliteration": "",
+      "translation": "\"Thereafter, I increased my body to the size of a mountain, intent on fighting and started destroying the pleasure garden.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-98",
+      "number": 98,
+      "type": "shloka",
+      "original": "तद्भग्नं वनषण्डं तु भ्रान्तत्रस्तमृगद्विजम्।\nप्रतिबुद्धा निरीक्षन्ते राक्षस्यो विकृताननाः।।5.58.109।।",
+      "transliteration": "",
+      "translation": "\"Those uglyfaced ogresses woke up and saw the devastated garden and terrified beasts and birds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-99",
+      "number": 99,
+      "type": "shloka",
+      "original": "मां च दृष्ट्वा वने तस्मिन् समागम्य ततस्ततः।\nता स्समभ्यागताः क्षिप्रं रावणायाचचक्षिरे।।5.58.110।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-100",
+      "number": 100,
+      "type": "shloka",
+      "original": "राजस्वनमिदं दुर्गं तव भग्नं दुरात्मना।\nवानरेण ह्यविज्ञाय तव वीर्यं महाबल।।5.58.111।।",
+      "transliteration": "",
+      "translation": "'O powerful king an evilminded vanara has destroyed the inaccessible pleasure garden not knowing your valour.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-101",
+      "number": 101,
+      "type": "shloka",
+      "original": "दुर्बुद्धेस्तस्य राजेन्द्र तव विप्रियकारिणः।\nवधमाज्ञापय क्षिप्रं यथासौ विलयं व्रजेत्।।5.58.112।।",
+      "transliteration": "",
+      "translation": "'O king may orders be issued to kill this wickedminded vanara wandering aimlessly. He has done contrary to your interest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-102",
+      "number": 102,
+      "type": "shloka",
+      "original": "तच्छ्रुत्वा राक्षसेन्द्रेण विसृष्टा भृशदुर्जयाः।\nराक्षसाः किङ्करा नाम रावणस्य मनोनुगाः।।5.58.113।।",
+      "transliteration": "",
+      "translation": "\"Ravana, lord of the demons having heard (the ogresses) sent invincible ogres called kinkaras who know his mind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-103",
+      "number": 103,
+      "type": "shloka",
+      "original": "तेषामशीतिसाहस्रं शूलमुद्गरपाणिनाम्।\nमया तस्मिन्वनोद्देशे परिघेण निषूदितम्।।5.58.114।।",
+      "transliteration": "",
+      "translation": "\"I killed with an iron bar a battalion of eighty thousand demons who were guarding the garden with tridents and maces.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-104",
+      "number": 104,
+      "type": "shloka",
+      "original": "तेषां तु हतशेषा ये ते गत्वा लघुविक्रमाः।\nनिहतं च महत्सैन्यं रावणायाचचक्षिरे।।5.58.115।।",
+      "transliteration": "",
+      "translation": "\"Those who were left behind, the less powerful ones went and reported to Ravana that the great army has been killed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-105",
+      "number": 105,
+      "type": "shloka",
+      "original": "ततो मे बुद्धिरुत्पन्ना चैत्यप्रासादमाक्रमम्।\nतत्रस्थान्राक्षसान् हत्वा शतं स्तम्भेन वै पुनः।।5.58.116।।\nललामभूतो लङ्कायास्स वै विध्वंसितो मया।",
+      "transliteration": "",
+      "translation": "\"Then a thought struck my mind. I took hold of a pillar of the tall, decorated mansion of Lanka and killed with it all the hundred demons stationed there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-106",
+      "number": 106,
+      "type": "shloka",
+      "original": "ततः प्रहस्तस्य सुतं जम्बुमालिनमादिशत्।।5.58.117।।\nराक्षसैर्बहुभिस्सार्धं घोररूपैर्भयानकैः।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-107",
+      "number": 107,
+      "type": "shloka",
+      "original": "तं महाबलसम्पन्नं राक्षसं रणकोविदम्।।5.58.118।।\nपरिघेणातिघोरेण सूदयामि सहानुगम्।",
+      "transliteration": "",
+      "translation": "\"With a dreadful iron bar I slayed Jambumali, who was endowed with mighty strength, and was an expert in war and other terrific ogres who accompanied him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-108",
+      "number": 108,
+      "type": "shloka",
+      "original": "तच्छ्रुत्वा राक्षसेन्द्रस्तु मन्त्रिपुत्त्रान्महाबलान्।।5.58.119।।\nपदातिबलसम्पन्नान् प्रेषयामास रावणः।",
+      "transliteration": "",
+      "translation": "\"Ravana, the demon king sent his mighty army of strong footsoldiers, the sons of ministers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-109",
+      "number": 109,
+      "type": "shloka",
+      "original": "परिघेणैव तान् सर्वान्नयामि यमसादनम्।।5.58.120।।\nमन्त्रिपुत्त्रान्हतान्च्छृत्वा समरेऽलघुविक्रमान्।\nपञ्च सेनाग्रगाच्छ्रूरान्प्रेषयामास रावणः।।5.58.121।।",
+      "transliteration": "",
+      "translation": "\"I sent all of them to the abode of Yama with just an iron bar. Having heard about the death of the less powerful ones, Ravana  sent five heroic army generals.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-110",
+      "number": 110,
+      "type": "shloka",
+      "original": "तानहं सहसैन्यान्वै सर्वानेवाभ्यसूदयम्।\nततः पुनर्दशग्रीवः पुत्रमक्षं महाबलम्।।5.58.122।।\nबहुभी राक्षसैस्सार्धं प्रेषयामास रावणः।",
+      "transliteration": "",
+      "translation": "\"Since I killed all of them along with the army, the tenheaded Ravana sent out his mighty son Aksha together with many demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-111",
+      "number": 111,
+      "type": "shloka",
+      "original": "तं तु मन्दोदरीपुत्त्रं कुमारं रणपण्डितम्।।5.58.123।।\nसहसा खं समुत्क्रान्तं पादयोश्च गृहीतवान्।\nचर्मासिनं शतगुणं भ्रामयित्वा व्यपेषयम्।।5.58.124।।",
+      "transliteration": "",
+      "translation": "\"When Mandodari's son, an expert in war had risen up to the sky I caught his feet and whirled him round a hundred times and smashed him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-112",
+      "number": 112,
+      "type": "shloka",
+      "original": "तमक्षमागतं भग्नं निशम्य स दशाननः।\nतत इन्द्रजितं नाम द्वितीयं रावणस्सुतम्।।5.58.125।।\nव्यादिदेश सुसंकृद्धो बलिनम् युद्धदुर्मदम्।",
+      "transliteration": "",
+      "translation": "\"When Aksha was done to death, the tenfaced Ravana was enraged and gave instruction to the second son, called Indrajit who was thirsting for war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-113",
+      "number": 113,
+      "type": "shloka",
+      "original": "तच्चाप्यहं बलं सर्वं तं च राक्षसपुङ्गवम्।।5.58.126।।\nनष्टौजसं रणे कृत्वा परं हर्षमुपागमम्।",
+      "transliteration": "",
+      "translation": "\"When the army and even the Generals were done to death in combat I was very happy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-114",
+      "number": 114,
+      "type": "shloka",
+      "original": "महतापि महाबाहुः प्रत्ययेन महाबलः।।5.58.127।।\nप्रेषितो रावणेनैव सह वीरैर्मदोत्कटैः।",
+      "transliteration": "",
+      "translation": "\"Thinking that Indrajit will surely kill me, the strongarmed mighty Ravana again sent intoxicated demon warriors.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-115",
+      "number": 115,
+      "type": "shloka",
+      "original": "सोऽविषह्यं हि मां बुद्ध्वा स्वं बलं चावमर्दितम्।।5.58.128।।\nब्राह्मणास्त्रेण स तु मां प्राबध्नाच्छातिवेगितः।",
+      "transliteration": "",
+      "translation": "\"Realising that I cannot be slain and that his (Indrajit's) power is reduced, he released Brahma's weapon on me with high speed and captured me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-116",
+      "number": 116,
+      "type": "shloka",
+      "original": "रज्जुभिश्चाभिबध्नन्ति ततो मां तत्र राक्षसाः।।5.58.129।।\nरावणस्य समीपं च गृहीत्वा मामुपानयन्।",
+      "transliteration": "",
+      "translation": "\"Then the demons bound me with ropes and brought me to Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-117",
+      "number": 117,
+      "type": "shloka",
+      "original": "दृष्ट्वा सम्भाषितश्चाहं रावणेन दुरात्मना।।5.58.130।।\nपृष्टश्च लङ्कागमनं राक्षसानां च तं वधम्।",
+      "transliteration": "",
+      "translation": "\"The wickedminded Ravana, then enquired me why I came to Lanka and why I killed the demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-118",
+      "number": 118,
+      "type": "shloka",
+      "original": "तत्सर्वं च मया तत्र सीतार्थमिति जल्पितम्।।5.58.131।।\nअस्याहं दर्शनाकाङ्क्षी प्राप्तस्त्वद्भवनं विभो।\nमारुतस्यौरसः पुत्रो वानरो हनुमानहम्।।5.58.132।।",
+      "transliteration": "",
+      "translation": "'I have done all this for the sake of Sita, O demon king I came to your mansion desiring to see Sita. I am the legitimate son of Windgod. My name is Hanuman.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-119",
+      "number": 119,
+      "type": "shloka",
+      "original": "रामदूतं च मां विद्धि सुग्रीवसचिवं कपिम्।\nसोऽहं दूत्येन रामस्य त्वत्सकाशमिहागतः।।5.58.133।।",
+      "transliteration": "",
+      "translation": "'I am a vanara, a messenger of Rama and minister of Sugriva.You may know that I have come here to convey the message of Rama to you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-120",
+      "number": 120,
+      "type": "shloka",
+      "original": "सुग्रीवश्च महातेजास्सत्वां कुशलमब्रवीत्।\nधर्मार्थकामसहितं हितं पथ्यमुवाच च।।5.58.134।।",
+      "transliteration": "",
+      "translation": "'Highly powerful Sugriva enquires your welfare. He sends beneficial advice to you for your righteousness, pleasures and wellbeing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-121",
+      "number": 121,
+      "type": "shloka",
+      "original": "वसतो ऋश्यमूके मे पर्वते विपुलद्रुमे।\nराघवो रणविक्रान्तो मित्त्रत्वं समुपागतः।।5.58.135।।",
+      "transliteration": "",
+      "translation": "'While I was dwelling at the woodedmountain in Rshyamuka, a treaty of friendship was made with Rama, who is skilled in war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-122",
+      "number": 122,
+      "type": "shloka",
+      "original": "तेन मे कथितं राज्ञा भार्या मे रक्षसा हृता।\nतत्र साहाय्यमस्माकं कार्यं सर्वात्मना त्वया।।5.58.136।।",
+      "transliteration": "",
+      "translation": "'The king said, ' My wife was abducted by a demon. I request your help by all means to get her'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-123",
+      "number": 123,
+      "type": "shloka",
+      "original": "मया च कथितं तस्मै वालिनश्च वधं प्रति।\nतत्र साहाय्यहेतोर्मे समयं कर्तुमर्हसि।।5.58.137।।",
+      "transliteration": "",
+      "translation": "'Sugriva told the story of Vali in turn and asked for his help and to make agreement to kill Vali.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-124",
+      "number": 124,
+      "type": "shloka",
+      "original": "वालिना हृतराज्येन सुग्रीवेण महाप्रभुः।\nचक्रेऽग्निसाक्षिकं सख्यं राघवस्सह लक्ष्मणः।।5.58.138।।",
+      "transliteration": "",
+      "translation": "With fire as witness the great lord, Rama along with Lakshmana made friendship with Sugriva whose kingdom had been usurped.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-125",
+      "number": 125,
+      "type": "shloka",
+      "original": "तेन वालिनमुत्पाट्य शरेणैकेन संयुगे।\nवानराणां महाराजः कृतस्स प्लवतां प्रभुः।।5.58.139।।",
+      "transliteration": "",
+      "translation": "'In the combat Rama killed Vali with a single arrow and made Sugriva the king of vanaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-126",
+      "number": 126,
+      "type": "shloka",
+      "original": "तस्य साहाय्यमस्माभिः कार्यं सर्वात्मना त्विह।\nतेन प्रस्थापितस्तुभ्यं समीपमिह धर्मतः।।5.58.140।।",
+      "transliteration": "",
+      "translation": "'We too have to help him in this task. So a message is sent to you on righteous grounds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-127",
+      "number": 127,
+      "type": "shloka",
+      "original": "क्षिप्रमानीयतां सीता दीयतां राघवाय च।\nयावन्न हरयो वीरा विधमन्ति बलं तव।।5.58.141।।",
+      "transliteration": "",
+      "translation": "'Before the heroic vanaras exterminate your entire army, return Sita at once to Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-128",
+      "number": 128,
+      "type": "shloka",
+      "original": "वानराणां प्रभावो हि न केन विदितः पुरा।\nदेवतानां सङ्काशं च ये गच्छन्ति निमन्त्रिता��।।5.58.142।।",
+      "transliteration": "",
+      "translation": "'Who knows not the power of Vanaras in the past? Even gods had sought their help.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-129",
+      "number": 129,
+      "type": "shloka",
+      "original": "इति वानरराजस्त्वामाहेत्यभिहितो मया।\nमामैक्षत ततः क्रुद्धश्चक्षुषा प्रदहन्निव।।5.58.143।।",
+      "transliteration": "",
+      "translation": "'This I was asked to tell you by the king of vanaras wishing your welfare'. 'Ravana then angrily looked at me as if to burn me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-130",
+      "number": 130,
+      "type": "shloka",
+      "original": "तेन वध्योऽहमाज्ञप्तो रक्षसा रौद्रकर्मणा।\nमत्प्रभावमविज्ञाय रावणेन दुरात्मना।।5.58.144।।",
+      "transliteration": "",
+      "translation": "\"The evilminded demon, Ravana, who perpetrates dreadful acts ordered my slaughter, not knowing my power.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-131",
+      "number": 131,
+      "type": "shloka",
+      "original": "ततो विभीषणो नाम तस्य भ्राता महामतिः।\nतेन राक्षसराजोऽसौ याचितो मम कारणात्।।5.58.145।।",
+      "transliteration": "",
+      "translation": "\"Vibhisana, a very pious brother of the demon king, interceded on my behalf.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-132",
+      "number": 132,
+      "type": "shloka",
+      "original": "नैवं राक्षसशार्दूल त्यज्यतामेष निश्चयः।\nराजशास्त्रव्यपेतो हि मार्गः संसेव्यते त्वया।।5.58.146।।",
+      "transliteration": "",
+      "translation": "\"Vibhishana, a tiger among demons, asked Ravana to give up his decision as it was a forbidden course according to the science of royal polity.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-133",
+      "number": 133,
+      "type": "shloka",
+      "original": "दूतवध्या न दृष्टा हि राजशास्त्रेषु राक्षस।\nदूतेन वेदितव्यं च यथार्थं हितवादिना।।5.58.147।।",
+      "transliteration": "",
+      "translation": "'The royal code prohibits the murder of an emissary. A wellwishing emissary should convey the truth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-134",
+      "number": 134,
+      "type": "shloka",
+      "original": "सुमहत्यपराधेऽपि दूतस्यातुलविक्रमः।\nविरूपकरणं दृष्टं न वधोऽस्तीति शास्त्रतः।।5.58.148।।",
+      "transliteration": "",
+      "translation": "'O Ravana of immeasurable courage even if the emissary has done any kind of harm he may be mutilated but not murdered. Nowhere do the sastras allow killing (of an ambassador).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-135",
+      "number": 135,
+      "type": "shloka",
+      "original": "विभीषणेनैवमुक्तो रावणस्सन्दिदेश तान्।\nराक्षसानेतदेवास्य लाङ्गूलं दह्यतामिति।।5.58.149।।",
+      "transliteration": "",
+      "translation": "'On hearing Vibhishana, Ravana instructed the demons to burn my tail.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-136",
+      "number": 136,
+      "type": "shloka",
+      "original": "ततस्तस्य वचः श्रुत्वा मम पुच्छं समन्ततः।\nवेष्टितं शणवल्कैश्च जीर्णैः कार्पासजैः पटैः।।5.58.150।।",
+      "transliteration": "",
+      "translation": "\"Having heard the king's words, all the demons collected and held my tail, wrapped it with saris of fibres and tattered rags of cotton.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-137",
+      "number": 137,
+      "type": "shloka",
+      "original": "राक्षसाः सिद्धसन्नाहास्ततस्ते चण्डविक्रमाः।\nतदाऽदह्यन्त मे पुच्छं निघ्नन्त: काष्ठमुष्टिभिः।।5.58.151।।\nबद्धस्य बहुभिः पाशैर्यन्त्रितस्य च राक्षसैः।",
+      "transliteration": "",
+      "translation": "\"Many ferociously courageous demons got ready. They bound me and hit me with firesticks and fists. They fastened my tail with ropes and set in on fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-138",
+      "number": 138,
+      "type": "shloka",
+      "original": "ततस्ते राक्षसाश्शूरा बद्धं मामग्निसंवृतम्।।5.58.152।।\nअघोषयन्राजमार्गे नगरद्वारमागताः।",
+      "transliteration": "",
+      "translation": "\"The brave demons took me round the city through the royal streets and announced loudly to let every one know that I am bound and that my tail has been set on fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-139",
+      "number": 139,
+      "type": "shloka",
+      "original": "ततोऽहं सुमहद्रूपं संक्षिप्य पुनरात्मनः।।5.58.153।।\nविमोचयित्वा तं बन्धं प्रकृतिस्थः स्थितः पुनः।\nआयसं परिघं गृह्य तानि रक्षांस्यसूदयम्।।5.58.154।।",
+      "transliteration": "",
+      "translation": "\"I reduced my form and rid of the bondage. Then again I assumed my original huge form and took up an iron bar lying near and killed all the demons (present).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-140",
+      "number": 140,
+      "type": "shloka",
+      "original": "ततस्तन्नगरद्वारं वेगेनाप्लुतवानहम्।\nपुच्छेन च प्रदीप्तेन तां पुरीं साट्टगोपुराम्।।5.58.155।।\nदहाम्यहमसंभ्रान्तो युगान्ताग्निरिव प्रजाः।",
+      "transliteration": "",
+      "translation": "\"Then I leaped to the entrance gate of the city without being perplexed. With my burning tail I set fire to the boundaries and towering mansions which looked like the world at the end of dissolution.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-141",
+      "number": 141,
+      "type": "shloka",
+      "original": "विनष्टा जानकी व्यक्तं न ह्यदग्धः प्रदृश्यते।।5.58.156।।\nलङ्कायां कश्चिदुद्धेशः सर्वा भस्मीकृता पुरी।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-142",
+      "number": 142,
+      "type": "shloka",
+      "original": "दहता च मया लङ्कां दग्धा सीता न संशयः।।5.58.157।।\nरामस्य हि महत्कार्यं मयेदं वितथीकृतम्।",
+      "transliteration": "",
+      "translation": "\"Lanka has been burnt by me and Sita might have also been burnt. There is no doubt. The great purpose of Rama has been spoilt by me'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-143",
+      "number": 143,
+      "type": "shloka",
+      "original": "इति शोकसमाविष्टश्चिन्तामहमुपागतः।।5.58.158।।\nअथाहं वाचमश्रौषं चारणानां शुभाक्षराम्।\nजानकी न च दग्धेति विस्मयोदन्तभाषिणाम्।।5.58.159।।",
+      "transliteration": "",
+      "translation": "\"Thus I was overtaken by sorrow and worry. Just then I heard the wonderful propitious utterances of charanas announcing that Sita was not burnt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-144",
+      "number": 144,
+      "type": "shloka",
+      "original": "ततो मे बुद्धिरुत्पन्ना श्रुत्वा तामद्भुतां गिरम्।\nअदग्धा जानकीत्येवं निमित्तैश्चोपलक्षिता।।5.58.160।।",
+      "transliteration": "",
+      "translation": "\"It was amazing to hear the words of the charanas. On hearing that Jankai had not been burnt, I understood that it is on her account (that he is also not burnt  although his tail was ignited.)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-145",
+      "number": 145,
+      "type": "shloka",
+      "original": "दीप्यमाने तु लाङ्गूले न मां दहति पावकः।\nहृदयं च प्रहृष्टं मे वातास्सुरभिगन्धिनः।।5.58.161।।",
+      "transliteration": "",
+      "translation": "\"My tail was burning but I was not burnt by fire. There was joy in my heart. The wind carried sweet fragrance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-146",
+      "number": 146,
+      "type": "shloka",
+      "original": "तैर्निमित्तैश्च दृष्टाथै: कारणैश्च महागुणैः।\nऋषिवाक्यैश्च सिद्धार्थैरभवं हृष्टमानसः।।5.58.162।।",
+      "transliteration": "",
+      "translation": "\"For these two auspicious signs and the highly propitious words uttered by the sages I felt glad at heart.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-147",
+      "number": 147,
+      "type": "shloka",
+      "original": "पुनर्दृष्ट्वा च वैदेहीं विसृष्टश्च तया पुनः।\nततः पर्वतमासाद्य तत्रारिष्टमहं पुनः।।5.58.163।।\nप्रतिप्लवनमारेभे युष्मद्धर्शनकांक्षया।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-148",
+      "number": 148,
+      "type": "shloka",
+      "original": "ततः पवनचन्द्रार्कसिद्धगन्धर्वसेवितम्।।5.58.164।।\nपन्थानमहमाक्रम्य भवतो दृष्टवानिह।",
+      "transliteration": "",
+      "translation": "\"Passing along the path of the Windgod, the Moon, the Sun, the siddhas and the gandharvas  I came to see you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-149",
+      "number": 149,
+      "type": "shloka",
+      "original": "राघवस्य प्रभावेण भवतां चैव तेजसा।।5.58.165।।\nसुग्रीवस्य च कार्यार्थं मया सर्वमनुष्ठितम्।",
+      "transliteration": "",
+      "translation": "\"Everything was favourable to me by the power of Rama, by your goodwill and for the great purpose of Sugriva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-58-150",
+      "number": 150,
+      "type": "shloka",
+      "original": "एतत्सर्वं मया तत्र यथावदुपपादितम्।।5.58.166।।\nअत्र यन्न कृतं शेषं तत्सर्वं क्रियतामिति।",
+      "transliteration": "",
+      "translation": "\"Let all that could not be done there and still remains to be done, be accomplished by you. I have presented the entire thing\". इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे अष्टपञ्चाशस्सर्गः।। Thus ends the fiftyeighth sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

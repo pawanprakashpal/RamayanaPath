@@ -1,0 +1,279 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 16,
+    "title": "Hanuman's grief over Sita's state.",
+    "titleSanskrit": "",
+    "totalShlokas": 29
+  },
+  "shlokas": [
+    {
+      "id": "vs-16-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "प्रशस्य तु प्रशस्तव्यां सीतां तां हरिपुङ्गवः।\nगुणाभिरामं रामं च पुनश्चिन्तापरोऽभवत्।।5.16.1।।",
+      "transliteration": "",
+      "translation": "Hanuman, the bull among monkeys, admired the laudable Sita and the virtuous Rama and once again began to lament.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-16-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "स मुहूर्तमिव ध्यात्वा बाष्पपर्याकुलेक्षणः।\nसीतामाश्रित्य तेजस्वी हनूमान्विललाप ह।।5.16.2।।",
+      "transliteration": "",
+      "translation": "Sagacious Hanuman, eyes dimmed with tears, thought for a short while on the plight of Sita and lamented",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-16-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "मान्या गुरुविनीतस्य लक्ष्मणस्य गुरुप्रिया।\nयदि सीताऽऽपि दुःखार्ता कालो हि दुरतिक्रमः।।5.16.3।।",
+      "transliteration": "",
+      "translation": "\"If Sita, who is worshipped by righteous Lakshmana and loved by Rama is tortured like this, it shows it is difficult to trangress the force of time.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-16-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "रामस्य व्यवसायज्ञा लक्ष्मणस्य च धीमतः।\nनात्यर्थं क्षुभ्यते देवी गङ्गेव जलदागमे।।5.16.4।।",
+      "transliteration": "",
+      "translation": "\"Just as river Ganga is not agitated by the rainbearing clouds, this Sita is not perturbed as she is aware of the prowess of Rama and might of Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-16-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तुल्यशीलवयोवृत्तां तुल्याभिजनलक्षणाम्।\nराघवोऽऽर्हति वैदेहीं तं चेयमसितेक्षणा।।5.16.5।।",
+      "transliteration": "",
+      "translation": "\"Sri Rama matches Vaidehi perfectly in character, age, behaviour, birth and auspicious signs. She is aware that he is the right person for her. Rama deserves Vaidehi and this blackeyed lady deserves him.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-16-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तां दृष्ट्वा नवहेमाभां लोककान्तामिव श्रियम्।\nजगाम मनसा रामं वचनं चेदमब्रवीत्।।5.16.6।।",
+      "transliteration": "",
+      "translation": "On seeing her glowing like fresh gold resembling goddess Lakshmi who is dear to the  entire world, and thinking of Rama, Hanuman said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-16-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "अस्या हेतोर्विशालाक्ष्या हतो वाली महाबलः।\nरावणप्रतिमो वीर्ये कबन्धश्च निपातितः।।5.16.7।।",
+      "transliteration": "",
+      "translation": "\"It was for the sake of this largeeyed Sita that the powerful Vali and the heroic Kabandha who was equal to Ravana in heroism were killed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-16-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "विराधश्च हतः सङ्ख्ये राक्षसो भीमविक्रमः।\nवने रामेण विक्रम्य महेन्द्रेणेव शम्बरः।।5.16.8।।",
+      "transliteration": "",
+      "translation": "\"Rama  killed Viradha of fearsome valour in the forest like Sambara by Indra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-16-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "चतुर्दश सहस्राणि रक्षसां भीमकर्मणाम्।\nनिहतानि जनस्थाने शरैरग्निशिखोपमैः।।5.16.9।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-16-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "खरश्च निहतसङ्ख्ये त्रिशिराश्च निपातितः।\nदूषणश्च महातेजा रामेण विदितात्मना।।5.16.10।।",
+      "transliteration": "",
+      "translation": "\"Ogres like Khara and Trisira and the powerful Dooshana were kileed in battle by Rama endowed with selfknowledge.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-16-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "ऐश्वर्यं वानराणां च दुर्लभं वालिपालितम्।\nअस्या निमित्ते सुग्रीवः प्राप्तवान् लोकसत्कृतम्।।5.16.11।।",
+      "transliteration": "",
+      "translation": "On her account Sugriva obtained the coveted kingdom ruled by Vali which was a difficult proposition, and retained supremacy in the world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-16-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "सागरश्च मया क्रान्तश्श्रीमान्नदनदीपतिः।\nअस्या हेतोर्विशालाक्ष्याः पुरी चेयमवेक्षिता।।5.16.12।।",
+      "transliteration": "",
+      "translation": "\"On account of the largeeyed Sita I ventured to cross  the lord of rivers, the sea, and came to this city.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-16-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "यदि रामः समुद्रान्तां मेदिनीं परिवर्तयेत्।\nअस्याः कृते जगच्चापि युक्तमित्येव मे मतिः।।5.16.13।।",
+      "transliteration": "",
+      "translation": "\"Even if Rama turns this land stretching to the ocean upside down or even the entire world on account of her, it is justifiable, according to me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-16-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "राज्यं वा त्रिषु लोकेषु सीता वा जनकात्मजा।\nत्रैलोक्यराज्यं सकलं सीताया नाप्नुयात्कलाम्।।5.16.14।।",
+      "transliteration": "",
+      "translation": "\"The sovereignty over the three worlds will weigh less than one sixteenth part of Janaka's daughter, Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-16-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "इयं सा धर्मशीलस्य मैथिलस्य महात्मनः।\nसुता जनकराजस्य सीता भर्तृदृढव्रता।।5.16.15।।\nउत्थिता मेदिनीं भित्त्वा क्षेत्रे हलमुखक्षते।\nपद्मरेणुनिभैः कीर्णा शुभैः केदारपाम्सुभिः।।5.16.16।।",
+      "transliteration": "",
+      "translation": "She had risen from the land when tilled by the plough and was covered with auspicious paddy dust resembling the pollen grains of lotuses, this daughter of  Janaka, the great righteous ruler of Mithila, This lady with unswerving devotion to her husband.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-16-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "विक्रान्तस्यार्यशीलस्य संयुगेष्न्विवर्त��नः।\nस्नुषा दशरथस्यैषा ज्येष्ठा राज्ञो यशस्विनी।।5.16.17।।",
+      "transliteration": "",
+      "translation": "\"This celebrated lady is the eldest daughterinlaw of the noble, valiant king Dasaratha who never returned from the battleground without being victorious.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-16-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "धर्मज्ञस्य कृतज्ञस्य रामस्य विदितात्मनः।\nइयं सा दयिता भार्या राक्षसीवशमागता।।5.16.18।।",
+      "transliteration": "",
+      "translation": "\"She is the loving wife of the righteous, grateful, wise and selfrealised Rama. She has fallen into the hands of these shedemons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-16-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "सर्वान् भोगान्परित्यज्य भर्तृस्नेहबलात्कृता।\nअचिन्तयित्वा दुःखानि प्रविष्टा निर्जनं वनम्।।5.16.19।।\nसंतुष्टा फलमूलेन भर्तृशुश्रूषणे रता।\nया परां भजते प्रीतिं वनेऽऽपि भवने यथा।।5.16.20।।\nसेयं कनकवर्णाङ्गी नित्यं सुस्मितभाषिणी।\nसहते यातनामेतामनर्थानामभागिनी।।5.16.21।।",
+      "transliteration": "",
+      "translation": "\"On account of her immense love towards her husband she has given up all kinds of luxuries, not caring for suffering. She was satisfied with fruits and roots in the desolate forest. Engaged in serving her husband, she experienced utmost joy as in her own palace. A lady of golden complexion who had not experienced suffering earlier is subjected to sorrow and is tolerating calamities in this way",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-16-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "इमां तु शीलसम्पन्नां द्रष्टुमर्हति राघवः।\nरावणेन प्रमथितां प्रपामिव पिपासितः।।5.16.22।।",
+      "transliteration": "",
+      "translation": "\"Rama deserves to see her.Just as a thirsty man longs for the source of water, Rama pines for this highly virtuous lady who is tormented by Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-16-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "अस्या नूनं पुनर्लाभाद्राघवः प्रीतिमेष्यति।\nराजा राज्यपरिभ्रष्टः पुनः प्राप्येव मेदिनीम्।।5.16.23।।",
+      "transliteration": "",
+      "translation": "\"Just as a king who had lost his kingdom feels happy on regaining it, surely Raghava will feel exhilarated when he gets her back.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-16-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "कामभोगैः परित्यक्ता हीना बन्धुजनेन च।\nधारयत्यात्मनो देहं तत्समागमकाङ्क्षिणी।।5.16.24।।",
+      "transliteration": "",
+      "translation": "Deprived of all sensual pleasures, and separated from her relatives, she is surviving with the hope of meeting them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-16-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "नैषा पश्यति राक्षस्यो नेमान्पुष्पफलद्रुमान्।\nएकस्थहृदया नूनं राममेवानुपश्यति।।5.16.25।।",
+      "transliteration": "",
+      "translation": "She is looking at neither the shedemons nor these trees full of flowers and fruits. She is surely thinking of Rama with a singleminded  attention.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-16-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "भर्ता नाम परं नार्या भूषणं भूषणादपि।\nएषा तु रहिता तेन भूषणार्हा न शोभते।।5.16.26।।",
+      "transliteration": "",
+      "translation": "\"Indeed, the husband is the greatest ornament for a married woman. Hence though deserving adornment she does not like it, bereft of her husband who is her only  ornament.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-16-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "दुष्करं कुरुते रामो हीनो यदनया प्रभुः।\nधारयत्यात्मनो देहं न दुःखेनावसीदति।।5.16.27।।",
+      "transliteration": "",
+      "translation": "\"Lord Rama indeed performs a difficult task in surviving without her. That he is not feeling despondent is a wonder.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-16-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "इमामसितकेशान्तां शतपत्रनिभेक्षणाम्।\nसुखार्हां दुःखितां दृष्ट्वा ममापि व्यथितं मनः।।5.16.28।।",
+      "transliteration": "",
+      "translation": "Sita who is endowed with beautiful dark hair and eyes like a hundredpetalled lotus, who deserves to be happy is in sorrow. I grieve to see her in this state.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-16-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "क्षतिक्षमा पुष्करसन्निभाक्षी या रक्षिता राघवलक्ष्मणाभ्याम्।\nसा राक्षसीभिर्विकृतेक्षणाभिः संरक्ष्यते सम्प्रति वृक्षमूले।।5.16.29।।",
+      "transliteration": "",
+      "translation": "She who has beautiful eyes like lotus petals, was protected by the arms of both Rama and Lakshmna, who is tolerant like the earth and is guarded by the female demons of  hideous appearance under a tree.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-16-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "हिमहतनलिनीव नष्टशोभा व्यसनपरम्परया निपीड्यमाना।\nसहचररहितेव चक्रवाकी जनकसुता कृपणां दशां प्रपन्ना।।5.16.30।।",
+      "transliteration": "",
+      "translation": "\"Deprived of her charm, she resembles a lotuscreeper blasted by frost. This daughter of Janaka has reached a pitiable condition afflicted by series of calamities. She resembles a famale Chakravaka separated from her mate.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-16-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "अस्या हि पुष्पावनताग्रशाखाः शोकं दृढं वै जनयन्त्यशोकाः।\nहिमव्यपायेन च शीतरश्मि रभ्युत्थितो नैकसहस्ररश्मि:।।5.16.31।।",
+      "transliteration": "",
+      "translation": "\"The top branches of Ashoka trees bent down with blossoms and the Moon rising with thousands of cool rays at the end of winter (when spring sets in) beholding which she should be delighted intensfy her sorrow.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-16-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "इत्येवमर्थं कपिरन्ववेक्ष्य सीतेयमित्येव निविष्टबुद्धि:।\nसंश्रित्य तस्मिन्निषसाद वृक्षे बली हरीणामृषभस्तरस्वी।।5.16.32।।",
+      "transliteration": "",
+      "translation": "Hanuman, the swiftfooted bull among monkeys, on his part waiting on the Simsupa  tree thus reflecting concluded in his mind that she was Sita. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे षोडशस्सर्गः। Thus ends the sixteenth sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

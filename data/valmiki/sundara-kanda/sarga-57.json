@@ -1,0 +1,387 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 57,
+    "title": "Hanuman reaches the northern shore -- announces to vanaras, Angada and Jambavan about his seeing Sita -- every one rejoices to hear the news of Sita.",
+    "titleSanskrit": "",
+    "totalShlokas": 41
+  },
+  "shlokas": [
+    {
+      "id": "vs-57-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "स चन्द्रकुमुदं रम्यं सार्ककारण्डवं शुभम्।\nतिष्यश्रवणकादम्बमभ्रशैवालशाद्वलम्।।5.57.1।।\nपुनर्वसुमहामीनं लोहिताङ्गमहाग्रहम्।\nऐरावतमहाद्वीपं स्वातिहंसविलोलितम्।।5.57.2।।\nवातसङ्घातजातोर्मि चन्द्रांशुशिशिराम्बुमत्।\nभुजङ्गयक्षगन्धर्वप्रबुद्धकमलोत्पलम्।।5.57.3।।\nहनुमान्मारुतगतिर्महानौरिव सागरम्।\nअपारमपरिश्रान्तः पुप्लुवे गगनार्णवम् ।।5.57.4।।",
+      "transliteration": "",
+      "translation": "Hanuman leaped ike the Windgod, unwearied across the sky, as a huge boat crosses an ocean. The ocean was graced with a swan, the sky with constellation of Swati with fullblown lotuses and water lilies, like the nagas, yakshas, and gandharvas gathered together. The Moon in the sky was like a white lotus, the Sun like a waterfowl, the  auspicious Tishya and Shravana like the sweetvoiced swans, and the clouds like duckweeds and green grassy spots on the shore. The Punarvasu star was like a large fish and the planet Mars was like a crocodile. Airavata was like the great island. The waves produced by the wind were like cool moonlight in the cold water.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "ग्रसमान इवाकाशं ताराधिपमिवोल्लिखन्।\nहरन्निव सनक्षत्रं गगनं सार्कमण्डलम्।।5.57.5।।\nमारुतस्यात्मजः श्रीमान्कपिर्व्योमचरो महान्।\nहनुमान्मेघजालानि विकर्षन्निव गच्छति।।5.57.6।।",
+      "transliteration": "",
+      "translation": "Great Hanuman, son of the Windgod, flew through the abode of the Windgod as if he was swallowing the space, scratching the  Moon, lord of the stars, as if seizing the heavens along with the constellation of Sun and stars and as though he was drawing the clusters of clouds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "पाण्डुरारुणवर्णानि नीलमाञ्जिष्ठकानि च।\nहरितारुणवर्णानि महाभ्राणि चकाशिरे।।5.57.7।।",
+      "transliteration": "",
+      "translation": "(In contact with Hanuman) the clouds shone forth brilliantly in white and black, in blue and yellow and in greenish red colour.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "प्रविशन्नभ्रजालानि निष्पतंश्च पुनः पुनः।\nप्रच्छन्नश्च प्रकाशश्च चन्द्रमा इव लक्ष्यते।।5.57.8।।",
+      "transliteration": "",
+      "translation": "With his exist and entrances into the mass of clouds, his appearances and disappearances among the clouds, he looked like the Moon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "विविधाभ्रघनापन्नगोचरो धवलाम्बरः।\nदृश्यादृश्यतनुर्वीरस्तदा चन्द्रायतेऽम्बरे।।5.57.9।।",
+      "transliteration": "",
+      "translation": "Passing through the clouds, appearing and disappearing, the heroic Hanuman clad in white was like the Moon in the white sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तार्क्ष्यायमाणो गगने बभासे वायुनन्दनः।\nदारयन्मेघबृन्दानि निष्पतंश्च पुनः पुनः।।5.57.10।।\nनदन्नादेन महता मेघस्वनमहास्वनः।",
+      "transliteration": "",
+      "translation": "As he made his way through flakes of clouds, again and again appearing and disappearing, Hanuman the delight of the Windgod shone in the sky roaring like a thundering cloud. He looked like Garuda.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "प्रवरान्राक्षसान् हत्वा नाम विश्राव्य चात्मनः।।5.57.11।।\nआकुलां नगरीं कृत्वा व्यथयित्वा च रावणम्।\nअर्दयित्वा बलं घोरं वैदेहीमभिवाद्य च।।5.57.12।।\nआजगाम महातेजाः पुनर्मध्येन सागरम्।",
+      "transliteration": "",
+      "translation": "The glorious Hanuman, having killed eminent ogres and thereby making himself widely known, having caused havoc to the city of Lanka and  terrific sorrow to Ravana by tormenting the army, offered salutations to Vaidehi from midocean and continued his journey.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "पर्वतेन्द्रं सुनाभं च समुपस्पृश्य वीर्यवान्।।5.57.13।।\nज्यामुक्त इव नाराचो महावेगोऽभ्युपागतः।",
+      "transliteration": "",
+      "translation": "The valiant Hanuman touched the lord of mountains fondly and went with great speed just as an arrow released from the centre of a powerful bowstring.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "स किञ्चिदनुसम्प्राप्तः समालोक्य महागिरिम्।।5.57.14।।\nमहेन्द्रं मेघसङ्काशं ननाद हरिपुङ्गवः।",
+      "transliteration": "",
+      "translation": "The chief of the monkeys arrived near, and beholding the face of the Mahendra mountain, which resembled a mass of clouds, thundered.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "स पूरयामास कपिर्दिशो दश समन्ततः।।5.57.15।।\nनदन्नादेन महता मेघस्वनमहास्वनः।",
+      "transliteration": "",
+      "translation": "The thundering noise of Hanuman filled all the ten directions with great sound.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "स तं देशमनुप्राप्तः सुहृद्धर्शनलालसः।।5.57.16।।\nननाद हरिशार्दूलो लाङ्गूलं चाप्यकम्पयत्।",
+      "transliteration": "",
+      "translation": "Having sighted the place of his companions and waiting to see them for long that tiger among monkeys made a loud noise and shook his tail in joy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "तस्य नानद्यमानस्य सुपर्णचरिते पथि।।5.57.17।।\nफलतीवास्य घोषेण गगनं सार्कमण्डलम्।",
+      "transliteration": "",
+      "translation": "By the terrific sounds made by Hanuman in joy, it seemed as though the pathway of Garuda, the sky along with the Sun's orbit was splitting.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "ये तु तत्रोत्तरे तीरे समुद्रस्य महाबलाः।।5.57.18।।\nपूर्व�� संविष्ठिताश्शूरा वायुपुत्रदिदृक्षवः।\nमहतो वातनुन्नस्य तोयदस्येव ���र्जितम्।।5.57.19।।\nशुश्रुवुस्ते तदा घोषमूरुवेगं हनूमतः।",
+      "transliteration": "",
+      "translation": "Thereafter the brave and powerful monkeys waiting on the northern shore of the ocean for the arrival of the son of the Windgod, heard the roar and thundering sound of the stormy cloud produced by the sweeping motion of Hanuman's thighs propelled by the speed of his movement.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "ते दीनमनसस्सर्वे शुश्रुवुः काननौकसः।।5.57.20।।\nवानरेन्द्रस्य निर्घोषं पर्जन्यनिनदोपमम्।",
+      "transliteration": "",
+      "translation": "All the vanaras who were feeling dejected and waiting anxiously heard the noise of Hanuman that sounded like a thundering cloud.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "निशम्य नदतो नादं वानरास्ते समन्ततः।।5.57.21।।\nबभूवुरुत्सुकास्सर्वे सुहृद्धर्शनकाङ्क्षिणः।",
+      "transliteration": "",
+      "translation": "On hearing the loud voice of Hanuman, all the vanaras were longing to see their friend.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "जाम्बवान् स हरिश्रेष्ठः प्रीतिसंहृष्टमानसः।।5.57.22।।\nउपामन्त्र्य हरीन् सर्वानिदं वचनमब्रवीत्।",
+      "transliteration": "",
+      "translation": "Jambavan the chief of vanaras became very happy at heart and called all the vanaras and spoke:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "सर्वथा कृतकार्योऽसौ हनुमान्नात्र संशयः।।5.57.23।।\nन ह्यस्याकृतकार्यस्य नाद एवंविधो भवेत्।",
+      "transliteration": "",
+      "translation": "\"Oh Hanuman is always successful. If he has not, he would not make sounds in this manner\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तस्य बाहूरुवेगं च निनादं च महात्मनः।।5.57.24।।\nनिशम्य हरयो हृष्टाः समुत्पेतुस्ततस्ततः।",
+      "transliteration": "",
+      "translation": "Hearing the sound of his dashing movements of arms and thighs the vanaras jumped  about in joy, then and there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "ते नगाग्रान्नगाग्राणि शिखराच्छिखराणि च।।5.57.25।।\nप्रहृष्टाः समपद्यन्त हनूमन्तं दिदृक्षवः।",
+      "transliteration": "",
+      "translation": "The vanaras were very happy. Longing to see Hanuman, they jumped from one tree top to another and from one peak of a mountain to the other.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "ते प्रीताः पादपाग्रेषु गृह्य शाखाः सुविष्ठिताः।।5.57.26।।\nवासांसीव प्रशाखाश्च समाविध्यन्त वानराः।",
+      "transliteration": "",
+      "translation": "Waiting for Hanuman, the vanaras jumped from the tree tops holding the branches. They shook the branches just like clothes to welcome friends.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "गिरिगह्वरसंलीनो यथा गर्जति मारुतः।।5.57.27।।\nएवं जगर्ज बलवान् हनुमान्मारुतात्मजः।",
+      "transliteration": "",
+      "translation": "Hanuman, the powerful son of the Windgod roared like the wind captured in a mountain cave would.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तमभ्रघनसङ्काशमापतन्तं महाकपिम्।।5.57.28।।\nदृष्ट्वा ते वानरास्सर्वे तस्थुः प्राञ्जलयस्तदा।",
+      "transliteration": "",
+      "translation": "(On seeing) Hanuman, who was resembling a heavy cloud approaching, the vanaras stood with folded hands.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "ततस्तु वेगवांस्तस्य गिरेर्गिरिनिभः कपिः।।5.57.29।।\nनिपपात महेन्द्रस्य शिखरे पादपाकुले।",
+      "transliteration": "",
+      "translation": "Thereafter the vanara, who resembled a mountain, descended with great speed on the summit of mount Mahendra full of trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "हर्षेणापूर्यमाणोऽसौ रम्ये पर्वतनिर्झरे।।5.57.30।।\nछिन्नपक्ष इवाऽकाशात्पपात धरणीधरः।",
+      "transliteration": "",
+      "translation": "Overwhelmed with immeasurable joy, Hanuman descended from the sky like the mountain with its wings cut off and dropped on the bank of a mountain stream.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "ततस्ते प्रीतमनसस्सर्वे वानरपुङ्गवाः।।5.57.31।।\nहनुमन्तं महात्मानं परिवार्योपतस्थिरे।\nपरिवार्य च ते सर्वे परां प्रीतिमुपागताः।।5.57.32।।",
+      "transliteration": "",
+      "translation": "Feeling very happy at heart all the vanara leaders gathered around Hanuman. They  stood motionless with extreme happiness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "प्रहृष्टवदना स्सर्वे तमरोगमुपागतम्।\nउपायनानि चादाय मूलानि च फलानि च।।5.57.33।।\nप्रत्यर्चयन् हरिश्रेष्ठं हरयो मारुतात्मजम्।",
+      "transliteration": "",
+      "translation": "The vanaras were filled with joy seeing Hanuman who returned unhurt. They offered roots and fruits to him. Hanuman on his part offered salutations to the foremost of the monkeys.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "हनुमांस्तु गुरून् वृद्धाञ्जाम्बवत्प्रमुखांस्तदा।।5.57.34।।\nकुमारमङ्गदं चैव सोऽवन्दत महाकपिः।",
+      "transliteration": "",
+      "translation": "The great Hanuman also offered salutations to elders, preceptors such as Jambavan and other leaders. He also saluted the young Angada.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "स ताभ्यां पूजितः पूज्यः कपिभिश्च प्रसादितः।।5.57.35।।\nदृष्टा सीतेति विक्रान्त स्संक्षेपेण न्यवेदयत्।",
+      "transliteration": "",
+      "translation": "The valiant Hanuman worthy of worship having been honoured by both Jambavan and Angada was pleased. He responded briefly, saying 'Saw Sita'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "निषसाद च हस्तेन गृहीत्वा वालिनस्सुतम्।।5.57.36।।\nरमणीये वनोद्देशे महेन्द्रस्य गिरेस्तदा।",
+      "transliteration": "",
+      "translation": "Then holding the hand of Vali's son he sat down at a beautiful location of the garden of mountain Mahendra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "हनुमानब्रवीद्धृष्टस्तदा तान्वानरर्षभान्।।5.57.37।।\nअशोकवनिकासंस्था दृष्टा सा जनकात्मजा।\nरक्षमाणा सुघोराभी राक्षसीभिरनिन्दिता।।5.57.38।।\nएकवेणीधरा बाला रामदर्शनलालसा।\nउपवासपरिश्रान्ता जटिला मलिना कृशा।।5.57.39।।",
+      "transliteration": "",
+      "translation": "Hanuman felt happy and told Angada, the bull of vanaras, \"I saw Sita in the groves of Ashoka guarded by dreadful ogres. She is blameless, eager to see Rama. She is wearing a single braid of hair. She is young and emaciated due to fasting. Her hair is matted and soiled\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "ततो दृष्टेति वचनं महार्थममृतोपमम्।\nनिशम्य मारुतेस्सर्वे मुदिता वानराभवन्।।5.57.40।।",
+      "transliteration": "",
+      "translation": "Then hearing Hanuman's meaningful and nectarlike words all the vanaras rejoiced.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "क्ष्वेलन्त्यन्ये नदन्त्यन्ये गर्जन्त्यन्ये महाबलाः।\nचक्रुः किलकिलामन्ये प्रतिगर्जन्ति चापरे।।5.57.41।।",
+      "transliteration": "",
+      "translation": "Some powerful vanaras howled, some chattered, some roared and some screamed, going round and round and others echoed the sounds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "केचिदुच्छ्रितलाङ्गूलाः प्रहृष्टाः कपिकुञ्जराः।\nआयताञ्चितदीर्घाणि लाङ्गूलानि प्रविव्यधुः।।5.57.42।।",
+      "transliteration": "",
+      "translation": "Some elephantlike vanaras who were excited and felt overjoyed lifted their long and beautiful tails and hit them on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "अपरे च हनूमन्तं वानरा वारणोपमम्।\nआप्लुत्य गिरिशृङ्गेभ्यस्संस्पृशन्ति स्म हर्षिताः।।5.57.43।।",
+      "transliteration": "",
+      "translation": "A few vanaras jumped down from the mountain top and hugged the elephantlike Hanuman.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "उक्तवाक्यं हनूमन्तमङ्गदस्तमथाब्रवीत्।\nसर्वेषां हरिवीराणां मध्ये वचनमुत्तमम्।।5.57.44।।",
+      "transliteration": "",
+      "translation": "And hearing Hanuman's sweetest words, Angada addressed the heroic vanaras",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "सत्त्वे वीर्ये न ते कश्चित्समो वानर विद्यते।\nयदवप्लुत्य विस्तीर्णं सागरं पुनरागतः।।5.57.45।।",
+      "transliteration": "",
+      "translation": "\"O vanara you have leaped such a wide ocean and have returned. In strength and valour. There is none equal to you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "अहो स्वामिनि ते भक्तिरहो वीर्यमहो धृतिः।\nदिष्ट्या दृष्टा त्वया देवी रामपत्न�� यशस्विनी।।5.57.46।।\nदिष्ट्या त्यक्ष्यति काकुत्स्थ श्शोकं सीतावियोगजम्।",
+      "transliteration": "",
+      "translation": "\"O your devotion to the king, O your valour, fortitude  and courage is admirable. You could see Rama's wife, an illustrious lady. This is a matter of our good luck. Rama will (now) shed the sorrow due to separation from Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "ततोऽङ्गदं हनूमन्तं जाम्बवन्तं च वानराः।।5.57.47।।\nपरिवार्य प्रमुदिता भेजिरे विपुलाश्शिलाः।",
+      "transliteration": "",
+      "translation": "Then the vanaras went round all the three Angada, Hanuman and Jambavan. Out of joy they lay down on the huge rocks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "श्रोतुकामास्समुद्रस्य लङ्घनं वानरोत्तमाः।।5.57.48।।\nदर्शनं चापि लङ्कायास्सीताया रावणस्य च।\nतस्थुः प्राञ्जलयस्सर्वे हनुमद्वचनोन्मुखाः।।5.57.49।।",
+      "transliteration": "",
+      "translation": "All the vanaras longing to listen to Hanuman about his crossing the ocean, seeing Lanka, Sita and Ravana kept looking at the face of Hanuman.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "तस्थौ तत्राङ्गदः श्रीमान् वानरैर्बहुभिर्वृतः।\nउपास्यमानो विबुधैर्दिवि देवपतिर्यथा।।5.57.50।।",
+      "transliteration": "",
+      "translation": "Surrounded by many great vanaras, Angada was shining like Indra, lord of the gods attended by the gods in heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-57-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "हनूमता कीर्तिमता यशस्विना तथाङ्गदेनाङ्गदबद्धबाहुना।\nमुदा तदाऽध्यासितमुन्नतं महन्महीधराग्रं ज्वलितं श्रियाभवत्।।5.57.51।।",
+      "transliteration": "",
+      "translation": "The mountain peak graced by famous Hanuman and renowned Angada bedecked with armlets seated on top joyfully, appeared prosperous and splendid. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे सप्तपञ्चाशस्सर्गः।। Thus ends the fiftyseventh sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 37,
+    "title": "Hanuman offers to carry Sita back to RamaSita politely Sita declines -- appeals to Hanuman to get Rama to take her.",
+    "titleSanskrit": "",
+    "totalShlokas": 66
+  },
+  "shlokas": [
+    {
+      "id": "vs-37-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "सीता तद्वचनं श्रुत्वा पूर्णचन्द्रनिभानना।\nहनूमन्तमुवाचेदं धर्मार्थसहितं वचः।।5.37.1।।\n&nbsp;",
+      "transliteration": "",
+      "translation": "To the righteous words (about Rama's grief) of Hanuman, Sita with a face like the full moon replied.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अमृतं विषसंस��ष्टं त्वया वानर भाषितम्।\nयच्च नान्यमना रामो यच्च शोकपरायणः ।।5.37.2।।",
+      "transliteration": "",
+      "translation": "\"O vanara you have told me that Rama has his mind always fixed on me, not on others and you have also said that he is sad. It is like offering me poison mixed with nectar.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "ऐश्वर्ये वा सुविस्तीर्णे व्यसने वा सुदारुणे।\nरज्ज्वेव पुरुषं बद्ध्वा कृतान्तः परिकर्षति।।5.37.3।।",
+      "transliteration": "",
+      "translation": "\"Death snatches a man tied with a cord, whether he is rolling in luxury or sinking in adversity.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "विधिर्नूनमसंहार्यः प्राणिनां प्लवगोत्तम।\nसौमित्रिं मां च रामं च व्यसनै: पश्य मोहितान्।।5.37.4।।",
+      "transliteration": "",
+      "translation": "\"O best of vanaras surely it is not possible for living beings to overcome destiny. You see how Sri Rama, Saumitri, and my own self are all   afflicted with grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "शोकस्यास्य कदा पारं राघवोऽधिगमिष्यति।\nप्लवमानः परिश्रान्तो हतनौ स्सागरे यथा।।5.37.5।।",
+      "transliteration": "",
+      "translation": "\"When will Raghava reach the shore of this ocean of grief? He is like a man who has suffered a ship wreck, trying to swim?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "राक्षसानां वधं कृत्वा सूदयित्वा च रावणम्।\nलङ्कामुन्मूलितां कृत्वा कदा द्रक्ष्यति मां पतिः।।5.37.6।।",
+      "transliteration": "",
+      "translation": "\"When will my husband see me after killing the demons including Ravana and uprooting Lanka?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "स वाच्यस्संत्वरस्वेति यावदेव न पूर्यते।\nअयं संवत्सरः कालस्तावद्धि मम जीवितम्।।5.37.7।।",
+      "transliteration": "",
+      "translation": "\"One year's time has been given (by Ravana) to me.  Rama should be informed to be quick in reaching before the completion of the time limit and that I will survive till then only.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "वर्तते दशमो मासो द्वौ तु शेषौ प्लवङ्गम।\nरावणेन नृशंसेन समयो यः कृतो मम।।5.37.8।।",
+      "transliteration": "",
+      "translation": "\"O vanara this is the end of the tenth month. Only two more months are left. This is the condition laid by the wicked Ravana in my case.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "विभीषणेन च भ्रात्रा मम निर्यातनं प्रति।\nअनुनीतः प्रयत्नेन न च तत्कुरुते मतिम्।।5.37.9।।",
+      "transliteration": "",
+      "translation": "\"Vibhisana made efforts to advise Ravana for my restoration. But Ravana has not agreed to that.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "मम प्रतिप्रदानं हि रावणस्य न रोचते।\nरावणं मार्गते संख्ये मृत्युः कालवशं गतम्।।5.37.10।।",
+      "transliteration": "",
+      "translation": "\"Ravana did not like to return me having fallen into the death trap. Death lies in wait for him in battle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "ज्येष्ठा कन्या नला नाम विभीषणसुता कपे।\nतया ममेदमाख्यातं मात्रा प्रहितया स्वयम्।।5.37.11।।",
+      "transliteration": "",
+      "translation": "\"O vanara Nala the eldest daughter of Vibhisana sent by her mother came here personally and reported this to me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "असंशयं हरिश्रेष्ठ क्षिप्रं मां प्राप्स्यते पतिः।\nअन्तरात्मा च मे शुद्धस्तस्मिंश्च बहवो गुणाः।।5.37.12।।",
+      "transliteration": "",
+      "translation": "\"O eminent vanara no doubt my lord will soon reach this place. My pure conscience tells me that Rama has many virtues.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "उत्साहः पौरुषं सत्त्वमानृशंस्यं कृतज्ञता।\nविक्रमश्च प्रभावश्च सन्ति वानर राघवे।।5.37.13।।",
+      "transliteration": "",
+      "translation": "\"O vanara Rama is endowed with perseverance, manliness, prowess, kindness, gratitude, competence and power.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "चतुर्दशसहस्राणि राक्षसानां जघान यः।\nजनस्थाने विना भ्रात्रा शत्रुः कस्तस्य नोद्विजेत् ।।5.37.14।।\n&nbsp;",
+      "transliteration": "",
+      "translation": "\"At Janasthana without the help of his brother also he slew fourteen thousand demons. Which enemy will not tremble before him?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "न स शक्यस्तुलयितुं व्यसनैः पुरुषर्षभः।\nअहं तस्य प्रभावज्ञा शक्रस्येव पुलोमजा ।।5.37.15।।",
+      "transliteration": "",
+      "translation": "\"O bull among men he will not be shaken by calamities. Just as Sachi, the daughter of Puloma knows Indra's might I know Rama's.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "शरजालांशुमान्शूरः कपे रामदिवाकरः।\nशत्रुरक्षोमयं तोयमुपशोषं नयिष्यति।।5.37.16।।",
+      "transliteration": "",
+      "translation": "\"O monkey the valiant Rama is like the Sungod shoofing a dazzling volley of arrows which will dry up the sea of enemy forces.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "इति सञ्जल्पमानां तां रामार्थे शोककर्शिताम्।\nआश्रुसम्पूर्णनयनामुवाच वचनं कपिः।।5.37.17।।",
+      "transliteration": "",
+      "translation": "While Sita, tormented with grief on account of Rama was thus speaking, her eyes filled with tears, the monkey said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "श्रुत्वैव तु वचो मह्यं क्षिप्रमेष्यति राघवः।\nचमूं प्रकर्षन्महतीं हर्यृक्षगणसङ्कुलाम्।।5.37.18।।",
+      "transliteration": "",
+      "translation": "\"On hearing me Rama will reach soon with a huge army of vanaras and bears.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "अथवा मोचयिष्यामि त्वामद्यैव वरानने।\nअस्माद्धुःखादुपारोह मम पृष्ठमनिन्दिते।।5.37.19।।",
+      "transliteration": "",
+      "translation": "\"O beautiful lady, if you please, I shall redeem you today itself from grief. You may ride on my back, O blameless lady.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "त्वां हि पृष्ठगतां कृत्वा सन्तरिष्यामि सागरम्।\nशक्तिरस्ति हि मे वोढुं लङ्कामपि सरावणाम् ।।5.37.20।।",
+      "transliteration": "",
+      "translation": "\"Placing you on my back I shall cross the ocean. Indeed, I have the capacity to carry the entire city of Lanka along with Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "अहं प्रस्रवणस्थाय राघवायाद्य मैथिलि।\nप्रापयिष्यामि शक्राय हव्यं हुतमिवानलः।।5.37.21।।",
+      "transliteration": "",
+      "translation": "\"O Mythili Just as oblations offered to the sacred fire goes to Indra, I shall offer you today to Rama waiting on the Prasravana mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "द्रक्ष्यस्यद्वैव वैदेहि राघवं सहलक्ष्मणम्।\nव्यवसायसमायुक्तं विष्णुं दैत्यवधे यथा।।5.37.22।।",
+      "transliteration": "",
+      "translation": "\"O Vaidehi you will see Rama and Lakshmana making all out efforts like Lord Visnu to kill the demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "त्वद्दर्शनकृतोत्साहमाश्रमस्थं महाबलम्।\nपुरन्दरमिवासीनं नागराजस्य मूर्धनि।।5.37.23।।",
+      "transliteration": "",
+      "translation": "Mighty Rama staying in asram ill be enthused to see you seated on my back like Lord Purandara (Indra) seated on the back of the lord of elephants (Airavata)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "पृष्ठमारोह मे देवि मा विकाङ्क्षस्व शोभने।\nयोगमन्विच्छ रामेण शशाङ्केनेव रोहिणी।।5.37.24।।",
+      "transliteration": "",
+      "translation": "\"O god like lady climb up my back. Do not be reluctant. Join Rama just as Rohini unites with the Moon, O beautiful one",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "कथयन्तीव चन्द्रेण सूर्येण च महार्चिषा।\nमत्पृष्ठमधिरुह्य त्वं तराकाशमहार्णवौ।।5.37.25।।",
+      "transliteration": "",
+      "translation": "\"Climb on my back and cross the ocean through space in the flaming light, conversing with Moon and Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "न हि मे सम्प्रयातस्य त्वामितो नयतोऽङ्गने।\nअनुगन्तुं गतिं शक्तास्सर्वे लङ्कानिवासिनः।।5.37.26।।",
+      "transliteration": "",
+      "translation": "\"O beautiful lady it is not possible for all the inhabitants of Lanka together to follow me while I carry you from this place.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "यथैवाहमिह प्राप्तस्तथैवाहमसंशयः।\nयास्यामि पश्य वैदेहि त्वामुद्यम्य विहायसम्।।5.37.27।।",
+      "transliteration": "",
+      "translation": "\"O Vaidehi just as I reached here I shall beyond doubt take you on my back in the same way across the sky without any difficulty. See.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "मैथिली तु हरिश्रेष्ठाच्छ्रुत्वा वचनमद्भुतम्।\nहर्षविस्मितसर्वाङ्गी हनुमन्तमथाब्रवीत्।।5.37.28।।",
+      "transliteration": "",
+      "translation": "When Mythili heard the wonderful proposal from Hanuman, the best of vanaras, she experienced immense joy in every limb of her body and said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "हनुमन्दूरमध्वानं कथं मां वोढुमिच्छसि।\nतदेव खलु ते मन्ये कपित्वं हरियूथप।।5.37.29।।",
+      "transliteration": "",
+      "translation": "\"Hanuman how do you intend to carry me to such a distant place? Indeed, it is your monkey nature, I suppose.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "कथं वाल्पशरीरस्त्वं मामितो नेतुमिच्छसि।\nसकाशं मानवेन्द्रस्य भर्तुर्मे प्लवगर्षभ।।5.37.30।।",
+      "transliteration": "",
+      "translation": "\"O bull among monkeys you have  such a small body. How can you intend to carry me from here to my husband, the lord of men\"?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "सीताया वचनं श्रुत्वा हनुमान्मारुतात्मजः।\nचिन्तयामास लक्ष्मीवान्नवं परिभवं कृतम्।।5.37.31।।",
+      "transliteration": "",
+      "translation": "On hearing Sita's new belittling statement about him, Hanuman, the illustrious son of the Windgod reflected:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "न मे जानाति सत्त्वं वा प्रभावं वाऽसितेक्षणा।\nतस्मात्पश्यतु वैदेही यद्रूपं मम कामतः।।5.37.32।।",
+      "transliteration": "",
+      "translation": "'Blackeyed Sita is not aware of my strength or my power. Therefore let her see the real (huge) form that I can assume at my free will'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "इति सञ्चिन्त्य हनुमांस्तदा प्लवगसत्तमः।\nदर्शयामास वैदेह्यास्स्वरूपमरिमर्दनः।।5.37.33।।",
+      "transliteration": "",
+      "translation": "Thinking thus, Hanuman, the noble monkey, crusher of enemies, started revealing his real form to Vaidehi.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "स तस्मात्पादपाद्धीमानाप्लुत्य प्लवगर्षभः।\nततो वर्धितुमारेभे सीताप्रत्ययकारणात्।।5.37.34।।",
+      "transliteration": "",
+      "translation": "The wise bull among monkeys, jumped down from the tree and started growing in size in order to instil confidence in Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "मेरुमन्दरसङ्काशो बभौ दीप्तानलप्रभः।\nअग्रतो व्यवतस्थे च सीताया वानरोत्तमः।।5.37.35।।",
+      "transliteration": "",
+      "translation": "Hanuman, the foremost of the vanaras resembling mount Meru or Mandara stood there glowing like blazing fire in front of Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "हरिः पर्वतसङ्काशस्ताम्रवक्त्रो महाबलः।\nवज्रदंष्ट्रनखो भीमो वैदेहीमिदमब्रवीत्।।5.37.36।।",
+      "transliteration": "",
+      "translation": "Resembling a mountain in size, with a red face, with teeth and nails strong like  diamond, the vanara in dreadful form said to Vaidehi:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "सपर्वतवनोद्देशां साट्टप्राकारतोरणाम्।\nलङ्कामिमां सनाथां वा नयितुं शक्तिरस्ति मे।।5.37.37।।",
+      "transliteration": "",
+      "translation": "\"I have the capacity to carry away this entire Lanka uprooted with its mountains, gardens, forts, ramparts and gateways along with the king.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "तदवस्थाप्यतां बुद्धिरलं देवि विकाङ्क्षया।\nविशोकं कुरु वैदेहि राघवं सहलक्ष्मणम्।।5.37.38।।",
+      "transliteration": "",
+      "translation": "\"O queen it is enough. Give up this unworthy attitude. Be stable. O Vaidehi, rid Lakshmana and Rama of grief\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "तं दृष्ट्वा भीमसङ्काशमुवाच जनकात्मजा।\nपद्मपत्रविशालाक्षी मारुतस्यौरसं सुतम्।।5.37.39।।",
+      "transliteration": "",
+      "translation": "Seeing the son of Maruta in dreadful form, the broad lotus petaleyed daughter of Janaka with eyes as large as lotus petals replied :",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "तव सत्त्वं बलं चैव विजानामि महाकपे।\nवायोरिव गतिं चैव तेजश्चाग्नेरिवाद्भुतम्।।5.37.40।।",
+      "transliteration": "",
+      "translation": "\"O great monkey I have understood your strength and power. Your speed is like the Windgod's and your power is astonishing and splendid.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "प्राकृतोऽन्यः कथं चेमां भूमिमागन्तुमर्हति।\nउदधेरप्रमेयस्य पारं वानरपुङ्गव।।5.37.41।।",
+      "transliteration": "",
+      "translation": "\"O chief of vanaras how could an ordinary person be capable of reaching this land on far off shore of the immeasurable ocean?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "जानामि गमने शक्तिं नयने चापि ते मम।\nअवश्यं सम्प्रधार्याशु कार्यसिद्धिर्महात्मनः।।5.37.42।।",
+      "transliteration": "",
+      "translation": "\"I know you are capable of carrying me on your journey. I am sure about the quick success of your mission which has been carried out after careful planning.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "अयुक्तं तु कपिश्रेष्ठ मम गन्तुं त्वयाऽनघ।\nवायुवेगसवेगस्य वेगो मां मोहयेत्तव।।5.37.43।।",
+      "transliteration": "",
+      "translation": "\"O sinless and foremost monkey going with you is not proper for me. Your windlike speed will render me unconscious.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "अहमाकाशमापन्ना ह्युपर्युपरि सागरम्।\nप्रपतेयं हि ते पृष्ठाद्भयाद्वेगेव गच्छतः।।5.37.44।।",
+      "transliteration": "",
+      "translation": "\"When you fly over the ocean in the sky  speedily I may tumble down from your back by your speed out of fear.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "पतिता सागरे चाहं तिमिनक्रझषाकुले।\nभवेयमाशु विवशा यादसामन्नमुत्तमम्।।5.37.45।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "न च शक्ष्ये त्वया सार्धं गन्तुं शत्रुविनाशन।\nकलत्रवत�� सन्देहस्त्वय्यपि स्यादसंशयः।।5.37.46।।",
+      "transliteration": "",
+      "translation": "\"O destroyer of foes, it is not possible for me to go with you. Further, when you are burdened with a woman you will also fall into danger (because of me), no doubt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "ह्रियमाणां तु मां दृष्ट्वा राक्षसा भीमविक्रमाः।\nअनुगच्छेयुरादिष्टा रावणेन दुरात्मना।।5.37.47।।",
+      "transliteration": "",
+      "translation": "\"When I am seen (while being carried away) by the demons of fearsome valour they will pursue you, ordered by the wicked Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "तैस्त्वं परिवृतश्शूरैश्शूलमुद्गरपाणिभिः।\nभवेस्त्वं संशयं प्राप्तो मया वीर कलत्रवान्।।5.37.48।।",
+      "transliteration": "",
+      "translation": "\"O heroic monkey as the warriors armed with spears and maces surround you and attack, your life will be in danger, because of me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "सायुधा बहवो व्योम्नि राक्षसास्त्वं निरायुधः।\nकथं शक्ष्यसि संयातुं मां चैव परिरक्षितुम्।।5.37.49।।",
+      "transliteration": "",
+      "translation": "\"The demons are in large number and they will be armed with weapons. You are unarmed. How can you fight and protect me?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "युध्यमानस्य रक्षोभिस्तव तैः क्रूरकर्मभिः।\nप्रपतेयं हि ते पृष्ठाद्भयार्ता कपिसत्तम।।5.37.50।।",
+      "transliteration": "",
+      "translation": "\"O noble monkey while you are engaged in fighting with those demons of wicked deeds, I may drop down out of fear.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "अथ रक्षांसि भीमानि महान्ति बलवन्ति च।\nकथञ्चित्सांपराये त्वां जयेयुः कपिसत्तम।।5.37.51।।",
+      "transliteration": "",
+      "translation": "\"O noble monkey the massive, fearsome and powerful demons may defeat you in the fight in any way.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "अथवा युध्यमानस्य पतेयं विमुखस्य ते।\nपतितां च गृहीत्वा मां नयेयुः पापराक्षसाः।।5.37.52।।",
+      "transliteration": "",
+      "translation": "\"Or else, while you are engaged in fighting and turn your attention the other way I might fall down and the sinful ogres may bear me away.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "मां वा हरेयुस्त्वद्धस्ताद्विशसेयुरथापि वा।\nअव्यवस्थौ हि दृश्येते युद्धे जयपराजयौ।।5.37.53।।",
+      "transliteration": "",
+      "translation": "\"They may snatch me away from your hands or cut me to pieces. Success or defeat is uncertain in a war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-54",
+      "number": 54,
+      "type": "shloka",
+      "original": "अहं वापि विपद्येयं रक्षोभिरभितर्जिता।\nत्वत्प्रयत्नो हरिश्रेष्ठ भवेन्निष्फल एव तु।।5.37.54।।",
+      "transliteration": "",
+      "translation": "\"In such a case, caught and intimidated by the demons I may die. Then your efforts will be wasted.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-55",
+      "number": 55,
+      "type": "shloka",
+      "original": "कामं त्वमसि पर्याप्तो निहन्तुं सर्वराक्षसान्।\nराघवस्य यशो हीयेत्त्वया शस्तैस्तु राक्षसैः।।5.37.55।।",
+      "transliteration": "",
+      "translation": "\"It may be that you can kill  all the demons but by such an act the fame of Rama will be diminished. (He cannot give his strength a trial)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-56",
+      "number": 56,
+      "type": "shloka",
+      "original": "अथवाऽदाय रक्षांसि न्यसेयुस्सम्वृते हि माम्।\nयत्र ते नाभिजानीयुर्हरयो नापि राघवौ।।5.37.56।।",
+      "transliteration": "",
+      "translation": "\"Or else, the ogres will carry me  and conceal me in a secret place which the vanaras or Rama and Lakshmana may not know.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-57",
+      "number": 57,
+      "type": "shloka",
+      "original": "आरम्भस्तु मदर्थोऽयं ततस्तव निरर्थकः।\nत्वया हि सह रामस्य महानागमने गुणः।।5.37.57।।\n&nbsp;",
+      "transliteration": "",
+      "translation": "\"All your effort for my sake would be futile. Hence Rama's arrival along with you will be of great benefit.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-58",
+      "number": 58,
+      "type": "shloka",
+      "original": "मयि जीवितमायत्तं राघवस्य महात्मनः।\nभ्रात्रूणां च महाबाहो तव राजकुलस्य च।।5.37.58।।",
+      "transliteration": "",
+      "translation": "\"O strongarmed Hanuman your life and the life of the great self Rama, of his brother, and relatives of your king is dependent upon my survival.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-59",
+      "number": 59,
+      "type": "shloka",
+      "original": "तौ निराशौ मदर्थं तु शोकसन्तापकर्शितौ।\nसह सर्वर्क्षहरिभिस्त्यक्ष्यतः प्राणसङ्ग्रहम्।।5.37.59।।",
+      "transliteration": "",
+      "translation": "\"Both Rama and Lakshmana who are emaciated with sorrow and suffering on account of me will give up their lives along with vanaras and bears.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-60",
+      "number": 60,
+      "type": "shloka",
+      "original": "भर्तुर्भक्तिं पुरस्कृत्य रामादन्यस्य वानर।\nन स्पृशामि शरीरं तु पुंसो वानरपुङ्गव।।5.37.60।।",
+      "transliteration": "",
+      "translation": "\"O chief of vanaras I cherish my devotion towards Rama alone and not touch the body of any other man.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-61",
+      "number": 61,
+      "type": "shloka",
+      "original": "यदहं गात्रसंस्पर्शं रावणस्य बलाद्गता।\nअनीशा किं करिष्यामि विनाथा विवशा सती।।5.37.61।।",
+      "transliteration": "",
+      "translation": "\"I had no control over myself. I was helpless and my husband was not present when I had to bear the touch of Ravana's limbs. What can I do?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-62",
+      "number": 62,
+      "type": "shloka",
+      "original": "यदि रामो दशग्रीवमिह हत्त्वा सबान्धवम्।\nमामितो गृह्य गच्छेत तत्तस्य सदृशं भवेत्।।5.37.62।।",
+      "transliteration": "",
+      "translation": "\"It will be proper if Rama comes here, kills Ravana along with all his relations and takes me away.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-63",
+      "number": 63,
+      "type": "shloka",
+      "original": "श्रुता हि दृष्टाश्च मया पराक्रमा महात्मनस्तस्य रणावमर्दिनः।\nन देवगन्धर्वभुजङ्गराक्षसा भवन्ति रामेण समा हि संयुगे।।5.37.63।।",
+      "transliteration": "",
+      "translation": "\"I have seen and heard about Rama's conquest of enemies and his valiant deeds in war. Indeed, gods gandharvas, nagas or even demons cannot match him in war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-64",
+      "number": 64,
+      "type": "shloka",
+      "original": "समीक्ष्य तं संयति चित्रकार्मुकम् महाबलं वासवतुल्यविक्रमम्।\nसलक्ष्मणं को विषहेत राघवं हुताशनं दीप्तमिवानिलेरितम्।।5.37.64।।\n&nbsp;",
+      "transliteration": "",
+      "translation": "\"After seeing Rama who is equal to lord Indra in valour. He is like blazing fire whipped by wind, wielding a wonderful bow, who can withstand the power of strong Rama accompanied by Lakshmana in war?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-65",
+      "number": 65,
+      "type": "shloka",
+      "original": "सलक्ष्मणं राघवमाजिमर्दनं दिशागजं मत्तमिव व्यवस्थितम्।\nसहेत को वानरमुख्य संयुगे युगान्तसूर्यप्रतिमं शरार्चिषम्।।5.37.65।।",
+      "transliteration": "",
+      "translation": "\"O chief of vanaras who can withstand Rama accompanied by Lakshmana, the conqueror of enemies? His arrows resemble the rays of the Sun at the time of the deluge, steady like the elephants who support the quarters of the earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-37-66",
+      "number": 66,
+      "type": "shloka",
+      "original": "स मे हरिश्रेष्ठ सलक्ष्मणं पतिं सयूथपं क्षिप्रमिहोपपादय।\nचिराय रामं प्रति शोककर्शितां कुरुष्व मां वानरमुख्य हर्षिताम्।।5.37.66।।",
+      "transliteration": "",
+      "translation": "\"O foremost of the vanaras get Rama here along with Lakshmana and the lord of vanara troops quickly. O chief of vanaras this way you can bring happiness to one like me who is emaciated with suffering on account of Rama. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे सप्तत्रिंशस्सर्गः।। Thus ends the thirtyseventh sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

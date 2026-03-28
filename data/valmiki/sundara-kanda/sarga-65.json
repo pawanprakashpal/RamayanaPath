@@ -1,0 +1,216 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 65,
+    "title": "Hanuman apprises Sri Rama of Sita's presence under the Simsupa tree surrounded by demonesses and presents the Chudamani to Rama in the presence of Sugriva.",
+    "titleSanskrit": "",
+    "totalShlokas": 22
+  },
+  "shlokas": [
+    {
+      "id": "vs-65-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततः प्रस्रवणं शैलं ते गत्वा चित्रकाननम्।\nप्रणम्य शिरसा रामं लक्ष्मणं च महाबलम्।।5.65.1।।\nयुवराजं पुरस्कृत्य सुग्रीवमभिवाद्य च।\nप्रवृत्तिमथ सीतायाः प्रवक्तुमुपचक्रमुः।।5.65.2।।",
+      "transliteration": "",
+      "translation": "Thereafter the vanaras arrived at the Prasrvana mount, with wonderful forests and bowed down to Sri Rama and mighty Lakshaman and Sugriva placing their leader, heir apparent in front. Then they began telling the story of Sita and her state.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-65-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "रावणान्तः पुरे रोधं राक्षसीभिश्च तर्जनम्।\nरामे समनुरागं च यश्चायं समयः कृतः।।5.65.3।।\nएतदाख्यान्ति ते सर्वे हरयो रामसन्निधौ।",
+      "transliteration": "",
+      "translation": "The monkeys in Rama's presence narrated all about Sita's detention in Ravana's  Ashoka garden, the ogresses threatening her and the time limit fixed by Ravana (for her survival).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-65-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "वैदेहीमक्षतां श्रुत्वा रामस्तूत्तरमब्रवीत्।।5.65.4।।\nक्व सीता वर्तते देवी कथं च मयि वर्तते।\nएतन्मे सर्वमाख्यात वैदेहीं प्रति वानराः।।5.65.5।।",
+      "transliteration": "",
+      "translation": "Hearing of Sita alive and not harmed, Rama asked the vanaras, 'How is Sita? How is she disposed to me? Tell me everything'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-65-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "रामस्य गदितं श्रुत्वा हरयो रामसन्निधौ।\nचोदयन्ति हनूमन्तं सीतावृत्तान्तकोविदम्।।5.65.6।।",
+      "transliteration": "",
+      "translation": "On hearing the words from Rama, the vanaras requested Hanuman who was aware of  Sita's position to tell Rama all about her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-65-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "श्रुत्वा तु वचनं तेषां हनुमान्मारुतात्मजः।\nप्रणम्य शिरसा देव्यै सीतायै तां दिशं प्रति।।5.65.7।।\nउवाच वाक्यं वाक्यज्ञस्सीताया दर्शनं यथा।",
+      "transliteration": "",
+      "translation": "The son of the Wind god, Hanuman who was wise in speech heard the words of Rama, offered salutations to Sita in the direction in which she was located and narrated the story about her discovery.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-65-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "समुद्रं लङ्घयित्वाहं शतयोजनमायतम्।।5.65.8।।\nअगच्छं जानकीं सीतां मार्गमाणो दिदृक्षया।",
+      "transliteration": "",
+      "translation": "\"Having crossed the sea consisting of a hundred yojanas in quest of Vaidehi, I found her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-65-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तत्र लङ्केति नगरी रावणस्य दुरात्मनः।।5.65.9।।\nदक्षिणस्य समुद्रस्य तीरे वसति दक्षिणे।",
+      "transliteration": "",
+      "translation": "\"On the southern shore of the ocean is situated the city of Lanka , ruled by the evilminded Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-65-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तत्र दृष्टा मया सीता रावणान्तः पुरे सती।।5.65.10।।\nसन्न्यस्य त्वयि जीवन्ती रामा राम मनोरथम्।",
+      "transliteration": "",
+      "translation": "\"There in the inner palace of Ravana, I saw your lovely wife Sita, with all her hopes pinned on you, giving up all other desires.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-65-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "दृष्टा मे राक्षसीमध्ये तर्ज्यमाना मुहुर्मुहुः।।5.65.11।।\nराक्षसीभिर्विरूपाभी रक्षिता प्रमदावने।",
+      "transliteration": "",
+      "translation": "\"I found her in the beautiful garden guarded by hideous ogresses threatening her again and again৷৷",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-65-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "दुःख मासाद्यते देवी तथाऽदुःखोचिता सती।।5.65.12।।\nरावणान्तः पुरे रुद्धा राक्षसीभि स्सुरक्षिता।\nएकवेणीधरा दीना त्वयि चिन्तापरायणा।।5.65.13।।\nअधःशय्या विवर्णाङ्गी पद्मिनीव हिमागमे।\nरावणाद्विनिवृत्तार्था मर्तव्यकृतनिश्चया।।5.65.14।।\nदेवी कथञ्चित्काकुत्स्थ त्वन्मना मार्गिता मया।",
+      "transliteration": "",
+      "translation": "\"Sita, who did not deserve and yet was full of grief was detained by Ravana in his inner palace, guarded by ogresses. She had single braid (a sign of desolation), was pathetic,  and totally absorbed in your thought. She was lying on bare ground with her limbs turned pale, like lotus in winter. She was averse to Ravana and was determined to commit suicide. She has only Rama in her mind. Somehow I found her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-65-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "इक्ष्वाकुवंशविख्यातिं शनैः कीर्तयतानघ।।5.65.15।।\nसा मया नरशार्दूल विश्वासमुपपादिता।",
+      "transliteration": "",
+      "translation": "\"O sinless one O tiger among men To inspire confidence in her I praised the glory of your Ikshvaku dynasty.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-65-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "तत स्सम्भाषिता देवी सर्वमर्थं च दर्शिता।।5.65.16।।\nरामसुग्रीवसख्यं च श्रुत्वा प्रीतिमुपागता।\nनियत स्समुदाचारो भक्तिश्चास्यास्तथा त्वयि।।5.65.17।।",
+      "transliteration": "",
+      "translation": "\"When the divine lady talked to me, I presented all the facts about the alliance of Rama and Sugriva. On hearing me, virtuous Sita, whose devotion is fixed on you became delighted.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-65-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "एवं मया महाभागा दृष्टा जनकनन्दिनी।\nउग्रेण तपसा युक्ता त्वद्भक्त्या पुरुषर्षभ।।5.65.18।।",
+      "transliteration": "",
+      "translation": "\"O bull among men I saw Janaki,the delight of Janaka, a formidable lady filled with devotion to you and richly endowed with austerity.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-65-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "अभिज्ञानं च मे दत्तं यथा वृत्तं तवान्तिके।\nचित्रकूटे महाप्राज्ञ वायसं प्रति राघव।।5.65.19।।",
+      "transliteration": "",
+      "translation": "\"O wise one, with your ring given her, she told me an anecdote of a crow that took place at Chitrakuta.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-65-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "विज्ञाप्यश्च नरव्याघ्रो रामो वायुसुत त्वया।\nअखिलेनेह यद्धृष्टमिति मामाह जानकी।।5.65.20।।",
+      "transliteration": "",
+      "translation": "(She said)'O son of the Windgod you should let Rama, the tiger among men know all that you have seen here.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-65-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अयं चास्मै प्रदातव्यो यत्नात्सुपरिरक्षितः।\nब्रुवता वचनान्येवं सुग्रीवस्योपशृण्वतः।।5.65.21।।",
+      "transliteration": "",
+      "translation": "'Within hearing of Sugriva, tell him about your efforts. Present this(signet) to Rama carefully preserved by me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-65-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "एष चूडामणिश्श्रीमान् मया सुपरिरक्षितः।\nमनश्शिलायास्तिलको गण्डपार्श्वे निवेशितः।।5.65.22।।\nत्वया प्रणष्ठे तिलके तं किल स्��र्तुमर्हसि।",
+      "transliteration": "",
+      "translation": "'This auspicious (jewel) Chudamani has been preserved by me very carefully. Remind him of the decorative red mark he painted with a stone pigment on my forehead, indeed, it is proper to remind him of this.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-65-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "एष निर्यातितश्श्रीमान्मया ते वारि सम्भवः।\nएतं दृष्ट्वा प्रहृष्यामि व्यसने त्वामिवानघ।।5.65.23।।",
+      "transliteration": "",
+      "translation": "'O sinless one tell Rama that this auspicious Chudamani born in the ocean is sent to him and I was gazing at it as if it was him (Rama) and feeling happy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-65-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "जीवितं धारयिष्यामि मासं दशरथात्मज।।5.65.24।।\nऊर्ध्वं मासान्न जीवेयं रक्षसां वशमागता।",
+      "transliteration": "",
+      "translation": "'O Son of Dasaratha I will hold on to life for a month. Captured by the demons, I will not live for more than a month'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-65-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "इति मामब्रवीत्सीता कृशाङ्गी धर्मचारिणी।।5.65.25।।\nरावणान्तः पुरे रुद्धा मृगीवोत्फुल्ललोचना।",
+      "transliteration": "",
+      "translation": "\"With her limbs emaciated through austerities detained in Ravana's inner palace, eyes wide open in fear, Sita said this to me:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-65-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "एतदेव मयाख्यातं सर्वं राघव यद्यथा।।5.65.26।।\nसर्वथा सागरजले संतारः प्रविधीयताम्।",
+      "transliteration": "",
+      "translation": "\"O Rama I have spoken everything that has happened. We have to pay attention to the means of crossing the ocean.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-65-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तौ जाताश्वासौ राजपुत्रौ विदित्वा तच्चाभिज्ञानं राघवाय प्रदाय।\nदेव्या चाख्यातं सर्वमेवानुपूर्व्याद्वाचा सम्पूर्णं वायुपुत्त्र श्शशंस।।5.65.27।।",
+      "transliteration": "",
+      "translation": "Coming to know that the two princes were sighing in relief, Hanuman presented the token of identification given by Sita to Rama, after having communicated in full the messsage of Sita in an orderly manner. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे पञ्चषष्टितमस्सर्गः।। Thus ends the sixtyfifth sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,603 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 13,
+    "title": "Hanuman's soliloquy in despondency.",
+    "titleSanskrit": "",
+    "totalShlokas": 65
+  },
+  "shlokas": [
+    {
+      "id": "vs-13-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "विमानात्तु सुसम्क्रम्य प्राकारं हरियूथपः।\nहनुमान्वेगवानासीद्यथा विद्युद्घनान्तरे।।5.13.1।।",
+      "transliteration": "",
+      "translation": "Hanuman, the vanara leader, jumped from the aerial chariot to the boundary wall like a flash of lightning in the clouds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "सम्परिक्रम्य हनुमान्रावणस्य निवेशनात्।\nअदृष्ट्वा जानकीं सीतामब्रवीद्वचनं कपिः।।5.13.2।��",
+      "transliteration": "",
+      "translation": "Going round the palace of Ravana, unable to see Janaka's daughter Sita, Hanuman spoke thus to himself:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "भूयिष्ठं लोलिता लङ्का रामस्य चरता प्रियम्।\nन हि पश्यामि वैदेहीं सीतां सर्वाङ्गशोभनाम्।।5.13.3।।",
+      "transliteration": "",
+      "translation": "\"I have thoroughly surveyed the entire city of Lanka to please Rama, but I am unable to find Sita of flawless beauty.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "पल्वलानि तटाकानि सरांसि सरितस्तथा।\nनद्योऽनूपवनान्ताश्च दुर्गाश्च धरणीधराः।।5.13.4।।\nलोलिता वसुधा सर्वा न तु पश्यामि जानकीम्।",
+      "transliteration": "",
+      "translation": "\"I have searched for Sita thoroughly in waterlogs, lakes, tanks, streams and rivers and all over the woods and among mountains that are difficult to reach. I have searched all over the land but have not been able to find Janaki.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "इह सम्पातिना सीता रावणस्य निवेशने।।5.13.5।।\nआख्याता गृध्रराजेन न च पश्यामि तामहम्।",
+      "transliteration": "",
+      "translation": "\"Sampati, king of vultures had said that Sita is at Ravana's palace. But I have not been able to see her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "किं नु सीताऽथ वैदेही मैथिली जनकात्मजा।।5.13.6।।\nउपतिष्ठेत विवशा रावणं दुष्टचारिणम्।",
+      "transliteration": "",
+      "translation": "\"Can it be that Mythili, daughter of Janaka, dejected and helpless succumbed to the evil intentions of Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "क्षिप्रमुत्पततो मन्ये सीतामादाय रक्षसः।।5.13.7।।\nबिभ्यतो रामबाणानामन्तरा पतिता भवेत्।",
+      "transliteration": "",
+      "translation": "\"Or, perhaps she might have been dropped midway from the hold of Ravana while he was flying at great speed, afraid of the deadly arrows of Rama?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "अथवा ह्रियमाणायाः पथि सिद्धनिषेविते।।5.13.8।।\nमन्ये पतितमार्याया हृदयं प्रेक्ष्य सागरम्।",
+      "transliteration": "",
+      "translation": "\"Or, perhaps while being borne away on the path frequented by siddhas, the beloved of Rama might have fallen down (dead), heart broken, on seeing the (vast) sea.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "रावणस्योरुवेगेन भुजाभ्यां पीडितेन च।।5.13.9।।\nतया मन्ये विशालाक्ष्या त्यक्तं जीवितमार्यया।",
+      "transliteration": "",
+      "translation": "\"He thinks, on account of the high speed during the flight of Ravana under the  pressure of his arms, the noble, largeeyed lady might have given up her life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "उपर्युपरि वा नूनं सागरं क्रमतस्तदा।।5.13.10।।\nविवेष्टमाना पतिता सागरे जनकात्मजा।",
+      "transliteration": "",
+      "translation": "\"Surely, she might have fallen into the sea while wriggling in her effort to extricate herself from the hold of Ravana as he was flying over the sea.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "अहो क्षुद्रेण वाऽनेन रक्षन्ती शीलमात्मनः।।5.13.11।।\nअबन्धुर्भक्षिता सीता रावणेन तपस्विनी।",
+      "transliteration": "",
+      "translation": "\"Oh poor Sita, distanced from relations, while protecting her chastity helplessly she might have been devoured by cruel Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अथवा राक्षसेन्द्रस्य पत्नीभिरसितेक्षणा।।5.13.12।।\nअदुष्टा दुष्टभावाभिर्भक्षिता सा भविष्यति।",
+      "transliteration": "",
+      "translation": "\"Or else, the pious, blackeyed Sita might have been eaten by the the cruelnatured wives of the lord of demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "सम्पूर्णचन्द्रप्रतिमं पद्मपत्रनिभेक्षणम्।।5.13.13।।\nरामस्य ध्यायती वक्त्रं पञ्चत्वं कृपणा गता।",
+      "transliteration": "",
+      "translation": "\"Or, she might have attained death, meditating on Rama, whose face resembles the fullmoon and eyes the lotus petals.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "हा राम लक्ष्मणेत्येवं हाऽयोध्ये चेति मैथिली।।5.13.14।।\nविलप्य बहु वैदेही न्यस्तदेहा भविष्यति।",
+      "transliteration": "",
+      "translation": "\"Or, Vaidehi, the princess of Mithila might have cast off her life grieving intensely and crying, 'Alas, Rama, alas, Lakshmana, alas, Ayodhya'. (Mithila is the name of the  capital city and Videha is the country which was ruled by Janaka. Sita, the princess is known as Vaidehi, Mythili and Janaki).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "अथवा निहिता मन्ये रावणस्य निवेशने।।5.13.15।।\nनूनं लालप्यते सीता पञ्जरस्थेव शारिका।",
+      "transliteration": "",
+      "translation": "\"Or, I think Sita might have been imprisoned in a cage like a myna in Ravana's palace. She will be surely crying.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "जनकस्य सुता सीता रामपत्नी सुमध्यमा।।5.13.16।।\nकथमुत्पलपत्राक्षी रावणस्य वशं व्रजेत्।",
+      "transliteration": "",
+      "translation": "\"How could Janaki, the daughter of Janaka, Rama's wife, the lady with a beautiful waist and eyes like lotus petals, come under the fold of Ravana?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "विनष्टा वा प्रणष्टा वा मृता वा जनकात्मजा।।5.13.17।।\nरामस्य प्रियभार्यस्य न निवेदयितुं क्षमम्।",
+      "transliteration": "",
+      "translation": "\"Whether Janaki is lost or irretrievable or dead is not known The news should not be  reported to Rama, who is very fond of his wife.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "निवेद्यमाने दोषस्स्याद्दोषस्स्यादनिवेदने।।5.13.18।।\nकथं नु खलु कर्तव्यं विषमं प्रतिभाति मे।",
+      "transliteration": "",
+      "translation": "\"To carry or not to carry this news to Rama would be a mistake. What shall I do? I am facing a tough situation.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "अस्मिन्नेवंगते कार्ये प्राप्तकालं क्षमं च किम्।।5.13.19।।\nभवेदिति मतं भूयो हनुमान्प्रविचारयत्।",
+      "transliteration": "",
+      "translation": "\"I wonder what the right course of action is when things have taken such a turn? What is proper for me to do? Hanuman once again deliberated.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "यदि सीतामदृष्ट्वाऽहं वानरेन्द्रपुरीमितः।।5.13.20।।\nगमि��्यामि ततः को मे पुरुषार्थो भविष्यति।",
+      "transliteration": "",
+      "translation": "\"If I return to Kishkinda without seeing Sita of what use is my effort? What have I accomplished? What will happen? (Dharma, Artha, Kama and Moksha are the four Purusharthas or accomplishments in life)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "ममेदं लङ्घनं व्यर्थं सागरस्य भविष्यति।।5.13.21।।\nप्रवेशश्चैव लङ्कायाः राक्षसानां च दर्शनम्।",
+      "transliteration": "",
+      "translation": "\"My crossing the ocean, my entry into Lanka and my survey of the demons are all futile.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "किं मां वक्ष्यति सुग्रीवो हरयो वा समागताः।।5.13.22।।\nकिष्किन्धां समनुप्राप्तं तौ वा दशरथात्मजौ।",
+      "transliteration": "",
+      "translation": "\"What will Sugriva or even the vanaras and the two sons of Dasaratha say when I reach Kishkinda?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "गत्वा तु यदि काकुत्स्थं वक्ष्यामि परमप्रियम्।।5.13.23।।\nन दृष्टेति मया सीता ततस्तक्ष्यति जीवितम्।",
+      "transliteration": "",
+      "translation": "\"If I report the most unpleasant news that Sita was not found, Rama will give up his life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "परुषं दारुणं क्रूरं तीक्ष्णमिन्द्रियतापनम्।।5.13.24।।\nसीतानिमित्तं दुर्वाक्यं श्रुत्वा स न भविष्यति।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तं तु कृच्छ्रगतं दृष्ट्वा पञ्चत्वगतमानसम्।।5.13.25।।\nभृशानुरक्तो मेधावी न भविष्यति लक्ष्मणः।",
+      "transliteration": "",
+      "translation": "\"Seeing Rama in such a painful state, wise Lakshmana who has given his life to Rama, to whom he is deeply devoted will also not survive.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "विनष्टौ भ्रातरौ श्रुत्वा भरतोऽपि मरिष्यति।।5.13.26।।\nभरतं च मृतं दृष्ट्वा शत्रुघ्नो न भविष्यति।",
+      "transliteration": "",
+      "translation": "\"On hearing the death of both the brothers Bharata will also die. On seeing this Satrughna will also not live.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "पुत्रान्मृतान्समीक्ष्याथ न भविष्यन्ति मातरः।।5.13.27।।\nकौसल्या च सुमित्रा च कैकेयी च न संशयः।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "कृतज्ञस्सत्यसन्धश्च सुग्रीवः प्लवगाधिपः।।5.13.28।।\nरामं तथा गतं दृष्ट्वा ततस्त्यक्ष्यति जीवितम्।",
+      "transliteration": "",
+      "translation": "\"On seeing that Rama has ended his life, the grateful and truthful monkey leader,  Sugriva will give up his life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "दुर्मना व्यथिता दीना निरानन्दा तपस्विनी।।5.13.29।।\nपीडिता भर्तृशोकेन रुमा त्यक्ष्यति जीवितम्।",
+      "transliteration": "",
+      "translation": "\"Distressed, disheartened, pained and grieved on account of her husband's death, the virtuous lady Ruma (wife of Sugriva) will be unhappy and die.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "वालिजेन तु दुःखेन पीडिता शोककर्शिता।।5.13.30।।\nपञ्चत्वं च गते राज्ञि ताराऽपि न भविष्यति।",
+      "transliteration": "",
+      "translation": "\"Tara who is troubled by Vali's death and tortured with grief will not live when king Sugriva dies.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "मातापित्रोर्विनाशेन सुग्रीवव्��सनेन च।।5.13.31।।\nकुमारोऽप्यङ्गदः कस्माद्धारयिष्यति जीवितम्।",
+      "transliteration": "",
+      "translation": "\"On account of his parents death and also because of Sugriva's calamity, Angada will give up his life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "भर्तृजेन तु दुःखेन ह्यभिभूता वनौकसः।।5.13.32।।\nशिरांस्यभिहनिष्यन्ति तलैर्मुष्टिभिरेव च।",
+      "transliteration": "",
+      "translation": "\"The grief due to the death of their king will make the vanaras hit their heads with their palms and fists.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "सान्त्वेनानुप्रदानेन मानेन च यशस्विना।।5.13.33।।\nलालिताः कपिराजेन प्राणांस्त्यक्ष्यन्ति वानराः।",
+      "transliteration": "",
+      "translation": "\"The vanaras who were reared by the king's kind words, gifts and care will give up their life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "न वनेषु न शैलेषु न निरोधेषु वा पुनः।।5.13.34।।\nक्रीडामनुभविष्यन्ति समेत्य कपिकुञ्जराः।",
+      "transliteration": "",
+      "translation": "\"The chiefs among vanaras together will not enjoy their life in the forest or mountains or caves.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "सपुत��रदारास्सामात्या भर्तृव्यसनपीडिताः।।5.13.35।।\nशैलाग्रेभ्यः पतिष्यन्ति समेषु विषमेषु च।",
+      "transliteration": "",
+      "translation": "\"Tormented by their king's death the vanaras with their wives, sons and ministers will drop down from the mountain peaks on the rough ground and die.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "विषमुद्बन्धनं वापि प्रवेशं ज्वलनस्य वा।।5.13.36।।\nउपवासमथो शस्त्रं प्रचरिष्यन्ति वानराः।",
+      "transliteration": "",
+      "translation": "\"The vanaras will put an end to their lives by poisoning or by hanging or by selfimmolation or by killing themselves with weapons or by fasting unto death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "घोरमारोदनं मन्ये गते मयि भविष्यति।।5.13.37।।\nइक्ष्वाकुकुलनाशश्च नाशश्चैव वनौकसाम्।",
+      "transliteration": "",
+      "translation": "\"If I go there (without finding Sita), it will cause destruction of the Ikshvakus and vanaras would weep. It would be dreadful.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "सोऽहं नैव गमिष्यामि किष्किन्धां नगरीमितः।।5.13.38।।\nन च शक्ष्याम्यहं द्रष्टुं सुग्रीवं मैथिलीं विना।",
+      "transliteration": "",
+      "translation": "\"I will not go to the city of Kishkinda from here or to Sugriva without finding Mythili. It will not be possible for me to face him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "मय्यगच्छति चेहस्थे धर्मात्मानौ महारथौ।।5.13.39।।\nआशया तौ धरिष्येते वानराश्च मनस्विनः।",
+      "transliteration": "",
+      "translation": "Both the highsouled warrior princes treading a righteous path as well as the vanaras will survive with a hope of my return if I stay back.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "हस्तादानो मुखादानो नियतो वृक्षमूलिकः।।5.13.40।।\nवानप्रस्थो भविष्यामि ह्यदृष्ट्वा जनकात्मजाम्।\nसागरानूपजे देशे बहुमूलफलोदके।।5.13.41।।",
+      "transliteration": "",
+      "translation": "\"If Janaki is not found I will stay here and live like a hermit subsisting on whatever is available on this sea shore, which has abundance of roots, fruits and water.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "चितां कृत्वा प्रवेक्ष्यामि समिद्धमरणीसुतम्।\nउपविष्टस्य वा सम्यग्लिङ्गिनीं साधयिष्यतः।।5.13.42।।\nशरीरं भक्षयिष्यन्ति वायसाः श्वापदानि च।",
+      "transliteration": "",
+      "translation": "\"I will prepare a pyre  and enter the fire  so that sea waves wash off the ashes or crows and beasts will eat up my body while i sit fasting unto death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "इदं महर्षिभिर्दृष्टं निर्याणमिति मे मतिः।।5.13.43।।\nसम्यगापः प्रवेक्ष्यामि न चेत्पश्यामि जानकीम्।",
+      "transliteration": "",
+      "translation": "\"I shall enter water and drown myself to death if I am not able to find Janaki. I think this way of ending life has been suggested by great ascetics.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "सुजातमूला सुभगा कीर्तिमाला यशस्विनी।।5.13.44।।\nप्रभग्ना चिररात्रीयं मम सीतामपश्यतः।",
+      "transliteration": "",
+      "translation": "My glory which had a good start (in the form of bringing Rama to Sugriva) and brought fortune to Sugriva and fame to me has been snapped as I could not find Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "तापसो वा भविष्यामि नियतो वृक्षमूलिकः।।5.13.45।।\nनेतः प्रतिगमिष्यामि तामदृष्ट्वासितेक्षणाम्।",
+      "transliteration": "",
+      "translation": "\"I will remain an ascetic and do penance under the tree practising selfcontrol and not go back without seeing the blackeyed Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "यदीतः प्रतिगच्छामि सीतामनधिगम्य ताम्।।5.13.46।।\nअङ्गदस्सह तैस्सर्वैर्वानरैर्न भविष्यति।",
+      "transliteration": "",
+      "translation": "\"Besides, if I go back without finding Sita all the vanaras including Angada will die.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "विनाशे बहवो दोषा जीवन् भद्राणि पश्यति।।5.13.47।।\nतस्मात्प्राणान् धरिष्यामि ध्रुवो जीवितसङ्गमः।",
+      "transliteration": "",
+      "translation": "\"If I commit suicide, I will earn numerous sins. By being alive, I can witness auspicious events. Therefore, I will live, for, happiness can come only to the living.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "एवं बहुविधं दुःखं मनसा धरायन्मुहुः।।5.13.48।।\nनाध्यगच्छत्तदा पारं शोकस्य कपिकुञ्चरः।",
+      "transliteration": "",
+      "translation": "The elephant among monkeys (Hanuman) worrying over and over again, holding his head for long could not reach the end of his grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "रावणं वा वधिष्यामि दशग्रीवं महाबलम्।।5.13.49।।\nकाममस्तु हृता सीता प्रत्याचीर्णं भविष्यति।",
+      "transliteration": "",
+      "translation": "\"I will kill Ravana, this mighty, tenheaded demon. Sita was indeed carried away by him. This (killing him) can be a fitting reply to his evil action. My desire would be fulfilled.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "अथवैनं समुत्क्षिप्य उपर्युपरि सागरम्।।5.13.50।।\nरामायोपहरिष्यामि पशुं पशुपतेरिव।",
+      "transliteration": "",
+      "translation": "\"Or else, I shall carry him across the sea and put him before Rama like a bull as if he is a sacrificial prey to lord Siva.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "इति चिन्तां समापन्नः सीतामनधिगम्य ताम्।।5.13.51।।\nध्यानशोकपरीतात्मा चिन्तयामास वानरः।",
+      "transliteration": "",
+      "translation": "Distressed over his inability to find Sita, Hanuman's mind was overcome with anxiety and he started thinking further.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "यावत्सीतां हि पश्यामि रामपत्नीं यशस्विनीम्।।5.13.52।।\nतावदेतां पुरीं लङ्कां विचिनोमि पुनः पुनः।",
+      "transliteration": "",
+      "translation": "\"Till I find the virtuous Sita, wife of Rama in this Lanka, I shall keep searching everywhere again and again.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "सम्पातिवचनाच्चापि रामं यद्यानयाम्यहम्।।5.13.53।।\nअपश्यन् राघवो भार्यां निर्धहेत्सर्ववानरान्।",
+      "transliteration": "",
+      "translation": "\"Had I brought Raghava following  the words of Sampati, Rama would have burnt all vanaras unable to find his wife.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "इहैव नियताहारो वत्स्यामि नियतेन्द्रियः।।5.13.54।।\nन मत्कृते विनश्येयुः सर्वे ते नरवानराः।",
+      "transliteration": "",
+      "translation": "\"I will stay here itself, restricting my food and controlling my senses. Let not men and monkeys perish for my fault.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-54",
+      "number": 54,
+      "type": "shloka",
+      "original": "अशोकवनिका चेयं दृश्यते या महाद्रुमा।।5.13.55।।\nइमामधिगमिष्यामि न हीयं विचिता मया।",
+      "transliteration": "",
+      "translation": "\"Here is the Ashoka grove with huge trees. I will go there. I have not looked for her in this place.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-55",
+      "number": 55,
+      "type": "shloka",
+      "original": "वसून्रुद्रांस्तथाऽदित्यानश्विनौ मरुतोऽपि च।।5.13.56।।\nनमस्कृत्वा गमिष्यामि रक्षसां शोकवर्धनः।",
+      "transliteration": "",
+      "translation": "\"I shall offer salutations to Vasus, Rudras Adityas and Aswinis and proceed to  increase (cause) the sorrow of the demons. (There are eight Vasus, eleven Rudras, twelve Adityas, two Ashwins and fortynine Windgods).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-56",
+      "number": 56,
+      "type": "shloka",
+      "original": "जित्वा तु राक्षसान् सर्वानिक्ष्वाकुकुलनन्दिनीम्।।5.13.57।।\nसम्प्रदास्यामि रामाय यथा सिद्धिं तपस्विने।",
+      "transliteration": "",
+      "translation": "\"I will conquer all the ogres and pass them to Sita, the delight of the Ikshvaku family  as an offering and give Rama to her as the fruit of her austerities.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-57",
+      "number": 57,
+      "type": "shloka",
+      "original": "सः मुहूर्तमिव ध्यात्वा चिन्तावग्रथितेन्द्रियः।।5.13.58।।\nउदतिष्ठन्महातेजा हनुमान् मारुतात्मजः।",
+      "transliteration": "",
+      "translation": "The brilliant son of the Windgod, Hanuman, whose senses were overwhelmed with worries, regained his senses in a short while and got up.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-58",
+      "number": 58,
+      "type": "shloka",
+      "original": "नमोऽस्तु रामाय सलक्ष्मणाय देव्यै च तस्यै जनकात्मजायै।\nनमोऽस्तु रुद्रेंद्रयमानिलेभ्यो नमोऽस्तु चन्द्रार्कमरुद्गणेभ्यः।।5.13.59।।",
+      "transliteration": "",
+      "translation": "\"My salutations to Lakshmana, Rama and divine daughter of Janaka. Salutations to Rudra, Indra, Yama and Vayu. Salutations to Sun, Moon and Maruts\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-59",
+      "number": 59,
+      "type": "shloka",
+      "original": "स तेभ्यस्तु नमस्कृत्य सुग्रीवाय च मारुतिः।\nदिशस्सर्वास्समालोक्य ह्यशोकवनिकां प्रति।।5.13.60।।",
+      "transliteration": "",
+      "translation": "Having offered salutations to all gods as well as to Sugriva, he looked at all quarters and left for the Ashoka grove.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-60",
+      "number": 60,
+      "type": "shloka",
+      "original": "स गत्वा मनसा पूर्वमशोकवनिकां शुभाम्।\nउत्तरं चिन्तयामास वानरो मारुतात्मजः।।5.13.61।।",
+      "transliteration": "",
+      "translation": "Hanuman started thinking again about his task after reaching the auspicious Ashoka grove.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-61",
+      "number": 61,
+      "type": "shloka",
+      "original": "ध्रुवं तु रक्षोबहुला भविष्यति वनाकुला।\nअशोकवनिका पुण्या सर्वसंस्कारसंस्कृता।।5.13.62।।",
+      "transliteration": "",
+      "translation": "'This Ashoka grove filled with many trees, guarded by many demons is carefully tended. It must be sacred.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-62",
+      "number": 62,
+      "type": "shloka",
+      "original": "रक्षिणश्चात्र विहिता नूनं रक्षन्ति पादपान्।\nभगवानपि सर्वात्मा नातिक्षोभं प्रवाति वै।।5.13.63।।\nसंक्षिप्तोऽयं मयाऽत्मा च रामार्थे रावणस्य च।",
+      "transliteration": "",
+      "translation": "\"The guards posted there are surely protecting the grove. The divinity  pervading all over me (the wind) must also have been controlled as it is also not blowing violently. I have turned my body small for Rama's cause and also to save myself from Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-63",
+      "number": 63,
+      "type": "shloka",
+      "original": "सिद्धिं मे संविधास्यन्ति देवाः सर्षिगणास्त्विह।।5.13.64।।\nब्रह्मा स्वयंभूर्भगवान् देवाश्चैव दिशन्तु मे।\nसिद्धिमग्निश्च वायुश्च पुरुहूतश्च वज्रभृत्।।5.13.65।।\nवरुणः पाशहस्तश्च सोमादित्यौ तथैव च।\nअश्विनौ च महात्मानौ मरुतः शर्व एव च।।5.13.66।।\nसिद्धिं सर्वाणि भूतानि भूतानां चैव यः प्रभुः।\nदास्यन्ति मम ये चान्ये ह्यदृष्टाः पथि गोचराः।।5.13.67।।",
+      "transliteration": "",
+      "translation": "May all sages, gods, the selfborn Brahma, Windgod, Indra, the wielder of thunderbolt whose name is invoked in sacrifices, Yama, who carries a rope, Varuna give success and Lord Siva help me. May the Sun, Moon, Aswinis  Marutas assist me. May the gods of the quarters and the lord of all beings help me to succeed. May those whom I could not see also bring success to me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-64",
+      "number": 64,
+      "type": "shloka",
+      "original": "तदुन्नसं पाण्डुरदन्तमव्रणं शुचिस्मितं पद्मपलाशलोचनम्।\nद्रक्ष्ये तदार्यावदनं कदान्वहं प्रसन्नताराधिपतुल्यदर्शनम्।।5.13.68।।",
+      "transliteration": "",
+      "translation": "'Oh when and how would I behold that beautiful noble lady of stainless character, with a Moonlike face, prominent nose, white teeth, pleasant smile and with eyes like lotus petals?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-13-65",
+      "number": 65,
+      "type": "shloka",
+      "original": "क्षुद्रेण पापेन नृशंसकर्मणा सुदारुणालङ्कृतवेषधारिणा।\nबलाभिभूता ह्यबला तपस्विनी कथं नु मे दृष्टिपथेऽद्य सा भवेत्।।5.13.69।।\n&nbsp;",
+      "transliteration": "",
+      "translation": "\"How will I set my eyes on that gentle, frail and suffering thing now, who has been abducted by that mean, cruel sinner of dreadful look?\" \nइत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे त्रयोदशस्सर्गः। \nThus ends the thirteenth sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

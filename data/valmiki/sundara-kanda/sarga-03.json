@@ -1,0 +1,387 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 3,
+    "title": "Hanuman's confrontation with Lankini, the spirit of Lanka.",
+    "titleSanskrit": "",
+    "totalShlokas": 41
+  },
+  "shlokas": [
+    {
+      "id": "vs-3-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "स लम्बशिखरे लम्बे लम्बतोयदसन्निभे।\nसत्त्वमास्थाय मेधावी हनुमान् मारुतात्मजः।।5.3.1।।\nनिशि लङ्कां महासत्त्वो विवेश कपिकुञ्जरः।\nरम्यकाननतोयाढ्यां पुरीं रावणपालिताम्।।5.3.2।।",
+      "transliteration": "",
+      "translation": "The mighty son of the Windgod, intelligent Hanuman, an elephant among vanaras, standing on the peak of the Lamba which looked like a high rainbearing cloud and relying on his energy, entered by night the city of Lanka, ruled by Ravana  rich in delightful forests, groves and water pools.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "शारदाम्बुधरप्रख्यैर्भवनैरुपशोभिताम्।\nसागरोपमनिर्घोषां सागरानिलसेविताम्।।5.3.3।।\nसुपुष्टबलसम्पुष्टां यथैव विटपावतीम्।\nचारुतोरणनिर्यूहां पाण्डुरद्वारतोरणाम्।।5.3.4।।\nभुजगाचरितां गुप्तां शुभां भोगवतीमिव।\nतां स विद्युद्घनाकीर्णां ज्योतिर्मार्गनिषेविताम्।।5.3.5।।\nमन्दमारुतसञ्चारां यथेन्द्रस्यामरावतीम्।\nशातकुम्भेन महता प्राकारेणाभिसंवृताम्।।5.3.6।।\nकिङ्किणीजालघोषाभिः पताकाभिरलङ्कृताम्।\nआसाद्य सहसा हृष्टः प्राकारमभिपेदिवान्।।5.3.7।।",
+      "transliteration": "",
+      "translation": "Hanuman, happy to reach Lanka, stood on its rampart and surveyed the city of land which was splendid with beautiful mansions overcast with autumnal clouds pierced by glittering streaks of lightning, served by planets and stars with mild winds blowing (out of fear of Ravana), with the roaring sounds of the sea and with a wellfed army like Vitapavati (that is Alaka, the capital of Kubera, halfbrother of Ravana and the treasurer of celestials),  which had elephants sationed at the outer gates, provided with white archways and protected by serpents like the auspicious city of Bhogavati (capital of Patala). Surrounded by a golden rampart, the city resembled Amaravati, the capital of Indra, decorated with flags fluttering, echoing with the jingling sounds of small bells.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "विस्मयाविष्टहृदयः पुरीमालोक्य सर्वतः।\nजाम्बूनदमयैर्द्वारैर्वैडूर्यकृतवेदिकैः।।5.3.8।।\nवज्रस्फटिकमुक्ताभिर्मणिकुट्टिमभूषितैः।\nतप्तहाटकनिर्यूहै राजतामलपाण्डुरैः।।5.3.9।।\nवैढूर्यकृतसोपानैः स्फाटिकान्तरपांसुभिः।\nचारुसंजवनोपेतैः खमिवोत्पतितैः शुभैः।।5.3.10।।\nक्रौञ्चबर्हिणसङ्घुष्टैः राजहंस निषेवितैः।\nतूर्याभरणनिर्घोषैः सर्वतः प्रतिनादिताम्।।5.3.11।।\nवस्वौकसाराप्रतिमां तां वीक्ष्य नगरीं ततः।\nखमिवोत्पतितुं कामां जहर्ष हनुमान् कपिः।।5.3.12।।",
+      "transliteration": "",
+      "translation": "Surveying all over, Hanuman was wonderstruck to see as though it was leaping into the sky. The city had golden shutters, altars encrusted with vaidurya, mansions inlaid with diamonds, crystals, pearls and other gems, crowned with pure gold and silver. The staircases built with silver were studded with vaidurya. The beautiful quadrangles, coverd with grains of crystal were as though leaping into the air. It echoed with sounds of krauncha birds, peacocks and royal swans. Filled with sounds of musical instruments, it resembled the city of Vaswokasara.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तां समीक्ष्य पुरीं रम्यां राक्षसाधिपतेः शुभाम्।\nअनुत्तमामृद्धियुतां चिन्तयामास वीर्यवान्।।5.3.13।।",
+      "transliteration": "",
+      "translation": "Gazing at the enchanting, auspicious, prosperous city of the king of demons mighty Hanuman began to reflect:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "नेयमन्येन नगरी शक्या धर्षयितुं बलात्।\nरक्षिता रावणबलैरुद्यतायुधधारिभिः।।5.3.14।।",
+      "transliteration": "",
+      "translation": "'It is not possible to attack this city by to outsiders as it is protected by the forces of Ravana with their weapons ready(to attack).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "कुमुदाङ्गदयोर्वापि सुषेणस्य महाकपेः।\nप्रसिद्धेयं भवेद्भूमिर्मैन्दद्विविदयोरपि।।5.3.15।।",
+      "transliteration": "",
+      "translation": "'This land can be reached by Kumuda and Angada or the great vanara Sushena and even by Mainda and Dvivida.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "विवस्वतस्तनूजस्य हरेश्च कुशपर्वणः।\nऋक्षस्य केतुमालस्य मम चैव गतिर्भवेत्।।5.3.16।।\n&nbsp;",
+      "transliteration": "",
+      "translation": "'Son of Vivaswan (Sugriva), the chief of vanaras, Kushaparva, Riksha (Jambavan), Ketumala and myself also will be able to reach this place.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "समीक्ष्य तु महाबाहू राघवस्य पराक्रमम्।\nलक्ष्मणस्य च विक्रान्तमभवत् प्रीतिमान् कपिः।।5.3.17।।",
+      "transliteration": "",
+      "translation": "Reflecting upon the valour of longarmed Rama and valiant advances of Lakshmana Hamuman felt pleased (within himself).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तां रत्नवसनोपेतां कोष्ठागारावतंसकाम्।\nयन्त्रागारस्तनीमृद्धां प्रमदामिव भूषिताम्।।5.3.18।।\nतां नष्टतिमिरां दीप्तैर्भास्वरैश्च महागृहैः।\nनगरीं राक्षसेन्द्रस्य स ददर्श महाकपिः।।5.3.19।।",
+      "transliteration": "",
+      "translation": "Hanuman looked at the city of the demon king, whose darkness was dispelled by bright gems and mighty mansions as if it were a young maiden. The prosperous city was like a well decorated woman, adorned with ornaments having walls for her dress,  the stables for her earrings, the armouries for her breasts.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "थ सा हरिशार्दूलं प्रविशन्तं महाबलम्।\nनगरी स्वेन रूपेण ददर्श पवनात्मजम्।।5.3.20।।",
+      "transliteration": "",
+      "translation": "Assuming her real form the presiding deity of Lanka noticed the son of the Windgod, the tiger among vanaras of great prowess entering the city.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "सा तं हरिवरं दृष्ट्वा लङ्का रावणपालिता।\nस्वयमेवोत्थिता तत्र विकृताननदर्शना।।5.3.21।।",
+      "transliteration": "",
+      "translation": "Seeing the best of vanaras, the deity of the city of Lanka, ruled by Ravana rose up before him in a distorted form.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "पुरस्तात्कपिवर्यस्य वायुसूनोरतिष्ठत।\nमुञ्चमाना महानादमब्रवीत्पवनात्मजम्।।5.3.22।।",
+      "transliteration": "",
+      "translation": "She stood in front of the son of the Windgod and spoke to him in a loud voice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "कस्त्वं केन च कार्येण इह प्राप्तो वनालय।\nकथयस्वेह यत्तत्त्वं यावत्प्राणा धरन्ति ते।।5.3.23।।",
+      "transliteration": "",
+      "translation": "\"O dweller of the forest, who are you? Why did you come here? Speak the truth about your identity, so long as you hold on to your life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "न शक्यं खल्वियं लङ्का प्रवेष्टुं वानर त्वया।\nरक्षिता रावणबलैरभिगुप्ता समन्ततः।।5.3.24।।",
+      "transliteration": "",
+      "translation": "\"O vanara this Lanka is a secret place protected by Ravana's army everywhere. It is surely not possible for you to enter this city\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "अथ तामब्रवीद्वीरो हनुमानग्रतः स्थिताम्।\nकथयिष्यामि ते तत्त्वं यन्मां त्वं परिपृच्छसि।।5.3.25।।",
+      "transliteration": "",
+      "translation": "Then Hanuman who was standing in front of her said, \"I will tell you the truth since you are asking me\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "का त्वं विरूपनयना पुरद्वारेऽवतिष्ठसि।\nकिमर्थं चापि मां रुद्ध्वा निर्भर्त्सयसि दारुणा।।5.3.26।।",
+      "transliteration": "",
+      "translation": "\"Who are you, terrible woman of ugly, distorted eyes? Why are you obstructing me at the gate of the city? Why do you impound upon me?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "हनुमद्वचनं श्रुत्वा लङ्का सा कामरूपिणी।\nउवाच वचनं क्रुद्धा परुषं पवनात्मजम्।।5.3.27।।",
+      "transliteration": "",
+      "translation": "The spirit of Lanka who could assume any form at her will got enraged on hearing the words of Hanuman and spake in a harsh tone.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अहं राक्षसराजस्य रावणस्य महात्मनः।\nआज्ञाप्रतीक्षा दुर्धर्षा रक्षामि नगरीमिमाम्।।5.3.28।।",
+      "transliteration": "",
+      "translation": "\"In obedience to the orders of the great demon king, Ravana, I am protecting this unassailable city.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "न शक्या मामवज्ञाय प्रवेष्टुं नगरी त्वया।\nअद्य प्राणैः परित्यक्तः स्वप्स्यसे निहतो मया।।5.3.29।।",
+      "transliteration": "",
+      "translation": "\"It is not possible for you to enter this city ignoring my presence. Soon you will be killed. You will give up your life and attain eternal sleep.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "अहं हि नगरी लङ्का स्वयमेव प्लवङ्गम।\nसर्वतः परिरक्षामि ह्येतत्ते कथितं मया।।5.3.30।।",
+      "transliteration": "",
+      "translation": "\"O monkey I am the presiding ogress of Lanka presenting myself personally. I  am to protect this city. This is my answer to you\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "लङ्काया वचनं श्रुत्वा हनुमान् मारुतात्मजः।\nयत्नवान्स हरिश्रेष्ठः स्थितश्शैल इवापरः।।5.3.31।।",
+      "transliteration": "",
+      "translation": "On hearing the words of ogress of Lanka, the son of the Windgod stood up ready and appeared like another mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "स तां स्त्रीरूपविकृतां दृष्टवा वानरपुङ्गवः।\nआबभाषेऽथ मेधावी सत्त्ववान् प्लवगर्षभः।।5.3.32।।",
+      "transliteration": "",
+      "translation": "Seeing the monster of a woman, the powerful Hanuman, bull among vanaras endowed with wisdom spoke to her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "द्रक्ष्यामि नगरीं लङ्कां साट्टप्राकारतोरणाम्।\nनिर्विशङ्कमिमंलोकं पश्यन्त्यास्तवसांप्रतम्।\nइत्यर्थमिह संप्राप्तः परं कौतूहलं हि मे।।5.3.33।।",
+      "transliteration": "",
+      "translation": "\"I would like to see this Lanka with marketplaces, gateways and ramparts. I have come here for that purpose. My curiosity has been roused to see this place.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "वनान्युपवनानीह लङ्कायाः काननानि च।\nसर्वतो गृहमुख्यानि द्रष्टुमागमनं हि मे।।5.3.34।।",
+      "transliteration": "",
+      "translation": "\"I have arrived here to see Lanka's gardens, groves and forests and also all the important houses\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तस्य तद्वचनं श्रुत्वा लङ्का सा कामरूपिणी।\nभूय एव पुनर्वाक्यं बभाषे परुषाक्षरम्।।5.3.35।।",
+      "transliteration": "",
+      "translation": "On hearing Hanuman, the ogress of Lanka, who could assume any form, replied in harsh words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "मामनिर्जित्य दुर्बुद्धे राक्षसेश्वरपालितां।\nन शक्यमद्य ते द्रष्टुं पुरीयं वानराधम।।5.3.36।।",
+      "transliteration": "",
+      "translation": "\"O evilminded, foolish monkey It is not possible for you to enter the city ruled by Ravana, the king of demons without conquering me\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "ततः स कपिशार्दूलस्तामुवाच निशाचरीम्।\nदृष्ट्वा पुरीमिमां भद्रे पुनर्यास्ये यथागतम्।।5.3.37।।",
+      "transliteration": "",
+      "translation": "The tiger among monkeys said to the, the nightwalker \"O noble Lanka I shall see this city and go back\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "ततः कृत्वा महानादं सा वै लङ्का भयावहम्।\nतलेन वानरश्रेष्ठं ताडयामास वेगिता।।5.3.38।।",
+      "transliteration": "",
+      "translation": "Then the ogress of Lanka made a loud and frightening sound and struck the most powerful vanara  with the palm of her hand.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "ततः स कपिशार्दूलो लङ्कया ताडितो भृशम्।\nननाद सुमहानादं वीर्यवान् पवनात्मजः।।5.3.39।।",
+      "transliteration": "",
+      "translation": "At this strong slap, the heroic Hanuman, son of the Windgod roared loudly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "ततः संवर्तयामास वामहस्तस्य सोऽङ्गुलीः।\nमुष्टिनाऽऽभिजघानैनां हनुमान् क्रोधमूर्छितः।।5.3.40।।\nस्त्री चेति मन्यमानेन नातिक्रोधः स्वयं कृतः।",
+      "transliteration": "",
+      "translation": "Overcome by anger, Hanuman clenched the fingers of his left hand and hit her with his fist. Considering her to be, after all, a woman he did not turn outrageous.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "सा तु तेन प्रहारेण विह्वलाङ्गी निशाचरी।।5.3.41।।\nपपात सहसा भूमौ विकृताननदर्शना।",
+      "transliteration": "",
+      "translation": "Struck by the blow of Hanuman the demoness fell down on the ground at once, her limbs shattered, her face distorted.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "ततस्तु हनुमान् प्राज्ञस्तां दृष्ट्वा विनिपातिताम्।।5.3.42।।\nकृपां चकार तेजस्वी मन्यमानः स्त्रियं तु ताम्।",
+      "transliteration": "",
+      "translation": "Wise and brilliant Hanuman, seeing the deity fallen down, left her (without killing her) out of compassion, thinking that she is a woman, after all.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "ततो वै भृशसंविग्ना लङ्का सा गद्गदाक्षरम्।।5.3.43।।\nउवाचागर्वितं वाक्यं हनूमन्तं प्लवङ्गमम्।",
+      "transliteration": "",
+      "translation": "Thereafter, the deflated demoness of Lanka with an agitated voice, said to Hanuman, the monkeyhero:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "प्रसीद सुमहाबाहो त्रायस्व हरिसत्तम ।।5.3.44।।\nसमये सौम्य तिष्ठन्ति सत्त्ववन्तो महाबलाः।",
+      "transliteration": "",
+      "translation": "\"O, strongshouldered great monkey be gracious. Save me. Heroes endowed with great strength stay back when the time comes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "अहं तु नगरी लङ्का स्वयमेव प्लवङ्गम।।5.3.45।।\nनिर्जिताहं त्वया वीर विक्रमेण महाबल।",
+      "transliteration": "",
+      "translation": "\"O monkey I am Lanka incarnate. You have conquered me by your strength and valour.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "इदं तु तथ्यं शृणु वै ब्रुवन्त्या मे हरीश्वर।।5.3.46।।\nस्वयंभुवा पुरा दत्तं वरदानं यथा मम।",
+      "transliteration": "",
+      "translation": "\"O lord of vanaras in the past Creator Brahma had given me a boon which has come true. I will tell you. listen.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "यदा त्वां वानरः कश्चिद्विक्रमाद्वशमानयेत्।।5.3.47।।\nतदा त्वया हि विज्ञेयं रक्षसां भयमागतम्।",
+      "transliteration": "",
+      "translation": "'When a vanara vanquishes you by his prowess, you may know that destruction of ogres will set in.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "स हि मे समयः सौम्य प्राप्तोऽद्य तव दर्शनात्।।5.3.48।।\nस्वयंभू विहितः सत्यो न तस्यास्ति व्यतिक्रमः।",
+      "transliteration": "",
+      "translation": "\"O gentle one the time ordained by Brahma has come today with your presence  here. The truth revealed by Brahma, the selfborn, cannot be proved otherwise.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "सीतानिमित्तं राज्ञस्तु रावणस्य दुरात्मनः।।5.3.49।।\nरक्षसां ��ैव सर्वेषां विनाशः समुपागतः।",
+      "transliteration": "",
+      "translation": "\"The ruin of all demons and evilminded king Ravana will take place due to (the abduction of) Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "तत्प्रविश्य हरिश्रेष्ठ पुरीं रावणपालिताम्।।5.3.50।।\nविधत्स्व सर्वकार्याणि यानि यानीह वाञ्छसि।",
+      "transliteration": "",
+      "translation": "\"O great vanara enter the city ruled by Ravana and accomplish your purpose.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-3-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "प्रविश्य शापोपहतां हरीश्वर शुभां पुरीं राक्षसमुख्यपालिताम्।\nयदृच्छया त्वं जनकात्मजां सतीं विमार्ग सर्वत्र गतो यथासुखम्।।5.3.51।।",
+      "transliteration": "",
+      "translation": "\"O lord of vanaras you may search for the chaste lady, daughter of king Janaka all over freely entering this doomed city, ruled by the chief of demons. इत्यार्षे श्रीमद्रामायाणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे तृतीयस्सर्गः।। Thus ends the third sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

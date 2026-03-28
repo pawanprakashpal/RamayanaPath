@@ -1,0 +1,324 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 56,
+    "title": "Hanuman takes leave of Sita -- sets out for the northern shore -- Description of Arishta mountain",
+    "titleSanskrit": "",
+    "totalShlokas": 34
+  },
+  "shlokas": [
+    {
+      "id": "vs-56-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततस्तु शिंशुपामूले जानकीं पर्युपस्थिताम्।\nअभिवाद्याब्रवीद्दिष्ट्या पश्यामि त्वामिहाक्षताम्।।5.56.1।।",
+      "transliteration": "",
+      "translation": "Then Hanuman offered salutations to Janaki, stationed at the foot of the simsupa tree, and said, \"Luckily I see you unscathed.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "ततस्तं प्रस्थितं सीता वीक्षमाणा पुनः पुनः।\nभ��्तृस्नेहान्वितं वाक्यं हनुमन्तमभाषत।।5.56.2।।",
+      "transliteration": "",
+      "translation": "Looking at Hanuman again and again, as he was ready to start on his return journey, thus spoke Sita expressing her love for her husband:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "काममस्य त्वमेवैकः कार्यस्य परिसाधने।\nपर्याप्तः परवीरघ्न यशस्यस्ते बलोदयः।।5.56.3।।",
+      "transliteration": "",
+      "translation": "\"O destroyer of foes, you are capable of rescuing me singlehanded. Your success will  raise your strength and bring glory.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "शरैस्तु सङ्कुलां कृत्वा लङ्कां परबलार्दनः।\nमां नयेद्यदि काकुत्स्थस्तत्तस्य सदृशं भवेत्।।5.56.4।।",
+      "transliteration": "",
+      "translation": "\"If Kakutstha Rama, the slayer of enemy forces comes to Lanka, fills it with his arrows and takes me back, it will be worthy of him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तद्यथा तस्य विक्रान्तमनुरूपं महात्मनः।\nभवत्याहवशूरस्य तथा त्वमुपपादय।।5.56.5।।",
+      "transliteration": "",
+      "translation": "\"You should act in such a manner that the exalted Rama, who is chivalrous in the battlefield, exhibits his valour worthy of his stature\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तदर्थोपहितं वाक्यं प्रश्रितं हेतुसंहितम्।\nनिशम्य हनुमांस्तस्या वाक्यमुत्तरमब्रवीत्।।5.56.6।।",
+      "transliteration": "",
+      "translation": "Hearing her meaningful reply which was welldisposed and reasonable, Hanuman  replied:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "क्षिप्रमेष्यति काकुत्स्थः हर्यृक्षप्रवरैर्वृतः।\nयस्ते युधि विजित्यारीन् शोकं व्यपनयिष्यति।।5.56.7।।",
+      "transliteration": "",
+      "translation": "\"Rama will come soon with the best of vanaras and bears. He would win the battle and remove your sorrrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "एवमाश्वास्य वैदेहीं हनुमान् मारुतात्मजः।\nगमनाय मतिं कृत्वा वैदेहीमभ्यवादयत्।।5.56.8।।",
+      "transliteration": "",
+      "translation": "Hanuman, son of the Windgod having consoled Vaidehi, saluted her respectfully and decided to depart.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "ततस्स कपिशार्दूलः स्वामिसन्दर्शनोत्सुकः।\nआरुरोह गिरिश्रेष्ठमरिष्टमरिमर्दनः।।5.56.9।।",
+      "transliteration": "",
+      "translation": "Then Hanuman, the crusher of enemies, a tiger among vanaras anxious to see his lord ascended the mount Arishta.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तुङ्गपद्मकजुष्टाभिर्नीलाभिर्वनराजिभिः।\nसोत्तरीयमिवाम्भोदैः शृंगान्तरविलम्बिभिः।।5.56.10।।",
+      "transliteration": "",
+      "translation": "Mount Arishta was full of blue forestranges with choicest tall padmaka trees. With clouds hanging on the slopes of mountain peaks, it appeared as though the mountain was wrapped in an upper garment.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "बोध्यमानमिव प्रीत्या दिवाकरकरैश्शुभैः।\nउन्मिषन्तमिवोद्धूतैर्लोचनैरिव धातुभिः।।5.56.11।।",
+      "transliteration": "",
+      "translation": "As if the mountain was awakened from sleep by the rays of the blessed Sun. With the colour of glowing minerals exuding, it was as if the mountain was looking out with his eyes open. (The minerals underneath the mud appear when wind blows removing the dust covering them. The glowing minerals are fancied to be eyes of the mountain.)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "तोयौघननिस्स्वनैर्मन्द्रैः प्राधीतमिव पर्वतम्।\nप्रगीतमिव विस्पष्टैर्नानाप्रस्रवणस्वनैः।।5.56.12।।",
+      "transliteration": "",
+      "translation": "With the loud sounds of masses of gurgling waters, the mountain appeared as though  it was standing and reciting (the Vedas) loudly. With murmuring sounds of different waterfalls, it appeared as though the mountain was singing. (The sage differentiates the steadily trickling watersound from the rhythmic musical sounds of waterfalls.)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "देवदारुभिरत्युच्चैरूर्ध्वबाहुमिव स्थितम्।\nप्रपातजलनिर्घोषैः प्राक्रुष्टमिव सर्वतः।।5.56.13।।",
+      "transliteration": "",
+      "translation": "With the tall devadaru trees on the mountain, it appeared as if the sages were standing with shoulders lifted up and performing penance. The sounds of waterfalls filled all over with reverberations.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "वेपमानमिव श्यामैः कम्पमानैश्शरद्वनैः।\nवेणुभिर्मारुतोद्धूतैः कूजन्तमिव कीचकैः।।5.56.14।।",
+      "transliteration": "",
+      "translation": "The mountain appeared as if trembling with the dark clouds of autumn. The shrill sounds pasing through the hollow bamboos filled with air appeared as if it was producing sweet musical notes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "निश्श्वसन्तमिवामर्षाद्घोरैराशीविषोत्तमैः।\nनीहारकृतगम्भीरैर्ध्यायन्तमिव गह्वरैः।।5.56.15।।",
+      "transliteration": "",
+      "translation": "The mountain was as though hissing like a dreadful, poisonous snake. With the caves standing majestically covered with mist, the mountain appeared as if it was meditating.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "मेघपादनिभैः पादैः प्रक्रान्तमिव सर्वतः।\nजृंम्भमाणमिवाऽकाशे शिखरैरभ्रमालिभिः।।5.56.16।।",
+      "transliteration": "",
+      "translation": "With the ranges of foothills appearing like the feet of clouds traversing, with its peaks like garlands of clouds traversing over the mountain, it made one feel it was yawning.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "कूटैश्च बहुधा कीर्णैश्शोभितं बहुकन्दरैः।\nसालतालाश्वकर्णैश्च वंशैश्च बहुभिर्वृतम्।।5.56.17।।",
+      "transliteration": "",
+      "translation": "With many kinds of caves and peaks scattered all over, the mountain looked delightful. It was canopied with numerous trees like Sal, palms, Aswakarnas and bamboos.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "लतावितानैर्विततैः पुष्पवद्भिरलङ्कृतम्।\nनानामृगगणाकीर्णं धातुनिष्यन्दभूषितम्।।5.56.18।।",
+      "transliteration": "",
+      "translation": "It was spread with creepers filled with beautiful flowers and herds of animals. The colourful minerals flowing down decorated the mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "बहुप्रस्रवणोपेतं शिलासञ्चयसङ्कटम्।\nमहर्षियक्षगन्धर्वकिन्नरोरगसेवितम्।।5.56.19।।",
+      "transliteration": "",
+      "translation": "There were many streams of water flowing and rocks making it difficult for the streams to flow. The mountain was inhabited by sages, yakshas, gandharvas, kinnaras and nagas, and uragas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "लतापादपसङ्घातं सिंहाध्युषितकन्दरम्।\nव्याघ्रसङ्घसमाकीर्णं स्वादुमूलफलद्रुमम्।।5.56.20।।",
+      "transliteration": "",
+      "translation": "The clusters of creepers, and trees bearing tasty fruits and roots were uprooted. There were caves inhabited by lions. Herds of tigers were scattered all over (by the impetus of Hanuman's pressure on the mountain).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तमारुरोह हनुमान् पर्वतं पवनात्मजः।\nरामदर्शनशीघ्रेण प्रहर्षेणाभिचोदितः।।5.56.21।।",
+      "transliteration": "",
+      "translation": "Anxious to see Rama soon, the son of the Windgod ascended the mountain happily.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तेन पादतलाक्रान्ता रम्येषु गिरिसानुषु।\nसघोषास्समशीर्यन्त शिलाश्चूर्णीकृतास्ततः।।5.56.22।।",
+      "transliteration": "",
+      "translation": "Crushed under Hanuman's feet the rocks making a loud noise on the beautiful mountain ranges rolled down, reduced to powder.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "स तमारुह्य शैलेन्द्रं व्यवर्धत महाकपिः।\nदक्षिणादुत्तरं पारं प्रार्थयन् लवणाम्भसः।।5.56.23।।",
+      "transliteration": "",
+      "translation": "On ascending the king of mountains, desiring to reach the northern shore of the saltwater ocean from the Southern shore, he enlarged his body (in preparation to leap).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "अधिरुह्य ततो वीरः पर्वतं पवनात्मजः।\nददर्श सागरं भीमं मीनोरगनिषेवितम्।।5.56.24।।",
+      "transliteration": "",
+      "translation": "Then the heroic son of the Windgod, who had ascended the mountain saw the dreadful ocean inhabited by fishes and snakes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "स मारुत इवाऽकाशं मारुतस्यात्मसम्भवः।\nप्रपेदे हरिशार्दूलो दक्षिणादुत्तरां दिशम्।।5.56.25।।",
+      "transliteration": "",
+      "translation": "Hanuman, the tiger among monkeys leaped into the sky like the Windgod from the south to the north shore.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "स तदा पीडितस्तेन कपिना पर्वतोत्तमः।\nररास सह तैर्भूतैः प्रविशन्वसुधातलम्।।5.56.26।।\nकम्पमानैश्च शिखरैः पतद्भिरपि च द्रुमैः।",
+      "transliteration": "",
+      "translation": "Pressed under the feet of Hanuman, the great mountain made loud sound sinking into the earth along with all its creatures, with its shaken mountain peaks and uprooted trees dropping down.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "तस्योरुवेगोन्मथिताः पादपाः पुष्पशालिनः।।5.56.27।।\nनिपेतुर्भूतले रुग्णाश्शक्रायुधहता इव।",
+      "transliteration": "",
+      "translation": "Shaken by the violent force of Hanuman's thighs, the blossoming trees fell on the  ground like sickmen hit by Indra's thunderbolt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "कन्दरान्तरसंस्थानां पीडितानां महौजसाम्।।5.56.28।।\nसिंहानां निनदो भीमो नभो भिन्दन् स शुश्रुवे।",
+      "transliteration": "",
+      "translation": "The dreadful roar of strong lions, lying in mountaincaves was heard cracking the sky when they were crushed in the turmoil.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "त्रस्तव्यावृत्तवसना व्याकुलीकृतभूषणाः।।5.56.29।।\nविद्याधर्यः समुत्पेतुस्सहसा धरणीधरात्।",
+      "transliteration": "",
+      "translation": "The Vidyadharis with their clothes slipped and ornaments disarrayed in fear, at once flew from the mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "अतिप्रमाणा बलिनो दीप्तजिह्वा महाविषाः।।5.56.30।।\nनिपीडितशिरोग्रीवा व्यचेष्टन्त महाहयः।",
+      "transliteration": "",
+      "translation": "Highly powerful, huge and poisonous snakes with their glowing tongues protruded, pressed on their heads and necks (by Hanuman).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "किन्नरोरगन्धर्वयक्षविद्याधरास्तदा।।5.56.31।।\nपीडितं तं नगवरं त्यक्त्वा गगनमास्थिता:।",
+      "transliteration": "",
+      "translation": "Then the kinnaras, uragas, gandhravas, yakshas and vidyadharas left the tortured mountain and occupied the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "स च भूमिधरः श्रीमान्बलिना तेन पीडितः।।5.56.32।।\nसवृक्षशिखरोदग्रः प्रविवेश रसातलम्।",
+      "transliteration": "",
+      "translation": "Crushed by the powerful Hanuman, that prosperous mountain with its trees standing and tall peaks sank into the underworld.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "दशयोजनविस्तारस्त्रिंशद्योजनमुच्छ्रितः।।5.56.33।।\nधरण्यां समतां यातः स बभूव धराधरः।",
+      "transliteration": "",
+      "translation": "That mountain of ten yojanas in width and thirty yojanas in height got levelled with the earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-56-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "स लिलङ्घयिषुर्भीमं सलीलं लवणार्णवम्।।5.56.34।।\nकल्लोलास्फालवेलान्तमुत्पपात नभो हरिः।",
+      "transliteration": "",
+      "translation": "Eager to leap the terrific ocean lashed by huge waves hitting the shore Hanuman rose up effortlessly and jumped into the sky. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे षट्पञ्चाशस्सर्गः।। Thus ends the  fiftysixth sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

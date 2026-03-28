@@ -1,0 +1,189 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 28,
+    "title": "Sita's wailings -- finaly finds some auspicious signs.",
+    "titleSanskrit": "",
+    "totalShlokas": 19
+  },
+  "shlokas": [
+    {
+      "id": "vs-28-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "सा राक्षसेन्द्रस्य वचो निशम्य \nतद्रावणस्याप्रियमप्रियार्ता।\nसीता वितत्रास यथा वनान्ते \nसिंहाभिपन्ना गजराजकन्या।।5.28.1।।",
+      "transliteration": "",
+      "translation": "After hearing the unpleasant words spoken by the king of demons, which caused restlessness and sorrow to Sita, she was terrified like the young calf of a lordly elephant fallen into the clutches of a lion in the midst of the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-28-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "सा राक्षसीमध्यगता च भीरु\nर्वाग्भिर्भृशं रावणतर्जिता च।\nकान्तारमध्ये विजने विसृष्टा\nबालेव कन्या विललाप सीता।।5.28.2।।\n&nbsp;",
+      "transliteration": "",
+      "translation": "Encircled by the demonesses, Sita was repeatedly humiliated by Ravana's cruel words.She wept like a young girl deserted in a desolate forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-28-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "सत्यं बतेदं प्रवदन्ति लोके \nनाकालमृत्युर्भवतीति सन्तः।\nयत्राहमेवं परिभर्त्स्यमाना\nजीवामि दीना क्षणमप्यपुण्या।।5.28.3।।",
+      "transliteration": "",
+      "translation": "\"Even though I am threatened like this, I am living pitiably because of lack of merit. Indeed I regret my survival due to my bad luck. Elders say that death will not ocurr before its time. It seems to be true.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-28-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "सुखाद्विहीनं बहुदुःखपूर्ण\nमिदं तु नूनं हृदयं स्थिरं मे।\nविशीर्यते यन्न सहस्रधाऽद्य \nवज्राहतं शृङ्गमिवाचलस्य।।5.28.4।।",
+      "transliteration": "",
+      "translation": "\"Even though I am devoid of joy, and living in deep agony, my heart bursts not into a thousand pieces like the summit of a mountain hit by thunderbolt (lightning).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-28-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "नैवास्ति दोषो मम नूनमत्र वध्याहमस्याप्रियदर्शनस्य।\nभावं न चास्याहमनुप्रदातु मलं द्विजो मन्त्रमिवाद्विजाय।।5.28.5।।",
+      "transliteration": "",
+      "translation": "\"I will not be blamed if I commit suicide now.I stand condemned to death in the hands of this ugly Ravana. I cannot bestow my affection on him or surender to his desire like a brahmin would not like to impart Vedic knowledge to a nonbrahmin. (Better die of my own accord than be killed by a sinful ogre).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-28-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "नूनं ममाङ्गान्यचिरादनार्यः \nशस्त्रैश्शितैश्छेत्स्यति राक्षसेन्द्रः।\nतस्मिननागच्छति लोकनाथे \nगर्भस्थजन्तोरिव शल्यकृन्तः।।5.28.6।।",
+      "transliteration": "",
+      "translation": "\"If the lord of the world does not come here before that (time fixed by Ravana) the vile lord of demons will cut me into pieces with weapons just as a barber would cut to pieces the foetus with a sharp knife (in order to save a pregnant woman).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-28-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "दुःखं बतेदं मम दुःखिताया\nमासौ चिरायाधिगमिष्यतो द्वौ।\nबद्धस्य वध्यस्य तथा निशान्ते\nराजापराधादिव तस्करस्य।।5.28.7।।\n&nbsp;",
+      "transliteration": "",
+      "translation": "\"Alas, two months is too long a time to wait in grief. I am like a thief captured for offending a king and waiting overnight for execution at day-break.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-28-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "हा राम हा लक्ष्मण हा सुमित्रे\nहा राममातः सह मे जनन्या।\nएषा विपद्याम्यहमल्पभाग्या\nमहार्णवे नौरिव मूढवाता।।5.28.8।।\n&nbsp;",
+      "transliteration": "",
+      "translation": "\"Alas! Rama, Alas! Lakshmana, Alas! Sumitra, Alas! my mother, Alas! Rama's mother, I am an ill-starred woman going to perish in this way like a light boat capsized in the midst of an ocean when the whirl-wind blows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-28-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तरस्विनौ धारयता मृगस्य\nसत्त्वेन रूपं मनुजेन्द्रपुत्रौ।\nनूनं विशस्तौ मम कारणात्तौ \nसिंहर्षभौ द्वाविव वैद्युतेन।।5.28.9।।",
+      "transliteration": "",
+      "translation": "\"Just like two mighty lions are killed by a bolt of lightning, the two princes must have been killed by a creature in the guise of a deer on my account.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-28-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "नूनं स कालो मृगरूपधारी\nमामल्पभाग्यां लुलुभे तदानीम्।\nयत्रार्यपुत्रं विससर्ज मूढा \nरामानुजं लक्ष्मणपूर्वजं च।।5.28.10।।",
+      "transliteration": "",
+      "translation": "\"Verily, it is the spirit of the time that assumed the form of deer and tempted this unfortunate soul. It was foolish of me to send away, the sons of a noble king, Lakshmana and his elder brother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-28-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "हा राम सत्यव्रत दीर्घबाहो\nहा पूर्णचन्द्रप्रतिमानवक्त्र।\nहा जीवलोकस्य हितः प्रियश्च\nवध्यां न मां वेत्सि हि राक्षसानाम्।।5.28.11।।\n&nbsp;",
+      "transliteration": "",
+      "translation": "\"Alas, O long-armed one unfailing in vows, whose face shines like the full moon. Alas, beloved of all the worlds! you are dear to every one. How is it that you are not aware that I am going to be killed by the demons?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-28-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अनन्य दैवत्वमियं क्षमा च\nभूमौ च शय्या नियमश्च धर्मे।\nपतिव्रतात्वं विफलं ममेदं\nकृतं कृतघ्नेष्विव मानुषाणाम्।।5.28.12।।",
+      "transliteration": "",
+      "translation": "\"I am devoted to you and to no other god. My hardship in sleeping on the ground, my righteousness, my discipline and chastity have all proved futile like the devotion of an ungrateful person.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-28-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "मोघो हि धर्मश्चरितो मयायं\nतथैकपत्नीत्वामिदं निरर्थम्।\nया त्वां न पश्यामि कृशा विवर्णा \nहीना त्वया सङ्गमने निराशा।।5.28.13।।",
+      "transliteration": "",
+      "translation": "\"This righteousnes practised by me is in vain like my devotion to you, as I am unable to see you. I am a separated, emaciated, pale with no hope of reuniting with you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-28-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "पितुर्निदेशं नियमेन कृत्वा  वनान्निवृत्तश्चरितव्रतश्च।\nस्त्रीभिस्तु मन्ये विपुलेक्षणाभिस्त्वं रंस्यसे वीतभयः कृतार्थः।।5.28.14।।",
+      "transliteration": "",
+      "translation": "\"Having truly fulfilled your pledge given to your father, you will return from the forest to Ayodhya, rid of all fear, as an accomplished person, will and revel in the company of largeeyed damsels, I think.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-28-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "अहं तु राम त्वयि जातकामा \nचिरं विनाशाय निबद्धभावा।\nमोघं चरित्वाथ तपो व्रतञ्च त्यक्ष्यामि\nधिग्जीवितमल्पभाग्याम्।।5.28.15।।",
+      "transliteration": "",
+      "translation": "\"O RamaI loved you and concentrated all my love on you for a long time only for my doom. I have observed vows and austerities in vain. I cannot continue it for long. Here I am giving up my life. Fie upon this luckless one (me).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-28-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "सा जीवितं क्षिप्रमहं त्यजेयं \nविषेण शस्त्रेण शितेन वापि।\nविषस्य दाता न हि मेऽस्ति कश्चि \nच्छस्त्रस्य व��� वेश्मनि राक्षसस्य।।5.28.16।।",
+      "transliteration": "",
+      "translation": "\"I will end my life at once by taking poison or else by a sharp weapon. Alas There is none to give get me poison or a weapon at this demon's residence\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-28-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "इतीव देवी बहुधा विलप्य \nसर्वात्मना राममनुस्मरन्ती।\nप्रवेपमाना परिशुष्कवक्त्रा \nनगोत्तमं पुष्पितमाससाद।।5.28.17।।",
+      "transliteration": "",
+      "translation": "Queen Sita was wailing in many ways, constantly remembering Rama, the soul of all. Shivering, her face pales as she approached the great Simsupa tree in bloom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-28-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "सा शोकतप्ता बहुधा विचिन्त्य\nसीताऽथ वेण्युद्ग्रथनं गृहीत्वा।\nउद्बुध्य वेण्युद्ग्रथनेन शीघ्रमहं\nगमिष्यामि यमस्य मूलम्।।5.28.18।।",
+      "transliteration": "",
+      "translation": "\"Burning in grief, worrying in many ways, Sita took hold of her braid and said\", by tying myself with this braid I shall quickly reach the presence of the lord of death\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-28-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "उपस्थिता सा मृदुसर्वगात्री \nशाखां गृहत्वाऽध नगस्य तस्य।\nतस्यास्तु रामं प्रविचिन्तयन्त्या \nरामानुजं स्वं च कुलं शुभाङ्ग्या:।।5.28.19।।\nशेकानिमित्तानि तथा बहूनि\nधैर्यार्जितानि प्रवराणि लोके।\nप्रादुर्निमित्तानि तदा बभूवुः  \nपुरापि सिद्धान्युपलक्षितानि।।5.28.20।।",
+      "transliteration": "",
+      "translation": "Sita of delicate limbs approached the Simsupa tree and held on to a branch and stood. While she was thinking of Rama and Lakshmana and their noble family many  omens of proven results appeared on her auspicious charming body. These omens were dispellers of grief, and harbingers of courage in the world as declared from  ancient times. (Now) they manifested themselves. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे अष्टाविंशस्सर्गः।। Thus ends the twentyeigth sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

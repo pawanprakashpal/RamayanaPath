@@ -1,0 +1,72 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 60,
+    "title": "Jambavan says it is advisable to follow Rama's instruction.",
+    "titleSanskrit": "",
+    "totalShlokas": 6
+  },
+  "shlokas": [
+    {
+      "id": "vs-60-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तस्य तद्वचनं श्रुत्वा वालिसूनुरभाषत।\nअयुक्तं तु विना देवीं दृष्टवद्भिश्च वानराः।।5.60.1।।\nसमीपं गन्तुमस्माभी राघवस्य महात्मनः।",
+      "transliteration": "",
+      "translation": "After hearing Hanuman,  Vali's son said\" O vanaras (Hanuman) having seen Sita it is not proper on our part to go without Sita to the great soul Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-60-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "दृष्टा देवी न चानीता इति तत्र निवेदनम्।।5.60.2।।\nअयुक्तमिव पश्यामि भवद्भिः ख्यातविक्रमैः।",
+      "transliteration": "",
+      "translation": "\"O vanaras, you are known for your valour. I think, to tell Rama that we have seen Sita but not brought her is not proper\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-60-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "न हि नः प्लवने कश्चिन्नापि कश्चित्पराक्रमे।।5.60.3।।\nतुल्य स्सामरदैत्येषु लोकेषु हरिसत्तमाः।",
+      "transliteration": "",
+      "translation": "\"O noble vanaras Indeed either among gods or among demons there is none who can match the vanaras in leaping and exhibiting valour.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-60-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तेष्वेवं हतवीरेषु राक्षसेषु हनूमता।।5.60.4।।\nकिमन्यदत्र कर्तव्यं गृहीत्वा याम जानकीम्।",
+      "transliteration": "",
+      "translation": "\"Hence, having killed the heroes among ogres what other task has Hanuman to do? Let us get Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-60-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तमेवं कृतसङ्कल्पं जाम्बवान् हरिसत्तमः।।5.60.5।।\nउवाच परमप्रीतो वाक्यमर्थवदर्थवित्।",
+      "transliteration": "",
+      "translation": "\"Jambavan, the noble vanara, skilled in the execution of tasks thus commanded in a determined manner:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-60-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "न तावदेषा मतिरक्षमा नो यथा भवान् पश्यति राजपुत्र।\nयथा तु रामस्य मतिर्निविष्टा तथा भवान् पश्यतु कार्यसिद्धिम्।।5.60.6।।",
+      "transliteration": "",
+      "translation": "\"O prince what you think is  acceptable to us also. Even though we are capable of achieving, knowing what is in Rama's mind, we should act only according to his command to accomplish the task. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे षष्टितमस्सर्गः।। Thus ends the sixtieth sarga of Sundarakanda of the holy Ramyana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

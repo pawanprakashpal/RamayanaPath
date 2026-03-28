@@ -1,0 +1,162 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 50,
+    "title": "On the command of Ravana Prahasta enquires Hanuman the purpose of his visit -- Hanuman reveals that he is a vanara and a messenger of Rama.",
+    "titleSanskrit": "",
+    "totalShlokas": 16
+  },
+  "shlokas": [
+    {
+      "id": "vs-50-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तमुद्वीक्ष्य महाबाहुः पिङ्गाक्षं पुरत स्थितम्।\nकोपेन महताऽविष्टो रावणो लोकरावणः।।5.50.1।।\nशङ्काहृतात्मा दध्यौ स कपीन्द्रं तेजसावृतम्।",
+      "transliteration": "",
+      "translation": "The mighty armed Ravana, a tormentor of all worlds, overcome with anger beheld the tawnyeyed brilliant lord of monkeys who stood before him and started thinking in his mind full of apprehensions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-50-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "किमेष भगवान्नन्दी भवेत्साक्षादिहागतः।।5.50.2।।\nयेन शप्तोऽस्मि कैलासे मया सञ्चालिते पुरा।\nसोऽयं वानरमूर्तिस्स्यात्किंस्विद्बाणो महाऽसुरः।।5.50.3।।",
+      "transliteration": "",
+      "translation": "'Is he Lord Nandi who came here in person? I was earlier cursed by him when I shook the mount Kailasa in the past. Could he have assumed a monkeyform or may be he is the great demon Bana. (Nandi is the bull, the vehicle of Lord Siva).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-50-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "स राजा रोषताम्राक्षः प्रहस्तं मन्त्रिसत्तमम्।\nकालयुक्तमुवाचेदं वचोऽविपुलमर्थवत्।।5.50.4।।",
+      "transliteration": "",
+      "translation": "The infuriated demon king told the great minister Prahasta, these  profound words in a brief manner appropriate to the hour.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-50-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "दुरात्मा पृच्छ्यतामेष कुतः किं वात्र कारणम्।\nवनभङ्गे च कोऽस्यार्थो राक्षसीनां च तर्जने।।5.50.5।।",
+      "transliteration": "",
+      "translation": "\"Enquire from this wicked one, why he has come and from where, Why he destroyed the garden and for what purpose he threatened the demonesses?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-50-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "मत्पुरीमप्रधृष्यां वाऽगमने किं प्रयोजनम्।\nआयोधने वा किं कार्यं पृच्छयतामेष दुर्मतिः।।5.50.6।।",
+      "transliteration": "",
+      "translation": "\"Enquire why this wicked one entered this inviolable city and for what purpose did he wage a war\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-50-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "रावणस्य वचश्श्रुत्वा प्रहस्तो वाक्यमब्रवीत्।\nसमाश्वसिहि भद्रं ते न भीः कार्या त्वया कपे।।5.50.7।।",
+      "transliteration": "",
+      "translation": "On hearing Ravana, Prahasta spoke these words boosting the monkey's morale 'O monkey Be relaxed. Feel safe. You need not entertain any fear.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-50-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "यदि तावत्त्वमिन्द्रेण प्रेषितो रावणालयम्।\nतत्त्वमाख्याहि मा भूत्ते भयं वानर मोक्ष्यसे।।5.50.8।।",
+      "transliteration": "",
+      "translation": "\"Have you came to the abode of Ravana sent by Indra? Speak the truth. Be not afraid.You will be released\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-50-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "यदि वैश्रवणस्य त्वं यमस्य वरुणस्य च।\nचाररूपमिदं कृत्वा प्रविष्टो नः पुरीमिमाम्।।5.50.9।।\nविष्णुना प्रेषितो वाऽपि दूतो विजयकाङ्क्षिणा।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-50-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "न हि ते वानरं तेजो रूपमात्रं तु वानरम्।।5.50.10।।\nतत्त्वत: कथयस्वाद्य ततो वानर मोक्ष्यसे।",
+      "transliteration": "",
+      "translation": "\"Your appearance is only of that of a vanara. But your glow is not of a vanara indeed. Tell the truth today. You will be set free.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-50-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अनृतं वदतश्चापि दुर्लभं तव जीवितम्।।5.50.11।।\nअथवा यन्निमित्तस्ते प्रवेशो रावणालये।",
+      "transliteration": "",
+      "translation": "\"If you tell a lie, it will be difficult for you to live. Or else, tell me for what reason have you entered the abode of Ravana.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-50-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "एवमुक्तो हरिश्रेष्ठस्तदा रक्षोगणेश्वरम्।।5.50.12।।\nअब्रवीन्नास्मि शक्रस्य यमस्य वरुणस्य वा।\nधनदेन न मे सख्यं विष्णुना नास्मि चोदितः।।5.50.13।।\nजातिरेव मम त्वेषा वानरोऽहमिहागतः।",
+      "transliteration": "",
+      "translation": "The foremost of the vanaras spoke to the lord of ogres in response to the equiries made to him: \"I have not come from Indra or Yama or Varuna. I have no friendship with Kubera. I have not been sent by Visnu. By birth I am vanara and I have come here.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-50-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "दर्शने राक्षसेन्द्रस्य दुर्लभे तदिदं मया।।5.50.14।।\nवनं राक्षसराजस्य दर्शनार्थे विनाशितम्।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-50-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "ततस्ते राक्षसाः प्राप्ता बलिनो युद्धकाङ्क्षिणः।\nरक्षणार्थं तु देहस्य प्रतियुद्धा मया रणे।।5.50.15।।",
+      "transliteration": "",
+      "translation": "\"Desiring to fight with me the powerful ogres came. Then I fought in self defence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-50-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "अस्त्रपाशैर्न शक्योऽहं बद्धुं देवासुरैरपि।।5.50.16।।\nपितामहादेष वरो मामाप्येषोऽभ्युपागतः।",
+      "transliteration": "",
+      "translation": "\"It is not possible to bind me with any bondage of astras even by devas or danavas. Such a boon has been granted to me by Grandfather Brahma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-50-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "राजानं द्रष्टुकामेन म���ास्त्रमनुवर्तितम्।।5.50.17।।\nविमुक्तो ह्यहमस्त्रेण राक्षसैस्त्वभिपीडितः।\nकेनचिद्राजकार्येण सम्प्राप्तोऽस्मि तवान्तिकम्।।5.50.18।।",
+      "transliteration": "",
+      "translation": "\"Wishing to see the king I honoured this astra and not otherwise. Even though I was tormented by the ogres and released by the astra I submitted to you as I have a small work assigned by the king.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-50-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "दूतोऽहमिति विज्ञेयो राघवस्यामितौजसः।\nश्रूयतां चापि वचनं मम पथ्यमिदं प्रभो।।5.50.19।।",
+      "transliteration": "",
+      "translation": "Know that I am a messenger of the highly powerful Rama. O lord please listen to these beneficial words of mine meant for your welfare. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे पञ्चाशस्सर्गः।। Thus ends the fiftieth sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 2,
+    "title": "Hanuman reaches the main entrance of Lanka  assuming a diminutive form.",
+    "titleSanskrit": "",
+    "totalShlokas": 45
+  },
+  "shlokas": [
+    {
+      "id": "vs-2-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "स सागरमनादृष्यमतिक्रम्य महाबलः।       \nत्रिकूटशिखरे लङ्कां स्थितां स्वस्थो ददर्श ह।।5.2.1।।",
+      "transliteration": "",
+      "translation": "The mighty Hanuman crossed the inviolable sea, stood comfortably on the peak of Trikuta mountain and looked at Lanka.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "ततः&nbsp;पादपमुक्तेन पुष्पव���्षेण वीर्यवान्।\nअभिवृष्टः स्थितस्तत्र बभौ पुष्पमयो यथा।।5.2.2���।\n&nbsp;",
+      "transliteration": "",
+      "translation": "Covered fully with the continuous shower of flowers dropped on him from the trees, heroic Hanuman appeared as though he was a heap of flowers as he stood there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "योजनानां शतं श्रीमांस्तीर्त्वाप्युत्तमविक्रमः।\nअनिःश्वसन् कपिस्तत्र न ग्लानिमधिगच्छति।।5.2.3।।",
+      "transliteration": "",
+      "translation": "The glorious, powerful vanara (Hanuman) even after crossing a hundred yojanas, felt neither suffocated nor exasperated.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "शतान्यहं योजनानां क्रमेयं सुबहून्यपि।\nकिं पुनः सागरस्यान्तं संख्यातं शतयोजनम्।।5.2.4।।",
+      "transliteration": "",
+      "translation": "(He said to himself), \"I can cross a distance of even hundreds of yojanas. What to say of a hundred yojanas which is a calculated distance.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "स तु वीर्यवतां श्रेष्ठः प्लवतामपि चोत्तमः।\nजगाम वेगवान् लङ्कां लङ्घयित्वा महोदधिम्।।5.2.5।।",
+      "transliteration": "",
+      "translation": "Courageous and exalted Hanuman, the best among vanaras, noted for his speed reached Lanka crossing over the great ocean on his own.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "शाद्वलानि च नीलानि गन्धवन्ति वनानि च।\nगण्डवन्ति च मध्येन जगाम नगवन्ति च।।5.2.6।।",
+      "transliteration": "",
+      "translation": "Hanuman passed through forests laden with fragrant flowers, bluish grassy land, big rocks and mountains covered with trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "शैलांश्च तरुसंछन्नान् वनाराजीश्च पुष्पिताः।\nअभिचक्राम तेजस्वी हनुमान् प्लवगर्षभः।।5.2.7।।",
+      "transliteration": "",
+      "translation": "Brilliant Hanuman, a bull among monkeys, crossed the mountains covered with blossoming trees and forest ranges.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "स तस्मिन्नचले तिष्ठन्वनान्युपवनानि च।\nस नगाग्रे च तां लङ्कां ददर्श पवनात्मजः।।5.2.8।।",
+      "transliteration": "",
+      "translation": "That son of the Windgod stood on the mountain and saw the forests and groves round Lanka situated on the mountain peak.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "सरलान् कर्णिकारांश्च खर्जूरांश्च सुपुष्पितान्।\nप्रियालून्मुचुलिन्दांश्च कुटजान् केतकानपि।।5.2.9।।\nप्रियंङ्गून् गन्धपूर्णांश्च नीपान् सप्तच्छदांस्तथा।\nआसनान् कोविदारांश्च करवीरांश्च पुष्पितान्।।5.2.10।।\nपुष्पभारनिबद्धा���श्च तथा मुकुलितानपि।\nपादपान् विहगाकीर्णान् पवनाधूतमस्तकान्।।5.2.11।।\nहंसकारण्डवाकीर्णा वापीः पद्मोत्मलायुताः।\nआक्रीडान् विविधान् रम्यावन् विविधांश्च जलाशयान्।।5.2.12।।\nसन्ततान् विविधैर्वृक्षैः सर्वर्तुफलपुष्पितैः।\nउद्यानानि च रम्याणि ददर्श कपिकुञ्जरः।।5.2.13।।",
+      "transliteration": "",
+      "translation": "The mighty vanara saw around Lanka, trees like sarala, karnikara in full bloom, datepalms, priyala, muchulinda, kutaja, kethaka trees filled with fragrance priyangu, kadamba, so also flowering plants like saptachhada, asana, kovidara and karaveera fully loaded with flowers and buds. These trees were thronged by birds, with their branches shaken by the wind. Flocks of swans and waterfowls were found in ponds of different types. There were various pleasure groves with flowers in bloom and fruits of all seasons and varieties of water resorts and delightful gardens.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "समासाद्य च लक्ष्मीवान् लङ्कां रावणपालिताम्।\nपरिखाभिः सपद्माभिः सोत्पलाभिरलङ्कृताम्।।5.2.14।।\nसीतापहरणार्थेन रावणेन सुरक्षिताम्।\nसमन्ताद्विचरद्भिश्च राक्षसैरुग्रधन्विभिः।।5.2.15।।\nकाञ्चनेनावृतां रम्यां प्राकारेण महापुरीम्।\nगृहैश्च ग्रहसंकाशैः शारदाम्बुदसन्निभैः।।5.2.16।।\nपाण्डुराभिः प्रतोलीभिरुच्चाभिरभिसंवृताम्।\nअट्टालकशताकीर्णां पताकाध्वजमालिनीम्।।5.2.17।।\nतोरणैः काञ्चनैर्दिव्यैर्लतापङ्त्किविचित्रितैः।\nददर्श हनुमान् लङ्कां दिवि देवपुरीं यथा।।5.2.18।।",
+      "transliteration": "",
+      "translation": "Fortunate Hanuman having reached Lanka ruled by Ravana found it surrounded by moats full of blue lotuses, guarded by demons with frightening bows, in view of Sita abducted and kept there. It was protected by boundary walls inlaid with gold that great and beautiful city with buildings resembling the assembly of planets and whitewashed, elevated  houses looking like autumnal clouds and well laid out streets decorated with garlands of banners and flag posts, rows of colourful creepers and festoons. The city of Lanka appeared like Amaravati, the city of gods.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "गिरिमूर्ध्निं स्थितां लङ्कां पाण्डुरैर्भवनैः शुभैः।\nददर्श स कपिश्रेष्ठः पुरमाकाशगं यथा।।5.2.19।।",
+      "transliteration": "",
+      "translation": "The foremost among the vanaras, perched on top of the mountain saw the city of Lanka on the mountain with auspicious mansions as though touching the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "पालितां राक्षसेन्द्रेण निर्मितां विश्वकर्मणा।\nप्लवमानमिवाकाशे ददर्श हनुमान् पुरीम्।।5.2.20।।",
+      "transliteration": "",
+      "translation": "The city of Lanka, ruled by the lord of demons and built by Visvakarma looked as if it was a city floating in the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "वप्रप्राकारजघनां विपुलाम्बुनवाम्बराम्।\nशतघ्नीशूलकेशान्तामट्टालकवतंसकाम्।।5.2.21।।\nमनसेव कृतां लङ्कां निर्मितां विश्वकर्मणा।\nद्वारमुत्तरमासाद्य चिन्तयामास वानरः।।5.2.22।।",
+      "transliteration": "",
+      "translation": "Having reached the northern entrance of the city he started thinking that Visvakarma must have conceived Lanka as a lady with its ramparts as her hips and loins, moats filled with water as her robes, the spiked iron tridents as her locks of hair, and the tall towers as her her ear rings",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "कैलासशिखरप्रख्यामालिखन्तीमिवाम्बरम्।\nडीयमानामिवाकाशमुच्छ्रितैर्भवनोत्तमैः।।5.2.23।।\nसम्पूर्णां राक्षसैर्घोरैर्नागैर्भोगवतीमिव।\nअचिन्त्यां सुकृतां स्पष्टां कुबेराध्युषितां पुरा।।5.2.24।।\nदंष्ट्रिभिर्बहुभिः शूरैः शूलपट्टसपाणिभिः।\nरक्षितां राक्षसैर्घोरैर्गुहामाशीविषैरिव।।5.2.25।।\nतस्याश्च महतीं गुप्तिं सागरं च निरीक्ष्य सः।\nरावणं च रिपुं घोरं चिन्तयामास वानरः।।5.2.26।।",
+      "transliteration": "",
+      "translation": "Observing Lanka that resembled mount Kailas, with sky scrapers appearing as if flying, filled with dreadful demons and nagas protecting the city of Bhogavati (the city of Patala), unimaginably wellbuilt. It was once occupied by Kubera (half brother of Ravana). It was guarded by horrible demons holding tridents and spears in their hands. The city appeared like a cavern protected by venomous serpents with protruding fangs. Hanuman examined the high security of Lanka and looked at the ocean. He thought of the form of Ravana, a formidable  enemy:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "आगत्यापीह हरयो भविष्यन्ति निरर्थकाः।\nन हि युद्धेन वै लङ्का शक्या जेतुं सुरैरपि।।5.2.27।।\n&nbsp;",
+      "transliteration": "",
+      "translation": "'It is not possible for monkeys to come here and even if they do, it is no use. Lanka is invincible even to the gods in war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "इमां तु विषमां दुर्गां लङ्कां रावणपालिताम्।\nप्राप्यापि स महाबाहुः किं करिष्यति राघवः।।5.2.28।।",
+      "transliteration": "",
+      "translation": "'What will  Rama the mighty armed hero do even after reaching this formidable city of Lanka ruled by Ravana?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अवकाशो नसान्त्वस्य राक्षसेष्वभिगम्यते।\nन दानस्य न भेदस्य नैव युद्धस्य दृश्यते।।5.2.29।।",
+      "transliteration": "",
+      "translation": "'There is no scope for reconciliation with the demons. It is not possible to win over them with gifts. They cannot be divided by dissension. There is no scope for war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "चतुर्णामेव हि गतिर्वानराणां महात्मनाम्।\nवालिपुत्रस्य नीलस्य मम राज्ञश्च धीमतः।।5.2.30।।",
+      "transliteration": "",
+      "translation": "'Only four great monkeys can have access to this place. They are Angada the son of Vali, Nila, Sugriva, the wise king of monkeys and myself.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "यावज्जानामि वैदेहीं यदि जीवति वा न वा।\nतत्रैव चिन्तयिष्यामि दृष्ट्वा तां जनकात्मजाम्।।5.2.31।।",
+      "transliteration": "",
+      "translation": "'Whether Janaka's daughter, Vaidehi is alive or not is not known. After seeing her I shall think over'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "ततः स चिन्तयामास मुहूर्तं कपिकुञ्जरः।\nगिरिशृङ्गे स्थितस्तस्मिन् रामस्याभ्युदये रतः।।5.2.32।।",
+      "transliteration": "",
+      "translation": "Standing on the mountain, the elephant among monkeys pondered for a while on the means of finding Sita, in which lay the welfare of Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "अनेन रूपेण मया न शक्या रक्षसां पुरी।\nप्रवेष्टुं राक्षसैर्गुप्ता क्रूरैर्बलसमन्वितैः।।5.2.33।।",
+      "transliteration": "",
+      "translation": "'I shall not be able  in my present form to enter the city guarded by fierce and powerful demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "उग्रौजसो महावीर्या बलवन्तश्च राक्षसाः।\nवञ्चनीया मया सर्वे जानकीं परिमार्गता।।5.2.34।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "लक्ष्यालक्ष्येण रूपेण रात्रौ लङ्का पुरी मया।\nप्रवेष्टुं प्राप्तकालं मे कृत्यं साधयितुं महत्।।5.2.35।।",
+      "transliteration": "",
+      "translation": "'To accomplish this great task I will have to assume an inconspicious form and enter the city of Lanka in the night as that is the appropriate time.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "तां पुरीं तादृशीं दृष्ट्वा दुराधर्षां सुरासुरैः।\nहनुमान् चिन्तयामास विनिश्चित्य मुहुर्मुहुः।।5.2.36।।",
+      "transliteration": "",
+      "translation": "'Looking at the city, unassailable even to gods and demons, Hanuman sighed again and again thinking:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "केनोपायेन पश्येयं मैथिलीं जनकात्मजाम्।\nअदृष्टो राक्षसेन्द्रेण रावणेन दुरात्मना।।5.2.37।।",
+      "transliteration": "",
+      "translation": "'By what means can I find Mythili, daughter of Janaka, without being noticed by the evilminded Ravana, the lord of demons?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "न विनश्येत्कथं कार्यं रामस्य विदितात्मनः।\nएकामेकश्च वश्येयं रहिते जनकात्मजाम्।।5.2.38।।",
+      "transliteration": "",
+      "translation": "'How can the purpose of Rama, a noble soul be not spoilt? I may have a private audience with the daughter of Janaka.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "भूताश्चार्था विपद्यन्ते देशकालविरोधिताः।\nविक्लबं दूतमासाद्य तमः सूर्योदये यथा।।5.2.39।।",
+      "transliteration": "",
+      "translation": "'Just as darkness disappears at Sunrise, wellplanned strategies also fail at the hands of a thoughtless messenger when they are set in opposition to proper time and place.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "अर्थानर्थान्तरे बुद्धिर्निश्चितापि न शोभते।\nघातयन्ति हि कार्याणि दूताः पण्डितमानिनः।।5.2.40।।",
+      "transliteration": "",
+      "translation": "'Even though messengers are not intelligent, they think themselves clever and capable. They act foolishly, swerve from proper course of action and fail in their effort.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "न  विनश्येत्कथं कार्यं वैक्लब्यं न कथं भवेत्।\nलङ्घनं च समुद्रस्य कथं नु न वृथा भवेत्।।5.2.41।।",
+      "transliteration": "",
+      "translation": "'How should the task be performed? How to avoid impetuousness? How can my purpose of crossing the ocean be not wasted?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "मयि दृष्टे तु रक्षोभी रामस्य विदितात्मनः।\nभवेद्व्यर्थमिदं कार्यं रावणानर्थमिच्छतः।।5.2.42।।",
+      "transliteration": "",
+      "translation": "'If I am seen by the demons, the plan of Rama, possessor of selfknowledge, to kill Ravana, will be wasted.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "न हि शक्यं क्वचित् स्थातुमविज्ञातेन राक्षसैः।\nअपि राक्षसरूपेण किमुतान्येन केनचित्।।5.2.43।।",
+      "transliteration": "",
+      "translation": "'It is difficult to stay with the demon anywhere here even in the disguise of a demon without being identified. It will not be possible to remain unidentified even by assuming any other form.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "वायुरप्यत्र नाज्ञातश्चरेदिति मतिर्मम।\nन ह्य स्त्यविदितं किञ्चिद्राक्षसानां बलीयसाम्।।5.2.44।।",
+      "transliteration": "",
+      "translation": "'I think even the wind who has no form cannot move here without being detected. Nothing escapes the notice of powerful demons. There is nothing unknown to them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "इहाहं यदि तिष्ठामि स्वेन रूपेण संवृतः।\nविनाशमुपयास्यामि भर्तुरर्थश्च हीयते।।5.2.45।।",
+      "transliteration": "",
+      "translation": "'I will surely meet with death if I hide here in my original form and my master's mission also will be spoilt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "तदहं स्वेन रूपेण रजन्यां ह्रस्वतां गतः।\nलङ्कामभिपतिष्यामि राघवस्यार्थसिद्धये।।5.2.46।।",
+      "transliteration": "",
+      "translation": "'Therefore I shall transform myself into a tiny form and jump about the city of Lanka during night time in order to accomplish Raghava's purpose.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "रावणस्य पुरीं रात्रौ प्रविश्य सुदुरासदाम्।\nविचिन्वन् भवनं सर्वं द्रक्ष्यामि जनकात्मजाम्।।5.2.47।।",
+      "transliteration": "",
+      "translation": "'Entering by night the inaccessible city of Ravana, I shall search all over the palace and find Sita'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "इति सञ्चिन्त्य हनुमान् सूर्यस्यास्तमयं कपिः।\nआचकाङ्क्षे तदा वीरो वैदेह्या दर्शनोत्सुकः।।5.2.48।।",
+      "transliteration": "",
+      "translation": "Having planned in that manner the heroic Hanuman keen to see Sita waited for the Sunset.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "सूर्ये चास्तं गते रात्रौ देहं सङ्क्षिप्य मारुतिः।\nपृषदंशकमात्रः सन् बभूवाद्भुतदर्शनः।।5.2.49।।",
+      "transliteration": "",
+      "translation": "When Sun set, Maruti, the son of the Windgod, reduced himself at night to the small size of a cat, wonderful to behold.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "प्रदोषकाले हनुमांस्तूर्णमुत्प्लुत्य वीर्यवान्।\nप्रविवेश पुरीं रम्यां सुविभक्तमहापथाम्।।5.2.50।।",
+      "transliteration": "",
+      "translation": "As soon as dusk had set in, courageous Hanuman jumped in and entered the well laidout royal path of the beautiful city.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "प्रासादमालाविततां स्तम्भैः काञ्चनराजतैः।\nशातकुम्भमयैर्जालैर्गन्थर्वनगरोपमाम्।।5.2.51।।\nसप्तभौमाष्टभौमैश्च स ददर्श महापुरीम्।\nतलैः स्फाटिकसंकीर्णैः कार्तस्वरविभूषितैः।।5.2.52।।",
+      "transliteration": "",
+      "translation": "Hanuman saw the city stretched with rows of buildings all over,with seven or eight storied  mansions, which had pillars of gold and silver, windows with fretwork of gold, inlaid with crystals, floors decorated with gold, resembling the grand city of gandharvas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "वैडूर्यमणिचित्रैश्च मुक्ताजालविभूषितैः।\nतलैः शुशुभिरे तानि भवनान्यत्र रक्षसाम्।।5.2.53।।",
+      "transliteration": "",
+      "translation": "Inlaid with precious gems and fretwork, and ornamented with pearls, the mansions of demons looked splendid.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "काञ्चनानि च चित्राणि तोरणानि च रक्षसाम्।\nलङ्कामुद्योतयामासुः सर्वतः समलङ्कृताम्।।5.2.54।।",
+      "transliteration": "",
+      "translation": "The golden archways of the demon were colourful. They illuminated the well   decorated Lanka from all sides.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "अचिन्त्यामद्भुताकारां दृष्टवा लङ्कां महाकपिः।\nआसीद्विषण्णो हृष्टश्च वैदेह्या दर्शनोत्सुकः।।5.2.55।।",
+      "transliteration": "",
+      "translation": "Beholding Lanka of unimaginable, wonderful glory, the great monkey keen to see Sita became sad as well as elated at once (He did not know how to find Sita in that city and felt sad. But he was also elated that he was going to meet her at any cost.)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "स पाण्डुराविद्धविमानमालिनीं महार्हजाम्बूनदजालतोरणाम्।\nयशस्विनीं रावणबाहुपालितां क्षपाचरैर्भीमबलैः समावृताम्।।5.2.56।।",
+      "transliteration": "",
+      "translation": "He found that famed place with a garland of tall, white mansions, conspicuous with archways latticed with gold strings, protected by mighty Ravana and surrounded by terrific demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "चन्द्रोऽपि साचिव्यमिवास्य क��र्वंस्तारागणैर्मध्यगतो विराजन्।\nज्योत्स्नावितानेन वितत्य लोक मुत्तिष्ठते नैकसहस्ररश्मि:।।5.2.57।।",
+      "transliteration": "",
+      "translation": "Even the Moon rose with thousands of rays in the centre of multitudes of stars overspreading and illumining the world with a canopy of bright beams, as if to render ministerial help to Hanuman.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-2-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "शङ्खप्रभं क्षीरमृणालवर्ण मुद्गच्छमानं व्यवभासमानम्।\nददर्श चन्द्रं स हरिप्रवीरः पोप्लूयमानं सरसीव हंसम्।।5.2.58।।",
+      "transliteration": "",
+      "translation": "The heroic vanara saw the rising Moon flitting in and out shining like a fresh white conch, in the colour of milk and lotus stalks, bright like a swan floating in the lakelike sky.   इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे द्वितीयस्सर्गः।। Thus ends the second sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

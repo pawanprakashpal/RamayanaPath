@@ -1,0 +1,270 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 18,
+    "title": "Ravana comes to see Sita.",
+    "titleSanskrit": "",
+    "totalShlokas": 28
+  },
+  "shlokas": [
+    {
+      "id": "vs-18-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तथा विप्रेक्ष्यमाणस्य वनं पुष्पितपादपम्।\nविचिन्वतश्च वैदेहीं किंचिच्छेषा निशाऽभवत्।।5.18.1।।",
+      "transliteration": "",
+      "translation": "The night came to a close while Hanuman went searching and looking for Sita at Ashoka grove full of flowering trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-18-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "षडङ्गवेदविदुषां क्रतुप्रवरयाजिनाम्।\nशुश्राव ब्रह्मघोषांश्च स विरात्रे ब्रह्मरक्षसाम्।।5.18.2।।",
+      "transliteration": "",
+      "translation": "At dawn sounds of recitation of Vedas and the six auxillary sciences, (i.e .grammar, prosody, etymology, phonetics, astronomy and the science of rituals) by the brahmins among demons wellversed in performing exalted sacrificial ceremonies were heard.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-18-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "अथ मङ्गलवादित्रशब्दैः श्रुतिमनोहरैः।\nप्राबुध्यत महाबाहुर्दशग्रीवो महाबलः।।5.18.3।।",
+      "transliteration": "",
+      "translation": "By that time the strongarmed, powerful, tennecked Ravana was awakened by the delightful sounds of auspicious musical instruments.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-18-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "विबुध्यतु यथाकालं राक्षसेन्द्रः प्रतापवान्।\nस्रस्तमाल्याम्बरधरो वैदेहीमन्वचिन्तयत्।।5.18.4।।",
+      "transliteration": "",
+      "translation": "The chivalrous lord of demons woke up as usual.His raiment and garland were still in disarray and he thought of Vaidehi.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-18-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "भृशं नियुक्तस्तस्यां च मदनेन मदोत्कटः।\nन स तं राक्षसः कामं शशाकात्मनि गूहितुम्।।5.18.5।।",
+      "transliteration": "",
+      "translation": "The demon king who was unable to hide his great passion and control his senses was drawn towards Sita, in his state of intoxication.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-18-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "स सर्वाभरणैर्युक्तो बिभ्रच्छ्रियमनुत्तमाम्।\nतां नगैर्बहुभिर्जुष्टां सर्वपुष्पफलोपगैः।।5.18.6।।",
+      "transliteration": "",
+      "translation": "Adorned with all ornaments and glowing with excellent splendour he went through the  path filled with trees flourishing with all kinds of flowers and fruits.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-18-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "वृतां पुष्करिणीभिश्च नानापुष्पोपशोभिताम्।\nसदा मदैश्च विहगैर्विचित्रां परमाद्भुताम्।।5.18.7।।",
+      "transliteration": "",
+      "translation": "Ponds covered with a variety of beautiful flowers and colourful birds always cheerful looked very wonderful.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-18-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "ईहामृगैश्च विविधैर्जुष्टां दृष्टिमनोहरैः।\nवीधीः संप्रेक्षमाणश्च मणिकाञ्चनतोरणाः।।5.18.8।।\nनानामृगगणाकीर्णां फलैः प्रपतितैर्वृताम्।\nअशोकवनिकामेव प्राविशत्संततद्रुमाम्।।5.18.9।।",
+      "transliteration": "",
+      "translation": "Watching the garden filled with trees, gateways ornamented with gold and gems, he entered through the pleasant pathways in the Ashoka garden. There were wonderful wolves and several herds of animals in the garden. Fruits dropped from trees were strewn all over.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-18-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "अङ्गनाशतमात्रं तु तं व्रजन्तमनुव्रजत्।\nमहेन्द्रमिव पौलस्त्यं देवगन्धर्वयोषितः।।5.18.10।।",
+      "transliteration": "",
+      "translation": "Ravana, son of sage Paulasti, was followed by a hundred women, just as Indra is trailed by the females of gods and gandharvas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-18-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "दीपिकाः काञ्चनीः काश्चिज्जगृहुस्तत्र योषितः।\nवालव्यजनहस्ताश्च तालवृन्तानि चापराः।।5.18.11।।",
+      "transliteration": "",
+      "translation": "Some women carried golden lamps, some held yalk tail fans in their hands while others bore palmleaf fans.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-18-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "काञ्चनैरपि भृङ्गारैर्जह्रुः सलिलमग्रतः।\nमण्डलाग्रान् बृसीश्चापि गृह्यान्याः पृष्ठतो ययुः।।5.18.12।।",
+      "transliteration": "",
+      "translation": "Some moved ahead of him carrying water in golden pitchers. Others followed him carrying circular couches (to be used as seats).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-18-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "काचिद्रत्नमयीं स्थालीं पूर्णां पानस्य भामिनी।\nदक्षिणा दक्षिणेनैव तदा जग्राह पाणिना।।5.18.13।।",
+      "transliteration": "",
+      "translation": "One glorious and compassionate lady carried in her right hand a gemstudded jar filled with wine.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-18-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "राजहंसप्रतीकाशं छत्रं पूर्णशशिप्रभम्।\nसौवर्णदण्डमपरा गृहीत्वा पृष्ठतो ययौ।।5.18.14।।",
+      "transliteration": "",
+      "translation": "Another shedemon moved behind him holding an umbrella with a golden handle which was white like a royal swan and bright like the fullmoon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-18-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "निद्रामदपरीताक्ष्यो रावणस्योत्तमाः स्त्रियः।\nअनुजग्मुः पतिं वीरं घनं विद्युल्लता इव।।5.18.15।।",
+      "transliteration": "",
+      "translation": "The chief wives of Ravana with eyes dizzy with sleep and drinking followed their heroic husband like streaks of lightning follow a thunder cloud. (Ravana who was dark looked like a cloud and the women with dazzling golden complexion appeared like lightning.)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-18-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "व्याविद्धहारकेयूराः समामृदितवर्णकाः।\nसमागळितकेशान्तास्सस्वेदवदनास्तथा।।5.18.16।।\nघूर्णन्त्यो मदशेषेण निद्रया च शुभाननाः।\nस्वेदक्लिष्टाङ्गकुसुमास्सुमाल्याकुलमूर्धजाः।।5.18.17���।\nप्रयान्तं नैऋतपतिं नार्यो मदिरलोचनाः।\nबहुमानाच्च कामाच्च प्रि��ा भार्यास्तमन्वयुः।।5.18.18।।",
+      "transliteration": "",
+      "translation": "The necklaces and armlets (of the wives) disarrayed, the sandal paste and other unguents on the body smudged, hair hanging down their faces, the sweating damsels followed Ravana. They were dizzy with leftover intoxication and sleep and were swaying from side to side. Their dishevelled hair was loose and faces filled with sweat, their flower garlands on the body had wilted due to sweat on their limbs. The drunken wives of Ravana, actuated by their high regard and passion for him followed as he advanced with drunken eyes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-18-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "स च कामपराधीन: पतिस्तासां महाबलः।\nसीतासक्तमना मन्दो मन्दाञ्चितगतिर्बभौ।।5.18.19।।",
+      "transliteration": "",
+      "translation": "Their husband, powerful Ravana under the control of passion looking dull, absorbed in the  thoughts of Sita walked slowly as though counting his steps.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-18-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "ततः काञ्चीनिनादं च नूपुराणां च निस्वनम्।\nशुश्राव परमस्त्रीणां स कपिर्मारुतात्मजः।।5.18.20।।",
+      "transliteration": "",
+      "translation": "Then Hanuman, son of the Windgod, heard their jingling golden girdles and anklets.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-18-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तं चाप्रतिमकर्माणमचिन्त्यबलपौरुषम्।\nद्वारदेशमनुप्राप्तं ददर्श हनुमान् कपिः।।5.18.21।।",
+      "transliteration": "",
+      "translation": "Then Hanuman, the Vanara saw Ravana of extraordinary deeds, and of unimaginable strength and valour at the entrance (of Ashoka garden)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-18-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "दीपिकाभिरनेकाभिः समन्तादवभासितम्।\nगन्धतैलावसिक्ताभिर्ध्रियमाणाभिरग्रतः।।5.18.22।।",
+      "transliteration": "",
+      "translation": "Hanuman saw him in the glow of lamps wet with fragrant oil carried by many shedemons all over.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-18-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "कामदर्पमदैर्युक्तं जिह्मताम्रायतेक्षणम्।\nसमक्षमिव कन्दर्पमपविद्धशरासनम्।।5.18.23।।",
+      "transliteration": "",
+      "translation": "Hanuman saw him, who was possessed of lust, arrogance and intoxication. He appeared like Cupid setting aside his quiver and arrows with his curved, big, red eyes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-18-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "मथितामृतफेनाभमरजोवस्त्रमुत्तमम्।\nसलीलमनुकर्षन्तं विमुक्तं सक्तमङ्गदे।।5.18.24।।",
+      "transliteration": "",
+      "translation": "He was playfully pulling up his upper garment that slipped and stuck to his armlet. This excellent unsoiled robe was looking like the foam of churned nectar.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-18-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तं पत्रविटपे लीनः पत्रपुष्पघनावृतः।\nसमीपमिव संक्रान्तं निध्यातुमुपचक्रमे।।5.18.25।।",
+      "transliteration": "",
+      "translation": "Hanuman seated on a leafy branch (of the simsupa tree) thickly covered with leaves and flowers started scanning the identity of Ravana who was drawing nearer.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-18-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "अवेक्षमाणस्तु ततो ददर्श कपिकुञ्जरः।\nरूपयौवनसम्पन्ना रावणस्य वरस्त्रियः।।5.18.26।।",
+      "transliteration": "",
+      "translation": "The leader of the monkeys started gazing at the chief wives of Ravana endowed with youth and beauty৷৷",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-18-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "ताभिः परिवृतो राजा सुरूपाभिर्महायशाः।\nतन्मृगद्विजसङ्घुष्टं प्रविष्टः प्रमदावनम्।।5.18.27।।",
+      "transliteration": "",
+      "translation": "Surrounded by beauties, the glorious king entered the grove meant for women, reverberating with the sounds of beasts and birds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-18-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "क्षीबो विचित्राभरणः शङ्कुकर्णो महाबलः।\nतेन विश्रवसः पुत्रः स दृष्टो राक्ष���ाधिपः।।5.18.28।।\nवृतः परमनारीभिस्ताराभिरिव चन्द्रमाः।\nतं ददर्श महातेजास्तेजोवन्तं महाकपिः।।5.18.29।।",
+      "transliteration": "",
+      "translation": "The brilliant vanara looked at the son of Visravas (Ravana), the demon king  adorned with wonderful ornaments. He had long tapering ears. He was intoxicated with drink. Encircled by damsels, he was looking like the Moon surrounded by stars.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-18-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "रावणोऽयं महाबाहुरिति सञ्चिन्त्य वानरः।\nअवप्लुतो महातेजा हनुमान्मारुतात्मजः।।5.18.30।।",
+      "transliteration": "",
+      "translation": "The brilliant vanara (Hanuman), son of the Windgod recognising the strongarmed Ravana got down a little, saying 'This is truly the strongarmed Ravana.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-18-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "स तथाप्युग्रतेजाः सन्निर्धूतस्तस्य तेजसा।\nपत्रगुह्यान्तरे सक्तो हनुमान् संवृतोऽभवत्।।5.18.31।।",
+      "transliteration": "",
+      "translation": "Hanuman, possessed of extraordinary energy, was taken aback at the might of Ravana. He remained hiding covered over with leaves.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-18-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "स तामसितकेशान्ता�� सुश्रोणीं संहतस्त्नीम्।\nदिदृक्षुरसितापाङ्गामुपावर्तत रावणः।।5.18.32।।",
+      "transliteration": "",
+      "translation": "With the desire to see Sita endowed with black hair, beautiful hips, plump breasts and dark sideglances, Ravana returned (to Ashokavana). इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे अष्टादशस्सर्गः। Thus ends the eighteenth sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

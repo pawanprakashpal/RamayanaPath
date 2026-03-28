@@ -1,0 +1,360 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 62,
+    "title": "Guards of Madhuvanam headed by Dadhimukha move to report to Sugriva.",
+    "titleSanskrit": "",
+    "totalShlokas": 38
+  },
+  "shlokas": [
+    {
+      "id": "vs-62-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तानुवाच हरिश्रेष्ठो हनुमान्वानरर्षभः।\nअव्यग्रमनसो यूयं मधु सेवत वानराः।।5.62.1।।\nअहमावारयिष्यामि युष्माकं परिपन्थिनः।",
+      "transliteration": "",
+      "translation": "Hanuman, the foremost of the monkeys, bull among vanaras said, 'Enjoy the honey devoid of any fear. I shall prevent those who object to your action'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "श्रुत्वा हनुमतो वाक्यं हरीणां प्रवरोऽङ्गदः।।5.62.2।।\nप्रत्युवाच प्रसन्नात्मा पिबन्तु हरयो मधु।",
+      "transliteration": "",
+      "translation": "Pleased with Hanuman's words, the distinguished Angada permitted the monkeys to drink.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "अवश्यं कृतकार्यस्य वाक्यं हनुमतो मया।।5.62.3।।\nअकार्यमपि कर्तव्यं किमङ्ग पुनरीदृशम्।",
+      "transliteration": "",
+      "translation": "Even if Hanuman, the achiever, forbids me to do something, I will do it. And now when he has permitted you, why hesitate ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "अङ्गदस्य मुखाच्छ्रुत्वावचनं वानरर्षभाः।।5.62.4।।\nसाधुसाध्विति संहृष्टा वानराः प्रत्यपूजयन्।",
+      "transliteration": "",
+      "translation": "Having heard the words that came from Angada's mouth, the bulls among vanaras praised him for his generous approval.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "पूजयित्वाङ्गदं सर्वे वानरा वानरर्षभम्।।5.62.5।।\nजग्मुर्मधुवनं यत्र नदीवेग इव द्रुमम्।",
+      "transliteration": "",
+      "translation": "The vanaras praised Angada, the bull among vanaras and went to Madhuvanam swiftly like a fastflowing river going to uproot a tree.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "ते प्रविष्टा मधुवनं पालानाक्रम्य वीर्यतः।।5.62.6।।\nअतिसर्गाच्च पटवो दृष्ट्वा श्रुत्वा च मैथिलीम्।\nपपुस्सर्वे मधु तदा रसवत्फलमाददुः।।5.62.7।।",
+      "transliteration": "",
+      "translation": "Overjoyed at the news of Mythili, being seen, the vanaras entered Madhuvanam and attacked the guards violently, drank the honey and ate the tasty fruits.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "उत्पत्य च ततस्सर्वे वनपालान् समागतान्।\nताडयन्ति स्म शतश स्सक्तान्मधुवने तदा।।5.62.8।।",
+      "transliteration": "",
+      "translation": "All the vanaras collected together, entered the Madhuvanam and attacked in many ways the guards protecting  the  garden.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "मधूनि द्रोणमात्राणि बाहुभिः परिगृह्य ते।\nपिबन्ति सहिता स्सर्वे निघ्नन्ति स्म तथापरे।।5.62.9।।",
+      "transliteration": "",
+      "translation": "All of them now gathered at one place and drank honey from large containers. Others were busy preventing the guards.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "केचित्पीत्वा प्रविध्यन्ति मधूनि मधुपिङ्गला���।\nमधूच्छिष्टेन केचिच्च जग्मुरन्योन्यमुत्कटाः।।5.62.10।।",
+      "transliteration": "",
+      "translation": "The honeycoloured monkeys drank honey. Some threw large chunks of honey combs after drinking and some went about intoxicated.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अपरे वृक्षमूले तु शाखां गृह्य व्यवस्थिताः।\nअत्यर्थं च मदग्लानाः पर्णान्यास्तीर्य शेरते।।5.62.11।।",
+      "transliteration": "",
+      "translation": "Some took branches of trees and rested at the root of trees. Some totally languid lay down spreading leaves due to drinking of sweet drinks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "उन्मत्तभूताः प्लवगा मधुमत्ताश्च हृष्टवत्।\nक्षिपन्ति च तथान्योन्यं स्खलन्ति च तथाऽपरे।।5.62.12।।",
+      "transliteration": "",
+      "translation": "Intoxicated with drink, some behaved like mad people, some pushed others senselessly and some were unsteady and shaky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "केचित् क्ष्वेलां प्रकुर्वन्ति केचित् कूजन्ति हृष्टवत्।\nहरयोमधुना मत्ताः केचित्सुप्ता महीतले।।5.62.13।।",
+      "transliteration": "",
+      "translation": "Some roared, some warbled happily, some felt drowsy, drinking honey and some  dropped off to sleep on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "कृत्वा केचिद्धसन्त्यन्ये केचित्कुर्वन्ति चेतरत्।\nकृत्वा केचिद्वदन्त्यन्ये केचिद्बुध्यन्ति चेतरत्।।5.62.14।।",
+      "transliteration": "",
+      "translation": "Some made others laugh, some provoked others and some thought of doing something else having got over the intoxication.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "येऽप्यत्र मधुपाला स्स्युः प्रेष्या दधिमुखस्य तु।\nतेऽपि तैर्वानरैर्भीमैः प्रतिषिद्धा दिशो गताः।।5.62.15।।",
+      "transliteration": "",
+      "translation": "All the guards engaged in protecting the garden were driven away in all directions by the fierce vanaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "जानुभिस्तु प्रकृष्टाश्च देवमार्गं प्रदर्शिताः।\nअब्रुवन् परमोद्विग्ना गत्वा दधिमुखं वचः।।5.62.16।।",
+      "transliteration": "",
+      "translation": "Some were dragged on their knees and tossed up. Some monkeys exhibited their private parts, showing indecent behaviour. Dadhimukha, highly disturbed at this, said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "हनूमता दत्तवरैर्हतं मधुवनं बलात्।\nवयं च जानुभिः कृष्टा देवमार्गं च दर्शिताः।।5.62.17।।",
+      "transliteration": "",
+      "translation": "Permitted by Hanuman (to enter Madhuvanam and drink), they dragged one another forcefully tossed up  on their knees showing their private parts.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "ततो दधिमुख: क्रुद्धो वनपस्तत्र वानरः।\nहतं मधुवनं श्रुत्वा सान्त्वयामास तान् हरीन्।।5.62.18।।",
+      "transliteration": "",
+      "translation": "Then Dadhimukha, the guardian of the garden became furious on the vanaras. Having heard from the guards that the garden was destroyed, he said soothing words to them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "इहागच्छत गच्छामो वानरान् बलदर्पितान्।\nबलेन वारयिष्यामो मधु भक्षयतो वयम्।।5.62.19।।",
+      "transliteration": "",
+      "translation": "\"Come, we will all go there to Madhuvanam and prevent forcibly the vanaras who have consumed honey proud of their power.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "श्रुत्वा दधिमुखस्येदं वचनं वानरर्षभाः।\nपुनर्वीरा मधुवनं तेनैव सहसा ययुः।।5.62.20।।",
+      "transliteration": "",
+      "translation": "\"The heroes, bulls among vanaras, heard Dadhimukha and quickly entered Madhuvanam along with him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "मध्ये चैषां दधिमुखः प्रगृह्य तरसा तरुम्।\nसमभ्यधावद्वेगेन ते च सर्वे प्लवङ्गमाः।।5.62.21।।",
+      "transliteration": "",
+      "translation": "On the way, the energetic Dadhimukha took up a tree and ran to the leaping vanaras swiftly with guards following him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "ते शिलाः पादपांश्चापि पर्वतांश्चापि वानराः।\nगृहीत्वाऽऽभ्यगमन् क्रुद्धा यत्र ते कपिकुञ्जराः।।5.62.22।।",
+      "transliteration": "",
+      "translation": "The furious vanara guards lifted rocks, trees and even mountains and went behind Dadhimukha the elephant among the vanaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "ते स्वामिवचनं वीरा हृदयेष्ववसज्य तत्।\nत्वरया ह्यभ्यधावन्त सालतालशिलायुधाः।।5.62.23।।",
+      "transliteration": "",
+      "translation": "The heroic vanaras held Sala and Tala trees and rushed at once keeping their leader's words in mind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "वृक्षस्थांश्च तलस्थांश्च वानरान् बलदर्पितान्।\nअभ्यक्रामंस्ततो वीराः पालास्तत्र सहस्रशः।।5.62.24।।",
+      "transliteration": "",
+      "translation": "Then the heroic guards in their thousands fell on the vanaras proud of their power on and under the tala trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "अथ दृष्ट्वा दधिमुखं क्रुद्धं वानरपुङ्गवाः।\nअभ्यधावन्त वेगेन हनुमत्प्रमुखास्तदा।।5.62.25।।",
+      "transliteration": "",
+      "translation": "Having seen the fury of Dadhimukha, Hanuman the leader of the vanaras went to him swiftly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तं सवृक्षं महाबाहुमापतन्तं महाबलम्।\nआर्यकं प्राहरत्तत्र बाहुभ्यां कुपितोऽङ्गदः।।5.62.26।।",
+      "transliteration": "",
+      "translation": "Seeing the revered, powerful and strongarmed Dadhimukha rushing to him, the angry Angada caught him with both hands tightly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "मदान्धश्च न वेदैनमार्यकोऽयं ममेति सः।\nअथैनं निष्पिपेषाशु वेगवद्वसुधातले।।5.62.27।।",
+      "transliteration": "",
+      "translation": "\"Blinded by arrogance, the prince pushed him (Dadhimukha) on the floor forcibly,  forgetting that he was his revered granduncle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "स भग्नबाहूरुभुजो विह्वलश्शोणितोक्षितः।\nमुमोह सहसा वीरो मुहूर्तं कपिकुञ्जरः।।5.62.28।।",
+      "transliteration": "",
+      "translation": "The heroic Dadhimukha, an elephant among monkeys, with his shoulders and arms broken, and body drenched in blood lost his consciousness instantly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "स समाश्वस्य सहसा सङ्कृद्धो राजमातुलः।\nवानरान्वारयामास दण्डेन मधुमोहितान्।।5.62.29।।",
+      "transliteration": "",
+      "translation": "At once Dadhimukha, the maternal uncle of the king became conscious and chased with a stick the intoxicated vanaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "स कथञ्चिद्विमुक्तस्स्तैर्वानरैर्वानरर्षभः।\nउवाचैकान्तमाश्रित्य भृत्यान् स्वान् समुपागतान्।।5.62.30।।",
+      "transliteration": "",
+      "translation": "Escaping from the vanaras with great difficulty, Dadhimukha,  a bull among monkeys, repaired to a secluded place and said to his servants:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "एते तिष्ठन्तु गच्छामो भर्ता नो यत्र वानरः।\nसुग्रीवो विपुलग्रीवः सह रामेण तिष्ठति।।5.62.31।।",
+      "transliteration": "",
+      "translation": "\"Let them stay here. Our broadnecked king Sugriva will be there with Rama. Let us go to him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "सर्वं चैवाङ्गदे दोषं श्रावयिष्यामि पार्थिवे।\nअमर्षी वचनं श्रुत्वा घातयिष्यति वानरान्।।5.62.32।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "इष्टं मधुवनं ह्येतत्पार्थिवस्य महात्मनः।\nपितृपैतामहं दिव्यं देवैरपि दुरासदम्।।5.62.33।।",
+      "transliteration": "",
+      "translation": "'Madhuvan has come down to us from our forefather's time. Dear to the king, its entry is prohibited even to the gods.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "स वानरानिमान् सर्वान् मधुलुब्धान् गतायुषः।\nघातयिष्यति दण्डेन सुग्रीवस्ससुहृज्जनान्।।5.62.34।।",
+      "transliteration": "",
+      "translation": "'Sugriva will chase all the vanaras and their friends greedy for honey. They will be punished with a stick. They are doomed'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "वध्या ह्येते दुरात्मानो नृपाज्ञापरिभाविनः।\nअमर्षप्रभवो रोषस्सफलो नो भविष्यति।।5.62.35।।",
+      "transliteration": "",
+      "translation": "'Indeed those evilminded ones who have disobeyed the king's order deserve to be killed.That way our fury and forbearance will result in success'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "एवमुक्त्वा दधिमुखो वनपालान्महाबलः।\nजगाम सहसोत्पत्य वनपालैस्समन्वितः।।5.62.36।।",
+      "transliteration": "",
+      "translation": "Powerful Dadhimukha having said that to the guardians of the garden rose up to the sky and went off with them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "निमेषान्तरमात्रेण स हि प्राप्तो वनालयः।\nसहस्रांशुसुतो धीमान् सुग्रीवो यत्र वानरः।।5.62.37।।",
+      "transliteration": "",
+      "translation": "In a moment, Dadhimukha reached the place where wise Sugriva, the son of Sungod was there",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "रामं च लक्ष्मणं चैव दृष्ट्वा सुग्रीवमेव च।\nसमप्रतिष्ठां जगतीमाकाशान्निपपात ह।।5.62.38।।",
+      "transliteration": "",
+      "translation": "Seeing Rama, Lakshmana and also Sugriva from the sky he landed on an even ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-62-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "सन्निपत्य महावीर्यस्सर्वैस्तै: परिवारितः।\nहरिर्दधिमुखः पालैः पालानां परमेश्वरः।।5.62.39।।\nस दीनवदनो भूत्वा कृत्वा शिरसि चाञ्जलिम्।\nसुग्रीवस्य शुभौ मूर्ध्ना चरणौ पत्यपीडयत्।।5.62.40।।",
+      "transliteration": "",
+      "translation": "Dadhimukha, a great hero and king of the guards protecting Madhuvanam surrounded by his servants, with a sad expression on his face offered painful obeisance with folded hands bowing down his forehead at the feet of Sugriva.  इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे द्विषष्टितमस्सर्गः।। Thus ends the sixtysecond sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

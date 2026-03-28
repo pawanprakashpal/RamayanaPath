@@ -1,0 +1,333 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 10,
+    "title": "Hanuman chances upon Mandodari, wife of Ravana -- mistakes her for Sita on account of her beauty and charm.",
+    "titleSanskrit": "",
+    "totalShlokas": 35
+  },
+  "shlokas": [
+    {
+      "id": "vs-10-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तत्र दिव्योपमं मुख्यं स्फाटिकं रत्नभूषितम्।\nअवेक्षमाणो हनुमान् ददर्श शयनासनम्।।5.10.1।।\nदान्तकाञ्चनचित्राङ्गैर्वैडूर्यैश्च वरासनैः।\nमहार्हास्तरणोपेतैरुपपन्नं महाधनैः।।5.10.2।।",
+      "transliteration": "",
+      "translation": "Looking around, Hanuman noticed a bed chamber, with a heavenly dais on which he saw a couch encrusted with crystals, vaidurya, and inlaid with colourful ivory and gold. It had an exquisite rich covering.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तस्य चैकतमे देशे सोऽग्य्रमालाविभूषितम्।\nददर्श पाण्डुरं छत्रं ताराधिपतिसन्निभम्।।5.10.3।।",
+      "transliteration": "",
+      "translation": "Hanuman saw an umbrella in one spot decorated with the best of garlands. The white umbrella looked like the Moon, lord of stars.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "जातरूपपरिक्षिप्तं चित्रभानुसमप्रभम्।\nअशोकमालाविततं ददर्श परमासनम्।।5.10.4।।\nवालव्यजनहस्ताभिर्वीज्यमानं समन्ततः।\nगन्धैश्च विविधैर्जुष्टं वरधूपेन धूपितम्।।5.10.5।।\nपरमास्तरणास्तीर्णमाविकाजिनसंवृतम्।\nदामभिर्वरमाल्यानां समन्तादुपशोभितम्।।5.10.6।।",
+      "transliteration": "",
+      "translation": "He saw an exquisite couch made of gold shining wonderfully like the Sun. It was decorated with ashoka flowers. Women were holding fans of chamari deer. It was upholstered with the best of bedspreads made of soft sheep skin and adorned with beautiful strings of flower garlands. Scented with aromatic smoke, it was refreshed with fragrance which had spread all over the place.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तस्मिन् जीमूतसंकाशं प्रदीप्तोत्तमकुण्डलम्।\nलोहिताक्षं महाबाहुं महारजतवाससम्।।5.10.7।।\nलोहितेनानुलिप्ताङ्गं चन्दनेन सुगन्धिना।\nसन्ध्यारक्तमिवाकाशे तोयदं सतटिद्गणम्।।5.10.8।।\nवृतमाभरणैर्दिव्यैः सुरूपं कामरूपिणम्।\nसवृक्षवनगुल्माढ्यं प्रसुप्तमिव मन्दरम्।।5.10.9।।\nक्रीडित्वोपरतं रात्रौ वराभरणभूषितम्।\nप्रियं राक्षसकन्यानां राक्षसानां सुखावहम्।।5.10.10।।\nपीत्वाऽप्युपरतं चापि ददर्श स महाकपिः।\nभास्वरे शयने वीरं प्रसुप्तं राक्षसाधिपम्।।5.10.11।।",
+      "transliteration": "",
+      "translation": "Hanuman saw the mightyarmed, heroic lord of demons, sleeping with huge bloodshot eyes looking like a cloud, he was adorned with flashing earrings, and clad in robes of silver texture. His body was smeared with red sandal paste of sweet fragrance. Therefore, he looked like a cloud reddened by twilight and flashing with the lightning of his ornaments. He was handsome and could assume any form at will. He looked like Mandara mountain surrounded thickly with  trees and wild bushes. Decked with exquisite ornaments, he was sleeping after dalliance at night on that glittering couch. He was the beloved of the ogresses and bringer of joy to them",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "निःश्वसन्तं यथा नागं रावणं वानरर्षभः।\nआसाद्य परमोद्विग्न���्सोपासर्पत्सुभीतवत्।।5.10.12।।",
+      "transliteration": "",
+      "translation": "Having reached Ravana, who was breathing (hissing) like a snake, Hanuman was for a moment frightened and drew away from him as if he was put to terrible fear.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अथाऽऽरोहणमासाद्य वेदिकाऽन्तरमाश्रितः।\nसुप्तं राक्षसशार्दूलं प्रेक्षते स्म महाकपिः।।5.10.13।।",
+      "transliteration": "",
+      "translation": "The great vanara ascended the stairway and reached another altar and once again looked at the sleeping Ravana, the tiger among demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "शुशुभे राक्षसेन्द्रस्य स्वपतः शयनोत्तमम्।\nगन्धहस्तिनि संविष्टे यथा प्रस्रवणं महत्।।5.10.14।।",
+      "transliteration": "",
+      "translation": "While the lord of demons lay asleep on the magnificent couch, he  looked like the Prasravana hill with its elephant in rut.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "काञ्चनाङ्गदसन्नध्दै च ददर्श स महात्मनः।\nविक्षिप्तौ राक्षसेन्द्रस्य भुजाविन्द्रध्वजोपमौ।।5.10.15।।\nऐरावतविषाणाग्रैरापीडनकृतव्रणौ।\nवज्रोल्लिखितपीनांसौ विष्णुचक्रपरिक्षतौ।।5.10.16।।\nपीनौ समसुजातांसौ संगतौ बलसंयुतौ।\nसुलक्षणनखाङ्गुष्ठा स्वङ्गुलीतललक्षितौ।।5.10.17।।\nसंहतौ परिघाकारौ वृत्तौ करिकरोपमौ।\nविक्षिप्तौ शयने शुभ्रे पञ्चशीर्षाविवोरगौ।।5.10.18।।\nशशक्षतजकल्पेन सुशीतेन सुगन्धिना।\nचन्दनेन परार्ध्येन स्वनुलिप्तौ स्वलङ्कृतौ।।5.10.19।।\nउत्तमस्त्रीविमृदितौ गन्धोत्तमनिषेवितौ।\nयक्षपन्नगगन्धर्वदेवदानवराविणौ।।5.10.20।।",
+      "transliteration": "",
+      "translation": "Hanuman saw the great Ravana's arms, which were like a pair of Indra's flag staff adorned with golden straps. The arms bore the marks of wounds caused by Airavata, (Indra's elephant), torn by the thunderbolt of Indra in war, and wounded by the discus of Lord Visnu. His strong, fleshy, wellbuilt arms, having auspicious thumbnails, shapely fingers and palms, pressed together, resembled the iron crowbars or beam used for main doors. The arms resembled elephant's trunks, tossed on a clean bed,  resembling two fivehooded snakes (fingers like hoods), besmeared with cool, fragrant, red sandalpaste of excellent quality which looked red like the hare's blood. They were well massaged  by the best of women with fine, fragrant sandal paste. They were the arms which could make yakshas, pannagas, gods and demons roar in fear at their sight.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "ददर्श स कपिस्तत्र बाहू शयनसंस्थितौ।\nमन्दरस्यांतरे सुप्तौ महाही ��ुषिताविव।।5.10.21।।",
+      "transliteration": "",
+      "translation": "The vanara, gazed at the arms of Ravana placed on the couch that appeared like two angry snakes asleep in a cave on (the lap) of mount Mandara.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "ताभ्यां स परिपूर्णाभ्यां भुजाभ्यां राक्षसेश्वरः।\nशुशुभेऽचलसङ्काशः शृङ्गाभ्यामिव मन्दरः।।5.10.22।।",
+      "transliteration": "",
+      "translation": "The lord of demons looked splendid like a mountain with his long, fully developed arms. He appeared like Mandara mountain with two lofty peaks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "चूतपुन्नागसुरभिर्वकुलोत्तमसंयुतः।\nमृष्टान्नरससंयुक्तः पानगन्धपुरस्कृतः।।5.10.23।।\nतस्य राक्षससिंहस्य निश्चक्राम महामुखात्।\nशयानस्य विनिःश्वासः पूरयन्निव तद् गृहम्।।5.10.24।।",
+      "transliteration": "",
+      "translation": "The breath released from the huge mouth of that lion of demons carried the fragrance of mango and punnaga as well as excellent Bakula flowers. It exuded the aroma of rich and delicious food and different drink. It was as though pervading the whole chamber.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "मुक्तामणिविचित्रेण काञ्चनेन विराजितम्।\nमकुटेनापवृत्तेन कुण्डलोज्वलिताननम्।।5.10.25।।\nरक्तचन्दनदिग्धेन तथा हारेण शोभिना।\nपीनायतविशालेन वक्षसाऽभिविराजितम्।।5.10.26।।\nपाण्डरेणापविद्धेन क्षौमेण क्षतजेक्षणम्।\nमहार्हेण सुसंवीतं पीतेनोत्तमवाससा।।5.10.27।।\nमाषराशिप्रतीकाशं निश्श्वसन्तं भुजङ्गवत्।\nगाङ्गे महति तोयान्ते प्रसुप्तमिव कुञ्जरम्।।5.10.28।।\nचतुर्भिः काञ्चनैर्दीपैद्धीप्यमानचतुर्दिशम्।\nप्रकाशीकृतसर्वाङ्गं मेघं विद्युद्गणैरिव।।5.10.29।।\nपादमूलगताश्चापि ददर्श सुमहात्मनः।\nपत्नी: स प्रियभार्यस्य तस्य रक्षःपतेर्गृहे।।5.10.30।।",
+      "transliteration": "",
+      "translation": "Hanuman saw Ravana, whose face was lit up by his earrings. His shining headgear studded with gold and pearls was set aside. His fleshy, broad chest on which the pearl necklace had slightly receded from its position(as he was asleep)  was shining along with the red sandal paste. He had put on a splendid white silken cloth which had also slipped a little and was covered with exquisitely  rich yellow upper garment. His eyes were bloodred. His body was comparable to a heap of blackbeans. He was sighing heavily like a hissing snake. He appeared like an elephant sleeping on the banks of the great river Ganges. With four golden lamps glowing on four sides of the bed,the four directions were illuminated. All his limbs lit up bright (with the glow of lamps), he looked like a cloud with streaks of lightning. His dear wives were seen resting at his feet in the palace of the lord of demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "शशिप्रकाशवदनाश्चारुकुण्डलभूषिताः।\nअम्लानमाल्याभरणा ददर्श हरियूथपः।।5.10.31।।",
+      "transliteration": "",
+      "translation": "Hanuman, the leader of vanaras found the wives of Ravana,  whose  faces were bright as the Moon, adorned with beautiful earrings and fresh floral garlands.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "नृत्तवादित्रकुशला राक्षसेन्द्रभुजाङ्कगाः।\nवराभरणधारिण्यो निषण्णा ददृशे हरिः।।5.10.32।।",
+      "transliteration": "",
+      "translation": "Hanuman saw  the women there wearing fine jewellery, performing dances, playing musical instruments, and resting on the lap or leaning on the arms of the demon king.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "वज्रवैडूर्यगर्भाणि श्रवणान्तेषु योषिताम्।\nददर्श तापनीयानि कुण्डलान्यङ्गदानि च।।5.10.33।।",
+      "transliteration": "",
+      "translation": "He noticed on the earlobes of the the women gold earrings decked with diamonds and vaidurya. They were wearing shining armlets of gold.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तासां चन्द्रोपमैर्वक्त्रैश्शुभैर्ललितकुण्डलैः।\nविरराज विमानं तन्नभस्तारागणैरिव।।5.10.34।।",
+      "transliteration": "",
+      "translation": "There the beautiful moonlike faces of women Illumined by the lovely earrings lay on the cot which looked resplendent like the sky lit up with hosts of stars.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "मदव्यायामखिन्नास्ता राक्षसेन्द्रस्य योषितः।\nतेषु तेष्ववकाशेषु प्रसुप्तास्तनुमध्यमाः।।5.10.35।।",
+      "transliteration": "",
+      "translation": "Exhausted by drinking and indulging in amorous sport, the consorts of Ravana slept here and there with their visible slender waists.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अङ्गहारैस्तथैवान्या कोमलैर्नृत्तशालिनी।\nविन्यस्तशुभसर्वाङ्गी प्रसुप्ता वरवर्णिनी।।5.10.36।।",
+      "transliteration": "",
+      "translation": "Another woman exceedingly beautiful and a delicate danseuse of beautiful complexion and rhythmic movements held her limbs in a dancing posture (though asleep) due to her habit .",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "काचिद्वीणां परिष्वज्य प्रसुप्ता सम्प्रकाशते।\nमहानदीप्रकीर्णेव नलिनी पोतमाश्रिता।।5.10.37।।",
+      "transliteration": "",
+      "translation": "Another woman slept hugging her veena. She shone like a lotus plant flung in a large river, clinging on to a boat. (Veena is compared to a boat and the woman to a lotusplant in the ambience of flowing waters of the river. The entire hall had put up such a dynamic view showing hectic life of the inmates).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "अन्या कक्षगतेनैव मड्डुकेनासितेक्षणा।\nप्रसुप्ता भामिनी भाति बालपुत्रेव वत्सला।।5.10.38।।",
+      "transliteration": "",
+      "translation": "A woman with dark eyes asleep with a drum placed in her armpit looked like a beautiful mother holding her loving baby (the drum was hung to her arm with a rope).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "पटहं चारुसर्वाङ्गी पीड्य शेते शुभस्तनी।\nचिरस्य रमणं लब्ध्वा परिष्वज्येव भामिनी।।5.10.39।।",
+      "transliteration": "",
+      "translation": "Another charming beauty endowed with beautiful breasts lay hugging a tambourine as though a passionate woman lay embracing her lover whom she secured after a long time.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "काचिद्वंशं परिष्वज्य सुप्ता कमललोचना।\nरहः प्रियतमं गृह्य सकामेव च कामिनी।।5.10.40।।",
+      "transliteration": "",
+      "translation": "Yet another lotuseyed lady slept embracing a lute as if a lovelorn woman lay clasping her lover.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "विपञ्चीं परिगृह्यान्या नियता नृत्तशालिनी।\nनिद्रावशमनुप्राप्ता सह कान्तेव भामिनी।।5.10.41।।",
+      "transliteration": "",
+      "translation": "Another selfpossessed lady, graceful in dance, holding a sevenstringed lute  was as though lying asleep with her beloved.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "अन्या कनकसङ्काशैर्मृदुपीनैर्मनोरमैः।\nमृदङ्गं परिपीड्याङ्गैः प्रसुप्ता मत्तलोचना।।5.10.42।।",
+      "transliteration": "",
+      "translation": "Another lady with drunken eyes lay fast asleep holding a drum close to her beautiful bosom with her soft limbs. (These images show that these women were singing and dancing till late night and slept exhausted).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "भुजपार्श्वान्तरस्थेन कक्षगेन कृशोदरी।\nपणवेव सहानिन्द्या सुप्ता मदकृतश्रमा।।5.10.43।।",
+      "transliteration": "",
+      "translation": "Another lady of slender belly, who had been exhausted by drunkeness was lying with a tabor pressed to her bosom and inserted in her armpit.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "डिण्डिमं परिगृह्यान्या तथैवासक्तडिण्डिमा।\nप्रसुप्ता तरुणं वत्समुपगूह्येव भामिनी।।5.10.44।।",
+      "transliteration": "",
+      "translation": "One lovely woman and another held a drum and slept as if they were hugging their young child.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "काचिदाडम्बरं नारी भुजसंयोगपीडितम्।\nकृत्वा कमलपत्राक्षी प्रसुप्ता मदमोहिता।।5.10.45।।",
+      "transliteration": "",
+      "translation": "Yet another with her eyes like lotus petals deluded with passion tightly held in her arms a musical instrument known as Adambaram and slept.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "कलशीमपविध्यान्या प्रसुप्ता भाति भामिनी।\nवसन्ते पुष्पशबला मालेव परिमार्जिता।।5.10.46।।",
+      "transliteration": "",
+      "translation": "Another lovely lady was fast asleep, having turned a goblet of water  aside, yet another lay like a garland of variegated flowers in spring season.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "पाणिभ्यां च कुचौ काचित्सुवर्णकलशोपमौ।\nउपगूह्याबला सुप्ता निद्राबलपराजिता।।5.10.47।।",
+      "transliteration": "",
+      "translation": "Overcome with sleep another woman lay pressing with her own hands her golden gobletlike breasts.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "अन्या कमलपत्राक्षी पूर्णेन्दुसदृशानना।\nअन्यामालिङ्ग्य सुश्रोणीं प्रसुप्ता मदविह्वला।।5.10.48।।",
+      "transliteration": "",
+      "translation": "One woman with eyes like lotus petals and face like the fullmoon embraced another young woman of beautiful hips  and slept tipsy with drink.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "आतोद्यानि विचित्राणि परिष्वज्य वरस्त्रियः।\nनिपीड्य च कुचैस्सुप्ता कामिन्यः कामुकानिव।।5.10.49।।",
+      "transliteration": "",
+      "translation": "Some charming maidens held wonderful musical instruments pressing against their bosom and slept like passionate women embracing their loved ones.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "तासामेकान्तविन्यस्ते शयानां शयने शुभे।\nददर्श रूपसम्पन्नामपरां स कपिः स्त्रियम्।।5.10.50।।",
+      "transliteration": "",
+      "translation": "Hanuman saw some maidens lying on separate excellent beds, women richly  endowed with beautysleeping.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "मुक्तामणिसमायुक्तैर्भूषणैः सुविभूषिताम्।\nविभूषयन्तीमिव तत्स्वश्रिया भवनोत्तमम्।।5.10.51।।\nगौरीं कनकवर्णाभामिष्टामन्तः पुरेश्वरीम्।\nकपिर्मन्दोदरीं तत्र शयानां चारुरूपिणीम्।।5.10.52।।",
+      "transliteration": "",
+      "translation": "Then the vanara saw  a very beautiful woman of golden complexion decked with pearls and gems and with ornaments as if illuminating the excellent mansion with her splendour She was the king's favourite and the chief queen, Mandodari.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "स तां दृष्ट्वा महाबाहुर्भूषितां मारुतात्मजः।\nतर्कयामास सीतेति रूपयौवनसम्पदा।।5.10.53।\nहर्षेण महता युक्तो ननन्द हरियूथपः।",
+      "transliteration": "",
+      "translation": "On seeing her embellished with ornaments, beauty and charm, the long armed son of the Windgod, the chief of the vanaras thought her to be Sita and rejoiced.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-10-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "आस्फोटयामास चुचुम्ब पुच्छं ननन्द चिक्रीड जगौ जगाम।\nस्तम्भानरोहन्निपपात भूमौ निदर्शयन् स्वां प्रकृतिं कपीनाम्।।5.10.54।।",
+      "transliteration": "",
+      "translation": "He rejoiced clapping his palms, kissing his tail and jumping up, climbing up the pillars and jumping down on the ground in joy. Thus he exhibited his monkey nature. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे दशमस्सर्गः। Thus ends the tenth sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

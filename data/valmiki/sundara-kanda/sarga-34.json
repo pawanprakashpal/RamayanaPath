@@ -1,0 +1,369 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 34,
+    "title": "Hanuman tells the story of Rama to Sita.",
+    "titleSanskrit": "",
+    "totalShlokas": 39
+  },
+  "shlokas": [
+    {
+      "id": "vs-34-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तस्यास्तद्वचनं श्रुत्वा हनुमान्हरिपुङ्गवः।\nदुःखाद्दुःखाभिभूताया स्सान्त्वमुत्तरमब्रवीत्।।5.34.1।।",
+      "transliteration": "",
+      "translation": "Hearing the words of Sita who was overwhelmed with grief, the monkey leader Hanuman felt sad and thus spoke comforting her:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अ��ं रामस्य सन्देशाद्देवि दूतस्तवागतः।\nवैदेहि कुशली रामस्त्वां च कौशलमब्रवीत्।।5.34.2।।",
+      "transliteration": "",
+      "translation": "\"By the command of Rama I am here as a messenger. He is keeping well. He is well and wishes you well.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "यो ब्रह्ममस्त्रं वेदांश्च वेद वेदविदांवरः।\nस त्वां दाशरथी रामो देवि कौशलमब्रवीत्।।5.34.3।।",
+      "transliteration": "",
+      "translation": "\"O godlike lady Rama, son of Dasaratha, master of the Vedas, wielder of Brahmastra wishes you well.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "लक्ष्मणश्च महातेजा भर्तुस्तेऽनुचरः प्रियः।\nकृतवान्शोकसन्तप्तश्शिरसा तेऽभिवादनम्।।5.34.4।।",
+      "transliteration": "",
+      "translation": "\"The mighty Lakshmana too, a dear brother and follower of your husband is immersed in grief, and sends salutations to you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "सा तयोः कुशलं देवी निशम्य नरसिंहयोः।\nप्रीतिसंहृष्टसर्वाङ्गी हनुमन्तमथाब्रवीत्।।5.34.5।।",
+      "transliteration": "",
+      "translation": "On hearing the wellbeing of Rama and Lakshman, lions among men, Sita experienced thrill all over her body. She then  spoke to Hanuman:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "कल्याणी बत गाथेयं लौकिकी प्रतिभाति मा।\nएति जीवन्तमानन्दो नरं वर्षशतादपि।।5.34.6।।",
+      "transliteration": "",
+      "translation": "\"The adage that 'joy comes to a living being even though it be at the end of  a hundred years' is popular. It appears true in my case\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तया समागते तस्मिन्प्रीतिरुत्पादिताऽद्भुता।\nपरस्परेण चालापं विश्वस्तौ तौ प्रचक्रतुः।।5.34.7।।",
+      "transliteration": "",
+      "translation": "Hanuman thus created a sense of wonderful joy in her as they came together. Both of them started to converse restoring confidence in each other.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तस्यास्तद्वचनं श्रुत्वा हनुमान्हरियूथपः।\nसीतायाश्शोकदीनायास्समीपमुपचक्रमे।।5.34.8।।",
+      "transliteration": "",
+      "translation": "Hearing the reply of Sita, who was crying piteously, stricken with grief, the monkey leader, Hanuman moved close to her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "यथा यथा समीपं स हनुमानुपसर्पति।\nतथा तथा रावणं सा तं सीता परिशङ्कते।।5.34.9।।",
+      "transliteration": "",
+      "translation": "As Hanuman started slowly drawing close, Sita suspected he might be Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अहो धिग्दुष्कृतमिदं कथितं हि यदस्य मे।\nरूपान्तरमुपागम्य स एवायं हि रावणः।।5.34.10।।",
+      "transliteration": "",
+      "translation": "\"Ohshame on me. I have told him my story which should not have been said. This is verily Ravana come in a disguise\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तामशोकस्य शाखां सा विमुक्त्वा शोककर्शिता।\nतस्यामेवानवद्याङ्गी धरण्यां समुपाविशत्।।5.34.11।।",
+      "transliteration": "",
+      "translation": "So saying Sita of flawless limbs, emaciated with grief, left the branch of Ashoka tree held by her and squatted on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "हनुमानपि दुःखार्तां तां दृष्ट्वा भयमोहिताम्।\nअवन्दत महाबाहुस्ततस्तां जनकात्मजाम्।।5.34.12।।\nसा चैनं भयवित्रस्ता भूयो नैवाभ्युदैक्षत।",
+      "transliteration": "",
+      "translation": "The longarmed Hanuman saw Sita, who was stricken with grief and deluded with fear. He prostrated to her. But out of fear she did not look at him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तं दृष्ट्वा वन्दमानं तु सीता शशिनिभानना।।5.34.13।।\nअब्रवीद्धीर्घमुच्छवस्य वानरं मधुरस्वरा।",
+      "transliteration": "",
+      "translation": "On seeing the vanara prostrated, the moonfaced lady, sighed deeply and spoke to him in a sweet voice:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "मायां प्रविष्टो मायावी यदि त्वं रावणस्स्वयम्।।5.34.14।।\nउत्पादयसि मे भूयस्सन्तापं तन्न शोभनम्।",
+      "transliteration": "",
+      "translation": "\"If you are that trickster Ravana who appears incognito before me, it is not good for you. You are causing grief again.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "स्वं परित्यज्य रूपं यः परिव्राजकरूपध्रुत्।\nजनस्थाने मया दृष्टस्त्वं स एवासि रावणः।।5.34.15।।",
+      "transliteration": "",
+      "translation": "\"You are the same Ravana who took the guise of a mendicant, giving up your real form and came to Janasthana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "उपवासकृशां दीनां कामरूप निशाचर।\nसन्तापयसि मां भूयस्सन्तप्तां तन्न शोभनम्।।5.34.16।।",
+      "transliteration": "",
+      "translation": "\"Oh you are one who can assume any form at will. You are a nightstalker. It is not good for you to cause pain to me who is already emaciated through fasting, who is pitiable and who is already afflicted.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अथवा नैतदेवं हि यन्मया परिशङ्कितम्।।5.34.17।।\nमनसो हि मम प्रीतिरुत्पन्ना तव दर्शनात्।",
+      "transliteration": "",
+      "translation": "\"May be my suspicion is not correct Because I am experiencing pleasure in my mind in your presence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "यदि रामस्य दूतस्त्वमागतो भद्रमस्तु ते।।5.34.18।।\nपृच्छामि त्वां हरिश्रेष्ठ प्रिया रामकथा हि मे।",
+      "transliteration": "",
+      "translation": "\"O great vanara, If on the other hand you have come here as Rama's messenger I wish you well. I love Rama's story. Tell me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "गुणान्रामस्य कथय प्रियस्य मम वानर।।5.34.19।।\nचित्तं हरसि मे सौम्य नदीकूलं यथा रयः।",
+      "transliteration": "",
+      "translation": "\"O vanara Rama's virtues are dear to me to hear. O gentle one just as the current of the river wears away its banks, my mind is lured by your presence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "अहो स्वप्नस्य सुखता याहमेवं चिराहृता।।5.34.20।।\nप्रेषितं नाम पश्यामि राघवेण वनौकसम्।",
+      "transliteration": "",
+      "translation": "\"Oh I have been seeing the person sent by Rama in my dream for a long time. This is a pleasant dream to me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "स्वप्नेऽपि यद्यहं वीरं राघवं सहलक्ष्मणम्।।5.34.21।।\nपश्येयं नावसीदेयं स्वप्नोऽपि मम मत्सरी।",
+      "transliteration": "",
+      "translation": "\"Even if I can see the heroic Rama together with Lakshmana in my dream my pain will be gone. Even the dream is inimical to me (I cannot sleep and thus cannot dream.)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "नाहं स्वप्नमिमं मन्ये स्वप्ने दृष्ट्वा हि वानरम्।।5.34.22।।\nन शक्योऽभ्युदयः प्राप्तुं प्राप्तश्चाभ्युदयो मम।",
+      "transliteration": "",
+      "translation": "\"I do not think it is a dream. Pleasure cannot be experienced by seeing a vanara in a dream. I experience pleasure now (seeing a monkey in a dream is a bad omen).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "किन्नु स्याचित्तमोहोऽयं भवेद्वातगतिस्त्वियम्।।5.34.23।।\nउन्मादजो विकारो वा स्यादियं मृगतृष्णिका।",
+      "transliteration": "",
+      "translation": "\"Can this be a delusion of my mind or a mental imbalance (resulting in movement of the mind in the body). Is it a malady born of  my madness? Or is it a mirage?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "अथवा नायमुन्मादो मोहोऽप्युन्मादलक्षणः।।5.34.24।।\nसम्बुध्ये चाहमात्मानमियं चापि वनौकसम्।",
+      "transliteration": "",
+      "translation": "\"No, this cannot be insanity. nor even delusion. But I recognise this vanara well\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "इत्येवं बहुधा सीता सम्प्रधार्य बलाबलम्।।5.34.25।।\nरक्षसां कामरूपत्वान्मेने तं राक्षसाधिपम्।",
+      "transliteration": "",
+      "translation": "Considering the strength and weakness of demons in that manner Sita thought that Hanuman was none other than the king of demons who can asume any form at will.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "एतां बुद्धिं तदा कृत्वा सीता सा तनुमध्यमा।।5.34.26।।\nन प्रतिव्याजहाराथ वानरं जनकात्मजा।",
+      "transliteration": "",
+      "translation": "Having entertained such thoughts, Sita, the lady with a fairwaist, daughter of Janaka,  did not respond to the vanara.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "सीतायाश्चिन्तितं बुद्ध्वा हनुमान्मारुतात्मजः।।5.34.27।।\nश्रोत्रानुकूलैर्वचनैस्तदा तां संप्रहर्षयत्।",
+      "transliteration": "",
+      "translation": "Hanuman, son of the Windgod understood what was going on in Sita's mind and spoke pleasing words that brought joy in her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "आदित्य इव तेजस्वी लोककान्तश्शशी यथा।।5.34.28।।\nराजा सर्वस्य लोकस्य देवो वैश्रवणो यथा।\nविक्रमेणोपपन्नश्च यथा विष्णुर्महायशाः।।5.34.29।।",
+      "transliteration": "",
+      "translation": "\"Rama is glorious as the Sun, brings delight to the whole world like the Moon, is the  king of kings like Vaisravana,  and renowned like Visnu endowed with valour.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "सत्यवादी मधुरवाग्देवो वाचस्पतिर्यथा।\nरूपवान्सुभग श्रीमान् कन्दर्प इव मूर्तिमान्।।5.34.30।।",
+      "transliteration": "",
+      "translation": "\"He is truthful in speech like Brihaspati, prosperous (like Kubera), sweettongued, handsome, graceful like Kamadeva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "स्थानक्रोधः प्रहर्ता च श्रेष्ठो लोके महारथः।\nबाहुच्छायामवष्टब्धो यस्य लोको महात्मनः।।5.34.31।।",
+      "transliteration": "",
+      "translation": "\"He shows anger to one who deserves it, he is the foremost charioteer of the world and he is a great self under the shadow of whose shoulders the whole world takes refuge.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "अपकृष्याश्रमपदान्मृगरूपेण राघवम्।\nशून्ये येनापनीतासि तस्य द्रक्ष्यसि यत्फलम्।।5.34.32।।",
+      "transliteration": "",
+      "translation": "\"You will see the consequences of the action of Ravana who abducted you deceitfully in the form of deer when Rama was away from the hermitage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "न चिराद्रावणं संख्ये यो वधिष्यति वीर्यवान्।\nरोषप्रमुक्तैरिषुभिर्ज्वलद्भिरिव पावकैः।।5.34.33।।\nतेनाहं प्रेषितो दूत स्त्वत्सकाशमिहागतः।\nत्वद्वियोगेन दुःखार्त स्स त्वां कौशलमब्रवीत्।।5.34.34।।",
+      "transliteration": "",
+      "translation": "\"Heroic Rama will soon release many scorching, fiery arrows in anger and kill Ravana. I seek your permission as an envoy of Rama. Filled with grief by your separation, he has made inquiries about your welfare.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "लक्ष्मणश्च महातेजास्सुमित्रानन्दवर्धनः।\nअभिवाद्य महाबाहुस्स त्वां कौशलमब्रवीत्।।5.34.35।।",
+      "transliteration": "",
+      "translation": "\"The brilliant, longarmed Lakshmana, delight of Sumitra enquires about your welfare and offers salutations to you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "रामस्य च सखा देवि सुग्रीवो नाम वानरः।\nराजा वानरमुख्यानां स त्वां कौशलमब्रवीत्।।5.34.36।।",
+      "transliteration": "",
+      "translation": "\"O goddess like lady Rama's friend Sugriva, king of vanara chieftans inquires about your wellbeing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "नित्यं स्मरति रामस्त्वां ससुग्रीव स्सलक्ष्मणः।\nदिष्ट्या जीवसि वैदेहि राक्षसीवशमागता।।5.34.37।।",
+      "transliteration": "",
+      "translation": "\"O Vaidehi Rama, Lakshmana and Sugriva always remember you. Luckily you are alive even though you are under the clutches of shedemons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "नचिराद्द्रक्ष्यसे रामं लक्ष्मणं च महाबलम्।\nमध्ये वानरकोटीनां सुग्रीवं चामितौजसम्।।5.34.38।।",
+      "transliteration": "",
+      "translation": "\"Very soon you will see mighty Rama, Lakshmana and Sugriva of unlimited prowess surrounded by crores of vanaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "अहं सुग्रीवसचिवो हनुमान्नाम वानरः।\nप्रविष्टो नगरीं लङ्कां लङ्घयित्वा महोदधिम्।।5.34.39।।",
+      "transliteration": "",
+      "translation": "\"I am Sugriva's minister known as Hanuman, a vanara who entered the city of Lanka after leaping over the great ocean.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "कृत्वा मूर्ध्नि पदन्यासं रावणस्य दुरात्मनः।\nत्वां द्रष्टुमुपयातोऽहं समाश्रित्य पराक्रमम्।।5.34.40।।",
+      "transliteration": "",
+      "translation": "\"Setting my foot with my valour on the head of the cruelminded Ravana, using my valour,  I came here to see you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-34-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "नाहमस्मि तथा देवि यथा मामवगच्छसि।\nविशङ्का त्यज्यतामेषा श्रद्धत्स्व वदतो मम।।5.34.41।।",
+      "transliteration": "",
+      "translation": "\"O goddesslike lady I am not  a deceitful person as you suppose me to be. Shake off your suspicion as I speak to you and trust me.\" इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे चतुस्त्रिंशस्सर्गः।। Thus ends the thirtyfourth sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

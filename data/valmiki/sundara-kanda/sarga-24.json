@@ -1,0 +1,414 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 24,
+    "title": "The ogresses chide Sita who resolutely condemned Ravana.",
+    "titleSanskrit": "",
+    "totalShlokas": 44
+  },
+  "shlokas": [
+    {
+      "id": "vs-24-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततः सीतामुपागम्य राक्षस्यो विकृताननाः।\nपरुषं परुषा नार्य ऊचुस्तां वाक्यमप्रियम्।।5.24.1।।",
+      "transliteration": "",
+      "translation": "Then the hideous ogresses approached Sita and spoke these harsh words in an unbecoming manner:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "किं त्वमन्तःपुरे सीते सर्वभूतमनोहरे।\nमहार्हशयनोपेते न वासमनुमन्यसे।।5.24.2।।",
+      "transliteration": "",
+      "translation": "'O Sita why don't you agree to dwell in Ravana's inner apartment furnished with fine bedsteads, and which is delightful?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "मानुषी मानुषस्यैव भार्यात्वं बहुमन्यसे।\nप्रत्याहर मनो रामान्न त्वं जातु भविष्यसि।।5.24.3।।",
+      "transliteration": "",
+      "translation": "'You are  a woman, wife of Rama, an ordinary mortal you are holding in high esteem. Withdraw your mind from Rama or else you will not survive.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "त्रैलोक्यवसुभोक्तारं रावणं राक्षसेश्वरम्।\nभर्तारमुपसङ्गम्य विहरस्व यथासुखम्।।5.24.4।।\n&nbsp;",
+      "transliteration": "",
+      "translation": "\"Accept Ravana as your husband and after uniting with him enjoy all the pleasures of the three worlds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "मानुषी मानुषं तं तु राममिच्छसि शोभने।\nराज्याद्भ्र्रष्टमसिद्धार्थं विक्लबं त्वमनिन्दिते।।5.24.5।।",
+      "transliteration": "",
+      "translation": "'O charming lady you have an irreproachable beauty and grace. Why do you think of human Rama only who has been dethroned from the kingdom. He is only a human being who is unsuccessful and distressful.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "राक्षसीनां वचः श्रुत्वा सीता पद्मनिभेक्षणा।\nनेत्राभ्यामश्रुपूर्णाभ्यामिदं वचनमब्रवीत्।।5.24.6।।\n&nbsp;",
+      "transliteration": "",
+      "translation": "Hearing the words of the ogresses, Sita with eyes like lotus petals full of tears replied this way:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "यदिदं लोकविद्विष्टमुदाहरथ सङ्गताः।\nनैतन्मनसि वाक्यं मे किल्बिषं प्रतिभाति वः।।5.24.7।।\n&nbsp;",
+      "transliteration": "",
+      "translation": "\"All of you joined together and spoke such words that are not acceptable to the world. Your sinful words of advice do not appeal to me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "न मानुषी राक्षसस्य भार्या भवितुमर्हति।\nकामं खादत मां सर्वा न करिष्यामि वो वचः।।5.24.8।।\n&nbsp;",
+      "transliteration": "",
+      "translation": "' A human being ought not to become wife of a demon. Devour me if you want. I refuse to accept your advice.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "दीनो वा राज्यहीनो वा यो मे भर्ता स मे गुरुः।\nतं नित्यमनुरक्तास्मि यथा सूर्यं सुवर्चला।।5.24.9।।",
+      "transliteration": "",
+      "translation": "'Dejected or dethroned from the kingdom, Rama is my lawful husband. I will ever remain devoted to Rama as Suvarchala, wife of the Sungod is to him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "यथा शची महाभागा शक्रं समुपतिष्ठति।\nअरुन्धती वसिष्ठं च रोहिणी शशिनं यथा।।5.24.10।।\nलोपामुद्रा यथागस्त्यं सुकन्या च्यवनं यथा।\nसावित्री सत्यवन्तं च कपिलं श्रीमती यथा।।5.24.11।।\nसौदासं मदयन्तीव केशिनी सगरं यथा।\nनैषधं दमयन्तीव भैमी पतिमनुव्रता।।5.24.12।।\nतथाऽहमिक्ष्वाकुवरं रामं पतिमनुव्रता।",
+      "transliteration": "",
+      "translation": "'I am steadfast (in love) to my husband Rama, the foremost of the Ikshvaku family in the same manner as noble Sachi to Indra, Arundhati to Vasistha, Rohini to the Moon, Lopamudra to Agastya, Sukanya to sage Chyavana, Savitri to Satyavan, Srimati to Kapilamuni Madayanti to Soudasu, Kesini to king Sagara and Bhima's daughter Damayanti to her lord Nala, (the king of Nishadas)'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "सीताया वचनं श्रुत्वा राक्षस्यः क्रोधमूर्छिताः।।5.24.13।।\nभर्त्सयन्ति स्म परुषैर्वाक्यै रावणचोदिताः।\n&nbsp;",
+      "transliteration": "",
+      "translation": "Hearing the reply of Sita, the ogresses ordered by Ravana and overtaken by anger again began to threaten Sita using harsh words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अवलीनः स निर्वाक्यो हनूमान् शिंशुपाद्रुमे।।5.24.14।।\nयसीतां सन्तर्जयन्तीस्ता राक्षसीरशृणोत् कपिः।",
+      "transliteration": "",
+      "translation": "Hanuman who kept himself concealed on the simsupa tree speechlessly listened to the ogresses threatening Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तामभिक्रम्य सङ्कृद्धा वेपमानां समन्ततः।।5.24.15।।\nभृशं संलिलिहुर्दीप्तान् प्रलम्बान् दशनच्छदान्।",
+      "transliteration": "",
+      "translation": "Sita was trembling in fear. The  enraged ogresses went on licking their lips hanging, again and again.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "ऊचुश्च परमक्रुद्धाः प्रगृह्याशु परश्वधान्।।5.24.16।।\nनेयमर्हति भर्तारं रावणं राक्षसाधिपम्।",
+      "transliteration": "",
+      "translation": "The enraged ogresses immediately picked up the axes and rose up saying, 'she is unfit to have the demon king, Ravana as her husband'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "सा भर्त्स्यमाना भीमाभी राक्षसीभिर्वरानना।।5.24.17।।\nसबाष्पमप सर्पन्ती शिंशुपां तामुपागमत्।",
+      "transliteration": "",
+      "translation": "As the charming Sita was threatened by the fierce ogresses, she moved towards the simsupa tree with eyes full of tears.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "ततस्तां शिंशुपां सीता राक्षसीभिः समावृता।।5.24.18।।\nअभिगम्य विशालाक्षी तस्थौ शोकपरिप्लुता।",
+      "transliteration": "",
+      "translation": "Then the largeeyed Sita, drowned in sorrow surrounded by the ogresses went near the simsupa tree and stood there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तां कृशां दीनवदनां मलिनाम्बरधारिणीम्।।5.24.19।।\nभर्त्सयाञ्चक्रिरे सीतां राक्षस्यस्तां समन्ततः।",
+      "transliteration": "",
+      "translation": "The ogresses started intimidating Sita who was dressed in soiled clothes and emaciated with a dejected look on her face.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "ततस्तां विनता नाम राक्षसी भीमदर्शना।।5.24.20।।\nअब्रवीत्कुपिताकारा कराला निर्णतोदरी।",
+      "transliteration": "",
+      "translation": "Then a dark ogress called Vinata with a terryfying look, loathsome appearance and a large sunken belly said to Sita:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "सीते पर्याप्तमेतावद्भर्तुः स्नेहो निदर्शितः।।5.24.21।।\nसर्वात्रातिकृतं भद्रे व्यसनायोपकल्पते",
+      "transliteration": "",
+      "translation": "'O Sita you have shown your love for your husband to this extent. It is enough. O auspicious lady anything carried to excess leads to adversity.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "परितुष्टास्मि भद्रं ते मानुषस्ते कृतो विधिः।।5.24.22।।\nममापि तु वचः पथ्यं ब्रुवन्त्याः कुरु मैथिलि।",
+      "transliteration": "",
+      "translation": "\"O Mythili I beseech you (to oblige Ravana). You have discharged your duty as a human being. Be happy. But you should also heed my advice which is, after all, salutary.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "रावणं भज भर्तारं भर्तारं सर्वरक्षसाम्।।5.24.23।।\nविक्रान्तं रूपवन्तं च सुरेशमिव वासवम्।\nदक्षिणं त्यागशीलं च सर्वस्य प्रियदर्शनम्।।5.24.24।।\n&nbsp;",
+      "transliteration": "",
+      "translation": "'Accept as your husband the demon king Ravana, courageous and handsome like Indra, king of the gods generous, sacrificing and pleasing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "मानुषं कृपणं रामं त्यक्त्वा, रावणमाश्रय।\nदिव्याङ्गरागा वैदेहि दिव्याभरणभूषिता।।5.24.25।।\nअद्यप्रभृति सर्वेषां लोकानामीश्वरी भव।",
+      "transliteration": "",
+      "translation": "'Leave the helpless human Rama and seek Ravana's refuge. O Vaidehi, using the heavenly unguents and adorned with imposing ornaments from now on, be the queen of all people.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "अग्नेः स्वाहा यथा देवी शची वेन्द्रस्य शोभने।।5.24.26।।\nकिं ते रामेण वैदेहि कृपणेन गतायुषा।\n&nbsp;",
+      "transliteration": "",
+      "translation": "O beautiful Sita Just like Swaha, queen to the Firegod and Sachi to Indra, accept Ravana. Why are you still thinking of Rama who is helpless and whose life span is coming to an end soon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "एतदुक्तं च मे वाक्यं यदि त्वं न करिष्यसि।।5.24.27।।\nअस्मिन्मुहूर्ते सर्वास्त्वां भक्षयिष्यामहे वयम्।",
+      "transliteration": "",
+      "translation": "'If you do not heed our words of advice, all of us will eat you at this very moment.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "अन्या तु विकटा नाम लम्बमानपयोधरा।।5.24.28।।\nअब्रवीत्कुपिता सीतां मुष्टिमुद्यम्य गर्जती।",
+      "transliteration": "",
+      "translation": "Now Vikata another ogress with hanging breasts raised her fist up in anger and roared at Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "बहून्यप्रियरूपाणि वचनानि सुदुर्मते।।5.24.29।।\nअनुक्रोशान्मृदुत्वाच्च सोढानि तव मैथिलि।\n&nbsp;",
+      "transliteration": "",
+      "translation": "O wicked Mythili! we have tolerated many unpleasant words uttered by you due to our kindness and mildness..",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "न च नः कुरुषे वाक्यं हितं कालपुरस्कृतम्।।5.24.30।।\nआनीतासि समुद्रस्य पारमन्यैर्दुरासदम्।\nरावणान्तःपुरं घोरं प्रविष्टा चासि मैथिलि।।5.24.31।।",
+      "transliteration": "",
+      "translation": "'O Mythili you have heeded not our good and timely advice tendered in your interest. You have been brought to the other shore of the ocean and to the inner chambers of Ravana which is very difficult for others to access.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "रावणस्य गृहे रुद्धामस्माभिस्तु सुरक्षिताम्।\nन त्वां शक्तः परित्रातुमपि साक्षात्पुरन्दरः।।5.24.32।।",
+      "transliteration": "",
+      "translation": "'You are in Ravana's house, wellguarded by us. It is not possible even for Indra, destroyer of citadels, to come to your rescue (let alone Rama).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "कुरुष्व हितवादिन्या वचनं मम मैथिलि।\nअलमश्रुप्रपातेन त्यज शोकमनर्थकम्।।5.24.33।।",
+      "transliteration": "",
+      "translation": "'Mythili, act according to our advice. I am your wellwisher. Give up sorrow and stop shedding useless tears.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "भज प्रीतिं च हर्षं च त्यजैतां नित्यदैन्यताम्।\nसीते राक्षसराजेन सह क्रीड यथासुखम्।।5.24.34।।",
+      "transliteration": "",
+      "translation": "'O Sita offer your love to Ravana, adore him and be happy. Give up this continuous dejection. Enjoy all pleasures along with the king of demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "जानासि हि यथा भीरु स्त्रीणां यौवनमध्रुवम्।\nयावन्न ते व्यतिक्रामेत्तावत्सुखमवाप्नुहि।।5.24.35।।",
+      "transliteration": "",
+      "translation": "'O timid Sita know that youth of women is fleeting and transient. Before it is over, enjoy all kinds of pleasures.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "उद्यानानि च रम्याणि पर्वतोपवनानि च।\nसह राक्षसराजेन चर त्वं मदिरेक्षणे।।5.24.36।।",
+      "transliteration": "",
+      "translation": "'O lady of intoxicating eyes range in the company of the demon king, the delightful gardens and mountain ranges filled with gardens.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "स्त्री सहस्राणि ते सप्त वशे स्थास्यन्ति सुन्दरि।\nरावणं भज भर्तारं भर्तारं सर्वरक्षसाम्।।5.24.37।।",
+      "transliteration": "",
+      "translation": "'O beautiful Sita seven thousand ogresses will be at your beck and call. (Therefore) accept Ravana, the lord of all ogres as your husband.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "उत्पाट्य वा ते हृदयं भक्षयिष्यामि मैथिलि।\nयदि मे व्याहृतं वाक्यं न यथावत्करिष्यसि।।5.24.38।।",
+      "transliteration": "",
+      "translation": "'O Mythili if you heed not my words of advice, I will pluck out your heart and eat it up'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "ततश्चण्डोदरी नाम राक्षसी क्रोधमूर्छिता।\nभ्रामयन्ती महच्छूलमिदं वचनमब्रवीत्।।5.24.39।।",
+      "transliteration": "",
+      "translation": "Next spoke a fiercelooking ogress called Chandodari, overcome with anger taking up a huge trident and rotating.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "इमां हरिणलोलाक्षीं त्रासोत्कम्पिपयोधराम्।\nरावणेन हृतां दृष्टवा दौहृदो मे महानभूत्।।5.24.40।।",
+      "transliteration": "",
+      "translation": "'I have developed a morbid desire to feast upon this woman with eyes flashing like doe's, whose breasts heave with stress and fear after she was abducted by Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "यकृत्प्लीहमथोत्पीडं हृदयं च सबन्धनम्।\nआन्त्राण्यपि तथा शीर्षं खादेयमिति मे मतिः।।5.24.41।।",
+      "transliteration": "",
+      "translation": "'I thought of feasting on your spleen, liver, heart, all the joints, head and intestines.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "ततस्तु प्रघसा नाम राक्षसी वाक्यमब्रवीत्।\nकण्ठमस्या नृशंसायाः पीडयाम किमास्यते।।5.24.42।।",
+      "transliteration": "",
+      "translation": "Next spoke an ogress called Praghasa, saying 'Why not we twist and squeeze the neck of this heartless lady. Why are you sitting idle still? Come on.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "निवेद्यतां ततो राज्ञे मानुषी सा मृतेति ह।\nनात्र कश्चन संदेहः खादतेति स वक्ष्यति।।5.24.43।।",
+      "transliteration": "",
+      "translation": "'Thereafter we will announce that such a human being is dead. Then Ravana will simply say 'eat her up'. There is no doubt .'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "ततस्त्वजामुखी नाम राक्षसी वाक्यमब्रवीत्।\nविशस्येमां ततः सर्वाः समान् कुरुत पिण्डकान्।।5.24.44।।",
+      "transliteration": "",
+      "translation": "Then an ogress called Ajamukhi said, 'Let her body be cut into lumps of equal pieces.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "विभजाम ततः सर्वा विवादो मे न रोचते।\nपेयमानीयतां क्षिप्रं लेह्यमुच्चावचं बहु।।5.24.45।।",
+      "transliteration": "",
+      "translation": "'We shall share them. I do not like disputes in this regard. Go swiftly and get drinks and food to lick. Let the accompanying  dishes of all variety and quality be brought.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "ततः शूर्पणखा नाम राक्षसी वाक्यमब्रवीत्।\nअजामुख्या यदुक्तं हि तदेव मम रोचते।।5.24.46।।",
+      "transliteration": "",
+      "translation": "Then an ogress called Surpanakha said, 'I too like the proposal of Ajamukhi.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "सुरा चानीयतां क्षिप्रं सर्वशोकविनाशिनी।\nमानुषं मांसमास्वाद्य नृत्यामोऽथ निकुम्भिलाम्।।5.24.47।।",
+      "transliteration": "",
+      "translation": "'Get the wine quickly, destroyer of all sorrows. After relishing the human flesh we will start Nikumbhila dance.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-24-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "एवं संभर्त्स्यमाना सा सीता सुरसुतोपमा।\nराक्षसीभिः सुघोराभिर्दैर्यमुत्सृज्य रोदिति।।5.24.48।।",
+      "transliteration": "",
+      "translation": "Threatened by the ogresses in that manner, Sita who was like the daughter of a god, cried aloud. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे चतुर्विंशस्सर्गः। Thus ends the twentyfourth sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

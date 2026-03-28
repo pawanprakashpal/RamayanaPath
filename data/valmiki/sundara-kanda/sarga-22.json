@@ -1,0 +1,414 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 22,
+    "title": "Ravana appeals to Sita -- asks the demon guards to change her mind -- gives ultimatum to Sita",
+    "titleSanskrit": "",
+    "totalShlokas": 44
+  },
+  "shlokas": [
+    {
+      "id": "vs-22-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "सीताया वचनं श्रुत्वा परुषं राक्षसाधिपः।\nप्रत्युवाच ततः सीतां विप्रियं प्रियदर्शनाम्।।5.22.1।।",
+      "transliteration": "",
+      "translation": "Hearing the sharp words of pleasing Sita, the lord of demons replied in unpleasant terms:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "यथा यथा सान्त्वयिता वश्यः स्त्रीणां तथा तथा।\nयथा यथा प्रियं वक्ता परिभूतस्तथा तथा।।5.22.2।।",
+      "transliteration": "",
+      "translation": "\"The more the lover is courteous and loving and pleasing to women the more he is humiliated by them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "सन्नियच्छति मे क्रोधं त्वयि कामः समुत्थितः।\nद्रवतोऽमार्गमासाद्य हयानिव सुसारथिः।।5.22.3।।",
+      "transliteration": "",
+      "translation": "\"My love for you has restrained my anger, just as a good charioteer controls the horses galloping on a wrong path.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "वामः कामो मनुष्याणां यस्मिन् किल निबध्यते।\nजने तस्मिंस्त्वनुक्रोशः स्नेहश्च किल जायते।।5.22.4।।",
+      "transliteration": "",
+      "translation": "\"Love is partial. It gets bound to those in whomsoever compassion and friendship is generated, even though they are punishable.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "एतस्मात्कारणान्न त्वां घातयामि वरानने।\nवधार्हामवमानार्हां मिथ्याप्रव्रजिते रताम्।।5.22.5।।",
+      "transliteration": "",
+      "translation": "\"O beautiful one it is on this account that I do not kill you even though you deserve to be killed and insulted (for the words used),  even as you are engaged in a pseudoascetic life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "परुषाणीह वाक्यानि यानि यानि ब्रवीषि माम्।\nतेषु तेषु वधो युक्तस्तव मैथिलि दारुणः।।5.22.6।।",
+      "transliteration": "",
+      "translation": "\"O Mythili for each of the piercing statements made you deserve dreadful death.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "एवमुक्त्वा तु वैदेहीं रावणो राक्षसाधिपः।\nक्रोधसंरम्भसंयुक्तः सीतामुत्तरमब्रवीत्।।5.22.7।।",
+      "transliteration": "",
+      "translation": "Ravana, the lord of demons, said these words in reply to Vaidehi who was overcome with  anger and exitement.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "द्वौ मासौ रक्षितव्यौ मे योऽवधिस्ते मया कृतः।\nततः शयनमारोह मम त्वं वरवर्णिनि।।5.22.8।।",
+      "transliteration": "",
+      "translation": "\"I shall wait for two months, the deadline fixed. O lady of beautiful hue thereafter you have to share my bed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "ऊर्ध्वं द्वाभ्यां तु मासाभ्यां भर्तारं मामनिच्छतीम्।\nमम त्वां प्रातराशार्थमालभन्ते महानसे।।5.22.9।।",
+      "transliteration": "",
+      "translation": "\"If you are still reluctant to accept me as your husband after two months you will be sent to kitchen to be cooked as morning breakfast for me\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तां तर्ज्यमानां सम्प्रेक्ष्य राक्षसेन्द्रेण जानकीम्।\nदेवगन्धर्वकन्यास्ता विषेदुर्विकृतेक्षणाः।।5.22.10।।",
+      "transliteration": "",
+      "translation": "Observing Janaki, threatened by the demon king the daughters of gods and gandharvas shed tears with distressful eyes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "ओष्ठप्रकारैरपरा वक्त्रनेत्रैस्तथापराः।\nसीतामाश्वासयामासुस्तर्जितां तेन रक्षसा।।5.22.11।।",
+      "transliteration": "",
+      "translation": "When Sita was threatened by the demon king, the daughters of gods and gandharvas there consoled her through gestures of their lips and eyes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "ताभिराश्वासिता सीता रावणं राक्षसाधिपम्।\nउवाचात्महितं वाक्यं वृत्तशौण्डीर्यगर्वितम्।।5.22.12।।",
+      "transliteration": "",
+      "translation": "Having thus been consoled, Sita, proud of the power of her virtues, said this to Ravana in selfdefence:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "नूनं न ते जनः कश्चिदस्ति निःश्रेयसे स्थित:।\nनिवारयति यो न त्वां कर्मणोऽस्माद्विगर्हितात्।।5.22.13।।",
+      "transliteration": "",
+      "translation": "\"Obviously there is no one among your people keen on your welfare since nobody is preventing you from this reproachable act.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "मां हि धर्मात्मनः पत्नीं शचीमिव शचीपतेः।\nत्वदन्यस्त्रिषु लोकेषु प्रार्थयेन्मनसापि कः।।5.22.14।।",
+      "transliteration": "",
+      "translation": "\"Who in all the three worlds other than you would, even in mind, seek this consort of the righteous self (Sri Rama) like  Sachi to Indra? .",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "राक्षसाधम रामस्य भार्याममिततेजसः।\nउक्तवानसि यत्पापं क्व गतस्तस्य मोक्ष्यसे।।5.22.15।।",
+      "transliteration": "",
+      "translation": "\"O stupid demon where can you go to escape the consequences of your sinful words spoken against Rama's consort of undimmed brilliance?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "यथा दृप्तश्च मातङ्गः शशश्च सद्दृशो युधि।\nतथा मातङ्गवद्रामस्त्वं नीच: शशवत् स्मृतः।।5.22.16।।",
+      "transliteration": "",
+      "translation": "\"It is like a proud elephant fighting in war with a rabbit. Rama is like an elephant and you are like an ordinary rabbit people speak of.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "स त्वमिक्ष्वाकुनाथं वै क्षिपन्निह न लज्जसे।\nचक्षुषोर्विषयं तस्य न तावदुपगच्छसि।।5.22.17।।",
+      "transliteration": "",
+      "translation": "\"You are not ashamed of belittling Rama in his absence. You have not yet walked into his sight.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "इमे ते नयने क्रूरे विरूपे कृष्णपिङ्गले।\nक्षितौ न पतिते कस्मान्मामनार्य निरीक्षितः।।5.22.18।।",
+      "transliteration": "",
+      "translation": "\"O ignoble wretch I wonder why your dark brown, distorted eyes do not fall off (the socket) when you look at me (lustfully).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तस्य धर्मात्मनः पत्नीं स्नुषां दशरथस्य च।\nकथं व्याहरतो मां ते न जिह्वा व्यवशीर्यते।।5.22.19।।",
+      "transliteration": "",
+      "translation": "\"Why does not your tongue drop down while you speak such words against this consort of the righteous king (Rama) and daughterin law of Dasaratha?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "असन्देशात्तु रामस्य तपसश्चानुपालनात्।\nन त्वां कुर्मि दशग्रीव भस्म भर्मार्ह तेजसा।।5.22.20।।",
+      "transliteration": "",
+      "translation": "\"O Ravana I can reduce you to ashes through the fire of my chastity. But I do not have Rama's permission and I want to preserve my power of ascetism even though you are fit to be consigned to the flames.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "नापहर्तुमहं शक्या त्वया रामस्य धीमतः।\nविधिस्तव वधार्थाय विहितो नात्र संशयः।।5.22.21।।",
+      "transliteration": "",
+      "translation": "\"When I was with wise Rama, it was not possible for you to abduct me. No doubt Providence has ordained this to bring about your death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "शूरेण धनदभ्रात्रा बलैः समुदितेन च।\nअपोह्य रामं कस्माद्धि दारचौर्यं त्वया कृतम्।।5.22.22।।",
+      "transliteration": "",
+      "translation": "\"You are a (great) warrior and a brother of Kubera. You possess an army. Then why did you abduct Rama's wife bypassing him?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "सीताया वचनं श्रुत्वा रावणो राक्षसाधिपः।\nविवृत्य नयने क्रूरे जानकीमन्ववैक्षत।।5.22.23।।",
+      "transliteration": "",
+      "translation": "On hearing Janaki, the lord of demons, Ravana looked at her with his cruel eyes opened wide and rolling.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "नीलजीमूतसङ्काशो महाभुजशिरोधरः।\nसिंहसत्त्वगतिः श्रीमान् दीप्त जिह्वाग्रलोचनः।।5.22.24।।",
+      "transliteration": "",
+      "translation": "Prosperous Ravana looked like a mass of dark cloud, with strong arms, stout neck, gait of a lion, a blazing tongue and burning eyes",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "चलाग्रमकुटप्रांशुश्चित्रमाल्यानुलेपनः।\nरक्तमाल्याम्बरधर तत्सङ्गदविभूषणः।।5.22.25।।",
+      "transliteration": "",
+      "translation": "He appeared taller with an unsteady crown. He was wearing wonderful red flower garlands and clothes and was smeared with unguents, shining in ornamental armlets.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "श्रोणिसूत्रेण महता मेचकेन सुसंवृतः।\nअमृतोत्पादनद्धेन भुजगेनेव मन्दरः।।5.22.26।।",
+      "transliteration": "",
+      "translation": "Wrapped well with a big black thread around his hips, he appeared like mount Mandara encompassed by a black serpent at the time of churning the milkocean for nectar.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "ताभ्यां स परिपूर्णाभ्यां भुजाभ्यां राक्षसेश्वरः।\nशुशुभेऽचलसङ्काशः शृङ्गाभ्यामिव मन्दरः।।5.22.27।।",
+      "transliteration": "",
+      "translation": "The lord of demons shone like mount Mandara, both his long two arms like two mountain peaks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "तरुणादित्यवर्णाभ्यां कुण्डलाभ्यां विभूषितः।\nरक्तपल्लवपुष्पाभ्यामशोकाभ्यामिवाचलः।।5.22.28।।",
+      "transliteration": "",
+      "translation": "He stood like a mountain with two Ashoka trees clothed with red leaves and flowers in the form of earrings of the colour of the rising Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "स कल्पवृक्षप्रतिमो वसन्त इव मूर्तिमान्।\nश्मशानचैत्यप्रतिमो भूषितोऽपि भयङ्करः।।5.22.29।।",
+      "transliteration": "",
+      "translation": "He was comparable to the wishfulfilling tree grown in heaven, a personified spring season and a memorial structure raised on the cremation ground. He looked frightening even though  welladorned.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "अवेक्षमाणो वैदेहीं कोपसंरक्तलोचनः।\nउवाच रावणः सीतां भुजङ्ग इव निःश्वसन्।।5.22.30।।",
+      "transliteration": "",
+      "translation": "Looking at Vaidehi, eyes red with anger, and breathing heavily like a histing snake, Ravana replied:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "अनयेनाभिसम्पन्नमर्थहीनमनुव्रते।\nनाशयाम्यहमद्य त्वां सूर्यः सन्ध्यामिवौजसा।।5.22.31।।",
+      "transliteration": "",
+      "translation": "\"O Sita you are following a vow of chastity and treading a meaningless, wrong path. I will destroy you as the Sun dispels the morning twilight with his lustre\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "इत्युक्त्वा मैथिलीं राजा रावणः शत्रुरावणः।\nसन्दिदेश ततः सर्वा राक्षसीर्घोरदर्शनाः।।5.22.32।।",
+      "transliteration": "",
+      "translation": "King Ravana, a tormentor of enemies, having thus threatened Mythili commanded the shedemons women of fiecrceful appearance as follows:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "एकाक्षीमेककर्णां च कर्णप्रावरणां तथा।\nगोकर्णीं हस्तिकर्णीं च लम्बकर्णीमकर्णिकाम्।।5.22.33।।\nहस्तिपाद्यश्वपाद्यौ च गोपादीं पादचूलिकाम्।\nएकाक्षीमेकपादीं च पृथुपादीमपादिकाम्।।5.22.34।।\nअतिमात्रशिरोग्रीवामतिमात्रकुचोदरीम्।\nअतिमात्रास्यनेत्रां च दीर्घजिह्वामजिह्विकाम्।।5.22.35।।\nअनासिकां सिंहमुखीं गोमुखीं सूकरीमुखीम्।",
+      "transliteration": "",
+      "translation": "Of them one had one eye, the other one ear, another with ears covered, one had the ear of a cow, another had ears of an elephant and yet another, long, hanging ears. One had the feet of an elephant, another, hoofs of a horse and still another of a cow. While one had a single foot, another had broad feet and yet another no feet at all. One had a long neck and a large head. One had large breasts and belly. One had a big face and eyes, another had a long tongue and yet another no tongue at all. One had no nose and still another had a lion face and yet another the face of a cow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "यथा मद्वशगा सीता क्षिप्रं भवति जानकी।।5.22.36।।\nतथा कुरुत राक्षस्यः सर्वाः क्षिप्रं समेत्य च।",
+      "transliteration": "",
+      "translation": "\"O demonesses, all of you jointly dispose Janaki towards me. See that she submits to me at once.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "प्रतिलोमानुलोमैश्च सामदानादिभेदनैः।।5.22.37।।\nआवर्जयत वैदेहीं दण्डस्योद्यमनेन च।",
+      "transliteration": "",
+      "translation": "\"By adopting means favourable or contrary to her will or through persuasion or coercion or through reward or punishment, draw Vaidehi's mind towards me.\" (said Ravana).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "इति प्रतिसमादिश्य राक्षसेन्द्रः पुनः पुनः।।5.22.38।।\nकाममन्युपरीतात्मा जानकीं पर्यतर्जयत्।",
+      "transliteration": "",
+      "translation": "The demon king repeatedly commanded the ogresses burning in anger and passion and threatened Sita again and again, pointing his finger at her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "उपगम्य ततः शीघ्रं राक्षसी धान्यमालिनी।।5.22.39।।\nपरिष्वज्य दशग्रीवमिदं वचनमब्रवीत्।",
+      "transliteration": "",
+      "translation": "An ogress called Dhanyamalini at once approached the tenheaded Ravana and embracing him, said:.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "मया क्रीड महाराज सीतया किं तवानया।।5.22.40।।\nविवर्णया कृपणया मानुष्या राक्षसेश्वर।",
+      "transliteration": "",
+      "translation": "\"O king of demons, sport with me, my lord. What purpose will be served with this pale wretched Sita, a human being after all?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "नूनमस्या महाराज न दिव्यान् भोगसत्तमान्।।5.22.41।।\nविदधात्यमरश्रेष्ठस्तव बाहुबलार्जितान्।",
+      "transliteration": "",
+      "translation": "\"O king surely she is not ordained by Brahma, the foremost among the immortals to enjoy the luxuries earned by the strength of your arms.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "अकामां कामयानस्य शरीरमुपतप्यते।।5.22.42।।\nइच्छन्तीं कामयानस्य प्रीतिर्भवति शोभना।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु राक्षस्या समुत्क्षिप्तस्ततो बली।।5.22.43।।\nप्रहसन्मेघसङ्काशो राक्षसः स न्यवर्तत।",
+      "transliteration": "",
+      "translation": "Having heard her words, the demon king who resembled a fierce dark cloud turned away, laughing heartily.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "प्रस्थितः स दशग्रीवः कम्पयन्निव मेदिनीम्।।5.22.44।।\nज्वलद्भास्करवर्णाभं प्रविवेश निवेशनम्।",
+      "transliteration": "",
+      "translation": "Thereupon the tennecked demon departed, as if he was shaking the earth and entered his residence which was shining like the blazing midday Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "देवगन्धर्वकन्याश्च नागकन्याश्च सर्वतः।।5.22.45।।\nपरिवार्य दशग्रीवं विविशुस्तं गृहोत्तमम्।",
+      "transliteration": "",
+      "translation": "Then the daughters of gods, gandharvas and nagas gathered round and followed him into his excellent palace.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-22-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "स मैथिलीं धर्मपरामवस्थितां प्रपेपमानां परिभर्त्स्य रावणः।\nविहाय सीतां मदनेन मोहितः स्वमेव वेश्म प्रविवेश भास्वरम्।।5.22.46।।",
+      "transliteration": "",
+      "translation": "Having derided Mythili trembling in fear yet steadfast in treading the righteous path, Ravana, overpowered with passion left her and entered his glittering mansion. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे द्वाविंशस्सर्गः। Thus ends twentysecond sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

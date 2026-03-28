@@ -1,0 +1,234 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 40,
+    "title": "Sita permits Hanuman to depart",
+    "titleSanskrit": "",
+    "totalShlokas": 24
+  },
+  "shlokas": [
+    {
+      "id": "vs-40-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "श्रुत्वा तु वचनं तस्य वायुसूनोर्महात्मनः।\nउवाचात्महितं वाक्यं सीता सुरसुतोपमा।।5.40.1।।",
+      "transliteration": "",
+      "translation": "Sita who was like the daughter of the gods heard the son of the Windgod for her benefit and replied:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-40-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "त्वां दृष्ट्वा प्रियवक्तारं सम्प्रहृष्यामि वा��रः।\nअर्धसञ्जातसस्येव वृष्टिं प्राप्य वसुन्धरा।।5.40.2।।",
+      "transliteration": "",
+      "translation": "\"O vanara just as the earth feels happy when the half grown crops receive rain, I feel happy after seeing you. You have been speaking pleasing words",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-40-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "यथा तं पुरुषव्याघ्रं गात्रैश्शोकाभिकर्शितैः।\nसंस्पृशेयं सकामाहं तथा कुरु दयां मयि।।5.40.3।।",
+      "transliteration": "",
+      "translation": "\"Be kind to me and act in such a manner that I may embrace my lord passionately with  my body emaciated with grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-40-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "अभिज्ञानं च रामस्य दद्या हरिगणोत्तम।\nक्षिप्तामिषीकां काकस्य कोपादेकाक्षिशातनीम्।।5.40.4।।",
+      "transliteration": "",
+      "translation": "\"O best leader of vanaras remind Rama about the incident of the release of a blade of grass in anger blinding one of the eyes of the crow narrated to you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-40-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "मनश्शिलायास्तिलको गण्डपार्श्वे निवेशितः।\nत्वया प्रणष्टे तिलके तं किल स्मर्तुमर्हसि।।5.40.5।।",
+      "transliteration": "",
+      "translation": "'(Further remind him), 'When my tilaka mark was erased, you painted tilaka with a stone (manassita pigment) nearby. O Rama you should remember that (incident).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-40-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "स वीर्यवान्कथं सीतां हृतां समनुमन्यसे।\nवसन्तीं रक्षसां मध्ये महेन्द्रवरुणोपमः।।5.40.6।।",
+      "transliteration": "",
+      "translation": "'Rama you are like Indra and Varuna in valiance. How are you tolerating Sita seized, dwelling among the demons?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-40-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "एष चूडामणिर्दिव्यो मया सुपरिरक्षितः।\nएतं दृष्ट्वा प्रहृष्यामि व्यसने त्वामिवानघ।।5.40.7।।",
+      "transliteration": "",
+      "translation": "\"O sinless Rama this wonderful Chudamani of mine has been carefully safeguarded. Seeing this is like seeing you when I am in distress.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-40-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "एष निर्यातितश्श्रीमान्मया ते वारिसम्भवः।\nअतः परं न शक्ष्यामि जीवितुं शोकलालसा।।5.40.8।।",
+      "transliteration": "",
+      "translation": "\"I am sending you this (Chudamani) born of the sea. O glorious Rama and now engrossed in grief it is not possible for me to live.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-40-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "असह्यानि च दुःखानि वाचश्च हृदयच्छिदः।\nराक्षसीनां सुघोराणां त्वत्कृते मर्षयाम्यहम्।।5.40.9।।",
+      "transliteration": "",
+      "translation": "\"I am tolerating this unbearable grief, and the words of the dreadful ogresses piercing my heart. Only for you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-40-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "धारयिष्यामि मासं तु जीवितं शत्रुसूदन।\nऊर्ध्वं मासान्न जीविष्ये त्वया हीना नृपात्मज।।5.40.10।।",
+      "transliteration": "",
+      "translation": "\"O subduer of enemies O prince I will hold on to life only for a month. I will not survive beyond a month in your absence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-40-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "घोरो राक्षसराजोऽयं दृष्टिश्च न सुखा मयि।\nत्वां च श्रुत्वा विपद्यन्तं न जीवेयमहं क्षणम्।।5.40.11।।",
+      "transliteration": "",
+      "translation": "\"The demon king is frightful. He looks at me with immoral (lusty) eyes. I do not wish to live even for a moment after hearing about the adversities (you have faced).\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-40-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "वैदेह्या वचनं श्रुत्वा करुणं साश्रु भाषितम्।\nअथाब्रवीन्महातेजा हनुमान्मारुतात्मजः।।5.40.12।।",
+      "transliteration": "",
+      "translation": "Hearing the words of Sita who was weeping piteously, brilliant Hanuman said this:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-40-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "त्वच्छोकविमुखो रामो देवि सत्येन ते शपे।\nरामे दुःखाभिभूते तु लक्ष्मणः परितप्यते।।5.40.13।।",
+      "transliteration": "",
+      "translation": "\"O irreproachable lady I swear by you that Rama has grown averse to everything out of grief of separation from you. When Rama is in grief even Lakshmana gets immersed in sorrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-40-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "कथञ्चिद्भवती दृष्टा न कालः परिशोचितुम्।\nइमं मुहूर्तं दुःखानामन्तं द्रक्ष्यसि भामिनि।।5.40.14।।",
+      "transliteration": "",
+      "translation": "\"O beautiful lady somehow I could meet you. This is not the time to worry about. You will see the end of suffering at this very moment.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-40-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तावुभौ पुरुषव्याघ्रौ राजपुत्रावरिन्दमौ।\nत्वद्दर्शनकृतोत्साहौ लङ्कां भस्मीकरिष्यतः।।5.40.15।।",
+      "transliteration": "",
+      "translation": "\"Both the princes are tigers among men and crushers of enemies. They are determined to see you, and will reduce Lanka to ashes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-40-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "हत्त्वा च समरे क्रूरं रावणं सहबान्धवम्।\nराघवौ त्वां विशालाक्षि स्वां पुरीं प्रापयिष्यतः।।5.40.16।।",
+      "transliteration": "",
+      "translation": "\"O largeeyed lady Killing in war the vile Ravana, the demon king and all his relatives, Rama would take you back to his own city৷৷",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-40-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "यत्तु रामो विजानीयादभिज्ञानमनिन्दिते।\nप्रीतिसञ्जननं तस्य भूयस्त्वं दातुमर्हसि।।5.40.17।।",
+      "transliteration": "",
+      "translation": "\"O unimpeachable lady give one more identification which would make him more happy\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-40-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "साब्रवीद्दत्तमेवेति मयाभिज्ञानमुत्तमम्।\nएतदेव हि रामस्य दृष्ट्वा मत्केशभूषणम्।।5.40.18।।\nश्रद्धेयं हनुमन्वाक्यं तव वीर भविष्यति।",
+      "transliteration": "",
+      "translation": "\"I have already given the best identification. When you hand this jewel used on my hair to him,  he will believe what you tell him\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-40-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "स तं मणिवरं गृह्य श्रीमान्प्लवगसत्तमः।।5.40.19।।\nप्रणम्य शिरसा देवीं गमनायोपचक्रमे।",
+      "transliteration": "",
+      "translation": "The illustrious vanara held the ornament, prostrated to Sita and prepared to depart.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-40-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तमुत्पातकृतोत्साहमवेक्ष्य हरिपुङ्गवम्।।5.40.20।।\nवर्धमानं महावेगमुवाच जनकात्मजा।\nअश्रुपूर्णमुखी दीना बाष्पगद्गदया गिरा।।5.40.21।।",
+      "transliteration": "",
+      "translation": "Seeing Hanuman eager to leap, enlarging his body quickly, she appeared pitiable with her face filled with tears and throat choked.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-40-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "हनुमन्सिंहसङ्काशौ भ्रातरौ रामलक्ष्मणौ।\nसुग्रीवं च सहामात्यं सर्वान् ब्रूयाह्यनामयम्।।5.40.22।।",
+      "transliteration": "",
+      "translation": "\"O Hanuman to the lionlike brothers Rama and Lakshmana, to Sugriva  including his ministers and to every one convey my good wishes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-40-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "यथा च स महाबाहुर्मां तारयति राघवः।\nअस्माद्दु:खाम्बुसम्रोधात्त्वं समाधातुमर्हसि।।5.40.23।।",
+      "transliteration": "",
+      "translation": "\"You should make efforts in such a manner that the mightyarmed Rama will help me in crossing the cean of sorrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-40-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "इमं च तीव्रं मम शोकवेगं रक्षोभिरेभिः परिभर्त्सनं च।\nब्रूयास्तु रामस्य गतस्समीपम् शिवश्च तेऽध्वाऽस्तु हरिप्रवीर।।5.40.24।।",
+      "transliteration": "",
+      "translation": "\"Foremost vanara tell Rama about my intense grief as well as the threats of the demons. May your journey be happy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-40-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "स राजपुत्र्य्राप्रतिवेदितार्थः कपिः कृतार्थः परिहृष्टचेताः।\nअल्पावशेषं प्रसमीक्ष्य कार्यं दिशं ह्युदीचीं मनसा जगाम।।5.40.25।।",
+      "transliteration": "",
+      "translation": "Hanuman understood the message of princess Sita and felt delighted at heart at his accomplishment. Considering the small task yet to be accomplished he reached the northern shore mentally (He thought of Rama who waited in Kishkinda which is in the northern direction). इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे चत्वारिंशस्सर्गः।। Thus ends the fortieth sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

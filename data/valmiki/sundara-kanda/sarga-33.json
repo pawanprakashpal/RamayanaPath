@@ -1,0 +1,288 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 33,
+    "title": "Sita reveals her story to Hanuman.",
+    "titleSanskrit": "",
+    "totalShlokas": 30
+  },
+  "shlokas": [
+    {
+      "id": "vs-33-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "सोऽवतीर्य द्रुमात्तस्माद्विद्रुमप्रतिमाननः।\nविनीतवेषः कृपणः प्रणिपत्योपसृत्य च।।5.33.1।।\nतामब्रवीन्महातेजा हनूमान्मारुतात्मजः।\nशिरस्यञ्जलिमाधाय सीतां मधुरया गिरा।।5.33.2।।",
+      "transliteration": "",
+      "translation": "Hanuman, son of the Windgod whose face shone like coral, dressed in a sober manner climbed down the tree, went close to Sita, offered salutations with his palms on his head and spoke in sweet words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-33-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "का नु पद्मपलाशाक्षि क्लिष्टकौशेयवासिनि।\nद्रुमस्य शाखामालम्ब्य तिष्ठसि त्वमनिन्दिते।।5.33.3।।",
+      "transliteration": "",
+      "translation": "\"O blameless lady with eyes like lotus petals, in crumpled silk, holding a branch, and standing, who are you?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-33-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "किमर्थम् तव नेत्राभ्यां वारि स्रवति शोकजम्।\nपुण्डरीकपलाशाभ्यां विप्रकीर्णमिवोदकम्।।5.33.4।।",
+      "transliteration": "",
+      "translation": "\"Why are tears of grief flowing from your eyes like water trickling down a pair of petals of white lotuses?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-33-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "सुराणामसुराणां वा नागगन्धर्वरक्षसाम्।\nयक्षाणां किन्नराणां वा का त्वं भवसि शोभने।।5.33.5।।",
+      "transliteration": "",
+      "translation": "\"O noble lady, are you a goddess or a demoness, a naga, a gandharva, a rakshasa, a yaksha or a kinnera?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-33-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "का त्वं भवसि रुद्राणां मरुतां वा वरानने।\nवसूनां हि वरारोहे देवता प्रतिभासि मे।।5.33.6।।",
+      "transliteration": "",
+      "translation": "\"O beautiful lady Do you belong to the race of Rudras, or Marutas, or Vasus?. O noble lady, you appear a goddess to me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-33-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "कि नु चन्द्रमसा हीना पतिता विबुधालयात्।\nरोहिणी ज्योतिषां श्रेष्ठा श्रेष्ठसर्वगुणान्विता।।5.33.7।।\n&nbsp;",
+      "transliteration": "",
+      "translation": "\"are you Rohini, embellished with best virtues among the constellations? Have you come down from the abode of the luminaries separated from the Moon, her lord?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-33-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "का त्वं भवसि कल्याणि त्वमनिन्दितलोचने।\nकोपाद्वा यदि वा मोहाद्भर्तारमसितेक्षणे।।5.33.8।।\nवसिष्ठं कोपयित्वा त्वं नासि कल्याण्यरुन्धती।",
+      "transliteration": "",
+      "translation": "\"O lady of lovely black eyes who are you? Have you by any chance offended your husband out of anger or out of delusion? Are you the auspicious Arundhati dislodged for making your lord Vasistha angry?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-33-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "को नु पुत्रः पिता भ्राता भर्ता वा ते सुमध्यमे।।5.33.9।।\nअस्माल्लोकादमुं लोकं गतं त्वमनुशोचसि।",
+      "transliteration": "",
+      "translation": "\"O woman of beautiful waist from which world have you come here? For whom are you worrying? Who is your son, father, brother or husband? Are you worrying about some one dead?.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-33-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "रोदनादतिनिश्श्वासाद्भूमिसंस्पर्शनादपि।।5.33.10।।\nन त्वां देवीमहं मन्ये राज्ञ स्सर्वज्ञावधारणात्।",
+      "transliteration": "",
+      "translation": "\"From your weeping, your sighing and your touching the earth (gods do not touch the earth) and your signs of sovereignty, I do not think you are a goddess (meaning otherwise she posessed divine grace).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-33-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "व्यञ्जनानि च ते यानि लक्षणानि च लक्षये।।5.33.11।।\nमहिषी भूमिपालस्य राजकन्या च मे मता।",
+      "transliteration": "",
+      "translation": "\"On the basis of your royal signs and other qualities I infer that you are the daughter of a king or his consort.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-33-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "रावणेन जनस्थानाद्बलादपदहृता यदि।।5.33.12।।\nसीता त्वमसि भद्रं ते तन्ममाचक्ष्व पृच्छतः।",
+      "transliteration": "",
+      "translation": "\"If you are Sita, who was forcefully borne away by Ravana from Janasthana you may kindly reveal to me freely. May god bless you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-33-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "यथा हि तव वै दैन्यं रूपं चाप्यतिमानुषम्।।5.33.13।।\nतपसा चान्वितो वेषस्त्वं राममहिषी ध्रुवम्।",
+      "transliteration": "",
+      "translation": "\"Indeed your plight, the superhuman beauty and your robes marked with asceticism, surely tell me that you are Rama's queen.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-33-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "सा तस्य वचनं श्रुत्वा रामकीर्तनहर्षिता।।5.33.14।।\nउवाच वाक्यं वैदेही हनुमन्तं द्रुमाश्रितम्।",
+      "transliteration": "",
+      "translation": "Happy to have heard words of praise of Rama, Vaidehi spoke this to Hanuman, who got up the tree:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-33-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "पृथिव्यां राजसिंहानां मुख्यस्य विदितात्मनः।।5.33.15।।\nस्नुषा दशरथस्याहं शत्रुसैन्यप्रतापिनः।",
+      "transliteration": "",
+      "translation": "\"I am daughterinlaw of king Dasaratha, knower of the self, the foremost among kings on earth and a slayer of enemy army.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-33-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "दुहिता जनकस्याहं वैदेहस्य महात्मनः।।5.33.16।।\nसीतेति नाम नाम्नाऽहं भार्या रामस्य धीमतः।",
+      "transliteration": "",
+      "translation": "\"I am daughter of the great soul, Janaka, king of Videha, known as Sita. I am the wife of that sagacious Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-33-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "समा द्वादश तत्राहं राघवस्य निवेशने।।5.33.17।।\nभुञ्जाना मानुषान्भोगान्सर्वकामसमृद्धिनी।",
+      "transliteration": "",
+      "translation": "\"I enjoyed worldly pleasures in abundance for twelve years at Rama's abode.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-33-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तत्र त्रयोदशे वर्षे राज्येनेक्ष्वाकुनन्दनम्।।5.33.18।।\nअभिषेचयितुं राजा सोपाध्यायः प्रचक्रमे।",
+      "transliteration": "",
+      "translation": "\"Then in the thirteenth year king Dasaratha along with the royal preceptor arranged to  coronate Rama, delight of the Ikshvaku family, in the kingdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-33-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तस्मिन्सम्भ्रियमाणे तु राघवस्याभिषेचने।।5.33.19।।\nकैकयी नाम भर्तारं देवी वचनमब्रवीत्।",
+      "transliteration": "",
+      "translation": "\"While preparations for the coronation were on, queen Kaikeyi said to her husband:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-33-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "न पिबेयं न खादेयं प्रत्यहं मम भोजनम्।।5.33.20।।\nएष मे जीवितस्यान्तो रामो यद्यभिषिच्यते।",
+      "transliteration": "",
+      "translation": "'I shall not drink or eat food, if Rama is coronated. I shall end my life this moment.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-33-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "यत्तदुक्तं त्वया वाक्यं प्रीत्या नृपतिसत्तम।।5.33.21।।\nतच्छेन्न वितथं कार्यं वनं गच्छतु राघवः।",
+      "transliteration": "",
+      "translation": "'O Dasaratha, the foremost among kings if the promise lovingly made by you earlier is not going to be false, Rama should go to the forest'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-33-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "स राजा सत्यवाग्देव्या वरदानमनुस्मरन्।।5.33.22।।\nमुमोह वचनं श्रुत्वा कैकेय्याः क्रूरमप्रियम्।",
+      "transliteration": "",
+      "translation": "\"Remembering the boons the ever truthful king had granted to Kaikeyi, he fainted after hearing her cruel and harsh words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-33-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "ततस्तु स्थविरो राजा सत्ये धर्मे व्यवस्थितः।।5.33.23।।\nज्येष्ठं यशस्विनं पुत्रं रुदन्राज्यमयाचत।",
+      "transliteration": "",
+      "translation": "\"The aged king who held on to truthfulness and righteousness begged his famed eldest son Rama to return the kingdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-33-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "स पितुर्वचनं श्रीमानभिषेकात्परं प्रियम्।।5.33.24।।\nमनसा पूर्वमासाद्य वाचा प्रतिगृहीतवान्।",
+      "transliteration": "",
+      "translation": "\"The illustrious Rama who valued his father's word more than sovereignty, bowed to the command of the father.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-33-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "दद्यान्न प्रतिगृह्णीयान्न ब्रूयात्किञ्चिदप्रियम्।।5.33.25।।\nअपि जीवितहेतोर्वा रामस्सत्यपराक्रमः।",
+      "transliteration": "",
+      "translation": "\"Rama, whose strength was his truthfulness, gave whatever others sought but would not accept anything in return. He would not speak a harsh word.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-33-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "स विहायोत्तरीयाणि महार्हाणि महायशाः।।5.33.26।।\nविसृज्य मनसा राज्यं जनन्यै मां समादिशत्।",
+      "transliteration": "",
+      "translation": "\"Having given up the kingdom  voluntarily, Rama, a highly renowned king cast off his luxurious upper garments and asked me to take care of his mother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-33-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "साहं तस्याग्रतस्तूर्णं प्रस्थिता वनचारिणी।।5.33.27।।\nन हि मे तेन हीनाया वासस्स्वर्गेऽपि रोचते।",
+      "transliteration": "",
+      "translation": "\"I, however resolved to live in the forest, marched ahead of him quickly as I did not prefer even heaven without him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-33-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "प्रागेव तु महाभागस्सौमित्रिर्मित्रनन्दनः।।5.33.28।।\nपूर्वजस्यानुयात्रार्थे द्रुमचीरैरलङ्कृतः।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-33-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "ते वयं भर्तुरादेशं बहुमान्य दृढव्रताः।।5.33.29।।\nप्रविष्टास्स्म पुरादृष्टं वनं गम्भीरदर्शनम्।",
+      "transliteration": "",
+      "translation": "\"Respecting the king's order and determined firmly, we entered the impenetrable forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-33-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "वसतो दण्डकारण्ये तस्याहममितौजसः।।5.33.30।।\nरक्षसाऽपहृता भार्या रावणेन दुरात्मना।",
+      "transliteration": "",
+      "translation": "\"While the most valiant Rama was living in the Dandaka forest, I, his wife was borne away by the evilminded Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-33-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "द्वौ मासौ तेन मे कालो जीवितानुग्रहः कृतः।।5.33.31।।\nऊर्ध्वं द्वाभ्यां तु मासाभ्यां ततस्तक्ष्यामि जीवितम्।",
+      "transliteration": "",
+      "translation": "\"He has allowed me two months time to live. After two months I will have to give up my life.\" इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे त्रयस्त्रिंशस्सर्गः।। Thus ends the thirtythird sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

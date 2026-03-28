@@ -1,0 +1,81 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 8,
+    "title": "Further description of  the aerial car, Pushpaka",
+    "titleSanskrit": "",
+    "totalShlokas": 7
+  },
+  "shlokas": [
+    {
+      "id": "vs-8-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "स तस्य मध्ये भवनस्य संस्थितं\nमहद्विमानं मणिवज्रचित्रितम्।\nप्रतप्तजाम्बूनदजालकृत्रिमं \nददर्श वीरः पवनात्मजः कपिः।।5.8.1।।",
+      "transliteration": "",
+      "translation": "The courageous son of the Windgod, Hanuman, the vanara saw the aerial chariot kept in the middle of the mansion inlaid with gems and diamonds latticed with artificial windows of barnished gold.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-8-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तदप्रमेयाप्रतिकारकृत्रिमं\nकृतं स्वयं साध्विति विश्वकर्मणा।\nदिवं गतं वायुपथप्रतिष्ठितं\nव्यराजतादित्यपथस्य लक्ष्मवत्।।5.8.2।।",
+      "transliteration": "",
+      "translation": "The immeasurable Pushpaka fashioned by Visvakarma with images of incomparable  beauty was not possible to describe. An excellent  product of his achievement, it was placed in the aerial path appearing as a beaconlight (signpost) in the orbit of the Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-8-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "न तत्र किञ्चिन्न कृतं प्रयत्नतो\nन तत्र किञ्चिन्न महार्हरत्नवत्।\nन ते विशेषा नियताः सुरेष्वपि \nन तत्र किञ्चिन्न महाविशेषवत्।।5.8.3।।",
+      "transliteration": "",
+      "translation": "There was nothing in Pushpaka which was not executed carefully with special effort, nothing which was not made of precious stones. Such privileges were not available to even gods. Indeed there was nothing which was not unique.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-8-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तपः समाधानपराक्रमार्जितं\nमनः समाधानविचारचारिणम्।\nअनेकसंस्थानविशेषनिर्मितं \nततस्ततस्तुल्यविशेषदर्शनम्।।5.8.4।।",
+      "transliteration": "",
+      "translation": "(The Pushpaka) was designed by dint of divine efforts and prowess (of Kubera). It could touch any place its master commanded with a cool mind. It had many beautiful  places of rest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-8-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "विशेषमालम्ब्य विशेषसंस्थितं \nविचित्रकूटं बहुकूटमण्डितम्।\nमनोऽभिरामं शरदिन्दुनिर्मलं \nविचित्रकूटं शिखरं गिरेर्यथा।।5.8.5।।",
+      "transliteration": "",
+      "translation": "The Pushpaka was specially designed in a unique manner. It was decorated with many colourful peaks. It was delghtful and pleasing to the mind and bright like the autumnal fullmoon. It looked like a mountain with many wonderful towers around.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-8-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "वहन्ति यं कुण्डलशोभिताननाः\nमहाशना व्योमचरा निशाचराः।\nविवृत्तविध्वस्तविशाललोचनाः \nमहाजवा भूतगणाः सहस्रशः।।5.8.6।।",
+      "transliteration": "",
+      "translation": "The Pushpaka was borne by multitudes of Bhutas whose faces were shining with earrings, who were demons ranging in the night sky. They were gluttons endowed with great speed, and they had big, rolling and frightening eyes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-8-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "वसन्तपुष्पोत्करचारुदर्शनं\nवसन्तमासादपि कान्तदर्शनम्।\nस पुष्पकं तत्र विमानमुत्तमं\nददर्श तद्वानरवीरसत्तमः।।5.8.7।।",
+      "transliteration": "",
+      "translation": "That hero among monkeys, beheld the aerial chariot looking beautiful like a colourful collection of spring blossoms. Its appearance was more pleasant than spring itself. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे अष्टमस्सर्गः।। Thus ends the eighth sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

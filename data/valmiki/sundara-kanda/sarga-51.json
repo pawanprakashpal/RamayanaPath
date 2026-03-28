@@ -1,0 +1,396 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 51,
+    "title": "Hanuman tenders both sound advice and stern warning to Ravana.",
+    "titleSanskrit": "",
+    "totalShlokas": 42
+  },
+  "shlokas": [
+    {
+      "id": "vs-51-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तं समीक्ष्य महासत्त्वं सत्त्ववान्हरिसत्तमः।\nवाक्यमर्थवदव्यग्रस्तमुवाच दशाननम्।।5.51.1।।",
+      "transliteration": "",
+      "translation": "Hanuman, the best of monkeys, looking at the very powerful Ravana spoke slowly  these highly meaningful words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अहं सुग्रीवसंदेशा���िह प्राप्तस्तवालयम्।\nराक्षसेन्द्र हरीशस्त्वां भ्राता कुशलमब���रवीत्।।5.51.2।।",
+      "transliteration": "",
+      "translation": "\"O lord of demons I reached your realm here by the orders of Sugriva, lord of monkeys who is like your brother. He conveys his good wishes to you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "भ्रातुश्शृणु समादेशं सुग्रीवस्य महात्मनः।\nधर्मार्थोपहितं वाक्यमिह चामुत्र च क्षमम्।।5.51.3।।",
+      "transliteration": "",
+      "translation": "\"The great Sugriva who is like your brother sends you a message pertinent to this world and the other world, that which is beneficial and consistent with righteousness and propriety (धर्म and अर्थ). Listen:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "राजा दशरथो नाम रथकुञ्जरवाजिमान्।\nपितेव बन्धुर्लोकस्य सुरेश्वरसमद्युतिः।।5.51.4।।",
+      "transliteration": "",
+      "translation": "\"There was an emperor named Dasaratha richly endowed with chariots, horses and elephants. He was a friend to the world and was like a father and equal to Indra in splendour.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "ज्येष्ठस्तस्य महाबाहुः पुत्रः प्रियकरः प्रभुः।\nपितुर्निदेशान्निष्क्रान्तः प्रविष्टो दण्डकावनम्।।5.51.5।।\nलक्ष्मणेन सह भ्रात्रा सीतया चापि भार्यया।\nरामो नाम महातेजा धर्म्यं पन्थानमास्थितः।।5.51.6।।",
+      "transliteration": "",
+      "translation": "\"His eldest son, a highly effulgent one, named Rama who was dear to the king, accepting his father's orders went into exile with brother Lakshmana and wife Sita also accepting a righteous path and entered Dandaka forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तस्य भार्या वने नष्टा सीता पतिमनुव्रता।\nवैदेहस्य सुता राज्ञो जनकस्य महात्मनः।।5.51.7।।",
+      "transliteration": "",
+      "translation": "\"Sita, daughter of king Janaka of Videha kingdom, loyally followed her husband, Rama. She was lost in the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "स मार्गमाणस्तां देवीं राजपुत्रः सहानुजः।\nऋश्यमूकमनुप्राप्त: सुग्रीवेण समागतः।।5.51.8।।",
+      "transliteration": "",
+      "translation": "\"Searching for the divine lady the prince reached mount Rshyamuka along with his brother and there he met Sugriva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तस्य तेन प्रतिज्ञातं सीतायाः परिमार्गणम्।\nसुग्रीवस्यापि रामेण हरिराज्यं निवेदितम्।।5.51.9।।",
+      "transliteration": "",
+      "translation": "\"Sugriva promised Rama to undertake search for Sita and Rama assured Sugriva of securing him the kingdom of the monkeys.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "ततस्तेन मृधे हत्वा राजपुत्रेण वालिनम्।\nसुग्रीवः स्थापितो राज्ये हर्यृक्षाणां गणेश्वरः।।5.51.10।।",
+      "transliteration": "",
+      "translation": "\"Then prince Rama killed Vali in battle and made Sugriva, king of the vanaras and bears and restored the kingship of Sugriva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "त्वया विज्ञातपूर्वश्च वाली वानरपुङ्गवः।\nरामेण निहतस्सङ्ख्ये शरेणैकेन वानरः।।5.51.11।।",
+      "transliteration": "",
+      "translation": "\"You know of Vali, chief of the vanaras, in the past. Rama killed him with a single arrow in the combat.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "स सीतामार्गणे व्यग्रस्सुग्रीवः सत्यसङ्गरः।\nहरीन् सम्प्रेषयामास दिशस्सर्वा हरीश्वरः।।5.51.12।।",
+      "transliteration": "",
+      "translation": "\"Sugriva, who is true to his word and a faithful warrior, king of monkeys anxiously sent vanaras in all directions for searching Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "तां हरीणां सहस्राणि शतानि नियुतानि च।\nदिक्षु सर्वासु मार्गन्ते ह्यधश्चोपरि चाम्बरे।।5.51.13।।",
+      "transliteration": "",
+      "translation": "\"Hundreds, thousands and unlimited number of monkeys are searching (for Sita) in all directions, in the underworld and heavens and the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "वैनतेयसमाः केचित्केचित्तत्रानिलोपमाः।\nअसङ्गगतयशशीघ्रा हरिवीरा महाबलाः।।5.51.14।।",
+      "transliteration": "",
+      "translation": "\"Some of the very powerful heroes equal to Garuda, equal to the Windgod (in swiftness) have gone (in quest of Sita) without touching the earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "अहं तु हनुमान्नाम मारुतस्यौरसस्सुतः।\nसीतायास्तु कृते तूर्णं शतयोजनमायतम्।।5.51.15।।\nसमुद्रं लङ्घयित्वैव तां दिदृक्षुरिहागतः।",
+      "transliteration": "",
+      "translation": "\"I, Maruta's son, Hanuman by name too came swiftly leaping across a hundred yojanas across the ocean searching for Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "भ्रमता च मया दृष्टा गृहे ते जनकात्मजा।।5.51.16।।\nतद्भवान् दृष्टधर्मार्थस्तपःकृतपरिग्रहः।\nपरदारान् महाप्राज्ञ नोपरोद्धुं त्वमर्हसि।।5.51.17।।",
+      "transliteration": "",
+      "translation": "\"While I was roaming I saw Janaka's daughter Sita at your house.You are a knower of the truth of righteousness. You are very wise and carrried out great austerities. It does not behove you to abduct another man's wife.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "न हि धर्मविरुद्धेषु बह्वपायेषु कर्मसु।\nमूलघातिषु सज्जन्ते बुद्धिमन्तो भवद्विधाः।।5.51.18।।",
+      "transliteration": "",
+      "translation": "\"Indeed, respectable people and wise men like you should not indulge in actions opposed to righteousness as it will strike at the very root of your existence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "कश्च लक्ष्मणमुक्तानां रामकोपानुवर्तिनाम्।\nशराणामग्रतः स्थातुं शक्तो देवासुरेष्वपि।।5.51.19।।",
+      "transliteration": "",
+      "translation": "\"Who, even among gods and asuras can withstand the arrows released by Lakshmana in obedience to the infuriated Rama's orders?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "न चापि त्रिषु लोकेषु राजन्विद्येत कश्चन।\nराघवस्य व्यलीकं यः कृत्वा सुखमवाप्नुयात्।।5.51.20।।",
+      "transliteration": "",
+      "translation": "\"O king  there is none in these three worlds who can enjoy happiness by displeasing Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तत् त्रिकालहितं वाक्यं धर्म्यमर्थानुबन्धि च।\nमन्यस्व नरदेवाय जानकी प्रतिदीयताम्।।5.51.21।।",
+      "transliteration": "",
+      "translation": "\"Think that my advice is beneficial to you for you present, past and future. It is righteous. It will provide you material wealth too. Hence return Sita to the lord of the people.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "दृष्टा हीयं मया देवी लब्धं यदिह दुर्लभम्।\nउत्तरं कर्म यच्छेषं निमित्तं तत्र राघवः।।5.51.22।।",
+      "transliteration": "",
+      "translation": "\"I have actually spotted the divine lady here which was most difficult. Rama will plan the remaining course of action.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "लक्षितेयं मया सीता तथा शोकपरायणा।\nगृह्य यां नाभिजानासि पञ्चास्यामिव पन्नगीम्।।5.51.23।।",
+      "transliteration": "",
+      "translation": "\"I have seen Sita immersed in deep sorrow. You do not realise that by abducting her you are keeping a fivehooded female serpent in your house.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "नेयं जरयितुं शक्या सासुरैरमरैरपि।\nविषसंसृष्टमत्यर्थं भुक्तमन्नमिवौजसा ।।5.51.24।।",
+      "transliteration": "",
+      "translation": "\"Just as food mixed with venom cannot be digested by the great fire (fire of hunger), it is not possible to keep Sita even by gods and demons. (Sita is like food mixed with poison. Ravana cannot digest her with all his power.)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तपस्सन्तापलब्धस्ते योऽयं धर्मपरिग्रहः।\nन स नाशयितुं न्याय्य आत्मप्राणपरिग्रहः।।5.51.25।।",
+      "transliteration": "",
+      "translation": "\"You have acquired the merit of righteousness by prolonged hardships experienced during your penance. It is not proper to forfeit your own life in this way.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "अवध्यतां तपोभिर्यां भवान् समनुपश्यति।\nआत्मनः सासुरैर्देवैर्हेतुस्तत्राप्ययं महान्।।5.51.26।।",
+      "transliteration": "",
+      "translation": "\"You know you will not be killed by asuras or gods. In that case also this (keeping Sita with you) may be the prime cause of your death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "सुग्रीवो न हि देवोऽयं नासुरो न च राक्षसः।\nन दानवो न गन्धर्वो न यक्षो न च पन्नगः।।5.51.27।।\nतस्मात्प्राणपरित्राणं कथं राजन्करिष्यसि।",
+      "transliteration": "",
+      "translation": "\"Sugriva is not an demon, nor a danava nor gandharva, nor a yaksha nor even a pannaga. Therefore how can you save your life from Sugriva?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "न तु धर्मोपसंहारमधर्मफलसंहितम्।।5.51.28।।\nतदेव फलमन्वेति धर्मश्चाधर्मनाशन:।",
+      "transliteration": "",
+      "translation": "\"The fruit of dharma does not accrue to one who has reached the culmination of  adharma. Unrighteousness will destroy  the fruits of righteousness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "प्राप्तं धर्मफलं तावद्भवता नात्र संशयः।\nफलमस्याप्यधर्मस्य क्षिप्रमेव प्रपत्स्यसे।।5.51.29।।",
+      "transliteration": "",
+      "translation": "\"There is no doubt you have earned merit through righteousness (dharma destroys adharma and yields sweet fruit ultimately). But now you will quickly reap the result of your unrighteousness also.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "जनस्थानवधं बुद्ध्वा बुद्ध्वा वालिवधं तथा।।5.51.30।।\nरामसुग्रीवसख्यं च बुध्यस्व हितमात्मनः।",
+      "transliteration": "",
+      "translation": "\"You know about the killing of all ogres at Janasthana and of Vali also. You know about the alliance of Rama and Sugriva. You may  decide on a proper course of action for the sake of your own welfare.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "क��मं खल्वहमप्येकस्सवाजिरथकुञ्जराम्।।5.51.31।।\nलङ्कां नाशयितुं शक्तस्तस्यैष तु न निश्चयः।",
+      "transliteration": "",
+      "translation": "\" Alone, I can destroy this entire Lanka teeming with horses, chariots and elephants. Indeed I have the energy but not the mandate of Sri Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "रामेण हि प्रतिज्ञातं हर्यृक्षगणसन्निधौ।।5.51.32।।\nउत्सादनममित्राणां सीता यैस्तु प्रधर्षिता।",
+      "transliteration": "",
+      "translation": "\"Rama made a vow in the presence of bears and vanaras that he would exterminate the arrogant enemy troops  by whom Sita is abducted and assaulted.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "अपकुर्वन् हि रामस्य साक्षादपि पुरन्दरः।।5.51.33।।\nन सुखं प्राप्नुयादन्यः किं पुनस्त्वद्विधो जनः।",
+      "transliteration": "",
+      "translation": "\"Indra, the destroyer of enemy citadels cannot live happily if he offends Rama. What to speak of persons like you?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "यां सीतेत्यभिजानासि येयं तिष्ठति ते वशे।।5.51.34।।\nकालरात्रीति तां विद्धि सर्वलङ्काविनाशिनीम्।",
+      "transliteration": "",
+      "translation": "\"Sita who is under your custody is no ordinary lady. She is indeed the dark night of dissolution, destroyer of entire Lanka. Know this.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "तदलं कालपाशेन सीताविग्रहरूपिणा।।5.51.35।।\nस्वयं स्कन्धावसक्तेन क्षेममात्मनि चिन्त्यताम्।",
+      "transliteration": "",
+      "translation": "\"Stop holding the noose of death in Sita's form whom you yourself have placed on your shoulders. Think of your own welfare.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "सीतायास्तेजसा दग्धां रामकोपप्रपीडिताम्।।5.51.36।।\nदह्यमानामिमां पश्य पुरीं साट्टप्रतोलिकाम्।",
+      "transliteration": "",
+      "translation": "\"Visualize this city of Lanka including its marketplaces and main streets as  burnt by Sita's power of chastity and  Rama's anger.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "स्वानि मित्राणि मन्त्रींश्च ज्ञातीन् भ्रात्रून् सुतान् हितान्।।5.51.37।।\nभोगान्दारांश्च लङ्कां च मा विनाशमुपानय।",
+      "transliteration": "",
+      "translation": "\"Do not pave the path of your friends, ministers, clan, brothers and sisters, sons, wellwishers, wives and luxuries and Lanka to destruction.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "सत्यं राक्षसराजेन्द्र शृणुष्व वचनं मम।।5.51.38।।\nरामदासस्य दूतस्य वानरस्य विशेषतः।",
+      "transliteration": "",
+      "translation": "\"O king of demon listen to the words of truth of the servant of Rama, his messenger and specially a vanara.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "सर्वान् लोकान् सुसंहृत्य सभूतान् सचराचरान्।।5.51.39।।\nपुनरेव तथा स्रष्टुं शक्तो रामो महायशाः।",
+      "transliteration": "",
+      "translation": "\"Illustrious Rama can put an end  to and dissolve all creatures including both movable and immovables of all worlds. He can recreate all of them in the same way. He has such superhuman powers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "देवासुरनरेन्द्रेषु यक्षरक्षोगणेषु च।।5.51.40।।\nविद्याधरेषु सर्वेषु गन्धर्वेषूरगेषु च।\nसिद्धेषु किन्नरेन्द्रेषु पतत्रिषु च सर्वतः।।5.51.41।।\nसर्वभूतेषु सर्वत्र सर्वकालेषु नास्ति सः।\nयो रामं प्रतियुध्येत विष्णुतुल्यपराक्रमम्।।5.51.42।।",
+      "transliteration": "",
+      "translation": "\"He is equal to Visnu in valour. There is none who can dare face his rage, be it among gods, asuras, yakshas, rakshasas, vidyadharas, gandharvas uragas, siddhas, kings of kinnaras, birds and all beings at all places and at all times.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "सर्वलोकेश्वरस्यैवं कृत्वा विप्रियमुत्तमम्।\nरामस्य राजसिंहस्य दुर्लभं तव जीवितम्।।5.51.43।।",
+      "transliteration": "",
+      "translation": "\"Rama is the supreme lord of all worlds, a lion among kings. Having pained him it is very difficult for you to sustain your life after offending him to this extent.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "देवाश्च दैत्याश्च निशाचरेन्द्र गन्धर्वविद्याधरनागयक्षाः।\nरामस्य लोकत्रयनायकस्य स्थातुं न शक्तास्समरेषु सर्वे।।5.51.44।।",
+      "transliteration": "",
+      "translation": "\"O king of demons, even devas, daityas, gandharvas, vidyadharas, nagas, and yakshas are incompetent to face Rama the lord of the three worlds in wars.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "ब्रह्मा स्वयम्भूश्चतुराननो वा रुद्रस्त्रिणेत्रस्त्रिपुरान्तको वा।\nइन्द्रो महेन्द्रस्सुरनायको वा त्रातुं न शक्ता युधि रामवध्यम्।।5.51.45।।",
+      "transliteration": "",
+      "translation": "\"Even the selfborn, fourfaced Brahma, the threeeyed Siva who destroyed Tripura, Mahendra, the king of suras do not have the power to save one whom Rama decides to kill\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-51-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "स सौष्ठवोपेतमदीनवादिनः कपेर्निशम्याप्रतिमोऽप्रियं वचः।\nदशाननः कोपविवृत्तलोचनः समादिशत्तस्य वधं महाकपेः।।5.51.46।।\n&nbsp;",
+      "transliteration": "",
+      "translation": "The tenheaded Ravana who was of matchless strength, hearing the unpleasant words of advice and warning expressed skilfully with dignity by the great Hanuman, enraged Ravana, his eyes rolling in anger ordered the execution of Hanuman. \nइत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे एकपञ्चाशस्सर्गः।। \nThus ends the fiftyfirst sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

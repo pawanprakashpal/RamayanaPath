@@ -1,0 +1,360 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "sundara-kanda",
+    "name": "Sundara Kanda",
+    "nameSanskrit": "सुन्दरकाण्डम्",
+    "index": 5,
+    "totalSargas": 68
+  },
+  "sarga": {
+    "number": 64,
+    "title": "Hanuman and Angada along with others approach Sugriva -- Hanuman tells Rama about the discovery of Sita.",
+    "titleSanskrit": "",
+    "totalShlokas": 38
+  },
+  "shlokas": [
+    {
+      "id": "vs-64-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "सुग्रीवेणैवमुक्तस्तु हृष्टो दधिमुखः कपिः।\nराघवं लक्ष्मणं चैव सुग्रीवं चाभ्यवादयत्।।5.64.1।।",
+      "transliteration": "",
+      "translation": "Pleased with Sugriva's command (to send forth Angada and Hanuman) Dadhimukha offered salutations to Sugriva, Rama  and Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "�� प्रणम्य च सुग्रीवं राघवौ च महाबलौ।\nवानरैः सहितः शूरैर्दिवमेवो���्पपात ह।।5.64.2।।",
+      "transliteration": "",
+      "translation": "Dadhimukha offered his obeisance to Sugriva and the mighty Rama and Lakshmana  and rose up to the sky followed by the vanaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "स यथैवाऽगतः पूर्वं तथैव त्वरितं गतः।\nनिपत्य गगनाद्भूमौतद्वनं प्रविवेश ह।।5.64.3।।\nस प्रविष्टो मधुवनं ददर्श हरियूथपान्।\nविमदानुत्थितान्सर्वान् मेहमानान्मधूदकम्।।5.64.4।।",
+      "transliteration": "",
+      "translation": "Descending into Madhuvanam, Dadhimukha saw all the monkey troops free from intoxication (of honeywine).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "स तानुपागमद्वीरो बद्ध्वा करपुटाञ्जलिम्।\nउवाच वचनं श्लक्ष्णमिदं हृष्टवदङ्गदम्।।5.64.5।।",
+      "transliteration": "",
+      "translation": "Heroic Dadhimukha went to Angada, holding his cupped palms reverentially and spoke these conciliatory words with joy:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "सौम्य रोषो न कर्तव्यो यदेतत्परिवारितम्।\nअज्ञानाद्रक्षिभिः क्रोधाद्भवन्तः प्रतिषेधिताः।।5.64.6।।",
+      "transliteration": "",
+      "translation": "\"O handsome one, do not react harshly at these guards who have obstructed your companions out of ignorance and fury.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "युवराजस्त्वमीशश्च वनस्यास्य महाबल।\nमौर्ख्यात्पूर्वं कृतो दोषस्तं भवान् क्षन्तुमर्हति।।5.64.7।।",
+      "transliteration": "",
+      "translation": "\"O mighty Angada you are heir apparent and also king. Out of foolishness I obstructed you. You ought to pardon me this mistake.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "आख्यातं हि मया गत्वा पितृव्यस्य तवानघ।\nइहोपयातं सर्वेषामेतेषां वनचारिणाम्।।5.64.8।।",
+      "transliteration": "",
+      "translation": "\"O blameless prince I have already told your father's elder brother and all the forestdwellers about your arrival here.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "स त्वदागमनं श्रुत्वा सहैभिर्हरियूथपैः।\nप्रहृष्टो न तु रुष्टोऽसौ वनं श्रुत्वा प्रधर्षितम्।।5.64.9।।",
+      "transliteration": "",
+      "translation": "\"He was not angry at your destruction of the garden. On the other hand, he was very glad to hear about your arrival.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "प्रहृष्टो मां पितृव्यस्ते सुग्रीवो वानरेश्वरः।\nशीघ्रं प्रेषय सर्वांस्तानिति होवाच पार्थिवः।।5.64.10।।",
+      "transliteration": "",
+      "translation": "\"Your father's brother, Sugriva, the lord of vanaras felt very glad and indeed asked me  to send you quickly.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "श्रुत्वा दधिमुखस्येदं वचनं श्लक्ष्णमङ्गदः।\nअब्रवीत्तान् हरिश्रेष्ठो वाक्यं वाक्यविशारदः।।5.64.11।।",
+      "transliteration": "",
+      "translation": "At these good words from Dadhimukha, Angada, the monkey leader, an eloquent speaker said this:.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "शङ्के श्रुतोऽयं वृत्तान्तो रामेण हरियूथपाः।\nतत्क्षमं नेह नः स्थातुं कृते कार्ये परन्तपाः।।5.64.12।।",
+      "transliteration": "",
+      "translation": "\"O scorcher of enemies I presume Rama has already heard the news of our arrival on accomplishment of the task. Hence it is not proper for us to tarry here.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "पीत्वा मधु यथाकामं विश्रान्ता वनचारिणः।\nकिं शेषं गमनं तत्र सुग्रीवो यत्र मे गुरुः।।5.64.13।।",
+      "transliteration": "",
+      "translation": "\"The vanaras of the forest have taken rest after drinking as much honey as they desired. What is left here to do? We have to go wherever Sugriva is.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "सर्वे यथा मां वक्ष्यन्ति समेत्य हरियूथपाः।\nतथास्मि कर्ता कर्तव्ये भवद्भिः परवानहम्।।5.64.14।।",
+      "transliteration": "",
+      "translation": "Angada said to the vanara troops assembled, \"Tell me what we have to do. I shall act as you wish.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "नाज्ञापयितुमीशोऽहं युवराजोऽस्मि यद्यपि।\nअयुक्तं कृतकर्माणो यूयं धर्षयितुं मया।।5.64.15।।",
+      "transliteration": "",
+      "translation": "\"Even though I am heir apparent, it is not proper for me to order you.You have accomplished the purpose and to command you is not befitting on my part.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "ब्रुवतश्चाङ्गदस्यैवं श्रुत्वा वचनमव्ययम्।\nप्रहृष्टमनसो वाक्यमिदमूचुर्वनौकसः।।5.64.16।।",
+      "transliteration": "",
+      "translation": "On hearing Angada's valuable words said in that way, the vanaras repled:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "एवं वक्ष्यति को राजन् प्रभुस्सन्वानरर्षभ।\nऐश्वर्यमदमत्तो हि सर्वोऽहमिति मन्यते।।5.64.17।।",
+      "transliteration": "",
+      "translation": "\"O king O bull among monkeys we think you are an exception to those to whom prosperity brings arrogance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तव चेदं सुसदृशं वाक्यं नान्यस्य कस्यचित्।\nसन्नतिर्हि तवाख्याति भविष्यच्छुभयोग्यताम्।।5.64.18।।",
+      "transliteration": "",
+      "translation": "\"You alone could speak such words. Your humility speaks of your fitness for a  bright future.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "सर्वे वयमपि प्राप्तास्तत्र गन्तुं कृतक्षणाः।\nस यत्र हरिवीराणां सुग्रीवः पतिरव्ययः।।5.64.19।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "त्वया ह्यनुक्तैर्हरिभिर्नैव शक्यं पदात्पदम्।\nक्वचिद्गन्तुं हरिश्रेष्ठ ब्रूमः सत्यमिदं तु ते।।5.64.20।।",
+      "transliteration": "",
+      "translation": "\"O Angada the best of vanaras without your command none will find it possible to put forward even a single step.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "एवं तु वदतां तेषामङ्गदः प्रत्युवाच ह।\nबाढं गच्छाम इत्युक्त्वा खमुत्पेतुर्महाबलाः���।5.64.21।।",
+      "transliteration": "",
+      "translation": "Thus addressed by all the vanaras, Angada said 'Well, let us go'. Then the powerful vanaras rose up the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "उत्पतन्तमनूत्पेतु स्सर्वे ते हरियूथपाः।\nकृत्वाकाशं निराकाशं यन्त्रोत्क्षिप्ता इवाचलाः।।5.64.22।।",
+      "transliteration": "",
+      "translation": "All the vanara troops sprang up into the air as though there was no sky, like stones shattered by machines from the  mountains rise up.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तेऽम्बरं सहसोत्पत्य वेगवन्तः प्लवङ्गमाः।\nविनदन्तो महानादं घना वातेरिता यथा।।5.64.23।।",
+      "transliteration": "",
+      "translation": "The swift monkeys roared aloud as though they went up the sky like thundering clouds driven by  the wind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "अङ्गदे ह्यननुप्राप्ते सुग्रीवो वानराधिपः।\nउवाच शोकोपहतं रामं कमललोचनम्।।5.64.24।।",
+      "transliteration": "",
+      "translation": "Seeing the griefstricken, lotuseyed Rama, the lord of the vanaras Sugriva said this before the arrival of Angada:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "समाश्वसिहि भद्रं ते दृष्टा देवी न संशयः।\nनागन्तुमिह शक्यं तैरतीते समये हि नः।।5.64.25।।",
+      "transliteration": "",
+      "translation": "\"Trust me, Rama. Be blessed. The vanaras have seen the divine lady. There is no doubt. It is not possible for them to come here after exceeding the time limit  (in their search for Sita).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "न मत्सकाशमागच्छेत्कृत्ये हि विनिपातिते।\nयुवराजो महाबाहुः प्लवतां प्रवरोऽङ्गदः।।5.64.26।।",
+      "transliteration": "",
+      "translation": "\"My heir apparent, the strongarmed Angada, and the best of the monkeys is endowed  with virtues. He would not come near me if his mission had failed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "यद्यप्यकृतकृत्यानामीदृश स्स्यादुपक्रमः।\nभवेत्स दीनवदनो भ्रान्तविप्लुतमानसः।।5.64.27।।",
+      "transliteration": "",
+      "translation": "\"In case the vanaras have returned without accomplishing the task, Angada would have assumed a pathetic face, perplexed and unsteady in mind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "पितृपैतामहं चैतत्पूर्वकैरभिरक्षितम्।\nन मे मधुवनं हन्यादहृष्टः प्लवगेश्वरः।।5.64.28।।\nकौसल्यासुप्रजा राम समाश्वसिहि सुव्रत।",
+      "transliteration": "",
+      "translation": "\"If Angada, lord of the vanaras had not been happy, he would not have destroyed the Madhuvanam of my father's and my grandfather's time. O Rama, follower of righteous practices, Kausalya has an excellent son in you. Trust me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "दृष्टा देवी न सन्देहो न चान्येन हनूमता।।5.64.29।।\nन ह्यन्यः कर्मणो हेतुस्साधनेऽस्य हनूमतः।",
+      "transliteration": "",
+      "translation": "\"Hanuman is the one who has accomplished this task. Who else can? No doubt, he has seen Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "हनूमति हि सिद्धिश्च मतिश्च मतिसत्तमः।।5.64.30।।\nव्यवसायश्च वीर्यं च सूर्ये तेज इव ध्रुवम्।",
+      "transliteration": "",
+      "translation": "\"O Rama, the best among the wise just like the luminosity that abides in the Sun, capacity to succeed, energy, intelligence, even courage and steadfastness reside in Hanuman.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "जाम्बवान्यत्र नेता स्यादङ्गदश्च बलेश्वरः।\nहनुमांश्चाप्यधिष्ठाता न तस्य गतिरन्यथा।।5.64.31।।",
+      "transliteration": "",
+      "translation": "\"Where Jambavan is the leader, Angada the commander of the army and Hanuman the guiding force, the end result will not be otherwise.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "मा भूश्चिन्तासमायुक्तस्सम्प्रत्यमितविक्रमः।।5.64.32।।\nततः किलकिलाशब्दं शुश्रावासन्नमम्बरे।\nहनुमत्कर्मदृप्तानां नार्धतां काननौकसाम्।।5.64.33।।\nकिष्किन्धामुपयातानां सिद्धिं कथयतामिव।",
+      "transliteration": "",
+      "translation": "\"You are extremely valiant and it is unbecoming of you to be anxious at this time Rama. Just then chatterings of the monkeys were heard from the sky as they roared in pride talking of Hanuman's achievement. Having successfully completed the errand, they have arrived at Kishkinda.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "ततश्श्रुत्वा निनादं तं कपीनां कपिसत्तमः।।5.64.34।।\nआयताञ्चितलाङ्गूलस्सोऽभवद्धृष्टमानसः।",
+      "transliteration": "",
+      "translation": "The great Sugriva heard the roar of the monkeys and was extremely happy. He kept raising and shaking his long tail in joy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "आजग्मुस्तेऽपि हरयो रामदर्शनकांक्षिणः।।5.64.35।।\nअङ्गदं पुरतः कृत्वा हनूमन्तं च वानरम्।",
+      "transliteration": "",
+      "translation": "The joyful monkeys with Angada and Hanuman leading them descended with eagerness to have a close look at Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "तेऽङ्गदप्रमुखा वीराः प्रहृष्ठाश्च मुदान्विताः।।5.64.36।।\nनिपेतुर्हरिराजस्य समीपे राघवस्य च।",
+      "transliteration": "",
+      "translation": "Angada the chief along with the heroic monkeys very joyfully and exuberantly descended close to Sugriva, the king of monkeys and Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "हनुमांश्च महाबाहुः प्रणम्य शिरसा ततः।।5.64.37।।\nनियतामक्षतां देवीं राघवाय न्यवेदयत्।",
+      "transliteration": "",
+      "translation": "Then the strongarmed Hanuman with his head bowed down offered salutations and reported, 'Divine lady Sita with her constant devotion to Sri Rama is sound in body'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "दृष्टा देवीति हनुमद्वदनादमृतोपमम्।।5.64.38।।\nआकर्ण्य वचनं रामो हर्षमाप सलक्ष्मणः।",
+      "transliteration": "",
+      "translation": "On hearing the nectarlike words from Hanuman that Sita was found, Rama and Lakshmana were delighted.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "निश्चितार्थं ततस्तस्मिन् सुग्रीवं पवनात्मजे।।5.64.39।।\nलक्ष्मणः प्रीतिमान् प्रीतं बहुमानादवैक्षत।",
+      "transliteration": "",
+      "translation": "Sugriva and Lakshmana glanced at Hanuman respectfully with affection thinking surely Hanuman alone has succeeded.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "vs-64-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "प्रीत्या च रममाणोऽथ राघवः परवीरहा।।5.64.40।।\nबहुमानेन महता हनुमन्तमवैक्षत।",
+      "transliteration": "",
+      "translation": "Rama, the slayer of heroic enemies was extremely delighted and glanced at Hanuman with unbounded affection. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकावे सुन्दरकाण्डे चतुःषष्टितमस्सर्गः।। Thus ends the sixtyfourth sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

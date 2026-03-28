@@ -1,0 +1,459 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 1,
+    "title": "Description of Rama's virtues Dasaratha contemplates to install Rama as heirapparent Invites kings and elders from towns and villages to seek their opinion.",
+    "titleSanskrit": "",
+    "totalShlokas": 49
+  },
+  "shlokas": [
+    {
+      "id": "v2-1-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "गच्छता मातुलकुलं भरतेन तदाऽनघ।\nशत्रुघ्नो नित्यशत्रुघ्नो नीतः प्रीतिपुरस्कृतः।।2.1.1।।",
+      "transliteration": "",
+      "translation": "Bharata set out for his maternal uncle's house. He took with him the sinless Satrughna who is always successful in destroying foes and on whom he had bestowed his love and affection.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तत्र न्यवसद्भ्रात्रा सह सत्कारसत्कृतः।\nमातुलेनाश्वपतिना पुत्रस्नेहेन लालितः।।2.1.2।।",
+      "transliteration": "",
+      "translation": "Treated with warm hospitality and fatherly affection by his maternal uncle Aswapati, Bharata stayed on there along with his brother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "तत्रापि निवसन्तौ तौ तर्प्यमाणौ च कामतः।\nभ्रातरौ स्मरतां वीरौ वृद्धं दशरथं नृपम्।।2.1.3।।",
+      "transliteration": "",
+      "translation": "Though both the heroic brothers stayed there satisfied on their own they constantly remembered their aged father.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "राजाऽपि तौ महातेजा स्सस्मार प्रोषितौ सुतौ।\nउभौ भरतशत्रुघ्नौ महेन्द्रवरुणोपमौ।।2.1.4।।",
+      "transliteration": "",
+      "translation": "The glorious king Dasaratha also remembered his sons, Bharata and Satrughna, who  were like the great Indra and Varuna, (now) away from home.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "सर्व एव तु तस्येष्टा श्चत्वारः पुरुषर्षभाः।\nस्वशरीराद्विनिर्वृत्ताश्चत्वार इव बाहवः।।2.1.5।।",
+      "transliteration": "",
+      "translation": "Dasaratha, a bull among men, loved all his four sons equally just as the  arms of his own body.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तेषामपि महातेजा रामो रतिकरःपितुः।\nस्वयम्भूरिव भूतानां बभूव गुणवत्तरः।।2.1.6।।",
+      "transliteration": "",
+      "translation": "Even among them the brilliant Rama was a source of delight to his father like the Selfborn (Brahma) to all living beings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "स हि देवैरुदीर्णस्य रावणस्य वधार्थिभिः।\nअर्थितो मानुषे लोके जज्ञे विष्णुस्सनातनः।।2.1.7।।",
+      "transliteration": "",
+      "translation": "Entreated by the devatas desirous of slaying arrogant Ravana, the eternal Visnu was indeed born in the mortal world as Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "कौशल्या शुशुभे तेन पुत्रेणामिततेजसा।\nयथा वरेण देवानामदितिर्वज्रपाणिना।।2.1.8।।",
+      "transliteration": "",
+      "translation": "Kausalya looked splendid with her son, Rama of boundless energy, as did Aditi with the chief of the gods Indra, wielder of thunder.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "स हि रूपोपपन्नश्च वीर्यवाननसूयकः।\nभूमौवनुपमस्सूनुर्गुणैर्दशरथोपमः।।2.1.9।।",
+      "transliteration": "",
+      "translation": "Endowed with beauty and strengh, free from envy, and in virtues equal to Dasaratha, Rama was verily an incomparable son on earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "स तु नित्यं प्रशान्तात्मा मृदुपूर्वं च भाषते।\nउच्यमानोऽपि परुषं नोत्तरं प्रतिपद्यते।।2.1.10।।",
+      "transliteration": "",
+      "translation": "With an unfailing serenity of mind, Rama never paid back harshness with harshness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "कथञ्चिदुपकारेण कृतेनैकेन तुष्यति।\nन स्मरत्यपकाराणां शतमप्यात्मवत्तया।।2.1.11।।",
+      "transliteration": "",
+      "translation": "Gifted with selfrestraint, Rama was pleased even with a single benefit done somehow to him, yet did not remember even a hundred offences  committed by others.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "शीलवृद्धैर्ज्ञानवृद्धैर्वयोवृद्धैश्च सज्जनैः।\nकथयन्नास्त वै नित्यमस्त्रयोग्यान्तरेष्वपि।।2.1.12।।",
+      "transliteration": "",
+      "translation": "Even during intervals of  his practice of weapons he never failed to interact with saintly persons and with people advanced in age, virtue and wisdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "बुद्धिमान्मधुराभाषी पूर्वभाषी प्रियंवदः।\nवीर्यवान्न च वीर्येण महता स्वेन विस्मितः।।2.1.13।।",
+      "transliteration": "",
+      "translation": "Wise and softspoken, he was the first to speak to others words pleasing to hear. Though mighty, he was never proud of his overwhelming strength.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "नचानृतकथो विद्वान् वृद्धानां प्रतिपूजकः।\nअनुरक्तः प्रजाभिश्च प्रजाश्चाप्यनुरञ्जते।।2.1.14।।",
+      "transliteration": "",
+      "translation": "Rama never told lies. He was a learned man. He honoured elders by going forward to them. He loved his subjects as much as his subjects loved him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "सानुक्रोशो जितक्रोधो ब्राह्मणप्रतिपूजकः।\nदीनानुकम्पी धर्मज्ञो नित्यं प्रग्रहवांश्चुचिः।।2.1.15।।",
+      "transliteration": "",
+      "translation": "He was kindhearted and compassionate to the distressed, coolheaded and righteous. A worshipper of brahmins he was always selfrestrained and pure in spirit.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "कुलोचितमतिः क्षात्रं धर्मं स्वं बहुमन्यते।\nमन्यते परया कीर्त्या महत्स्वर्गफलं ततः।।2.1.16।।",
+      "transliteration": "",
+      "translation": "He entertained thoughts befitting his (great) dynasty and honoured the code of conduct of a kshatriya. He believed one could attain heavenly abode through his great achievements.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "नाऽऽश्रेयसि रतो विद्वान्नविरुद्धकथारुचिः।\nउत्तरोत्तरयुक्तौ च वक्ता वाचस्पतिर्यथा।।2.1.17।।",
+      "transliteration": "",
+      "translation": "A learned man, he evinced no interest in pursuits that did not contribute to one's welfare or had he any liking for speaking against others. But in debates his oratorical flourish was comparable to Brihaspati's.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अरोगस्तरुणो वाग्मी वपुष्मान्देशकालवित्।\nलोके पुरुषसारज्ञ स्साधुरेको विनिर्मितः।।2.1.18।।",
+      "transliteration": "",
+      "translation": "He was young, eloquent, healthy and free from disease. He was conscious of (right) time and place (for his pursuits). He was capable of ascertaining the potentiality of men. He was born a sage in this world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "स तु श्रेष्ठैर्गुणैर्युक्तः प्रजानां पार्थिवात्मजः।\nबहिश्चर इव प्राणो बभूव गुणतः प्रियः।।2.1.19।।",
+      "transliteration": "",
+      "translation": "Bestowed with such excellent qualities, the prince (Rama) became a favourite of his subjects.  He was like their vital life outside their bodies.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "सम्यग्विद्याव्रतस्नातो यथावत्साङ्गवेदवित्।\nइष्वस्त्रे च पितु श्श्रेष्ठो बभूव भरताग्रजः।।2.1.20।।",
+      "transliteration": "",
+      "translation": "With the appropriate sacred ablution marking the completion of the vow relating to the respective branches of learning in accordance with tradition, this elder brother of Bharata achieved proficiency in the Vedas and its auxiliary sciences. He surpassed his father in archery.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "कल्याणाभिजन स्साधुरदीन स्सत्यवागृजुः।\nवृद्धैरभिविनीतश्च द्विजैर्धर्मार्थदर्शिभिः।।2.1.21।।",
+      "transliteration": "",
+      "translation": "Born in a family of noble descent, he was saintly. A man without meanness.He was truthful and a man of rectitude. The training he received under aged brahmins conversant with dharma and artha made him welldisciplined.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "धर्मकामार्थतत्त्वज्ञः स्मृतिमान्प्रतिभानवान्।\nलौकिके समयाचारे कृतकल्पो विशारदः।।2.1.22।।",
+      "transliteration": "",
+      "translation": "He knew the true nature of dharma, artha and kama. With a sharp memory,  he was a genius. He was highly skilled in accomplishing tasks related to social practices and customs.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "निभृत स्संवृताकारो गुप्तमन्त्र स्सहायवान्।\nअमोघक्रोधहर्षश्च त्यागसंयमकालवित्।।2.1.23।।",
+      "transliteration": "",
+      "translation": "He (Rama) was modest and did not reveal his inner feelings. He counselled in secrecy and had good friends. Never was his anger or pleasure in vain. He knew the occasion  when to sacrifce and when to exercise restraint.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "दृढभक्ति स्स्थिरप्रज्ञो नासद्ग्राही न दुर्वचाः।\nनिस्तन्द्रिरप्रमत्तश्च स्वदोषपरदोषवित्।।2.1.24।।",
+      "transliteration": "",
+      "translation": "He was firm in his devotion and steady in intellect. He accepted nothing ignoble nor used bad words. He was not swayed by emotions or prone to idleness. He knew his faults as well as of others.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "शास्त्रज्ञश्च कृतज्ञश्च पुरुषान्तरकोविदः।\nयः प्रग्रहानुग्रहयोर्यथान्यायं विचक्षणः।।2.1.25।।",
+      "transliteration": "",
+      "translation": "He was versed in scriptures. He was grateful (to those who did him some good) and skilled in differentiating the comparative merits of men. Fair in his judgement he dispensed justice in accordance with law by reprimanding (the delinquent) and favouring (the honest).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "सत्सङ्ग्रहप्रग्रहणे स्थानविन्निग्रहस्य च।\nआयकर्मण्युपायज्ञ स्सन्दृष्टव्ययकर्मवित्।।2.1.26।।",
+      "transliteration": "",
+      "translation": "He was skilled in  receiving and encouraging the righteous and in punishing (the wicked). He knew  whom to punish. He knew the right means of raising revenue and also expending money in the prescribed manner.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "श्रैष्ठ्यं शास्त्रसमूहेषु प्राप्तो व्यामिश्रकेषु च।\nअर्थधमौ च सङ्गृह्य सुखतन्त्रो न चालसः।।2.1.27।।",
+      "transliteration": "",
+      "translation": "He obtained proficiency in scriptures and interconnected (mutually contradictory) branches of learning. Only after having grasped the (philosophy of) artha (statecraft) and dharma (righteousness), he sought pleasure. He was never indolent.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "वैहारिकाणां शिल्पानां विज्ञाताऽऽर्थविभागवित्।\nआरोहे विनये चैव युक्तो वारणवाजिनाम्।।2.1.28।।",
+      "transliteration": "",
+      "translation": "He had understanding of art and craft useful for entertainment. He knew proper  ways of dispensing wealth. He was experienced in riding elephants and horses and in humbling them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "धनुर्वेदविदां श्रेष्ठो लोकेऽतिरथसम्मतः।\nअभियाता प्रहर्ता च सेनानयविशारदः।।2.1.29।।",
+      "transliteration": "",
+      "translation": "He was the best among those skilled in archery in this world. He was reckoned as a great wielder of warchariots and one who strikes at the enemies by advancing towards them. He was an expert in commanding troops. (Atiratha is an excellent warrior who can manage his chariot, horses and the charioteer.)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "अप्रधृष्यश्च सङ्ग्रामे क्रुध्दैरपि सुरासुरैः।\nअनसूयो जितक्रोधो न दृप्तो न च मत्सरी।\nन चावमन्ता भूतानां न च कालवशानुगः।।।2.1.30।।",
+      "transliteration": "",
+      "translation": "He was incapable of being repressed even by the enraged devatas or rakshasas in the battle. He was free from envy and had subdued his anger and pride. He was never malicious and he never slighted any living being nor did he bow to the pressure of time.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "एवं श्रेष्ठगुणैर्युक्तः प्रजानां पार्थिवात्मजः।\nसम्मतस्त्रिषु लोकेषु वसुधायाः क्षमागुणैः।।2.1.31।।\nबुद्ध्या बृहस्पतेस्तुल्यो वीर्येणापि शचीपतेः।",
+      "transliteration": "",
+      "translation": "Thus endowed with such excellent qualities, the subjects in the three worlds held him in high esteem. In forbearance he was like the earth, in wisdom like Brihaspati and in prowess like the consort of Sachi (Indra).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "तथा सर्वप्रजाकान्तैः प्रीतिसंजननैः पितुः।।2.1.32।।\nगुणैर्विरुरुचे रामो दीप्तस्सूर्य इवांशुभिः।",
+      "transliteration": "",
+      "translation": "Rama whose virtues were cherished by all his subjects was a source of delight to his father and he shone like the rays of the resplendent Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "तमेवं व्रतसम्पन्नमप्रधृष्यपराक्रमम्।।2.1.33।।\nलोक पालोपमं नाथमकामयत मेदिनी।",
+      "transliteration": "",
+      "translation": "The earth desired him as her lord, for he was bestowed with such avowed virtues and with indomitable prowess equal to all the guardians of the quarters.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "एतैस्तु बहुभिर्युक्तं गुणैरनुपमैस्सुतम्।।2.1.34।।\nदृष्ट्वा दशरथो राजा चक्रे चिन्तां परन्तपः।",
+      "transliteration": "",
+      "translation": "Observing his son endowed with such innumerable and incomparable virtues, king Dasaratha, subduer of enemies started thinking.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "अथ राज्ञो बभूवैवं वृद्धस्य चिरजीविनः।।2.1.35।।\nप्रीतिरेषा कथं रामो राजा स्यान्मयि जीवति।",
+      "transliteration": "",
+      "translation": "Thereafter, flashed in the mind of that aged king who had (already) lived long this pleasant thought as to how Rama will become king while he was alive.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "एषा ह्यस्य परा प्रीतिर्हृदि संपरिवर्तते।।2.1.36।।\nकदा नाम सुतं द्रक्ष्याम्यभिषिक्तमहं प्रियम्।",
+      "transliteration": "",
+      "translation": "The thought of seeing his dear son coronated repeatedly surfaced his mind so great was his affection (for Rama).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "वृद्धिकामो हि लोकस्य सर्वभूतानुकम्पनः।।2.1.37।।\nमत्तः प्रियतरो लोके पर्जन्य इव वृष्टिमान्।",
+      "transliteration": "",
+      "translation": "(He said to himself) 'his (Rama's) only desire is to promote the prosperity of this world. He is one who shows compassion to all beings and is like the raingod dearer than me to the people of the world'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "यमशक्रसमो वीर्ये बृहस्पतिसमो मतौ।।2.1.38।।\nमहीधरसमो धृत्यां मत्तश्च गुणवत्तरः।",
+      "transliteration": "",
+      "translation": "'In prowess he is equal to Yama and Indra,in wisdom to Brihaspati and in firmness to a mountain and in virtues greater than me'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "महीमहमिमां कृत्स्नामधितिष्ठन्तमात्मजम्।।2.1.39।।\nअनेन वयसा दृष्ट्वा यथास्वर्गमवाप्नुयाम्।",
+      "transliteration": "",
+      "translation": "'Seeing my son ruling this entire dominion of the earth, I will experience the bliss of attaining heaven at this age.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "इत्येतैर्विविधैस्तैस्तैरन्यपार्थिवदुर्लभैः।।2.1.40।।\nशिष्टैरपरिमेयैश्च लोके लोकोत्तरैर्गुणैः।\nतं समीक्ष्य महाराजो युक्तं समुदितैश्शुभैः।।2.1.41।।\nनिश्चित्य सचिवैस्सार्धं युवराजममन्यत।",
+      "transliteration": "",
+      "translation": "King Dasaratha in consultation with his ministers observed that Rama is endowed  with various virtues not found in other kings, immeasurable virtues which are praiseworthy, and exemplary. He is distinguished in this world as all qualities seem to have merged in him. The king then made up his mind to make him princeregent.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "दिव्यन्तरिक्षे भूमौ च घोरमुत्पातजं भयम्।।2.1.42।।\nस़ञ्चचक्षेऽथ मेधावी शरीरे चात्मनो जराम्।",
+      "transliteration": "",
+      "translation": "The sagacious king, too perceived his body ageing and the portentous omens in the heaven, in the sky and on the earth causing dreadful concern.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "पूर्णचन्द्राननस्याथ शोकापनुदमात्मनः।।2.1.43।।\nलोके रामस्य बुबुधे सम्प्रियत्वं महात्मनः।",
+      "transliteration": "",
+      "translation": "The king realised afterwards that his grief would be dispelled if noble Rama whose countenance resembled the full moon and who was a favourite of the people is crowned.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "आत्मनश्च प्रजानां च श्रेयसे च प्रियेण च।।2.1.44।।\nप्राप्तकालेन धर्मात्मा भक्त्या त्वरितवान् नृपः।",
+      "transliteration": "",
+      "translation": "Longing for it, the noble king realized that the time was ripe for the acceleration of the process of safeguarding his own and his subjects' welfare.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "नानानगरवास्तव्यान्पृथग्जानपदानपि।।2.1.45।।\nसमानिनाय मेदिन्याः प्रधानान्पृथिवीपतीन्।",
+      "transliteration": "",
+      "translation": "He summoned individually kings and all important citizens residing in various cities and villages of this earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "न तु केकयराजानं जनकं वा नराधिपः।।2.1.46।।\nत्वरया चानयामास पश्चात्तौ श्रोष्यतः प्रियम्।",
+      "transliteration": "",
+      "translation": "The king did not invite both the kings of Kekaya and Janaka  in  haste with an  intention that they would hear the glad news at a later date.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "तान्वेश्मनानाभरणैर्यथाऽर्हं प्रतिपूजितान्।।2.1.47।।\nददर्शालङ्कृतो राजा प्रजापतिरिव प्रजाः।",
+      "transliteration": "",
+      "translation": "The king who received them in a befitting manner and provided them with residence and ornaments looked like lord Brahma adorned by the people.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "अथोपविष्टे नृपतौ तस्मिन्परबलार्दने।।2.1.48।।\nततः प्रविविशु श्शेषा राजानो लोकसम्मताः।",
+      "transliteration": "",
+      "translation": "After the king (Dasaratha) who was a tormenter of enemy forces was seated, the rest of the kings beloved of their subjects entered (the assembly hall).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "अथ राजवितीर्णेषु विविधेष्वासनेषु च।।2.1.49।।\nराजानमेवाभिमुखाः निषेदुर्नियता नृपाः।",
+      "transliteration": "",
+      "translation": "Then  the kings (who entered the assembly) took the seats assigned to them facing the king (Dasaratha), following the royal tradition.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-1-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "सलब्धमानैर्विनयान्वितैर्नृपैः\nपुरालयैर्जानपदैश्च मानदैः।   \nउपोपविष्टैर्नृपतिर्वृतो बभौ\nसहस्रचक्षुर्भगवानिवामरैः।।2.1.50।।",
+      "transliteration": "",
+      "translation": "Surrounded by those feudatory kings endowed with modesty, and received with due honour and by the respectful residents of cities and villages, the king (Dasaratha), resembled lord Indra, the thousand eyed encircled by the gods. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे प्रथमस्सर्गः। Thus ends the first sarga of Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

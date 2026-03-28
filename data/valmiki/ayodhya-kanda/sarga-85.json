@@ -1,0 +1,207 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 85,
+    "title": "Bharata expresses his desire to bring back Rama -- enquires the way to Bharadwaja's hermitage.",
+    "titleSanskrit": "",
+    "totalShlokas": 21
+  },
+  "shlokas": [
+    {
+      "id": "v2-85-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु भरतो निषादाधिपतिं गुहम्।\nप्रत्युवाच महाप्राज्ञो वाक्यं हेत्वर्थसंहितम्।।2.85.1।।",
+      "transliteration": "",
+      "translation": "When thus spoken to, Bharata, a great intellectual, replied to Guha with these well thought out and meaningful words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-85-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "ऊर्जितः खलु ते कामः कृतो मम गुरोस्सखे।\nयो मे त्वमीदृशीं सेनामेकोऽभ्यर्चितुमिच्छसि।।2.85.2।।",
+      "transliteration": "",
+      "translation": "O dear friend of my elder brother, your desire to extend hospitality to this large army all alone is indeed noble.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-85-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "इत्युक्त्वा तु महातेजा गुहं वचनमुत्तमम्।\nअब्रवीद्भरत श्श्रीमाननिषादाधिपतिं पुनः।।2.85.3।।",
+      "transliteration": "",
+      "translation": "Having spoken to Guha courteously, the majestic, radiant Bharata continued:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-85-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "कतरेण गमिष्यामि भरद्वाजाश्रमं गुह।\nगहनोऽयं भृशं देशो गङ्गाऽनूपो दुरत्ययः।।2.85.4।।",
+      "transliteration": "",
+      "translation": "O Guha this region of Ganga with its dense forest is very difficult to cross. How can I reach the hermitage of Bharadwaja?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-85-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तस्य तद्वचनं श्रुत्वा राजपुत्रस्य धीमतः।\nअब्रवीत्प्राञ्जलिर्वाक्यं गुहो गहनगोचरः।।2.85.5।।",
+      "transliteration": "",
+      "translation": "When he heard those words of the sagacious Bharata, Guha the forest ranger answered him reverentially with folded palms.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-85-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "दाशास्त्वाऽनुऽगमिष्यन्ति धन्विनस्सुसमाहिताः।\nअहं त्वानुगमिष्यामि राजपुत्र महायशः।।2.85.6।।",
+      "transliteration": "",
+      "translation": "O prince of great renown I shall follow you, wellprepared with these fishermen, armed with bows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-85-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "कच्छिन्नदुष्टो व्रजसि रामस्याक्लिष्टकर्मणः।\nइयं ते महती सेना शङ्कां जनयतीव मे।।2.85.7।।",
+      "transliteration": "",
+      "translation": "Are you not going to that place with the evil intention of causing harm to Rama of unwearied actions? This large army of yours arouses doubts in me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-85-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तमेवमभिभाषन्तमाकाश इव निर्मलः।\nभरतश्श्लक्ष्णया वाचा गुहं वचनमब्रवीत्।।2.85.8।।",
+      "transliteration": "",
+      "translation": "When he heard Guha thus speaking, Bharata who was as tranquil as the sky, said to him in a gentle voice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-85-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "माभूत���स कालो यत्कष्टं न मां शङ्कितुमर्हसि।\nराघव स्सहि मे भ्राता ज्येष्ठः पितुसमो मतः।।2.85.9।।",
+      "transliteration": "",
+      "translation": "That calmitous time will never come (again). You should not suspect me. I look upon Rama, my eldest brother, as my father.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-85-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तं निवर्तयितुं यामि काकुत्स्थं वनवासिनम्।\nबुद्धिरन्या न ते कार्या गुह सत्यं ब्रवीमि ते।।2.85.10।।",
+      "transliteration": "",
+      "translation": "I am going to bring back that scion of the kakutsthas (Rama) who resides in the forest. O Guha, do not entertain any other thought. I am tellng you the truth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-85-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "स तु संहृष्टवदन श्श्रुत्वा भरतभाषितम्।\nपुनरेवाब्रवीद्वाक्यं भरतं प्रति हर्षितः।।2.85.11।।",
+      "transliteration": "",
+      "translation": "When he heard those words of Bharata, Guha was delighted and his face beamed with joy as he said to Bharata:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-85-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "धन्यस्त्वं न त्वया तुल्यं पश्यामि जगतीतले।\nअयत्नादागतं राज्यं यस्त्वं त्यक्तुमिहेच्छसि।।2.85.12।।",
+      "transliteration": "",
+      "translation": "Blessed indeed you are as you desire to renounce the kingdom that has come to you effortlessly. I see none equal to you on this earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-85-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "शाश्वती खलु ते कीर्तिर्लोकाननुचरिष्यति।\nयस्त्वं कृच्छ्रगतं रामं प्रत्यानयितुमिच्छसि।।2.85.13।।",
+      "transliteration": "",
+      "translation": "You desire to bring back Rama who is in great difficulty. This everlasting fame of yours will spread all over the world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-85-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "एवं सम्भाषमाणस्य गुहस्य भरतं तदा।\nबभौ नष्टप्रभस्सूर्यो रजनी चाभ्यवर्तत।।2.85.14।।",
+      "transliteration": "",
+      "translation": "As Guha was thus conversing with Bharata, the rays of the Sun diminished and the night set in.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-85-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "सन्निवेश्य स तां सेनां गुहेन परितोषितः।\nशत्रुघ्नेन सह श्रीमाञ्छयनं समुपागमत्।।2.85.15।।",
+      "transliteration": "",
+      "translation": "Fortunate Bharata gratified by Guha encamped his army and retired to bed along with Satrughna.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-85-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "रामचिन्तामय श्शोको भरतस्य महात��मनः।\nउपस्थितो ह्यनर्हस्य धर्मप्रेक्षस्य तादृशः।।2.85.16।।",
+      "transliteration": "",
+      "translation": "But the thought of Rama caused grief to the magnanimous Bharata, a man of righteous outlook who did not deserve such grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-85-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अन्तर्दाहेन दहनस्सन्तापयति राघवम्।\nवनदाहाभिसन्तप्तं गूढोऽग्निरिव पादपम्।।2.85.17।।",
+      "transliteration": "",
+      "translation": "Just like a concealed forestfire scorching the dried up forest, the fire of sorrow kindled in his mind scorched Bharata.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-85-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "प्रसृतस्सर्वगात्रेभ्यस्स्वेदं शोकाग्निसम्भवम्।\nयथा सूर्यांशुसन्तप्तो हिमवान् प्रसृतोहिमम्।।2.85.18।।",
+      "transliteration": "",
+      "translation": "Like the ice melted by the heat of the Sun's rays flows down the Himalayas, sweat poured from all parts of his body caused by the fire of grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-85-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "ध्याननिर्धरशैलेन विनिश्श्वसितधातुना।\nदैन्यपादपसंघेन शोकायासाधिशृङ्गिणा।।2.85.19।।\nप्रमोहानन्तसत्त्वेन सन्तापौषधिवेणुना।\nआक्रान्तो दुःखशैलेन महता कैकयीसुतः।।2.85.20।।",
+      "transliteration": "",
+      "translation": "Bharata, son of Kaikeyi was stricken by a lofty mountain of grief. The cavityless rocks of that mountain were his contemplation, the minerals were his sighs, the multitude of trees were his desolation, peaks were his fatigue and mental distress, the unlimited number of animals were his stupor, the bamboo tree was his sorrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-85-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "विनिश्श्वसन्वै भृशदुर्मनास्ततः प्रमूढसंज्ञः परमापदं गतः।\nशमं न लेभे हृदयज्वरार्दितो नरर्षभो यूथहतो यथर्षभः।।2.85.21।।",
+      "transliteration": "",
+      "translation": "Then best of men, Bharata, with highly distraught mind and heaving sighs, with senses bewildered and oppressed by the fever raging in his heart and caught in a great calamity, like a bull separated from the herd enjoyed no peace of mind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-85-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "गुहेन सार्धं भरतस्समागतो महानुभावस्सजनस्समाहितः।\nसुदुर्मनास्तं भरतं तदा पुनर्गुह स्समाश्वासयदग्रजं प्रति।।2.85.22।।",
+      "transliteration": "",
+      "translation": "Bharata, a man of great magnanimity, joined Guha together with his people with composed mind. Then Guha, greatly distraught, again consoled  Bharata  regarding his elder brother Rama. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे पञ्चाशीतितमस्सर्गः।। Thus ends the eightyfifth sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

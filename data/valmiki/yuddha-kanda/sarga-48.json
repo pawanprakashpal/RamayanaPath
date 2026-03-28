@@ -1,0 +1,351 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 48,
+    "title": "Sita gets immersed in grief. Trijata reassures her and takes her back to Ashoka grove.",
+    "titleSanskrit": "",
+    "totalShlokas": 37
+  },
+  "shlokas": [
+    {
+      "id": "v6-48-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "भर्तारंनिहतंदृष्टवालक्ष्मणंचमहाबलम् ।\nविललापभृशंसी���ाकरुणंशोककर्शिता ।।6.48.1।।",
+      "transliteration": "",
+      "translation": "On seeing her husband killed and also mighty Lakshmana, Sita became emotional in intense sorrow and cried piteously.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "ऊचुर्लक्षणिकायेमांपुत्रिण्यविधवेतिच ।\nतेऽद्यसर्वेहतेरामेज्ञानिनोऽनृतवादिनः ।।6.48.2।।",
+      "transliteration": "",
+      "translation": "\"Whoever was capable of predicting the future have said that I will be the mother of sons and not become a widow. Now if Rama is dead, they become liars.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "यज्वनोमहिषींयेमामूचुःपत्नींचसत्त्रिणः ।\nतेऽद्यसर्वेहतेरामेज्ञानिनोऽनृतवादिनः ।।6.48.3।।",
+      "transliteration": "",
+      "translation": "\"Whoever conducted sacrificial ceremonies and are knowledgeable of sastras have told me that I would be consort. They are all liars now as Rama is killed.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "ऊचुस्संश्रवणेयेमांद्विजाःकार्तान्तिकाश्शुभाम् ।\nतेऽद्यसर्वेहतेरामेज्ञानिनोऽनृतवादिनः ।।6.48.4।।",
+      "transliteration": "",
+      "translation": "\"The astrologers, brahmins who have promised me to be auspicious and all the wise who have spoken are liars if Rama is killed.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "वीरपार्थिवपत्नीत्वांयेविदुर्भर्तृपूजिताम् ।\nतेऽद्यसर्वेहतेरामेज्ञानिनोऽनृतवादिनः ।।6.48.5।।",
+      "transliteration": "",
+      "translation": "\"Whoever has told me that I will be the wife of a man of great prowess, worshipped by husband, and all wise men are liars if Rama is killed.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "इमानिखलुपद्मानिपादयोर्यैःकुलस्त्रियः ।\nअधिराज्येऽभिषिच्यन्तेनरेन्द्रैःपतिभिःसह ।।6.48.6।।",
+      "transliteration": "",
+      "translation": "\"Those virtuous lotus marks that a woman has on their feet to become crowned queen of a kingdom are seen in my feet.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "वैधव्यंयान्तियैर्नार्योऽलक्षणैर्भाग्यदुर्लभाः ।\nनात्मनन्तानिपश्यामिपश्यन्तीहतलक्षणा ।।6.48.7।।",
+      "transliteration": "",
+      "translation": "\"Those inauspicious signs found in unlucky and widowed women are difficult to find in me. I do not see any such signs in me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "सत्यनामानिपद्मानिस्त्रीणामुक्तानिलक्षणैः ।\nतान्यद्यनिहतेरामेवितथानिभवन्तिमे ।।6.48.8।।",
+      "transliteration": "",
+      "translation": "\"Characteristic marks of lotuses, unfailing in their effect (truthful) predicted are all false if Rama is killed.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "केशास्सूक्ष्मास्समानीलाभ्रुवौचासंहतेमम ।\nवृत्तेचारोमकेजङ्घेदन्ताश्चाविरळामम ।।6.48.9।।",
+      "transliteration": "",
+      "translation": "\"My hair is fine and dark, my eyebrows are uniform and not joined, my shanks are round devoid of hair, and my teeth are closely set.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "शङ्खेनेत्रेकरौपादौगुल्फावूरूचमेचितौ ।\nअनुवृत्तनखास्स्निग्धास्समाश्चाङ्गुलयोमम ।।6.48.10।।",
+      "transliteration": "",
+      "translation": "\"My temporal bones, eyes, hands, feet, ankles, thighs are even, and my fingers are fleshy and round with nails proportioned and bright.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "स्तनौचाविरळौमामकौमग्नचूचुकौ ।\nमग्नाचोत्सङ्गिनीनाभःपार्श्वोरस्कंचमेचितम् ।।6.48.11।।",
+      "transliteration": "",
+      "translation": "\"My breasts are well formed and developed, the nipples are depressed and joined, the navel is deep, and the surrounding part is fleshy.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "ममवर्णोमणिनिभोमृदून्यङ्गरुहाणिच ।\nप्रतिष्ठितांद्वादशभिर्मामूचुश्शुभलक्षणाम् ।।6.48.12।।",
+      "transliteration": "",
+      "translation": "\"My complexion is like the shine of a gem. My hair on the skin is soft. When I touch the ground with my ten fingers and toes, it is said to leave auspicious marks.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "समग्रयवमच्छ्रिद्रपाणिपादंचवर्णवत् ।\nमन्दस्मितेत्येवचमांकन्यालाक्षणिनोद्विजाः ।।6.48.13।।",
+      "transliteration": "",
+      "translation": "\"My palms and feet placed together have no space which are auspicious marks and brahmins have said that my gentle smile is also a mark of auspiciousness.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "आधिराज्येऽभिषेकोमेब्राह्मणैःपतिनासह ।\nकृतान्तकुशलैरुक्तंतत्सर्वंवितथीकृतम् ।।6.48.14।।",
+      "transliteration": "",
+      "translation": "\"The prediction of astrologers that I will be consecrated with my husband and all that is falsified.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "शोधयित्वाजनस्थानंप्रवृततिमुपलभ्यच ।\nतीर्त्वासागरमक्षोभ्यंभ्रातरौगोष्पदेहतौ ।।6.48.15।।",
+      "transliteration": "",
+      "translation": "\"Having gained Janasthana and crossing the ocean which is impossible knowing about my whereabouts and getting me is impossible since the brothers have been killed by the maya of Indrajith whose footprints are like a cow's hoof.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "ननुवारुणमाग्नेयमैन्द्रंवायव्यमेवच ।\nअस्त्रंब्रह्मशिरश्चैवप्रत्यपद्यताम् ।।6.48.16।।",
+      "transliteration": "",
+      "translation": "\"Raghavas knew to use Varuna's weapons, fire god's weapons, Indra's also, even wind god's and Brahma's weapons. Why have they not used?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अदृश्यमानेनरणेमाययावासवोपमौ ।\nममनाथावनाथायानिहतौरामलक्ष्मणौ ।।6.48.17।।",
+      "transliteration": "",
+      "translation": "\"Indrajith remaining invisible in war by conjuring could kill my husband who is equal to Indra in valour. Rama and Lakshmana! I am orphaned now.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "नहिदृष्टिपथंप्राप्यराघवस्यरणेरिपुः ।\nजीवन्प्रन्तिवर्तेतयद्यपिस्यान्मनोजवः ।।6.48.18।।",
+      "transliteration": "",
+      "translation": "\"Even if the enemy is endowed with speed of thought, if he comes in the range of Rama's sight, he will not go alive.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "नकलस्यातिभारोऽस्तिकृतान्तश्चसुदुर्जयः ।\nयत्ररामःसहभ्रात्राशेतेयुधिनिपातितः ।।6.48.19।।",
+      "transliteration": "",
+      "translation": "\"Rama along with Lakshmana has fallen in the battlefield. Time spirit is too heavy and capable of doing anything, so difficult to conquer.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "नशोचामितथारामंलक्ष्मणंचमहारथम् ।\nवात्मानंजननींचापियथाश्वश्रूंतपस्विनीम् ।।6.48.20।।",
+      "transliteration": "",
+      "translation": "\"When I think of Rama or even great warrior Lakshmana, or my mother or myself I am not so sad as when I think of my motherinlaw who is an observer of austerity.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "सातुचिन्तयतेनित्यंसमाप्तव्रतमागतम् ।\nकदाद्रक्ष्यामिसीतांचलक्ष्मणंचसराघवम् ।।6.48.21।।",
+      "transliteration": "",
+      "translation": "\"She will also be worried and wait for Rama who has completed his vow (for fourteen years) and Lakshmana and Sita to come.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "परिदेवयमानांतांराक्षसीत्रिजटाब्रवीत् ।\nमाविषादंकृथादेवी भर्ताऽयंतवजीवति ।।6.48.22।।",
+      "transliteration": "",
+      "translation": "Looking at Sita, worried, Trijata said 'Devi, do not despair. Your husband is alive'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "कारणानिचवक्ष्यामिमहान्तिसदृशानिच ।\nयथेमौजीवतोदेवीभ्रातरौरामलक्ष्मणौ ।।6.48.23।।",
+      "transliteration": "",
+      "translation": "\"O Devi! Rama and Lakshmana are alive. I see great reasons for this.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "नहिकोपपरीतानिहर्षपर्युत्सुकानिच ।\nभवन्तियुधियोधानांमुखानिनिहतेपतौ ।।6.48.24।।",
+      "transliteration": "",
+      "translation": "\"If a husband ceases life in war, their face will not have an angry look or happy appearance.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "इदंविमानंवैदेही पुष्पकंनामनामतः ।\nदिव्यंत्वांदारयन्नैवंयद्येतौगतजीवितौ ।।6.48.25।।",
+      "transliteration": "",
+      "translation": "\"Vaidehi! Indeed, this aerial car called Pushpaka which is an auspicious one would not have brought you if they are ceased of life.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "हतवीरप्रधानाहिगतोत्साहानिरुद्यमा ।\nसेनाभ्रमतिसङ् ख्येषुहतकर्णेवनौर्जले ।।6.48.26।।",
+      "transliteration": "",
+      "translation": "\"The army chief killed, the interest of the troop lost, Pushpaka will move about without making an effort like the ship which lost the helmsman.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "इयंपुनरसम्भ्रान्तानिरुद्विग्नातरस्विनी ।\nसेनारक्षतिकाकुत्स्थौमयाप्रीत्यानिवेदितौ ।।6.48.27।।",
+      "transliteration": "",
+      "translation": "\"O Lady, given to austerities! These monkeys are guarding Kakuthsa as proclaimed by me lovingly. Do not be confused. They are safe.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "सात्वंभवसुविस्रब्धाअनुमानैस्सुखोदयैः ।\nअहतौपश्यकाकुत्स्थौस्नेहादेतद्ब्र्रवीमिते ।।6.48.28।।",
+      "transliteration": "",
+      "translation": "\"This army is not doubting, not perturbed also, that they are killed. They are guarding the Kakutsthas lovingly. I am telling you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "अनृतंनोक्तपूर्वंमेनचवक्ष्येकदाचन ।\nचारित्रसुखशीलत्वात् प्रविष्टाअसिमनःमम ।।6.48.29।।",
+      "transliteration": "",
+      "translation": "\"I have not uttered untruth earlier nor shall I do now. Indeed, you have found entry into my mind being a woman of good disposition.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "नेमौशक्यारणेजेतुंसेन्द्रैरपिसुरासुरैः ।\nतादृशंदर्शनंदृष्टवामयाचावेदितंतव ।।6.48.30।।",
+      "transliteration": "",
+      "translation": "\"These two are not capable of being won in war even by gods or demons. On observation of the indications by me I am making you realize.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "इदंचसुमहचचित्रंशरैःपश्यस्वमैथिलि ।\nनिस्संज्ञावप्युभावेतौनैवलक्ष्मीर्विमुञ्चति ।।6.48.31।।",
+      "transliteration": "",
+      "translation": "\"O Mythili! Even though both of them have fallen and unconscious under arrows their body splendour has not diminished. You may see.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "प्रायेणगतसत्त्वानांपुरुषाणांगतायुषाम् ।\nदृश्यमानेषुवक्त्रेषुपरंभवतिवैकृतम् ।।6.48.32।।",
+      "transliteration": "",
+      "translation": "\"Normally when we see men who have ceased life and stopped breathing their features are unappealing.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "त्यजशोकंचमोहंचदुःखंचजनकात्मजे ।\nरामलक्ष्मणयोरर्थेनाद्यशक्यमजीवितुम् ।।6.48.33।।",
+      "transliteration": "",
+      "translation": "\"O Janaka's daughter! You give up grief and delusion about Rama and Lakshmana. They are alive, no doubt.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "शुत्वातुवचनंतस्याःसीतासुरसुतोपमा ।\nकृताञ्जलिरुवाचेमामेवमस्त्वितिमैथिलि ।।6.48.34।।",
+      "transliteration": "",
+      "translation": "Sita who was like deity, on hearing the words of consolation, spoken by Trijata, greeted Trijata with palms together.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "विमानंपुष्पकंतत्तुसन्निवर्त्यमनोजवम् ।\nदीनात्रिजटयासीतालङ्कामेवप्रवेशिता ।।6.48.35।।",
+      "transliteration": "",
+      "translation": "Then Trijata took Sita in the Pushpaka chariot endowed with the speed of mind and entered Lanka.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "ततस्त्रिजटयासार्थंपुष्पकादवरुह्यसा ।\nअशोकवनिकामेवराक्षसीभिःप्रवेशिता ।।6.48.36।।",
+      "transliteration": "",
+      "translation": "Thereafter Sita along with Trijata went to Pushpaka. Making Sita to get down, rakshasi also entered Ashoka grove.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-48-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "प्रविश्यसीताबहुवृक्षषण्डांतांराक्षसेन्द्रस्यविहारभूमिम् ।\nसम्प्रेक्ष्यसञ्चिन्त्यचराजपुत्रौपरंविषादंसमुपाजगाम ।।6.48.37।।",
+      "transliteration": "",
+      "translation": "Having entered the Rakshasa's pleasure garden which had many trees, Sita gave way to intense sorrow having keenly observed the king's sons. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेअष्टचत्वारिंशस्सर्गः ।। This is the end of the forty eighth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

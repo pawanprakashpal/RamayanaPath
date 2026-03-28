@@ -1,0 +1,369 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 30,
+    "title": "Khara's death in the hands of Rama-- gods and charanas praise him offer prayers-- Lakshmana and Sita come out of the cave.",
+    "titleSanskrit": "",
+    "totalShlokas": 39
+  },
+  "shlokas": [
+    {
+      "id": "v3-30-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "भित्त्वा तु तां गदां बाणै राघवो धर्मवत्सलः।\nस्मयमानः खरं वाक्यं संरब्धमिदमब्रवीत्।।3.30.1।।",
+      "transliteration": "",
+      "translation": "Rama, fond of dharma, broke into pieces Khara's mace with his arrows, and smiling at bewildered Khara, said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "एतत्ते बलसर्वस्वं दर्शितं राक्षसाधम।\nशक्तिहीनतरो मत्तो वृथा त्वमवगर्जसि।।3.30.2।।",
+      "transliteration": "",
+      "translation": "O lowly demon, you have already exhibited all your strength. Inferior to me in energy, you are needlessly roaring.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "एषा बाणविनिर्भिन्ना गदा भूमितलं गता।\nअभिधानप्रगल्भस्य तव प्रत्ययघातिनी।।3.30.3।।",
+      "transliteration": "",
+      "translation": "The mace about which you boasted so much has betrayed your confidence. Shattered by my arrows it now lies on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "यत्त्वयोक्तं विनष्टानामहमश्रुप्रमार्जनम्।\nराक्षसानां करोमीति मिथ्या तदपि ते वचः।।3.30.4।।",
+      "transliteration": "",
+      "translation": "You said you will wipe the tears of the dead demons. (Now) those words have proved false.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "नीचस्य क्षुद्रशीलस्य मिथ्यावृत्तस्य रक्षसः।\nप्राणानहं हरिष्यामि गरुत्मानमृतं यथा।।3.30.5।।",
+      "transliteration": "",
+      "translation": "You are mean. You have false pride. You are of low behaviour. I shall take away your life, O demon,, Just as Garuda carried off the nectar.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अद्य ते छिन्नकण्ठस्य फेनबुद्बुदभूषितम्।\nविदारितस्य मद्बाणैर्मही पास्यति शोणितम्।।3.30.6।।",
+      "transliteration": "",
+      "translation": "Now with your throat split open by my arrows , the earth will drink your foamy blood full of bubbles.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "पांसुरूषितसर्वाङ्गस्स्रस्तन्यस्त भुजद्वयः।\nस्वप्स्यसे गां समालिङ्ग्य दुर्लभां प्रमदामिव।।3.30.7।।",
+      "transliteration": "",
+      "translation": "With all your limbs covered with dust, both the arms dropped down and stretched  out  on the ground, you will sleep as though hugging the earth, like embracing a rare woman.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "प्रबद्धनिद्रे शयिते त्वयि राक्षसपांसने।\nभविष्यन्तिशरण्यानां शरण्या दण्डका इमे।।3.30.8।।",
+      "transliteration": "",
+      "translation": "When you, O vile demon, will go into eternal sleep the Dandaka grounds will provide shelter to those who deserve it here.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "जनस्थाने हतस्थाने तव राक्षस मच्छरैः।\nनिर्भया विचरिष्यन्ति सर्वतो मुनयो वने।।3.30.9।।",
+      "transliteration": "",
+      "translation": "O demon, when my arrows destroy your hold over Janasthana the sages will move freely without fear all over this forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अद्य विप्रसरिष्यन्ति राक्षस्यो हतबान्धवाः।\nबाष्पार्द्रवदना दीना भया���न्यभयावहाः।।3.30.10।।",
+      "transliteration": "",
+      "translation": "Having lost all their relations, the demonesses, who were causing fear to others,will move away with faces full of tears.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "अद्य शोकरसज्ञास्ता भविष्यन्ति निरर्थकाः।\nअनुरूपकुलाः पत्न्यो यासां त्वं पतिरीदृशः।।3.30.11।।",
+      "transliteration": "",
+      "translation": "Your wives, who have got a husband like you, must have been born to a befitting race. They will taste the pangs of sorrow today, for no reasons whatsoever.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "नृशंस नीच क्षुद्रात्मन्नित्यं ब्राह्मणकण्टक।\nयत्कृते शङ्कितैरग्नौ मुनिभिः पात्यते हविः।।3.30.12।।",
+      "transliteration": "",
+      "translation": "O cruel, mean, vile fellow, you had been always opposing the brahmins who pour oblations in fire under fear.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तमेवमभिसंरब्धं ब्रुवाणं राघवं रणे।\nखरो निर्भर्त्सयामास रोषात्खरतरस्वरः।।3.30.13।।",
+      "transliteration": "",
+      "translation": "When Rama was thus speaking in a state of excitement in the middle of war, the choleric Khara  started abusing him in a harsher tone.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "दृढं खल्ववलिप्तोऽसि भयेष्वपि च निर्भयः।\nवाच्यावाच्यं ततो हि त्वं मृत्युवश्यो न बुध्यसे।।3.30.14।।",
+      "transliteration": "",
+      "translation": "You are very haughty. When there is every cause of fear you pretend fearlessness. Being in the grip of death you do not know what to speak and what not to speak.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "कालपाशपरिक्षिप्ता भवन्ति पुरुषा हि ये।\nकार्याकार्यं न जानन्ति ते निरस्तषडिन्द्रियाः।।3.30.15।।",
+      "transliteration": "",
+      "translation": "Those bound by the noose of death, do not know what to and what not to do, as their six senses cease to function.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "एवमुक्त्वा ततो रामं संरुध्य भ्रुकुटीं ततः।\nस ददर्श महासालमविदूरे निशाचरः।।3.30.16।।\nरणे प्रहरणस्यार्थे सर्वतो ह्यवलोकयन्।",
+      "transliteration": "",
+      "translation": "Having said thus to Rama with a frown on his face, Khara, looking around for something to strike him with, saw a huge sal tree not very far.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "स तमुत्पाटयामास संदश्य दशनच्छदम्।।3.30.17।।\nतं समुत्क्षिप्य बाहुभ्यां विनद्य च महाबलः।\nराममुद्दिश्य चिक्षेप हतस्त्वमिति चाब्रवीत्।।3.30.18।।",
+      "transliteration": "",
+      "translation": "Khara, biting his lower lip, uprooted the tree , lifted it with his mighty arms, and shouting at Rama loudly hurled it at him, saying, 'You are dead'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तमापतन्तं बाणौघैच्छित्वा रामः प्रतापवान्।\nरोषमाहारयत्तीव्रं निहन्तुं समरे खरम्।।3.30.19।।",
+      "transliteration": "",
+      "translation": "Brave Rama shattered with a flood of arrows the tree falling over him and summoned sharp anger to end Khara in war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "जातस्वेदस्ततो रामो रोषाद्रक्तान्तलोचनः।\nनिर्भिभेद सहस्रेण बाणानां समरे खरम्।।3.30.20।।",
+      "transliteration": "",
+      "translation": "Full of sweat and with the corners of his eyes turned red, Rama hit Khara with a thousand arrows in the encounter.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तस्य बाणान्तराद्रक्तं बहु सुस्राव फेनिलम्।\nगिरेः प्रस्रवणस्येव तोयधारापरिस्रवः।।3.30.21।।",
+      "transliteration": "",
+      "translation": "With his body pierced with arrows his blood started flowing like the waterfalls flow from mount Prasravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "विह्वलस्सकृतो बाणैः खरो रामेण संयुगे।\nमत्तो रुधिरगन्धेन तमेवाभ्यद्रवद्द्रुतम्।।3.30.22।।",
+      "transliteration": "",
+      "translation": "Completely struck by Rama's arrows, Khara, intoxicated with the smell of  blood, ran speedily charging towards Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तमापतन्तं संरब्धं कृतास्त्रो रुधिराप्लुतम्।\nअपासर्पत्प्रतिपदं किञ्चित्वरितविक्रमः।।3.30.23।।",
+      "transliteration": "",
+      "translation": "Rama who was an adept in the science of arms picked up his valour quickly and moved a step back (not  to give him an opportunity to strike), looking at the highly agitated Khara falling upon him, with his body fully drenched in blood.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "ततः पावकसङ्काशं वधाय समरे शरम्।\nखरस्य रामो जग्राह ब्रह्मदण्डमिवापरम्।।3.30.24।।",
+      "transliteration": "",
+      "translation": "Rama took a dart glowing like fire which resembled another Brahmadanda to kill Khara in the war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "स तं दत्तं मघवता सुरराजेन धीमता।\nसंदधे चापि धर्मात्मा मुमोच च खरं प्रति।।3.30.25।।",
+      "transliteration": "",
+      "translation": "Righteous Rama placed on his bow the dart given him by wise Indra, king of the gods, and shot it at Khara.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "स विमुक्तो महाबाणो निर्घातसमनिस्वनः।\nरामेण धनुरायम्य खरस्योरसिचापतत्।।3.30.26।।",
+      "transliteration": "",
+      "translation": "Bending the bow fully, Rama released the arrow roaring like a violent gust of wind, which fell on Khara's chest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "स पपात खरो भूमौ दह्यमानश्शरानग्निना।\nरुद्रेणेव विनिर्दग्धश्वेतारण्ये यथान्तकः।।3.30.27।।",
+      "transliteration": "",
+      "translation": "Just as Yama was burnt by Rudra's fire(from his eyes) in Swetaranya, Khara collapsed on the ground consumed by the fire of Rama's arrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "स वृत्र इव वज्रेण फेनेन नमुचिर्यथा।\nबलो वेन्द्राशनिहतो निपपात हतः खरः।।3.30.28।।",
+      "transliteration": "",
+      "translation": "Khara fell down just like Vrutra or Bala killed by Indra's thunderbolt or like Numuchi by the froth of the sea.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "ततो राजर्षयस्सर्वे सङ्गताः परमर्षयः।\nसभाज्य मुदिता राममिदं वचनमब्रुवन्।।3.30.29।।",
+      "transliteration": "",
+      "translation": "Then the rajarsis, great seers gathered together, offered their worship to Rama  and said these words joyfully :",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "एतदर्थं महातेजा महेन्द्रः पाकशासनः।\nशरभङ्गाश्रमं पुण्यमाजगाम पुरन्दरः।।3.30.30।।",
+      "transliteration": "",
+      "translation": "For this purpose, killer of Paka, the gIorious Indra (who can break a fortress), came to the hermitage of Sarabhanga.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "आनीतस्त्वमिमं देशमुपायेन महर्षिभिः।\nएषां वधार्थं क्रूराणां रक्षसां पापकर्मणाम्।।3.30.31।।",
+      "transliteration": "",
+      "translation": "You are brought to this place by the great sages who had cleverly devised a plan to kill the cruel sinners, these demons৷৷",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "तदिदं नः कृतं कार्यं त्वया दशरथात्मज।\nसुखं धर्मं चरिष्यन्ति दण्डकेषु महर्षयः।।3.30.32।।",
+      "transliteration": "",
+      "translation": "O son of Dasaratha, you have accomplished such a task that hereafter the sages in  Dandaka will discharge their rightful duties happily.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "एतस्मिन्तरे देवाश्चारणैस्सह सङ्गताः।\nदुन्दुभींश्चाभिनिघ्नन्तः पुष्पवर्षं समन्ततः।।3.30.33।।\nरामस्योपरि संह्रुष्टा ववृषुर्विस्मितास्तदा।",
+      "transliteration": "",
+      "translation": "Meanwhile the wonderstruck gods along with the charanas (celestial bards) got together and began beating the drums and raining showers of flowers on Rama from all sides.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "अर्धाधिकमुहूर्तेन रामेण निशितैश्शरैः।।3.30.34।।\nचतुर्दशसहस्राणि रक्षसां भीमकर्मणाम्।\nखरदूषणमुख्यानां निहतानि महाहवे।।3.30.35।।",
+      "transliteration": "",
+      "translation": "'In a little more than half a moment of this great war Rama had accomplished the terrific task of killing with sharp darts fourteen thousand demons, led by Khara and Dusana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "अहो बत महत्कर्म रामस्य विदितात्मनः।\nअहो वीर्यमहो दाक्ष्यं विष्णोरिव हि दृश्यते।।3.30.36।।\nइत्येवमुक्त्वा ते सर्वे ययुर्देवा यथागतम्।",
+      "transliteration": "",
+      "translation": "'Rama who knows the self has performed a great work. Oh what prowess what efficiency  only lord Visnu could do this'. So saying all the gods went back to their respective destinations.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "तस्मिन्नन्तरे वीरो लक्ष्मणस्सह सीतया।\nगिरिदुर्गाद्विनिष्क्रम्य संविवेशाश्रमं सुखी।।3.30.37।।",
+      "transliteration": "",
+      "translation": "In the mean time, heroic Lakshmana accompanied by Sita came out of the mountain cave happily and entered the hermitage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "ततो रामस्तु विजयी पूज्यमानो महर्षिभिः।\nप्रविवेशाश्रमं वीरो लक्ष्मणेनाभिपूजितः।।3.30.38।।",
+      "transliteration": "",
+      "translation": "Then victorious Rama having been worshipped by the seers and also by Lakshmana entered the hermitage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "तं दृष्ट्वा शत्रुहन्तारं महर्षीणां सुखावहम्।\nबभूव हृष्टा वैदेही भर्तारं परिषस्वजे।।3.30.39।।",
+      "transliteration": "",
+      "translation": "On seeing Rama killing the enemies of the great sages for their happiness Sita felt glad and embraced her husband.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "मुदा परमया युक्ता दृष्ट्वा रक्षोगणान्हतान्।\nरामं चैवाव्यथं दृष्ट्वा तुतोष जनकात्मजा।।3.30.40।।",
+      "transliteration": "",
+      "translation": "Sita, daughter of Janaka, was happy to see the demons killed by Rama who himself was unhurt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-30-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "ततस्तु तं राक्षससङ्घमर्दनं सभाज्यमानं मुदितैर्महर्षिभिः।\nपुनः परिष्वज्य शशिप्रभानना बभूव हृष्टा जनकात्मजा तदा।।3.30.41।।",
+      "transliteration": "",
+      "translation": "Then the daughter of Janaka, cheerful Sita, who had a face bright like the moon, embraced Rama, destroyer of demons who was worshipped by the delighted sages.  इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये अरण्यकाण्डे त्रिंशस्सर्गः।। Thus ends the thirtieth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

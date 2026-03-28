@@ -1,0 +1,495 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 63,
+    "title": "Dasaratha recalls the past he had shot an arrow at a hermit boy while he was filling a pot with water, mistaking the sound to be that of an elephant -- Dasaratha realizes the unintentional mistake in killing the boy.",
+    "titleSanskrit": "",
+    "totalShlokas": 53
+  },
+  "shlokas": [
+    {
+      "id": "v2-63-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "प्रतिबुद्धो मुहूर्तेन शोकोपहतचेतनः।\nअथ राजा दशरथस्सचिन्तामभ्यपद्यत।।2.63.1।।",
+      "transliteration": "",
+      "translation": "Waking up in a moment tormented with grief, the king began to ponder once again.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "रामलक्ष्मणयोश्चैव विवासा द्वासवोपमम्।\nआविवेशोपसर्गस्तं तम स्सूर्यमिवासुरम्।।2.63.2।।",
+      "transliteration": "",
+      "translation": "Indralike Dasaratha due to banishment of Rama and Lakshmana, was besieged by a great calamity like the Sun enveloped by demonic dark at the time of eclipse.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "सभार्ये निर्गते रामे कौसल्यां कोशलेश्वरः।\nविवक्षुरसितापाङ्गां स्मृत्वा दुष्कृतमात्मनः।।2.63.3।।",
+      "transliteration": "",
+      "translation": "After Rama had left along with his wife the king of Kosala (Dasaratha) recollected his former evil deed and wanted to narrate it to the darkeyed Kausalya.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "स राजा रजनीं षष्ठीं रामे प्रव्राजिते वनम्।\nअर्धरात्रे दशरथ स्संस्मरन् दुष्कृतं कृतम्।।2.63.4।।",
+      "transliteration": "",
+      "translation": "After the banishment of Rama the king spent the sixth night, recalling the evil deed done by him in the past.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "स राजा पुत्रशोकार्तः स्मृत्वा दुष्कृतमात्मनः।\nकौसल्यां पुत्रशोकार्तामिदं वचनमब्रवीत्।।2.63.5।।",
+      "transliteration": "",
+      "translation": "King Dasaratha distressed by the separation from his son, pondered over his past misdeed, and said to helpless Kausalya, who was equally grieving over the separation from Rama:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "यदाचरति कल्याणि शुभं वा यदि वाऽशुभम्।\nतदेव लभते भद्रे कर्ता कर्मजमात्मनः।।2.63.6।।",
+      "transliteration": "",
+      "translation": "O gentle auspicious lady a man has to reap the fruit of his action, good or evil.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "गुरुलाघवमर्थानामारम्भे कर्मणां फलम्।\nदोषं वा यो न जानाति न बाल इति होच्यते।।2.63.7।।",
+      "transliteration": "",
+      "translation": "He who, at the commencement of any action, does not foresee the good or evil consequences of his action in considered a child.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "कश्चिदाम्रवणं छित्त्वा पलाशां श्च निषिञ्चति।\nपुष्पं दृष्ट्वा फले गृध्नु स्स शोचति फलागमे।।2.63.8।।",
+      "transliteration": "",
+      "translation": "If some one cuts down mango trees and plants palasa trees and waters them will repent when he sees only flowers while he expects fruit.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "अविज्ञाय फलं यो हि कर्म त्वेवानुधावति।\nस शोचेत्फलवेलायां यथा किंशुकसेचकः।।2.63.9।।",
+      "transliteration": "",
+      "translation": "Without foreseeing the fruits of his action, he who runs after action only will regret at the time of fruition like the one who waters the palasa tree.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "सोऽहमाम्रवणं छित्वा पलाशांश्च न्यषेचयम्।\nरामं फलागमे त्यक्त्वा पश्चाच्छोचामि दुर्मतिः।।2.63.10।।",
+      "transliteration": "",
+      "translation": "So I have cut the mango trees and watered palasa trees. In utter foolishness, I have banished Rama at the time of fruition and  regretting later.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "लब्धशब्देन कौसल्ये कुमारेण धनुष्मता।\nकुमारश्शब्दवेधीति मया पापमिदं कृतम्।।2.63.11।।",
+      "transliteration": "",
+      "translation": "O Kausalya in my youth I was a great archer who could hit the target by its sound. As such I committed this sin.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "तदिदं मेऽनुसंम्प्राप्तं देवि दुःखं स्वयं कृतम्।\nसम्मोहादिह बालेन यथा स्याद्भक्षितं विषम्।।2.63.12।।",
+      "transliteration": "",
+      "translation": "Just as a boy consumes poison out of delusion, O Devi, this sorrow has befallen me as a result of my own action.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "यथान्यः पुरुषः कश्चित्पलाशैर्मोहितो भवेत्।\nएवं ममाऽप्यविज्ञातं शब्दवेध्यमयं फलम्।।2.63.13।।",
+      "transliteration": "",
+      "translation": "Like some one who is deluded by palasa trees I too did not realise the consequences of shooting the target following the direction of the sound.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "देव्यनूढा त्वमभवो युवराजो भवाम्यहम्।\nततः प्रावृडनुप्राप्ता मदकामविवर्धिनी।।2.63.14।।",
+      "transliteration": "",
+      "translation": "O Kausalya, you were not married then. I was prince regent. The rainy season that inflames passion and pride had just set in.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "उपास्य च रसान्भौमां स्तप्त्वा च जगदंशुभिः।\nपरेताचरितां भीमां रविराविशते दिशम्।।2.63.15।।",
+      "transliteration": "",
+      "translation": "Having sucked the waters of the earth and scorching the world with its rays, the Sun had entered the frightful southern quarter ranged by departed souls.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "उष्णमन्तर्दधे सद्य स्स्निग्धा ददृशिरे घनाः।\nततो जहृषिरे सर्वे भेकसारङ्गबर्हिणः।।2.63.16।।",
+      "transliteration": "",
+      "translation": "At that time the heat subsided, glistening clouds appeared. The frogs, geese and peacocks began to rejoice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "क्लिन्न पक्षोत्तरास्स्नाताः कृच्छ्रादिव पतत्रिणः।\nवृष्टिवातावधूताग्रान्पादपानभिपेदिरे।।2.63.17।।",
+      "transliteration": "",
+      "translation": "The birds with their plummage moistened  as if they had dipped in water reached with great difficulty the tops of the trees which were shaken by the wind and rain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "पतितेनाम्भसाच्छन्नः पतमानेन चासकृत्।\nआबभौ मत्तसारङ्गस्तोयराशिरिवाचलः।।2.63.18।।",
+      "transliteration": "",
+      "translation": "Engulfed by torrents of rain that continued to fall ceaselessly, the mountain visited by intoxicated antelopes looked like a mass of water.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "पाण्डुरारुणवर्णानि स्रोतांसि विमलान्यपि।\nसुस्रुवुर्गिरिधातुभ्यस्सभस्मानि भुजङ्गवत्।।2.63.19।।",
+      "transliteration": "",
+      "translation": "Although pure, the rapidly flowing water from the mountains mixed with the minerals in the soil turned white and red in colour and flowed like a serpent.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "आकुलारुण तोयानि स्रोतांसि विमलान्यपि।\nउन्मार्गजलवाहिनी बभूवुर्जलदागमे।।2.63.20।।",
+      "transliteration": "",
+      "translation": "The streams that were pure, mixed with red soil flowed red, deviating from their natural course.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तस्मिन्नतिसुखे काले धनुष्मानिषुमान्रथी।\nव्यायामकृतसङ्कल्पस्सरयूमन्वगां नदीम्।।2.63.21।।",
+      "transliteration": "",
+      "translation": "In that highly delightful season, wishing to go hunting I, armed with bow and arrows, rode my chariot towards  river Sarayu.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "निपाने महिषं रात्रौ गजं वाऽभ्यागतं नदीम्।\nअन्यं वा श्वापदं कञ्चिज्जिघांसु रजितेन्द्रियः।\nतस्मिं स्तत्राहमेकान्ते रात्रौ विवृतकार्मुकः।।2.63.22।।",
+      "transliteration": "",
+      "translation": "And there, with no control over my senses, I hid  in a lonely place with my bow in readiness intending to shoot a buffalo or an elephant or any other wild animal that might come to the spot for drinking water in the night.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तत्राहं संवृतं वन्यं हतवांस्तीरमागतम्।\nअन्यं चापि मृगं हिंस्रं शब्दं श्रुत्वाऽभ्युपागतम्।।2.63.23।।",
+      "transliteration": "",
+      "translation": "Hiding and waiting there, following the sounds of animals I killed two animals that had reached the bank of the river.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "अथान्धकारे त्वश्रौषं जले कुम्भस्य पूर्यतः।\nअचक्षुर्विषये घोषं वारणस्येव नर्दतः।।2.63.24।।",
+      "transliteration": "",
+      "translation": "Then at a place that was out of the range of my sight in darkness I heard the sound of a pitcher being filled with water which resembled the sound of an elephant.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "ततोऽहं शरमुधृत्य दीप्तमाशीविषोपमम्।\nशब्दं प्रति गजप्रेप्सुरभिलक्ष्य त्वपातयम्।।2.63.25।।",
+      "transliteration": "",
+      "translation": "Wishing to kill the elephant, I seized my arrow glowing like a venomous snake and aimed it towards the sound.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "अमुञ्चं निशितं बाणमहमाशीविषोपमम्।\nतत्र वागुषसि व्यक्ता प्रादुरासीद्वनौकसः।।2.63.26।।\nहाहेति पततस्तोये बाणाभिहतमर्मणः।।2.63.27।।",
+      "transliteration": "",
+      "translation": "Then I discharged a sharp shaft like a venomous serpent. In the morning twilight I saw that the shaft had hit the vital part of the body of a forest dweller and his cry of 'Alas', was clearly heard as he fell in the water.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "तस्मिन्निपतिते बाणे वागभूत्तत्र मानुषी। \nकथमस्मद्विधे शस्त्रं निपतेत्तु तपस्विनि।।2.63.28।।",
+      "transliteration": "",
+      "translation": "When the arrow hit him, a man's voice was heard saying, 'How can an arrow be discharged at a person like me who is an ascetic?'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "प्रविविक्तां नदीं रात्रावुदाहाऽरोहमागतः।\nइषुणाऽभिहतः केन कस्य वा किं कृतं मया।।2.63.29।।",
+      "transliteration": "",
+      "translation": "'I have come to this lonely spot of the river to take water. Who has hit me with this arrow? What (harm) have I done to any one?'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "ऋषेर्हिन्यस्तदण्डस्य वने वन्येन जीवतः।\nकथं नु शस्रेण वधो मद्विधस्य विधीयते।।2.63.30।।",
+      "transliteration": "",
+      "translation": "'Renouncing violence I live the life of an ascetic on forest produce. Why should any one kill me with a weapon?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "जटाभारधरस्यैव वल्कलाजिनवाससः।\nको वधेन ममर्थी स्यात्किंवाऽस्यापकृतं मया।।2.63.31।।",
+      "transliteration": "",
+      "translation": "'Who wants to kill me who lives like an ascetic with matted hair and wearing bark or the skin of an antelope? What harm have I done to him?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "एवं निष्फलमारब्धं केवलानर्थसंहितम्।\nन कश्चित्साधु मन्येत यथैव गुरुतल्पगम्।।2.63.32।।",
+      "transliteration": "",
+      "translation": "'Whoever it is, he has committed only a mischievous and senseless act. This sin like a disciple sleeping on the bed of his preceptor none will approve of.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "नाहं तथाऽनु शोचामि जीवितक्षयमात्मनः।\nमातरं पितरं चोभावनुशोचामि मद्वधे।।2.63.33।।",
+      "transliteration": "",
+      "translation": "'I do not regret so much about the loss of my own life as  about my mother and father after I am dead.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "तदेतन्मिथुनं वृद्धं चिरकालभृतं मया।\nमयि पञ्चत्वमापन्ने कां वृत्तिं वर्तयिष्यति।।2.63.34।।",
+      "transliteration": "",
+      "translation": "'So long I have been supporting this aged couple. After I am dead, how will they live?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "वृद्धै च मतापितरावहं चैकेषुणा हता।\nकेन स्मनिहता स्सर्वे सुबालेनाकृतात्मना।।2.63.35।।",
+      "transliteration": "",
+      "translation": "'My aged parents along with me are killed by a single arrow. Who is that malicious  knave  who has slain us?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "तां गिरं करुणां श्रुत्वा मम धर्मानुकाङ्क्षिणः।\nकराभ्यां सशरं चापं व्यथितस्यापतद्भुवि।।2.63.36।।",
+      "transliteration": "",
+      "translation": "On hearing the piteous voice the bow and arrow dropped from my (trembling) hands since I was keen on following the righteous path.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "तस्याहं करुणं श्रुत्वा निशि लालवतो बहु।\nसम्भ्रान्त श्शोकवेगेन भृशमासं विचेतनः।।2.63.37।।",
+      "transliteration": "",
+      "translation": "Having heard his pathetic lamentations at night, I was extremely frightened by the force of grief and stood bewildered.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "तं देशमहमागम्य दीनसत्त्वस्सुदुर्मनाः।\nअपश्यमिषुणा तीरे सरय्वास्तापसं हतम्।।2.63.38।।\nअवकीर्ण जटाभारं प्रविद्धकलशोदकम्।\nपांसुशोणितदिग्धाङ्गं शयानं शल्यपीडितम्।।2.63.39।।",
+      "transliteration": "",
+      "translation": "With dissipated energy and intensely troubled mind, I reached the bank of river Sarayu and there I saw the ascetic lying struck by the arrow and with scattered locks of hair. The water pitcher was thrown away and his body smeared with blood and dust as he lay on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "स मामुद्वीक्ष्य नेत्राभ्यां त्रस्तमस्वस्थचेतसम्।\nइत्युवाच ततः क्रूरं दिधक्षन्निव तेजसा।।2.63.40।।",
+      "transliteration": "",
+      "translation": "I was mentally stricken and frightened. He looked up as if buring me with the energy of his eyes. Then he uttered the words 'A cruel act'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "किं तवापकृतं राजन्वने निवसता मया।\nजिहीर्षुरम्भो गुर्वुर्थं यदहं ताडितस्त्वया।।2.63.41।।",
+      "transliteration": "",
+      "translation": "'O king you have struck me when I was trying to carry water to my parents. I am a forestdweller. What harm have I done to you?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "एकेन खलु बाणेन मर्मण्यभिहते मयि।\nद्वावन्धौ निहतौ वृद्धौ माता जनयिता च मे।।2.63.42।।",
+      "transliteration": "",
+      "translation": "'By striking at the vital part of my body with one arrow, you have killed both my aged and blind mother and father too.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "तौ कथं दुर्बलावन्धौ मत्प्रतीक्षौ पिपासितौ।\nचिरमाशाकृतां तृष्णां कष्टां सन्धारयिष्यतः।।2.63.43।।",
+      "transliteration": "",
+      "translation": "'How will the two who are frail, thirsty and blind wait for me for long controlling their thirst with great difficulty with the expectation (that I would fetch them water)?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "न नूनं तपसो वास्ति फलयोगश्श्रुतस्य वा।\nपिता यन्मां न जानाति शयानं पतितं भुवि।।2.63.44।।",
+      "transliteration": "",
+      "translation": "'My father does not know that I am lying on the ground. It is true that there is no reward either for asceticism or for scriptural knowledge.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "जानन्नपि च किं कुर्यादशक्तिरपरिक्रमः।\nभिद्यमानमिवाशक्त स्त्रतुमन्यो नगो नगम्।।2.63.45।।",
+      "transliteration": "",
+      "translation": "'What can my weak father who has no strength to walk do, even if he knows about it? Like a tree which cannot protect another which is being severed, he is helpless.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "पितुस्त्वमेव मे गत्वा शीघ्रमाचक्ष्य राघव।\nन त्वामनुदहेत्क्रुद्धो वनं वह्निरिवैधितः।।2.63.46।।",
+      "transliteration": "",
+      "translation": "O scion of the Raghus (Dasaratha) Go at once and inform my father, lest in anger he  should burn you like ignited fire consuming the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "इयमेकपदी राजन्यतो मे पितुराश्रमः।\nतं प्रसादय गत्वा त्वं न त्वां स कुपितश्शपेत्।।2.63.47।।",
+      "transliteration": "",
+      "translation": "'O king, this footpath leads to my father's hermitage. Go and beg his forgiveness so that he may not curse you out of anger.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "विशल्यं कुरु मां राजन्मर्म मे निशितश्शरः।\nरुणद्धि मृदुसोत्सेधं तीरमम्बुरयो यथा।।2.63.48।।",
+      "transliteration": "",
+      "translation": "'Gently remove the arrow from my body, O king the sharp arrow is piercing deep into  my vital just like the current of the river hits its elevated bank'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "सशल्यः क्लिश्यते प्राणैर्विशल्यो विनशिष्यति।\nइति मामविशच्चिन्ता तस्य शल्यापकर्षणे।।2.63.49।।",
+      "transliteration": "",
+      "translation": "The thought of removing the arrow kept me pondering. If not removed, it will be painful, and if removed, he will die.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "दुःखितस्य च दीनस्य मम शोकातुरस्य च।\nलक्षयामास हृदये चिन्तां मुनिसुतस्तदा।।2.63.50।।",
+      "transliteration": "",
+      "translation": "The son of the ascetic noticed my anguish and seeing me thus distressed, wretched and afflicted with sorrow, said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "ताम्यमानस्स मां कृच्छ्रादुवाच परमार्तवत्।\nसीदमानो विवृत्ताङ्गो वेष्टमानो गतः क्षयम्।।2.63.51।।",
+      "transliteration": "",
+      "translation": "Suffering from excruciating pain, sinking with his limbs twisting and writhing and plunging into death and destruction, with intense agony he uttered the following words with great difficulty:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "संस्तभ्य शोकं धैर्येण स्थिरचित्तो भवाम्यहम्। \nब्रह्महत्याकृतं पापं हृदयादपनीयताम्।।2.63.52।।",
+      "transliteration": "",
+      "translation": "'I am now calm. I bear my pain with patience. Remove the fear from your mind that you have committed a sin by slaying a brahmin.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "न द्विजातिरहं राजन्मा भूत्ते मनसो व्यथा।\nशूद्रायामस्मि वैश्येन जातो जनपदाधिप।।2.63.53।।",
+      "transliteration": "",
+      "translation": "'O king Dasaratha, lord of the land, I am not a brahmin. Feel no sense of guilt in your mind. I was born of a sudra mother and a vaisya father.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "इतीव वदतः कृच्छ्राद्बाणाभिहतमर्मणः विघूर्णतो विचेष्टस्य वेपमानस्य भूतले।\nतस्यत्वानम्यमानस्य तं बाणमहमुद्धरम् स मामुद्वीक्ष्य सन्त्रस्तो जहौ प्राणांस्तपोधनः।।2.63.54।।",
+      "transliteration": "",
+      "translation": "While that ascetic struck by the arrow in the vital part of the body, trembling, turning  and rolling on the ground writhing in pain spoke these words to me, I bent down and pulled out the arrow from his body. I was frightened when he looked up at me and gave up his life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-63-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "जलार्द्रगात्रन्तु विलप्य कृच्छ्रान्मर्मव्रणं सन्ततमुच्छवसन्तम्।\nतत स्सरय्वां तमहं शयानं समीक्ष्य भद्रेऽस्मि भृशं विषण्णः।।2.63.55।।",
+      "transliteration": "",
+      "translation": "O gentle Kausalya having seen him crying due to the pain caused by the wound in the vital part, sighing ceaselessly, drenched in water and lying on the bank of river Sarayu, I was greatly shaken. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे त्रिषष्टितम स्सर्गः।। Thus ends the sixtythird sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

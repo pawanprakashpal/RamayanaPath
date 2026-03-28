@@ -1,0 +1,621 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 17,
+    "title": "Vibheeshana goes to seek the help of Rama. Rama holds consultations with his ministers.",
+    "titleSanskrit": "",
+    "totalShlokas": 67
+  },
+  "shlokas": [
+    {
+      "id": "v6-17-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "इत्युक्त्वापरुषंवाक्यंरावणंरावणानुजः ।\nआजगाममुहूर्तेनयत्ररामस्सलक्ष्मणः ।।6.17.1।।",
+      "transliteration": "",
+      "translation": "Vibheeshana, having addressed Ravana in harsh language, reached Rama and Lakshmana in a short while.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तंमेरुशिखराकारंदीप्तामिवशतह्रदाम् ।\nगगनस्थंमहीस्थास्तेददृशुसर्ववानराः ।।6.17.2।।",
+      "transliteration": "",
+      "translation": "All the Vanaras on the ground saw Vibheeshana who was like Mount Meru in form and shining like a brilliant lightning.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "येचाप्यनुचरास्तस्य चत्वारो भीमविक्रमा: ।\nतेsपि सर्वायुधोपेता भूषणैश्चापि भूषिता ।।6.17.3।।",
+      "transliteration": "",
+      "translation": "His four companions of terrific prowess were also there with him. They were wearing all weapons and were adorned with excellent ornaments.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "स च मेघाचलप्रख्यो वज्रायुधसमप्रभः ।\nवरायुधधरो वीरो दिव्याभरणभूषितः ।।6.17.4।।",
+      "transliteration": "",
+      "translation": "Vibheeshana looked like a mass of cloud, like someone who can cause thunderbolt, possessing excellent weapons and wonderful jewels.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तमात्मपञ्चमंदृष्टवासुग्रीवोवाहिनीपति: ।\nवानरैस्सहदुर्धर्षचिन्तयामासबुद्धिमान् ।।6.17.5।।",
+      "transliteration": "",
+      "translation": "Wise Sugriva the Lord of the Vanara army, a formidable one along with Vanaras, started thinking on seeing Vibheeshana (the fifth one) besides four others.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "चिन्तयित्वामुहूर्तंतुवानरांस्तानुवाचह ।\nहनुमत्प्रमुखान्सर्वानिदंवचनमुत्तमम् ।।6.17.6।।",
+      "transliteration": "",
+      "translation": "Reflecting for a while he addressed Hanuman and the other Vanara leaders in this way.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "एषसर्वायुधोपेतश्चतुर्भिस्सहराक्षसैः ।\nराक्षसोऽभ्येतिपश्यध्वमस्मान्हन्तुंनसंशयः ।।6.17.7।।",
+      "transliteration": "",
+      "translation": "Armed with all kinds of weapons this Rakshasa along with four Rakshasas are coming near to attack. You may see. There is no doubt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "सुग्रीवस्यवचश्रुत्वासर्वेतेवानरोत्तमाः ।\nसालानुद्यम्यशैलांश्चइदंवचनमब्रुवन् ।।6.17.8।।",
+      "transliteration": "",
+      "translation": "Having heard Sugriva's words, all the Vanara leaders taking up Sala trees and boulders uttered these words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "शीघ्रंव्यादिशनोराजन्वधायैषांदुरात्मनाम् ।\nनिपतन्तुहताश्चैतेधरण्यामल्पतेजसः ।।6.17.9।।",
+      "transliteration": "",
+      "translation": "\"O King Order us to kill these evil minded ones at once. Being mortals and of short life, on striking, all of them will fall down dead on the ground.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तेषासम्भाषमाणानामन्योन्यंसविभीषणः ।\nउत्तरंतीरमासाद्यखस्थएवव्यतिष्ठत ।।6.17.10।।",
+      "transliteration": "",
+      "translation": "As they (Vanaras) started conversing, Vibheeshana, having reached the northern shore, stayed in the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "उवाचमहाप्राज्ञस्स्वरेणमहतामहान् ।\nसुग्रीवंतांश्चसम्प्रेक्ष्यसर्वान्वानरयूथपान् ।।6.17.11।।",
+      "transliteration": "",
+      "translation": "Great and very wise Vibheeshana, gazing at Sugriva and the Vanaras, addressed them in a loud tone.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "रावणोनामदुर्वृत्तोराक्षसोराक्षसेश्वरः ।\nतस्याहमनुजोभ्राताविभीषणइतिश्रुतः ।।6.17.12।।",
+      "transliteration": "",
+      "translation": "\"I am called Vibheeshana, the younger brother of Ravana, the king of Rakshasas and of evil conduct.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तेनसीताजनस्थानाद्धृताहत्वाजटायुषम् ।\nरुद्दाचविवशादीनाराक्षसीभिस्सुरक्षिता ।।6.17.13।।",
+      "transliteration": "",
+      "translation": "\"Having been carried away from Janasthana by him (Ravana) poor and pitiable Sita is detained and protected by the Rakshasas.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तमहंहेतुभिर्वाक्यैर्विविधैश्चन्यदर्शयम् ।\nसाधुनिर्यात्यतांसीतारामायेतिपुनःपुनः ।।6.17.14।।",
+      "transliteration": "",
+      "translation": "\"I argued with him again and again in several ways to explain him and admonished him saying 'restore Sita to Rama'.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "सचनप्रतिजग्राहरावणःकालचोदितः ।\nउच्यमानंहितंवाक्यंविपरीतइवौषधम् ।।6.17.15।।",
+      "transliteration": "",
+      "translation": "\"Impelled by death Ravana would not take good words of advice tendered to him just as one who is impelled by death does not take medicine.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "सोऽहंपरुषितस्तेनदासवच्चावमानितः ।\nत्यक्त्वापुत्रांश्चदारांश्चर��घवंशरणंगतः ।।6.17.16।।",
+      "transliteration": "",
+      "translation": "\"Leaving my sons and wife, I have come for protection of Raghava having been put to shame by him (Ravana), spoken to harshly and treated like a slave.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "सर्वलोकशरण्यायराघवायमहात्मने ।\nनिवेदयतमांक्षिप्रंविभीषणमुपस्थितम् ।।6.17.17।।",
+      "transliteration": "",
+      "translation": "At once you may inform Raghava who is a protector of the whole world that I, Vibheeshana, are waiting here.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "एतत्तुवचनंश्रुत्वासुग्रीवोलघुविक्रमः ।\nलक्ष्मणस्याग्रतोरामंसम्रब्धमिदमब्रवीत् ।।6.17.18।।",
+      "transliteration": "",
+      "translation": "Highly valiant Sugriva having heard all this (from Vibheeshana) eagerly spoke these words to Rama in the presence of Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "रावणस्यानुजोभ्राताविभीषणइतिश्रुतः ।\nचतुर्भिस्सहरक्षोभिर्भवन्तंशरणंगतः ।।6.17.19।।",
+      "transliteration": "",
+      "translation": "\"Ravana's younger brother, known as Vibheeshana, along with four Rakshasas has come to you seeking protection.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "मन्त्रेव्यूहेनयेचारेयुक्तोभवितुमर्हसि ।\nवानराणांचभद्रंतेपरेषांचपरन्तप ।।6.17.20।।",
+      "transliteration": "",
+      "translation": "\"O Scorcher of enemies For Vanara's safety and considering to be spies also you should be alert in your deliberations, with a plan and policy in moving together and deciding what is to be done. Let you be safe.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "अन्तर्धानगताह्येतेराक्षसाःकामरूपिणः ।\nशूराश्चनिकृतिज्ञाश्चतेषांजातुनविश्वसेत् ।।6.17.21।।",
+      "transliteration": "",
+      "translation": "\"Know that these Rakshasas are heroic, crafty and cannot be trusted. They can change their form at will and can move about without being seen.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "प्रणिधीराक्षसेन्द्रस्यरावणस्यभवेदयम् ।\nअनुप्रविश्यसोऽस्मासुभेदंकुर्यान्नसंशयः ।।6.17.22।।",
+      "transliteration": "",
+      "translation": "\"This Rakshasa may be a spy who has found entry into our camp to create differences (among us). No doubt about it.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "अथवास्वयमेवैषछिद्रमासाद्यबुद्धिमान् ।\nअनुप्रविश्यविश्वस्तेकदाचित्प्रहरेदपि ।।6.17.23।।",
+      "transliteration": "",
+      "translation": "\"Or else if he is a wise one and knows our weak points, might have found a way and reached us. He may strike us if he is trusted.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "मित्राटवीबलंचैवमौलभृत्यबलंतथा ।\nसर्वमेतद्बलंग्राह्यंवर्जयित्वाद्विषद्बलम् ।।6.17.24।।",
+      "transliteration": "",
+      "translation": "Army of friends or army from a jungle, so also an army brought up by a king for generations, army obtained on payment and all kinds of army except for enemies can be accepted.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "प्रकृत्याराक्षसेन्द्रस्यभ्राताऽमित्रस्यतेप्रभो: ।\nआगतश्चरिपोस्साक्षात्कथमस्मिन्हिविश्वसेत् ।।6.17.25।।",
+      "transliteration": "",
+      "translation": "\"O king, by nature they are Rakshasas, and he is brother of the enemy. Evidently, he has arrived by himself. How to trust him?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "रावणेनप्रणिहितंतमवेहिविभीषणम् ।\nतस्याहंनिग्रहंमन्येक्षमंक्षमवतांवर ।।6.17.26।।",
+      "transliteration": "",
+      "translation": "\"O Rama of most forbearing nature Vibheeshana is sent by Ravana. You may consider that he is fit to be arrested, I think.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "राक्षसोजिह्मयाबुद्ध्यासंदिष्टोऽयमुपागतः ।\nप्रहर्तुंमाययाच्छन्नोविश्वस्तेत्वयिराघव ।।6.17.27।।",
+      "transliteration": "",
+      "translation": "\"O Raghava You may know that this Rakshasa is being sent here by deceit ever intending to strike you under the cover of creating confidence.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "प्रविष्टश्शत्रुसैन्यंहिप्राप्तश्शत्रुरतर्कितः ।\nनिहन्यादन्तरंलब्ध्वाउलूकवायसानिव ।।6.17.28।।",
+      "transliteration": "",
+      "translation": "\"One who entered the enemy's camp and had access to come inside kills the enemies. It is like an owl killing many crows having entered the hole.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "वध्यतामेषतीव्रेणदण्डेनसचिवैस्सह ।\nरावणस्यनृशंसस्यभ्राताह्येषविभीषणः ।।6.17.29।।",
+      "transliteration": "",
+      "translation": "\"Let us kill this Vibheeshana by punishment along with his ministers as he is the brother of cruel Ravana (said Sugriva to Rama).\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "एवमुक्त्वातुतंरामंसम्रब्धोवाहिनीपतिः ।\nवाक्यज्ञोवाक्यकुशलंततोमौनमुपागमत् ।।6.17.30।।",
+      "transliteration": "",
+      "translation": "The chief of the army (Sugriva) who knew how to speak appropriately having submitted in that manner to Rama who was adept in expression remained silent.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "सुग्रीवस्यतुतद्वाक्यंश्रुत्वारामोमहायशाः ।\nसमीपस्थानुवाचेदंहनुमत्प्रमुखान्हरीन् ।।6.17.31।।",
+      "transliteration": "",
+      "translation": "Rama of great fame having heard the words of Sugriva, addressed the Vanara army including the great Hanuman who stood close by.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "यदुक्तंकपिराजेनरावणावरजंप्रति ।\nवाक्यंहेतुमदत्यर्थंचभवद्भिरपितच्छ्रुतम् ।।6.17.32।।",
+      "transliteration": "",
+      "translation": "\"The highly reasonable words of advice given by the king of Vanaras about Ravana's brother was heard even by you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "सुहृदामर्थकृच्छेषुयुक्तंबुद्धिमतासदा ।\nसमर्थेनोपनिर्देष्टुंशाश्वतींभूतिमिच्छता ।।6.17.33।।",
+      "transliteration": "",
+      "translation": "\"It is always desirable to seek everlasting advice for one's welfare from capable and wise ones by the near and dear ones. It is proper to seek advice on complex matters by one who is in a difficult situation.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "इत्येवंपरिपृष्टास्तेस्वंस्वंमतमतन्द्रिताः ।\nसोपचारंतदाराममूचुर्हितचिकीर्षवः ।।6.17.34।।",
+      "transliteration": "",
+      "translation": "The Vanaras having heard the words spoken by Rama in that way, tendered beneficial advice and their own opinion respectfully, to be vigilant.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "अज्ञातंनास्तितेकिंचित्त्रिषुलोकेषुराघव: ।\nआत्मानंसूचयन्राम: पृच्छस्यस्मान् सुहृत्तया ।।6.17.35।।",
+      "transliteration": "",
+      "translation": "\"O Raghava there is nothing unknown to you in the three worlds. You are asking our opinion (giving us the honour) out of friendship.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "त्वंहिसत्यव्रतश्शूरोधार्मिकोदृढविक्रमः ।\nपरीक्ष्यकारीस्मृतिमान्निसृष्टात्मासुहृत्सुच ।।6.17.36।।",
+      "transliteration": "",
+      "translation": "\"You are a truthful follower of vows, a heroic and righteous one. You are firm in your resolve, capable of good judgment, have a good memory of the past traditions and committed in heart to your friends.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "तस्मादेकैकशस्तावद्ब्रुवन्तुसचिवास्तव ।\nहेतुतोमतिसम्पन्नास्समर्थाश्चपुन: पुनः ।।6.17.37।।",
+      "transliteration": "",
+      "translation": "\"On account of that reason, since your ministers are richly endowed with intelligence let them speak out again and again, one after the other in that way.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "इत्युक्तेराघवायाऽथमतिमानङ्गदोऽग्रतः ।\nविभीषणपरीक्षार्थमुवाचवचनंहरिः ।।6.17.38।।",
+      "transliteration": "",
+      "translation": "Having said so, Angada the intelligent Vanara spoke these words immediately to Rama for judging Vibheeshana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "शत्रोस्सकाशात्सम्प्राप्तस्सर्वथाशङ् क्यएवहि ।\nविश्वासयोग्यस्सहसानकर्तव्योविभीषणः ।।6.17.39।।",
+      "transliteration": "",
+      "translation": "\"Since he has come from the enemy's camp suddenly, surely Vibheeshana is to be suspected in every way. He is not worthy to be trusted.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "छादयित्वाऽत्मभावंहिचरन्तिशठबुद्धयः ।\nप्रहरन्तिचरन्ध्रेषुसोऽनर्थस्सुमहान्भवेत् ।।6.17.40।।",
+      "transliteration": "",
+      "translation": "\"One who has a perfidious mind keeps moving about concealing his intention and will attack at weak points, which will be a great inestimable mistake.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "अर्थानर्थौविनिश्चित्यव्यवसायंभजेतह ।\nगुणतस्सङ्ग्रहंकुर्याद्दोषतस्तुविसर्जयेत् ।।6.17.41।।",
+      "transliteration": "",
+      "translation": "Ascertaining advantages and disadvantages one should take the right course of action, by acting if it is virtuous and giving up if it is faulty.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "यदिदोषोमहांस्तस्मिंस्त्यज्वतामविशङ्कितम् ।\nगुणान्वापिबहून् ज्ञात्वासङ्ग्रहःक्रियतांनृप ।।6.17.42।।",
+      "transliteration": "",
+      "translation": "\"If there are great bad qualities (in Vibheeshana) no doubt he has to be rejected. If there are many virtues let us take him knowing them also.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "शरभस्त्वथनिश्चित्यसार्थंवचनमब्रवीत् ।\nक्षिप्रमस्मिन्नरव्याघ्र  चारःप्रतिविधीयताम् ।।6.17.43।।",
+      "transliteration": "",
+      "translation": "\"Sarabha has also decided and spoken these meaningful words of advice.\" O Tiger among men Let a spy be assigned to cover him at once.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "प्रणिधायहिचारेणयथावत्सूक्ष्मबुद्धिना ।\nपरीक्ष्यचततःकार्योयथान्यायंपरिग्रहः ।।6.17.44।।",
+      "transliteration": "",
+      "translation": "\"By employing a spy with subtle intellect to examine Vibheeshana, we can act in an appropriate manner to accept him (Vibheeshana).\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "जाम्बवांस्त्वथसम्प्रेक्ष्यशास्त्रबुध्याविचक्षणः ।\nवाक्यंविज्ञापयामासगुणवद्दोषवर्जितम् ।।6.17.45।।",
+      "transliteration": "",
+      "translation": "Then, enlightened Jambavan who was endowed with sense of discrimination, considering all facts made his submission which was free from flaws.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "बद्धवैराच्चपापाच्चराक्षेसेन्द्राद्विभीषणः ।\nअदेशकालेसम्प्राप्तस्सर्वथाशङ् क्यतामयम् ।।6.17.46।।",
+      "transliteration": "",
+      "translation": "\"Vibheeshana who has conceived bitter hatred towards the sinful Rakshasa king Ravana came without regard for place and time is always to be viewed with suspicion.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "ततोमैन्दस्तुसम्प्रेक्ष्यनयापनयकोविदः ।\nवाक्यंवचनसम्पन्नोबभाषेहेतुमत्तरम् ।।6.17.47।।",
+      "transliteration": "",
+      "translation": "\"Mainda, who was prudent in making policy and rich in expression, considering all facts expressed this statement that was fully logical.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "वजनंनामतस्यैषरावणस्यविभीषणः ।\nपृच्छयतांमधुरेणायंशनैर्नरपतीश्वर ।।6.17.48।।",
+      "transliteration": "",
+      "translation": "\"O king of mortals This is Ravana's brother called Vibheeshana. Let him be slowly and gently interrogated for long.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "भावमस्यतुविज्ञायतत्त्वतस्त्वंकरिष्यसि ।\nयदिदुष्टोनदुष्टोवाबुद्धिपूर्वंनरर्षभ ।।6.17.49।।",
+      "transliteration": "",
+      "translation": "\"O Best of kings After truly ascertaining Vibheeshana's intention whether he is wicked or not, you may act wisely (said Mainda).\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "अथसंस्कारसम्पन्नोहनुमान् सचिवोत्तमः ।\nउवाचवचनंश्लक्ष्णमर्थवन्मधुरंलघु ।।6.17.50।।",
+      "transliteration": "",
+      "translation": "On the other hand, Hanuman who was endowed with rich culture spoke these soft, sweet, and meaningful words briefly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "नभवन्तंमतिश्रेष्ठंसमर्थंवदतांवरम् ।\nअतिशाययितुंशक्तोबृहस्पतिरपिब्रुवन् ।।6.17.51।।",
+      "transliteration": "",
+      "translation": "\"Even for Brihaspati who is proclaimed to be highly intelligent, it is not possible to surpass you as you are the foremost in capability and eloquence.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "नवादान्नपिसङ्घर्षान्नाधिक्यान्नचकामतः ।\nवक्ष्यामिवचनंराजन्यथार्थंरामगौरवात् ।।6.17.52।।",
+      "transliteration": "",
+      "translation": "\"O King Rama I am telling this to you truly not for the sake of argument, not for the sake of creating friction, or with a sense of superiority, or desire but out of respect.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "अर्थानर्थनिमित्तंहियदुक्तंसचिवैस्तव ।\nतत्रदोषंप्रपश्यामिक्रियानह्युपपद्यते ।।6.17.53।।",
+      "transliteration": "",
+      "translation": "\"Your counsellors have said that after judging good or bad qualities we should accept or reject Vibheeshana. I see a flaw in that statement as such action would not arise.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-54",
+      "number": 54,
+      "type": "shloka",
+      "original": "ऋतेनियोगात्सामर्थ्यमवबोद्धुंनशक्यते ।\nसहसाविनियोगोहिदोषवान्प्रतिभातिमे ।।6.17.54।।",
+      "transliteration": "",
+      "translation": "\"When entrusted with duty one's capability will be known. It is not possible to appoint him for duty inconsiderately without understanding (his capacity) as it will be faulty.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-55",
+      "number": 55,
+      "type": "shloka",
+      "original": "चारप्रणिहितंयुक्तंयदुक्तंसचिवैस्तव ।\nअर्थस्यासम्भवात्तत्रकारणंनोपयुज्यते ।।6.17.55।।",
+      "transliteration": "",
+      "translation": "\"Your counsellors (Sarabha) have said that it is proper to know from the spies to ascertain about him. It has no meaning as it is not possible to do so (as he is near you). It does not serve the purpose.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-56",
+      "number": 56,
+      "type": "shloka",
+      "original": "अदेशकालेसम्प्राप्तइत्ययंयद्विभीषणः ।\nविवक्षातत्रमेऽस्तीयंतांनिबोधयथामति ।।6.17.56।।",
+      "transliteration": "",
+      "translation": "\"This Vibheeshana has come here without regard for place and time. I desire to speak what I feel in this regard.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-57",
+      "number": 57,
+      "type": "shloka",
+      "original": "सएषदेश: कालश्चभवतीतियथातथा ।\nपुरुषात्पुरुषंप्राप्यतथादोषगुणावपि ।।6.17.57।।",
+      "transliteration": "",
+      "translation": "\"It seems proper for him (Vibheeshana) to come here, considering place and time and so also considering that you are superior to him (Ravana) even if there are demerits in him and merits in you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-58",
+      "number": 58,
+      "type": "shloka",
+      "original": "त्म्यंरावणेदृष्टवाविक्रमंचतथात्वयि ।\nयुक्तमागमनंह्यत्रसदृशंतस्यबुद्धितः ।।6.17.58।।",
+      "transliteration": "",
+      "translation": "\"He has thought over and seen wickedness in Ravana, likewise valiance in you has made you come here. He seems to be right and suitable.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-59",
+      "number": 59,
+      "type": "shloka",
+      "original": "अज्ञातरूपैःपुरुषैस्सराजन्पृच्छ् यतामिति ।\nयदुक्तमत्रमेप्रेक्षाकाचिदस्तिसमीक्षिता ।।6.17.59।।",
+      "transliteration": "",
+      "translation": "\"O king People of unknown identity should enquire about him. (Vibheeshana)\" said Mainda. Having reviewed the matter, I have another view. (in the matter).\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-60",
+      "number": 60,
+      "type": "shloka",
+      "original": "पृच्छयमानोविशङ्केतसहसाबुद्धिमान्वचः ।\nतत्रमित्रंप्रदुष्येतमिथ्यापृष्टंसुखागतम् ।।6.17.60।।",
+      "transliteration": "",
+      "translation": "\"If enquired suddenly, a wise one will also become suspicious of his words. Even a friend who has come there will seem like a wicked one to him.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-61",
+      "number": 61,
+      "type": "shloka",
+      "original": "अशक्यस्सहसाराजन्भावोबोद्धुंपरस्यवै ।\nअन्तस्स्वभावैर्गीतैस्तैर्नैपुण्यंपश्यतांभृशम् ।।6.17.61।।",
+      "transliteration": "",
+      "translation": "\"O king It is not possible to know the intention (of an enemy) of others at once without excessive dexterity. It is to be known by his tone of words and description.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-62",
+      "number": 62,
+      "type": "shloka",
+      "original": "नत्वस्यब्रुवतोजातुलक्ष्यतेदुष्टभावता ।\nप्रसन्नंवदनंचापितस्मान्मेनास्तिसंशयः ।।6.17.62।।",
+      "transliteration": "",
+      "translation": "\"Even when one is speaking, his malevolence is known. It does not seem so as his countenance is also pleasing. Therefore, I have no doubt (of him).\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-63",
+      "number": 63,
+      "type": "shloka",
+      "original": "अशङ्कितमतिस्स्वस्थोनशठःपरिसर्पति ।\nनचास्यदुष्टावाक्चापितस्मान्नास्तीहसंशयः ।।6.17.63।।",
+      "transliteration": "",
+      "translation": "\"One who is with deceitful feeling will not come without an expression of suspicion. He has come on his own and even his talk and looks are not suspicious to me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-64",
+      "number": 64,
+      "type": "shloka",
+      "original": "आकारश्चाद्यमानोऽपिनशक्योविनिगूहितम् ।\nबलाद्धिविवृणोत्येवभावमन्तर्गतंनृणाम् ।।6.17.64।।",
+      "transliteration": "",
+      "translation": "\"Even if one intends to hide in his external form, it is not feasible to keep it concealed. The inner feeling of a man gets revealed even if cleverly hidden.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-65",
+      "number": 65,
+      "type": "shloka",
+      "original": "देशकालोपपन्नंचकार्यंकार्यविदांवर: ।\nस्वफलंकुरुतेक्षिप्रंप्रयोगेणाभिसंहितम् ।।6.17.65।।",
+      "transliteration": "",
+      "translation": "\"O Rama You are the choicest among men of efficient action If according to time and place, one employs to act conformable to people, it yields results speedily.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-66",
+      "number": 66,
+      "type": "shloka",
+      "original": "उद्योगंतवसम्प्रेक्ष्यमिथ्यावृत्तंचरावणम् ।\nवालिनंचहतंश्रुत्वासुग्रीवंचाभिषेचितम् ।।6.17.66।।\nराज्यंप्रार्थयमानश्चबुद्धिपूर्वमिहागतः ।\nएतावत्तुपुरस्कृत्ययुज्यतेतस्यसङ्ग्रहः ।।6.17.67।।",
+      "transliteration": "",
+      "translation": "\"Reviewing your efforts to kill Ravana and having heard of your trials to kill Vali and about your conferring the kingdom to Sugriva, he (Vibheeshana) has intentionally come here in this manner in order to request you showing respect. He may be accepted as our own person.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-17-67",
+      "number": 67,
+      "type": "shloka",
+      "original": "यथाशक्तिमयोक्तंतुराक्षसस्यार्जवंप्रति ।\nप्रमाणंत्वंतुशेषस्यशृत्वाबुद्धिमतांवर: ।। 6.17.68।।",
+      "transliteration": "",
+      "translation": "\"O Exceptionally wise Rama You have heard what has been spoken about the ability of Vibheeshana. According to my thinking. You alone being the best judge can decide the rest of it.\" ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेसप्तदशस्��र्गः ।। This is the end of the seventeenth sarga of Yuddha Kanda of the first epic, the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

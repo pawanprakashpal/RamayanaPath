@@ -1,0 +1,243 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 20,
+    "title": "On king Dasaratha's refusal to accede to his request, Viswamitra gets enraged.",
+    "titleSanskrit": "",
+    "totalShlokas": 25
+  },
+  "shlokas": [
+    {
+      "id": "v1-20-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तच्छ्रुत्वा राजशार्दूलो विश्वामित्रस्य भाषितम्।\nमुहूर्तमिव निस्संज्ञस्संज्ञावानिदमब्रवीत्।।1.20.1।।",
+      "transliteration": "",
+      "translation": "On hearing Viswamitra, words the tiger among kings (Dasaratha) lost his senses for a moment  and  on regaining his consciousness spoke this way.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-20-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "ऊनषोडशवर्षो मे रामो राजीवलोचन:।\nन युद्धयोग्यतामस्य पश्यामि सह राक्षसै:।।1.20.2।।",
+      "transliteration": "",
+      "translation": "\"My lotuseyed son Rama is less than sixteen. I do not think  he has ability to fight with the rakshasas in a battle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-20-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "इयमक्षौहिणी पूर्णा यस्याहं पतिरीश्वर:।\nअनया संवृतो गत्वा योद्धाऽहं तैर्निशाचरै:।।1.20.3।।",
+      "transliteration": "",
+      "translation": "Here is the whole akshauhini (army) of which I am the lord and sustainer.  Accompanied  by the  akshauhini I shall engage those rakshsasas in the battle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-20-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "इमे शूराश्च विक्रान्ता भृत्या मेऽस्त्रविशारदा:।\nयोग्या रक्षोगणैर्योद्धुं न रामं नेतुमर्हसि।।1.20.4।।",
+      "transliteration": "",
+      "translation": "These servants of mine are warriors, valiant, powerful and courageous, skilled in the  use of weapons and fit to engage multitude of rakshasas in battle. It is not proper to take Rama with you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-20-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "अहमेव धनुष्पाणिर्गोप्ता समरमूर्धनि।\nयावत्प्राणान्धरिष्यामि तावद्योत्स्ये निशाचरै:।।1.20.5।।",
+      "transliteration": "",
+      "translation": "Wielding bow in hand I will protect the sacrifice. As long as my life sustains, I will engage the rakshasas in the battle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-20-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "निर्विघ्ना व्रतचर्या सा भविष्यति सुरक्षिता।\nअहं तत्रागमिष्यामि न रामं नेतुमर्हसि।।1.20.6।।",
+      "transliteration": "",
+      "translation": ". I shall go there, protect the sacrifice and see that it is conducted without obstacles. It  is not proper to take Rama with you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-20-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "बालो ह्यकृतविद्यश्च न च वेत्ति बलाबलम्।\nन चास्त्रबलसंयुक्तो न च युद्धविशारद:।।1.20.7।।\nन चासौ रक्षसां योग्य: कूटयुद्धा हि ते ध्रुवम् ।",
+      "transliteration": "",
+      "translation": "Rama is still a child, he is not learned in the science of warfare,he does not know the  strength and weakness of enemies. He has not acquired  as yet the strength of using  weapons and is not proficient in warfare. You know certainly those rakshasas are deceitful in battle. And hence he is not qualified to oppose them in the battle succesfully.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-20-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "विप्रयुक्तो हि रामेण मुहूर्तमपि नोत्सहे।।1.20.8।।\nजीवितुं मुनिशार्दूल न रामं नेतुमर्हसि।",
+      "transliteration": "",
+      "translation": "Separated from Rama, I do not like to live even for a moment. O tiger among ascetics, it is not proper to take Rama with you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-20-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "यदि वा राघवं ब्रह्मन्नेतुमिच्छसि सुव्रत।।1.20.9।।\nचतुरङ्गसमायुक्तं मया च सहितं नय।",
+      "transliteration": "",
+      "translation": "O sage of great vows, O brahman if at all you intend to take Rama with you, take me  also along with my army.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-20-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "षष्टिर्वर्षसहस्राणि जातस्य मम कौशिक।।1.20.10।।\nदु:खेनोत्पादितश्चायं न रामं नेतुमर्हसि।",
+      "transliteration": "",
+      "translation": "O scion of of Kusika family, sixty thousand years have passed since I was born.  Rama was born to me after a great deal of suffering. It is not proper to take him with you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-20-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "चतुर्णामात्मजानां हि प्रीति:परमिका मम।।1.20.11।।\nज्येष्ठं धर्मप्रधानं च न रामं नेतुमर्हसि।",
+      "transliteration": "",
+      "translation": "My love for Rama among all my four sons is supreme.It is not proper for you to take Rama, the eldest son whose prime qualification  is his virtue.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-20-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "किंवीर्या राक्षसास्ते च कस्य पुत्राश्च ते च के।।1.20.12।।\nकथं प्रमाणा: के चैतान्रक्षन्ति मुनिपुङ्गव।",
+      "transliteration": "",
+      "translation": "O best of sages, how powerful are those rakshsas? Whose  sons are they? Who are they and how huge is their body? Who are protecting them?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-20-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "कथं च प्रतिकर्तव्यं तेषां रामेण रक्षसाम्।।1.20.13।।\nमामकैर्वा बलैर्ब्रह्मन्मया वा कूटयोधिनाम्।3",
+      "transliteration": "",
+      "translation": "O brahman, how to rebuff those deceitful warriors either through Rama or through my army or through me?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-20-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "सर्वं मे शंस भगवन्कथं तेषां मया रणे।।1.20.14।।\nस्थातव्यं दुष्टभावानां वीर्योत्सिक्ता हि राक्षसा:।4\nतस्य तद्वचनं श्रुत्वा विश्वामित्रोऽभ्यभाषत।।1.20.15।।",
+      "transliteration": "",
+      "translation": "O venerable one, how to fight those wickednatured ones in the battle and stay aginst them? For rakshasas are proud of their prowess\". Having heard the words of Dasaratha, Viswamitra said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-20-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "पौलस्त्यवंशप्रभवो रावणो नाम राक्षस:।\nस ब्रह्मणा दत्तवरस्त्रैलोक्यं बाधते भृशम्।।1.20.16।।\nमहाबलो महावीर्यो राक्षसैर्बहुभिर्वृत:।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-20-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "श्रूयते हि महावीर्यो रावणो राक्षसाधिप:।।1.20.17।।\nसाक्षाद्वैश्रवणभ्राता पुत्रो विश्रवसो मुने:।",
+      "transliteration": "",
+      "translation": "Ravana, king of rakshasas, is the brother of Kubera and son of ascetic Visravana. He is said to possess great prowess.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-20-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "यदा स्वयं न यज्ञस्य विघ्नकर्ता महाबल:।।1.20.18।।\nतेन सञ्चोदितौ द्वौ तु राक्षसौ वै महाबलौ।\nमारीचश्च सुबाहुश्च यज्ञविघ्नं करिष्यत:।।1.20.19।।",
+      "transliteration": "",
+      "translation": "Although endowed with great strength, Ravana, by himself, never created impediments to the sacrifice. But two rakshasas by name Maricha and Subahu are incited by him to cause obstacles\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-20-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "इत्युक्तो मुनिना तेन राजोवाच मुनिं तदा।\nन हि शक्तोऽस्मि सङ्ग्रामे स्थातुं तस्य दुरात्मन:।।1.20.20।।",
+      "transliteration": "",
+      "translation": "Informed in this manner by sage Viswamitra, king Dasaratha addressed the sage,  saying, \"I am not competent enough to stand before those evilminded rakshasas in the batlle\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-20-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "स त्वं प्रसादं धर्मज्ञ कुरुष्व मम पुत्रके।\nमम चैवाल्पभाग्यस्य दैवतं हि भवान्गुरु:।।1.20.21।।",
+      "transliteration": "",
+      "translation": "\"You are the knower of righteousness. Extend your favour to my little son and also to me for I am so who is unfortunate. You are verily my spiritual preceptor and god.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-20-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "देवदानवगन्धर्वा यक्षा:पतगपन्नगा:।\nन शक्ता रावणं सोढुं किं पुनर्मानवा युधि।।1.20.22।।",
+      "transliteration": "",
+      "translation": "Gods, danavas, gandharvas, yakshas, birds and great serpents cannot withstand Ravana in battle. What are men to him? (They are no match to him).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-20-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "स हि वीर्यवतां वीर्यमादत्ते युधि राक्षस:।\nतेन चाहं न शक्तोऽस्मि संयोद्धुं तस्य वा बलै:।।1.20.23।।\nसबलो वा मुनिश्रेष्ठ सहितो वा ममात्मजै:।",
+      "transliteration": "",
+      "translation": "That rakshasa pulls out warriors' prowess in the battle. O foremost of ascetics Either with forces or with my sons it is not possible for me to engage him or his forces in battle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-20-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "कथमप्यमरप्रख्यं सङ्ग्रामाणामकोविदम्।\nबालं मे तनयं ब्रह्मन् नैव दास्यामि पुत्रकम्।।1.20.24।।",
+      "transliteration": "",
+      "translation": "O brahman although my son resembles the celestials he is not experienced in warfare. On no account shall I spare him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-20-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "अथ कालोपमौ युध्दे सुतौ सुन्दोपसुन्दयो:।।1.20.25।।\nयज्ञविघ्नकरौ तौ ते नैव दास्यामि पुत्रकम्।",
+      "transliteration": "",
+      "translation": "Further the sons of Sunda and Upasunda by name Maricha and Subahu are causing obstacles to your sacrifice. They resemble the god of death, Yama. I shall never part with my son.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-20-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "मारीचश्च सुबाहुश्च वीर्यवन्तौ सुशिक्षितौ।\nतयोरन्यतरेणाहं योध्दा स्यां ससुहृद्गण:।।1.20.26।।",
+      "transliteration": "",
+      "translation": "Maricha and Subahu not only possess prowess but also are experienced in warfare. Together with my group of friends I can combat with one of the two\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-20-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "इति नरपतिजल्पनाद्द्विजेन्द्रं     \nकुशिकसुतं सुमहान्विवेश मन्यु:���\nसुहुत इव मखेऽग्निराज्यसिक्त \nस्समभवदुज्ज्वलितो महर्षिवह्नि:।।1.20.27।।",
+      "transliteration": "",
+      "translation": "Having heard the statements of the king the son of Kusika, Viswamitra who was like Indra among the ascetics was seized by great anger. As though fire in the form of  maharshi blazed like the sacrificial fire into which oblations of clarified butter have been poured.  ।। iऋफफछफौ चफळउफp८फउफफऋफhफॊ खफफऔउफळE१ळऋफ फबn८E१फखऋफॊ अफफऔफE१फhbॊ६ भखफघफजजफMफऩ ityढऍ डrंmadraचऍ vmंkंya ikyऍ bakङऍ viनडassargaध৷৷ Thus ends the twentieth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

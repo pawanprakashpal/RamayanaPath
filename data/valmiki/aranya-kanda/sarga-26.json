@@ -1,0 +1,306 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 26,
+    "title": "Dusana and his army chiefs get killed in severe combat with Ramathe  demon army also gets destroyed",
+    "titleSanskrit": "",
+    "totalShlokas": 32
+  },
+  "shlokas": [
+    {
+      "id": "v3-26-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "दूषणस्तु स्वकं सैन्यं हन्यमानं निरीक्ष्य सः।\nसन्दिदेश महाबाहुर्भीमवेगान्दुरासदान्।।3.26.1।।\nराक्षसान्पञ्चसहस्रान्समरेष्वनिवर्तिनः।",
+      "transliteration": "",
+      "translation": "Mightyarmed Dusana saw  the army  getting killed in war. He led the forces of five thousand demons, dreadfuly quick at fighting, dangeous to face and who will not beat a retreat.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "ते शूलैः पट्टिशैः खङ्गै शिलावर्षैर्द्रुमैरपि।।3.26.2।।\nशरवर्षैरविच्छिन्नं ववर्षुस्तं समन्ततः।",
+      "transliteration": "",
+      "translation": "The demons continuously hurled at him (Rama)  spears and swords and rained stones, trees and arrows from all sides",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "स दृमाणां शिलानां च वर्षं प्राणहरं महत्।।3.26.3।।\nप्रतिजग्राह धर्मात्मा राघवस्तीक्ष्णसायकैः।",
+      "transliteration": "",
+      "translation": "Righteous Rama, retaliated with his sharp arrows such as the rain of trees and stones, the mighty destroyers of life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "प्रतिगृह्य च तद्वर्षं निमीलित इवर्षभः।।3.26.4।।\nरामः क्रोधं परं भेजे वधार्थं सर्वरक्षसाम्।",
+      "transliteration": "",
+      "translation": "Rama retaliated in great anger to kill without caring for the shower of weapons like a bull with its eyes closed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "ततः क्रोधसमाविष्टः प्रदीप्त इव तेजसा।।3.26.5।।\nशरैरवाकिरत्सैन्यं सर्वतस्सहदूषणम्।",
+      "transliteration": "",
+      "translation": "Overpowered by anger, Rama, with a blazing glow, covered Dusana and his army with his arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "ततस्सेनापतिः क्रुद्धो दूषणश्शत्रुदूषणः।।3.26.6।।\nशरैरशनिकल्पैस्तं राघवं समवाकिरत्।",
+      "transliteration": "",
+      "translation": "Thereafter Dusana, chief of the army, angrily released at Rama equally powerful arrows comparable to thunderbolt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "ततो रामस्सुसङ्कृद्धः क्षुरेणास्य महद्धनुः।।3.26.7।।\nचिच्छेद समरे वीरश्चतुर्भिश्चतुरो हयान्।",
+      "transliteration": "",
+      "translation": "Heroic Rama, mighty angry, then, broke the big bow of  Dusana, with his swordlike arrow. And with a series of four arrows cut his four horses to pieces.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "हत्वा चाश्वान्शरैस्तीक्ष्णैरर्धचन्द्रेण सारथेः।।3.26.8।।\nशिरो जहार तद्रक्षस्त्रिभिर्विव्याध वक्षसि।",
+      "transliteration": "",
+      "translation": "After killing the horses with sharp arrows Rama severed the charioteer's head with an arrow of the shape of the crescent moon and pierced Dusana's chest with a set of three arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "स च्छिन्नधन्वा विरथो हताश्वो हतसारथिः।।3.26.9।।\nजग्राह गिरिशृङ्गाभं परिघं रोमहर्षणम्।\nवेष्टितं काञ्चनैः पट्टैर्देवसैन्यप्रमर्दनम्।।3.26.10।।\nआयसैश्शङ्कुभिस्तीक्ष्णैः कीर्णं परवसोक्षितम्।\nवज्राशनिसमस्पर्शं परगोपुरदारणम्।।3.26.11।।",
+      "transliteration": "",
+      "translation": "With his bow and chariot broken, charioteer and horses killed,  Dusana took up a spear in his hand that appeared like a huge mountain top. Bound by golden bands, covered the iron nails, wetted with the enemy's marrow it created a horripilation. It appeared as though it  could crush the army of gods and render the enemy powerless. It carried the killing touch of the thunderbolt and could break open the enemy's fort.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तं महोरगसङ्काशं प्रगृह्य परिघं रणे।\nदूषणोऽभ्यद्रवद्रामं क्रूरकर्मा निशाचरः।।3.26.12।।",
+      "transliteration": "",
+      "translation": "With the spear that looked like a mighty serpent, Dusana, the cruel demon, advanced towards Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तस्याभिपतमानस्य दूषणस्य स राघवः।\nद्वाभ्यां शराभ्यां चिच्छेद सहस्ताभरणौ भुजौ।।3.26.13।।",
+      "transliteration": "",
+      "translation": "Seeing Dusana going to pounce upon him, Rama cut off with two arrows both his arms adorned with armlets.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "भ्रष्टस्तस्य महाकायः पपात रणमूर्धनि।\nपरिघश्छिन्नहस्तस्य शक्रध्वज इवाग्रतः।।3.26.14।।",
+      "transliteration": "",
+      "translation": "With the hands amputated, his huge spear, like the banner of Indra, slipped off his hands and fell down on the ground on the battle front.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "स कराभ्यां विकीर्णाभ्यां पपात भुवि दूषणः।\nविषाणाभ्यां विशीर्णाभ्यां मनस्वीव महागजः।।3.26.15।।",
+      "transliteration": "",
+      "translation": "Dusana fell down on the ground with broken hands like a proud elephant with both his tusks shattered.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तं दृष्ट्वा पतितं भूमौ दूषणं निहतं रणे।\nसाधुसाध्विति काकुत्स्थं सर्वभूतान्यपूजयन्।।3.26.16।।",
+      "transliteration": "",
+      "translation": "Seeing Dusaana collapse dead on the ground, all beings hailed Rama, saying, 'Well done, well done'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "एतस्मिन्नन्तरे क्रुद्धास्त्रयः सेनाग्रयायिनः।\nसंहृत्याभ्यद्रवन् रामं मृत्युपाशावपाशिताः।।3.26.17।।\nमहाकपालः स्थूलाक्षः प्रमाथी च महाबलः।",
+      "transliteration": "",
+      "translation": "Meanwhile all the three army chiefs, Mahakapala, Sthulaksha, and the mighty Pramathi ran towards Rama in anger, bound (as though) by the noose of death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "महाकपालो विपुलं शूलमुद्यम्य राक्षसः।।3.26.18।।\nस्थूलाक्षः पट्टिसं गृह्य प्रमाथी च परश्वधम्।",
+      "transliteration": "",
+      "translation": "Mahakapala had a huge spear, Sthulaksha, a sharpedged spear and Pramathi, a battleaxe.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "दृष्ट्वैवापततस्तूर्णं राघवस्सायकैश्शितैः।।3.26.19।।\nतीक्ष्णाग्रैः प्रतिजग्राह सम्प्राप्तानतिथीनिव।",
+      "transliteration": "",
+      "translation": "On seeing them rushing to attack him with sharp weapons, Rama received them quickly with pointed arrows as though they were guests.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "महाकपालस्य शिरश्चिच्छेद परमेषुभिः।।3.26.20।।\nअसङ्ख्येयैस्तु बाणौघैः प्रममाथ प्रमाथिनम्।\nस पपात हतो भूमौ विटपीव महाद्रुमः।।3.26.21।।",
+      "transliteration": "",
+      "translation": "Mahakapala's head was cut to pieces with sharp arrows and Pramathi was killed with a countless series  of arrows. Pramathi's body, like a huge tree with many branches collapsed on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "स्थूलाक्षस्याक्षिणी तीक्ष्णैः पूरयामास सायकैः।\nदूषणस्यानुगान्पञ्चसहस्रान्कुपित�� क्षणात्।।3.26.22।।\nबाणौघैः पञ्चसाहस्रैरनयद्यमसादनम्।",
+      "transliteration": "",
+      "translation": "Rama filled the eyes of Sthulaksha with sharp arrows, and in anger shot five thousand arrows at the five thousand followers of Dusana in a moment and sent them to the abode of Yama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "दूषणं निहतं दृष्ट्वा तस्य चैव पदानुगान्।।3.26.23।।\nव्यादिदेश खरः क्रुद्धः सेनाध्यक्षान्महाबलान्।",
+      "transliteration": "",
+      "translation": "Seeing Dusana and his followers killed, enraged Khara commanded his extremely strong army chiefs this way:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "अयं विनिहतस्संख्ये दूषणस्सपदानुगः।।3.26.24।।\nमहत्या सेनया सार्धं युद्ध्वा रामं कुमानुषम्।\nशस्त्रैर्नानाविधाकारैर्हनध्वं सर्वराक्षसाः।।3.26.25।।",
+      "transliteration": "",
+      "translation": "Dusana and his followers are killed in the battle. You, all the demons, along with your great army and different kinds of weapons should kill that wicked human being, Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "एवमुक्त्वा खरः क्रुद्धो राममेवाभिदुद्रुवे।\nश्येनगामी पृथुग्रीवो यज्ञशत्रुर्विहङ्गमः।।3.26.26।।\nदुर्जयः करवीराक्षः परुषः कालकार्मुकः।\nमेघमाली महामाली सर्पास्यो रुधिराशनः।।3.26.27।।\nद्वादशैते महावीर्या बलाध्यक्षास्ससैनिकाः।\nराममेवाभ्यधावन्त विसृजन्तश्शरोत्तमान्।।3.26.28।।",
+      "transliteration": "",
+      "translation": "Having spoken thus, angry Khara ran towards Rama. Syenagami, Pruthugriva, Yajnasatru, Vihanga, Durjaya, Karaveeraksha, Parusha, Kalakarmuka, Meghamali, Mahamali, Sarpasya, Rudhirasanaall these twelve valiant army chiefs along with their forces rushed towards Rama, releasing the sharpest arrows at him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "ततः पावकसङ्काशैर्हेमवज्रविभूषितैः।\nजघान शेषं तेजस्वी तस्य सैन्यस्य सायकैः।।3.26.29।।",
+      "transliteration": "",
+      "translation": "Powerful Rama thereafter slayed the remaining army with his weapons studded with gold and diamonds and glowing like fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "ते रुक्मपुङ्खा विशिखास्सधूमा इव पावकाः।\nनिजघ्नुस्तानि रक्षांसि वज्रा इव महाद्रुमान्।।3.26.30।।",
+      "transliteration": "",
+      "translation": "The goldtipped arrows which resembled fire covered with smoke shattered the army of demons like huge trees knocked down by thunder.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "रक्षसां तु शतं रामश्शतेनैकेन कर्णिना।\nसहस्रं च सहस्रेण जघान रणमूर्धनि।।3.26.31।।",
+      "transliteration": "",
+      "translation": "Rama killed a hundred demons  with one hundred arrows by a single stroke. The same way he killed a thousand of them with a thousand arrows on the battle front.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "तैर्भिन्नवर्माभरणाश्छिन्नभिन्नशरासनाः।\nनिपेतुश्शोणितादिग्धा धरण्यां रजनीचराः।।3.26.32।।",
+      "transliteration": "",
+      "translation": "The demons fell down on the ground with their shields  and ornaments broken, their  bows stained with blood splintered.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "तैर्मुक्तकेशैस्समरे पतितैश्शोणितोक्षितैः।\nआस्तीर्णा वसुधा कृत्स्ना महावेदिः कुशैरिव।।3.26.33।।",
+      "transliteration": "",
+      "translation": "The entire ground was littered with bodies of demons fallen in the battle with loose hair and with drops of blood on them looking like a great sacrificial altar strewn all over with kusa grass.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "क्षणेन तु महाघोरं वनं निहतराक्षसम्��\nबभूव निरयप्रख्यं मांसशोणितकर्दमम्।।3.26.34।।",
+      "transliteration": "",
+      "translation": "With the slaughtered bodies of demons lying on the ground, the forest in a moment looked very dreadful like hell with the mud of soil soaked with flesh and blood.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "चतुर्दश सहस्राणि रक्षसां भीमकर्मणाम्।\nहतान्येकेन रामेण मानुषेण पदातिना।।3.26.35।।",
+      "transliteration": "",
+      "translation": "Fourteen thousand formidable demons were killed by Rama, a pedestrian human,  singlehanded.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "तस्य सैन्यस्य सर्वस्य खरश्शेषो महारथः।\nराक्षसस्त्रिशिराश्चैव रामश्च रिपुसूदनः।।3.26.36।।",
+      "transliteration": "",
+      "translation": "Of that entire army great warrior Khara,Trisira and Rama, destroyer of foes alone remained.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "शेषा हता महासत्वा राक्षसा रणमूर्धनि।\nघोरा दुर्विषहाः सर्वे लक्ष्मणस्याग्रजेन ते।।3.26.37।।",
+      "transliteration": "",
+      "translation": "The rest of the mighty, dreadful, intolerable demons were killed on the war front by  Rama, elder brother to Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-26-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "ततस्तु तद्भीमबलं महाहवे समीक्ष्य रामेण हतं ब���ीयसा।\nरथेन रामं महता खरस्तदा समाससादेन्द्र इवोद्यताशनिः।।3.26.38।।",
+      "transliteration": "",
+      "translation": "Thereafter seeing the formidable army killed by mighty Rama, Khara lifted a thunderbolt like Indra, and advanced towards Rama in a great chariot. इत्यार्षे श्रीमद्रामायणे वालमिकिय आदिकाव्ये अरण्यकाण्डे षङ्विंशस्सर्गः।। Thus ends the twentysixth sarga in Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

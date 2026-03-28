@@ -1,0 +1,324 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 64,
+    "title": "Mahodara suggests a plan to Ravana to win Rama without a fight.",
+    "titleSanskrit": "",
+    "totalShlokas": 34
+  },
+  "shlokas": [
+    {
+      "id": "v6-64-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तदुक्तमतिकायस्यबलिनोबाहुशालिनः ।\nकुम्भकर्णस्यवचनंश्रुत्वोवाचमहोदरः ।।6.64.1।।",
+      "transliteration": "",
+      "translation": "Hearing the words of mighty Kumbhakarna, of massive body and round arms Mahodara said.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "कुम्भकर्णकुलेजातोधृष्टःप्राकृतदर्शनः ।\nअवलिप्तो न शक्नोषिकृत्यंसर्वत्रवेदितुम् ।।6.64.2।।",
+      "transliteration": "",
+      "translation": "\"Kumbhakarna! Although you are born of noble race, you are insolent, seeing your low intellect in all aspects you have no knowledge of what should be done or not to be done.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "स्थानंवृद्धिं च हानि च देशकालविभागवित् ।\nआत्मनश्चपरेषां च बुध्यतेराक्षसर्षभः ।।6.64.4।।",
+      "transliteration": "",
+      "translation": "\"Ravana, a bull among Rakshasas is conversant with rules of time and place and knows his own enemies, his progress and decline also.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "यत्तुशक्यंबलवताकर्तुंप्राकृतबुद्धिना ।\nअनुपासितवृद्धेनकःकुर्यात्तादृशंनरः ।।6.64.5।।",
+      "transliteration": "",
+      "translation": "\" A strong person of unsophisticated intellect, who is progressive, a knower of everything will do such a task which is not possible to do?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "यांस्तुधर्मार्थकामांस्त्वंब्रवीषिपृथगाश्रयान् ।\nअवबोद्धुंस्वभावेतान्नहिलक्षणमस्तितान् ।।6.64.6।।",
+      "transliteration": "",
+      "translation": "\"The virtues, worldly gain and sensuous pleasures give results separately as you said. They are incompatible with what you said and that it is its nature you said. what is the proof?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "कर्मचैवहिसर्वेषांकारणानांप्रयोजकम् ।\nश्रेयःपापीयसांचात्रफलंभवतिकर्मणाम् ।।6.64.7।।",
+      "transliteration": "",
+      "translation": "\" Actions alone are the means of happiness. Being so how can sinful actions accrue good results?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "निश्श्रेयसफलावेवधर्मार्थावितरावपि ।\nअधर्मानर्थयोःप्राप्तिःफलं च प्रत्यवायिकम् ।।6.64.8।।",
+      "transliteration": "",
+      "translation": "\" All virtues and worldly pleasures and even otherwise give only benefit. But if done with disinterest and unrighteousness it can give a result which is other than prosperity.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "ऐहलौकिकपारक्यंकर्मपुम्भिर्निषेव्यते ।\nकर्माण्यपितुकल्यानिलभतेकाममास्थितः ।।6.64.9।।",
+      "transliteration": "",
+      "translation": "\" All beings reap the fruit of their actions in this world as well as in other worlds. He, who remains to be pleasure seeking, devoted to actions will receive blessings and attain pleasures in this life only (not here after).\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तत्रक्लुप्तमिदंराज्ञाहृदिकार्यंमतं च नः ।\nशत्रौहिसाहसंयत्स्यात्किमिवात्रापनीयते ।।6.64.10।।",
+      "transliteration": "",
+      "translation": "\" At that time the king intended in his heart (to abduct Sita), and we approved his action, and it was done. What is wrong in doing such a courageous action against an enemy?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "एकस्यैवाभियानेतुहेतुर्यःकथितस्त्वया ।\nतत्राप्यनुपपन्नंतेवक्ष्यामियदसाधु च ।।6.64.11।।",
+      "transliteration": "",
+      "translation": "\"You have set out alone (for war) and the reason adduced by you is ill conceived and improper. I shall tell you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "येनपूर्वंजनस्थानेबहवोऽतिबलाहताः ।\nराक्षसाराघवंतंत्वंकथमेकोजयिष्यसि ।।6.64.12।।",
+      "transliteration": "",
+      "translation": "\"How is it possible for you single handed to win Raghava of exceeding might, who killed many Rakshasas in the past at Janasthana?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "येपुरानिर्जितास्तेनजनस्थानेमहौजसः ।\nराक्षसांस्तान्पुरेसर्वान्भीतानद्यापिपश्यसि ।।6.64.13।।",
+      "transliteration": "",
+      "translation": "\"Look! Those highly energetic Rakshasas, who were won by Rama at Janasthana are scared of him even now.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तंसिंहमिवसङ्क्रुद्धंरामंदशरथात्मजम् ।\nसर्पंसुप्तमिवबुद्ध्यप्रबोधयितुमिच्छसि ।।6.64.14।।",
+      "transliteration": "",
+      "translation": "\"Do you desire to awaken Rama, who is like an enraged lion knowingly, who is like a sleeping snake?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "ज्वलन्तंतेजसानित्यंक्रोधेन च दुरासदम् ।\nकस्तंमृत्युमिवासह्यमासादयितुमर्हति ।।6.64.15।।",
+      "transliteration": "",
+      "translation": "\"Who can dare to approach Rama, who is difficult to encounter, unbearable and burning in anger like the spirit of death.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "संशयस्थमिदंसर्वंशत्रोःप्रतिसमासने ।\nएकस्यगमनंतत्र न हिमेरोचतेभृशम् ।।6.64.16।।",
+      "transliteration": "",
+      "translation": "\"Face to face with the enemy this total army will be in danger. You're going alone is certainly not desirable.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "हीनार्थस्तुसमृद्धार्थंकोरिपुंप्राकृतंयथा ।\nनिश्चित्यजीवितत्यागेवशमानेतुमिच्छति ।।6.64.17।।",
+      "transliteration": "",
+      "translation": "\"How can a weak person desire to go to the enemy who is rich in resources, determined to sacrifice his life several times and submit himself?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "यस्यनास्तिमनुष्येषुसदृशोराक्षसोत्तम ।\nकथमाशंससेयोद्धुंतुल्येनेन्द्रविवस्वतोः ।।6.64.18।।",
+      "transliteration": "",
+      "translation": "\"O Best of Rakshasas! How would you enter into combat with one who is great among all human beings and while even Indra and Sun God are not equal to him in war?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "एवमुक्त्वातुसम्रब्दःकुम्भकर्णंमहोदरः ।\nउवाचरक्षसांमध्येरावणंलोकरावणम् ।।6.64.19।।",
+      "transliteration": "",
+      "translation": "Mahodara having spoken to agitated Kumbhakarna in the midst of Rakshasas in this way, submitted to Ravana, who makes people cry.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "लब्ध्वापुनस्त्वंवैदेहींकिमर्थंसम्प्रजल्पसि ।\nयदीच्छसितदासीतावशगातेभविष्यति ।।6.64.20।।",
+      "transliteration": "",
+      "translation": "\"Having got Vaidehi, why are you talking like that? Sita will submit to you if you desire.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "दृष्टःकश्चदुपायोमेसीतोपस्थानकारकः ।\nरुचितश्चेत्स्वयाबुध्याराक्षसेन्द्र तंशृणु ।।6.64.21।।",
+      "transliteration": "",
+      "translation": "\"O King of Rakshasas! A means of bringing her round is known to me. Listen, think over with your intellect.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "अहंद्विजिह्वस्सम्ह्रादीकुम्भकर्णोवितर्दनः ।\nपञ्चरामवधायैतेनिर्यान्त्वित्यवघोषय ।।6.64.22।।",
+      "transliteration": "",
+      "translation": "\"You pronounce that I, Dwijihva, Samhradri, Kumbhakarna and Vitardana, five of us will go forth to kill Rama.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "ततोगत्वावयंयुद्धंदास्यामस्तस्ययत्नतः ।\nजेष्यामोयदितेशत्रून्नोपायैःकृत्यमस्तिनः ।।6.64.23।।",
+      "transliteration": "",
+      "translation": "\"Thereafter, proceeding forth we shall try to win your enemy. If we win, there will be no purpose for you to do any action.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "अथजीवतिनश्शत्रुर्वयं च कृतसम्युगाः ।\nततस्तदभिपत्स्यामोमनसायत्समीक्षितम् ।।6.64.24।।",
+      "transliteration": "",
+      "translation": "\"If our enemy survives in combat, we too will survive and review as we planned and see.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "वयंयुद्धादिहेष्यामोरुधिरेणसमुक्षिताः ।\nविदार्यस्वतनुंबाणैरामनामाङ्कितैश्शितैः ।।6.64.25।।",
+      "transliteration": "",
+      "translation": "\"Bathed in blood, wounded by the arrows marked with Rama's name, bodies torn cruelly we will come here from war.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "भक्षितोराघवोऽस्माभिर्लक्ष्मणश्चेतिवादिनः ।\nतवपादौग्रहीष्यामस्त्वंनःकामंप्रपूरय ।।6.64.26।।",
+      "transliteration": "",
+      "translation": "\"We too will hold your feet saying 'Rama and Lakshmana have been devoured by us'. Then you will grant our desires.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "ततोऽवघोषयपुरेगजस्कन्धेनपार्थिव ।\nहतोरामस्सहभ्रात्राससैन्यइतिसर्वतः ।।6.64.27।।",
+      "transliteration": "",
+      "translation": "\"Thereafter mounted on elephant backs all over the city will make a rakshasa pronounce that Rama accompanied by his brother are killed.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "प्रीतोनामततोभूत्वाभृत्यानांत्वमरिन्दम ।\nभोगांश्चपरिवारांश्चकामांश्चवसुदापय ।।6.64.28।।",
+      "transliteration": "",
+      "translation": "\"O tamer of enemies! In the name of expression of happiness, thereafter gift items of enjoyment to the attendants, and companions and granting wealth as per their desire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "ततोमाल्यानिवासांसिवीराणामनुलेपनम् ।\nपेयं च बहुयोधेभ्यस्स्वयं च मुदितःपिब ।।6.64.29।।",
+      "transliteration": "",
+      "translation": "\"Thereafter give your warriors, garlands, cosmetics and many drinks and drink yourself happily.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "ततोऽस्मिन् बहुलीभूतेकौलीनेसर्वतोगते ।\nभक्षितस्ससुहृद्रामोराक्षसैरितिविश्रुते ।।6.64.30।।\nप्रविश्याश्वास्यचापित्वंसीतांरहसिसान्त्वय ।\nधनधान्यैश्चकामैश्चरत्नैश्चानांप्रलोभय ।।6.64.31।।",
+      "transliteration": "",
+      "translation": "Thereafter, when the scandal that Rama and Lakshmana with all his friends have been devoured is widely spread everywhere, approaching Sita privately, restoring confidence and consoling her, tempt her with offering wealth, grain and gems and conciliate.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "अनयोपधयाराजन् भयशोकानुबन्धया ।\nअकामात्वद्वशंसीतानष्टनाथाभविष्यति ।।6.64.32।।",
+      "transliteration": "",
+      "translation": "\"O King! By conjuring her like this, helpless Sita overtaken by fear and sorrow having lost her husband will submit to you in spite of no desire to you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "ञ्जनीयम्हिभर्तारंविनष्टमवगम्यसा ।\nनैराश्यात् स्त्रीलघुत्वाच्चत्वद्वशंप्रतिपत्स्यते ।।6.64.33।।",
+      "transliteration": "",
+      "translation": "\"Her charming husband ceased to live and thinking of no alternate, being a fickle woman, will accept your dependence.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "सापुरासुखसम्वृद्धासुखार्हादुःखकर्शिता ।\nत्वय्यधीनंसुखंज्ञात्वासर्वथोगमिष्यति ।।6.64.34।।",
+      "transliteration": "",
+      "translation": "\"That Sita having grown up in much comfort, deserved felicity. Tormented with grief, desperate, depending on you alone for happiness, will submit to you completely.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "एतत्सुनीतंममदर्शनेनरामंहिदृष्टवैभवेदनर्धः ।\nइहैवतेसेत्स्यतिमोत्सुकोभूर्महानयुद्धेनसुखस्यलाभः ।।6.64.35।।",
+      "transliteration": "",
+      "translation": "\"To me this is the best course. As soon as you see Rama, do not be eager for war. It is meaningless. Great gain will accrue to you from here.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-64-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "अदृष्टसैन्योह्यनवाप्तसंशयोरिपूनयुद्धेनजयन् जनाधिप ।\nयशश्चपुण्यं च महन्महीपतेश्रशियं च कीर्तिं च चिरं ।।6.64.36।।",
+      "transliteration": "",
+      "translation": "\"O Lord of the people! If a king conquers his enemy without any loss of army, without facing any dangerand without war, such a mighty ruler of the earth will indeed earn fame and merit and attain prosperity.\" ।।इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेचतुष्षष्टितमस्सर्गः।। This is the end of the sixty fourth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

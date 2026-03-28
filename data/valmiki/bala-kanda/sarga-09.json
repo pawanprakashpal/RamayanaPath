@@ -1,0 +1,189 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 9,
+    "title": "Sumantra relates the story of sage Rsyasringa to Dasaratha tells him he would get sons after performance of a sacrifice by Rsyasringa--Dasaratha plans to get Rsyasringa to Ayodhya.",
+    "titleSanskrit": "",
+    "totalShlokas": 19
+  },
+  "shlokas": [
+    {
+      "id": "v1-9-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "एतच्छ्रुत्वा रहस्सूतो राजानमिदमब्रवीत्।\nऋत्विग्भिरुपदिष्टोऽयं पुरावृत्तो मया श्रुत:।।1.9.1।।",
+      "transliteration": "",
+      "translation": "The charioteer tells the king in privacy that he has heard the advice given by the offciating priests.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-9-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "सनत्कुमारो भगवान्पूर्वं कथितवान्कथाम्।\nऋषीणां सन्निधौ राजन् तव पुत्रागमं प्रति।।1.9.2।।",
+      "transliteration": "",
+      "translation": "\"O king, the divine Sanatkumara had narrated a story about your posterity in the presence of sages.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-9-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "काश्यपस्यतु पुत्रोऽस्ति विभण्डक इति श्रुत:।\nऋष्यशृङ्ग इति ख्यातस्तस्य पुत्रो भविष्यति।।1.9.3।।",
+      "transliteration": "",
+      "translation": "Kasyapa has a famous son named Vibhandaka. It was prophesied that he would have a son named Rsyasringa.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-9-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "स वने नित्यसंवृद्धो मुनिर्वनचरस्सदा ।\nनान्यं जानाति विप्रेन्द्रो नित्यं पित्रनुवर्तनात् ।।1.9.4।।",
+      "transliteration": "",
+      "translation": "Grown up in the forest and always moving with his father, that sage knows none other than his father.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-9-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "द्वैविध्यं ब्रह्मचर्यस्य भविष्यति महात्मन:।\nलोकेषु प्रथितं राजन्विप्रैश्च कथितं सदा।।1.9.5।।",
+      "transliteration": "",
+      "translation": "O eminent king, sage Rsyasringa celebrated in the three worlds who practises a twofold brahmacharya life (life of celebacy) described by brahmins (as vratitva and prajapatya).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-9-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तस्यैवं वर्तमानस्य कालस्समभिवर्तत ।\nअग्निं शुश्रूषमाणस्य पितरं च यशस्विनम्।।1.9.6।।",
+      "transliteration": "",
+      "translation": "Worshipping the firegod and attending on his renowned father, he will spend a long time living in this manner (practising vratitva mode of brahmacharya).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-9-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "एतस्मिन्नेव काले तु रोमपाद: प्रतापवान्।\nअङ्गेषु प्रथितो राजा भविष्यति महाबल:।। 1.9.7।।",
+      "transliteration": "",
+      "translation": "At this time a powerful king Romapada, mighty and celebrated would be living in the country of Anga.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-9-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तस्य व्यतिक्रमाद्राज्ञो भविष्यति सुदारुणा ।\nअनावृष्टिस्सुघोरा वै सर्वभूतभयावहा ।।1.9.8।।",
+      "transliteration": "",
+      "translation": "Because of violation of code of conduct by the king, a terrible, dreadful drought frightening all living beings will set in the kingdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-9-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "अनावृष्ट्यां तु वृत्तायां राजा दु:खसमन्वित:।\nब्राह्मणान्श्रुतवृद्ध��ंश्च समानीय प्रवक्ष्यति।। 1.9.9।।",
+      "transliteration": "",
+      "translation": "With drought prevailing, the griefstricken king, would summon all those grown old with learning and tell them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-9-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "भवन्तश्श्रुतधर्माणो लोकचारित्रवेदिन: ।\nसमादिशन्तु नियमं प्रायश्चित्तं यथा भवेत् ।।1.9.10।।",
+      "transliteration": "",
+      "translation": "\"All of you are conversant with righteous duties and well-versed in the study of human nature. Instruct me about the means of expiation through religious observance.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-9-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "वक्ष्यन्ति ते महीपालं ब्राह्मणा वेदपारगा:।\nविभण्डकसुतं राजन्सर्वोपायैरिहानय।।1.9.11।।",
+      "transliteration": "",
+      "translation": "Those brahmins versed in the Vedas, said, to 'O king bring here Rsyasringa, son of the sage Vibhandaka by all means'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-9-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "आनाय्य च महीपाल ऋश्यशृङ्गं सुसत्कृतम्।\nप्रयच्छ कन्यां शान्तां वै विधिना सुसमाहित: ।।1.9.12।।",
+      "transliteration": "",
+      "translation": "\"O monarch, on having brought Rsyasringa here, honour him, and offer him your daughter Santa with due reverence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-9-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तेषां तु वचनं श्रुत्वा राजा चिन्तां प्रपत्स्यते ।\nकेनोपायेन वै शक्य इहानेतुं स वीर्यवान् ।।1.9.13।।",
+      "transliteration": "",
+      "translation": "On hearing their words, the king in a thoughtful mood said, 'How can the mighty sage be brought here'?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-9-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "ततो राजा विनिश्चित्य सह मन्त्रिभिरात्मवान्।\nपुरोहितममात्यांश्च तत: प्रेष्यति सत्कृतान्।।1.9.14।।",
+      "transliteration": "",
+      "translation": "Thereafter the confident king, having decided, in consultation with his ministers to bring him (Rsyasringa), sent the priest with the counsellors on this mission.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-9-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "ते तु राज्ञो वचश्श्रुशृत्वा व्यथिता विनतानना:।\nन गच्छेम ऋषेर्भीता अनुनेष्यन्ति तं नृपम् ।। 1.9.15।।",
+      "transliteration": "",
+      "translation": "On hearing the king's words, distressed and frightened by rishi's power, they   appealed to the king, faces bent down, 'We will not go'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-9-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "वक्ष्यन्ति चिन्तयित्वा ते तस्योपायांश्च तत्क्षमान्।\nआनेष्यामो वयं विप्रं न च दोषो भविष्यति।। 1.9.16।।",
+      "transliteration": "",
+      "translation": "After thinking  about the means to be employed to bring the rishi to the court, they told him they would bring the sage if they are not to blame (in case anything untoward  happens).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-9-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "एवमङ्गाधिपेनैव गणिकाभि: ऋषेस्सुत:।\nआनीतोऽवर्षयद्देवश्शान्ता चास्मै प्रदीयते।।1.9.17।।",
+      "transliteration": "",
+      "translation": "Thus with the help of courtesans of the king of Anga, when the son of the sage (Rsyasringa) was brought rains followed. The king offered his daughter Santa (in marriage to the sage).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-9-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "ऋश्यशृङ्गस्तु जामाता पुत्रांस्तव विधास्यति।\nसनत्कुमारकथितमेतावद्व्याहृतं मया।।1.9.18।।",
+      "transliteration": "",
+      "translation": "'Risyasringa, your soninlaw, would help you to obtain sons'. Thus said Sanathkumara which I have related to you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-9-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "अथ हृष्टो दशरथस्सुमन्त्रं प्रत्यभाषत।\nयथर्श्यशृङ्गस्त्वानीतो विस्तरेण त्वयोच्यताम्।।1.9.19।।",
+      "transliteration": "",
+      "translation": "Thereupon Dasaratha, pleased, (with him), said to Sumantra, \"Describe in detail the  means by which Rsyasringa was brought (to the court of Romapada)\". इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे नवमस्सर्ग:।।  Thus ends the ninth sarga of Balakanda of the holy Ramayana of the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

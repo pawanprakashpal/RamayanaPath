@@ -1,0 +1,828 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 1,
+    "title": "Saint Narada visits hermitage of Valmiki -- Valmiki queries about a single perfect individual bestowed with all good qualities enumerated by him -- Narada, knower of past, present and future, identifies such a man -- describes virtues, qualities of Sri Rama -- narrates briefly the story of his life.",
+    "titleSanskrit": "",
+    "totalShlokas": 90
+  },
+  "shlokas": [
+    {
+      "id": "v1-1-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तपस्स्वाध्यायनिरतं तपस्वी वाग्विदां वरम् ।\nनारदं परिपप्रच्छ वाल्मीकिर्मुनिपुङ्गवम् ।।1.1.1।।",
+      "transliteration": "",
+      "translation": "Ascetic Valmiki enquired of Narada, preeminent among the sages ever engaged in the practice of religious austerities or study of the Vedas and best among the eloquent.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "कोन्वस्मिन्साम्प्रतं लोके गुणवान्कश्च वीर्यवान् ।\nधर्मज्ञश्च कृतज्ञश्च सत्यवाक्यो दृढव्रत:।।1.1.2।।",
+      "transliteration": "",
+      "translation": "\"Who in this world lives today endowed with excellent qualities, prowess, righteousness, gratitude, truthfulness and firmness in his vows?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "चारित्रेण च को युक्तस्सर्वभूतेषु को हितः ।\nविद्वान्क: कस्समर्थश्च कश्चैकप्रियदर्शनः ।।1.1.3।।",
+      "transliteration": "",
+      "translation": "Who is that one gifted with good conduct, given to the wellbeing of all living creatures, learned in the lore (knowledge of all things that is known), capable of doing things which others cannot do and singularly handsome?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "आत्मवान्को जितक्रोधो द्युतिमान्कोऽनसूयक: ।\nकस्य बिभ्यति देवाश्च जातरोषस्य संयुगे ।।1.1.4।।",
+      "transliteration": "",
+      "translation": "Who (among men) is selfrestrained? Who has conquered anger? Who is endowed with brilliance and free from envy? Who is that when excited to wrath even the devatas, are afraid of (let alone foes)?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "एतदिच्छाम्यहं श्रोतुं परं कौतूहलं हि मे ।\nमहर्षे त्वं समर्थोऽसि ज्ञातुमेवंविधं नरम् ।।1.1.5।।",
+      "transliteration": "",
+      "translation": "O Maharshi, I intend to hear about such a man whom you are able to place? Indeed great is my curiosity\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "श्रुत्वा चैतत्ित्रलोकज्ञो वाल्मीकेर्नारदो वच: ।\nश्रूयतामिति चामन्त्त्र्य प्रहृष्टो वाक्यमब्रवीत् ।।1.1.6।।",
+      "transliteration": "",
+      "translation": "Invited by Valmiki to take his seat Narada, knower of the three worlds heard him and said with delight, \"Listen to me!\". And thus spoke.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "बहवो दुर्लभाश्चैव ये त्वया कीर्तिता गुणा: ।\nमुने वक्ष्याम्यहं बुद्ध्वा तैर्युक्तश्श्रूयतान्नर: ।।1.1.7।।",
+      "transliteration": "",
+      "translation": "\"O sage rare indeed are men endowed with the many qualities you have described. I  ascertained one. Listen carefully.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "इक्ष्वाकुवंशप्रभवो रामो नाम जनैश्श्रुत: ।\nनियतात्मा महा��ीर्यो द्युतिमान्धृतिमान् वशी ।।1.1.8।।",
+      "transliteration": "",
+      "translation": "People have heard his name as Rama, who was born in the race of king Ikshvaku,  having steady nature, possessing incomprehensible prowess, selfeffulgent, selfcommanding and subjecting senses under his control.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "बुद्धिमान्नीतिमान्वाग्मी श्रीमान् शत्रुनिबर्हण: ।\nविपुलांसो महाबाहु: कम्बुग्रीवो महाहनु: ।।1.1.9।।",
+      "transliteration": "",
+      "translation": "He (Sri Rama) is a great intellectual, adherent to rules, eloquent, handsome, destroyer of foes (sins), broadshouldered, strongarmed, having conchshaped neck and   prominent cheeks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "महोरस्को महेष्वासो गूढजत्रुररिन्दमः ।\nआजानुबाहुस्सुशिरास्सुललाटस्सुविक्रमः ।।1.1.10।।",
+      "transliteration": "",
+      "translation": "Possessing a broad chest, armed with a great bow, with fleshy collar bones, knee-long arms, a noble head, a graceful forehead and great prowess, he is the destroyer of foes (sins).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "समस्समविभक्ताङ्गस्स्निग्धवर्ण: प्रतापवान् । \nपीनवक्षा विशालाक्षो लक्ष्मीवान् शुभलक्षणः ।। 1.1.11।।",
+      "transliteration": "",
+      "translation": "Mighty and powerful, he has a wellproportioned body, neither tall nor short, shining complexion, welldeveloped chest, large eyes, lustrous body and good qualities.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "धर्मज्ञस्सत्यसन्धश्च प्रजानां च हिते रतः ।\nयशस्वी ज्ञानसम्पन्नश्शुचिर्वश्यस्समाधिमान् ।।1.1.12।।",
+      "transliteration": "",
+      "translation": "Pious, firm in his vows, he is ever intent on doing good to his subjects. He is,  illustrious, wise, and pure at heart. He is obedient to elders (or accessible to those who are dependent on him) and ever meditating (on the means of protecting those who take refuge in him).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "प्रजापतिसमश्श्रीमान् धाता रिपुनिषूदनः ।\nरक्षिता जीवलोकस्य धर्मस्य परिरक्षिता ।।1.1.13।।",
+      "transliteration": "",
+      "translation": "Auspicious like Brahma, Sri Rama is the sustainer of this world, destroyer of enemies and protector of all living beings and of the moral code.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "रक्षिता स्वस्य धर्मस्य स्वजनस्य च रक्षिता ।\nवेदवेदाङ्गतत्त्वज्ञो धनुर्वेदे च निष्ठितः ।।1.1.14।।",
+      "transliteration": "",
+      "translation": "He has performed the duties of a king and protected his subjects. knowledgeable in the true nature of the Vedas he is accomplished in military science (he is a great archer).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "सर्वशास्त्रार्थतत्त्वज्ञस्स्मृतिमान्प्रतिभानवान् ।\nसर्वलोकप्रियस्साधुरदीनात्मा विचक्षणः ।।1.1.15।।",
+      "transliteration": "",
+      "translation": "Sri Rama knows the true meaning of all scriptures and has a retentive memory. He is talented (possessing brightness of conception). He is beloved and welldisposed towards all people (and courteous even towards those who have done him harm). He has an unperturbed mind (even in times of extreme grief) and is circumspect (in doing right things at the right time).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "सर्वदाभिगतस्सद्भिस्समुद्र इव सिन्धुभिः ।\nआर्यस्सर्वसमश्चैव सदैकप्रियदर्शनः ।।1.1.16।।",
+      "transliteration": "",
+      "translation": "Sri Rama, like sea to rivers, is accessible to men of virtue and has equal disposition towards all. He always has a pleasing appearance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "स च सर्वगुणोपेत: कौसल्यानन्दवर्धन: ।\nसमुद्र इव गाम्भीर्ये धैर्येण हिमवानिव ।।1.1.17।।",
+      "transliteration": "",
+      "translation": "Sri Rama, bestowed with all virtues, enhanced the joys of Kausalya,  He is like the sea in deportment and like Himavant in fortitude.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "विष्णुना सदृशो वीर्ये सोमवत्प्रियदर्शनः ।\nकालाग्निसदृशः क्रोधे क्षमया पृथिवीसमः ।।1.1.18।।\nधनदेन समस्त्यागे सत्ये धर्म इवापरः ।",
+      "transliteration": "",
+      "translation": "Sri Rama is like Visnu in prowess, the Moon in pleasing appearance, the all-consuming fire in anger, the earth in patience, Kubera in charity and the Sun in steadfastness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तमेवं गुणसम्पन्नं रामं सत्यपराक्रमम् ।।1.1.19।।\nज्येष्ठं श्रेष्ठगुणैर्युक्तं प्रियं दशरथस्सुतम् । \nप्रकृतीनां हितैर्युक्तं प्रकृतिप्रियकाम्यया ।।1.1.20।।\nयौवराज्येन संयोक्तुमैच्छत्प्रीत्या महीपति: ।",
+      "transliteration": "",
+      "translation": "With a desire to promote the welfare of the people king Dasaratha decided to install   Sri Rama, his eldest and affectionate son as heir (apparent) who was bestowed with  all excellent qualities and true prowess, beloved of the people he was ever intent in the welfare of the people.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तस्याभिषेकसम्भारान्दृष्ट्वा भार्याऽथ कैकयी ।।1.1.21।।\nपूर्वं दत्तवरा देवी वरमेनमयाचत ।  \nविवासनं च रामस्य भरतस्याभिषेचनम् ।।1.1.22।।",
+      "transliteration": "",
+      "translation": "Thereafter, having seen the preparations for installation of Rama, queen Kaikeyi who had been promised earlier with boons by Dasaratha demanded of him the exile of Rama and enthronement of Bharata.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "स सत्यवचनाद्राजा धर्मपाशेन संयत: ।\nविवासयामास सुतं रामं दशरथ: प्रियम् ।।1.1.23।।",
+      "transliteration": "",
+      "translation": "Dasaratha, true to his word and restrained by the bond of duty, sent his beloved  son Rama to the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "स जगाम वनं वीर: प्रतिज्ञामनुपालयन्।\nपितुर्वचननिर्देशात्कैकेय्या: प्रियकारणात् ।।1.1.24।।",
+      "transliteration": "",
+      "translation": "Mighty Sri Rama inorder to please Kaikeyi and obey the word of command of his father, went to the forest and help the king to keep his promise to Kaikeyi.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तं व्रजन्तं प्रियो भ्राता लक्ष्मणोऽनुजगाम ह ।\nस्नेहाद्विनयसम्पन्नस्सुमित्रानन्दवर्धन: ।।1.1.25।।\nभ्रातरं दयितो भ्रातुस्सौभ्रात्रमनुदर्शयन् ।",
+      "transliteration": "",
+      "translation": "Lakshmana  beloved brother to Rama is drawn towards him. Endowed with modesty he is an enhancer of the joy of his mother Sumitra. Displaying his fraternal love, he followed  Rama who was departing to the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "रामस्य दयिता भार्या नित्यं प्राणसमा हिता ।।1.1.26।।\nजनकस्य कुले जाता देवमायेव निर्मिता ।\nसर्वलक्षणसम्पन्ना नारीणामुत्तमा वधू: ।।1.1.27।।\nसीताप्यनुगता रामं शशिनं रोहिणी यथा ।",
+      "transliteration": "",
+      "translation": "Born in the race of Janaka and daughterinlaw of Dasaratha, Sita, beloved spouse of Rama is like  his vital breath always desired the wellbeing of Rama she followed him like Rohini, the Moon. Endowed with all virtues she is the foremost woman.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "पौरैरनुगतो दूरं पित्रा दशरथेन च ।।1.1.28।।\nशृङ्गिबेरपुरे सूतं गङ्गाकूले व्यसर्जयत् । \nगुहमासाद्य धर्मात्मा निषादाधिपतिं प्रियम् ।।1.1.29।।\nगुहेन सहितो रामो लक्ष्मणेन च सीतया ।",
+      "transliteration": "",
+      "translation": "The citizens and Dasaratha followed Rama for a long distance. Rama of righteous nature having approached Guha, king of nishadas, at Shrungiberapura sent back charioteer Sumantra and Rama along with Sita and Lakshmana crossed river Ganga.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "ते वनेन वनं गत्वा नदीस्तीर्त्वा बहूदका: ।।1.1.30।।\nचित्रकूटमनुप्राप्य भरद्वाजस्य शासनात् ।\nरम्यमावसथं कृत्वा रममाणा वने त्रय: ।।1.1.31।।\nदेवगन्धर्वसङ्काशास्तत्र ते न्यवसन् सुखम् ।",
+      "transliteration": "",
+      "translation": "Moving from one forest to another and crossing deep and wide rivers with plenty of waters, reached the Chitrakuta mountain by the command of sage Bharadwaja. They raised a hut made of leaves in the forest located in Chitrakuta mountain. and dwelt there happily resembling devas and gandharvas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "ते वनेन वनं गत्वा नदीस्तीर्त्वा बहूदका: ।।1.1.30।।\nचित्रकूटमनुप्राप्य भरद्वाजस्य शासनात् ।\nरम्यमावसथं कृत्वा रममाणा वने त्रय: ।।1.1.31।।\nदेवगन्धर्वसङ्काशास्तत्र ते न्यवसन् सुखम् ।",
+      "transliteration": "",
+      "translation": "Moving from one forest to another and crossing deep and wide rivers with plenty of waters, reached the Chitrakuta mountain by the command of sage Bharadwaja. They raised a hut made of leaves in the forest located in Chitrakuta mountain. and dwelt  there happily resembling devas and gandharvas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "चित्रकूटं गते रामे पुत्रशोकातुरस्तथा ।।1.1.32।।\nराजा दशरथस्स्वर्गं जगाम विलपन्सुतम् ।",
+      "transliteration": "",
+      "translation": "When Rama had set out to Chitrakuta, king Dasaratha, stricken by the grief over the separation from his son and mourning over him departed to heavens.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "मृते तु तस्मिन्भरतो वसिष्ठप्रमुखैर्द्विजै: ।। 1.1.33।।\nनियुज्यमानो राज्याय नैच्छद्राज्यं महाबल:।",
+      "transliteration": "",
+      "translation": "After Dasaratha had passed away, mighty Bharata did not desire to rule the kingdom  against the orders by Vasishta and other brahmins.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "स जगाम वनं वीरो रामपादप्रसादक: ।। 1.1.34 ।।",
+      "transliteration": "",
+      "translation": "The brave Bharata, who had conquered envy and hatred went to the forest in order to worship Rama's feet.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "गत्वा तु सुमहात्मानं रामं सत्यपराक्रमम् ।\nअयाचद्भ्रातरं राममार्यभावपुरस्कृत: ।।1.1.35।।  \nत्वमेव राजा धर्मज्ञ इति रामं वचोऽब्रवीत् ।",
+      "transliteration": "",
+      "translation": "Bharata reached Rama, so pleasing venerable, truthful and chivalrous, worshipped him with reverence and implored.    Bharata addressing Rama said, 'You are knower of righteousness. You alone should  be the king (meaning that when the elder brother is alive, the younger brother is prohibited from ruling the kingdom)'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "रामोऽपि परमोदारस्सुमुखस्सुमहायशा: ।\nन चैच्छत्पितुरादेशाद्राज्यं रामो महाबल: ।।1.1.36।।",
+      "transliteration": "",
+      "translation": "Although a source of universal delight, although exceedingly generous and of cheerful countenance, highly renowned and capable Rama refused to accept the kingdom in accordance with the command of his father.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "पादुके चास्य राज्याय न्यासं दत्वा पुन:पुन: ।\nनिवर्तयामास ततो भरतं भरताग्रज: ।।1.1.37।।",
+      "transliteration": "",
+      "translation": "Having handed over his sandals to Bharata as symbol of authority for ruling the kingdom, Rama persuaded him again and again to return to the capital.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "स काममनवाप्यैव रामपादावुपस्पृशन् ।।1.1.38।।\nनन्दिग्रामेऽकरोद्राज्यं रामागमनकाङ्क्षया ।",
+      "transliteration": "",
+      "translation": "Disaaponted in his mission to take Rama back, Bharata worshipped the sandals of Rama and ruled the kingdom from Nandigrama, awaiting his return.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "गते तु भरते श्रीमान् सत्यसन्धो जितेन्द्रिय: ।।1.1.39।।\nरामस्तु पुनरालक्ष्य नागरस्य जनस्य च ।  \nतत्रागमनमेकाग्रो दण्डकान्प्रविवेश ह ।।1.1.40।।",
+      "transliteration": "",
+      "translation": "When Bharata departed, Sri Rama, a man of good fortune and steadfast in vows  one who had conquered under control perceiving that the citizens from Ayodhya would arrive there, entered the Dandaka forest with single minded determination (so that there would not be breach of his promise).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "प्रविश्य तु महारण्यं रामो राजीवलोचनः ।\nविराधं राक्षसं हत्वा शरभङ्गं ददर्श ह ।।1.1.41।।\nसुतीक्ष्णं चाप्यगस्त्यं च अगस्त्यभ्रातरं तथा ।",
+      "transliteration": "",
+      "translation": "Having entered the dense forest Dandaka, Rama slew the demon Viradha and saw the sages Sarabhanga, Sutikshna and Agastya with his brother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "अगस्त्यवचनाच्चैव जग्राहैन्द्रं शरासनम् ।।1.1.42।।\nखड्गं च परमप्रीतस्तूणी चाक्षयसायकौ ।",
+      "transliteration": "",
+      "translation": "As directed by sage Agastya, Rama received with extreme delight a bow, a sword and quivers with inexhaustible arrows, given by Indra to Agastya (to be passed on to  Rama).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "वसतस्तस्य रामस्य वने वनचरैस्सह ।\nऋषयोऽभ्यागमन्सर्वे वधायासुररक्षसाम् ।।1.1.43।।",
+      "transliteration": "",
+      "translation": "While Rama was dwelling in the forest (in the hermitage of sage Sarabhanga), all the ascetics along with others (sages) inhabiting the forest approached Rama requesting for the destruction of the asuras and rakshasas seizing upon their lives.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "स तेषां प्रतिशुश्राव राक्षसानां तथा वने ।।1.1.44।। \nप्रतिज्ञातश्च रामेण वधस्संयति रक्षसाम् ।\nऋषीणामग्निकल्पानां दण्डकारण्यवासिनाम् ।।1.1.45।।",
+      "transliteration": "",
+      "translation": "Rama promised those ascetics, who resembled flaming fire in lustre living in Dandakaranya inhabited by rakshasas to slay them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "तेन तत्रैव वसता जनस्थाननिवासिनी ।\nविरूपिता शूर्पणखा राक्षसी कामरूपिणी ।।1.1.46।।",
+      "transliteration": "",
+      "translation": "During his stay there a demon called Surpanakha living in Janasthana (resting place for the army of Ravana in Dandakaranya) and capable of assuming any form at will was rendered deformed by Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "ततश्शूर्पणखावाक्यादुद्युक्तान्सर्वराक्षसान् ।\nखरं त्रिशिरसं चैव दूषणं चैव राक्षसम् ।।1.1.47।।\nनिजघान वने रामस्तेषां चैव पदानुगान् ।",
+      "transliteration": "",
+      "translation": "Thereafter Rama killed in the fight all the rakshasas, Khara, Trisira, and Dushana with their followers in a battle who were instigated by  Surpanakha's words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "वने तस्मिन्निवसता जनस्थाननिवासिनाम् ।।1.1.48।।\nरक्षसां निहतान्यासन्सहस्राणि चतुर्दश ।",
+      "transliteration": "",
+      "translation": "During his stay in that forest Rama killed fourteen thousand rakshasas who were inhabitants of Janasthana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "ततो ज्ञातिवधं श्रुत्वा रावणः क्रोधमूर्छितः ।।1.1.49।।\nसहायं वरयामास मारीचं नाम राक्षस��् ।",
+      "transliteration": "",
+      "translation": "Having heard the slaughter of fellow rakshasa, Ravana became violent with anger and sought the help of a rakshasa named Maricha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "वार्यमाणस्सुबहुशो मारीचेन स रावणः ।।1.1.50।।\nन विरोधो बलवता क्षमो रावण तेन ते ।",
+      "transliteration": "",
+      "translation": "Maricha repeatedly dissuaded him saying, 'O Ravana It  is not proper for you to enter into hostility with the  mighty and powerful Rama'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "अनादृत्य तु तद्वाक्यं रावण: कालचोदित: ।।1.1.51।।\nजगाम सह मारीचस्तस्याश्रमपदं तदा ।",
+      "transliteration": "",
+      "translation": "Disregarding his words Ravana incited by fate left for the hermitage of Rama along with Maricha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "तेन मायाविना दूरमपवाह्य नृपात्मजौ ।।1.1.52।।\nजहार भार्यां रामस्य गृध्रं हत्वा जटायुषम् ।",
+      "transliteration": "",
+      "translation": "He with the help of deceitful Maricha drew the princes (Rama and Lakshmana) far away from their hermitage abducted Sita the wife of Rama and  slaughtered vulture Jatayu,",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "गृध्रं च निहतं दृष्ट्वा हृतां श्रुत्वा च मैथिलीम् ।।1.1.53।।\nराघवश्शोकसन्तप्तो विललापाकुलेन्द्रिय: ।",
+      "transliteration": "",
+      "translation": "Having seen and heard from the eagle Jatayu struck down by Ravana that Sita had been abducted Rama bewailed, choked with tears his senses dulled by distress.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "ततस्तेनैव शोकेन गृध्रं दग्ध्वा जटायुषम् ।।1.1.54।।\nमार्गमाणो वने सीतां राक्षसं सन्ददर्श ह ।\nकबन्धन्नाम रूपेण विकृतं घोरदर्शनम् ।।1.1.55।।",
+      "transliteration": "",
+      "translation": "Then he performed in the midst of tears the funeral rites of the vulture Jatayu. Wandering in search of Sita, he beheld a rakshasa named Kabandha who was dreadful, in deformed in appearance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "तं निहत्य महाबाहुर्ददाह स्वर्गतश्च  स: । \nस चास्य कथयामास शबरीं धर्मचारिणीम् ।।1.1.56।।\nश्रमणीं धर्मनिपुणामभिगच्छेति राघव । 1151",
+      "transliteration": "",
+      "translation": "Mightyarmed Rama, having killed Kabandha, consigned his body to flames. While leaving for heavens he informed him saying, 'O Raghava, there is a female ascetic in Sabara community, performing religious duties and proficient in practising austerities. You may visit her'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "सोऽभ्यगच्छन्महातेजाश्शबरीं शत्रुसूदन: ।।1.1.57।।\nशबर्या पूजितस्सम्यग्रामो दशरथात्मज: ।",
+      "transliteration": "",
+      "translation": "Rama son of Dasaratha, destroyer of enemies and possessing great splendour approached Sabari who duly worshipped him৷৷",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "पम्पातीरे हनुमता सङ्गतो वानरेण ह ।।1.1.58।।\nहनुमद्वचनाच्चैव सुग्रीवेण समागत: ।",
+      "transliteration": "",
+      "translation": "On the bank of Pampa he met a monkey named Hanuman on whose advice he made friendship with Sugriva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "सुग्रीवाय च तत्सर्वं शंसद्रामो महाबल: ।।1.1.59।।\nआदितस्तद्यथावृत्तं सीतायाश्च विशेषत: ।",
+      "transliteration": "",
+      "translation": "Mighty  Rama related to Sugriva all that had happened right from the beginning, more importantly Sita's abduction and also to Hanuman.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "सुग्रीवश्चापि तत्सर्वं श्रुत्वा रामस्य वानर: ।।1.1.60।।\nचकार सख्यं रामेण प्रीतश्चैवाग्निसाक्षिकम् ।",
+      "transliteration": "",
+      "translation": "Hearing everything that story from Rama, Sugriva was very pleased and made a pact with Rama in the presence of Agni as witness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-54",
+      "number": 54,
+      "type": "shloka",
+      "original": "ततो वानरराजेन वैरानुकथनं प्रति ।।1.1.61।।\nरामायावेदितं सर्वं प्रणयाद्दु:खितेन च ।",
+      "transliteration": "",
+      "translation": "Thereafter Sugriva, king of monkeys filled with sorrow narrated to Rama out of friendship the entire account of his hostilities (with Vali).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-55",
+      "number": 55,
+      "type": "shloka",
+      "original": "प्रतिज्ञातं च रामेण तदा वालिवधं प्रति ।।1.1.62।।\nवालिनश्च बलं तत्र कथयामास वानर: ।",
+      "transliteration": "",
+      "translation": "Then Rama vowed to slay Vali. The monkey (Sugriva) described about Vali's prowess to Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-56",
+      "number": 56,
+      "type": "shloka",
+      "original": "सुग्रीवश्शङ्कितश्चासीन्नित्यं वीर्येण राघवे ।।1.1.63।।\nराघवप्रत्ययार्थं तु दुन्दुभे: कायमुत्तमम् ।\nदर्शयामास सुग्रीवो महापर्वतसन्निभम् ।।1.1.64।।",
+      "transliteration": "",
+      "translation": "Doubtful of the prowess Sugriva of Rama Sugriva inorder to get convinced showed him the huge (dead) body of Dundubhi resembling a big mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-57",
+      "number": 57,
+      "type": "shloka",
+      "original": "उत्स्मयित्वा महाबाहु: प्रेक्ष्य चास्थि महाबल: ।\nपादाङ्गुष्ठेन चिक्षेप सम्पूर्णं दशयोजनम् ।।1.1.65।।",
+      "transliteration": "",
+      "translation": "The strongarmed Rama, who was endowed with great strength looked at the skeleton and smiled within himself for a while. He kicked off the skeleton with the great toe of his foot completely to a full distance of ten yojanas (eighty miles).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-58",
+      "number": 58,
+      "type": "shloka",
+      "original": "बिभेद च पुनस्सालान्सप्तैकेन महेषुणा ।\nगिरिं रसातलं चैव जनयन्प्रत्ययं तथा ।।1.1.66।।",
+      "transliteration": "",
+      "translation": "Again inorder to create confidence (in Sugriva), he released a single mighty shaft which penetrated seven palmyra trees, a mountain and the Rasatala.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-59",
+      "number": 59,
+      "type": "shloka",
+      "original": "तत: प्रीतमनास्तेन विश्वस्तस्स महाकपि: ।\nकिष्किन्धां रामसहितो जगाम च गुहां तदा ।।1.1.67।।",
+      "transliteration": "",
+      "translation": "Pleased with Rama's action and convinced of his prowess he left thereafter with Rama he left for Kishkindha which was like a cave.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-60",
+      "number": 60,
+      "type": "shloka",
+      "original": "ततोऽगर्जद्धरिवर: सुग्रीवो हेमपिङ्गल: ।\nतेन नादेन महता निर्जगाम हरीश्वर: ।।1.1.68।।",
+      "transliteration": "",
+      "translation": "On entering the city of Kishkindha, Sugriva the best of monkeys of reddish yellow hue roared with a great voice. There upon Vali, the lord of monkeys came out (of the cave).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-61",
+      "number": 61,
+      "type": "shloka",
+      "original": "अनुमान्य तदा तारां सुग्रीवेण समागत: ।\nनिजघान च तत्रैनं शरेणैकेन राघव: ।।1.1.69।।",
+      "transliteration": "",
+      "translation": "After convincing his wife Tara, who was dissuading from this, Vali entered into a combat with Sugriva. There, Rama killed Vali with a single shaft.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-62",
+      "number": 62,
+      "type": "shloka",
+      "original": "ततस्सुग्रीववचनाद्धत्वा वालिनमाहवे ।\nसुग्रीवमेव तद्राज्ये राघव: प्रत्यपादयत् ।।1.1.70।।",
+      "transliteration": "",
+      "translation": "After he killed Vali in the combat in compliance with the words of Sugriva, Rama installed Sugriva as  king.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-63",
+      "number": 63,
+      "type": "shloka",
+      "original": "स च सर्वान्समानीय वानरान्वानरर्षभ: ।\nदिश: प्रस्थापयामास दिदृक्षुर्जनकात्मजाम् ।।1.1.71।।",
+      "transliteration": "",
+      "translation": "The best of monkeys (Sugriva) gathered his monkey forces and despatched them in various directions in search of Janaka's daughter (Sita).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-64",
+      "number": 64,
+      "type": "shloka",
+      "original": "ततो गृध्रस्य वचनात्सम्पातेर्हनुमान्बली।\nशतयोजनविस्तीर्णं पुप्लुवे लवणार्णवम्।।1.1.72।।",
+      "transliteration": "",
+      "translation": "At the suggestion of the vulture, Sampathi mighty Hanuman leapt over the saltocean extending over a hundred yojanas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-65",
+      "number": 65,
+      "type": "shloka",
+      "original": "तत्र लङ्कां समासाद्य पुरीं रावणपालिताम् ।\nददर्श सीतां ध्यायन्तीमशोकवनिकां गताम् ।।1.1.73।।",
+      "transliteration": "",
+      "translation": "Hanuman arrived at the city of Lanka ruled by Ravana and found Sita in the Ashoka garden meditating on Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-66",
+      "number": 66,
+      "type": "shloka",
+      "original": "निवेदयित्वाऽऽभिज्ञानं प्रवृत्तिं च निवेद्य च ।\nसमाश्वास्य च वैदेहीं मर्दयामास तोरणम् ।।1.1.74।।",
+      "transliteration": "",
+      "translation": "Hanuman delivered Rama's ring to Sita as a token of recognition, related the whole story and consoled her. He then crushed the arch (of the outer gate of the garden) before leaving.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-67",
+      "number": 67,
+      "type": "shloka",
+      "original": "पञ्च सेनाग्रगान्हत्वा सप्तमन्त्रिसुतानपि ।\nशूरमक्षं च निष्पिष्य ग्रहणं समुपागमत् ।।1.1.75।।",
+      "transliteration": "",
+      "translation": "After killing five commanders, seven sons of the counsellors, stamping out valiant Akshayakumara, the son of Ravana, Hanuman got himself captured (to be taken as captive).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-68",
+      "number": 68,
+      "type": "shloka",
+      "original": "अस्त्रेणोन्मुक्तमात्मानं ज्ञात्वा पैतामहाद्वरात् ।\nमर्षयन्राक्षसान्वीरो यन्त्रिणस्तान्यदृच्छया ।।1.1.76।। \nततो दग्ध्वा पुरीं लङ्कामृते सीतां च मैथिलीम् ।\nरामाय प्रियमाख्यातुं पुनरायान्महाकपि: ।।1.1.77।।",
+      "transliteration": "",
+      "translation": "The heroic Hanuman came to know that he could be released from the entanglements of the weapon granted to him through a boon by Brahma. He allowed himself to be restrained by the rakshasas with the ropes for the sake of achieving his other objective of seeing Ravana. Thereafter, he burnt the whole of Lanka except the place where Sita was and returned to deliver the good news to Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-69",
+      "number": 69,
+      "type": "shloka",
+      "original": "सोऽधिगम्य महात्मानं कृत्वा रामं प्रदक्षिणम् ।\nन्यवेदयदमेयात्मा दृष्टा सीतेति तत्त्वत: ।।1.1.78।।",
+      "transliteration": "",
+      "translation": "Reaching Rama the great Hanuman gifted with boundless intellect circumambulated him and infact informed him that he had seen Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-70",
+      "number": 70,
+      "type": "shloka",
+      "original": "ततस्सुग्रीवसहितो गत्वा तीरं महोदधे: ।\nसमुद्रं क्षोभयामास शरैरादित्यसन्निभै: ।।1.1.79।।",
+      "transliteration": "",
+      "translation": "Thereafter, Rama reached the shore of the ocean together with Sugriva and saw the ocean agitated with shafts burning like the Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-71",
+      "number": 71,
+      "type": "shloka",
+      "original": "दर्शयामास चात्मानं समुद्रस्सरितां पति: ।\nसमुद्रवचनाच्चैव नलं सेतुमकारयत् ।।1.1.80।।",
+      "transliteration": "",
+      "translation": "Samudra, lord of rivers, (afraid of Rama's anger) and having appeared in his own form, and on his advice got a bridge built with the help of Nala.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-72",
+      "number": 72,
+      "type": "shloka",
+      "original": "तेन गत्वा पुरीं लङ्कां हत्वा रावणमाहवे ।\nराम: सीतामनुप्राप्य परां व्रीडामुपागमत् ।।1.1.81।।",
+      "transliteration": "",
+      "translation": "Rama entered the city of Lanka by means of that bridge, killed Ravana in the battle  and recovered Sita. Thereafter he felt greatly embarassed (for accepting his wife who had stayed in an others.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-73",
+      "number": 73,
+      "type": "shloka",
+      "original": "तामुवाच ततो राम: परुषं जनसंसदि ।\nअमृष्यमाणा सा सीता विवेश ज्वलनं सती ।।1.1.82।।",
+      "transliteration": "",
+      "translation": "Rama spoke harsh words about Sita in the assembly. Sita, incapable of enduring such words, entered fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-74",
+      "number": 74,
+      "type": "shloka",
+      "original": "ततोऽग्निवचनात्सीतां ज्ञात्वा विगतकल्मषाम् ।\nबभौ रामस्सम्प्रहृष्ट: पूजितस्सर्वदैवतै: ।।1.1.83।।",
+      "transliteration": "",
+      "translation": "With the of testimony of the firegod, Rama was exceedingly pleased to know that Sita was sinless. All the gods adored him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-75",
+      "number": 75,
+      "type": "shloka",
+      "original": "कर्मणा तेन महता त्रैलोक्यं सचराचरम् ।\nसदेवर्षिगणं तुष्टं राघवस्य महात्मन: ।।1.1.84।।",
+      "transliteration": "",
+      "translation": "All the animate and inanimate beings, gods and sages in the three worlds were very pleased at this noble deed of the great Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-76",
+      "number": 76,
+      "type": "shloka",
+      "original": "अभिषिच्य च लङ्कायां राक्षसेन्द्रं विभीषणम् ।\nकृतकृत्यस्तदा रामो विज्वर: प्रमुमोद ह ।।1.1.85।।",
+      "transliteration": "",
+      "translation": "After coronating the rakshasa chief Vibhishana in the city of Lanka, Rama free from distress, exceedingly rejoiced after having accomplished his objective.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-77",
+      "number": 77,
+      "type": "shloka",
+      "original": "देवताभ्यो वरं प्राप्य समुत्थाप्य च वानरान् ।\nअयोध्यां प्रस्थितो राम: पुष्पकेण सुहृद्वृत: ।।1.1.86।।",
+      "transliteration": "",
+      "translation": "Having obtained a boon from the devatas (who had come to see him) Rama, revived all monkeys (fallen in the battle) and set out for Ayodhya accompanied by friends in the  pushpaka (aerial car).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-78",
+      "number": 78,
+      "type": "shloka",
+      "original": "भरद्वाजाश्रमं गत्वा रामस्सत्यपराक्रम: ।\nभरतस्यान्तिकं रामो हनूमन्तं व्यसर्जयत् ।।1.1.87।।",
+      "transliteration": "",
+      "translation": "Rama who was a delight of all whose strength lies in truth went to the hermitage of Bharadwaja (as promised) and  despatched Hanuman to Bharata as his messenger.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-79",
+      "number": 79,
+      "type": "shloka",
+      "original": "पुनराख्यायिकां जल्पन्सुग्रीवसहितश्च स: ।\nपुष्पकं तत्समारुह्य नन्दिग्रामं ययौ तदा ।।1.1.88।।",
+      "transliteration": "",
+      "translation": "Again accompanied by Sugriva and recalling earlier incidents and after both of them discussed with each other, Rama departed to Nandigrama riding that pushpaka chariot.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-80",
+      "number": 80,
+      "type": "shloka",
+      "original": "नन्दिग्रामे जटां हित्वा भ्रातृभिस्सहितोऽनघ: ।\nरामस्सीतामनुप्राप्य राज्यं पुनरवाप्तवान् ।।1.1.89।।",
+      "transliteration": "",
+      "translation": "At Nandigrama sinless Rama arrived, met his brothers. They shed their  matted locks. With  Sita  restored  he regained his kingdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-81",
+      "number": 81,
+      "type": "shloka",
+      "original": "प्रहृष्टमुदितो लोकस्तुष्ट: पुष्टस्सुधार्मिक: ।\nनिरामयो ह्यरोगश्च दुर्भिक्षभयवर्जित: ।।1.1.90।।",
+      "transliteration": "",
+      "translation": "The entire world rejoiced with happiness with their desire fulfilled they were content.  All people were following the path of righteousness. There was no fear of sufferings or agonies, diseases or famine.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-82",
+      "number": 82,
+      "type": "shloka",
+      "original": "न पुत्रमरणं किञ्चिद्द्रक्ष्यन्ति पुरुषा: क्वचित् ।\nनार्यश्चाविधवा नित्यं भविष्यन्ति पतिव्रता: ।।1.1.91।।",
+      "transliteration": "",
+      "translation": "During the period of Rama's rule, no where  would men witness the death of their sons or women widowed. They would ever remain chaste and devoted to their husbands.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-83",
+      "number": 83,
+      "type": "shloka",
+      "original": "न चाग्निजं भयं किञ्चिन्नाप्सु मज्जन्ति जन्तव: ।\nन वातजं भयं किञ्चिन्नापि ज्वरकृतं तथा ।।1.1.92।। \nन चापि क्षुद्भयं तत्र न तस्करभयं तथा ।",
+      "transliteration": "",
+      "translation": "There (in the kingdom of Rama) was no fear of fire, water, wind, disease, hunger and also theft.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-84",
+      "number": 84,
+      "type": "shloka",
+      "original": "नगराणि च राष्ट्राणि धनधान्ययुतानि च ।।1.1.93।।\nनित्यं प्रमुदितास्सर्वे यथा कृतयुगे तथा ।",
+      "transliteration": "",
+      "translation": "All the cities and villages were affluent with wealth and food grains. People lived  happily as though they lived in Kritayuga.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-85",
+      "number": 85,
+      "type": "shloka",
+      "original": "अश्वमेधशतैरिष्ट्वा तथा बहुसुवर्णकै: ।।1.1.94।।\nगवां कोट्ययुतं दत्वा ब्रह्मलोकं प्रयास्यति ।\nअसंख्येयं धनं दत्वा ब्राह्मणेभ्यो महायशा: ।।1.1.95।।",
+      "transliteration": "",
+      "translation": "Highly renowned Rama, having satisfied the gods with the performance of a hundred of aswamedhas and many suvarnakas  bestowing hundreds of thousands of cows and immense wealth on the brahmins, will return to Brahmaloka.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-86",
+      "number": 86,
+      "type": "shloka",
+      "original": "राजवंशान्शतगुणान्स्थापयिष्यति राघव: ।\nचातुर्वर्ण्यं च लोकेऽस्मिन् स्वे स्वे धर्मे नियोक्ष्यति ।।1.1.96।।",
+      "transliteration": "",
+      "translation": "Rama will establish hundredfold royal dynasties and employ the four castes to do their respective duties, in this world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-87",
+      "number": 87,
+      "type": "shloka",
+      "original": "दशवर्षसहस्राणि दशवर्षशतानि च ।\nरामो राज्यमुपासित्वा ब्रह्मलोकं प्रयास्यति ।। 1.1.97।।",
+      "transliteration": "",
+      "translation": "Rama, reigning the kingdom for eleven thousand years, will attain Brahmaloka.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-88",
+      "number": 88,
+      "type": "shloka",
+      "original": "इदं पवित्रं पापघ्नं पुण्यं वेदैश्च सम्मितम् ।\nय: पठेद्रामचरितं सर्वपापै: प्रमुच्यते ।।1.1.98।।",
+      "transliteration": "",
+      "translation": "This story of Rama is sacred and holy. It destroys sins and is equal to the Vedas. Whosoever reads it will be freed from all sins.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-89",
+      "number": 89,
+      "type": "shloka",
+      "original": "एतदाख्यानमायुष्यं पठन्रामायणं नर: ।\nसपुत्रपौत्रस्सगण: प्रेत्य स्वर्गे महीयते ।। 1.1.99।।",
+      "transliteration": "",
+      "translation": "This story of Ramayana enhances longevity of those who read it and recite it. They will be worshipped in heavens after their death along with their sons and grandsons, servants and relations.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-1-90",
+      "number": 90,
+      "type": "shloka",
+      "original": "पठन्द्विजो वागृषभत्वमीयात्\nस्यात्क्षत्रियो भूमिपतित्वमीयात् ।\nवणिग्जन: पण्यफलत्वमीयात्\nजनश्च शूद्रोऽपि महत्वमीयात् ।।1.1.100।।",
+      "transliteration": "",
+      "translation": "A brahmin becomes proficient in the eighteen branches of learning a kshatriya gets lordship over landed possessions a vaisya gets the fruits of his business and sudra also attains greatness  by reading Ramayana\".  इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे (श्रीमद्रामायणकथासङ्क्षेपो नाम) प्रथम: सर्ग:।।  Thus ends the first sarga of Balakanda of the holy Ramayana in synopsis of the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 48,
+    "title": "Search in Vindhya -- disappointed -- troops sit in despair",
+    "titleSanskrit": "",
+    "totalShlokas": 22
+  },
+  "shlokas": [
+    {
+      "id": "v4-48-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "सह ताराङ्गदाभ्यां तु गत्वा स हनुमान्कपिः।\nसुग्रीवेण यथोद्दिष्टं तं देशमुपचक्रमे।।4.48.1।।",
+      "transliteration": "",
+      "translation": "Hanuman, the monkey accompanied by Tara and Angada proceeded as instructed by Sugriva in the (South) direction.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-48-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "स तु दूरमुपागम्य सर्वैस्तै: कपिसत्तमैः।\nविचिनोति स्म विन्ध्यस्य गुहाश्च गहनानि च।।4.48.2।।\nपर्वताग्रान्नदीदुर्गान्सरांसि विपुलान्द्रुमान्।\nवृक्षषण्डांश्च विविधान्पर्वतान्घनपादपान्।।4.48.3।।",
+      "transliteration": "",
+      "translation": "He went a long distance with other heroic monkeys, searching in the impenetrable caves of Vindhya mountain. They combed interior places, mountain peaks, fortresses surrounded by rivers, lakes, extensive groves of trees, bushes and thickets.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-48-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "अन्वेषमाणास्ते सर्वे वानरास्सर्वतो दिशम्।\nन सीतां ददृशुर्वीरा मैथिलीं जनकात्मजाम्।।4.48.4।।",
+      "transliteration": "",
+      "translation": "The heroic monkeys went searching all over the direction for the daughter of Janaka, but in vain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-48-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "ते भक्षयन्तो मूलानि फलानि विविधानि च।\nअन्वेषमाणा दुर्धर्षान्यवसं स्तत्र तत्र ह।।4.48.5।।",
+      "transliteration": "",
+      "translation": "The unassailable monkeys ate roots and fruits and halted here and there at different places searching for Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-48-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "स तु देशो दुरन्वेषो गुहागहनवान्महान्।\nनिर्जलं निर्जनं शून्यं गहनं रोमहर्षणम्।।4.48.6।।",
+      "transliteration": "",
+      "translation": "They searched in dense forests, interior locations impassable, desolate and terrific, without water, and people.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-48-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "त्यक्त्वा तु तं तदा देशं सर्वे वै हरियूथपाः।\nतादृशान्यप्यरण्यानि विचित्य भृशपीडिताः।।4.48.7।।\nदेशमन्यं दुराधर्षं विविशु श्चाकुतो भयाः।",
+      "transliteration": "",
+      "translation": "Having searched all over in the forests and very difficult areas, the fearless, invincible vanaras moved forward, leaving that place and entered another areasearching.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-48-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "यत्र वन्ध्यफला वृक्षा विपुष्पाः पर्णवर्जिताः।।4.48.8।।\nनिस्तोयास्सरितो यत्र मूलं यत्र सुदुर्लभम्।",
+      "transliteration": "",
+      "translation": "As they marched forward, they entered a location where there were trees devoid of leaves, flowers and fruits and rivers without water and a place where it was difficult to get roots (for food).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-48-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "न सन्ति महिषा यत्र न मृगा न च हस्तिनः।।4.48.9।।\nशार्दूलाः पक्षिणो वापि ये चान्ये वनगोचराः।",
+      "transliteration": "",
+      "translation": "There were no buffaloes, no deer, no elephants, tigers or even  birds and  other wild animals.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-48-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "न यत्रवृक्षा नौषध्यो न वल्ल्यो नापि वीरुधः।।4.48.10।।\nस्निग्धपत्रास्स्थले यत्र पद्मिन्यः फुल्लपङ्कजाः।\nप्रेक्षणीयास्सुगन्धाश्च भ्रमरैश्चापिवर्जिताः।।4.48.11।।",
+      "transliteration": "",
+      "translation": "There were no medicinal plants, no vines or creepers spreading on the ground.The lotus creepers on the dry ground had shining leaves,beautiful and fragrant blooms devoid of bees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-48-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "कण्डुर्नाम महाभागस्सत्यवादी तपोधनः।\nमहर्षिः परमामर्षी नियमैर्दुष्प्रधर्षणः।।4.48.12।।",
+      "transliteration": "",
+      "translation": "There was a sage called Kandu who was truthful, outrageous and shorttempered. He observed strict austerities and was rich in penance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-48-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तस्य तस्मिन्वने पुत्रो बालष्षोडशवार्षिकः।\nप्रणष्टो जीवितान्ताय क्रुद्धस्तत्र महामुनिः।।4.48.13।।",
+      "transliteration": "",
+      "translation": "The great sage was enraged because he had lost his sixteenyearold son in the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-48-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "तेन धर्मात्मना शप्तं कृत्स्नं तत्रमहद्वनम्।\nअशरण्यं दुराधर्षं मृगपक्षिविवर्जितम्।।4.48.14।।",
+      "transliteration": "",
+      "translation": "Cursed by the great righteous sage the entire forest turned barren, unfit to harbour  living beings and became devoid of even beasts and birds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-48-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तस्य ते काननान्ताश्च गिरीणां कन्दराणि च।\nप्रभवनि नदीनां च विचिन्वन्ति समाहिताः।।4.48.15।।",
+      "transliteration": "",
+      "translation": "The monkeys searched in the forest regions, in the mountains, rivers and sources of rivers with concentrated attention.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-48-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तत्र चापि महात्मानो नापश्यञ्जनकात्मजाम्।\nहर्तारं रावणं वापि सुग्रीवप्रियकारिणः।।4.48.16।।",
+      "transliteration": "",
+      "translation": "Eager to please Sugriva, the great souls searched  in the forest region. Even there they   could not find Janaka's daughter and also Ravana who had abducted Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-48-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "ते प्रविश्याऽशु तं भीमं लतागुल्मसमावृतम्।\nदद्दृशुः क्रूरकर्माणमसुरं सुरनिर्भयम्।।4.48.17।।",
+      "transliteration": "",
+      "translation": "(Then) they noticed a place covered with creepers and bushes. As soon as they entered the dreadful forest, they saw a demon of wicked deeds, unafraid even of gods.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-48-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तं दृष्ट्वा वानरा घोरं स्थितं शैलमिवापरम्��\nगाढं परिहितास्सर्वे दृष्ट्वा तान्पर्वतोपममान्।।4.48.18।।",
+      "transliteration": "",
+      "translation": "The monkeys beheld the dreadful demon standing firmly like a huge, incomparable mountain in front of them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-48-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "सोऽपि तान्वानरान्सर्वान् नष्टा स्स्थेत्यब्रवीद्बली।\nअभ्यधावत सङ्कृद्धो मुष्टिमुद्यम्य संहितम्।।4.48.19।।",
+      "transliteration": "",
+      "translation": "Seeing the monkeys, the infuriated demon ran towards them, raising his fist firmly, saying, 'You are all as good as dead, now that I have caught you.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-48-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तमापतन्तं सहसा वालिपुत्रोऽङ्गदस्तदा।\nरावणोऽयमिति ज्ञात्वा तलेनाभिजघान ह।।4.48.20।।",
+      "transliteration": "",
+      "translation": "Mistaking him for Ravana, Angada, Vali's son at once pounced on him and slapped him with his palm.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-48-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "स वालिपुत्राभिहतो वक्त्राच्छोणितमुद्वमन्।\nअसुरोऽभ्यपतद्भूमौ पर्यस्त इव पर्वतः।।4.48.21।।",
+      "transliteration": "",
+      "translation": "Struck by Vali's son, the demon vomitting blood from the mouth, fell down on the ground like a mountain, uprooted.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-48-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तेऽपि तस्मिन्निरुच्छवासे वानरा जितकाशिनः।\nव्यचिन्वन्प्रायशस्तत्र सर्वं तद्गिरिगह्वरम्।।4.48.22।।",
+      "transliteration": "",
+      "translation": "He breathed his last, and the monkeys who won went searching almost all over the mountain caves.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-48-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "विचितं तु ततः कृत्वा सर्वे ते काननं पुनः।\nअन्यदेवापरं घोरं विविशुर्गिरिगह्वरम्।।4.48.23।।",
+      "transliteration": "",
+      "translation": "Again they searched the forest and  entered another dreadful mountain cave.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-48-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "ते विचित्य पुनः खिन्ना विनिष्पत्य समागताः।\nएकान्ते वृक्षमूले तु निषेदुर्दीनमानसाः।।4.48.24।।",
+      "transliteration": "",
+      "translation": "Having searched again, the disappointed monkeys collected together under a tree, dejected at heart and sat down in silence. इत्यार्षे श्रीमद्रामायणे वल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे अष्टचत्वारिंशस्सर्गः।। Thus ends of the fortyeighth sarga in Kishkindakanda of the forst epic, the Holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

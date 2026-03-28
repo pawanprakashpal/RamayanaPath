@@ -1,0 +1,216 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 22,
+    "title": "Khara gets his brother Dusana and the army ready to fight Rama -- proceeds with  fourteen thousand demons.",
+    "titleSanskrit": "",
+    "totalShlokas": 22
+  },
+  "shlokas": [
+    {
+      "id": "v3-22-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "एवमाधर्षितश्शूरश्शूर्पणख्या खरस्ततः।\nउवाच रक्षसां मध्ये खरः खरतरं वचः।।3.22.1।।",
+      "transliteration": "",
+      "translation": "Ashamed and accused thus in the presence of the demons, the valiant Khara spoke to Surpanakha in harsh words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-22-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तवावमानप्रभवः क्रोधोऽयमतुलो मम।\nन शक्यते धारयितुं लवणाम्भ इवोल्बणम्।।3.22.2।।",
+      "transliteration": "",
+      "translation": "Like the overslowing salt sea water, I am unable to contain this my excessive anger arising out of your insult.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-22-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "न रामं गणये वीर्यान्मानुषं क्षीणजीवितम्।\nआत्मदुश्चरितैः प्राणान्हतोयोऽद्य विमोक्ष्यते।।3.22.3।।",
+      "transliteration": "",
+      "translation": "Rama is a shortlived human. I do not care for his valour. His life span will be shortened (he will be killed) now for his own misdeeds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-22-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "बाष्पस्संह्रियतामेष सम्भ्रमश्च विमुच्यताम्।\nअहं रामं सह भ्रात्रा नयामि यमसादनम्।।3.22.4।।",
+      "transliteration": "",
+      "translation": "Restrain your tears and your anxieties I will send Rama along with his brother to the abode of Yama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-22-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "परश्वथहतस्याद्य मन्दप्राणस्य संयुगे।\nरामस्य रुधिरं रक्तमुष्णं पास्यसि राक्षसि।।3.22.5।।",
+      "transliteration": "",
+      "translation": "With his life ebbing out, killed by my axe in the fight, you will drink today, O demoness, Rama's red, hot blood.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-22-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "सा प्रहृष्टा वचश्श्रुत्वा खरस्य वदनाच्च्युतम्।\nप्रशशंस पुनर्मौर्ख्याद्भ्रातरं रक्षसां वरम्।।3.22.6।।",
+      "transliteration": "",
+      "translation": "On hearing the words that came out of Khara's mouth, she was pleased. And in stupidity began praising her brother once again as the best of demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-22-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तया परुषितः पूर्वं पुनरेव प्रशंसितः।\nअब्रवीद्दूषणं नाम खरस्सेनापतिं तदा।।3.22.7।।",
+      "transliteration": "",
+      "translation": "Khara, accused by her earlier and admired again, said to Dusana, chief of army:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-22-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "चतुर्दश सहस्राणि मम चित्तानुवर्तिनाम्।\nरक्षसां भीमवेगानां समरेष्वनिवर्तिनाम्।।3.22.8।।",
+      "transliteration": "",
+      "translation": "There are fourteen thousand demons at my command ready to act according to my will. They are warriors of terrific speed and will not retreat from the fight.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-22-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "नीलजीमूतवर्णानां घोराणां क्रूरकर्मणाम्।\nलोकहिंसाविहाराणां बलिनामुग्रतेजसाम्।।3.22.9।।",
+      "transliteration": "",
+      "translation": "They are of the colour of the dark blue cloud, dreadful and merciless, strong and powerful fighters who roam about forturing people.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-22-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तेषां शार्दूलदर्पाणां महास्यानां महौजसाम्।\nसर्वोद्योग मुदीर्णानां रक्षसां सौम्य कारय।।3.22.10।।",
+      "transliteration": "",
+      "translation": "O handsome one, get them all, powerful like tigers, demons with large countenances, mighty and arragant, ready (for the fight).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-22-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "उपस्थापय मे क्षिप्रं रथं सौम्य धनूंषि च।\nशरांश्चित्रांश्च खङ्गांश्च शक्तीश्च विविधाश्शिताः।।3.22.11।।",
+      "transliteration": "",
+      "translation": "O goodnatured one, get my chariot, bows and arrows, wonderful swords of different kinds and sharp missiles ready quickly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-22-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अग्रे निर्यातुमिच्छामि पौलस्त्यानां महात्मनाम्।\nवधार्थं दुर्विनीतस्य रामस्य रणकोविदः।।3.22.12।।",
+      "transliteration": "",
+      "translation": "O expert in warfare, I wish to lead those great warriors of Paulasthya family, to kill that immodest Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-22-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "इति तस्य ब्रुवाणस्य सूर्यवर्णं महारथम्।\nसदश्वैश्शबलैर्युक्तमाचचक्षेऽथ दूषणः।।3.22.13।।",
+      "transliteration": "",
+      "translation": "While Khara was speaking thus, Dusana reported that a huge chariot of the colour of the Sun yoked with good horses of variegated hues stood ready.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-22-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तं मेरुशिखराकारं तप्तकाञ्चनभूषणम्।\nहेमचक्रमसम्बाधं वैदूर्यमयकूबरम्।।3.22.14।।\nमत्स्यैः पुष्पैर्द्रुमैश्शैलैश्चन्द्रसूर्यैश्च काञ्चनैः।\nमङ्गलैः पक्षिसङ्घैश्च ताराभिरभिसंवृतम्।।3.22.15।।\nध्वजनिस्त्रिंशसम्पन्नं किङ्किणीकविराजितम्।\nसदश्वयुक्तं सोऽमर्षादारुरोह खरो रथम्।।3.22.16।।",
+      "transliteration": "",
+      "translation": "Then the impatient Khara mounted the chariot that looked like the peak of mount Meru. It was decorated with pure gold, had golden wheels, poles studded with vaidurya. The carriage of the chariot was engraved with golden figures of fishes, flowers, trees, the Sun, stars, flocks of auspicious birds, flags and swords. Shining with small bells, it was yoked to fine horses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-22-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "निशाम्य तु रथस्थं तं राक्षसा भीमविक्रमाः।\nतस्थुस्संपरिवार्यैनं दूषणं च महाबलम्।।3.22.17।।",
+      "transliteration": "",
+      "translation": "The demons of terrific prowess surounded Khara and Dusana and stood by, when they saw both of them mounting the chariot.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-22-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "खरस्तु तान्महेष्वासान्घोरवर्मायुधध्वज��न्।\nनिर्यातेत्यब्रवीद्दृष्ट्वा रथस्थस्सर्वराक्षसान्।।3.22.18।।",
+      "transliteration": "",
+      "translation": "Khara mounted the chariot, saw the demons holding great weapons, wearing dreadful shields and holding flags, and ordered them to march.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-22-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "ततस्तद् राक्षसं सैन्यं घोरचर्मायुधध्वजम्।\nनिर्जगाम जनस्थानान्महानादं महाजवम्।।3.22.19।।",
+      "transliteration": "",
+      "translation": "Then the army of the demons wearing dreadful shields, holding weapons and flags, and making a loud noise started in great speed from Janasthanam.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-22-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "मुद्गरैः पट्टिसैश्शूलैस्सुतीक्ष्णैश्च परश्वधैः।\nखङ्गैश्चक्रैश्च हस्तस्थैर्भ्राजमानैश्च तोमरैः।।3.22.20।।\nशक्तिभिः परिघैर्घोरैरतिमात्रैश्च कार्मुकैः।\nगदासिमुसलैर्वज्रैर्गृहीतैर्भीमदर्शनैः।।3.22.21।।\nराक्षसानां सुघोराणां सहस्राणि चतुर्दश।\nनिर्यातानि जनस्थानात्खरचित्तानुवर्तिनाम्।।3.22.22।।",
+      "transliteration": "",
+      "translation": "The fourteen thousand demons loyal to the wishes of Khara, took in their hands, maces, piercing weapons, spears, sharp axes used in battle, swords, wheels, splinters, iron clubs, powerful missiles, dreadful iron bars of giant size, bows made of bamboo, clubs and frightening weapons like thunderbolt (of Indra) and  departed from Janasthana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-22-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तांस्त्वभिद्रवतो दृष्ट्वा राक्षसान् भीमविक्रमान्।\nखरस्यापि रथः किञ्चिज्जगाम तदनन्तरम्।।3.22.23।।",
+      "transliteration": "",
+      "translation": "Khara's chariot moved a bit behind the army of demons of frightening prowess who rushed forward to attack (Rama).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-22-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "ततस्ताञ्छबलानश्वास्तप्तकाञ्चनभूषितान्।\nखरस्य मतिमाज्ञाय सारथिस्समचोदयत्।।3.22.24।।",
+      "transliteration": "",
+      "translation": "Knowing the mind of Khara, the charioteer hastened the horses of the colourful  chariot decorated with pure gold.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-22-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "स चोदितो रथश्शीघ्रं खरस्य रिपुघातिनः।\nशब्देनापूरयामास दिशश्च प्रदिशस्तदा।।3.22.25।।",
+      "transliteration": "",
+      "translation": "Spurred by the charioteer, the chariot of Khara, the slayer of enemies, produced a rattle that filled all four quarters and the intermediate directions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-22-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "प्रवृद्धमन्युस्तु खरः खरस्वनो रिपोर्वधार्थं त्वरितो यथान्तकः।\nअचूचुदत्सारथिमुन्नदन्घनं महाबलो मेघ इवाश्मवर्षवान्।।3.22.26।।",
+      "transliteration": "",
+      "translation": "Khara in extreme anger hastened, like Yama, to slay his enemy. He roared loudly like a cloud raining hail stones and impelled his charioteer to speed up.  इत्यार्षे श्रीमद्रामायणे वालल्मीकीय आदिकाव्ये अरण्यकाण्डे द्वाविंशस्सर्गः।। Thus ends the twentysecond sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

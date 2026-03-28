@@ -1,0 +1,198 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 25,
+    "title": "Rama, further enquires Viswamitra narrates the birth of Tataka, her marriage, curse, etc., and convinces Rama to slay her.",
+    "titleSanskrit": "",
+    "totalShlokas": 20
+  },
+  "shlokas": [
+    {
+      "id": "v1-25-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "अथ तस्याप्रमेयस्य मुनेर्वचनमुत्तमम्।\nश्रुत्वा पुरुषशार्दूल: प्रत्युवाच शुभां गिरम्।।1.25.1।।",
+      "transliteration": "",
+      "translation": "On hearing the excellent words of Viswamitra, a sage with unimaginable faculty. Rama, the tiger among men (Rama) replied in a, gentle voice:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-25-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अल्पवीर्या यदा यक्षा श्श्रूयन्ते मुनिपुङ्गव।\nकथन्नागसहस्रस्य धारयत्यबला बलम्।।1.25.2।।",
+      "transliteration": "",
+      "translation": "\"O best of ascetics, I have heard the yakshas possess little prowess. How can a woman who is by gender weak possess the strength of a thousand elephants?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-25-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "विश्वामित्रोऽब्रवीद्वाक्यं शृण येन बलोत्तरा। \nवरदानकृतं वीर्यं धारयत्यबला बलम्।।1.25.3।।",
+      "transliteration": "",
+      "translation": "Viswamitra said, \"Listen, how she acquired the prowess and strength by virtue of a boon she received.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-25-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "पूर्वमासीन्महायक्षस्सुकेतुर्नाम वीर्यवान्।\nअनपत्यश्शुभाचारस्स च तेपे महत्तप:।।1.25.4।।",
+      "transliteration": "",
+      "translation": "\"In the past there was a powerful and great yaksha by name Suketu. He had no  children. So he performed an intense penance following virtuous practices.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-25-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "पितामहस्तु सुप्रीतस्तस्य यक्षपते स्तदा।\nकन्यारत्नं ददौ राम ताटकां नाम नामत:।।1.25.5।।",
+      "transliteration": "",
+      "translation": "Rama the grandsire Brahma was highly gratified and granted to the king of yakshas, the gem of a daughter by name known asTataka.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-25-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "ददौ नागसहस्रस्य बलं चास्या: पितामह:।\nनत्वेव पुत्रं यक्षाय ददौ ब्रह्मा महायशा:।।1.25.6।।",
+      "transliteration": "",
+      "translation": "The illustrious grandsire Brahma granted her the strength of a thousand elephants,  but did not bestow a son on the yaksha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-25-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तां तु जातां विवर्धन्तीं रूपयौवनशालिनीम्।\nझर्झपुत्राय सुन्दाय ददौ भार्यां यशस्विनीम्।।1.25.7।।",
+      "transliteration": "",
+      "translation": "As she grew up, glowing with youth and beauty she was given in marriage to Sunda, son of Jharjha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-25-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "कस्यचित्त्वथ कालस्य यक्षी पुत्रमजायत।\nमारीचं नाम दुर्धर्षं यश्शापाद्राक्षसोऽभवत्।।1.25.8।।",
+      "transliteration": "",
+      "translation": "After some time that yakshini gave birth to an unassailable son by name Maricha. Because of a curse, he became a rakshasa (though born of yaksha parentage).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-25-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "सुन्दे तु निहते राम सागस्त्यमृषिसत्तमम्।\nताटका सह पुत्रेण प्रधर्��यितुमिच्छति।।1.25.9।।",
+      "transliteration": "",
+      "translation": "O Rama when Sunda died Tataka along with her son wanted to attack Agastya, the best of sages.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-25-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "भक्षार्थं जातसंरम्भा गर्जन्ती साभ्यधावत।0\nआपतन्तीं तु तां दृष्ट्वा अगस्त्यो भगवानृषि:।।1.25.10।।\nराक्षसत्वं भजस्वेति मारीचं व्याजहार स:। 1",
+      "transliteration": "",
+      "translation": "Roaring, she rushed with excitement to devour him. The venerable  rishi Agastya saw her approaching him and cursed Maricha to assume form of a demoness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-25-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "अगस्त्य: परमक्रुद्धस्ताटकामपि शप्तवान्।।1.25.11।।\nपुरुषादी महायक्षी विरूपा विकृतानना।\nइदं रूपं विहायाथ दारुणं रूपमस्तु ते।।1.25.12।।",
+      "transliteration": "",
+      "translation": "Mighty angry, Agastya cursed Tataka saying, 'Abandon this form of a great yakshini and assume the terrible figure of a rakshasi, a cannibal with distorted appearance and a hideous countenance'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-25-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "सैषा शापकृतामर्षा ताटका क्रोधमूर्छिता।\nदेशमुत्सादयत्येनमगस्त्यचरितं शुभम्।।1.25.13।।",
+      "transliteration": "",
+      "translation": "Enraged at the curse, senseless, Tataka with anger, has been ravaging this sacred land when Agastya walked.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-25-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "एनां राघव दुर्वृत्तां यक्षीं परमदारुणाम्।\nगोब्राह्मणहितार्थाय जहि दुष्टपराक्रमाम्।।1.25.14।।",
+      "transliteration": "",
+      "translation": "O Rama for the welfare of cows and brahmins, slay this yakshini who is wicked, extremely cruel and possessing vile prowess.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-25-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "न ह्येनां शापसम्स्पृष्टां कश्चिदुत्सहते पुमान्।\nनिहन्तुं त्रिषु लोकेषु त्वामृते रघुनन्दन।।1.25.15।।",
+      "transliteration": "",
+      "translation": "O son of Raghu's dynasty she is maligned by the curse, and so not a single man in the three worlds except you, is  competent to slay this yakshini.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-25-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "न हि ते स्त्रीवधकृते घृणा कार्या नरोत्तम।\nचातुर्वण्यहितार्थाय कर्तव्यं राजसूनुना।।1.25.16।।",
+      "transliteration": "",
+      "translation": "O best among men you need not hate killing a woman. You are a prince. You should serve the interest of the four orders of the society.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-25-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "नृशंसमनृशंसं वा प्रजारक्षणकारणात्।\nपातकं वा सदोषं वा कर्तव्यं रक्षता सता।।1.25.17।।",
+      "transliteration": "",
+      "translation": "Whether cruel or kind, sinful or wrong whatever contributes to the protection of the subjects, should be done by the righteous (king).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-25-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "राज्यभारनियुक्तानामेष धर्मस्सनातन:।\nअधर्म्यां जहि काकुत्स्थ धर्मोह्यस्या न विद्यते।।1.25.18।।",
+      "transliteration": "",
+      "translation": "This is the eternal law binding those who are appointed to bear the burden of a kingdom. O Kakutstha kill her. She knows no dharma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-25-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "श्रूयते हि पुरा शक्रो विरोचनसुतां नृप।\nपृथिवीं हन्तुमिच्छन्तीं मन्थरामभ्यसूदयत्।।1.25.19।।",
+      "transliteration": "",
+      "translation": "O Prince It is heard that in the past Indra slew Manthara, Virochana's daughter who intended to destroy the earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-25-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "विष्णुनापि पुरा राम भृगुपत्नी दृढव्रता।\nअनिन्द्रं लोकमिच्छन्ती काव्यमाता निषूदिता।।1.25.20।।",
+      "transliteration": "",
+      "translation": "'O Rama! In olden times, Kavya, the mother of Sukracharya, the wife of sage Bhrigu, was destroyed by Vishnu determined to destroy Indra.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-25-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "एतैश्चान्यैश्च बहुभी राजपुत्र महात्मभि:।\nअधर्मसहिता नार्यो हता: पुरुषसत्तमै:।।1.25.21।।",
+      "transliteration": "",
+      "translation": "O Prince by these magnanimous persons and by great men several unrighteous women were killed for the common good\". इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे पञ्चविंशस्सर्ग:।। Thus ends the twentyfifth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

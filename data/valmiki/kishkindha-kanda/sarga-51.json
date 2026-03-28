@@ -1,0 +1,162 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 51,
+    "title": "The story of Svayamprabha",
+    "titleSanskrit": "",
+    "totalShlokas": 16
+  },
+  "shlokas": [
+    {
+      "id": "v4-51-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "इत्युक्त्वा हनुमांस्तत्र पुनः कृष्णाजिनाम्बराम्।\nअब्रवीत्तां महाभागां तापसीं धर्मचारिणीम्।।4.51.1।।",
+      "transliteration": "",
+      "translation": "On meeting the distinguished, righteous ascetic woman robed in deer skin, Hanuman said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-51-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "इदं प्रविष्टास्सहसा बिलं तिमिरसंवृतम्।\nक्षुत्पिपासापरिश्रान्ताः परिखिन्नाश्च सर्वशः।।4.51.2।।",
+      "transliteration": "",
+      "translation": "'We are exhausted with thirst and hunger. We are fatigued. (Hence) we entered this dark cave all at once(without waiting for permission).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-51-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "महद्धरण्या विवरं प्रविष्टाः स्म पिपासिताः।\nइमां स्त्वेवंविधान्भावान्विविधानद्भुतोपमान्।।4.51.3।।\nदृष्ट्वा वयं प्रव्यथितास्सम्भ्रान्ता नष्टचेतसः।",
+      "transliteration": "",
+      "translation": "'Thirst drove us into this cave on earth. We are amazed at the kind of many wonderful objects here and have nearly lost our senses. We are tormented with pain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-51-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "कस्यैते काञ्चना वृक्षास्तरुणादित्यसन्निभाः।।4.51.4।।\nशुचीन्यभ्यवहार्याणि मूलानि च फलानि च।\nकाञ्चनानि विमानानि राजतानि गृहाणि च।।4.51.5।।\nतपनीयगवाक्षाणि मणिजालावृतानि च।",
+      "transliteration": "",
+      "translation": "'To whom do these golden trees resembling the rising Sun belong? For whom are these  tasty roots and fruits? Whose are these manystoreyed golden houses with glittering windows adorned with silver lattices encrusted with gems?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-51-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "पुष्पिताः फलवन्तश्च पुण्यास्सुरभिगन्धिनः।।4.51.6।।\nइमे जाम्बूनदमयाः पादपाः कस्य तेजसा।\nकाञ्चनानि च पद्मानि जातानि विमले जले।।4.51.7।।\nकथं मत्स्याश्च सौवर्णा दृश्यन्ते सह कच्छपैः।\nआत्मानमनुभावं च कस्य चैतत्तपोबलम्।।4.51.8।।\nअजानतां न स्सर्वेषां सर्वमाख्यातुमर्हसि।",
+      "transliteration": "",
+      "translation": "'By whose prowess are these golden trees yielding sacred fragrant flowers and fruits?  How are these golden lotuses created in the clear water? How is it that here are golden fishes and tortoises? Whose fruit of penance is this? Is it by your power? We do not know. You should tell all of us everything'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-51-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "एवमुक्ता हनुमता तापसी धर्मचारिणी।।4.51.9।।\nप्रत्युवाच हनूमन्तं सर्वभूतहिते रता।",
+      "transliteration": "",
+      "translation": "The noble ascetic committed to the welfare of all beings replied to Hanuman's enquiry:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-51-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "मयो नाम महातेजा मायावी वानरर्षभः।।4.51.10।।\nतेनेदं निर्मितं सर्वं मायया काञ्चनं वनम्।",
+      "transliteration": "",
+      "translation": "'O bull among monkeys this golden forest was created by the magical power of a deceitful demon called Maya.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-51-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "पुरा दानवमुख्यानां विश्वकर्मा बभूव ह।।4.51.11।।\nयेनेदं काञ्चनं दिव्यं निर्मितं भवनोत्तमम्।",
+      "transliteration": "",
+      "translation": "This best of wonderful mansions has been constructed earlier by Visvakarma, the chief (architect) of the demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-51-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "स तु वर्षसहस्राणि तपस्तप्त्वा महावने।।4.51.12।।\nपितामहाद्वरं लेभे सर्वमौशनसं धनम्।",
+      "transliteration": "",
+      "translation": "'He (Maya) performed rigorous penance in the dense forest for thousands of years seeking the favour of Brahma, the creator and obtained a boon that he should inherit all the wealth of Usanas (Shukra).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-51-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "वनं विधाय बलवान्सर्वकामेश्वरस्तदा।।4.51.13।।\nउवास सुखितः कालं कञ्चिदस्मिन्महावने।",
+      "transliteration": "",
+      "translation": "Then the mighty Maya who received the power of (executing) desires created this mansion and lived here happily for some time in this dense forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-51-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तमप्सरसि हेमायां सक्तं दानवपुङ्गवम्।।4.51.14।।\nविक्रम्यैवाशनिं गृह्य जघानेत्रः पुरन्दरः।",
+      "transliteration": "",
+      "translation": "'Seeing this great demon in love with a heavenly apsara (nymph) called Hema, Lord Indra with all his might attacked him with his thunderbolt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-51-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "इदं च ब्रह्मणा दत्तं हेमायै वनमुत्तमम्।।4.51.15।।\nशाश्वता: कामभोगश्च गृहं चेदं हिरण्मयम्।",
+      "transliteration": "",
+      "translation": "'Thus this wonderful forest and the golden house with all luxury were given away permanently to Hema by the creator Brahma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-51-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "दुहिता मेरुसावर्णेरहं तस्यास्स्वयंप्रभा।।4.51.16।।\nइदं रक्षामि भवनं हेमाया वानरोत्तम।",
+      "transliteration": "",
+      "translation": "'O best of monkeys daughter of Meru Sauvarni, I am Svayamprabha (selfilluminator), caretaker of this house of Hema. (Meru Sauvarni is the eleventh  Manu).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-51-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "मम प्रियसखी हेमा नृत्तगीतविशारदा।।4.51.17।।\nतया दत्तवरा चास्मि रक्षामि भवनोत्तमम्।",
+      "transliteration": "",
+      "translation": "'Hema, wellversed in dance and music is a fast friend to me. She granted a boon (that none can resist me) and gave this house of which I am the caretaker.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-51-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "किं कार्यं कस्य वा हेतोः कान्ताराणि प्रपश्यथ।।4.51.18।।\nकथं चेदं वनं दुर्गं युष्माभिरुपलक्षितम्।",
+      "transliteration": "",
+      "translation": "'What is your mission? For what purpose have you come to this inaccessible forest? What are you looking for?How did you find this?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-51-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "इमान्यभ्यवहार्याणि मूलानि च फलानि च।।4.51.19।।\nभुक्त्वा पीत्वा च पानीयं सर्वं मे वक्तुमर्हथ।",
+      "transliteration": "",
+      "translation": "'Eat these wonderful roots and fruits and have these drinks and then tell me all about you. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे एकपञ्चशस्सर्गः।। Thus ends of the fiftyfirst sarga in Kishkindakanda of the first epic, the Holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

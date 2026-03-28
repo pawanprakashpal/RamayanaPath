@@ -1,0 +1,171 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 6,
+    "title": "At Lanka,Ravana holds consultations with the rakshasas about winning over Rama.",
+    "titleSanskrit": "",
+    "totalShlokas": 17
+  },
+  "shlokas": [
+    {
+      "id": "v6-6-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "लङ्कायांतुकृतंकर्मघोरंदृष्टवाभयावहम् ।\nराक्षसेन्द्रो���नुमताशक्रेणेवमहात्मना ।।6.6.1।।\nअब्रवीद्राक्षसान्  सर्वान्ह्रियाकिञ्चिदवाङ्मुखः ।",
+      "transliteration": "",
+      "translation": "Considering the terrifying, dreadful action that was carried by the great soul Hanuman who was like Indra in might, the Lord of Rakshasas felt a bit shy and bending down his head addressed all Rakshasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-6-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "धर्षिताचप्रविष्टाचलङ्कादुष्प्रसहापुरी ।।6.6.2।।\nतेनवानरमात्रेणदृष्टासीताचजानकी ।",
+      "transliteration": "",
+      "translation": "\"(Hanuman) After all a monkey in size, entered the inaccessible city of Lanka, destroyed it and saw Sita, daughter of king of Janaka.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-6-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "प्रासादोधर्षितश्चैत्यःप्रवराराक्षसाहताः ।।6.6.3।।\nआविलाचपुरीलङ्कासर्वाहनुमताकृता ।",
+      "transliteration": "",
+      "translation": "\"Hanuman destroyed huge mansions, killed topmost Rakshasas and shattered all the city of Lanka.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-6-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "किंकरिष्यामिभद्रंवोकिंवायुक्तमनन्तरम् ।।6.6.4।।\nउच्यतांनस्समर्थंयत्कृतंचसुकृतंभवेत् ।",
+      "transliteration": "",
+      "translation": "\"What is the best thing to do now? What should we do ultimately? What is advisable to do? What strategy is effective? You may suggest that which is good for us.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-6-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "मन्त्रमूलंचविजयंप्रवदन्तिमनस्विनः ।।6.6.5।।\nतस्मद्वैरोचयेमन्त्रंरामंप्रतिमहाबलाः ।",
+      "transliteration": "",
+      "translation": "\"O mighty Rakshasas Wise elders say that through wise counsel victory is possible. Therefore, in the case of Rama I am thinking of seeking your advice.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-6-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "त्रिविधाःपुरुषालोकेउत्तमाधममध्यमाः ।।6.6.6।।\nतेषांतुसमवेतानांगुणदोषौवदाम्यहम् ।",
+      "transliteration": "",
+      "translation": "\"In the world, men are of three kinds  good, mediocre and lowly. It is difficult to know their differences. I will tell you about the flaws in their characteristics.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-6-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "मन्त्रिभिर्हितसंयुक्तैस्समर्थैर्मन्त्रनिर्णये ।।6.6.7।।\nमित्रैर्वापिसमानार्थैर्बान्धवैरपिवाधिकैः ।\nसहितोमन्त्रियित्वायःकर्मारम्भान्प्रवर्तयेत् ।।6.6.8।।\nदैवेचकुरुतेयत्नंतमाहुःपुरुषोत्तमम् ।",
+      "transliteration": "",
+      "translation": "\"He who decides, after deliberating with his wellwishers, with capable ministers of good counsel, relatives of common interest or friends before undertaking his task and tries with faith in god is said to be best among men.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-6-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "कोऽर्थंविमृशेदेकोधर्मेप्रकुरुतेमनः ।।6.6.9।।\nकःकार्याणिकुरुतेतमाहुर्मध्यमंनरम् ।",
+      "transliteration": "",
+      "translation": "\"He who thinks solitarily (not with others), deliberates with in his mind on his duty and executes his tasks, is said to be a (mediocre) a mediocre one.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-6-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "गुणदोषौवनिशिचत्य त्यक्त्यादैवव्यपाश्रयम् ।।6.6.10।।\nकरिष्यामीतियःकार्यमुपेक्षेत्सनराधमः ।",
+      "transliteration": "",
+      "translation": "\"He who fails to consider the merits and de merits, decides to do on his own and begins without faith in god saying, 'I' will do it, is a lowly one among men.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-6-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "यथेमेपुरुषानित्यमुत्तमाधममध्यमाः ।।6.6.11।।\nवंमन्त्राऽहिविज्ञेयाउत्तमाधममध्यमः ।",
+      "transliteration": "",
+      "translation": "\"Just as among men there are good, intermediate and lowly people invariably their counsel is also of three kinds  good, mediocre and lowly.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-6-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "ऐकमत्यमुपागम्यशास्त्रदृष्टेनचक्षुषा ।।6.6.12।।\nमन्त्रिणोयत्रनिरतास्तमाहुर्मन्त्रमुत्तमम् ।",
+      "transliteration": "",
+      "translation": "\"When all ministers are unanimous and come to one conclusion based on sastras, and having come together remain firm, such counsel is said to be the best.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-6-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "बह्व्योऽपिमतीर्गत्वामन्त्रिणामर्थनिर्णये ।।6.6.13।।\nपुनर्यत्रैकतांप्राप्तस्समन्त्रोमध्यमस्स्मृतः ।",
+      "transliteration": "",
+      "translation": "\"The conclusion in which many ministers have different points of view and attain unanimity in decision after meeting different points of view is a mediocre vision.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-6-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "अन्योन्यमतिमास्थाययत्रसम्प्रतिभाष्यते ।।6.6.14।।\nनचैकमत्येश्रेयोऽस्तिमन्त्रस्सोऽधमउच्यत ।",
+      "transliteration": "",
+      "translation": "\"Where counsellors with different opinions hold on to their individual opinions that pleases them and are not for the outcome of a unanimous decision, such a counsel is said to be bad.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-6-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तस्मात्सुमन्त्रितंसाधुभवन्तोमतिस��्तमा: ।।6.6.15।।\nकार्यंसम्प्रतिपद्यन्तामेतत्कृत्यंमतंमम ।",
+      "transliteration": "",
+      "translation": "\"On account of that, O wise ones Think over very well, rightly of the task to be done and determine the action required by me now.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-6-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "वानराणांहिधीराणांसहस्रैःपरिवारितः ।।6.6.16।।\nरामोऽभ्येतिपुरीलङ्कामस्माकमुपरोधकः ।",
+      "transliteration": "",
+      "translation": "Accompanied by thousands of Vanaras, Rama is approaching to besiege us and reaching the city of Lanka.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-6-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तरिष्यतिचसुव्यक्तंराघवस्सागरंसुखम् ।।6.6.17।।\nतरसायुक्तरूपेणसानुजस्सबलानुगः ।",
+      "transliteration": "",
+      "translation": "\"Rama who is worthy of his might, accompanied by his brother and army will be able to cross the ocean speedily and easily.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-6-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "समुद्रमुच्छोषयतिवीर्येणान्यत्करोतिवा ।।6.6.18।।\nअस्मिन्नेवंगतेकार्येविरुद्धेवानरैस्सह ।\nहितंपुरेचसैन्येचसर्वसम्मन्त्रयतांमम ।।6.6.19।।",
+      "transliteration": "",
+      "translation": "Rama may dry up the ocean or do something else out of his power. If Vanaras come and encounter us, we will clash with him. When his army has set out that way, you may advise me of a plan that benefits the army and city of Lanka.\" ।।इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेषष्ठमस्सर्गः।। This is the end of the sixth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

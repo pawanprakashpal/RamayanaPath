@@ -1,0 +1,324 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 56,
+    "title": "Sita ridicules Ravana-- not willing to reply directly speaks to a blade of grass about Rama's might and Ravana's destruction-- Ravana sends Sita to Asoka garden.",
+    "titleSanskrit": "",
+    "totalShlokas": 34
+  },
+  "shlokas": [
+    {
+      "id": "v3-56-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "सा तथोक्ता तु वैदेही निर्भया शोककर्शिता।\nतृणमन्तरतः कृत्वा रावणं प्रत्यभाषत।।3.56.1।।",
+      "transliteration": "",
+      "translation": "Thus addressed by Ravana, Sita, immersed in deep sorrow and unafraid of him, placed  a blade of grass between her and him (intending not to speak to him  straight) and replied:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "राजा दशरथो नाम धर्मसेतुरिवाचलः।\nसत्यसन्धः परिज्ञातो यस्य पुत्रस्सराघवः।।3.56.2।।",
+      "transliteration": "",
+      "translation": "Rama is a son of  the renowned king Dasaratha, who was a firm ambankment (protector) of righteousness and was true to his promise.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "रामो नाम स धर्मात्मा त्रिषु लोकेषु विश्रुतः।\nदीर्घबाहुर्विशालाक्षो दैवतं हि पतिर्मम।।3.56.3।।",
+      "transliteration": "",
+      "translation": "The longarmed, largeeyed Rama is famous in all the three worlds. He is my husband, a righteous soul and a god to all.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "इक्ष्वाकूणां कुले जातस्सिंहस्कन्धो महाद्युतिः।\nलक्ष्मणेन सह भ्रात्रा यस्ते प्राणान्हरिष्यति।।3.56.4।।",
+      "transliteration": "",
+      "translation": "The brilliant Rama of the Ikshvaku dynasty with the lion's shoulders will come with his brother Lakshmana and take away your life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "प्रत्यक्षं यद्यहं तस्य त्वया स्यां धर्षिता बलात्।\nशयिता त्वं हतस्संख्ये जनस्थाने यथा खरः।।3.56.5।।",
+      "transliteration": "",
+      "translation": "Had you abducted me forcibly in his presence, you would have been lying down dead just as Khara in Janasthana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "य एते राक्षसाः प्रोक्ता घोररूपा महाबलाः।\nराघवे निर्विषास्सर्वे सुपर्णे पन्नगा यथा।।3.56.6।।",
+      "transliteration": "",
+      "translation": "Those dreadful, mighty demons you have described are ineffective in his presence just like the serpents who with their venom are ineffective  in the presence of  Suparna (Garuda).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तस्य ज्याविप्रमुक्तास्ते शराः काञ्चनभूषणाः।\nशरीरं विधमिष्यन्ति गङ्गाकूलमिवोर्मयः।।3.56.7।।",
+      "transliteration": "",
+      "translation": "The goldtipped arrows released from his bowstring will shatter your body like the waves erode the banks of river Ganga.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "असुरैर्वा सुरैर्वा त्वं यद्यवध्योऽसि रावण।\nउत्पाद्य सुमहद्वैरं जीवंस्तस्य न मोक्ष्यसे।।3.56.8।।",
+      "transliteration": "",
+      "translation": "O Ravana, even if you stand invulnerable to gods and demons, you will not come out alive in the combat with Rama with whom you have earned great enmity.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "स ते जीवितशेषस्य राघवोऽन्तकरो बली।\nपशोर्यूपगतस्येव जीवितं तव दुर्लभम्।।3.56.9।।",
+      "transliteration": "",
+      "translation": "Powerful Rama will put an end to whatever little life you are left with. Just as a beast  tied to a sacrificial post, you will not  survive.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "यदि पश्येत्स रामस्त्वां रोषदीप्तेन चक्षुषा।\nरक्षस्त्वमद्य निर्धग्धो गच्छेस्सद्यः पराभवम्।।3.56.10।।",
+      "transliteration": "",
+      "translation": "O demon, you will be completely consumed if Rama looks at you with eyes burning in anger.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "यश्चन्द्रं नभसो भूमौ पातयेन्नाशयेत वा।\nसागरं शोषयेद्वापि स सीतां मोचयेदिह।।3.56.11।।",
+      "transliteration": "",
+      "translation": "He who can bring down the Moon to the earth from the sky or even dash it down, he who can drain the sea dry will definitely release me from here.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "गतायुस्त्वं गतश्रीको गतसत्त्व गतेन्द्रियः।\nलङ्का वैधव्यसंयुक्ता त्वत्कृतेन भविष्यति।।3.56.12।।",
+      "transliteration": "",
+      "translation": "Your life is coming to an end. Your fortunes will wane, your strength will be sapped. Your senses will be dissipated. By your deeds Lanka will attain widowhood.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "न ते पापमिदं कर्म शुखोदर्कं भविष्यति।\nयाऽहं नीता विनाभावं पतिपार्श्वात्त्वया वने।।3.56.13।।",
+      "transliteration": "",
+      "translation": "This evil deed(of abduction) will not yield happy results.You have brought me from my husband from the forest without any forethought.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "स हि दैवतसंयुक्तो मम भर्ता महाद्युतिः।\nनिर्भयो वीर्यमाश्रित्य शून्ये वसति दण्डके।।3.56.14।।",
+      "transliteration": "",
+      "translation": "My effulgent, valiant husband armed with divine power resides fearlessly in the desolate Dandaka.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "स ते दर्पं बलं वीर्यमुत्सेकं च तथाविधम्।\nअपनेष्यति गात्रेभ्यश्शरवर्षेण संयुगे।।3.56.15।।",
+      "transliteration": "",
+      "translation": "He will remove your pride, your power, your valour and haughtiness from your limbs with a shower of arrows in the fight.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "यदा विनाशो भूतानां दृश्यते कालचोदितः।\nतदा कार्ये प्रमाद्यन्ति नराः कालवशं गताः।।3.56.16।।",
+      "transliteration": "",
+      "translation": "When destruction draws near, people being prompted by time start commiting blunders in their deeds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "मां प्रधृष्य स ते कालः प्राप्तोऽयं राक्षसाधम।\nआत्मनो ���ाक्षसानां च वधायान्तःपुरस्य च।।3.56.17।।",
+      "transliteration": "",
+      "translation": "You vilest of demons, since you have assaulted me, the time of your death and destruction of all demons and of all women in the harem has drawn near.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "न शक्या यज्ञमध्यस्था वेदी सृग्भाण्डमण्डिता।\nद्विजातिमन्त्रपूता च चण्डालेनावमर्दितुम्।।3.56.18।।",
+      "transliteration": "",
+      "translation": "The sacrificial altar adorned with ladles and vessels and sanctified by the sacred mantras recited by brahmins cannot be defiled by a chandala (man of lowest caste).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तथाऽहं धर्मनित्यस्य धर्मपत्नी पतिव्रता।\nत्वया स्पृष्टुं न शक्यास्मि राक्षसाधम पापिना।।3.56.19।।",
+      "transliteration": "",
+      "translation": "O lowly demon  similarly I am a chaste woman and wife of the ever righteous Rama who cannot be defiled by a sinner like you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "क्रीडन्ती राजहंसेन पद्मषण्डेषु नित्यदा।\nहंसी सा तृणषण्डस्थं कथं पश्येत मद्गुकम्।।3.56.20।।",
+      "transliteration": "",
+      "translation": "How can a female swan ever sporting in lotusponds in the company of a royal swan look at the watercrow resting on a grassy land?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "इदं शरीरं निस्संज्ञं बन्ध वा खातयस्व वा।\nनेदं शरीरं रक्षयं मे जीवितं वापि राक्षस।।3.56.21।।\nन तु शक्ष्याम्युपक्रोशं पृथिव्यां दातुमात्मनः।",
+      "transliteration": "",
+      "translation": "O demon  this body has (now) no consciousness. You may bind it or bury it. I do not think that this body or even this life need to be protected. But at no cost can I make this an object of censure on earth (must not be branded an unchaste woman).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "एवमुक्त्वा तु वैदेही क्रोधात्सुपरुषं वचः।।3.56.22।।\nरावणं मैथिली तत्र पुनर्नोवाच किञ्चन।",
+      "transliteration": "",
+      "translation": "Having uttered these very harsh words out of anger, the daughter of Videha, the princess from Mithila spoke no more.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "सीताया वचनं श्रुत्वा परुषं रोमहर्षणम्।।3.56.23।।\nप्रत्युवाच ततस्सीतां भयसन्दर्शनं वचः।",
+      "transliteration": "",
+      "translation": "Having heard such harsh, horripilating words from Sita, Ravana replied in a way designed to create fear in her:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "शृणु मैथिलि मद्वाक्यं मासान्द्वादश भामिनि।।3.56.24।।\nकालेनानेन नाभ्येषि यदि मां चारुहासिनि।\nततस्त्वां प्रातराशार्थं सूदाश्छेत्स्यन्ति लेशशः।।3.56.25।।",
+      "transliteration": "",
+      "translation": "O comely princess from Mithila, O lady with a sweet smile listen to my words. If you do not accept my hand in the course of twelve months, the cooks will cut you off into small bits for the (my) breakfast.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "इत्युक्त्वा परुषं वाक्यं रावणश्शत्रुरावणः।\nराक्षसीश्च ततः क्रुद्ध इदं वचनमब्रवीत्।।3.56.26।।",
+      "transliteration": "",
+      "translation": "Enraged Ravana, who used to make enemies wail, turned to the demonesses and said these words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "शीघ्रमेव हि राक्षस्यो विकृता घोरदर्शनाः।\nदर्पमस्या विनेष्यध्वं मांसशोणितभोजनाः।।3.56.27।।",
+      "transliteration": "",
+      "translation": "Addressing the flesheating, blooddrinking, loathsome and fearful demonesses Ravana said, Humble her pride at once.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "वचनादेव तास्तस्य सुघोरा राक्षसीगणाः।\nकृतप्राञ्जलयो भूत्वा मैथिलीं पर्यवारयन्।।3.56.28।।",
+      "transliteration": "",
+      "translation": "No sooner had Ravana said it than the dreadful demonesses offered obeisance to him with folded hands and surrounded Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "स ताः प्रोवाच राजा तु रावणो घोरदर्शनः।\nप्रचाल्य चरणोत्कर्षैर्दारयन्निव मेदिनीम्।।3.56.29।।",
+      "transliteration": "",
+      "translation": "Stamping his feet and shaking the ground as if tearing the earth, Ravana said to those fiercelooking demonesses:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "अशोकवनिकामध्ये मैथिली नीयतामियम्।\nतत्रेयं रक्ष्यतां गूढं युष्माभिः परिवारिता।।3.56.30।।",
+      "transliteration": "",
+      "translation": "Let this Sita be led into the Asoka grove. There sit round her and protect her in secret (her presence there should not be made public).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "तत्रैनां तर्जनैर्घोरैः पुनस्सान्त्वैश्च मैथिलीम्।\nआनयध्वं वशं सर्वा वन्यां गजवधूमिव।।3.56.31।।",
+      "transliteration": "",
+      "translation": "There you all bring her under control through forcing and cajoling as one would do to tame a wild sheelephant.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "इति प्रतिसमादिष्टा राक्षस्यो रावणेन ताः।\nअशोकवनिकां जग्मुर्मैथिलीं परिगृह्य तु।।3.56.32।।\nसर्वकालफलैर्वृक्षैर्नानापुष्पफलैर्वृताम्।\nसर्वकालमदैश्चापि द्विजैस्समुपसेविताम्।।3.56.33।।",
+      "transliteration": "",
+      "translation": "Thus instructed by Ravana, the demonesses took Sita into the Asoka grove, which was full of perenmal fruits and flowers of different kinds, where trees yielded fruits of all seasons and birds were always cheerful.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "सा तु शोकपरीताङ्गी मैथिली जनकात्मजा।\nराक्षसीवशमापन्ना व्याघ्रीणां हरिणी यथा।।3.56.34।।",
+      "transliteration": "",
+      "translation": "Sita, daughter of Janaka, engulfed in grief found herself like a doe under the control of tigresses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "शोकेन महता ग्रस्ता मैथिली जनकात्मजा।\nन शर्म लभते भीरुः पाशबद्धा मृगी यथा।।3.56.35।।",
+      "transliteration": "",
+      "translation": "Sita, daughter of Janaka, immersed in deep grief knew no peace just like a doe caught in a snare.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-56-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "न विन्दते तत्र तु शर्म मैथिली विरूपनेत्राभिर���ीव तर्जिता।\nपतिं स्मरन्ती दयितं च देवतं विचेतनाऽभूद्भयशोकपीडिता।।3.56.36।।",
+      "transliteration": "",
+      "translation": "Sita had no peace as she was threatened excessively by those women of deformed  looks. Remembering her beloved husband who was also her god, and overtaken by fear and grief , she fell unconscious. इतयार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे षटपञ्चाशस्सर्गः।। Thus ends the fiftysixth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

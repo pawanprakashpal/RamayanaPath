@@ -1,0 +1,216 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 35,
+    "title": "Viswamitra narrates the legend of  sacred  Ganga",
+    "titleSanskrit": "",
+    "totalShlokas": 22
+  },
+  "shlokas": [
+    {
+      "id": "v1-35-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "उपास्य रात्रिशेषं तु शोणाकूले महर्षिभि:।\nनिशायां सुप्रभातायां विश्वामित्रोऽभ्यभाषत।।1.35.1।।",
+      "transliteration": "",
+      "translation": "Viswamitra lay on the bank of Sona with the ascetics, for the rest of the night. (Getting up) at daybreak he said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-35-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "सुप्रभाता निशा राम पूर्वा सन्ध्या प्रवर्तते।\nउत्तिष्ठोत्तिष्ठ भद्रं ते गमनायाभिरोचय ।।1.35.2।।",
+      "transliteration": "",
+      "translation": "\"Rama, the night makes way for the dawn. It is time for morning rituals. Arise, arise May the day bring good news Get ready for the onward journey\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-35-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "तच्छ्रुत्वा वचनं तस्य कृत्वा पौर्वाह्णिकीं क्रियाम् ।\nगमनं रोचयामास वाक्यं चेदमुवाच ह।।1.35.3।।",
+      "transliteration": "",
+      "translation": "On hearing his words Rama performed morning oblations and getting ready for the  onward journey spoke:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-35-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "अयं शोणश्शुभजलोऽगाध: पुलिनमण्डित:।\nकतरेण पथा ब्रह्मन् सन्तरिष्यामहे वयम्।।1.35.4।।",
+      "transliteration": "",
+      "translation": "\"O knower of Brahman Clean waters of this river are adorned with sandbanks. This Sona is deep. Which way shall we cross this river?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-35-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु रामेण विश्वामित्रोऽब्रवीदिदम् ।\nएष पन्था मयोद्दिष्टो येन यान्ति महर्षय:।।1.35.5।।",
+      "transliteration": "",
+      "translation": "Having been addressed by Rama thus Viswamitra said, \"We shall take the way the ascetics have gone before\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-35-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "एवमुक्ता महर्षयो विश्वामित्रेण धीमता।\nपश्यन्तस्ते प्रयाता वै वनानि विविधानि च।।1.35.6।।",
+      "transliteration": "",
+      "translation": "With these words of the wise Viswamitra the ascetics moved forward surveying various forests.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-35-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "ते गत्वा दूरमध्वानं गतेऽर्धदिवसे तदा।\nजाह्नवीं सरितां श्रेष्ठां ददृशुर्मुनिसेविताम्।।1.35.7।।",
+      "transliteration": "",
+      "translation": "After travelling a long distance for half a day, they saw Jahnavi, the best among rivers  haunted or worshipped by ascetics.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-35-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तां दृष्ट्वा पुण्यसलिलां हंससारससेविताम्।\nबभूवुर्मुदिता स्सर्वे मुनयस्सह राघवा:।।1.35.8।।",
+      "transliteration": "",
+      "translation": "On seeing the river Ganga with swans and cranes floating on the surface of the  sacred waters, all the sages including the sons of the Raghus (Rama and Lakshmana) were delighted.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-35-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तस्यास्तीरे ततश्चक्रुस्त आवासपरिग्रहम्।\nततस्स्नात्वा यथान्यायं सन्तर्प्य पितृदेवता:।।1.35.9।।\nहुत्वा चैवाग्निहोत्राणि प्राश्य चामृतवद्धवि: ।\nविविशुर्जाह्नवीतीरे शुचौ मुदितमानसा:।।1.35.10।।\nविश्वामित्रं महात्मानं परिवार्य समन्तत:।",
+      "transliteration": "",
+      "translation": "The birds had made the bank of the river their home. They (Rama and Lakshmana) took a dip and offered traditional oblations to ancestors. Thereafter they lighted the sacrificial fire and made customary offerings to the fire and partook of the nectarlike remains. With cheerful hearts they stood round the illustrious Viswamitra and entered the sacred bank of Jahnavi.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-35-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अथ तत्र तदा रामो विश्वामित्रमथाब्रवीत्।।1.35.11।। \nभगवन् श्रोतुमिच्छामि गङ्गां त्रिपथगां नदीम्।\nत्रैलोक्यं कथमाक्रम्य गता नदनदीपतिम्।।1.35.12।।",
+      "transliteration": "",
+      "translation": "Then Rama said to Viswamitra \"O venerable one I wish to know why Ganga flowing in three directions, occupy (purified) the three worlds before entering the sea, the lord of rivers?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-35-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "चोदितो रामवाक्येन विश्वामित्रो महामुनि:।\nवृद्धिं जन्म च गङ्गाया वक्तुमेवोपचक्रमे।।1.35.13।।",
+      "transliteration": "",
+      "translation": "Prompted by Rama's words, maharshi Viswamitra started narrating the account of the birth and progress of river Ganga.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-35-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "शैलेन्द्रो हिमवान्नाम धातूनामाकरो महान्।\nतस्य कन्याद्वयं राम रूपेणाप्रतिमं भुवि।।1.35.14।।",
+      "transliteration": "",
+      "translation": "\"O Rama the great mountain named Himavan is a treasuretrove of ores. He is the king of mountains. He had two daughters, unrivalled in beauty in this world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-35-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "या मेरुदुहिता राम तयोर्माता सुमध्यमा।\nनाम्ना मनोरमा नाम पत्नी हिमवत: प्रिया।।1.35.15।।",
+      "transliteration": "",
+      "translation": "O Rama Himavan's beloved of beautiful waist, wellknown by the name of Manorama is the daughter of Mount Meru. She is the mother to both the daughters.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-35-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तस्यां गङ्गेयमभवज्ज्येष्ठा हिमवतस्सुता।\nउमा नाम द्वितीयाभून्नाम्ना तस्यैव राघव।।1.35.16।।",
+      "transliteration": "",
+      "translation": "O son of the Raghus this Ganga was born to Manorama as Himavan's eldest daughter. A second one  born to him was wellknown by the name of Uma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-35-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "अथ ज्येष्ठां सुरास्सर्वे दे���तार्थचिकीर्षया। \nशैलेन्द्रं वरयामासुर्गङ्गां त्रिपथगां नदीम्।।1.35.17।।",
+      "transliteration": "",
+      "translation": "Thereupon all the devatas desirous of deriving some advantage proposed that the eldest daughter of the king of mountains, Ganga, flowing in three directions be given to them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-35-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "ददौ धर्मेण हिमवान् तनयां लोकपावनीम्।\nस्वच्छन्दपथगां गङ्गां त्रैलोक्यहितकाम्यया।।1.35.18।।",
+      "transliteration": "",
+      "translation": "In order to do good to the three worlds Himavan, rooted in dharma gifted his eldest daughter Ganga who sanctifies the whole world by flowing at her free will৷৷",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-35-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "प्रतिगृह्य ततो देवास्त्रिलोकहितकारिण:।\nगङ्गामादाय तेऽगच्छन् कृतार्थेनान्तरात्मना।।1.35.19।।",
+      "transliteration": "",
+      "translation": "The devatas having received Ganga committed to the welfare of the three worlds went back to their abodes with a sense of fulfilment in their mind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-35-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "या चान्या शैलदुहिता कन्यासीद्रघुनन्दन।\nउग्रं सा व्रतमास्थाय तपस्तेपे तपोधना।।1.35.20।।",
+      "transliteration": "",
+      "translation": "O Delight of the Raghus The other daughter of the mountain Himavan was a maiden whose wealth was tapas. She pursued a vow and observed severe austerities.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-35-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "उग्रेण तपसा युक्तां ददौ शैलवरस्सुताम्।\nरुद्रायाप्रतिरूपाय उमां लोकनमस्कृताम्।।1.35.21।।",
+      "transliteration": "",
+      "translation": "Himavan the best of mountains gave his daughter Uma associated with severe  austerities and venerated by the whole world in marriage to the unrivalled  Rudra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-35-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "एते ते शैलराजस्य सुते लोकनमस्कृते।\nगङ्गा च सरितां श्रेष्ठा उमादेवी च राघव।।1.35.22।।",
+      "transliteration": "",
+      "translation": "O son of the Raghus Ganga, the holiest of rivers and Uma devi  are two daughters of the king of the mountains, (Himavan). They are worshipped by the entire world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-35-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "एतत्ते सर्वमाख्यातं यथा त्रिपथगा नदी।\nखं गता प्रथमं तात गतिं गतिमतां वर ।।1.35.23।।",
+      "transliteration": "",
+      "translation": "O child with a marvellous gait I have related to you about Ganga flowing across the three worlds, Ganga who reached the heaven first and all that.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-35-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "सैषा सुरनदी रम्या शैलेन्द्रस्य सुता तदा।\nसुरलोकं समारूढा विपापा जलवाहिनी।।1.35.24।।",
+      "transliteration": "",
+      "translation": "The divine Ganga, daughter of Himavan, beautiful and sinless, carrying a large volume of water ascended the heavens\". इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे पञ्चत्रिंशस्सर्ग:।। Thus ends the thirtyfifth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

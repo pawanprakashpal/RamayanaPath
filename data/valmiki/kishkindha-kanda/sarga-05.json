@@ -1,0 +1,270 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 5,
+    "title": "Rama and Lakshmana meet Sugriva -- Rama makes friendship with him -- Sugriva reveals the injustice done to him by Vali -- Rama assures him help -- Sugriva promises to send his troops to find Sita.",
+    "titleSanskrit": "",
+    "totalShlokas": 28
+  },
+  "shlokas": [
+    {
+      "id": "v4-5-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ऋश्यमूकात्तु हनुमान्गत्वा तु मलयं गिरिम्।\nआचचक्षे तदा वीरौ कपिराजाय राघवौ4.5.1।।",
+      "transliteration": "",
+      "translation": "Leaving Rishyamuka, Hanuman reached the Malaya mountain. Seeing the chief of monkeys there, he announced the arrival of  the heroic Raghavas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-5-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अयं रामो महाप्राज्ञ स्सम्प्राप्तो दृढविक्रमः।\nलक्ष्मणेन सह भ्रात्रा रामोऽयं सत्यविक्रमः4.5.2।।",
+      "transliteration": "",
+      "translation": "'This Rama of greatwisdom and valour, endowed with the power of truth has arrived here along with his brother Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-5-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "इक्ष्वाकूणां कुले जातो रामो दशरथात्मजः।\nधर्मे निगदितश्चैव पितुर्निर्देशपारगः4.5.3।।",
+      "transliteration": "",
+      "translation": "'Born in the Ikshvaku race Rama Dasaratha's son, distinguished for his righteousness is here to carry out the orders of his father.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-5-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तस्यास्य वसतोऽरण्ये नियतस्य महात्मनः।\nरावणेन हृता भार्या स त्वां शरणमागतः4.5.4।।",
+      "transliteration": "",
+      "translation": "'While the great Rama armed with selfrestraint was living in the forest, his wife was abducted by Ravana. So he has come to you seeing refuge.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-5-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "राजसूयाश्वमेधैश्च वह्निर्येनाभितर्पितः।\nदक्षिणाश्च तथोत्सृष्टा गावश्शतसहस्रशः4.5.5।।\nतपसा सत्यवाक्येन वसुधा येन पालिता।\nस्त्री हेतोस्तस्य पुत्रोऽयं रामस्त्वां शरणं गतः4.5.6।।",
+      "transliteration": "",
+      "translation": "'This Rama, son of a king who had gratified the firegod through many yajnas like  Rajasuya and Aswamedha, gifted hundreds of thousands of cows and ruled this earth with truth and austerity, has come seeking help for a woman.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-5-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "भवता सख्यकामौ तौ भ्रातरौ रामलक्ष्मणौ।\nप्रतिगृह्यार्चयस्वैतौ पूजनीयतमावुभौ4.5.7।।",
+      "transliteration": "",
+      "translation": "'Both the brothers, Rama and Lakshmana seek friendship with you. As both of them are worthiest of worship, welcome them with due reverence.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-5-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "श्रुत्वा हनुमतो वाक्यं सुग्रीवो हृष्टमानसः।\nभयं चराघवाद्घोरं प्रजहौ विगतज्वरः।।4.5.8।।\nसकृत्वा मानुषं रूपं सुग्रीवः प्लवगर्षभः।\nदर्शनीयतमो भूत्वा प्रीत्या प्रोवाच राघवम्4.5.9।।",
+      "transliteration": "",
+      "translation": "Hanuman's words took away Sugriva's great fear for Rama and filled him with cheer. This bull among monkeys gave up his natural appearance and and assuming an attractive human form spoke to Rama lovingly:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-5-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "भवान्धर्मविनीतश्च विक्रान्तस्सर्ववत्सलः।\nआख्याता वायुपुत्रेण तत्त्वतो मे भवद्गुणाः4.5.10।।",
+      "transliteration": "",
+      "translation": "'You are a great hero, affectionate to all and wellversed in all dharmas. The son of the  Windgod has, in fact, apprised me  of your virtues",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-5-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तन्ममैवैष सत्कारो लाभश्चैवोत्तमः प्रभो।\nयत्त्वमिच्छसि सौहार्दं वानरेण मया सह4.5.11।।",
+      "transliteration": "",
+      "translation": "'O Lord that you are eager to have friendship with me, who is a monkey is a great honour and is extremely beneficial to me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-5-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "रोचते यदि वा सख्यं बाहुरेष प्रसारितः।\nगृह्यतां पाणिना पाणिर्मर्यादा बध्यतां ध्रुवा4.5.12।।",
+      "transliteration": "",
+      "translation": "'If you are desirous of my friendship, here is my arm (palm) stretched out to you. With due regard, establish our bond firmly, holding my palm in yours.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-5-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "एतत्तु वचनं श्रुत्वा सुग्रीवेण सुभाषितम्।\nसम्प्रहृष्टमना हस्तं पीडयामास पाणिना4.5.13।।\nहृद्यं सौहृदमालम्ब्यपर्यष्वजत पीडितम्।",
+      "transliteration": "",
+      "translation": "Rama became very happy to hear Sugriva's warm words and pressed his hand with his. Delighted, he went close  to Sugriva and hugged him tightly and  affectionately.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-5-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "ततो हनूमान्सन्त्यज्य भिक्षुरूपमरिन्दमः।।4.5.14।।\nकाष्ठयोस्स्वेन रूपेण जनयामास पावकम्।\nदीप्यमानं ततो वह्निं ह्निं पुष्पैरभ्यर्च्य सत्कृतम्4.5.15।।\nतयोर्मध्येऽथ सुप्रीतो निदधे सुसमाहितः।",
+      "transliteration": "",
+      "translation": "Then, Hanuman vanquisher of enemies, gave up his guise of a mendicant, assumed his natural form and generated fire by rubbing two pieces of wood. Wellpleased at heart, he made an offering of flowers to the flaming fire and placed it between them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-5-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "ततोऽग्निं दीप्यमानं तौ चक्रतुश्च प्रदक्षिणम्।।4.5.16।।\nसुग्रीवो राघवश्चैव वयस्यत्वमुपागतौ।",
+      "transliteration": "",
+      "translation": "They both circumambulated the blazing fire and solemnized their friendship.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-5-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "ततस्सुप्रीतमनसौ तावुभौ हरिराघवौ4.5.17।।\nअन्योन्यमभिवीक्षन्तौ न तृप्तिमुपजग्मतुः।",
+      "transliteration": "",
+      "translation": "Rama and the monkey contented at heart, yet not fully content, continued looking at each other.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-5-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "त्वं वयस्योऽसि मे हृद्यो ह्येकं दुःखं सुखं च नौ4.5.18।।\nसुग्रीवो राघवं वाक्यमित्युवाच प्रहृष्टवत्।",
+      "transliteration": "",
+      "translation": "'You are a dear friend to me. Your sorrow is my sorrow, your pleasure is my  pleasure. We are one and the same' said Sugriva to Rama, his heart overflowing with happiness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-5-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "ततस्सुपर्णबहुलां छित्वा शाखां सुपुष्पिताम्4.5.19।।\nसालस्यास्तीर्य सुग्रीवो निषसाद सराघवः।",
+      "transliteration": "",
+      "translation": "Then Sugriva cut the branch of a sala tree with luxuriant leaves and flowers, spread it on the ground and sat down along with Raghava.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-5-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "लक्ष्मणायाथ संहृष्टो हनूमान् प्लवगर्षभः4.5.20।।\nशाखां चन्दनवृक्षस्य ददौ परमपुष्पिताम्।",
+      "transliteration": "",
+      "translation": "Then Hanuman, the bull among monkeys, felt very happy, cut the branch of a sandalwood tree full of flowers and gave it to Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-5-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "ततः प्रहृष्टस्सुग्रीवः श्लक्ष्णं मधुरया गिरा4.5.21।।\nप्रत्युवाच तदा रामं हर्षव्याकुललोचनः।",
+      "transliteration": "",
+      "translation": "Then Sugriva, eyes sparkling with joy, replied to Rama in a sweet, gentle voice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-5-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "अहं विनिकृतो राम चरामीह भयार्दितः4.5.22।।\nहृतभार��यो वने त्रस्तो दुर्गमेतदुपाश्रितः।",
+      "transliteration": "",
+      "translation": "'O Rama, I have been insulted deeply and my wife hijacked. Stricken with fear I have taken refuge in this inaccessible forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-5-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "सोऽहं त्रस्तो वने भीतो वसाम्युद्भ्रान्तचेतनः4.5.23।।\nवालिना निकृतो भ्रात्रा कृतवैरश्च राघव।",
+      "transliteration": "",
+      "translation": "'O Rama humiliated by my brother Vali, I have developed enmity with him. Terribly distraught and disturbed I live in this forest in great fear.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-5-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "वालिनो मे महाभाग भयार्तस्याभयं कुरु4.5.24।।\nकर्तुमर्हसि काकुत्स्थ भयं मे न भवेद्यथा।",
+      "transliteration": "",
+      "translation": "'O reverend Kakutstha, I feel helpless with fear from Vali. Save me. You should release me free from fear.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-5-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु तेजस्वी धर्मज्ञो धर्मवत्सलः4.5.25।।\nप्रत्यभाषत काकुत्स्थ: सुग्रीवं प्रहसन्निव।",
+      "transliteration": "",
+      "translation": "The righteous and glorious Rama to whom dharma is very dear said to Sugriva with a gentle smile on his face, when he was entreated thus:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-5-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "उपकारफलं मित्रं विदितं मे महाकपे4.5.26।।\nवालिनं तं वधिष्यामि तव भार्यापहारिणम्।",
+      "transliteration": "",
+      "translation": "'O great monkey I know friendship is the fruit of a beneficial deed. I will kill that Vali who has usurped your wife.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-5-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "अमोघास्सूर्यसङ्काशा ममैते निशिताश्शराः4.5.27।।\nतस्मिन्वालिनि दुर्वृत्ते निपतिष्यन्ति वेगिताः।\nकङ्कपत्रप्रतिच्छन्ना महेन्द्राशनिसन्निभाः4.5.28।।\nतीक्ष्णाग्रा ऋजुपर्वाणस्सरोषा भुजगा इव।",
+      "transliteration": "",
+      "translation": "'These arrows covered with kanka feathers, sharp and straight at the tip, comparable to great Indra's thunderbolt are (burning bright) like the sun. Looking like angry serpents, they will unfailingly strike at the miscreant Vali soon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-5-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तमद्य वालिनं पश्य तीक्ष्णैराशीविषोपमैः4.5.29।।\nशरैर्विनिहतं भूमौ विकीर्णमिव पर्वतम्।",
+      "transliteration": "",
+      "translation": "'With these sharp, serpentlike arrows Vali will be killed. He will fall down on the ground like a mountain shattered.You will see it now'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-5-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "स तु तद्वचनं श्रुत्वा राघवस्यात्मनो हितम्4.5.30।।\nसुग्रीवः परमप्रीतस्सुमहद्वाक्यमब्रवीत्।",
+      "transliteration": "",
+      "translation": "Sugriva, very much pleased with the words of Rama, spoke highly (of him).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-5-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "तव प्रसादेन नृसिंह राघव\nप्रियां च राज्यं च समाप्नुयामहम्। \nतथा कुरु त्वं नरदेव वैरिणं\nयथा निहंस्यद्य रिपुंममाग्रजम्4.5.31।।",
+      "transliteration": "",
+      "translation": "'O Rama, by your grace I will get my wife and kingdom back. O king accomplish this so that I can destroy my, elder brother, my enemy, O lion among men",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-5-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "सीता कपीन्द्रक्षणदाचराणां\nराजीवहेमज्वलनोपमानि।\nसुग्रीवरामप्रणयप्रसङ्गे\nवामानि नेत्राणि समं स्फुरन्ति4.5.32।।",
+      "transliteration": "",
+      "translation": "While Sugriva was making a friendly alliance with Rama, Sita's left eye, like lotus, Vali's left eye glittering like gold and Ravana's left eye blazing (like fire) twitched at the same time for a moment (Twitching of left eye is considered auspicious to a woman and ominous to a man). इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिक���व्ये किष्किन्धाकाण्डे पञ्चमस्सर्गः।। Thus ends the fifth sarga of Kishkindakanda of the Holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

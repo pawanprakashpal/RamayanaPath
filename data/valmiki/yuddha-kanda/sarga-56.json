@@ -1,0 +1,369 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 56,
+    "title": "Hanuman kills Akampana in the fight.",
+    "titleSanskrit": "",
+    "totalShlokas": 39
+  },
+  "shlokas": [
+    {
+      "id": "v6-56-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तद्दृष्टवासुमहत्कर्मकृतंवानरतस्तमैः ।\nक्रोधमाहारयामासयुधितीव्रमकम्पनः ।।6.56.1।।",
+      "transliteration": "",
+      "translation": "Observing the great action and accomplishment of the foremost Vanaras in the battle, Akampana exhibited violent anger.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "क्रोधमूर्चितरूपस्तुधून्वन्परमकार्मुकम् ।\nदृष्टवातुकर्मशत्रूणांसारथिंवाक्यमब्रवीत् ।।6.56.2।।",
+      "transliteration": "",
+      "translation": "Looking at the deeds of enemies, deluded with violent anger, Akampana spoke these words holding the bow and looking at the charioteer.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "तत्त्त्वैतावत्त्वरितंरथंप्रापयसारथे ।\nयत्रैतेबहवोघ्नन्तिसुबहून्राक्षसान्रणे ।।6.56.3।।",
+      "transliteration": "",
+      "translation": "\"O Charioteer, quickly drive the chariot to that place where many Rakshasas are destroyed in the battle.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "एतेऽत्रबलवन्तोहिभीमकोपाश्चवानराः ।\nद्रुमशैलप्रहरणास्तिष्ठन्तिप्रमुखेमम ।।6.56.4।।",
+      "transliteration": "",
+      "translation": "\"Those Vanaras are mighty and terribly angry. They are using trees and hillocks as weapons. Take me where chiefs are standing.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "एतान्निहन्तुमिच्छामिसमरश्लाघिनोह्यहम् ।\nएतैःप्रमथितंसर्वंदृश्यतेराक्षसांबलम् ।।6.56.5।।",
+      "transliteration": "",
+      "translation": "\"I wish to see the end of Vanaras who boast of their warfare. The entire Rakshasa army is destroyed by them.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "ततःप्रजवनाश्वेनरथेनरथिनांवरः ।\nहरीनभ्यहनत्क्रोधाच्छरजालैकम्पनः ।।6.56.6।।",
+      "transliteration": "",
+      "translation": "Then Akampana seated in the chariot drawn by fast moving horses, assailed the Vanaras with a network of arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "नस्थातुंवानराश्शेकुःकिंपुनर्योद्धुमाहवे ।\nअकम्पनशरैर्भग्नास्सर्वएवविदुद्रुवुः ।।6.56.7।।",
+      "transliteration": "",
+      "translation": "The Vanaras could not counter or stand nor fight in battle. What to say more? Shattered by Akampana's arrows, they all took to their heels.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तान्मृत्युवशमापन्नानकम्पनवंशगतान् ।\nसमीक्ष्यहनुमान्ज्ञातीनुपतस्थेमहाबलः ।।6.56.8।।",
+      "transliteration": "",
+      "translation": "Having observed that Vanaras are fallen under the sway of Akampana and under the sway of death, mighty Hanuman approached Akampana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तंमहाप्लवगंदृष्टवासर्वेतेप्लवगयूथपा: ।\nसमेत्यसमरेवीरास्सहिताःपर्यवारयन् ।।6.56.9।।",
+      "transliteration": "",
+      "translation": "Seeing the great monkey, the Vanara troops got together and surrounded him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अवस्थितंहनूमन्तंतेदृष्टवाहरियूथपा: ।\nबभूवुर्बलवन्तोहिबलवन्तंसमाश्रिताः ।।6.56.10।।",
+      "transliteration": "",
+      "translation": "Seeing Hanuman, the monkey leaders took their shelter under him, got established firmly and became strong.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "अकम्पनस्तुशैलाभंहनूमन्तमवस्थितम् ।\nमहेन्द्रइवदाराभिश्शरैरभिववर्षह ।।6.56.11।।",
+      "transliteration": "",
+      "translation": "On Akampana, who was well established like a mountain, mighty Hanuman showered torrents of arrows like Indra showered rain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अचिन्तयित्वाबाणौघान् शरीरेपतितान्शितान् ।\nअकम्पनवधार्थायमनोदध्रेमहाबलः ।।6.56.12।।",
+      "transliteration": "",
+      "translation": "Mighty Hanuman unmindful of the volley of arrows pierced in his body thought in his mind only about the destruction of Akampana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "सप्रहस्यमहातेजाहनुमान् मारुतात्मजः ।\nअभिदुद्रावतद्रक्षःकम्पयन्निवमेदिनीम् ।।6.56.13।।",
+      "transliteration": "",
+      "translation": "Hanuman, the highly energetic son of Maruthi laughing, sprung up causing the earth to shake and rushed to that Rakshasa.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तस्याभिनर्दमानस्यदीप्यमानस्यतेजसा ।\nबभूवरूपंदुर्धर्षंदीप्तस्येवविभावसोः ।।6.56.14।।",
+      "transliteration": "",
+      "translation": "As he roared, his brilliance was blazing, his form was burning and became formidable for others to be at him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "आत्मानंमप्रहरणंज्ञात्वाक्रोधसमन्वितः ।\nशैलमुत्पाटयामासवेगेनहरिपुङ्गवः ।।6.56.15।।",
+      "transliteration": "",
+      "translation": "Vanara leader himself knowing that he is without any weapon, full of anger took up a mountain quickly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "गृहीत्वातंमहाशैलंपाणिनैकेनमारुतिः ।\nसविनद्यमहानादंभ्रामयामासवीर्यवान् ।।6.56.16।।",
+      "transliteration": "",
+      "translation": "He, the heroic Maruthi, with one hand alone taking a huge mountain whirled round making loud noises.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "ततस्तमभिदुद्रावराक्षसेन्द्रमकम्पनम् ।\nपुराहिनमुचिंसङ् ख्येवज्रेणेवपुरन्दरः ।।6.56.17।।",
+      "transliteration": "",
+      "translation": "Then he went to Akampana and tormented him just as Indra did with his thunderbolt to Namuchi.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अकम्पनस्तुतद्दृष्टवागिरिशृङ्गंसमुद्यतम् ।\nदूरादेवमहाबाणैरर्धचन्द्रैर्व्यदारयत् ।।6.56.18।।",
+      "transliteration": "",
+      "translation": "Seeing the peak of the mountain uplifted, Akampana also discharged halfmoon shaped great arrows from a distance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तत्पर्वताग्रमाकाशेरक्षोबाणविदारितम् ।\nविकीर्णंपतितंदृष्टवाहनुमान्क्रोधमूर्छितः ।।6.56.19।।",
+      "transliteration": "",
+      "translation": "Hanuman seeing the peak of the mountain broken into pieces by Rakshasa's arrows and fallen was deluded with anger.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "सोऽश्वकर्णंसमासाद्यरोषदर्पान्वितोहरिः ।\nतूर्णमुत्पाटयामासमहागिरिमिवोच्छ्रितम् ।।6.56.20।।",
+      "transliteration": "",
+      "translation": "He (Hanuman) filled with pride and anger quickly uprooted an Aswakarana tree as huge as a mountain and held it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तंगृहीत्वामहास्कन्धंसोऽश्वकर्णंमहाद्युतिः ।\nप्रहस्यपरयाप्रीत्याभ्रामयामासभूतले ।।6.56.21।।",
+      "transliteration": "",
+      "translation": "He (Hanuman) endowed with great splendour, seizing a huge trunk of Aswakarana tree with great delight, whirled it round on the ground laughing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "प्रधावन्नूरुवेगेनप्रभञ्जंस्तरसाद्रुमान् ।\nहनूमान्परमक्रुद्धश्चरणैर्दारयत्क्षितम् ।।6.56.22।।",
+      "transliteration": "",
+      "translation": "Highly enraged Hanuman was running at high speed that his feet were seen breaking the trees and cleaving the earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "गजांश्चसगजारोहान्सरथान्रथिनस्तथा ।\nजघानहनुमान् भीमान् राक्षसांश्चपदातिगान् ।।6.56.23।।",
+      "transliteration": "",
+      "translation": "Hanuman struck the mahouts, elephants, similarly the chariots and riders of chariots as well as the terrific Rakshasas who fought standing on feet.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "तमन्तकमिवक्रुद्धंसद्रुमंप्राणहारिणम् ।\nहनूमन्तमभिप्रेक्ष्यराक्षसाविप्रदुद्रुवुः ।।6.56.24।।",
+      "transliteration": "",
+      "translation": "Hanuman, enraged like the spirit of death, took their life (Rakshasas) armed with trees and on seeing him the Rakshasas took to their heels.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तमापतन्तंसङ्कृद्धंराक्षसानांभयावहम् ।\nददर्शाकम्पनोवीरश्चुक्षोधचननादच ।।6.56.25।।",
+      "transliteration": "",
+      "translation": "The heroic Akampana saw Hanuman coming towards him very angry. Fearing Hanuman, the Rakshasas ran roaring in fear.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "सचतुर्दशभिर्बाणैश्शितैर्देहविदारणैः ।\nनिर्बिभेदहनूमन्तंमहावीर्यमकम्पनः ।।6.56.26।।",
+      "transliteration": "",
+      "translation": "With fourteen pointed powerful arrows, Akampana tormented and split the body of Hanuman.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "सतदाप्रतिविद्धस्तुबह्वीभिश्शरवृष्टभिः ।\nहनूमान्ददृशेवीरःप्ररूढइवसानुमान् ।।6.56.27।।",
+      "transliteration": "",
+      "translation": "Valiant Hanuman, even though interrupted several times with rain of arrows, stood still like a mountain full of trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "विरराजमहाकायोमहावीर्योमहामना: ।\nपुष्पिताशोकसङ्काशोविधूमइवपावकः ।।6.56.28।।",
+      "transliteration": "",
+      "translation": "The gigantic Hanuman, exceedingly valiant and courageous one shone like a fully blossomed Ashoka tree, resembled smokeless fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "ततोऽन्यंवृक्षमुत्पाट्यकृत्वावेगमनुत्तमम् ।\nशिरस्यभिजघानाशुराक्षसेन्द्रमकम्पनम् ।।6.56.29।।",
+      "transliteration": "",
+      "translation": "Then Hanuman performed another supreme deed by uprooting a tree and striking on the head of Akampana, the chief of Rakshasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "सवृक्षेणहतस्तेनसक्रोधेनमहात्मना ।\nराक्षसोवानरेन्द्रेणपपातचममारच ।।6.56.30।।",
+      "transliteration": "",
+      "translation": "Reacting in anger the great Vanara chief struck the Rakshasa with a tree, by which the Rakshasa fell down dead.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "तंदृष्टवानिहतंभूमौराक्षसेन्द्रमकम्पनम् ।\nव्यथिताराक्षसास्सर्वेक्षितिकम्पइवद्रुमाः ।।6.56.31।।",
+      "transliteration": "",
+      "translation": "Seeing Akampana lying dead on the ground, the Rakshasas were shaken like the trees in the earthquake and were distressed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "त्यक्तप्रहरणास्सर्वेराक्षसास्तेपराजिताः ।\nलङ्कामभिययुस्त्रस्तावानरास्तैभिद्रुताः ।।6.56.32।।",
+      "transliteration": "",
+      "translation": "Abandoning weapons, all Rakshasas having been defeated, chased by the Vanaras, frightened, ran away into Lanka.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "तेमुक्तकेशाःसम्भ्रान्ताभग्नमानाःपराजिताः ।\nस्रवच्छ्रमजलैरङ्गैश्श्वसन्तोविप्रदुद्रुवुः ।।6.56.33।।",
+      "transliteration": "",
+      "translation": "Perplexed, broken hearted, defeated, hair loosened the Rakshasas sweating all over their limbs, sighing heavily ran away very fast.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "अन्योन्यंप्रममन्थुस्तेविविशुर्नगरंभयात् ।\nपृष्ठतस्तेतुसम्मूढाःप्रेक्षमाणामुहुर्मुहुः ।।6.56.34।।",
+      "transliteration": "",
+      "translation": "Again, and again looking back in fear, covertly, bewildered, crushing one another, they went into the Lanka city.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "तेषुलङ्कांप्रविष्टेषुराक्षसेषुमहाबलाः ।\nसमेत्यहरयस्सर्वेहनूमन्तमपूजयन् ।।6.56.35।।",
+      "transliteration": "",
+      "translation": "Those Rakshasas, endowed with prowess, on entering Lanka got together and paid respects to Hanuman.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "सोऽपिप्रहृष्टस्तान् सर्वान् हरीन् सम्प्रत्यपूजयत् ।\nहनुमान्सत्त्वसम्पन्नोयथार्हमनुकूलतः ।।6.56.36।।",
+      "transliteration": "",
+      "translation": "Hanuman also who was richly endowed with goodness greatly honoured all the Vanaras accordingly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "विनेदुश्चयथाप्राणंहरयोजितकाशिनः ।\nचकर्षुश्चपुनस्तत्रसप्राणानपिराक्षसान् ।।6.56.37।।",
+      "transliteration": "",
+      "translation": "In an atmosphere of triumph, the monkeys sportively shouted again saying that they are willing to give up their life also.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "सवीरशोभामभजन्महाकपिःसमेत्यरक्षांसिनिहत्यमारुतिः ।\nमहासुरंभीमममित्रनाशनःयथैवविष्णुर्बलिनंचमूमुखे ।।6.56.38।।",
+      "transliteration": "",
+      "translation": "Great Vanara, Maruti shone like a triumphant hero and saviour in front of the army, just as Lord Vishnu, the Lord of Devatas shone after killing the foes (demons).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-56-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "अपूजयन्देवगणास्तदाकपिंस्वयंचरामोऽतिबलश्चलक्ष्मणः ।\nतथैवसुग्रीवमुखाःप्लवङ्गमाविभीषणश्चैवमहाबलस्तथा ।।6.56.39।।",
+      "transliteration": "",
+      "translation": "Thereafter Rama with the army of Devatas, Atibala and Lakshmana, in the same way Sugriva, the army chief, so also, Vibheeshana of exceeding might praised Hanuman. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेषटपञ्चाशस्सर्गः ।। This is the end of the fifty sixth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

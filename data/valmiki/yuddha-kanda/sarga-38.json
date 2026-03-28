@@ -1,0 +1,144 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 38,
+    "title": "Sri Rama climbs up to Suvela mountain along with Lakshmana, Sugriva, Vibheeshana and surveys the city of Lanka from there. The Vanaras roar at the top of their voice and all of them spend the night on top of the Suvela mountain.",
+    "titleSanskrit": "",
+    "totalShlokas": 14
+  },
+  "shlokas": [
+    {
+      "id": "v6-38-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "सतु��ृत्वासुवेलस्यमतिमारोहणंप्रति ।\nलक्ष्मणानुगतोरामःसुग्रीवमि��मब्रवीत् ।।6.38.1।।\nविभीषणंचधर्मज्ञमनुरक्तंनिशाचरम् ।\nमन्त्रज्ञंचविधिज्ञंचश्लक्क्ष्णयापरयागिरा ।।6.38.2।।",
+      "transliteration": "",
+      "translation": "Rama, the well wisher of Lakshmana climbing up the Suvela mountain thought in his mind and thus spoke to Sugriva and the righteous, affectionate Vibheeshana, a counsellor, knower of right action and facts of Lanka, and a respectable enemy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-38-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "सुवेलंसाधुशैलेन्द्रमिमंधातुशतैश्चितम् ।\nअध्यारोहामहेसर्वेवत्स्यामोऽत्रनिशामिमाम् ।।6.38.3।।",
+      "transliteration": "",
+      "translation": "\"We shall all climb up this Suvela mountain captivating with hundreds of minerals and remain there tonight.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-38-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "लङ्कांचालोकयिष्यामोनिलयंतस्यरक्षसः ।\nयेनमेमरणान्तायहृताभार्यादुरात्मना ।।6.38.4।।\nयेनधर्मोनविज्ञातोनतद्वृत्तंनकुलंतथा ।\nराक्षस्यानीचयाबुद् ध्यायेनतद्गर्हितंकृतम् ।।6.38.5।।",
+      "transliteration": "",
+      "translation": "\"We shall see Lanka the abode of Rakshasa by whom, who is evil minded as he is to face death, has stolen my consort not knowing, who turned away from righteous duty not knowing the race with lowly Rakshasa mentality, who is immoral.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-38-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तस्मिन्मेवर्ततेरोषःकीर्तितेराक्षसाधमे ।\nयस्यापराधाननीचस्यवधंद्रक्ष्यामिरक्षसाम् ।।6.38.6।।",
+      "transliteration": "",
+      "translation": "\"My wrath is aroused by the mention of the name of lowly Rakshasa. Because of his mistakes all Rakshasas are to be exterminated now.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-38-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "एकोहिकुरुतेपापंकालपाशवशंगतः ।\nनीचेनात्मापचारेणकुलंतेनविनश्यति ।।6.38.7।।",
+      "transliteration": "",
+      "translation": "\"Only one has done that sin and fallen into the noose of death. Because of one Rakshasa's mistake the race will perish.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-38-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "एवंसम्मन्त्रयन्नेवसक्रोधोरावणंप्रति ।\nरामःसुवेलमासाद्यचित्रसानुमुपारुहत् ।।6.38.8।।",
+      "transliteration": "",
+      "translation": "Talking about Ravana in that manner, Rama climbed the captivating slopes of Suvela to rest there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-38-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "पृष्ठतोलक्ष्मणश्चैवमन्वगच्छत्समाहितः ।\nसशरंचापमुद्यम्यसुमहद्विक्रमेरतः ।।6.38.9।।\nअन्वारोहत्सुग्रीवस्सामात्यस��सविभीषणः ।",
+      "transliteration": "",
+      "translation": "Heroic and alert Lakshmana also holding his great bow, followed. His ministers and Vibheeshana and Sugriva also followed him up.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-38-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "हनुमानङ्गदोनीलोमैन्दोद्विविदएवच ।।6.38.10।।\nगजोगवाक्षोगवयश्शरभोगन्धमादनः ।\nपनसःकुमुदश्चैवहरोरम्भश्चयूथपः ।।6.38.11।।\nजाम्बवांश्चसुषेणश्चऋषभश्चमहामतिः ।\nदुर्मुखश्चमहातेजास्तथाशतवलिःकपिः ।।6.38.12।।\nएतेचान्येचबहवोवानराशशीघ्रगामिनः ।\nतेवायुवेगप्रवणास्तंगिरिगिरिचारिणः ।।6.38.13।।\nअध्यारोहन्तशतशस्सुवेलंयत्रराघवः ।",
+      "transliteration": "",
+      "translation": "Hanuman, Angada, Neela, Mainda, Dwivida, Gandhamadana, Panasa, Kumuda, Hara. Rambhu, Jambhavan, Sushena, intelligent Rshaba, highly energetic Durmukha and Satavali and similarly swift footed Vanaras, mountain rangers and those who can move at wind speed, all of them in hundreds ascended the Suvela mountain following Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-38-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तेत्वदीर्घेणकालेनगिरिमारुह्यसर्वतः ।।6.38.14।।\nददृशुशशिखरेतस्यविषक्तामिवखेपुरीम् ।",
+      "transliteration": "",
+      "translation": "All of them in no time ascended the mountain peak and saw the city of Lanka which was as if clinging closely to the sky and hanging.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-38-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तांशुभांप्रवरद्वारांप्राकारपरिशोभिताम् ।।6.38.15।।\nलङ्कांराक्षससम्पूर्णांददृशुर्हरियूथपाः ।",
+      "transliteration": "",
+      "translation": "The vanara heroes witnessed beautiful gateways, captivating boundaries of auspicious Lanka filled all over with rakshasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-38-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "प्राकारवरसंस्थैश्चतथानीलैश्चराक्षसैः ।।6.38.16।।\nददृशुस्तेहरिश्रेष्ठाःप्राकारमपरंकृतम् ।",
+      "transliteration": "",
+      "translation": "The best of vanaras saw dark coloured rakshasas who stood like another boundary in a row.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-38-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "तेदृष्टवावानराःसर्वेराक्षसान् युद्धकाङ् क्षिणः ।।6.38.17।।\nमुमुचुर्विविधान्नादांतत्ररामस्यपश्यतः ।",
+      "transliteration": "",
+      "translation": "All the vanaras saw the rakshasas eager for war, and as Rama stood looking at them many kinds of clamours were heard.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-38-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "ततोऽस्तमगमत्पूर्यःसन्ध्ययाप्रतिरञ्जितः ।।6.38.18।।\nपूर्णचन्द्रप्रदीप्ताचक्षपासमभिवर्तते ।",
+      "transliteration": "",
+      "translation": "Thereafter the Sun had set in, and twilight reddened. Full moon started shining as night had set in.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-38-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "ततस्सरामोहरिवाहिनीपतिर्विभीषणेनप्रतिनन्द्यसत्कृतः ।\nसलक्ष्मणोयूथपयूथसम्वृतस्सुवेलपृष्ठेन्यवसद्यथासुखम् ।।6.38.19।।",
+      "transliteration": "",
+      "translation": "Thereafter, Rama, the leader of Vanara troops happily rested on Suvela peak after Vibheeshana and Lakshmana duly offered their prayers. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेअष्टात्रिंशस्सर्गः ।। This is the end of the thirty eighth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

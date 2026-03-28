@@ -1,0 +1,288 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 37,
+    "title": "Countless monkeys report to Sugriva",
+    "titleSanskrit": "",
+    "totalShlokas": 30
+  },
+  "shlokas": [
+    {
+      "id": "v4-37-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु सुग्रीवो लक्ष्मणेन महात्मना।\nहनूमन्तं स्थितं पार्श्वे सचिवन्त्विदमब्रवीत्।।4.37.1।।",
+      "transliteration": "",
+      "translation": "Having heard the great Lakshmana Sugriva said to Hanuman, the minister who stood by his side:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-37-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "महेन्द्रहिमवद्विन्ध्यकैलासशिखरेषु च।\nमन्दरे पाण्डुशिखरे पञ्चशैलेषु ये स्थिताः।।4.37.2।।\nतरुणादित्यवर्णेषु भ्राजमानेषु सर्वतः।\nपर्वतेषु समुद्रान्ते पश्चिमायां च ये दिशि।।4.37.3।।\nआदित्यभवने चैव गिरौ सन्ध्याभ्रसन्निभे।\nपद्मातालवनं भीमं संश्रिता हरिपुङ्गवाः।।4.37.4।।\nअञ्जनाम्बुदसङ्काशाः कुञ्जरप्रतिमौजसः।\nअञ्जने पर्वते चैव ये वसन्ति प्लवङ्गमाः।।4.37.5।।\nमनश्शिला गुहावासा वानराः कनक��्रभाः।\nमेरुपार्श्वगताश्चैव ये धूम्रगिरिं संश्रिताः।।4.37.6।।\n���रुणादित्यवर्णाश्च पर्वते ये महारुणे।\nपिबन्तो मधुमैरेयं भीमवेगाः प्लवङ्गमाः।।4.37.7।।\nवनेषु च सुरम्येषु सुगन्धिषु महत्सु च।\nतापसानां च रम्येषु वनान्तेषु समन्ततः।।4.37.8।।\nतांस्तां स्त्वमानय क्षिप्रं पृथिव्यां सर्ववानरान्।\nसामदानादिभि: स्सर्वैराशु प्रेषय वानरान्।।4.37.9।।",
+      "transliteration": "",
+      "translation": "'Send for the monkeys residing at the five mountains of Mahendra, Himavan, Vindhya, Kailasa and the whitepeaked mount Mandara those monkeys residing on the western mountains, on the sea shore and on mount Udaya shining like the rising Sun monkeys like dark clouds shining in the twilight Sun those at the fierce Padmatala garden and those at the Anjana mountain who  resemble dark clouds like collyrium  and are as strong as elephants those monkeys of golden complexion residing at the red arsenic mountain caves beside mount Meru those on mount Meru and Dhumra who are of bright red colour like the rising Sun drinking liquor Maireya the monkeys of terrific speed at mount Maharuna those staying at the delightful hermitages in the forests, and those living on the ground all must be cajoled and persuaded to report at once.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-37-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "प्रेषिताः प्रथमं ये च मयादूता महाजवाः।\nत्वरणार्थं तु भूयस्त्वं हरीन् सम्प्रेषयापरान्।।4.37.10।।",
+      "transliteration": "",
+      "translation": "'This is in addition to the monkeys for whom swiftfooted messengers have already been sent.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-37-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "ये प्रसक्ताश्च कामेषु दीर्घसूत्राश्च वानराः।\nइहाऽनयस्व तान् सर्वान् शीघ्रं तु मम शासनात्।।4.37.11।।",
+      "transliteration": "",
+      "translation": "'Get all the monkeys including those engaged in carnal pleasures and those slow in movement all at once on my command.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-37-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "अहोभिर्दशभिर्ये च नागच्छन्ति ममाज्ञया।\nहन्तव्यास्ते दुरात्मानो राजशासनदूषकाः।।4.37.12।।",
+      "transliteration": "",
+      "translation": "'Kill those evilminded ones within ten days for disobeying the royal orders.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-37-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "शतान्यथ सहस्राणां कोट्यश्च मम शासनात्।\nप्रयान्तु कपिसिंहानां दिशो मम मते स्थिताः।।4.37.13।।",
+      "transliteration": "",
+      "translation": "'The hundreds of thousands of crores of obedient lionlike monkeys should proceed in all directions at my command.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-37-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "मेघपर्वतसङ्काशाश्छादयन्त इवाम्बरम्।\nघोररूपाः कपिश्रेष्ठा यान्तु मच्छासनादितः।।4.37.14।।",
+      "transliteration": "",
+      "translation": "'Fierce monkeys, comparable to clouds and mountains in appearance shall go as though covering the sky from here at my command.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-37-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "ते गतिज्ञा गतिं ज्ञात्वा पृथिव्यां सर्ववानराः।\nआनयन्तु हरीन् सर्वांस्त्वरिता शसनान्मम।।4.37.15।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-37-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तस्य वानर राजस्य श्रुत्वा वायुसुतो वचः।\nदिक्षु सर्वासु विक्रान्तान्प्रेषयामास वानरान्।।4.37.16।।",
+      "transliteration": "",
+      "translation": "Having heard Sugriva's command, Hanuman, son of the Windgod, sent powerful monkeys in all directions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-37-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "ते पदं विष्णुविक्रान्तं पतत्रिज्योतिरध्वगाः।\nप्रयाताः प्रहिता राज्ञा हरयस्तत्क्षणेन वै।।4.37.17।।",
+      "transliteration": "",
+      "translation": "The monkeys ordered by the king, traversed the pathway of birds and heavenly bodies, the path Lord Visnu had trod. [Note: the sky is called Vishnupada since Lord Visnu set his foot on the sky in his incarnation as Vamana.]",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-37-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "ते समुद्रेषु गिरिषु वनेषु च सरस्सु च।\nवानरा वानरान्सर्वान्रामहेतोरचोदयन्।।4.37.18।।",
+      "transliteration": "",
+      "translation": "The messenger monkeys drove in all those living on the sea shore, mountains, forests as well as banks of lakes in order to serve the cause of Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-37-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "मृत्युकालोपमस्याऽज्ञां राजराजस्य वानराः।\nसुग्रीवस्याययु श्श्रुत्वा सुग्रीवभयदर्शिनः।।4.37.19।।",
+      "transliteration": "",
+      "translation": "In response to the command of the king, who was like death to them, the monkeys came at once, driven by fear from Sugriva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-37-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "ततस्तेऽञ्जनसङ्काशा गिरेस्तस्मान्महाजवाः।\nतिस्रः कोट्यः प्लवङ्गा���ां निर्ययुर्यत्र राघवः।।4.37.20।।",
+      "transliteration": "",
+      "translation": "Then three crores of swiftfooted monkeys, dark like collyrium, rushed forth to the mountain to meet Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-37-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "अस्तं गच्छति यत्रार्कस्तस्मिन्गिरिवरे स्थिताः।\nसन्तप्त हेममहाभासस्तस्मात्कोट्यो दश च्युताः।।4.37.21।।",
+      "transliteration": "",
+      "translation": "Ten crores of monkeys shining like pure molten gold, staying on the best of mountains where the Sun sets moved towards Kishkinda.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-37-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "कैलासशिखरेभ्यश्च सिंहकेसरवर्चसाम्।\nततः कोटिसहस्राणि वानराणामुपागमन्।।4.37.22।।",
+      "transliteration": "",
+      "translation": "From the peaks of Kailasa mountain moved out one thousand crores of monkeys who were of bright colour like the lion's mane.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-37-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "फलमूलेन जीवन्तो हिमवन्तमुपाश्रिताः।\nतेषां कोटिसहस्राणां सहस्रं समवर्तत।।4.37.23।।",
+      "transliteration": "",
+      "translation": "Then monkeys residing at mount Himavan feeding on fruits and roots came in thousands of crores. (This number is called Shankha 1000,000,000,000,0, it is one digit higher than Mahapadma.)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-37-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अङ्गारकसमानानां भीमानां भीमकर्मणाम्।\nविन्ध्याद्वानरकोटीनां सहस्राण्यपतन्द्रुतम्।।4.37.24।।",
+      "transliteration": "",
+      "translation": "From the Vindhya mountain came down thousands of crores of swiftfooted monkeys of terrific deeds. They were fierce like fire (Angaraka).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-37-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "क्षीरोदवेलानिलयास्तमालवनवासिनः।\nनारिकेलाशनाश्चैव तेषां सङ्ख्या न विद्यते।।4.37.25।।",
+      "transliteration": "",
+      "translation": "The monkeys residents of Tamala forest on the shores of the ocean of milk feeding on coconuts arrived from the groves in countless number.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-37-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "वनेभ्यो गह्वरेभ्यश्च सरिद्भ्यश्च महाजवा।\nआगच्छद्वानरी सेना पिबन्तीव दिवाकरम्।।4.37.26।।",
+      "transliteration": "",
+      "translation": "An army of swiftmoving monkeys came from the caves, from the banks of rivers and forests as though it was swallowing up the Sungod.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-37-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "ये तु त्वरयितुं याता वानरास्सर्ववानरान्।\nते वीरा हिमवच्छैलं ददृशुस्तं महाद्रुमम्।।4.37.27।।",
+      "transliteration": "",
+      "translation": "The monkeys sent earlier to hasten all their counterparts saw mount Himavat from the great tree.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-37-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तस्मिन्गिरिवरे रम्ये यज्ञो माहेश्वरः पुरा।\nसर्वदेवमनस्तोषो बभौ दिव्यो मनोहरः।।4.37.28।।",
+      "transliteration": "",
+      "translation": "A divine, wonderful, delightful Yagna dedicated to Lord Siva used to be performed on the beautiful (Himalayan) mountain in the past so that the minds of all deities were satisfied.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-37-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "अन्ननिष्यन्दजातानि मूलानि च फलानि च।\nअमृतास्वादकल्पानि ददृशुस्तत्र वानराः।।4.37.29।।",
+      "transliteration": "",
+      "translation": "There the monkeys saw the Yajna, and partook the fruits and roots produced out of the havis which tasted sweet like nectar.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-37-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तदन्नसम्भवं दिव्यं फलमूलं मनोहरम्।\nयः कश्चित्सकृदश्नाति मासं भवति तर्पितः।।4.37.30।।",
+      "transliteration": "",
+      "translation": "Any one who shares even a little of the divine, delicious fruits and roots grown out of that havis will have no hunger or thirst for a month.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-37-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "तानि मूलानि दिव्यानि फलानि च फलाशनाः।\nऔषधानि च दिव्यानि जगृहुर्हरियूथपाः।।4.37.31।।",
+      "transliteration": "",
+      "translation": "The monkey leaders who lived on fruits collected the divine fruits, roots as well as  medicinal herbs.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-37-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तस्माच्च यज्ञायतनात्पुष्पाणि सुरभीणि च।\nआनिन्युर्वानरा गत्वा सुग्रीवप्रियकारणात्।।4.37.32।।",
+      "transliteration": "",
+      "translation": "The monkeys also collected finesmelling flowers from the sacrificial altar to please Sugriva with.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-37-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "ते तु सर्वे हरिवराः पृथिव्यां सर्ववानरान्।\nसञ्चोदयित्वा त्वरिता यूथानां जग्मुरग्रतः।।4.37.33।।",
+      "transliteration": "",
+      "translation": "The monkey leaders from all over the earth arrived quickly, leading the hordes of them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-37-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "ते तु तेन मुहूर्तेन यूथपाश्शीघ्रगामिनः।\nकिष्किन्धां त्वरया प्राप्ता स्सुग्रीवो यत्र वानरः।।4.37.34।।",
+      "transliteration": "",
+      "translation": "In a short while the swiftmoving leaders of the monkeys groups reached Kishkinda quickly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-37-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "ते गृहीत्वौषधीस्सर्वाः फलमूलं च वानराः।\nतं प्रतिग्राहयामासुर्वचनं चेदमब्रुवन्।।4.37.35।।",
+      "transliteration": "",
+      "translation": "Offering all kinds of medicinal herbs, fruits and roots collected, to Sugriva the monkeys said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-37-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "सर्वे परिगताश्शैलास्समुद्राश्च वनानि च।\nपृथिव्यां वानरास्सर्वे शासनादुपयान्ति ते।।4.37.36।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-37-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "एवं श्रुत्वा ततो हृष्ट स्सुग्रीवः प्लवगाधिपः।\nप्रतिजग्राह तत्प्रतीतस्तेषां सर्वमुपायनम्।।4.37.37।।",
+      "transliteration": "",
+      "translation": "On hearing the report from the monkeys, Sugriva the king of vanaras, accepted all the gifts they had brought him, with great pleasure. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे सप्तत्रिंशस्सर्गः।। Thus ends the thirtyseventh sarga in Kishkindakanda of the first epic, of the Holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

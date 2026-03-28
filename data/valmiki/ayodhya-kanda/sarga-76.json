@@ -1,0 +1,207 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 76,
+    "title": "Bharata performs funeral rites of king Dasaratha on the bank of Sarayu.",
+    "titleSanskrit": "",
+    "totalShlokas": 21
+  },
+  "shlokas": [
+    {
+      "id": "v2-76-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तमेवं शोकसन्तप्तं भरतं कैकयी सुतम्।\nउवाच वदतां श्रेष्ठो वसिष्ठ श्श्रेष्ठवागृषिः।।2.76.1।।",
+      "transliteration": "",
+      "translation": "Vasistha, the most eloquent and the best of ascetics said to Bharata, the son of Kaikeyi who was tormented with grief:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-76-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अलं शोकेन भद्रं ते राजपुत्र महायशः।\nप्राप्तकालं नरपतेः कुरु संयानमुत्तमम्।।2.76.2।।",
+      "transliteration": "",
+      "translation": "O prince of great renown, may God bless you It is not proper on your part to grieve. It is time to perform the funeral rites of the king in the best way possible.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-76-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "वसिष्ठस्य वच श्शृत्वा भरतो धारणां गतः।\nप्रेतकार्याणि सर्वाणि कारयामास धर्मवित्।।2.76.3।।",
+      "transliteration": "",
+      "translation": "On hearing the words of Vasistha, dutiful Bharata regained his steadiness and engaged in the performance of the funeral rites.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-76-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "उद्धृतं तैलसंरोधात्सतु भूमौ निवेशितम्।\nआपीतवर्णवदनं प्रसुप्तमिव भूमिपम्।।2.76.4।।\nसंवेश्य शयने चाग्य्रे नानारत्नपरिष्कृते।\nततो दशरथं पुत्रो विललाप सुदुःखितः।।2.76.5।।",
+      "transliteration": "",
+      "translation": "The mortal remains of king Dasaratha, protector of the earth, was taken out of the oil container and placed on the floor. His pale, yellow face appeared as if he was asleep. Thereafter it was laid upon a magnificent couch adorned with every kind of gem. On seeing Dasaratha in that state  Bharata lamented in extreme distress.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-76-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "किं ते व्यवसितं राजन् प्रोषिते मय्यनागते।\nविवास्य रामं धर्मज्ञं लक्ष्मणं च महाबलम्।।2.76.6।।",
+      "transliteration": "",
+      "translation": "What have you done, O king, between my absence and my arrival? You have banished the righteous Rama and the valiant Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-76-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "क्व यास्यसि महाराज हित्वेमं दुःखितं जनम्।\nहीनं पुरुषसिंहेन रामेणाक्लिष्टकर्मणा।।2.76.7।।",
+      "transliteration": "",
+      "translation": "O great king Where will you go leaving me who is bewailing for having been left by Rama, the lion among men and a man of pious deeds?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-76-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "योगक्षेमं तु ते राजन् कोऽस्मिन्कल्पयिता पुरे\nत्वयि प्रयाते स्वस्तात रामे च वनमाश्रिते।।2.76.8।।",
+      "transliteration": "",
+      "translation": "O king O father you have gone to heaven and Rama has taken shelter in the forest now. Who will take care of the welfare and security of your city?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-76-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "विधवा पृथिवी राजन् स्त्वया हीना न राजते।\nहीनचन्द्रेव रजनी नगरी प्रतिभाति मा।।2.76.9।।",
+      "transliteration": "",
+      "translation": "O king bereft of you, the earth (kingdom) is widowed and has lost its radiance. The city appears to me like a moonless night.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-76-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "एवं विलपमानं तं भरतं दीनमानसम्।\nअब्रवीद्वचनं भूयो वसिष्ठस्तु महामुनिः।।2.76.10।।",
+      "transliteration": "",
+      "translation": "To Bharata who was thus lamenting with a dejected mind, the great ascetic Vasistha once again said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-76-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "प्रेतकार्याणि यान्यस्य कर्तव्यानि विशां पतेः।\nतान्यव्यग्रं महाबाहो क्रियान्तामविचारितम्।।2.76.11।।",
+      "transliteration": "",
+      "translation": "O mightyarmed prince, the funeral rites that are required to be performed for the departed king ought to be done carefully without any shortcomings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-76-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तथेति भरतो वाक्यं वसिष्ठस्याभिपूज्य तत्।\nऋत्विक्पुरोहिताचार्यान् स्त्वरयामास सर्वशः।।2.76.12।।",
+      "transliteration": "",
+      "translation": "Bharata said, 'Be it so' in obedience to Vasistha, who hastened up the learned Vedic scholars, family priests and preceptors to perform various rites.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-76-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "ये त्वग्नयो नरेन्द्रेस्य चाग्न्यगाराद्बहिष्कृताः।\nऋत्विग्भिर्याजकैश्चैव ते आह्रियन्त यथाविधि।।2.76.13।।",
+      "transliteration": "",
+      "translation": "The sacrificial fire of the king has been put outside the firesanctuary in accordance with the ritual precepts and were withdrawn by the attendants and priests wellversed in Vedic lore.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-76-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "शिबिकायामथा़ऽरोप्य राजानं गतचेतसम्।\nबाष्पकण्ठा विमनसस्तमूहुः परिचारकाः।।2.76.14।।",
+      "transliteration": "",
+      "translation": "Thereafter the attendants raised the mortal remains of the deceased king onto a litter, with dejected minds, throats choked with tears and carried him away.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-76-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "हिरण्यं च सुवर्णं च वासांसि विविधानि च।\nप्रकिरन्तो जना मार्गं नृपतेरग्रतो ययुः।।2.76.15।।",
+      "transliteration": "",
+      "translation": "The people went ahead of the king's body strewing on the way gold of brilliant colour and different kinds of garments.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-76-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "चन्दनागरुनिर्यासान् सरलं पद्मकं तथा।\nदेवदारूणि चाहृत्य क्षेपयन्ति तथापरे।।2.76.16।।\nगन्धानुच्चावचांश्चान्यां स्तत्र गत्वाथ भूमिपम्।\nतत्र संवेशयामासुश्चितामध्ये तमृत्विजः।।2.76.17।।",
+      "transliteration": "",
+      "translation": "In this way others brought sandal, agaru and fragrant gum gugul, the resin of balsa tree and woods of sarala, padmaka and devadaru and built a pyre and strew many kinds of fragrant substances on it. Thereafter the priests laid the mortal remains of the king in the centre of the pyre.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-76-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तदा हुताशनं हुत्वा जेपुस्तस्य तदृत्विजः।\nजगुश्च ते यथाशास्त्र तत्र सामानि सामगाः।।2.76.18।।",
+      "transliteration": "",
+      "translation": "Then the priests offering oblations to the king's fire, intoned prayers. The reciters of Sama Veda sang the hymns in accordance with the sacred scriptures.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-76-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "शिबिकाभिश्च यानैश्च यथार्हं तस्य योषितः।\nनगरा न्निर्ययुस्तत्र वृद्धैः परिवृता स्तदा।।2.76.19।।",
+      "transliteration": "",
+      "translation": "Then in accordance with their rank and surrounded by aged guards, the wives of  king Dasaratha departed for that place from the city in palanquins and other carriages.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-76-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "प्रसव्यं चापि तं चकुः ऋत्विजोऽग्निचितं नृपम्।\nस्त्रियश्च शोकसन्त���्ताः कौसल्याप्रमुखास्तदा।।2.76.20।।",
+      "transliteration": "",
+      "translation": "Then the priests and other women led by Kausalya who was consumed with grief circumambulated the pyre in the reverse direction as the king's body was engulfed by flames.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-76-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "क्रौञ्चीनामिव नारीणां निनादस्तत्र शुश्रुवे।\nआर्तानां करुणं काले क्रोशन्तीनां सहस्रशः।।2.76.21।।",
+      "transliteration": "",
+      "translation": "At that time, piteous cries of distressed women in their thousands like the piercing cries of female kraunchas (birds) were heard.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-76-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "ततो रुदन्त्यो विवशाविलप्य च पुनः पुनः।\nयानेभ्यस्सरयूतीरमवतेरुर्वराङ्गनाः।।2.76.22।।",
+      "transliteration": "",
+      "translation": "Thereafter, the courtesans weeping uncontrollably and, lamenting again and again, alighted from carriages on the bank of the river Sarayu.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-76-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "कृत्वोदकं ते भरतेन सार्धं नृपाङ्गना मन्त्रिपुरोहिता श्च।\nपुरंप्रविश्याश्रुपरीतनेत्राः भूमौ दशाहं व्यनयन्त दुःखम्।।2.76.23।।",
+      "transliteration": "",
+      "translation": "The wives of the king, counsellors and priests along with Bharata offered waterlibation and entered the city with tearful eyes. They spent the tenday  mourning period sleeping on the ground (floor) in great grief. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे षटसप्ततितमस्सर्गः।। Thus ends the seventysixth sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

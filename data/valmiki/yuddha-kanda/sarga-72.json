@@ -1,0 +1,144 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 72,
+    "title": "Ravana gets concerned about the safety of Lanka after hearing about Atikaya's death and commands Rakshasas to take care.",
+    "titleSanskrit": "",
+    "totalShlokas": 14
+  },
+  "shlokas": [
+    {
+      "id": "v6-72-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "अतिकायंहतंश्रुत्वालक्ष्मणेनमहौजसा ।\nउद्वेगमगमद्राजावचनंचेदमब्रवीत् ।।6.72.1।।",
+      "transliteration": "",
+      "translation": "On hearing that Atikaya was killed by highly energetic Lakshmana, the king was overtaken by emotion and spoke as follows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-72-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "धूम्राक्षःपरमामर्षीधन्वीशस्त्रभृतांवरः ।\nअकम्पनःप्रहस्तश्चकुम्भुकर्णस्तथैव च ।।6.72.2।।\nएतेमहाबलावीराराक्षसायुद्धकाङ्क्षिणः ।\nजेतारःपरसैन्यानांपरैर्नित्यापराजिताः ।।6.72.3।।\nनिहतास्तेमहावीर्यारामेणाक्लिष्टकर्मणा ।\nराक्षसास्सुमहाकायानानाशस्त्रविशारदाः ।।6.72.4।।\nअन्ये च बहवश्शूरामहात्मानोनिपातिताः ।",
+      "transliteration": "",
+      "translation": "\"Dhumraksha, a highly intolerant one, Akampana, the foremost of the Rakshasas and skilled in the use of bow and arms, in the same way Prahastha, Kumbhakarna of stupendous valour and heroes among Rakshasas desiring for combat, who have never been defeated and conquerors of hostile armies, have been killed. Great heroes of huge body, skilled in the use of many weapons and other warriors have been killed by Rama.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-72-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "प्रख्यातबलवीर्येणपुत्रेणेन्द्रजितामम ।।6.72.5।।\nयौहितौभ्रातरौतदावीरौबद्धौदत्तवरैश्शरैः ।",
+      "transliteration": "",
+      "translation": "\"Both the famous brothers, Rama and Lakshmana were bound with arrows by my heroic son Indrajith who is conferred with boons and whose strength is well known.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-72-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "यन्नशक्यंसुरैस्सर्वैरसुरैर्वामहाबलैः ।।6.72.6।।\nमोक्तुंतद्बन्धनंघोरंयक्षगन्धर्वकिन्नरैः ।\nतन्नजानेप्रभावैर्वामाययामोहनेनवा ।।6.72.7।।\nशरबन्धाद्विमुक्तौतौभ्रातरौरामलक्ष्मणौ ।",
+      "transliteration": "",
+      "translation": "\"That formidable bond which could not be undone by Devatas, mighty Demons, Yakshas, Gandharvas, and Kinnaras got released by both the brothers, Rama and Lakshmana by their powers and conjuring tricks which are not known to me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-72-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "येयोधानिर्गताश्शूराराक्षसाममशासनात् ।।6.72.8।।\nतेसर्वेनिहतायुद्धेवानरैस्सुमहाबलैः ।",
+      "transliteration": "",
+      "translation": "\" All those heroes who have gone by my order for combat, have been killed in the battle by mighty Vanaras.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-72-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तम्नपश्याम्यहंयुद्धेयोऽद्यरामंसलक्ष्मणम् ।।6.72.9।।\nशासयेत्सबलंवीरंससुग्रीवविभीषणम् ।",
+      "transliteration": "",
+      "translation": "\"I do not see any warrior who will be able to wage with that Lakshmana, or his army, or with Sugriva, Vibheeshana or with Rama to put an end to them.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-72-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "अहोसुबलवान् रामोमहदस्त्रबलं च वै ।।6.72.10।।\nयस्यविक्रममासाद्यराक्षसानिधनंगताः ।",
+      "transliteration": "",
+      "translation": "\"Rama's valour is great the strength of his missiles is great, and his valour is formidable. Rakshasas can't stand his range.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-72-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "अप्रमत्सैश्चसर्वत्रगुप्सैरक्ष्यापुरीवतियम् ।।6.72.11।।\nअशोकवनिकायांचयत्रसीताऽभिरक्ष्यते ।",
+      "transliteration": "",
+      "translation": "\"This city and even the Ashoka grove where Sita is kept secretly to be guarded by being vigilant on all sides.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-72-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "निष्क्रामोवाप्रवेशोवाज्ञातव्यस्सर्वदैवनः ।।6.72.12।।\nयत्रयत्रभवेद्गुल्मस्तत्रतत्रपुनःपुनः ।",
+      "transliteration": "",
+      "translation": "\"Wherever the troops are posted here and there be it exit, or entrance should be checked again and again and not to go out.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-72-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "सर्वतश्चापितिष्ठध्वंस्स्वै: परिवृताबलैः ।।6.72.13।।\nद्रष्टव्यं च पदंतेषांवानराणांनिशाचराः ।",
+      "transliteration": "",
+      "translation": "\"Surrounded by the army on all sides, whoever it may be, keep watching the movement of Vanaras.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-72-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "प्रदोषेवार्धरात्रेवाप्रत्यूषेवापिसर्वत ।।6.72.14।।\nनावज्ञातेषुकर्तव्यावानरेषुकदाचन ।\nद्विषतांबलमुद्युक्तमापतकतिंस्थितंसदा ।।6.72.15।।",
+      "transliteration": "",
+      "translation": "\" At all times, whether it is evening or midnight or early morning, Vanaras movements are to be watched by the army without indifference. Indeed, the army should be active or inactive, standing, advancing constantly and staying wherever they are.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-72-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "ततस्तेराक्षसास्सर्वेश्रुत्वालङ्काधिपस्यतत् ।\nवचनंसर्वमातिष्ठन् यथावत्तुमहाबलाः ।।6.72.16।।",
+      "transliteration": "",
+      "translation": "On hearing the words of the king of Lanka all Rakshasas and the great army got up.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-72-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "स तान् सर्वान् हिसन्दिश्यरावणोराक्षसाधिपः ।\nमन्युशल्यंवहन् दीनःप्रविवेशस्वमालयम् ।।6.72.17।।",
+      "transliteration": "",
+      "translation": "Ravana, the king of Rakshasas, enjoined the Rakshasas and himself bearing the thorn of wrath, entered the abode desperately.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-72-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "ततस्ससन्दीपितकोपह्निर्निशाचराणामधिपोमहाबलः ।\nतदेवपुत्रव्यसनंविचिन्तयन्मुहुर्मुहुश्चैवतदाव्यनिश्श्वसत् ।।6.72.18।।",
+      "transliteration": "",
+      "translation": "Then the mighty Lord of night rangers, inflamed by wrath brooding over (his son's death) was again and again sighing. ।। इत्यार्षेवाल्मीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेद्विपप्ततितमस्सर्गः ।। This is the end of the seventy second sarga of Yuddha Kanda, of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

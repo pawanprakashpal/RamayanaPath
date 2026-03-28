@@ -1,0 +1,225 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 86,
+    "title": "Guha's reminiseesces.",
+    "titleSanskrit": "",
+    "totalShlokas": 23
+  },
+  "shlokas": [
+    {
+      "id": "v2-86-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "आचचक्षेऽथ सद्भावं लक्ष्मणस्य महात्मनः।\nभरतायाप्रमेयाय गुहो गहनगोचरः।।2.86.1।।",
+      "transliteration": "",
+      "translation": "Then Guha, the forest ranger, described to Bharata the countless qualities of the goodnatured, magnanimous Lakshmana:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-86-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तं जाग्रतं गुणैर्युक्तं शरचापासिधारिणम्।\nभ्रातृगुप्त्यर्थमत्यन्तमहं लक्ष्मणमबृवम्।।2.86.2।।",
+      "transliteration": "",
+      "translation": "I spoke to the virtuous Lakshmana, who was holding arrows, bow and sword in his hand and keeping awake completely for the protection of his brother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-86-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "इयं तात सुखा शय्या त्वदर्थमुपकल्पिता।\nप्रत्याश्वसिहि शेष्वास्यां सुखं राघवनन्दन।।2.86.3।।",
+      "transliteration": "",
+      "translation": "My friend, Lakshmana, the delight of the Raghavas this comfortable couch has been arranged for you. Lie down peacefully without any anxiety.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-86-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "उचितोऽयं जनस्सर्वो दुःखानां त्वं सुखोचितः।\nधर्मात्मंस्तस्य गुप्त्यर्थं जागरिष्यामहे वयम्।।2.86.4।।",
+      "transliteration": "",
+      "translation": "O righteous one you are used to conforts where as all of our people are accustomed to hardships. So we will stay awake and protect Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-86-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "नहि रामात्प्रियतरो ममास्ति भुवि कश्चन।\nमोत्सुकोऽभूर्ब्रवीम्येतदप्यसत्यं तवाग्रतः।।2.86.5।।",
+      "transliteration": "",
+      "translation": "To me, there is none on earth dearer than Rama. Do not have any anxiety. I am telling you the truth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-86-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अस्य प्रसादादाशंसे लोकेऽस्मिन् सुमहद्यशः।\nधर्मावाप्तिं च विपुलामर्थकामौ च केवलम्।।2.86.6।।",
+      "transliteration": "",
+      "translation": "By the grace of Rama, I want to acquire in this world great renown, abundance of righteousness, absolute artha (prosperity) and kama (pleasure).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-86-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "सोऽहं प्रियसखं रामं शयानं सह सीतया।\nरक्षिष्यामि धनुष्पाणि स्सर्वै स्स्वैर्ज्ञातिभिस्सह।।2.86.7।।",
+      "transliteration": "",
+      "translation": "As for me, bow in hand and all my kinsmen with me, I shall protect my dear friend Rama who is resting with Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-86-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "न हि मेऽविदितं किञ्चिद्वनेऽस्मिंश्चरत स्सदा।\nचतुरङ्गं ह्यपि बलं प्रसहेम वयं युधि।।2.86.8।।",
+      "transliteration": "",
+      "translation": "Nothing is unknown to me in this forest in which I range about continually. We can withstand an army of four divisions in a battle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-86-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "एवमस्माभिरुक्तेन लक्ष्मणेन महात्मना।\nअनुनीता वयं सर्वे धर्ममेवानुपश्यता।। 2.86.9।।",
+      "transliteration": "",
+      "translation": "The magnanimous Lakshmana, established in dharma, replied:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-86-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "कथं दाशरथौ भूमौ शयाने सह सीतया।\nशक्या निद्रा मया लब्धुं जीवितं वा सुखानि वा।।2.86.10।।",
+      "transliteration": "",
+      "translation": "While Rama sleep on the ground with Sita, how can I find sleep or joy or comfort?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-86-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "यो न देवासुरैस्सर्वैश्शक्यः प्रसहितुं युधि।\nतं पश्य गुह संविष्टं तृणेषु सह सीतया।।2.86.11।।",
+      "transliteration": "",
+      "translation": "O Guha behold Rama, whom gods and demons combined cannot withstand in a battle now lying on a bed of grass with Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-86-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "महता तपसा लब्धो विविधैश्च परिश्रमैः।\nएको दशरथस्यैष पुत्रस्सदृशलक्षणः।।2.86.12।।",
+      "transliteration": "",
+      "translation": "Rama is the only one among the sons who resembles his father in various virtues. Dasaratha obtained him after a great deal of austerities and efforts as well.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-86-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "अस्मिन्प्रव्राजिते राजा न चिरं वर्तयिष्यति।\nविधवा मेदिनी नूनं क्षिप्रमेव भविष्यति।।2.86.13।।",
+      "transliteration": "",
+      "translation": "After Rama is exiled, king Dasaratha will not survive for long and surely the earth will soon be widowed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-86-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "विनद्य सुमहानादं श्रमेणोपरताः स्त्रियः।\nनिर्घोषो विरतो नूनमध्य राजनिवेशने।।2.86.14।।",
+      "transliteration": "",
+      "translation": "The women of the inner apartment who lamented loudly, must have stopped weeping out of weariness. By now, the clamour in the king's palace would have surely subsided.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-86-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "कौसल्या चैव राजा च तथैव जननी मम।\nनाशंसे यदि जीवेयुस्सर्वे ते शर्वरीमिमाम्।।2.86.15।।",
+      "transliteration": "",
+      "translation": "I doubt whether the king, Kausalya and my mother Sumitra and the rest of them will outlive this night.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-86-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "जीवेदपि च मे माता शत्रुघ्नस्यान्ववेक्षया।\nदुःखिता या तु कौसल्या वीरसूर्विनशिष्यति।।2.86.16।।",
+      "transliteration": "",
+      "translation": "My mother might live, looking at Satrughna. But Kausalya, who is the mother of a hero, will die from extreme grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-86-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अतिक्रान्तमतिक्रान्तमनवाप्य मनोरथम्।\nराज्ये राममनिक्षिप्य पिता मे विनशिष्यति।।2.86.17।।",
+      "transliteration": "",
+      "translation": "My father, king Dasaratha, failing to fulfil his cherished desires one after another and unable to place Rama on the throne, will pass away.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-86-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "सिद्धार्थाः पितरं वृत्तं तस्मिन्काले ह्युपस्थिते।\nप्रेतकार्येषु सर्वेषु संस्करिष्यन्ति भूमिपम्।।2.86.18।।",
+      "transliteration": "",
+      "translation": "When the moment of death arrives for my father, those who perform the funeral rites for him would have fulfilled their desire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-86-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "रम्यचत्वरसंस्थानां सुविभक्तमहापथाम्।\nहर्म्यप्रासादम्पन्नां सर्वरत्नविभूषिताम्।।2.86.19।।\nगजाश्वरथसंबाधां तूर्यनादविनादिताम्।\nसर्वकल्याणसंपूर्णां हृष्टपुष्टजनाकुलाम्।।2.86.20।।\nआरामोद्यानसंपूर्णां समाजोत्सवशालिनीम्।\nसुखिता विचरिष्यन्ति राजधानीं पितुर्मम।।2.86.21।।",
+      "transliteration": "",
+      "translation": "There in the capital of my father with its lovely crossroads and squares, welllaid  highways, full of mansions and palaces encrusted with all kinds of precious stones, teeming with elephants, horses and chariots, resounding with trumpets, and with wellbeing everywhere, and plenty of pleasuregardens, and parks and community festivals, people sound in health would be moving about in great comfort.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-86-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "अपिसत्यप्रतिज्ञेन सार्धं कुशलिना वयं।\nनिवृत्ते समये ह्यस्मिन् सुखिताः प्रविशेमहि।।2.86.22।।",
+      "transliteration": "",
+      "translation": "Can we ever reenter Ayodhya happily after safely fulfilling the vow and completing the term of exile?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-86-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "परिदेवयमानस्य तस्यैवं सुमहात्मनः।\nतिष्ठतो राजपुत्रस्य शर्वरी साऽत्यवर्तत।।2.86.23।।",
+      "transliteration": "",
+      "translation": "While the highminded prince was lamenting this way and was waiting, the night passed off.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-86-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "प्रभाते विमले सूर्ये कारयित्वा जटा उभौ।\nअस्मिन् भागीरथीतीरे सुखं सन्तारितौ मया।।2.86.24।।",
+      "transliteration": "",
+      "translation": "The next morning when the Sun shone bright, both of them matted their hair on the bank of the river Bhagirathi (Ganga) and I ferried them across comfortably.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-86-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "जटाधरौ तौ द्रुमचीरवाससौ महाबलौ कुञ्जरयूथपोपमौ।\nवरेषुचापासिधरौ परन्तपौ व्यपेक्षमाणौ सह सीतया गतौ।।2.86.25।।",
+      "transliteration": "",
+      "translation": "Rama and Lakshmana, slayers of enemies, who are as strong as bull elephants, with their hair matted, wearing robes made of bark, armed with excellent bows, arrows and swords went along with Sita looking around (vigilantly). इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे षडशीतितमस्सर्गः।। Thus ends the eightysixth sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

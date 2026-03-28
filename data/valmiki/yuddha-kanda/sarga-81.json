@@ -1,0 +1,306 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 81,
+    "title": "Indrajith reenters the battlefield and kills an illusory image of Sita placed in his chariot in the presence of Hanuman. Argument between Indrajithand Hanuman.",
+    "titleSanskrit": "",
+    "totalShlokas": 32
+  },
+  "shlokas": [
+    {
+      "id": "v6-81-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "विज्ञायतुमनस्तस्यराघवस्यमहात्मनः ।\nस निवृत्याहवात्तस्मात् प्रविवेशपुरींततः ।।6.81.1।।",
+      "transliteration": "",
+      "translation": "Knowing the highsouled Raghava's mind, Indrajith departed from there and entered the city.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "सोऽनुस्मृत्यवधंतेषांराक्षसानांतरस्विनाम् ।\nक्रोधताम्रेक्षणश्शूरोनिर्जगामाहाद्युति: ।।6.81.2।।",
+      "transliteration": "",
+      "translation": "Recollecting those Rakshasas killed, the heroic, mighty and courageous Indrajith's eyes were red in anger.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "स पश्चिमेवद्वारेणनिर्ययौराक्षसैर्वृतः ।\nइन्द्रजित्सुमहावीर्यःपौलस्त्योदेवकण्टकः ।।6.81.3।।",
+      "transliteration": "",
+      "translation": "Paulastya (one of the nine mind born sons of Brahma, a scion of sage Paulastya), stupendous hero, a tormentor of Devatas, Indrajith, surrounded by Rakshasas came out through the western gate.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "इन्द्रजित्तुततोदृष्टवाभ्रातरौरामलक्ष्मणौ ।\nरणायाभ्युद्यतौवीरौमायांप्रादुष्करोत्तदा ।।6.81.4।।",
+      "transliteration": "",
+      "translation": "Indrajith, also witnessing the two brothers Rama and Lakshmana prepared for war, exhibited his trickery.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "इन्द्रजित्तुरथेस्थाप्यसीतांमायामयींतदा ।\nबलेनमहतावृत्यतस्यावधमरोचयत् ।।6.81.5।।",
+      "transliteration": "",
+      "translation": "Indrajith, also through a trick, wanted to make illusory Sita and place her in the chariot surrounded by Rakshasas and thought of killing her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "मोहनार्थंतुसर्वेषांबुद्धिंकृत्वासुदुर्मतिः ।\nहन्तुंसीतांव्यवसितोवानराभिमुखोययौ ।।6.81.6।।",
+      "transliteration": "",
+      "translation": "Evil minded Indrajith, made up his mind to hoodwink every one who decided to kill Sita and went towards the Vanaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तम्दृष्टवात्वभिनिर्यान्तंसर्वेतेकाननौकसः ।\nउत्पेतुरभिसङ्क्रुद्धाश्शिलाहस्तायुयुत्सवः ।।6.81.7।।",
+      "transliteration": "",
+      "translation": "All the forest animals perceiving Indrajithadvancing became angry and with rocks in hand faced him with enthusiasm.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "हनूमान् पुरतस्तेषांजगामकपिकुञ्जरः ।\nप्रगृह्यसुमहच्छृङ्गंपर्वतस्यदुरासदम् ।।6.81.8।।",
+      "transliteration": "",
+      "translation": "Hanuman, the elephant among monkeys, taking hold of a huge mountain peak that was difficult to reach marched forward and went.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "स ददर्शहतानन्दांसीतामिन्द्रजितोरथे ।\nएकवेणीधरांदीनामुपवासकृशाननाम् ।।6.81.9।।\nपरिक्लिष्टैकवसनाममृजांराघवप्रियाम् ।\nरजोमलाभ्यामालिप्तैस्सर्वगात्रैर्वरस्त्रियम् ।।6.81.10।।",
+      "transliteration": "",
+      "translation": "Hanuman beheld in the chariot of Indrajith, cheerless Sita with one braid, with no desire to live, emaciated by fasting, wearing a single cloth, body not anointed, covered with dust and dirt all over the body, who was dear to Raghava.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तांनिरीक्ष्यमुहूर्तंतुमैथिलीत्यध्यवस्यतु ।\nबभूवाचिरदृष्टाहितेनसाजनकात्मजा ।।6.81.11।।",
+      "transliteration": "",
+      "translation": "He looked at her for a moment and recognised her as Janaka's daughter since he had seen her not long before.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "अब्रवीत्तांतुशोकार्तांनिरानन्दांतपस्विनीम् ।\nदृष्टवारथोस्थितांदृष्ट्वाराक्षसेन्द्रसुतश्रिताम् ।।6.81.12।।\nकंसमर्थितमस्येतिचिन्तयन्समहाकपिः ।\nसहतैर्वानरश्रेष्ठैरभ्यधावतरावणिम् ।।6.81.13।।",
+      "transliteration": "",
+      "translation": "Great Vanara, Hanuman, gazing at miserable, joyless, ascetic woman seated in the chariot, worried, why she is in the chariot. He spoke to the best of Vanara leaders and rushed towards the son of Ravana with them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "तद्वानरबलंदृष्टवारावणिःक्रोधमूर्छितः ।\nकृत्वाविकोशंनिस्त्रिंशंमूर्ध्निसीतामकर्षयत् ।।6.81.14।।",
+      "transliteration": "",
+      "translation": "Indrajith saw the Vanara army coming towards him, deluded with anger, unsheathed the sword and touched Sita's forehead.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तांस्त्रियंपश्यतांतेषांताडयामासरावणि: ।\nक्रोशन्तींरामरामेतिमाययायोजितांरथे ।।6.81.15।।",
+      "transliteration": "",
+      "translation": "As they were looking at Sita on the chariot trickishly constructed, and she was crying saying, 'O Rama, O Rama', he stood and hit her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "गृहीतमूर्धजांदृष्टवाहनुमान् दैन्यमागतः ।\nशोकजंवारिनेत्राभ्यामुत्सृजन्मारुतात्मजः ।।6.81.16।।",
+      "transliteration": "",
+      "translation": "Seeing Indrajith holding Sita's head, Maruti's son, was immersed in grief, and shed tears of sorrow from his eyes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तांदृष्टवाचारुसर्वाङ्गींरामस्यमहिषींप्रियाम् ।\nअब्रवीत्पुरुषंवाक्यंक्रोधाद्रक्षोधिपात्मजम् ।।6.81.17।।",
+      "transliteration": "",
+      "translation": "Looking at Rama's dear wife, of lovely limbs, Hanuman rebuked Indrajith in anger and spoke harsh words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "दुरात्मन्नात्मनाशायकेशपक्षेपरामृशः ।\nब्रह्मर्षीणांकुलेजातोराक्षसींयोनिमाश्रितः ।।6.81.18।।",
+      "transliteration": "",
+      "translation": "\"O evil minded Indrajith! You are born as Rakshasa in the clan of seers of vedic mantras and sought the womb of Rakshasa woman. It is for your own self destruction you seized her hair.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "धिक्त्वांपापसमाचारंयस्यतेमतिरिदृशी ।\nनृशंसानार्य दुर्वृत्त क्षुद्र पापपराक्रम ।।6.81.19।।\nअनार्यस्येदृशंकर्मघृणातेनास्तिनिर्घृण ।",
+      "transliteration": "",
+      "translation": "\"You are ignoble, mean, of sinful prowess, not merciful. You have resolved to take such a sinful action which is not worthy of you. You have no compassion to act in this manner.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "च्युतागृहाच्चराज्याच्चरामहस्ताच्चमैथिली ।।6.81.20।।\nकिंतवैषापराद्धाहियदेनांहन्तुमिच्छसि ।",
+      "transliteration": "",
+      "translation": "\"This Mythili is sent away from home, from the kingdom, and also distanced from Rama's protection. You are unkind and hitting in this way. What harm has she done?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "सीतांहत्वातु न चिरंजीविष्यसिकथञ्चन ।।6.81.21।।\nवधार्हकर्मणानेनममहस्तगतोह्यसि ।",
+      "transliteration": "",
+      "translation": "\"Indeed, you will not live long after killing Sita. You deserve to be killed for your actions, that is why you have come into my hands.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "येच स्त्रीघातिनांलोकालोकवध्यैषुकुसतिताः ।।6.81.22।।\nइहजीवितमुत्सृज्यप्रेत्यतान्प्रतिपत्स्यसे ।",
+      "transliteration": "",
+      "translation": "\"You deserve to be killed by the world here. Giving up your life, you will be thrown out and descend to the world with those who killed women have gone, after your death.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तिब्रुवाणोहनुमान् सायुधैर्हरिभिर्वृतः ।।6.81.23।।\nअभ्यदावत् ससुङ्कृद्धोराक्षसेन्द्रसुतंप्रति ।",
+      "transliteration": "",
+      "translation": "Hanuman was highly enraged and speaking like got prepared for war and went surrounded by the monkeys towards Indrajith, the son of Rakshasa king.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "पतन्तंमहावीर्यंतदनीकंवनौकसाम् ।।6.81.24।।\nरक्षसांभीमकोपानामनीकंतुन्यवारयत् ।",
+      "transliteration": "",
+      "translation": "Rakshasa army troops of mighty prowess, terribly angry, were advancing towards wood dwellers (Vanara troops) and were intercepted by the Vanara troops.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "सःतांबाणसहस्रेणविक्षोभ्यहरिवाहिनीम् ।।6.81.25।।\nहनूमन्तंहरिश्रेष्ठमिन्द्रजित् प्रत्युवाच ह ।",
+      "transliteration": "",
+      "translation": "Indrajith shattered the army of monkeys with a thousand arrows. Hanuman the foremost Vanara replied to them as follows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "सुग्रीवस्त्वं च रामश्चयन्निमित्तमिहागताः ।।6.81.26।।\nतांवधिष्यामिवैदेहीमद्यैवतवपश्यतः ।",
+      "transliteration": "",
+      "translation": "\"I will kill your Vaidehi today as you keep seeing her for whose sake Sugriva, you and Rama also came here,\" said Indrajith.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "इमांहत्वाततोरामंलक्ष्मणंत्वां च वानर ।।6.81.27।।\nसुग्रीवं च वधिष्यामितंचानार्यंविभीषणम् ।",
+      "transliteration": "",
+      "translation": "\"O Vanara! This day, having killed her, I will kill Rama, Lakshmana, and you, also Sugriva and that ignoble Vibheeshana.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "न हन्तव्याःस्त्रियश्चेतियद् ब्रवीषिप्लवङ्गम ।।6.81.28।।\nपीडाकरममित्राणांयत्स्यात्कर्तव्यमेवतत् ।",
+      "transliteration": "",
+      "translation": "\"O Hanuman! You said women should not be killed. But whoever causes trouble to the enemy, action should be taken, said Indrajith.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "तमेवमुक्त्वारुदतींसीतांमयामयीं च ताम् ।।6.81.29।।\nशितधारेणखङ्गेननिजघानेन्द्रजित्स्वयम् ।",
+      "transliteration": "",
+      "translation": "Indrajith having spoken like that killed that crying illusory Sita with a sharpedged sword.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "यज्ञोपवीतमार्गेणभिन्नातेनतपस्विनी ।।6.81.30।।\nसापृथिव्यांपृथुश्रोणीपपातप्रियदर्शना ।",
+      "transliteration": "",
+      "translation": "Split diagonally, the ascetic woman with charming hips and pleasing countenance sank into the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "त्तामिन्द्रजित् स्त्रियंहत्वाहनूमन्तमुवाच ह ।।6.81.31।।\nमयारामस्यपश्येमांकोपेन च ।\nएषाविशस्तावैदेहीनिष्फलोवःपरिश्रमः ।।6.81.32।।",
+      "transliteration": "",
+      "translation": "Indrajith killed that woman and said to Hanuman\" see this Vaidehi, Rama's wife, cut up by my sword. Your exertion is useless now.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "ततःखडगेनमहताहत्वातामिन्द्रजित् स्वयम् ।\nहृष्टस्सरथमास्थायननाद च महास्वनम् ।।6.81.33।।",
+      "transliteration": "",
+      "translation": "Indrajith himself with his long sword killed her, then rejoiced, he ascended the chariot and roared in a loud tone.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "वानराश्शुश्रुवुश्शब्दमदूरेप्रत्यवस्थिताः ।\nव्यादितास्यस्यनदतस्तद्दुर्गंसंश्रितस्यतु ।।6.81.34।।",
+      "transliteration": "",
+      "translation": "The sound of his roar was heard by the Vanaras waiting for war standing not far from there, which was difficult for Indrajith to access.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-81-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "तथातुसीतांवि��िहत्यदुर्मतिःप्रहृष्टचेतास्सबभूवरावणिः ।\nतंहृष्टरूपंसमुदीक्ष्यवानराविषण्णरूपास्सहसाप्रददुद्रुवुः ।।6.81.35।।",
+      "transliteration": "",
+      "translation": "The evil minded son of Ravana was happy at heart after killing Sita. Witnessing the happy form of Indrajith, the sorrowful Vanaras started running all at once. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेएकाशीतितमस्सर्गः ।। This is the end of the eighty first sarga of Yuddha Kanda of the first epic, the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

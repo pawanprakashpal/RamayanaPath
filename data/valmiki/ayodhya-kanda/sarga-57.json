@@ -1,0 +1,324 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 57,
+    "title": "Sumantra returns to Ayodhya and reports to king Dasaratha -- Dasaratha and Kausalya fall into a swoon on hearing about Rama in exile.",
+    "titleSanskrit": "",
+    "totalShlokas": 34
+  },
+  "shlokas": [
+    {
+      "id": "v2-57-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "कथयित्वा सुदुःखार्तस्सुमन्त्रेण चिरं सह। \nरामे दक्षिणकूलस्थे जगाम स्वगृहं गुहः।।2.57.1।।",
+      "transliteration": "",
+      "translation": "Until Rama reached the southern bank, Guha kept talking with Sumantra for long and returned home with great sorrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "भरद्वाजाभिगमनं प्रयागे च सहाऽसनम्।\nआगिरेर्गमनं तेषां तत्रस्थैरुपलक्षितम्।।2.57.2।।",
+      "transliteration": "",
+      "translation": "Positioned there, they could mark their arrival at Bharadwaja's at Prayaga, their stay (nighthalt) and their onward journey to Chitrakuta mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "अनुज्ञातस्सुमन्त्रोऽथ योजयित्वा हयोत्तमान्। \nअयोध्यामेव नगरीं प्रययौ गाढदुर्मनाः।।2.57.3।।",
+      "transliteration": "",
+      "translation": "Permitted by Rama to leave, Sumantra harnessed the best of horses and set out for the city of Ayodhya with a heavy heart.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "स वनानि सुगन्धीनि सरितश्च सरांसि च। \nपश्यन्नतिययौ शीघ्रं ग्रामाणि नगराणि च।।2.57.4।।",
+      "transliteration": "",
+      "translation": "Beholding the fragrancefilled forests, rivers, lakes, villages and  towns on the way, Sumantra quickly crossed them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तत स्सायाह्न समये तृतीयेऽहनि सारथिः। \nअयोध्यां समनुप्राप्य निरानन्दां ददर्श ह।।2.57.5।।",
+      "transliteration": "",
+      "translation": "The charioteer reached Ayodhya on the third day at dusk and found the city cheerless.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "स शून्यामिव निश्शब्दां दृष्ट्वा परमदुर्मनाः। \nसुमन्त्रश्चिन्तयामास शोकवेगसमाहतः।।2.57.6।।",
+      "transliteration": "",
+      "translation": "Beholding the silent city, almost empty, the deeply depressed Sumantra, afflicted with gushing tears reflected:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "कच्चिन्न सगजा साऽश्वा सजना सजनाधिपा। \nरामसन्तापदुःखेन दग्धा शोकाग्निना पुरी।।2.57.7।।",
+      "transliteration": "",
+      "translation": "Has the city along with its elephants, horses, people and its king perished in the fire of grief for Rama?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "इति चिन्तापरस्सूतो वाजिभिश्शीघ्रपातिभिः।\nनगरद्वारमासाद्य त्वरितः प्रविवेश ह।।2.57.8।।",
+      "transliteration": "",
+      "translation": "Absorbed in these thoughts, the charioteer came to the citygate, carried by the swiftfooted horses, and quickly entered the city.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "सुमन्त्रमभियान्तं तं शतशोऽथ सहस्रशः। \nक्व ���ाम इति पृच्छन्तस्सूतमभ्यद्रवन्नराः।।2.57.9।।",
+      "transliteration": "",
+      "translation": "Meanwhile as the charioteer was moving towards the city, hundreds and thousands of men came pouring towards him enquiring, 'Where is Rama?'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तेषां शशंस गङ्गायामहमापृच्छ्य राघवम्। \nअनुज्ञातो निवृत्तोऽस्मि धार्मिकेण महात्माना।।2.57.10।।",
+      "transliteration": "",
+      "translation": "I took leave of the great, righteous Rama on the bank of the Ganga and have returned with his permission. (replied Sumantra).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "ते तीर्णा इति विज्ञाय बाष्पपूर्णमुखा जनाः।\nअहो धिगिति निश्श्वस्य हा रामेति च चुक्रुशुः।।2.57.11।।",
+      "transliteration": "",
+      "translation": "Hearing that they had (the trio) crossed the river Ganga, the people, with their faces filled with tears sighed and saying 'Fie upon us Alas, Rama' cried out aloud.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "शुश्राव च वचस्तेषां बृन्दं बृन्दं च तिष्ठताम्। \nहतास्म खलु ये नेह पश्याम इति राघवम्।।2.57.12।।",
+      "transliteration": "",
+      "translation": "He saw them gathering in groups, saying, Henceforth we will not be able to see Rama and without him, we are lost indeed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "दानयज्ञविवाहेषु समाजेषु महत्सु च।\nन द्रक्ष्यामः पुन र्जातु धार्मिकं राममन्तरा।।2.57.13।।",
+      "transliteration": "",
+      "translation": "No longer will we see Rama at sacrifices, weddings, great assemblies and at places of charitable activity.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "किं समर्थं जनस्यास्य किं प्रियं किं सुखावहम्। \nइति रामेण नगरं पितृवत्परिपालितम्।।2.57.14।।",
+      "transliteration": "",
+      "translation": "Rama looked after his people like a father always thinking what was good for them, dear to them and comfortable to them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "वातायनगतानां च स्त्रीणामन्वन्तरापणम्। \nरामशोकाभितप्तानां शुश्राव परिदेवनम्।।2.57.15।।",
+      "transliteration": "",
+      "translation": "(He) heard wailings of women looking through the window and of the people in marketplaces burning with sorrow over Rama's exile.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "स राजमार्गमध्येन सुमन्त्रः पिहिताननः। \nयत्�� राजा दशरथस्तदेवोपययौ गृहम्।।2.57.16।।",
+      "transliteration": "",
+      "translation": "Sumantra with his face muffled, drove along the highway straight to the palace of king Dasaratha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "सोऽवतीर्य रथाच्छीघ्रं राजवेश्म प्रविश्य च। \nकक्ष्या स्सप्ताभिचक्राम महाजनसमाकुलाः।।2.57.17।।",
+      "transliteration": "",
+      "translation": "Quickly alighting from the chariot, he entered  the king's palace and crossed the seven courtyards overcrowded with people.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "हर्म्यै र्विमानैः प्रासादैरवेक्ष्याथ समागतम्। \nहाहाकारकृता नार्यो रामदर्शनकर्शिताः।।2.57.18।।",
+      "transliteration": "",
+      "translation": "Women from mansions, sevenstoried buildings and from royal palaces, sighted him and pained at not seeing Rama cried out 'Alas, Alas'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "आयतैर्विमलैर्नेत्रैरश्रुवेगपरिप्लुतैः। \nअन्योन्यमभिवीक्षन्तेऽव्यक्तमार्ततराः स्त्रियः।।2.57.19।।",
+      "transliteration": "",
+      "translation": "The women in great anguish stood silently looking at one another, their large eyes  flooded with overflowing tears.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "ततो दशरथस्त्रीणां प्रासादेभ्य स्तत स्ततः। \nरामशोकाभितप्तानां मन्दं शुश्राव जल्पितम्।।2.57.20।।",
+      "transliteration": "",
+      "translation": "From different spots in the palace, Sumantra heard the sobs and whispers of Dasaratha's wives who were tormented with the sorrow of Rama's exile.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "सह रामेण निर्यातो विना राम मिहागतः।\nसूतः किन्नाम कौसल्यां शोचन्तीं प्रतिवक्ष्यति।।2.57.21।।",
+      "transliteration": "",
+      "translation": "The charioteer left with Rama and returned without him. What can he say to the wailing Kausalya?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "यथा च मन्ये दुर्जीवमेवं न सुकरं ध्रुवम्। \nआच्छिद्य पुत्रे निर्याते कौसल्या यत्र जीवति।।2.57.22।।",
+      "transliteration": "",
+      "translation": "I think it is indeed difficult for Kausalya to live wherever and whichever way she tries as she has been separated from her son. (the queens said).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "सत्यरूपं तु तद्वाक्यं राज्ञ: स्त्रीणां निशामयन्। \nप्रदीप्तमिव शोकेन विवेश सहसा गृहम्।।2.57.23।।",
+      "transliteration": "",
+      "translation": "Listening to the correct words of the king's wives, he immediately entered the palace as if in flames (of grief).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "स प्रविश्याष्टमीं कक्ष्यां राजानं दीनमातुरम्। \nपुत्रशोकपरिम्लानमपश्यत्पाण्डुरे गृहे।।2.57.24।।",
+      "transliteration": "",
+      "translation": "On entering the eighth courtyard, he saw in a pale white chamber king Dasaratha desolate, anguished and withered with the sorrow of separation from his son.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "अभिगम्य तमासीनं नरेन्द्रे मभिवाद्य च। \nसुमन्त्रो रामवचनं यथोक्तं प्रत्यवेदयत्।।2.57.25।।",
+      "transliteration": "",
+      "translation": "Sumantra approached the king who was seated, paid obeisance to him and conveyed Rama's words verbatim.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "स तूष्णीमेव तच्छ्रुत्वा राजा विभ्रान्तचेतनः। \nमूर्छितो न्यपतद्भूमौ रामशोकाभिपीडितः।।2.57.26।।",
+      "transliteration": "",
+      "translation": "The king silently listened to Rama's message. Bewildered and tormented by the grief of Rama's absence, he fell down on the ground in a swoon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "ततोऽन्तःपुरमाविद्धं मूर्छिते ���ृथिवीपतौ। \nउद्धृत्य बाहू चुक्रोश नृपतौ पतितेक्षितौ।।2.57.27।।",
+      "transliteration": "",
+      "translation": "The moment the lord of the earth fell down on the ground unconscious, the women in the inner apartment burst into tears, raising their arms.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "सुमित्रया तु सहिता कौसल्या पतितं पतिम्। \nउत्थापयामास तदा वचनं चेदमब्रवीत्।।2.57.28।।",
+      "transliteration": "",
+      "translation": "Having seen her husband collapsed on the ground, Kausalya assisted by Sumitra lifted him up and said to him thus:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "इमं तस्य महाभाग दूतं दुष्करकारिणः। \nवनवासादनुप्राप्तं कस्मान्न प्रतिभाषसे।।2.57.29।।",
+      "transliteration": "",
+      "translation": "O distinguished king, why are you not enquiring from the messenger about him  (Rama) who is capable of performing arduous tasks?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "अद्यैवमनयं कृत्वा व्यपत्रपसि राघव। \nउत्तिष्ठ सुकृतं तेस्तु शोके नस्या त्सहायता।।2.57.30।।",
+      "transliteration": "",
+      "translation": "O descendant of the Raghus are you ashamed of having done an injustice? Arise. you may be a blessed one (for fulfilling your promise). If you grieve, none will help you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "देव यस्या भयाद्रामं नानुपृच्छसि सारथिम्। \nनेह तिष्ठिति कैकेयी विस्रब्धं प्रतिभाष्यताम्।।2.57.31।।",
+      "transliteration": "",
+      "translation": "Kaikeyi for fear of whom you dare not ask the charioteer about Rama, O king is not here. You may speak to him without fear.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "सा तथोक्त्वा महाराजं कौसल्या शोकलालसा। \nधरण्यां निपपाताऽशु बाष्पविप्लुतभाषिणी।।2.57.32।।",
+      "transliteration": "",
+      "translation": "Absorbed in grief, Kausalya spoke to the maharaja in a voice choked with tears and then collapsed on the floor.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "एवं विलपतीं दृष्ट्वा कौसल्यां पतितां भुवि।  \nपतिं चावेक्ष्य ता स्सर्वा सुस्वरं रुरुदुः स्त्रियः।।2.57.33।।",
+      "transliteration": "",
+      "translation": "All those women saw weeping Kausalya as well as their husband fallen on the ground and wailed loudly in a chorus.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-57-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "तत स्तमन्तःपुरनादमुत्थितं समीक्ष्य वृद्धा स्तरुणाश्च मानवाः। \nस्त��रियश्च सर्वा रुरुदु स्समन्ततः पुरं तदासीत्पुनरेव सङ्कुलम्।।2.57.34।।",
+      "transliteration": "",
+      "translation": "Having heard the sound emanating from the inner apartment, people, old, young and women, of the city lamented. The city was crowded again.  इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे सप्तपञ्चाशस्सर्गः।। Thus ends the fiftyseventh sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

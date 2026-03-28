@@ -1,0 +1,234 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 113,
+    "title": "Lamentation of Ravana's consorts on seeing his dead body.",
+    "titleSanskrit": "",
+    "totalShlokas": 24
+  },
+  "shlokas": [
+    {
+      "id": "v6-113-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "रावणंनिहतंदृष्टवाराघवेणमहात्मना ।\nअन्तःपुराद्विनिष्पेतूराक्षस्यश्शोककर्शिताः ।।6.113.1।।",
+      "transliteration": "",
+      "translation": "On seeing Ravana killed by the great soul Raghava, the Rakshasas from the gynaeceum stricken with grief rushed out.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-113-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "वार्यमाणास्सुबहुशोवेष्टन्त्यःक्षितिपांसुषु ।\nविमुक्तकेश्यश्शोकार्तागावोवत्सहतायथा ।।6.113.2।।",
+      "transliteration": "",
+      "translation": "Numerous women, though obstructed, were rolling in dust, with dishevelled hair and crying like cows which had lost their calves.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-113-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "उत्तरेणविनिष्क्रम्यद्वारेणसहराक्षसैः ।\nप्रविश्यायोधनंघोरंविचिन्वन्त्वोहतंपतिम् ।।6.113.3।।\nआर्यपुत्रेतिवादिन्योहानाथेति च सर्वशः ।\nपरिपेतुःकबन्धाङ्कांमहींशोणितकर्दमाम् ।।6.113.4।।",
+      "transliteration": "",
+      "translation": "The Rakshasa women along with Rakshasas came out of the north gate and entered the battlefield screaming 'O son', 'O husband' and crying, seeing the trunks soaked in blood and mud on the ground and went about all over.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-113-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "ताबाष्पपरिपूर्णाक्ष्योभर्तृशोकपराजिताः ।\nकरेण्वइवनर्द्नत्योविनेदुर्हतयूथपाः ।।6.113.5।।",
+      "transliteration": "",
+      "translation": "Bellowing like female elephants that had lost their husbands, the women roared eyes filled with tears on account of grief for their husbands.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-113-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "ददृशुस्तामहाकायंमहावीर्यंमहाद्युतिम् ।\nरावणंनिहतम्भूमौनीलाञ्जनचयोपमम् ।।6.113.6।।",
+      "transliteration": "",
+      "translation": "They looked at the gigantic body of Ravana of extraordinary valour, full of splendor, killed and lying like a heap of dark mountain on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-113-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "ताःपतिंसहसादृष्टवाशयानंरणपांसुषु ।\nनिपेतुस्तस्यगात्रेषुछिन्नावनलताइव ।।6.113.7।।",
+      "transliteration": "",
+      "translation": "In the battlefield they saw their husband lying, and precipitately fell on his limbs like broken creepers in a garden.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-113-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "बहुमानात्परिष्वज्यकाचिदेवंरुरोद ह ।\nचरणौकाचिदालम्ब्यकाचित्कण्ठेऽवलम्ब्य च ।।6.113.8।।",
+      "transliteration": "",
+      "translation": "Indeed, out of respect some embraced him and roared aloud, some held his feet and wept, some held his neck and started weeping.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-113-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "उत्क्षिप्य च भुजौकाचिद्भूमौसु���रिवर्तते ।\nहतस्यवदनंदृष्टवाकाचिन्मोहमुपागमत् ।।6.113.9।।",
+      "transliteration": "",
+      "translation": "Some lifting their arms threw themselves on ground, some rolled, some beholding the dead Ravana's face became deluded.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-113-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "काचिदङ्केशिरःकृत्वारुरोदमुखमीक्षती ।\nस्नापयन्तीमुखंबाष्पैस्तुषारैरिवपङ्कजम् ।।6.113.10।।",
+      "transliteration": "",
+      "translation": "One held his head on her lap, and one held his face and looking at it shed tears, like nature covers lotus with dew and roared.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-113-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "एवमार्ताःपतिंदृष्टवारावणंनिहतंभुवि ।\nचुक्रुशुर्भहुधाशोकाद्भूयस्ताःपर्यदेवयन् ।।6.113.11।।",
+      "transliteration": "",
+      "translation": "Afflicted on beholding their husband Ravana, killed, and lying on the ground, the Rakshasa women again and again cried exceedingly in many ways overcome with grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-113-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "येनमित्रासितःशक्रोयेनवित्रासितोयमः ।\nयेनवैश्रवणोराजापुष्पकेणवियोजितः ।।6.113.12।।\nगन्धर्वाणामृषीणां च सुराणां च महात्मनाम् ।\nभयंयेनरणेदत्तंसोऽयंशेतेरणेहतः ।।6.113.13।।",
+      "transliteration": "",
+      "translation": "\"By whom Indra feared, by whom Yama feared, at whom king Visrava feared, by whom Pushpaka was deprived to Kubera in war, by whom Gandharvas and ascetics were afraid of, by whom high souled Suras were afraid of lies in the battlefield asleep.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-113-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "असुरेभ्यःसुरेभ्योवापन्नगेभ्योऽपिवातथा ।\nभयंयो न विजानातितस्येदंमानुषाद् भयम् ।।6.113.14।।",
+      "transliteration": "",
+      "translation": "\"He, who did not know fear from Asuras or Uragas, experienced fear from a mortal.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-113-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "अवध्योदेवतानांयस्तथादानवराक्षसाम् ।\nहतःसोऽयंरणेशेतेमानुषेणपदातिना ।।6.113.15।।",
+      "transliteration": "",
+      "translation": "\"He, whom Devatas, Danavas and Rakshasas could not kill, lies asleep, killed by a mortal who came by walk.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-113-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "यो न शक्यस्सुरैर्हन्तुं न यक्षैर्नासुरैस्तथा ।\nसोऽयंकश्चिदिवासत्त्वोमृत्युंमर्त्येनलम्भितः ।।6.113.16।।",
+      "transliteration": "",
+      "translation": "\"He, who could not be killed by Suras, Asuras or Yakshas, such a hero lies like a weak person devoid of strength, killed by a mortal, is resting.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-113-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "एवंवदन्त्योरुरुदुस्तस्यतादुःखिताःस्त्रियः ।\nभूयएव च दुःखार्ताविलेपुश्चपुनःपुनः ।।6.113.17।।",
+      "transliteration": "",
+      "translation": "Those women grieving in that way roared aloud, lamenting again and again cried, afflicted by sorrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-113-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अशृण्वतातुसुहृदांसततंहितवादिनाम् ।\nमरणायहृतासीताराक्षसाश्चनिपातिताः ।।6.113.18।।\nएतास्सममिदानींतेवयमात्मा च पातितः ।",
+      "transliteration": "",
+      "translation": "\"You did not listen to the good advice of your dear and good at heart. You brought Sita and destroyed yourself and all of us at a time.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-113-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "ब्रुवाणोऽपिहितंवाक्यमिष्टोभ्राताविभीषणः ।।6.113.19।।\nधृष्टंपरुषितोमोहत्त्वयात्मवथकाङ्क्षिणा ।",
+      "transliteration": "",
+      "translation": "\"Even though good advice was given by your dear brother Vibheeshana, in your delusion evidently you sought your own destruction.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-113-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "दिनिर्यातितातेस्वासतीतारामायमैथिली ।।6.113.20।।\nननस्स्याद्व्यसनंघोरमिदंमूलहरंमहत् ।",
+      "transliteration": "",
+      "translation": "\"If Sita, princess of Mithila had been returned by you, this great destruction of the very root and calamity with you and for us would not have happened.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-113-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "वृत्तकामोभवेद्भ्रातारामोमित्रकुलंभवेत् ।।6.113.21।।\nवयंचाध्विवाःसर्वाःसकमा न च शत्रवः ।",
+      "transliteration": "",
+      "translation": "\"If your brother's desire had been fulfilled Rama would have turned to be our friend. We would not have been widows. Our enemy's desire would not have been fulfilled.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-113-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "त्वयापुनर्नृशंशंसेनसीतांसंरुन्धताबलात् ।।6.113.22।।\nराक्षसावयमात्मा च त्रयंतुल्यंनिपातितम् ।",
+      "transliteration": "",
+      "translation": "\"With evil intention you kept Sita under detention. These Rakshasas and you and us all the three are together destroyed.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-113-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "न कामकारःकामंवातवराक्षसपुङ्गव ।\nदैवंचेष्टयतेसर्वंहतंदैवेनहन्यते ।।6.113.23।।",
+      "transliteration": "",
+      "translation": "\"O Foremost of Rakshasas! You have acted according to your desire alone is not sufficient as divine will make you do everything. He is killed whom destiny kills.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-113-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "वानराणांविनाशोऽयंराक्षसानां च तेरणे ।\nतवचैवमहाबाहो दैवयोगादुपागतः ।।6.113.24।।",
+      "transliteration": "",
+      "translation": "\"O mighty armed Ravana! For Vanaras, Rakshasas and you too, this destruction in this war has come by divine grace.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-113-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "नैवार्थेन न कामेनविक्रमेण न चाज्ञया ।\nशक्यादैवगतिर्लोकेनिवर्तयितुमुद्यता ।।6.113.25।।",
+      "transliteration": "",
+      "translation": "\"In the world, to change the divine course of action, it is not possible with wealth, or will or by prowess or king's orders.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-113-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "विलेपुरेवंदीनास्ताराक्षसाधिपयोषितः ।\nकुरर्यइवदुःखार्ताबाष्पपर्याकुलेक्षणाः ।।6.113.26।।",
+      "transliteration": "",
+      "translation": "The wives of Ravana wailed piteously in that manner filled with grief, eyes dimmed with tears, they roared like krauncha birds. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेत्रयोदशोत्तरशततमस्सर्गः ।। This is the end of one hundred and thirteenth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

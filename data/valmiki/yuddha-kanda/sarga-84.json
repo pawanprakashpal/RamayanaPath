@@ -1,0 +1,207 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 84,
+    "title": "Vibheeshana consoles Rama telling about the trick of Indrajith in killing illusory Sita. Vibheeshana urges Lakshmana to proceed to Nikumbha to fight.",
+    "titleSanskrit": "",
+    "totalShlokas": 21
+  },
+  "shlokas": [
+    {
+      "id": "v6-84-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "राममाश्वासयानेतुलक्ष्मणेभ्रातृवत्सले ।\nनिक्षिप्यगुल्मान् स्वस्थानेतत्रागच्छद्विभीषणः ।।6.84.1 ।।",
+      "transliteration": "",
+      "translation": "As Lakshmana was comforting his affectionate brother, Vibheeshana came to Rama assigning the troops to reach their respective places.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-84-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "नानाप्रहरणैर्वीरैश्चतुर्भिस्सचिवैर्वृत: ।\nनीलाञ्जनचयाकारैर्मातङ्गैरिवयूथप ।।6.84.2।।",
+      "transliteration": "",
+      "translation": "Accompanied by the four ministers surrounded by four ministers resembling leaders of elephants, who looked dark like collyrium, Vibheeshana came to highsouled Rama. He witnessed Vanaras whose eyes were filled with tears.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-84-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "राघवं च महात्मानमिक्ष्वाकुकुलनन्दनम् ।\nददर्शमोहमापन्नंलक्ष्मणस्याङ्गमाश्रितम् ।।6.84.3।।",
+      "transliteration": "",
+      "translation": "He (Vibheeshana) saw the great soul, the delight of the Ikshvaku race deluded, distressed, and lying on the lap of Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-84-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "व्रीडितंशोकसन्तप्तंदृष्टवारामंविभीषणः ।\nअन्तर्धुःखएनदीनात्माकिमेतदितिसोऽब्रवीत् ।।6.84.5।।",
+      "transliteration": "",
+      "translation": "Vibheeshana was pained to see Rama immersed in grief, depressed in spirit, and asked for What is all this grief for?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-84-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "विभीषणमुखंदृष्टवासुग्रीवंतांश्चवानरान् ।\nलक्ष्मणोवाचमन्दार्थमिदंबाष्पपरिप्लुतः ।।6.84.6।।",
+      "transliteration": "",
+      "translation": "Lakshmana looking at Sugriva's face and also at the Vanaras, his eyes bathed in tears spoke in a dull tone.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-84-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "हताइन्द्रजितासीताइतिश्रुत्वैवराघवः ।\nहनूमद्वचनात्सौम्यततोमोहमुपागतः ।।6.84.7।।",
+      "transliteration": "",
+      "translation": "\"O Noble one! On hearing Hanuman that Sita is killed by Indrajith, Rama is deluded', said Lakshmana to Vibheeshana.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-84-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "कथयन्तंतुसौमित्रिंसन्निवार्यविभीषणः ।\nपुष्कलार्थमिदंवाक्यंविसंज्ञंराममब्रवीत् ।।6.84.8।।",
+      "transliteration": "",
+      "translation": "Vibheeshana spoke these meaningful words to Rama, who was unconscious, restraining Saumithri from speaking.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-84-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "मनुजेन्द्रार्थरूपेणयदुक्ततुहनूमता ।\nतदयुक्तमहंमन्येसागरस्येवशोषणम् ।।6.84.9।।",
+      "transliteration": "",
+      "translation": "\"I think that what has been spoken by Hanuman as truth (that Sita has been killed) is like drying up an ocean.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-84-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "अभिप्रायंतुजानामिरावणस्यदुरात्मनः ।\nसीतांप्रतिमहाबाहो न च घातंकरिष्यति ।।6.84.10।।",
+      "transliteration": "",
+      "translation": "\"O mighty armed Rama! with reference to Sita, you do not know Ravana's opinion. He will never kill Sita.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-84-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "याच्यमानःसुबहुशोमयाहितचिकीर्षुणा ।\nवैदेहीमुत्सृजस्वेति न च तत्कृतवान्वचः ।।6.84.11।।",
+      "transliteration": "",
+      "translation": "\"Though I pleaded Ravana to return Vaidehi for his welfare, he did not accept my word.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-84-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "नैवसाम्ना न दानेन न भेदेनकुतोयुधा ।\nसाद्रष्टुमपिशक्येतनैवचान्येनकेनचित् ।।6.84.12।।",
+      "transliteration": "",
+      "translation": "\"She can't be perceived by recourse, by charity, by dissension or even by war. Why again any other means. There is no chance.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-84-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "वानरान्मोहयित्वातुप्रतियातः स राक्षसः ।\nमयामयींमहाबाहोतांविद्दिजनकात्मजाम् ।।6.84.13।।",
+      "transliteration": "",
+      "translation": "That Rakshasa by hoodwinking the Vanaras withdrew from the battlefield. O mighty armed one! Killing of Janaki is an illusion.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-84-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "चैत्यंनिकुम्भिलांनामप्राप्यहोमंकरिष्यति ।\nहुतवानुपयातोहिदेवैरपिसवासवैः ।।6.84.14।।\nदुराधर्षोभवत्येषसङ्ग्रामेरावणात्मजः ।",
+      "transliteration": "",
+      "translation": "\"Ravana's son will be reaching a sanctuary named Nikumbhilam and doing a sacrificial ritual. On returning from there it will be difficult even for Indra and Devas to be at him in war. He has done this conjuring trick.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-84-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तेनमोहयतानूनमेषामायाप्रयोजिता ।।6.84.15।।\nविघ्नमन्विच्छतातत्रवानराणांपराक्रमे ।",
+      "transliteration": "",
+      "translation": "\"Knowing the prowess of Vanaras, thinking surely that they will create obstacles for the ritual, he used the trick to keep them away (to be sad and not inclined for war).\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-84-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "ससैन्यास्तत्रगच्छामोयावत्तन्नसमाप्यते ।।6.84.16।।\nत्यजेमंनरशार्दूलमिथ्यासन्तापगतम् ।\nसीदतेहिबलंसर्वंदृष्टवात्वांशोककर्शितम् ।।6.84.17।।",
+      "transliteration": "",
+      "translation": "\"O tiger among men! We shall go there with the army before the completion of the sacrificial ritual. Give up false agony and the cause of sorrow. Seeing you all the troops are distressed.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-84-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "इहत्वंस्वस्थहृदयस्तिष्ठसत्त्वसमुच्छ्रितः ।\nलक्ष्मणंप्रेषयास्माभिस्सहसैन्यानुकर्षिभिः ।।6.84.18।।",
+      "transliteration": "",
+      "translation": "\"You be confident at heart and be courageous now. Send Lakshmana with us with the army.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-84-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "एषतंनरशार्दूलोरावणिंनिशितैश्शरैः ।\nत्याजयिष्यतितत्कर्मततोवध्योभविष्यति ।।6.84.19।।",
+      "transliteration": "",
+      "translation": "\"The tiger among mortals with his sharp arrows will dispel Ravana's son from doing the action (sacrifice) then killing him will be possible.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-84-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तस्यैतेनिशितास्तीक्ष्णाःपत्रिपत्राङ्गवाजिनः ।\nपतत्रिणइवासौम्याश्शराःपास्यन्तिशोणितम् ।।6.84.20।।",
+      "transliteration": "",
+      "translation": "\"Those whetted and pointed arrows fixed with limbs of birds in the form of feathers will drink his (Indrajith's) blood like cruel birds.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-84-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "सत्सन्दिशमहाबाहोलक्ष्मणंशुभलक्षणम् ।\nराक्षसस्यविनाशायवज्रंवज्रधरोयथा ।।6.84.21।।",
+      "transliteration": "",
+      "translation": "\"O mighty armed Rama! send Lakshmana endowed with auspicious qualities for the destruction of Rakshasa like Indra with thunderbolt\", conveyed Vibheeshana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-84-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "मनुजवरन कालविप्रकर्षोरिपुनिधनंप्रतियत्क्षामोऽद्यकर्तुम् ।\nत्वमतिसृजरिपोर्वधायवाणीममररिपोर्मथनेयथामहेन्द्रः ।।6.84.22।।",
+      "transliteration": "",
+      "translation": "\"O Jewel among men, wasting time in case of destruction of the enemy is not desirable. Just like the Lord of gods sent to kill the enemy of gods, you command Lakshmana to kill the enemy.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-84-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "समाप्तकर्माहि स राक्षसाधिपोभवत्यदृश्यस्समरेसुरासुरैः ।\nयुयुत्सतातेनसमाप्तकर्मणाभवेत्सुराणामपिसंशयोमहान् ।।6.84.23।।",
+      "transliteration": "",
+      "translation": "\"On completion of the sacrifice by the Rakshasa he will become invisible for Suras and Asuras also in war. After completion even the Suras will have great doubt to come to fight with him.\" ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेअदिकव्येयुद्धकाण्डेचतुरशीतितमस्सर्गः ।। This is the end of the eighty fourth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,783 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 11,
+    "title": "Meeting with sage Dharmabrata -- episode of sage Mandakarni and Panchapsara lake -- Rama, Sita and Lakshmana go about living in different hermitages -- arrive at Sutikshna's leave for Agastya's -- story of Ilvala and Vatapi.",
+    "titleSanskrit": "",
+    "totalShlokas": 85
+  },
+  "shlokas": [
+    {
+      "id": "v3-11-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "अग्रतः प्रययौ रामस्सीता मध्ये सुमध्यमा।\nपृष्ठतस्तु धनुष्पाणिर्लक्ष्मणोऽनुजगाम ह।।3.11.1।।",
+      "transliteration": "",
+      "translation": "Rama walked in front, Sita with a beautiful waist, in the middle and Lakshmana holding the bow, behind them৷৷",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तौ पश्यमानौ विविधान् शैलप्रस्थान्वनानि च।\nनदीश्च विविधा रम्या जग्मतुस्सीतया सह।।3.11.2।।",
+      "transliteration": "",
+      "translation": "Both Rama and Lakshmana walked on, accompanied by Sita, watching several beautiful mountain ranges, forests  and rivers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "सारसांश्चक्रवाकांश्च नदीपुलिनचारिणः।\nसरांसि च सपद्मानि युक्तानि जलजैः खगैः।।3.11.3।।",
+      "transliteration": "",
+      "translation": "(Watching) the swans and ruddy geese on river banks and lakes full of lotuses, and birds on water and in the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "यूथबद्धांश्च पृषतान्मदोन्मत्तान् विषाणिनः।\nमहिषांश्च वराहांश्च नागांश्च द्रुमवैरिणः।।3.11.4।।",
+      "transliteration": "",
+      "translation": "(Watching) herds of deer, intoxicated horned buffaloes, wild boars and elephants who are enemies of trees (elephants uproof trees).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "ते गत्वा दूरमध्वानं लम्बमाने दिवाकरे।\nददृशुस्सहिता रम्यं तटाकं योजनायतम्।।3.11.5।।\nपद्मपुष्करसम्बाधं गजयूथैरलङ्कृतम्।\nसारसैर्हंसकादम्बैस्सङ्कुलं जलचारिभिः।।3.11.6।।",
+      "transliteration": "",
+      "translation": "As the Sun was setting, they had covered a long distance, watching a yojanalong tank adorned with lotuses, and crowded with herds of elephants and flocks of cranes, swans and aquatic animals.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "प्रसन्नसलिले रम्ये तस्मिन्सरसि शुश्रुवे।\nगीतवादित्रनिर्घोषो न तु कश्चन दृश्यते।।3.11.7।।",
+      "transliteration": "",
+      "translation": "In that lake of clear waters they heard the sounds of songs and musical instruments, while there were none around.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "ततः कौतूहलाद्रामो लक्ष्मणश्च महाबलः।\nमुनिं धर्मभृतं नाम प्रष्टुं समुपचक्रमे।।3.11.8।।",
+      "transliteration": "",
+      "translation": "Out of curiosity, mighty Rama, and Lakshmana started enquiring about the matter from sage Dharmabrata by name:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "इदमत्यद्भुतं श्रुत्वा सर्वेषां नो महामुने।\nकौतूहलं महज्जातं किमिदं साधु कथ्यताम्।।3.11.9।।\nवक्तव्यं यदि चेदविप्र नातिगुह्यमपि प्रभो।",
+      "transliteration": "",
+      "translation": "O great sage, this very wonderful sound, has whetted our great curiosity. If there is no top secret about this, do disclose it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तेनैवमुक्तो धर्मात्मा राघवेण मुनिस्तदा।।3.11.10।।\nप्रभवं सरसः कृत्स्नमाख्यातुमुपचक्रमे।",
+      "transliteration": "",
+      "translation": "Thus addressed by Rama, the righteous sage narrated the entire origin of the lake.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "इदं पञ्चाप्सरो नाम तटाकं सार्वकालिकम्।।3.11.11।।\nनिर्मितं तपसा राम मुनिना माण्डकर्णिना।",
+      "transliteration": "",
+      "translation": "O Rama this lake called Panchapsara  filled with water at all times has been created through penance by a sage called Mandakarni.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "स हि तेपे तपस्तीव्रं माण्डकर्णिर्महामुनिः।।3.11.12।।\nदशवर्षसहस्राणि वायुभक्षो जलाश्रयः।",
+      "transliteration": "",
+      "translation": "Great sage Mandakarni standing in water and living on air performed  rigorous penance for ten thousand years.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "ततः प्रव्यथितास्सर्वे देवास्साग्निपुरोगमाः।।3.11.13।।\nअब्रुवन् वचनं सर्वे परस्परसमागताः।",
+      "transliteration": "",
+      "translation": "Thereafter very much perturbed, all the gods led by Agni gathered together at one place and started deliberating among themselves.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "अस्माकं कस्यचित् स्थानमेष प्रार्थयते मुनिः।।3.11.14।।\nइति संविग्नमनसस्सर्वे ते त्रिदिवौकसः।",
+      "transliteration": "",
+      "translation": "'The gods of heaven became agitated in their minds thinking the sage might usurp one of their places.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तत्र कर्तुं तपोविघ्नं देवैस्सर्वैर्नियोजिताः।।3.11.15।।\nप्रधानाप्सरसः पञ्च विद्युच्चलितवर्चसः।",
+      "transliteration": "",
+      "translation": "All the gods then engaged five of the important nymphs, glittering like lightning, to disturb the penance of the sage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "अप्सरोभिस्ततस्ताभिर्मुनिर्दृष्टपरावरः।।3.11.16।।\nनीतो मदनवश्यत्वं सुराणां कार्यसिद्धये।",
+      "transliteration": "",
+      "translation": "The sage, a knower of the inner self and the world of plurality, was gripped by passion for the apsaras, who had come to achieve the target of the gods.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "ताश्चैवाप्सरसः पञ्च मुनेः पत्नीत्वमागताः।।3.11.17।।\nतटाके निर्मितं तासामस्मिन्नन्तर्हितं गृहम्।",
+      "transliteration": "",
+      "translation": "The five apsaras, got the status of wives to the sage who built them an invisible home inside the lake.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तथैवाप्सरसः पञ्च निवसन्त्यो यथासुखम्।।3.11.18।।\nरमयन्ति तपोयोगान्मुनिं यौवनमास्थितम्।",
+      "transliteration": "",
+      "translation": "The apsaras lived happily with the sage who remained youthful by virtue of his penance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तासां सङ्क्रीडमानानामेष वादित्रनिस्स्वनः।।3.11.19।।\nश्रूयते भूषणोन्मिश्रो गीतशब्दो मनोहरः।",
+      "transliteration": "",
+      "translation": "While the apsaras played their musical instruments, their melodious songs mingled  with the sounds of ornaments are heard.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "आश्चर्यमिति तस्यैतद्वचनं भावितात्मनः।।3.11.20।।\nराघवः प्रतिजग्राह सह भ्रात्रा महायशाः।",
+      "transliteration": "",
+      "translation": "Glorious Rama and his brother heard the wonderful words of the selfrealised sage and exclaimed, 'How strange '",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "एवं कथयमानस्य ददर्शाश्रममण्डलम्।।3.11.21।।\nकुशचीरपरिक्षिप्तं ब्राह्म्या लक्ष्म्या समावृतम्।",
+      "transliteration": "",
+      "translation": "When the sage Dharmabrata was telling the story, Rama saw a hermitage strewn all over with kusa grass and bark garments, and endowed with pure brahminic grace.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "प्रविश्य सह वैदेह्या लक्ष्मणेन च राघवः।।3.11.22।।\nउवास मुनिभिस्सर्वैः पूज्यमानो महायशाः।",
+      "transliteration": "",
+      "translation": "Illustrious Rama accompanied by Vaidehi and Lakshmana entered the hermitage and, honoured by all the sages, stayed there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तदा तस्मिन्सकाकुत्थ्सः श्रीमत्याश्रममण्डले।।3.11.23।।\nउषित्वा तु सुखं तत्र पूज्यमानो महर्षिभिः।\nजगाम चाश्रमांस्तेषां पर्यायेण तपस्विनाम्।।3.11.24।।\nयेषामुषितवान् पूर्वं सकाशे स महास्त्रवित्।",
+      "transliteration": "",
+      "translation": "Rama, the scion of the Kakutstha race, wielder of great weapons, stayed in that beautiful hermitage, accepting the hospitality of the sages extended with due honour, He visited in turn their penancegroves where he repeated his stay.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "क्वचित्परिदशान्मासानेकं संवत्सरं क्वचित्।।3.11.25।।\nक्वचिच्छ चतुरो मासान् पञ्च षट्चापरान्क्वचित्।\nअपरत्राधिकं मासादप्यर्धमधिकं क्वचित्।।3.11.26।।\nत्रीन्मासानष्टमासांश्च राघवो न्यवसत्सुखम्।",
+      "transliteration": "",
+      "translation": "Rama lived happily here for about ten months, there one year, here four or five or six months and there over one or half a month or three or eight months in another.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "तथा संवसतस्तस्य मुनीनामाश्रमेषु वै।।3.11.27।।\nरमतश्चानुकूल्येन ययुस्संवत्सरा दश।",
+      "transliteration": "",
+      "translation": "Thus enjoying their stay in the hermitages, Rama, Sita and Lakshmana spent ten favourable years.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "परिवृत्य च धर्मज्ञो राघवस्सह सीतया।।3.11.28।।\nसुतीक्ष्णस्याश्रमं श्रीमान्पुनरेवाजगाम ह।",
+      "transliteration": "",
+      "translation": "Rama went round who was full of grace and full of knowledge on dharma went round with Sita and came back to Suthikshna's hermitage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "स तमाश्रममासाद्य मुनिभिः प्रतिपूजितः।।3.11.29।।\nतत्रापि न्यवसद्रामः कञ्चित्कालमरिन्दमः।",
+      "transliteration": "",
+      "translation": "On his arrival, Rama, the subduer of enemies, was honoured by the sages at the hermitage where he stayed for a short time.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "तदाश्रमस्थो विनयात्कदाचित्तं महामुनिम्।।3.11.30।।\nउपासीनस्सकाकुत्स्थस्सुतीक्ष्णमिदमब्रवीत्।",
+      "transliteration": "",
+      "translation": "Once while sitting beside sage Sutikshna at the hermitage Rama humbly addressed him:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "अस्मिन्नरण्ये भगवानगस्त्यो मुनिसत्तमः।।3.11.31।।\nवसतीति मया नित्यं कथाः कथयतां श्रुतम्।",
+      "transliteration": "",
+      "translation": "I have heard others saying that lord Agastya, the great sage, lives in this forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "न तु जानामि तं देशं वनस्यास्य महत्तया।।3.11.32।।\nकुत्राश्रमपदं रम्यं महर्षेस्तस्य धीमतः।",
+      "transliteration": "",
+      "translation": "I am unable to locate the sacred hermitage of that sagacious sage due to the vastness of this forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "प्रसादात्तत्र भवतस्सानुजस्सह सीतया।।3.11.33।।\nअगस्त्यमभिगच्छेयमभिवादयितुं मुनिम्।",
+      "transliteration": "",
+      "translation": "By your grace, I wish to go there with Sita and my brother Lakshmana to offer our respectful salutations.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "मनोरथो महानेष हृदि मे परिवर्तते।।3.11.34।।\nयद्यहं तं मुनिवरं शुश्रूषेयमपि स्वयम्।",
+      "transliteration": "",
+      "translation": "There is a great desire  in my heart to serve in person the best of sages, Agastya.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "इति रामस्य स मुनिश्श्रुत्वा धर्मात्मनो वचः।।3.11.35।।\nसुतीक्ष्णः प्रत्युवाचेदं प्रीतो दशरथात्मजम्।",
+      "transliteration": "",
+      "translation": "Hearing the words of Rama, the righteous son of Dasaratha, sage Sutikshna was pleased to reply:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "अहमप्येतदेव त्वां वक्तुकामस्सलक्ष्मणम्।।3.11.36।।\nअगस्त्यमभिगच्छेति सीतया सह राघव।",
+      "transliteration": "",
+      "translation": "I also wished you, O Raghava, to visit Agastya along with Sita and Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "दिष्ट्या त्विदानीमर्थेऽस्मिन् स्वयमेव ब्रवीषि माम्।।3.11.37।।\nअहमाख्यामि ते वत्स यत्रागस्त्यो महामुनिः।",
+      "transliteration": "",
+      "translation": "Luckily you have asked me on your own. I will tell you where the great sage Agastya lives.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "योजनान्याश्रमात्तात याहि चत्वारि वै ततः।।3.11.38।।\nदक्षिणेन महान् श्रीमानगस्त्यभ्रातुराश्रमः।",
+      "transliteration": "",
+      "translation": "Dear Rama, walk from here a distance of four yojanas. There in the southerly direction  stands the great, beautiful hermitage of Agastya's brother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "स्थलप्राये वनोद्देशे पिप्पलीवनशोभिते।।3.11.39।।\nबहुपुष्पफले रम्ये नानाशकुनिनादिते।",
+      "transliteration": "",
+      "translation": "This plain land in the beautiful forest tract is adorned with fig trees,filled with  flowers, fruits, and delightful sounds of different birds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "पद्मिन्यो विविधास्तत्र प्रसन्नसलिलाश्शिवाः।।3.11.40।।\nहंसकारण्डवाकीर्णाश्चक्रवाकोपशोभिताः।\nतत्रैकां रजनीं व्युष्य प्रभाते राम गम्यताम्।।3.11.41।।",
+      "transliteration": "",
+      "translation": "O Rama, there are lotusponds filled with clear, sacred waters, with different kinds of swans, ducks and ruddy geese. Spend one night there and proceed early in the morning.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "दक्षिणां दिशमास्थाय वनषण्डस्य पार्श्वतः।\nतत्रागस्त्याश्रमपदं गत्वा योजनमन्तरा।।3.11.42।।",
+      "transliteration": "",
+      "translation": "If you go in the southern direction for a yojana you will find Agasthya's hermitage by the side of a cluster of trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "रमणीये वनोद्धेशे बहुपादपसंवृते।\nरंस्यते तत्र वैदेही लक्ष्मणश्च सह त्वया।।3.11.43।।\nस हि रम्यो वनोद्देशो बहुपादपसङ्कुलः।",
+      "transliteration": "",
+      "translation": "Vaidehi will feel happy in your company in that delightful forest region full of many trees.So too will Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "यदि बुद्धिः कृता द्रष्टुमगस्त्यं तं महामुनिम्।।3.11.44।।\nअद्यैव गमने बुद्धिं रोचयस्व महायशः।",
+      "transliteration": "",
+      "translation": "O glorious one, if you have made up your mind to visit that great sage Agastya, think of starting today itself.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "इति रामो मुनेश्श्रुत्वा सह भ्रात्राभिवाद्य च।।3.11.45।।\nप्रतस्थेऽमुद्दिश्य सानुजस्सीतया सह।",
+      "transliteration": "",
+      "translation": "Rama heard the words of the sage, offered him reverential salutations and set out along with his brother and Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "पश्यन्वनानि रम्याणि पर्वतांश्चाभ्रसन्निभान्।।3.11.46।।\nसरांसि सरितश्चैव पथि मार्गवशानुगाः।\nसुतीक्ष्णेनोपदिष्टेन गत्वा तेन पथा सुखम्।।3.11.47।।\nइदं परमसंहृष्टो वाक्यं लक्ष्मणमब्रवीत्।",
+      "transliteration": "",
+      "translation": "Enjoying the sight of delightful forests, cloudlike mountains, lakes and rivers on the  way, and following the directions given by  Sutikshna, Rama was happy. He said  to Lakshmana:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "एतदेवाश्रमपदं नूनं तस्य महात्मनः।।3.11.48।।\nअगस्त्यस्य मुनेर्भ्रातुर्दृश्यते पुण्यकर्मणः।",
+      "transliteration": "",
+      "translation": "Surely this is the hermitage of great Agastya's brother, a man of holy deeds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "यथा हि मे वनस्यास्य ज्ञाताः पथि सहस्रशः।।3.11.49।।\nसन्नताः फलभारेण पुष्पभारेण च द्रुमाः।",
+      "transliteration": "",
+      "translation": "This is the glade we were told about with thousands of trees drooping down with abundant fruits and flowers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "पिप्पलीनां च पक्वानां वनादस्मादुपागतः।।3.11.50।।\nगन्धोऽयं पवनोक्षिप्तस्सहसा कटुकोदयः।",
+      "transliteration": "",
+      "translation": "Feel this sudden astringent smell of ripe figs wafted by the breeze from the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "तत्र तत्र च दृश्यन्ते सङ्क्षिप्ताः काष्ठसञ्चयाः।।3.11.51।।\nलूनाश्च पथि दृश्यन्ते दर्भा वैडूर्यवर्चसः।",
+      "transliteration": "",
+      "translation": "Heaps of firewood are seen here and there on the path. There are blades of grass (used for sacrificial ceremonies) shining like vaidurya (gems).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "एतच्च वनमध्यस्थं कृष्णाभ्रशिखरोपमम्।।3.11.52।।\nपावकस्याश्रमस्थस्य धूमाग्रं सम्प्रदृश्यते।",
+      "transliteration": "",
+      "translation": "In the middle of the forest can be seen like the tip of the dark clouds columns of smoke coming out of the top of hermitages.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "विविक्तेषु च तीर्थेषु कृतस्नाना द्विजातयः।।3.11.53।।\nपुष्पोपहारं कुर्वन्ति कुसुमैस्स्वयमर्जितै।",
+      "transliteration": "",
+      "translation": "Priests are coming out of the solitary sacred spots after their bath and making offerings of flowers they had themselves plucked.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "तत्सुतीक्ष्णस्य वचनं यथा सौम्य मया श्रुतम्।।3.11.54।।\nअगस्त्यस्याश्रमो भ्रातुर्नूनमेष भविष्यति।",
+      "transliteration": "",
+      "translation": "O handsome one, surely this is the hermitage of Agastya's brother about which I heard from Sutikshna.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "निगृह्य तपसा मृत्युं लोकानां हितकाम्यया।।3.11.55।।\nयस्य भ्रात्रा कृतेयं दिक्छरण्या पुण्यकर्मणा।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "धारयन् ब्राह्मणं रूपमिल्वलस्संस्कृतं वदन्।।3.11.56।।\nआमन्त्रयति विप्रान्स्मश्राद्धमुद्दिश्य निर्घृणः।",
+      "transliteration": "",
+      "translation": "Assuming the form of a brahmin and using Sanskrit language, Ilvala would invite brahmins for offering shraddha to the dead",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "भ्रातरं संस्कृतं कृत्वा ततस्तं मेषरूपिणम्।।3.11.57।।\nतान् द्विजान्भोजयामास श्राद्धदृष्टेन कर्मणा।",
+      "transliteration": "",
+      "translation": "Ilvala would keep his brother sanctified, so that he is fit for offering, Then he would feed the brahmins with mutton according to the rituals.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "ततो भुक्तवतां तेषां विप्राणामिल्वलोऽब्रवीत्।।3.11.59।।\nवातापे निष्क्रमन्वेति स्वरेण महता वदन्।",
+      "transliteration": "",
+      "translation": "Then when the brahmins finished eating, Ilvala would call aloud, 'O Vatapi come out'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-54",
+      "number": 54,
+      "type": "shloka",
+      "original": "ततो भ्रातुर्वचश्श्रुत्वा वातापिर्मेषवन्नदन्।।3.11.60।।\nभित्त्वा भित्त्वा शरीराणि ब्राह्मणानां विनिष्पतत्।",
+      "transliteration": "",
+      "translation": "Then hearing his brother's voice, Vatapi would bleat like a sheep and jump out, tearing open the bodies of those brahmins.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-55",
+      "number": 55,
+      "type": "shloka",
+      "original": "ब्राह्माणानां सहस्राणि तैरेवं कामरूपिभिः।।3.11.61।।\nविनाशितानि संहत्य नित्यशः पिशिताशनैः।",
+      "transliteration": "",
+      "translation": "In this manner, thousands of brahmins used to be killed daily by those carnivorous demons who assumed any form at their free will.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-56",
+      "number": 56,
+      "type": "shloka",
+      "original": "अगस्त्येन तदा देवैः प्रार्थितेन महर्षिणा।।3.11.62।।\nअनुभूय किल श्राद्धे भक्षितस्समहासुरः।",
+      "transliteration": "",
+      "translation": "Urged by the gods, Agastya  came  for the shradda . The mighty demon played the same routine trick and Vatapi, for sure, was eaten by the great sage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-57",
+      "number": 57,
+      "type": "shloka",
+      "original": "ततस्सम्पन्नमित्युक्त्वा दत्त्वा हस्तोदकं ततः।।3.11.63।।\nभ्रातरं निष्क्रमस्वेति चेल्वलस्सोऽभ्यभाषत।",
+      "transliteration": "",
+      "translation": "Saying, the ritual is complete Ilvala offered water in the palm of Agastya and called his brother to come out.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-58",
+      "number": 58,
+      "type": "shloka",
+      "original": "स तं तथा भाषमाणं भ्रातरं विप्रघातिनम्।।3.11.64।।\nअब्रवीत्प्रहसन्धीमानगस्त्यो मुनिसत्तमः।",
+      "transliteration": "",
+      "translation": "Wise Agastya,  the best among the ascetics, laughing aloud, said to Ilvala, the destroyer of brahmins:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-59",
+      "number": 59,
+      "type": "shloka",
+      "original": "कुतो निष्क्रमितुं शक्तिर्मया जीर्णस्य रक्षसः।।3.11.65।।\nभ्रातुस्ते मेषरूपस्य गतस्य यमसादनम्।",
+      "transliteration": "",
+      "translation": "I have digested the demon Vatapi your brother, who assumed the form of a sheep. He has reached the abode of Yama, Lord of death. Where does he have the power to come out?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-60",
+      "number": 60,
+      "type": "shloka",
+      "original": "अथ तस्य वचश्श्रुत्वा भ्रातुर्निधनसंश्रयम्।।3.11.66।।\nप्रधर्षयितुमारेभे मुनिं क्रोधान्निशाचरः।",
+      "transliteration": "",
+      "translation": "On hearing the news of the death of his brother, the demon Ilvala, out of anger, started attacking the sage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-61",
+      "number": 61,
+      "type": "shloka",
+      "original": "सोऽभिद्रवन्मुनिश्रेष्ठं मुनिना दीप्ततेजसा।।3.11.67।।\nचक्षुषानलकल्पेन निर्दग्धो निधनं गतः।",
+      "transliteration": "",
+      "translation": "Ilvala who pounced upon Agastya, the best among the sages whose lustre lay consumed by the fire of his eyes which were in flames.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-62",
+      "number": 62,
+      "type": "shloka",
+      "original": "तस्यायमाश्रमो भ्रातुस्तटाकवनशोभितः।।3.11.68।।\nविप्रानुकम्पया येन कर्मेदं दुष्करं कृतम्।",
+      "transliteration": "",
+      "translation": "This hermitage surrounded by beautiful lakes and forests belongs to his brother (Sudarsana). Out of sympathy for Agastya, he has accomplished this difficult task.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-63",
+      "number": 63,
+      "type": "shloka",
+      "original": "एवं कथयमानस्य तस्य सौमित्रिणा सह।\nरामस्यास्तं गतस्सूर्यस्सन्ध्याकालोऽभ्यवर्ततः।।3.11.69।।",
+      "transliteration": "",
+      "translation": "While Rama was thus narrating to Lakshmana (the story of Agastya), the Sun set and evening closed in.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-64",
+      "number": 64,
+      "type": "shloka",
+      "original": "उपास्य पश्चिमां सन्ध्यां सह भ्रात्रा यथाविधि।\nप्रविवेशाऽश्रमपदं तमृषिं सोऽभ्यवादयत्।।3.11.70।।",
+      "transliteration": "",
+      "translation": "Rama with his brother Lakshmana duly offered oblations at twilight, entered the hermitage and greeted the sage (Sudarsana) with folded palms.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-65",
+      "number": 65,
+      "type": "shloka",
+      "original": "सम्यक् प्रतिगृहीतश��च मुनिना तेन राघवः।\nन्यवसत्तां निशामेकां प्राश्य मूलफलानि च।।3.11.71।।",
+      "transliteration": "",
+      "translation": "Warmly received by the sage, Rama shared the roots and fruits and slept the night there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-66",
+      "number": 66,
+      "type": "shloka",
+      "original": "तस्यां रात्य्रां व्यतीतायां विमले सूर्यमण्डले।\nभ्रातरं तमगस्त्यस्य ह्यामन्त्रयत राघवः।।3.11.72।।",
+      "transliteration": "",
+      "translation": "When the night passed and the Sun became bright, Rama took leave of the brother of Agastya.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-67",
+      "number": 67,
+      "type": "shloka",
+      "original": "अभिवादये त्वां भगवन् सुखमध्युषितो निशाम्।\nआमन्त्रये त्वां गच्छामि गुरुं ते द्रष्टुमग्रजम्।।3.11.73।।",
+      "transliteration": "",
+      "translation": "O Lord, the night has been wellspent. Now we humbly seek leave of you to see your respectable elder brother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-68",
+      "number": 68,
+      "type": "shloka",
+      "original": "गम्यतामिति तेनोक्तो जगाम रघुनन्दनः।\nयथोद्दिष्टेन मार्गेण वनं तच्चावलोकयन्।।3.11.74।।",
+      "transliteration": "",
+      "translation": "With his permission, Rama, the delight of the Raghu race, proceeded along the path indicated, watching (the beauty of) the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-69",
+      "number": 69,
+      "type": "shloka",
+      "original": "नीवारान्पनसांस्तालांस्तिमिशान्वञ्चुलान्धवान्।\nचिरिबिल्वान्मधूकांश्च बिल्वानपि च तिन्दुकान्।।3.11.75।।",
+      "transliteration": "",
+      "translation": "They passed by wild rice fields, jackfruit trees, palmyra and various other trees like Ashoka, trees with white flowers, old trees that existed for a long time, mahva trees, bilva trees and tindukas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-70",
+      "number": 70,
+      "type": "shloka",
+      "original": "पुष्पितान्पुष्पिताग्राभिर्लताभिरनुवेष्टितान्।\nददर्श रामश्शतशस्तत्र कान्तारपादपान्।।3.11.76।।\nहस्तिहस्तैर्विमृदितान्वानरैरुपशोभितान्।\nमत्तैश्शकुनिसङ्घैश्च शतशश्च प्रणादितान्।।3.11.77।।",
+      "transliteration": "",
+      "translation": "Rama saw hundreds of trees crushed by the trunks of elephants and by monkeys. He saw some trees echoing with notes of hundreds of intoxicated birds. He saw tree tops coiled with creepers in full bloom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-71",
+      "number": 71,
+      "type": "shloka",
+      "original": "ततोऽब्रवीत्समीपस्थं रामो राजीवलोचनः।\nपृष्ठतोऽनुगतं वीरं लक्ष्मणं लक्ष्मिवर्धनम्।।3.11.78।।",
+      "transliteration": "",
+      "translation": "Then the lotuseyed Rama said to the chivalrous, graceful Lakshmana who stood behind him:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-72",
+      "number": 72,
+      "type": "shloka",
+      "original": "स्निग्धपत्रा यथा वृक्षा यथा क्षान्ता मृगद्विजाः।\nआश्रमो नातिदूरस्थो महर्षेर्भावितात्मनः।।3.11.79।।",
+      "transliteration": "",
+      "translation": "The leaves of the trees here are glossy, the animals and birds are peaceful. It appears the hermitage of the selfrealized great sage Agastya is not very far from here.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-73",
+      "number": 73,
+      "type": "shloka",
+      "original": "अगस्त्य इति विख्यातो लोके स्वेनैव कर्मणा।\nआश्रमो दृश्यते तस्य परिश्रान्तश्रमापहः।।3.11.80।।",
+      "transliteration": "",
+      "translation": "Here is the hermitage of Agastya, wellknown in the world for his deeds a place of rest for those tired with hard work.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-74",
+      "number": 74,
+      "type": "shloka",
+      "original": "प्राज्यधूमाकुलवनश्चीरमालापरिष्कृतः।\nप्रशान्तमृगयूथश्च नानाशकुनिनादितः।।3.11.81।।",
+      "transliteration": "",
+      "translation": "This forest is enveloped with the smoke rising from the sacrificial altar. There are rows of bark robes hanging. Herds of quiet animals lying and different kind of birds chirping around.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-75",
+      "number": 75,
+      "type": "shloka",
+      "original": "तस्येदमाश्रमपदं प्रभावाद्यस्य राक्षसैः।\nदिगियं दक्षिणा त्रासाद्दृश्यते नोपभुज्यते।।3.11.82।।",
+      "transliteration": "",
+      "translation": "This is his hermitage. On account of his (Agastya's) impact the demons look south but cannot eat the hermits out of fear (for the sage).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-76",
+      "number": 76,
+      "type": "shloka",
+      "original": "यदा प्रभृति चाक्रान्ता दिगियं पुण्यकर्मणा।\nतदा प्रभृति निर्वैराः प्रशान्ता रजनीचराः।।3.11.83।।",
+      "transliteration": "",
+      "translation": "Since the time Agastya of sacred deeds occupied this direction the demons are quiet, leaving all enmity.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-77",
+      "number": 77,
+      "type": "shloka",
+      "original": "नाम्ना चेयं भगवतो दक्षिणा दिक्प्रदक्षिणा।\nप्रथिता त्रिषु लोकेषु दुर्धर्षा क्रूरकर्मभिः।।3.11.84।।",
+      "transliteration": "",
+      "translation": "The southern side favourable to the people was famous by the name Agastya in the three worlds and stood unassailable to the demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-78",
+      "number": 78,
+      "type": "shloka",
+      "original": "मार्गं निरोद्धुं निरतो भास्करस्याचलोत्तमः।\nनिदेशं पालयन्यस्य विन्ध्यशैला न वर्धते।।3.11.85।।\nअयं दीर्घायुषस्तस्य लोके विश्रुतकर्मणः।\nअगस्त्यस्याश्रम श्रीमान्विनीतजनसेवितः।।3.11.86।।",
+      "transliteration": "",
+      "translation": "This is the hermitage of the longlived Agastya who is renowned for his deeds and is served by humble people. The great mountain Vindhya that was growing incessantly and obstructing the path of the Sun stopped growing any more in obedience to Agastya's words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-79",
+      "number": 79,
+      "type": "shloka",
+      "original": "एष लोकार्चितस्साधुर्हिते नित्यरतस्सताम्।\nअस्मानभिगतानेष श्रेयसा योजयिष्यति।।3.11.87।।",
+      "transliteration": "",
+      "translation": "We are going to join this sage honoured by the people of the world and ever engaged in the welfare of the virtuous. This augurs well for us.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-80",
+      "number": 80,
+      "type": "shloka",
+      "original": "आराधयिष्याम्यत्राहमगस्त्यं तं महामुनिम्। \nशेषं च वनवासस्य सौम्य वत्स्याम्यहं प्रभो।।3.11.88।।",
+      "transliteration": "",
+      "translation": "O noble, handsome Lakshmana, I will spend the rest of the exile in this forest in the worship of the great sage Agastya.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-81",
+      "number": 81,
+      "type": "shloka",
+      "original": "अत्र देवास्सगन्धर्वास्सिद्धाश्च परमर्षयः।\nअगस्त्यं नियताहारं सततं पर्युपासते।।3.11.89।।",
+      "transliteration": "",
+      "translation": "The gods along with gandharvas, siddhas and great sages always serve Agastya, observing discipine in their food habits.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-82",
+      "number": 82,
+      "type": "shloka",
+      "original": "नात्र जीवेन्मृषावादी क्रूरो वा यदि वा शठः।\nनृशंसः कामवृत्तो वा मुनिरेष तथाविधः।।3.11.90।।",
+      "transliteration": "",
+      "translation": "This sage is such type that he (his spiritual power) will not allow a liar or a cruel man or a deceitful or lustful  or wicked person to thrive here.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-83",
+      "number": 83,
+      "type": "shloka",
+      "original": "अत्र देवाश्च यक्षाश्च नागाश्च पतगैस्सह।\nवसन्ति नियताहारा धर्ममाराधयिष्णवः।।3.11.91।।",
+      "transliteration": "",
+      "translation": "Here gods, yakshas, nagas and birds live, following the righteous path and observing discipline in food habits.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-84",
+      "number": 84,
+      "type": "shloka",
+      "original": "अत्र सिद्धा महात्मानो विमानैजस्सूर्यसन्निभैः।\nत्यक्तदेहा नवैर्देहैः स्वर्याताः परमर्षयः।।3.11.92।।",
+      "transliteration": "",
+      "translation": "Here great souls like sages and siddhas gave up the ghost and with renewed bodies left for heaven on aerochariot resembling the Sun (in brightness).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-11-85",
+      "number": 85,
+      "type": "shloka",
+      "original": "यक्षत्वममरत्वं च राज्यानि विविधानि च।\nअत्र देवाः प्रयच्छन्ति भू���ैराराधिताश्शुभैः।।3.11.93।।",
+      "transliteration": "",
+      "translation": "Worshipped by benevolent beings, the gods here bestow on them the status of demigods or of the immortals or several kinds of kingdoms.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 64,
+    "title": "Viswamitra curses Rambha.",
+    "titleSanskrit": "",
+    "totalShlokas": 19
+  },
+  "shlokas": [
+    {
+      "id": "v1-64-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "सुरकार्यमिदं रम्भे कर्तव्यं सुमहत्त्वया।\nलोभनं कौशिकस्येह काममोहसमन्वितम्।।1.64.1।।",
+      "transliteration": "",
+      "translation": "\"O Rambha you must entice Viswamitra by lust and passion. This important work  must be done by you in the interest of the gods\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-64-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तथोक्ता साऽप्सरा राम सहस्राक्षेण धीमता।\nव्रीडिता प्राञ्जलिर्वाक्यं प्रत्युवाच सुरेश्वरम्।।1.64.2।।",
+      "transliteration": "",
+      "translation": "O Rama, to these words of the sagacious, thousandeyed Lord of the gods (Indra) that apsara with folded hands bashfully replied:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-64-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "अयं सुरपते घोरो विश्वामित्रो महामुनि:।\nघोरमुत्सृजते क्रोधं मयि देव न संशय:।।1.64.3।।\nततो हि मे भयं देव प्रासादं कर्तुमर्हसि।",
+      "transliteration": "",
+      "translation": "'Lord of the devatas this mighty ascetic Viswamitra is a terrible person. He will ceratinly release on his dreadful anger (curse me). O Lord this is my apprehension. You should excuse me'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-64-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "एवमुक्तस्तया राम रम्भया भीतया तदा।।1.64.4।।\nतामुवाच सहस्राक्षो वेपमानां कृताञ्जलिम्।",
+      "transliteration": "",
+      "translation": "O Rama having heard Rambha trembling in fear and standing with folded palms, Indra spoke:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-64-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "माभैषी रम्भे भद्रं ते कुरुष्व मम शासनम्।।1.64.5।।\nकोकिलो हृदयग्राही माधवे रुचिरद्रुमे।\nअहं कन्दर्पसहित स्स्थास्यामि तव पार्श्वत:।।1.64.6।।",
+      "transliteration": "",
+      "translation": "'O Rambha have no fear. Feel safe. Carry out my order. When the trees look so beautiful in spring I shall in captivating the form of a cuckoo, stay by your side in the company of Kamadeva (Cupid).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-64-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "त्वं हि रूपं बहुगुणं कृत्वा परमभास्वरम्।\nतमृषिं कौशिकं रम्भे भेदयस्व तपस्विनम्।।1.64.7।।",
+      "transliteration": "",
+      "translation": "O Rambha displaying many (romantic) gestures and assuming a fascinating form, distract the mighty ascetic, Kausika (Viswamitra)'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-64-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "सा श्रुत्वा वचनं तस्य कृत्वा रूपमनुत्तमम्।\nलोभयामास ललिता विश्वामित्रं शुचिस्मिता।।1.64.8।।",
+      "transliteration": "",
+      "translation": "At these words (of Indra), Rambha, assumed any form of excellent beauty and with a bright smile set out to allure Viswamitra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-64-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "कोकिलस्य च शुश्राव वल्गु व्याहरत: स्वनम्।\nसम्प्रहृष्टेन मनसा तत एनामुदैक्षत।।1.64.9।।",
+      "transliteration": "",
+      "translation": "Excited by the charming warble of the cuckoo, Viswamitra opened his eyes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-64-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "अथ तस्य च शब्देन गीतेनाप्रतिमेन च।\nदर्शनेन च रम्भाया मुनिस्सन्देहमागत:।।1.64.10।।",
+      "transliteration": "",
+      "translation": "On hearing the sound of the incomparable song of the cuckoo along with the  sight of Rambha, a doubt arose in the mind of the ascetic.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-64-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "सहस्राक्षस्य तत्कर्म विज्ञाय मुनिपुङ्गव:।\nरम्भां क्रोधसमाविष्ट श्शशाप कुशिकात्मज:।।1.64.11।।",
+      "transliteration": "",
+      "translation": "Son of Kushika, the eminent ascetic knew it was the work of Indra. Seized with anger,  he cursed Rambha:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-64-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "यन्मां लोभयसे रम्भे कामक्रोधजयैषिणम्।\nदशवर्षसहस्राणि शैली स्थास्यसि दुर्भगे ।।1.64.12।।",
+      "transliteration": "",
+      "translation": "'O luckless Rambha, since you have endeavoured to distract me from my desire to conquer  wrath and passion, you shall turn into a rock and remain so for ten thousand years'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-64-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "ब्राह्मण स्सुमहातेजा स्तपोबलसमन्वित:।\nउद्धरिष्यति रम्भे त्वां मत्क्रोधकलुषीकृताम्।।1.64.13।।",
+      "transliteration": "",
+      "translation": "'O Rambha an effulgent brahmin, endowed with the power of asceticism, will liberate you from this state into which you have fallen on account of my anger'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-64-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "एवमुक्त्वा महातेजा विश्वामित्रो महामुनि:।\nअशक्नुवन् धारयितुं क्रोधं सन्तापमागत:।।1.64.14।।",
+      "transliteration": "",
+      "translation": "The brilliant Viswamitra, the great ascetic, now experienced remorse for his inability to contain anger.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-64-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तस्य शापेन महता रम्भा शैली तदाऽभवत्।\nवचश्शृत्वा च कन्दर्पो महर्षेस्स च निर्गत:।।1.64.15।।",
+      "transliteration": "",
+      "translation": "This mighty curse, of the great saint transformed Rambha into a rock and sent Kamadeva and Indra to their heels.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-64-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "कोपेन स महातेजास्तपोऽपहरणे कृते।\nइन्द्रियैरजितै राम न लेभे शान्तिमात्मन:।।1.64.16।।",
+      "transliteration": "",
+      "translation": "\"O Rama highly powerful Viswamitra was deprived of his ascetic merit due to his  anger. He had no peace of mind for his inability to control his senses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-64-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "बभूवास्य मनश्चिन्ता तपोऽपहरणे कृते ।\nनैव क्रोधं गमिष्यामि न च वक्ष्ये कथञ्चन।।1.64.17।।",
+      "transliteration": "",
+      "translation": "Having been deprived of his ascetic merit, he resolved not to lose his temper nor ever breathe a word\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-64-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अथवा नोच्छवसिष्यामि संवत्सरशतान्यपि।\nअहं विशोषयिष्यामि ह्यात्मानं विजितेन्द्रिय:।।1.64.18।।",
+      "transliteration": "",
+      "translation": "\"Further, I shall not even inhale for hundreds of years. I shall conquer my senses and dry up this body.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-64-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तावद्यावद्धि मे प्राप्तं ब्राह्मण्यं तपसाऽऽर्जितम्।\nअनुच्छवसन्नभुञ्जान स्तिष्ठेयं शाश्वतीस्समा:।।1.64.19।।\nन हि मे तप्यमानस्य क्षयं यास्यन्ति मूर्तय:।",
+      "transliteration": "",
+      "translation": "Until brahminhood is obtained by my austerities, I shall stay without breathing or eating for innumerable years. While performing penance, my limbs shall not undergo deterioration\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-64-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "एवं वर्षसहस्रस्य दीक्षां स मुनिपुङ्गव:।।1.64.20।।\nचकाराप्रतिमां लोके प्रतिज्ञां रघुनन्दन।",
+      "transliteration": "",
+      "translation": "\"O Descendant of Raghu in this way that eminent ascetic took an unprecedented vow to practise penance for a thousand years\".    इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे चतुष्षष्टितमस्सर्ग:।।  Thus ends the sixtyfourth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

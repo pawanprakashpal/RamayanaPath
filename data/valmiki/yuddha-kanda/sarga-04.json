@@ -1,0 +1,990 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 4,
+    "title": "Rama sets to depart with the vanara army to the seashore.",
+    "titleSanskrit": "",
+    "totalShlokas": 108
+  },
+  "shlokas": [
+    {
+      "id": "v6-4-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "श्रुत्वा हनुमतो वाक्यं यथावदनुपूर्वशः ।\nततोऽब्रवीन्महातेजा रामस्सत्यपराक्रमः ।।6.4.1।।",
+      "transliteration": "",
+      "translation": "Glorious Rama, of truthful valour, having heard Hanuman in the aforesaid manner, there after spoke (to Hanuman).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "यां निवेदयसे लङ्कां पुरीं भीमस्य रक्षसः ।\nक्षिप्रमेनां मथिष्यामि सत्यमेतद्ब्रवीमि ते ।।6.4.2।।",
+      "transliteration": "",
+      "translation": "I will destroy immediately that Lanka of fierce rakshasa, you are telling. I am telling you, this is the truth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "अस्मिन् मुहूर्ते सुग्रीव  प्रयाणमभिरोचये ।\nयुक्तो मुहूर्तो विजयः प्राप्तो मध्यं दिवाकर ।।6.4.3।।",
+      "transliteration": "",
+      "translation": "I desire to journey at this opportune time. The Sun has reached the mid position and so a good time for victory.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "सीतां हृत्वा तु मे जातु क्वासौ यास्यति यास्यत: ।\nसीता श्रुत्वाभियानं मे अशामेष्यति जीविते ।\nजीवितान्तेऽ मृतं स्पृष्टवा पीत्वा विषमिवातुरः ।।6.4.4।।",
+      "transliteration": "",
+      "translation": "Where can the one who has abducted Sita go from here? Just as one who has drunk the poison gets some life sometimes on tasting the nectar of immortality, Sita will attain the desire to live on hearing about my approaching.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "उत्तरा फल्गुनी ह्यद्य श्वस्तु हस्तेन योक्ष्यते ।\nअभिप्रायाम सुग्रीव  सर्वानीकसमावृताः ।।6.4.5।।",
+      "transliteration": "",
+      "translation": "Today Uttaraphalguni constellation is on the ascent and for me born in Punarvasu star, Hasta, will be in conjunction with the moon. Sugriva You may assemble all the army as I desire to start the journey (as it is auspicious for me).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "निमित्तानि च पश्यामि यानि प्रादुर्भवन्ति च ।\nनिहत्य रावणं सीतामानयिष्यामि जानकीम् ।।6.4.6।।",
+      "transliteration": "",
+      "translation": "I also see manifestations of good omens to start (the journey). I shall get Janaka's daughter Sita on killing Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "उपरिष्टाद्धि नयनं स्फुरमाणमिदं मम ।\nविजयं समनुप्राप्तं शंसतीव मनोरथम् ।।6.4.7।।",
+      "transliteration": "",
+      "translation": "My upper eyelids are twitching thus indicating victory and it strikes me that my desire will be fulfilled.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "ततो वानरराजेन लक्ष्मणेन सुपूजितः ।\nउवाच रामो धर्मात्मा पु��रप्यर्धकोविदः ।।6.4.8।।",
+      "transliteration": "",
+      "translation": "There after righteous Rama who is well respected by the king of vanaras and also by Lakshmana, who is wellversed in polity once again spoke.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "अग्रे यातु बलस्यास्य नीलो मार्गमवेक्षितुम् ।\n \nवृतश्शतसहस्रेण वानराणां तरस्विनाम् ।।6.4.9।।",
+      "transliteration": "",
+      "translation": "\"Let Nila go leading in front with his courageous and hundred thousand army looking at the way (said Rama)\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "फलमूलवता नील  शीतकाननवारिणा ।\nपथा मधुमता चाशु सेनां सेनापते  नय ।।6.4.10।।",
+      "transliteration": "",
+      "translation": "\"O Nila, the chief of the army Go fast with the army along the way which has plenty of fruits and roots, shady forests and cool water and sweet smelling honey\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "दूषयेयुर्दुरात्मनः पथि मूलफलोदकम् ।\nराक्षसाः परिरक्षेथास्तेभ्यस्त्वं नित्यमुद्यतः ।।6.4.11।।",
+      "transliteration": "",
+      "translation": "\"Evilminded one, the lord of rakshasas will spoil the roots, fruits and water (on the way). Be ever alert and protect them\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "निम्नेषु वनदुर्गेषु वनेषु च वनौकसः ।\n \nअभिप्लुत्याभिपश्येयुः परेषां निहितं बलम् ।।6.4.12।।",
+      "transliteration": "",
+      "translation": "\"O Vanaras You should even look for (the rakshasas) in the low lying lands, in inaccessible water sources, in forests and also beyond sight leaping up to the sky\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "यच्च फल्गु बलं किञ्चित्त दत्रैवोपपद्यताम् ।\nएतद्धि कृत्यं घोरं नो विक्रमेण प्रयुज्यताम् ।।6.4.13।।",
+      "transliteration": "",
+      "translation": "\"If there are any weak ones in the army, they may be used here for this purpose (of looking for fruits etc.). Our task (ahead) is a terrific one and be prepared to overcome your power\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "सागरौघनिभं भीममग्रानीकं महाबलाः ।\nकपिसिंहाः प्रकर्षस्तु शतशोऽथ सहस्रशः ।।6.4.14।।",
+      "transliteration": "",
+      "translation": "\"These hundreds and thousands of lionlike vanaras would walk in groups leading the army like the fierce tides of the ocean\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "गजश्च गिरिसङ्काशो गवयश्च महाबलः ।\nगवाक्षश्चाग्रतो यातु गवां दृप्तइवर्षभ: ।।6.4.15।।",
+      "transliteration": "",
+      "translation": "\"Gaja who is like a mountain in form, Gavaya, the mighty strong and Gavaksha would go like proud bulls that lead the cows\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "यातु वानरवाहिन्या वानरः प्लवतां वरः ।\nपालयन्दक्षिणं पार्श्वमृषभो वानरर्षभः ।।6.4.16।।",
+      "transliteration": "",
+      "translation": "\"Let the vanara called Rshaba the foremost among the leaping vanaras, take charge of the right side of the army\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "गन्धहस्तीव दुर्धर्षस्तरस्वी गन्धमादनः ।\nयातु वानरवाहिन्या स्सव्यं पार्श्वमधिष्ठितः ।।6.4.17।।",
+      "transliteration": "",
+      "translation": "\"Let Gandhamadana, the unassailable and powerful vanara resembling the elephant in rut take charge of the left portion of the army\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "यास्यामि बलमध्येऽहं बलौघमभिहर्षयन् ।\nअधिरुह्य हनूमन्त मैरावत मिवेश्वरः ।।6.4.18।।",
+      "transliteration": "",
+      "translation": "\"Like the lord of gods riding on Iravatam I would mount on Hanuman and reach the centre of the army encouraging the army.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "अङ्गदेनैष संयातु लक्ष्मणश्चान्त कोपमः ।\nसार्वभौमेन भूतेशो द्रव��णाधिपतिर्यथा ।।6.4.19।।",
+      "transliteration": "",
+      "translation": "\"Let Lakshmana who is like Anthaka (one who excels death) ride on Angada, like the lord of wealth (Kubera) rides on the elephant Saarvabhauma (the elephant that guards the four quarters)\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "जाम्बवांश्च सुषेणश्च वेगदर्शी च वानरः ।\nऋक्षराजो महासत्त्वः कुक्षिं रक्षन्तु ते त्रयः ।।6.4.20।।",
+      "transliteration": "",
+      "translation": "\"Let Rksharaja the mighty strong Jambavan and Sushena even Vegadarsi protect the rear side (of the army)\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "राघवस्य वचश्श्रुत्वा सुग्रीवो वाहिनीपतिः ।\nव्यादिदेश महावीर्यो वानरान्वानरर्षभ ः ।।6.4.21।।",
+      "transliteration": "",
+      "translation": "Sugriva the bull among vanaras having heard the words of Raghava ordered the heroic vanaras (to start).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "ते वानरगणास्सर्वे समुत्पत्य युयुत्सवः ।\nगुहाभ्यश्शिखरेभ्यश्च अशु पुप्लुविरे तदा ।।6.4.22।।",
+      "transliteration": "",
+      "translation": "Then all the heroic monkeys who were eager for combat jumped down from the caves, mountain peaks and trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "ततो वानरराजेन लक्ष्मणेन च पूजितः ।\nजगाम रामोधर्मात्मा ससैन्यो दक्षिणां दिशम् ।।6.4.23 ।।",
+      "transliteration": "",
+      "translation": "Thereafter righteous Rama who was worshipped by the king of vanaras and Lakshmana went towards the southern direction.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "शतैः शतसहस्रैश्च कोटिभिश्चायुतैरपि ।\nवारणाभैश्च हरिभिर्ययौ परिवृतस्तदा ।।6.4.24।।",
+      "transliteration": "",
+      "translation": "Protected by hundreds and thousands, even crores of vanaras and surrounded by a myriad of vanaras Rama went.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तं यान्तमनुयान्ती सा महती हरिवाहिनी ।\n \nदृप्ता: प्रमुदितास्सर्वे सुग्रीवेणाभिपालिताः ।।6.4.25।।",
+      "transliteration": "",
+      "translation": "While Rama was walking the great army of vanaras controlled by Sugriva followed him with great delight.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "आप्लवन्तः प्लवन्तश्च गर्जन्तश्च प्लवङ्गमाः ।\nक्षेवळन्तो निनदन्तस्ते जग्मुर्वै दक्षिणां दिशम् ।।6.4.26।।",
+      "transliteration": "",
+      "translation": "The monkeys went towards southern direction playing, leaping, running and roaring like lions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "भक्ष्यन्त स्सुगन्धीनि मधूनि च फलानि च ।\nउद्वहन्तो महावृक्षान् मञ्जरीपुञ्जधारिणः ।।6.4.27।।",
+      "transliteration": "",
+      "translation": "The monkeys went eating sweet smelling honey and fruits and carrying branches of huge trees having bunches of blossoms.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "अन्योन्यं सहसा दृप्ता निर्वहान्ति क्षिपन्ति च ।\nपतन्तश्पोत्पत्नत्यन्ये पातयन्त्यपरे परान् ।।6.4.28।।",
+      "transliteration": "",
+      "translation": "Some wild monkeys carried one another, while some fell, knocked down others, some lifted up and some turned their back and pushed down others.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "रावणो नो निहन्तव्यस्सर्वे च रजनीचराः ।\nइति गर्जन्ति हरयो राघवस्य समीपतः ।।6.4.29।।",
+      "transliteration": "",
+      "translation": "'We should kill all the rakshasas and Ravana', saying so the vanaras close by Rama were roaring.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "पुरस्तादृषभो वीरो नील: कुमुद एव च ।\nपन्थानं शोधयन्तिस्��� वानरैर्बहुभि स्सह ।।6.4.30।।",
+      "transliteration": "",
+      "translation": "Heroic Rshaba, Nila and even Kumuda together with many vanaras were searching on the way.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "मध्ये तु राजा सुग्रीवो रामो लक्ष्मण एव च ।\nबलभिर्बहुभि र्भीमैर्वृताश्शत्रुनिबर्हणाः ।।6.4.31।।",
+      "transliteration": "",
+      "translation": "Sugriva, Rama and Lakshmana marched in the middle surrounded by powerful and fierce vanaras who can destroy the enemy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "हरिश्शतवलिर्वीरः कोटीभिर्दशभिर्वृतः ।\nसर्वामेको ह्यावष्टभ्य ररक्ष हरिवाहिनीम् ।।6.4.32।।",
+      "transliteration": "",
+      "translation": "Sathavali alone encircled by hundred crore vanara heroes was protecting the army of vanaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "कोटीशतपरीवारः केसरी पनसो गजः ।\nअर्कश्चातिबल: पार्श्वमेकं तस्याभिरक्षति ।।6.4.33।।",
+      "transliteration": "",
+      "translation": "Kesari, Panasa, Gaja, Atibala, Arka and their army of one hundred crores were protecting the army on one side.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "सुषेणो जाम्बवांश्चैव ऋक्षैर्बहुभिरावृतौ ।\nसुग्रीवं पुरतः कृत्वा जघनं सम्ररक्षतुः ।।6.4.34।।",
+      "transliteration": "",
+      "translation": "Sushena, and Jambavan surrounded by the army of Rshaba were guarding by placing on the western side.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "तेषां सेनापतिर्वीरो नीलो वानरपुङ्गवः ।\nसम्पतन्पततां श्रेष्ठस्तद्बलं पर्यपालयात् ।।6.4.35।।",
+      "transliteration": "",
+      "translation": "Nila, the heroic chief of the army who was foremost in the act of flying and descending was going around and controlling.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "दरीमुखः प्रजङ्घश्च रम्भोऽथ रभसः कपिः ।\nसर्वतश्च ययुर्वीरास्त्वरयन्तः प्लवङ्गमान् ।।6.4.36।।",
+      "transliteration": "",
+      "translation": "Valiant Darimukha, Prajhanga, Rambha and Rabhasa went about jumping cheering all vanaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "एवं ते हरिशार्दूला गच्छन्तो बलदर्पिताः ।\nअपश्यंस्ते गिरिश्रेष्ठं सह्यं द्रुमालतायुतम् ।।6.4.37।।\nसरांसि च सुपुल्लानि तटाकानि वनानि च ।।6.4.38।।",
+      "transliteration": "",
+      "translation": "Those vanaras who were tigers among vanaras, proud of their might went to see (on their way) the Sahya Mountains, the foremost of the mountains with trees and creepers, lakes and ponds with fully blossomed lotuses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "रामस्य शासनं ज्ञात्वा भीमकोपस्य भीतवत् ।\nवर्जयन्नगराभ्याशां स्तथा जनपदानपि ।।6.4.39।।\nसागरौघनिभं भीमं तद्वानरबलं महत् ।\nउत्ससर्प महाघोषं भीमघोषमिवार्णव: ।।6.4.40।।",
+      "transliteration": "",
+      "translation": "The dreadful vanara army expansive as the ocean went knowing about the fear of Rama's wrath. They went avoiding parts of cities and villages making frightening sounds like the great sound of the waves of the ocean.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "तस्यदाशरथे: पार्श्वे शूरास्ते कपिकुङजराः ।\nतोर्णमापुप्लुवु स्सर्वे सदश्वा इव चोदिताः ।।6.4.41।।",
+      "transliteration": "",
+      "translation": "The heroic and best of the monkeys galloped swiftly on the command of Dasaratha's son like horses that are driven like the steeds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "कपिभ्यामुह्यमानौ तौ शुशुभाते नरर्षभौ ।\nमहाद्भ्यामिव सम्स्पृष्टौ ग्रहाभ्यां चन्द्रभास्करौ ।।6.4.42।।",
+      "transliteration": "",
+      "translation": "When Rama and Lakshmana, the best among men were borne by Hanuman and Angada they were shining like the planets Jupiter and Venus conjoined with Sun and Moon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "ततो वानरराजेन लक्ष्मणेन सुपूजितः ।\nजगाम रामो धर्मात्मा ससैन्यो दक्षिणां दिशम् ।।6.4.43।।",
+      "transliteration": "",
+      "translation": "Then righteous Rama who is worshipped by the king of vanaras and by Lakshmana went with the army towards the southern direction.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "तमङ्गदगतो रामं लक्ष्मणश्शुभया गिरा ।\nउवाच परिपूर्णार्थ: स्मृतिमान् प्रतिभानवान् ।।6.4.44।।",
+      "transliteration": "",
+      "translation": "Lakshmana, who was borne by Angada, has a good memory and sense of intuition. Set to accomplish his desire fully, he spoke to Rama these auspicious words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "हृतामवाप्य वैदेहीं क्षिप्रं हत्वा च रावणम् ।\nसमृद्धार्थस्समृद्धार्थमयोध्यां प्रतियास्यसि ।।6.4.45।।",
+      "transliteration": "",
+      "translation": "Rama After killing Ravana and attaining the desired object of recovering Vaidehi you would go to Ayodhya having accomplished your objective.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "महान्ति च निमित्तानि दिवि भूमौ च राघव  ।\nशुभानि तव पश्यामि सर्वाण्येनार्थसिद्धये ।\nअनुवाति शिवो वायु स्सेवां मृदुहित स्सुखः ।।6.4.46।।",
+      "transliteration": "",
+      "translation": "Raghava I am seeing good signs in the sky and also on land indicating auspicious signs of the accomplishment of your desire. The wind is also favourable and agreeable to the moving army.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "पूर्णवल्गुस्वराश्चेमे प्रवदन्ति मृगद्विजाः ।\nप्रसन्नाश्च दिश स्सर्वा विमलश्च दिवाकरः ।।6.4.47।।",
+      "transliteration": "",
+      "translation": "The sounds of these animals and birds are very sweet. The directions are pleasing, and the Sun is shining brightly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "उशना च प्रसन्नार्चिरनु त्वां भार्गवो गतः ।।6.4.48।।\nब्रह्मराशिर्विशुद्धश्च शुद्दाश्च परमर्षयः ।\nअर्चिष्मन्तः प्रकाशन्ते ध्रुवं सर्वे प्रदक्षिणम् ।।6.4.49।।",
+      "transliteration": "",
+      "translation": "Bhargava who is the master of all knowledge and Sukra, the regent of planet Venus shines brightly behind you. The seven sages who are pure and glowing like fire in brilliance are going round Dhruva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "त्रिशङ्कुर्विमलो भाति राजर्षिस्सपुरोहितः ।\nपितामहाः पुरोऽस्माकमिक्ष्वाकूणां महात्मनाम् ।।6.4.50।।",
+      "transliteration": "",
+      "translation": "Among the great kings of the Ikshvaku dynasty, the grandfather Trisanku who is a royal sage shines clearly along with Vasishta the foremost priest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "विमले च प्रकाशेते विशाखे निरुपप्लुवे ।\n \nनक्षत्र वरमस्माकमिक्ष्वाकूणां महात्मनाम् ।।6.4.51।।",
+      "transliteration": "",
+      "translation": "The best of stars, Visakha of the highsouled Ikshvakus which is unconnected shines brightly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "नैरृतं नैरृतानां च नक्षत्रमभिपीड्यते ।\nमूलो मूलवता स्पृष्टो धूप्यते धूमकेतुना ।।6.4.52।।",
+      "transliteration": "",
+      "translation": "The star called Niruta (of rakshasas) in the southwest is highly tormented by the touch of the Mula star (close to it) and is oppressed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "सर्वं चैतद्विनाशाय राक्षसानामुप स्थितम् ।\nकाले कालगृहीतानां नक्षत्र ग्रहपीडितम् ।।6.4.53।।",
+      "transliteration": "",
+      "translation": "Everything has sprung up for the destruction of rakshasas. Those that are caught up by death will be oppressed at the time of death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "प्रसन्ना स्सुरसाश्चापो वनानि फलवन्ति च ।\nप्रवान्त्यभ्य नाधिकं गन्धान्यथर्तुकुसुमा द्रुमाः ।।6.4.54।।",
+      "transliteration": "",
+      "translation": "The water is pure and of good taste. The forests are filled with fruits. The wind with fragrance is not blowing excessively or violently. The trees are in bloom beyond season.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "व्यूढानि कपिसैन्यानि प्रकाशन्तेऽधिकं प्रभो  ।।6.4.55।।\nदेवानामिव सैन्यानि सङ्ग्रामे तारकामये। एवमार्य  ।\nसमीक्ष्यैतान्प्रीतो भवितुमर्हसि ।।6.4.56।।",
+      "transliteration": "",
+      "translation": "O King This army of vanaras placed in order is like the forces of gods in their battle with Taraka (a rakshasa who was killed in a battle by Karthikeya) and shines very much. O king, reviewing these (arrangements of army) you ought to be pleased (said Lakshmana to Rama).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "इति भ्रातरमाश्वास्य हृष्ट स्सौमित्रिरब्रवीत् ।\nअथावृत्य महीं कृत्स्नां जगाम महती चमू: ।।6.4.57।।\nऋक्षवानरशर्दूलैर्न खदंष्ट्रायुधैर्वुता ।",
+      "transliteration": "",
+      "translation": "Saumithri reassured his brother who was surrounded by the vanara force saying that those vanaras who use their nails and teeth as weapons and tigerlike bears spread all over the expansive land are proceeding.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-54",
+      "number": 54,
+      "type": "shloka",
+      "original": "काराग्रैश्चरणाग्रैश्च वानरै रुत्थितं रजः ।\nभीममन्तर्दधे लोकं निवार्य सवितुः प्रभाम् ।।6.4.58।।\n \nपर्वतवनाकाशां दक्षिणां हरिवाहिनी ।\nछादयन्ती ययौ भीमा द्यामिवाम्बुदसन्ततिः ।।6.4.59।।",
+      "transliteration": "",
+      "translation": "The terrible dust risen up by the (stamping) legs and hands of the vanara troops spread all over is keeping off Sun's radiance as if creating fear.Alas, the frightening army of vanaras went spreading all over the mountains and forests like the spread of clouds over the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-55",
+      "number": 55,
+      "type": "shloka",
+      "original": "उत्तरन्त्यां च सेनायां स्सततं बहुयोजनम् ।\nनदीस्रोतांसि सर्वाणि सस्यन्दुर्विपरीतवत् ।।6.4.60।।",
+      "transliteration": "",
+      "translation": "When the army was continuously crossing the river, later (after they crossed) the water flowed excessively like flood.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-56",
+      "number": 56,
+      "type": "shloka",
+      "original": "सरांसि विमलाम्भांसि द्रुमाकीर्णांश्च पर्वता ।\nसमान् भूमिप्रदेशांश्च वनानि फलवन्ति च ।\nमध्येन च समन्ताच्च तिर्यक्चाथश्च समाऽविशत् ।।6.4.61।।",
+      "transliteration": "",
+      "translation": "The vanaras went through the pellucid waters of the centre of the lakes. They went obliquely at the mountains, walked on plain lands and underneath trees filled with fruits, plucking them and eating.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-57",
+      "number": 57,
+      "type": "shloka",
+      "original": "समावृत्य महीं कृत्स्नां जगाम महती चमूः ।\nतेहृष्टवदना स्सर्वे जग्मुर्मारुतरंहसः ।।6.4.62।।",
+      "transliteration": "",
+      "translation": "The great vanara army spread all over the land went with the swiftness of wind with cheerful faces.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-58",
+      "number": 58,
+      "type": "shloka",
+      "original": "हरयो राघवस्यार्थे समारोपितविक्रमाः ।।6.4.63।।\nहर्षंवीर्य बलोद्रेकान्दर्शयन्तः परस्परम् ।\nयौवनोत्सेकजान्दर्पाद्विविधांश्चक्रुरध्वनि ।।6.4.64।।",
+      "transliteration": "",
+      "translation": "For the purpose of Rama, the vanaras went showing their valour, happiness and prowess charged with emotion towards one another on the way. They showed their joy and spirit to one another exhibiting their natural youthful enthusiasm, arrogance and several other gestures.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-59",
+      "number": 59,
+      "type": "shloka",
+      "original": "तत्र केचिद्द्रुतं जग्मुरुत्पेतुश्च तथापरे ।\nकेचित्किलकिलां चक्रुर्वानरा वनगोचराः ।।6.4.65।।",
+      "transliteration": "",
+      "translation": "Being vanaras some went swiftly, some jumped, and some others made sound 'kila kila'(the usual sounds of monkeys) while they went.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-60",
+      "number": 60,
+      "type": "shloka",
+      "original": "प्रास्पोटयंश्च पुच्छानि सन्निजग्मु: पदान्यपि ।\nभुजावनिक्षिप्य शैलांश्च द्रुमानन्ये बभञ्जिरे ।।6.4.66।।",
+      "transliteration": "",
+      "translation": "Some hit their tails on the ground, some stamped their feet on the ground, some crushed the mountains with their arms and some broke the trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-61",
+      "number": 61,
+      "type": "shloka",
+      "original": "आरोहन्तश्च शृङ्गाणि गिरीणां गिरिगोचराः ।\nमहानादान्प्रमुञ्चन्ति क्ष्वेळ्वामन्ये प्रचक्रिरे ।।6.4.67।।",
+      "transliteration": "",
+      "translation": "Vanaras, being the inhabitants of mountains, climbed on peaks of mountains and made loud noises like snapping and roaring like lions. Some went round and round.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-62",
+      "number": 62,
+      "type": "shloka",
+      "original": "ऊरुवेगैश्च ममृदुर्लताजालान्यनेकशः ।\nजृम्भमाणाश्च विक्रान्ता विचिक्रीडुश्शिलाद्रुमै ः ।।6.4.68।।",
+      "transliteration": "",
+      "translation": "With the speed of their shaking thighs, the vanaras broke several meshes of creepers. While yawning also some showed their courage by whirling round and throwing stones and trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-63",
+      "number": 63,
+      "type": "shloka",
+      "original": "शतश्शतसहस्रैश्च कोटिभिश्च सहस्रशः ।\nवानराणां सुघोराणां श्रीमत्परिवृता मही ।।6.4.69।।",
+      "transliteration": "",
+      "translation": "Formidable vanaras in hundreds, thousands, lakhs and crores spread in a splendid manner around the land.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-64",
+      "number": 64,
+      "type": "shloka",
+      "original": "सा स्म याति दिवारात्रं महती हरिवाहिनी ।\nप्रहृष्टमुदितास्सेना सुग्रीवेणाभिपालिताः ।।6.4.70।।\nवानरास्त्वरितं यान्ति सर्वे युद्धाभिनन्दिनः ।\nप्रमोक्षयिषव स्सीतां मुहूर्तं क्वापि नावसन् ।।6.4.71।।",
+      "transliteration": "",
+      "translation": "The mighty vanara force protected by Sugriva from all sides cheerful at heart, walked day and night speedily. Being eager to somehow liberate Sita they were happy about war and stood nowhere for a while.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-65",
+      "number": 65,
+      "type": "shloka",
+      "original": "ततः पादपसम्भाधं नानामृगसमायुताम ।\nसह्यपर्वतमासेदुर्मलयञ्च महीधरम् ।।6.4.72।।",
+      "transliteration": "",
+      "translation": "Thereafter having reached the dense forest filled with trees surrounded by the Malaya and Sahaya Mountain inhabited by different kinds of animals, the vanaras assembled.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-66",
+      "number": 66,
+      "type": "shloka",
+      "original": "काननानि विचित्राणि नदी: प्रस्रवणानि च ।\nपश्यन्ननि ययौ रामस्सह्यस्य मलयस्य च ।।6.4.73।।",
+      "transliteration": "",
+      "translation": "Rama too went to see the wonderful woods and streams of rivers of Sahaya mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-67",
+      "number": 67,
+      "type": "shloka",
+      "original": "वकुळान्स्तिलकांश्चूतानसोकान् सिन्धुवारकान् ।\nकरवीरांश्च तिनिशान् भजन्ति स्म प्लवङ्गगमाः ।।6.4.74।।",
+      "transliteration": "",
+      "translation": "The vanaras went adoring the Vakula, Tilaka, Mango, Asoka, Tinisa, Sinduvara and Karaveera trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-68",
+      "number": 68,
+      "type": "shloka",
+      "original": "अङ्कोलांश्च करञ्चांश्च प्लक्षन्यग्रोधतिन्दुकान् ।\n \nजम्बुकामलकान्नापान्भजन्ति स्म प्लवङ्गमाः ।।6.4.75।।",
+      "transliteration": "",
+      "translation": "Vanaras went adoring the Ankola, Karanja, Plaksa, Nyagrodha, Jambu,Amla and neepa trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-69",
+      "number": 69,
+      "type": "shloka",
+      "original": "प्रस्तरेषु च रम्येषु विविधाः काननद्रुमाः ।\nवायुवेगप्रचलिताः पुष्पैरवकिरन्ति तान् ।।6.4.76।।",
+      "transliteration": "",
+      "translation": "Many kinds of trees standing on beautiful rocks and of the forest shaken by the fury of the wind showered their flowers on the vanaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-70",
+      "number": 70,
+      "type": "shloka",
+      "original": "मारुतस्सुखसंस्पर्शो वाति चन्दनशीतलः ।\nषटपदैरनुकूजद्भिर्वनेषु मधुगन्धिषु ।।6.4.77।।",
+      "transliteration": "",
+      "translation": "As the bees humming in delight were spreading the sweet fragrance of honey accompanied the breeze that blew, it was cool like the cool touch of sandal (to the vanaras).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-71",
+      "number": 71,
+      "type": "shloka",
+      "original": "अधिकं शैलराजस्तु धातुभिस्सुविभूषितः ।\nधातुभ्यःप्रसृतो रेणुर्वायुवेग विघट्टितः ।\n \nसुमहद्वानरानीकं छादयामास सर्वतः ।।6.4.78।।",
+      "transliteration": "",
+      "translation": "That lord of mountains richly adorned with minerals shone very brightly. The mineral particles raised by the stamping of the vanara troops covered the huge vanaras all over.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-72",
+      "number": 72,
+      "type": "shloka",
+      "original": "गिरिप्रस्थेषु रम्येषु सर्वत सम्प्र पुष्पिताः ।\n \nकेतकस्सिन्दुवाराश्च वासन्त्यश्च मनोरमाः ।।6.4.79।।\n \nमाधव्यो गन्धपूर्णाश्च कुन्दगुल्माश्च पुष्पिताः ।\nचिरिबिल्वा मधूकाश्च वञ्जुला प्रियकास्तथा ।।6.4.80।।\nसुफूर्जकास्तिलकाश्चैव नागवृक्षाश्च पुष्पिताः ।\nचूताः पाटलयकाश्चैव कोविदाराश्च पुष्पिताः ।।6.4.81।।\n \nमुचुलिन्दार्जुनाश्चैव शिंशुपाः कुटजास्तथा ।\n \nधवा श्शाल्मलयश्चैव रक्ता: कुरवकास्तथा ।।6.4.82।।\n \nहिन्तालास्तिनिशाश्चैव चूर्णका नीपकास्तथा ।\nनीलाशोकाश्च वरणा अङ्कोलाः पद्मकास्तथा ।।6.4.83।।\n \nप्लवमानै: प्लवंगैस्तु सर्वे पर्याकुलीकृतां ।।6.4.84।।",
+      "transliteration": "",
+      "translation": "In the mountain ranges were well blossomed trees  such as Kethaka, Sinduvaara and Mango trees Manorama, Madhavi, Kunda, Gulma creepers filled with blossoms of fragrance Chiribilva, Madhuka like wild trees,Vajula,Vakula ,Ranjaka, Tilaka,Kuruvaka, Naga trees Patalaya trees trees with red flowers Arjuna, Simsupa trees with white flowers Kutaja, Dhava and Salmala, Red Kurana, Hinthala,Tinisa,and Churanaka trees, so also dark flowered Asoka trees, Pine trees, Ankola and Padmaka trees were convenient for the monkeys to shake and jump.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-73",
+      "number": 73,
+      "type": "shloka",
+      "original": "वाप्यस्तस्मिन् गिरौ शिता: पल्वलानि तथैव च ।\nचक्रवाकानुचरिताः कारण्डवनिषेविताः ।।6.4.85।।\nप्लवैः क्रौञ्चेश्च सङ्कीर्णा वराहमृग सेविताः ।\nऋक्षैस्तरक्षुभिस्सिम्हैश्शार्दूलैश्च भयावहैः ।।6.4.86।।\nव्यालैश्च बहुभिर्भीमै स्सेव्यमाना स्समन्ततः ।\nपद्मैस��सौगन्दिकैः पुल्लैः कुमुदैश्चोत्पलैस्तथा ।।6.4.87।।\nवारिजैर्विविधैः पुष्पै रम्यास्तत्र जलाशयाः ।",
+      "transliteration": "",
+      "translation": "In the mountains were reservoirs of water and ponds with cool water inhabited by flocks of Chakravaka birds, water birds like ravens and Krauncha birds. The woodlands were terrific, frequented by boars, bears, hyenas, lions and frightening tigers and many kinds of wild elephants. With flowers in full bloom, the white, blue and red lotuses in the lakes were delightful.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-74",
+      "number": 74,
+      "type": "shloka",
+      "original": "तस्य सानुषु कूजन्ति नानाद्विजगणास्तथा ।।6.4.88।।\n \nस्नात्वा पीत्वोदकान्यत्र जले क्रीडन्ति वानराः ।\nअन्योन्यं प्लावयन्ति स्म शैलमारुह्य वानराः ।।6.4.89।।",
+      "transliteration": "",
+      "translation": "At that time different kinds of flocks of birds were singing in the mountain ranges. The vanaras after having taken their bath were drinking and sporting with water with each other (pouring water over another) climbing up the mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-75",
+      "number": 75,
+      "type": "shloka",
+      "original": "फलान्य मृतगन्धीनि मूलानि कुसुमानि च ।\n \nबभञ्जुर्वास्तत्र पादपानं मदोत्कटाः ��।6.4.90।।",
+      "transliteration": "",
+      "translation": "Then the vanaras who were deluded with pride climbed the trees and ate the fruits with nectar like aroma, roots and flowers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-76",
+      "number": 76,
+      "type": "shloka",
+      "original": "द्रोणमात्रप्रमाणानि लम्बमानानि वानराः ।\nययुः पिबन्त हृष्टास्ते मधूनि मधुपिङ्गलाः ।।6.4.91।।",
+      "transliteration": "",
+      "translation": "The tawnyeyed monkeys went joyfully drinking the honey from the large honeycombs hanging there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-77",
+      "number": 77,
+      "type": "shloka",
+      "original": "पादपानवभञ्जन्तो विकर्षन्त स्तथा लताः ।\nविधमन्तो गिरिवरान्प्रययुः प्लवगर्षभाः ।।6.4.92।।",
+      "transliteration": "",
+      "translation": "The vanaras (who are best among leaping animals) went smashing the trees, pulling out the creepers and purposefully destroying the mountains (on their way).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-78",
+      "number": 78,
+      "type": "shloka",
+      "original": "वृक्षेभ्योऽन्ये तु कपयो नदन्तो मधुदर्पिताः ।\nअन्ये वृक्षान्प्रपद्यन्ते प्रपिबन्त्यपि चापरे ।।6.4.93।।",
+      "transliteration": "",
+      "translation": "While some monkeys that were intoxicated by drinking excessive honey walked where there were no trees, others climbed the tree tops and jumped.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-79",
+      "number": 79,
+      "type": "shloka",
+      "original": "बभूव वसुधा तैस्तु सम्पूर्णा हरियूथपै: ।\nयथा कलमकेदारैः पक्वैरिव वसुन्दरा ।।6.4.94।।",
+      "transliteration": "",
+      "translation": "That land filled completely with the vanara heroes seemed like a fully ripe paddy field.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-80",
+      "number": 80,
+      "type": "shloka",
+      "original": "महेन्द्रमथ सम्प्राप्य रामो राजीवलोचनः ।\nअध्यारोहन्महाबाहुश्शिखरं द्रुमभूषितम् ।।6.4.95।।",
+      "transliteration": "",
+      "translation": "At that time Lotuseyed Rama of mighty shoulders climbed up the the top of mountain Mahendra adorned with beautiful trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-81",
+      "number": 81,
+      "type": "shloka",
+      "original": "ततश्शिखरमारुह्य रामो दशरथात्मजः ।\nकूर्ममीनसमाकीर्णमपश्यत्सलिलाकुलम् ।।6.4.96।।",
+      "transliteration": "",
+      "translation": "Then Rama the son of Dasaratha on climbing to the top (of Mahendra mountain) observed the ocean inhabited by tortoises and fish.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-82",
+      "number": 82,
+      "type": "shloka",
+      "original": "ते सह्यं समतिक्रम्य मलयं च महागिरिम् ।\nआसेदुरानुपूर्व्येण समुद्रं भमनिस्स्वनम् ।।6.4.97।।",
+      "transliteration": "",
+      "translation": "The vanaras crossing over the great Sahya and Malaya mountains one after another reached near the frightening ocean.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-83",
+      "number": 83,
+      "type": "shloka",
+      "original": "अवरुह्य जगामाशु वेलावनमनुत्तमम् ।\nरामो रमयतां श्रेष्ट स्ससुग्रीव स्सलक्ष्मणः ।।6.4.98।।",
+      "transliteration": "",
+      "translation": "Rama, who causes delight to others, got down (the mountain) along with Lakshmana and Sugriva and soon reached the wood on the sea coast.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-84",
+      "number": 84,
+      "type": "shloka",
+      "original": "अथ धौतोपलतलां तोयौघै स्सहसोत्थितैः ।\nवेलामासाद्य विपुलान्रामो वचनमब्रवीत् ।।6.4.99।।",
+      "transliteration": "",
+      "translation": "Atonce Rama sprung from there (top of mountain) on to an extensive surface of the earth polished by the waves of the ocean spoke these words on reaching there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-85",
+      "number": 85,
+      "type": "shloka",
+      "original": "एते वयमनुप्राप्ता स्सुग्रीव वरुणालयम् ।\nइहेदानीं विचिन्ता साया नः पूर्वसमुत्थिता ।।6.4.100।।",
+      "transliteration": "",
+      "translation": "Sugriva We have reached the ocean and now we have to think of that idea now, which we thought of earlier.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-86",
+      "number": 86,
+      "type": "shloka",
+      "original": "अतः परमतीरोऽयं सागर स्सरितां पतिः ।\nन चायमनुपायेन शक्यस्तरितुमर्णवः ।।6.4.101।।",
+      "transliteration": "",
+      "translation": "There is only the ocean, the lord of rivers, and the shore is beyond this. We cannot cross the ocean without any mode.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-87",
+      "number": 87,
+      "type": "shloka",
+      "original": "तदिहैव निवेशोऽस्तु मन्त्रः प्रस्तूयतामिह ।\n \nयथेदं वानरबलं परं पारमवाप्नुयात् ।।6.4.102।।",
+      "transliteration": "",
+      "translation": "We will have to leave the army of vanaras here itself. We have to deliberate how to get the vanaras to the other shore.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-88",
+      "number": 88,
+      "type": "shloka",
+      "original": "इतीव स महाबाहुस्सीताहरणकर्शितः ।\nरामस्सागरमासाद्य वासमाज्ञापयत्तदा ।।6.4.103।।",
+      "transliteration": "",
+      "translation": "On seeing the ocean, the mightyarmed Rama, tormented by the abduction of Sita in that way, ordered about the quartering of the vanaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-89",
+      "number": 89,
+      "type": "shloka",
+      "original": "सर्वा स्सेना निवेश्यन्तां वेलायां हरिपुङ्गव ।\nसम्प्राप्तो मन्त्रकालो नस्सागरस्येह लङ्घने ।।6.4.104।।",
+      "transliteration": "",
+      "translation": "\"O Best of monkeys Now make preparation for all the army to reside at the sea coast. The time to deliberate about crossing the ocean has set in.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-90",
+      "number": 90,
+      "type": "shloka",
+      "original": "स्वा��� स्वां सेनां समुत्सृज्य मा च कश्चित्कुतो व्रजेत् ।\nगच्छन्तु वानराश्शूराज्ञेयं छन्नं भयं च नः ।।6.4.105।।",
+      "transliteration": "",
+      "translation": "\"None of the army should go wherever leaving the parasol. The vanara warriors should keep guarding and you may know that it is dangerous\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-91",
+      "number": 91,
+      "type": "shloka",
+      "original": "रामस्य वचनं श्रुत्वा सुग्रीव स्सहलक्ष्मणः ।\nसेनां निवेशयततीरे सागरस्य द्रुमायुते ।।6.4.106।।",
+      "transliteration": "",
+      "translation": "Having heard Rama's words, Sugriva and Lakshmana made the army to reside on the sea shore filled with trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-92",
+      "number": 92,
+      "type": "shloka",
+      "original": "विरराज समीपस्थं सागरस्य तु तद्बलम् ।\nमधुपाण्डुजल श्रशीमान् द्वितीय इव सागरः ।।6.4.107।।",
+      "transliteration": "",
+      "translation": "That vast (sea of) army of monkeys in tawny colour (settled) at the proximity of the sea (that was white) seemed like a prosperous second sea in bright colour.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-93",
+      "number": 93,
+      "type": "shloka",
+      "original": "वेलावनमुपागम्य ततस्ते हरिपुङ्गवाः ।\nनिविष्टाश्च परं पारं काङ्क्षमाणा महोदधेः ।।6.4.108।।",
+      "transliteration": "",
+      "translation": "Then the heroic monkeys having arrived at the forest close to the ocean stood there desiring to reach the other shore.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-94",
+      "number": 94,
+      "type": "shloka",
+      "original": "तेषां निविशमानानां सैन्यसन्नाहनिस्स्वनः ।\nअन्तर्धाय महानादमर्णवस्य प्रशुश्रुवे ।।6.4.109।।",
+      "transliteration": "",
+      "translation": "The noise of the ocean was drowned by the great sound produced by the assembly of the army quartered there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-95",
+      "number": 95,
+      "type": "shloka",
+      "original": "सा वानराणां ध्वजिनी सुग्रीवेणाभिपालिता ।\nत्रिधा निविष्टा महती रामस्यार्थपराऽभवत् ।।6.4.110।।",
+      "transliteration": "",
+      "translation": "The three army groups of vanaras protected by Sugriva encamped for the purpose of Rama appeared enthusiastic.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-96",
+      "number": 96,
+      "type": "shloka",
+      "original": "सा महार्णवमासाद्य हृष्टा वानरवाहिनी ।\nवायुवेगसमाधूतं पश्यमाना महार्णवम् ।।6.4.111।।",
+      "transliteration": "",
+      "translation": "Having arrived at the great ocean and seeing the ocean lashed by the fury of the wind the vanaras felt rejoiced.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-97",
+      "number": 97,
+      "type": "shloka",
+      "original": "दूरपारमसम्बाधं रक्षोगणनिषेवितम् ।\nपश्यन्तो वरुणावासं निषेदुर्हरियूथपाः ।।6.4.112।।",
+      "transliteration": "",
+      "translation": "On seeing the expansive ocean, the vanara army thought 'how to cross the abode of rain god whose shores are far away and not connected and is protected by rakshasas'?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-98",
+      "number": 98,
+      "type": "shloka",
+      "original": "चण्डनक्रग्राहं घोरं क्षपादौ दिवसक्ष्ये ।\nहसन्तमिव फेनौघैर्नृत्यन्तमिव चोर्मिभिः ।।6.4.113।।",
+      "transliteration": "",
+      "translation": "As the day was ending and night was setting in, the ocean filled with crocodiles which could catch any animal looked terrific and its waves seemed as if it were laughing and dancing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-99",
+      "number": 99,
+      "type": "shloka",
+      "original": "चन्द्रोदये समुद्भूतं प्रतिचन्द्रसमाकुलम् ।\nचण्डानिलमहाग्राहैः कीर्णं तिमितिमिङ्गिलैः ।।6.4.114।।",
+      "transliteration": "",
+      "translation": "At the time of the moon rise, the lofty ocean inhabited by dark swift crocodiles, huge Timingala fish scattered in it was rising up with several images of moon reflected in its water.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-100",
+      "number": 100,
+      "type": "shloka",
+      "original": "दीप्तभोगैरिवाकीर्णं भुजङ्गैर्वरुणालयम् ।\nअवगाढं महासत्त्वैर्नानाशैलसमाकुलम् ।\nसुदुर्गं दुर्गमार्गं तमगाध मसुरालयम् ।।6.4.115।।",
+      "transliteration": "",
+      "translation": "Filled with serpents glowing with flaming gems on hoods, the abode of Varuna (was like underworld) with huge snakes and different mountains under water is a difficult path inaccessible and a fathomless abode of rakshasas (vanaras thought).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-101",
+      "number": 101,
+      "type": "shloka",
+      "original": "मकरैर्नागभोगैश्च विगाढा वातलोलिताः ।\nउत्पेतुश्च निपेतुश्च प्रवृद्धा जलराशयः ।।6.4.116।।",
+      "transliteration": "",
+      "translation": "Swarmed with sea animals like sharks and crocodiles and serpents were jumping with huge volumes of water rising and down with force by the stormy wind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-102",
+      "number": 102,
+      "type": "shloka",
+      "original": "अग्निचूर्णमिवाविद्धं भास्वराम्बुमहोरगम् ।\nसुरारिविषयं घोरं पाताळविषमं सदा ।।6.4.117।।",
+      "transliteration": "",
+      "translation": "The sea that was the domain of snakes was shining as though sparks of fire from the sky penetrated the drops of sea water.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-103",
+      "number": 103,
+      "type": "shloka",
+      "original": "सागरं चाम्बरप्रख्यमम्बरं सागरोपमम् ।\nसागरं चाम्बरं चेति निर्विशेष मदृश्यत ।।6.4.118।।",
+      "transliteration": "",
+      "translation": "The ocean resembled the sky and the sky like the ocean were identical as no difference appeared.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-104",
+      "number": 104,
+      "type": "shloka",
+      "original": "सम्पृक्तं नभसाप्यम्भस��सम्पृक्तं च नभोऽम्भसा ।\nतादृग्रूपेच दृश्यते तारारत्नसमाकुले ।।6.4.119।।",
+      "transliteration": "",
+      "translation": "The ocean and the sky filled with gems and stars respectively appeared alike.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-105",
+      "number": 105,
+      "type": "shloka",
+      "original": "समुत्पतितमेघस्य वीचिमालाकुलस्य च ।\nविशेषो न द्वयोरासीत्सागरस्याम्बरस्य च ।।6.4.120।।",
+      "transliteration": "",
+      "translation": "There was no distinction between the sky with rising clouds and the ocean with moving waves.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-106",
+      "number": 106,
+      "type": "shloka",
+      "original": "अन्योन्यैराहता स्सक्ता स्सस्वनुर्भीमनिस्स्वनाः ।\nऊर्मयस्सिन्धुराजस्य महाभेर्य इवाहवे ।।6.4.121।।",
+      "transliteration": "",
+      "translation": "The waves of the ocean striking each other making frightening sounds like the blowing of war horns seemed as if challenging each other.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-107",
+      "number": 107,
+      "type": "shloka",
+      "original": "रत्नौघ जलसन्नादं विषक्तमिव वायुना ।\nउत्पतन्तमिव क्रुद्धं यादोगणसमाकुलम् ।।6.4.122।।\nददृशुस्ते महोत्साह वाताहतजलाशयम् ।\nअनिलोद्धूतमाकाशे प्रवल्गन्त ममिवोर्मिभिः ।।6.4.123।।",
+      "transliteration": "",
+      "translation": "The enthusiastic vanaras saw the sea inhabited by animals filled with gems and water concentrated in one place rising to the sky, as though infuriated. The rising of the waves (the noise) of the ocean by the cause of wind seemed as if they were talking about.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-4-108",
+      "number": 108,
+      "type": "shloka",
+      "original": "ततो विस्मयमापन्ना हरयो ददृशुर्हरयस्तदा ।\n \nभ्रान्तोर्मिजालसन्नादं प्रलोलमिव सागरम् ।।6.4.124।।",
+      "transliteration": "",
+      "translation": "The vanaras were wonder struck when they saw the ocean that was noisy with rolling waves as if it was highly agitated and distressed. ।।इत्यार्षे वाल्मीकीये श्रीमद्रामायणे आदिकाव्ये युद्धकाण्डे चतुर्थस्सर्गः।। This is the end of the fourth Sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

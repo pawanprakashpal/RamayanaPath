@@ -1,0 +1,198 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 54,
+    "title": "Hanuman's startegy to  change Angada.",
+    "titleSanskrit": "",
+    "totalShlokas": 20
+  },
+  "shlokas": [
+    {
+      "id": "v4-54-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तथा ब्रुवति तारे तु ताराधिपतिवर्चसि।\nअथ मेने हृतं राज्यं हनूमानङ्गदेन तत्।।4.54.1।।",
+      "transliteration": "",
+      "translation": "Hanuman listened to the proposal of Tara, whose face was like the Moon, lord of the stars. (After listening to Tara) he thought Angada might take over the kingdom from Sugriva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-54-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "बुद्ध्या ह्यष्टाङ्गया युक्तं चतुर्बलसमन्वितम्।\nचतुर्दशगुणं मेने हनूमान्वालिनस्सुतम्।।4.54.2।।",
+      "transliteration": "",
+      "translation": "Hanuman thought Vali's son possessed in addition to his intellect, eight kinds of limbs, four kinds of strength and fourteen qualities (required of a king):",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-54-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "आपूर्यमाणं शश्वच्��� तेजोबलपराक्रमैः।\nशशिनं शुक्लपक्षादौ वर्धमानमिव श्रिया।।4.54.3।।\nबृहस्पतिसमं बुद्ध्या विक्रमे सदृशं पितुः।\nशुश्रूषमाणं तारस्य शक्रस्येव पुरन्दरम्।।4.54.4।।\nभर्तुरर्थे परिश्रान्तं सर्वशास्त्रविदांवरम्।\nअभिसन्धातुमारेभे हनूमानङ्गदं ततः।।4.54.5।।",
+      "transliteration": "",
+      "translation": "Hanuman proceeded to win over Angada, who was ever shining in strength and valour, who was growing in majesty constantly like the Moon in the bright fornight, whose intellectual prowess was equal to that of Brhaspati, who was equal to his father in valour and who was wellversed in all sastras. Angada was listening toTara like Indra listened to Sukra (preceptor of the demons).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-54-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "स चतुर्णामुपायानां तृतीयमुपवर्णयन्।\nभेदयामास तान्सर्वान् वानरान्वाक्यसम्पदा।।4.54.6।।",
+      "transliteration": "",
+      "translation": "Resorting to the third strategy out of the four ways of achieving an objective Hanuman created differences among the monkeys with skilful arguments. (Sama, Dana, Bheda and Danda are the four means. Hanuman adopted Bheda as a means of winning over an enemy).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-54-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तेषु सर्वेषु भिन्नेषु ततोऽभीषयदङ्गदम्।\nभीषणैर्भहुभिर्वाक्यै: कोपोपायसमन्वितैः।।4.54.7।।",
+      "transliteration": "",
+      "translation": "When there were differences among the monkeys over the issue, Hanuman intimidated Angada with frightening words expressing his anger, using skilful arguments:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-54-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "त्वं समर्थतरः पित्रा युद्धे तारेय वै धुरम्।\nदृढं धारयितुं शक्तः कपिराज्यं यथा पिता।।4.54.8।।",
+      "transliteration": "",
+      "translation": "'O Son of Tara you are, indeed, very efficient like your father in combat. You can hold firmly the responsibilty of the vanara kingdom like your father.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-54-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "नित्यमस्थिरचित्ता हि कपयो हरिपुङ्गव।\nनाज्ञाप्यं विषहिष्यन्ति पुत्रदारान्विना त्वया।।4.54.9।।",
+      "transliteration": "",
+      "translation": "'O leader among  monkeys Vanaras are always fickleminded. Being away from their sons and wives they will not always carry out your command and stay here forever.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-54-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "त्वां नैतेह्यनुयुञ्जेयु: प्रत्यक्षं प्रवदामि ते।\nयथायं जाम्बवान्नीलस्सुहोत्रश्च महाकपिः।।4.54.10।।\nन ह्यहं ते इमे सर्वे सामदानादिभिर्गुणैः।\nदण्डेन वा त्वया शक्यास्सुग्रीवादपकर्षितम्।।4.54.11।।",
+      "transliteration": "",
+      "translation": "'This  I am telling you openly and frankly. These monkeys are not going to be obedient to you. Neither Jambavan, nor Nila nor the great monkey Suhotra nor even myself would subscribe to this opinion (of staying in the cave) and follow you. It is not possible for you to keep us or these monkeys from Sugriva through the policy of appeasement like Sama, Dana, Bheda or even Danda (persuasion, giving gifts, creating differences or imposing punishment).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-54-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "विगृह्यासनमप्याहुर्दुर्बलेन बलीयसः।\nआत्मरक्षाकरस्तस्मान्न विगृह्णीत दुर्बलः।।4.54.12।।",
+      "transliteration": "",
+      "translation": "'It is said that when a strong man fights a weak one, the weak opponent should adopt the strategy of asana (watching) for selfprotection. The weak should not enter into combat with the strong.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-54-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "यां चेमां मन्यसे धात्रीमेतद्बिलमिति श्रुतम्।\nएतल्लक्ष्मणबाणानामीषत्कार्यं विदारणे।।4.54.13।।",
+      "transliteration": "",
+      "translation": "'You may think it safe to stay here in this opening of the earth. It is a petty task for the arrows of Lakshmana to break open this socalled cave.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-54-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "स्वल्पं हि कृतमिन्द्रेण क्षिपता ह्यशनिं पुरा।\nलक्ष्मणो निशितैर्बाणैर्भिन्ध्यात्पत्रपुटं यथा।।4.54.14।।",
+      "transliteration": "",
+      "translation": "'In the past Indra had done a small damage (to the cave) with his thunderbolt. But with his sharp arrows Lakshmana will shatter the cave easily as though it is a leaf cup.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-54-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "लक्ष्मणस्य च नाराचा बहवस्सन्ति तद्विधाः।\nवज्राशनिसमस्पर्शा गिरीणामपि दारणाः।।4.54.15।।",
+      "transliteration": "",
+      "translation": "'Lakshmna has many such iron arrows that are equal to the thunderbolt. They can even split the mountains.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-54-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "अवस्थाने यदैव त्वमासिष्यसि परन्तप।\nतदैव हरयस्सर्वे त्यक्ष्यन्ति कृतनिश्चयाः।4.54.16।।",
+      "transliteration": "",
+      "translation": "'O scorcher of enemies the moment you decide to establish yourself here, all these  monkeys will surely desert you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-54-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "स्मरन्तः पुत्रदाराणां नित्योद्विग्ना बुभुक्षिताः।\nखेदिता दुःखशय्याभिस्त्वां करिष्यन्ति पृष्ठतः।।4.54.17।।",
+      "transliteration": "",
+      "translation": "'The memory of their sons and wives will haunt these hungry monkeys. The inconvenient bed will make them so depressed that they will leave you behind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-54-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "स त्वं हीनस्सुहृद्भिश्च हितकामैश्च बन्धुभिः।\nतृणादपि भृशोद्विग्नस्स्पन्दमानाद्भविष्यसि।।4.54.18।।",
+      "transliteration": "",
+      "translation": "'Left out of your friends and relatives,who are your wellwishers, you will be very frightened even by the trembling of a blade of grass.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-54-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "न च जातु न हिंस्युस्त्वां घोरा लक्ष्मणसायकाः ।\nअपवृत्तं जिघांसन्तो महावेगा दुरासदाः ।। 4.54.19 ।।",
+      "transliteration": "",
+      "translation": "In Progress",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-54-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "न च जातु न हिंस्युस्त्वा घोरा लक्ष्मणसायकाः।\nअपावृत्तं जिघांसन्तो महावेगा दुरासदाः।।4.54.20।।",
+      "transliteration": "",
+      "translation": "'It is not that Lakshmana's dreadful arrows flying at great speed will not torture you. It will be difficult for you to avert them as they are eager to kill an escaping enemy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-54-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अस्माभिस्तु गतं सार्धं विनीतवदुपस्थितम्।\nआनुपूर्व्यात्तु सुग्रीवो राज्ये त्वां स्थापयिष्यति।।4.54.21।।",
+      "transliteration": "",
+      "translation": "'If along with us you approach Sugriva in a humble manner he will make you his successor to the kingdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-54-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "धर्मकामः पितृव्यस्ते प्रीतिकामो दृढव्रतः।\nशुचिस्सत्यप्रतिज्ञश्च न त्वां जातु जिघांसति।।4.54.22।।",
+      "transliteration": "",
+      "translation": "'Your father's brother is virtuous, wellintentioned, loving, steadfast in action, and true to his promise. He will not kill you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-54-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "प्रियकामश्च ते मातुस्तदर्थं चास्य जीवितम्।\nतस्यापत्यं च नास्त्यन्यत्तस्मादङ्गद गम्यताम्।।4.54.23।।",
+      "transliteration": "",
+      "translation": "'Your mother is his life and he would love to please her. He has no offspring other than you. Therefore, go back.' इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे चतुष्पञ्चाशस्सर्गः।। Thus ends the fiftyfourth sarga in Kishkindakanda of the first epic, the Holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

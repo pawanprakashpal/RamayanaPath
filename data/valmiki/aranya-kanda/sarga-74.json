@@ -1,0 +1,315 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 74,
+    "title": "Rama and Lakshmana visit  the hermitage of Sabari-- Sabari's hospitalitythey go round the forest and hermitage of sage Matanga-- Sabari casts her body into the fire and ascends to heaven.",
+    "titleSanskrit": "",
+    "totalShlokas": 33
+  },
+  "shlokas": [
+    {
+      "id": "v3-74-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तौ कबन्धेन तं मार्गं पम्पाया दर्शितं वने।\nप्रतस्थतुर्दिशं गृह्य प्रतीचीं नृवरात्मजौ।।3.74.1।।",
+      "transliteration": "",
+      "translation": "The two princes set forth in the western direction towards Pampa shown by Kabandha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तौ शैलेष्वाचितानेकान् क्षौद्रकल्पफलान्द्रुमान्।\nवीक्षन्तौ जग्मतुर्ध्रष्टुं सुग्रीवं रामलक्ष्मणौ।।3.74.2।।",
+      "transliteration": "",
+      "translation": "Observing the trees loaded with honeysweet fruits on the mountain, Rama and Lakshmana   went to see Sugriva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "कृत्वा च शैलपृष्ठे तु तौ वासं रामलक्ष्मणौ।\nपम्पायाः पश्चिमं तीरं राघवावुपतस्थतुः।।3.74.3।।",
+      "transliteration": "",
+      "translation": "Rama and Lakshmana halted on the slope of the mountain and then departed for the western bank of Pampa.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तौ पुष्करिण्याः पम्पायास्तीरमासाद्य पश्चिमम्।\nअपश्यतां ततस्तत्र शबर्या रम्यमाश्रमम्।।3.74.4।।",
+      "transliteration": "",
+      "translation": "Both reached the west bank of lake Pampa and saw the delightful hermitage of Sabari.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तौ तमाश्रममासाद्य द्रुमैर्बहुभीरावृतम्।\nसुरम्यमभिवीक्षन्तौ शबरीमभ्युपेयतुः।।3.74.5।।",
+      "transliteration": "",
+      "translation": "Both reached the beautiful hermitage full of many kinds of trees. There they saw Sabari, and went towards her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तौ च दृष्ट्वा तदा सिद्धा समुत्थाय कृताञ्जलिः।\nरामस्य पादौ जग्राह लक्ष्मणस्य च धीमतः।।3.74.6।।",
+      "transliteration": "",
+      "translation": "On seeing them both, Sabari, an accomplished ascetic, got up with folded hands and  touched the feet of the sagacious Rama and Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "पाद्यमाचमनीयं च सर्वं प्रादाद्यथाविधि।\nतामुवाच ततो रामश्श्रमणीं संशितव्रताम्।।3.74.7।।",
+      "transliteration": "",
+      "translation": "She offered them water to wash their feet and water to sip as per tradition. Then Rama spoke to Sabari who used to perform austere penance:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "कच्चित्ते निर्जिता विघ्नाः कच्चित्ते वर्धते तपः।\nकच्चित्ते नियतः क्रोध आहारश्च तपोधने।।3.74.8।।",
+      "transliteration": "",
+      "translation": "O ascetic   hope you have overcome your obstacles to penance, you have controlled your anger and your desire for food. Is your austerity in progress.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "कच्चित्ते नियमाः प्राप्ताः कच्चित्ते मनसः सुखम्।\nकच्चित्ते गुरुशुश्रूषा सफला चारुभाषिणि।।3.74.9।।",
+      "transliteration": "",
+      "translation": "O Sweettongued Sabari, have you achieved selfcontrol? Has your mind attained peace ? Have your services to the preceptor yielded results?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "रामेण तापसी पृष्टा सा सिद्धा सिद्धसम्मता।\nशशंस शबरी वृद्धा रामाय प्रत्युपस्थिता।।3.74.10।।",
+      "transliteration": "",
+      "translation": "When Rama asked Sabari who was an old, accomplished ascetic adored by siddhas, she stood in front and replied :",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "अद्य प्राप्ता तपस्सिद्धिस्तव संदर्शनान्मया।\nअद्य मे सफलं तप्तं गुरवश्च सुपूजिताः।।3.74.11।।",
+      "transliteration": "",
+      "translation": "On seeing you now my penance has attained fulfilment, my services to my preceptors have borne fruit.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अद्य मे सफलं जन्म स्वर्गश्चैव भविष्यति।\nत्वयि देववरे राम पूजिते पुरुषर्षभ।।3.74.12।।",
+      "transliteration": "",
+      "translation": "O best of men, O highest of the gods my birth has become fruitful today with your worship, (you have made) even attainment of heaven quite certain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "चक्षुषा तव सौम्येन पूतास्मि रघुनन्दन।\nगमिष्याम्यक्षयान्लोकांस्त्वत्प्रसादादरिन्दम।।3.74.13।।",
+      "transliteration": "",
+      "translation": "O delight of the Raghus, your handsome look has sanctified me, O subduer of enemies, by your grace I will reach the inmperishable worlds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "चित्रकूटं त्वयि प्राप्ते विमानैरतुलप्रभैः।\nइतस्ते दिवमारूढा यानहं पर्यचारिषम्।।3.74.14।।",
+      "transliteration": "",
+      "translation": "The men I served have ascended heaven on aerial chariots of incomparable radiance the moment you touched Chitrakuta.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तैश्चाहमुक्ता धर्मज्ञैर्महाभागैर्महर्षिभिः।\nआगमिष्यति ते रामस्सुपुण्यमिममाश्रमम्।।3.74.15।।\nस ते प्रतिग्रहीतव्यस्सौमित्रिसहितोतिथिः।\nतं च दृष्ट्वा वरान्लोकानक्षयांस्त्वं गमिष्यसि।।3.74.16।।",
+      "transliteration": "",
+      "translation": "Those great honourable sages who knew the ways of dharma said: 'Rama would visit this sacred hermitage along with Lakshmana. He would be your guest. Receive him  with due honour. And you would attain the great, inexhaustible worlds when you see him.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "मया तु विविधं वन्यं सञ्चितं पुरुषर्षभ।\nतवार्थे पुरुषव्याघ्र पम्पायास्तीरसम्भवम्।।3.74.17।।",
+      "transliteration": "",
+      "translation": "O best among men I have collected and kept for your sake different kinds of forestfood grown on the bank of Pampa.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "एवमुक्तस्स धर्मात्मा शबर्या शबरीमिदम्।\nराघवः प्राह विज्ञाने तां नित्यमबहिष्कृताम्।।3.74.18।।",
+      "transliteration": "",
+      "translation": "Entreated by her in that manner, the righteous Rama spoke to Sabari who was established in true knowledge:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "दनोस्सकाशात्तत्त्वेन प्रभावं ते महात्मनः।\nश्रुतं प्रत्यक्षमिच्छामि सन्द्रष्टुं यदि मन्यसे।।3.74.19।।",
+      "transliteration": "",
+      "translation": "I have heard from great Danu about your power. If you agree, I would like to see this power in person.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "एतत्तु वचनं श्रुत्ता रामवक्त्राद्विनिस्सृतम्।\nशबरी दर्शयामास तावुभौ तद्वनं महत्।।3.74.20।।",
+      "transliteration": "",
+      "translation": "At these words from the mouth of Rama, Sabari took them both round the great garden.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "पश्य मेघघनप्रख्यं मृगपक्षिसमाकुलम्।\nमतङ्गवनमित्येव विश्रुतं रघुनन्दन���।।3.74.21।।",
+      "transliteration": "",
+      "translation": "O delight of the Raghus see this garden looking like the dense cloud. Full of animals and birds, it is popularly known as Matanga garden.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "इह ते भावितात्मानो गुरवो मे महावने।\nजुहवाञ्चक्रिरे तीर्थं मन्त्रवन्मन्त्रपूजितम्।।3.74.22।।",
+      "transliteration": "",
+      "translation": "My precepters, who had perceived the Supreme Spirit made sacrificial offerings in this great garden, invoked gods through the power of mantras. They brought water and offered oblations to the sacrificial fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "इयं प्रत्यक्थ्सली वेदिर्यत्र ते मे सुसत्कृताः।\nपुष्पोपहारं कुर्वन्ति श्रमादुद्वेपिभिः करैः।।3.74.23।।",
+      "transliteration": "",
+      "translation": "This is the altar named Pratyaksthali where the saints aged and exhausted( by performing chandrayana) whom I worshipped made offerings of flowers with trembling hands.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तेषां तपःप्रभावेण पश्याद्यापि रघूद्वह।\nद्योतयन्ति दिशस्सर्वाश्श्रिया वेद्योऽतुलप्रभाः।।3.74.24।।",
+      "transliteration": "",
+      "translation": "O Rama see, even now they illuminate the sacrificial altars with the power of their penance. They shed light in all directions with a matchless brilliance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "अशक्नुवद्भिस्तैर्गन्तुमुपवासश्रमालसैः।\nचिन्तितेऽभ्यागतान्पश्य सहितान्सप्तसागरान्।।3.74.25।।",
+      "transliteration": "",
+      "translation": "Look at the seven seas, which have reached here at their mere thought as they could not reach them due to fatigue from fasting.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "कृताभिषेकैस्तैर्न्यस्ता वल्कलाः पादपेष्विह।\nअद्यापि नावशुष्यन्ति प्रदेशे रघुनन्दन।।3.74.26।।",
+      "transliteration": "",
+      "translation": "O delight of the Raghus  look at the bark robes spread on the trees to dry after their bathing which are still wet.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "देवकार्याणि कुर्वद्भिर्यानीमानि कृतानि वै।\nपुष्पैःकुवलयैस्सार्धं म्लानत्वं नोपयान्तिवै।।3.74.27।।",
+      "transliteration": "",
+      "translation": "The flowers including lotuses offered by the sages while worshipping gods have not yet wilted.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "कृत्स्नं वनमिदं दृष्टं श्रोतव्यं च श्रुतं त्वया।\nतदिच्छा��्यभ्यनुज्ञाता त्यक्तुमेतत्कलेबरम्।।3.74.28।।",
+      "transliteration": "",
+      "translation": "You have seen the entire garden and have listened what is to be heard. With your permission I would like to give up this body.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "तेषामिच्छाम्यहं गन्तुं समीपं भावितात्मनाम्।\nमुनीनामाश्रमो येषामहं च परिचारिणी।।3.74.29।।",
+      "transliteration": "",
+      "translation": "I wish to reach those realisers of the Supreme Spirit whom I served and to whom this hermitage belonged.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "धर्मिष्ठं तु वचश्श्रुत्वा राघवस्सहलक्ष्मणः।\nप्रहर्षमतुलं लेभे आश्चर्यमिति तत्त्वतः।।3.74.30।।",
+      "transliteration": "",
+      "translation": "Rama and Lakshmana on hearing the pious words of Savari joyfully exclaimed, This is really wonderful.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "तामुवाच ततो रामश्श्रमणीं संशितव्रताम्।\nअर्चितोऽहं त्वया भक्त्या गच्छकामं यथासुखम्।।3.74.31।।",
+      "transliteration": "",
+      "translation": "Looking at Sabari who was steadfast in her vow, Rama said, O ascetic, you have worshipped me with devotion. You may go wherever you like (to the world you desire)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "इत्युक्ता जटिला वृद्धा चीरकृष्णाजिनाम्बरा।\nतस्मिन्मुहूर्ते शबरी देहं जीर्णं जिहासती।।3.74.32।।\nअनुज्ञाता तु रामेण हुत्वात्मानं हुताशने।\nज्वलत्पावकसङ्काशा स्वर्गमेव जगाम सा।।3.74.33।।",
+      "transliteration": "",
+      "translation": "With matted locks, tattered bark clothes and deer skin, Sabari consigned her old and emaciated body to the fire at that moment, with the permission of Rama and ascended to heaven, her body glowing like fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "दिव्याभरणसंयुक्ता दिव्यमाल्यानुलेपना।\nदिव्याम्बरधरा तत्र बभूव प्रियदर्शना।।3.74.34।।\nविराजयन्ती तं देशं विद्युत्सौदामिनी यथा।",
+      "transliteration": "",
+      "translation": "Adorned with wonderful ornaments and beautiful garlands, anointed with fragrant unguents, robed in most beautiful clothes, she appeared like a streak of lightning, her body shining bright and her face contented.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-74-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "यत्र ते सुकृतात्मानो विहरन्ति महर्षयः।।3.74.35।।\nतत्पुण्यं शबरी स्थानं जगामात्मसमाधिना।",
+      "transliteration": "",
+      "translation": "By virtue of her selfmeditation, Sabari went to that sacred world where the holy sages lived because of their good deeds. इत्यार्ष श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे चतुस्सप्ततितमस्सर्गः।। Thus ends the seventyfourth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 8,
+    "title": "Dasaratha had no sons to continue the Ikshvaku race --sorrow grew  with advancing age-- intends to perform aswamedha for a successor-- summons all ministers and counsellors--sages and family priests to approve his proposal.",
+    "titleSanskrit": "",
+    "totalShlokas": 22
+  },
+  "shlokas": [
+    {
+      "id": "v1-8-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तस्य त्वेवं प्रभावस्य धर्मज्ञस्य महात्मन:।\nसुतार्थं तप्यमानस्य नासीद्वंशकरस्सुत:।।1.8.1।।",
+      "transliteration": "",
+      "translation": "Such a majestic, righteous, and magnaninous king had no son to perpetuate the race even though he performed austerities for one.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-8-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "चिन्तयानस्य तस्यैवं बुद्धिरासीन्महात्मन: ।\nसुतार्थं हयमेधेन किमर्थं न यजाम्यहम्।।1.8.2।।",
+      "transliteration": "",
+      "translation": "While reflecting over the matter, a thought struck the magnanimous king: 'Why not invoke gods by performing a horsesacrifice for a son'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-8-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "स निश्चितां मतिं कृत्वा यष्टव्यमिति बुद्धिमान्।\nमन्त्रिभिस्सह धर्मात्मा सर्वैरेव कृतात्मभि:।।1.8.3।। \nततोऽब्रवीदिदं राजा सुमन्त्रं मन्त्रिसत्तमम्।\nशीघ्रमानय मे सर्वान्गुरूंस्तान् सपुरोहितान्।।1.8.4।।",
+      "transliteration": "",
+      "translation": "Having made up his mind to perform the sacrifice, that sagacious and pious king, in consultation with his wise ministers, issued the following command to Sumantra, the best of ministers \"Bring all my spritual preceptors along with family priests.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-8-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "ततस्सुमन्त्रस्त्वरितं गत्वा त्वरितविक्रम:।\nसमानयत्स तान् सर्वान् समस्तान्वेदपारगान् ।।1.8.5।।\nसुयज्ञं वामदेवं च जाबालिमथ काश्यपम् ।\nपरोहितं वसिष्ठं च ये चान्ये व्दिजसत्तमा: ।। 1.8.6 ।।",
+      "transliteration": "",
+      "translation": "Thereupon Sumantra of swift movement immediateiy brought together Suyajna, Vamadeva,Jabali, Kasyapa and priest Vasistha along with other brahmins who had mastery over the Vedas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-8-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तान्पूजयित्वा धर्मात्मा राजा दशरथस्तदा।\nइदं धर्मार्थसहितं श्लक्ष्णंवचनमब्रवीत्।।1.8.7।।",
+      "transliteration": "",
+      "translation": "Virtuous king Dasaratha paid homage to them (the ministers) and uttered these gracious, righteous and meaningful words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-8-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "मम लालप्यमानस्य पुत्रार्थन्नास्ति वै सुखम्।\nतदर्थं हयमेधेन यक्ष्यामीति मतिर्मम।।1.8.8।।",
+      "transliteration": "",
+      "translation": "There is no happiness for one who has no son. This is the cause of my intense suffering. Therefore, I have made up my mind to perform a horsesacrifice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-8-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तदहं यष्टुमिच्छामि शास्त्रदृष्टेन कर्मणा।\nकथं प्राप्स्याम्यहं कामं बुद्धिरत्रविचार्यताम्।।1.8.9।।",
+      "transliteration": "",
+      "translation": "Therefore, I intend to perform a horsesacrifice in accordance with the scriptures. How  can I fulfil my desire in this regard? You may deliberate and find a solution\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-8-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "ततस्साध्विति तद्वाक्यं ब्राह्मणा: प्रत्यपूजयन्।\nवसिष्ठप्रमुखास्सर्वे पार्थिवस्य मुखाच्च्युतम्।।1.8.10।।",
+      "transliteration": "",
+      "translation": "The brahmins along with Vasishta in the forefront extolled the king's decision,  exclaiming, 'Well, Well'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-8-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "ऊचुश्च परमप्रीतास्सर्वे दशरथं वच:।\nसम्भारास्सम्भ्रियन्तां ते तुरगश्च विमुच्यताम्।।1.8.11।।",
+      "transliteration": "",
+      "translation": "Highly pleased, they all said to king Dasaratha, \"Requisite articles be collected for the sacrifice and the  horse be released.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-8-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "सर्वथा प्राप्स्यसे पुत्रानभिप्रेतांश्च पार्थिव।\nयस्य ते धार्मिकी बुद्धिरियं पुत्रार्थमागता।।1.8.12।।",
+      "transliteration": "",
+      "translation": "'O king, the wish that arose in your mind is just and right. You will definitely obtain sons as desired by you.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-8-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तत: प्रीतोऽभवद्राजा श्रुत्वा तद्विजभाषितम्।\nअमात्यांश्चाब्रवीद्राजा हर्षपर्याकुलेक्षण:।।1.8.13।।",
+      "transliteration": "",
+      "translation": "On hearing the words of the brahmins, the king was pleased and said to his ministers with eyes excited with delight.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-8-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "सम्भारास्सम्भ्रियन्तां मे गुरूणां वचनादिह।\nसमर्थाधिष्ठितश्चाश्वस्सोपाध्यायो विमुच्यताम्।।1.8.14।।",
+      "transliteration": "",
+      "translation": "\"Let the  articles required (for performing the sacrifice) be procured in accordance with the words of my spiritual preceptors and the horse be released under the protection of able men.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-8-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "सरय्वाश्चोत्तरे तीरे यज्ञभूमिर्विधीयताम्।\nशान्तयश्चाभिवर्धन्तां यथाकल्पं यथाविधि।।1.8.15।।",
+      "transliteration": "",
+      "translation": "On the northern bank of  Sarayu, a sacrificial pavillion be prepared according to the  methods ordained in the 'Kalpa'. Auspicious rites be performed in accordance with the ordinance for its uninterrupted completion.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-8-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "शक्य: प्राप्तुमयं यज्ञस्सर्वेणापि महीक्षिता।\nनापराधो भवेत्कष्टो यद्यस्मिन्क्रतुसत्तमे।।1.8.16।।",
+      "transliteration": "",
+      "translation": "If obstructions and omissions do not occur in the conduct of this best of sacrifices, it will be possible for every king to get the results.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-8-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "छिद्रं हि मृगयन्तेऽत्र विद्वांसो ब्रह्मराक्षसा: ।\nनिहतस्य च यज्ञस्य सद्य: कर्ता विनश्यति ।।1.8.17।।",
+      "transliteration": "",
+      "translation": "The learned brahmarakshasas always look out for flaws in the sacrifice so that they can spoil it. If a flaw finds place, the doer of the sacrifice is immediately destroyed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-8-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तद्यथा विधिपूर्वं मे क्रतुरेष समाप्यते ।\nतथा विधानं क्रियतां समर्था: करणेष्विह।।1.8.18।।",
+      "transliteration": "",
+      "translation": "Therefore let the arrangements be made in a manner this sacifice is completed in accordance with the scriptures. And in this, you are experts\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-8-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तथेति चाब्रुवन्सर्वे मन्त्रिण:प्रत्यपूजयन्।\nपार्थिवेन्द्रस्य तद्वाक्यं यथाज्ञप्तं निशम्य ते।।1.8.19।।",
+      "transliteration": "",
+      "translation": "Having heard these words of this Indra on earth (king Dasaratha) all the ministers with due respect replied: \"May it be as ordered\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-8-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तथा द्विजास्ते धर्मज्ञा वर्धयन्तो नृपोत्तमम्।\nअनुज्ञातास्ततस्सर्वे पुनर्जग्मुर्यथागतम्।।1.8.20।।",
+      "transliteration": "",
+      "translation": "Bowing to this best of kings (Dasaratha), all the brahmins who were experts in austerities left all the knowledgeable brahmins as they camewith his permission.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-8-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "विसर्जयित्वा तान्विप्रान्सचिवानिदमब्रवीत्।\nऋत्विग्भिरुपदिष्टोऽयं यथावत्क्रतुराप्यताम्।।1.8.21।।",
+      "transliteration": "",
+      "translation": "After sending away the brahmins, the king said to his ministers: \"Let this sacrifice be performed as enjoined by scriptures and as directed by the officiating priests\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-8-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "इत्युक्त्वा नृपशार्दूलस्सचिवान्समुपस्थितान्।\nविसर्जयित्वा स्वं वेश्म प्रविवेश महाद्युति:।।1.8.22।।",
+      "transliteration": "",
+      "translation": "Having thus ordered his ministers sitting nearby, sent this highly brilliant, this  preeminent among kings them away and entered the inner apartment.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-8-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "ततस्स गत्वा ता:पत्नीर्नरेन्द्रो हृदयप्रिया:।\nउवाच दीक्षां विशत यक्ष्येऽहं सुतकारणात्।।1.8.23।।",
+      "transliteration": "",
+      "translation": "Thereafter the king said to his dearest wives: \"I intend to perform a sacrifice in order to obtain sons. Therefore, you, too, commence religious discipline.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-8-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तासां तेनातिकान्तेन वचनेन सुवर्चसाम्।\nमुखपद्मान्यशोभन्त पद्मानीव हिमात्यये।।1.8.24।।",
+      "transliteration": "",
+      "translation": "On listening to these exceedingly charming words, their bright countenances shone resplendent like lotuses after the departure of winter. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे अष्टमस्सर्ग:।। Thus ends the eighth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

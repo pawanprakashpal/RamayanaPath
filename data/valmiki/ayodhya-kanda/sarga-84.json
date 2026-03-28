@@ -1,0 +1,171 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 84,
+    "title": "Guha spots from a distance Bharata's army approaching -- wants to know the intentions of Bharata -- convinced of Bharata's loyalty, he extends warn hospitality.",
+    "titleSanskrit": "",
+    "totalShlokas": 17
+  },
+  "shlokas": [
+    {
+      "id": "v2-84-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततो निविष्टां ध्वजिनीं गङ्गामन्वाश्रितां नदीम्।\nनिषादराजो दृष्ट्वैव ज्ञातीन्सन्त्वरितोऽऽब्रवीत्।।2.84.1।।",
+      "transliteration": "",
+      "translation": "Guha, king of the nishadas, observed the bannered army encamped all along the bank of the river Ganga, hurried off and said to his kinsmen:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-84-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "महतीयमितस्सेना सागराभा प्रदृश्यते।\nनास्यान्तमधिगच्छामि मनसापि विचिन्तयन्।।2.84.2।।",
+      "transliteration": "",
+      "translation": "Here is an army as vast as the ocean, and I am unable to comprehend its magnitude even mentally.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-84-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "यथा तु खलु दुर्बुद्धिर्भरत स्स्वयमागतः।\nस एष हि महाकायः कोविदारध्वजो रथे।।2.84.3।।",
+      "transliteration": "",
+      "translation": "It appears that the evilminded Bharata himself has come here. The emblem of a huge kovidara (pomegranate) tree is seen on his chariot.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-84-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "बन्धयिष्यति वा दाशानथवाऽस्मान्वधिष्यति।\nअथ दाशरथिं रामं पित्रा राज्याद्विवासितम्।।2.84.4।।\nसम्पन्नां श्रियमन्विच्छन्स्तस्य राज्ञ स्सुदुर्लभाम्।\nभरतः कैकयीपुत्रो हन्तुं समधिगच्छति।।2.84.5।।",
+      "transliteration": "",
+      "translation": "Could it be that Bharata, son of Kaikeyi, has come here to bind us with the cords or to slay us? Or is he marching forward with the intention of taking possession of a prosperous, rare kingdom by slaying Rama who has been banished by his father:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-84-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "भर्ताचैव सखाचैव रामो दाशरथिर्मम।\nतस्यार्थकामास्सन्नद्धा गङ्गाऽनूपे प्रतिष्ठत।।2.84.6।।",
+      "transliteration": "",
+      "translation": "Rama, son of Dasaratha, is not only my master but also my friend. Therefore, to safeguard his interests remain stationed here on the bank of the river Ganga.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-84-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तिष्ठन्तु सर्वे दाशाश्च गङ्गामन्वाश्रिता नदीम्।\nबलयुक्ता नदीरक्षा मांसमूलफलाशनाः।।2.84.7।।",
+      "transliteration": "",
+      "translation": "Let all the fishermen, who live on meat, roots and fruits and protect the river, stay here with the troops by taking up positions along the banks of the river Ganga.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-84-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "नावां शतानां पञ्चानां कैवर्तानां शतं शतम्।\nसन्नद्धानां तथा यूनां तिष्ठन्त्वित्यभ्यचोदयत्।।2.84.8।।",
+      "transliteration": "",
+      "translation": "Let five hundred boats, each manned by a hundred young fishermen fully equipped, be in readiness he exhorted them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-84-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "यदाऽऽदुष्टस्तु भरतो रामस्येह भविष्यति।\nसेयं स्वस्तिमती सेना गङ्गामद्य तरिष्यति।।2.84.9।।",
+      "transliteration": "",
+      "translation": "Should it happen that Bharata is not illdisposed toward Rama, the army will safe cross the river Ganga today itself.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-84-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "इत्युक्त्वोपायनं गृह्य मत्स्यमांसमधूनि च।\nअभिचक्राम भरतं निषादाधिपतिर्गुहः।।2.84.10।।",
+      "transliteration": "",
+      "translation": "Having spoken thus, Guha, lord of the nishadas, approached Bharata, taking with him fish, meat and wine as offerings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-84-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तमायान्तं तु सम्प्रेक्ष्य सूतपुत्रः प्रतापवान्।\nभरतायाऽचचक्षेऽथ विनयज्ञो विनीतवत्।।2.84.11।।",
+      "transliteration": "",
+      "translation": "The valiant Sumantra, conversant with ways of modesty, observed Guha approaching them and humbly informed Bharata.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-84-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "एष ज्ञातिसहस्रेण स्थपतिः परिवारितः।\nकुशलो दण्डकारण्ये वृद्धो भ्रातुश्च ते सखा।।2.84.12।।",
+      "transliteration": "",
+      "translation": "Guha who has come here surrounded by too many thousands of his relations is fully acquainted with the Dandaka forest. He is an aged man and a friend of your brother said Sumatra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-84-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "तस्मात्पश्यतु काकुत्स्थ त्वां निषादाधिपो गुहः।\nअसंशयं विजानीते यत्र तौ रामलक्ष्मणौ।।2.84.13।।",
+      "transliteration": "",
+      "translation": "O scion of the Kakusthas (Bharata) therefore, give audience to the overlord of the nishadas, Guha, who undoubtedly knows the whereabouts of Rama and Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-84-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "एतत्तु वचनं श्रुत्वा सुमन्त्राद्भरत श्शुभम्।\nउवाच वचनं शीघ्रं गुहः पश्यतु मामिति।।2.84.14।।",
+      "transliteration": "",
+      "translation": "On hearing these auspicious words of Sumantra, Bharata said Let Guha see me at once.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-84-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "लब्ध्वाऽभ्यनुज्ञां संहृष्टो ज्ञातिभिः परिवारितः।\nआगम्य भरतं प्रह्वो गुहो वचनमब्रवीत्।।2.84.15।।",
+      "transliteration": "",
+      "translation": "Having obtaind the permission, a delighted Guha, escorted by his relatives,  approached Bharata and humbly said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-84-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "निष्कुटश्चैव देशोऽयं वञ्च���ताश्चापि ते वयम्।\nनिवेदयामस्ते सर्वे स्वके दासकुले वस।।2.84.16।।",
+      "transliteration": "",
+      "translation": "This country is like a pleasuregarden at the backyard of your palace. All of us are  subordinate to you and we solicit you to stay in the house of  this servant of yours.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-84-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अस्ति मूलं फलञ्चैव निषादैस्समुपाहृतम्।\nआर्द्रं च मांसं शुष्कं च वन्यं चोच्चावचं महत्।।2.84.17।।",
+      "transliteration": "",
+      "translation": "Here are roots, fruits and a great variety of forest produce, fresh and dried meat brought by the nishadas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-84-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "आशंसे स्वाशिता सेना वत्स्यतीमां विभावरीम्।\nअर्चितो विविधैः कामै श्श्व स्ससैन्यो गमिष्यसि।।2.84.18।।",
+      "transliteration": "",
+      "translation": "We hope your army having  refreshed themselves will spend the night here. With our hospitality extended, you can proceed tomorrow. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे चतुरशीतितमस्सर्गः।। Thus ends the eightyfourth sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

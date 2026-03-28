@@ -1,0 +1,333 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 48,
+    "title": "Lamentations of women in Ayodhya.",
+    "titleSanskrit": "",
+    "totalShlokas": 35
+  },
+  "shlokas": [
+    {
+      "id": "v2-48-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तेषामेवं विषण्णानां पीडितानामतीव च।\nबाष्पविप्लुतनेत्राणां सशोकानां मुमूर्षया।।2.48.1।।\nअनुगम्य निवृत्तानां रामं नगरवासिनाम्।\nउद्गतानीव सत्वानि बभूवुरमनस्विनाम्।।2.48.2।।",
+      "transliteration": "",
+      "translation": "The people afflicted with sorrow followed Rama and returned to the city deeply distressed. Eyes overflowing with tears, they longed for death. Smitten with grief, they lost their highmindedness and looked as if their life had been drained out.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तेषामेवं विषण्णानां पीडितानामतीव च।\nबाष्पविप्लुतनेत्राणां सशोकानां मुमूर्षया।।2.48.1।।\nअनुगम्य निवृत्तानां रामं नगरवासिनाम्।\nउद्गतानीव सत्वानि बभूवुरमनस्विनाम्।।2.48.2।।",
+      "transliteration": "",
+      "translation": "The people afflicted with sorrow followed Rama and returned to the city deeply distressed. Eyes overflowing with tears, they longed for death. Smitten with grief, they lost their highmindedness and looked as if their life had been drained out.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "स्वं स्वं निलयमागम्य पुत्रदारैस्समावृता।\nअश्रूणि मुमुचुस्सर्वे बाष्पेण पिहिताननाः।।2.48.3।।",
+      "transliteration": "",
+      "translation": "The subjects reached their respective homes  and surrounded by their sons and wives  broke down their faces flooded with tears.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "न चाहृष्यन् नचामोदन् वणिजो न प्रसारयन्।\nन चाशोभन्त पण्यानि नापचन् गृहमेधिनः।।2.48.4।।",
+      "transliteration": "",
+      "translation": "The people had no joy in life nor did they find cheer in anything. The merchants did not offer their wares for sale. The marketplace looked graceless (lifeless). (The stocks were empty). The householders did not cook their food.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "नष्टं दृष्ट्वा नाभ्यनन्दन् विपुलं वा धनागमम्।\nपुत्रं प्रथमजं लब्ध्वा जननी नाभ्यनन्दत।।2.48.5।।",
+      "transliteration": "",
+      "translation": "Neither loss nor acquisition of wealth mattered (to the people). No mother rejoiced over getting her firstborn son.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "गृहे गृहे रुदन्त्यश्च भर्तारं गृहमागतम्।\nव्यगर्हयन्त दुःखार्ता वाग्भिस्तोत्रैरिव द्विपान्।।2.48.6।।",
+      "transliteration": "",
+      "translation": "In every house, women wept and in anguish heaped abuses on their husbands on their arrival at home with words (sharp) like goads on elephants:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "किं नु तेषां गृहैः कार्यं किं दारै: किं धनेन वा।\nपुत्रैर्वा किं सुखैर्वापि ये न पश्यन्ति राघवम्।।2.48.7।।",
+      "transliteration": "",
+      "translation": "For those who do not see Rama, of what use are the houses or spouses or sons or  fortunes or delight?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "एकः सत्पुरुषो लोके लक्ष्मण स्सह सीतया।\nयोऽनुगच्छति काकुत्स्थं रामं परिचरन् वने।।2.48.8।।",
+      "transliteration": "",
+      "translation": "Lakshmana is the only fortunate person in the world who has followed Rama of the Kakutstha race along with Sita to serve them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "आपगाः कृतपुण्यास्ता पद्मिन्यश्च सरांसि च।\nयेषु स्नास्यति काकुत्स्थो विगाह्य सलिलं शुचि।।2.48.9।।",
+      "transliteration": "",
+      "translation": "The rivers and the lotuspools have done some meritorious acts in the past as a result of which Rama having plunged into their holy waters will make his ablution.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "शोभयिष्यन्ति काकुत्स्थमटव्यो रम्यकाननाः।\nआपगाश्च महानूपाः सानुमन्तश्च पर्वताः।।2.48.10।।",
+      "transliteration": "",
+      "translation": "Forests with beautiful groves rivers with vast expanse of waters, mountains with their slopes will enhance the lustre of the scion of the Kakutsthas (Rama).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "काननं वापि शैलं वा यं रामोऽधिगमिष्यति।\nप्रियातिथिमिव प्राप्तं नैनं शक्ष्यन्त्यनर्चितुम्।।2.48.11।।",
+      "transliteration": "",
+      "translation": "Whichever hill or forest Rama visits, people will receive him there like a welcome  guest and will not fail to render hospitality to him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "विचित्रकुसुमापीडा बहुमञ्जरि धारिणः।\nराघवं दर्शयिष्यन्ति नगा भ्रमरशालिनः।।2.48.12।।",
+      "transliteration": "",
+      "translation": "Trees with bunches of cololurful flowers and clusters of blossoms hovering over with black bees will present themselves to the son of the Raghus (Rama).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "अकाले चापि मुख्यानि पुष्पाणि च फलानि च।\nदर्शयिष्यन्त्यनुक्रोशाद्गिरयो राममागतम्।।2.48.13।।",
+      "transliteration": "",
+      "translation": "The hills will exhibit their excellent flowers and fruits off season out of compassion in order to welcome Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "प्रस्रविष्यन्ति तोयानि विमलानि महीधराः।\nविदर्शयन्तो विविधान् भूयश्चित्रांश्च निर्झरान्।।2.48.14।।",
+      "transliteration": "",
+      "translation": "The mountains, displaying various wonderful streams here and there, will flow with pellucid waters (for Rama).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "पादपाः पर्वताग्रेषु रमयिष्यन्ति राघवम्।\nयत्र रामो भयं नात्र नास्ति तत्र पराभवः।।2.48.15।।",
+      "transliteration": "",
+      "translation": "The trees on the mountain summits will enchant Rama. Where Rama goes, there will be no room for fear or dishonour.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "स हि शूरो महाबाहुः पुत्रो दशरथस्य च।\nपुरा भवति नोदूरादनुगच्छाम राघवम्।।2.48.16।।",
+      "transliteration": "",
+      "translation": "Before that valiant, strongarmed son of Dasaratha goes too far away (from us), we should follow him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "पादच्छाया सुखा भर्तुस्तादृशस्य महात्मनः।\nस हि नाथो जनस्यास्य स गति स्सपरायणम्।।2.48.17।।",
+      "transliteration": "",
+      "translation": "The shadow of the feet of this magnanimous lord will give us happiness. He alone is the goal and protector of all these people. He is the supreme refuge.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "वयं परिचरिष्यामः सीतां यूयं तु राघवम्।\nइति पौरस्त्रियो भर्तृ़न् दुखार्तास्तत्तदब्रुवन्।।2.48.18।।",
+      "transliteration": "",
+      "translation": "We will serve Sita. You will serve Rama. Such were the words of the distressed women of the city to their husbands. (They continued).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "युष्माकं राघवोऽरण्ये योगक्षेमं विधास्यति।\nसीता नारीजनस्यास्य योगक्षेमं करिष्यति।।2.48.19।।",
+      "transliteration": "",
+      "translation": "In the forest, Rama will look after your wellbeing and Sita will ensure our, women folk's security.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "को न्वनेनाऽप्रतीतेन सोत्कण्ठितजनेन च।\nसम्प्रियेतामनोज्ञेन वासेन हृतचेतसा।।2.48.20।।",
+      "transliteration": "",
+      "translation": "The people here are choked with grief. Who will like to stay here where life is disagreeable, cheerless, full of despondency and distress?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "कैकेय्या यदि चे द्राज्यं स्यादधर्म्यमनाथवत्।\nन हि नो जीवितेनार्थः कुतः पुत्रैः कुतो धनैः।।2.48.21।।",
+      "transliteration": "",
+      "translation": "If Kaikeyi rules this kingdom unethically, we do not want to live here like orphans. What is the use of our progeny or property (in such a place)?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "यया पुत्रश्च भर्ता च त्यक्तावैश्वर्यकारणात्।\nकं सा परिहरेदन्यं कैकेयी कुलपांसनी।।2.48.22।।",
+      "transliteration": "",
+      "translation": "Can Kaikeyi, who has brought disgrace to the race by abandoning her husband and son for the sake of wealth, spare others?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "कैकेय्या न वयं राज्ये भृतका निवसेमहि।\nजीवन्त्या जातु जीवन्त्यः पुत्रैरपि शपामहे।।2.48.23।।",
+      "transliteration": "",
+      "translation": "We swear on our sons that as long as Kaikeyi lives, or we live, we will never stay in her kingdom as servants.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "या पुत्रं पार्थिवेन्द्रस्य प्रवासयति निर्घृणा।\nकस्तां प्राप्य सुखं जीवेदधर्म्यां दुष्टचारिणीम्।।2.48.24।।",
+      "transliteration": "",
+      "translation": "Who can live with pleasure under the rule of Kaikeyi of  unrighteous character and wicked behaviour, one who without compassion banished Rama, son of Dasaratha, king of kings?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "उपद्रुतमिदं सर्वमनालम्बमनायकम्।\nकैकेय्या हि कृते सर्वं विनाशमुपयास्यति।।2.48.25।।",
+      "transliteration": "",
+      "translation": "The entire kingdom, for the sake of Kaikeyi, is under a great calamity. With no support or leader it will definitely go to ruin.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "न हि प्रव्रजिते रामे जीविष्यति महीपतिः।\nमृते दशरथे व्यक्तं विलापस्तदनन्तरम्।।2.48.26।।",
+      "transliteration": "",
+      "translation": "Now that Rama has been banished, the king will not live (long). After his death there will be evidently only lamentations.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "ते विषं पिबतालोड्य क्षीणपुण्या स्सुदुर्गताः।\nराघवं वानुगच्छध्वमश्रुतिं वापि गच्छत।।2.48.27।।",
+      "transliteration": "",
+      "translation": "Where you are in deep trouble with merits exhausted, it is better to take poison, or follow Rama or walk into the unknown.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "मिथ्याप्रव्राजितो राम स्ससीत स्सहलक्ष्मणः।\nभरते सन्निसृष्टास्स्म स्सौनिके पशवो यथा।।2.48.28।।",
+      "transliteration": "",
+      "translation": "Rama along with Sita and Lakshmana has been deceitfully exiled and all of us delivered to Bharata like beasts to a butcher (for protection).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "पूर्णचन्द्रानन श्श्यामो गूढजत्रुररिन्दमः।\nआजानुबाहुः पद्माक्षो रामो लक्ष्मणपूर्वजः।।2.48.29।।\nपूर्वाभिभाषी मधुर स्सत्यवादी महाबलः।\nसौम्यस्सर्वस्य लोकस्य चन्द्रवत्प्रियदर्शनः।।2.48.30।।\nनूनं पुरुषशार्दूलो मत्तमातङ्गविक्रमः।\nशोभयिष्यत्यरण्यानि विचरन् स महारथः।।2.48.31।।",
+      "transliteration": "",
+      "translation": "Rama, elder brother to Lakshmana is a tiger among men, a subduer of enemies, powerful like an intoxicated elephant, and a great charioteer. Blue in complexion, he has a face like the full Moon. He has lotuslike eyes, kneelong arms and fleshy clavicles. Endowed with a sweet nature, he always speaks the truth and the first to speak to others. When he roams the forest, charming like the Moon and pleasing to the whole world, he will surely make it look graceful.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "तास्तथा विलपन्त्यस्तु नगरे नागरस्त्रियः।\nचुक्रुशु र्दुःखसन्तप्ता मृत्योरिव भयागमे।।2.48.32।।",
+      "transliteration": "",
+      "translation": "Such was the lamentation of the women of the city. Overcome with grief as if frightened at the approach of death, they wept bitterly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "इत्येवं विलपन्तीनां स्त्रीणां वेश्मसु राघवम्।\nजगामास्तं दिनकरो रजनी चाभ्यवर्तत।।2.48.33।।",
+      "transliteration": "",
+      "translation": "As the women of the city were thus lamenting over the scion of the Raghus (Rama) (sitting) at home, the sun set. Night fell.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "नष्टज्वलनसन्तापा प्रशान्ताध्यायसत्कथा।\nतिमिरेणाभिलिप्तेव सा तदा नगरी बभौ।।2.48.34।।",
+      "transliteration": "",
+      "translation": "With sacrificial fires extinguished and the reading of holy scriptures and sacred recitations stopped, Ayodhya looked as if besmeared with darkness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "उपशान्तवणिक्पण्या नष्टहर्षा निराश्रया।\nअयोध्या नगरी चासीन्नष्टतारमिवाम्बरम्।।2.48.35।।",
+      "transliteration": "",
+      "translation": "With markets closed, the city of Ayodhya cheerless and shelterless looked like the sky without stars.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "तथा स्त्रियो रामनिमित्तमातुरा\nयथा सुते भ्रातरि वा विवासिते।\nविलप्य दीना रुरुदुर्विचेतस\nस्सूतैर्हि तासामधिको हि सोऽभवत्।।2.48.36।।",
+      "transliteration": "",
+      "translation": "The women grieved over Rama as if a son or a brother had been exiled. Depressed and distressed, they wept and sobbed. For them, Rama was indeed more than their sons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-48-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "प्रशान्तगीतोत्सवनृत्तवादना\nव्यपास्तहर्षा पिहितापणोदया।\nतदा ह्ययोध्या नगरी बभूव सा\nमहार्णव स्सङ्क्षपितोदको यथा।।2.48.37।।",
+      "transliteration": "",
+      "translation": "With the cessation of singing, celebrations, dance and music, there was no rejoicing in the city. The markets displaying merchandise were shut down. The city of Ayodhya looked like the ocean with its waters diminished. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे अष्टचत्वारिशस्सर्गः।। Thus ends the fortyeighth sarga of Ayodhyakanda of  the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

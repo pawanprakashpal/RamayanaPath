@@ -1,0 +1,261 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 117,
+    "title": "Rama and Sita depart from Chitrakuta -- meet sage Atri and Anasuya.",
+    "titleSanskrit": "",
+    "totalShlokas": 27
+  },
+  "shlokas": [
+    {
+      "id": "v2-117-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "राघव स्त्वथ यातेषु तपस्विषु विचिन्तयन्।\nन तत्रारोचयद्वासं कारणैर्बहुभिस्तदा।।2.117.1।।",
+      "transliteration": "",
+      "translation": "When the ascetics had departed, Rama thought over the matter well and did not like to reside there for many reasons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-117-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "इह मे भरतो दृष्टो मातरश्च सनागराः।\nसा च मे स्मृतिरन्वेति तान्नित्यमनुशोचतः।।2.117.2।।",
+      "transliteration": "",
+      "translation": "It is here that Bharata, mothers along with citizens of Ayodhya have visited me. That  memory soaked with grief is chasing me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-117-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "स्कन्धावारनिवेशेन तेन तस्य महात्मनः।\nहयहस्तिकरीषैश्च उपमर्दः कृतो भृशम्।।2.117.3।।",
+      "transliteration": "",
+      "translation": "Due to the encampment of the army of the magnanimous Bharata (here), this place has been filled with the dung of horses and elephants and made exceedingly dirty.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-117-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तस्मादन्यत्र गच्छाम इति सञ्चिन्त्य राघवः।\nप्रातिष्ठत स वैदेह्या लक्ष्मणेन च सङ्गतः।।2.117.4।।",
+      "transliteration": "",
+      "translation": "We shall, therefore, go to some other place, having resolved thus, Rama accompanied by Sita and Lakshmana set forth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-117-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "सोऽत्रेराश्रममासाद्य तं ववन्दे महायशाः।\nतं चापि भगवानत्रिः पुत्रवत्प्रत्यपद्यत।।2.117.5।।",
+      "transliteration": "",
+      "translation": "Having reached the hermitage of the revered sage Atri, illustrious Rama prostrated before him and Atri also received him as his son.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-117-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "स्वयमातिथ्यमादिश्य सर्वमन्यत्सुसत्कृतम्।\nसौमित्रिं च महाभागां सीतां च समसान्त्वयत्।।2.117.6।।",
+      "transliteration": "",
+      "translation": "That sage Atri himself extended to Rama the hospitality befitting him in all possible ways and treated Lakshmana and highly virtuous Sita with kind words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-117-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "पत्नीं च समनुप्राप्तां वृद्धामामन्त्र्य सत्कृताम्।\nसान्त्वयामास धर्मज्ञः सर्वभूतहिते रतः।।2.117.7।।",
+      "transliteration": "",
+      "translation": "Conversant in the ways of righteousness and eagaged in the welfate of all beings, sage Atri called out his aged wife who is revered by all and spoke kind words to her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-117-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "आनसूयां महाभागां तापसीं धर्मचारिणीम्\nप्रतिगृह्णीष्व वैदेहीमब्रवीदृषिसत्तमः।\nरामाय चाऽचचक्षे तां तापसीं धर्मचारिणीम्।।2.117.8।।",
+      "transliteration": "",
+      "translation": "Atri, who was excellent among the sages said to his ascetic wife who was highly virtuous and an adherent of righteousness, Welcome Sita. Thereafter, he related to Rama a story about his asetic wife who follows the ways of righteousness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-117-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "दश वर्षाण्यनावृष्ट्या दग्धे लोके निरन्तरम्।।2.117.9।।\nयया मूलफले सृष्टे जाह्नवी च प्रवर्तिता।\nउग्रेण तपसा युक्ता नियमैश्चाप्यलङ्कृता।।2.117.10।।\nदश वर्ष सहास्राणि तया तप्तं महत्तपः।\nअनसूया व्रतै स्स्नाता प्रत्यूहाश्च निवर्तिताः।।2.117.11।।\nदेवकार्यनिमित्तं च यया सन्त्वरमाणया।\nदशरात्रं कृता रात्रि स्सेयं मातेव तेऽनघ।।2.117.12।।",
+      "transliteration": "",
+      "translation": "O blameless one (Rama), once this world was consecutively ravaged by drought for ten years. It was the virtuous Anasuya who created roots and fruits and caused Ganga to flow. She was engaged in severe mortifications and selfimposed religious observances. She practised severe asceticism for ten thousand years bathed in her vows. Solicited on behalf of the gods, she removed all impediments and converted ten nights into one. She is like a your mother to you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-117-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "दश वर्षाण्यनावृष्ट्या दग्धे लोके निरन्तरम्।।2.117.9।।\nयया मूलफले सृष्टे जाह्नवी च प्रवर्तिता।\nउग्रेण तपसा युक्ता नियमैश्चाप्यलङ्कृता।।2.117.10।।\nदश वर्षसहास्राणि यया तप्तं महत् तपः।\nअनसूया व्रतै स्स्नाता प्रत्यूहाश्च निवर्तिताः।।2.117.11।।\nदेवकार्यनिमित्तं च यया सन्त्वरमाणया।\nदशरात्रं कृता रात्रि स्सेयं मातेव तेऽनघ।।2.117.12।।",
+      "transliteration": "",
+      "translation": "O blameless one (Rama), once this world was consecutively ravaged by drought for ten years. It was the virtuous Anasuya who created roots and fruits and caused Ganga to flow. She was engaged in severe mortifications and selfimposed religious observances. She practised severe asceticism for ten thousand years bathed in her vows. Solicited on behalf of the gods, she removed all impediments and converted ten nights into one. She is like a your mother to you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-117-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "दश वर्षाण्यनावृष्ट्या दग्धे लोके निरन्तरम्।।2.117.9।।\nयया मूलफले सृष्टे जाह्नवी च प्रवर्तिता।\nउग्रेण तपसा युक्ता नियमैश्चाप्यलङ्कृता।।2.117.10।।\nदश वर्ष सहास्राणि तया तप्तं महत्तपः।\nअनसूया व्रतै स्स्नाता प्रत्यूहाश्च निवर्तिताः।।2.117.11।।\nदेवकार्यनिमित्तं च यया सन्त्वरमाणया।\nदशरात्रं कृता रात्रि स्सेयं मातेव तेऽनघ।।2.117.12।।",
+      "transliteration": "",
+      "translation": "O blameless one (Rama), once this world was consecutively ravaged by drought for ten years. It was the virtuous Anasuya who created roots and fruits and caused Ganga to flow. She was engaged in severe mortifications and selfimposed religious observances. She practised severe asceticism for ten thousand years bathed in her vows. Solicited on behalf of the gods, she removed all impediments and converted ten nights into one. She is like a your mother to you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-117-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "तामिमां सर्वभूतानां नमस्कार्यां यशस्विनीम् \nअभिगच्छतु वैदेही वृद्धामक्रोधनां सदा।\nअनसूयेति या लोके कर्मभिः ख्यातिमागता।।2.117.13।।",
+      "transliteration": "",
+      "translation": "'She is renowned throughout this world for her deeds as Anasuya, (one who is free from anger). Aged, illustrious she is free frm anger, worthy of adoration by all beings. Let Sita approach her'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-117-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "एवं ब्रुवाणं तमृषिं तथेत्युक्त्वा स राघवः।\nसीतामुवाच धर्मज्ञामिदं वचनमुत्तमम्।।2.117.14।।",
+      "transliteration": "",
+      "translation": "Hearing those words of the sage, Rama said be it so and said to righteous Sita these choice words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-117-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "राजपुत्रि श्रुतमिदं मुनेरस्य समीरितम्।\nश्रेयोऽर्थमात्मनश्शीघ्रमभिगच्छ तपस्विनीम्।।2.117.15।।",
+      "transliteration": "",
+      "translation": "O princess, you have heard the message of the sage. Without delay approach the ascetic (Anasuya) for your welfare.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-117-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "सीता त्वेतद वचः श्रुत्वा राघवस्य हितैषिणः।\nतामत्रिपन्तीं धर्मज्ञामभिचक्राम मैथिली।।2.117.16।।",
+      "transliteration": "",
+      "translation": "Having heard the words of Rama, intended for her welfare, Sita, daughter of the king of Mithila, approached the consort of Atri (Devi Anasuya), knower of righteousness, and reverently circumambulated her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-117-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "शिथिलां वलितां वृद्धां जरापाण्डुरमूर्धजाम्।\nसततं वेपमानाङ्गीं प्रवाते कदलीं यथा।। 2.117.17।।\nतां तु सीता महाभागामनसूयां पतिव्रताम्।\nअभ्यवादयदव्यग्रा स्वं नाम समुदाहरत्।।2.117.18।।",
+      "transliteration": "",
+      "translation": "Highly chaste and fortunate Anasuya was very old and feeble. Her skin was wrinkled and her hair turned grey due to old age. Her body was constantly trembling like a plantain tree in a stormy wind. Pronouncing her name to such Anasuya, Sita made obeisance to her with utmost concentration.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-117-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "शिथिलां वलितां वृद्धां जरापाण्डुरमूर्धजाम्।\nसततं वेपमानाङ्गीं प्रवाते कदलीं यथा।। 2.117.17।।\nतां तु सीता महाभागामनसूयां पतिव्रताम्।\nअभ्यवादयदव्यग्रा स्वंनाम समुदाहरत्।।2.117.18।।",
+      "transliteration": "",
+      "translation": "Highly chaste and fortunate Anasuya was very old and feeble. Her skin was wrinkled and her hair turned grey due to old age. Her body was constantly trembling like a plantain tree in a stormy wind. Pronouncing her name to such Anasuya, Sita made obeisance to her with utmost concentration.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-117-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अभिवाद्य च वैदेही तापसीं तामनिन्दिताम्।\nबद्धाञ्जलिपुटा हृष्टा पर्यपृच्छदनामयम्।।2.117.19।।",
+      "transliteration": "",
+      "translation": "Sita offered her obeisance to the blameless ascetic, Anasuya, folding her palms and enquired of her wellbeing in delight.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-117-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "ततस्सीतां महाभागां दृष्ट्वा तां धर्मचारिणीम्।\nसान्त्वयन्त्यब्रवीद्धृष्टा दिष्ट्या धर्ममवेक्षसे।।2.117.20।।",
+      "transliteration": "",
+      "translation": "Anasuya was delighted  to see the glorious Sita who was always engaged in righteous acts and  said in kind words, You are fortunate. You are observing your rightful duty.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-117-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "त्यक्त्वा ज्ञातिजनं सीते मानमृद्धं च भामिनि।\nअवरुद्धं वने रामं दिष्ट्या त्वमनुगच्छसि।।2.117.21।।",
+      "transliteration": "",
+      "translation": "O noble Sita, by the grace of heaven you are following Rama, forsaking your kinsmen and wealth and confining yourself to the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-117-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "नगरस्थो वनस्थो वा पापो वा यदि वा शुभः।\nयासां स्त्रीणां प्रियो भर्ता तासां लोका महोदयाः।।2.117.22।।",
+      "transliteration": "",
+      "translation": "One who is devoted to her husband, whether he be in the city or in the forest, whether  he is sinful or virtuous, will attain the most prosperous worlds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-117-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "दुश्शीलः कामवृत्तो वा धनैर्वा परिवर्जितः।\nस्त्रीणामार्यस्वभावानां परमं दैवतं पतिः।।2.117.23।।",
+      "transliteration": "",
+      "translation": "For a woman of noble nature her husband, whether he be licentious or of bad character or devoid of riches, is her supreme lord.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-117-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "नातो विशिष्टं पश्यामि बान्धवं विमृशन्त्यहम्।\nसर्वत्र योग्यं वैदेहि तपः कृतमिवाव्ययम्।।2.117.24।।",
+      "transliteration": "",
+      "translation": "O Sita, on reflection I know of none who is a better friend than the husband. He, like an imperishable penance, once acquired is never lost.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-117-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "न त्वेवमवगच्छन्ति गुणदोषमसत्त्स्रियः।\nकामवक्तव्यहृदया भर्तृनाथाश्चरन्ति याः।।2.117.25।।",
+      "transliteration": "",
+      "translation": "Those wicked women whose minds are overpowered by carnal desires, ranging at will as lords of their husbands, do not understand about vice and virtue.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-117-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "प्राप्नुवन्त्य यशश्चैव धर्मभ्रंशं च मैथिलि।\nअकार्यवशमापन्नाः स्त्रियो याः खलु तद्विधाः।।2.117.26।।",
+      "transliteration": "",
+      "translation": "O Sita, those women  under the control of unworthy acts are dislodged from the path  of righteousness and get infamy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-117-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "त्वद्विधास्तु गुणैर्युक्ता दृष्ट लोक परावराः। \nस्त्रिय स्स्वर्गे चरिष्यन्ति यथा धर्मकृतस्तथा।।2.117.27।।",
+      "transliteration": "",
+      "translation": "Women like you who are endowed with virtues and can distinguish between good and bad in this world, like those who  perform  virtuous deeds, will move about in heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-117-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "तदेवमेनं त्वमनुव्रता सती पतिव्रतानां समयानुवर्तिनी।\nभव स्वभर्तु स्सहधर्मचारिणी यशश्च धर्मं च तत स्समाप्स्यसि।।2.117.28।।",
+      "transliteration": "",
+      "translation": "Therefore, always following your husband, upholding the traditions of chaste women, carrying out worthy and timely duties, be a virtuous wife to your husband. You will thus obtain renown and virtue. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे सप्तदशोत्तरशततमस्सर्गः।। Thus ends the hundredseventeenth sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

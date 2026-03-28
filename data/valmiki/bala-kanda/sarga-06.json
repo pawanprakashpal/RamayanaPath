@@ -1,0 +1,225 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 6,
+    "title": "Description of riches, comforts, etc of the subjects of the kingdom during Dasaratha's reign",
+    "titleSanskrit": "",
+    "totalShlokas": 23
+  },
+  "shlokas": [
+    {
+      "id": "v1-6-1",
+      "number": 1,
+      "type": "shloka",
+      "original": ". \nतस्यां पुर्यामयोध्यायां वेदवित्सर्वसङ्ग्रह: ।\nदीर्घदर्शी महातेजा: पौरजानपदप्रिय: ।।1.6.1।। \nइक्ष्वाकूणामतिरथो यज्वा धर्मरतो वशी ।\nमहर्षिकल्पो राजर्षिस्त्रिषु लोकेषु विश्रुत: ।।1.6.2।। \nबलवान्निहतामित्रो मित्रवान्विजितेन्द्रिय: ।\nधनैश्च सङ्ग्रहैश्चान्यैश्शक्रवैश्रवणोपम: ।।1.6.3।। \nयथा मनुर्महातेजा लोकस्य परिरक्��िता ।\nतथा दशरथो राजा वसञ्जगदपालयत् ।। 1.6.4।।",
+      "transliteration": "",
+      "translation": "From that city of Ayodhya, king Dasaratha ruled the entire world, following the tradition of Manu who was a highly powerful protector of the people. Dasaratha was  well versed in the Vedas. He commanded all resources. Farsighted, he possessed great prowess. He was dear to the inhabitants of towns and villages. Among Ikshvaku kings, he was a great charioteer capable of fighting with many maharathas singlehanded. He performed many sacrifices and was devoted to the practice of dharma. He was in full control over his subjects. He was a great sage, a royal saint and renowned in the three worlds (Bhooloka, Bhuvarloka and Suvarloka). He was mighty. He was a destroyer of enemies. He had scores of good friends. He had perfect control over his senses. In riches, he was comparable to Indra and Kubera.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-6-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तेन सत्याभिसन्धेन त्रिवर्गमनुतिष्ठता ।\nपालिता सा पुरी श्रेष्ठा इन्द्रेणेवामरावती ।।1.6.5।।",
+      "transliteration": "",
+      "translation": "King Dasaratha, who always kept his word and followed dharma, attained prosperity and pleasure in equal measure by righteous means ruled that best of the cities as Indra ruled Amaravati.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-6-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "तस्मिन्पुरवरे हृष्टा धर्मात्मानो बहुश्रुता: ।\nनरास्तुष्टा धनैस्स्वैस्स्वैरलुब्धास्सत्यवादिन: ।।1.6.6।।",
+      "transliteration": "",
+      "translation": "The people living in that excellent city were happy, virtuous, wellread (in the Vedas and the sastras) and content with the possessions of their own. They were free from avarice. And always spoke the truth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-6-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "नाल्पसन्निचय: कश्चिदासीत्तस्मिन् पुरोत्तमे ।\nकुटुम्बी यो ह्यसिद्धार्थोऽगवाश्वधनधान्यवान् ।।1.6.7।।",
+      "transliteration": "",
+      "translation": "In that best of cities, there was not even a single householder who had not adequate wealth or who had not achieved dharma, artha and kama or who did not possess the wealth of foodgrains, cattle and horses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-6-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "कामी वा न कदर्यो वा नृशंस: पुरुष: क्वचित् ।\nद्रष्टुं शक्यमयोध्यायान्नाविद्वान्न च नास्तिक: ।।1.6.8।।",
+      "transliteration": "",
+      "translation": "The lustful, the miserly, the unscholarly and atheists were not to be seen anywhere in the city of Ayodhya.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-6-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "सर्वे नराश्च नार्यश्च धर्मशीलास्सुसंयता: ।\nउदिताश्शीलवृत्ताभ्यां महर्षय इवामला: ।।1.6.9।।",
+      "transliteration": "",
+      "translation": "All men and women (in the city) were of righteous conduct, fully selfcontrolled and prosperous with good conduct and behaviour. They were pure like maharshis.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-6-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "नाकुण्डली नामकुटी नास्रग्वी नाल्पभोगवान् ।\nनामृष्टो नानुलिप्ताङ्गो नासुगन्धश्च विद्यते ।।1.6.10।।",
+      "transliteration": "",
+      "translation": "In the city, there was none without earornaments, without coronet, without wearing garlands and none unclean. And none without the anointment of fragrants on the body.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-6-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "नामृष्टभोजी नादाता नाप्यनङ्गदनिष्कधृक् ।\nनाहस्ताभरणो वाऽपि दृश्यते नाप्यनात्मवान् ।।1.6.11।।",
+      "transliteration": "",
+      "translation": "(In the city of Ayodhya) there was no one who did not eat food to full satisfaction and was not charitable. None was found without wearing ornaments on the hands and bracelets on the upper arms and around the neck. Also no one could be seen who had not restrained his passions and emotions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-6-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "नानाहिताग्निर्नायज्वा न क्षुद्रो वा न तस्कर: ।\nकश्चिदासीदयोध्यायान्न च निर्वृत्तसङ्कर: ।।1.6.12।।",
+      "transliteration": "",
+      "translation": "In the city of Ayodhya there was none who did not kindle the sacrificial fire. There was none who did not perform a sacrifice. There were no thieves or meanminded persons or persons of improper descent of mixed castes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-6-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "स्वकर्मनिरता नित्यं ब्राह्मणा विजितेन्द्रिया: ।\nदानाध्ययनशीलाश्च संयताश्च परिग्रहे ।।1.6.13।।",
+      "transliteration": "",
+      "translation": "The brahmins were always interested in the performance of their duties. They had control over their senses. They were charitable and studious. They were selfcontrolled  while accepting charity and maintaining marital relations.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-6-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "न नास्तिको नानृतको न कश्चिदबहुश्रुत: ।\nनासूयको न चाऽशक्तो नाविद्वान्विद्यते तदा ।।1.6.14।।",
+      "transliteration": "",
+      "translation": "That time there was no atheist, no liar and none ignorant of the sastras. There was no one who was jealous, incompetent or illiterate.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-6-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "नाषडङ्गविदत्रासीन्नाव्रतो नासहस्रद: ।\nन दीन: क्षिप्तचित्तो वा व्यथितो वाऽपि कश्चन ।।1.6.15।।",
+      "transliteration": "",
+      "translation": "There was no brahmin who was not well versed in the Vedangas or who did not perform religious vows. There was not even one  who would not donate in thousands. There was no one distracted or depressed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-6-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "कश्चिन्नरो वा नारी वा नाश्रीमान्नाप्यरूपवान् ।\nद्रष्टुं शक्यमयोध्यायां नापि राजन्यभक्तिमान् ।।1.6.16।।",
+      "transliteration": "",
+      "translation": "In Ayodhya, there was no man or woman who was not endowed with wealth or beauty. It was not possible to see any one who had no devotion for the king.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-6-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "वर्णेष्वग्र्यचतुर्थेषु देवतातिथिपूजका:।\nकृतज्ञाश्च वदान्याश्च शूरा विक्रमसंयुता: ।।1.6.17।। \nदीर्घायुषो नरास्सर्वे धर्मं सत्यं च संश्रिता: ।\nसहिता: पुत्रपौत्रैश्च नित्यं स्त्रीभि: पुरोत्तमे ।।1.6.18।।",
+      "transliteration": "",
+      "translation": "There in Ayodhya the best of cities, the first of the four castes (brahmins) used to worship gods and guests. They had the sense of gratitude. They were munificient, heroic and possessed prowess. They lived long. They were righteous and truthful. And they lived together with their sons, grandsons and wives.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-6-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "क्षत्रं ब्रह्ममुखं चासीद्वैश्या: क्ष���्रमनुव्रता: ।\nशूद्रास्स्वधर्मनिरतास्त्रीन्वर्णानुपचारिण: ।।1.6.19।।",
+      "transliteration": "",
+      "translation": "The kshatriyas were obedient to brahmins and vaisyas followed kshatriyas. Sudras assisted the three castes and all were fully occupied in their respective professions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-6-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "सा तेनेक्ष्वाकुनाथेन पुरी सुपरिरक्षिता ।\nयथा पुरस्तान्मनुना मानवेन्द्रेण धीमता ।।1.6.20।।",
+      "transliteration": "",
+      "translation": "That city was ably governed by Dasaratha, scion of the Ikshvakus, in the same way as it was  previously administered by (Manu), the foremost among men and and the most intelligent.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-6-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "योधानामग्निकल्पानां पेशलानाममर्षिणाम् ।\nसम्पूर्णा कृतविद्यानां गुहा केसरिणामिव ।।1.6.21।।",
+      "transliteration": "",
+      "translation": "It abounded with warriors, like a cave with lions. They were almost like flaming fire, the most determined among experts and accomplished in learning (the science of arms).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-6-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "काम्भोजविषये जातैर्बाह्लीकैश्च हयोत्तमै: ।\nवनायुजैर्नदीजैश्च पूर्णा हरिहयोत्तमै:।।1.6.22।।",
+      "transliteration": "",
+      "translation": "The city was full of excellent horses born in the regions of Kambhoja, Bahlika, Vanayu and Sindhu, similar to that of Indra's horse (called Ucchaisrava).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-6-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "विन्ध्यपर्वतजैर्मत्तै: पूर्णा हैमवतैरपि ।\nमदान्वितैरतिबलैर्मातङ्गै: पर्वतोपमै: ।।1.6.23।। \nऐरावतकुलीनैश्च महापद्मकुलैस्तथा ।\nअञ्जनादपि निष्पन्नैर्वामनादपि च द्विपैः ।।1.6.24।।",
+      "transliteration": "",
+      "translation": "It was full of intoxicated elephants born in Vindhya mountains, elephants of enormous  strength looking like mountains and born in the Himalayas. Elephants of good breed hailing from the family of  Airavata (Indra's vehicle), Mahapadma, Anjana and Vamana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-6-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "भद्रैर्मन्द्रैर्मृगैश्चैव भद्रमन्द्रमृगैस्तथा।\nभद्रमन्द्रैर्भद्रमृगैर्मृगमन्द्रैश्च सा पुरी।\nनित्यमत्तैस्सदा पूर्णा नागैरचलसन्निभै:।।1.6.25।।",
+      "transliteration": "",
+      "translation": "The city (of Ayodhya) was always full of intoxicated elephants resembling mountains belonging to the races of Bhadra, Mandra, Mriga and interbreed of these three races, interbreed of races of Bhadra and Mandra, Bhadra and Mriga, Mriga and Mandra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-6-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "सा योजने च द्वे भूय: सत्यनामा प्रकाशते ।\nयस्यां दशरथो राजा वसन् जगदपालयत् ।।1.6.26।।",
+      "transliteration": "",
+      "translation": "The city where king Dasaratha lived and ruled, spread over a distance of sixteen miles. And it was worthy of its name.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-6-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तां पुरीं स महातेजा राजा दशरथो महान् ।\nशशास शमितामित्रो नक्षत्राणीव चन्द्रमा: ।।1.6.27।।",
+      "transliteration": "",
+      "translation": "Mighty king Dasaratha, of great brilliance vanquished his foes and ruled the city like the Moon over the  stars.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-6-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तां सत्यनामां दृढतोरणार्गलां\nगृहैर्विचित्रैरुपशोभितां शिवाम् ।\nपुरीमयोध्यां नृसहस्रसङ्कुलां\nशशास वै शक्रसमो महीपति: ।।1.6.28।।",
+      "transliteration": "",
+      "translation": "The king who equalled Indra (in splendour) ruled the invincible city of Ayodhya true to its name with its strong gates and solid locks. It was adorned with wonderful edifices teeming with thousands of men.  इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे षष्ठस्सर्ग:।।  Thus ends the sixth sarga of Balakanda of the holy Ramayana  the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

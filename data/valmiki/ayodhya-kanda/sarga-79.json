@@ -1,0 +1,171 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 79,
+    "title": "Bharata is asked to accept the throne -- orders construction of road into the forest -- gets ready to bring back Rama.",
+    "titleSanskrit": "",
+    "totalShlokas": 17
+  },
+  "shlokas": [
+    {
+      "id": "v2-79-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततः प्रभातसमये दिवसेऽथ चतुर्दशे।\nसमेत्य राजकर्तारो भरतं वाक्यमब्रुवन्।।2.79.1।।",
+      "transliteration": "",
+      "translation": "Then, at the hour of dawn on the fourteenth day, all those who were empowered to proclaim the king,  assembled and addressed Bharata:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-79-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "गतो दशरथस्स्वर्गं यो नो गुरुतरो गुरुः।\nरामं प्रव्राज्य वै ज्येष्ठं लक्ष्मणं च महाबलम्।।2.79.2।।",
+      "transliteration": "",
+      "translation": "Dasaratha, who was our most revered master and preceptor, having exiled his eldest son Rama and mighty Lakshmana, ascended heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-79-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "त्वमद्य भव नो राजा राजपुत्र महायशः।\nसङ्गत्या नापराध्नोति राज्यमेतदनायकम्।।2.79.3।।",
+      "transliteration": "",
+      "translation": "O illutrious prince do assume kingship now. Incidentally, there has been yet no attack on this leaderless kingdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-79-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "अभिषेचनिकं सर्वमिदमादाय राघव।\nप्रतीक्षते त्वां स्वजनश्श्रेणयश्च नृपात्मज।।2.79.4।।",
+      "transliteration": "",
+      "translation": "O prince of the Raghu race (Bharata), your subjects and guilds of traders, artisans, etc, have procured necessary materials for your consecration, and  await you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-79-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "राज्यं गृहाण भरत पितृपैतामहं ध्रुवम्।\nअभिषेचय चात्मानं पाहि चास्मान्नरर्षभ।।2.79.5।।",
+      "transliteration": "",
+      "translation": "O best among men, inherit this stable kingdom of your ancestors, get yourself consecrated and save us.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-79-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अभिषेचनिकं भाण्डं कृत्वा सर्वं प्रदक्षिणम्।\nभरतस्तं जनं सर्वं प्रत्युवाच धृतव्रतः।।2.79.6।।",
+      "transliteration": "",
+      "translation": "Bharata, firm in vows, circumambulated all the articles procured in connection with  consecration, and replied them as follows:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-79-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "ज्येष्ठस्य राजता नित्यमुचिता हि कुलस्य नः।\nनैवं भवन्तो मां वक्तुमर्हन्ति कुशला जनाः।।2.79.7।।",
+      "transliteration": "",
+      "translation": "It has been the tradition in our race that the eldest son alone should always inherit the kingdom. It does not behove intelligent people like you to tell me like this.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-79-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "रामः पूर्वो हि नो भ्राता भविष्यति महीपतिः।\nअहं त्वरण्ये वत्स्यामि वर्षाणि नव पञ्च च।।2.79.8।।",
+      "transliteration": "",
+      "translation": "Our eldest brother, Rama shall become king. As for me, I shall dwell in the forest for fourteen years.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-79-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "युज्यतां महती सेना चतुरङ्गमहाबला।\nआनयिष्याम्यहं ज्येष्ठं भ्रातरं राघवं वनात्।।2.79.9।।",
+      "transliteration": "",
+      "translation": "Let the great and powerful army of four divisions be marshalled. I will bring back my eldest brother Rama from the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-79-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अभिषेचनिकं चैव सर्वमेतदुपस्कृतम्।\nपुरस्कृत्य गमिष्यामि रामहेतोर्वनं प्रति।।2.79.10।।",
+      "transliteration": "",
+      "translation": "I shall go to the forest to (bring back) Rama, with all these articles, procured for coronation kept in front.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-79-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तत्रैवं तं नरव्याघ्रमभिषिच्य पुरस्कृतम्।\nआनेष्यामि तु वै रामं हव्यवाहमिवाध्वरात्।।2.79.11।",
+      "transliteration": "",
+      "translation": "After coronating Rama, the best of men, there itself, I will definitely bring him back, letting him go ahead of me, like the sacred fire carried from the place of sacrifice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-79-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "न सकामां करिष्यामि स्वामिमां मातृगन्धिनीम्।\nवने वत्स्याम्यहं दुर्गे रामो राजा भविष्यति।।2.79.12।।",
+      "transliteration": "",
+      "translation": "I shall never fulfil the wishes of that woman called my mother. I shall dwell in the inaccessible forest and Rama shall become king.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-79-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "क्रियतां शिल्पिभिः पन्था स्समानि विषमाणि च।\nरक्षिणश्चानुसम्यान्तु पथि दुर्गविचारकाः।।2.79.13।।",
+      "transliteration": "",
+      "translation": "Let the road be aligned by artisans and uneven ground be levelled. The guards who judge the inaccessible terrains should follow them on their way.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-79-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "एवं सम्भाषमाणं तं रामहेतोर्नृपात्मजम्।\nप्रत्युवाच जनस्सर्व श्श्रीमद्वाक्यमनुत्तमम्।।2.79.14।।",
+      "transliteration": "",
+      "translation": "When prince Bharata was thus speaking in favour of Rama, all the people responded with these excellent, propitious words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-79-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "एवं ते भाषमाणस्य पद्मा श्रीरुपतिष्ठतात्।\nयस्त्वं ज्येष्ठे नृपसुते पृथिवीं दातुमिच्छसि।।2.79.15।।",
+      "transliteration": "",
+      "translation": "May Lakshmi, goddess of prosperity, abide in you for having expressed your desire to bestow the kingdom upon the king's eldest son.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-79-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अनुत्तमं तद्वचनं नृपात्मजप्रभाषितं संश्रवणे निशम्य च।\nप्रहर्षजास्तं प्रति बाष्पबिन्दवो निपेतुरार्यानननेत्रसम्भवाः।।2.79.16।।",
+      "transliteration": "",
+      "translation": "With such graceful words spoken by the prince within their hearing, tears of joy filled the eyes of the noble people and fell drop by drop down their faces.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-79-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "ऊचुस्ते वचनमिदं निशम्य हृष्टा स्सामात्या स्सपरिषदो वियातशोकाः।\nपन्थानं नरवर भक्तिमान् जनश्च व्यादिष्टस्तव वचनाच्च शिल्पिवर्गः।।2.79.17।",
+      "transliteration": "",
+      "translation": "All the ministers and members of the council, relieved of their distress, were delighted to hear these words and said O best among men, on your orders devoted people and groups of artisans have been instructed to lay the road.  इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे एकोनाशीतितमस्सर्गः।। Thus ends the seventyninth sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

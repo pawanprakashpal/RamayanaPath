@@ -1,0 +1,207 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 6,
+    "title": "Sugriva speaks about the abduction of Sita by Ravana -- shows to Rama the veil and ornament dropped down by Sita -- Rama eager to killl Ravana, seeks further details of the enemy from Sugriva",
+    "titleSanskrit": "",
+    "totalShlokas": 21
+  },
+  "shlokas": [
+    {
+      "id": "v4-6-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "पुनरेवाब्रवीत्प्रीतो राघवं रघुनन्दनम्।\nअयमाख्याति मे राम सचिवो मन्त्रिसत्तमः4.6.1।।\nहनुमान्यन्निमित्तं त्वं निर्जनं वनमागतः।\nलक्ष्मणेन सह भ्रात्रा वसतश्च वने तव4.6.2।।\nरक्षसाऽपहृता भार्या मैथिली जनकात्मजा।\nत्वया वियुक्ता रुदती लक्ष्मणेन च धीमता4.6.3।।\nअन्तरप्रेप्सुना तेन हत्वा गृध्रं जटायुषम्4.6.4।।",
+      "transliteration": "",
+      "translation": "Sugriva was pleased to say to Rama, delight of the Raghu race once again, 'O Rama, Hanuman, jewel among Ministers, has told me the cause of your coming to this desolate forest. While you were residing in the forest, a demon who was looking for an opportunity carried off your wife, the princess from Mithila, daughter of Janaka, finding her alone. While she was crying (piteously) he killed Jatayu. (the vulture who pretested).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-6-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "भार्यावियोगजं दुःखं न चिरात्त्वं विमोक्ष्यसे।\nअहं तामानयिष्यामि नष्टां वेदश्रुतीमिव।।4.6.5।।",
+      "transliteration": "",
+      "translation": "'Very soon you will be relieved of the grief caused by the separation from your wife. Just as Visnu retrieved the Vedas (carried away by the demons, Madhu and Kaitabha) I will deliver her to you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-6-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "रसातले वा वर्तन्तीं वर्तन्ती वा नभस्थले\nअहमानीय दास्यामि तव भार्यामरिन्दम।।।4.6.6।।",
+      "transliteration": "",
+      "translation": "'O subduer of enemies I will restore her to you even if she is kept in the bowels of the earth or in the vaults of heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-6-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "इदं तथ्यं मम वचस्त्वमवेहि च राघव।\nन शक्या सा जरयितुं सेन्द्रैरपि स्सुरासुरैः4.6.7।।\nतव भार्या महाबाहो भक्ष्यं विषकृतं यथा।\nत्यज शोकं महाबाहो तां कान्तामानयामि ते4.6.8।।",
+      "transliteration": "",
+      "translation": "'O longarmed Rama, take these words of mine as true. Your consort cannot be absorbed with impunity even by the denizens of heaven including Indra or the ogres on earth any more than food cooked with poison.Give up grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-6-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "अनुमानात्तु जानामि मैथिली सा न संशयः।\nह्रियमाणा मया दृष्टा रक्षसा क्रूरकर्मणा4.6.9।।\nक्रोशन्ती राम रामेति लक्ष्मणेति च विस्वरम्।\nस्फुरन्ती रावणस्याङ्के पन्नगेन्द्रवधूर्यथा4.6.10।।",
+      "transliteration": "",
+      "translation": "'Yes, I remember. I had observed a lady being carried away by a wicked demon. She was crying loudly 'Oh, Rama Oh Rama Oh Lakshmana' in a husky voice. It was Maithili. She was wriggling on the lap of Ravana like a female serpent.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-6-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "आत्मना पञ्चमं मां हि दृष्ट्वा शैलतटे स्थितम्।\nउत्तरीयं तया त्यक्तं शुभान्याभरणानि च4.6.11।।",
+      "transliteration": "",
+      "translation": "'Seeing me as the fifth member seated on a mountain  she dropped down the auspicious ornaments (bundled) in her veil",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-6-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तान्यस्माभिगृहीतानि निहितानि च राघव।\nआनयिष्याम्यहं तानि प्रत्यभिज्ञातुमर्हसि4.6.12।।",
+      "transliteration": "",
+      "translation": "'Rama, we have kept  them safely. I will fetch them so that you should be able to identify them.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-6-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तमब्रवीत्ततो रामस्सुग्रीवं प्रियवादिनम्।\nआनयस्व सखे शीघ्रं किमर्थं प्रविलम्बसे4.6.13।।",
+      "transliteration": "",
+      "translation": "Rama then said to Sugriva, one who used pleasing words, 'O my friend why delay? Get them here immediately'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-6-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु सुग्रीवश्शैलस्य गहनां गुहाम्।\nप्रविवेश ततशशीघ्रं राघवप्रियकाम्यया4.6.14।।",
+      "transliteration": "",
+      "translation": "On hearing this, Sugriva at once entered into the deep cave of the mountain (to get the ornaments and veil) in order to please Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-6-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "उत्तरीयं गृहीत्वा तु शुभान्याभरणानि च।\nइदं पश्येति रामाय दर्शयामास वानरः4.6.15।।",
+      "transliteration": "",
+      "translation": "That monkey brought out the veil and auspicios ornaments, showed them to Rama and said, 'Please, see.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-6-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "ततो गृहीत्वा वासस्तु श्शुभान्याभरणानि च।\nअभवद्बाष्पसंरुद्धो नीहारेणेव चन्द्रमाः4.6.16।।",
+      "transliteration": "",
+      "translation": "Holding the raiment  as well as the ornaments,  Rama's  eyes were filled with tears.He appeared like the Moon covered with dews.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-6-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "सीतास्नेहप्रवृत्तेन स तु बाष्पेण दूषितः।\nहा प्रियेति रुदन्धैर्यमुत्सृज्य न्यपतत्क्षितौ4.6.17।।",
+      "transliteration": "",
+      "translation": "On account of his deep attachment for Sita, he shed profuse tears. Unable to maintain his natural composure, he sank down to the ground, saying 'O my darling Sita' and cried inconsolably",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-6-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "हृदि कृत्वा तु बहुशस्तमलङ्कारमुत्तमम्।\nनिशश्वास भृशं सर्पो बिलस्थ इव रोषितः।।4.6.18।।",
+      "transliteration": "",
+      "translation": "Pressing the excellent ornaments to his bosom again and again Rama hissed like a cobra provoked in its anthill.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-6-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "अविच्छिन्नाश्रुवेगस्तु सौमित्रिं वीक्ष्य पार्श्वतः।\nपरिदेवयितुं दीनं रामस्समुपचक्रमे4.6.19।।",
+      "transliteration": "",
+      "translation": "Rama began to wail piteously while tears streamed down his eyes incessantly. He looked at Saumitri standing by his side and said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-6-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "पश्य लक्ष्मण वैदेह्या सन्त्यक्तं ह्रियमाणया।\nउत्तरीयमिदं भूमौ शरीराद्भूषणानि च4.6.20।।",
+      "transliteration": "",
+      "translation": "'O Lakshmana, behold the veil and the ornaments dropped on the ground by Vaidehi while she was being abducted.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-6-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "शाद्वलिन्यां ध्रुवं भूमौ सीतया ह्रियमाणया।\nउत्सृष्टं भूषणमिदं तथारूपं हि दृश्यते4.6.21।।",
+      "transliteration": "",
+      "translation": "'Sita, for sure, dropped these ornaments on the grassy ground. They are in good shape (without any damage).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-6-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु रामेण लक्ष्मणो वाक्यमब्रवीत्।\nनाहं जानामि केयूरे नाहं जानामि कुण्डले4.6.22।।\nनूपुरे त्वभिजानामि नित्यं पादाभिवन्दनात्।",
+      "transliteration": "",
+      "translation": "Thus addressed by Rama, Lakshmana replied, 'I recognise neither the armlets nor the earrings. I only recognise the anklets as I used to bow at her feet daily.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-6-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "ततस्तु राघवो वाक्यं सुग्रीवमिदमब्रवीत्4.6.23।।\nब्रूहि सुग्रीव कं देशं ह्रियन्ती लक्षिता त्वया।\nरक्षसा रौद्ररूपेण मम प्राणैः प्रिया प्रिया4.6.24।।",
+      "transliteration": "",
+      "translation": "Then Rama said to Sugriva,.'Tell me, O Sugriva, to which region that fiercelooking demon has carried away my Sita, who is dearer than my life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-6-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "क्व वा वसति तद्रक्षो महद्व्यसनदं मम।\nयन्निमित्तमहं सर्वान्नाशयिष्यामि राक्षसान्4.6.25।।",
+      "transliteration": "",
+      "translation": "'Let me know where dwells that huge  ogre who has caused this agony to me. I will exterminate all the demons",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-6-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "हरता मैथिलीं येन मां च रोषयता भृशम्।\nआत्मनो जीवितान्ताय मृत्युद्वारमपावृतम्4.6.26।।",
+      "transliteration": "",
+      "translation": "'By abducting Maithili he has stirred my fierce anger and has opened the door of his death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-6-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "मम दयिततरा हृता वनान्ता\nद्रजनिचरेण विमथ्य येन सा।\nकथय मम रिपुं तमद्य वै\nप्लवगपते यमसादनं नयामि4.6.27।।",
+      "transliteration": "",
+      "translation": "'O lord of monkeys tell me the whereabouts of that nightranger who has carried off my darling from the heart of the forest and has harassed her. I will send him now to the abode of Death. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे षष्ठस्सर्गः Thus ends the sixth sarga of Kishkindakanda of the Holy Ramayana,  the first epic, composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

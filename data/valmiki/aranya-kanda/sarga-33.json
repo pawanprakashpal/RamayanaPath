@@ -1,0 +1,234 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 33,
+    "title": "Surpanakha points out the flaws in Ravana's rule-- praises Rama's abilities-- describes the qualities of a good king.",
+    "titleSanskrit": "",
+    "totalShlokas": 24
+  },
+  "shlokas": [
+    {
+      "id": "v3-33-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततः शूर्पणखा दीना रावणं लोकरावणम्।\nअमात्यमध्ये सङ्क्रुद्धा परुषं वाक्यमब्रवीत्।।3.33.1।।",
+      "transliteration": "",
+      "translation": "When the distressed, anguished Surpanakha met Ravana who makes the world weep, he was seated in the midst of his ministers. She addressed him these harsh words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-33-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "प्रमत्तः कामभोगेषु स्वैरवृत्तो निरङ्कुशः।\nसमुत्पन्नं भयं घोरं बोद्धव्यं नावबुध्यसे।।3.33.2।।",
+      "transliteration": "",
+      "translation": "Intoxicated with the pleasures of passion, acting on your own, ungoaded and unguided, you do not understand the problems arising out of great fear, problems you ought to know.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-33-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "सक्तं ग्राम्येषु भोगेषु कामवृत्तं महीपतिम्।\nलुब्धं न बहुमन्यन्ते श्मशानाग्निमिव प्रजाः।।3.33.3।।",
+      "transliteration": "",
+      "translation": "Lustful and greedy, you are addicted to vulgar pleasures. People will not respect you like the fire on the crematorium.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-33-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "स्वयं कार्याणि यः काले नानुतिष्ठति पार्थिवः।\nस तु वै सह राज्येन तैश्च कार्यैर्विनश्यति।।3.33.4।।",
+      "transliteration": "",
+      "translation": "A king who does not act at the right time will be ruined along with the kingdom and its works.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-33-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "अयुक्तचारं दुर्दर्शमस्वाधीनं नराधिपम्।\nवर्जयन्ति नरा दूरान्नदीपङ्कामिव द्विपाः।।3.33.5।।",
+      "transliteration": "",
+      "translation": "Just as elephants keep away from a muddy river, people will keep distance from the king who does not employ spies, does not give audience to his people and is not independent.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-33-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "ये न रक्षन्ति विषयमस्वाधीना नराधिपाः।\nते न वृद्ध्या प्रकाशन्ते गिरयस्सागरे यथा।।3.33.6।।",
+      "transliteration": "",
+      "translation": "Kings who are not under their own control and cannot protect the country, do not attract the minds of the people like mountains inside sea water.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-33-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "आत्मवद्भिर्विगृह्य त्वं देवगन्धर्वदानवैः।\nअयुक्तचारश्चपलः कथं राजा भविष्यसि।।3.33.7।।",
+      "transliteration": "",
+      "translation": "Having created enmity with selfrespecting persons like gods, gandharvas and demons, with a fickle mind and without spies how long can you continue as king ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-33-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "त्वन्तु बालस्वभावश्च बुद्धिहीनश्च राक्षस।\nज्ञातव्यन्तु न जानीषे कथं राजा भविष्यसि।।3.33.8।।",
+      "transliteration": "",
+      "translation": "O demon  you are childish and foolish. You do not even know what ought to be known. How can you rule as a king?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-33-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "येषां चारश्च कोशश्च नयश्च जयतां वर।\nअस्वाधीना नरेन्द्राणां प्राकृतैस्ते जनैस्समाः।।3.33.9।।",
+      "transliteration": "",
+      "translation": "The best among the victorious kings, who are not masters of their espionage, judicial system and their exchequer are equal to the laity.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-33-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "यस्मात्पश्यन्ति दूरस्थान् सर्वानर्थान्नराधिपाः।\nचारेण तस्मादुच्यन्ते राजानो दीर्घचक्षुषः।।3.33.10।।",
+      "transliteration": "",
+      "translation": "Since kings can see things from a faroff place with the help of the spies they are called farsighted.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-33-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "अयुक्तचारं मन्ये त्वां प्राकृतैस्सचिवैर्वृतम्।\nस्वजनं तु जनस्थाने हतं यो नावबुद्ध्यसे।।3.33.11।।",
+      "transliteration": "",
+      "translation": "Since you have not engaged any spy you do not know when your own relatives were killed in Janasthana. I take you to be a fool surrounded by ordinary ministers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-33-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "चतुर्दश सहस्राणि रक्षसां क्रूरकर्मणाम्।\nहतान्येकेन रामेण खरश्च सहदूषणः।।3.33.12।।",
+      "transliteration": "",
+      "translation": "One Rama alone killed all the fourteen thousand demons including Dusana and Khara, demons  capable of fierce exploits.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-33-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "ऋषीणामभयं दत्तं कृतक्षेमाश्च दण्डकाः।\nधर्षितं च जनस्थानं रामेणाक्लिष्टकर्मणा।।3.33.13।।",
+      "transliteration": "",
+      "translation": "Rama, the effortless performer of formindable tasks, has assured safety to the sages. Peace and happiness was restored to Dandaka forest but Janasthana has been ravaged.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-33-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "त्वन्तु लुब्दः प्रमत्तश्च पराधीनश्च रावण।\nविषये स्वे समुत्पन्नं भयं यो नावबुध्यसे।।3.33.14।।",
+      "transliteration": "",
+      "translation": "O Ravana, you are not aware of what  has happened to your own kingdom. You are avaricious, intoxicated, and under others' control. A great fear has been generated in your own kingdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-33-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तीक्ष्णमल्पप्रदातारं प्रमत्तं गर्वितं शठम्।\nव्यसने सर्वभूतानि नाभिधावन्ति पार्थिवम्।।3.33.15।।",
+      "transliteration": "",
+      "translation": "All living beings stop seeking refuge under a king who is, not a generous giver, but intoxicated, harsh, arrogant and fraudulent. They do not run to him for protection in times of calamity.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-33-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अतिमानिनमग्राह्यमात्मसम्भावितं नरम्।\nक्रोधिनं व्यसने हन्ति स्वजनोऽपि महीपतिम्।।3.33.16।।",
+      "transliteration": "",
+      "translation": "A king who is extremely arrogant, who is not acceptable to good people, who is selfconceited and cholerictempered will be murdered even by his own people at the time of adversity.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-33-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "नानुतिष्ठति कार्याणि भयेषु न बिभेति च।\nक्षिप्रं राज्याच्युतो दीनस्तृणैस्तुल्यो भविष्यति।।3.33.17।।",
+      "transliteration": "",
+      "translation": "A king who does not do what ought to be done, does not fear what ought to be feared, will surely be dislodged from the kingdom and live a wretched life like a blade of grass.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-33-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "शुष्कैः काष्ठैर्भवेत्कार्यं लोष्टैरपि च पांसुभिः।\nन तु स्थानात्परिभ्रष्टैः कार्यं स्याद्वसुधाधिपैः।।3.33.18।।",
+      "transliteration": "",
+      "translation": "Even dried up logs, or clods of earth, or a handful of dust may have some value but not a king who is dethroned.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-33-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "अपभुक्तं यथा वासस्स्रजो वा मृदिता यथा।\nएवं राज्यात्परिभ्रष्टस्समर्थोऽपि निरर्थकः।।3.33.19।।",
+      "transliteration": "",
+      "translation": "Like a piece of cloth that is worn and discarded, like garlands put on  and crushed, a king dislodged from the kingdom is worthless even if he is capable.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-33-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "अप्रमत्तश्च यो राजा सर्वज्ञो विजितेन्द्रियः।\nकृतज्ञो धर्मशीलश्च स राजा तिष्ठते चिरम्।।3.33.20।।",
+      "transliteration": "",
+      "translation": "A king who is alert, omniscient, has control over his senses, has a sense of gratitude and one of righteous conduct continues to rule for a long time.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-33-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "नयनाभ्यां प्रसुप्तोऽपि जागर्ति नयचक्षुषा।\nत्यक्तक्रोधप्रमादश्च स राजा पूज्यते जनैः।।3.33.21।।",
+      "transliteration": "",
+      "translation": "The king who keeps both his eyes shut but keeps the eye of justice open, one who is free from anger and remains ever alert, is worshipped by the people.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-33-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "त्वं तु रावण दुर्बुद्धिर्गुणैरेतैर्विवर्जितः।\nयस्य तेऽविदितश्चारै रक्षसां सुमहान्वधः।।3.33.22।।",
+      "transliteration": "",
+      "translation": "O Ravana you are evilminded. You  are devoid of all these good qualities. Your spies could not know that there had been a great massacre of your fellowdemons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-33-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "परावमन्ता विषयेषु सङ्गतो न देशकालप्रविभागतत्ववित्।\nअयुक्तबुद्धिर्गुणदोषनिश्चये विपन्नराज्यो नचिराद्विपत्स्यसे।।3.33.23।।",
+      "transliteration": "",
+      "translation": "A king who accuses others, who is addicted to sensual pleasures, who lacks a sense of judgement of  place and time, a sense of discrimination between virtue and vice and the right wisdom will destroy himself and the kingdom in no time.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-33-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "इति स्वदोषान् परिकीर्तितांस्तया समीक्ष्य बुद्ध्या क्षणदाचरेश्वरः।\nधनेन दर्पेण बलेन चान्वितो विचिन्तयामास चिरं स रावणः।।3.33.24।।",
+      "transliteration": "",
+      "translation": "Ravana, king of demons, wealthy, arrogant and mighty, listened to Surpanakha and pondered over the mistakes she mentioned. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे त्रयस्त्रिंशस्सर्गः।। Thus ends the thirtythird sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

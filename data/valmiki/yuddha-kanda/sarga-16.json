@@ -1,0 +1,252 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 16,
+    "title": "Ravana gets annoyed at Vibheeshana's advice and replies to him in a harsh tone. Vibheeshana departs from Ravana.",
+    "titleSanskrit": "",
+    "totalShlokas": 26
+  },
+  "shlokas": [
+    {
+      "id": "v6-16-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "सुनिविष्टंहितंवाक्यमुक्तवन्तंविभीषणम् ।\nअ���्रवीत्परुषंवाक्यंरावणःकालचोदितः ।।6.16.1।।",
+      "transliteration": "",
+      "translation": "While Vibheeshana advised in Ravana's favour with all good intention, Ravana who was under the influence of death spoke harsh words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-16-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "वसेत्सहसपत्नेनक्रुद्धेऽनाशीविषेणवा ।\nनतुमित्रप्रवादेनसंवसेच्छत्रुसेविना ।।6.16.2।।",
+      "transliteration": "",
+      "translation": "\"One can live with a known enemy or even with an angry and venomous serpent but cannot stay together with one who professes to be a friend and devoted to an enemy.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-16-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "जानामिशीलंज्ञातीनांसर्वलोकेषुराक्षस: ।\nहृष्यन्तिव्यसनेष्वेतेज्ञातीनाज्ञातयस्सदा ।।6.16.3।।",
+      "transliteration": "",
+      "translation": "\"The behaviour of close relatives in all worlds is known to me. They are happy at the difficulties of relatives.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-16-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "प्रथानंसाधनंवैद्यंधर्मशीलंचराक्षस: ।\nज्ञातयोह्यवमन्यन्तेशूरंपरिभवन्तिच ।।6.16.4।।",
+      "transliteration": "",
+      "translation": "\"O Rakshasa Relatives will insult and disapprove their chief even if he is an accomplished one, a virtuous one or a heroic one and does his duty (as a ruler).\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-16-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "नित्यमन्योन्यसम्हृष्टाव्यसनेष्वाततायिनः ।\nप्रच्छन्नहृदयाघोराज्ञातयस्तुभयावहाः ।।6.16.5।।",
+      "transliteration": "",
+      "translation": "\"Pretending to be friendly forever the relatives rejoice in them is fortunes of their relatives. They create terrible fear like desperadoes and covertly ones.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-16-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "श्रूयन्तेहस्तिभिर्गीताश्श्लोकाःपद्मवनेक्वचित् ।\nपाशहस्तान्नरान्द्रुष्टवाशृणुतान्गदतोमम ।।6.16.6।।",
+      "transliteration": "",
+      "translation": "\"In the past elephants in the lotus park, uttered some verses on seeing men holding snares in hand. I will relate those that I heard. You may listen.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-16-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "नाग्निर्नान्यानिशस्त्राणिननःपाशाभयावहाः ।\nघोरास्स्वार्थप्रयुक्तास्तुज्ञातयोनोभयावहाः ।।6.16.7।।",
+      "transliteration": "",
+      "translation": "\"We have no fear of fire or weapons or noose of death. Selfish relatives are causing fear in us.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-16-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "उपायमेतेवक्ष्यन्तिग्रहणेनात्रसंशयः ।\nकृत्स्नाद्भयाद् ज्ञातिभयंसुकष्टंविदितंचन ।।6.16.8।।",
+      "transliteration": "",
+      "translation": "\"It is known that they (paternal relatives) teach the means to catch us. Out of all fears the fear of close relatives is the great difficulty for us.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-16-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "विद्यतेगोषुसम्पन्नंविद्यतेब्राह्मणेदमः ।\nविद्यतेस्त्रीषुचापल्यंविद्यतेज्ञातितोभयम् ।।6.16.9।।",
+      "transliteration": "",
+      "translation": "\"In the cows' wealth is present, in the brahmins forbearance is seen, in the women capriciousness exists but in close relatives fear is present.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-16-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "ततोनेष्टमिदंसौम्ययदहंलोकसत्कृतः ।\nऐश्वर्यमभिजातश्चज्ञातीनांमूर्ध्न्यवस्थितः ।।6.16.10।।",
+      "transliteration": "",
+      "translation": "\"Gentle (Vibheeshana) one Since you belong to the same kinsfolk (as I) you do not like me, who is born of noble descent, attained the position of chief (of clan), is worshipped by the world, and attained sovereignty.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-16-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "यथापुष्करपत्रेषुपतितास्तोयबिन्दवः ।\nनश्लेषमभिगच्छन्तितथाऽनार्येषुसङ्गतम् ।।6.16.11।।",
+      "transliteration": "",
+      "translation": "\"Just as drops of water that fall on lotus leaves do not adhere to each other, like wise however long you spend with an unworthy (relative) one, good friendship does not take place.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-16-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "यथामधुकरस्तर्षाद्रसंविन्दन्नविद्यते ।\nतथात्वमपितत्रैवतथानार्येषुसौहृदम् ।।6.16.12।।",
+      "transliteration": "",
+      "translation": "\"Just as honeybees do not have gratitude after drinking (honey) and satisfying, the friendship with an unworthy person like you is of no use.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-16-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "यथापूर्वंगजस्स्नात्वागृह्यहस्तेनवैरजः ।\nदूषयत्यात्मनोदेहंतथानार्येषुसङ्गतम् ।।6.16.13।।",
+      "transliteration": "",
+      "translation": "\"Just as an elephant takes dust with its trunk and abuses (and spreads on) its own body after taking a bath so also is the association with unworthy ones.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-16-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "यथाशरदिमेघानांसिञ्चतामपिगर्जताम् ।\nनभवत्यम्बुसंक्लेदस्तथाऽनार्येषुसौहृदम् ।।6.16.14।।",
+      "transliteration": "",
+      "translation": "\"Just as the autumn rain poured out from the thundering clouds does not dampen, in the same way unworthy ones do not have affection.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-16-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "यथामधुकरस्तर्षात्काशपुष्पंपिबन्नपि ।\nरसमत्रनविन्देततथानार्वेषुसौहृ��म् ।।6.16.15।।",
+      "transliteration": "",
+      "translation": "\"Just as honeybees do not stay at the flower after satisfaction with the nectar, in the same way is the friendship with unworthy ones.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-16-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अन्यस्त्वेवंविधंब्रूयाद्वाक्यमेतन्निशाचर: ।\nअस्मिन्मुहूर्तेनभवेत्त्वांतुधिक्कुलपांसन ।।6.16.16।।",
+      "transliteration": "",
+      "translation": "\"O Night ranger (Vibheeshana) If any other one had spoken such words, I would not let him live this moment and also destroy. Fie upon you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-16-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "इत्युक्तःपरुषंवाक्यंन्यायवादीविभीषणः ।\nउत्पपातगदापाणिश्चतुर्भिस्सहराक्षसैः ।।6.6.17।।",
+      "transliteration": "",
+      "translation": "Vibheeshana who was just in his argument rose up, wielding mace in hand accompanied by the four Rakshasas, when Ravana had spoken such harsh words to him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-16-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अब्रवीच्चतदावाक्यंजातक्रोधोविभीषणः ।\nअन्तरिक्षगत्शीमान्भ्रातरंराक्षसाधिपम् ।।6.16.18।।",
+      "transliteration": "",
+      "translation": "Great Vibheeshana was enraged. Then going up into the sky spoke these words to his brother, the Lord of Rakshasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-16-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "सत्वंभ्राताऽसिमेराजन्ब्रूहिमांयद्यदिच्छसि ।\nज्येष्टोमान्यःपितृसमोनचधर्मपथेस्थितः ।।6.16.19।।\nइदंतुपरुषंवाक्यंनक्षमाम्यग्रजस्यते ।",
+      "transliteration": "",
+      "translation": "\"O King You, being my elder brother, you may tell me What you wish. You are equal to father being elder brother and are to be honoured. But you have not followed the righteous path. The words you spoke are not pardonable.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-16-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "सुनीतंहितकामेनवाक्यमुक्तंदशानन: ।\nनगृह्णन्त्यकृतात्मानःकालस्यवशमागताः ।।6.16.20।।",
+      "transliteration": "",
+      "translation": "\"O Tenheaded king Fallen under the sway of death, you are foolish. You do not understand the well prepared good words spoken by me wishing your welfare.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-16-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "सुलभाःपुरुषराजन् सततंप्रियवादिनः ।\nअप्रियस्यचपथ्यस्यवक्ताश्रोताचदुर्लभः ।।6.16.21।।",
+      "transliteration": "",
+      "translation": "\"O King Those who speak pleasingly are always easier to find than those who speak unpleasant but good words. Listeners of unpleasant words (though good) are difficult (to find).\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-16-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "बद्धंकालस्यपाशेनसर्वभूतापहारिणा ।\nननश्यन्तमुपेक्षेत्वांप्रदीप्तंशरणंयथा ।।6.16.22।।",
+      "transliteration": "",
+      "translation": "\"Bound by the noose of death which is the cause of destruction of all beings you are going to be killed just as the burning house if you ignore my advice.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-16-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "दीप्तपावकसङ्काशैश्शितैःकाञ्चनभूषणैः ।\nनत्वामिच्छाम्यहंद्रष्टुंरामेणनिहतंशरैः ।।6.16.23।।",
+      "transliteration": "",
+      "translation": "\"While the sharp golden arrows of Rama burning like fire strike you, I do not wish to see.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-16-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "शूराश्चबलवन्तश्चकृतास्त्राश्चरणाजिरे ।\nकालाभिपन्नास्सीदन्तियथावालुकसेतव ।।6.16.24।।",
+      "transliteration": "",
+      "translation": "\"Even the heroic archers and mighty men wielding weapons will fall in war seized by death like the dams of sands.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-16-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तन्मर्षयतुयच्चोक्तंगुरुत्वाद्धितमिच्छता ।।6.16.25।।\nअत्मानंसर्वथारक्षपुरींचेमांसराक्षसाम् ।\nस्वस्तितेऽस्तुगमिष्यामिसुखीभवमयाविना ।।6.16.26।।",
+      "transliteration": "",
+      "translation": "\"Since you are an elderly one, I desired to tender good advice and spoke these words. I may be excused. You protect all these Rakshasas, this capital city and yourself after I depart. Let you be auspicious and be happy.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-16-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "निवार्यमाणस्यमयाहितैषिणानरोचतेतेवचनंनिशाचर: ।\nपरीतकालाहिगतायुषोनराहितंनगृह्णन्तिसुहृद्भिरीरितम् ।।6.16.27।।",
+      "transliteration": "",
+      "translation": "\"O King My words (of advice), given in your interest to prevent you, are not palatable to you. Good advice tendered by friends at the time of death will not be received by those beings whose life is over.\" ।।इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेषोडशस्सर्गः।। This is the end of the sixteenth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

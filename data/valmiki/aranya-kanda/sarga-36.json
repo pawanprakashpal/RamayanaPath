@@ -1,0 +1,198 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 36,
+    "title": "Ravana tells the story of Janasthana-- urges Maricha to help him in abducting Sita-- Maricha dissuades Ravana and describes the virtues of Rama.",
+    "titleSanskrit": "",
+    "totalShlokas": 20
+  },
+  "shlokas": [
+    {
+      "id": "v3-36-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "मारीच श्रूयातां तात वचनं मम भाषतः।\nआर्तोऽस्मि मम चार्तस्य भवान्हि परमा गतिः।।3.36.1।।",
+      "transliteration": "",
+      "translation": "O dear Maricha hear my words. I am distressed and you are my ultimate refuge.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-36-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "जानीषे त्वं जनस्थाने यथा भ्राता खरो मम।\nदूषणश्च महाबाहु स्वसा शूर्पणखा च मे।।3.36.2।।\nत्रिशिराश्च महातेजा राक्षसः पिशिताशनः।\nअन्ये च बहवश्शूरा लब्धलक्षा निशाचराः।।3.36.3।।\nवसत्नि मन्नियोगेन नित्यवासं च राक्षसाः।\nबाधमाना महारण्ये मुनीन्वै धर्मचारिणः।।3.36.4।।",
+      "transliteration": "",
+      "translation": "You know that my brothers, Khara and Dusana, the strongarmed heroes, my sister Surpanakha and  the mighty cannibal Trisira, and many other heroic demons successful in hitting their targets are bonafide residents. They have been harassing the followers of righteous path (the sages) at my behest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-36-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "चतुर्दश सहस्राणि रक्षसां भीमकर्मणाम्।\nशूराणां लब्धलक्षाणां खरचित्तानुवर्तिनाम्।।3.36.5।।",
+      "transliteration": "",
+      "translation": "These fourteen thousand heroes, perpetrators of terrible deeds, skilled in hitting the targets had been acting according to the direction of Khara.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-36-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "ते त्विदानीं जनस्थाने वसमाना महाबलाः।\nसङ्गताः परमायत्ता रामेण सह संयुगे।।3.36.6।।\nनानाप्रहरणोपेताः खरप्रमुखराक्षसाः।",
+      "transliteration": "",
+      "translation": "These mighty demons, living in Janasthana, eqipped with different kinds of weapons, supported and led by Khara, met Rama in an encounter.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-36-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तेन सञ्जातरोषेण रामेण रणमूर्धनि।\nअनुक्त्वा परुषं किञ्चिच्छरैर्व्यापारितं धनुः।।3.36.7।।",
+      "transliteration": "",
+      "translation": "With his wrath generated, Rama, without even speaking anything, used his bow and the arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-36-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "चतुर्दश सहस्राणि रक्षसामुग्रतेजसाम्।\nनिहतानि शरैस्तीक्ष्णैर्मानुषेण पदातिना।।3.36.8।।",
+      "transliteration": "",
+      "translation": "Being a human being who fought on foot, he killed fourteen thousand ferocious demons with his sharp arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-36-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "खरश्च निहतस्सङ्ख्ये दूषणश्च निपातितः।\nहतश्च त्रिशिराश्चापि निर्भया दण्डकाः कृताः।।3.36.9।।",
+      "transliteration": "",
+      "translation": "Khara, Dusana and Trisira were killed in war.The residents of Dandaka forest are rendered safe and fearless.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-36-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "पित्रा निरस्तः क्रुद्धेन सभार्यः क्षीणजीवितः।\nस हन्ता तस्य सैन्यस्य रामः क्षत्रियपांसनः।।3.36.10।।",
+      "transliteration": "",
+      "translation": "Rama, a victim of his father's anger, banished into the forest with his wife, a shortlived mortal and a calumny on the kshatriyas has killed the army of demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-36-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "दुश्शीलः कर्कशस्तीक्ष्णो मूर्खो लुब्धोऽजितेन्द्रियः।।3.36.11।।\nत्यक्तधर्मो ह्यधर्मात्मा भूतानामहिते रतः।",
+      "transliteration": "",
+      "translation": "He is a man of bad conduct, harsh, sharptonged, stupid, miserly and a slave to his senses. He is immoral and unrighteous, one who is busy harming others.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-36-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "येन वैरं विनाऽरण्ये सत्वमाश्रित्य केवलम्।।3.36.12।।\nकर्णनासापहरणाद्भगिनी मे विरूपिता।\nतस्यभार्यां जनस्थानात्सीतां सुरसुतोपमाम्।3.36.13।।\nआनयिष्यामि विक्रम्य सहायस्तत्र मे भव।",
+      "transliteration": "",
+      "translation": "With no enmity whatsoever, merely because he has strength, he cut off the nose and ears of my sister and mutilated her. His wife Sita  is like the daughter of heaven. I would like to abduct her with force from Janasthana for which you should be my accomplice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-36-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "त्वया ह्यहं सहायेन पार्श्वस्थेन महाबल।।3.36.14।।\nभ्रातृभिश्च सुरान्युद्धे समग्रान्नाभिचिन्तये।\nतत्सहायो भव त्वं मे समर्थो ह्यसि राक्षस।।3.36.15।।",
+      "transliteration": "",
+      "translation": "You are mighty. I do not care to fight even the gods when you and my brothers are by my side. Therefore, O demon, be my accomplice. (I know) you are capable of that.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-36-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "वीर्ये युद्धे च दर्पे च न ह्यस्ति सदृशस्तव।\nउपायज्ञो महान्शूरस्सर्वमायाविशारदः।।3.36.16।।",
+      "transliteration": "",
+      "translation": "In valour,  in war and in conceit there is no one equal to you. You know all means (of success). You are great. You are brave. You are an expert in all deceitful arts.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-36-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "एतदर्थमहं प्राप्तस्त्वत्समीपं निशाचर।\nशृणु तत्कर्म साहाय्ये यत्कार्यं वचनान्मम।।3.36.17।।",
+      "transliteration": "",
+      "translation": "I have come to you for this purpose seeking your help. Listen to  my words on what you should do:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-36-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "सौवर्णस्त्वं मृगो भूत्वा चित्रो रजतबिन्दुभिः।\nआश्रमे तस्य रामस्य सीतायाः प्रमुखे चर।।3.36.18।।",
+      "transliteration": "",
+      "translation": "Be a wonderful golden deer dappled with silver dots and roam in front of Sita in Rama's hermitage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-36-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "त्वां तु निस्संशयं सीता दृष्ट्वा ���ु मृगरूपिणम्।\nगृह्यतामिति भर्तारं लक्ष्मणं चाभिधास्यति।।3.36.19।।",
+      "transliteration": "",
+      "translation": "Seeing you in the form of a deer, Sita will undoubtedly ask her husband and Lakshmana to capture you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-36-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "ततस्तयोरपाये तु शून्ये सीतां यथासुखम्।\nनिराबाधो हरिष्यामि राहुश्चन्द्रप्रभामिव।।3.36.20।।",
+      "transliteration": "",
+      "translation": "Then during their absence it will be easy for me to abduct Sita in an isolated place without obstruction, like Rahu eclipsing the light of the moon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-36-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "ततः पश्चात्सुखं रामे भार्याहरणकर्शिते।\nविस्रब्धः प्रहरिष्यामि कृतार्थेनान्तरात्मना।।3.36.21।।",
+      "transliteration": "",
+      "translation": "Thereafter, when Rama with his soul afflicted due to his wife's abduction. I can freely, happily, successfully strike him down.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-36-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तस्य रामकथां श्रुत्वा मारीचस्य महात्मनः।\nशुष्कं समभवद्वक्त्रं परितप्ता बभूव ह।।3.36.22।।",
+      "transliteration": "",
+      "translation": "At the mention of Rama's name, great Maricha's mouth dried up and he became concerned.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-36-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "ओष्ठौ परिलिहञ्चुष्कौ नेत्रैरनिमिषैरिव।\nमृतभूत इवार्तस्तु रावणं समुदैक्षत।।3.36.23।।",
+      "transliteration": "",
+      "translation": "Licking his dried up lips, as though his eyes stopped winking like those of the dead, Maricha stared at Ravana, distressed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-36-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "स रावणं त्रस्तविषण्णचेता महावने रामपराक्रमज्ञः।\nकृताञ्जलिस्तत्वमुवाच वाक्यं हितं च तस्मै हितमात्मनश्च।।3.36.24।।",
+      "transliteration": "",
+      "translation": "Maricha who knows of Rama's valour was frightened and depressed at heart. He revealed to Ravana with folded hands some facts for mutual benefit. इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये अरण्यकाण्डे षट् त्रिंशस्सर्गः।। Thus ends the thirtysixth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,585 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 75,
+    "title": "Bharata and Satrughna meet griefstricken Kausalya -- Kausalya reproaches Bharata harshly -- Bharata appeases Kausalya and curses himself -- Kausalya gets convinced of Bharata's conviction.",
+    "titleSanskrit": "",
+    "totalShlokas": 63
+  },
+  "shlokas": [
+    {
+      "id": "v2-75-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "दीर्घकालात्समुत्थाय संज्ञां लब्ध्वा च वीर्यवान्।\nनेत्राभ्यामश्रुपूर्णाभ्यां दीनामुद्वीक्ष्य मातरम्।।2.75.1।।\nसोऽमात्यमध्ये भरतो जननीमभ्यकुत्सयत्।",
+      "transliteration": "",
+      "translation": "On regaining his senses after a long time, the valiant Bharata looked at his unfortunate mother whose eyes were filled with tears, and condemned her amidst the counsellors.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "राज्यं न कामये जातु मन्त्रये नापि मातरम्।।2.75.2।।\nअभिषेकं न जानामि योऽभूद्राज्ञा समीक्षितः।\nविप्रकृष्टेह्यहं देशे शत्रुघ्नसहितोऽवसम्।।2.75.3।।",
+      "transliteration": "",
+      "translation": "Neither did I ever desire the kingdom nor did I ever consult my mother in this regard and I am not even aware of the consecration that was planned by the king for I was away in a distant country with Satrughna.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "वनवासं न जानामि रामस्याहं महात्मनः।\nविवासनं वा सौमित्रे स्सीतायाश्च यथाऽभवत्।।2.75.4।।",
+      "transliteration": "",
+      "translation": "I knew nothing of the banishment of great Rama nor did I know how Lakshmana or Sita had gone on exile.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तथैव क्रोशतस्तस्य भरतस्य महात्मनः।\nकौसल्या शब्दमाज्ञाय सुमित्रामिदमब्रवीत्।।2.75.5।।",
+      "transliteration": "",
+      "translation": "As magnanimous Bharata was wailing, Kausalya recognised his voice and said to Sumitra:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "आगतः क्रूरकार्यायाः कैकेय्या भरतस्सुतः।\nतमहं द्रष्टुमिच्छामि भरतं दीर्घदर्शिनम्।।2.75.6।।",
+      "transliteration": "",
+      "translation": "Bharata, the farsighted son of Kaikeyi of cruel deeds has come and I wish to see him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "एवमुक्त्वा सुमित्रां सा विवर्णा मलिना कृशा।\nप्रतस्थे भरतो यत्र वेपमाना विचेतना।।2.75.7।।",
+      "transliteration": "",
+      "translation": "Having said so to Sumitra, Kausalya trembling and almost lifeless, emaciated, sullied and turned pallid set out for the place where Bharat was.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "स तु रामानुजश्चापि शत्रुघ्नसहितस्तदा।\nप्रतस्थे भरतो यत्र कौसल्याया निवेशनम्।।2.75.8।।",
+      "transliteration": "",
+      "translation": "But at the same time Bharata, the younger brother of Rama accompanied by Satrughna  proceeded to the place where Kausalya resided.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तत श्शत्रुघ्नभरतौ कौसल्यां प्रेक्ष्य दुःखितौ।\nपर्यष्वजेतां दुःखार्तां पतितां नष्टचेतसाम्।��2.75.9।।\nरुदन्तौ रुदतीं दुःखात्समेत्यार्यां मनस्स्विनीम्।",
+      "transliteration": "",
+      "translation": "Then agonised Bharata and Satrughna, beholding that venerable, noblehearted, griefstricken, weeping Kausalya who was  almost semiconscious overcome with grief, approached her with great sorrow and hugged her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "भरतं प्रत्युवाचेदं कौसल्या भृशदुःखिता।।2.75.10।।\nइदं ते राज्यकामस्य राज्यं प्राप्तमकण्टकम्।\nसंप्राप्तं बत कैकेय्या शशीघ्रं क्रूरेण कर्मणा।।2.75.11।।",
+      "transliteration": "",
+      "translation": "Looking at Bharata, the deeply afflicted Kausalya said, The kingdom which you had desired has been acquired without any obstacle. Alas Kaikeyi had quickly secured it for you  through her crooked act.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "प्रस्थाप्य चीरवसनं पुत्रं मे वनवासिनम्।\nकैकेयी कं गुणं तत्र पश्यति क्रूरदर्शिनी।।2.75.12।।",
+      "transliteration": "",
+      "translation": "What advantage did cruel Kaikeyi visualize in sending away my son to dwell in the forest  wearing robes of bark?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "क्षिप्रं मामपि कैकेयी प्रस्थापयितुमर्हति।\nहिरण्यनाभो यत्रास्ते सुतो मे सुमहायशाः।।2.75.13।।",
+      "transliteration": "",
+      "translation": "Kaikeyi should send me also without any delay to that place where my illustrious   Rama with golden navel dwells.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अथवा स्वयमेवाहं सुमित्रानुचरा सुखम्।\nअग्निहोत्रं पुरस्कृत्य प्रस्थास्ये यत्र राघवः।।2.75.14।।",
+      "transliteration": "",
+      "translation": "Or else I, accompanied by Sumitra, shall go happily on my own holding the sacred fire in front to that place where Rama dwells.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "कामं वा स्वयमेवाद्य तत्र मां नेतुमर्हसि।\nयत्रासौ पुरुषव्याघ्रः पुत्रो मे तप्यते तपः।।2.75.15।।",
+      "transliteration": "",
+      "translation": "Or, you should now take me personally to that place where, my son Rama, the best among men, is performing austerities.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "इदं हि तव विस्तीर्णं धनधान्यसमाचितम्।\nहस्त्वश्वरथसम्पूर्णं राज्यं निर्यातितं तया।।2.75.16।।",
+      "transliteration": "",
+      "translation": "This vast kingdom, with all its abundance of wealth and grain, elephants, horses and chariots has been delivered to you by her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "इत्यादिबहुभिर्वाक्यैः क्रूरैः सम्भर्त्सितोऽनघः।\nविव्यथे भरतस्तीव्रं व्रणे तुद्येव सूचिना।।2.75.17।।",
+      "transliteration": "",
+      "translation": "Thus reproached by many a harsh word, like needle pricking a wound, the sinless Bharata was intensely pained.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "पपात चरणौ तस्यास्तदा सम्भ्रान्तचेतनः।\nविलप्य बहुधाऽसंज्ञो लब्धसंज्ञस्ततः स्थितः।।2.75.18।।",
+      "transliteration": "",
+      "translation": "(Having heard these words), his senses reeling, he became unconscious, lamented profusaly and fell at her feet. And on regaining his senses, he stood motionless.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "एवं विलपमानां तां भरतः प्राञ्जलिस्तदा।\nकौसल्यां प्रत्युवाचेदं शोकैर्बहुभिरावृताम्।।2.75.19।।",
+      "transliteration": "",
+      "translation": "As Kausalya was lamenting in this manner, overwhelmed with deep grief, Bharata, his palms joined in reverence, replied her in these words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "आर्ये कस्मादजानन्तं गर्हसे मामकिल्बिषम्।\nविपुलां च मम प्रीतिं स���थिरां जानासि राघवे।।2.75.20।।",
+      "transliteration": "",
+      "translation": "O noble lady unaware (of what had happened), I am guiltless. Why do you upbraid me? You know well my profound, steadfast affection for Raghava (Rama).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "कृता शास्त्रानुगा बुद्धिर्माभूत्तस्य कदाचन।\nसत्यसन्ध स्सतां श्रेष्ठो यस्याऽर्योऽनुमते गतः।।2.75.21।।",
+      "transliteration": "",
+      "translation": "Did not the one who counselled the banishment of my noble brother who is steadfast and bound by truth and virtue, ever adhered to scriptures? (or) My noble brother (Rama), the best among the virtuous, bound to truth, is banished. Let not such thought occur at any time to one who steadfastly adheres to scriptures",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "प्रेष्यं पापीयसां यातु सूर्यञ्च प्रतिमेहतु।\nहन्तु पादेन गां सुप्तां यस्याऽर्योऽनुमते गतः।।2.75.22।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother, Rama be cursed with the sin of undergoing servitude in the hands of most sinful of men, the sin of passing urine facing the Sun and of kicking a sleeping cow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "कारयित्वा महत्कर्म भर्ता भृत्यमनर्थकम्।\nअधर्मो योऽस्य सोऽस्यास्तु यस्याऽर्योऽनुमतेगतः।।2.75.23।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother acquire the demerit of unrighteousness in the same way as a master who gets a difficult work done by a servant without remuneration.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "परिपालयमानस्य राज्ञो भूतानि पुयत्रवत्।\nततस्नु दुह्यतां पापं यस्याऽर्योऽनुमते गतः।।2.75.24।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother acquire the sin in the same way as a man  acting treacherously against a king who rules like a father and protects his subjects like his own children, acquires.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "बलिषड्भागमुद्धृत्य नृपस्यारक्षतः प्रजाः।\nअधर्मो योऽस्य सोऽस्यास्तु यस्यार्थोऽनुमते गतः।।2.75.25।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother acquire  unrighteousness in the same way as a king who, having received one sixth of the income as tax from people does not protect them",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "संश्रुत्य च तपस्विभ्यस्सत्रे वै यज्ञदक्षिणाम्।\nतां विप्रलपतां पापं यस्यार्योऽनुमते गतः।।2.75.26।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother acquire the sin in the same way as a person acquires for having promised the ascetics the required offering at a sacrifice and later denies them",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "हस्त्यश्वरथसम्बाधे युद्धे शस्त्रसमाकुले।\nमा स्म कार्षीत्सतां धर्मं यस्यार्योऽनुमते गतः।।2.75.27।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother acquire the demerit in the same way as a person, who having gone to the battleground abundantly provided with elephants, horses, chariots and weapons fails to discharge the duty (of a fighter)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "उपदिष्टं सुसूक्ष्मार्थं शास्त्रं यत्नेन धीमता।\nस नाशयतु दुष्टात्मा यस्याऽर्योऽनुमते गतः।।2.75.28।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother acquire demerit in the same way as an evilhearted person who forever destroys the subtle meaning of the scriptures imparted carefully by a sagacious preceptor",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "मा च तं व्यूढबाह्वंसं चन्द्रार्कसमतेजसम्।\nद्राक्षीद्राज्यस्थमासीनं यस्यार्योऽनुमतेगतः।।2.75.29।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother be highly unfortunate like me in not being able to behold that longarmed and broadshoulderd one seated on the throne and resembling both the Sun and the Moon in radiance",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "पायसं कृसरं छागं वृथा सोऽश्नातु निर्घृणः।\nगुरूंश्चाप्यवजानातु यस्याऽर्योऽनुमते गतः।।2.75.30।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother acquire the demerit in the same way as a person, who partakes the sweet milkrice, sesamerice and goat's flesh without purpose (without invoking and offering it to the gods) and disrespects the teachers",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "गाश्च स्पृशतु पादेन गुरून्परिवदेत्स्वयम्।\nमित्रे द्रुह्येत सोऽत्यन्तं यस्याऽर्योऽनुमते गतः।।2.75.31।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother acquire the sin in the same way a person who kicks the cows abuses elders and causes great offence to his friends",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "विश्वासात्कथितं किञ्चित्परिवादं मिथः क्वचित्।\nविवृणोतु स दुष्टात्मा यस्याऽर्योऽमते गतः।।2.75.32।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother, acquire the sin in the same way as a wickedminded person, who divulges the words of abuse secretly confided in him by his friends.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "अकर्ता ह्यकृतज्ञश्च त्यक्ताचाऽत्मा निरपत्रपः।\nलोके भवतु विद्विष्टो यस्यार्योऽनुमते गतः।।2.75.33।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother be hated universally as one who never helps any one, who is ungrateful, shameless and as one who has committed the sin of suicide",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "पुत्रैर्दारैश्च भृत्यैश्च स्वगृहे परिवारितः।\nस एको मृष्टमश्नातु यस्यार्योऽनुमते गतः।।2.75.34।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother  acquire the sin in the same way as one who, although surrounded by wife, children and servants, eats the delicacies all alone without sharing acquires.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "अप्राप्य सदृशान् दाराननपत्यः प्रमीयताम्।\nअनवाप्य क्रियां धर्म्यां यस्याऽर्योऽनुमते गतः।।2.75.35।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother die without winning a worthy wife and without begetting offspring and without performing religious deeds",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "माऽत्मनस्सन्ततिं द्राक्षीत्स्वेषु दारेषु दुःखितः।\nआयुस्समग्रमप्राप्य यऽस्यार्योऽनुमते गतः।।2.75.36।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother live an entire life of anguish without begetting children through his wife or without seeing his own children",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "राजस्त्रीबालवृद्धानां वधे यत्पापमुच्यते।\nभृत्यत्यागे च यत्पापं तत्पापं प्रतिपद्यताम्।।2.75.37।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother acquire the same sin as one acquires for murdering a king, a woman, children and the aged and deserting dependents",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "लाक्षया मधुमांसेन लोहेन च विषेण च।\nसदैव बिभृयाद्भृत्यान्यस्यार्योऽनुमते गतः।।2.75.38।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother acquire the same sin as one who supports his wife and children by trafficking in lac, wine, meat and metal and poison acquires",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "सङ्ग्रमे समुपोढे स्म शत्रुपक्षभयङ्करे।\nपलायामानो वध्येत यस्यार्योऽनुमते गतः।।2.75.39।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother acquire the same sin like a warrior, dreadful to the enemy side who will be slain while fleeing from the war at its peak",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "कपालपाणिः पृथिवीमटतां चीरसंवृतः।\nभिक्षमाणो यथोन्मत्तो यस्यार्योऽनुमते गतः।।2.75.40।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother, wander this earth, begging alms, holding a human skull like an insane man dressed in rags",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "मद्ये प्रसक्तो भवतु स्त्रीष्वक्षेषु च नित्यशः।\nकामक्रोधाभिभूतस्तु यस्यार्योऽनुमते गतः।।2.75.41।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother be always addicted to wine, women and gambling and be swayed by desire and anger",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "मास्म धर्मे मनो भूयादधर्मं स निषेवताम्।\nअपात्रवर्षी भवतु यस्यार्योऽनुमते गतः।।2.75.42।।",
+      "transliteration": "",
+      "translation": "May the mind of that man who counselled the exile of my esteemed brother not be established in virtue May he practise unrighteousness and confer charity on the unworthy",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "सञ्चितान्यस्य वित्तनि विविधानि सहस्रशः।\nदस्युभिर्विप्रलुप्यन्तां यस्यार्योऽनुमते गतः।।2.75.43।।",
+      "transliteration": "",
+      "translation": "May that man's accumulated extensive posssessions of various kinds of wealth be  snatched away by thieves in thousands of ways if he had counselled the exile of my esteemed brother",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "उभे सन्ध्ये शयानस्य यत्पापं परिकल्प्यते।\nतच्चपापं भवेत्तस्य यस्यार्योऽनुमते गतः।।2.75.44।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother acquire the extent of demerit fixed for a person, who sleeps at the hour of twilight of dawn and dusk",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "यदग्निदायके पापं यत्पापं गुरतल्पगे।\nमित्रद्रोहे च यत्पापं तत्पापं प्रतिपद्यताम्।।2.75.45।।",
+      "transliteration": "",
+      "translation": "May that one who counselled the exile of my esteemed brother acquire the sin in the same way as a person who sets fire to human settlements, violates the preceptors's bed and betrays his friend",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "देवतानां पित्रूणां च मातापित्रोस्तथैव च।\nमा स्म कार्ष��त्स शुश्रूषां यस्यार्योऽनुमते गतः।।2.75.46।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother, acquire the sin in the same way as a person who fails to show obedience to the gods and the ancestors and to serve his parents",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "सतां लोकात्सतां कीर्त्या स्सञ्जुष्टात्कर्मणस्तथा।\nभ्रश्यतु क्षिप्रमद्यैव यस्यार्योऽनुमते गतः।।2.75.47।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother be expelled  this very moment from the world approved by virtuous men, from their renown and from their (noble) actions",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "अपास्य मातृशुश्रूषामनर्थे सोऽवतिष्ठताम्।\nदीर्घबाहुर्महावक्षा: यस्यार्योऽनुमते गतः।।2.75.48।।",
+      "transliteration": "",
+      "translation": "The one who counselled the exile of my noble, longarmed and broadchested brother be banished like the one who commited the sin of leaving the ministration to his mother and engaging himself in purposeless acts",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "बहुपुत्रो दरिद्रश्च ज्वररोगसमन्वितः।\nस भूयात्सतत क्लेशी यस्यार्योऽनुमते गतः।।2.75.49।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother be always miserable with many sons, poverty and fever and disease",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "आशामाशंसमानानां दीनानामूर्ध्वचक्षुषाम्।\nअर्थिनां वितथां कुर्याद्यस्यार्योऽनुमते गतः।।2.75.50।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother acquire the sin in the same way a person disappoints who miserable mendicants seeking alms and looking up to him for help",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "मायया रमतां नित्यं परुषः पिशुनोऽशुचिः।\nराज्ञो भीतस्त्वधर्मात्मा यस्यार्योऽनुमते गतः।।2.75.51।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother acquire the sin in the same way as a person, who is abusive, niggardly, impure, unrighteous and always afraid of being caught by the king, and lives by cheating others, acquires",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "ऋतुस्नातां सतीं भार्यामृतुकालानुरोधिनीम्।\nअतिवर्तेत दुष्टात्मा यस्यार्योऽनुमते गतः।।2.75.52।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother acquire the sin in the same way as a wickedminded person who neglects his chaste wife observing the menstrual period unfavourable for conception and had bathed after menstruation  acquires",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "सधर्मदारान्परित्यज्य परदारान्निषेवताम्।\nत्यक्तधर्मरतिर्मूढो यस्यार्योऽनुमते गतः।।2.75.53।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother acquire the sin in the same way a foolish person who abandons righteous conduct and  forsakes his rightfully married wife and resorts to other man's wife acquires",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "विप्रलुप्तप्रजातस्य दुष्कृतं ब्राह्मणस्य यत्।\nतदेव प्रतिपद्येत यस्यार्योऽनुमते गतः।।2.75.54।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother acquire the same sin like that of a lowbred brahmin who commits an irreversible sin acquires",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "पानीयदूषके पापं तथैव विषदायके।\nयत्तदेकस्स लभतां यस्यार्योऽनुमते गतः।।2.75.55।।",
+      "transliteration": "",
+      "translation": "May the sin of polluting drinking water and administering poison to others be put together and be incurred by the man who counselled the exile of my esteemed brother",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-54",
+      "number": 54,
+      "type": "shloka",
+      "original": "ब्राह्मणायोद्यतां पूजां विहन्तु कलुषेन्द्रियः।\nबालवत्सां च गां दोग्धु यस्यार्यो ऽनुमते गतः।।2.75.56।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother acquire the sin in the same way a person with befouled senses disturbs the offerings of worship kept ready for a brahmin and milks the cow having a young calf acquires.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-55",
+      "number": 55,
+      "type": "shloka",
+      "original": "तुर्ष्णार्तं सति पानीये विप्रलम्भेन योजयेत्।\nलभेत तस्य यत्पापं यस्यार्योऽनुमते गतः।।2.75.57।।",
+      "transliteration": "",
+      "translation": "May the one who counselled the exile of my esteemed brother acquire the sin in the same way a person who in possession of water does not give it to one suffering from  thirst acquires it",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-56",
+      "number": 56,
+      "type": "shloka",
+      "original": "भक्त्या विवदमानेषु मार्गमाश्रित्य पश्यतः।\nतस्य पापेन युज्येत यस्यार्योऽनुमते गतः।।2.75.58।।",
+      "transliteration": "",
+      "translation": "May that one who counselled the exile of my esteemed brother acquire the sin in the same way a person acquires while giving onesided judgement between divided religious disputants",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-57",
+      "number": 57,
+      "type": "shloka",
+      "original": "विहीनां पतिपुत्राभ्यां कौसल्यां पार्थिवात्मजः।\nएवमाश्वासयन्नेव दुःखार्तो निपपात ह।।2.75.59।।",
+      "transliteration": "",
+      "translation": "While thus appeasing Kausalya deprived of her husband and son, Bharata, filled with grief, fell down at her feet.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-58",
+      "number": 58,
+      "type": "shloka",
+      "original": "तथा तु शपथैः कष्टै श्शपमानमचेतनम्।\nभरतं शोकसन्तप्तं कौसल्या वाक्यमब्रवीत्।।2.75.60।।",
+      "transliteration": "",
+      "translation": "Kausalya said these words to Bharata who fell unconscious, consumed with grief, while swearing on painful oaths.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-59",
+      "number": 59,
+      "type": "shloka",
+      "original": "मम दुःखमिदं पुत्र भूयस्समुपजायते।\nशपथै श्शपमानो हि प्राणानुपरुणत्सि मे।।2.75.61।।",
+      "transliteration": "",
+      "translation": "O son by swearing on oaths, you are choking the very breath of my life and my suffering has grown still more.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-60",
+      "number": 60,
+      "type": "shloka",
+      "original": "दिष्ट्या न चलितो धर्मादात्मा ते सहलक्ष्मणः।\nवत्स सत्यप्रतिज्ञो ते सतां लोकमवाप्स्यसि।।2.75.62।।",
+      "transliteration": "",
+      "translation": "O dear child, fortunately your mind is unswerved from righteousness. You being truthful to your promise shall attain the world of virtuous men along with Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-61",
+      "number": 61,
+      "type": "shloka",
+      "original": "इत्युक्त्वा चाङ्कमानीय भरतं भ्रातृवत्सलम्।\nपरिष्वज्य महाबाहुं रुरोद भृशदुःखिता।।2.75.63।।",
+      "transliteration": "",
+      "translation": "After having addressed Bharata, who was affectionate towards his brother that way, Kausalya  drew the mightyarmed one onto her lap and hugged him and cried out with extreme grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-62",
+      "number": 62,
+      "type": "shloka",
+      "original": "एवं विलपमानस्य दुःखार्तस्य महात्मनः।\nमोहाच्च शोकसम्रोधाद्बभूव लुलितं मनः।।2.75.64।।",
+      "transliteration": "",
+      "translation": "Afflicted by sorrow and lamenting thus, great Bharata's mind became unsteady owing to swooning and  besieged by grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-75-63",
+      "number": 63,
+      "type": "shloka",
+      "original": "लालप्यमानस्य विचेतनस्य प्रणष्टबुद्धे: पतितस्य भूमौ।\nमुहुर्मुहुर्निश्श्वसतश्च घर्मं सा तस्य शोकेन जगाम रात्रिः।।2.75.65।।",
+      "transliteration": "",
+      "translation": "That night passed off in grief for Bharata, who fell on the ground with his mind clouded and his senses lost. He lamented again and again, heaving deep, warm sighs.  इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे पञ्चसप्ततितमस्सर्गः।। Thus ends the seventyfifth sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

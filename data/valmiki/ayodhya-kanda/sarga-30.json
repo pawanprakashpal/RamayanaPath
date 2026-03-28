@@ -1,0 +1,432 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 30,
+    "title": "Rama consents to take Sita to the forest--instructs her to distribute their precious possessions on the eve of their departure",
+    "titleSanskrit": "",
+    "totalShlokas": 46
+  },
+  "shlokas": [
+    {
+      "id": "v2-30-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "सान्त्व्यमाना तु रामेण मैथिली जनकात्मजा।\nवनवासनिमित्ताय भर्तारमिदमब्रवीत्।।2.30.1।।",
+      "transliteration": "",
+      "translation": "In response to Rama's consolation with regard to her stay in the forest, the daughter of Janaka, Maithili (Sita) said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "सा तमुत्तमसंविग्ना सीता विपुलवक्षसम्।\nप्रणयाच्चाभिमानाच्च परिचिक्षेप राघवम्।।2.30.2।।",
+      "transliteration": "",
+      "translation": "Sita agitated over a supreme cause upbraided the broadchested scion of the Raghu race out of love and injured selfrespect.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "किं त्वाऽमन्यत वैदेहः पिता मे मिथिलाधिपः।\nराम जामातरं प्राप्य स्त्रियं पुरुषविग्रहम्।।2.30.3।।",
+      "transliteration": "",
+      "translation": "O Rama while accepting you as soninlaw did my father, king of Mithila and lord of Videha ever think that you are a woman in the guise of a man?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "अनृतं बत लोकोऽयमज्ञानाद्यदि वक्ष्यति।\nतेजो नास्ति परं रामे तपतीव दिवाकरे।।2.30.4।।",
+      "transliteration": "",
+      "translation": "Alas that will be a falschood if people out of ignorance say that there is no supreme splendour in Rama like the shining Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "किं हि कृत्वा विषण्णस्त्वं कुतो वा भयमस्ति ते।\nयत्परित्यक्तुकामस्त्वं मामनन्यपरायणाम्।।2.30.5।।",
+      "transliteration": "",
+      "translation": "What may be the cause for your fear and depression behind your desire to desert one who is so exclusively devoted to you?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "द्युमत्सेनसुतं वीर सत्यवन्तमनुव्रताम्।\nसावित्रीमिव मां विद्धि त्वमात्मवशवर्तिनीम्।।2.30.6।।",
+      "transliteration": "",
+      "translation": "Know, O valiant one, that by remaining subordinate to you, I am as faithful to you as Savitri was to her husband, Satyavanta, son of Dyumatsena.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "न त्वहं मनसाऽप्यन्यं द्रष्टाऽस्मि त्वदृतेऽनघ।\nत्वया राघव गच्छेयं यथाऽन्या कुलपांसिनी।।2.30.7।।",
+      "transliteration": "",
+      "translation": "O sinless son of the Raghus I am not like other women who bring disgreace to the family. I have not looked at any one except you, even with my mind's eye. I will go (to the forest) along with you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "स्वयं तु भार्यां कौमारीं चिरमध्युषितां सतीम्।\nशैलूष इव मां राम परेभ्यो दातुमिच्छसि।।2.30.8।।",
+      "transliteration": "",
+      "translation": "I have been living with you for a long time, O Rama I am young and chaste. Why do you, like an actor, wish to hand me over to others.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "यस्य पथ्यं च रामाऽत्थ यस्य चार्थेऽवरुध्यसे।\nत्वं तस्य भव वश्यश्च विधेयश्च सदाऽनघ।।2.30.9।।",
+      "transliteration": "",
+      "translation": "You, O sinless Rama, may become subservient and obedient to them about whose wellfare you are speaking of and on account of whom you are preventing me to go (along with you).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "स मामनादाय वनं न त्वं प्रस्थातुमर्हसि।\nतपो वा यदि वाऽरण्यं स्वर्गो वा स्यात्सह मे त्वया।।2.30.10।।",
+      "transliteration": "",
+      "translation": "You should not depart for the forest without taking me. Be it for penance or for the forest or for heaven, I wish to be with you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "न च मे भविता तत्र कश्चित्पथि परिश्रमः।\nपृष्ठतस्तव गच्छन्त्या विहारशयनेष्विव।।2.30.11।।",
+      "transliteration": "",
+      "translation": "While following you, I will feel no fatigue there on the way as if I am going on a pleasurestroll or in a comfortable couch.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "कुशकाशशरेषीका ये च कण्टकिनो द्रुमाः।\nतूलाजिनसमस्पर्शा मार्गे मम सह त्वया।।2.30.12।।",
+      "transliteration": "",
+      "translation": "The white reeds, the kusha, the sara and the ishika grasses and thorny trees on the way will feel as soft as cotton or as the skin of a black antelope.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "महावातसमुद्धूतं यन्मामपकरिष्यति।\nरजो रमण तन्मन्ये परार्थ्यमिव चन्दनम्।।2.30.13।।",
+      "transliteration": "",
+      "translation": "I shall regard, O charming Rama, the harmful dust raised by the stormy wind and settled on me as the most excellent sandal powder.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "शाद्वलेषु यथा शिश्ये वनान्ते वनगोचर।\nकुथास्तरणतल्पेषु किं स्यात्सुखतरं ततः।।2.30.14।।",
+      "transliteration": "",
+      "translation": "O rover of the forest I will feel happier when I sleep on the meadows (of tender green grass) on the outskirts of the forest than when I sleep on the couch spread with carpets.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "पत्रं मूलं फलं यत्त्वमल्पं वा यदि वा बहु।\nदास्यसि स्वयमाहृत्य तन्मेऽमृतरसोपमम्।।2.30.15।।",
+      "transliteration": "",
+      "translation": "Whatever leaves or roots or fruits you collect with your own hands for me little or much, they will be nectar to me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "न मातुर्न पितुस्तत्र स्मरिष्यामि न वेश्मनः।\nआर्तवान्युपभुञ्जाना पुष्पाणि च फलानि च।।2.30.16।।",
+      "transliteration": "",
+      "translation": "Enjoying the seasonal flowers and fruits in the forest, I will not remember my mother or father or home.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "न च तत्र ततः किञ्चिद्द्रष्टुमर्हसि विप्रियम्।\nमत्कृते न च ते शोको न भविष्यामि दुर्भरा।।2.30.17।।",
+      "transliteration": "",
+      "translation": "Therefore, you should not anticipate any problem from me in the forest. Neither shall I be burdensome to you nor shall I make you experience any sorrow on my account.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "य स्त्वया सह स स्वर्गो निरयो यस्त्वया विना।\nइति जानन्परां प्रीतिं गच्छ राम मया सह।।2.30.18।।",
+      "transliteration": "",
+      "translation": "Wherever I be with you is heaven and without, hell. O Rama, recognise this truth, and derive great pleasure in my company.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "अथ मामेवमव्यग्रां वनं नैव नयिष्यति।\nविषमद्यैव पास्यामि मा विशं द्विषतां गमम्।।2.30.19।।",
+      "transliteration": "",
+      "translation": "If you do not take me to the forest without the least hesitation I shall consume poison right now, but not live under the control of enemies (at Ayodhya).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "पश्चादपि हि दुःखेन मम नैवास्ति जीवितम्।\nउज्झितायास्त्वया नाथ तदैव मरणं वरम्।।2.30.20।।",
+      "transliteration": "",
+      "translation": "If forsaken, O Lord I shall not live a life of sorrow. Instant death is better (than abandoned existence).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "इमं हि सहितुं शोकं मुहूर्तमपि नोत्सहे।\nकिं पुनर्दशवर्षाणि त्रीणि चैकं च दुःखिता।।2.30.21।।",
+      "transliteration": "",
+      "translation": "I cannot bear this grief even for a moment, what to speak of fourteen (ten and three  and one) years of grieving.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "इति सा शोकसन्तप्ता विलप्य करुणं बहु।\nचुक्रोश पतिमायस्ता भृशमालिङ्ग्य सस्वरम्।।2.30.22।।",
+      "transliteration": "",
+      "translation": "Tormented with grief, Sita piteously and profusely lamented, and then exhausted,  embraced her husband  tightly and cried bitterly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "सा विद्धा बहुभिर्वाक्यैर्दिग्धैरिव गजाङ्गना।\nचिरसन्नियतं बाष्पं मुमोचाग्निमिवारणिः।।2.30.23।।",
+      "transliteration": "",
+      "translation": "Pierced by so many words (of objection from  Rama), Sita felt like a cowelephant penetrated by poisonsmeared arrrows. And shed her longsuppressed tears like arani (a firekindling stick) kindling fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "तस्या स्फटिकसङ्काशं वारि सन्तापसम्भवम्।\nनेत्राभ्यां परिसुस्राव पङ्कजाभ्यामिवोदकम्।।2.30.24।।",
+      "transliteration": "",
+      "translation": "Crystallike tears arising out of distress flowed from her eyes like water trickling from two lotuses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तच्चैवामलचन्द्राभं मुखमायतलोचनम्।\nपर्यशुष्यत बाष्पेण जलोद्धृतमिवाम्बुजम्।।2.30.25।।",
+      "transliteration": "",
+      "translation": "Her face with large eyes assumed the brightness of an immaculate Moon and withered with tears like a lotus plucked out of water.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "तां परिष्वज्य बाहुभ्यां विसंज्ञामिव दुःखिताम्।\nउवाच वचनं रामः परिविश्वासयंस्तदा।।2.30.26।।",
+      "transliteration": "",
+      "translation": "With his arms Rama embraced Sita who had almost fainted in grief. And in order to create confidence in her he said these words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "न देवि तव दुःखेन स्वर्गमप्यभिरोचये।\nन हि मेऽस्ति भयं किञ्चित्स्वयम्भोरिव सर्वतः।।2.30.27।।",
+      "transliteration": "",
+      "translation": "When you are in grief O Devi I do not desire even heaven. Like the selfcreated Brahma, I have no fear for any one.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "तव सर्वमभिप्रायमविज्ञाय शुभानने।\nवासं न रोचयेऽरण्ये शक्तिमानपि रक्षणे।।2.30.28।।",
+      "transliteration": "",
+      "translation": "O Sita of auspicious countenance even though I am capable of protecting you I did not like your stay in the forest as I did not know your intentions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "यत्सृष्टाऽसि मया सार्धं वनवासाय मैथिलि।\nन विहातुं मया शक्या कीर्तिरात्मवता यथा।।2.30.29।।",
+      "transliteration": "",
+      "translation": "Since you, O daughter of Mithila, were born to go along with me to the forest, I cannot abandon you just as a selfrespecting man cannot forsake his reputation.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "धर्मस्तु गजनासोरु सद्भिराचरितः पुरा।\nतं चाहमनुवर्तेऽद्य यथा सूर्यं सुवर्चला।।2.30.30।।",
+      "transliteration": "",
+      "translation": "O one  with (shapely) thighs like the trunk of an elephant follow only the path of righteousness practised earlier by the virtuous as Suvarchala follows the Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "न खल्वहं न गच्छेयं वनं जनकनन्दिनि।\nवचनं तन्नयति मां पितु स्सत्योपबृंहितम्।।2.30.31।।",
+      "transliteration": "",
+      "translation": "Not that I shall not go to the forest (go I must). My father's word nourished by truth is  leading me there, O daughter of Janaka",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "एष धर्मस्तु सुश्रोणि पितुर्मातुश्च वश्यता।\nअतश्च तं व्यतिक्रम्य नाहं जीवितुमुत्सहे।।2.30.32।।",
+      "transliteration": "",
+      "translation": "Obedience to parents is a righteous act. Therefore, O one with fair hips I cannot live and disobey the word of truth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "अस्वाधीनं कथं दैवं प्रकारैरभिराध्यते।\nस्वाधीनं समतिक्रम्य मातरं पितरं गुरुम्।।2.30.33।।",
+      "transliteration": "",
+      "translation": "Mother, father and preceptor are present before us. By overstepping them, how can we, in various ways, worship God who is beyond reach (not visible)?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "यत्त्रयं तत्त्रयो लोकाः पवित्रं तत्समं भुवि।\nनान्यदस्ति शुभापाङ्गे तेनेदमभिराध्यते।।2.30.34।।",
+      "transliteration": "",
+      "translation": "Where these three(mother,father and preceptor) equal to the three worlds are, O one with loverly sideglances, there is none in this world as holy. Therefore, they are  to be worshipped.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "न सत्यं दानमानौ वा न यज्ञाश्चाप्तदक्षिणाः।\nतथा बलकरा स्सीते यथा सेवा पितुर्हिता।।2.30.35।।",
+      "transliteration": "",
+      "translation": "Truth or munificence or homage or distribution of gifts to the revered ones or sacrifices, O Sita, are  not considered as efficacious as service to father.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "स्वर्गो धनं वा धान्यं वा विद्याः पुत्रास्सुखानि च।\nगुरुवृत्त्यनुरोधेन न किञ्चिदपि दुर्लभम्।।2.30.36।।",
+      "transliteration": "",
+      "translation": "By fulfilling father's wish, nothing is difficult to achieve, whether it is heaven, or wealth, or foodgrains, or learning, or sons or other comforts.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "देवगन्धर्वगोलोकान्ब्रह्मलोकां स्तथाऽपरान्।\nप्राप्नुवन्ति महात्मानो मातापितृपरायणाः।।2.30.37।।",
+      "transliteration": "",
+      "translation": "Great men who are devoted to the service of their parents attain the world of the gods, of gandharvas, of cows, of Visnu, of Brahma and other worlds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "स मां पिता यथा शास्ति सत्यधर्मपथे स्थितः।\nतथा वर्तितुमिच्छामि स हि धर्मस्सनातनः।।2.30.38।।",
+      "transliteration": "",
+      "translation": "My father who follows the path of truth and dharma whatever be his commands, I wish to obey. He is, indeed, dharma eternal.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "मम सन्ना मतिस्सीते त्वां नेतुं दण्डकावनम्।\nवसिष्यामीति सा त्वं मामनुयातुं सुनिश्चिता।।2.30.39।।",
+      "transliteration": "",
+      "translation": "O Sita, my discretion fails me in deciding whether to take you to Dandaka forest or not. You are, however, firmly determined to follow me, saying, you can live in the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "सा हि सृष्टाऽनवद्याङ्गि वनाय मदिरेक्षणे।\nअनुगच्छस्व मां भीरु सहधर्मचरी भव।।2.30.40।।",
+      "transliteration": "",
+      "translation": "O one with fascinating eyes and exquisite beauty you were born to live in the forest. O gentle lady, assist me in carrying out my duties.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "सर्वथा सदृशं सीते मम स्वस्य कुलस्य च।\nव्यवसायमनुक्रान्ता कान्ते त्वमतिशोभनम्।।2.30.41।।",
+      "transliteration": "",
+      "translation": "You, O my lovely beloved Sita, have taken in the right time a highly dignified decision befitting in all ways your family, myself and yourself.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "आरभस्व शुभश्रोणि वनवासक्षमाः क्रियाः।\nनेदानीं त्वदृते सीते स्वर्गोऽपि मम रोचते।।2.30.42।।",
+      "transliteration": "",
+      "translation": "O Sita, begin right now all preparations necessary for residing in the forest. O one, with beautiful buttocks, without you even the very heaven does not please me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "ब्राह्मणेभ्यश्च रत्नानि भिक्षुकेभ्यश्च भोजनम्।\nदेहि चाशंसमानेभ्य स्सन्त्वरस्व च मा चिरम्।।2.30.43।।",
+      "transliteration": "",
+      "translation": "Give away your jewels to brahmins who need them and food to religious mendicants. Hurry up Do not delay.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "भूषणानि महार्हाणि वरवस्त्राणि यानि च।\nरमणीयाश्च ये केचित्क्रीडार्थाश्चाप्युपस्कराः।।2.30.44।।\nशयनीयानि यानानि मम चान्यानि यानि च।\nदेहि स्वभृत्यवर्गस्य ब्राह्मणानामनन्तरम्।।2.30.45।।",
+      "transliteration": "",
+      "translation": "Distribute among your attendants highly valuable ornaments and excellent clothing, charming articles meant for (court) sport, my couches, chariots and all other things. Offer the rest to brahmins.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "अनुकूलं तु सा भर्तुर्ज्ञात्वा गमनमात्मनः।\nक्षिप्रं प्रमुदिता देवी दातुमेवोपचक्रमे।।2.30.46।।",
+      "transliteration": "",
+      "translation": "Having come to know that her departure to the forest is acceptable to her husband, Sita, highly delighted, quickly got ready to give away (things).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-30-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "ततः प्रहृष्टा प्रतिपूर्णमानसा\nयशश्विनी भर्तुरवेक्ष्य भाषितम्।\nधनानि रत्नानि च दातुमङ्गना\nप्रचक्रमे धर्मभृतां मनस्स्विनी।।2.30.47।।",
+      "transliteration": "",
+      "translation": "Having heard her husband, the glorious and broadminded Sita was delighted with her desires fulfiled. She made preparations to gift away her wealth including jewels to the virtuous. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे त्रिंशस्सर्गः।। Thus ends the thirtieth sarga of Ayodhyakanda of the holy Ramayana, the first epic  composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

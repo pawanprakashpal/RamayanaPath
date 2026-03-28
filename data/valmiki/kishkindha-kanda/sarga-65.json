@@ -1,0 +1,279 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 65,
+    "title": "Each of the monkey leaders declares the distance they can fly -- Jambavan resolves not to send Angada but send Hanuman instead to cross.",
+    "titleSanskrit": "",
+    "totalShlokas": 29
+  },
+  "shlokas": [
+    {
+      "id": "v4-65-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "अथाङ्गदवचश्श्रुत्वा ते सर्वे वानरर्षभाः।\nस्वं स्वं गतौ समुत्साहमूचुस्तत्र यथाक्रमम्।।4.65.1।।\nगजो गवाक्षो गवयश्शरभो गन्धमादनः।\nमैन्दश्च द्विविदश्चैव सुषेणो जाम्बवां स्तथा।।4.65.2।।",
+      "transliteration": "",
+      "translation": "Thereafter, on hearing Angada, all the leaders among the monkeys, Gaja, Gavaksha, Gavaya, Sarabha, Gandhamadana, Mainda, Dvivida, Sushena and Jambavan as well expressed one after  the other their capability for leaping.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-65-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "आबभाषे गजस्तत्र प्लवेयं दशयोजनम्।\nगवाक्षो योजननान्याह गमिष्यामीति विंशतिम्।।4.65.3।।",
+      "transliteration": "",
+      "translation": "Gaja said he can leap ten yojanas and Gavaksha said he can go upto twenty yojanas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-65-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "गवयो वानरस्तत्र वानरां स्तानुवाच ह।\nत्रिंशतं तु गमिष्यामि योजनानां प्लवङ्गमाः।।4.65.4।।\nशरभस्तानुवाचाथ वानरान् वानरर्षभः।\nचत्वारिंशद्गमिष्यामि योजनानां प्लवङ्गमाः।।4.65.5।।\nवानरस्तु महातेजा अब्रवीद्गन्धमादनः।\nयोजनानां गमिष्यामि पञ्चाशत्तु न संशयः।।4.65.6।।\nमैन्दस्तु वानरस्तत्र वानरांस्तानुवाच ह।\nयोजनानां परं षष्टिमहं प्लवितुमुत्सहे।।4.65.7।।\nततस्तत्र महातेजा द्विविदः प्रत्यभाषत।\nगमिष्यामि न सन्देहस्सप्ततिं योजनान्यहम्।।4.65.8।।\nसुषेणस्तु महातेजा:प्रोक्तवान्हरिसत्तमान्।\nअशीतिं योजनानां तु प्लवेयं प्लवगेश्वराः।।4.65.9।।",
+      "transliteration": "",
+      "translation": "Then Gavaya said to the monkeys 'I can leap thirty yojanas Sarabha said 'I can leap forty yojanas' bright Ghandhamadana said 'I can leap as far as fifty yojanas without  any doubt' Mainda said 'I can leap more than sixty yojanas' highly brilliant Dvivida said in turn, 'I can no doubt leap seventy yojanas ' brilliant and best of the monkeys Sushena declared 'I can leap across eighty yojanas'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-65-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तेषां कथयतां तत्र सर्वांस्ताननुमान्य च।\nततो वृद्धतमस्तेषां जाम्बवान्प्रत्यभाषत।।4.65.10।।",
+      "transliteration": "",
+      "translation": "When the monkeys were talking (of their individual capacity) in that manner about their speed, Jambavan the oldest of the monkeys inferred (their capacity) and said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-65-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "पूर्वमस्माकमप्यासीत्कश्चिद्गतिपराक्रमः।\nते वयं वयसः पारमनुप्राप्तास्स्म साम्प्रतम्।।4.65.11।।",
+      "transliteration": "",
+      "translation": "'Earlier I was also very courageous, but now I have become old and reached the fag end of life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-65-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "किन्तु नैवं गते शक्यमिदं कार्यमुपेक्षितुम्।\nयदर्थं कपिराजश्च रामश्च कृतनिश्चयौ।।4.65.12।।",
+      "transliteration": "",
+      "translation": "'However  in this situation, it is not possible for us to neglect (our task) as it is the order of the monkeyking and Rama who are determined to achieve the objective.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-65-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "साम्प्रतं कालभेदेन या ग���िस्तां निबोधत।\nनवतिं योजनानां तु गमिष्यामि न संशयः।।4.65.13।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-65-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तांश्च सर्वान्हरिश्रेष्ठाञ्जाम्बवान्पुनरब्रवीत्।\nन खल्वेतावदेवासीद्गमने मे पराक्रमः।।4.65.14।।",
+      "transliteration": "",
+      "translation": "Jambavan, the distinguished among the monkeys again said, 'My strength to leap into the sky was not only that much (I was stronger in my youth and could cover longer distances)'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-65-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "मया महाबलेश्चैव यज्ञे विष्णुस्सनातनः।\nप्रदक्षिणीकृतः पूर्वं क्रममाणस्त्रिविक्रमम्।।4.65.15।।",
+      "transliteration": "",
+      "translation": "'In the past, at the time of the wellknown yagna (of king Bali) I was very strong. I circumambulated the eternal Vishnu while he was taking three strides (in his incarnation of Trivikrama Vamana.)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-65-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "स इदानीमहं वृद्धः प्लवने मन्दविक्रमः।\nयौवने च तदाऽसीन्मे बलमप्रतिमं परैः।।4.65.16।।",
+      "transliteration": "",
+      "translation": "'Having grown old I do not have the same courage. In my youth my prowess was incomparable and none could excel me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-65-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "सम्प्रत्येतावतीं शक्तिं गमने तर्कयाम्यहम्।\nनैतावता हि संसिद्धिः कार्यस्यास्य भविष्यति।।4.65.17।।",
+      "transliteration": "",
+      "translation": "'I guess that at this time I do not have the capacity to fly to that extent. Achieving the objective is out of question with this much of energy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-65-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अथोत्तरमुदारार्थमब्रवीदङ्गदस्तदा।\nअनुमान्य तथा प्राज्ञो जाम्बवन्तं महाकपिम्।।4.65.18।।",
+      "transliteration": "",
+      "translation": "'Then the wise Angada said to great Jambavan, in a gentle manner about his  own strength.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-65-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "अहमेतद्गमिष्यामि योजनानां शतं महत्।\nनिवर्तने तु मे शक्तिस्स्यान्न वेति न निश्चितम्।।4.65.19।।",
+      "transliteration": "",
+      "translation": "'I can  certainly go to a distance of a hundred yojanas. However, I cannot say whether I will have enough capacity to return?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-65-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तमुवाच हरिश्रेष्ठं जाम्बवान्वाक्यकोविदः।\nज्ञायते गमने शक्तिस्तव हर्यृक्षसत्तम।।4.65.20।।",
+      "transliteration": "",
+      "translation": "Jambavan who was skilful in speech spoke to that great Angada, 'O leader among monkeys and bears your energy to cover this distance is wellknown to us'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-65-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "कामं शतं सहस्रं वा न ह्येष विधिरुच्यते।\nयोजनानां भवान् शक्तो गन्तुं प्रतिनिवर्तितुम्।।4.65.21।।",
+      "transliteration": "",
+      "translation": "'You can go upto even a hundred thousand yojanas and have the required energy to return also. But it is not proper to send you (because you are the heir apparent).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-65-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "न हि प्रेषयिता तात स्वामी प्रेष्यः कथञ्चन।\nभवताऽयं जनस्सर्वः प्रेष्यः प्लवगसत्तम।।4.65.22।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-65-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "भवान्कळत्रमस्माकं स्वामिभावे व्यवस्थितः।\nस्वामी कळत्रं सैन्यस्य गतिरेषा परन्तप।।4.65.23।।",
+      "transliteration": "",
+      "translation": "'O scorcher of enemies, you are established as the commander of the army and it is proper for us to protect you as we protect our wives.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-65-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अपि चैतस्य कार्यस्य भवान्मूलमरिन्दम।\nतस्मात्कळत्रवत्तात प्रतिपाल्यस्सदा भवान्।।4.65.24।।",
+      "transliteration": "",
+      "translation": "'O subduer of enemies in acomplishing this task you are the root. O dear therefore you should always be taken care of by us just like the wife looked after.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-65-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "मूलमर्थस्य संरक्ष्यमेष कार्यविदां नयः।\nमूले सति हि सिद्ध्यन्ति गुणा फलो पुष्पोदयाः।।4.65.25।।",
+      "transliteration": "",
+      "translation": "'The root of any objective should be protected well. This is the basis of an accomplisher. Only when the roots are intact, the trees have the ability to yield flowers and fruits.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-65-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तद्भवानस्य कार्यस्य साधने सत्यविक्रम।\nबुद्धिविक्रमसम्पन्नो हेतुरत्र परन्तप।।4.65.26।।",
+      "transliteration": "",
+      "translation": "'O warrior of proven valour O subduer of enemies in achieving this objective you are the source, being endowed with valour and wisdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-65-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "गुरुश्च गुरुपुत्रश्च त्वं हि नः कपिसत्तम।\nभवन्तमाश्रित्य वयं समर्था ह्यर्थसाधने।।4.65.27।।",
+      "transliteration": "",
+      "translation": "'O best of monkeys you are the son of my guide (Vali) and respectable. We will be capable of accomplishing the goal only under your protection and guidance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-65-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "उक्तवाक्यं महाप्राज्ञं जाम्बवन्तं महाकपिः।\nप्रत्युवाचोत्तरं वाक्यं वालिसूनुरथाङ्गदः।।4.65.28।।",
+      "transliteration": "",
+      "translation": "Jambavan, the wise monkey having said that, Angada, the great son of Vali, replied:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-65-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "यदि नाहं गमिष्यामि नान्यो वानरपुङ्गवः।\nपुनः खल्विदमस्माभिः कार्यं प्रायोपवेशनम्।।4.65.29।।",
+      "transliteration": "",
+      "translation": "'If I do not go and no other monkey leader goes, then we have to resort to fasting unto death once again.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-65-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "न ह्यकृत्वा हरिपतेस्सन्देशं तस्य धीमतः।\nतत्रापि गत्वा प्राणानां पश्यामि परिरक्षणम्।।4.65.30।।",
+      "transliteration": "",
+      "translation": "'If I do not fulfil the objective of the wise king of monkeys I cannot save my life even after returning there (Kishkinda).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-65-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "स हि प्रसादे चात्यर्थं कोपे च हरिरीश्वरः।\nअतीत्य तस्य सन्देशं विनाशो गमने भवेत्।।4.65.31।।",
+      "transliteration": "",
+      "translation": "'The monkey king has the authority to shower grace or give vent to his anger. If we go without fulfilling the task we will face destruction.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-65-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "तद्यथा ह्यस्य कार्यस्य न भवत्यन्यथा गतिः।\nतद्भवानेव दृष्टार्थस्सञ्चिन्तयितु मर्हति।।4.65.32।।",
+      "transliteration": "",
+      "translation": "'Therefore, think over well so that we do not fail ultimately. You have a vision.You should suggest means by which this mission does not misfire.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-65-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "सोऽङ्गदेन तदा वीरः प्रत्युक्तः प्लवगर्षभः।\nजाम्बवानुत्तरं वाक्यं प्रोवाचेदं ततोऽङ्गदम्।।4.65.33।।",
+      "transliteration": "",
+      "translation": "On listening to Angada's words, Jambavan, the  bull among monkeys, replied this way:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-65-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "अस्य ते वीर कार्यस्य न किञ्चित्परिहीयते।\nएष सञ्चोदयाम्येनं यः कार्यं साधयिष्यति।।4.65.34।।",
+      "transliteration": "",
+      "translation": "'O hero this work will not be balked. I will now inspire one who can achieve this task.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-65-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "ततःप्रतीतं प्लवतांवरिष्ठम्\nएकान्तमाश्रित्य सुसुखेपविष्ठम्\nसञ्चोदयामास हरिप्रवीरो\nहरिप्रवीरं हनुमन्तमेव।।4.65.35।।",
+      "transliteration": "",
+      "translation": "Then Jambavan the most eminent among the monkeys went to Hanuman, the  celebrated one among the monkey leaders and a renowned one, who was sitting alone quietly at some distance Jambavan motivated him.  इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे पञ्चष्षष्टितमस्सर्गः।। Thus ends the sixtyfifth sarga in Kishkindakanda of the first poem, the Holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

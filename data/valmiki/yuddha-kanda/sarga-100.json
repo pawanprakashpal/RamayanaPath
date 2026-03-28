@@ -1,0 +1,405 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 100,
+    "title": "Rama and Ravana armed with excellent bows and powerful missiles begin to fight.",
+    "titleSanskrit": "",
+    "totalShlokas": 43
+  },
+  "shlokas": [
+    {
+      "id": "v6-100-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "महोदरमहापार्श्वौहतौदृष्टवातुराक्ष ।\nतस्मिंश्चनिहतेवीरेविरूपाक्षेमहाबले ।।6.100.1।।\nआविवेशमहान् क्रोधोरावणंतुमहामृधे ।\nसूतं सञ्चोदयामास वाक्यं चेदमुवाच ह ।।6.100.2।।",
+      "transliteration": "",
+      "translation": "On seeing Mahodara and Mahaparsva killed in the great war, Virupaksha of extraordinary might also killed, Ravana was highly infuriated and addressed the charioteer in the following words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "निहतानाममात्यानांरुद्धस्यनगरस्य च ।\nदुःखमेवापनेष्यामि हत्या तौ रामलक्ष्मणौ ।।6.100.3।।",
+      "transliteration": "",
+      "translation": "\"On killing both Rama and Lakshmana, I will relieve the sorrow of ministers killed and of Lanka from suffering.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "रामवृक्षंरणेहमनिसीतापुष्पफलप्रदम् ।\nप्रशाखायस्यसुग्रीवोजाम्बवान्कुमुदोनलः ।।6.100.4।।\nदिविदश्चैवमैन्दश्चअङ्गदोगन्दमादनः ।\nहनुमांश्चसुषेणव्चसर्वे च हरियूथपाः ।।6.100.5।।",
+      "transliteration": "",
+      "translation": "That tree in the shape of Rama for which Sugriva, Jambavan, Kumuda, Dwivida, Mainda, Angada, Gandhamadana and Hanuman are the principal branches, that tree which will yield flowers and fruit in the shape of Sita will be cut down in the battle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "स दिशोदशघोषेणरथस्यातिरथोमहान् ।\nनादयन् प्रययौतूर्णंराघवंचाभ्यधावत ।।6.100.6।।",
+      "transliteration": "",
+      "translation": "Ravana, the great charioteer, who could surpass many rushed quickly towards Raghava, by the chariot making great noise reverberating in all directions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "पूरितातेनशब्देनसनदीगिरिकानना ।\nसञ्चचाल मही सर्वा त्रस्तसिंहमृगद्विजा ।।6.100.7।।",
+      "transliteration": "",
+      "translation": "By that sound, the rivers, mountains, and forests including the earth, filled with the boars, lions and other beasts were shaken.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तामसंसुमहाघोरंचकारास्त्रंसुदारुणम् ।\nनिर्ददाहकपीन् सर्वांस्तेप्रपेतुःसमन्ततः ।।6.100.8।।",
+      "transliteration": "",
+      "translation": "He released an exceedingly formidable weapon called Taamasa which consumed all the monkeys all over and had fallen.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "उत्पपातरजोभूमौतैर्भग्नैःसम्प्रधावितैः ।\nन हितत्सहितुंशेकुर्भ्रह्मणानिर्मितंस्वयम् ।।6.100.9।।",
+      "transliteration": "",
+      "translation": "As the Taamasa missile had been built and bestowed by Brahma, the monkeys were unable to bear and by their running dust had risen.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तान्यनीकान्यनेकानि रावणस्य शरोत्तमैः ।\nदृष्टवाभग्नानि शतशो राघवः पर्यवस्थितः ।।6.100.10।।",
+      "transliteration": "",
+      "translation": "Ravana's shafts had burnt many hundreds of Vanaras in war and seeing that Rama took a firm stand.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "ततोराक्षसशार्दूलोविद्राव्यहरिवाहिनीम् ।\nस ददर्शततोरामंतिष्ठन्तमपराजितम् ।।6.100.11।।\nलक्ष्मणेनसहभ्रात्राविष्णुनावासवंयथा ।\nअलिखन्तमिवाकाशमवष्टभ्यमहद्धनुः ।।6.100.12।।\nपद्मपत्रविशालाक्षंदीर्घबाहुमरिन्दमम् ।",
+      "transliteration": "",
+      "translation": "Thereafter, the tiger among Rakshasas having routed the Vanaras from there, saw the lotus petaleyed Rama, endowed with long arms, an unconquered one, the tamer of enemies, standing with his brother Lakshmana like Lord Vishnu with Indra, holding a huge bow that was scraping the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "ततोरामोमहातेजाःसौमित्रिसहितोबली ।।6.100.13।।\nवानरांश्चरणेभग्नानापतन्तं च रावणम् ।\nसमीक्ष्यराघवोहृष्टोमध्येजग्राहकार्मुकम् ।।6.100.14।।",
+      "transliteration": "",
+      "translation": "Then the highly brilliant, mighty Raghava along with Saumithri, witnessing the Vanaras routed in war and Ravana coming towards him. joyful Rama took hold of his bow and held in the midst.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "विस्फारयितुमारेभेततः स धनुरुत्तमम् ।\nमहावेगंमहानादंनिर्भन्दन्निवमेदिनीम् ।।6.100.15।।",
+      "transliteration": "",
+      "translation": "Then he began to stretch his best bow endowed with an impelling force, sounding as if breaking the earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "रावणस्य च बाणौघैरामविस्फारितेन च ।\nशब्देनराक्षसास्तेन पेतुश्च शतशस्तदा ।।6.100.16।।",
+      "transliteration": "",
+      "translation": "Then by Ravana's shafts and Sri Rama's stretching of the bow and sound of twang, Rakshasas fell in hundreds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तयोःशरपथंप्राप्यरावणोराजपुत्रयोः ।\nस बभौ च यथाराहुःसमीपशशिसूर्ययोः ।।6.100.17।।",
+      "transliteration": "",
+      "translation": "That way when the two princes came near the range of Ravana's arrows, it was like the Sun and the moon near planet Rahu.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तमिच्छन् प्रधमम् योद्धुंलक्ष्मण��निशितैःशरैः ।\nमुमोचधनुरायम्यशरानग्निशिखोपमान् ।।6.100.18।।",
+      "transliteration": "",
+      "translation": "Lakshmana desiring to fight first stretched his bow and took out his sharp arrows which were like peaks of fire and released.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तान्मुक्तमात्रानाकाशे लक्ष्मणेन धनुष्मता ।\nबाणान् बाणैर्महातेजा रावणः प्रत्यवारयत् ।।6.100.19।।",
+      "transliteration": "",
+      "translation": "As soon as the excellent archer, Lakshmana released his arrows, effulgent Ravana intercepted the arrows in the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "एकमेकेनबाणेनत्रिभिस्त्रीन् दशभिर्दश ।\nलक्ष्मणस्य प्रचिच्छेद दर्शयन् पाणिलाघवम् ।।6.100.20।।",
+      "transliteration": "",
+      "translation": "Exhibiting his skill by hand, he split the arrows of Lakshmana with only one arrow, three with three and ten with ten.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अभ्यतिक्रम्यसौमित्रिंरावणःसमितिञ्जयः ।\nआससादरणेरामंस्थितंशैलमिवापरम् ।।6.100.21।।",
+      "transliteration": "",
+      "translation": "Ravana, who won many battles, overlooking Lakshmana went towards Rama standing like a rock in the battle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "स राघवंसमासाद्यक्रोधसंरक्तलोचनः ।\nव्यसृजच्छरवर्षाणिरावणो राक्षसेश्वरः ।।6.100.22।।",
+      "transliteration": "",
+      "translation": "Ravana the king of Rakshasas coming near Raghava with angry looks in his eyes, showered rain of arrows at Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "शराधारास्ततोरामोरावणस्यधनुश्च्युताः ।\nदृष्टवैवापतिताःशीघ्रंभल्लान् जग्राहसत्वरम् ।।6.100.23।।",
+      "transliteration": "",
+      "translation": "Then Rama immediately seized hold of bhallas and released swiftly seeing Ravana's volley of arrows flowing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तान् शरौघांस्ततोभल्लैस्तीक्ष्णैश्चिच्छेदराघवः ।\nदीप्यमानान् महाघोरान्क्रुद्धानाशीविषानिव ।।6.100.24।।",
+      "transliteration": "",
+      "translation": "Thereafter, Raghava with glowing terrific arrows, which were like poisonous serpents split the sharp streams of arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "राघवोरावणंतूर्णंरावणोराघवंतथा ।\nअन्योन्यंविविधैस्तीक्ष्णैःशरवर्षैर्ववर्षतुः ।।6.100.25।।",
+      "transliteration": "",
+      "translation": "Thus, Raghava on Ravana and Ravana on Raghava, in that manner sharp arrows showered on one another.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "चेरतुश्चचिरंचित्रंमण्डलंसव्यदक्षिणम् ।\nबाणवेगात्समुत्क्षिप्तावन्योन्यमपराजितौ ।।6.100.26।।",
+      "transliteration": "",
+      "translation": "Each of them pushing one another by the speed of the arrows, went round in circles and created wonderful rounds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तयोर्भूतानिवित्रेसुर्युगपत्सम्प्रयुध्यतोः ।\nरौद्रयोःसायकमुचोर्यमान्तकनिकाशयोः ।।6.100.27।।",
+      "transliteration": "",
+      "translation": "Just as created beings fight at the end of the dissolution of the universe, like God of death and God of retribution, both were fighting discharging arrows which was frightening to all beings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "सततंविविधैर्बाणैर्बभूवगगनंतदा ।\nघनैरिवातपापायेविद्युन्मालाससमाकुलैः ।।6.100.28।।",
+      "transliteration": "",
+      "translation": "Then the sky overcast with arrows of different kinds seemed like clouds with flashes of lightning.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "गवाक्षितमिवाकाशंबभूवशरवृष्टिभिः ।\nमहावेगैस्सुतीक्ष्ण��ग्रैर्गृध्रपत्रैःसुवाजितैः ।।6.100.29।।",
+      "transliteration": "",
+      "translation": "By the speed of the arrows with sharp heads, with plumes of eagles, the shower of extremely pointed arrows covering the sky made it dark and seemed like windows in the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "शरान्धकारमाकाशंचक्रतुःप्रथमंतदा ।\nगतेऽस्तं तपने चापि महामेघाविवोथतितौ ।।6.100.30।।",
+      "transliteration": "",
+      "translation": "Then the sky covered with darkness of arrows was like two huge clouds rising even though the Sun had set.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "तयोरभून्महद्युद्धमन्योन्यवथकाङ्क्षिणोः ।\nअनासाद्यमच्नित्यं च वृत्रवासवयोरिव ।।6.100.31।।",
+      "transliteration": "",
+      "translation": "Each of them desiring to end the other, fought a terrific battle like Vrtra and Indra earlier, a great fight unimaginable for others.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "उभौहिपरमेष्वासावुभौयुद्धविशारदौ ।\nउभावस्त्रविदां मुख्यावुभौ युद्धेविचेरतुः ।।6.100.32।।",
+      "transliteration": "",
+      "translation": "Both Rama and Ravana were armed with excellent bows, both highly skilled in war, both adept in the use of missiles, both were foremost in fighting and were unmoved.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "उभौहियेनव्रजतस्तेनतेनशरोर्मयः ।\nऊर्मयोवायुनाविद्धा जग्मुः सागरयोरिव ।।6.100.33।।",
+      "transliteration": "",
+      "translation": "Whichever course they took, by those streams of arrows were seen like waves in two oceans stirred up by the wind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "ततःसंसक्तहस्तस्तुरावणोलोकरावणः ।\nनराचमालांरामस्यललाटेप्रत्यमुञ्चत ।।6.100.34।।",
+      "transliteration": "",
+      "translation": "Then Ravana, who made the people cry, whose hands were engaged in the fight, discharged a row of steel arrows into Rama's forehead.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "रौद्रचापप्रयुक्तांतांनीलोत्पलदलप्रभाम् ।\nशिरसाधारयद्रामो न व्यथमभ्यपद्यत ।।6.100.35।।",
+      "transliteration": "",
+      "translation": "Rama, into whose forehead Ravana had stuck arrows, felt them like blue lotuses released from his bow, and did not experience any pain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "अथमन्त्रानभिजपन्रौद्रमस्तमुदीरयन् ।\nशरान् भूयःसमादाय रामः क्रोधसमन्वितः ।।6.100.36।।\nमुमोच च महातेजाश्चापमायम्यवीर्यवान् ।",
+      "transliteration": "",
+      "translation": "Then valiant and bright Rama, enraged, chanting the mantras of missiles presided over by Rudra (God of destruction) taking many more arrows, stretching the bow, and fixing discharged arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "तेमहामेघसङ्काशेकवचेपतिताःशराः ।।6.100.37।।\nअवध्येराक्षसेन्द्रस्य न व्यथांजनयंस्तदा ।",
+      "transliteration": "",
+      "translation": "Fallen on the impenetrable shield of Ravana, those arrows did not inflict any pain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "पुनरेवाधतंरामोरथस्थंराक्षसाधिपम् ।।6.100.38।।\nललाटेपरमास्त्रणसर्वास्त्रकुशलोऽभिनत् ।",
+      "transliteration": "",
+      "translation": "Again Rama, who was skilled in the use of all weapons, pierced that king of Rakshasas seated in the chariot with an excellent missile on the forehead.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "तेभित्त्वाबाणरूपाणिपञ्चशीर्षाइवोरगाः ।।6.100.39।।\nश्वसन्तोविविशुर्भूमिंरावणप्रतिकूलिताः ।",
+      "transliteration": "",
+      "translation": "The five headed serpent like arrows released by Rama penetrated and having been repelled by Ravana they entered the earth hissing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "निहत्यराघवस्यास्त्रंरावणःक्रोधमूर्छितः ।।6.100.40।।\nअसुरंसुमहाघोरमन्यदस्त्रं चकारसः ।",
+      "transliteration": "",
+      "translation": "Making Rama's missile void, Ravana manifested another missile presided over by demon and released.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "सिंहव्याघ्रमुखांश्चापिकङ्ककाकमुखानपि ।।6.100.41।।\nगृध्रश्येनमुखांश्चापिशृगाववदनांस्तथा ।\nईहामृगमुखांश्चापिव्यादितास्यान् भयावहान् ।।6.100.42।।\nपञ्चास्यान् लेलिहानांश्चससर्जनिशितान् शरान् ।",
+      "transliteration": "",
+      "translation": "Arrows having lion and tiger face, buzzards and red geese face, eagles and falcons faced, in the same way arrows with jackals' face, wolves' face, terrible with mouth wide open five headed serpent like fearful sharp arrows were released by Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "शरान् खरमुखांश्चान्यान्वराहमुखसंश्रितान् ।।6.100.43।।\nश्वानकुक्कुटवक्त्रांश्चमकराशीविषाननान् ।\nएतांश्चान्यांश्चमायावीससर्जनिशितान् शरान् ।।6.100.44।।\nरामंप्रतिमहातेजाःक्रुद्धस्सर्पइवश्वसन् ।",
+      "transliteration": "",
+      "translation": "Deceitful and energetic Ravana provoked by anger, let loose more arrows of boar faced, dog faced, cocks faced, and alligators and serpents faced hissing like serpents and other such arrows against Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "असुरेणसमाविष्टंसोऽस्त्रणरघुपुङ्गवः ।।6.100.45।।\nससर्जास्त्रं महोत्साहः पावकः पावकोपमः ।",
+      "transliteration": "",
+      "translation": "In that way facing the demonic missiles, the leader of Raghus, overwhelmed, very enthusiastic, released missiles presided over by God of fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "अग्निदीप्तमुखान्बाणांस्तत्रसूर्यमुखानपि ।।6.100.46।।\nचन्द्रार्धचन्द्रवक्रांश्चधूमकेतुमुखानपि ।\nग्रहनक्षत्रवर्णांश्चमहोल्कामुखसंस्थितान् ।।6.100.47।।\nविद्युजजिह्वोपमांश्चापिससर्ज विविधान् शरान् ।",
+      "transliteration": "",
+      "translation": "There Rama produced missiles glowing like fire, like Sun 's face, like moon's face, crescent moon face, face like Dhumakethu, missiles like planets, and star faced, with fire sticks like face resembling flashes and lightning and several others and let loose.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "तेरावणशराघोराराघवास्त्रसमाहताः ।।6.100.48।।\nविलयं जग्मुराकाशे जग्मुश्चैव सहस्रशः ।",
+      "transliteration": "",
+      "translation": "Struck by Raghava's missiles, the terrific missiles of Ravana melted in the air and split into thousands of pieces.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "तदस्त्रंनिहतंदृष्टवारामेणाक्लिष्टकर्मणा ।।6.100.49।।\nहृष्टानेदुस्ततःसर्वेकपयःकामरूपिणः ।\nसुग्रीवप्रमुखावीराःसम्परिक्षिप्यराघवम् ।।6.100.50।।",
+      "transliteration": "",
+      "translation": "Sugriva and other leaders, heroes who can change form at their will and all monkeys rejoiced.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-100-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "ततस्तदस्त्रंविनिहत्यराघवःप्रसह्यतद्रावणबाहुनिःसृतम् ।\nमुदान्वितोदाशरथिर्महात्माविनेदुरुच्चैर्मुदिताःकपीश्वराः ।।6.100.51।।",
+      "transliteration": "",
+      "translation": "The great soul Dasarathi encountered the missiles released by Ravana rendering them void. Sugriva the Lord of monkeys overpowered by happiness spoke as follows. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेशततमस्सर्गः ।। This is the end of the hundredth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 103,
+    "title": "Wailing of all mothers on seeing Rama offering libations to his father in Mandakini.",
+    "titleSanskrit": "",
+    "totalShlokas": 31
+  },
+  "shlokas": [
+    {
+      "id": "v2-103-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "वसिष्ठः पुरतः कृत्वा दारान्दशरथस्य च।\nअभिचक्राम तं देशं रामदर्शनतर्षितः।।2.103.1।।",
+      "transliteration": "",
+      "translation": "Longing to see Rama, Vasistha, headed by the wives of Dasaratha, set out on foot  (where Rama was offering libations).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-103-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "राजपत्न्यश्च गच्छन्त्यो मन्दं मन्दाकिनीं प्रति।\nददृशु स्तत्र तत् तीर्थं रामलक्ष्मणसेवितम्।।2.103.2।।",
+      "transliteration": "",
+      "translation": "The wives of the king while proceeding slowly towards the river Mandakini beheld the bathing place frequented by Rama and Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-103-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "कौसल्या बाष्पपूर्णेन मुखेन परिशुष्यता।\nसुमित्रामब्रवीद्दीना याश्चान्या राजयोषितः।।2.103.3।।",
+      "transliteration": "",
+      "translation": "Kausalya, with eyes filled with tears and her face emaciated, addressing Sumitra and  the other wives of the king sadly said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-103-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "इदं तेषामनाथानां क्लिष्टमक्लिष्टकर्मणाम्।\nवने प्राक्कलनं तीर्थं ये ते निर्विषयीकृताः।।2.103.4।।",
+      "transliteration": "",
+      "translation": "This is a sacred place to the east of the forest used by the unfortunate Rama, and Lakshmana of untiring energy and Sita expelled from the country and undergoing suffering.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-103-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "इत स्सुमित्रे पुत्रस्ते सदा जलमतन्द्रितः।\nस्वयं हरति सौमित्रिर्मम पुत्रस्य कारणात्।।2.103.5।।",
+      "transliteration": "",
+      "translation": "O Sumitra, your son Lakshmana, free from laziness, always carries water from here for the sake of my son.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-103-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "जघन्यमपि ते पुत्रः कृतवान् न तु गर्हितः।\nभ्रातुर्यदर्थरहितं सर्वं तद् गर्हितंं गुणैः।।2.103.6।।",
+      "transliteration": "",
+      "translation": "Your son, though engaged in servile tasks (like bringing water), is not to be held contemptible because all the services intended for the benefit of his brother are  prompted by virtue.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-103-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "अद्यायमपि ते पुत्रः क्लेशानामतथोचितः।\nनीचानर्थ समाचारं सज्जं कर्म प्रमुञ्चतु।।2.103.7।।",
+      "transliteration": "",
+      "translation": "This your son unaccustomed to, and undeserving of, any suffering may now give up this mean and distressing duty entrusted to him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-103-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "दक्षिणाग्रेषु दर्भेषु सा ददर्श महीतले।\nपितुरिङ्गुदिपिण्याकं न्यस्तमायतलोचना।।2.103.8।।",
+      "transliteration": "",
+      "translation": "That largeeyed Kausalya beheld the cakes of ingudi pulp placed by Rama for his father on a spread of darbha grass whose blades pointed toward the south.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-103-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तं भूमौ पितुरार्तेन न्यस्तं रामेण वीक्ष्य सा।\nउवाच देवी कौसल्या सर्वा दशरथस्त्रियः।।2.103.9।।",
+      "transliteration": "",
+      "translation": "Seeing the pinda (edible offering made to the departed soul) placed on the ground for his father by the distressed Rama, queen Kausalya, addressing all the wives of Dasaratha, said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-103-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "इदमिक्ष्वाकुनाथस्य राघवस्य महात्मनः।\nराघवेण पितुर्दत्तं पश्यतैतद्यथाविधि।।2.103.10।।",
+      "transliteration": "",
+      "translation": "Have darsan of this pinda offered by Rama according to tradition to his magnanimous father, Dasaratha, lord of the Ikshvaku race.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-103-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तस्य देवसमानस्य पार्थिवस्य महात्मनः।\nनैतदौपयिकं मन्ये भुक्तभोगस्य भोजनम्।।2.103.11।।",
+      "transliteration": "",
+      "translation": "I do not think that this is an appropriate food for that godlike and great lord of the earth who enjoyed all luxury.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-103-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "चतुरन्तां महीं भुक्त्वा महेन्द्रसदृशो विभुः।\nकथमिङ्गुदिपिण्याकं स भुक्ते वसुधाधिपः।।2.103.12।।",
+      "transliteration": "",
+      "translation": "How can Indralike Dasaratha, having ruled the earth bounded by four oceans, eat a cake of ingudi pulp?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-103-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "अतो दुःखतरं लोके न किञ्चित्प्रतिभाति मा।\nयत्र रामः पितुर्दद्यादिङ्गुदिक्षोदमृद्धिमान्।।2.103.13।।",
+      "transliteration": "",
+      "translation": "Rama (who was once) highly prosperous, had to offer the cake of ingudi pulp to his father. Nothing appears more painful to me than this in this world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-103-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "रामेणेङ्गुदिपिण्याकं पितुर्दत्तं समीक्ष्य मे।\nकथं दुःखेन हृदयं न स्फोटति सहस्रधा।।2.103.14।।",
+      "transliteration": "",
+      "translation": "Seeing the offering of cake of ingudi pulp by Rama to his father, how is it that my heart does not break into a thousand pieces in sorrow?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-103-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "श्रुतिस्तु खल्वियं सत्या लौकिकी प्रतिभाति मा।\nयदन्नः पुरुषो भवति तदन्नास्तस्य देवताः।।2.103.15।।",
+      "transliteration": "",
+      "translation": "The wellknown saying in this world is that 'whatever food a man partakes, his gods also partake the same'. This dictum appears true (now).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-103-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "एवमार्तां सपत्न्यस्ता जग्मुराश्वास्य तां तदा।\nददृशुश्चाश्रमे रामं स्वर्गच्युतमिवामरम्।।2.103.16।।",
+      "transliteration": "",
+      "translation": "The cowives, having thus consoled the distressed Kausalya, went to the hermitage. There they beheld Rama who looked like a god dislodged from heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-103-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "सर्वभोगैः परित्यक्तं रामं सम्प्रेक्ष्य मातरः।\nआर्ता मुमुचुरश्रूणि सस्वरं शोककर्शिताः।।2.103.17।।",
+      "transliteration": "",
+      "translation": "Beholding Rama devoid of all luxury, his mothers afflicted with grief, and overcome with sorrow, cried aloud, tears streaming down.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-103-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तासां रामस्समुत्थाय जग्राह चरणान् शुभान्।\nमात्रूणां मनुजव्याघ्रस्सर्वासां सत्यसङ्गरः।।2.103.18।।",
+      "transliteration": "",
+      "translation": "Rama, the best among men and true to his promise, rose and touched the auspicious feet of all his mothers (in reverence).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-103-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "ताः पाणिभि स्सुखस्पर्शैर्मृद्वङ्गुलितलै श्शुभैः।\nप्रममार्जू रजः पृष्ठाद्रामस्यायत��ोचनाः।।2.103.19।।",
+      "transliteration": "",
+      "translation": "Those largeeyed queens, their palms with delicate fingers and with auspicious hands with a pleasant touch, wiped the dust from the back of his body.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-103-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "सौमित्रिरपि ता स्सर्वा मातृ़स्सम्प्रेक्ष्य दुःखितः।\nअभ्यवादयतासक्तं शनै रामादनन्तरम्।।2.103.20।।",
+      "transliteration": "",
+      "translation": "On seeing his mothers, Lakshmana, too, was overcome with grief and with devotion followed Rama and slowly bowed to them with reverence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-103-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "यथा रामे तथा तस्मिन्सर्वा ववृतिरे स्त्रियः।\nवृत्तिं दशरथाज्जाते लक्ष्मणे शुभलक्षणे।।2.103.21।।",
+      "transliteration": "",
+      "translation": "All the queens treated Lakshmana, born of Dasaratha and endowed with auspicious qualities, with the same love as they did to Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-103-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "सीताऽपि चरणांस्तासामुपसङ्गृह्य दुःखिता।\nश्वश्रूणामश्रुपूर्णाक्षी सा बभूवाग्रतः स्थिता।।2.103.22।।",
+      "transliteration": "",
+      "translation": "Sita, too, overcome with grief, grasped the feet of her mothersinlaw and stood before them, her eyes full of tears.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-103-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तां परिष्वज्य दुःखार्तां माता दुहितरं यथा।\nवनवासकृशां दीनां कौसल्या वाक्यमब्रवीत्।।2.103.23।।",
+      "transliteration": "",
+      "translation": "Like a mother to her daughter, Kausalya embraced the wretched Sita, who was afflicted with sorrow, and emaciated due to her stay in the forest, and said to her:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-103-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "विदेहराजस्य सुता स्नुषा दशरथस्य च।\nरामपत्नी कथं दुःखं सम्प्राप्ता निर्जने वने।।2.103.24।।",
+      "transliteration": "",
+      "translation": "How is it that Sita, daughter of Janaka, king of Videha, daughterinlaw of Dasaratha and wife of Rama, has to undergo such hardships in the lonely forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-103-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "पद्ममातपसन्तप्तं परिक्लिष्टमिवोत्पलम्।\nकाञ्चनं रजसा ध्वस्तं क्लिष्टं चन्द्रमिवाम्बुदैः।।2.103.25।।\nमुखं ते प्रेक्ष्य मां शोको दहत्यग्निरिवाऽश्रयम्।\nभृशं मनसि वैदेहि व्यसनारणिसम्भवः।।2.103.26।।",
+      "transliteration": "",
+      "translation": "O Sita, after looking at your countenance, which is like a lotus, scorched by the sunshine, or like a withered waterlily or gold defiled by dust or the Moon obscured by the clouds, the fire of sorrow is burning my mind. The grief in my mind is like fire kindled from the arani (sacrificial faggots) that consumes its own souree. (On a circular wood piece, a wooden stick is placed and churned to produce fire specially in sacrifices is called arani.)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-103-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "ब्रुवन्त्यामेवमार्तायां जनन्यां भरताग्रजः।\nपादावासाद्य जग्राह वसिष्ठस्य च राघवः।।2.103.27।।",
+      "transliteration": "",
+      "translation": "While Rama's mother was uttering such words in anguish, Rama reached Vasistha and clasped his feet with reverence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-103-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "पुरोहितस्याग्निसमस्य वै तदा बृहस्पतेरिन्द्रमिवामराधिपः।\nप्रगृह्य पादौ सुसमृद्धतेजसस्सहैव तेनोपविवेश राघवः।।2.103.28।।",
+      "transliteration": "",
+      "translation": "Rama touched the feet of the family priest Vasistha, a man equivalent to effulgent fire like Indra, the lord of the gods, does to Brihaspati and sat down along with him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-103-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "ततो जघन्यं सहितै स्समन्त्रिभिः पुरप्रधानैश्च सहैव सैनिकैः।\nजनेन धर्मज्ञतमेन धर्मवानुपोपविष्टो भरत स्तदाऽग्रजम्।।2.103.29।।",
+      "transliteration": "",
+      "translation": "After Vasistha and Rama sat down, righteous Bharata sat close to his elder brother. Behind him sat his companions, leading citizens, soldiers and righteous men.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-103-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "उपोपविष्ट स्तु तदा स वीर्यवांस्तपस्विवेषेण समीक्ष्य राघवम्।\nश्रिया ज्वलन्तं भरतः कृताञ्जलिर्यथा महेन्द्रः प्रयतः प्रजापतिम्।।2.103.30।।",
+      "transliteration": "",
+      "translation": "Beholding Rama attired like an ascetic but radiant with a majestic glow, the extremely valiant Bharata sat near him with folded palms like the great Indra purified by religious austerities sits near Brahma, the creator.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-103-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "किमेष वाक्यं भरतोऽद्य राघवं प्रणम्य सत्कृत्य च साधु वक्ष्यति।\nइतीव तस्यार्यजनस्य तत्त्वतो बभूव कौतूहलमुत्तमं तदा।।2.103.31।।",
+      "transliteration": "",
+      "translation": "All noble people were truly filled with great curiosity as to what Bharata was going to speak, after paying his homage and honouring Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-103-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "स राघव स्सत्यधृति श्च लक्ष्मणो महानुभावो भरत श्च धार्मिकः।\nवृताः सुहृद्भि श्च विरेजुरध्वरे यथा सदस्यै स्सहितास्त्रयोऽग्नयः।।2.103.32।।",
+      "transliteration": "",
+      "translation": "Rama who was steadfast in truth, Lakshmana of great dignity and righteous Bharata surrounded by their friends were as resplendent as three sacrificial fires encircled by officiating priests. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे त्य्रुत्तरशततमस्सर्गः।। Thus ends the one hundredthird sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

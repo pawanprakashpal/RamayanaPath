@@ -1,0 +1,315 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 74,
+    "title": "Bharata reproaches his mother -- decides to restore the glory of Ayodhya -- vows to get back Rama",
+    "titleSanskrit": "",
+    "totalShlokas": 33
+  },
+  "shlokas": [
+    {
+      "id": "v2-74-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तां तथा गर्हयित्वा तु मातरं भरतस्तदा।\nरोषेण महताऽविष्टः पुनरेवाब्रवीद्वचः।।2.74.1।।",
+      "transliteration": "",
+      "translation": "Overtaken by great wrath, Bharata reproached his mother and then said to her again:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "राज्याद्भ्रंशस्व कैकेयि नृशंसे दुष्टचारिणि।\nपरित्यक्ता च धर्मेण मा मृतं रुदती भव।।2.74.2।।",
+      "transliteration": "",
+      "translation": "O cruel Kaikeyi of wicked conduct, you may be deprived of the kingdom. Abandoned by righteousness, you shall be weeping for me after my death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "किन्नु तेऽदूषयद्राजा रामो वा भृशधार्मिकः।\nययोर्मृत्युर्विवासश्च त्वत्कृते तुल्यमागतौ।।2.74.3।।",
+      "transliteration": "",
+      "translation": "Death for the king and exile for Rama, similar fate for both, have befallen on your account. What possible harm, either the king or the highly virtuous Rama has done to you?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "भ्रूणहत्यामसि प्राप्ता कुलस्यास्य विनाशनात्।\nकैकेयि नरकं गच्छ मा च भर्तु स्सलोकताम्।।2.74.4।।",
+      "transliteration": "",
+      "translation": "O Kaikeyi by destroying this race you have earned the demerit of killing an embryo and shall enter hell. You shall never attain the same state of living, in the  afterworld of your husband.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "यत्त्वया हीदृशं पापं कृतं घोरेण कर्मणा।\nसर्वलोकप्रियं हित्वा ममाप्यापादितं भयम्।।2.74.5।।",
+      "transliteration": "",
+      "translation": "That by doing this horrible deed you have committed a great sin of renouncing Rama, the beloved of all worlds. Therefore I am overtaken by fear.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "त्वत्कृते मे पिता वृत्तो रामश्चारण्यमाश्रितः।\nअयशो जीवलोके च त्वयाऽहं प्रतिपादितः।।2.74.6।।",
+      "transliteration": "",
+      "translation": "You have caused my father's death and Rama's exile. As for me, I have obtained ignominy in this world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "मातृरूपे ममामित्रे नृशंसे राज्यकामुके।\nन तेऽह मभिभाष्योऽस्मि दुर्वृत्ते पतिघातिनि।।2.74.7।।",
+      "transliteration": "",
+      "translation": "O cruel woman, O woman of vicious character you are an enemy assuming a mother's form, lustful for kingdom. You are a murderess (of your husband) and I shall never speak to you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "कौसल्या च सुमित्रा च याश्चान्या मम मातरः।\nदुःखेन महताऽविष्टास्त्वां प्राप्य कुलदूषिणीम्।।2.74.8।।",
+      "transliteration": "",
+      "translation": "As you have vitiated the race, my mothers Kausalya and Sumitra are overwhelmed with great sorrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "न त्वमश्वपतेः कन्या धर्मराजस्य धीमतः।\nराक्षसी तत्र जाताऽसि कुलप्रध्वंसिनी पितुः।।2.74.9।।\nयत्त्वया धार्मिको रामो नित्यं सत्यपरायणः।\nवनं प्रस्थापितो दुःखात्पिता च त्रिदिवं गतः।।2.74.10।।",
+      "transliteration": "",
+      "translation": "As you sent virtuous Rama, ever devoted to truth, into the forest, my father died out of grief (due to separation from his son). Therefore, you are not the true daughter of the righteous and sagacious king Aswapati but a demoness born there to destroy your father's race.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "यत्प्रधानाऽसि तत्पापं मयि पित्रा विनाकृते।\nभ्रातृभ्यां च परित्यक्ते सर्वलोकस्य चाप्रिये।।2.74.11।।",
+      "transliteration": "",
+      "translation": "The sin you have committed with a particular objective has affected me and (as a result) I am left without my father. I am abandoned by my brothers. I am hated by every one in this entire world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "कौसल्यां धर्मसंयुक्तां वियुक्तां पापनिश्चये।\nकृत्वा कं प्राप्स्यसे त्वद्य लोकं निरयगामिनि।।2.74.12।।",
+      "transliteration": "",
+      "translation": "O woman of sinful convictions you will go to hell. You have separated righteous Kausalya from her son. For having committed such a sin, what afterworld awaits you  (is not known)?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "किं नावबुध्यसे क्रूरे नियतं बन्धुसंश्रयम्।\nज्येष्ठं पितृसमं रामं कौसल्यायाऽत्मसम्भवम्।।2.74.13।।",
+      "transliteration": "",
+      "translation": "O cruel one why do you not realise that Rama, born of Kausalya, is the eldest son and equal to my father? He is selfrestrained and a refuge to his kith and kin.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "अङगप्रत्यङगजः पुत्रो हृदयाच्चापि जायते।\nतस्मात्प्रियतमो मातुः प्रिया एव तु बान्धवाः।।2.74.14।।",
+      "transliteration": "",
+      "translation": "A son born from every limb, big or small, and from the heart is the most beloved of all for his mother while the other relatives are only loving ones.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "अन्यदा किल धर्मज्ञा सुरभि स्सुरसम्मता।\nवहमानौ ददर्शोर्व्यां पुत्रौ विगतचेतसौ।।2.74.15।।",
+      "transliteration": "",
+      "translation": "It is said that once upon a time Surabhi, the divine cow, highly respected by the gods and conversant with righteous ways, beheld her two sons who fainted due to fatigue while carrying the burden of the ploughs.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तावर्धदिवसे श्रान्तौ दृष्ट्वा पुत्रौ महीतले।\nरुरोद पुत्रशोकेन बाष्पपर्याकुलेक्षणा।।2.74.16।।",
+      "transliteration": "",
+      "translation": "On seeing her two sons lying on earth exhausted, she wailed in distress for them with her eyes filled with tears.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अधस्ताद्व्रजतस्तस्याः सुरराज्ञो महात्मनः।\nबिन्दवः पतिता गात्रे सूक्ष्मा स्सुरभिगन्धिनः।।2.74.17।।",
+      "transliteration": "",
+      "translation": "The fine drops of her fragnant tears trickled down the body of the great king of the gods (Indra).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "इन्द्रोऽप्यश्रुनिपातं तं स्वगात्रे पुण्यगन्धिनम्।\nसुरभिं मन्यते दृष्ट्वा भूयसीं तां सुरेश्वरः।।2.74.18।।",
+      "transliteration": "",
+      "translation": "When Indra, lord of the gods, saw those tears of holy fragrance fallen on his body he understood that the tears were shed by the venerated Kamadhenu.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "निरीक्षमाण श्शक्रस्तां ददर्श सुरभिं स्थिताम्।\nआकाशे विष्ठितां दीनां ���ुदन्तीं भृशदुःखिताम्।।2.74.19।।",
+      "transliteration": "",
+      "translation": "While looking around Indra beheld Kamadhenu in intense pain stationed in the sky,   looking distressed and miserable, and wailing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तां दृष्ट्वा शोकसन्तप्तां वज्रपाणिर्यशस्विनीम्।\nइन्द्रः प्राञ्जलिरुद्विग्न स्सुरराजोऽब्रवीद्वचः।।2.74.20।।",
+      "transliteration": "",
+      "translation": "The king of the gods, Indra, wielder of thunderbolt, saw the renowned Kamadhenu consumed with grief. Alarmed, he said to her with palms joined in reverence:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "भयं कच्छिन्न चास्मासु कुतश्चिद्विद्यते महत्।\nकुतोनिमत्तश्शोकस्ते ब्रूहि सर्वहितैषिणि।।2.74.21।।",
+      "transliteration": "",
+      "translation": "'O holy cow fear not. You wish the welfare of all, Has any great calamity befallen us from any quarter? I hope not. What is the reason for your sorrow? Tell me'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "एवमुक्ता तु सुरभि स्सुरराजेन धीमता।\nप्रत्युवाच ततो धीरा वाक्यं वाक्यविशारदा।।2.74.22।।",
+      "transliteration": "",
+      "translation": "On hearing the sagacious Indra, king of the gods, Kamadhenu, proficient in speech, calmly replied:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "शान्तं पापं न वः किञ्चित्कुतश्चिदमराधिपः।\nअहं मग्नौ तु शोचामि स्वपुत्रौ विषमे स्थितौ।।2.74.23।।\nएतौ दृष्ट्वा कृशौ दीनौ सूर्यरश्मिप्रतापितौ।\nबाध्यमानौ बलीवर्धौ कर्षकेण सुराधिप।।2.74.24।।",
+      "transliteration": "",
+      "translation": "'God forbid, O Indra, lord of the Immortals no calamity has befallen you from any quarter. Only I am in trouble. I am weeping for these pair of bulls, my own sons who are in difficulty. When I see them scorched by the rays of the Sun, miserable, emaciated and weeping, beaten by a ploughman, I am immersed in grief'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "ममकायात्प्रसूतौ हि दुःखितौ भारपीडितौ।\nयौ दृष्ट्वा परितप्येऽहं नास्ति पुत्रसमः प्रियः।।2.74.25।।",
+      "transliteration": "",
+      "translation": "'These bulls were born from my body and they are oppressed by the burden. Having seen their anguish, I am extremely grieved. There is none so dear as a son'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "यस्याः पुत्रसहस्रैस्तु कृत्स्नं व्याप्तमिदं जगत्।\nतां दृष्ट्वा रुदतीं शक्रो न सुतान्मन्यते परम्।।2.74.26।।",
+      "transliteration": "",
+      "translation": "The wishfulfilling cow (Kamadhenu) had innumerable sons spread all over the world. When Indra saw that Kamadhenu too was weeping for her sons, he concluded 'there is no one greater than a son'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "सदाऽप्रतिमवृत्तायाः लोकधारणकाम्यया।\nश्रीमत्या गुणनित्याया स्स्वभावपरिचेष्टया।।2.74.27।।\nयस्याः पुत्रसहस्राणि साऽपि शोचति कामधुक्।\nकिं पुनर्या विना रामं कौसल्या वर्तयिष्यति।।2.74.28।।",
+      "transliteration": "",
+      "translation": "Wishing always to nourish the worlds Kamadhenu conducts herself with an unequalled character. In accordance with her nature, she has imbibed in herself eminent virtues. She is endowed with all prosperity. In spite of her thousand sons, she is weeping thus for her two bulls, what can one say of Kausalya separated from her only son Will she be her normal self again?'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "एकपुत्रा च साध्वी च विवत्सेयं त्वया कृता।\nतस्मात्त्वं सततं दुःखं प्रेत्य चेह च लप्स्यसे।।2.74.29।।",
+      "transliteration": "",
+      "translation": "This pious lady is blessed with only one son and (now) has been rendered childless by you. Therefore, you shall experience grief in this world and hereafter.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "अहं ह्यपचितिं भ्रातुः पितुश्च सकलामिमाम्।\nवर्धनं यशसश्चापि करिष्यामि न संशयः।।2.74.30।।",
+      "transliteration": "",
+      "translation": "As for me, I shall do whatever is necessary for the atonement of the improper conduct shown towards my father and brother and for enhancement of my fame. There is no doubt  about it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "अनाययित्वा तनयं कौसल्याया महाबलम्।\nस्वयमेव प्रवेक्ष्यामि वनं मुनिनिषेवितम्।।2.74.31।।",
+      "transliteration": "",
+      "translation": "If I fail to bring back the mighty son of Kausalya, I shall enter the forest frequented by ascetics.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "न ह्यहं पापसङ्कल्पे पापे पापं त्वया कृतम्।\nशक्तो धारयितुं पौरैरश्रुकण्ठै र्निरीक्षितः।।2.74.32।।",
+      "transliteration": "",
+      "translation": "O vicious one, O evilintentioned one being watched by the citizens with their throats choked with tears of grief, I cannot endure the burden of the sin committed by you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "सा त्वमग्निं प्रविश वा स्वयं वा दण्डकान्विश।\nरज्जुं बधान वा कण्ठे न हि तेऽन्यत्परायणम्।।2.74.33।।",
+      "transliteration": "",
+      "translation": "Jump into the fire or go to Dandaka forest or hang yourself. There is no other recourse for you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "अहमप्यवनीं प्राप्ते रामे सत्यपराक्रमे।\nकृतकृत्यो भविष्यामि विप्रवासितकल्मषः।।2.74.34।।",
+      "transliteration": "",
+      "translation": "When Rama who has truth as his prowess accepts the kingdom, I shall have accomplished my purpose at last and I shall be free from all blemishes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "इति नाग इवारण्ये तोमराङ्कुशचोदितः।\nपपात भुवि सङ्कृद्धो निश्श्वसन्निव पन्नगः।।2.74.35।।",
+      "transliteration": "",
+      "translation": "In this way like an elephant driven by prods and goads in the forest, highly enraged Bharata hissing like a serpent dropped down on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-74-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "संरक्तनेत्र श्शिथिलाम्भरस्तदा विधूतसर्वाभरणः परन्तपः।\nबभूव भूमौ पतितो नृपात्मजश्शचीपतेः केतुरिवोत्सवक्षये।।2.74.36।।",
+      "transliteration": "",
+      "translation": "Prince Bharata, the scorcher of enemies, with bloodshot eyes, raiment in disarray, ornaments tossed about lay fallen on the ground like the banner of Indra (husband of Sachi) at the close of the festival of flaghoisting.   इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे चतुस्सप्ततितमस्सर्गः।। Thus ends the seventyfourth sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

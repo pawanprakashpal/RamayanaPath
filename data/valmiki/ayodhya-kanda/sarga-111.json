@@ -1,0 +1,306 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 111,
+    "title": "Vasistha explains the value of conforming to righteousness -- pleads with Rama to grant the wishes of Bharata and respect  his request -- Rama declines.",
+    "titleSanskrit": "",
+    "totalShlokas": 32
+  },
+  "shlokas": [
+    {
+      "id": "v2-111-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "वसिष्ठस्तु तदा राममुक्त्वा राजपुरोहितः।\nअब्रवीद्धर्मसंयुक्तं पुनरेवापरं वचः।।2.111.1।।",
+      "transliteration": "",
+      "translation": "Vasistha, the family priest, continued to speak to Rama on righteousness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "पुरुषस्येह जातस्य भवन्ति गुरवस्त्रयः।\nआचार्यश्चैव काकुत्स्थ पिता माता च राघव।।2.111.2।।",
+      "transliteration": "",
+      "translation": "Every man born has three preceptors. They are his teacher, father and mother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "पिता ह्येवं जनयति पुरुषं पुरुषर्षभ।\nप्रज्ञां ददाति चाचार्यस्तस्मात्स गुरुरुच्यते।।2.111.3।।",
+      "transliteration": "",
+      "translation": "O best of men, the father brings forth a son. The teacher imparts him wisdom.  Therefore, the teacher is considered superior.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "सोऽहं ते पितुराचार्यस्तव चैव परन्तप।\nमम त्वं वचनं कुर्वन्नातिवर्तेस्सतां गतिम्।।2.111.4।।",
+      "transliteration": "",
+      "translation": "I was preceptor to your father and also to you. O destroyer of foes, by following my words, you will not transgress the path of the virtuous.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "इमा हि ते परिषद श्श्रेणयश्च द्विजास्तथा।\nएषु तात चरन्धर्मं नातिवर्ते: स‌तां गतिम्।।2.111.5।।",
+      "transliteration": "",
+      "translation": "All these learned men, guilds of merchants and the twiceborn (brahmins) of this assembly are your men. By fulfilling your duty towards them, you will never swerve \nfrom the path of the virtuous.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "वृद्धाया धर्मशीलाया मातुर्नार्हस्यवर्तितुम्।\nअस्या हि वचनं कुर्वन्नातिवर्तेस्सतां गतिम्।।2.111.6।।",
+      "transliteration": "",
+      "translation": "Here is your aged and righteous mother. It does not behove you to deny your service to her. By obeying her, you will never deviate from the path of the virtuous.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "भरतस्य वचः कुर्वन्याचमानस्य राघव।\nआत्मानं नातिवर्तेस्त्वं सत्यधर्मपराक्रम।।2.111.7।।",
+      "transliteration": "",
+      "translation": "O scion of the Raghus whose strength springs from truth and righteousness, if you accede to the prayers of Bharata, you will not ignore the call of your soul.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "एवं मधुरमुक्तस्सन् गुरुणा राघवस्स्वयम्।\nप्रत्युवाच समासीनं वसिष्ठं पुरुषर्षभः।।2.111.8।।",
+      "transliteration": "",
+      "translation": "When Rama, the best of men, was advised personally by Vasistha, the preceptor, with sweet words, he replied to him who was sitting beside him:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "यन्मातापितरौ वृत्तं तनये कुरुत: स‌दा।\nन सुप्रतिकरं तत् तु मात्रा पित्रा च यत्कृतम्।।2.111.9।।\nयथाशक्ति प्रदानेन स्वापनोच्छादनेन च।\nनित्यं च प्रियवादेन तथा संवर्धनेन च।।2.111.10।।",
+      "transliteration": "",
+      "translation": "The course of action the parents always adopt in respect of their son, the benefits they confer on him according to their resources, the way they lull him to sleep and clothe him, the affectionate words they always speak to him and the way they bring him up all these cannot be repaid.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "यन्मातापितरौ वृत्तं तनये कुरुतस्सदा।\nन सुप्रतिकरं तत्तु मात्रा पित्रा च यत्कृतम्।।2.111.9।।\nयथाशक्तिप्रदानेन स्वापनोच्छादनेन च।\nनित्यं च प्रियवादेन तथा संवर्धनेन च।।2.111.10।।",
+      "transliteration": "",
+      "translation": "The course of action the parents always adopt in respect of their son, the benefits they confer on him according to their resources, the way they lull him to sleep and clothe him, the affectionate words they always speak to him and the way they bring him up all these cannot be repaid.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "स हि राजा जनयिता पिता दशरथो मम।\nआज्ञातं यन्मया तस्य न तन्मिथ्या भविष्यति।।2.111.11।।",
+      "transliteration": "",
+      "translation": "King Dasaratha is my father who begot me. The promise I made him shall not prove false.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु रामेण भरतः प्रत्यनन्तरम्।\nउवाच परमोदारस्सूतं परमदुर्मनाः।।2.111.12।।",
+      "transliteration": "",
+      "translation": "Having been addressed by Rama in this way, Bharata of great generosity, in extreme distress, addressing the charioteer who was standing nearby said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "इह मे स्थण्डिले शीघ्रं कुशानास्तर सारथे।\nआर्यं प्रत्युपवेक्ष्यामि यावन्मे न प्रसीदति।।2.111.13।।",
+      "transliteration": "",
+      "translation": "O charioteer, quickly spread kusa grass on the bare ground. Until my esteemed brother shows his grace, I shall lie down here -- waiting.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "अनाहारो निरालोको धनहीनो यथा द्विजः।\nशेष्ये पुरस्ताच्छालाया यावन्न प्रतियास्यति।।2.111.14।।",
+      "transliteration": "",
+      "translation": "Like a poor brahmin, starving, my face muffled, I shall lie down in front of the hut until he agrees to return.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "स तु राममवेक्षन्तं सुमन्त्रं पेक्ष्य दुर्मनाः।\nकुशोत्तरमुपस्थाप्य भूमावेवाऽस्तरत्स्वयम्।।2.111.15।।",
+      "transliteration": "",
+      "translation": "Bharata was mentally disturbed saw Sumantra waiting for Rama's order. Then he himself brought a heap of kusa grass and spread it on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तमुवाच महातेजा रामो राजर्षिसत्तमः।\nकिं मां भरत कुर्वाणं तात प्रत्युपवेक्ष्यसि।।2.111.16।।",
+      "transliteration": "",
+      "translation": "Rama, the foremost of royal sages and highly powerful said, 'Dear Bharata, what wrong have I done that you should prevent me by lying down in front of me?'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "ब्राह्मणो ह्येकपार्श्वेन नरान्रोद्धुमिहार्हति।\nन तु मूर्धाभिषिक्तानां विधिः प्रत्युपवेशने।।2.111.17।।",
+      "transliteration": "",
+      "translation": "A brahmin alone is competent in this world to prevent a person by lying down on one side (in front of him). One who is anointed king is not permitted by (scriptural) tradition to squat in protest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "उत्तिष्ठ नरशार्दूल हित्वैतद्दारुणं व्रतम्।\nपुरवर्यामितः क्षिप्रमयोध्यां याहि राघव।।2.111.18।।",
+      "transliteration": "",
+      "translation": "O Bharata, O tiger among men, O scion of the Raghu race give up this formidable vow. Arise and quickly return to Ayodhya, the best of cities.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "आसीनस्त्वेव भरतः पौरजानपदं जनम्।\nउवाच सर्वतः प्रेक्ष्य किमार्यं नानुशासथ।।2.111.19।।",
+      "transliteration": "",
+      "translation": "While remaining seated, Bharata looking all around at the inhabitants from towns and  villages, questioned them 'why don't you all persuade my esteemed brother to return'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "ते तदोचुर्महात्मानं पौरजानपदा जनाः।\nकाकुत्स्थमभिजानीमः सम्यग् वदति राघवः।।2.111.20।।",
+      "transliteration": "",
+      "translation": "Those inhabitants from towns and villages replied to the magnanimous Bharata 'we  know the scion of the Kakutha dynasty, Rama, very well. What he has said is proper'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "एषोऽपि हि महाभागः पितुर्वचसि तिष्ठति।\nअत एव न शक्ताः स्मो व्यावर्तयितुमञ्जसा।।2.111.21।।",
+      "transliteration": "",
+      "translation": "Highly distinguished Rama is firmly fixed on the command of his father. That is why we are incapable of making him return quickly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तेषामाज्ञाय वचनं रामो वचनमब्रवीत्।\nएवं निबोध वचनं सुहृदां धर्मचक्षुषाम्।।2.111.22।।",
+      "transliteration": "",
+      "translation": "Having understood their words, Rama said to him, 'Listen to the words of our friends who have a righteous vision.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "एतच्चैवोभयं श्रुत्वा सम्यक्सम्पश्य राघव।\nउत्तिष्ठ त्वं महाबाहो मां च स्पृश तथोदकम्।।2.111.23।।",
+      "transliteration": "",
+      "translation": "O mightyarmed son of the Raghus, you have heard both (them and me). Carefully think over. Arise. Touch me and sip water.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "अथोत्थाय जलंस्पृष्ट्वा भरतो वाक्यमब्रवीत्।\nश्रुण्वन्तु मे परिषदो मन्त्रिण श्श्रेणयस्तथा।।2.111.24।।",
+      "transliteration": "",
+      "translation": "Then Bharata stood up and performed achamana (sipping of water) and said 'let the  assembly of  learned men, counsellors and guildsmen hear me'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "न याचे पितरं राज्यं नानुशासामि मातरम्।\nआर���यं परमधर्मज्ञं नानुजानामि राघवम्।।2.111.25।।",
+      "transliteration": "",
+      "translation": "I never asked my father to confer the kingdom on me. I never urged my mother to seek the kingdom for me. I never supported the exile of my esteemed brother Rama, who is supreme in the knowleldge of righteousness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "यदित्ववश्यं वस्तव्यं कर्तव्यं च पितुर्वचः।\nअहमेव निवत्स्यामि चतुर्दश समा वने।।2.111.26।।",
+      "transliteration": "",
+      "translation": "If it is absolutely essential to live in the forest in accordance with the command of my father, I myself  shall also dwell in the forest for fourteen years.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "धर्मात्मा तस्य तथ्येन भ्रातुर्वाक्येन विस्मितः।\nउवाच राम स्सम्प्रेक्ष्य पौरजानपदं जनम्।।2.111.27।।",
+      "transliteration": "",
+      "translation": "On hearing the genuine sentiments of his brother, righteous Rama was astonished. He said to the inhabitants from towns and villages:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "विक्रीतमाहितं क्रीतं यत्पित्रा जीवता मम।\nन तल्लोपयितुं शक्यं मया वा भरतेन वा।।2.111.28।।",
+      "transliteration": "",
+      "translation": "Neither Bharata nor I can in any way annul anything which was sold, pledged or bought by my father during his lifetime.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "उपधिर्न मया कार्यो वनवासे जुगुप्सितः।\nयुक्तमुक्तं च कैकेय्या पित्रा मे सुकृतं कृतम्।।2.111.29।।",
+      "transliteration": "",
+      "translation": "As far as living in the forest is concerned it is reprehensible to keep a subsitute for me and it shall not be done. Kaikeyi has acted rightfully and my father has taken the proper decision.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "जानामि भरतं क्षान्तं गुरुसत्कारकारिणम्।\nसर्वमेवात्र कल्याणं सत्यसन्धे महात्मनि।।2.111.30।।",
+      "transliteration": "",
+      "translation": "I know Bharata as a man of forbearance and one who honours elders. Everything will turn out well for this great soul wedded to truth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "अनेन धर्मशीलेन वनात्प्रत्यागतः पुनः।\nभ्रात्रा सह भविष्यामि पृथिव्याः पतिरुत्तमः।।2.111.31।।",
+      "transliteration": "",
+      "translation": "On returning from the forest, I shall become the supreme lord of this earth along with this virtuous brother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-111-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "वृतो हि राजा कैकेय्या मया तद्वचनं कृतम्।\nअनृतान्मोचयानेन पितरं तं महीपतिम्।।2.111.32।।",
+      "transliteration": "",
+      "translation": "The king (Dasaratha) was solicited by Kaikeyi and I shall abide. Therefore, you also release the lord of the earth, our father from the charge of falsehood.   इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे एकादशोत्तरशततमस्सर्गः।। Thus ends the hundredeleventh sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

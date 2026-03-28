@@ -1,0 +1,387 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 12,
+    "title": "Rama demonstrates his prowess in shooting -- Sugriva fails in the first combat with Vali -- Rama explains the difficulty in identifying Vali -- advises Sugriva to wear Gajapushpi creeper to help him identify -- once again Sugriva proceeds to encounter Vali",
+    "titleSanskrit": "",
+    "totalShlokas": 41
+  },
+  "shlokas": [
+    {
+      "id": "v4-12-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "एतच्च वचनं श्रुत्वा सुग्रीवेण सुभाषितम्।\nप्रत्ययार्थं महातेजा रामो जग्राह कार्मुकम्4.12.1।।",
+      "transliteration": "",
+      "translation": "Having heard Sugriva's pleasing words, the brilliant Rama took up the bow in order to inspire confidence in Sugriva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "स गृहीत्वा धनुर्घोरं शरमेकं च मानदः।\nसालमुद्दिश्य चिक्षेप ज्यास्वनैः पूरयन्दिशः। 4.12.2।।",
+      "transliteration": "",
+      "translation": "Rama, subduer of the enemy's pride, strung his terrific bow, produced the twang that filled all directions, and discharged a single arrow aimed at the sala tree.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "स विसृष्टो बलवता बाणस्स्वर्णपरिष्कृतः।\nभित्त्वा सालान् गिरिप्रस्थं सप्त भूमिं विवेश ह4.12.3।।",
+      "transliteration": "",
+      "translation": "Released with great force, Rama's arrow embellished with gold pierced through the seven sala trees and splitting the mountain terrain entered the earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "प्रविष्टश्च मुहूर्तेन धरां भित्त्वा महाजवः।\nनिष्पत्य च पुनस्तूर्णं स्वतूणीं प्रविवेश ह4.12.4।।",
+      "transliteration": "",
+      "translation": "In a moment the arrow emerged from the earth which it pierced and reentered the quiver with great speed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तान्दृष्ट्वा सप्त निर्भिन्नान्सालान्वानरपुङ्गवः।\nरामस्य शरवेगेन विस्मयं परमं गतः4.12.5।।",
+      "transliteration": "",
+      "translation": "The chief of the monkeys was struck with wonder seeing Rama's arrow piercing through  the seven sala trees so swiftly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "स मूर्ध्ना न्यपतदभ्मौ प्रलम्बीकृतभूषणः।\nसुग्रीवः परमप्रीतो राघवाय कृताञ्जलिः4.12.6।।",
+      "transliteration": "",
+      "translation": "Sugriva was immensely happy and offered obeisance to Rama with folded hands and bowed down and prostrated while his ornaments touched the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "इदं चोवाच धर्मज्ञं कर्मणा तेन हर्षितः।\nरामं सर्वास्त्रविदुषां श्रेष्ठं शूरमवस्थितम्4.12.7।।",
+      "transliteration": "",
+      "translation": "Sugriva who stood by, elated to watch the deed of Rama, best among the valiant, proficient in the use of arms of all kinds and knower of dharma, said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "सेन्द्रानपि सुरान्सर्वांस्त्वं बाणैः पुरुषर्षभ।\nसमर्थस्समरे हन्तुं किं पुन र्वालिनं प्रभो 4.12.8।।",
+      "transliteration": "",
+      "translation": "'O bull among men, O lord, you are capable of killing with your arrows even the gods including Indra in the battle, what to speak of Vali.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "येन सप्तमहासाला गिरिर्भूमिश्च दारिताः।\nबाणेनैकेन काकुत्स्थ स्थाता ते को रणाग्रतः4.12.9।।",
+      "transliteration": "",
+      "translation": "'O Rama who can in a battle confront you, capable of splitting seven huge sala trees, the mountain and the earth with a single arrow?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अद्य म��� विगतश्शोकः प्रीतिरद्य परा मम।\nसुहृदं त्वां समासाद्य महेन्द्रवरुणोपमम्4.12.10।।",
+      "transliteration": "",
+      "translation": "'Having found a friend in you comparable to Indra and Varuna, my grief is gone and I am so happy now.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तमद्यैव प्रियार्थं मे वैरिणं भ्रातृरूपिणम्।\nवालिनं जहि काकुत्स्थ मया बद्धोऽयमञ्जलिः4.12.11।।",
+      "transliteration": "",
+      "translation": "'O Rama, for my pleasure kill Vali who is, to me, an enemy in the guise of a brother. I fold my hands to you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "ततो रामः परिष्वज्य सुग्रीवं प्रियदर्शनम्।\nप्रत्युवाच महाप्राज्ञो लक्ष्मणानुगतं वचः4.12.12।।",
+      "transliteration": "",
+      "translation": "Then wise Rama embraced handsome Sugriva and replied in these words which were agreeable to Lakshmana:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "अस्माद्गच्छेम किष्किन्धां क्षिप्रं गच्छ त्वमग्रतः।\nगत्वा चाह्वय सुग्रीव वालिनं भ्रातृगन्धिनम्4.12.13।।",
+      "transliteration": "",
+      "translation": "'O Sugriva, get ready at once. We will promptly proceed to Kishkinda from here. Go ahead and challenge Vali, your brother only in name, to a combat.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "सर्वे ते त्वरितं गत्वा किष्किन्धां वालिनः पुरीम्।\nवृक्षैरात्मानमावृत्य व्यतिष्ठन्गहने वने4.12.14।।",
+      "transliteration": "",
+      "translation": "Thay all rushed to Kishkinda, the capital of Vali and waited in the thick forest behind the trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "सुग्रीवो व्यनदद्घोरं वालिनोऽऽह्वानकारणात्।\nगाढं परिहितो वेगान्नादैर्भिन्दन्निवाम्बरम्4.12.15।।",
+      "transliteration": "",
+      "translation": "Sugriva tightened up his waist cloth hurriedly and roared terrifically as though piercing the sky. And screamed  for Vali.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तं श्रुत्वा निनदं भ्रातुः क्रुद्धो वाली महाबलः।\nनिश्चक्राम सुसंरब्धो भास्करोऽस्ततटादिव4.12.16।।",
+      "transliteration": "",
+      "translation": "On hearing his brother roaring, powerful Vali was enraged and rushed like the Sun from behind the western shore of the ocean (this simile suggests the downfall of Vali).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "ततस्सुतुमुलं युद्धं वालिसुग्रीवयोरभूत���।\nगगने ग्रहयोर्घोरं बुधाङ्गारकयोरिव4.12.17।।",
+      "transliteration": "",
+      "translation": "Then a tumultuous combat took place between Vali and Sugriva who looked like the planets Mercury and Mars.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तलैरशनिकल्पैश्च वज्रकल्पैश्च मुष्टिभिः।\nजघ्नतुस्समरेऽन्योन्यं भ्रातरौ क्रोधमूर्छितौ4.12.18।।",
+      "transliteration": "",
+      "translation": "The brothers, insensate with fury, struck each other like thunder with their palms, soles  and fists in the combat.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "ततो रामो धनुष्पाणिस्तावुभौ समुदीक्ष्यतु।\nअन्योन्यसदृशौ वीरावुभौ देवाविवाश्विनौ4.12.19।।",
+      "transliteration": "",
+      "translation": "Bow in hand, Rama watched both the heroes who resembled the twin Aswini Kumaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "यन्नावगच्छत्सुग्रीवं वालिनं वापि राघवः।\nततो न कृतवान्बुद्धिं मोक्तुमन्तकरं शरम्4.12.20।।",
+      "transliteration": "",
+      "translation": "Since Rama was not able to distinguish between Vali and Sugriva, he could not decide whether he should discharge his deadly arrow .",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "एतस्मिन्नन्तरे भग्नस्सुग्रीवस्तेन वालिना।\nअपश्यन्राघवं नाथमृश्यमूकं प्रदुद्रुवे4.12.21।।",
+      "transliteration": "",
+      "translation": "Discomfited  by Vali, and not seeing Rama around, Sugriva ran towards Rishyamuka mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "क्लान्तो रुधिरसिक्ताङ्गः प्रहारैर्जर्झरीकृतः।\nवालिनाऽभिद्रुतः क्रोधात्प्रविवेश महावनम्4.12.22।।",
+      "transliteration": "",
+      "translation": "Exhausted, disfigured and body mauled and drenched in blood all over, Sugriva, chased by the infuriated Vali, entered the region of  great sage Matanga.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तं प्रविष्टं वनं दृष्ट्वा वाली शापभयार्दितः।\nमुक्तो ह्यसि त्वमित्युक्त्वा स निवृत्तो महाद्युतिः4.12.23।।",
+      "transliteration": "",
+      "translation": "Effulgent Vali saw Sugriva entering the (prohibited) grove and turned back due to the fear of the curse (of sage Matanga) saying, 'You have escaped'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "राघवोऽसि सह भ्रात्रा सह चैव हनूमता।\nतदेव वनमागच्छत्सुग्रीवो यत्र वानरः4.12.24।।",
+      "transliteration": "",
+      "translation": "Rama together with Lakshmana and Hanuman also arrived at the same gave where  Sugriva was.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तं समीक्ष्यागतं रामं सुग्रीवस्सहलक्ष्मणम्।\nह्रीमान्दीनमुवाचेदं वसुधामवलोकयन्4.12.25।।",
+      "transliteration": "",
+      "translation": "At the sight of Rama accompanied by Lakshmana, Sugriva felt ashmed and aggrieved, and looking down on the ground, said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "आह्वयस्वेति मामुक्त्वा दर्शयित्वा च विक्रमम्।\nवैरिणा घातयित्वा च किमिदानीं त्वया कृतम्4.12.26।।",
+      "transliteration": "",
+      "translation": "'You demonstrated your prowess and directed me to challenge Vali and then why did you make the enemy hit me thus?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "तामेन वेलां वक्तव्यं त्वया राघव तत्त्वतः।\nवालिनं न निहन्मीति ततो नाहमितो व्रजे4.12.27।।",
+      "transliteration": "",
+      "translation": "'Had you, in fact, told me that you were not going to kill Vali, I would not have budged from this place.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "तस्य चैवं ब्रुवाणस्य सुग्रीवस्य महात्मनः।\nकरुणं दीनया वाचा ���ाघवः पुनरब्रवीत्4.12.28।।",
+      "transliteration": "",
+      "translation": "On hearing the great Sugriva's miserable and moving words, Rama again said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "सुग्रीव श्रूयातां तात क्रोधश्च व्यपनीयताम्।\nकारणं येन बाणोऽयं न मया स विसर्जितः4.12.29।।",
+      "transliteration": "",
+      "translation": "'O dear Sugriva dispel your anger and listen to me why I had not released the arrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "अलङ्कारेण वेषेण प्रमाणेन गतेन च।\nत्वं च सुग्रीव वाली च सदृशौ स्थः परस्परम्4.12.30।।",
+      "transliteration": "",
+      "translation": "'O Sugriva in form, ornaments and movements there is perfect resemblance between you and Vali.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "स्वरेण वर्चसा चैव प्रेक्षितेन च वानर।\nविक्रमेण च वाक्यैश्च व्यक्तिं वां नोपलक्षये4.12.31।।",
+      "transliteration": "",
+      "translation": "'O monkey in your voice, in brightness, in looks, in valour or in words I have marked no difference between you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "ततोऽहं रूपसादृश्यान्मोहितो वानरोत्तम।\nनोत्सृजामि महावेगं शरं शत्रुनिबर्हणम्4.12.32।।",
+      "transliteration": "",
+      "translation": "'O distinguished monkey you both are so similar in form that I was puzzled and did not release my swift arrow that could have destroyed the enemy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "जीवितान्तकरं घोरं सादृश्यात्तु विशङ्कितः।\nमूलघातो न नौ स्याद्धि द्वयोरपि कृतो मया4.12.33।।",
+      "transliteration": "",
+      "translation": "'I was doubtful because of your similar appearance. I thought that I should not strike at the very root of the interests of both of us. Therefore, I did not release the terrific and deadly  arrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "त्वयि वीरे विपन्ने हि अज्ञानाल्लाघवान्मया।\nमौढ्यं च मम बाल्यं च ख्यापितं स्यात्कपीश्वर4.12.34।।",
+      "transliteration": "",
+      "translation": "'O lord of monkeys I would have betrayed my foolishness and childishness had I exposed you to danger by my ignorance and thoughtlessness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "दत्ताभयवधो नाम पातकं महदुच्यते।\nअहं च लक्ष्मणश्चैव सीता च वरवर्णिनी4.12.35।।\nत्वदधीना वयं सर्वे वनेऽस्मिन् शरणं भवान्।",
+      "transliteration": "",
+      "translation": "'It is said that killing a person to whom protection is promised is highly sinful. Lakshmana, darling Sita and me, are under your care and you are our refuge.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "तस्माद्युध्यस्व भूयस्त्वं मा मा शङ्केश्च वानर4.12.36।।\nएतन्मुहूर्ते सुग्रीव पश्य वालिनमाहवे।\nनिरस्तमिषुणैकेन वेष्टमानं महीतले4.12.37।।",
+      "transliteration": "",
+      "translation": "'Therefore, O monkey, go and engage yourself in fight again. Do not suspect me. With this single arrow of mine, in one moment you will see Vali thrown down and rolling on the ground in this combat.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "अभिज्ञानं कुरुष्व त्वमात्मनो वानरेश्वर।\nयेन त्वामभिजानीयां द्वन्द्वयुद्धमुपागतम्4.12.38।।",
+      "transliteration": "",
+      "translation": "'O lord of monkeys while you both are engaged in a duel wear some identification mark by which I can recognise you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "गजपुष्पीमिमां फुल्लामुत्पाट्य शुभलक्षणाम्।\nकुरु लक्ष्मण कण्ठेऽस्य सुग्रीवस्य महात्मनः।।4.12.39।।",
+      "transliteration": "",
+      "translation": "'O Lakshmana this Gajapushpi  in bloom is auspicious. Pluck and fasten it on great Sugriva's neck.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "ततो गिरितटे जातामुत्पाट्य कुसुमाकुलाम्।\nलक्ष्मणो गजपुष्पीं तां तस्य कण्ठे व्यसर्जयत्4.12.40।।",
+      "transliteration": "",
+      "translation": "Then Lakshmana went to the mountain slope, plucked the (creeper with) gajapuspi blossoms and fastened it on the neck of Sugriva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "स तया शुशुभे श्रीमान् लतया कण्ठसक्तया।\nमालयेव बलाकानां ससन्ध्य इव तोयदः4.12.41।।",
+      "transliteration": "",
+      "translation": "With the creeper round the neck, Sugriva looked like the raincloud at twilight, adorned by a row of cranes like a garland.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-12-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "विभ्राजमानो वपुषा रामवाक्यसमाहितः।\nजगाम सह रामेण किष्किन्थां वालिपालिताम्4.12.42।।",
+      "transliteration": "",
+      "translation": "Radiant Sugriva intent on carrying out Rama's words again went to Kishkinda ruled by Vali. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे द्वादशस्सर्गः।। Thus ends the twelfth sarga of Kishkindakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 25,
+    "title": "Rama exhorts Tara  on fate and time -- preparation for the funeral -- grief of monkeys and Angada -- performance of funeral rites.",
+    "titleSanskrit": "",
+    "totalShlokas": 49
+  },
+  "shlokas": [
+    {
+      "id": "v4-25-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "सुग्रीवं चैव तारां च साङ्गदं सहलक्ष्मणः।\nसमानशोकः काकुत्स्थ स्सान्त्वयन्निदमब्रवीत्।।4.25.1।।",
+      "transliteration": "",
+      "translation": "Rama and Lakshmana were equally sad. Rama, scion of the Kakutstha race, consoled Sugriva, Tara as well as Angada in the following words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "न शोकपरितापेन श्रेयसा युज्यते मृतः।\nयदत्रानन्तरं कार्यं तत्समाधातुमर्हथ4.25.2।।",
+      "transliteration": "",
+      "translation": "'No lamentation revives the dead. So you should take up whatever is required now.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "लोकवृत्तमनुष्ठेयं कृतं व�� बाष्पमोक्षणम्।\nन कालादुत्तरं किञ्चित्कर्म शक्यमुपासितुम्4.25.3।।",
+      "transliteration": "",
+      "translation": "'You have to go the worldly way. You have shed tears enough. Time is passing. You cannot perform the funeral after the lapse of appropriate time.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "नियतिः कारणं लोके नियतिः कर्मसाधनम्।\nनियतिस्सर्वभूतानां नियोगेष्विह कारणम्4.25.4।।",
+      "transliteration": "",
+      "translation": "'Fate is the cause of the world. Fate is the means of accomplishment. Fate assigns duties to all beings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "न कर्ता कस्यचित्कश्चिन्नियोगे चापिनेश्वरः।\nस्वभावे वर्तते लोकस्तस्य कालः परायणम्4.25.5।।",
+      "transliteration": "",
+      "translation": "'No one can control another's action. No one including God can be the agent of action. No one has the power to entrust duty to others. This entire world is governed by one's own nature. Nature in turn is governed by Time (fate).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "न कालः कालमत्येति न कालः परिहीयते।\nस्वभावं च समासाद्य न कश्चिदतिवर्तते4.25.6।।",
+      "transliteration": "",
+      "translation": "'God (though independent) does not deviate from Time. Time cannot be escaped or  trangressed. It cannot be condoned or avoided. No one can transgress their own nature.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "न कालस्यास्ति बन्धुत्वं न हेतुर्न पराक्रमः।\nन मित्रज्ञातिसम्बन्धः कारणं नात्मनो वशः4.25.7।।",
+      "transliteration": "",
+      "translation": "'Time has no consideration for relationship, friendship, or kinship or valour. Time itself is the cause. It is never under one's control.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "किं तु कालपरीणामो द्रष्टव्यस्साधु पश्यता।\nधर्मश्चार्थश्च कामश्च कालक्रमसमाहिताः4.25.8।।",
+      "transliteration": "",
+      "translation": "'However a wise man should visualise the turn of events in course of time with the right vision. Dharma, artha and kama are controlled by an order laid down by Time.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "इतस्स्वां प्रकृतिं वाली गतःप्राप्तः क्रियाफलम्।\nधर्मार्थकाम संयोगैः पवित्रं प्लवगेश्वरः4.25.9।।",
+      "transliteration": "",
+      "translation": "'Vali, king of monkeys is dead and gone. He acted according to his own nature and attained the sacred fruit of his action comensurate with dharma, wealth and pleasures  in this world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "स्वधर्मस्य च संयोगाज्जितस्तेन महात्मना।\nस्वर्गः परिगृहीतश्च प्राणानपरिरक्षता4.25.10।।",
+      "transliteration": "",
+      "translation": "'Great Vali has earned a place in heaven by virtue of his own dharma and not caring for his own life .He has got the heavenly position he earned.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "एषा वै नियतिश्शेष्ठा यां गतो हरियूथपः।\nतदलं परितापेन प्राप्तकालमुपास्यताम्4.25.11।।",
+      "transliteration": "",
+      "translation": "'The state attained by the chief of monkeys is an excellent one.Therefore there is no need to regret. Attend to your duties (relating to rites)'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "वचनान्ते तु रामस्य लक्ष्मणः परवीरहा।\nअवदत्प्रश्रितं वाक्यं सुग्रीवं गतचेतसम्4.25.12।।",
+      "transliteration": "",
+      "translation": "Seeing Sugriva had lost his senses, Lakshmana, the slayer of enemy warriors humbly said at the end of Rama's address:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "कुरु त्वमस्य सुग्रीव प्रेतकार्यमनन्तरम्।\nताराङ्गदाभ्यां सहितो वालिनो दहनं प्रति।।4.25.13।।",
+      "transliteration": "",
+      "translation": "'O Sugriva perform with Tara and Angada the funeral obsequies relating to the cremation of Vali.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "समाज्ञापय काष्ठानि शुष्कानि च बहूनि च।\nचन्दनादीनि दिव्यानि वालिसंस्कारकारणात्4.25.14।।",
+      "transliteration": "",
+      "translation": "'Let the best of dry logs and sandalwood be ordered for the funeral rites of Vali.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "समाश्वासय चैनं त्वमङ्गदं दीनचेतसम्।\nमा भूर्बालिशबुद्धिस्त्वं त्वदधीनमिदं पुरम्4.25.15।।",
+      "transliteration": "",
+      "translation": "'Pacify the despondent Angada so that he does not entertain childish thoughts any more. This city is under your control (now).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अङ्गदस्त्वानयेन्माल्यं वस्त्राणि विविधानि च।\nघृतं तैलमथो गन्धान्यच्चात्र समनन्तरम्4.25.16।।",
+      "transliteration": "",
+      "translation": "'Let Angada for his part collect garlands of many kinds, clothes, clarified butter, oil, fragrants and all that is required to be procured.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "त्वं तार शिबिकां शीघ्रमादायागच्छ सम्भ्रमात्।\nत्वरा गुणवती युक्ता ह्यस्मिन्काले विशेषतः4.25.17।।",
+      "transliteration": "",
+      "translation": "'O Tara quickly get a swiftmoving litter fastened with ropes specially  suitable for this occasion.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "सज्जीभवन्तु प्लवगाश्शिबिकावाहनोचिताः।\nसमर्था बलिनश्चैव निर्हरिष्यन्ति वालिनम्।।4.25.18।।",
+      "transliteration": "",
+      "translation": "'Let those who are strong and capable among the monkeys be ready to carry  the dead body of Vali on a litter'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "एवमुक्त्वा तु सुग्रीवं सुमित्रानन्दवर्धनः।\nतसौ भ्रातृसमीपस्थो लक्ष्मणः परवीरहा4.25.19।।",
+      "transliteration": "",
+      "translation": "Having thus spoken to Sugriva, Lakshmana, son of Sumitra, slayer of enemies, stood by his brother",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "लक्ष्मणस्य वचश्श्रुत्वा तारस्सम्भ्रान्तमानसः।\nप्रविवेश गुहां शीघ्रं शिबिकासक्तमानसः4.25.20।।",
+      "transliteration": "",
+      "translation": "On hearing Lakshmana, Tara in an excited state quickly entered the cave city to get the litter.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "आदाय शिबिकां तारस्स तु पर्यापतत्पुनः।\nवानरैरुह्���मानां तां शूरैरुद्वहनोचितैः4.25.21।।",
+      "transliteration": "",
+      "translation": "Tara jumped in on to the litter carried by strong monkeys.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "दिव्यां भद्रासनयुतां शिबिकां स्यन्दनोपमाम्।\nपक्षिकर्मभिराचित्रां द्रुमकर्मविभूषिताम्4.25.22।।\nआचितां चित्रपत्तीभि स्सुनिविष्टां समन्ततः।\nविमानमिव सिद्धानां जालवातायनान्विताम्4.25.23।।\nसुनियुक्तां विशालां च सुकृतां विश्वकर्मणा।\nदारुपर्वतकोपेतां चारुकर्मपरिष्कृताम्4.25.24।।\nवराभरणहारैश्च चित्रमाल्योपशोभिताम्।\nगुहागहनसञ्छन्नां रक्तचन्दनभूषिताम्4.25.25।।\nपुष्पौघैस्समभिच्छन्नां पद्ममालाभिरेव च।\nतरुणादित्यवर्णाभिर्भ्राजमानाभिरावृताम्4.25.26।।",
+      "transliteration": "",
+      "translation": "A swiftmoving, marvellous palanquin designed by Viswakarma was brought. Covered with colourful pictures of birds and trees on every side it looking like an aerial chariot fit for saints. Fitted with a splendid seat grilled windows, artificially made small caverns and grottos of wood was embellished with carvings of mountains, choice ornaments and garlands. With red sandal paste, red scented flowers and red lotus garlands, it resembled the rising Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "ईदृशीं शिबिकां दृष्ट्वा रामो लक्ष्मणमब्रवीत्।\nक्षिप्रं विनीयतां वाली प्रेतकार्यं विधीयताम्4.25.26।।",
+      "transliteration": "",
+      "translation": "Seeing the palanquin, Rama said to Lakshmana 'Let the body of Vali be placed in the palanquin quickly and last rites duly performed'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "ततो वालिनमुद्यम्य सुग्रीवश्शिबिकां तदा।\nआरोपयत विक्रोशन्नङ्गदेन सहैव तु4.25.27।।",
+      "transliteration": "",
+      "translation": "Then Sugriva along with Angada, crying aloud bitterly, lifted the body (of Vali) and placed it on the palanquin.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "आरोप्य शिबिकां चैव वालिनं गतजीवितम्।\nअलङ्कारैश्च विविधैर्माल्यैर्वस्त्रैश्च भूषितम्4.25.28।।",
+      "transliteration": "",
+      "translation": "Vali's deadbody was placed on the palanquin, decorated with many ornaments, garlands and clothes",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "आज्ञापयत्तदा राजा सुग्रीव प्लवगेश्वरः।\nऔर्ध्वदैहिकमार्���स्य क्रियतामनुरूपतः।।4.25.29।।",
+      "transliteration": "",
+      "translation": "King Sugriva, lord of the monkeys, said, 'Let the funeral rites of my noble sire be performed in a fitting manner'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "विश्राणयन्तो रत्नानि विविधानि बहून्यपि।\nअग्रतः प्लवगा यान्तु शिबिका समनन्तरम्4.25.30।।",
+      "transliteration": "",
+      "translation": "'Let the monkeys march in front, showering many different gems in large quantities and let the palanquin follow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "राज्ञामृद्दिविशेषा हि दृश्यन्ते भुवि यादृशाः।\nतादृशैरिह कुर्वन्तु वानरा भर्तृसत्क्रियाम्4.25.31।।",
+      "transliteration": "",
+      "translation": "'Let the monkeys perform the funeral rites of our lord in an honourable way as expensively as has been done with regard to the obsequies of kings who ruled over this land.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "तादृशं वालिनः क्षिप्रं प्राकुर्वन्नौर्ध्वदैहिकम्।\nअङ्गदं परिगृह्याऽशु तारप्रभृतयस्तदा4.25.32।।\nक्रोशन्तः प्रययुस्सर्वे वानरा हतबान्धवाः।",
+      "transliteration": "",
+      "translation": "Tara, Angada and the other bereaved monkeys hastened to perform the funeral  ceremony of Valiweeping.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "ततः प्रणिहिताः सर्वा वानर्योस्य वशानुगाः4.25.33।।\nचुक्रुशु र्वीर वीरेति भूयः क्रोशन्ति ताः स्त्रीयः।",
+      "transliteration": "",
+      "translation": "Then all the female monkeys who were in his (Vali's) harem walked past the deadbody of Vali, crying again and again 'Alas, Oh hero'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "ताराप्रभृतयस्सर्वा वानर्यो हरियूथपाः।\nअनुजग्मुर्हि भर्तारं क्रोशन्त्यः करुणस्वनाः4.25.34।।",
+      "transliteration": "",
+      "translation": "Tara along with other female monkeys followed their lord, crying pathetically.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "तासां रुदितशब्देन वानरीणां वनान्तरे।\nवनानि गिरयश्चैव विक्रोशन्तीव सर्वतः4.25.35।।",
+      "transliteration": "",
+      "translation": "When the female monkeys were weeping in the midst of the forest, it looked as if the forest and the hills were also mourning.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "पुलिने गिरिनद्यास्तु विविक्ते जलसंवृते4.25.36।।\nचितां चक्रुस्सुबहवो वानराश्शोककर्शिता:।",
+      "transliteration": "",
+      "translation": "Tormented with tears, the monkeys prepared in a solitary place surrounded by waters a pyre on the sandbank of a mountain stream.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "अवरोप्य ततस्स्कन्धाच्छिबिकां वाहनोचिताः।\nतस्थुरेकान्तमाश्रित्य सर्वे शोकसमन्विता:4.25.37।।",
+      "transliteration": "",
+      "translation": "Putting down the palanquin from their shoulders on the lonely spot, the bearers stood in tearswaiting.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "ततस्तारा पतिं दृष्ट्वा शिबिकातलशायिनम्4.25.38।।\nआरोप्याङ्के शिरस्तस्य विललाप सुदुःखिता।",
+      "transliteration": "",
+      "translation": "Seeing her husband lying in the palanquin, Tara, full of grief placed Vali's head on her lap and cried.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "हा वानर महाराज हा नाथ मम वत्सल4.25.39।।\nहा महार्ह महाबाहो हा मम प्रिय पश्य माम्।\nजनं न पश्यसीमं त्वं कस्माच्छोकाभिपीडितम्।4.25.40।।",
+      "transliteration": "",
+      "translation": "'Why don't you look at me, oppressed with tears, O monkey king, O my venerable lord, O longarmed one, O my dear?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "प्रहृष्टमिव ते वक्त्रं गतासोरपि मानद\nआस्तार्कसमवर्णं च लक्ष्यते जीवतो यथा4.25.41।।",
+      "transliteration": "",
+      "translation": "'O revered self even though you are bereft of life, your face looks cheerful. It carries the colour of the setting Sun, and looks the same when you were alive.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "एष त्वां रामरूपेण कालः कर्षति वानर।\nयेन स्म विधवास्सर्वाः कृता एकेषुणा वने4.25.42।।",
+      "transliteration": "",
+      "translation": "'O monkey a single arrow from Rama who appeared in the forest in the form of death dragged you away from us and turned us all into widows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "इमास्तास्तव राजेन्द्र वानर्योवल्लभास्सदा।\nपादैर्विकृष्ट मध्वानमागताः किं न बुध्यसे4.25.43।।",
+      "transliteration": "",
+      "translation": "'O king of kings why don't you understand that these female monkeys, your wives who were dear to you have come on foot this long distance with great difficulty?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "तवेष्टा ननु नामैता भार्याश्चन्द्रनिभाननाः।\nइदानीं नेक्षसे कस्तात्सुग्रीवं प्लवगेश्वरम्4.25.44।।",
+      "transliteration": "",
+      "translation": "'O lord of monkeys these moonfaced wives were indeed once your favourites. Why don't you look  at them? Why don't you look Sugriva?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "एते हि सचिवा राजं स्तारप्रभृतयस्तव।\nपुरवासी जनश्चायं परिवार्यासतेऽनघ4.25.45।।",
+      "transliteration": "",
+      "translation": "'O king O sinless hero Tara and others, your ministers as well as the inhabitants of the capital are here sitting around you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "विसर्जयैतान् प्लवगान्यथोचितमरिन्दम।\nततः क्रीडामहे सर्वा वनेषु मदनोत्कटाः4.25.46।।",
+      "transliteration": "",
+      "translation": "'O conqueror of enemies give these monkeys their due in accordance with their status and send them back as you used to do when they were passionately sporting in your company here in this forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "एवं विलपतीं तारां पतिशोकपरिप्लुताम्।\nउत्थापयन्ति स्म तदा वानर्यश्शोककर्शिताः4.25.47।।",
+      "transliteration": "",
+      "translation": "The griefstricken female monkeys helped Tara, overwhelmed with sorrow due to her husband's death, rise from the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "सुग्रीवेण ततस्सार्धंमङ्गदः पितरं रुदन्।\nचितामारोपयामास शोकेनाभिहतेन्द्रियः4.25.48।।",
+      "transliteration": "",
+      "translation": "Then Angada, helped by Sugriva, placed his father's body on the pyre, with his senses numbed in deep sorrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "ततोऽग्निं विधिवद्दत्त्वा सोऽपसव्यं चकार ह।\nपितरं दीर्घमध्वानं प्रस्थितं व्याकुलेन्द्रियः4.25.49।।",
+      "transliteration": "",
+      "translation": "Overwhelmed with sorrow, he offered fire to the father who had set out on a long journey (to heaven). As per tradition he went round the pyre anteclock wise.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "संस्कृत्य वालिनं ते तु विधिपूर्वं प्लवङ्गमाः।\nआजग्मुरुदकं कर्तुं नदीं शुभजलां शिवाम्4.25.50।।",
+      "transliteration": "",
+      "translation": "The monkeys set Vali's body to be consumed by fire as per tradition and proceeded to an auspicious river of pure water in order to offer oblation (to the departed soul).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "ततस्ते सहितास्तत्र ह्यङ्गदं स्थाप्य चाग्रतः।\nसुग्रीवतारासहितास्सिषिचुर्वालिने जलम्4.25.51।।",
+      "transliteration": "",
+      "translation": "Then the monkeys along with Sugriva and Tara positioning Angada in the forefront made waterofferings (to Vali) collectively.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "सुग्रीवेणेव दीनेन दीनो भूत्वा महाबलः।\nसमानशोकः काकुत्स्थ: प्रेतकार्याण्यकारयत्4.25.52।।",
+      "transliteration": "",
+      "translation": "Mighty Rama, who was equally sorrowful and pitiable as Sugriva, directed the performance of funeral rites.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-25-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "ततस्तु तं वालिनमग्र्यपौरुषं\nप्रकाशमिक्ष्वाकुवरेषुणा हतम्।\nप्रदीप्य दीप्ताग्निसमौजसं तदा\nसलक्ष्मणं राममुपेयिवान्हरिः4.25.53।।",
+      "transliteration": "",
+      "translation": "After setting fire to Vali of mighty prowess whose tawny face was glowing like fire, who was killed openly by the great arrow of Rama of the Ikshvaku race, Sugriva approached Rama, and Lakshmana. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे पञ्चविंशस्सर्गः।। Thus ends the twentyfifth sarga of Kishkindakanda of the Holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

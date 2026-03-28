@@ -1,0 +1,180 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 56,
+    "title": "Vasishta destroys the weapons employed by Viswamitra with his Brahmadanda -- Viswamitra undertakes austerities to acquire brahminhood.",
+    "titleSanskrit": "",
+    "totalShlokas": 18
+  },
+  "shlokas": [
+    {
+      "id": "v1-56-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "एवमुक्तो वसिष्ठेन विश्वामित्रो महाबल:।\nआग्नेयमस्त्रमुत्क्षिप्य तिष्ठ तिष्ठेति चाब्रवीत्।।1.56.1।।",
+      "transliteration": "",
+      "translation": "Thus said Vasishta. Mighty Viswamitra lifted up agneya astra (shaft of fire) and discharging it said, 'stay, stay'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-56-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "ब्रह्मदण्डं समुत्क्षिप्य कालदण्डमिवाऽपरम्।\nवसिष्ठो भगवान् क्रोधादिदं वचनमब्रवीत्।।1.56.2।।",
+      "transliteration": "",
+      "translation": "Venerable Vasishta, in fury lifted the Brahmadanda which was like another rod of death. And spoke these words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-56-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "क्षत्रबन्धो स्थितोस्म्येष यद्बलं तद्विदर्शय।\nनाशयाम्यद्य ते दर्पं शस्त्रस्य तव गाधिज।।1.56.3।।",
+      "transliteration": "",
+      "translation": "\"O wicked kshatriya O son of Gadhi here I stand. Show me your strength and the pride of your arms. I will destroy them now.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-56-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "क्व च ते क्षत्रियबलं क्व च ब्रह्मबलं महत्।\nपश्य ब्रह्मबलं दिव्यं मम क्षत्रियपांसन।।1.56.4।।",
+      "transliteration": "",
+      "translation": "O mean kshatriya where does your energy of a kshatriya stand in comparison with the great energy of Brahma? Behold my Brahmabala (Brahman's energy)\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-56-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तस्यास्त्रं गाधिपुत्रस्य घोरमाग्नेयमुद्यतम्।\nब्रह्मदण्डेन तच्छान्तमग्नेर्वेग इवाम्भसा।।1.56.5।।",
+      "transliteration": "",
+      "translation": "The Brahmadanda (released by Vasishta) put down the dreadful agneya astra released by Gadhi's son just like the force of fire is extinguished by water.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-56-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "वारुणं चैव रौद्रं च ऐन्द्रं पाशुपतं तथा।\nऐषीकं चापि चिक्षेप कुपितो गाधिनन्दन:।।1.56.6।।",
+      "transliteration": "",
+      "translation": "The incensed son of Gadhi employed varuna, raudra, aindra, pasupata and aishika  weapons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-56-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "मानवं मोहनं चैव गान्धर्वं स्वापनं तथा।\nजृम्भणं मादनं चैव संतापनविलापने।।1.56.7।।\nशोषणं दारणं चैव वज्रमस्त्रं सुदुर्जयम्।\nब्रह्मपाशं कालपाशं वारुणं पाशमेव च।।1.56.8।।\nपैनाकास्त्रं च दयितं शुष्कार्द्रे अशनी उभे।\nदण्डास्त्रमथ पैशाचं क्रौञ्चमस्त्रं तथैव च।।1.56.9।।\nधर्मचक्रं कालचक्रं विष्णुचक्रं तथैव च।\nवायव्यं मथनं चैव अस्त्रं हयशिरस्तथा।।1.56.10।।\nशक्तिद्वयं च चिक्षेप कङ्कालं मुसलं तथा। 560\nवैद्याधरं महास्त्रं च कालास्त्रमथ दारुणम्।।1.56.11।।\nत्रिशूलमस्त्रं घोरं च कापालमथ कङ्कणम्।\nएतान्यस्त्राणि चिक्षेप सर्वाणि रघुनन्दन।।1.56.12।। \nवसिष्ठे जपतां श्रेष्ठे तदद्भुतमिवाभवत्।",
+      "transliteration": "",
+      "translation": "\"O Descendent of Raghu Viswamitra employed weapons like manava, mohana, gandharva, swapana, jrimbhana, madana, santapana, vilapana, shoshana, darana, vajra weapons, Brahma, kala and varuna pasas, the favourite painaka, daita, shushka, ardra vajras, danda, paisacha, krauncha, weapons, dharmachakra, kalachakra, vishnuchakras, vayavya, mathana, hayasira weapons, kanakala, musala powers,  vaidyadhara, kalatrishula, kapala, kankana weapons discharged against Vasishta the best of ascetics. All this became aweful.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-56-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तानि सर्वाणि दण्डेन ग्रसते ब्रह्मणस्सुत:।।1.56.13।।\nतेषु शान्तेषु ब्रह्मास्त्रं क्षिप्तवान् गाधिनन्दन:।",
+      "transliteration": "",
+      "translation": "Vasishta son of Brahma, swallowed all those weapons with his staff. When those weapons were humbled, son of Gadhi employed Brahmastra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-56-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तदस्त्रमुद्यतं दृष्ट्वा देवास्साग्निपुरोगमा:।।1.56.14।।\nदेवर्षयश्च सम्भ्रान्तागन्धर्वास्समहोरगा:।\nत्रैलोक्यमासीत्सन्तप्तं ब्रह्मास्त्रे समुदीरिते।।1.56.15।",
+      "transliteration": "",
+      "translation": "All the devatas, with Agni in the forefront, divine rishis, great uragas and gandharvas were agitated seeing the Brahmastra raised. When Brahmastra was discharged, the  three worlds became distressed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-56-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तदप्यस्त्रं महाघोरं ब्रह्मं ब्राह्मेण तेजसा ।\nवसिष्ठो ग्रसते सर्वं ब्रह्मदण्डेन राघव।।1.56.16।।",
+      "transliteration": "",
+      "translation": "O Descendant of Raghu Vasishta who possessed the energy of Brahma swallowed that very dreadful Brahmastra entirely with the help of Brahmadanda.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-56-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "ब्रह्मास्त्रं ग्रसमानस्य वसिष्ठस्य महात्मन:।\nत्रैलोक्यमोहनं रौद्रं रूपमासीत्सुदारुणम्।।1.56.17।।",
+      "transliteration": "",
+      "translation": "While swallowing Brahmastra  the great Vasishta looked fierce and  terrible causing the three worlds to faint.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-56-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "रोमकूपेषु सर्वेषु वसिष्ठस्य महात्मन:।\nमरीच्य इव निष्पेतुरग्नेर्धूमाकुलार्चिष:।।1.56.18।।",
+      "transliteration": "",
+      "translation": "From every pore of the great Vasishta's body flames resembling rays of light with smoke emerged.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-56-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "प्राज्वलद्ब्रह्मदण्डश्च वसिष्ठस्य करोद्यत:।\nविधूम इव कालाग्निर्यमदण्ड इवापर:।।1.56.19।।",
+      "transliteration": "",
+      "translation": "The staff of Brahma in Vasishta's hand, resembling smokeless fire at the end of the dissolution of the worlds inflamed like another rod of death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-56-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "ततोऽस्तुवन् मुनिगणा वसिष्ठं जपतां वरम्।\nअमोघं ते बलं ब्रह्मन् तेजो धारय तेजसा।।1.56.20।।",
+      "transliteration": "",
+      "translation": "Then hosts of saints praised Vasishta, the best among sages, saying \"O Brahmin, your energy is infallible, hold your energy by your enegy\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-56-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "निगृहीतस्त्वया ब्रह्मन् विश्वामित्रो महातपा:।\nप्रसीद जपतां श्रेष्ठ लोकास्सन्तु गतव्यथा:।।1.56.21।।",
+      "transliteration": "",
+      "translation": "'O Brahman great ascetic Viswamitra was controlled by you. O Best of ascetics be  pleased and let the worlds be delivered from distress'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-56-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "एवमुक्तो महातेजाश्शमं चक्रे महातपा:।\nविश्वामित्रोऽपि निकृतो विनिश्वस्येदमब्रवीत्।।1.56.22।।",
+      "transliteration": "",
+      "translation": "At this, Vasishta the most brilliant ascetic became quiet. The humiliated Viswamitra heaved a sigh and spoke these words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-56-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "धिग्बलं क्षत्रियबलं ब्रह्मतेजो बलं बलम्।\nएकेन ब्रह्मदण्डेन सर्वास्त्राणि हतानि मे।।1.56.23।।",
+      "transliteration": "",
+      "translation": "Shame Where is the might of a kshatriya? The energy of a brahmin is the real  energy. The staff of Brahma has singly destroyed all my weapons\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-56-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तदेतत्समवेक्ष्याहं प्रसन्नेन्द्रियमानस:।\nतपो महत्समास्थास्ये यद्वै ब्रह्मत्वकारणम्।।1.56.24।।",
+      "transliteration": "",
+      "translation": "\"Now I have realised the reason. With clear mind and senses, I shall undertake intense penance which will earn me brahminhood\". इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे षट्पञ्चाशस्सर्ग:।। Thus ends the fiftysixth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

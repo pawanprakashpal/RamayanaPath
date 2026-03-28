@@ -1,0 +1,1008 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 71,
+    "title": "Atikaya, son of Dhanyamalini, arrives on the battlefield. Vanaras and Rama wondered at his form, chariot, and brilliance. Lakshmana has a terrific fight with Atikaya and kills him.",
+    "titleSanskrit": "",
+    "totalShlokas": 110
+  },
+  "shlokas": [
+    {
+      "id": "v6-71-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "स्वबलंव्यथितंदृष्टव��तुमुलंरोमहर्षणम् ।\nभ्रातृ़ंश्चनिहतान् दृष्टवाशक्रतुल्यपराक्रमान् ।।6.71.1।।\nपितृव्यौचापिसनृदृश्यसमरेसन्निघादितौ ।\nयुद्धोन्मत्तं च मत्तं च भ्रातरौराक्षसर्षभौ ।।6.71.2।।\nचुकोप च महातेजाब्रह्मदत्तवरोयुधि ।\nअतिकायोऽद्रिसङ्काशोदेवदानवदर्पहा ।।6.71.3।।",
+      "transliteration": "",
+      "translation": "Highly energetic Atikaya, who was like a mountain in form, had huge body, obtained boons from Brahma, subdued the pride of Devas and Danavas, was equal to Indra in valour. Seeing his own army of Rakshasas that caused horripilation, uncles who were bulls among Rakshasas struck down in the battlefield and his own brothers Yuddhotama (Mahodara) and Matta (Mahaparsva) struck down, he flew in rage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "स भास्करसहस्रस्यसङ्घातमिवभास्वरम् ।\nरथमास्थायशक्रारिरभिदुद्राववानरान् ।।6.71.4।।",
+      "transliteration": "",
+      "translation": "Adorned with a crown, Ravana glowing like a thousand suns collected together mounted the chariot and darted towards Vanaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "स विस्फार्यमहाचापंकिरीटीमृष्टकुण्डलः ।\nनामविश्रावयामासननाद च महास्वनम् ।।6.71.5।।",
+      "transliteration": "",
+      "translation": "Adorned with crown, and polished earrings, twanging his bow, proclaimed his name and roared sounding aloud.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तेनसिंहप्रणादेननामविश्रावणेन च ।\nज्याशब्देन च भीमेनत्रासयामासवानरान् ।।6.71.6।।",
+      "transliteration": "",
+      "translation": "By that lionroar, and proclamation of his name (by the sound of the twang) frightening the Vanaras he struck terror.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तेदृष्टवादेहमाहात्म्यंकुम्भकर्णोऽयमुथतितः ।\nभयार्तावानरास्सर्वेसंश्रयन्तेपरस्परम् ।।6.71.7।।",
+      "transliteration": "",
+      "translation": "Those Vanaras seeing the huge body thought, \"This is Kumbhakarna, who has got up and come'. Out of fear, they sought the help of one another.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तेतस्यरूपमालोक्ययथाविष्टोस्त्रिविक्रमे ।\nभयाद्वानरयूधास्तेविद्रवन्तिततस्ततः ।।6.71.8।।",
+      "transliteration": "",
+      "translation": "The Vanara troops, observing his form resembling the Trivikram form assumed by Vishnu, the monkey troops fled here and there in panic.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तेऽतिकायंसमासाद्यवानरामूढचेतसः ।\nशरण्यंशरणंजग्मुर्लक्ष्मणाग्रजमाहवे ।।6.71.9।।",
+      "transliteration": "",
+      "translation": "The Vanaras were deluded on reaching the huge body and went to Sri Rama to seek refuge.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तोऽतिकायंकाकुत्स्थोरथस्थंपर्वतोपमम् ।\nददर्शधवनिनंदूराद्गर्जन्तंकालमेघवत् ।।6.71.10।।",
+      "transliteration": "",
+      "translation": "Then Kakutstha saw from a distance form of huge body looking like a mountain, wielding bow, rumbling like a cloud at universal destruction.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "स तंदृष्टवामहात्मानंराघवस्तुविसिस्मिये ।\nवानरान् सान्त्वयित्वा च विभीषणमुवाच ह ।।6.71.11।।",
+      "transliteration": "",
+      "translation": "Raghava the great, seeing the form of a huge body, was amazed, reassured by the Vanaras, and spoke to Vibheeshana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "कोऽसौपर्वतसङ्काशोधनुष्मान्हरिलोचनः ।\nयुक्तेहयसहस्रेणविशालेस्यन्दनेस्थितः ।।6.71.12।।",
+      "transliteration": "",
+      "translation": "\"Who is he, the yelloweyed, resembling a mountain, seated in the broad chariot drawn by a thousand horses?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "य एषनिशितैश्शूलैस्सुतीक्णैःप्रासमुद्गरैः ।\nअर्चिष्मद्भिर्वृतोभातिभूतैरिवमहेश्वरः ।।6.71.13।।",
+      "transliteration": "",
+      "translation": "\"Who is he in the midst, with sharp tridents and shining spears, like Maheswara surrounded by beings?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "कालजिह्वाप्रकाशाभिर्यएषोऽतिविराजते ।\nआवृतोरथशक्तीभिर्विद्युद्भिरिवतोयदः ।।6.71.14।।",
+      "transliteration": "",
+      "translation": "\"Who is he, gleaming like the tongues of time spirit (Kala spirit), with flashes of javelins, encircled with lightning and looking like a cloud shining very bright?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "धनूंषिचास्यसज्जानिहेमपृष्ठानिसर्वशः ।\nशोभयन्तिरथश्रेष्ठंशक्रचापमिवाम्बरम् ।।6.71.15।।",
+      "transliteration": "",
+      "translation": "\"His bows decorated with gold on the back, are like a rainbow in the sky on all sides and makes the chariot excellent.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "क एषरक्षश्शार्दूलोरणभूमिविराजयन् ।\nअभ्येतिरथिनांश्रेष्ठोरथेनादित्यतेजसा ।।6.71.16।।\nध्वजशृङ्गप्रतिष्ठेनराहुणाभिविराजते ।\nसूर्यरमशिनिभैर्बाणैर्दिशो दश विराजयन् ।।6.71.17।।",
+      "transliteration": "",
+      "translation": "\"The tiger among the Rakshasas seated in the chariot is the foremost car warrior. He is illuminating the battlefield like the brightness of the Sun, resplendent like Sun 's rays. By his arrows he is illuminating the ten directions. The Rahu emblem on top of the pole of the chariot is very splendid.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "त्रिणतंमेघसन्नादंहेमपृष्ठमलङ्कृतम् ।\nशतक्रतुधनुःप्रख्यंधनुश्चास्यविराजते ।।6.71.18।।",
+      "transliteration": "",
+      "translation": "\"His bow with three curves, covered with gold, decorated, is close to a thundering cloud, casting its splendour.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "स ध्वजस्सपताकश्चसानुकर्षोमहारथः ।\nचतुस्सादिसमायुक्तोमेघस्तनितानि ।।6.71.19।।",
+      "transliteration": "",
+      "translation": "\"His chariot with standard, flag and axletree is a great one driven by four charioteers emitting sound like the rumblings of clouds.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "विंशतिर्दशचाष्टौ च तूण्योऽस्यरथमास्थिताः ।\nकार्मुकानि च भीमानिज्याश्चकाञ्चनपिङ्गळाः ।।6.71.20।।",
+      "transliteration": "",
+      "translation": "\"This chariot has twenty quivers, ten frightening bows, and eight bow strings of golden colour lay arranged in the chariot.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "द्वौ च खडगौरथगतौपार्श्वस्थौपार्श्वशोभितौ ।\nचतुर्हस्तत्सरुयुतौव्यक्तहस्तदशायतौ ।।6.71.21।।",
+      "transliteration": "",
+      "translation": "\"It has two swords off our cubits and ten cubits long swords provided with hilts hanging on its sides as decoration.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "रक्तगण्ठगुणोधीरोमहापर्वतसन्निभः ।\nकालःकालमहावक्त्रोमेघस्थइवभास्करः ।।6.71.22।।",
+      "transliteration": "",
+      "translation": "\"Wearing red garland s round the neck, brave, like a mountain in form, dark with large mouth, like death, like sun veiled by clouds he seems.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "काञ्चनाङ्गदनद्धाभ्यांभूजाभ्यामेषशोभते ।\nशृङ्गाभ्यामिवतुङ्गाभ्यांहिमवान् पर्वतोत्तमः ।।6.71.23।।",
+      "transliteration": "",
+      "translation": "\"By adorning armlets, his both arms are like high peaks of Himalaya mountain shining away.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "कुण्डलाभ्यांतुयस्यैतद्भतध्भातिशुभेक्ष ।\nपुनर्वस्वन्तरगतंपूर्णंभिंबमिवैंदवम् ।।6.71.24।।",
+      "transliteration": "",
+      "translation": "\"He who shines like the full moon between two Punarvasu stars, his auspicious eyes and countenance shines with both earrings.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "आचक्ष्वमेमहाबाहोत्वमेनंराक्षसोत्तमम् ।\nयंदृष्टवावानरास्सर्वेभयार्ताविद्रुतादिशः ।।6.71.25।।",
+      "transliteration": "",
+      "translation": "\"Oh! Vibheeshana, a mighty armed one! Show me that foremost of Rakshasas, whom all Vanaras feared and fled in all directions.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "स पृष्टोराजपुत्रेणरामेणामिततेजसा ।\nआचचक्षेमहातेजारघवायविभीषणः ।।6.71.26।।",
+      "transliteration": "",
+      "translation": "Interrogated by the highly brilliant prince Raghava, energetic Vibheeshana revealed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "दशग्रीवोमहातेजाराजावैश्रवणानुजः ।\nभीमकर्मामहोत्साहोरावणोराक्षसाधिपः ।।6.71.27।।",
+      "transliteration": "",
+      "translation": "\"The tenheaded and highly brilliant king Ravana, who is the brother of Vysravana, is of terrible deeds and highly exploitative.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तस्यासीद्वीर्यवान्पुत्रोरावणप्रतिमोरणे ।\nवृद्धसेवीश्रुतिधरस्सर्वास्त्रविदुषांवरः ।।6.71.28।।",
+      "transliteration": "",
+      "translation": "\"To him was born a blessed son, valiant one, compeer of Ravana, who served elders, learned and well versed in sastras.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "अश्वपृष्ठेरथेनागेखडगेधनुषिकर्षणे ।\nभेदेसान्त्वे च दाने च नयेमन्त्रे च सम्मतः ।।6.71.29।।",
+      "transliteration": "",
+      "translation": "\"He is best in riding on horseback, on elephant back and in the use of sword and bow. He is capable of sowing dissension, making peace, giving charity and statecraft.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "यस्यबाहूसमाश्रित्यलङ्कावसतिनिर्भया ।\nतनयंधान्यमालिन्याअतिकायमिमंविदुः ।।6.71.30।।",
+      "transliteration": "",
+      "translation": "\"He is known as Atikaya, son of Dhanyamalini. Lanka remains fearless on his shoulders, you may know.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "एतेनाराधितोब्रह्मोतपसाभावितात्मना ।\nअस्त्राणिचाप्यवाप्तानिरिपवश्चपराजिताः ।।6.71.31।।",
+      "transliteration": "",
+      "translation": "\"By penance on supreme self he propitiated Brahma, who blessed him with mystic missiles by way of boons by which his enemies were subdued.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "सुरासुरैरवध्यत्वंदत्तमस्मैस्वयम्भुवा ।\nएतच्चकवचंदिव्यंरधश्चैषोऽरभास्वरः ।।6.71.32।।",
+      "transliteration": "",
+      "translation": "\"Exemption from death from gods and demons was given to him and all this wonderful shield and chariot as bright as the sun.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "एतेनशतशोदेवादानवाश्चपराजिताः ।\nरक्षितानि च रक्षांसियक्षाश्चापिनिषूदिताः ।।6.71.33।।",
+      "transliteration": "",
+      "translation": "\"By this (boon) hundreds of Devatas and demons were defeated by him, Yakshas were killed, nay Rakshasas were protected.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "वज्रंविष्टम्भितंयेनबाणैरिन्द्रस्यधीमतः ।\nपाशस्सलिलराजस्यरणेप्रतिहतस्तथा ।।6.71.34।।\nएषोऽतिकायोबलवान्राक्षसानामथर्षभः ।\nरावणस्यतोधीमान्देवदानवदर्पहा ।।6.71.35।।",
+      "transliteration": "",
+      "translation": "\"Here is strong Atikaya, a wise son of Ravana, bull among Rakshasas, who is a subduer of the pride of Devas and Danavas, by whom thunderbolt of Indra was obstructed firmly in battle and likewise the noose of Varuna was repelled in war.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "तदस्मिन्क्रियतांयत्नःक्षिप्रंपुरुषपुंगव ।\nपुरावानरसैन्यानिक्ष्यंनयतिसायकैः ।।6.71.36।।",
+      "transliteration": "",
+      "translation": "\"Oh, best of men! Quickly make efforts to put an end to him before he puts down Vanara army.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "ततोतिकायोबलवान्प्रविश्यहरिवाहिनीम् ।\nविष्फारयामासधनुर्ननाद च पुनःपुनः ।।6.71.37।।",
+      "transliteration": "",
+      "translation": "Thereafter, mighty Atikaya entered the monkey army, twanged his bow again and again and made a loud noise.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "तंभीमवपुषंदृष्टवारथस्थंरथिनांवरम् ।\nअभिपेतुर्महात्मानोयेप्रधानावनौकसः ।।6.71.38।।",
+      "transliteration": "",
+      "translation": "Observing the dreadful enemy seated on the chariot, the foremost of the great Vanaras rushed towards him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "कुमुदोद्विविदोमैन्दोनीलश्शरभएव च ।\nपादपैर्गिरिशृङ्गैश्चयुगपत्समभिद्रवन् ।।6.71.39।।",
+      "transliteration": "",
+      "translation": "Kumuda, Dwivida, Mainda, Neela, even Sarabha, all at once assailed him with trees and mountain peaks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "तेषांवृक्षांश्चशैलांश्चशरैःकाञ्चनभूषणैः ।\nअतिकायोमहातेजाश्चिच्छेदास्त्रविदांवरः ।।6.71.40।।",
+      "transliteration": "",
+      "translation": "Atikaya, endowed with extraordinary energy, efficient in the use of weapons, shattered the trees and rocks hurled by the Vanaras with his arrows adorned with gold.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "तांश्चैवसर्वान् स हरीन् शरैस्सर्वायसैर्बली ।\nविव्याथाभिमुखस्सङ्ख्येभीमकायोनिशाचर ।।6.71.41।।",
+      "transliteration": "",
+      "translation": "The powerful night ranger of terrible form, pierced all monkeys who were facing him in the battlefield with iron arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "तेऽर्दितांबाणवर्षेणभिन्नगात्राःप्लवङ्गमाः ।\nन शेकुरतिकायस्यप्रतिकर्तुंमहारणे ।।6.71.42।।",
+      "transliteration": "",
+      "translation": "The monkeys were hard pressed by Atikaya's hail of arrows. Their limbs broke and were unable to resist.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "तत् त्सैन्यंहरिवीराणांत्रासयामासराक्षसः ।\nमृगयूथमिवक्रुद्धोहरिर्यौवनदर्पितः ।।6.71.43।।",
+      "transliteration": "",
+      "translation": "Just as a young lion with youthful pride would strike a group of deer, the enraged Rakshasa struck the army of monkey heroes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "सराक्षसेन्द्रोहरिसैन्यमध्येनायुध्यमानंनिजघानकञ्चित् ।\nउपेत्यरामंसधम: कलापी स गर्वितंवाक्यमिदंबभाषे ।।6.71.44।।",
+      "transliteration": "",
+      "translation": "The Rakshasa lord, wielding a weapon in the midst of the monkey army, indeed did not strike any, but armed with bow and quiver went with pride towards Rama and spoke.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "रथेस्थितोहंशरचापपाणिर्नप्राकृतंकञ्चनयोधयामि ।\nयस्यास्तिकश्चिद्व्यवसाययुक्तोददातुमेक्षिप्रमिहाद्ययुद्धम् ।।6.71.45।।",
+      "transliteration": "",
+      "translation": "\"I am with a bow and arrow seated in the chariot. Indeed, I am not strong in fighting with common warriors. Whoever is interested to fight now can come speedily to fight with me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "तत्तस्यवाक्यंब्रुवतोनिशम्यचुकोपसौमित्रिरमित्रहन्ता ।\nअमृष्यमाणश्चसमुत्पपातजग्राहचापं च ततस्स्मयित्वा ।।6.71.46।।",
+      "transliteration": "",
+      "translation": "On hearing Atikaya, Saumithri the destroyer of enemies, became angry, not enduring and not able to tolerate went towards him taking a sword.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "क्रुद्धस्सौमित्रिरुत्पत्यतूणादाक्षिप्यसायकम् ।\nपुरस्तादतिकायस्यविचकर्षमहद्धनुः ।।6.71.47।।",
+      "transliteration": "",
+      "translation": "Furious Saumithri, springing up, took up his arrow from the quiver, stretching to full length before he discharged the arrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "पूरयन् स महींशैलानाकाशंसागरंदिशः ।\nज्याशब्दोलक्ष्मणस्योग्रस्त्रासयन् रजनीचरान् ।।6.71.48।।",
+      "transliteration": "",
+      "translation": "The twang of Lakshmana filled the mountains, earth, ocean, and all directions striking terrible fear in the night ranger.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "सौमित्रेश्चापनिर्घोषंश्रुत्वाप्रतिभयंतदा ।\nविसिष्मियेमहातेजाराक्षसेन्द्रात्मजोबली ।।6.71.49।।",
+      "transliteration": "",
+      "translation": "Then the extraordinarily energetic and powerful son of Rakshasa king was in turn frightened at the sound of Saumithri's bow and was astonished.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "अथातिकायःकुपितोदृष्टवालक्ष्मणमुत्थितम् ।\nआदायनिशितंबाणमिदंवचनमब्रवीत् ।।6.71.50।।",
+      "transliteration": "",
+      "translation": "Seeing Atikaya, furious Lakshmana sprang up and took a sharp shaft and spoke as follows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "बालस्त्वमसिसौमित्रेविक्रमेष्वविचक्षणः ।\nगच्छकिंकालसदृशंमांयोधयतुमिच्छसि ।।6.71.51।।",
+      "transliteration": "",
+      "translation": "\"O Saumithri! You are valiant but young, not able to discriminate. I am equal to the Lord of death. Why do you desire to comb at with me?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "न हिमद्बाहुसृष्टानामस्त्राणाहिमवानपि ।\nसोढुमुत्सहतेवेगमन्तरिक्षमथोमही ।।6.71.52।।",
+      "transliteration": "",
+      "translation": "The shafts discharged from my arm can't be borne, by the Himalayas, even the atmosphere between the sky and earth can't bear the force.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "सुखप्रसुप्तंकालाग्निंविबोधयितुमिच्छसि ।\nन्यस्यचापंनिवर्तस्वमाप्राणान् जहिमद्गतः ।।6.71.53।।",
+      "transliteration": "",
+      "translation": "\"Why do you want to arouse the fire of dissolution sleeping comfortably? Return, casting away your bow, without confronting. Go away.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "अथवात्वंप्रतिष्टब्धो न निवर्तितुमिच्छसि ।\nतिष्ठप्राणान् परित्यज्यगमिष्यसियमक्ष्यम् ।।6.71.54।।",
+      "transliteration": "",
+      "translation": "\"Or else if you want to oppose and not return, give up your life and proceed to Yama's abode.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "पश्यमेनिशितान्बाणानरिदर्पनिषूदनान् ।\nईश्वरायुधसङ्काशांस्तप्तकाञ्चनभूषणान् ।।6.71.55।।",
+      "transliteration": "",
+      "translation": "\"See my sharp shafts capable of reducing enemy's pride like Ishwara's trident, ornamented with polished gold.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "एषतेसर्पसंकाशोबाणःपास्यतिशोणितम् ।\nमृगराजइवक्रुद्धोनागराजस्यशोणितम् ।।6.71.56।।\nइत्येवमुक्त्वासंक्रुद्धश्शरंधनुषिसंदधे ।",
+      "transliteration": "",
+      "translation": "\"These arrows are like serpents and can drink your blood just as an angry lion drinks the blood of elephants. Therefore, I tell you\", said Atikaya to Lakshmana.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "श्रुत्वातिकायस्यवचस्सरोषंसगर्वितंसम्यतिराजपुत्रः ।\nस सञ्चुकोपातिबलोमनस्वीरुवाचवाक्यं च ततोमहार्थम् ।।6.71.57।।",
+      "transliteration": "",
+      "translation": "Prince Atikaya, having spoken as said before, fitted his bow in wrath. Hearing the proud statement of Atikaya, the highminded Lakshmana, endowed with strength, enraged, and spoke these words of great meaning.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-54",
+      "number": 54,
+      "type": "shloka",
+      "original": "न वाक्यमात्रेणभवान् प्रधानो न कत्थनात्सत्पुरुषाभवन्ति ।\nमयिस्थितेधन्विनिबाणपाणौनिदर्शयस्वात्मबलंदुरात्मन् ।।6.71.58।।",
+      "transliteration": "",
+      "translation": "\"You are evil minded. By mere statement you people can't become good chiefs. I stand armed with a bow and arrow. Prove your strength.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-55",
+      "number": 55,
+      "type": "shloka",
+      "original": "कर्मणासूचयात्मानं न विकत्थितुमर्हसि ।\nपौरुषेणतुयोयुक्तस्सतुशूरइतिस्मृतः ।।6.71.59।।",
+      "transliteration": "",
+      "translation": "\"Reveal yourself by action not by indication. You do not deserve it. He who is with prowess is a right hero.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-56",
+      "number": 56,
+      "type": "shloka",
+      "original": "सर्वायुधसमायुक्तोधन्वीत्वंरथमास्थितः ।\nशरैर्वायदिवाप्यस्त्रैर्दर्शयस्वपराक्रमम् ।।6.71.60।।",
+      "transliteration": "",
+      "translation": "\"You are seated in the chariot with all kinds of weapons collected. By that alone you do not become capable. Show your capacity.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-57",
+      "number": 57,
+      "type": "shloka",
+      "original": "ततश्शिरस्तेनिशितैःपातयिष्याम्यहंशरैः ।\nमारुतःकालसम्पक्वंवृन्तात्ताळफलंयथा ।।6.71.61।।",
+      "transliteration": "",
+      "translation": "\"Then I will strike down his head with sharp arrows and throw him just as ripened palm fruit drops in the process of time.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-58",
+      "number": 58,
+      "type": "shloka",
+      "original": "अद्यतेमामकाबाणास्तप्तकाञ्चनभूषणाः ।\nपास्यन्तिरुधिरंगात्राद्बाणशल्यान्तरोत्थितम् ।।6.71.62।।",
+      "transliteration": "",
+      "translation": "\"Now, you will drink the blood ejected from your neck by the holes made with my pointed arrows decked with polished gold.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-59",
+      "number": 59,
+      "type": "shloka",
+      "original": "बालोऽयमितिविज्ञाय न मावज्ञातुमर्हसि ।\nबालोवायदिवावृद्धोमृत्युंजानीहिसंयुगे ।।6.71.63।।\nबालेनविष्णुनालोकास्त्रयःक्रान्तास्त्रिविक्रमैः ।",
+      "transliteration": "",
+      "translation": "\"You should not underestimate me thinking I am young or old to win. You do not know that I am spirit of death in battle. Did not Vishnu as young Trivikrama win the three worlds going by three strides?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-60",
+      "number": 60,
+      "type": "shloka",
+      "original": "लक्ष्मणस्यवचश्श्रुत्वाहेतुमत्परमार्थवत् ।।6.71.64।।\nअतिकायःप्रचुक्रोधबाणंचोत्तममाददे ।",
+      "transliteration": "",
+      "translation": "On hearing the words of Lakshmana, which was reasonable and full of truth, Atikaya became furious and took up the best of arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-61",
+      "number": 61,
+      "type": "shloka",
+      "original": "ततोविद्याधराभूतादेवादैत्यामहर्षयः ।।6.71.65।।\nगुह्यकाश्चमहात्मानस्तद्युद्धंद्रष्टुमागमन् ।",
+      "transliteration": "",
+      "translation": "Then vidhyadharas, demons, devatas, daityas, sages and great guhyakas arrived at the battlefield to witness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-62",
+      "number": 62,
+      "type": "shloka",
+      "original": "तोऽतिकायःकुपितश्चापमारोप्यसायकम् ।।6.71.66।।\nलक्ष्मणायप्रचिक्षेपसङ्क्षिपन्निवचाम्बरम् ।",
+      "transliteration": "",
+      "translation": "Then enraged Atikaya, fixing his arrow to the bow as if discharging it in the sky directed at Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-63",
+      "number": 63,
+      "type": "shloka",
+      "original": "तमापतन्तंनिशितंशरमाशीविषोपमम् ।।6.71.67।।\nअर्धचन्द्रेणचिच्छेदलक्ष्मणःपरवीरहा ।",
+      "transliteration": "",
+      "translation": "Lakshmana, the heroic destroyer of enemies, shattered the venomous serpent like arrow with his sharp half moon shaped arrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-64",
+      "number": 64,
+      "type": "shloka",
+      "original": "तंनिकृत्तंशरंदृष्टवाकृत्तभोगमिवोरगम् ।।6.71.68।।\nअतिकायोभृशंक्रुद्धःपञ्चबाणान् समाददे ।",
+      "transliteration": "",
+      "translation": "Seeing the arrow torn asunder like a serpent, Atikaya was offended and became very angry and fitted five arrows to his bow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-65",
+      "number": 65,
+      "type": "shloka",
+      "original": "तान्शरान् सम्प्रचिक्षेपलक्ष्मणायनिशाचरः ।।6.71.69।।\nतानप्राप्तान् शरैस्तीक्ष्णैश्चिच्छेदभरतानुजः ।",
+      "transliteration": "",
+      "translation": "The night ranger set loose those arrows at Lakshmana, Bharata's brother. Lakshmana shattered them even before it reached him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-66",
+      "number": 66,
+      "type": "shloka",
+      "original": "सतान् छित्त्वाशितैर्बाणैर्लक्ष्मणःपरवीरहा ।।6.71.70।।\nआददेनिशितंबाणंज्वलन्तमिवतेजसा ।",
+      "transliteration": "",
+      "translation": "Lakshmana, the heroic destroyer of foes, having split those arrows, seized a shaft which was a bright and sharp flaming arrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-67",
+      "number": 67,
+      "type": "shloka",
+      "original": "तमादायधनुश्श्रेष्ठेयोजयामासलक्ष्मणः ।।6.71.71।।\nविचकर्ष च वेगेनविससर्ज च वीर्यवान् ।",
+      "transliteration": "",
+      "translation": "Valiant Lakshmana, foremost of the wielders of bow stretching his bow till the ear, quickly discharged the arrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-68",
+      "number": 68,
+      "type": "shloka",
+      "original": "पूर्णायतविसृषेनशरेणनतपर्वणा ।।6.71.72।।\nललाटेराक्षसश्रेष्ठमाजघान स वीर्यवान् ।",
+      "transliteration": "",
+      "translation": "The heroic Lakshmana fully stretching the arrow bending to curvature struck Atikaya, the foremost of Rakshasas on his forehead.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-69",
+      "number": 69,
+      "type": "shloka",
+      "original": "सललाटेशरोमग्नस्तस्यभीमस्यरक्षसः ।।6.71.73।।\nददृशेशोणितेनाक्तःपन्नगेन्द्रइवाचले ।",
+      "transliteration": "",
+      "translation": "That arrow stuck on the forehead of the terrific Rakshasa looked like a serpent on a mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-70",
+      "number": 70,
+      "type": "shloka",
+      "original": "राक्षसःप्रचकम्पे च लक्ष्मणेषुप्रपीडितः ।।6.71.74।।\nरुद्रबाणहतंघोरंयथात्रिपुरगोपुरम् ।",
+      "transliteration": "",
+      "translation": "Now tormented by Lakshmana's arrow the Rakshasa was shaken dreadfully like the gate of Tripura (the city built of gold, silver, and iron in heaven, in space and earth by Maya and burnt by Rudra).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-71",
+      "number": 71,
+      "type": "shloka",
+      "original": "चिन्तयामासचाश्वास्यविमृश्य च महाबलः ।।6.71.75।।\nसाधु��ाणनिपातेनश्लाघनीयोऽसिमेरिपुः ।",
+      "transliteration": "",
+      "translation": "Recovering from the hurt and reflecting, the Rakshasa contemplated the course of action, and said 'By releasing the arrow on me you are an enemy worthy of praise.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-72",
+      "number": 72,
+      "type": "shloka",
+      "original": "विधायैवंविनम्यास्यंनियम्य च भुजावुभौ ।।6.71.76।।\nस रथोपस्थमास्थायरथेनप्रचचार ह ।",
+      "transliteration": "",
+      "translation": "Having spoken that way bending his face setting both shoulders right, he settled at the rear end of the chariot started to move from the chariot.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-73",
+      "number": 73,
+      "type": "shloka",
+      "original": "कंत्रीन्पञ्चसप्तेतिसायन्राक्षसर्षभः ।।6.71.77।।\nआददेसन्दधेचापिविचकर्षोत्ससर्ज च ।",
+      "transliteration": "",
+      "translation": "The bull among the Rakshasas taking, one, three, five and seven arrows, fixing them to the bow stretching released.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-74",
+      "number": 74,
+      "type": "shloka",
+      "original": "तेबाणाःकालसङ्काशाराक्षसेन्द्रधुनुश्च्युताः ।।6.71.78।।\nहेमपुङ्खारविप्रख्याश्चक्रुर्दीप्तमिवाम्बरम् ।",
+      "transliteration": "",
+      "translation": "The gold feathered arrows released from the rakshasas's bow, were like death arrows which shone in the sky as if the sky was glowing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-75",
+      "number": 75,
+      "type": "shloka",
+      "original": "तस्तान्राक्षसोत्सृष्टान्शरौघान्राघवानुजः ।।6.71.79।।\nअसम्ब्रान्तःप्रचिच्छेदनिशितैर्बहुभिश्शरैः ।",
+      "transliteration": "",
+      "translation": "Raghava's brother remained unconfounded and then he shattered the volley of many sharp arrows released by the Rakshasa.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-76",
+      "number": 76,
+      "type": "shloka",
+      "original": "तान् शरान्युधिसम्प्रेक्ष्यनिकृत्तान्रावणात्मजः ।।6.71.80।।\nचुकोपत्रिदशेन्द्रारिर्जग्राहनिशितंशरम् ।",
+      "transliteration": "",
+      "translation": "Ravana's son, an enemy of Indra, observing that all arrows have been ineffective, took up another sharp arrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-77",
+      "number": 77,
+      "type": "shloka",
+      "original": "ससन्धायमहातेजास्तंबाणंसहसोत्सृजत् ।।6.71.81।।\nतेनस्सौमित्रिमायान्तमाजघानस्तनान्तरे ।",
+      "transliteration": "",
+      "translation": "Highly energetic Atikaya, fixing another arrow released it between the breasts of Saumithri and pierced.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-78",
+      "number": 78,
+      "type": "shloka",
+      "original": "अतिकायेनसौमित्रिस्ताडितोयुधिवक्षसि ।।6.71.82।।\nसुस्रावरुधिरंतीव्रंमदंमत्तइवद्विपः ।",
+      "transliteration": "",
+      "translation": "In the battle, Saumithri was hurt in the chest by Atikaya's arrow and blood flowed like the ichor from elephant in rut.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-79",
+      "number": 79,
+      "type": "shloka",
+      "original": "सचकारतदात्मानंविशल्यंसहसाविभुः ।।6.71.83।।\nजग्राह च शरंतीक्ष्णमस्त्रेणापिचसन्दधे ।",
+      "transliteration": "",
+      "translation": "He (Lakshmana) being glorious and noble himself seized hold of the pointed arrow stuck in his body and removed it with a mystic spell.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-80",
+      "number": 80,
+      "type": "shloka",
+      "original": "आग्नेयेनतदाऽस्त्रेणयोजयामाससायकम् ।।6.71.84।।\nस जज्वालतदाबाणोधनुष्यस्यमहात्मनः ।",
+      "transliteration": "",
+      "translation": "Then Lakshmana by concentration of his mind fixed on fire god which presided over the arrow, that great selffixed in his bow glowed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-81",
+      "number": 81,
+      "type": "shloka",
+      "original": "अतिकायोतितेजस्वीसौरमस्त्रंसमादधे ।।6.71.85।।\nतेनबाणंभुजङ्गाभंहेमपुङ्खमयोजयत् ।",
+      "transliteration": "",
+      "translation": "Highly energetic Atikaya took a serpentlike arrow with gold feathers and charged it by the concentration of his mind on the power of Sun god.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-82",
+      "number": 82,
+      "type": "shloka",
+      "original": "तदस्त्रंज्वलितंघोरंलक्ष्मणश्शरमाहितम् ।।6.71.86।।\nअतिकायायचिक्षेपकालदण्डमिवान्तकः ।",
+      "transliteration": "",
+      "translation": "Lakshmana placed that fierce, glowing missile looking like the staff of God of death on Atikaya.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-83",
+      "number": 83,
+      "type": "shloka",
+      "original": "आग्नेयेनाभिसंयुक्तंदृष्टवाबाणंनिशाचरः ।।6.71.87।।\nउत्ससर्जतदाबाणंदीप्तंसूर्यास्त्रयोजितम् ।",
+      "transliteration": "",
+      "translation": "The night ranger, seeing the missile charged with fire god coming towards him, released the glowing arrow charged with the power of Sun god.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-84",
+      "number": 84,
+      "type": "shloka",
+      "original": "तावुभावम्बरेबाणावन्योन्यमभिजघ्नतुः ।।6.71.88।।\nतेजसासंप्रदीप्ताग्रौक्रुद्धाविवभुजंगमौ ।",
+      "transliteration": "",
+      "translation": "Both the arrows effulgent, flaming with fire, were like angry serpents in the sky striking one another violently.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-85",
+      "number": 85,
+      "type": "shloka",
+      "original": "तावन्योन्यंविनिर्दह्यपेततुर्धरणीतले ।।6.71.89।।\nनिरर्चिषौभस्मकृतौ न भ्राजेतेशरोत्तमौ ।\nतावुभौदीप्यमानौस्म न भ्राजेतेमहीतले ।।6.71.90।।",
+      "transliteration": "",
+      "translation": "Those two burning one another and themselves burning had fallen on the earth surface with no fire. Those two best of arrows though glowing, having fallen on earth did not shine as they ceased to emit flames and had been reduced to ashes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-86",
+      "number": 86,
+      "type": "shloka",
+      "original": "ततोऽतिकायस्सङ्कृद्धस्त्वस्त्रमैषीकमुत्सृजत् ।\nतत्प्रचिच्छेदसौमित्रिरस्त्रमैन्द्रेणवीर्यवान् ।।6.71.91।।",
+      "transliteration": "",
+      "translation": "Then Atikaya seized with anger discharged Ishikam presided over by Twashta (the architect of gods). Saumithri then split the arrow with one presided by Indra and split Ishikam.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-87",
+      "number": 87,
+      "type": "shloka",
+      "original": "ऐषीकंनिहतंदृष्टवारुषितोरावणात्मजः ।\nयाम्येनार्स्तेणसङ्कृद्धोयोजयामाससायकम् ।।6.71.92।।",
+      "transliteration": "",
+      "translation": "Annoyed by his arrow Ishikam being struck, Atikaya, son of Ravana charged Lakshmana's arrow with an arrow presided over by Yama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-88",
+      "number": 88,
+      "type": "shloka",
+      "original": "ततस्तदस्त्रंचिक्षेपलक्ष्मणायनिशाचरः ।\nवायव्येनतदस्त्रेणनिजघान स लक्ष्मणः ।।6.71.93।।",
+      "transliteration": "",
+      "translation": "Then the night ranger shattered the arrow of Lakshmana and in turn released an arrow presided by Vayu.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-89",
+      "number": 89,
+      "type": "shloka",
+      "original": "अथैनंशरधाराभिर्धाराभिरिवतोयदः ।\nअभ्यवर्षत्सुसङ्कृद्धोलक्ष्मणोरावणात्मजम् ।।6.71.94।।",
+      "transliteration": "",
+      "translation": "And then enraged Lakshmana covered with water like a rainy cloud would shower with torrents.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-90",
+      "number": 90,
+      "type": "shloka",
+      "original": "तेऽतिकायंसमासाद्यकवचेवज्रभूषिते ।\nभग्नाग्रशल्यास्सहसापेतुर्बाणामहीतले ।।6.71.95।।",
+      "transliteration": "",
+      "translation": "On those arrows touching Atikaya's diamond like body, the pointed arrows shattered the coat covering the body and the broken coat of nails had fallen down.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-91",
+      "number": 91,
+      "type": "shloka",
+      "original": "तान्मोघानभिसम्प्रेक्ष्यलक्ष्मणःपरवीरहा ।\nअभ्यवर्षन्महेषूणांसहस्रेणमहायशाः ।।6.71.96।।",
+      "transliteration": "",
+      "translation": "Lakshmana of great fame, subduer of enemy looking at the arrows becoming useless mighty hero released thousand arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-92",
+      "number": 92,
+      "type": "shloka",
+      "original": "स वृष्यमाणोबाणौघैरतिकायोमहाबलः ।\nअवध्यकवचस्सङ्ख्येराक्षसोनैवविव्यथे ।।6.71.97।।",
+      "transliteration": "",
+      "translation": "Though covered with arrows showered on him, mighty Rakshasa Atikaya had an impenetrable shield in the battlefield and could not feel the torment.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-93",
+      "number": 93,
+      "type": "shloka",
+      "original": "शरंचाशीविषाकारंलक्ष्मणायव्यपासृजत् ।\nस तेनविद्धस्सौमित्रिर्मर्मदेशेशरेण ह ।।6.71.98।।\nमुहूर्तमात्रंनिस्संज्ञोह्यभवच्छत्रुतापनः ।",
+      "transliteration": "",
+      "translation": "Atikaya released an arrow resembling a poisonous serpent at Lakshmana. Pierced in vital part Saumithri, the tormentor of the enemy lost consciousness for a while.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-94",
+      "number": 94,
+      "type": "shloka",
+      "original": "ततःस्संज्ञामुपालभ्यचतुर्भिस्सायकोत्तमैः ।।6.71.99।।\nनिजघानहयान्सङ्ख्येसारथिं च महाबलः ।\nध्वजस्योन्मथनंकृत्वाशरवर्षैररिन्दमः ।।6.71.100।।",
+      "transliteration": "",
+      "translation": "Then mighty subduer of enemies, regaining senses, getting up destroyed the chariot pole with rain of arrows. Taking up four best arrows he struck down the chariot, charioteer, and the horses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-95",
+      "number": 95,
+      "type": "shloka",
+      "original": "असम्भ्रान्तस्ससौमित्रिस्तान्शरानभिलक्षितान् ।\nमुमोचलक्ष्मणोबाणान्वधार्थंतस्यरक्षसः ।।6.71.101।।",
+      "transliteration": "",
+      "translation": "Saumithri, son of Sumithra, was not able to inflict injury on that Rakshasa with those arrows, though desiring to kill him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-96",
+      "number": 96,
+      "type": "shloka",
+      "original": "न शशाकरु��ंकर्तुंयुधितस्यनरोत्तमः ।\nअथैनमभ्युपागम्यवायुर्वाक्यमुवाच ह ।।6.71.102।।",
+      "transliteration": "",
+      "translation": "Wind god (Vayu) having come to the best of men, Lakshmana, spoke to him that in battle it is not possible to injure him or kill him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-97",
+      "number": 97,
+      "type": "shloka",
+      "original": "ब्रह्मदत्तवरोह्येषअवध्यकवचावृतः ।\nब्राह्मेणास्त्रेणभ्निथ्येनमेषवध्योहिनान्यथा ।।6.71.103।।\nअवध्यएषह्यन्येषामस्त्राणांकवचीबली ।",
+      "transliteration": "",
+      "translation": "By the boon given by Brahma his body is covered with armour which can't be broken. By Brahma's weapon only you can strike to kill him because of his armour and might. By any other weapon it is not possible to kill him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-98",
+      "number": 98,
+      "type": "shloka",
+      "original": "ततस्तुवायोर्वचनंनिशम्यसौमित्रिरिन्द्रप्रतिमानवीर्यः ।\nसमाददेबाणममोघवेगंतद्ब्राह्ममस्त्रंसहसानियोज्य ।।6.71.104।।",
+      "transliteration": "",
+      "translation": "Then Saumithri who is equal to Indra hearing wind god's words invoked Brahma's weapon into service. While he was charging into his arrows and fixing the arrow went at terrific speed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-99",
+      "number": 99,
+      "type": "shloka",
+      "original": "नियुज्यमानेसौमित्रिणाबाणवरेशिताग्रे ।\nदिशश्चचन्द्रर्कमहाग्रहाश्चनभश्चतत्रासचचालचोर्वी ।।6.71.105।।",
+      "transliteration": "",
+      "translation": "As Saumithri charged the sharp pointed foremost arrow, the directions, moon, Sun and other planets and the sky, earth, and all space shook.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-100",
+      "number": 100,
+      "type": "shloka",
+      "original": "तंब्रह्मणोऽस्त्रेणनियुज्यचापेशरंसुपुङ्खंयमदूतकल्पम् ।\nसौमित्रिरिन्द्रारिसुतस्यतस्यससर्जबाणंयुधिवज्रकल्पम् ।।6.71.106।।",
+      "transliteration": "",
+      "translation": "Golden feathered arrow, which resembled thunderbolt, was released on Atikaya, enemy of Indra for whom it was like a messenger of death. It was charged with Brahma's mystic by Saumithri and released on fixing it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-101",
+      "number": 101,
+      "type": "shloka",
+      "original": "तंलक्ष्मणोत्सृष्टममोघवेगंसमापतन्तंज्यलनप्रकाशम् ।\nसुपर्णवज्रोत्तमचित्रपुङ्खंतदाऽतिकायस्समरेददर्श ।।6.71.107।।",
+      "transliteration": "",
+      "translation": "Atikaya saw the arrow of Lakshmana coming at a speed, which possessed the velocity of the wind, fixed with feathers resembling the wings of Garuda in the battle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-102",
+      "number": 102,
+      "type": "shloka",
+      "original": "तंप्रेक्षमाणस्सहसाऽतिकायोजघानबाणैर्निशितैरनेकैः ।\nस सायकस्तस्यसुपर्णवेगस्तदातिकायस्यजगामपार्श्वम् ।।6.71.108।।",
+      "transliteration": "",
+      "translation": "As Atikaya was looking at the arrow, Lakshmana struck many arrows forcibly with sharp arrows possessing the speed of Garuda. The arrows reached towards Atikaya.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-103",
+      "number": 103,
+      "type": "shloka",
+      "original": "तमागतंप्रेक्ष्यतदातिकायोबाणंप्रदीप्तान्तककालकल्पम् ।\nजघानक्त्यृष्टिगदाकुठारैशूलैर्हुलैश्चाप्यविपन्नचेता ।।6.71.109।।",
+      "transliteration": "",
+      "translation": "Perceiving the glowing arrow coming, like the spirit of death, Atikaya struck it with unceasing effort with javelins, spears, maces, axes, tridents and even arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-104",
+      "number": 104,
+      "type": "shloka",
+      "original": "तान्यायुधान्यद्भुतविग्रहाणिमोघानिकृत्वा स शरोऽग्निदीप्तः ।\nप्रगृह्यतस्यैवकिरीटजुष्टम् ततोऽतिकायस्यशिरोजहार ।।6.71.110।।",
+      "transliteration": "",
+      "translation": "This great arrow of Lakshmana glowing like fire rendered the weapons in wonderful shapes released by Atikaya unsuccessful and severed the head of Atikaya decked with a crown.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-105",
+      "number": 105,
+      "type": "shloka",
+      "original": "तछचिरस्सशिरस्त्राणंलक्ष्मणेषुप्रपीडितम् ।\nपपातसहसाभूमौशृङ्गंहिमवतोयथा ।।6.71.111।।",
+      "transliteration": "",
+      "translation": "Struck by Lakshmana's arrow, the crowned head of Atikaya fell on the ground like Himalaya peak.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-106",
+      "number": 106,
+      "type": "shloka",
+      "original": "तंभूमौनिपतितंदृष्टवाविक्षिप्तभूषणम्\nबभूवुर्व्यथितास्सर्वेहतशेषानिशाचराः ।।6.71.112।।",
+      "transliteration": "",
+      "translation": "All the Rakshasas who escaped from killing, felt distressed seeing the king and his ornaments scattered on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-107",
+      "number": 107,
+      "type": "shloka",
+      "original": "तेविषण्णमुखादीनाःप्रहारजनितश्रमाः ।\nविनेदुरुच्चैर्बहवस्सहसाविस्वरैस्स्वरैः ।।6.71.113।।",
+      "transliteration": "",
+      "translation": "All the Rakshasas with desperate looks, their pride hurt, became very sad and burst into discordant tones roared aloud.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-108",
+      "number": 108,
+      "type": "shloka",
+      "original": "ततस्तेत्वरितंयातानिरपेक्षानिशाचराः ।\nपुरीमभिमुखाभीताद्रवन्तोनायकेहते ।।6.71.114।।",
+      "transliteration": "",
+      "translation": "With Leader killed, the night rangers were afraid. Listless they ran quickly towards Lanka.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-109",
+      "number": 109,
+      "type": "shloka",
+      "original": "प्रहर्षयुक्ताबहवस्तुवानराःप्रबुद्दपद्मप्रतिमाननास्तदा ।\nअपूजयन्लक्ष्मणविष्टभागिनंहतेरिपौभीमबलेदुरासदे ।।6.71.115।।",
+      "transliteration": "",
+      "translation": "Enemy who was difficult to approach and of terrible might being killed, the Vanaras were extremely delighted. Their faces looked like lotuses in bloom. Filled with joy they worshipped Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-71-110",
+      "number": 110,
+      "type": "shloka",
+      "original": "अतिबलमतिकायमभ्रकल्पंयुधिविनिपात्य स लक्ष्मणःप्रहृष्टः ।\nत्वरितमथतदा स रामपार्श्वंकपिनिवहैश्चसुपूजितोजगाम ।।6.71.116।।",
+      "transliteration": "",
+      "translation": "Having killed that highly mighty Atikaya, who was like a mass of cloud, in battle, Lakshmana having been worshipped by hosts of Vanaras, hurriedly went to Rama's presence. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेएकसप्ततितमस्सर्गः ।। This is the end of the seventy first sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

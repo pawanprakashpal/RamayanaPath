@@ -1,0 +1,828 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 91,
+    "title": "Indrajith's fall after a fierce combat with Lakshmana.",
+    "titleSanskrit": "",
+    "totalShlokas": 90
+  },
+  "shlokas": [
+    {
+      "id": "v6-91-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "स हताश्वोमहातेजाभूमौतिष्ठन्निशाचरः ।\nइन्द्रजित्परमक्रुद्धस्सज���्वालतेजसा ।।6.91.1।।",
+      "transliteration": "",
+      "translation": "The nightranger, effulgent Indrajith standing on the ground very angry, with horses lost, was flaming with energy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तौधवनिनौजिघांसन्तवन्योन्यमिषुभिर्भृशम् ।\nविजयेनाभिनिष्क्रान्तौवनेगजवृषाविव ।।6.91.2।।",
+      "transliteration": "",
+      "translation": "Exceedingly wanting to kill one another, wielding bows, both sallied forth like Lordly elephants in the forest, to succeed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "निबर्हयन्तश्चान्योन्यंतेराक्ष्वनौकसः ।\nभर्तारं न जहुर्युद्धेसम्पतन्तस्ततस्ततः ।।6.91.3।।",
+      "transliteration": "",
+      "translation": "Moving all over, both Rakshasas and Vanaras killing one another in the battle did not leave their master.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "ततस्तान् राक्षसान् सर्वान् हर्षयन् रावणात्मजः ।\nस्तुवानोहर्षमाणश्चइदंवचनमब्रवीत् ।।6.91.4।।",
+      "transliteration": "",
+      "translation": "Then Ravana's son, praising all the Rakshasas making them happy, spoke these words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तमसाबहुलेनेमास्सम्सक्तांसर्वतोदिशः ।\nनेहविज्ञायतेस्वोवापरोवारक्षसोत्तमाः ।।6.91.5।।",
+      "transliteration": "",
+      "translation": "\" As all directions are spread with darkness now it is not possible to know who one's own is or others at this time.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "धृष्टंभवन्तोयुध्यन्तुहरीणांमोहनायवै ।\nअहंतुरथमास्थायआगमिष्यामिसंयुगे ।।6.91.6।।",
+      "transliteration": "",
+      "translation": "\"You delude the sight of Vanaras in battle. I will come to the battle taking the chariot.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तथाभवन्तःकुर्वन्तुयथेमेहिवनौकसः ।\nन युध्येयुर्दुरात्मानःप्रविष्टेनगरंमयि ।।6.91.7।।",
+      "transliteration": "",
+      "translation": "\"While I enter the city you must see that these wicked minded Vanaras do not prevent me from going.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "इत्युक्त्वारावणसुतोवञ्चयित्वावनौकसः ।\nप्रविवेशपुरींलङ्कांरथहेतोरमित्रहा ।।6.91.8।।",
+      "transliteration": "",
+      "translation": "Ravana's son, a slayer of his enemies, having spoken to Vanaras in that way, in deceiving manner entered Lanka to get the chariot.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "स रथंभूषयित्वाथरुचिरंहेमभूषितम् ।\nप्रासासिशरसंयुक्तंयुक्तंपरमवाजिभिः ।।6.91.9।।\nअधिष्ठितंहयज्ञेनसूतेनाप्तोपदेशिना ।\nआरुरोहमहातेजारावणिःसमतिञ्जियः ।।6.91.10।।",
+      "transliteration": "",
+      "translation": "Ravana's son ascended a decorated chariot yoked to horses, directed by a charioteer who could tender good advice and a knower of the nature of horses. It was a beautiful chariot decked with darts and swords adorned with gold which Ravana's son of extraordinarily bright, who has won enemies, ascended.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "स राक्षसगणैर्मुख्यैर्वृतोमन्दोदरीसुतः ।\nनिर्ययौनगरावदीरःकृतान्तबलचोदितः ।।6.91.11।।",
+      "transliteration": "",
+      "translation": "Heroic son of Mandodari, impelled by the force of destiny, departed from the city surrounded by Rakshasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "सोऽभिनिष्क्रम्यनगरादिन्द्रजित्परवीरहा ।\nअभ्ययाज्ञवनैरश्वैर्लक्ष्मणंसविभीषणम् ।।6.91.12।।",
+      "transliteration": "",
+      "translation": "Heroic in the act of destruction of enemies, Indarjith having started from the city in his chariot drawn by swift horses assailed Vibheeshana and Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "ततोरथस्थमालोक्यसौमत्रीरावणात्मजम् ।\nवानराश्चमहावीर्याराक्षसश्चविभीषणः ।।6.91.13।।\nविस्मयंपरमंजग्मुर्लाघवात्तस्यधीमतः ।",
+      "transliteration": "",
+      "translation": "Seeing Indrajith seated in the chariot, great hero Lakshmana as well as the Vanaras and Vibheeshana wondered how easily he went and returned.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "रावणिश्चापिसङ्क्रुद्धोरणेवानरयूथपान् ।।6.91.14।।\nपातयामासबाणौघैःशतशोऽथसहस्रशः ।",
+      "transliteration": "",
+      "translation": "Indrajith, highly enraged, struck Vanara leaders with a volley of hundreds and thousands of arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "मण्डलीकृतधनूरावणिःसमतिञ्जयः ।।6.91.15।।\nहरीनभ्यहनत्कृद्धःपरंलाघवमास्थितः ।",
+      "transliteration": "",
+      "translation": "Indrajith, a winner of combat, became highly furious and stretched his bow showing his skill easily struck at Vanaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तेवध्यमानाहरयोनाराचैर्भीमविक्रमैः ।।6.91.16।।\nसौमित्रिंशरणंप्राप्ताःप्रजापतिमिवप्रजाः ।",
+      "transliteration": "",
+      "translation": "(The Vanaras), though endowed with prowess and of terrific courage, struck by the Rakshasa, they sought refuge of Lakshmana, their Lord, just as people seek the refuge of their Lord, the creator.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "ततःसमरकोपेनज्वलितोरघुनन्दनः ।।6.91.17।।\nचिच्छेदकार्मुकंतस्यदर्शयन् पाणिलाघवम् ।",
+      "transliteration": "",
+      "translation": "There, in the battlefield the delight of Raghus glowing with anger shattered the Rakshasas showing the skill of his hand s.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "सोन्यऽत्कार्मुकम् मादायसज्जंचक्रेत्वरन्निव ।।6.91.18।।\nतदप्यस्यत्रिभिर्बाणैर्लक्ष्मणोनिरकृन्तत ।",
+      "transliteration": "",
+      "translation": "Indrajith seizing another bow hastily targeted at Lakshmana and Lakshmana split them with three arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अथैवंछिन्नधन्वानमाशीविषविषोपमैः ।।6.91.19।।\nविव्याधोरसिसौमित्रीरावणिंपञ्चभिःशरैः ।",
+      "transliteration": "",
+      "translation": "Then Saumithri pierced with five arrows into the chest of Indrajith like a venomous serpent and split the bow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तेतस्यकायंनिर्भिद्यमहाकार्मुकनिस्सृताः ।।6.91.20।।\nनिपेतुर्धरणींबाणारक्ताइवमहोरगाः ।",
+      "transliteration": "",
+      "translation": "Those arrows released from the great bow of Lakshmana, entered the body of Indrajithand fell on the ground like a huge red serpent.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "भिन्नवर्मारुधिरंवमन्वक्त्रेणरावणिः ।।6.91.21।।\nजग्राहकार्मुकश्रेष्ठंदृढज्यंबलवत्तरम् ।",
+      "transliteration": "",
+      "translation": "Bow split, ejecting blood from mouth, Indrajith took his strong best of bows which had a stout string.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "सःलक्ष्मणंसमुद्धिश्यपरंलाघवमाश्रितः ।।6.91.22।।\nववर्षशरवर्षाणिवर्षाणीवपुरन्दरः ।",
+      "transliteration": "",
+      "translation": "Indrajith, aiming at Lakshmana, let loose rain of arrows easily like rain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "मुक्तमिन्द्रजितातत्तुशरवर्षमरिन्दमः ।।6.91.23।।\nअवारयदसम्भ्रान्तोलक्ष्मणःसुदुरासदम् ।",
+      "transliteration": "",
+      "translation": "Lakshmana, the tamer of enemies, without reacting intercepted the shower of arrows released by Indrajith which was difficult to resist.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "संदर्शयामासतदारावणिंरघुनन्दनः ।।6.91.24।।\nअसम्ब्रान्तोमहातेजेस्तदद्भुतमिवाभवत् ।",
+      "transliteration": "",
+      "translation": "Highly energetic Lakshmana, a delight of Raghus, unperturbed, demonstrated to Indrajith, which was a wonder indeed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "तस्तान् राक्षसान् सर्वांस्त्रिभिरेकैकमाहवे ।।6.91.25।।\nअविध्यत्परमक्रुद्धश्शीघ्रास्त्रंसम्प्रदर्शयन् ।\nराक्षसेन्द्रसुतंचापिबाणौघैस्समताडयत् ।।6.91.26।।",
+      "transliteration": "",
+      "translation": "Then extremely angry Lakshmana pierced all the Rakshasas quickly, each one with three arrows and struck them and even the son of Rakshasa king, exhibiting his skills.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "सोऽतिविद्धोबलवताशत्रुणाशत्रुघातिना ।\nअसक्तंप्रेषयामासलक्ष्मणायबहून् शरान् ।।6.91.27।।",
+      "transliteration": "",
+      "translation": "Indrajith, who was grievously wounded by his hostile enemy, Lakshmana, the destroyer of hostile enemies, continuously discharged arrows at him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "तानप्राप्तान् शितैर्भाणैश्चिच्छेदपरवीरहा ।\nसारथेरस्य च रणेरथिवोरघुसत्तमः ।।6.91.28।।\nशिरोजहारधर्मात्माभल्लेनानतपर्वणा ।",
+      "transliteration": "",
+      "translation": "Heroic enemy, the righteous Lakshmana, tore the head of the carwarrior as well as the charioteer in the battle with bhala (spear), even before Indrajith discharged pointed arrows at him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "सूतास्तेहयास्तत्ररथमूहुरविक्लबाः ।।6.91.29।।\nमण्डलान्यभिधावन्तस्तदद्भुतमिवाभवत् ।",
+      "transliteration": "",
+      "translation": "There, though there was no charioteer, the horses went round in circles and as they went forward it was wonderful.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "अमर्षवशमापन्नःसौमित्रिर्दृढविक्रमः ।।6.91.30।।\nप्रत्यविद्ध्यद्धयांस्तस्यशरैर्वित्रासयन् रणे ।",
+      "transliteration": "",
+      "translation": "Saumithri of untiring valour, overcome with fury in the battle, struck the horses to scare them and destroyed them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "अमर्षमाणस्तत्कर्मरावणस्यसुतोबली ।।6.91.31।।\nविव्याथदशभिर्बाणैस्सौमित्रिंतममर्षणम् ।",
+      "transliteration": "",
+      "translation": "Indrajith, unable to tolerate the action of Saumithri, was angry and struck him with ten arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "तेतस्यवज्रप्रतिमाःशरास्सर्पविषोपमाः ।।6.91.32।।\nविलयंजग्मुरागत्यकवचंकाञ्चनप्रभम् ।",
+      "transliteration": "",
+      "translation": "His arrows, which resembled thunderbolts and were like venomous serpents, touching Lakshmana's shield shining like gold, broken, and fallen",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "अभ्येद्यकवचंमत्वालक्ष्मणंरावणात्मजः ।।6.91.33।।\nललाटेलक्ष्मणंबाणैस्सुपुङ्खैस्त्रिभिरिन्द्रजित् ।\nअविध्यत्परमक्रुद्धःशीघ्रमस्त्रंप्रदर्शयन् ।।6.91.34।।",
+      "transliteration": "",
+      "translation": "Ravana's son, knowing that it is not possible to break the shield of Lakshmana, quickly showed his weapon with three arrows with plumes and gems and struck him on the forehead.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "तैःपृषत्कैर्ललाटस्थैश्शुशुभेरघुनन्दनः ।\nरणाग्रेसमरश्लाघीत्रिशृङ्गइवपर्वतः ।।6.91.35।।",
+      "transliteration": "",
+      "translation": "Lakshmana, the delight of Raghus, who loved to fight, looked charming in the battlefield with three arrows stuck on his forehead looking like three mountain peaks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "स तथाह्यर्दितोबाणैराक्षसेनतदामृधे ।\nतमाशुप्रतिविव्याधलक्ष्मणःपञ्चभि��शरैः ।।6.91.36।।\nविकृष्वेन्द्रजितोयुद्धेवदनेशुभकुण्डले ।",
+      "transliteration": "",
+      "translation": "Then in the battle, pierced by Rakshasa in that manner, Laksmana immediately stretched his bow and struck with five arrows on the face of Indrajith, who was adorned with auspicious earrings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "लक्ष्मणेन्द्रजितौवीरौमहाबलशरासनौ ।।6.91.37।।\nअन्योन्यंजघ्नतुर्बाणैर्विशिखैर्मीविक्रमौ ।",
+      "transliteration": "",
+      "translation": "Both heroes of extraordinary might and equipped with huge arms, endowed with terrific valour, Lakshmana and Indrajith struck one another with sharp arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "ततःशोणितदिग्धाङ्गौलक्ष्मणेन्दजितावुभौ ।।6.91.38।।\nरणेतौराजतुर्वीरौपुष्पिताविवकिंशुकौ ।",
+      "transliteration": "",
+      "translation": "Then smeared with blood the two, Lakshmana and Indrajit, shone like fully blossomed Kimsuka in battle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "तौपरस्परमभ्येत्यसर्वगात्रेषुधवनिनौ ।।6.91.39।।\nघोरैर्विव्यधतुर्भाणैःकृतभावावुभौजये ।",
+      "transliteration": "",
+      "translation": "Both wishing for victory, set to tear each other, pierced dreadful arrows on one another all over the limbs, opposing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "ततःसमरकोपेनसम्वृतोरावणात्मजः ।।6.91.40।।\nविभीषणंत्रिभिर्बाणैर्विव्याथवदनेशुभे ।",
+      "transliteration": "",
+      "translation": "Then Ravana's son in his charming countenance, filled with wrath because of conflict, struck at Vibheeshana with three arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "अयोमुखैस्त्रिभिर्विद्ध्वाराक्षसेन्द्रंविभीषणम् ।।6.91.41।।\nएकैकेनाभिविव्याथतान्सर्वान् हरियूथपान् ।",
+      "transliteration": "",
+      "translation": "Having struck Vibheeshana with three arrows, he struck again all the Vanara leaders with one arrow each.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "तस्मैदृढतरंक्रुद्धोजघानगदयाहयान् ।।6.91.42।।\nविभीषणोमहातेजारावणेस्सदुरात्मनः ।",
+      "transliteration": "",
+      "translation": "Brilliant Vibheeshana struck evil minded Indrajith, his horses and elephants with his mace.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "पहताश्वादवाप्लुत्यरथान्निहतसारथे: ।।6.91.43।।\nरथशक्तिंमहातेजाःपितृव्यायमुमोच ह ।",
+      "transliteration": "",
+      "translation": "Highly energetic Indrajith, leaping down from the chariot, horses destroyed, now hurled a javelin at his uncle in the chariot.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "तामापततनींसम्प्रेक्ष्यसुमित्रानन्दवर्धनः ।।6.91.44।।\nचिच्छेदनिशितैर्बाणैर्धशथापातयद्भुवि ।",
+      "transliteration": "",
+      "translation": "Observing the javelin coming towards him, Lakshmana, the delight of Raghus and enhancer of Sumithra's joy, split it into ten pieces, which had fallen on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "तस्मैदृढतनुःक्रुद्धोहताश्वायविभीषणः ।।6.91.45।।\nवज्रस्पर्शसमान् पञ्चससर्जोरसिसायकान् ।",
+      "transliteration": "",
+      "translation": "Vibheeshana of strong body, pierced five arrows like thunderbolt in impact into the chest of Indrajith.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "तेतस्यकायंभित्वातुरुक्मपुङ्खानिमित्तगाः ।।6.91.46।।\nबभूवुर्लोहितादिग्धारक्ताइवमहोरगाः ।",
+      "transliteration": "",
+      "translation": "The arrows with red feathers of Vibheeshana having penetrated the body of Indrajith, piercing into the body they became red coloured seemed like a red serpent.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "सःपितृव्यस्यसङ्क्रुद्धःइन्द्रजिच्छरमाददे ।।6.91.47।।\nउत्तमंरक्षसांमध्येयमदत्तंमहाबलम् ।",
+      "transliteration": "",
+      "translation": "Indrajith, angry with his uncle, staying in the midst of Rakshasas, seized a mighty strong best arrow gifted by Yama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "तंसमीक्ष्यमहातेजामहेषुंतेनसंहितम् ।।6.91.48।।\nलक्ष्मणोऽप्याददेबाणमद्यभदीमपराक्रमः ।",
+      "transliteration": "",
+      "translation": "Extraordinarily brilliant and of terrific valour, Lakshmana, perceiving the mighty shaft yoked by him (by Indrajith), he took up another arrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "कुबेरेणस्वयंस्वप्नेयद्दत्तममितात्मना ।।6.91.49।।\nदुर्जयंदुर्विषह्यं च सेन्द्रैरपिसुरासुरैः ।",
+      "transliteration": "",
+      "translation": "That arrow was gifted to Lakshmana in dream by Kubera, the god of wealth and even Suras or Asuras cannot resist it and is difficult to win.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "तयोस्तुधनुषीश्रेष्ठेबाहुभिःपरिघोपमैः ।।6.91.50।।\nविकृष्यमाणेबलवत् क्रौञ्चविवचुकूजतुः ।",
+      "transliteration": "",
+      "translation": "Excellent bows of the two made noise like Krauncha birds while being drawn with great strength by the two, whose arms resembled iron bars.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "ताभ्यांतुधनुषिश्रेष्ठेसंसितौसायकोत्तमौ ।।6.91.51।।\nविकृष्यमाणेवीराभ्यांभृशंजज्वलतुःश्रिया ।",
+      "transliteration": "",
+      "translation": "The two best bows of both the heroes together, being powerful, shone with splendour when drawn with bowstring.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "तौभासयन्तावाकाशंधनुर्भ्यांविशिखौच्युतौ ।।6.91.52।।\nमुखेनमुखमाहत्यसन्निपेततुरोजसा ।",
+      "transliteration": "",
+      "translation": "Those arrows released from the bows lit the sky when their heads collided with each other and glowed by rubbing against each other.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "सन्निपातस्तयोश्चासीच्छरयोर्घोररूपयोः ।।6.91.53।।\nसधूमविस्फुलिङ्गश्चतज्जोऽनगिर्दारुणोऽभवत् ।",
+      "transliteration": "",
+      "translation": "By the impact of the two arrows brought together, a formidable form of fire frightening with smoke and sparks was created.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "तौमहाग्रहसङ्काशावन्योन्यंसन्निपत्य च ।।6.91.54।।\nसङ्ग्रामेशतधायातौमेदिन्यांचैवपेततुः ।",
+      "transliteration": "",
+      "translation": "In the battle both of them touching each other in conflict like the major planets flew into a hundred pieces and fell on earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "शरौप्रतिहतौदृष्टवातावुभौरणमूर्धनि ।।6.91.55।।\nव्रीडितौजातरोषौ च लक्ष्मणेन्द्रजितौतदा ।",
+      "transliteration": "",
+      "translation": "Then both Lakshmana and Indrajith in the face of the battle seeing their arrows in nought with each other were abashed and got agitated.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "सुसंरर्ब्धस्तुसौमित्रिरस्त्रंवारुमाददे ।।6.91.56।।\nरौद्रंमहेन्द्रजिद्युद्धेऽप्यसृजद्युद्धनिष्ठितः ।",
+      "transliteration": "",
+      "translation": "Enraged Saumithri, seizing the weapon of Varuna, skilled in warfare loosened on Indrajith (Mahendra's enemy), which was presided over by Rudra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-54",
+      "number": 54,
+      "type": "shloka",
+      "original": "तेनतद्विहतंशस्त्रंवारुणंपरमाद्भुतम् ।।6.91.57।।\nततःक्रुद्धोमहातेजाइन्द्रजित्समितिञ्जयः ।\nआग्नेयंसन्दधेदीप्तं स लोकंसङ्क्षिपन्निव ।।6.91.58।।",
+      "transliteration": "",
+      "translation": "Then the very wonderful weapon of Varuna was made ineffective by the highly energetic Indrajith's who used glowing fire missiles as if to destroy the whole world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-55",
+      "number": 55,
+      "type": "shloka",
+      "original": "सौरेणास्त्रणतवदीरोलक्ष्मणःपर्यवारयत् ।\nअस्त्रंनिवारितंदृष्टवारावणिःक्रोथमूर्छितः ।।6.91.59।।\nआददेनिशितंबाणमासुरंशत्रुदारुणम् ।",
+      "transliteration": "",
+      "translation": "Then Lakshmana used a Sun missile and repelled (Indrajith's fire missile). Seeing his missile obstructed, Indrajith deluded with anger used a sharp Asura missile capable of destroying the enemy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-56",
+      "number": 56,
+      "type": "shloka",
+      "original": "तस्माच्चापाद्विनिष्पेतुर्भास्वराःकूटमुद्गराः ।।6.91.60।।\nशूलानि च मुशुण्ड्यश्चगदाःखङ्गा: परश्वथा: ।",
+      "transliteration": "",
+      "translation": "By the Sun missile, the Kutamudgaras, tridents, Bhusundas, swords and axes issued forth from Indrajith's bow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-57",
+      "number": 57,
+      "type": "shloka",
+      "original": "तद्दृष्टवालक्ष्मणःसङ्ख्येघोरमस्त्रंसुदारुणम् ।।6.91.61।।\nअवार्यंसर्वभूतानांसर्वशस्त्रविदारणम् ।\nमहेश्वरेणद्युतिमांस्तदस्त्रंप्रत्यवारयत् ।।6.91.62।।",
+      "transliteration": "",
+      "translation": "Effulgent Lakshmana, seeing the terrible Asura missile and deliberating that it is capable of destroying all human beings and difficult to repel, used a Maheswara missile to divert.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-58",
+      "number": 58,
+      "type": "shloka",
+      "original": "तयोःसमुतुलंयुद्धंसम्बभूवारोमहर्षणम् ।\nगगनस्थानिभूतानिलक्ष्मणंपर्यवारयन् ।।6.91.63।।",
+      "transliteration": "",
+      "translation": "The war between both was wonderful and horripulating. Beings from the sky saw Lakshmana diverting the Asura missile.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-59",
+      "number": 59,
+      "type": "shloka",
+      "original": "भैरवाभिरुतेभीमेयुद्धेवानरक्षसाम् ।\nभूतैर्बहुभिराकाशंविस्मितैरावृतंबभौ ।।6.91.64।।",
+      "transliteration": "",
+      "translation": "As the frightful war between Vanaras and Rakshasas went on, many beings surrounded in the sky were astonished and looked charming.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-60",
+      "number": 60,
+      "type": "shloka",
+      "original": "ऋषयःपितरोदेवागन्धर्वगरुडोरगाः ।\nशतक्रतुंपुरस्कृत्यररक्षुर्लक्ष्मणंरणे ।।6.91.65।।",
+      "transliteration": "",
+      "translation": "The Rsis, Devatas, manes, Gandharvas, Garudas, serpents and Indra who had performed hundred sacrifices, protected Lakshmana in war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-61",
+      "number": 61,
+      "type": "shloka",
+      "original": "अथान्यंमार्गणश्रेष्ठंसन्दधेराघवानुजः ।\nहुताशनसमस्पर्शंरावणात्मजदारणम् ।।6.91.66।।",
+      "transliteration": "",
+      "translation": "And thereafter, Raghava's brother fitted another excellent arrow which had the impact of the touch of fire capable of tearing Indrajith.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-62",
+      "number": 62,
+      "type": "shloka",
+      "original": "सुपत्रमनुवृत्ताङ्गंसुपर्वाणंसुसंस्थितम् ।\nसुवर्णविकृतंवीरश्शरीरान्तकरंशरम् ।।6.91.67।।\nदुरावारंदुर्विषहंराक्षसानांभयावहम् ।\nआशीविषविषप्रख्यंदेवसङ्घैःसमर्चितम् ।।6.91.68।।",
+      "transliteration": "",
+      "translation": "The arrow with lovely feathers, consisting of beautiful parts, skilfully done, well jointed, decked with gold, was not only difficult to put off but also difficult to bear, was capable of destroying enemies, frightful, resembling venomous serpents, and worshipped by gods.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-63",
+      "number": 63,
+      "type": "shloka",
+      "original": "येनशक्रोमहातेजादानवानजत्प्रभुः ।\nपुरादेवासुरेयुद्धेवीर्यवान् हरिवाहनः ।।6.91.69।।",
+      "transliteration": "",
+      "translation": "In the past at the war between Devas and Asuras, a mighty and energetic valiant Lord of Devas who had green horses conquered Danavas (with the same sword).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-64",
+      "number": 64,
+      "type": "shloka",
+      "original": "तदैन्द्रमस्त्रंसौमित्रिःसम्युगेष्वपराजितम् ।\nशरश्रेष्ठंधनु: श्रेष्ठेविक���्षन्निदमिब्रवीत् ।।6.91.70।।\nलक्ष्मीवान् लक्ष्मणोवाक्यमर्थसाधकमात्मनः ।",
+      "transliteration": "",
+      "translation": "Son of Saumithri, that prosperous Lakshmana, drawing Indra's missile, the foremost one, and also the best of arrows, which has never been defeated, spoke these words set to achieve the purpose.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-65",
+      "number": 65,
+      "type": "shloka",
+      "original": "धर्मात्मासत्यसन्धश्चरामोदाशरथिर्यति ।।6.91.71।।\nपौरुषेचाप्रतिद्वन्द्वःशरैनंजसिरावणिम् ।",
+      "transliteration": "",
+      "translation": "\"If Dasharatha's son, Sri Rama is righteous, truthful, of unrivalled valour and true to his promise this arrow will kill Indrajith.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-66",
+      "number": 66,
+      "type": "shloka",
+      "original": "इत्युक्त्वाबाणमाकर्णंविकृष्यतमजिह्मगम् ।।6.91.72।।\nलक्ष्मणःसमरेवीरःससर्जेन्द्रजितंप्रति ।",
+      "transliteration": "",
+      "translation": "Having spoken that way, Lakshmana, heroic in battle, bending the bow, stretching the arrow till the ear released on Indrajith.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-67",
+      "number": 67,
+      "type": "shloka",
+      "original": "ऐन्द्रास्त्रेणसमायुज्यलक्ष्मणःपरवीरहा ।।6.91.73।।\nततशिरःसशिरस्त्राणंश्रीमज्ज्वलितकुण्डलम् ।\nप्रमथ्येन्द्रजितःकायात्पातयामासभूतले ।।6.91.74।।",
+      "transliteration": "",
+      "translation": "Prosperous Lakshmana, the destroyer of enemies, aiming at Indrajith's head shining with earrings belonging to the head severed from the body, it fell on ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-68",
+      "number": 68,
+      "type": "shloka",
+      "original": "तद्राक्षसतनूजस्यभिन्नस्कन्धंशिरोमहत् ।\nतपनीयनिभंभूमौददृशेरुधिरोक्षितम् ।।6.91.75।।",
+      "transliteration": "",
+      "translation": "Trunk broken off, the huge head of Indrajith bathed in blood was seen on the earth shining like gold.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-69",
+      "number": 69,
+      "type": "shloka",
+      "original": "हतः स निपपाताथधरण्यांरावणात्मजः ।\nकवचीसशिरस्त्राणोविद्धस्थशरासनः ।।6.91.76।।",
+      "transliteration": "",
+      "translation": "Thereafter Indrajith with his shield, and helmet of the head broken was thrown on earth killed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-70",
+      "number": 70,
+      "type": "shloka",
+      "original": "चुक्रुशुस्तेततःसर्वेवानराःसविभीषणाः ।\nहृष्यन्तोनिहतेतस्मिन् देवावृत्रवधेयथा ।।6.91.77।।",
+      "transliteration": "",
+      "translation": "Then Vibheeshana and all the Vanaras rejoiced just as Devas, when Vrtasura was killed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-71",
+      "number": 71,
+      "type": "shloka",
+      "original": "अथान्तरिक्षेभूतानामृषीणां च महात्मनाम् ।\nजज्ञेऽथजयसन्नादोगन्धर्वाप्सरसामपि ।।6.91.78।।",
+      "transliteration": "",
+      "translation": "Then shouts of victory aroused from the heavens from the created beings of heaven, Rsis also, Gandharvas and Apsaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-72",
+      "number": 72,
+      "type": "shloka",
+      "original": "पतितंतमभिज्ञायराक्षसीसामहाचमूः ।\nवध्यमानादिशोभेजेहरिभिर्जितकाशिभिः ।।6.91.79।।",
+      "transliteration": "",
+      "translation": "Great army of Rakshasas even though desired to win seeing (Indrajith dead), Vanaras started attacking them. Unable to bear Rakshasas screamed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-73",
+      "number": 73,
+      "type": "shloka",
+      "original": "वानरैर्वध्यमानास्तेशस्त्रानुत्सृज्यराक्षसाः ।\nलङ्कामभिमुखास्सस्रुर्भ्रष्टसंज्ञाःप्रधाविताः ।।6.91.80।।",
+      "transliteration": "",
+      "translation": "Those Rakshasas being killed by Vanaras, went running to Lanka leaving their weapons, with senses lost.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-74",
+      "number": 74,
+      "type": "shloka",
+      "original": "दुद्रुवुर्भहुधाभीताराक्षसाश्शतशोदिशः ।\nत्यक्त्वाप्रहरणान्सर्वेपट्टसासिपरश्वधान् ।।6.91.81।।",
+      "transliteration": "",
+      "translation": "All Rakshasas feared and panic stricken fled in hundreds, in groups in all directions leaving their sharpedged spears, swords, and axes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-75",
+      "number": 75,
+      "type": "shloka",
+      "original": "केचिल्लङ्कांपरित्रस्ताःविष्टावानरार्दिताः ।\nसमुद्रेपतिताःकेचित्केचित्पर्वतमाश्रिताः ।।6.91.82।।",
+      "transliteration": "",
+      "translation": "Pained by Vanaras, some fearful entered Lanka, few had fallen in the ocean and some sought refuge in the mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-76",
+      "number": 76,
+      "type": "shloka",
+      "original": "हतमिन्द्रजितंदृष्टवाशयानं च रणक्षितौ ।\nराक्षसानांसहस्रेषु न कश्चित्प्रत्यदृश्यत ।।6.91.83।।",
+      "transliteration": "",
+      "translation": "Indrajith was lying, having fallen on the ground, and not even one of the thousands of Rakshasas was present there to see.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-77",
+      "number": 77,
+      "type": "shloka",
+      "original": "यथास्तङ्गतआदित्येनावतिष्ठन्तिरश्मयः ।\nतथातस्मिन्निपतितेराक्षसास्तेगतादिशः ।।6.91.84।।",
+      "transliteration": "",
+      "translation": "Just as Sun rays go away as soon as the Sun sets in the evening, the Rakshasas also went in all directions seeing Indrajith fallen.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-78",
+      "number": 78,
+      "type": "shloka",
+      "original": "शान्तरश्मिरिवादित्योनिर्वाणइवपावकः ।\nबभूव स महाबाहुर्व्यपास्तगतजीवितः ।।6.91.85।।",
+      "transliteration": "",
+      "translation": "Shorn of life, the broad shouldered Indrajith remained on the ground like the Sun whose rays have become cool, after death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-79",
+      "number": 79,
+      "type": "shloka",
+      "original": "प्रशान्तपीडाबहुलोविनष्टारिःप्रहर्षवान् ।\nबभूवलोकःपतितेराक्षसेन्द्रसुतोतदा ।।6.91.86।।",
+      "transliteration": "",
+      "translation": "Then many were at peace and rejoiced in the world, being relieved, when Ravana's son dropped dead.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-80",
+      "number": 80,
+      "type": "shloka",
+      "original": "हर्षं च शक्रोभगवान् सहसर्वैर्महर्षिभिः ।\nजगामनिहतेतस्मिन्राक्षसेपापकर्मणि ।।6.91.87।।",
+      "transliteration": "",
+      "translation": "Glorious Rakshasa of sinful deeds having been killed, all including great sages and Indra felt rejoiced.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-81",
+      "number": 81,
+      "type": "shloka",
+      "original": "आकाशेचापिदेवानांशुश्रुवेदुन्दुभिस्वनः ।\nनृत्यद्भिरप्सरोभिश्चगन्धर्वैश्चमहात्मभिः ।।6.91.88।।",
+      "transliteration": "",
+      "translation": "In heaven also, sounds of drums of Gandharvas, great souls and dance of Apsaras were heard.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-82",
+      "number": 82,
+      "type": "shloka",
+      "original": "ववर्षुःपुष्पवर्षाणितदद्भुतमिवाभवत् ।\nप्रशश���सुर्हतेतस्मिन्राक्षसेक्रूरकर्मणि ।।6.91.89।।",
+      "transliteration": "",
+      "translation": "With cruel minded Rakshasa killed, celebrities showered rain of flowers praising the wonderful deed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-83",
+      "number": 83,
+      "type": "shloka",
+      "original": "शुद्धाआपोनभश्चैवजहृषुर्देवदानवाः ।\nआजग्मुःपतितेतस्मिन्सर्वलोकभयावहे ।।6.91.90।।",
+      "transliteration": "",
+      "translation": "As the terror of all worlds had fallen and the water from the sky became pure, Devas and Danavas rejoiced and came there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-84",
+      "number": 84,
+      "type": "shloka",
+      "original": "ऊचुश्चसहितास्तुष्टादेवगन्धर्वदानवाः ।\nविज्वराश्शान्तकलुषाब्राह्मणाविचरन्त्विति ।।6.91.91।।",
+      "transliteration": "",
+      "translation": "Devas, Danavas and Ghandharvas arrived there and said, \"Let the Brahmins be without anxiety and move about without fear.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-85",
+      "number": 85,
+      "type": "shloka",
+      "original": "ततोऽभ्यनन्दन्सम्हृष्टास्समरेहरियूथपाः ।\nतमप्रतिबलंदृष्टवाहतंनैरृतपुङ्गवम् ।।6.91.92।।",
+      "transliteration": "",
+      "translation": "When, the best of Rakshasa, a leader of extraordinary prowess was killed, the Vanara army seeing Lakshmana felt happy and greeted him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-86",
+      "number": 86,
+      "type": "shloka",
+      "original": "विभीषणोहनूमांश्चजाम्बवांश्चर्क्षयूथपः ।\nविजयेनाभिनन्दन्तसुष्टुवुश्चापिलक्ष्मणम् ।।6.91.93।।",
+      "transliteration": "",
+      "translation": "Vibheeshana and Hanuman, leader of Bears Jambavan praised Lakshmana and greeted him for his victory.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-87",
+      "number": 87,
+      "type": "shloka",
+      "original": "क्ष्वेळन्तश्चप्लवन्तश्चगर्जन्तश्चप्लवङ्गमाः ।\nलब्दलक्षारघुसुतंपरिवार्योपतस्थिरे ।।6.91.94।।",
+      "transliteration": "",
+      "translation": "Having accomplished their goal, monkeys roaring, playing, surrounded Lakshmana, and stood.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-88",
+      "number": 88,
+      "type": "shloka",
+      "original": "लाङ्गूलानिप्रविध्यन्तस्स्फोटयन्तश्चवानराः ।\nलक्ष्मणोजयतीत्येवंवाक्यंविश्रावयंस्तदा ।।6.91.95।।",
+      "transliteration": "",
+      "translation": "Then Vanaras wagging their tails and lashing them announced slogans saying,\" Lakshmana is winning.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-89",
+      "number": 89,
+      "type": "shloka",
+      "original": "अन्योन्यं च समालशिष्यहरयोहृष्टमानसाः ।\nचक्रुरुच्चावगुणाराघवाश्रयसजा: कथा: ।।6.91.96।।",
+      "transliteration": "",
+      "translation": "The monkeys feeling very happy embraced one another singing in praise of Lakshmana saying\" Lakshmana has won\"and stories related to Lakshmana",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-91-90",
+      "number": 90,
+      "type": "shloka",
+      "original": "तदसुकरमथाभिवीक्ष्यहृष्टाःप्रियसुहृदोयुधिलक्ष्मणस्यकर्म ।\nपरममुपलभन्मनःप्रहर्षंविनिहतमिन्द्ररिपुंनिशम्यदेवाः ।।6.91.97।।",
+      "transliteration": "",
+      "translation": "Knowing that Indra's enemy has been killed by Lakshmana, the Devatas experienced joy that their loving friend has done a deed which cannot be done by others. Witnessing the battle, they felt very happy, their minds filled with joy. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकावेयुद्धकाण्डेएकनवतितमस्सर्गः ।। This is the end of the ninety first sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

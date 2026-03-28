@@ -1,0 +1,414 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 67,
+    "title": "Hanuman displays his immeasurable might and proceeds to mount Mahendra",
+    "titleSanskrit": "",
+    "totalShlokas": 44
+  },
+  "shlokas": [
+    {
+      "id": "v4-67-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तं दृष्ट्वा जृम्भमाणं ते क्रमितुं शतयोजनम्।\nवीर्येणापूर्यमाणं च सहसा वानरोत्तमम्।।4.67.1।।\nसहसा शोकमुत्सृज्य प्रहर्षेण समन्विताः।\nविनेदुस्तुष्टुवुश्चापि हनूमन्तं महाबलम्।।4.67.2।।",
+      "transliteration": "",
+      "translation": "'In order to cross a hundred yojanas, Hanuman, the best of monkeys expanded his  might and strength. Seeing him, a warrior of great strength, all the monkeys, filled with enthusiasm at once gave up grief and collected together.They rejoiced and propitiated him screaming aloud.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "प्रहृष्टा विस्मिताश्चैव वीक्षन्ते स्म समन्ततः।\nत्रिविक्रमकृतोत्साहं नारायणमिव प्रजाः।।4.67.3।।",
+      "transliteration": "",
+      "translation": "The monkeys collected together happily, gazing at Hanuman.They were wonderstruck to see Hanuman in that huge form, just as all beings were when they saw Lord Narayana in his incarnation of Vamana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "संस्तूयमानो हनुमान्व्यवर्धत महाबलः।\nसमाविध्य च लाङ्गूलं हर्षाद्बलमुपेयिवान्।।4.67.4।।",
+      "transliteration": "",
+      "translation": "The monkeys praised the mighty Hanuman as he grew in size whirling his tail around joyfully.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तस्य संस्तूयमानस्य सर्वैर्वानरपुङ्गवैः।\nतेजसापूर्यमाणस्य रूपमासीदनुत्तमम्।।4.67.5।।",
+      "transliteration": "",
+      "translation": "As Hanuman was being praised by the monkey leaders, his body filled with lustre. It looked excellent.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "यथा विजृम्भते सिंहो विवृद्धो गिरिगह्वरे।\nमारुतस्यौरसः पुत्रस्तथा सम्प्रति जृम्भते।।4.67.6।।",
+      "transliteration": "",
+      "translation": "Just as a lion grown in a mountain cave stretches its body, the Windgod's son stretched  (his limbs) at that time.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अशोभत मुखं तस्य जृम्भमाणस्य धीमतः।\nअम्बरीषमिवाऽदीप्तं विधूम इव पावकः।।4.67.7।।",
+      "transliteration": "",
+      "translation": "On expansion, wise Hanuman's face was bright, glowing like a burning oven and  shining like smokeless fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "हरीणामुत्थितो मध्यात्सम्प्रहृष्टतनूरुहः।\nअभिवाद्य हरीन्वृद्धान्हनुमानिदमब्रवीत्।।4.67.8।।",
+      "transliteration": "",
+      "translation": "Hanuman risen from the midst of the monkeys with his hair bristling on the body (due to expansion of body), saluted reverentially to the elderly monkey Jambavan and said :",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "अरुजत्सर्वताग्राणि हुताशनसखोऽनिलः।\nबलवानप्रमेयश्च वायुराकाशगोचरः।।4.67.9।।",
+      "transliteration": "",
+      "translation": "'The Windgod is a friend of fire who is a powerful consumer of oblations. His strength is immeasurable. He wanders in the sky and shatters the mountain tops.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तस्याहं शीघ्रवेगस्य शीघ्रगस्य महात्मनः।\nमारुतस्यौरसः पुत्रः प्लवनेनास्मि तत्समः।।4.67.10।।",
+      "transliteration": "",
+      "translation": "'I am the lawfulson of the swiftmoving Windgod, Maruta, comparable to him in leaping.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "उत्सहेयं हि विस्तीर्णमालिखन्तमिवाम्बरम्।\nमेरुं गिरिमसङ्गेन परिगन्तुं सहस्रशः।।4.67.11।।",
+      "transliteration": "",
+      "translation": "'I can with all enthusiasm go round the vast mount Meru a thousand times without resting on it which is as though scratching the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "बाहुवेगप्रणुन्नेन सागरेणाहमुत्सहे।\nसमाप्लावयितुं लोकं सपर्वतनदीह्रदम्।।4.67.12।।",
+      "transliteration": "",
+      "translation": "'I can submerge this world including its mountains rivers and lakes. I can push back the sea waters quickly with my arms.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "ममोरुजङ्घावेगेन भविष्यति समुत्थितः।\nसम्मूर्च्छितमहाग्राहस्समुद्रो वरुणालयः।।4.67.13।।",
+      "transliteration": "",
+      "translation": "'Thrust by my thighs,the ocean will rise up, carrying with it the shanks and  mighty crocodiles stunned by the force.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "पन्नगाशनमाकाशे पतन्तं पक्षिसेविते।\nवैनतेयमहं शक्तः परिगन्तुं सहस्रशः।।4.67.14।।",
+      "transliteration": "",
+      "translation": "'I am capable of circumambulating a thousand times the great Garuda who consumes snakes and flies in the sky, the abode of birds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "उदयात्प्रस्थितं वापि ज्वलन्तं रश्मिमालिनम्।\nअनस्तमितमादित्यमभिगन्तुं समुत्सहे।।4.67.15।।\nततो भूमिमसंस्पृश्य पुनरागन्तुमुत्सहे।\nप्रवेगेनैव महता भीमेन प्लवगर्षभाः।।4.67.16।।",
+      "transliteration": "",
+      "translation": "'O bull among monkeys when the Sun rises from behind the eastern mountain it is possible for me to start with him and go to the western horizon and return before the blazing Sun with its beams of light sets. It is also possible for me to descend to  the earth with the same speed and return to the Sun without touching the earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "उत्सहेयमतिक्रान्तुं सर्वानाकाशगोचरान्।\nसागरं क्षोभयिष्यामि दारयिष्यामि मेदिनीम्।।4.67.17।।",
+      "transliteration": "",
+      "translation": "'If I rise up, I can overtake all those creatures flying in the sky and from there I can stir up the ocean and tear up the earth easily.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "पर्वतांश्चूर्णयिष्यामि प्लवमानः प्लवङ्गमाः।\nहरिष्याम्यूरुवेगेन प्लवमानो महार्णवम्।।4.67.18।।",
+      "transliteration": "",
+      "translation": "'O monkeys when I leap, I can crush the mountains into powder and pull the vast ocean with me with the force of my thighs.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "लतानां विविधं पुष्पं पादपानां च सर्वशः।\nअनुयास्यन्ति मामद्य प्लवमानं विहायसा।।4.67.19।।",
+      "transliteration": "",
+      "translation": "And then as I leap through the sky flowers of many kinds of creepers and trees will follow me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "भविष्यति हि मे पन्थास्स्वातेः पन्था इवाम्बरे।\nचरन्तं घोरमाकाशमुत्पतिष्यन्तमेव वा।।4.67.20।।\nद्रक्ष्यन्ति निपतिष्यन्तं च सर्वभूतानि वानराः।",
+      "transliteration": "",
+      "translation": "'O monkey when I fly upward in the dreadful sky or descend down, all creatures will see me, for my path will be the path of the constellation of Swati (a group of stars).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "महामेरुप्रतीकाशं मां द्रक्ष्यथ वानराः।।4.67.21।।\nदिवमावृत्य गच्छन्तं ग्रसमानमिवाम्बरम्।",
+      "transliteration": "",
+      "translation": "'O monkeys when I fly in the sky like the great mount Meru, you will see me as if I am swallowing the sky because I will be enveloping it with my strides.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "विधमिष्यामि जीमूतान्कम्पयिष्यामि पर्वतान्।।4.67.22।।\nसागरं शोषयिष्यामि प्लवमानस्समाहितः।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "वैनतेयस्य या शक्तिर्मम सा मारुतस्य वा।।4.67.23।।\nऋते सुपर्णराजानं मारुतं वा महाजवम्।\nन तद्भूतं प्रपश्यामि यन्मां प्लुतमनुव्रजेत्।।4.67.24।।",
+      "transliteration": "",
+      "translation": "'Only Garuda and Maruta have the capacity to fly like me. No one other than the king of vultures and the Windgod have the speed to fly like me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "निमेषान्तरमात्रेण निरालम्बनमम्बरम्।\nसहसा निपतिष्यामि घनाद्विद्युदिवोत्थिता।।4.67.25।।",
+      "transliteration": "",
+      "translation": "'Just as the lightning generated by the clouds lands at once flying in the sky without any support I can also land in less than a moment.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "भविष्यति हि मे रूपं प्लवमानस्य सागरे।\nविष्णोर्विक्रममाणस्य पुरा त्रीन्विक्रमानिव।।4.67.26।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "बुद्ध्या चाहं प्रपश्यामि मनश्चेष्टा च मे तथा।\nअहं द्रक्ष्यामि वैदेहीं प्रमोदध्वं प्लवङ्गमाः।।4.67.27।।",
+      "transliteration": "",
+      "translation": "'O monkeys I have a feeling in my mind that I will see Vaidehi. Be happy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "मारुतस्य समो वेगे गरुडस्य समो जवे।\nअयुतं योजनानां तु गमिष्यामीति मे मतिः।।4.67.28।।",
+      "transliteration": "",
+      "translation": "'I am equal to Maruta and Garuda in speed. I feel I can cover ten thousand yojanas (at a stretch).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "वासवस्य सवज्रस्य ब्रह्मणो वा स्वयम्भुवः।\nविक्रम्य सहसा हस्तादमृतं तदिहानये।।4.67.29।।\nलङ्कां वापि समुत्क्षिप्य गच्छेयमिति मे मतिः।",
+      "transliteration": "",
+      "translation": "'I think I can encounter Indra, wielder of the thunderbolt and obtain nectar from his hands. I can even confront Brahma, the selfborn creator courageously. I can even uproot Lanka and carry it.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "तमेवं वानरश्रेष्ठं गर्जन्तममितौजसम्।।4.67.30।।\nप्रहृष्टा हरयस्तत्र समुदैक्षन्त विस्मिताः।",
+      "transliteration": "",
+      "translation": "The monkeys looked at him and were amazed, happy to see him roaring and shining in brilliance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "तस्य तद्वचनं श्रुत्वा ज्ञातीनां शोकनाशनम्।।4.67.31।।\nउवाच परिसंहृष्टो जाम्बवान्हरिसत्तमः।",
+      "transliteration": "",
+      "translation": "Jambavan, the finest of the monkeys, felt very glad on hearing his words which put an end to the sorrow of the kith and kin and said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "वीर केसरिणः पुत्र हनुमान्मारुतात्मज।।4.67.32।।\nज्ञातीनां विपुलश्शोकस्त्वया तात प्रणाशितः।",
+      "transliteration": "",
+      "translation": "'O son of Kesari O son of Maruta O hero you have removed the great grief of your race, dear",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "तव कल्याणरुचयः कपिमुख्यास्समागताः।।4.67.33।।\nमङ्गलं कार्यसिद्ध्यर्थं करिष्यन्ति समाहिताः।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "ऋषीणां च प्रसादेन कपिवृद्धमतेन च।।4.67.34।।\nगुरूणां च प्रसादेन प्लवस्व त्वं महार्णवम्।",
+      "transliteration": "",
+      "translation": "'By the blessings of the sages and by the grace of the elderly monkeys may you cross over the vast ocean.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "स्थास्यामश्चैकपादेन यावदागमनं तव।।4.67.35।।\nत्वद्गतानि च सर्वेषां जीवनानि वनौकसाम्।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "ततस्तु हरिशार्दूलस्तानुवाच वनौकसः।।4.67.36।।\nनेयं मम मही वेगं लङ्घने धारयिष्यति।",
+      "transliteration": "",
+      "translation": "Then the tiger among monkeys, Hanuman said to those forestdwellers (monkeys), 'The earth cannot bear the thrust of my leaping.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "एतानीह नगस्यास्य शिलासङ्कटशालिनः।।4.67.37।।\nशिखराणि महेन्द्रस्य स्थिराणि सुमहान्ति च।",
+      "transliteration": "",
+      "translation": "'The rocks on the peaks of the ranges of mount Mahendra cannot with stand it, although they are huge and firm.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "एषु वेगं करिष्यामि महेन्द्रशिखरेष्वहम्।।4.67.38।।\nनानाद्रुमविकीर्णेषु धातुनिष्यन्दशोभिषु।",
+      "transliteration": "",
+      "translation": "'I will pick up speed on the peaks of mount Mahendra filled with different kinds of trees and minerals.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "एतानि मम निष्पेषं पादयोः प्लवतां वराः।।4.67.39।।\nप्लवतो धारयिष्यन्ति योजनानामितश्शतम्।",
+      "transliteration": "",
+      "translation": "'O great monkeys these mountain peaks can withstand the crushing force of my feet as I leap over a hundred yojanas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "ततस्तं मारुतप्रख्यस्सहरिर्मारुतात्मजः।।4.67.40।।\nआरुरोह नगश्रेष्ठं महेन्द्रमरिमर्दनः।\nवृतं नानाविधैः वृक्षैर्मृगसेवितशाद्वलम्।।4.67.41।।\nलताकुसुमसम्बाधं नित्यपुष्पफलद्रुमम्।\nसिंहशार्दूलचरितं मत्तमातङ्गसेवितम्।।4.67.42।।\nमत्तद्विजगणोद्घुष्टं सलिलोत्पीडसङ्कुलम्।",
+      "transliteration": "",
+      "translation": "The son of Maruta, who was as eminent as the Windgod, the crusher of enemies ascended the great mountain Mahendra, full of grassland inhabited by deer, thickly grown with various trees and creepers full of fragrant flowers and fruits, where roam lions and tigers and proud elephants, a place that echoes with sounds of intoxicated birds and waterfalls.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "महद्भिरुच्छ्रितं शृङ्गैर्महेन्द्रं स महाबलः।।4.67.43।।\nविचचार हरिश्रेष्ठो महेन्द्रसमविक्रमः।",
+      "transliteration": "",
+      "translation": "The mighty, preeminent monkey who was equal to Indra in valour took a leap from the high peaks of the tall mountain, Mahendra৷৷",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "पादाभ्यां पीडितस्तेन महाशैलो महात्मना।।4.67.44।।\nरराज सिंहाभिहतो महान्मत्त इव द्विपः।",
+      "transliteration": "",
+      "translation": "Crushed by the feet of the great self, Hanuman, the huge mountain looked like a proud elephant struck by a lion.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "मुमोच सलिलोत्पीडान्विप्रकीर्णशिलोच्चयः।।4.67.45।।\nवित्रस्तमृगमातङ्गः प्रकम्पितमहाद्रुमः।",
+      "transliteration": "",
+      "translation": "The rocks of the mountain got scattered by the force. The deer and elephants were terrified. The trees were shaken up violently and streams of water gushed forth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "नानागन्धर्वमिथुनैः पानसंसर्गकर्कशैः।।4.67.46।।\nउत्पतद्भिश्च विहगैर्विद्याधरगणैरपि।\nत्यज्यमानमहासानुस्सन्निलीनमहोरगः।।4.67.47।।\nचलशृङ्गशिलोद्घातस्तदाऽभूत्स महागिरिः।",
+      "transliteration": "",
+      "translation": "Shaken by the rude shock, couples of intoxicated gandharvas left in a huff the vast slopes of the great mountain. Flocks of birds and groups of vidyadharas flew away. The serpents went into hiding. Rocks fell off the shaken mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "निश्श्वसद्भिस्तदाऽर्तैस्तु भुजङ्गैरर्धनि:सृतैः।।4.67.48।।\nसपताक इवाभाति स तदा धरणीधरः।",
+      "transliteration": "",
+      "translation": "The serpents with their bodies half protruded out of the rocks and hissing looked like flags planted on the mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "ऋषिभिस्त्राससम्भ्रान्तैस्त्यज्यमानः शिलोच्चयः।।4.67.49।।\nसीदन्महति कान्तारे सार्थहीन इवाध्वगः।",
+      "transliteration": "",
+      "translation": "The alarmed and agitated sages abandonned the mountain peaks.The mountain appeared like a lone traveller separated from the caravan in the great forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-67-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "सवेगवान् वेगसमाहितात्मा\nहरिप्रवीरः परवीरहन्ता।\nमनस्समाधाय महानुभावो\nजगाम लङ्कां मनसा मनस्वी।।4.67.50।।",
+      "transliteration": "",
+      "translation": "Magnanimous, wise and heroic Hanuman, destroyer of enemy warriors, fixed his attention on speed, betook himself mentally to Lanka (ere he reached it physically).  इत्यार्षे श्रीमद्रामाणये वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे सप्तषष्टितमस्सर्गः।। Thus ends the sixtyseventh sarga in Kishkindakanda of the first epic, the Holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

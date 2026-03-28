@@ -1,0 +1,171 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 69,
+    "title": "Accompanied by the army Dasaratha reaches Mithila Janaka honours him.",
+    "titleSanskrit": "",
+    "totalShlokas": 17
+  },
+  "shlokas": [
+    {
+      "id": "v1-69-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततो रात्र्यां व्यतीतायां सोपाध्याय: सबान्धव:।\nराजा दशरथो हृष्ट स्सुमन्त्रमिदमब्रवीत्।।1.69.1।।",
+      "transliteration": "",
+      "translation": "With the passing of the night king Dasaratha, accompanied by spiritual preceptors and relatives said to Sumantra:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-69-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अद्य सर्वे धनाध्यक्षा धनमादाय पुष्कलम्।\nव्रजन्त्वग्रे सुविहिता नानारत्नसमन्विता:।।1.69.2।।",
+      "transliteration": "",
+      "translation": "\"Let all the officers of the treasury furnished with enough wealth and a variety gems go in advance under escort.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-69-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "चतुरङ्गबलं चापि शीघ्रं निर्यातु सर्वश:।\nममज्ञासमकालं च यानयुग्यमनुत्तमम्।।1.69.3।।",
+      "transliteration": "",
+      "translation": "Let the four divisions of the army from all the four quarters with elegant palanquins  proceed at my command.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-69-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "वसिष्ठो वामदेवश्च जाबालिरथ काश्यप:।\nमार्कण्डेयश्च दीर्घायु:ऋषि: कात्यायनस्तथा।।1.69.4।।\nएते द्विजा: प्रयान्त्वग्रे स्यन्दनं योजयस्व मे।\nयथा कालात्ययो न स्या द्दूता हि त्वरयन्ति माम्।।1.69.5।।",
+      "transliteration": "",
+      "translation": "Let brahmins like Vasishta, Vamadeva, Jabali, Kasyapa, Markandeya endowed with long life, and rishi Katyayana depart in advance. My chariot be yoked and kept ready. Let there be no delay. The messengers (from Janaka) are hastening me up\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-69-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "वचनात्तु नरेन्द्रस्य सा सेना चतुरङ्गिणी।\nराजानमृषिभि स्सार्धं व्रजन्तं पृष्ठतोऽन्वगात्।।1.69.6।।",
+      "transliteration": "",
+      "translation": "While the Indra among kings (Dasaratha) proceeded with the sages, the four divisions of the army followed them at the command of the king.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-69-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "गत्वा चतुरहं मार्गं विदेहानभ्युपेयिवान्।\nराजा तु जनक श्श्रीमान् श्श्रुत्वा पूजामकल्पयत्।।1.69.7।।",
+      "transliteration": "",
+      "translation": "Covering the distance in four days, they arrived in the country of the Videhas. The fortunate king Janaka, having heard about these tidings, made arangements to extend to them reverential hospitality.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-69-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "ततो राजानमासाद्य वृद्धं दशरथं नृपम्।\nजनको मुदितो राजा हर्षं च परमं ययौ।।1.69.8।।",
+      "transliteration": "",
+      "translation": "King Janaka approached the aged ruler of men, Dasaratha, and experienced great delight.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-69-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "उवाच च नरश्रेष्ठो नरश्रेष्ठं मुदाऽन्वित:।\nस्वागतं ते महाराज दिष्ट्या प्राप्तोऽसि राघव।।1.69.9।।\nपुत्रयोरुभयो: प्रीतिं लप्स्यसे वीर्यनिर्जिताम्।",
+      "transliteration": "",
+      "translation": "Filled with joy the best of men (Janaka) addreseed the best of men Dasaratha: \"O Descendant of the Raghus, O Great king welcome I am fortunate to have you, you will experience the pleasure of both your sons having won the  reward for their prowess.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-69-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "दिष्ट्या प्राप्तो महातेजा वसिष्ठो भगवानृषि:।।1.69.10।।\nसह सर्वैर्द्विजश्रेष्ठैर्देवैरिव शतक्रतु:।",
+      "transliteration": "",
+      "translation": "Most brilliant and adorable ascetic Vasishta surrounded by the foremost of brahmins like Indra by the gods has also arrived by the grace of God.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-69-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "दिष्ट्या मे निर्जिता विघ्ना दिष्ट्या मे पूजितं कुलम्।।1.69.11।।\nराघवै स्सह सम्बन्धाद्वीर्यश्रेष्ठैर्महात्मभि:।",
+      "transliteration": "",
+      "translation": "By the grace of god, I have overcome all impediments. By the grace of God my race  has been honoured through alliance with the house of the Raghus distinguished by their valour.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-69-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "श्व: प्रभाते नरेन्द्रेन्द्र निर्वर्तयितुमर्हसि।।1.69.12।।\nयज्ञस्यान्ते नरश्रेष्ठ विवाहमृषिसम्मतम्।",
+      "transliteration": "",
+      "translation": "O Foremost of men, O Best of kings, tomorrow at dawn after the completion of the sacrifice, you should perform the marriage with approval by the sages\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-69-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "तस्य तद्वचनं श्रुत्वा ऋषिमध्ये नराधिप:।।1.69.13।।\nवाक्यं वाक्यविदां श्रेष्ठ: प्रत्युवाच महीपतिम्।",
+      "transliteration": "",
+      "translation": "At these words, the most eloquent king (Dasaratha) made his reply in the midst of sages:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-69-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "प्रतिग्रहो दातृवश श्श्रृतमेतन्मया पुरा।।1.69.14।।\nयथा वक्ष्यसि धर्मज्ञ तत्करिष्यामहे वयम्।",
+      "transliteration": "",
+      "translation": "\"I have heard that acceptance of a gift from the righteous is a pleasure. So we will act upon your word\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-69-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "धर्मिष्ठं च यशस्यं च वचनं सत्यवादिन:।।1.69.15।।\nश्रुत्वा विदेहाधिपति: परं विस्मयमागत:।।",
+      "transliteration": "",
+      "translation": "Janaka was filled with extreme admiration to hear one who was truthful, righteous and famous (this Dasaratha).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-69-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तत स्सर्वे मुनिगणा: परस्परसमागमे।1.69.16।\nहर्षेण महता युक्तास्तां निशामवसन् सुखम्।।",
+      "transliteration": "",
+      "translation": "Thereupon hosts of sages in one another's company, filled with great delight spent the night comfortably.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-69-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "राजा च राघवौ पुत्रौ निशाम्य परिहर्षित:।।1.69.17।।\nउवास परमप्रीतो जनकेन सुपूजित:।",
+      "transliteration": "",
+      "translation": "The king (Dasaratha) was greatly delighted on being reunited with his sons Rama and Lakshmana. Honoured by Janaka, he spent the night with supreme satisfaction.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-69-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "जनकोऽपि महातेजा: क्रियां धर्मेण तत्त्ववित्।।1.69.18।।\nयज्ञस्य च सुताभ्यां च कृत्वा रात्रिमुवास ह ।",
+      "transliteration": "",
+      "translation": "Mighty philosopher Janaka also performed the  sacrificial rites and spent the night (there where the sacrificial ceremony was performed) with both his daughters.   इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे एकोनसप्ततितमस्सर्ग:।। Thus ends the sixtynineth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

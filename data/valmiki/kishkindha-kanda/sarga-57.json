@@ -1,0 +1,234 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 57,
+    "title": "Angada relates the story of Jatayu's combat with Ravana to Sampati",
+    "titleSanskrit": "",
+    "totalShlokas": 24
+  },
+  "shlokas": [
+    {
+      "id": "v4-57-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तत्तु श्रुत्वा तथा वाक्यमङ्गदस्य मुखोद्गतम्।\nअब्रवीद्वचनं गृध्रस्तीक्ष्णतुण्डो महास्वनः।।4.57.1।।",
+      "transliteration": "",
+      "translation": "On hearing the words that came from Angada's mouth, the sharpbeaked, loudvoiced vulture (Sampati) said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-57-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "कोऽयं गिरा घोषयति प्राणैः प्रियतमस्य मे।\nजटायुषो वधं भ्रातुः कम्पयन्निव मे मनः।।4.57.2।।",
+      "transliteration": "",
+      "translation": "'Who is it that was Pronouncing loudly the death of my dearest brother Jatayu? This news has shaken my mind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-57-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "कथमासीज्जनस्थाने युद्धं राक्षसगृध्र���ोः।\nनामधेयमिदं भ्रातुश्चिरस्याद्य मया श्रुतम्।।4.57.3।।",
+      "transliteration": "",
+      "translation": "'I heard my brother's name today after a long time.I wish to know how the demon and the vulture fought at Janasthana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-57-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "इच्छेयं गिरिदुर्गाच्च भवद्भिरवतारितुम्।\nयवीयसो गुणज्ञस्य श्लाघनीयस्य विक्रमैः।।4.57.4।।\nअतिदीर्घस्य कालस्य परितुष्टोऽस्मि परिकीर्तनात्।",
+      "transliteration": "",
+      "translation": "'I wish to be brought down from this inaccessible mountain peak by all of you. I am glad to have heard from you the name of my younger brother after a long time. He is virtuous, valiant and praiseworthy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-57-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तदिच्छेयमहं श्रोतुं विनाशं वानरर्षभाः।।4.57.5।।\nभ्रातुर्जटायुषस्तस्य जनस्थाननिवासिनः।",
+      "transliteration": "",
+      "translation": "'O bulls among monkeys I desire to hear about the death of my brother Jatayu, who was dwelling at Janasthana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-57-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तस्यैव च मम भ्रातुस्सखा दशरथः कथम्।।4.57.6।।\nयस्य रामः प्रियः पुत्रो ज्येष्ठो गुरुजनप्रियः।",
+      "transliteration": "",
+      "translation": "'How did Dasaratha develop friendship with my brother? I hear that Rama who is the favourite firstborn of Dasaratha has endeared himself to all elders.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-57-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "सूर्यांशुदग्धपक्षत्वान्न शक्नोम्युपसर्पितुम्।।4.57.7।।\nइच्छेयं पर्वतादस्मादवतर्तु मरिन्दमाः।",
+      "transliteration": "",
+      "translation": "'O tamers of foes as my wings are burnt down by the Sun's rays it is not possible for me to move forward. I wish you help me to get down from this mountain'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-57-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "शोकाद्भ्रष्टस्वरमपि श्रुत्वा ते हरियूथपाः।\nश्रद्दधुर्नैव तद्वाक्यं कर्मणा तस्य शङ्किताः।।4.57.8।।",
+      "transliteration": "",
+      "translation": "The leaders among monkeys did not trust his words even though his voice was choked with grief. They suspected his intentions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-57-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "ते प्रायमुपविष्टास्तु दृष्ट्वा गृध्रं प्लवङ्गमाः।\nचक्रुर्बुद्धिं तदा रौद्रां सर्वान्नो भक्षयिष्यति।।4.57.9।।",
+      "transliteration": "",
+      "translation": "On seeing the vulture, the monkeys fasting unto death got a terrible thought in their  minds that the vulture might eat them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-57-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "सर्वथा प्रायमासीनान्यदि नो भक्षयिष्यति।\nकृतकृत्या भविष्यामः क्षिप्रं सिद्धिमितो गताः।।4.57.10।।",
+      "transliteration": "",
+      "translation": "'Since we wish to die, we will be accomplishing our objective successfully if he eats us soon'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-57-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "एतां बुद्धिं ततश्चक्रुस्सर्वे ते वानरर्षभाः।\nअवतार्य गिरेश्शृङ्गाद्गृध्रमाहाङ्गदस्तदा।।4.57.11।।",
+      "transliteration": "",
+      "translation": "Thus thought the chief among the monkeys. Angada having helped the vulture come down the mountain peak, said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-57-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "बभूवर्क्षरजा नाम वानरेन्द्रः प्रतापवान्।\nममार्यः पार्थिवः पक्षिन् धार्मिक स्तस्य चात्मजौ।।4.57.12।\nसुग्रीवश्चैव वाली च पुत्रावोघबलावुभौ।\nलोकेविश्रुतकर्माभूद्राजा वाली पिता मम।।4.57.13।।",
+      "transliteration": "",
+      "translation": "'O powerful bird my revered grandfather Riksharaja was a glorious king of monkeys. He had two sons called Sugriva and Vali.Both were strong like floodwaters. My father Vali was wellknown in this world for his remarkable deeds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-57-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "राजा कृत्स्नस्य जगत इक्ष्वाकूणां महारथः।\nरामो दाशरथिः श्रीमान्प्रविष्टो दण्डकावनम्।।4.57.14।।\nलक्ष्मणेन सह भ्रात्रा वैदेह्या चापि भार्यया।\nपितुर्निदेशनिरतो धर्म्यं पन्थानमाश्रितः।।4.57.15।।",
+      "transliteration": "",
+      "translation": "'The great warrior Rama is the son of Dasaratha, the scion of the Ikshvaku race and the king of the entire world. He entered Dandaka forest along with his brother Lakshmana and consort Vaidehi obeying his father's command following a righteous path.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-57-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तस्य भार्या जनस्थानाद्रावणेन हृता बलात्।\nरामस्य तु पितुर्मित्रं जटायुर्नाम गृध्रराट्।।4.57.16।।\nददर्श सीतां वैदेहीं ह्रियमाणां विहायसा।",
+      "transliteration": "",
+      "translation": "'His wife was abducted from Janasthana by Ravana. The king of vultures Jatayu, a friend of Rama's father observed princess of Videha, being forcibly carried away through the aerial region.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-57-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "रावणं विरथं कृत्वा स्थापयित्वा च मैथिलीम्।\nपर��श्रान्तश्च वृद्धश्च रावणेन हतो रणे।।4.57.17।।",
+      "transliteration": "",
+      "translation": "'Jatayu destroyed Ravana's aerial chariot and put Maithili in a (safe) place. But being old and exhausted, he was killed in a combat by Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-57-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "एवं गृध्रो हतस्तेन रावणेन बलीयसा।\nसंस्कृतश्चापि रामेण गतश्च गतिमुत्तमाम्।।4.57.18।।",
+      "transliteration": "",
+      "translation": "'Thus the vulture was slain by Ravana who was stronger. Cremated by Rama and his last rites performed, he reached the supreme heavenly abode. (It was the luck of Jatayu, unlike Dasaratha, to be cremated by Rama.)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-57-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "ततो मम पितृव्येण सुग्रीवेण महात्मना।\nचकार राघवस्सख्यं सोऽवधीत्पितरं मम।।4.57.19।।",
+      "transliteration": "",
+      "translation": "'Then Rama made friendship with my father's brother, great self Sugriva and killed my father.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-57-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "मम पित्रा विरुद्धो हि सुग्रीवस्सचिवैस्सह।\nनिहत्य वालिनं रामस्ततस्तमभिषेचयत्।।4.57.20।।",
+      "transliteration": "",
+      "translation": "'Sugriva and his ministers developed hostility towards my father. Rama killed Vali and installed Sugriva as king.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-57-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "स राज्ये स्थापितस्तेन सुग्रीवो वानराधिपः।\nराजा वानरमुख्यानां येन प्रस्थापिता वयम्।।4.57.21।।",
+      "transliteration": "",
+      "translation": "'Sugriva, the monkey king, was installed by him and crowned as king of the monkeys. Sugriva is the king of all great monkeys. We have been sent by him in search of Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-57-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "एवं रामप्रयुक्तास्तु मार्गमाणास्ततस्ततः।\nवैदेहीं नाधिगच्छामो रात्रौ सूर्यप्रभामिव।।4.57.22।।",
+      "transliteration": "",
+      "translation": "find her just as one fails to see Sun's radiance at night.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-57-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "ते वयं दण्डकारण्यं विचित्य सुसमाहिताः।।4.57.23।।\nअज्ञानात्तु प्रविष्टास्स्म धर्मिण्या विवृतं बिलम्।",
+      "transliteration": "",
+      "translation": "'Having searched the forest of Dandaka carefully, we all entered this large hole unknowingly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-57-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "मयस्य मायाविहितं तद्बिलं च विचिन्वताम्।।4.57.24।।\nव्यतीतस्तत्र नो मासो यो राज्ञा समयः कृतः।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-57-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "ते वयं कपिराजस्य सर्वे वचनकारिणः।।4.57.25।।\nकृतां संस्थामतिक्रान्ता भयात्प्रायमुपास्महे।",
+      "transliteration": "",
+      "translation": "'Because of the fear of king Sugriva all of us have decided to stay here fasting unto death,since we have exceeded the time fixed for us (to find Sita).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-57-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "क्रुद्धे तस्मिंस्तु काकुत्स्थे सुग्रीवे च सलक्ष्मणे।।4.57.26।।\nगतानामपि सर्वेषां तत्र नो नास्ति जीवितम्।",
+      "transliteration": "",
+      "translation": "'Even if we go back, there is no hope of our survival before the anger of Sugriva and of Rama and Lakshmana of the Kakutstha dynasty.' इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे सप्तपञ्चशस्सर्गः।। Thus ends of fiftyseventh sarga in Kishkindakanda of the first epic, the Holy Ramyana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

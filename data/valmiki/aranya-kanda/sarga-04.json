@@ -1,0 +1,297 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 4,
+    "title": "Rama and Lakshmana kill Viradha -- Viradha narrates his story and ascends to heaven.",
+    "titleSanskrit": "",
+    "totalShlokas": 31
+  },
+  "shlokas": [
+    {
+      "id": "v3-4-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ह्रियमाणौ तु तौ दृष्ट्वा वैदेही रामलक्ष्मणौ।\nउच्चैस्स्वरेण चुक्रोश प्रगृह्य सुमहाजाभुजौ।।3.4.1।।",
+      "transliteration": "",
+      "translation": "Seeing those two mightyarmed Rama and Lakshmana being carried away by Viradha, Sita started crying loudly:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-4-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "एष दाशरथी रामः सत्यवान् शीलवान् शुचिः।\nरक्षसा रौद्ररूपेण ह्रियते सहलक्ष्मणः।।3.4.2।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-4-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "मामृका भक्षयिष्यन्ति शार्दूलाद्वीपिनस्तथा।\nमां हरोत्सृज काकुत्स्थौ नमस्ते राक्षसोत्तम।।3.4.3।।",
+      "transliteration": "",
+      "translation": "The wild bears, tigers and panthers will eat me up here. O best among demons, pray take me and leave both the Kakutsthas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-4-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तस्यास्तद्वचनं श्रुत्वा वैदेह्या रामलक्ष्मणौ।\nवेगं प्रचक्रतुर्वीरौ वधे तस्य दुरात्मनः।।3.4.4।।",
+      "transliteration": "",
+      "translation": "On hearing those words of  Sita, both the heroes, Rama and Lakshmana hastened to kill the wicked Viradha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-4-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तस्य रौद्रस्य सौमित्रिः सव्यं बाहुं बभञ्ज ह।\nरामस्तु दक्षिणं बाहुं तरसा तस्य रक्षसः।।3.4.5।।",
+      "transliteration": "",
+      "translation": "Lakshmana quickly broke the left and Rama the right shoulder of that dreadful demon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-4-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "स भग्नबाहुस्सविग्नो निपपाताशु राक्षसः।\nधरण्यां मेघसङ्काशो वज्रभिन्न इवाचलः।।3.4.6।।",
+      "transliteration": "",
+      "translation": "With both shoulders broken, the demon, looking like a cloud (huge and dark) fell at once on the ground like a mountain split by a thunderbolt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-4-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "मुष्टिभिर्जानुभिः पद्भिः सूदयन्तौ तु राक्षसम्।\nउद्यम्योद्यम्य चाप्येनं स्थण्डिले निष्पिपेषतुः।।3.4.7।।",
+      "transliteration": "",
+      "translation": "Striking the demon with fists, knees and feet, both of them smit him  on the bare ground and pulverized him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-4-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "स विद्धो बहुभिर्बाणैः खङ्गाभ्यां च परिक्षतः।\nनिष्पिष्टो बहुधा भूमौ न ममार स राक्षसः।।3.4.8।।",
+      "transliteration": "",
+      "translation": "Although pierced by arrows, and wounded by the two swords, and pulverized on the ground, the demon did not die.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-4-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तं प्रेक्ष्य रामः सुभृशमवध्यमचलोपमम्।\nभयेष्वभयदश्श्रीमानिदं वचनमब्रवीत्।।3.4.9।।",
+      "transliteration": "",
+      "translation": "Seeing the mountainlike Viradha not dying though seriously wounded, illustrious Rama, guaranter of safety from fear said to Lakshmana:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-4-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तपसा पुरुषव्याघ्र राक्षसोऽयं न शक्यते।\nशस्त्रेण युधि निर्जेतुं राक्षसं निखनावहे।।3.4.10।।",
+      "transliteration": "",
+      "translation": "O Lakshmana, best among men, this demon by virtue of his penance cannot be killed with any weapon in war. Therefore, let us bury him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-4-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "कुञ्जरस्येव रौद्रस्य राक्षसस्यास्य लक्ष्मण।\nवनेऽस्मिन् सुमहच्छ्वभ्रं खन्यतां रौद्रवर्चसः।।3.4.11।।",
+      "transliteration": "",
+      "translation": "Dig a deep pit to bury this demon, dreadful like an elephant and emitting a fearful glow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-4-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "इत्युक्त्वा लक्ष्मणं रामः प्रदरः खन्यतामिति।\nतस्थौ विराधमाक्रम्य कण्ठे पादेन वीर्यवान्।।3.4.12।।",
+      "transliteration": "",
+      "translation": "Courageous Rama standing there put his foot firmly on the neck of Viradha and said to Lakshmana,' Dig up a crevice'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-4-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तच्छ्रुत्वा राघवेणोक्तं राक्षसः प्रश्रितं वचः।\nइदं प्रोवाच काकुत्थ्सं विराधः पुरुषर्षभम्।।3.4.13।।",
+      "transliteration": "",
+      "translation": "When the demon Viradha heard Rama saying so, he said these humble words to the scion of the Kakutsthas and the best of men :",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-4-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "हतोऽस्मि पुरुषव्याघ्र शक्रतुल्यबलेन वै।\nमया तु पूर्वं त्वं मोहान्न ज्ञातः पुरुषर्षभ।।3.4.14।।",
+      "transliteration": "",
+      "translation": "You have killed me, O Rama, a tiger among men. You are equal to Indra in prowess. O best of men, out of delusion I could not recognise you earlier.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-4-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "कौसल्यासुप्रजा राम तातस्त्वं विदितो मया।\nवैदेही च महाभागा लक्ष्मणश्च महायशाः।।3.4.15।।",
+      "transliteration": "",
+      "translation": "O dear Rama, I know now you are the blessed son of Kausalya, Sita is a noble lady and a glorious soul.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-4-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अभिशापादहं घोरां प्रविष्टो राक्षसीं तनुम्।\nतुम्बुरुर्नाम गन्धर्वः शप्तो वैश्रवणेन ह।।3.4.16।।",
+      "transliteration": "",
+      "translation": "I am Tumburu by name,  a celestial singer of the gandharva clan. Cursed by Kubera, I got this dreadful body of a demon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-4-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "प्रसाद्यमानश्च मया सोऽब्रवीन्मां महायशाः।\nयदा दाशरथी रामस्त्वां वधिष्यति संयुगे।\nतदा प्रकृतिमापन्नो भवान्स्वर्गं गमिष्यति।।3.4.17।।",
+      "transliteration": "",
+      "translation": "When I appealed to him, that lord of great fame (Kubera) said that I would get back my original form and ascend to heaven when Rama, son of Dasaratha, would kill me in a duel.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-4-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अनुपस्थीयमानो मां स क्रुद्धो व्याजहार ह।\nइति वैश्रवणो राजा रम्भासक्तमुवाच ह।।3.4.18।।",
+      "transliteration": "",
+      "translation": "When king Kubera saw me absent (from duty) as I was infatuated with Rambha, he got angry and cursed me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-4-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तव प्रसादान्मुक्तोऽहमिहशापात्सुदारुणात्।\nभुवनं स्वं गमिष्यामि स्वस्ति वोऽस्तु परन्तप।।3.4.19।।",
+      "transliteration": "",
+      "translation": "O scorcher of enemies by your grace I am rid of the curse. Delivered from my dreadful form, I will now go to my world. May both of you fare well.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-4-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "इतो वसति धर्मात्मा शरभङ्गः प्रतापवान्।।3.4.20।।\nअध्यर्धयोजने तात महर्षिस्सूर्यसन्निभः।\nतं क्षिप्रमधिगच्छ त्वं स ते श्रेयोऽभिधास्यति।।3.4.21।।",
+      "transliteration": "",
+      "translation": "O dear, there lives Sarabhanga, a righteous sage, comparable to the Sun, at a distance of one and a half yojanas from here. Go to him at once. He will bless you with your wellbeing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-4-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "अवटे चापि मां राम प्रक्षिप्य कुशली व्रज।\nरक्षसां गतसत्त्वानामेष धर्मस्ससनातनः।\nअवटे ये निधीयन्ते तेषां लोकास्सनातनाः।।3.4.22।।",
+      "transliteration": "",
+      "translation": "Bury me in the pit, O Rama, and proceed happily. This is a great tradition for the dead  demons. Those who are buried in the pit attain heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-4-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "एवमुक्त्वा तु काकुत्थ्सं विराधश्शरपीडितः।\nबभूव स्वर्गसम्प्राप्तो न्यस्तदेहो महाबलः।।3.4.23।।",
+      "transliteration": "",
+      "translation": "Having said so to Rama, the mighty  Viradha, hit by the arrows left his body and attained heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-4-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तच्छ्रुत्वा राघवो वाक्यं लक्ष्मणं व्यादिदेश ह।\nकुञ्जरस्येव रौद्रस्य राक्षसस्यास्य लक्ष्मण।।3.4.24।।\nवनेऽस्मिन् सुमहच्छ्वभ्रं खन्यतां रौदकर्मणः।\nइत्युक्त्वा लक्ष्मणं रामः प्रदरः खन्यतामिति।\nतस्थौ विराधमाक्रम्य कण्ठे पादेन वीर्यवान्।।3.4.25।।",
+      "transliteration": "",
+      "translation": "When Rama heard those words, he said, O Lakshmana dig for this elephantlike demon of dreadful acts, a big pit. Having said so the mighty Rama stood firmly stamping the neck of Viradha with his foot.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-4-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "ततः खनित्रमादाय लक्ष्मणश्श्वभ्रमुत्तमम्।\nअखनत्पार्श्वतस्तस्य विराधस्य महात्मनः।।3.4.26।।",
+      "transliteration": "",
+      "translation": "Then Lakshmana fetched a spade and dug a sufficiently big pit by the side of the great soul Viradha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-4-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तं मुक्तकण्ठंनिक्षिप्य शङ्कुकर्णं महास्वनम्।\nविराधं प्राक्षिपच्छ्वभ्रे नदन्तं भैरवस्वनम्।।3.4.27।।",
+      "transliteration": "",
+      "translation": "Rama took his foot off Viradha's neck and dropped his body with pointed ears into the pit while Viradha was groaning fearfully৷৷",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-4-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "तमाहवे दारुणमाशुविक्रमौ स्थिरावुभौ संयति रामलक्ष्मणौ।\nमुदान्वितौ चिक्षिपतुर्भयावहं नदन्तमुत्क्षिप्य बिले तु राक्षसम्।।3.4.28।।",
+      "transliteration": "",
+      "translation": "Rama and Lakshmana, stable and firm, brave and quick, together lifted the body of Viradha who was fierce in battle and roaring and forcibly threw it into the pit with joy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-4-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "अवध्यतां प्रेक्ष्य महासुरस्य तौ शितेन शस्त्रेण तदा नरर्षभौ।\nसमर्थ्य चात्यर्थविशारदावुभौ बिले विराधस्य वधं प्रचक्रतुः।।3.4.29।।",
+      "transliteration": "",
+      "translation": "The two princes, bulls among men, who were adept in archery saw that the great demon could not be killed by any other means. They reflected over the issue  and undertook the task of killing him with sharp weapons and buried him in a pit.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-4-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "स्वयं विराधेन हि मृत्युरात्मनः प्रसह्य रामेण यथार्थमीप्सितः।\nनिवेदितः काननचारिणा स्वयं न मे वधः शस्त्रकृतो भवेदिति।।3.4.30।।",
+      "transliteration": "",
+      "translation": "Rama deliberately wanted to kill Viradha with weapons. Viradha the forestranger himself revealed that it was not possible to kill him with weapons and asked Rama to bury him in a pit.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-4-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "तदेव रामेण निशम्य भाषितं कृता मतिस्तस्य बिलप्रवेशने।\nबिलं च रामेणातिबलेन रक्षसा प्रवेश्यमानेन वनं विनादितम्।।3.4.31।।",
+      "transliteration": "",
+      "translation": "While Rama, who had made up his mind after hearing him, was putting the mighty demon in the pit, the forest rang with his roar.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-4-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "प्रहृष्टरूपाविव रामलक्ष्मणौ विराधमुर्व्या प्रदरे निहत्य तौ।\nननन्दतुर्वीतभयौ महावने शिलाभिरन्तर्दधतुश्च राक्षसम्।।3.4.32।।",
+      "transliteration": "",
+      "translation": "Rama and Lakshmana were happy to consign Viradha's body to the pit after killing him. They filled the pit with rocks in the great forest without fear.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-4-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "ततस्तु तौ काञ्चनचित्रकार्मुकौ निहत्य रक्षः परिगृह्य मैथिलीम्।\nविजह्रतु स्तौ मुदितौ महावने दिवि स्थितौ चन्द्रदिवाकराविव।।3.4.33।।",
+      "transliteration": "",
+      "translation": "With Viradha killed, they, accompanied by Sita, wandered happily in the dense forest, carrying their brilliant bows adorned with molten gold. They looked like Moon and Sun shining in the sky. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे चतुर्थस्सर्गः।। Thus ends the fourth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

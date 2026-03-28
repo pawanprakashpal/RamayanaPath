@@ -1,0 +1,333 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 65,
+    "title": "Satananda completes his narration of how Viswamitra attains Brahmarshi status.",
+    "titleSanskrit": "",
+    "totalShlokas": 35
+  },
+  "shlokas": [
+    {
+      "id": "v1-65-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "अथ हैमवतीं राम दिशं त्यक्त्वा महामुनि:।\nपूर्वां दिशमनुप्राप्य तपस्तेपे सुदारुणम्।।1.65.1।।",
+      "transliteration": "",
+      "translation": "\"O Rama thereafter the great ascetic (Viswamitra), abandoning the north of the Himavat mountain reached the eastern quarter and performed rigorous austerities.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "मौनं वर्षसहस्रस्य कृत्वा व्रतमनुत्तमम्।\nचकाराप्रतिमं राम तप: परमदुष्करम्।।1.65.2।।",
+      "transliteration": "",
+      "translation": "Having observed a unique vow of silence for a thousand years, O Rama he practised unprecedented and extremely difficult austerities.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "पूर्णे वर्षसहस्रे तु काष्ठभूतं महामुनिम्।\nविघ्नैर्बहुभिराधूतं क्रोधो नान्तर आविशत्।।1.65.3।।\nस कृत्वा निश्चयं राम तप आतिष्टदव्ययम्।",
+      "transliteration": "",
+      "translation": "After completion of a thousand years the great ascetic became a piece of wood. In spite of many impediments, he was unshaken, anger did not enter into his mind. O Rama with firm determination he practised  austerities.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तस्य वर्षसहस्रस्य व्रते पूर्णे महाव्रत:।।1.65.4।।\nभोक्तुमारब्धवानन्नं तस्मिन् काले रघूत्तम। \nइन्द्रो द्विजातिर्भूत्वा तं सिद्धमन्नमयाचत।।1.65.5।।",
+      "transliteration": "",
+      "translation": "O Best of Raghus dynasty (Rama) when the thousandyearold vow was over (Viswamitra) the great practitioner of vows began to partake cooked rice. At this moment Indra assumed the guise of a brahmin and asked him for the rice (he was going to eat).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तस्मै दत्वा तदा सिद्धं सर्वं विप्राय निश्चित:।\nनिश्शेषितेऽन्ने भगवानभुक्तैव महातपा:।।1.65.6।।\nन किञ्चिदवदद्विप्रं मौनव्रतमुपस्थित:।\nअथ वर्षसहस्रं वै नोच्छ्वसन्मुनिपुङ्गव:।।1.65.7।।",
+      "transliteration": "",
+      "translation": "This mighty, adorable ascetic having adopted a vow of silence decided to give all the cooked rice to the Brahmin. The brahmin finished all the rice. Viswamitra went without food but did not utter a single word to the brahmin. Thereafter the distinguished ascetic practised austerities for another period of thousand years, his breath suspended.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तस्यानुच्छ्वसमानस्य मूर्ध्नि धूमो व्यजायत।\nत्रैलोक्यं येन सम्भ्रान्तमादीपितमिवाभवत्।।1.65.8।।",
+      "transliteration": "",
+      "translation": "While his breath, was suspended, smoke emanated from his head which frightened the three worlds. It appeared as though they were on fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "ततो देवास्सगन्धर्वा: पन्नगोरगराक्षसा:।\nमोहितास्तेजसा तस्य तपसा मन्दरश्मय:।।1.65.9।।\nकश्मलोपहता स्सर्वे पितामहमथाब्रुवन्।",
+      "transliteration": "",
+      "translation": "Thereupon devatas along with gandharvas, pannagas, uragas, and rakshasas, stood bewildered by his ascetic energy. Their own glory was dimmed in his lustre\". Afflicted with anguish, they spoke to the Grandsire (Brahma):",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "बहुभि: कारणैर्देव विश्वामित्रो महामुनि:।।1.65.10।।\nलोभित: क्रोधितश्चैव तपसा चाभिवर्धते।",
+      "transliteration": "",
+      "translation": "\"O Lord the great sage Viswamitra was lured and angered in various ways. But his austerities continued to grow:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "न ह्यस्य वृजिनं किञ्चिद्दृश्यते सूक्ष्ममप्यथ।।1.65.11।।\nन दीयते यदि त्वस्य मनसा यदभीप्सितम्।\nविनाशयति त्रैलोक्यं तपसा सचराचरम्।।1.65.12।।",
+      "transliteration": "",
+      "translation": "His penance was flawless. If his wishes were not granted, he will  surely destroy by his austerities the three worlds with all movables and immovables.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "व्याकुलाश्च दिशस्सर्वा न च किञ्चित्प्रकाशते।\nसागरा: क्षुभितास्सर्वे विशीर्यन्ते च पर्वता:।।1.65.13।।",
+      "transliteration": "",
+      "translation": "There is bewilderment everywhere. It is dark all over. The oceans are disturbed. The mountains have cracked.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "प्रकम्पते च पृथिवी वायुर्वाति भृशाकुल:।\nबृह्मन्न प्रतिजानीमोनास्तिको जायते जन:।।1.65.14।।",
+      "transliteration": "",
+      "translation": "O Brahma the earth trembles. The wind blows fiercely. The people have ceased to believe in God. We do not know the way out.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "सम्मूढमिव त्रैलोक्यं सम्प्रक्षुभितमानसम्।\nभास्करो निष्प्रभश्चैव महर्षेस्तस्य तेजसा।।1.65.15।।",
+      "transliteration": "",
+      "translation": "The people of all the three worlds are agitated and confused in mind. The Sun, too, looks pale before the brilliance of the Maharshi.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "बुद्धिं न कुरुते यावन्नाशे देव महामुनि:।\nतावत्प्रसाद्यो भगवा नग्निरूपोमहाद्युति:।।1.65.16।।",
+      "transliteration": "",
+      "translation": "O Lord before this mighty, venerable ascetic, effulgent like fire decides to destroy the three worlds, he should be appeased.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "कालाग्निना यथापूर���वं त्रैलोक्यं दह्यतेऽखिलम्।\nदेवराज्यं चिकीर्षेत दीयतामस्य यन्मतम्।।1.65.17।।",
+      "transliteration": "",
+      "translation": "All the three worlds are burning as though with the fire Pralaya (dissolution). His desire may be granted even if he wants to rule the kingdom of the gods.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "ततस्सुरगणास्सर्वे पितामहपुरोगमा:।\nविश्वामित्रं महात्मानं मधुरं वाक्यमब्रुवन्।।1.65.18।।",
+      "transliteration": "",
+      "translation": "Thereafter, with Brahma in the forefront, the gods spoke to Viswamitra in pleasing words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "ब्रह्मर्षे स्वागतं तेऽस्तु तपसा स्म सुतोषिता:।\nब्राह्मण्यं तपसोग्रेण प्राप्तवानसि कौशिक ।।1.65.19।।",
+      "transliteration": "",
+      "translation": "\"Welcome, O Brahmarshi. We are immensely pleased with your austerities. O Kausika you have attained brahminhood by means of your intense penance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "दीर्घमायुश्च ते ब्रह्मन् ददामि समरुद्गण:।\nस्वस्ति प्राप्नुहि भद्रं ते गच्छ सौम्य यथासुखम्।।1.65.20।।",
+      "transliteration": "",
+      "translation": "O Brahmana I along with the maruts grant you long life. May you prosper O Gentle one now you may go happily\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "पितामहवचश्शृत्वा सर्वेषां च दिवौकसाम्।\nकृत्वा प्रणामं मुदितो व्याजहार महामुनि:।।1.65.21।।",
+      "transliteration": "",
+      "translation": "Mighty ascetic Viswamitra was delighted to hear the words of the Grandsire and the gods. Bowing to all of them he thus spoke:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "ब्राह्मण्यं यदि मे प्राप्तं दीर्घमायुस्तथैव च।\nओङ्कारश्च वषट्कारो वेदाश्च वरयन्तु माम्।।1.65.22।।",
+      "transliteration": "",
+      "translation": "\"If brahminhood and long life have been acquired by me by your grace, Omkara, Vashatkara and the Vedas shall accept me as Brahmarshi. (I shall acquire the right to interpret the Vedas and to perform sacrifices.)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "क्षत्रवेदविदां श्रेष्ठो ब्रह्मवेदविदामपि।\nब्रह्मपुत्रो वसिष्ठो मामेवं वदतु देवता:।।1.65.23।।\nयद्ययं परम: काम: कृतो यान्तु सुरर्षभा:।",
+      "transliteration": "",
+      "translation": "\"O gods let the son of Brahma and eminent Vasishta who is knowledgeable in the vedas worthy of brahmins and archery worthy of kshatriyas address me as 'Brahmarshi'. If this supreme desire is granted, O Best of devatas all of you can go\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तत: प्रसादितो देवैर्वसिष्ठो जपतां वर:।।1.65.24।।\nसख्यं चकार ब्रह्मर्षिरेवमस्त्विति चाब्रवीत्।",
+      "transliteration": "",
+      "translation": "Thereupon, pleased by the gods, Vasishta, the best among ascetics, lovingly said to Viswamitra \"You are a Brahmarshi, let it be so\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "ब्रह्मर्षिस्त्वं न सन्देहस्सर्वं सम्पत्स्यते तव।।1.65.25।।\nइत्युक्त्वा देवताश्चापि सर्वा जग्मुर्यथागतम्।",
+      "transliteration": "",
+      "translation": "\"You are a Brahmarshi, no doubt. You will achieve ascetic perfection\", said the gods  and returned to their respective places from where they had come.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "विश्वामित्रोऽपि धर्मात्मा लब्ध्वा ब्राह्मण्यमुत्तमम्।।1.65.26।।\nपूजयामास ब्रह्मर्षिं वसिष्ठं जपतां वरम्।",
+      "transliteration": "",
+      "translation": "Virtuous Viswamitra also, having attained excellent brahminhood, worshipped  Brahmrshi Vasishta who was the best of those who recite hymns\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "कृतकामो महीं सर्वां चचार तपसि स्थित:।।1.65.27।।\nएवं त्वनेन ब्राह्मण्यं प्राप्तं राम महात्मना।",
+      "transliteration": "",
+      "translation": "This illustrious sage having fulfilled his desire, wandered over the earth fixed in asceticism. O Rama  thus he acquired brahminhood.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "एष राम मुनिश्रेष्ठ एष विग्रहवांस्तप:।।1.65.28।।\nएष धर्मपरो नित्यं वीर्यस्यैष परायणम्।",
+      "transliteration": "",
+      "translation": "O Rama he is the foremost of ascetics, an embodiment of asceticism, always intent on virtue. He is the ultimate repository of ascetic energy\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "एवमुक्त्वा महातेजा विरराम द्विजोत्तम:।।1.65.29।।\nशतानन्दवच: श्रुत्वा रामलक्ष्मणसन्निधौ।\nजनक: प्राञ्जलिर्वाक्यमुवाच कुशिकात्मजम्।।1.65.30।।",
+      "transliteration": "",
+      "translation": "Having thus spoken, the most brilliant and best among brahmins (Satananda) became silent. In the presence of Rama and Lakshmana, Janaka listened to the words of Satananda. And with folded palms said to the son of Kushika (Viswamitra):",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "धन्योऽस्म्यनुगृहीतोऽस्मि यस्य मे मुनिपुङ्गव।\nयज्ञं काकुत्स्थसहित: प्राप्तवानसि धार्मिक।।1.65.31।।",
+      "transliteration": "",
+      "translation": "\"O Righteous one O Preeminent among ascetics you have come to my sacrifice accompanied by the descendants of Kakustha (Rama and Lakshmana). I am  blessed by your presence and am   highly favoured.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "पावितोऽहं त्वया ब्रह्मन् दर्शनेन महामुने।\nगुणा बहुविधा: प्राप्तास्तव सन्दर्शनान्मया।।1.65.32।।",
+      "transliteration": "",
+      "translation": "O Excellent ascetic O Brahmana I am sanctified with your presence. I have derived immense benefits from your visit.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "विस्तरेण च ते ब्रह्मन् कीर्त्यमानं महत्तप:।\nश्रुतं मया महातेजो रामेण च महात्मना।।1.65.33।।",
+      "transliteration": "",
+      "translation": "O powerful  Brahmarshi distinguished Rama and I have heard your great austerities which were related in detail (by Satananda).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "सदस्यै: प्राप्य च सद: श्रुतास्ते बहवो गुणा:।\nअप्रमेयं तपस्तुभ्यमप्रमेयं च ते बलम्।।1.65.34।।\nअप्रमेया गुणाश्चैव नित्यं ते कुशिकात्मज ।",
+      "transliteration": "",
+      "translation": "Many of your virtues have been heard by the members of the assembly present at the  sacrifice. Your austerities are immeasurable, your power is immense. O Son of Kushika (Viswamitra), your virtues cannot be measured.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "तृप्तिराश्चर्यभूतानां कथानां नास्ति मे विभो।।1.65.35।।\nकर्मकालो मुनिश्रेष्ठ लम्बते रविमण्डलम्।",
+      "transliteration": "",
+      "translation": "O Lord I am never tired of listening to your marvellous deeds. O Excellent among ascetics the Sun has set and it is time for evening prayers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "श्व: प्रभाते महातेजो द्रष्टुमर्हसि मां पुन:।।1.65.36।।\nस्वागतं तपतां श्रेष्ठ मामनुज्ञातुमर्हसि।",
+      "transliteration": "",
+      "translation": "O Sage of great austerities come to me tomorrow at dawn. O Excellent ascetic welcome And allow me to leave\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "एवमुक्तो मुनिवर: प्रशस्य पुरुषर्षभम्।।1.65.37।।\nविससर्जाशु जनकं प्रीतं प्रीतमनास्तदा।",
+      "transliteration": "",
+      "translation": "Thus addressed (by the king), the gratified ascetic extolled the best among men (Janaka) and permitted him to leave immediately.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "एवमुक्त्वा मुनिश्रेष्ठं वैदेहो मिथिलाधिप:।।1.65.38।।\nप्रदक्षिणं चकाराशु सोपाध्यायस्सबान्धव:।",
+      "transliteration": "",
+      "translation": "Having thus addressed the greatest sage, king of Videha, Lord of the city of Mithila (Janaka) accompanied by his king and spiritual preceptors circumambulated Viswamitra without delay.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-65-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "विश्वामित्रोऽपि धर्मात्मा सहरामस्सलक्ष्मण:।।1.65.39।।\nस्ववाटमभिचक्राम पूज्यमानो महर्षिभि:।",
+      "transliteration": "",
+      "translation": "Virtuous Viswamitra, honoured by the maharshis, too, retired to his shelter along with Rama and Lakshmana. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे पञ्चषष्टितमस्सर्ग:।। Thus ends the sixtyfifth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

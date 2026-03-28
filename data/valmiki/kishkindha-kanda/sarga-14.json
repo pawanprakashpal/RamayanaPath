@@ -1,0 +1,216 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 14,
+    "title": "Sugriva roars at Vali -- Rama encourages him to challenge Vali, himself hiding behind the tree.",
+    "titleSanskrit": "",
+    "totalShlokas": 22
+  },
+  "shlokas": [
+    {
+      "id": "v4-14-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "सर्वे ते त्वरितं गत्वा किष्किन्धां वालि पालिताम्।\nवृक्षैरात्मानमावृत्य व्यतिष्ठन् गहने वने4.14.1।।",
+      "transliteration": "",
+      "translation": "They all at once went to Kishkinda ruled by Vali and there waited hiding behind the trees in the dense forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-14-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "विचार्य सर्वतो दृष्टिं कानने काननप्रियः।\nसुग्रीवो विपुलग्रीवः क्रोधमाहारयद्भृशम्4.14.2।।",
+      "transliteration": "",
+      "translation": "Broadnecked Sugriva, a lover of the forest, looked around and flew into a rage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-14-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "ततस्स निनदं घोरं कृत्वा युद्धाय चाह्वयत्���\nपरिवारैः परिवृतो नादैर्भिन्दन्निवाम्बरम्4.14.3।।\nगर्जन्निव महामेघो वायुवेगपुरस्सरः।",
+      "transliteration": "",
+      "translation": "Sugriva, surrounded by his companions, raised his voice as if piercing the sky, roaring like a huge thundering cloud, challenging Vali to a duel.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-14-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "अथ बालार्कसदृशो दृप्तसिंहगतिस्तदा4.14.4।।\nदृष्ट्वा रामं क्रियादक्षं सुग्रीवो वाक्यमब्रवीत्।",
+      "transliteration": "",
+      "translation": "Sugriva, proficient in the performance of any task, one who appeared like the rising Sun and moved like a proud lion, said to Rama:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-14-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "हरिवागुरया व्याप्तां तप्तकाञ्चनतोरणाम्।\nप्राप्ताः स्म ध्वजयन्त्राढ्यां किष्किन्धां वालिनः पुरीम्।।4.14.5।।",
+      "transliteration": "",
+      "translation": "'We have arrived at Kishkinda, the capital of Vali, decorated with flags and having a glittering golden archway that can be opened mechanically. Teeming with monkeys, it looks like a snare to catch the enemy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-14-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "प्रतिज्ञा या त्वया वीर कृता वालिवधे पुरा।\nसफलां कुरु तां क्षिप्रं लतां काल इवागतः4.14.6।।",
+      "transliteration": "",
+      "translation": "'O heroic Rama fulfil quickly the vow taken by you earlier to kill Vali in the same way  a creeper bears fruit when the time comes.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-14-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु धर्मात्मा सुग्रीवेण स राघवः।\nतमेवोवाच वचनं सुग्रीवं शत्रुसूदनः4.14.7।।",
+      "transliteration": "",
+      "translation": "Requested thus by Sugriva, righteous Rama, the destroyer of enemies, replied:.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-14-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "कृताभिज्ञानचिह्नस्त्व मनया गजसाह्वया।\nलक्ष्मणेन समुत्पाट्य यैषा कण्ठे कृता तव4.14.8।।",
+      "transliteration": "",
+      "translation": "'Lakshmana has uprooted a creeper of  gaja, and fastened it on your neck by which you can be easily identified.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-14-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "शोभसेऽह्यधिकं वीर लतया कण्ठसक्तया।\nविपरीत इवाकाशे सूर्यो नक्षत्रमालया4.14.9।।",
+      "transliteration": "",
+      "translation": "'O hero, you are shining with the creeper fastened to your neck , just as the fullmoon adorned with a cluster of stars shines in the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-14-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अद्य वालिसमुत्थं ते भयं वैरं च वानर।\nएकेनाहं प्रमोक्ष्यामि बाणमोक्षेण संयुगे4.14.10।।",
+      "transliteration": "",
+      "translation": "'O monkey, with the release of a single arrow in the combat, I shall dispel your fear and enmity (hatred) for Vali.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-14-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "मम दर्शय सुग्रीव वैरिणं भ्रातृरूपिणम्।\nवाली विनिहतो यावद्वने पांसुषु वेष्टते4.14.11।।",
+      "transliteration": "",
+      "translation": "'O Sugriva show me your enemy,who is in the guise of your brother.He will be killed. He will roll down in the dust of the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-14-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "यदि दृष्टिपथं प्राप्तो जीवन्स विनिवर्तते।\nततो दोषेण मा गच्छेत्सद्यो गर्हेच्च मा भवान्4.14.12।।",
+      "transliteration": "",
+      "translation": "'If Vali appears before me I will not let him go with life.Then you will not blame me and find fault with me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-14-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "प्रत्यक्षं सप्त ते साला मया बाणेन दारिताः।\nतेनावेहि बलेनाद्य वालिनं निहतं मया4.14.13।।",
+      "transliteration": "",
+      "translation": "'You have seen how I have pierced through seven sala trees with a single arrow. You will know how with the same strength I will kill Vali.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-14-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "अनृतं नोक्तपूर्वं मे वीर कृच्छ्रेऽपि तिष्टता।\nधर्मलोभपरीतेन न च वक्ष्ये कथञ्चन4.14.14।।",
+      "transliteration": "",
+      "translation": "'O Sugriva, I have uttered no falsehood before for fear of deviation from righteousness although I was in distress, nor shall I utter any falsehood in any circumstances hereafter.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-14-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "सफलां च करिष्यामि प्रतिज्ञां जहि सम्भ्रमम्।\nप्रसूतं कलमं क्षेत्रे वर्षेणेव शतक्रतुः4.14.15।।",
+      "transliteration": "",
+      "translation": "'I shall fulfil my promise just as Indra (who performed a hundred sacrifices) helps production in the cornfield through timely rain. Give up your apprehension.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-14-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तदाह्वाननिमित्तं त्वं वालिनो हेममालिनः।\nसुग्रीव कुरु तं शब्दं निष्पतेद्येन वानरः4.14.16।।",
+      "transliteration": "",
+      "translation": "'O Sugriva give a warcry so that Vali adorned with a golden garland will come out.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-14-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "जितकाशी बलश्लाघी त्वया चाधर्षितः पुरा।\nनिष्पतिष्यत्यसङ्गेन वाली स प्रियस���युगः4.14.17।।",
+      "transliteration": "",
+      "translation": "'Vali, who is proud of  his valour,  is strong, fearless and fond of combat, will rush out of the city in response to your challenge.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-14-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "रिपूणां धर्षिण शूरा मर्षयन्ति न संयुगे।\nजानन्तस्तु स्वकं वीर्यं स्त्रीसमक्षं विशेषतः4.14.18।।",
+      "transliteration": "",
+      "translation": "'Proud of their own prowess, heroes will not brook the challenge of foes in battle, specially in the presence of women.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-14-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "स तु रामवचश्श्रुत्वा सुग्रीवो हेमपिङ्गलः।\nननर्द क्रूरनादेन विनिर्भिन्दन्निवाम्बरम्4.14.19।।",
+      "transliteration": "",
+      "translation": "On hearing Rama's words, the goldenhued Sugriva roared in a fierce voice as if it would piece  the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-14-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तस्य शब्देन वित्रस्ता गावो यान्ति हतप्रभाः।\nराजदोषपरामृष्टाः कुलस्त्रिय इवाकुलाः4.14.20।।",
+      "transliteration": "",
+      "translation": "Alarmed at the yelling of Sugriva, the cows began to run in all directions, like the  women of noble pedigree who, with their brightness lost, run perplexed for failure of the king to protect their chastity.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-14-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "द्रवन्ति च मृगाश्शीघ्रं भग्ना इव रणे हयाः।\nपतन्ति च खगा भूमौ क्षीणपुण्या इव ग्रहाः4.14.21।।",
+      "transliteration": "",
+      "translation": "The deer were unable to run like wounded horses in a battle. Birds fell down on the ground like planets fall when their merit is exhausted.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-14-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "ततस्सजीमूतगणप्रणादो\nनादं ह्यमुञ्चत्त्वरया प्रतीतः।\nसूर्यात्मजश्शौर्यविवृद्धतेजाः\nसरित्पतिर्वाऽनिलचञ्चलोर्मिः4.14.22।।",
+      "transliteration": "",
+      "translation": "Then Sugriva, son of the Sungod, with his lustre enhanced by his valour moved swiftly. His roar resembled the rumbling of a cluster of thundering clouds. He gave a warcry the tone of which resembled the sounds of waves lashed by high velocity winds in the sea. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे चतुर्दशस्सर्गः।। Thus ends the fourteenth sarga of Kishkindakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

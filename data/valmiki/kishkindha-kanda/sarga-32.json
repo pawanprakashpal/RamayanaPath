@@ -1,0 +1,216 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 32,
+    "title": "Sugriva's anxiety to know the reason for Lakshmana's anger -- Hanuman persuades Sugriva to act.",
+    "titleSanskrit": "",
+    "totalShlokas": 22
+  },
+  "shlokas": [
+    {
+      "id": "v4-32-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "अङ्गदस्य वचश्श्रुत्वा सुग्रीवस्सचिवैस्सह।\nलक्ष्मणं कुपितं श्रुत्वा मुमोचासनमात्मवान्4.32.1।।",
+      "transliteration": "",
+      "translation": "On hearing about Lakshmana's anger from Angada, prudent Sugriva consulted his counsellors.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-32-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "सचिवानब्रवीद्वाक्यं निश्चित्य गुरुलाघवम्।\nमन्त्रज्ञान्मन्त्रकुशलो मन्त्रेषु परिनिष्ठितान्4.32.2।।",
+      "transliteration": "",
+      "translation": "Sugriva, being skilled in secret assessment of matters, considering the merits and demerits, spoke to his council of ministers capable of intelligent counselling:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-32-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "न मे दुर्व्याहृतं किञ्चिन्नापि मे दुरनुष्ठितम्।\nलक्ष्मणो राघवभ्राता क्रुद्धः किमिति चिन्तये4.32.3।।",
+      "transliteration": "",
+      "translation": "'Indeed I have not uttered any harsh word or done anything wrong. I, therefore, wonder why Rama's brother, Lakshmana is angry with me?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-32-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "असुहृद्भिर्ममामित्रैर्नित्यमन्तरदर्शिभिः।\nमम दोषानसम्भूतान् श्रावितो राघवानुजः4.32.4।।",
+      "transliteration": "",
+      "translation": "'Some enemies, who are always searching for imaginary faults of mine might have poisoned Lakshmana's ears.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-32-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "अत्र तावद्यथाबुद्धि सर्वैरेव यथाविधि।\nभावस्य निश्चयस्तावद्विज्ञेयो निपुणं शनैः4.32.5।।",
+      "transliteration": "",
+      "translation": "'In the meanwhile, (right now) all of you should think quietly and try to know the reason (for Lakshmana's anger), using your intellect and expertise logically and decide( the course of action).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-32-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "न खल्वस्ति मम त्रासो लक्ष्मणान्नापि राघवात्।\nमित्रं त्वस्थानकुपितं जनयत्येव सम्भ्रमम्4.32.6।।",
+      "transliteration": "",
+      "translation": "'I have no fear either from Lakshmana or from Rama. However, when a friend is enraged without reason, it creates misgivings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-32-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "सर्वथा सुकरं मित्रं दुष्करं परिपालनम्।\nअनित्यत्वाच्छ चित्तानां प्रीतिरल्पेपि भिद्यते4.32.7।।",
+      "transliteration": "",
+      "translation": "'It is easy to earn a friend but keeping the friendship sustained is difficult. Due to fickleness of mind friendship gets broken even on flimsy grounds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-32-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "अतो निमित्तं त्रस्तोहं रामेण तु महात्मना।\nयन्मयोपकृतं शक्यं प्रतिकर्तुं न तन्मया4.32.8।।",
+      "transliteration": "",
+      "translation": "'Therefore, I am apprehensive of Rama. I am not able to repay the help he has rendered to me'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-32-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "सुग्रीवेणैवमुक्तस्तु हनुमान्हरिपुङ्गवः।\nउवाच स्वेन तर्केण मध्ये वानरमन्त्रिणाम्4.32.9।।",
+      "transliteration": "",
+      "translation": "When Sugriva spoke thus, Hanuman the great monkey, submitted in the presnce of the monkeyministers, applying his own logic:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-32-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "सर्वथा नैतदाश्चर्यं यस्��्वं हरिगणेश्वर।\nन विस्मरसि सुस्निग्धमुपकार कृतं शुभम्4.32.10।।",
+      "transliteration": "",
+      "translation": "'It is not at all a matter of surprise, O king of vanara clan, that you forgot the good service rendered to you with utmost sense of friendship.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-32-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "राघवेण तु वीरेण भयमुत्सृज्य दूरतः।\nत्वत्प्रियार्थं हतो वाली शक्रतुल्यपराक्रमः4.32.11।।",
+      "transliteration": "",
+      "translation": "'To remove your fear and to please you, the great hero Rama has killed Vali, an equal to Indra in valour.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-32-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "सर्वथा प्रणयात्कृद्धो राघवो नात्र संशयः।\nभ्रातरं सम्प्रहितवान्लक्ष्मणं लक्ष्मिवर्धनम्4.32.12।।",
+      "transliteration": "",
+      "translation": "'Rama's anger is purely out of love for you. He has sent Lakshmana, a bestower of prosperity to you. There is no doubt about it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-32-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "त्वं प्रमत्तो न जानीषे कालं कालविदां वर।\nफुल्लसप्तच्छदश्यामा प्रवृत्ता तु शरच्छिवा4.32.13।।",
+      "transliteration": "",
+      "translation": "'You knows best the passage of time (changing seasons). But you are not aware out of inattention that the auspicious autumn has set in, making the garden lush green with blossoms of Saptachada flowers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-32-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "निर्मलग्रहनक्षत्रा द्यौः प्रनष्टवलाहका।\nप्रसन्नाश्च दिशस्सर्वास्सरितश्च सरांसि च4.32.14।।",
+      "transliteration": "",
+      "translation": "'The sky from which the dark clouds have completely disappeared is illumined with planets and stars. The rivers and tanks as well as all directions are pleasant.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-32-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "प्राप्तमुद्योगकालं तु नावैषि हरिपुङ्गव।\nत्वं प्रमत्त इति व्यक्तं लक्ष्मणोऽयमिहागतः4.32.15।।",
+      "transliteration": "",
+      "translation": "'O chief of monkeys it is time for military expeditions. Since you are intoxicated you are not aware of this, Lakshmana has come here evidently for this.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-32-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "आर्तस्य हृतदारस्य पुरुषं पुरुषान्तरात्।\nवचनं मर्षणीयं ते राघवस्य महात्मनः4.32.16।।",
+      "transliteration": "",
+      "translation": "'The message sent by a man who is in distress, and is deprived of his wife should be accepted even if they are harsh since he is a great self (who has rendered you help).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-32-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "कृतापराधस्य हि ते नान्यत्पश्याम्यहं क्षमम्।\nअन्तरेणाञ्जलिं बद्ध्वा लक्ष्मणस्य प्रसादनात्4.32.17।।",
+      "transliteration": "",
+      "translation": "'In these circumstances the best way is seeking apology from Lakshmana with folded hands. I do not see any way other than this.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-32-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "नियुक्तैर्मन्त्रिभिर्वाच्यो ह्यवश्यं पार्थिवो हितम्।\nअत एव भयं त्यक्त्वा ब्रवीम्यवधृतं वचः4.32.18।।",
+      "transliteration": "",
+      "translation": "'The counsellors and ministers appointed by a king should certainly give good advice, without fear. This I tell you since I have faith in my words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-32-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "अभिक्रुद्धस्समर्थो हि चापमुद्यम्य राघवः।\nसदेवासुरगन्धर्वं वशे स्थापयितुं जगत्4.32.19।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-32-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "न स क्षमः कोपयितुं यः प्रसाद्यः पुनर्भवेत्।\nपूर्वोपकारं स्मरता कृतज्ञेन विशेषतः4.32.20।।",
+      "transliteration": "",
+      "translation": "'He who deserves propitiation, should not be offended, more so by a  grateful man, remembering the  help received by him earlier.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-32-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तस्य मूर्ध्ना प्रणम्य त्वं सपुत्रस्ससुहृज्जनः।\nराजंस्तिष्ठस्व समये भर्तुर्भार्येव तद्वशः4.32.21।।",
+      "transliteration": "",
+      "translation": "'O king bow down your head along with your son, friends and relations and honour the oath just as a wife subordinates to the will of the husband. Stand by obediently.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-32-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "न रामरामानुजशासनं त्वया\nकपीन्द्र युक्तं मनसाऽप्यपोहितुम्।\nमनो हि ते ज्ञास्यति मानुषं बलं\nस राघवस्यास्य सुरेन्द्रवर्चसः4.32.22।।",
+      "transliteration": "",
+      "translation": "'O king of monkeys It is not right for you to overlook the commands of Rama or Lakshmana even in mind. You know the superhuman virtues of Rama, particularly his valour. The two brothers are like Indra (and Upendra) in valour and might. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे द्वात्रिंशस्सर्गः।। Thus ends the thirtysecond sarga in Kishkindakanda of the first epic, the Holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

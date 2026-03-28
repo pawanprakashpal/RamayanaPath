@@ -1,0 +1,333 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 35,
+    "title": "Ravana departs stealthily secretly to meet Maricha--description of the beautiful nature on the way to Maricha's hermitage.",
+    "titleSanskrit": "",
+    "totalShlokas": 35
+  },
+  "shlokas": [
+    {
+      "id": "v3-35-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततश्शूर्पणखावाक्यं तच्छ्रुत्वा रोमहर्षणम्।\nसचिवानभ्यनुज्ञाय कार्यं बुद्ध्वा जगाम ह।।3.35.1।।",
+      "transliteration": "",
+      "translation": "Then hearing the horripilating words of Surpanakha, Ravana took leave of the ministers and went thinking about the task ahead of him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तत्कार्यमनुगम्याथ यथावदुपलभ्य च।\nदोषाणां च गुणानां च सम्प्रधार्य बलाबलम्।3.35.2।।\nइति कर्तव्यमित्येव कृत्वा निश्चयमात्मनः।\nस्थिरबुद्धिस्ततो रम्यां यानशालां जगाम ह।।3.35.3।।",
+      "transliteration": "",
+      "translation": "Deliberating on the task ahead, duly considering the pros and cons, demerits and merits, strength and weakness, of the issue and having firmly decided within himself, he left for the beautiful coachshed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "यानशालां ततो गत्वा प्रच्छन्नो राक्षसाधिपः।\nसूतं सञ्चोदयामास रथस्संयोज्यतामिति।।3.35.4।।",
+      "transliteration": "",
+      "translation": "Ravana went covertly to the coachshed and to the charioteer to get a chariot harnessed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "एवमुक्तः क्षेणेनैव सारथिर्लघुविक्रमः।\nरथं संयोजयामास तस्याभिमतमुत्तमम्।।3.35.5।।",
+      "transliteration": "",
+      "translation": "Thus ordered, the smart charioteer got the chariot of his choice harnessed in an instant.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "काञ्चनं रथमास्थाय कामगं रत्नभूषितम्।\nपिशाचवदनैर्युक्तं खरैः काञ्चनभूषणैः।।3.35.6।।\nमेघप्रतिमनादेन स तेन धनदानुजः।\nराक्षसाधिपतिश्श्रीमान्ययौ नदनदीपतिम्।।3.35.7।।",
+      "transliteration": "",
+      "translation": "The younger brother of Kubera (Ravana), the prosperous lord of the demons ascended  the chariot which could go where he desired. Embellished with gold, studded with gems, harnessed with demonfaced donkeys, the chariot rolled towards the ocean, rumbling like a cloud.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "स श्वेतवालव्यजनः श्वेतच्छत्रो दशाननः।\nस्निग्धवैदूर्यसंकाश स्तप्तकाञ्चनकुण्डलः।।3.35.8।।\nविंशद्भुजो दशग्रीवो दर्शनीयपरिच्छदः।\nत्रिदशारिर्मुनीन्द्रघ्नो दशशीर्ष इवाद्रिराट्।।3.35.9।।\nकामगं रथमास्थाय शुशुभे राक्षसेश्वरः।\nविद्युन्मण्डलवान्मेघस्सबलाक इवाम्बरे।।3.35.10।।",
+      "transliteration": "",
+      "translation": "Ravana, enemy of the gods, slayer of towering sages, with white yaktail fans, and white parasols, shining like smooth vaidurya, wearing pure gold earrings, clad in attractive attire, ten necks with twenty strong hands, ten heads looking like ten mountain peaks, a cloud in the sky encircled by lightnings and accompanied by cranes, ascended the chariot that could go wherever he desired.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "स शैलं सागरानूपं वीर्यवानवलोकयन्।\nनानापुष्पफलैर्वृक्षैरनुकीर्णं सहस्रशः।।3.35.11।।",
+      "transliteration": "",
+      "translation": "Valiant Ravana wentwatching the mountains full of thousands of trees bearing flowers and fruits on the shore of the sea.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "शीतमङ्गलतोयाभिः पद्मिनीभिस्समन्ततः।\nविशालैराश्रमपदैर्वेदिमद्भिस्समावृतम्।।3.35.12।।",
+      "transliteration": "",
+      "translation": "(The area) surrounded on all sides with lotusladen ponds filled with cool, sacred water, sprawling hermitages with elevated altars.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "कदल्याढकिसम्बाधं नारिकेलोपशोभितम्।\nसालैस्तालैस्तमालैश्च पुष्पितैस्तरुभिर्वृतम्।।3.35.13।।",
+      "transliteration": "",
+      "translation": "The place covered with banana plants and coconut trees  as well as blossoming sal and tamala trees was looking extremely beautiful.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "नागैस्सुपर्णैर्गन्धैर्वैः किन्नरैश्च सहस्रशः।\nअजैर्वैखानसैर्माषैर्वालखिल्यैर्मरीचिपैः।।3.35.14।।\nअत्यन्तनियताहारैश्शोभितं परमर्षिभिः।\nजितकामैश्च सिद्धैश्च चारणैरुपशोभितम्।।3.35.15।।",
+      "transliteration": "",
+      "translation": "The place looked charming with nagas, garudas, gandharvas, kinneras in their thousands and with the descendants of ajas, vaikhanasas, valakhilyas and with those who drink the rays of Sun and Moon for survival, with  sages who were highly disciplined in the intake of food,  spiritually accomplished  and selfcontrolled hermits and charanas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "दिव्याभरणमाल्याभिर्दिव्यरूपाभिरावृतम्।\nक्रीडारतिविधिज्ञाभिरप्सरोभिस्सहस्रशः।।3.35.16।।",
+      "transliteration": "",
+      "translation": "(The place was) full of apsaras  in their thousands and paragons of beauty adorned with divine ornaments and garlands, and experts in lovesports.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "सेवितं देवपन्तीभिश्श्रीमतीभिश्श्रियाऽऽवृतम्।\nदेवदानवसङ्घैश्च चरितं त्वमृताशिभिः।।3.35.17।।",
+      "transliteration": "",
+      "translation": "It was chosen by prosperous wives of gods as a reosrt. Hosts of gods and demons were wandering, there in the hope of tasting nectar.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "हंसक्रौञ्चप्लवाकीर्णं सारसैस्सम्प्रणादितम्।\nवैढूर्यप्रस्तरं रम्यं स्निग्धं सागरतेजसा।।3.35.18।।",
+      "transliteration": "",
+      "translation": "(It was ) full of small floats, flocks of swans, kraunchas, sarasas cackling in the ponds, with great joy. It had stretches of vaidurya stones on the shore and shone with the radiance of the sea",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "पाण्डुराणि विशालानि दिव्यमाल्ययुतानि च���\nतूर्यगीताभिजुष्टानि विमानानि समन्ततः।।3.35.19।।\nतपसा जितलोकानां कामगान्यभिसम्पतन्।\nगन्धर्वाप्सरसश्चैव ददर्श धनदानुजः।।3.35.20।।",
+      "transliteration": "",
+      "translation": "Speeding along, the brother of Kubera (Ravana) saw palewhite, spacious aerial chariots on all sides controlled by those who had conquered the higher worlds by their penances. These chariots, decked with heavenly garlands, and ringing with divine music could fly where one desired. He saw gandharvas and apsaras as well.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "निर्यासरसमूलानां चन्दनानां सहस्रशः।\nवनानि पश्यन्सौम्यानि घ्राणतृप्तिकराणि च।।3.35.21।।",
+      "transliteration": "",
+      "translation": "He saw thousands of tree trunks with finesmelling resins and sandalwood trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अगरूणां च मुख्यानां वनान्युपवनानि च।\nतक्कोलानां च जात्यानां फलानां च सुगन्धिनाम्।।3.35.22।।",
+      "transliteration": "",
+      "translation": "(He saw) very fine aguru trees in the forest as well as pleasuregroves of takkola fruits, fragrant  trees of a fine variety and fragrant nutmegs.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "पुष्पाणि च तमालस्य गुल्मानि मरिचस्य च।\nमुक्तानां च समूहानि शुष्यमाणानि तीरतः।।3.35.23।।",
+      "transliteration": "",
+      "translation": "(He saw) tamala flowers in bloom, pepper shrubs in clusters and hoards of pearls kept for drying on the shores.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "शङ्खानां प्रसरं चैव प्रवालनिचयं तथा।\nकाञ्चनानि च शैलानि राजतानि च सर्वशः।।3.35.24।।",
+      "transliteration": "",
+      "translation": "He saw stretches of conches, heaps of corals and mounds of gold and silver too.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "प्रस्रवाणि मनोज्ञानि प्रसन्नानि ह्रदानि च।\nधनधान्योपपन्नानि स्त्रीरत्नैश्शोभितानि च।।3.35.25।।\nहस्त्यश्वरथगाढानि नगराण्यवलोकयन्।",
+      "transliteration": "",
+      "translation": "He went watching fascinating waterfalls, pleasing ponds, cities filled with wealth and grain, looking splendid with beautiful women and full of elephants, horses and chariots.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तं समं सर्वतस्निग्धं मृदुसंस्पर्शमारुतम्।\nअनूपं सिन्धुराजस्य ददर्श त्रिदिवोपमम्।।3.35.26।।",
+      "transliteration": "",
+      "translation": "It was a veritable heaven with the plain land flooded with the backwaters of the sea and gentle breeze blowing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तत्रापश्यत्स मेघाभं न्यग्रोधमृषिभिर्वृतम्।।3.35.27।।\nसमन्ताद्यस्य ताश्शाखाश्शतयोजनमायताः।",
+      "transliteration": "",
+      "translation": "He saw a banyan tree with its branches spread on all sides measuring a hundred  yojanas, looking like a cloud and providing shelter to the sages.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "यस्य हस्तिनमादाय महाकायं च कच्छपम्।।3.35.28।।\nभक्षार्थं गरुडश्शाखामाजगाम महाबलः।",
+      "transliteration": "",
+      "translation": "In the past, the mighty Garuda brought an elephant and a huge tortoise and sat on a branch of this tree to feed on them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तस्य तां सहसा शाखां भारेण पतगोत्तमः।।3.35.29।।\nसुपर्णः पर्णबहुलां बभञ्ज च महाबलः।",
+      "transliteration": "",
+      "translation": "Due to the weight of this best of birds, the mighty Garuda, the leafy branch at once broke down.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "तत्र वैखानसा माषा वालखिल्या मरीचिपाः।।3.35.30।।\nअजा बभूवुर्धूम्राश्च सङ्गताः परमर्षयः।",
+      "transliteration": "",
+      "translation": "Gathered together under the great tree were great sages like vaikhanasas, mashas, marichipas, valakhilyas, ajas and dhumras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तेषां दयार्थं गरुडस्तां शाखां शतयोजनाम्।।3.35.31।।\nजगामादाय वेगेन तौ चोभौ गजकच्छपौ।",
+      "transliteration": "",
+      "translation": "Out of compassion for the (endangered) seers Garuda carried away that hundredyojanalong branch along with the elephant and the tortoise with great speed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "एकपादेन धर्मात्मा भक्षयित्वा तदामिषम्।।3.35.32।।\nनिषादविषयं हत्वा शाखया पतगोत्तमः।\nप्रहर्षमतुलं लेभे मोक्षयित्वा महामुनीन्।।3.35.33।।",
+      "transliteration": "",
+      "translation": "Righteous Garuda, the best among the birds, stood on one foot and ate the flesh (of elephant and tortoise) and  with the branch of the tree, destroyed the settlement of the demons. Over the destruction of the demons and deliverance of the great seers he felt immeasurable happiness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "स तेनैव प्रहर्षेण द्विगुणीकृतविक्रमः।\nअमृतानयनार्थं वै चकार मतिमान्मतिम्।।3.35.34।।",
+      "transliteration": "",
+      "translation": "Quite happy, his energy redoubled, wise Garuda made up his mind to obtain nectar.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "अयोजालानि निर्मथ्य भित्वा रत्नमयं गृहम्।\nमहेन्द्रभवनाद्गुप्तमाजहारामृतं ततः।।3.35.35।।",
+      "transliteration": "",
+      "translation": "Twisting and twirling the grills of the window, he broke open the room made of gems and quietly carried away the nectar from Indra's mansion.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "तं महर्षिगणैर्जुष्टं सुपर्णकृतलक्षणम्।\nनाम्ना सुभद्रं न्यग्रोधं ददर्श धनदानुजः।।3.35.36।।",
+      "transliteration": "",
+      "translation": "Ravana, the younger brother of Kubera, beheld that banyan tree called Subhadram ,which was a favoured resort of the sages bearing the ensignia of Garuda.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "तं तु गत्वा परं पारं समुद्रस्य नदीपतेः।\nददर्शाश्रममेकान्ते रम्ये पुण्ये वनान्तरे।।3.35.37।।",
+      "transliteration": "",
+      "translation": "Ravana crossed over to the other side of the sea, the lord of rivers, and beheld a hermitage in a beautiful, secluded, sacred  place in the middle of the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "तत्र कृष्णाजिनधरं जटावल्कलधारिणम्।\nददर्श नियताहारं मारीचं नाम राक्षसाम्।।3.35.38।।",
+      "transliteration": "",
+      "translation": "There he saw a demon Maricha, by name, clad in dark deerskin and bark ,with matted hair and living on restricted food.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "स रावणस्समागम्य विधिवत्तेन रक्षसा।\nमारीचेनार्चितो राजा सर्वकामैरमानुषैः।।3.35.39।।",
+      "transliteration": "",
+      "translation": "When king Ravana reached there, Maricha received him  in accordance with tradition  and made worshipful offering to the king, fulfilling all his superhuman desires.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "तं स्वयं पूजयित्वा तु भोजनेनोदकेन च।\nअर्थोपहितया वाचा मारीचो वाक्यमब्रवीत्।।3.35.40।।",
+      "transliteration": "",
+      "translation": "Maricha extended his hospitality with appropriate food and water and said with meaningful words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "कच्चित्सुकुशलं राजन्लङ्कायां राक्षसेश्वर।\nकेनार्थेन पुनस्त्वं वै तूर्णमेवमिहागतः।।3.35.41।।",
+      "transliteration": "",
+      "translation": "O king  O lord of the demons  hope all is well in Lanka. What brings you here again so soon ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-35-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "एवमुक्तो महातेजा मारीचेन स रावणः।\nततः पश्चादिदं वाक्यमब्रवीद्वाक्यकोविदः।।3.35.42��।",
+      "transliteration": "",
+      "translation": "Thus addressed by Maricha, the effulgent, eloquent Ravana replied with these words: इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे पञ्चत्रिंशस्सर्गः।। Thus ends the thirtyfifth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 32,
+    "title": "Sita wails at the sight of Rama's head presented by Ravana to her. Ravana abruptly leaves Ashoka grove.",
+    "titleSanskrit": "",
+    "totalShlokas": 42
+  },
+  "shlokas": [
+    {
+      "id": "v6-32-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "सासीतातच्छिरोदृष्टवातच्चकार्मुकमुत्तमम् ।\nसु��्रीवप्रतिसंपर्गमाख्यातंचहनूमता ।।6.32.1।।\nनयनेमुखवर्णंचभर्तुस���तत्सदृशंमुखम् ।\nकेशान् केशान्तदेशंचतंचचूडामणिंशुभम् ।।6.32.2।।\nएतैस्सर्वेरभिज्ञानैरभिज्ञायसुदुःखिता ।\nनिजगर्हेचकैकेयींक्रोशन्तीकुररीयथा ।।6.32.3।।",
+      "transliteration": "",
+      "translation": "On seeing the esteemed Rama's head and bow, remembering the description made by Hanuman about the friendship with Sugriva thinking of the eyes, complexion of the face, the hair, and curls of her husband at the end Sita recognized the auspicious Chudamani. Identifying all those marks to be like Rama's she felt very sad and cried like a deer and abused Kaikeyi.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "सकामाभवकैकेयीहतोऽयंकुलनन्दनः ।\nकुलमुत्सादितंसर्वंत्वयाकलहशीलया ।।6.32.4।।",
+      "transliteration": "",
+      "translation": "\"O Kaikeyi! Your desire is fulfilled with the killing of the delight of the race. You, who are given to creating quarrel have ruined the race.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "आर्येणकिंतेकैकेयी कृतंरामेणविप्रियम् ।\nयन्मयाचीरवसनस्त्वयाप्रस्थापितोवनम् ।।6.32.5।।",
+      "transliteration": "",
+      "translation": "\"Kaikeyi, you have given bark robes to prince Rama and sent him to the forest with me. What harm has he done for you? Thinking of this again and again Sita cried.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "एवमुक्त्वातुवैदेहीवेपमानातपस्विनी ।\nजगामजगतींबालाछिन्नातुकदळीयथा ।।6.32.6।।",
+      "transliteration": "",
+      "translation": "That miserable young, Vaidehi, having said so, fell on the ground trembling like a cut off banana plant.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "सामुहूर्तात्समाश्वास्यप्रतिलभ्यचचेतनाम् ।\nतच्छिरस्समुपाघ्रायविललासायतेक्षणा ।।6.32.7।।",
+      "transliteration": "",
+      "translation": "Broadeyed Sita, regaining her consciousness after a while, sat close to the head of Rama and lamented.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "हाहताऽस्मिमहाबाहो वीरव्रतमनुव्रत ।\nइमांतेपश्चिमावस्थांगताऽस्मिविधवाकृता ।।6.32.8।।",
+      "transliteration": "",
+      "translation": "\"O mightyarmed one! Alas you are killed while following heroic vow. I live to see you in the last state of your life, widowed. I am done.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "प्रथमंमरणंनार्याभर्तुर्वैगुण्यमुच्यते ।\nसुवृत्त: स्साधुवृत्तायास्सम्वृत्तस्त्वंममाग्रतः ।।6.32.9।।",
+      "transliteration": "",
+      "translation": "\"O Rama, you are faithful to your vows, a noble one! It is said that because of a woman's faults, the husband will die. It is not even so as you died in front of a virtuous woman of good conduct.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "दुःखाद्दुःखंप्रपन्नायामग्नायाश्शोकसागरे ।\nयोहिमामुद्यतनिस्त्रातुंसोऽपित्वंविनिपातितः ।।6.32.10।।",
+      "transliteration": "",
+      "translation": "\"I am in grief and filled with an ocean of sorrow. You who have come to save me and are also killed.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "साश्वश्रूर्ममकौसल्यात्वयापुत्रेणराघव: ।\nवत्सेनेवयथाधेनुर्विवत्सावत्सलाकृता ।।6.32.11।।",
+      "transliteration": "",
+      "translation": "\"O Raghava! Even my motherinlaw Kausalya is separated from her dear son just as cow is separated from calf.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "आद्दिष्टंदीर्घमायुस्तेयैरचिन्त्यपराक्रम ।\nअनृतंवचनंतेषामल्पायुरपिराघव ।।6.32.12।।",
+      "transliteration": "",
+      "translation": "\"O Raghava of incomprehensible valour! the words predicted by astrologers that your life is long is falsified. Your life has been short.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "अथवानश्यतिप्रज्ञाप्राज्ञस्यापिसतस्तव ।\nपचत्येनंयथाकालोभूतानांप्रभवोऽह्ययम् ।।6.32.13।।",
+      "transliteration": "",
+      "translation": "\"Or else, even the wisdom of a learned one is diffused and lost perhaps! the effect of time which is the cause of all living beings has caused this.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अदृष्टंमृत्युमापन्नःकस्मात्त्वंनयशास्त्रवित् ।\nव्यसनानामुपायज्ञःकुशलोह्यसिवर्जने ।।6.32.14।।",
+      "transliteration": "",
+      "translation": "\"You are the knower of all sastras, and capable of warding off all calamities. How did death have a chance to meet you and overtake?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तथात्वंसम्परिष्वज्यरौद्रयाऽतिनृशंसया ।\nकाळरात्य्राममाच्छिद्यहृतःकमललोचन:।। 6.32.15।।",
+      "transliteration": "",
+      "translation": "\"O lotuseyed Rama! After you have lost contact with me, the most horrible cruel night has killed you cutting you off from me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "उपशेषेमहाबाहो: मांविहायतपस्विनीम् ।\nप्रियामिवसमालशिष्यपृथिवींपुरुषर्षभ ।।6.32.16।।",
+      "transliteration": "",
+      "translation": "\"O mightyarmed one! A bull among men and a noble one, you are embracing the earth as though it is your beloved and sleeping leaving me in the sky.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "अर्चितंसततंयत्तद्गन्धमाल्यैर्मयातव ।\nइदंतेमप्रतियंवीरधनुःकाञ्चानभूषणम् ।।6.32.17।।",
+      "transliteration": "",
+      "translation": "\"O Hero! This bow that was decorated with gold was always worshipped with sandal and flowers diligently by you and me with utmost devotion.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "पित्रादशरथेनत्वंश्वशुरेणममानघ: ।\nसर्वैश्चपितृभिस्सार्थंनूनंस्वर्गेसमागतः ।।6.32.18।।",
+      "transliteration": "",
+      "translation": "\"O Sinless one! Surely you have reached heaven where your father, my fatherinlaw Dasaratha and your grandfathers have reached.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "दिविनक्षत्रभूतस्त्वंमहात्कर्मकृतप्रियम् ।\nपुण्यंराजर्षिवंशंत्वमात्मनस्समुपेक्षसे ।।6.32.19।।",
+      "transliteration": "",
+      "translation": "\"In heaven, you will be seeing luminaries of the sky who are dear, who have done great deeds and earned merit and the royal sages of your own race.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "किंमांनप्रेक्षसेराजन् किंमांनप्रतिभाषसे ।\nबालांबाल्येनसम्प्राप्तांभार्यांमांसहचारिणीम् ।।6.32.20।।",
+      "transliteration": "",
+      "translation": "\"O King! I have come to you while I was young. I am your companion and wife also. Why are you not seeing me? Why are you not talking to me?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "संश्रुतंगृह्णतापाणिंचरिष्यामीतियत्त्वया ।\nस्मरतन्ममकाकुत्स्थनयमामपिदुःखिताम् ।।6.32.21।।",
+      "transliteration": "",
+      "translation": "\"O Kakutstha! while you held my hand (at the time of marriage) you promised that you will be with me and likewise promised to take me, a (wretched one) with you to the other world. Remembering that I am sad.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "कस्मान्मामपहायत्वंगतोगतिमतांवर ।\nअस्माल्लोकादमुंलोकंत्यक्त्वामामपिदुःखिताम् ।।6.32.22।।",
+      "transliteration": "",
+      "translation": "\"O Jewel among those who attained good state! Why have you gone abandoning me dear? To which world have you gone from here? I am pained by your deserting me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "कल्याणैरुचितंयत्तत्परिष्वक्तंमयैवतु ।\nक्रव्यादैस्तच्छरीरंतेमानंविपरिकृष्यते ।।6.32.23।।",
+      "transliteration": "",
+      "translation": "\"This body which used to be decorated by me with auspicious items, with great respect is dragged by cruel animals.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "अग्निष्टोमादिभिर्यज्ञैरिष्टवानाप्तदक्षिणैः ।\nअग्निहोत्रेणसंस्कारंकेनत्वंनतुलप्स्यसे ।।6.32.24।।",
+      "transliteration": "",
+      "translation": "\"Why are you, who performed all kinds of sacrificial rituals of fire with all offerings deserve sanctification without doing fire sacrifice?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "प्रव्रज्यामुपपन्नानांत्रयाणामेकमागतम् ।\nपरिप्रक्ष्यतिकौसल्यालक्ष्मणंशोकलालसा ।।6.32.25।।",
+      "transliteration": "",
+      "translation": "\"Seeing only Lakshmana returning, of the three exiled, Kausalya will be immersed in grief (will ask).\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "सतस्याःपरिपृच्छन्त्यावधंमित्रबलस्यते ।\nतवचाख्यास्यतेनूनंनिशायांराक्षसैर्वधम् ।।6.32.26।।",
+      "transliteration": "",
+      "translation": "\"When she questions, he may tell that you and your army were killed by the army of friends at night.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "सात्वांसुप्तंहतंश्रुत्वामांचरक्षोगृहंगताम् ।\nहृदयेनविदीर्णेननभविष्यतिराघव ।।6.32.27।।",
+      "transliteration": "",
+      "translation": "\"Raghava! Hearing that you were killed while asleep and I was taken to the home of Rakshasas, Kausalya will not be able to survive with a broken heart.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "ममहेतोरनार्यायाह्यनर्हःपार्थिवात्म: ।\nरामस्सागरमुततीर्यसत्त्ववान् गोष्पदेहतः ।।6.32.28।।",
+      "transliteration": "",
+      "translation": "\"On account of an undeserving one, Rama, the son of the emperor, a valiant one who does not deserve to be killed, after having crossed the ocean is killed by a footprint of a cow(easily).\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "अहंदाशरथेनोढामोहात्स्वकुलपांसनी ।\nआर्यपुत्रस्यरामस्यभार्यामृत्युरजायत ।।6.32.29।।",
+      "transliteration": "",
+      "translation": "\"In ignorance as an obloquy of his race, the noble son of Dasaratha married me. For such Rama's wife turned out to be his death.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "नूनमन्यांमयाजातिंवारितंदानमुत्तमम् ।\nयाहमद्येहशोचामिभार्यासर्वतिथेरपि ।।6.32.30।।",
+      "transliteration": "",
+      "translation": "\"Undoubtedly I may have obstructed a supreme offering (such as offering a girl in marriage) in some other (previous) life. So now I am pained even though I am the wife of one who is kind to all.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "साधुपातयमांक्षिप्रंरामस्योपरिरावण ।\nसमानयपतिंपन्त्याकुरुकल्याणमुत्तमम् ।।6.32.31।।",
+      "transliteration": "",
+      "translation": "\"O Ravana! You may quickly join me with my husband as it will be highly auspicious for the wife to join the husband.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "शिरसामेशिरश्चास्यकायंकायेनयोजय ।\nरावणानुगमिष्यामिगतिंभर्तुर्महात्मनः ।।6.32.32।।",
+      "transliteration": "",
+      "translation": "\"O Ravana! Join my head with his and my body with his body. I will follow him in the same way.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "इतिसदुःखसन्तप्ताविललापायतेक्षणा ।\nभर्तुश्शिरोधनुस्तत्रसमीक्ष्यचपुनःपुनः ।।6.32.33।।",
+      "transliteration": "",
+      "translation": "Burning in sorrow, the broad eyed Sita gazing at the head of her husband and the bow again and again lamented.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "एवंलालप्यमानायांसीतायांतत्रराक्षसः ।\nअभिचक्रामभर्तारमनीकस्थःकृताञ्जलिः ।।6.32.34।।",
+      "transliteration": "",
+      "translation": "While Sita was wailing in that manner, as said earlier, the Rakshasa guarding her approached the king and offered salutations with both hands.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "विजयस्वार्यपुत्रेतिसोऽभिवाद्यप्रसाद्यच ।\nन्यवेदयदनुप्राप्तंप्रहस्तंवाहिनीपतिम् ।।6.32.35।।",
+      "transliteration": "",
+      "translation": "The Rakshasa (guard) greeted the king saying, \"Let you be victorious!\" and announced reverentially, \"Prahastha, the army chief has arrived.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "अमात्यैस्सहितस्सर्वैःप्रहस्तस्समुपस्थितः ।\nतेनदर्शनकामेनवयंप्रस्थापिताःप्रभो ।।6.32.36।।",
+      "transliteration": "",
+      "translation": "\"O Lord! Accompanied by all ministers Prahastha is waiting and sends me desiring to see you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "नूनमस्तिमहाराज राजभावात्क्षमान्वितं ।\nकिञ्चिदात्ययिकंकार्यंतेषांत्वंदर्शनंकुरु ।।6.32.37।।",
+      "transliteration": "",
+      "translation": "\"O great king, endowed with forgiveness and royalty! there is a little urgent work. Undoubtedly, they are waiting to see you please.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "एतच्छ्रुत्वादशग्रीवोराक्षसप्रतिवेदितम् ।\nअशोकन्विकांत्यक्त्वामन्त्रिणांदर्शनंययौ ।।6.32.38।।",
+      "transliteration": "",
+      "translation": "On hearing the submission of the rakshasa, the tenheaded king left the Asoka grove to see the ministers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "सतुसर्वंसमर्थ्यैवमन्त्रिभिःकृत्यमात्मनः ।\nसभांप्रविश्यविदधेविदित्वारामविक्रमम् ।।6.32.39।।",
+      "transliteration": "",
+      "translation": "Having known all about Rama's prowess, Ravana and ministers entered the assembly to think carefully about the task to be carried out and how to do it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "अन्तर्थानंतुतच्छीर्षंतच्चकार्मुकमुत्तमम् ।\nजगामरावणस्यैवनिर्याणसमनन्तरम् ।।6.32.40।।",
+      "transliteration": "",
+      "translation": "As soon as Ravana departed, that head and the excellent bow vanished from there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "राक्षसेन्द्रस्तुतैस्सार्धंमन्त्रिभिर्भीमविक्रमैः ।\nसमर्थयामासतदारामकार्यविनिश्चयम् ।।6.32.41।।",
+      "transliteration": "",
+      "translation": "The king of Rakshasas and the ministers of terrific valour then thought about the course of action to be taken against Rama and decided.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "अविदूरस्थितान्सर्वान्बलाध्यक्षाहनितैषिणः ।\nअब्रवीत्कालसदृशोरावणोराक्षसाधिपः ।।6.32.42।।",
+      "transliteration": "",
+      "translation": "The Rakshasa king who resembled the god of death spoke to the heads of army force and wellwishers who stood close by.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "शीघ्रंभेरीनिनादेनस्फुटंकोणाहतेनमे ।\nसमानयध्वंसैन्यानिवक्तव्यंचनकारणम् ।।6.32.43।।",
+      "transliteration": "",
+      "translation": "\"Break forth by beating the drums with powerful drumsticks calling the army to assemble without telling the reason.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-32-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "ततस्तथेतिप्रतिगृह्यतद्वचोबलाधिपास्तेमहदात्मनोबलम् ।\nसमानयंश्चैवसमागमंचतेन्यवेदयन्भर्तरियुद्धकाङ्क्षिणि ।।6.32.44।।",
+      "transliteration": "",
+      "translation": "Then the attendants collected the great powerful army saying, 'so be it', to Ravana who was desirous of war. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्दकाण्डेद्वात्रिंशस्सर्गः ।। This is the end of the thirty second sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 46,
+    "title": "Diti undergoes mortifications for the birth of a son with the consent of Kasyapa-- Indra serves her on an occasion when she was impure enters her womb and severes the embryo into seven parts.",
+    "titleSanskrit": "",
+    "totalShlokas": 23
+  },
+  "shlokas": [
+    {
+      "id": "v1-46-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "हतेषु तेषु पुत्रेषु दिति: परमदु:खिता।\nमारीचं काश्यपं राम भर्तारमिदमब्रवीत्।।1.46.1।।",
+      "transliteration": "",
+      "translation": "\"O Rama! afflicted with great grief when her sons were killed, Diti said to her husband Kasyapa, son of Maricha:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-46-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "हतपुत्राऽस्मि भगवंस्तव पुत्रैर्महाबलै:।\nशक्रहन्तारमिच्छामि पुत्रं दीर्घतपोऽर्जितम्।।1.46.2।।",
+      "transliteration": "",
+      "translation": "\"O adorable one, your highly powerful sons, (devatas) have killed mine through extensive austerities. I am desirous of obtaining a (mighty) son capable of killing Indra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-46-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "साऽहं तपश्चरिष्यामि गर्भं मे दातुमर्हसि।\nईश्वरं शक्रहन्तारं त्वमनुज्ञातुमर्हसि।।1.46.3।।",
+      "transliteration": "",
+      "translation": "I shall practise austerities. You ought to grant me a son who would be the supreme ruler of the world and capable of killing Indra. You can say yes (if you will)\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-46-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तस्यास्तद्वचनं श्रुत्वा मारीच: काश्यपस्तदा।\nप्रत्युवाच महातेजा दितिं परमदु:खिताम्।।1.46.4।।",
+      "transliteration": "",
+      "translation": "Then, Maricha's son, exceedingly bright Kasyapa on hearing the words of Diti who was deeply grieved replied:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-46-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "एवं भवतु, भद्रं ते शुचिर्भव तपोधने।\nजनयिष्यसि पुत्रं त्वं शक्रहन्तारमाहवे।।1.46.5।।",
+      "transliteration": "",
+      "translation": "\"O one vested with the wealth of austerities be it so. Prosperity to you Remain chaste, you will deliver a son who will kill Indra in the battle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-46-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "पूर्णे वर्षसहस्रे तु शुचिर्यदि भविष्यसि।\nपुत्रं त्रैलोक्यभर्तारं मत्तस्त्वं जनयिष्यसि।।1.46.6।।",
+      "transliteration": "",
+      "translation": "\"If you remain pure and clean, on completion of a thousand years you will give birth to a son through me who will be the lord of the three worlds\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-46-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "एवमुक्त्वा महातेजा: पाणिना स ममार्ज ताम्।\nसमालभ्य ततस्स्वस्तीत्युक्त्वा स तपसे ययौ।।1.46.7।।",
+      "transliteration": "",
+      "translation": "Highly brilliant Kasyapa, having thus spoken, touched her gently with his palm, stroked her body and said, \"May good betide thee\". Having said this, Kasyapa went away to perform austerities.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-46-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "गते तस्मिन्नरश्श्रेष्ठ दिति: परमहर्षिता।\nकुशप्लवनमासाद्य तपस्तेपे सुदारुणम्।।1.46.8।।",
+      "transliteration": "",
+      "translation": "\"O foremost among men after Kasyapa had left, Diti exceedingly delighted (at the prospect of having sons) reached Kushaplavana, and practised intense mortifications.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-46-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तपस्तस्यां हि कुर्वन्त्यां परिचर्यां चकार  ह।\nसहस्राक्षो नरश्श्रेष्ठ परया गुणसम्पदा।।1.46.9।।",
+      "transliteration": "",
+      "translation": "O foremost of men great treasure of virtues while she was practising austerities, the thousandeyed Indra  began to serve her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-46-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अग्निं कुशान् काष्ठमप: फलं मूलं तथैव च।\nन्यवेदयत्सहस्राक्षो यच्चान्यदपि काङ्क्षितम्।।1.46.10।।",
+      "transliteration": "",
+      "translation": "The thousandeyed Indra served her by providing fire, Kusha grass, sticks for burning,  water, fruits, roots and all other things desired by her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-46-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "गात्रसंवहनश्चैव श्रमापनयनैस्तथा।\nशक्रस्सर्वेषु कालेषु दितिं परिचचार ह ।।1.46.11।।",
+      "transliteration": "",
+      "translation": "Indra attended on Diti, stroking her limbs gently from time to time to help her regain their  suppleness and alleviate her fatigue.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-46-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अथ वर्षसहस्रे तु दशोने रघुनन्दन ।\nदिति: परमसम्प्रीता सहस्राक्षमथाब्रवीत्।।1.46.12।।",
+      "transliteration": "",
+      "translation": "O son of the Raghus ten years before completion of a thousand years. Diti, highly pleased with the services rendered by Indra, addressed him\", saying:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-46-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "याचितेन सुरश्रेष्ठ तव पित्रा महात्मना।\nवरो वर्षसहस्रान्ते दत्तो मम सुतं प्रति।।1.46.13।।",
+      "transliteration": "",
+      "translation": "\"O best of the gods your illustrious father granted me a boon for a son I sought on completion of a thousand years (of penance).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-46-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तपश्चरन्त्या वर्षाणि दश वीर्यवतां वर।\nअवशिष्टानि भद्रं ते भ्रातरं द्रक्ष्यसे तत:।।1.46.14।।",
+      "transliteration": "",
+      "translation": "O the best of the brave ten years is yet to go (for completion of austerities). You will  have a brother. May you prosper",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-46-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तमहं त्वत्कृते पुत्र समाधास्ये जयोत्सुकम्।\nत्रैलोक्यविजयं पुत्र सह भोक्ष्यसि विज्वर:।।1.46.15।।",
+      "transliteration": "",
+      "translation": "O Child I'll create in him eagerness victory. Together with him you will gain victory over the three worlds. Relieved of sorrows, enjoy you'll with him\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-46-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "��वमुक्त्वा दितिश्शक्रं प्राप्ते मध्यं दिवाकरे।\nनिद्रयाऽपहृता देवी पादौ कृत्वाऽथ शीर्षत:।।1.46.16।।",
+      "transliteration": "",
+      "translation": "After speaking thus to Indra, goddess Diti overpowered with sleep around midsday dropped off, her feet towards her head.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-46-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "दृष्ट्वा तामशुचिं शक्र: पादत: कृतमूर्धजाम्।\nशिरस्स्थाने कृतौ पादौ जहास च मुमोद च।।1.46.17।।",
+      "transliteration": "",
+      "translation": "Indra laughed. He rejoiced at the sight of her ominous posture of sleeping with her feet towards her head and her hair falling on her feet.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-46-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तस्याश्शरीरविवरं विवेश च पुरन्दर:।\nगर्भं च सप्तधा राम बिभेद परमात्मवान्।।1.46.18।।",
+      "transliteration": "",
+      "translation": "O Rama with great courage Indra entered her womb and severed her embryo into  seven pieces.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-46-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "भिद्यमानस्ततो गर्भो वज्रेण शतपर्वणा।\nरुरोद सुस्वरं राम ततो दितिरबुध्यत।।1.46.19।।",
+      "transliteration": "",
+      "translation": "O Rama that embryo, being severed by Vajra having a hundred edges, cried at high pitch which awakened Diti\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-46-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "मा रुदो मा रुदश्चेति गर्भं शक्रोऽभ्यभाषत।\nबिभेद च महातेजा रुदन्तमपि वासव:।।1.46.20।।",
+      "transliteration": "",
+      "translation": "Highly powerful Indra, even while saying to the crying embryo  \"Do not weep, Do not weep\" severed it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-46-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "न हन्तव्यो न हन्तव्य इत्येवं दितिरब्रवीत्।\nनिष्पपात ततश्शक्रो मातुर्वचनगौरवात्।।1.46.21।।",
+      "transliteration": "",
+      "translation": "\"Do not kill\", \"Do not kill\", said Diti. Subsequently Indra, in deference to the words of his mother, emerged out of the womb.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-46-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "प्राञ्जलिर्वज्रसहितो दितिं शक्रोऽभ्यभाषत।\nअशुचिर्देवि सुप्ताऽसि पादयो: कृतमूर्धजा।।1.46.22।।",
+      "transliteration": "",
+      "translation": "Armed with Vajra, Indra addressed Diti with folded palms, saying, \"O Devi you have slept,  with your head towards your feet and your hair falling on your feet\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-46-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तदन्तरमहं लब्ध्वा शक्रहन्तारमाहवे।\nअभिदं सप्तधा देवि तन्मे त्वं क्षन्तुमर्हसि।।1.46.23।।",
+      "transliteration": "",
+      "translation": "\"I have seized the opportunity and severed into seven pieces the foetus who would have been a slayer of Indra. O Devi shoudn't you forgive me\"? इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे षट्चत्वारिंशस्सर्ग:।। Thus ends the fortysixth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

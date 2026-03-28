@@ -1,0 +1,369 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 19,
+    "title": "Rama hears from Kaikeyi about the boons promised by Dasarathaconsents to leave for the forest goes to meet Kausalya.",
+    "titleSanskrit": "",
+    "totalShlokas": 39
+  },
+  "shlokas": [
+    {
+      "id": "v2-19-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तदप्रियममित्रघ्नो वचनं मरणोपमम्।\nश्रुत्वा न विव्यथे रामः कैकेयीं चेदमब्रवीत्।।2.19.1।।",
+      "transliteration": "",
+      "translation": "The destroyer of enemies (Rama) did not feel distressed to hear these words painful like death. To Kaikeyi he said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "एवमस्तु गमिष्यामि वनं वस्तुमहं त्वितः। \nजटाजिनधरो राज्ञः प्रतिज्ञामनुपालयन्।।2.19.2।।",
+      "transliteration": "",
+      "translation": "Be it so I shall go from here to the forest and live there with matted hair and deerskin to keep the promise of the king.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "इदं तु ज्ञातुमिच्छामि किमर्थं मां महीपतिः।\nनाभिनन्दति दुर्धर्षो यथापूर्वमरिन्दमः।।2.19.3।।",
+      "transliteration": "",
+      "translation": "Nevertheless I would like to know why king Dasaratha, an unassailable subduer of enemies does not greet me as usual.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "मन्युर्न च त्वया कार्यो देवि ब्रूमि तवाग्रतः।\nयास्यामि भव सुप्रीता वनं चीरजटाधरः।।2.19.4।।",
+      "transliteration": "",
+      "translation": "O Devi you should not grieve. I declare in your presence that I shall go to the forest wearing tattered clothes (bark) and matted locks. Rejoice (to hear this).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "हितेन गुरुणा पित्रा कृतज्ञेन नृपेण च।\nनियुज्यमानो विस्रब्धः किं न कुर्यामहं प्रियम्।।2.19.5।।",
+      "transliteration": "",
+      "translation": "Ordered by my father who is my wellwisher, my guru, one with a sense of gratidude and, above all a king, shall I not, without hesitation do what pleases him?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अलीकं मानसं त्वेकं हृदयं दहतीव मे।\nस्वयं यन्नाह मां राजा भरतस्याभिषेचनम्।।2.19.6।।",
+      "transliteration": "",
+      "translation": "One thing which hurts me is that the king himself did not tell me about Bharata's   consecration. That alone is burning my heart.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "अहं हि सीतां राज्यं च प्राणानिष्टान्धनानि च।\nहृष्टो भ्रात्रे स्वयं दद्यां भरतायाप्रचोदितः।।2.19.7।।",
+      "transliteration": "",
+      "translation": "Unurged, I would have gladly given to Bharata the kingdom, wealth, my most  coveted life, and even Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "किं पुनर्मनुजेन्द्रेण स्वयं पित्रा प्रचोदितः।\nतव च प्रियकामार्थं प्रतिज्ञामनुपालयन्।।2.19.8।।",
+      "transliteration": "",
+      "translation": "In order to keep the promise I shall do everything to fulfil your desire. Needless to say that my father has ordered this.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तदाश्वासय हीमं त्वं किन्विदं यन्महीपतिः।\nवसुधासक्तनयनो मन्दमश्रूणि मुञ्चति।।2.19.9।।",
+      "transliteration": "",
+      "translation": "Please console him. Why is it that the king with his eyes fixed upon the ground is shedding tears drop by drop?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "गच्छन्तु चैवानयितुं दूताश्श्रीघ्रजवैर्हयैः।\nभरतं मातुलकुलादद्यैव नृपशासनात्।।2.19.10।।",
+      "transliteration": "",
+      "translation": "With the king's orders let messengers go right away on swift horses to fetch Bharata from his maternal uncle's house.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "दण्डकारण्यमेषोऽहमितो गच्छामि सत्वरः।\nअविचार्य पितुर्वाक्यं समा वस्तुं चतुर्दश।।2.19.11।।",
+      "transliteration": "",
+      "translation": "As for me, without deliberating on the propriety of my father's orders, I shall go from here at once to Dandaka forest to live (there) for fourteen years.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "सा हृष्टा तस्य तद्वाक्यं श्रुत्वा रामस्य कैकयी।\nप्रस्थानं श्रद्धधाना हि त्वरयामास राघवम्।।2.19.12।।",
+      "transliteration": "",
+      "translation": "Kaikeyi, happy to hear the words of the son of the Raghus as she was convinced that his departure (to the forest) was certain, hastened him (to set out).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "एवं भवतु यास्यन्ति दूता श्शीघ्रजवैर्हयैः।\nभरतं मातुलकुलादुपावर्तयितुं नराः।।2.19.13।।",
+      "transliteration": "",
+      "translation": "Let it be so. Messengers shall go at once on swift horses to bring Bharata from his maternal uncle's house.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तव त्वहं क्षमं मन्ये नोत्सुकस्य विलम्बनम्।\nराम तस्मादित श्शीघ्रं वनं त्वं गन्तुमर्हसि।।2.19.14।।",
+      "transliteration": "",
+      "translation": "Since you are eager (to go to the forest), I do not think it is proper to delay. O Rama therefore it behoves you to proceed immediately from here to the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "व्रीडान्वित स्स्वयं यच्च नृपस्त्वां नाभिभाषते।\nनैतत्किञ्चिन्नरश्रेष्ठ मन्युरेषोऽपनीयताम्।।2.19.15।।",
+      "transliteration": "",
+      "translation": "Out of shame the king is unable to speak to you. There is nothing other than this. O Rama, the best of men, dispel this distress (of mind).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "यावत्त्वं न वनं यातः पुरादस्मादभित्वरन्।\nपिता तावन्न ते राम स्नास्यते भोक्ष्यतेऽपि वा।।2.19.16।।",
+      "transliteration": "",
+      "translation": "O Rama, as long as you do not hasten to leave this city for the forest, your father will neither bathe nor eat.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "धिक्कष्टमिति निःश्वस्य राजा शोकपरिप्लुतः।\nमूर्छितो न्यपतत्तस्मिन्पर्यङ्के हेमभूषिते।।2.19.17।।",
+      "transliteration": "",
+      "translation": "'Fie, what a calamity' sighing thus, the king, overwhelmed with sorrow, fainted and fell back on the golden couch.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "रामोऽप्युत्थाप्य राजानं कैकेय्याभिप्रचोदितः।\nकशयेवाहतो वाजी वनं गन्तुं कृतत्वरः।।2.19.18।।",
+      "transliteration": "",
+      "translation": "Rama lifted up the king and, urged by Kaikeyi, hastened to depart for the forest like a horse flogged by a whip.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तदप्रियमनार्याया वचनं दारुणोदयम्।\nश्रुत्वा गतव्यथो रामः कैकेयीं वाक्यमब्रवीत्।।2.19.19।।",
+      "transliteration": "",
+      "translation": "Rama listened to the dreadful, cruel words of the ignoble woman but, without feeling any sorrow, said to Kaikeyi, these words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "नाहमर्थपरो देवि लोकमावस्तुमुत्सहे।\nविद्धिमामृषिभिस्तुल्यं केवलं धर्ममास्थितम्।।2.19.20।।",
+      "transliteration": "",
+      "translation": "O Devi, I have no desire to live in this world for the sake of wealth. Know me as one with the sages who are devoted only to righteousness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "यदत्र भवतः किञ्चिच्छक्यं कर्तुं प्रियं मया।\nप्राणानपि परित्यज्य सर्वथा कृतमेव तत्।।2.19.21।।",
+      "transliteration": "",
+      "translation": "If I am able to do anything which pleases my venerable father, it shall be done in every possible manner, may be even at the cost of my life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "न ह्यतो धर्मचरणं किञ्चिदस्ति महत्तरम्।\nयथा पितरिशुश्रूषा तस्य वा वचनक्रिया।।2.19.22।।",
+      "transliteration": "",
+      "translation": "There is no greater observance of righteousness than doing service to one's father or carrying out his orders.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "अनुक्तोऽप्यत्रभवता भवत्या वचनादहम्।\nवने वत्स्यामि विजने वर्षाणीह चतुर्दश।।2.19.23।।",
+      "transliteration": "",
+      "translation": "Though this has not been said by my respectable father himself, I shall live in the forlorn forest for fourteen years in accordance with your word.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "न नूनं मयि कैकयि किञ्चिदाशंससे गुणम्।\nयद्राजानमवोचस्त्वं ममेश्वरतरा सती।।2.19.24।।",
+      "transliteration": "",
+      "translation": "Since in my case you have exercised more authority (than my father) and pleaded with the king, it follows, you, for sure, do not see any virtue in me, O Kaikeyi (Or else, you should not have asked for Bharata's kingship).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "यावन्मातरमाप्नच्छे सीतां चानुनयाम्यहम्।\nततोऽद्यैव गमिष्यामि दण्डकानां महद्वनम्।।2.19.25।।",
+      "transliteration": "",
+      "translation": "After taking leave of my mother and consoling Sita, today itself I shall go to that wild  Dandaka forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "भरतः पालयेद्राज्यं शुश्रूषेच्च पितुर्यथा।\nतथा भवत्या कर्तव्यं स हि धर्म स्सनातनः।।2.19.26।।",
+      "transliteration": "",
+      "translation": "It is your bounden duty to see that Bharata rules the kingdom and serves father.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "स रामस्य वचश्श्रृत्वा भृशं दुःखहतः पिता।\nशोकादशक्नुवन्वकतुं प्ररुरोद महास्वनम्।।2.19.27।।",
+      "transliteration": "",
+      "translation": "Father (Dasaratha), too tormented with grief to speak cried out loudly on hearing the words of Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "वन्दित्वा चरणौ रामो विसंज्ञस्य पितुस्तथा।\nकैकेय्याश्चाप्यनार्यायाः निष्पपात महाद्युतिः।।2.19.28।।",
+      "transliteration": "",
+      "translation": "Effulgent Rama  bowed at the feet of his father who had fallen into a swoon. He bowed at the feet of the ignoble Kaikeyi and set out.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "स रामः पितरं कृत्वा कैकेयीं च प्रदक्षिणम्।\nनिष्क्रम्यान्तःपुरात्तस्मात्स्वं ददर्श सुहृज्जनम्।।2.19.29।।",
+      "transliteration": "",
+      "translation": "Hardly had Rama withdrawn from the harem after circumambulating his father and Kaikeyi when he saw his friends .",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "तं बाष्पपरिपूर्णाक्षः पृष्ठतोऽनुजगाम ह।\nलक्ष्मणः परमक्कृध्दः स्सुमित्रानन्दवर्धनः।।2.19.30।।",
+      "transliteration": "",
+      "translation": "Lakshmana, the enhancer of Sumitra's delight, with his eyes brimming with tears, followed him in a rage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "अभिषेचनिकं भाण्डं कृत्वा रामः प्रदक्षिणम्।\nशनैर्जगाम सापेक्षो दृष्टिं तत्राविचालयन्।।2.19.31।।",
+      "transliteration": "",
+      "translation": "Rama circumambulated the vessels meant for the consecration ceremony and steadily glancing at them with attention slowly moved away.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "न चास्य महतीं लक्ष्मीं राज्यनाशोऽपकर्षति।\nलोककान्तस्य कान्तत्वाच्छीतरश्मेरिव क्षपा।।2.19.32।।",
+      "transliteration": "",
+      "translation": "Rama was the beloved of the people. Loss of kingdom did not diminish his splendour just like night cannot diminish the splendour of the coolrayed Moon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "न वनं गन्तुकामस्य त्यजतश्च वसुन्धराम्।\nसर्वलोकातिगस्येव लक्ष्यते चित्तविक्रिया।।2.19.33।।",
+      "transliteration": "",
+      "translation": "Rama was determined to renounce the kingdom and go to the forest. So none could see any change in his mind. (For) he was one beyond all worldly affairs.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "प्रतिषिध्य शुभं छत्रं व्यजने च स्वलङ्कृते।                                                                     \nविसर्जयित्वा स्वजनं रथं पौरांस्तथा जनान्।।2.19.34।।                                                                                 \nधारयन् मनसा दुःखमिन्द्रियाणि निगृह्य च।\nप्रविवेशात्मवान्वेश्म मातुरप्रियशंसिवान्।2.19.35।।",
+      "transliteration": "",
+      "translation": "Selfpossessed Rama held back his sorrow within his mind, abandoned the  auspicious umbrella, welldecorated fans and chariot, sent away kinsmen, citydwellers and others and entered his mother's residence to break the unpleasant news.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "सर्वोह्यभिजनश्श्रीमान् श्रीमतस्सत्यवादिनः।\nनालक्षयत रामस्य किञ्चिदाकारमानने।।2.19.36।।",
+      "transliteration": "",
+      "translation": "All the glorious people around him did not observe any change in the countenance of that dignified and truthful Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "उचितं च महाबाहुर्नजहौहर्षमात्मनः।\nशारद स्समुदीर्णांशुश्चन्द्रस्तेज इवात्मजम्।।2.19.37।।",
+      "transliteration": "",
+      "translation": "The mightyarmed (Rama) did not leave his habitual cheerfulness like the autumnal Moon his own brightness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "वाचा मधुरया रामस्सर्वं सम्मानयञ्जनम्।\nमातुस्समीपं धीरात्मा प्रविवेश महायशाः।।2.19.38।।",
+      "transliteration": "",
+      "translation": "Firmminded and illustrious Rama treated all people with sweet words and approached his mother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "तं गुणैस्समतां प्राप्तो भ्राता विपुलविक्रमः।\nसौमित्रिरनुवव्राज धारयन्दुःखमात्मजम्।।2.19.39।।",
+      "transliteration": "",
+      "translation": "Mighty Lakshmana as virtuous as his brother held the sorrow in his mind and followed him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-19-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "प्रविश्य वेश्मातिभृशं मुदाऽन्वितं \nसमीक्ष्य तां चार्थविपत्तिमागताम्।\nन चैव रामोऽत्रजगामविक्रियां \nसुहृज्जनस्यात्मविपत्तिशङ्कया।।2.19.40।।",
+      "transliteration": "",
+      "translation": "Rama entered  the palace which was full of great rejoicing. He did not disclose the obstruction that had come on the way of achieving his objective for fear of causing distress to his friends.  इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे एकोनविंशस्सर्गः।। Thus ends the nineteenth sarga of Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

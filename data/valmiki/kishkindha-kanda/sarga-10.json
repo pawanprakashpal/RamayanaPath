@@ -1,0 +1,306 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 10,
+    "title": "Sugriva narrates to Rama the reasons for his hostility with Vali and banishment from the kingdom.",
+    "titleSanskrit": "",
+    "totalShlokas": 32
+  },
+  "shlokas": [
+    {
+      "id": "v4-10-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततः क्रोधसमाविष्टं सम्रब्धं तमुपागतम्।\nअहं प्रसादयाञ्चक्रे भ्रातरं प्रियकाम्यया4.10.1",
+      "transliteration": "",
+      "translation": "'I sought to appease my brother who arrived in an agitated state overpowered with anger.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "दिष्ट्यासि कुशली प्राप्तो निहतश्च त्वया रिपुः।\nअनाथस्य हि मे नाथस्त्वमेकोऽनाथनन्दनः4.10.2।।",
+      "transliteration": "",
+      "translation": "'By providence you have come back safe and the enemy has been killed. You are the only protector to an orphan which I am.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "इदं बहुशलाकं ते पूर्णचन्द्रमिवोदितम्।\nछत्रं सवालव्यजनं प्रतीच्छस्व मया धृतम्4.10.3।।",
+      "transliteration": "",
+      "translation": "'Here is the manyribbed parasol shining like the full Moon above the horizon and the yak's tailfan held by me.Pray accept it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "आर्तश्चाथ बिलद्वारि स्थितस्संवत्सरं नृप।\nदृष्ट्वाऽहं शोणितं द्वारि बिलाच्चापि समुत्थितम्4.10.4।।\nशोकसंविग्नहृदयो भृशं व्याकुलितेन्द्रियः।\nअपिधाय बिलद्वारं शैलशृङ्गेण तत्तथा4.10.5।।\nतस्माद्देशादपाक्रम्य किष्किन्धां प्राविशं पुनः।",
+      "transliteration": "",
+      "translation": "'O king I waited at the entrance of the cave for a year. As you did not come out, I felt distressed and my heart sank in great sorrow seeing blood flowing out of the cave. With my senses fused I returned to Kishkinda, closing the entrance with a rock(lest the demon should come out).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "विषादात्विह मां दृष्ट्वा पौरैर्मन्त्रिभिरेव च4.10.6।।\nअभिषिक्तो न कामेन तन्मेत्वं क्षन्तुमर्हसि।",
+      "transliteration": "",
+      "translation": "'Here I was consecrated by the people and ministers who saw me immersed in grief. It was not my desire to be coronated. Therefore, I may be forgiven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "त्वमेव राजा मानार्हस्सदा चाहं यथा पुरम्4.10.7।।\nराजभावनियोगोऽयं मम त्वद्विरहात्कृतः।\nसामात्यपौरनगरं स्थितं निहतकण्टकम्4.10.8।।",
+      "transliteration": "",
+      "translation": "'You alone are the king and worthy of reverence.I will be the same old brother carrying out my work as earlier. I held the responsibility of the state in your absence forced by the citizens and ministers. The kingdom has been kept stable with the enemies destroyed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "न्यासभूतमिदं राज्यं तव निर्यातयाम्यहम्।\nमा च रोषं कृथास्सौम्य मयि शत्रुनिबर्हण4.10.9।।",
+      "transliteration": "",
+      "translation": "'I am handing over this kingdom which was in trust. O slayer of enemies, O good natured one, give up your anger against me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "याचे त्वां शिरसा राजन्मया बद्धोऽयमञ्जलिः।\nबलादस्मिन् समागम्य मन्त्रिभिः पुरवासिभिः4.10.10।।\nराजभावे नियुक्तोऽहं शून्यदेशजिगीषया।",
+      "transliteration": "",
+      "translation": "'O king I bow my head and beg you with folded hands. The ministers and citizens assembled and forced me to take charge, as the kingdom without a ruler was vulnerable to attack.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "स्निग्धमेवं ब्रुवाणं मां स तु निर्भर्त्स्य वानरः4.10.11।।\nधिक्त्वामिति च मा मुक्त्वा बहु तत्तदुवाच ह।",
+      "transliteration": "",
+      "translation": "'Even tnough I spoke to him with affection, Vali abused me in many words, saying, 'Fie on you'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "प्रकृतीश्च समानीय मुन्त्रिणश्चैव सम्मतान्4.10.12।।\nमामाह सुहृदां मध्ये वाक्यं परमगर्हितम्।",
+      "transliteration": "",
+      "translation": "'Having invited ordinary people and favourite ministers he condemned me in the presence of friends.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "विदितं वो यथा रात्रौ मायावी स महासुरः4.10.13।।\nमां समाह्वयत क्रूरो युद्धाकाङ्क्षी सुदुर्मतिः।",
+      "transliteration": "",
+      "translation": "'You know very well how that wicked demon, Mayabi, that night challenged me angrily to a duel.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "तस्य तद्वचनं श्रुत्वा निस्सृतोऽहं नृपालयात्4.10.14।।\nअनुयातश्च मां तूर्णमयं भ्राता सुदारुणः।",
+      "transliteration": "",
+      "translation": "'On hearing his words I came out of the royal abode quickly, followed by this wicked brother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "स तु दृष्ट्वैव मां रात्रौ सद्वितीयं महाबलः4.10.15।।\nप्राद्रवद्भयसन्त्रस्तो वीक्ष्यावां समुपागतौ।\nअनुद्रुतश्च वेगेन प्रविवेश महाबिलम्4.10.16।।",
+      "transliteration": "",
+      "translation": "'The powerful demon that night saw me followed by another advancing towards him and fled out of fear. When we chased him, he entered this huge cave in great speed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तं प्रविष्टं विदित्वा सुघोरं सुमहद्बिलम्।\nअयमुक्तोऽथ मे भ्राता मया तु क्रूरदर्शनः4.10.17।।",
+      "transliteration": "",
+      "translation": "'When I saw the dreadful demon entering the great cave, I instructed this cruel brother of mine:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "अहत्वा नास्ति मे शक्तिः प्रतिगन्तुमितः पुरीम्।\nबिलद्वारि प्रतीक्ष त्वं यावदेनं निहन्म्यहम्4.10.18।।",
+      "transliteration": "",
+      "translation": "'I cannot return from here without killing him. Wait at the entrance of the cave until I kill him. Look forward to my return.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "स्थितोऽयमिति मत्वा तु प्रविष्टोऽहं दुरासदम्।\nतं च मे मार्गमाणस्य गतस्संवत्सरस्तदा4.10.19।।",
+      "transliteration": "",
+      "translation": "'Presuming that Sugriva was waiting there, I entered the formidable cave. While I was searching for the demon there, one year passed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "स तु दृष्टो मया शत्रुरनिर्वेदाद्भयावहः।\nनिहतश्च मया तत्र सोऽसुरो बन्धुभिस्सह।।4.10.20।।",
+      "transliteration": "",
+      "translation": "'I could find that fearful enemy there and killed him along with his relatives without any difficulty.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तस्यास्यात्तु प्रवृत्तेन रुधिरौघेण तद्बिलम्।\nपूर्णमासीद्दुराक्रामं स्तनतस्तस्य भूतले4.10.21।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "सूदयित्वा तु तं शत्रुं विक्रान्तं दुन्दुभेस्सुतम्।\nनिष्क्रामन्नेव पश्यामि बिलस्य पिहितं मुखम्4.10.22।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "विक्रोशमानस्य तु मे सुग्रीवेति पुनः पुनः।\nयदा प्रतिवचो नास्ति ततोऽहं भृशदुःखितः4.10.23।।",
+      "transliteration": "",
+      "translation": "'When there was no response from Sugriva to my repeated call in distress I was very  sad.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "पादप्रहारैस्तु मया बहुभिस्तद्विदारितम्।\nततोऽहं तेन निष्क्रम्य यथा पुरमुपागतः4.10.24।।",
+      "transliteration": "",
+      "translation": "'I kicked the boulder again and again till it yielded. I came out that way and arrived at the city.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "अत्रानेनास्मि संरुद्धो राज्यं प्रार्थयताऽत्मनः। \nसुग्रीवेण नृशंसेन विस्मृत्य भ्रातृसौहृदम्।।4.10.25।।",
+      "transliteration": "",
+      "translation": "'I was obstructed by wicked Sugriva who forgot his brotherly love and was desiring  the kingdom, which belongs to me.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "एवमुक्त्वा तु मां तत्र वस्त्रेणैकेन वानरः।\nनिर्वासयामास तदा वाली विगतसाध्वसः4.10.26।।",
+      "transliteration": "",
+      "translation": "'When Vali, the monkey, spoke that way I remained unperturbed. He banished me  with the only cloth I was wearing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "तेनाहमपविद्धश्च हृतदारश्च राघव।\nतद्भयाच्छ महीकृत्स्ना क्रान्तेयं सवनार्णवा4.10.27।।",
+      "transliteration": "",
+      "translation": "'O Rama my wife has been usurped. There is the fear of his attack. So I am roaming this entire earth, covered with forests and oceans.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "ऋष्यमूकं गिरिवरं भार्याहरणदुःखितः।\nप्रविष्टोऽस्मि दुराधर्षं वालिनः कारणान्तरे4.10.28।।",
+      "transliteration": "",
+      "translation": "'Tormented by the abduction of my wife by Vali, I came to the great Rishyamuka mountain  inaccessible to Vali for some other reason.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "एतत्ते सर्वमाख्यातं वैरानुकथनं महत्।\nअनागसा मया प्राप्तं व्यसनं पश्य राघव4.10.29।।",
+      "transliteration": "",
+      "translation": "'O Rama I have given you this long, full account of the cause of our enmity. For no fault of mine I am suffering.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "वालिनस्तु भयार्तस्य सर्वलोकभयङ्कर।\nकर्तुमर्हसि मे वीर प्रसादं तस्य निग्रहात्4.10.30।।",
+      "transliteration": "",
+      "translation": "'O great warrior you are one who can frighten the entire world Due to the fear of Vali I seek your grace.You may resist Vali and provide me security.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "एवमुक्तस्स तेजस्वी धर्मज्ञो धर्मसंहितम्।\nवचनं वक्तुमारेभे सुग्रीवं प्रहसन्निव4.10.31।।",
+      "transliteration": "",
+      "translation": "Having thus addressed by Sugriva the righteous and glorious Rama with a gentle smile  consistent with righteousness, started speaking:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "अमोघास्सूर्यसङ्काशा ममैते निशिता श्शराः।\nतस्मिन्वालिनि दुर्वृत्ते निपतिष्यन्ति वेगिताः4.10.32।।",
+      "transliteration": "",
+      "translation": "'These my sharp, unfailing arrows, bright as the Sun, released by me out of anger will descend on the evildoer, Vali.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "यावत्तं नाभिपश्यामि तव भार्यापहारिणम्।\nतावत्स जीवेत्पापात्मा वाली चारित्रदूषकः4.10.33।।",
+      "transliteration": "",
+      "translation": "'That sinful Vali who has abducted your wife and violated the moral code will live only as long I do not see him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "आत्मानुमानात्पश्यामि मग्नं त्वां शोकसागरे।\nत्वामहं तारयिष्यामि कामं प्राप्स्यसि पुष्कलम्4.10.34।।",
+      "transliteration": "",
+      "translation": "'Inferring from my own experience, I see that you are immersed in an ocean of sorrow.I will help you cross over and fulfil your desire.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-10-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "तस्य तद्वचनं श्रुत्वा हर्षपौरुषवर्धनम्।\nसुग्रीवः परमप्रीतस्सुमहद्वाक्यमब्रवीत्4.10.35।।",
+      "transliteration": "",
+      "translation": "On hearing his words that boosted his joy and vigour, Sugriva was immensely pleased and said these warm words. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे दशमस्सर्गः Thus ends the tenth sarga of Kishkindhakanda of the Holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

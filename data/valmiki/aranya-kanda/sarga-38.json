@@ -1,0 +1,288 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 38,
+    "title": "Maricha's narration of his experience of Rama's strength--explains to Ravana the consequences of waging a war with Rama.",
+    "titleSanskrit": "",
+    "totalShlokas": 30
+  },
+  "shlokas": [
+    {
+      "id": "v3-38-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "कदाचिदप्यहं वीर्यात्पर्यटन्पृथिवीमिमाम्।\nबलं नागसहस्रस्य धारयन्पर्वतोपमः।।3.38.1।।\nनीलजीमूतसङ्काशस्तप्तकाञ्चनकुण्डलः।\nभयं लोकस्य जनयन्किरीटी परिघायुधः।।3.38.2।।\nव्यचरं दण्डकारण्ये ऋषिमांसानि भक्षयन्।",
+      "transliteration": "",
+      "translation": "Once I was roaming the earth, like a mountain possessing the  strength of a thousand elephants, like a dark cloud, wearing bright gold earrings and crown,holding a spear in hand, terrorising the people. I was wandering in Dandaka forest feeding on the flesh of ascetics.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-38-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "विश्वामित्रोऽथ धर्मात्मा मद्वित्रस्तो महामुनिः।।3.38.3।।\nस्वयं गत्वा दशरथं नरेन्द्रमिदमब्रवीत्।",
+      "transliteration": "",
+      "translation": "Hence the great sage, righteous Visvamitra afraid of me, went to king Dasaratha  and said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-38-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "अद्य रक्षतु मां रामः पर्वकाले समाहितः।।3.38.4।।\nमारीचान्मे भयं घोरं समुत्पन्नं नरेश्वर।",
+      "transliteration": "",
+      "translation": "'O king Maricha has created in me a great fear. Spare the self possessed Rama to protect me while I do the sacrifice.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-38-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "इत्येवमुक्तो धर्मात्मा राजा दशरथस्तदा।।3.38.5।।\nप्रत्युवाच महाभागं विश्वामित्रं महामुनिम्।",
+      "transliteration": "",
+      "translation": "When the great, venerable sage Visvamitra said so, the righteous king Dasaratha replied:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-38-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "बालो द्वादशवर्षोऽयमकृतास्त्रश्च राघवः।।3.38.6।।\nकामं तु मम यत्सैन्यं मया सह गमिष्यति।",
+      "transliteration": "",
+      "translation": "'My son Rama is only twelve. He is not experienced in the use of weapons. I shall accompany you with my army.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-38-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "बलेन चतुरङ्गेण स्वयमेत्य निशाचरान्।।3.38.7।।\nवधिष्यामि मुनिश्रेष्ठ शत्रूंस्ते मनसेप्सितान्।",
+      "transliteration": "",
+      "translation": "'O distinguished sage with the four divisions of my army I will slay the enemies you want me to.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-38-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "इत्येवमुक्तस्समुनी राजानमिदमब्रवीत्।।3.38.8।।\nरामान्नान्यद्बलं लोके पर्याप्तं तस्य रक्षसः।",
+      "transliteration": "",
+      "translation": "When  the king thus responded to the sage,  he told him that none other than Rama in this world is a match for that demon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-38-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "देवतानामपि भवान् समरेष्वभिपालकः।।3.38.9।।\nआसीत्तव कृतं कर्म त्रिलोके विदितं नृप।",
+      "transliteration": "",
+      "translation": "'O king, you have protected even gods in wars and have been a guardian. Your deeds are very wellknown in the three worlds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-38-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "काममस्तु महत्सैन्यं तिष्ठत्विह परन्तप।।3.38.10।।\nबालोऽप्येष महातेजास्समर्थस्तस्य निग्रहे।\nगमिष्ये राममादाय स्वस्��ि तेऽस्तु परन्तप।।3.38.11।।",
+      "transliteration": "",
+      "translation": "'O scourge of foes as you wish, let your great army wait here. Even though Rama is young he is glorious, and capable of subduing the enemy. I will take him. Be blessed.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-38-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "एवमुक्त्वा तु स मुनिस्तमादाय नृपात्मजम्।\nजगाम परमप्रीतो विश्वामित्रस्स्वमाश्रमम्।।3.38.12।।",
+      "transliteration": "",
+      "translation": "Sage Visvamitra saying so took the son of the king and went back very happily to his hermitage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-38-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तं तदा दण्डकारण्ये यज्ञमुद्दिश्य दीक्षितम्।\nबभूवोपस्थितो रामश्चित्रं विष्फारयन्धनुः।।3.38.13।।",
+      "transliteration": "",
+      "translation": "Then Rama was initiated for the protection of sacrifices and stood on guard, stretching his wonderful bow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-38-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अजातव्यञ्जनश्रीमान्पद्मपत्रनिभेक्षणः।\nएकवस्त्रधरो धन्वी शिखी कनकमालया।।3.38.14।।\nशोभयन् दण्डकारण्यं दीप्तेन स्वेन तेजसा।\nअदृश्यत ततो रामो बालचन्द्र इवोदितः।।3.38.15।।",
+      "transliteration": "",
+      "translation": "Thereafter, handsome Rama, with eyes like lotus petals, beards ungrown, clad in a single garment with knotted hair on the head, wielding a bow, with a chain of gold, luminous with his own lustre enhanced the glory of Dandaka forest by looking like the young moon just risen.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-38-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "ततोऽहं मेघसङ्काशस्तप्तकाञ्चनकुण्डलः।\nबली दत्तवरोदर्पादाजगाम तदाश्रमम्।।3.38.16।।",
+      "transliteration": "",
+      "translation": "Then looking like a dark cloud, wearing bright golden earrings, proud of power bestowed on me with boons, I arrived at the hermitage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-38-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तेन दृष्टः प्रविष्टोऽहं सहसैवोद्यतायुधः।\nमां तु दृष्ट्वा धनुस्सज्यमसम्भ्रान्तश्चकार सः।।3.38.17।।",
+      "transliteration": "",
+      "translation": "I entered at once and lifted my weapons. Rama saw me and unperturbed, started stringing his bow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-38-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "अवजानन्नहं मोहाद्बालोऽयमिति राघवम्।\nविश्वामित्रस्य तां वेदिमभ्यधावं कृतत्वरः।।3.38.18।।",
+      "transliteration": "",
+      "translation": "Out of my delusion I underestimated the young boy, and screaming, ran towards Visvamitra's sacrificial altar.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-38-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तेन मुक्तस्ततो बाणः शितश्शत्रुनिबर्हणः।\nतेनाहं त्वाहतः क्षिप्तस्समुद्रे शतयोजने।।3.38.19।।",
+      "transliteration": "",
+      "translation": "Then Rama released a sharp arrow that could kill the enemy. It struck me and threw me at a distance of hundred yojanas into the sea.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-38-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "नेच्छता तात मां हन्तुं तदा वीरेण रक्षितः।\nरामस्य शरवेगेन निरस्तोऽहमचेतनः।।3.38.20।।",
+      "transliteration": "",
+      "translation": "O dear being thrown away by the speed of his dart I lost my consciousness. I was protected by Rama who did not want to kill me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-38-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "पातितोऽहं तदा तेन गम्भीरे सागराम्भसि।\nप्राप्य संज्ञां चिरात्तात लङ्कां प्रतिगतः पुरीम्।।3.38.21।।",
+      "transliteration": "",
+      "translation": "O dear I was thrown into the deep sea and after a long time regained consciousness and  returned to the city of Lanka.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-38-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "एवमस्मि तदा मुक्तस्सहायास्तु निपातिताः।\nअकृतास्त्रेण बालेन रामेणाक्लिष्टकर्मणा।।3.38.22।।",
+      "transliteration": "",
+      "translation": "That way I was spared by the young boy who was not versed in archery and who could still accomplish the task with ease.Those who accompanied me were destroyed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-38-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तन्मया वार्यमाणस्त्वं यदि रामेण विग्रहम्।\nकरिष्यस्यापदं घोरां क्षिप्रं प्राप्स्यसि रावण।।3.38.23।।",
+      "transliteration": "",
+      "translation": "If you pick up conflict with Rama even while being warned by me you will soon face a  dreadful calamity.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-38-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "क्रीडारतिविधिज्ञानां समाजोत्सवशालिनाम्।\nरक्षसां चैव सन्तापमनर्थं चाहरिष्यसि।।3.38.24।।",
+      "transliteration": "",
+      "translation": "You will bring grief and disaster into the lives of demons who are sporting in love and who are in the habit of celebrating community festivals with joy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-38-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "हर्म्यप्रासादसम्बाधां नानारत्नविभूषिताम्।\nद्रक्ष्यसि त्वं पुरीं लङ्कां विनष्टां मैथिलीकृते।।3.38.25।।",
+      "transliteration": "",
+      "translation": "You will see the city of Lanka dotted with magnificent royal mansions embellished  with different kinds of gems ruined for the sake of Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-38-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "अकुर्वन्तोऽपि पापानि शुचयः पापसंश्रयात्।\nपरपापैर्विनश्यन्ति मत्स्या नागह्रदे यथा।।3.38.26।।",
+      "transliteration": "",
+      "translation": "Even without committing any sin those pure souls because they keep company with sinners will be destroyed for the sins of others just like fishes in a pool of serpents.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-38-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "दिव्यचन्दनदिग्धाङ्गान्दिव्याभरणभूषितान्।\nद्रक्ष्यस्यभिहतान्भूमौ तव दोषात्तु राक्षसान्।।3.38.27।।",
+      "transliteration": "",
+      "translation": "You will see the demons who smear their limbs with sandal paste and unguents, who are adorned with excellent ornaments slain and laid on the ground for your mistakes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-38-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "हृतदारान् सदारांश्च दश विद्रवतो दिशः।\nहतशेषानशरणान्द्रक्ष्यसि त्वं निशाचरान्।।3.38.28।।",
+      "transliteration": "",
+      "translation": "You will see the rest of the demons with their wives gone or fleeing in all directions helplessly with none to take care of them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-38-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "शरजालपरिक्षिप्तामग्निज्वालासमावृताम्।\nप्रदग्धभवनां लङ्कां द्रक्ष्यसि त्वं न संशयः।।3.38.29।।",
+      "transliteration": "",
+      "translation": "You will undoubtedly see Lanka filled with arrows, surrounded by flames of fire and its buildings on fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-38-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "परदाराभिमर्शात्तु नान्यत्पापतरं महत्।\nप्रमदानां सहस्रं च तव राजन्परिग्रहः।।3.38.30।।",
+      "transliteration": "",
+      "translation": "O king there is no sin greater than violating the chastity of others wives, when you have married a thousand lovely women.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-38-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "भव स्वदारनिरतस्वकुलं रक्ष राक्षस।\nमानमृद्धिं च राज्यं च जीवितं चेष्टमात्मनः।।3.38.31।।",
+      "transliteration": "",
+      "translation": "Enjoy with your wives. Protect your race, prestige, kingdom, prosperity and your own dear life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-38-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "कलत्राणि च सौम्यानि मित्रवर्गं तथैव च।\nयदीच्छसि चिरं भोक्तं मा कृथा रामविप्रियम्।।3.38.32।।",
+      "transliteration": "",
+      "translation": "If you wish to enjoy your beautiful wives and your good friends for long, do not create enmity with Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-38-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "निवार्यमाणस्सुहृदा मया भृशं प्रसह्य सीतां यदि धर्षयिष्यसि।\nगमिष्यसि क्षीणबलस्सबान्धवो यमक्षयं रामशरात्तजीवितः।।3.38.33।।",
+      "transliteration": "",
+      "translation": "If you violate Sita forcibly notwithstanding my friendly warning, your life will be drained by the arrows of Rama and you will reach the abode of Yama with your kith and kin, your strength depleted. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे अष्टत्रिंशस्सर्गः। Thus ends the thirtyeighth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

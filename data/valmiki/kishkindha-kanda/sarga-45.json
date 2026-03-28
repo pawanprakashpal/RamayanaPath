@@ -1,0 +1,162 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 45,
+    "title": "Sugriva once again addresses all troops -- the vanaras departRama and Lakshmana return to Prasravana mountain",
+    "titleSanskrit": "",
+    "totalShlokas": 16
+  },
+  "shlokas": [
+    {
+      "id": "v4-45-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "सर्वांश्चाहूय सुग्रीवः प्लवगान् प्लवगर्षभः।\nसमस्तानब्रवीद्भूयो रामकार्यर्थसिद्धये।।4.45.1।।\nएवमेतद्विचेतव्यं यन्मया परिकीर्तितम्।",
+      "transliteration": "",
+      "translation": "Summoning the entire body of vanaras, Sugriva, the bull among monkeys, said, 'Go to the places I have described and look for  Sita in order to fulfil Rama's objective'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-45-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तदुग्रशासनं भर्तुर्विज्ञाय हरिपुङ्गवाः।।4.45.2।।\nशलभा इव सञ्छाद्य मेदिनीं सम्प्रतस्थिरे।",
+      "transliteration": "",
+      "translation": "Having understood Sugriva's strict orders, the forces of monkeys started moving. They spread like locusts all over the earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-45-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "रामः प्रस्रवणे तस्मिन्यवसत्सहलक्ष्मणः।।4.45.3।।\nप्रतीक्षमाणस्तं मासं यस्सीताधिगमे कृतः।",
+      "transliteration": "",
+      "translation": "Rama accompanied by Lakshmana stayed back at Prasravana mountain looking forward for the expiry of the month fixed for the monkeys to trace Sita's whereabouts.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-45-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "उत्तरां तु दिशं रम्यां गिरिराजसमावृताम्।।4.45.4।।\nप्रतस्थे सहसा वीरो हरिश्शतवलिस्तदा।",
+      "transliteration": "",
+      "translation": "Then the monkey warrior Satavali departed for the north, surrounded by kings of mountains.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-45-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "पूर्वां दिशं प्रतिययौ विनतो हरियूथपः।।4.45.5।।\nताराङ्गदादिसहितः प्लवङ्गो  मारुतात्मजः।\nअगत्याचरितामाशां दक्षिणां हरियूथपः।।4.45.6।।",
+      "transliteration": "",
+      "translation": "Vinata, leader of the monkeys, set out for the eastern direction.The troop leader,  son of the Windgod along with Angada and Tara left for the south inhabited by Agastya.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-45-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "पश्चिमां तु भृशं घोरां सुषेणः प्लवगेश्वरः।\nप्रतस्थे हरिशार्दूलो दिशं वरुणपालिताम्।।4.45.7।।",
+      "transliteration": "",
+      "translation": "'The chieftain Sushena, tiger among the monkeys, started quickly for the fearsome western direction ruled by Varuna.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-45-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "ततस्सर्वा दिशो राजा चोदयित्वा यथातथम्।\nकपिसेनापतीन्मुख्यान्मुमोद सुखितस्सुखम्।।4.45.8।।",
+      "transliteration": "",
+      "translation": "Sugriva, chief of the army of monkeys, having sent the leaders to all quarters felt relieved and rejoiced.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-45-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "एवं सम्बोधितास्सर्वे राज्ञा वानरयूथपाः।\nस्वां स्वां दिशमभिप्रत्त्य त्वरिता सम्प्रतस्थिरे।।4.45.9।।",
+      "transliteration": "",
+      "translation": "Addressed thus  by the king, all the monkeys departed quickly from there for their respective directions with all enthusiasm.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-45-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "नदन्तश्चोन्नदन्तश्च गर्जन्तश्च प्लवङ्गमाः।\nक्ष्वेलन्तो धावमानाश्च विनदन्तो महाबलाः।।4.45.10।।",
+      "transliteration": "",
+      "translation": "The powerful monkeys went gallopping and chattering, leaping and screaming.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-45-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "एवं सम्बोदितास्सर्वे राज्ञा वानरयूथपाः।\nआनयिष्यामहे सीतां हनिष्यामश्च रावणम्।।4.45.11।।",
+      "transliteration": "",
+      "translation": "Thus addressed by the king, the leaders of the monkeys shouted, 'We will kill Ravana and get back Sita'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-45-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "अहमेको हनिष्यामि रावणं प्राप्तमाहवे।\nततश्चोन्मथ्य सहसा हरिष्ये जनकात्मजाम्।।4.45.12।।",
+      "transliteration": "",
+      "translation": "'I shall kill Ravana singlehanded in war and quickly get back Janaka's daughter churning (the enemy army).' (said one)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-45-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "वेपमानां श्रमेणाद्य भवद्भिः स्थीयतामिति।\nएक एवाहरिष्यामि पातालादपि जानकीम्।।4.45.13।।",
+      "transliteration": "",
+      "translation": "'I will alone restore Sita, exhausted and trembling (in fear), even from the nether world.  Wait here' (said another leader).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-45-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "वधिष्याम्यहं वृक्षान् दारयिष्याम्यहं गिरीन्।\nधरणीं दारयिष्यामि क्षोभयिष्यामि सागरान्।।4.45.14।।",
+      "transliteration": "",
+      "translation": "'I will smash trees, shatter mountains, cleave the earth and churn up the seas'. (said a another).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-45-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "अहं योजनसङ्ख्यायाः प्लविता नात्र संशयः।\nशतं योजनसङ्ख्यायाश्शतं समधिकं ह्यहम्।।4.45.15।।",
+      "transliteration": "",
+      "translation": "'I can doubtless cross a distance of a hundred yojanas' said one. Another said,' I can leap a hundred yojanas more'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-45-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "भूतले सागरे वाऽपि शैलेषु च वनेषु च।\nपातालस्यापि वा मध्ये न ममाच्छिद्यते गतिः।।4.45.16।।",
+      "transliteration": "",
+      "translation": "'I can go unobstruted on the earth, or even in the sea, on the mountains, in the forests or even to the centre of the underworld'. (said another)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-45-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "इत्येकैकं तदा तत्र वानरा बलदर्पिताः।\nऊचुश्च वचनं तत्र हरिराजस्य सन्निधौ।।4.45.17।।",
+      "transliteration": "",
+      "translation": "The monkeys uttered such words in the presence of their king, being proud of their prowess.  इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे पञ्चचत्वारिंशस्सर्गः।। Thus ends the fortyfifth sarga in Kishkindakanda of the first epic, the Holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

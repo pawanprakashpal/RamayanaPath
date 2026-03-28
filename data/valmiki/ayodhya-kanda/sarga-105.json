@@ -1,0 +1,405 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 105,
+    "title": "Bharata's lamentation and Rama's consolation.",
+    "titleSanskrit": "",
+    "totalShlokas": 43
+  },
+  "shlokas": [
+    {
+      "id": "v2-105-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततः पुरुषसिंहानां वृतानां तै स्सुहृद्गणैः।\nशोचतामेव रजनी दुःखेन व्यत्यवर्तत।।2.105.1।।",
+      "transliteration": "",
+      "translation": "That night passed off painfully for the four lion like brothers as they lamented, surrounded by their hosts of friends.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "रजन्यां सुप्रभातायां भ्रातरस्ते सुहृद्वृताः।\nमन्दाकिन्यां हुतं जप्यं कृत्वा राममुपागमन्।।2.105.2।।",
+      "transliteration": "",
+      "translation": "When the night dawned, those brothers surrounded by their friends made (morning) ablutions and, after the prayers, returned to Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "तूष्णीं ते समुपासीना न कश्चित्किञ्चिदब्रवीत्।\nभरतस्तु सुहृन्मध्ये रामं वचनमब्रवीत्।।2.105.3।।",
+      "transliteration": "",
+      "translation": "All of them sat together silently and no one uttered a word. Bharata alone from among  them addressed Rama saying:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "सान्त्विता मामिका माता दत्तं राज्यमिदं मम।\nतद्ददामि तवैवाहं भुङ्क्ष्व राज्यमकण्टकम्।।2.105.4।।",
+      "transliteration": "",
+      "translation": "This kingdom was given to me for the satisfaction of my mother. I am bestowing it back on you. Enjoy it without any obstacles.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "महतेवाम्बुवेगेन भिन्नस्सेतुर्जलागमे।\nदुरावारं त्वदन्येन राज्यखण्डमिदं महत्।।2.105.5।।",
+      "transliteration": "",
+      "translation": "Like a dyke bursts under pressure by the great surge of waters during the rainy season, this vast kingdom cannot be sustained by any one except yourself.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "गतिं खर इवाश्वस्य तार्क्ष्यस्येव पतत्रिणः।\nअनुगन्तुं न शक्तिर्मे गतिं तव महीपते।।2.105.6।।",
+      "transliteration": "",
+      "translation": "O lord of the earth as an ass cannot follow the pace of a horse or a bird, the pace of Tarkshya (Garuda), I do not have the capability to follow you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "सुजीवं नित्यशस्तस्य यः परैरुपजीव्यते।\nराम तेन तु दुर्जीवं यः परानुपजीवति।।2.105.7।।",
+      "transliteration": "",
+      "translation": "O Rama, the life of a man on whom others depend for their sustenance is a happy life and the life of one who depends on others for his own mintenance is miserable.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "यथा तु रोपितो वृक्षः पुरुषेण विवर्धितः।\nह्रस्वकेण दुरारोहो रूढस्कन्धो महाद्रुमः।।2.105.8।।\nस यदा पुष्पितो भूत्वा फलानि न विदर्शयेत्।\nस तां नानुभवेत्प्रीतिं यस्य हेतोः प्ररोपितः।।2.105.9।।\nएषोपमा महाबाहो तमर्थं वेत्तु मर्हसि।\nयदि त्वमस्मान्वृषभो भर्ता भृत्यान्न शाधि हि।।2.105.10।।",
+      "transliteration": "",
+      "translation": "O mightyarmed Rama, a man plants a tree, rears it till it grows into such a large tree with a big trunk that it becomes difficult for a dwarf to climb. When the tree flowers but does not bear fruit, the man who planted it gets no pleasure out of the purpose for which the tree was planted. Being a mighty protector, do not chastise us who are your  servants. This is a simile. You may better comprehend its implications. (The meaning of the simile is that if you do not assume the throne, the desire of our father, who nurtured you right from your childhood and hoped that one day you will become king and rule the people, will be in vain.)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "श्रेणयस्त्वां महाराज पश्यन्त्वग्य्राश्च सर्वशः।\nप्रतपन्तमिवादित्यं राज्ये स्थित मरिन्दमम्।।2.105.11।।",
+      "transliteration": "",
+      "translation": "O great king and subduer of enemies, may all the leading guilds of traders and other subjects behold you all over installed in the kingdom like the resplendent Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तवानुयाने काकुत्स्थ मत्ता नर्दन्तु कुञ्जराः।\nअन्तःपुरगता नार्यो नन्दन्तु सुसमाहिताः।।2.105.12।।",
+      "transliteration": "",
+      "translation": "O Rama, let the elephants following you, intoxicated with ichor, be heard trumpeting. Let the women of the inner apartment rejoice with composed minds (when they hear of your return).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तस्य साध्वित्यमन्यन्त नागरा विविधा जनाः।\nभरतस्य वच श्श्रुत्वा रामं प्रत्यनुयाचतः।।2.105.13।।",
+      "transliteration": "",
+      "translation": "Hearing the words of Bharata beseeching Rama to return, various classes of people of the city of Ayodhya, in approbation exclaimed well said.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "तमेवं दुःखितं प्रेक्ष्य विलपन्तं यशस्विनम्।\nरामः कृतात्मा भरतं समाश्वासयदात्मवान्।।2.105.14।।",
+      "transliteration": "",
+      "translation": "Having seen the illustrious Bharata lamenting that way, Rama, a man of firm determination and selfpossession, consoled him thus:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "नाऽत्मनः कामकारोऽस्ति पुरुषोऽयमनीश्वरः।\nइतश्चेतरतश्चैनं कृतान्तः परिकर्षति।।2.105.15।।",
+      "transliteration": "",
+      "translation": "A man is neither independent nor competent to do any act on his free will. Fate pulls him this way or the other.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "सर्वे क्षयान्ताः निचयाः पतनान्ता समुच्छ्रयाः।\nसंयोगा विप्रयोगान्ता मरणान्तं च जीवितम्।।2.105.16।।",
+      "transliteration": "",
+      "translation": "All accumulations of wealth deplete at the end. Every man who attains elevated positions falls at the end. Every union culminates in separation. Every life ends in death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "यथा फलानां पक्वानां नान्यत्र पतनाद्भयम्।\nएवं नरस्य जातस्य नान्यत्र मरणाद्भयम्।।2.105.17।।",
+      "transliteration": "",
+      "translation": "The only fear of a ripened fruit is the fear of falling down (from the tree). In the same way every man who is born has no other fear except the fear of death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "यथाऽगारं दृढस्थूणं जीर्णं भूत्वाऽवसीदति।\nतथैव सीदन्ति नरा जरामृत्युवशं गताः।।2.105.18।।",
+      "transliteration": "",
+      "translation": "Even a house constructed with sturdy pillars gets dilapidated and ultimately decays. In the same way people under the sway of old age and death are destroyed (at last).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अत्येति रजनी या तु सा न प्रतिनिवर्तते।\nयात्येव यमुना पूर्णा समुद्रमुदकाकुलम्।।2.105.19।।",
+      "transliteration": "",
+      "translation": "A night that once passe off does not return like the waters of river Yamuna that flow  into the ocean filled with water (the water do not flow back into Yamuna).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अहोरात्राणि गच्छन्ति सर्वेषां प्राणिनामिह।\nअायूंषि क्षपयन्त्याशु ग्रीष्मे जलमिवांशवः।।2.105.20।।",
+      "transliteration": "",
+      "translation": "The passing days and nights quickly decrease the life span of all living beings in this world, like sunrays drying up the water in summer.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "आत्मानमनुशोच त्वं किमन्यमनुशोचसि।\nआयुस्ते हीयते यस्य स्थितस्य च गतस्य च।।2.105.21।।",
+      "transliteration": "",
+      "translation": "Whether you are static or moving, your lifespan decreases. Therefore, you should only grieve about yourself and not for any one else.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "सहैव मृत्युर्व्रजति सह मृत्युर्निषीदति।\nगत्वासुदीर्घमध्वानं सहमृत्युर्निवर्तते।।2.105.22।।",
+      "transliteration": "",
+      "translation": "Death follows a man wherever he goes. When he sits, death sits with him. Even after travelling a very long distance, the man returns along with death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "गात्रेषु वलयः प्राप्ता श्श्वेताश्चैव शिरोरुहाः।\nजरया पुरुषो जीर्णः किं हि कृत्वा प्रभावयेत्।।2.105.23।।",
+      "transliteration": "",
+      "translation": "Wrinkels form on the body and hair turns grey in old age. In this way, decayed with age, what can a man do to have control over death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "नन्दन्त्युदित आदित्ये नन्दन्त्यस्तमितेऽहनि।\nआत्मनो नावबुध्यन्ते मनुष्या जीवितक्षयम्।।2.105.24।।",
+      "transliteration": "",
+      "translation": "People rejoice when the Sun rises and rejoice when the Sun sets. But they are unaware of the decline of the life span of their own.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "हृष्यन्त्यृतुमुखं दृष्ट्वा नवं नवमिहागतम्।\nऋतूनां परिवर्तेन प्राणिनां प्राणसङ्क्षयः।।2.105.25।।",
+      "transliteration": "",
+      "translation": "At the advent of each new season men feel delighted to see the newly blossomed  flowers and fruits. But with the change of the scasons the life span also diminishes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "यथा काष्ठं च काष्ठं च समेयातां महार्णवे।\nसमेत्य च व्यपेयातां कालमासाद्य कञ्चन।।2.105.26।।\nएवं भार्याश्चपुत्राश्च ज्ञातयश्च धनानि च।\nसमेत्य व्यवधावन्ति ध्रुवो ह्येषां विनाभवः।।2.105.27।।",
+      "transliteration": "",
+      "translation": "In a mighty ocean, two pieces of logs meet one another, float together and in due course get separated. In the same way wives, sons, relatives and riches remain together for some time and thereafter get separated. Their separation is certain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "यथा काष्ठं च काष्ठं च समेयातां महार्णवे।\nसमेत्य च व्यपेयातां कालमासाद्य कञ्चन।।2.105.26।।\nएवं भार्याश्चपुत्राश्च ज्ञातयश्च धनानि च।\nसमेत्य व्यवधावन्ति ध्रुवो ह्येषां विनाभवः।।2.105.27।।",
+      "transliteration": "",
+      "translation": "In a mighty ocean, two pieces of logs meet one another, float together and in due course get separated. In the same way wives, sons, relatives and riches remain together for some time and thereafter get separated. Their separation is certain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "नात्र कश्चिद्यथाभावं प्राणी समभिवर्तते।\nतेन तस्मिन्न सामर्थ्यं प्रेतस्या स्त्यनुशोचतः।।2.105.28।।",
+      "transliteration": "",
+      "translation": "No living being in this world can act as he likes. Therefore, no one should grieve for the dead.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "यथा हि सार्थं गच्छन्तं ब्रूयात्कश्चित्पथि स्थितः।\nअहमप्यागमिष्यामि पृष्ठतो भवता मिति।।2.105.29।।\nएवं पूर्वैर्गतो मार्गः पितृपैतामहो ध्रुवः।\nतमापन्नः कथं शोचेद्यस्य नास्ति व्यतिक्रमः।।2.105.30।।",
+      "transliteration": "",
+      "translation": "Like a man standing on the wayside says to a passing caravan, 'I am following you', and follows them, the road taken by our fathers and forefathers is certain for every one and cannot be violated by a person treading that path. (So) why should a man grieve?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "वयसः पतमानस्य स्रोतसो वाऽनिवर्तिनः।\nआत्मा सुखे नियोक्तव्यस्सुखभाजः प्रजाः स्मृताः।।2.105.31।।",
+      "transliteration": "",
+      "translation": "Like the flow of water which never reverts to its source, age passes. Therefore, a man must employ his self in righteous acts that bring him happiness. By doing so, it is said, people will always be happy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "धर्मात्मा स शुभैः कृत्स्नैः क्रतुभिश्चाप्तदक्षिणैः।\nस्वर्गं दशरथः प्राप्तः पिता नः पृथिवीपतिः।।2.105.32।।",
+      "transliteration": "",
+      "translation": "Our righteous father and lord of the earth, Dasaratha, attained heaven by giving  abundant charities and performing several sacrifices in accordance with tradition.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "भृत्यानां भरणात्सम्यक्प्रजानां परिपालनात्।\nअर्थादानाच्च धर्मेण पिता न स्त्रिदिवंगतः।।2.105.33।।",
+      "transliteration": "",
+      "translation": "Our father nourished his dependents, splendidly governed his subjects and accepted  wealth through righteous ways. Because of these pious acts, he could go to heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "कर्मभि स्तु शुभैरिष्टैः क्रतुभिश्चाप्तदक्षिणैः।\nस्वर्गं दशरथः प्राप्तः पिता नः पृथिवीपतिः।।2.105.34।।",
+      "transliteration": "",
+      "translation": "Dasaratha, our father and lord of the earth, reached heaven by performing auspicious acts and offering abundant charities in sacrifices.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "इष्ट्वा बहुविधैर्यज्ञैर्भोगां श्चावाप्य पुष्कलान्।\nउत्तमं चायुरासाद्य स्वर्गतः पृथिवीपतिः।।2.105.35।।",
+      "transliteration": "",
+      "translation": "King Dasaratha, lord of the earth, having performed various kinds of sacrifices and securing a long life, enjoyed abundance of pleasures and attained heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "आयुरुत्तममासाद्य भोगानपि च राघवः।\nस न शोच्यः पिता तात स्वर्गत स्सत्कृत स्सताम्।।2.105.36।।",
+      "transliteration": "",
+      "translation": "O dear our father, king Dasaratha, who was honoured by the virtuous and enjoyed the best of pleasures attained heaven after a long life. Therefore, he is not to be grieved over.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "स जीर्णं मानुषं देहं परित्यज्य पिता हि नः।\nदैवीमृद्धिमनुप्राप्तो ब्रह्मलोकविहारिणीम्।।2.105.37।।",
+      "transliteration": "",
+      "translation": "Our father, king Dasaratha, abandoned the wornout mortal body, and obtained divine prosperity of wandering in the world of Brahma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "तं तु नैवंविधः कश्चित्प्राज्ञ श्शोचितुमर्हति।\nतत्विधो मद्विधश्चापि श्रुतवान्बुद्धिमत्तरः।।2.105.38।।",
+      "transliteration": "",
+      "translation": "No one like you or me should ever mourn about this highly sagacious and learned king who was proficient in scriptural knowledge.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "एते बहुविधा शोका विलापरुदिते तथा।\nवर्जनीया हि धीरेण सर्वावस्थासु धीमता।।2.105.39।।",
+      "transliteration": "",
+      "translation": "A wise man, holding on to his fortitude in all circumstances, should avoid such occasions of grief, these words of lamentation and this crying.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "स स्वस्थो भव मा शोचेर्यात्वा चावसतां पुरीम्।\nतथा पित्रा नियुक्तोऽसि वशिना वदतां वर।।2.105.40।।",
+      "transliteration": "",
+      "translation": "O foremost of the eloquent, compose yourself. Do not grieve. Return to the city (Ayodhya) and reside there. You have been commanded so by our father who was a man of selfcontrol.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "यत्राहमपि तेनैव नियुक्तः पुण्यकर्मणा।\nतत्रैवाहं करिष्यामि पितुरार्यस्य शासनम्।।2.105.41।।",
+      "transliteration": "",
+      "translation": "I shall also stick to the command of our noble father who was a man of sacred deeds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "न मया शासनं तस्य त्यक्तुं न्याय्य मरिन्दम।\nस त्वयापि सदा मान्यं स वै बन्धु स नः पिता।।2.105.42।।",
+      "transliteration": "",
+      "translation": "O subduer of enemies, I cannot violate the order of the king. You also must respect it for he is our father and friend indeed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "तद्वचः पितुर���वाहं सम्मतं धर्मचारिणः।\nकर्मणा पालयिष्यामि वनवासेन राघव।।2.105.43।।",
+      "transliteration": "",
+      "translation": "O Bharata, I will, therefore, obey the command of our venerable father, the champion of righteousness, by living in the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "धार्मिकेणानृशंसेन नरेण गुरुवर्तिना।\nभवितव्यं नरव्याघ्र परलोकं जिगीषता।।2.105.44।।",
+      "transliteration": "",
+      "translation": "O best of men, if a man aspires to conquer the higher world, he should remain  virtuous, compassionate and obedient to his preceptors.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "आत्मानमनुतिष्ठत्वं स्वभावेन नरर्षभ।\nनिशाम्यतु शुभं वृत्तं पितुर्दशरथस्य नः।।2.105.45।।",
+      "transliteration": "",
+      "translation": "O best of men, having seen the auspicious life of our father Dasaratha and his conduct, you also stick to your own duty.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-105-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "इत्येवमुक्त्वा वचनं महात्मा पितुर्निदेश प्रतिपालनार्थम्।\nयवीयसं भ्रातरमर्थवच्च प्रभुर्मुहूर्ताद्विरराम रामः।।2.105.46।।",
+      "transliteration": "",
+      "translation": "Rama, the magnanimous lord, addressed his younger brother Bharata with words full of significance, saying, Obey father's command and remained silent in a moment. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे पञ्चोत्तरशततमस्सर्गः।। Thus ends the one hundredfifth sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

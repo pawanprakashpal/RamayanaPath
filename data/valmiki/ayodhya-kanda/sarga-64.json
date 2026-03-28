@@ -1,0 +1,702 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 64,
+    "title": "Dasaratha relates to Kausalya  the event of the noble ascetic's curse on him -- death of Dasaratha",
+    "titleSanskrit": "",
+    "totalShlokas": 76
+  },
+  "shlokas": [
+    {
+      "id": "v2-64-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "वधमप्रतिरूपं तु महर्षेस्तस्य राघवः।\nविलपन्नेव धर्मात्मा कौसल्यां पुनरब्रवीत्।।2.64.1।।",
+      "transliteration": "",
+      "translation": "Grieving for having unfairly killed the great sage the rightenous descendant of the Raghus (Dasaratha) coutinued to tell Kausalya about it:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तदज्ञानान्महत्पापं कृत्वाहं सङ्कुलेन्द्रियः।\nएकस्त्वचिन्तयं बुध्या कथं नु सुकृतं भवेत्।।2.64.2।।",
+      "transliteration": "",
+      "translation": "Having committed the sin unwittingly, I was greatly agitated. I reflected in my mind as  to how to atone for this great sin.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "ततस्तं घटमादाय पूर्णं परमवारिणा।\nआश्रमं तमहं प्राप्य यथाऽख्यातपथं गतः।।2.64.3।।",
+      "transliteration": "",
+      "translation": "Holding the pot filled with clean water I reached the hermitage following the path as directed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तत्राहं दुर्बलावन्धौ वृद्धावपरिणायकौ। \nअपश्यं तस्य पितरौ लूनपक्षाविव द्विजौ।।2.64.4।।\nतन्निमित्ताभिरासीनौ कथाभिरपरिश्रमौ।\nतामाशां मत्कृते हीनावुदासीनावनाथवत्।।2.64.5।।",
+      "transliteration": "",
+      "translation": "There I found his weak, blind, old parents. With no supporter, they looked like birds with clipped wings. They sat there helplessly like orphans and passively talking about their son, their only hope that I have deprived them of.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "शोकोपहतचित्तश्च भयसन्त्रस्तचेतनः।\nतच्चाऽश्रमपदं गत्वा भूयश्शोकमहं गतः।।2.64.6।।",
+      "transliteration": "",
+      "translation": "Smitten with grief and my heart throbbing with fear I reached the hermitage and my sorrow became manifold.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "पदशब्दं तु मे श्रुत्वा मुनिर्वाक्यमभाषत।\nकिं चिरायसि मे पुत्र पानीयं क्षिप्रमानय।।2.64.7।।",
+      "transliteration": "",
+      "translation": "Hearing the sound of my footsteps, the sage said 'O son why have you delayed? Bring me some water quickly'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "यन्निमित्तमिदं तात सलिले क्रीडितं त्वया।\nउत्कण्ठिता ते मातेयं प्रविश क्षिप्रमाश्रमम्।।2.64.8।।",
+      "transliteration": "",
+      "translation": "'O Dear child, whatever be the reason, you have been sporting in the water so long, come at once to the hermitage. Your mother is anxious.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "यद्व्यलीकं कृतं पुत्र मात्रा ते यदि वा मया।\nन तन्मनसि कर्तव्यं त्वया तात तपस्विना।।2.64.9।।",
+      "transliteration": "",
+      "translation": "'O Child, O Son if your mother or I have done anything disagreeable, do not take it to heart, for you are an ascetic.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "त्वं गतिस्त्वगतीनां चक्षुस्त्वं हीनचक्षुषाम्।\nसमासक्तास्त्वयि प्राणाः किं त्वं नो नाभिभाषसे।।2.64.10।।",
+      "transliteration": "",
+      "translation": "'You are a support to the supportless, eyes to the blind, you are our very vital life. Why don't you speak to us'?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "मुनिमव्यक्तया वाचा तमहं सज्जमानया।\nहीनव्यञ्जनया प्रेक्ष्य भीतचित्त इवाब्रुवम्।।2.64.11।।",
+      "transliteration": "",
+      "translation": "As I saw him, my heart was filled with terror and I stammered as I spoke in garbled sentences.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "मनसः कर्म चेष्टाभिरभिसंस्तभ्य वाग्बलम्।\nआचचक्षे त्वहं तस्मै पुत्रव्यसनजं भयम्।।2.64.12।।",
+      "transliteration": "",
+      "translation": "After a lot of effort, with great fear controlling my thoughts and the power of speech, I related to him the calamity that had befallen his son.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "क्षत्रियोऽहं दशरथो नाहं पुत्रो महात्मनः।\nसज्जनावमतं दुःखमिदं प्राप्तं स्वकर्मजम्।।2.64.13।।",
+      "transliteration": "",
+      "translation": "O magnanimous sage I am a kshatriya known as Dasaratha. I am not your son. A pathetic incident has been caused by my own action, condemnable by the virtuous.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "भगवंश्चापहस्तोऽहं सरयूतीरमागतः।\nजिघांसुश्श्वापदं कञ्चिन्निपाने चाऽगतं गजम्।।2.64.14।।",
+      "transliteration": "",
+      "translation": "Wishing to hunt a wild elephant coming down to the water hole for drinking, I went  to the bank of Sarayu, bow in hand, O revered sage",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "ततश्श्रुतो मया शब्दो जले कुम्भस्य पूर्यतः।\nद्विपोऽयमिति मत्वाऽयं बाणेनाभिहतो मया।।2.64.15।।",
+      "transliteration": "",
+      "translation": "There I heard the sound of a pot being filled with water and mistaking it to be an elephant's, shot an arrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "गत्वा नद्यास्तत स्तीरमपश्यमिषुणा हृदि।\nविनिर्भिन्नं गतप्राणं शयानं भुवि तापसम्।।2.64.16।।",
+      "transliteration": "",
+      "translation": "Thereafter I reached the river bank  and beheld an ascetic with an arrow pierced in his chest. He was lying on the ground, his life ebbing away.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "भगवच्छशब्दमालक्ष्य मया गजजिघांसुना।\nविसृप्टोऽम्भसि नाराचस्तेन ते निहतस्सुतः।।2.64.17।।",
+      "transliteration": "",
+      "translation": "O venerable one I released an arrow towards the water aiming at the sound intending to kill an elephant but it hit your son.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "ततस्तस्यैव वचनादुपेत्य परितप्यतः।\nस मया सहसा बाण उधृतो मर्मतस्तदा।।2.64.18।।",
+      "transliteration": "",
+      "translation": "Then I approached him. He was suffering from excruciating pain. I pulled out at his word the arrow from his chest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "स चोधृतेन बाणेन तत्रैव स्वर्गमास्थितः।\nभवन्तौ पितरौ शोचन्नन्धाविति विलप्य च।।2.64.19।।",
+      "transliteration": "",
+      "translation": "Grieving for both of you and crying you are blind he died as soon as the arrow was pulled out.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "अज्ञानाद्भवतः पुत्र स्सहसाऽभिहतो मया।\nशेषमेवं गते यत्स्यात्तत्प्रसीदतु मे मुनि���।।2.64.20।।",
+      "transliteration": "",
+      "translation": "Your son has been killed by me due to my ignorance. Since this has happened, may  the ascetic be pleased to command me on the next course of action.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "स तच्च्रुत्वा वचः क्रूरं मयोक्तमघशंसिना।\nनाशकत्तीव्रमायासमकर्तुं भगवानृषिः।।2.64.21।।",
+      "transliteration": "",
+      "translation": "The venerable sage heard my cruel words about the sinful act and was not able to seriously react. (He was stunned).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "स बाष्पपूर्णवदनो निश्श्वसन्शोककर्शितः।\nमामुवाच महातेजाः कृताञ्जलिमुपस्थितम्।।2.64.22।।",
+      "transliteration": "",
+      "translation": "The griefstricken, glorious ascetic with his face filled with tears, heaving deep sighs  broke down with grief and spoke to me as I was standing with folded palms.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "यद्येतदशुभं कर्म न त्वं मे कथयेस्स्वयम्।\nफलेन्मूर्धा स्म ते राजन् सद्य श्शतसहस्रधा।।2.64.23।।",
+      "transliteration": "",
+      "translation": "'O king, hadn't you yourself broken this inauspicious news, your head would have split into a hundred thousand pieces right now.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "क्षत्रियेण वधो राजन् वानप्रस्थे विशेषतः।\nज्ञानपूर्वं कृत स्स्थानाच्च्यावयेदपि वज्रिणम्।।2.64.24।।",
+      "transliteration": "",
+      "translation": "'If a kshatriya kills any one knowingly, particularly when in vanaprastha (third stage) this sin can displace even Indra, wielder of the thunderbolt from his position, O king.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "सप्तधा तु फलेन्मूर्धा मुनौ तपसि तिष्ठति।\nज्ञानाद्विसृजतश्शस्त्रं तादृशे ब्रह्मावादिनि।।2.64.25।।",
+      "transliteration": "",
+      "translation": "'If any one deliberately discharges a weapon upon an ascetic observing austerities or on him who expounds the Vedas, his head will split into seven pieces.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "अज्ञानाद्धिकृतं यस्मादिदं तेनैव जवसि।\nअपि ह्यद्य कुलं न स्यादिक्ष्वाकूणां कुतो भवान्।।2.64.26।।",
+      "transliteration": "",
+      "translation": "'Since you have done this unwittingly you are still alive. If it had been otherwise, your Ikshvaku race itself would have been exterminated, what to speak of you",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "नय नौ नृप तं देशमिति मां चाभ्यभाषत।\nअ���्य तं द्रष्टुमिच्छावः पुत्रं पश्चिमदर्शनम्।।2.64.27।।\nरुधिरेणावसिक्ताङ्गं प्रकीर्णाजिनवाससम्।\nशयानं भुवि निस्संज्ञं धर्म राजवशं गतम्।।2.64.28।।",
+      "transliteration": "",
+      "translation": "'O king take us to that place. We wish to  have the last look at him, at his garment of antelope skin in disarray, his body spattered with blood, lying on the ground unconscious under the sway of the lord of death'. Thus the sage said to me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "अथाहमेकस्तं देशं नीत्वा तौ भृशदुःखितौ।\nअस्पर्शयमहं पुत्रं तं मुनिं सह भार्यया।।2.64.29।।",
+      "transliteration": "",
+      "translation": "Thereupon, I took both of them all by myself to that spot and made the grieving  ascetics touch the body of their son.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "तौ पुत्रमात्मन स्स्पृष्ट्वा तमासाद्य तपस्विनौ।\nनिपेततुश्शरीरेऽस्य पिता चास्येदमब्रवीत्।।62.64.30।।",
+      "transliteration": "",
+      "translation": "Both the ascetics stroking their son's body and collapsed upon it. And the father said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "नाभिवादयसे माद्य न च माऽमभिभाषसे।\nकिं नु शेषे तु भूमौ त्वं वत्स किं कुपितो ह्यसि।।2.64.31।।",
+      "transliteration": "",
+      "translation": "'O child why are you not greeting us today nor speaking? Why are you lying on the ground? Are you angry with us?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "न त्वहं ते प्रियं पुत्र मातरं पश्य धार्मिक।\nकिं नु नालिङ्गसे पुत्र सुकुमार वचो वद।।2.64.32।।",
+      "transliteration": "",
+      "translation": "'O righteous son if I am no longer dear to you, (at least) look at your mother. O tender child, why are you not embracing me? Speak.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "कस्य वाऽपररात्रेऽहं श्रोष्यामि हृदयङ्गमम्।\nअधीयानस्य मधुरं शास्त्रं वान्यद्विशेषतः।।2.64.33।।",
+      "transliteration": "",
+      "translation": "'From whom shall I hear the sweet recitation of scriptures or other texts, delightful to my heart in the last watch of the night?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "को मां सन्द्यामुपास्यैव स्नात्वा हुतहुताशनः।\nश्लाघयिष्यत्युपासीनः पुत्र शोकभयार्दितम्।।2.64.34।।",
+      "transliteration": "",
+      "translation": "'O son I am tortured with sorrow and fear. Who will serve me from now on after the ablution and the morning worship of Sandhya, followed by oblations to the sacrificial fire?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "कन्दमूलफलं हृत्वा को मां प्रियमिवातिथिम्।\nभोजयिष्यत्यकर्मण्यमप्रग्रहमनायकम्।।2.64.35।।",
+      "transliteration": "",
+      "translation": "'I am incapable of doing any work, I am unable to procure anything (to meet my needs. now). I have no guide (to help me walk my way). Who will feed me like a welcome guest with tubers and fruits?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "इमामन्धां च वृद्धां च मातरं ते तपस्विनीम्।\nकथं वत्स भरिष्यामि कृपणां पुत्रगर्धिनीम्।।2.64.36।।",
+      "transliteration": "",
+      "translation": "'O son how can I support your wretched and pitiable mother, who is blind, old and yearning for her son?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "तिष्ठ मां मागमः पुत्र यमस्य सदनं प्रति।\nश्वो मया सह गन्तासि जनन्या च समेधितः।।2.64.37।।",
+      "transliteration": "",
+      "translation": "'My dear son, stay with me, do not go (now) to the abode of Yama, (lord of death). Tomorrow accompanied by me and your mother you may",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "उभावपि च शोकार्तावनाथौ कृपणौ वने।\nक्षिप्रमेव गमिष्यावस्त्वया हीनौ यमक्षयम्।।2.4.38।।",
+      "transliteration": "",
+      "translation": "'Deserted by you and without any support in the forest, afflicted with grief and feeling miserable, both of us also will assuredly go to Yama's abode, quickly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "ततो वैवस्वतं दृष्ट्वा तं प्रवक्ष्यामि भारतीम्।\nक्षमतां धर्मराजो मे बिभृयात्पितरावयम्।।2.64.39।।",
+      "transliteration": "",
+      "translation": "'There seeing Yama, (lord of death), I shall say O Lord of Justice forgive me. Let this boy continue to maintain his parents.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "दातुमर्हति धर्मात्मा लोकपालो महायशाः। \nईदृशस्य ममाक्षय्या मेकामभयदक्षिणाम्।।2.64.40।।",
+      "transliteration": "",
+      "translation": "'That lord of justice, who is highly renowned, righteous and the guardian of the worlds will grant me one unfailing boon of protection from fear.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "अपापोऽसि यदा पुत्र निहतः पापकर्मणा।\nतेन सत्येन गच्छाऽऽशु ये लोकाश्शस्त्रयोधिनाम्।।2.64.41।।",
+      "transliteration": "",
+      "translation": "'O sinless son, you are killed by a person of sinful deeds. On this truth, quickly go to those worlds which are attained by those valiant heroes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "यान्ति शूरा गतिं यां च सङ्ग्रामेष्वनिवर्तिनः।\nहतास्त्वभिमुखाः पुत्र गतिं तां परमां व्रज।।2.64.42।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "यां गतिं सगरश्शैब्यो दिलीपो जनमेजयः।\nनहुषो दुन्दुमारश्च प्राप्तास्तां गच्छ पुत्रक।।2.64.43।।",
+      "transliteration": "",
+      "translation": "'You will attain, my son, the same supreme state achieved by Sagara, Saibya, Dilipa, Janamejaya, Nahusha and Dundumara.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "या गति स्सर्वसाधूनां स्वाध्यायात्तपसाच या।\nया भूमिदस्याहिऽताग्नेरेकपत्नी व्रतस्य च।।2.64.44।।\nगोसहस्रप्रदातृ़णां या या गुरुभृतामपि।\nदेहन्यासकृतां या च तां गतिं गच्छ पुत्रक।।2.64.45।।",
+      "transliteration": "",
+      "translation": "'You, my son, shall attain that supreme state obtained by those who are virtuous, who study the Vedas and practise asceticism.You shall attain the state merited by those bestowers of land as charity, who kindle the sacred fires, who are monoganists, who offer a thousand cows in charity, who nurture the venerable and who willingly lay down their bodies.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "न हि त्वस्मिन्कुले जातो गच्छत्यकुशलां गतिम्।\nस तु यास्यति येन त्वं निहतो मम बान्धवः।।2.64.46।।",
+      "transliteration": "",
+      "translation": "'He who has killed you will alone attain that undesirable state, a member of our family will not.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "एवं स कृपणं तत्र पर्यदेवयतासकृत्।\nततोऽस्मै कर्तुमुदकं प्रवृत्तस्सहभार्यया।।2.64.47।।",
+      "transliteration": "",
+      "translation": "In this way the ascetic piteously wailed again and again. Thereafter, he with his wife set about to perform the funeral obsequies of their son.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "स तु दिव्येन रूपेण मुनिपुत्रस्स्वकर्मभिः।\nस्वर्गमध्यारुहत्क्षिप्रं शक्रेण सह धर्मवित्।।2.64.48।।",
+      "transliteration": "",
+      "translation": "The virtuous son of that ascetic assumed a celestial form through the merit of his good deeds and ascended heaven at once with Indra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "आबभाषे च वृद्धौ तौ सह शक्रेण तापसः।\nआश्वास्यच मुहूर्तं तु पितरौ वाक्यमब्रवीत्।।2.64.49।।",
+      "transliteration": "",
+      "translation": "The ascetic in the company of Indra consoling the aged couple for a brief moment said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "स्थानमस्मि महत्प्राप्तो भवतोः परिचारणात्।\nभवन्तावपि च क्षिप्रं मम मूलमुपैष्यतः।।2.64.50।।",
+      "transliteration": "",
+      "translation": "'I have attained this supreme state by virtue of the service rendered to you. You will also attain my state soon.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "एवमुक्त्वा तु दिव्येन विमानेन वपुष्मता।\nआरुरोह दिवं क्षिप्रं मुनिपुत्रो जितेन्द्रियः।।2.64.51।।",
+      "transliteration": "",
+      "translation": "The sage's son with his senses under control said this while ascending heaven on a beautiful, celestial, aerial chariot.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "स कृत्वा तूदकं तूर्णं तापस स्सह भार्यया।\nमामुवाच महातेजाः कृताञ्जलिमुपस्थितम्।।2.64.52।।",
+      "transliteration": "",
+      "translation": "The radiant ascetic along with his wife hurriedly completed the funeral libations and said to me standing with folded palms:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "अद्यैव जहिं मां राजन्मरणे नास्ति मे व्यथा।\nयच्छरेणैकपुत्रं मां त्वमकर्षीरपुत्रकम्।।2.64.53।।",
+      "transliteration": "",
+      "translation": "'Kill me, O king with the same arrow by which you rendered me childless. Death holds no pain for me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "त्वया तु यदविज्ञानान्निहतो मे सुतश्शुचिः।\nतेन त्वामभिशप्स्यामि सुदुःखमतिदारुणम्।।2.64.54।।",
+      "transliteration": "",
+      "translation": "'Though you have killed my purehearted son unintentionally, I will pronounce a disastrous and dreadful curse on you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "पुत्रव्यसनजं दुःखं यदेतन्मम साम्प्रतम्।\nएवं त्वं पुत्रशोकेन राजन्कालं करिष्यसि।।2.64.55।।",
+      "transliteration": "",
+      "translation": "'Just as I am now suffering from grief caused by my son's death, you, O king, shall die from the sorrow on account of (separation from) your son.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "अज्ञानात्तु हतो यस्मात्क्षत्रियेण त्वया मुनिः। \nतस्मात्त्वां नाविशत्याशु ब्रह्महत्या नराधिप।।2.64.56।।",
+      "transliteration": "",
+      "translation": "'Since you, O lord of men, you have killed an ascetic unaware, as kshatriya the sin of slaying a brahmin will not accrue to you immediately.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-54",
+      "number": 54,
+      "type": "shloka",
+      "original": "त्वामप्येतादृशो भावः क्षिप्रमेव गमिष्यति।\nजीवितान्तकरो घोरो दातारमिव दक्षिणा।।2.64.57।।",
+      "transliteration": "",
+      "translation": "'Just like the merits of alms come to the giver, you are going to face very soon a dreadful situation causing the end of your life.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-55",
+      "number": 55,
+      "type": "shloka",
+      "original": "एवं शापं मयि न्यस्य विलप्य करुणं बहु।\nचितामारोप्य देहं तन्मिथुनं स्वर्गमभ्ययात्।।2.64.58।।",
+      "transliteration": "",
+      "translation": "Having thus cursed me, the couple piteously lamenting for a long time, laid themselves down on the funeral pyre  and went to heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-56",
+      "number": 56,
+      "type": "shloka",
+      "original": "तदेतच्छिन्तयानेन स्मृतं पापं मया स्वयम्।\nतदा बाल्यात्कृतं देवि शब्दवेध्यनुशिक्षिणा।।2.64.59।।",
+      "transliteration": "",
+      "translation": "While reflecting about it now, O Devi (Kausalya) I recollect this sin committed by me unintentionally, with childish pranks while practising the art of hitting a target by its sound.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-57",
+      "number": 57,
+      "type": "shloka",
+      "original": "तस्यायं कर्मणो देवि विपाकस्समुपस्थितः।\nअपथ्यैस्सहम्भुक्ते व्याधिरन्नरसे यथा।।2.64.60।।",
+      "transliteration": "",
+      "translation": "Just as a man eating forbidden food and drink falls sick, so have I fallen prey to grief,  because of my sin, O Devi",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-58",
+      "number": 58,
+      "type": "shloka",
+      "original": "तस्मान्मामागतं भद्रे तस्योदारस्य तद्वचः।\nयदहं पुत्रशोकेन सन्त्यक्ष्याम्यद्य जीवितम्।।2.64.61।।",
+      "transliteration": "",
+      "translation": "O gentle lady, the words of that noble ascetic have come true today. Hence I am now going to give up my life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-59",
+      "number": 59,
+      "type": "shloka",
+      "original": "चक्षुभ्यां त्वां न पश्यामि कौसल्ये साधु मां स्फृश।\nइत्युक्त्वा स रुदंस्त्रस्तो भार्यामाह च भूमिपः।।2.64.62।।",
+      "transliteration": "",
+      "translation": "O Kausalya, I cannot see you with my eyes. Touch me gently, said the frightened Dasaratha, Lord of the earth, to his wife weeping.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-60",
+      "number": 60,
+      "type": "shloka",
+      "original": "एतन्मे सदृशं देवि यन्मया राघवे कृतम्।\nसदृशं तत्तु तस्यैव यदनेन कृतं मयि।।2.64.63।।",
+      "transliteration": "",
+      "translation": "Whatever I have done to the scion of the Raghu family (Rama) is befitting me, O Devi. And whatever he has done in respect of me is also worthy of him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-61",
+      "number": 61,
+      "type": "shloka",
+      "original": "दुर्वृत्तमपि कः पुत्रं त्यजेद्भुवि विचक्षणः।\nकश्च प्रव्राज्यमानो वा नासूयेत्पितरं सुतः।।2.64.64।।",
+      "transliteration": "",
+      "translation": "Which clearsighted man in this world, will abandon his son even if he is of evil conduct? Which son will not get angry with his father when he is banished?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-62",
+      "number": 62,
+      "type": "shloka",
+      "original": "यदि मां संस्पृशेद्रामस्सकृदद्य लभेत वा।\nयमक्षयमनुप्राप्ता द्रक्ष्यन्ति न हि मानवाः।।2.64.65।।",
+      "transliteration": "",
+      "translation": "Before I die, will Rama touch me once or will he come to me? After reaching the abode of Yama men cannot see their relations.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-63",
+      "number": 63,
+      "type": "shloka",
+      "original": "चक्षुषा त्वां न पश्यामि स्मृतिर्मम विलुप्यते।\nदूता वैवस्वतस्यैते कौसल्ये त्वरयन्ति माम्।।2.64.66।।",
+      "transliteration": "",
+      "translation": "O Kausalya, I am unable to see you. My memory is failing and the messengers of Yama are hastening me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-64",
+      "number": 64,
+      "type": "shloka",
+      "original": "अतस्तु किं दुःखतरं यदहं जीवितक्ष���े।\nन हि पश्यामि धर्मज्ञं रामं सत्यपराक्रमम्।।2.64.67।।",
+      "transliteration": "",
+      "translation": "Can there be a greater sorrow than that at the last moment of my life I am unable to  see my righteous and truthful son, Rama?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-65",
+      "number": 65,
+      "type": "shloka",
+      "original": "तस्यादर्शनजश्शोकस्सुतस्याप्रतिकर्मणः।\nउच्छोषयति मे प्राणान्वारिस्तोकमिवातपः।।2.64.68।।",
+      "transliteration": "",
+      "translation": "My grief in the absence of Rama of peerless deeds is drying up my life as heat dries up small pools of water.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-66",
+      "number": 66,
+      "type": "shloka",
+      "original": "न ते मनुष्या देवास्ते ये चारुशुभकुण्डलम्।\nमुखं द्रक्ष्यन्ति रामस्य वर्षे पञ्चदशे पुनः।।2.64.69।।",
+      "transliteration": "",
+      "translation": "Those who will behold Rama's countenance adorned with auspicious earrings on his return in the fifteenth year are gods not men.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-67",
+      "number": 67,
+      "type": "shloka",
+      "original": "पद्मपत्रेक्षणं सुभ्रु सुदंष्ट्रं चारुनासिकम्।\nधन्या द्रक्ष्यन्ति रामस्य ताराधिपनिभं मुखम्।।2.64.70।।",
+      "transliteration": "",
+      "translation": "Blessed are they who will behold Rama's countenance resembling the Moon, lord of the stars with eyes like lotus petals graceful eyebrows, even teeth and a nose.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-68",
+      "number": 68,
+      "type": "shloka",
+      "original": "सदृशं शारदस्येन्दोः पुल्लस्य कमलस्य च।\nसुगन्धि मम नाथस्य धन्या द्रक्ष्यन्ति तन्मुखम्।।2.64.71।।",
+      "transliteration": "",
+      "translation": "Fortunate indeed are the men who will behold my son's fragrant countenance camparable to the autmnal Moon and the fullblown lotus.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-69",
+      "number": 69,
+      "type": "shloka",
+      "original": "निवृत्तवनवासं तमयोध्यां पुनरागतम्।\nद्रक्ष्यन्ति सुखिनो रामं शुक्रं मार्गगतं यथा।।2.64.72।।",
+      "transliteration": "",
+      "translation": "Lucky men will behold Rama return to Ayodhya after the completion of his exile, like the planet Venus moving forward on its orbit.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-70",
+      "number": 70,
+      "type": "shloka",
+      "original": "कौसल्ये चित्तमोहेन हृदयं सीदतीव मे।\nवेदये न च संयुक्तान् शब्दस्पर्शरसानहम्।।2.64.73।।",
+      "transliteration": "",
+      "translation": "O Kausalya, my heart, it appears is sinking and on account of delusion I am not able to feel the sense objects like sound touch and taste together.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-71",
+      "number": 71,
+      "type": "shloka",
+      "original": "चित्तनाशाद्विपद्यन्ते सर्वाण्येन्द्रियाणि मे।\nक्षीणस्नेहस्य दीपस्य संसक्ता रश्मयो यथा।।2.64.74।।",
+      "transliteration": "",
+      "translation": "With the loss of my mental faculty, all the sense organs are giving way, like the rays of the lamp giving way together when the oil is exhausted.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-72",
+      "number": 72,
+      "type": "shloka",
+      "original": "अयमात्मभवश्शोको मामनाथमचेतनम्।\nसंसादयति वेगेन यथा कूलं नदीरयः।।2.64.75।।",
+      "transliteration": "",
+      "translation": "This selfcreated grief is rapidly destroying me like the bank of a river eroded by its swift current, leaving me helpless and insensible.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-73",
+      "number": 73,
+      "type": "shloka",
+      "original": "हा राघव महाबाहो हा ममाऽयासनाशन।\nहा पितृप्रिय मे नाथ हाऽद्य क्वासि गतस्सुत।।2.64.76।।",
+      "transliteration": "",
+      "translation": "Ah, mightyarmed Rama, destroyer of my agonies, Ah, the delight of your father, Ah, my protector, Ah, my son, where have you gone?.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-74",
+      "number": 74,
+      "type": "shloka",
+      "original": "हा कौसल्ये नशिष्यामि हा सुमित्रे तपस्विनि।\nहा नृशंसे ममामित्रे कैकेयि कुलपांसनि।।2.64.77।।",
+      "transliteration": "",
+      "translation": "Ah, Kausalya, Ah, pitiable Sumitra, Ah, cruel Kaikeyi, my enemy and defiler of my race, I am going to die.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-75",
+      "number": 75,
+      "type": "shloka",
+      "original": "इति रामस्य मातुश्च सुमित्रायाश्च सन्निधौ।\nराजा दशरथ श्शोचञ्जीवितान्तमुपागमत्।।2.64.78।।",
+      "transliteration": "",
+      "translation": "King Dasaratha, thus crying in distress in the presence of Rama's mother and  Sumitra reached the end of his life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-64-76",
+      "number": 76,
+      "type": "shloka",
+      "original": "यदा तु दीनं कथयन्नराधिपः प्रियस्य पुत्त्रस्य विवासनातुरः। \nगतेऽर्धरात्रे भृशदुःखपीडितस्तदा जहौ प्राणमुदारदर्शनः।।2.64.79।।",
+      "transliteration": "",
+      "translation": "King Dasaratha, a man of noble vision and lord of men, anguished by the exile of his son, kept pitiably muttering till past midnight  until tormented by an intense agony he breathed his last. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे चतुष्षष्टितमस्सर्गः।। Thus ends the sixtyfourth sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

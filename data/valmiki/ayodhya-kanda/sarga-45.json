@@ -1,0 +1,315 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 45,
+    "title": "Rama reaches the banks of Tamasa river.",
+    "titleSanskrit": "",
+    "totalShlokas": 33
+  },
+  "shlokas": [
+    {
+      "id": "v2-45-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "अनुरक्ता महात्मानं रामं सत्यपराक्रमम्।\nअनुजग्मुः प्रयान्तं तं वनवासाय मानवाः।।2.45.1।।",
+      "transliteration": "",
+      "translation": "When the highsouled Rama whose strength was his sense of truth set out for the forest, the faithful people followed him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "निवर्तितेऽपि च बलात्सुहृद्वर्गे च राजनि।\nनैव ते संन्यवर्तन्त रामस्यानुगता रथम्।।2.45.2।।",
+      "transliteration": "",
+      "translation": "The king and the hosts of friends were forcibly sent back but they did not return. They continued to follow the chariot of Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "अयोध्यानिलयानां हि पुरुषाणां महायशाः।\nबभूव गुणसम्पन्नः पूर्णचन्द्र इव प्रियः।।2.45.3।।",
+      "transliteration": "",
+      "translation": "The illustrious and virtuous Rama was as dear to the inhabitants of Ayodhya as the  full Moon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "स याच्यमानः काकुत्स्थः स्वाभिः प्रकृतिभिस्तदा।\nकुर्वाणः पितरं सत्यं वनमेवान्वपद्यत।।2.45.4।।",
+      "transliteration": "",
+      "translation": "Although entreated by his subjects (not to go) Rama proceeded to the forest  to make his father's vow come true.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "अवेक्षमाणः सस्नेहं चक्षुषा प्रपिबन्निव।\nउवाच रामः स्नेहेन ताः प्रजाः स्वाः प्रजा इव।।2.45.5।।",
+      "transliteration": "",
+      "translation": "Looking at the people with love as if they were his own children and as though  drinking them with his glances, Rama appealed to them:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "या प्रीतिर्बहुमानश्च मय्ययोध्यानिवासिनाम्।\nमत्प्रियार्थं विशेषेण भरते सा निवेश्यताम्।।2.45.6।।",
+      "transliteration": "",
+      "translation": "O citizens of Ayodhya may the love and respect you have shown to please me be bestowed specially on Bharata",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "स हि कल्याणचारित्रः कैकेय्यानन्दवर्धनः।\nकरिष्यति यथावद्वः प्रियाणि च हितानि च।।2.45.7।।",
+      "transliteration": "",
+      "translation": "Bharata, enhancer of the delight of Kaikeyi, possesses an auspicious character. He will do for you everything appropriate, agreeable and beneficial.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "ज्ञानवृद्धो वयोबालो मृदुर्वीर्यगुणान्वितः।\nअनुरूपः स वो भर्ता भविष्यति भयापहः।।2.45.8।।",
+      "transliteration": "",
+      "translation": "Though tender in age Bharata is mature in intellect. Gentle, valiant and virtuous, he will dispel all your fears and act as a true protector.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "स हि राजगुणैर्युक्तो युवराजः समीक्षितः।\nअपि चापि मया शिष्टैः कार्यं वो भर्तृशासनम्।।2.45.9।।",
+      "transliteration": "",
+      "translation": "Endowed with kingly qualities, he is recognised as heirapparent. Therefore, as I did, all of  you should obey the order of the king.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "न च सन्तप्येद्यथा चासौ वनवासं गते मयि।\nमहाराजस्तथा कार्यो मम प्रियचिकीर्षया।।2.45.10।।",
+      "transliteration": "",
+      "translation": "If you desire to please me, act in such a way that the king does not grieve after I have gone to the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "यथा यथा दाशरथि र्धर्म एवास्थितोऽभवत्।\nतथा तथा प्रकृतयो रामं पतिमकामयन्।।2.45.11।।",
+      "transliteration": "",
+      "translation": "The more the son of Dasaratha (Rama) committed to righteousness, the more the subjects desired that he should be their king.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "बाष्पेण पिहितं दीनं रामः सौमित्रिणा सह।\nचकर्षेव गुणैर्बद्ध्वा जनं पुरनिवासिनम्।।2.45.12।।",
+      "transliteration": "",
+      "translation": "Rama along with Lakshmana attracted the citydwellers who, choked with tears, were looking miserable. It appeared they were bound with his virtues.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "ते द्विजास्त्रिविधं वृद्धा ज्ञानेन वयसौजसा।\nवयः प्रकम्पशिरसो दूरादूचुरिदं वचः।।2.45.13।।",
+      "transliteration": "",
+      "translation": "Those brahmins who were senior (to him) on three counts like age, wisdom and spirtuality spoke to him from a distance with their heads shaking with age:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "वहन्तो जवना रामं भो भो जात्यास्तुरङ्गमाः।\nनिवर्तध्वं न गन्तव्यं हिता भवत भर्तरि।।2.45.14।।",
+      "transliteration": "",
+      "translation": "O horses of noble breed, turn back Do not carry your master swiftyly any farther. Do good to him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "कर्णवन्ति हि भूतानि विशेषेण तुरङ्गमाः।\nयूयं तस्मान्निवर्तध्वं याचनां प्रतिवेदिताः।।2.45.15।।",
+      "transliteration": "",
+      "translation": "All animals, especially horses have a keen sense of hearing. Therefore, having listened to our entreaty, turn back.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "धर्मतः स विशुद्धात्मा वीरः शुभदृढव्रतः।\nउपवाह्यस्तु वो भर्ता नापवाह्��ः पुराद्वनम्।।2.45.16।।",
+      "transliteration": "",
+      "translation": "Your master has a purity of heart. He is righteous, virtuous, brave and firm in resolve, carry him backward and not forward from the city into the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "एवमार्तप्रलापांस्तान् वृद्धान् प्रलपतो द्विजान्।\nअवेक्ष्य सहसा रामो रथादवततार ह।।2.45.17।।",
+      "transliteration": "",
+      "translation": "Having seen the aged brahmins muttering pitiful lamentations in this manner, Rama immediately alighted from the chariot.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "पद्भ्यामेव जगामाथ ससीत स्सहलक्ष्मणः।\nसन्निकृष्टपदन्यासो रामो वनपरायणः।।2.45.18।।",
+      "transliteration": "",
+      "translation": "Then Rama along with Sita and Lakshmana began walking on foot with slow steps towards the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "द्विजातींस्तु पदातींस्तान् रामश्चारित्रवत्सलः।\nन शशाक घृणाचक्षुः परिमोक्तुं रथेन सः।।2.45.19।।",
+      "transliteration": "",
+      "translation": "Rama a man of probity and compassion could not ride off in his chariot while those brahmins were trudging far behind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "गच्छ���्तमेव तं दृष्ट्वा रामं सम्भ्रान्तचेतसः।\nऊचुः परमसन्तप्ता रामं वाक्यमिदं द्विजाः।।2.45.20।।",
+      "transliteration": "",
+      "translation": "Having seen Rama thus going towards the forest, those brahmins, highly agitated and distressed, said to him:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "ब्राह्मण्यं सर्वमेतत्त्वां ब्रह्मण्यमनुगच्छति।\nद्विजस्कन्धाधिरूढास्त्वामग्नयोऽप्यनुयान्त्यमी।।2.45.21।।",
+      "transliteration": "",
+      "translation": "This entire order of brahmins with the sacrificial fires on their hsoulders is following you, their wellwisher.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "वाजपेयसमुत्थानि छत्राण्येतानि पश्य नः।\nपृष्ठतोऽनुप्रयातानि मेघानिव जलात्यये।।2.45.22।।",
+      "transliteration": "",
+      "translation": "See these umbrellas acquired by us while performing Vajapeya sacrifice are following you like the clouds at the end of the rainy season.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "अनवाप्तातपत्रस्य रश्मिसन्तापितस्य ते।\nएभिश्छायां करिष्यामः स्वैश्छत्रैर्वाजपेयिकैः।।2.45.23।।",
+      "transliteration": "",
+      "translation": "You do not have a royal umbrella and you are scorched by the rays of the Sun. We will offer you shade with the umbrellas acquired during Vajapeya sacrifice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "या हि नः सततं बुद्धिर्वेदमन्त्रानुसारिणी।\nत्वत्कृते सा कृता वत्स वनवासानुसारिणी।।2.45.24।।",
+      "transliteration": "",
+      "translation": "O dear child, our minds always pursue the study of vedic hymns. For your sake now they are made to follow the life in the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "हृदयेष्वेव तिष्ठन्ति वेदा ये नः परं धनम्।\nवत्स्यन्त्यपि गृहेष्वेव दाराश्चारित्ररक्षिताः।।2.45.25।।",
+      "transliteration": "",
+      "translation": "The Vedas are our greatest wealth and they reside in our hearts. Our wives, protected by their fidelity, shall stay at home.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "न पुनर्निश्चयः कार्यस्त्वद्गतौ सुकृता मतिः।\nत्वयि धर्मव्यपेक्षे तु किं स्याद्धर्मपथे स्थितम्।।2.45.26।।",
+      "transliteration": "",
+      "translation": "We are not going to revoke our decision. We have made up our minds to follow you (into the forest). If you have no regard for this decision, then who will adhere to the path of righteousness?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "याचितो नो निवर्तस्व हंसशुक्लशिरोरुहैः।\nशिरोभिर्निभृताचार महीपतनपांसुलैः।।2.45.27।।",
+      "transliteration": "",
+      "translation": "O Rama, you are firm in your duty.We beseech you, our heads bowed with swanwhite hair and soiled with dust, to return to Ayodhya.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "बहूनां वितता यज्ञा द्विजानां य इहागताः।\nतेषां समाप्तिरायत्ता तव वत्स निवर्तने।।2.45.28।।",
+      "transliteration": "",
+      "translation": "Many of those brahmins who arrived here have commenced their sacrifices. O dear child, their consummation depends on your return.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "भक्तिमन्ति हि भूतानि जङ्गमाजङ्गमानि च।\nयाचमानेषु राम त्वं भक्तिं भक्तेषु दर्शय।।2.45.29।।",
+      "transliteration": "",
+      "translation": "O Rama, all these living beings, movable and immovable, are devoted to you and are entreating you with devotion to return. Show consideration to those supplicants.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "अनुगन्तुमशक्ता स्त्वां मूलैरुद्धतवेगिनः।\nउन्नता वायुवेगेन विक्रोशन्तीव पादपाः।।2.45.30।।",
+      "transliteration": "",
+      "translation": "Although the trees uplifted by the speed of the wind, intend to follow you, their movement is stalled by their roots. Unable, they appear to be weeping.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "निश्चेष्टाहारसञ्चारा वृक्षैकस्थानविष्ठिताः।\nपक्षिणोऽपि प्रयाचन्ते सर्वभूतानुकम्पिनम्।।2.45.31।।",
+      "transliteration": "",
+      "translation": "Even the birds instead of foraging for food are sitting motionless on the trees at one place. They are imploring you, you who are compassionate to all creatures, to return to Ayodhya.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "एवं विक्रोशतां तेषां द्विजातीनां निवर्तने।\nददृशे तमसा तत्र वारयन्तीव राघवम्।।2.45.32।।",
+      "transliteration": "",
+      "translation": "While those brahmins were thus crying out, river Tamasa came into view as if seeking  Rama to turn back to Ayodhya.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-45-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "ततः सुमन्त्रोऽपि रथाद्विमुच्य\nश्रान्तान्हयान्सम्परिवर्त्य शीघ्रम्।\nपीतोदकांस्तोयपरिप्लुताङ्गा\nनचारयद्वै तमसाविदूरे।।2.45.33।।",
+      "transliteration": "",
+      "translation": "Then Sumantra also unyoked the fatigued horses from the chariot and quickly allowed  them to roll and relax on the ground. Having made the horses drink and dip  in water, he released them for grazing not far from Tamasa river. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे पञ्चचत्वारिंशस्सर्गः।। Thus ends the fortyfifth sarga of Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

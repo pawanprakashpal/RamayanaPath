@@ -1,0 +1,558 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 34,
+    "title": "Rama,  Sita and Lakshmana take leave of Dasaratha--Dasaratha falls unconscious.",
+    "titleSanskrit": "",
+    "totalShlokas": 60
+  },
+  "shlokas": [
+    {
+      "id": "v2-34-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततः कमलपत्राक्षः श्यामो निरुपमो महान्।\nउवाच राम स्तं सूतं पितुराख्याहि मामिति।।2.34.1।।",
+      "transliteration": "",
+      "translation": "Let my father be informed of my arrival, said the lotuseyed, darkcomplexioned, venerable, peerless Rama to the charioteer.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "स रामप्रेषितः क्षिप्रं सन्तापकलुषेन्द्रियः।\nप्रविश्य नृपतिं सूतो निश्वसन्तं ददर्श ह ।।2.34.2।।",
+      "transliteration": "",
+      "translation": "At the command of Rama, charioteer Sumantra whose senses were overwhelmed with grief quickly entered the apartment of the king and found him heaving sighs.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "उपरक्तमिवादित्यं भस्मच्छन्नमिवानलम्।\nतटाकमिव निस्तोयमपश्यज्जगतीपतिम्।।2.34.3।।",
+      "transliteration": "",
+      "translation": "He saw the lord of the world (Dasaratha) dull like the Sun in eclipse, like the fire  covered with ashes, like a tank with its water dried up.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "आलोक्य तु महाप्राज्ञः परमाकुलचेतसम्।\nराममेवानुशोचन्तं सूतः प्राञ्जलिरासदत्।।2.34.4।।",
+      "transliteration": "",
+      "translation": "Seeing the king brooding over Rama, in an extremely agitated state, the sagacious charioteer approached him with folded hands.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तं वर्धयित्वा राजानं पूर्वं सूतो जयाशिषा।\nभयविक्लबया वाचा मन्दया श्लक्ष्णमब्रवीत्।।2.34.5।।",
+      "transliteration": "",
+      "translation": "At first greeting the king with the words 'victory be yours', the charioteer, trembling with fear, gently said in a feeble voice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अयं स पुरुषव्याघ्रो द्वारि तिष्ठति ते सुतः।\nब्राह्मणेभ्यो धनं दत्वा सर्वञ्चैवोपजीविनाम्।।2.34.6।।",
+      "transliteration": "",
+      "translation": "Your son Rama, the  best of men, having given away his entire wealth in charity to brahmins and to all the dependents is waiting at the entrance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "स त्वा पश्यतु भद्रं ते रामस्सत्यपराक्रमः।\nसर्वान् सुहृद आपृच्छ्य त्वामिदानीं दिदृक्षते।।1.34.7।।",
+      "transliteration": "",
+      "translation": "Be blessed audience may be granted to Rama who possesses proven prowess, and now waits, after taking leave of his friends, to see you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "गमिष्यति महारण्यं तं पश्य जगतीपते।\nवृतं राजगुणै स्सर्वैरादित्यमिव रश्मिभिः।।2.34.8।।",
+      "transliteration": "",
+      "translation": "O Lord of the world behold him embellished with all princely virtues like the Sun encircled with its rays, (now) leaving for the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "स सत्यवादी धर्मात्मा गाम्भीर्यात्सागरोपमः।\nआकाश इव निष्पङ्को नरेन्द्रः प्रत्युवाच तम्।।2.34.9।।",
+      "transliteration": "",
+      "translation": "That truthful and virtuous king (Dasaratha) who was deep like the ocean and free from mud (pure) like the  sky replied:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "सुमंन्त्रानय मे दारान् ये केचिदिह मामकाः।\nदारैः परिवृतस्सर्वैर्द्रष्टुमिच्छामि धार्मिकम्।।2.34.10।।",
+      "transliteration": "",
+      "translation": "O Sumantra bring all my consorts who are here. In the company of all my wives, I desire to give audience to virtuous Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "सोऽन्तःपुरमतीत्यैव स्त्रियस्ता वाक्यमब्रवीत्।\nआर्याह्वयति वो राजा गम्यतां तत्र मा चिरम्।।2.34.11।।",
+      "transliteration": "",
+      "translation": "O venerable ones, king Dasaratha summons you. Go there without delay, said Sumantra to the king's consorts after crossing the inner apartment.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "एवमुक्ताः स्त्रिय स्सर्वाः सुमन्त्रेण नृपाज्ञया।\nप्रचक्रमु स्तद्भवनं भर्तुराज्ञाय शासनम्।।2.34.12।।",
+      "transliteration": "",
+      "translation": "Thus addressed by Sumantra in accordance with the king's order, all the women went to their husband's palace.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "अर्धसप्तशतास्तास्तु प्रमदास्ताम्रलोचनाः।\nकौसल्यां परिवार्याथ शनैर्जग्मुर्धृतव्रताः।।2.34.13।।",
+      "transliteration": "",
+      "translation": "Thereafter, Kausalya surrounded by three hundred and fifty  ladies who were faithful to their vows, reached there slowly with their eyes turned copperred (in grief).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "आगतेषु च दारेषु समवेक्ष्य महीपतिः।\nउवाच राजा तं सूतं सुमन्त्राऽनय मे सुतम्।।2.34.14।।",
+      "transliteration": "",
+      "translation": "Usher in my son (Rama), O Sumantra, said the lord of the world (king Dasaratha) to the charioteer on seeing his wives arrive.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "स सूतो राममादाय लक्ष्मणं मैथिलीं तदा।\nजगामाभिमुखस्तूर्णं सकाशं जगतीपतेः।।2.34.15।।",
+      "transliteration": "",
+      "translation": "Then the charioteer fetched Rama, Lakshmana and Sita and advanced towards the king without delay.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "स राजा पुत्रमायान्तं दृष्ट्वा दूरात्कृताञ्जलिम्।\nउत्पपातासनात्तूर्णमार्त स्त्रीजनसंवृतः।।2.34.16।।",
+      "transliteration": "",
+      "translation": "When the king saw from a distance his son coming with folded hands, he, surrounded by the ladies and tormented with grief, stood up.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "सोऽभिदुद्राव वेगेन रामं दृष्ट्वा विशाम्पतिः।\nतमसंप्राप्य दुःखार्तः पपात भुवि मूर्छितः।।2.34.17।।",
+      "transliteration": "",
+      "translation": "At the sight of Rama, the lord of men (king Dasaratha), tortured with grief, immediately ran towards him but  before he could reach him, fell unconscious on the floor.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तं रामोऽभ्यपतत् क्षिप्रं लक्ष्मणश्च महारथः।\nविसंज्ञमिव दुःखेन सशोकं नृपतिं तदा।।2.34.18।।",
+      "transliteration": "",
+      "translation": "Rama and the mighty warrior Lakshmana, quickly reached the king who lay as though  he had lost his senses due to grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "स्त्रीसहस्रनिनादश्च संजज्ञे राजवेश्मनि।  \nहा हा रामेति सहसा भूषणध्वनिमूर्छितः।।2.34.19।।",
+      "transliteration": "",
+      "translation": "All on a sudden there arose from (the mouths of) a thousand women of the palace cries of 'alas, alas, Rama' mingled with the tinkling sounds of their ornaments.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तं परिष्वज्य बाहुभ्यां तावुभौ रामलक्ष्मणौ।\nपर्यंङ्के सीतया सार्धं रुदन्तः समवेशयन्।।2.34.20।।",
+      "transliteration": "",
+      "translation": "Thereafter Rama and Lakshmana assisted by Sita, lifted him wailing in their arms and laid him on a couch.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "अथ रामो मुहूर्तेन लब्धसंज्ञं महीपतिम्। \nउवाच प्राञ्जलिर्भूत्वा शोकार्णवपरिप्लुतम्।।2.34.21।।",
+      "transliteration": "",
+      "translation": "After the king regained his consciousness in a moment, Rama with folded hands said to him, who was immersed in a sea of sorrow:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "आपृच्छे त्वां महाराज सर्वेषामीश्वरोऽसि नः।\nप्रस्थितं दण्डकारण्यं पश्य त्वं कुशलेन माम्।।2.34.22।।",
+      "transliteration": "",
+      "translation": "O great king, I am asking leave of you, for you are lord of  all of us. I am set to depart  for the Dandaka forest. See me (off) in a cheerful mood.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "लक्ष्मणं चानुजानीहि सीता चान्वेति मां वनम्।\nकारणैर्बहुभि स्तथ्यैर्वार्यमाणौ न चेच्छतः।।2.34.23।।",
+      "transliteration": "",
+      "translation": "Allow Lakshmana and Sita to follow me into the forest. I tried to dissuade them with a number of reasons but they did not agree.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "अनुजानीहि सर्वान्नः शोकमुत्सृज्य मानद।\nलक्ष्मणं मां च सीतां च प्रजापतिरिव प्रजाः।।2.34.24।।",
+      "transliteration": "",
+      "translation": "Discard your grief and, like Brahma, the creator, allow Lakshmana, Sita and me all of us, your subjects, O respector of men",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "प्रतीक्षमाणमव्यग्रमनुज्ञां जगतीपतेः।\nउवाच राजा सम्प्रेक्ष्य वनवासाय राघवम्।।2.34.25।।",
+      "transliteration": "",
+      "translation": "On seeing Rama, unruffled, waiting for his permission to proceed to the forest, the lord of the earth, king Dasaratha said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "अहं राघव कैकेय्या वरदानेन मोहितः।\nअयोध्यायास्त्वमेवाद्य भव राजा निगृह्य माम्।।2.34.26।।",
+      "transliteration": "",
+      "translation": "I have been deluded by Kaikeyi into bestowing boons. Imprison me and be now king of Ayodhya, O scion of the Raghu dynasty",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "एवमुक्तो नृपतिना रामो धर्मभृतां वरः।\nप्रत्युवाचाञ्जलिं कृत्वा पितरं वाक्यकोविदः।।2.34.27।।",
+      "transliteration": "",
+      "translation": "Thus spoken to by the king, Rama, skilled in speech and upholder of righteousness, replied to his father with folded palms:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "भवान्वर्ष सहस्राय पृथिव्या नृपते पतिः।\nअहं त्वरण्येवत्स्यामि न मे कार्यं त्वयाऽनृतम्।।2.34.28।।",
+      "transliteration": "",
+      "translation": "You will remain the lord of this earth for a thousand years to come, O king As for me, I will dwell in the forest. Do not deviate from truth on my account.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "नव पञ्च च वर्षाणि वनवासे विहृत्य ते।\nपुनःपादौ ग्रहीष्यामि प्रतिज्ञान्ते नराधिप।।2.34.29।।",
+      "transliteration": "",
+      "translation": "Having fulfilled the vow on the completion of fourteen years of wandering in the forest I shall come back to touch your feet, O lord of men",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "रुदन्नार्तः प्रियं पुत्रं सत्यपाशेन संयतः।\nकैकेय्या चोद्यमानस्तु मिथो राजा तमब्रवीत्।।2.34.30।।",
+      "transliteration": "",
+      "translation": "The king who was bound by the cord of truth and instigated by Kaikeyi said, wailing in distress:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "श्रेयसे वृद्धये तात पुनरागमनाय च।\nगच्छस्वारिष्टमव्यग्रः पन्थानमकुतोभयम्।।2.34.31।।",
+      "transliteration": "",
+      "translation": "Go, my dear child, wish you wellMay your path be auspicious, free from obstacles and fear (from any quarters). Come back (after fulfilment of the pledge)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "न हि सत्यात्मनस्तात धर्माभिमनस स्तव।\nविनिवर्तयितुं बुद्धिः शक्यते रघुनन्दन।।2.34.32।।",
+      "transliteration": "",
+      "translation": "O my beloved son O delight of the Raghus you are devoted to truth and duty. It is difficult to dissuade you from your resolve .",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "अद्य त्विदानीं रजनीं पुत्र मा गच्छ सर्वथा।\nएकाहदर्शनेनापि साधु तावच्चराम्यहम्।।2.34.33।।",
+      "transliteration": "",
+      "translation": "O son, by all means, do not go now, today, tonight Give me, at least, one day more to see (by with) you to my satisfaction.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "मातरं मां च सम्पश्यन् वसेमामद्य शर्वरीम्।\nतर्पित स्सर्वकामैस्त्वं श्वः काले साधयिष्यसि।।।2.34.34।।",
+      "transliteration": "",
+      "translation": "Stay tonight in the company of your mother and me. With all our desire satisfied, you can set out tomorrow at the appropriate time.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "दुष्करं क्रियते पुत्र सर्वथा राघव त्वया।\nमत्प्रियार्थं प्रियांस्त्यक्त्वा यद्यासि विजनं वनम्।।2.34.35।।",
+      "transliteration": "",
+      "translation": "O my son, O descendant of the Raghus, you are called upon to accomplish, by all means, a very difficult task. For the sake of my pleasure you are forsaking your dear ones and going to the desolate forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "न चैतन्मे प्रियं पुत्र शपे सत्येन राघव।\nछन्नया चलितस्त्वस्मि स्त्रिया छन्नाग्निकल्पया।।2.34.36।।",
+      "transliteration": "",
+      "translation": "I swear by truth, O my beloved son, that your departure to the forest is in no way a pleasure to me. With a hidden motive, this woman who is like fire  concealed by ashes has duped me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "वञ्चना या तु लब्धा मे तां त्वं निस्तर्तुमिच्छसि।\nअनया वृत्तसादिन्या कैकेय्याऽभिप्रचोदितः।।.2.34.37।।",
+      "transliteration": "",
+      "translation": "Instigated by this Kaikeyi, the destroyer of traditions (of the race) I have been deceived for which you wish to pay.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "न चैतदाश्चर्यतमं यत्तज्येष्ठस्सुतो मम।\nअपानृतकथं पुत्र पितरं कर्तुमिच्छसि।।2.34.38।।",
+      "transliteration": "",
+      "translation": "It is not a great surprise that you, O my son, being the eldest, want to make your father free from a false promise.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "अथ रामस्तथा श्रुत्वा पितुरार्तस्य भाषितम्।\nलक्ष्मणेन सह भ्रात्रा दीनो वचनमब्रवीत्।।2.34.39।।",
+      "transliteration": "",
+      "translation": "Rama and Lakshmana were sad to hear the words of their anguished father. Rama replies:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "प्राप्स्यामि यानद्य गुणान्को मे श्वस्तान् प्रदास्यति।\nअपक्रमणमेवातः सर्वकामैरहं वृणे।।2.34.40।।",
+      "transliteration": "",
+      "translation": "Who will give me the merit (of propriety) I earn today? Therefore, I want to depart (today), discarding all my desires.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "इयं सराष्ट्रा सजना धनधान्यसमाकुला। \nमया विसृष्टा वसुधा भरताय प्रदीयताम्।।2.34.41।।",
+      "transliteration": "",
+      "translation": "The kingdom abdicated by me with all its people, its wealth and foodgrains may be bestowed on Bharata.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "वनवासकृता बुद्धिर्न च मेऽद्य चलिष्यति।\nयस्तुष्टेन वरो दत्तः कैकेय्यै वरद त्वया।।2.34.42।।\nदीयतां निखिलेनैव सत्यस्त्वं भव पार्थिव।",
+      "transliteration": "",
+      "translation": "My decision to go to the forest remains unchanged. O bestower of boons, O king  honour to the last word the boons you had granted Kaikeyi. And adhere to truth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "अहं निदेशं भवतो यथोक्तमनुपालयन्।।2.34.43।।\nचतुर्दश समा वत्स्ये वने वनचरैस्सह।",
+      "transliteration": "",
+      "translation": "As already said, I shall dwell in the forest for fourteen years with forest rangers, in obedience to your commands.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "मा विमर्शो वसुमती भरताय प्रदीयताम्।।2.34.44।।\nन हि मे काङ्क्षि��ं राज्यं सुखमात्मनि वा प्रियम्।\nयथानिदेशं कर्तुं वै तवैव रघुनन्दन।।2.34.45।।",
+      "transliteration": "",
+      "translation": "Do not brood. Bestow the kingdom on Bharata. I do not have any desire for the kingdom or pleasure. Nothing is dearer to me than compliance with your order, O Delight of the Raghu race",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "अपगच्छतु ते दु:खं माभूर्बाष्पपरिप्लुतः।\nन हि क्षुभ्यति दुर्धर्षः समुद्रः सरितां पतिः।।2.34.46।।",
+      "transliteration": "",
+      "translation": "Let your grief go. Do not shed tears. The indomitable ocean, Lord of rivers, is never perturbed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "नैवाहं राज्यमिच्छामि न सुखं न च मेदिनीम्।\nनैव सर्वानिमान् कामा न्नस्वर्गं नैव जीवितम्।।2.34.47।।",
+      "transliteration": "",
+      "translation": "I desire no kingdom, no comfort, not this earth nor any pleasure nor heaven nor even life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "त्वामहं सत्यमिच्छामि नानृतं पुरुषर्षभ।\nप्रत्यक्षं तव सत्येन सुकृतेन च ते शपे।।2.34.48।।",
+      "transliteration": "",
+      "translation": "I wish you, O best of men, to uphold truth and not falsehood. I swear this in your presence in the name of truth and on my merits acquired.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "न च शक्यं मया तात स्थातुं क्षणमपि प्रभो।   \nस शोकं धारयस्वेमं न हि मेऽस्ति विपर्ययः।।2.34.49।।",
+      "transliteration": "",
+      "translation": "It is not possible for me, O father to stay here for a moment any longer. Restrain your grief. There can be no change in my resolve, O king",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "अर्थितो ह्यस्मि कैकेय्या वनं गच्छेति राघव।\nमया चोक्तं व्रजामीति तत्सत्यमनुपालये।।2.34.50।।",
+      "transliteration": "",
+      "translation": "'O Rama, go to the forest', Kaikeyi had said, and I have given her word I would go. I must fulfil my promise.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "मा चोत्कण्ठां कृथा देव वने रंस्यामहे वयम्।\nप्रशान्तहरिणाकीर्णे नानाशकुनिनादिते।।2.34.51।।",
+      "transliteration": "",
+      "translation": "Do not worry, O Lord We will enjoy (our stay in) the peaceful forest full of deer and resounding with the chirpings of various birds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "पिता हि दैवतं तात देवतानामपि ��्मृतम्।\nतस्माद्दैवतमित्येव करिष्यामि पितुर्वचः।।2.34.52।।",
+      "transliteration": "",
+      "translation": "Father is divine even for the gods as cited in scriptures, therefore, looking upon father as my god, I will carry out his words, O father",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "चतुर्दशसु वर्षेषु गतेषु नरसत्तम।\nपुनर्द्रक्ष्यसि मां प्राप्तं सन्तापोऽयं विमुच्यताम्।।2.34.53।।",
+      "transliteration": "",
+      "translation": "I shall return after fourteen years have passed, O best among men you will see me  back, Give up this grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "येन संस्तम्भनीयोऽयं सर्वो बाष्पगलो जनः।\nस त्वं पुरुषशार्दूल किमर्थं विक्रियां गतः।।2.34.54।।",
+      "transliteration": "",
+      "translation": "When you, O tiger among men, are required (as king) to pacify those whose throats are choked with tears, why this change in you?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-54",
+      "number": 54,
+      "type": "shloka",
+      "original": "पुरं च राष्ट्रं च मही च केवला\nमया निसृष्टा भरताय दीयताम्।\nअहं निदेशं भवतोऽनुपालयन्\nवनं गमिष्यामि चिराय सेवितुम्।।2.34.55।।",
+      "transliteration": "",
+      "translation": "I am renouncing this city, kingdom and this entire earth, and let all this be conferred on Bharata. In obedience to your order, I shall go and live in the forest for a long time.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-55",
+      "number": 55,
+      "type": "shloka",
+      "original": "मया निसृष्टां भरतो महीमिमां\nसशैलषण्डां सपुरां सकाननाम्। \nशिवां सुसीमामनुशास्तु केवलं\nत्वया यदुक्तं नृपते तथास्तु तत्।।2.34.56।।",
+      "transliteration": "",
+      "translation": "I am leaving behind, O king this (auspicious) land with its welllaid boundaries, mountain ranges, cities and forests, which Bharata alone should rule. Let it happen the way you have said.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-56",
+      "number": 56,
+      "type": "shloka",
+      "original": "न मे तथा पार्थिव धीयते मनो \nमहत्सु कामेषु न चात्मनःप्रिये।\nयथा निदेशे तव शिष्टसम्मते\nव्यपैतु दुःखं तव मत्कृतेऽनघ।।2.34.57।।",
+      "transliteration": "",
+      "translation": "O king my mind derives no happiness from great enjoyment or personal comfort as it does from carrying out your order. This is corroborated by the wise. Your grief (relating to filfilment of the vow) on mt account will be dispelled, O sinless one",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-57",
+      "number": 57,
+      "type": "shloka",
+      "original": "तदद्य नैवानघ राज्यमव्ययं\nन सर्वकामान्न सुखं न मैथिलीम्।\nन जीवितं त्वामनृतेन योजयन्\nवृणीय सत्यं व्रतमस्तु ते तथा।।2.34.58।।",
+      "transliteration": "",
+      "translation": "O sinless one by associating you with falsehood I will neither seek this eternal kingdom nor objects of desires nor objects of happiness nor Maithili nor even my life. I only wish that your vow comes true.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-58",
+      "number": 58,
+      "type": "shloka",
+      "original": "फलानि मूलानि च भक्षयन्वने\nगिरींश्च पश्यन् सरितस्सरांसि च।\nवनं प्रविश्यैव विचित्रपादपम्\nसुखी भविष्यामि तवास्तु निर्वृतिः।।2.34.59।।",
+      "transliteration": "",
+      "translation": "Entering the forest full of various kinds of trees I shall be happy to view the mountains, rivers and the lakes and to eat fruits and roots. (Hence) do not grieve.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-59",
+      "number": 59,
+      "type": "shloka",
+      "original": "एवं स राजा व्यसनाभिपन्नः\nशोकेन दुःखेन च ताम्यमानः।\nआलिङ्ग्य पुत्रं सुविनष्टसंज्ञो\nमोहं गतो नैव चिचेष्ट किंञ्चित्।।2.34.60।।",
+      "transliteration": "",
+      "translation": "The king, immersed in anguish and distressed with tears of grief embraced his son and then fell down unconscious on the floor and lay motionless.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-34-60",
+      "number": 60,
+      "type": "shloka",
+      "original": "देव्यस्तत स्संरुरुदुस्समेता \nस्तां वर्जयित्वा नरदेवपत्नीम्।\nरुदन् सुमन्त्रोऽऽपि जगाम मूर्छां\nहाहाकृतं तत्र बभूव सर्वम्।।2.34.61।।",
+      "transliteration": "",
+      "translation": "Thereupon all the queens except Kaikeyi, wailed loudly. Sumantra, too, cried and fell unconscious. The entire palace cried 'Alas, Alas'.   इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे चतुस्त्रिंशस्सर्गः।। Thus ends the thirtyfourth sarga in Ayodhyakanda of the  holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 27,
+    "title": "Saarana describes the strength of the heroes of Vanara army to Ravana",
+    "titleSanskrit": "",
+    "totalShlokas": 26
+  },
+  "shlokas": [
+    {
+      "id": "v6-27-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तांस्तुतेऽहंप्रवक्ष्यामिप्रेक्षमाणस्ययूथपान् ।\nराघवार्थेपराक्रान्तायेनरक्षन्तिजीवितम् ।।6.27.1।।",
+      "transliteration": "",
+      "translation": "\"I will describe the Vanara force, who are not caring for their lives for the cause of Raghava. You may see.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-27-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "स्निग्धायस्यबहुव्यामावालालाङ्गूलमाश्रिताः ।\nताम्राःपीतास्सिताश्श्वेताःप्रकीर्णाघोरकर्मणः ।।6.27.2।।\nप्रगृहीताःप्रकाशन्तेसूर्यस्येवमरीचयः ।\nपृथिव्यांचानुकृष्यन्तेहरोनामैषयूथपः ।।6.27.3।।",
+      "transliteration": "",
+      "translation": "\"One who is of terrific action, whose long tail with plenty of hair of different colours like red, white, yellow with shining ends shining like the scattered rays of the rising sun is holding and dragging on the ground is a leader known as Hara.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-27-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "यंपृष्ठतोऽनुगच्छन्तिशतशोऽथसहस्रशः ।\nद्रुमानुद्यम्यसहसालङ्कारोहणतत्पराः ।।6.27.4।।\nयूथपाहरिराजस्यकिङ्करास्समुपस्थिताः ।",
+      "transliteration": "",
+      "translation": "\"Standing in attention near Sugriva are hundreds and thousands of warriors holding huge trees aspiring to climb Lanka and controlling the Vanaras at the back prominently and following.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-27-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "नीलानिवमहामेघांस्तिष्ठतोयांस्तुपश्यसि ।।6.27.5।।\nअसिताञ्जनसङ्काशान् युद्धेसत्यपराक्रमान् ।\nअसङ् ख्येयाननिर्देश्यान्परंपारमिवोदधेः ।।6.27.6।।\nपर्वतेषुचयेकेचिद्विषमेषुनदीषुच ।\nएतेत्वामभिवर्तन्तेराजन्नृक्षास्सुदारुणाः ।।6.27.7।।",
+      "transliteration": "",
+      "translation": "\"O King! Standing like dark clouds, black in colour like collyrium, who are of unfailing valour in war, innumerable in numbers, like the small particles of sand on the other bank of ocean, who cannot be counted are moving towards you. They are from mountains, riverbanks, and difficult locations. Those highly ferocious Bears are advancing towards you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-27-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "एषांमध्येस्थितोराजन्भीमाक्षोभीमदर्शनः ।\nपर्जन्यइवजीमूतैस्समन्तात्परिवारितः ।।6.27.8।।\nऋक्षवन्तंगिरिश्रेष्ठमध्यास्तेनर्मदांपिबन् ।\nसर्वऋक्षाणामधिपतिर्धूम्रोनामैषयूथपः ।।6.27.9।।",
+      "transliteration": "",
+      "translation": "\"O king! In the midst of these (Vanaras) stands one with frightening eyes and fearful looks, just like Parjanya (RainGod) is surrounded by clouds, is the Lord of all these Bears called Dhumra. He dwells at the great Rkshavana mountain drinking Narmada's (river) water.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-27-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "यवीयानस्यतुभ्रातापश्यैनंपर्वतोपमम् ।\nभ्रात्रासमानोरूपेणविशिष्टस्तुपराक्रमैः ।।6.27.10।।\nसएषजाम्बवान्नाममहायूथपयूथपः ।\nप्रक्रान्तोगुरुवर्तीचसम्प्रहारेष्वमर्षण ।।6.27.11।।",
+      "transliteration": "",
+      "translation": "\"See this one like a mountain, he is the brother of Dhumra. Even though he is similar to his brother in body form and his valour is great. As such he is superior among leaders. He is called Jambavan, one of valourous deeds, devoted to elders and intolerant in killing.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-27-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "एतेनसाह्यंसुमहत्कृतंशक्रस्यधीमता ।\nदेवासुरेजाम्बवतालब्धाश्चबहवोवराः ।।6.27.12।।",
+      "transliteration": "",
+      "translation": "\"His assistance was given to Indra in the war between Devas and demons and in turn he obtained many boons.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-27-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "आरुह्यपर्वताग्रेभ्योमहाभ्रविपुला: शिलाः ।\nमुञ्चन्तिविपुलाकारानमृत्योरुद्विजन्तिच ।।6.27.13।।\nराक्षसानांचसदृशाःपिशाचानांचरोमशाः ।\nएतस्यसैन्याबहवोविचरन्त्यग्नितेजसः ।।6.27.14।।",
+      "transliteration": "",
+      "translation": "Appearing with hairybody glowing like fire like the Rakshasas and demons, many of them in huge form are climbing mountain peaks without caring for death and go about throwing rocks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-27-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "यंत्वेनमभिसम्रब्धंप्लवमानमिवस्थितम् ।\nप्रेक्षन्तेवानरास्सर्वेस्थितायूथपयूथपम् ।।6.27.15।।\nएषराजन् सहस्राक्षंपर्युपास्तेहरीश्वरः ।\nबलेनबलसम्पन्नोदम्भोनामैषयूथपः ।।6.27.16।।",
+      "transliteration": "",
+      "translation": "\"O king! This Lord of monkeys, whom whether he is jumping like monkeys or standing is the leader of the leaders, whom the monkeys are looking at standing is called Dhamba, a mighty powerful, fearsome leader and Lord of monkeys. He is surrounded by a strong army like the thousand eyed Indra.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-27-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "यःस्थितंयोजनेशैलंगच्छन्पार्श्वेनसेवते ।\nऊर्ध्वंतथैवकायेनगतःप्राप्नोतियोजनम् ।।6.27.17।।\nयस्मान्नपरमंरूपंचतुष्पादेषुविद्यते ।\nश्रुतस्संन्नादनोनामवानराणांपितामहाः ।।6.27.18।।\nयेनयुद्धंपुरादत्तंरणेशक्रस्यधीमता ।\nपराजयश्चनप्राप्तस्सोऽयंयूथपयूथपः ।।6.27.19।।",
+      "transliteration": "",
+      "translation": "\"He who stands at one yojana touches a mountain with his flanks, so also gets up and reaches a yojana height with his body, is Sannadana. He is the grandfather of Vanaras. There is no one who has a bigger body size than him among the four legged ones. He had fought war with Indra and is well known for not losing in the battle.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-27-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "यस्यविक्रममाणस्यशक्रस्येवपराक्रमः ।\nएषगन्धर्वकन्यायामुत्पन्नःकृष्णवर्त्मनः ।।6.27.20।।\nतदादेवासुरेयुद्धेसाह्यार्थंत्रिदिवौकसाम्",
+      "transliteration": "",
+      "translation": "\"His valour is equal to that of Indra. He is born to Gandharva, a maiden of the god of fire. He was created for the sake of assisting gods in the war between gods and demons.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-27-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "यस्यवैश्रवणोराजाजम्बूमुपनिषेवते ।।6.27.21।।\nयोराजापर्वतेन्द्राणांबहुकिन्नरसेविनाम् ।\nविहारसुखदोनित्यंभ्रातुस्तेराक्षसाधिप ।।6.27.22।।\nतत्रैषवसतिश्रीमान्बलवान्वानरर्षभः ।\nयुद्धेष्वकत्थनोनित्यंक्रोधनोनामयूथपः ।।6.27.23।।",
+      "transliteration": "",
+      "translation": "\"O King of Rakshasas! This Vanara who is exceptional among Vanaras, a commander of troops by name Krathana, who is not boastful in wars, lives on Kailas, the king of mountains which is frequented by many Kinnaras, on which your brother king Kubera son of Vysravana stays under Jambu tree and strolls for his pleasure.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-27-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "वृतःकोटिसहस्रेणहरीणांसमुपस्थितः ।\nएषैवाशंसतेलङ्कांस्वेनानीकेनमर्दितुम् ।।6.27.24।।",
+      "transliteration": "",
+      "translation": "\"He is surrounded with thousand crores of his Vanara force and with his own force he intends to crush Lanka.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-27-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "योगङ्गामनुपर्येतित्रासयन्गजयूथपान् ।\nहस्तिनांवानराणांचपूर्ववैरमनुस्मरन् ।।6.27.25।।\nएषयूथपतिर्नेतागच्छन् गिरिगुहाशयः ।\nगजान्योधयतेवन्यान्गिरींश्चैवमहीरुहान् ।।6.27.26।।",
+      "transliteration": "",
+      "translation": "\"There is one who roams around Ganga, frightening herds of elephants, remembering the earlier enmity between elephants and Vanaras. This leader of commanders goes about mountain caves, trees and mountains waging war with elephants.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-27-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "हरीणांवाहिनीमुख्योनदींहैमवतीमनु ।\nउशीरबीजमाश्रित्यपर्वतंमन्दरोपमम् ।।6.27.27।।\nरमतेवानरश्रेष्ठोदिविशक्रइवस्वयम् ।",
+      "transliteration": "",
+      "translation": "\"The chief of the army of monkeys and the excellent one among Vanaras revels on the mountain Usirabeejam like the mountain Mandara on the bank of river Hymavathi just as Indra in heaven.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-27-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "एनंशतसहस्राणांसहस्रमनुवर्तते ।\nवीर्यविक्रमदृप्तानांनर्दतांबलशालिनाम् ।।6.27.28।।",
+      "transliteration": "",
+      "translation": "\"Thousand lakhs of mighty strong Vanaras who are proud of their valour and prowess roaring like lions follow him.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-27-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "सएषनेताचैतेषांवानराणांमहात्मनाम् ।\nसएषदुर्धरोराजन्प्रमाथीनामयूथपः ।।6.27.29।।",
+      "transliteration": "",
+      "translation": "\"He alone is the leader of the great Vanaras, O king. He is called Pramathi, a commander and a difficult one to resist.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-27-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "वातेनेवोद्धतंमेघंयमेनमनुपश्यसि ।\nअनीकमभिसंरब्धंवानराणांतरस्विनाम् ।।6.27.30।।\nउद्दूतमरुणाभासंपवनेनसमन्ततः ।\nविवर्तमानंबहुधायत्रैतद्बहुळंरजः ।।6.27.31।।",
+      "transliteration": "",
+      "translation": "\"You see him (Pramathi) who resembles a cloud risen up by the wind you may also see the reddish brown dust particles lifted up by excessive whirling of the wind all over and also the furious Vanara army moving swiftly.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-27-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "एतेऽसितमुखाघोरागोलाङ्गूलामहाबलाः ।\nशतंशतहस्राणिदृष्ट्वावैसेतुबन्धनम् ।।6.27.32।।\nगोलाङ्गूलंमहावेगंगवाक्षंनामयूधपम् ।\nपरिवार्याभिवर्तन्तेलङ्कांमर्दितुमोजसा ।।6.27.33।।",
+      "transliteration": "",
+      "translation": "\"These hundred and hundred thousand black monkeys with a tail like that of a cow called Golangulas, endowed with black coloured face, fearsome and with extraordinary strength, watching the bridge constructed, surround Gavaksha the leader, who himself is a Golangula and of great speed. They intend to demolish Lanka with their vigour.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-27-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "भ्रमराचरितायत्रसर्वकालफलद्रुमाः ।।6.27.34।।\nयंसूर्यस्तुल्यपर्णाभमनुपर्येतिपर्वतम् ।\nयस्यभासासदाभान्तितद्वर्णामृगपक्षिणः ।।6.27.35।।\nयस्यप्रस्थंमहात्मानोनत्यजन्तिमहर्षयः ।\nसर्वकालफलावृक्षास्सदाफलसमन्विताः ।।6.27.36।।\nमधूनिचमहार्हाणियस्मिन्पर्वतसत्तमे ।\nतत्रैवरमतेराजन्रम्येकाञ्चनपर्वते ।।6.27.37।।\nमुख्योवानरमुख्यानांकेसरीनामयूथपः ।",
+      "transliteration": "",
+      "translation": "\"O king! Where the trees give fruit in all seasons which is inhabited by honeybees, whose leaves shine similar to that of Sunshine, where birds animals and all ever shining in golden colour of the Sun, where sages and great souls reside without leaving where trees always yield tasty fruits and have valuable honey in such a delightful golden mountain Vanara leader named Kesari, the chief of all chief Vanaras revels.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-27-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "षष्टिर्गिरिसहस्राणांरम्याःकाञ्चनपर्वता ।।6.27.38।।\nतेषांमध्येगिरिवरस्त्वमिवानघरक्षसाम् ।\nतत्रैतेकपिलाश्श्वेतास्ताम्रास्यामधुपिङ्गलाः ।।6.27.39।।\nनिवसन्त्युत्तमगिरौतीक्ष्णदंष्ट्रानखायुधाः ।\nसिंहाइवचतुर्दंष्ट्राव्याघ्राइवदुरासदाः ।।6.27.40।।\nसर्वेवैश्वानरसमाज्वलिताशीविषोपमाः ।\nसुदीर्घाञ्चितलाङ्गूलामत्तमातङ्गसन्निभाः ।।6.27.41।।\nमहापर्वतसङ्काशामहाजीमूतनिस्स्वनाः ।\nवृत्तपिङ्गलरक्ताक्षाभीमाभीमगतिस्वराः ।।6.27.42।।\nमर्दयन्तीवतेसर्वेतस्थुर्लङकासमीक्ष्यते ।",
+      "transliteration": "",
+      "translation": "\"O sinless king! there are sixty thousand golden mountains. In the midst of them is this golden mountain just as you are in the midst of the Rakshasas. On the last mountain the Vanaras with brown coloured face, white face, coppery red face and yellow face like honey with sharp teeth like lions, who have nails as weapons, four toothed ones like lions, fearsome ones like tiger, dangerous to approach, all of them like serpents with flaming venomous tongues, with long uplifted tails, like huge elephants in rut in mountain size, roaring like lions, thundering clouds, with round brownish red eyed ones, fearful while walking and causing appalling uproar all of them dwell on the last mountain. They are watching to demolish your Lanka as they look at it.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-27-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "एषचैषामधिपतिर्मध्येतिष्ठतिवीर्यवान् ।।6.27.43।।\nजयार्थीनित्यमादित्यमुपतिष्ठतिबुद्धिमान् ।\nनाम्नापृथिव्यांविख्यातोराजन् शतबलीतियः ।।6.27.44।।\nएषैवाशंसतेलङ्कांस्वेनानीकेनमर्दितुम् ।",
+      "transliteration": "",
+      "translation": "\"O king! He who is known as Satabali, is a famous one on the earth, is a valiant hero, a leader. He stands in the middle aspiring for victory ever worshipping Sun. He alone with his army is intending to demolish Lanka.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-27-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "विक्रान्तोबलवान् शूरःपौरुषेस्वेव्यवस्थितः ।\nरामप्रियार्थंप्राणानांदयांनकुरुतेहरिः ।।6.27.45।।",
+      "transliteration": "",
+      "translation": "\"He is indomitable, strong and heroic. He will not give up his virility. For the pleasure of Rama, he will not feel pity for his life (he will give up his life).\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-27-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "गजोगवाक्षोगवयोनलोनीलश्चवानरः ।\nएकैकएवयोधानांकोटीभिर्दशभिर्वृतः ।।6.27.46।।",
+      "transliteration": "",
+      "translation": "\"Gaja, Gavaksha, Gavaya, Nila each of these Vanara leaders have ten crores of army under them.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-27-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तथाऽऽन्येवानरश्रेष्ठाविन्ध्यपर्वतवासिनः ।\nनशक्यन्तेबहुत्वात्तुसङ् ख्यातुंलघुविक्रमाः ।।6.27.47।।",
+      "transliteration": "",
+      "translation": "\"So also, those best of Vanaras of many kinds residing in Vindhya mountain of great valour in large numbers is impossible to count.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-27-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "सर्वेमहाराजमहाप्रभावास्सर्वेमहाशैलनिकाशकायाः ।\nसर्वेसमर्थापृथिवींक्षणेनकर्तुंप्रविध्वस्तविकीर्णशैलाम् ।।6.27.48।।",
+      "transliteration": "",
+      "translation": "\"O, Monarch! All of them are highly prominent, their stature equal to high hills and all of them are capable of levelling the earth by uprooting and razing its mountains to the ground in a moment.\" ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्ड���सप्तविंशस्सर्गः ।। This is the end of the twenty seventh sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

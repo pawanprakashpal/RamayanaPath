@@ -1,0 +1,396 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 43,
+    "title": "In the course of conflict between Rakshasas and Vanaras Angada fights with Indrajith. Other Rakshasas are lopped off by Rama and Nikumbha by Neela. Sushena kills Vidyunmali.",
+    "titleSanskrit": "",
+    "totalShlokas": 42
+  },
+  "shlokas": [
+    {
+      "id": "v6-43-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "युध्यतांतुततस्तेषांवानराणांमहात्मनाम् ।\nरक्षसांसम्बभूवाथबलकोपस्सुदारुणः ।।6.43.1।।",
+      "transliteration": "",
+      "translation": "Thereafter the gigantic army of Vanaras were fighting with exceedingly terrific Rakshasas and the anguished Rakshasas could not tolerate the sight.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तेहयैःकाञ्चनापीडैर्ध्वश्चाग्निशिखोपमैः ।\nरथैश्चादित्यसङ्काशैःकवचैश्चमनोरमैः ।।6.43.2।।\nनिर्ययूराक्षसव्याघ्रानादयन्तोदिशोदश ।\nराक्षसाभीमकर्माणोरावणस्यजयैषिणः ।।6.43.3।।",
+      "transliteration": "",
+      "translation": "Wishing victory for Ravana, the tiger among ogres, the Rakshasas of terrific deeds sallied forth accompanied by horses with golden trappings and seizing posts, which were like flames of fire shining like the sun's rays on the chariots and delightful shields, roaring resounding in all the ten directions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "वानराणामपिचमूर्बृहतीजयमिच्छताम् ।\nअभ्यधावततांसेनांरक्षसांकामरूपिणम् ।।6.43.4।।",
+      "transliteration": "",
+      "translation": "Wishing triumph even the powerful army of powerful Vanaras of terrific deeds went ahead to fight with Rakshasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "एतस्मिन्नन्तरेतेषामन्योन्यमभिधावताम् ।\nरक्षसांवानराणांचद्वन्द्वयुद्धमवर्तत ।।6.43.5।।",
+      "transliteration": "",
+      "translation": "At that time the Vanaras and Rakshasas facing each other started a dual fight.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "अङ्गदेन्द्रजित्सार्धंवालिपुत्रेणराक्षसः ।\nआयुध्यतमहातेजास्त्ऱ्यम्बकेणयथाऽन्तकः ।।6.43.6।।",
+      "transliteration": "",
+      "translation": "Indrajith, an exceedingly brilliant Rakshasa, contended with Angada, son of Vali just like Lord Siva with and haka, the Lord of death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "प्रजङ्घेनचसम्पातिर्नित्यंदुर्मर्षणोरणे ।\nजम्बुमालिनमारब्धोहनुमानपिवानरः ।।6.43.7।।",
+      "transliteration": "",
+      "translation": "Sampathi , who is invariably difficult to encounter in war fought with Prajangha, and Hanuman started with Jambumali.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "संगतस्तुमहाक्रोधोराक्षसोरावणानुजः ।\nसमरेतीक्ष्णवेगेनमित्रघ्नेनविभीषणः ।।6.43.8।।",
+      "transliteration": "",
+      "translation": "Highly furious Rakshasa, Vibheeshana, brother of Ravana fought with Rakshasa, Mitraghna.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तपनेनगजस्स��र्धंराक्षसेनमहाबलः ।\nनिकुम्भेनमहातेजानीलोऽपिसमयुध्यत ।।6.43.9।।",
+      "transliteration": "",
+      "translation": "Gaja of great strength fought with Rakshasa Tapa, and highly energetic Neela fought with Nikumbha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "वानरेन्द्रस्तुसुग्रीवःप्रघसेनसमागतः ।\nसङ्गतःसमरेश्रीमान्विरूपाक्षेणलक्ष्मणः ।।6.43.10।।",
+      "transliteration": "",
+      "translation": "Sugriva the Lord of Vanaras fought with Praghana and prosperous Lakshmana fought with Virupaksha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अग्निकेतुश्चसुदुर्धर्षोरश्मिकेतुश्चराक्षसः ।\nसुप्तघ्नोयज्ञकोपश्चरामेणसहसङ्गताः ।।6.43.11।।",
+      "transliteration": "",
+      "translation": "Agnikethu, a Rakshasa who is difficult to win over, Rasmikethu, Suptaghna and Yajnakepu waged war with Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "वज्रमुष्टिस्तुमैन्देनद्विविदेनाशनिप्रभः ।\nराक्षसाभ्यांसुघोराभ्यांकपिमुख्यौसमागतौ ।।6.43.12।।",
+      "transliteration": "",
+      "translation": "Vajramushti with Mainda and Asaniprabhu with Dwivida, the chief of monkeys, fought with the two Rakshasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "वीरःप्रतपनोघोरोराक्षसोरणदुर्धरः ।\nसमरेतीक्ष्णवेगेननळेनसमयुध्यत ।।6.43.13।।",
+      "transliteration": "",
+      "translation": "Heroic and dreadful Pratapana, who is indomitable in the battle, fought with Nala endowed with high speed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "धर्मस्यपुत्रोबलवान्सुषेणइतिविश्रुतः ।\nसविद्युन्मालिनासार्धमयुध्यतमहाकपिः ।।6.43.14।।\nवानराश्चापरेभीमाराक्षसैरपरैस्सह ।\nद्वन्द्वंसमीयुस्सहसायुद्धायबहुभिस्सह ।।6.43.15।।",
+      "transliteration": "",
+      "translation": "Mighty Sushena, the righteous son fought with well known Vidyunmali. And fierce monkeys and Rakshasas fought in dual war with each other.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तत्रासीत्सुमहद्युद्धंतुमुलंरोमहर्षणम् ।\nरक्षसांवानराणांचवीराणांजयमिच्छताम् ।।6.43.16।।",
+      "transliteration": "",
+      "translation": "Fierce war which made hair stand on end happened there, with the heroic Rakshasas and Vanaras longing for victory.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "हरिराक्षसदेहेभ्यःप्रभूताःकेशशाद्वलाः ।\nशरीरसङ्घाटावहाःप्रसुस्रुश्शोणितापगाः ।।6.43.17।।",
+      "transliteration": "",
+      "translation": "In that war, the streams of blood that flowed from the bodies of Vanaras and Rakshasas were strewn like weeds in the form of hair, bearing logs of wood in the form of dead bodies.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अजघानेन्द्रजित्क्रुद्धोवज्रेणेवशतक्रतुः ।\nअङ्गदंगदयावीरंशत्रुसैन्यविदारणम् ।।6.43.18।।",
+      "transliteration": "",
+      "translation": "Enraged, Indrajith struck Angada with his mace, the destroyer of hostile forces which was like Indra who had done a hundred sacrifices, would strike with his thunderbolt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तस्यकाञ्चनचित्राङ्गंरथंसाश्वंससारथिम् ।\nजघानसमरेश्रीमानङ्गदोवेगवान्कपिः ।।6.43.19।।",
+      "transliteration": "",
+      "translation": "With the same mace (snatched from the Rakshasa) Angada swiftly struck Indrajit hand destroyed the horse, chariot, and charioteer.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "सम्पातिस्तुत्रिभिर्भाणैःप्रजङ्घेनसमाहतः ।\nनिजघानश्वकर्णेनप्रजङ्घंरणमूर्धनि ।।6.43.20।।",
+      "transliteration": "",
+      "translation": "While Prajangha injured Sampathi with three arrows, in turn Sampathi killed him with Aswakarna tree in the midst of war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "जम्बुमालीरथस्थस्तुरथशक्त्यामहाबलः ।\nबिबेदसमरेक्रुद्धोहनूमन्तंस्तनान्तरे ।।6.43.21।।",
+      "transliteration": "",
+      "translation": "Jambumali of extraordinary might mounting on the chariot in the battle pierced Hanuman in his chest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तस्यतंरथमास्थायहनूमान् मारुतात्मजः ।\nप्रममाथतलेनाशुसहतेनैवरक्षसा ।।6.43.22।।",
+      "transliteration": "",
+      "translation": "Hanuman the son of wind god, getting on to the chariot quickly destroyed that Rakshasa Jambumali with his palm.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "नदन् प्रतपनोघोरोनलंसोप्यन्वधावत ।\nनलःप्रतपनस्याशुपातयामासचक्षुषी ।।6.43.23।।",
+      "transliteration": "",
+      "translation": "Dreadful Pratapan roared and jumped over Nala. Nala in turn gouged out the eyes of Pratapan.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "भिन्नगात्रश्शरैस्तीक्ष्णैःक्षिप्रहस्तेनरक्षसा ।\nग्रसन्तमिवसैन्यानिप्रघसंवानराधिपः ।।6.43.24।।\nसुग्रीवस्सप्तपर्णेननिर्भिभेदजघानच ।",
+      "transliteration": "",
+      "translation": "Sugriva, the Vanara leader, taking hold of Sapataparni tree hit Pratapan who had his mouth open as if to swallow the army and killed him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "अग्निकेतुश्चदुर्धर्षोरश्मिकेतुश्चराक्षसः ।।6.43.25।।\nसुप्तघ्नोयज्ञकोपश्चरामंनिर्भिभिदुश्शरैः ।",
+      "transliteration": "",
+      "translation": "Even Agnikethu who is difficult to attack, Rakshasas Rasmikethu, also Mitarghna and Yajakopa mangled Sri Rama with arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "तेषांचतुर्णांरामस्तुशिरांसिनिशितैश्शरैः ।\nक्रुद्धश्चतुर्भिश्चिच्छेदघोरैरग्निशिखोपमैः ।।6.43.26।।",
+      "transliteration": "",
+      "translation": "Raged Rama with his sharp arrows which were like flames of fire destroyed all the four Rakshasas by cutting their heads.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "वज्रमुष्टिस्तुमैन्देनमुष्टिनानिहतोरणे ।\nपपातसरथस्साश्वःपुराट्टइवभूतले ।।6.43.27।।",
+      "transliteration": "",
+      "translation": "Even Vajramushti fell on the ground struck with the fist by Mainda and the chariot and charioteer fell like the fort.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "निकुम्बस्तुरणेनीलंनीलाञ���जनचयप्रभम् ।\nनिर्बिभेदशरैस्तीक्ष्णैःकरैर्मेघमिवांशुमान् ।।6.43.28।।",
+      "transliteration": "",
+      "translation": "Just as the Sun 's rays pierced through clouds Nikumbha was shattered and fell like a mass of collyrium in the battlefield.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "पुनश्शरशतेनाथक्षिप्रहस्तोनिशाचरः ।\nबिभेदसमरेनीलंनिकुम्भःप्रजहासच ।।6.43.29।।",
+      "transliteration": "",
+      "translation": "Nikumbha, the night ranger who was endowed with speed in shooting arrows again shot with a thousand arrows and laughed heartily.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "तस्यैवरथचक्रेणनीलोविष्णुरिवाहवे ।\nशिरश्चिच्छेदसमरेनिकुम्भस्यचसारथेः ।।6.43.30।।",
+      "transliteration": "",
+      "translation": "Like Lord Vishnu, Nila took the wheels of the chariot of Nikumbha and shattered the charioteer into pieces.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "वज्राशनिसमस्पर्शोद्विविदोऽप्यशनिप्रभम् ।\nजघानगिरिशृङ्गेणमिषतांसर्वरक्षसाम् ।।6.43.31।।",
+      "transliteration": "",
+      "translation": "Dwivida whose body was like a thunderbolt to feel, moved about on the mountain peak as Rakshasas were watching.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "द्विदिधंवानरेन्द्रंतुनगयोधिनमाहवे ।\nशरैरशनिसङ्काशैस्सविव्याधाशनिप्रभः ।।6.43.32।।",
+      "transliteration": "",
+      "translation": "Asaniprabha shot arrows resembling lightning at Dwivida the Vanara Lord who was fighting with trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "सशरैरभिविद्धाङ्गोद्विविदःक्रोधमूर्छितः ।\nसालेनसरथंसाश्वंनिजघानाशनिप्रभम् ।।6.43.33।।",
+      "transliteration": "",
+      "translation": "Dwivida whose limbs have been injured being enraged took Sala tree and killed Asaniprabha and the charioteer as well as the horses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "विद्युन्मालीरथस्थस्तुशरैःकाञ्चनभूषणैः ।\nसुषेणंताडयामासननादचमुहुर्मुहुः ।।6.43.34।।",
+      "transliteration": "",
+      "translation": "Vidyunmali mounting the chariot started releasing arrows covered with gold at Sushena and roared.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "तंरथस्थमथोदृष्टवासुषेणोवानरोत्तमः ।\nगिरिशृङ्गेणमहतारथमाशुन्यपातयत् ।।6.43.35।।",
+      "transliteration": "",
+      "translation": "Nay, Sushena, the leader of Vanaras, saw himself down and Jambumali on top in the chariot. He crushed him with a big mountain peak.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "लाघवेनतुसंयुक्तोविद्युन्मालीनिशाचरः ।\nअपक्रम्यरथात्तूर्णंगदापाणिःक्षितौस्थितः ।।6.43.36।।",
+      "transliteration": "",
+      "translation": "Vidyunmali seeing Sushena, the monkey leader got a huge rock, and hit him on his chest with the mace.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "ततःक्रोधसमाविष्टःसुषेणोहरिपुङ्गवः ।\nशिलांसुमहतींगृह्यनिशाचरमभिद्रवत् ।।6.43.37।।",
+      "transliteration": "",
+      "translation": "Thereafter overtaken by anger, the monkey leader Sushena seized the huge rock from the Rakshasa and dropped it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "तमापतन्तंगदयाविद्युन्मालीनिशाचरः ।\nवक्षस्यभिजघानाशुसुषेणंहरिपुङ्गवः ।।6.43.38।।",
+      "transliteration": "",
+      "translation": "Then Vidyunmali, seeing the leader of monkeys getting the huge rock, hit him on the chest with the mace.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "गदाप्रहारंतंघोरमच्नित्यप्लवगोत्तमः ।\nतांशिलांपातयामासतस्योरसिमहामृधे ।।6.43.39।।",
+      "transliteration": "",
+      "translation": "The great monkey leader Sushena, not caring for the mace, dropped the rock on Vidyunmali's chest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "शिलाप्रहारभिहतोविद्युन्मालीनिशाचरः ।\nनिष्पिष्टहृदयोभूमौगतासुर्निपपातह ।।6.43.40।।",
+      "transliteration": "",
+      "translation": "Vidyunmali, the Rakshasa hit by the huge rock, was ceased of life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "एवंतैर्वानरैश्शूरैश्शूरास्तेरजनीचराः ।\nद्वन्द्वेविमृदितास्तत्रदैत्याइवदिवौकसैः ।।6.43.41।।",
+      "transliteration": "",
+      "translation": "In that manner the Rakshasa warriors and the Vanara warriors fought the duel wonderfully and like the way Devatas killed the Demons, the Rakshasas were killed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "भग्नैखडगैर्गदाभिश्चशक्तितोमरपट्टसै: ।\nअपविद्धैश्चाभिन्नैश्चरथैस्साङ्ग्रामिकैर्हयैः ।।6.43.42।।\nनिहतैःकुञ्जरैर्मत्स्सैस्तथावानरराक्षसैः ।\nचक्राक्षयुगदण्डैश्चभग्नैर्धरणिसंश्रितैः ।।6.43.43।।\nबभूवायोधनंघोरंगोमायुगणसेवितम् ।",
+      "transliteration": "",
+      "translation": "The battlefield was dreadful and, frequented by jackals with spears, javelins, maces, and swords, strewn all over, similarly with broken chariots, horses, elephants, and monkeys fit for war. Broken wheels and axles of chariots were found all over.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "कबन्धानिसमुत्पेतुर्दिक्षुवानररक्षसाम् ।।6.43.44।।\nविमर्देतुमुलेतस्मिन्देवासुररणोपमे ।",
+      "transliteration": "",
+      "translation": "It was like the war between Devatas and demons, with the trunks of the bodies of Vanaras and Rakshasas rubbing together lying scattered in all directions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-43-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "विदार्यमाणाहरिपुङ्गवैस्तदानिशाचराश्शोणितदिग्धगात्राः ।\nपुनःसुयुद्धंतरसासमास्थितादिवाकरस्यास्तमयाभिकाङ्क्षिणः ।।6.43.45।।",
+      "transliteration": "",
+      "translation": "Then the Rakshasas killed by Vanara leaders, their bodies full of blood were looking for sunset and again picking up strength began to battle. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेत्रिचत्वारिंशस्सर्गः ।। This is the end of the forty third sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

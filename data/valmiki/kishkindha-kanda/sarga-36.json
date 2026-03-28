@@ -1,0 +1,198 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 36,
+    "title": "Lakshmana gets pacified -- Sugriva praises Rama's valour -- Lakshmana tenders apology for his harsh words",
+    "titleSanskrit": "",
+    "totalShlokas": 20
+  },
+  "shlokas": [
+    {
+      "id": "v4-36-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "इत्युक्तस्तारया वाक्यं प्रश्रितं धर्मसंहितम्।\nमृदुस्वभावस्सौमित्रिः प्रतिजग्राह तद्वचः।।4.36.1।।",
+      "transliteration": "",
+      "translation": "Thus the gentlenatured Saumitri accepted Tara's courteous words sanctioned by dharma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-36-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तस्मिन्प्रतिगृहीते तु वाक्ये हरिगणेश्वरः।\nलक्ष्मणात्सुमहत्त्रासं वस्त्रं क्लिन्नमिवात्यजत्।।4.36.2।।",
+      "transliteration": "",
+      "translation": "Sugriva, king of the vanara clan, cast aside his great fear when Lakshmana accepted the words of Tara just as one discards a wet garment from the body.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-36-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "ततः कण्ठगतं माल्यं चित्रं बहुगुणं महत्।\nचिच्छेद विमदश्चासीत्सुग्रीवो वानरेश्वरः।।4.36.3।।",
+      "transliteration": "",
+      "translation": "Thereupon Sugriva, relieved from his drunken state tore off the great, colourful valuable garland worn on his neck.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-36-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "स लक्ष्मणं भीमबलं सर्ववानरसत्तमः।\nअब्रवीत्प्रश्रितं वाक्यं सुग्रीव स्सम्प्रहर्षयन्।।4.36.4।।",
+      "transliteration": "",
+      "translation": "Sugriva, the noblest of all monkeys, spoke these polite words in a pleasing manner to Lakshmana of terrific strength:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-36-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "प्रणष्टा श्रीश्च कीर्तिश्च कपिराज्यं च शाश्वतम्।\nरामप्रसादात्सौमित्रे पुन: प्राप्तमिदं मया।।4.36.5।।",
+      "transliteration": "",
+      "translation": "'O Saumitri my prosperity, fame and the permanent sovereignty of vanaras had been lost. It was  regained by the grace of Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-36-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "कश्शक्तस्तस्य देवस्य ख्यातस्य स्वेन कर्मणा।\nतादृशं विक्रमं वीर प्रतिकर्तुमरिन्दम।।4.36.6।।",
+      "transliteration": "",
+      "translation": "'O crusher of enemies  how is it possible to repay the famous lord Rama's valour (in  killing Vali)?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-36-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "सीतां प्राप्स्यति धर्मात्मा वधिष्यति च रावणम्।\nसहायमात्रेण मया राघव स्स्वेन तेजसा।।4.36.7।।",
+      "transliteration": "",
+      "translation": "'Righteous Rama can merely restore Sita with my assistance. By his own fiery energy he will kill Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-36-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "सहायकृत्यं किं तस्य येन सप्त महाद्रुमाः।\nशैलश्च वसुधा चैव बाणेनैकेन दारिताः।।4.36.8।।",
+      "transliteration": "",
+      "translation": "'Rama shattered seven huge trees, a mountain and earth with a single arrow. What assistance does he need?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-36-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "धनुर्विष्फारयानस्य यस्य शब्देन लक्ष्मण।\nसशैला कम्पिता भूमिस्सहायै: किन्नु तस्य वै।।4.36.9।।",
+      "transliteration": "",
+      "translation": "'O Lakshmana the twang of his bow shook even the mountains and the earth. What assistance does he need?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-36-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अनुयात्रां नरेन्द्रस्य करिष्येऽहं नरर्षभ।\nगच्छतो रावणं हन्तुं वैरिणं सपुरस्सरम्।।4.36.10।।",
+      "transliteration": "",
+      "translation": "'O Lakshmana, bull among men I shall only join him along with others when he leads the army to kill Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-36-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "यदि किञ्चिदतिक्रान्तं विश्वासात्प्रणयेन वा।\nप्रेष्यस्य क्षमितव्यं मे न कश्चिन्नापराध्यति।।4.36.11।।",
+      "transliteration": "",
+      "translation": "'If I have committed even a little transgression in my faith in Rama or affection for him and exceeded the time limit, my mistakes are to be excused as one would pardons a servant. No one is flawless in the world.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-36-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "ति तस्य ब्रुवाणस्य सुग्रीवस्य महात्मनः।\nअभवल्लक्ष्मणः प्रीतः प्रेम्णा चैवमुवाच ह।।4.36.12।।",
+      "transliteration": "",
+      "translation": "Lakshmana who was happy to hear great Sugriva replied affectionately:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-36-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "सर्वथा हि मम भ्राता सनाथो वानरेश्वर।\nत्वया नाथेन सुग्रीव प्रश्रितेन विशेषतः।।4.36.13।।",
+      "transliteration": "",
+      "translation": "'O Sugriva, king of monkeys when you are extending due courtesy to my brother,he has a guardian in you by all means.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-36-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "यस्ते प्रभाव स्सुग्रीव यच्च ते शौचमार्जवम्।\nअर्हस्त्वं कपिराज्यस्य श्रियं भोक्तुमनुत्तमाम्।।4.36.14।।",
+      "transliteration": "",
+      "translation": "'You are powerful and straightforward by nature.You are humble and noble. Therefore, you deserve the high prosperity of the kingdom of the monkeys.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-36-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "सहायेन तु सुग्रीव त्वया रामः प्रतापवान्।\nवधिष्यति रणे शत्रूनचिरान्नात्र संशयः।।4.36.15।।",
+      "transliteration": "",
+      "translation": "'O Sugriva with you as associate, valiant hero Rama will kill his enemies in war very soon. There is no doubt about it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-36-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "धर्मज्ञस्य कृतज्ञस्य सङ्ग्रामेष्वनिवर्तिनः।\nउपपन्नं च युक्तं च सुग्रीव तव भाषितम्।।4.36.16।।",
+      "transliteration": "",
+      "translation": "'O Sugriva you know dharma.You are grateful and will not turn back from the battle. So your words are true and befitting.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-36-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "दोषज्ञस्सति सामर्थ्ये कोऽन्यो भाषितुमर्हति।\nवर्जयित्वा मम ज्येष्ठं त्वां च वानरसत्तम।।4.36.17।।",
+      "transliteration": "",
+      "translation": "'O best of monkeys barring you and my elder brother, who else would be capable of speaking this way about themselves even when you are aware of other's faults?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-36-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "सदृशश्चासि रामस्य विक्रमेण बलेन च।\nसहायो दैवतैर्दत्तश्चिराय हरिपुङ्गव।।4.36.18।।",
+      "transliteration": "",
+      "translation": "'You who are equal to Rama in valour and strength, will continue to be the gift of gods to us for long.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-36-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "किं तु शीघ्रमितो वीर निष्क्रम त्वं मया सह।\nसान्त्वयस्व वयस्यं च त्वं भार्याहरणकर्शितम्।।4.36.19।।",
+      "transliteration": "",
+      "translation": "'Nevertheless I want you to proceed from here with me at once and reassure your friend who is agrieved due to the abduction of his wife.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-36-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "यच्च शोकाभिभूतस्य श्रुत्वा रामस्य भाषितम्।\nमया त्वं परुषाण्युक्तस्तच्चत्वं क्षन्तु मर्हसि।।4.36.20।।",
+      "transliteration": "",
+      "translation": "इत्यार्षे श्रीमद्रामयणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे षट्त्रिंशस्सर्गः।। Thus ends the thirtysix sarga of Kishkindakanda of the Holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

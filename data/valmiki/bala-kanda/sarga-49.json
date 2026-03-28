@@ -1,0 +1,198 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 49,
+    "title": "The Devatas restore the virility of Indra--Rama releases Ahalya from her curse Gautama and Ahalya extend hospitality to Rama.",
+    "titleSanskrit": "",
+    "totalShlokas": 20
+  },
+  "shlokas": [
+    {
+      "id": "v1-49-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "अफलस्तु ततश्शक्रो देवानग्निपुरोगमान्।\nअब्रवीत्त्रस्तवदनस्सर्षिस्सङ्घान् सचारणान्।।1.49.1।।",
+      "transliteration": "",
+      "translation": "Deprived of testicles, Indra with a frightened face addressed hordes of rishis and charanas with agni in the forefront.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-49-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "कुर्वता तपसो विघ्नं गौतमस्य महात्मन:।\nक्रोधमुत्पाद्य हि मया सुरकार्यमिदं कृतम्।।1.49.2।।",
+      "transliteration": "",
+      "translation": "'I have accomplished the objective of the devatas by creating obstacles to Gautama's  austerities, evoking in consequence the wrath of the magnanimous sage'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-49-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "अफलोऽस्मि कृतस्तेन क्रोधात्सा च निराकृता।\nशापमोक्षेण महता तपोऽस्यापहृतं मया।।1.49.3।।",
+      "transliteration": "",
+      "translation": "'By his (Gautama's) wrath I have been deprived of my testicles. She (Ahalya) has  been deserted by him. He has lost his ascetic energy through the pronouncement of this great curse'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-49-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तस्मात्सुरवरास्सर्वे सर्षिस्सङ्घास्सचारणा: ।\nसुरसाह्यकरं सर्वे सफलं कर्तुमर्हथ।।1.49.4।।",
+      "transliteration": "",
+      "translation": "'For that reason, O rishis, charanas and great devatas it is your duty to restore my testicles for the benefit I have given you'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-49-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "शतक्रतोर्वचश्श्रुत्वा देवास्साग्निपुरोगमा:।\nपितृदेवानुपेत्याहु स्सह सर्वैर्मरुद्गणै:।।1.49.5।।",
+      "transliteration": "",
+      "translation": "'Hearing Indra, all the devatas accompanied by maruts. Lead by the Firegod devatas approached and said':",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-49-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अयं मेषस्सवृषणश्शक्रो ह्यवृषण: कृत:।\nमेषस्य वृषणौ गृह्य शक्रायाऽशु प्रयच्छथ।।1.49.6।।",
+      "transliteration": "",
+      "translation": "'This ram (which has received the share of your sacrificial offerings) has testicles. As  Indra has been deprived of his own take these testicles immediately and graft them on to Indra'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-49-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "अफलस्तु कृतो मेष: परां तुष्टिं प्रदास्यति।\nभवतां हर्षणार्थाय ये च दास्यन्ति मानवा:।।1.49.7।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-49-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "अग्नेस्तु वचनं श्रुत्वा पितृदेवास्समागता:।\nउत्पाट्य मेषवृषणौ सहस्राक्षे न्यवेशयन्।।1.49.8।।",
+      "transliteration": "",
+      "translation": "Hearing the words of the Firegod the pitrudevatas assembled, uprooted the testicles of the ram and grafted them on to Indra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-49-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तदा प्रभृति काकुत्स्थ पितृदेवास्समागता:।\nअफलान् भुञ्जते मेषान् फलैस्तेषामय��जयन्।।1.49.9।।",
+      "transliteration": "",
+      "translation": "\"O Son of the Kakutsthas from then on the pitrudevatas have been accepting rams  without testicles as offerings in a sacrifice, with ram's testicles fitted on to Indra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-49-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "इन्द्रस्तु मेषवृषणस्तदाप्रभृति राघव।\nगौतमस्य प्रभावेन तपसश्च महात्मन:।।1.49.10।।",
+      "transliteration": "",
+      "translation": "O Son of the Raghus illustrious Gautama's power of ascetism was such that thenceforth Indra possessed the testicles of a ram.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-49-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तदागच्छ महातेज आश्रमं पुण्यकर्मण:।\nतारयैनां महाभागामहल्यां देवरूपिणीम्।।1.49.11।।",
+      "transliteration": "",
+      "translation": "\"Most brilliant Rama therefore enter the hermitage of the pious (Gautama) and liberate  this fortunate Ahalya of divine appearance (from the curse).\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-49-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "विश्वामित्रवचश्श्रुत्वा राघवस्सहलक्ष्मण:।\nविश्वामित्रं पुरस्कृत्य तमाश्रममथाविशत्।।1.49.12।।",
+      "transliteration": "",
+      "translation": "In response to the words of Viswamitra Rama and Lakshmana entered the  hermitage, Viswamitra in front.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-49-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "ददर्श च महाभागां तपसा द्योतितप्रभाम्।\nलोकैरपि समागम्य दुर्निरीक्ष्यां सुरासुरै:।।1.49.13।।\nप्रयत्नान्निर्मितां धात्रा दिव्यां मायामयीमिव।\nस तुषारावृतां साभ्रां पूर्णचन्द्रप्रभामिव।।1.49.14।। \nमध्येंऽभसो दुराधर्षां दीप्तां सूर्यप्रभामिव।",
+      "transliteration": "",
+      "translation": "Rama beheld the highly fortunate Ahalya, shining brilliantly with the power of her asceticism. She could not be seen even by men, suras or asuras joined together. She looked  divine and illusory as if created with special efforts by Brahma. Though not clearly visible, she was shining bright like the light of the full Moon muffled by mists in the sky and like the inviolable light of the Sun reflected in the water.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-49-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "सा हि गौतमवाक्येन दुर्निरीक्ष्या बभूव ह।।1.49.15।।\nत्रयाणामपि लोकानां यावद्रामस्य दर्शनम्।",
+      "transliteration": "",
+      "translation": "By the words of Gautama, she became invisible to the three worlds till the appearance of Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-49-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "शापस्यान्तमुपागम्य तेषां दर्शनमागता।।1.49.16।।\nराघवौ तु ततस्तस्या: पादौ जगृहतुस्तदा।",
+      "transliteration": "",
+      "translation": "With the expiry of the period of the curse, the Raghavas (Rama and Lakshmana) speared and she became perceptible when Rama touched her feet.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-49-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "स्मरन्ती गौतमवच: प्रतिजग्राह सा च तौ।।1.49.17।।\nपाद्यमर्घ्यं तथाऽऽतिथ्यं चकार सुसमाहिता।\nप्रतिजग्राह काकुत्स्थो विधिदृष्टेन कर्मणा।।1.49.18।।",
+      "transliteration": "",
+      "translation": "Recalling the words of Gautama, she received them with water to wash their feet and offerings made with due devotion Rama accepted her hospitality extended in accordance tradition.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-49-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "पुष्पवृष्टिर्महत्यासीद्देवदुन्दुभिनिस्वनै:।\nगन्धर्वाप्सरसां चैव महानासीत्समागम:।।1.49.19।।",
+      "transliteration": "",
+      "translation": "Amidst sounds of celestial kettledrums, devatas showered flowers, gandharvas sang and apsarasa danced. There was a great assemblage (of divinities).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-49-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "साधु साध्विति देवास्तामहल्यां समपूजयन्।\nतपोबलविशुद्धाङ्गी गौतमस्य वशानुगाम्।।1.49.20।।",
+      "transliteration": "",
+      "translation": "On seeing Ahalya, her body purified by the power of penance at Gautama's command, the devatas worshipfully exclaimed, 'Excellent, Excellent'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-49-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "गौतमोऽपि महातेजा अहल्यासहितस्सुखी।\nरामं सम्पूज्य विधिवत्तपस्तेपे महातपा:।।1.49.21।।",
+      "transliteration": "",
+      "translation": "Brilliant Gautam, the great ascetic, along with Ahalya, worshipped Rama  according to tradition, with delight and continued with his austerities.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-49-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "रामोऽपि परमां पूजां गौतमस्य महामुने:।\nसकाशाद्विधिवत्प्राप्य जगाम मिथिलां तत:।।1.49.22।।",
+      "transliteration": "",
+      "translation": "Having received due hospitality from the great ascetic Gautama Rama also set out towards Mithila. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे एकोनपञ्चाशस्सर्गः।। Thus ends the fortyninth sarga of Balakanda of the holy Ramayana the first epic  composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

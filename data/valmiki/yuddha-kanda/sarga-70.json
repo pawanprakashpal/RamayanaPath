@@ -1,0 +1,594 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 70,
+    "title": "Hanuman kills Devanthaka and Trisira. Neela puts an end to Mahodara and Rshaba kills Mahaparsva.",
+    "titleSanskrit": "",
+    "totalShlokas": 64
+  },
+  "shlokas": [
+    {
+      "id": "v6-70-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "नरान्तकंहतंदृष्टवाचुक्रुशुर्नैरृतर्षभाः ।\nदेवान्तकस्त्रिमूर्धा च पौलस्त्यश्चमहोदरः ।।6.70.1।।",
+      "transliteration": "",
+      "translation": "Seeing the bulls among Rakshasas Naranthaka, Devanthaka, Trisira and Mahodara a scion of Paulastya and Mahodara, killed the Rakshasas cried aloud.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "आरूढोमेघसङ्काशंवारणेन्द्रंमहोदरः ।\nवालिपुत्रंमहावीर्यमभिदुद्राववीर्यवान् ।।6.70.2।।",
+      "transliteration": "",
+      "translation": "Mahodara who closely resembled a cloud, mounted on the best of elephants chased brave and courageous son of Vali.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "भ्रारातृव्यसनसन्तप्तस्तदादेवान्तकोबली ।\nआदायपरिघंदीप्तमङ्गदंसमभिद्रवत् ।।6.70.3।।",
+      "transliteration": "",
+      "translation": "Then, powerful Devanthaka who was immersed in grief of his brother, taking hold of a glowing iron bar rushed forward towards Angada.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "रथमादित्यसङ्काशंयुक्तंपरमवाजिभिः ।\nआस्थायत्रिशिरावीरोवालिपुत्रमथाभ्ययात् ।।6.70.4।।",
+      "transliteration": "",
+      "translation": "Then Trisira, seated on the chariot, effulgent as the Sun, yoked to the best horse marched towards Angada.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "स त्रिभिर्देवदर्पघ्नेर्नेरृतीन्द्रेरभिद्रुतः ।\nवृक्षमुत्पाटयामासमहाविटपमङ्गदः ।।6.70.5।।",
+      "transliteration": "",
+      "translation": "Angada observed that all the three chiefs of Rakshasas, who were capable of crushing the pride of gods marching towards him and uprooted a huge tree.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "देवान्तकायतंवीरच्शिक्षेपसहसाङ्गदः ।\nमहावृक्षंमहाशाखंशक्रोदीप्तमिवाशनिम् ।।6.70.6।।",
+      "transliteration": "",
+      "translation": "Just as Indra took a flaming thunderbolt, Angada, the hero took hold of huge branches of trees and hurled at Devanthaka with force.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "त्रिशिरास्तंप्रचिच्छेदशरैराशीविषोपमैः ।\nस वृक्षंकृत्तमालोक्यउत्पपाततदाङ्गदः ।।6.70.7।।",
+      "transliteration": "",
+      "translation": "Trisira split the trees with the arrows which were like venomous serpents. Observing Angada's action he flew up.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "स ववर्षततोवृक्षान् शैलाश्चकपिकुञ्जरः ।\nतान् प्रचिच्छेदसङ्कृद्धस्त्रिशिरानिशितैश्शरैः ।।6.70.8।।",
+      "transliteration": "",
+      "translation": "Then the leader of the monkeys, rained trees and rocks. Angry Trisira attacked all of them with sharp arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "परिघाग्रेणतान् वृक्षान्बभञ्ज च महोदरः ।\nत्रिशिराश्चाङ्गदंवीरमभिदुद्रावसायकैः ।।6.70.9।।",
+      "transliteration": "",
+      "translation": "Mahodara shattered those trees with the iron clubs. Trisira attacked brave Angada with arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "गजेनसमभिद्रुत्यवालिपुत्रंमहोदरः ।\nजघानोरसिसङ्कृद्धस्तोमरैर्वज्रसन्निभैः ।।6.70.10।।",
+      "transliteration": "",
+      "translation": "Mahodara chased the elephant on to Angada in anger and attacked him on his chest with his iron clubs.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "देवान्तकश्चसङ्कृद्धःपरिघेणतदाङ्गदम् ।\nउपगम्याभिहत्याशुव्यपचक्रामवेगवान् ।।6.70.11।।",
+      "transliteration": "",
+      "translation": "Then infuriated Devanthaka quickly came over Angada directly and attacked him with his iron club and retreated.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "सत्रिभिर्नैरृतश्रेष्ठैर्युगतपत्समभिद्रुतः ।\nन विव्यथेमहातेजावालिपुत्रःप्रतापवान् ।।6.70.12।।",
+      "transliteration": "",
+      "translation": "Eminent and highly energetic son of Vali did not feel perturbed when three of the foremost Rakshasas attacked him together.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "स वेगवान्महावेगंकृत्वापरमदुर्जयः ।\nतलेनभृशमुत्पत्यजघानास्यमहागजम् ।।6.70.13।।",
+      "transliteration": "",
+      "translation": "Angada, who was endowed with high speed, and exceedingly difficult to encounter, jumped up the huge elephant of Mahodara attacked him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तस्यतेनप्रहारेणनागराजस्यसंयुगे ।\nपेततुर्लोचनेतस्यविननाद स वारणः ।।6.70.14।।",
+      "transliteration": "",
+      "translation": "By that blow of Angada, that king of elephant's eyes dropped, and it cried.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "विषाणंचास्यसःनिष्कृष्यवालिपुत्रोमहाबलः ।\nदेवान्तकमभिप्लुत्यताडयामाससंयुगे ।।6.70.15।।",
+      "transliteration": "",
+      "translation": "Mighty son of Vali removed the tusk of the elephant and hit Devanthaka with it by jumping over him in the battlefield.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "स विह्वलस्तुतेजस्वीवातोद्धूतइवद्रुमः ।\nलक्षारससवर्णं च सुस्रावरुधिरंमहत् ।।6.70.16।।",
+      "transliteration": "",
+      "translation": "That astonishing Rakshasa shaken like a tree, thrown by the wind, shed huge amounts of blood which was of the colour of lacquer.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अथाश्वस्यमहातेजाःकृच्छ्राद्देवान्तकोबली ।\nआविध्यपरिघंवेगादाजघानतदाङ्गदम् ।।6.70.17।।",
+      "transliteration": "",
+      "translation": "Thereafter the terribly strong Devanthaka taking iron spike quickly pierced Angada.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "परिघाभिहतश्चापिवानरेन्द्रात्मजस्तदा ।\nजानुभ्यांपतितोबूमौपुनरेवोत्पपात ह ।।6.70.18।।",
+      "transliteration": "",
+      "translation": "Then, hurt by the club the son of Vanara king fell down on his knees once again and got up.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तमुत्पतन्तंत्रिशिरास्त्रिभिर्बाणैरजिह्मगैः ।\nघोरैर्हरिपतेःपुत्रेंललाटेऽभिजघान ह ।।6.70.19।।",
+      "transliteration": "",
+      "translation": "While Angada was getting up, Trisira again hit him on the forehead with three straight going arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "ततोऽङ्गदंपरिक्षिप्तंत्रिभिर्नैरृतपुङ्गवैः ।\nहनूमानपिविज्ञायनीलश्चापिप्रतस्थतुः ।।6.70.20।।",
+      "transliteration": "",
+      "translation": "Then finding Angada surrounded by the three Rakshasa leaders, Hanuman as well as Neela set out.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तश्चिक्षेपशैलाग्रंनीलस्त्रिशिरसेतदा ।\nतद्रावणसुतोधीमाबनिभेदनिशितैश्शरैः ।।6.70.21।।",
+      "transliteration": "",
+      "translation": "Thereafter Neela hit Trisira with the peak of the mountain and Ravana's son broke the mountain into pieces with arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तद्बाणशतनिर्भिन्नंविदारितशिलातलम् ।\nसविस्फुलिंगंसज्वालंनिपपातगिरेशशिरः ।।6.70.22।।",
+      "transliteration": "",
+      "translation": "Hit by hundreds of arrows, the mountain peak broke into pieces of stones like sparks and flames fell from it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "ततोजृम्भितमालोक्यहर्षाद्वेवान्तकस्तदा ।\nपरिघेणाभिदुद्रावमारुतात्मजमाहवे ।।6.70.23।।",
+      "transliteration": "",
+      "translation": "Mighty Devanthaka, observing (Trisira's action), was happy on the battlefield, and went with his club to assault Hanuman.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "तमापतन्तमुत्प्लुत्यहनुमान्मारुतात्मजः ।\nआजघानतदामूर्ध्निवज्रकल्पेनमुष्टिना ।।6.70.24।।",
+      "transliteration": "",
+      "translation": "Then the son of wind god, Hanuman observing Devanthaka coming towards him, got up and hit him on the forehead with his thunderbolt like fist.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "शिरसिप्रहरवनीरस्तदावायुसुतोबली ।\nनादेनाकम्पयच्चैवराक्षसान् स महाकपिः ।।6.70.25।।",
+      "transliteration": "",
+      "translation": "When the heroic and strong son of the wind god hit on the head of Devanthaka, the Rakshasas trembled by the sound of the great monkey 's blow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "मुष्टिनिष्पिष्टविभिन्नमूर्धानिर्वान्तदन्ताक्षिविलम्बिजिव्वाः ।\nदेवान्तकोराक्षसराजसूनुर्गतासुरुत्व्यांसहसापपात ।।6.70.26।।",
+      "transliteration": "",
+      "translation": "Devanthaka's skull was shattered by the blow, and his teeth, eyes and tongue were forced out, the son of Rakshasa king fell dead on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "तस्मिन्हतेराक्षसयोधमुख्येमहाबलेसंयतिदेवशत्रौ ।\nक्रुद्धस्त्रिमूर्धानिशिताग्रमुग्रंववर्षनीलोरसिबाणवर्षम् ।।6.70.27।।",
+      "transliteration": "",
+      "translation": "Devanthaka, the foremost of Rakshasa warriors, an enemy of gods, endowed with great strength, having been killed in the conflict, Trisira became angry and rained arrows on Neela's chest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "महोदरस्तुसङ्कृद्धःकुञ्जरंपर्वतोपमम् ।\nभूयस्समधिरुह्याशुमन्दरंरमशिमानिव ।।6.70.28।।\nततोबाणमयंवर्षंनीलस्योरस्यपातयत् ।\nगिरौवर्षंतडिच्चक्रचापवानिवतोयदः ।।6.70.29।।",
+      "transliteration": "",
+      "translation": "Mahodara got enraged, mounted on an elephant just as the Sun went over Mandara mountain and went for war. Then Mahodara wielding bow rained arrows, just as rainy clouds with lightning and rainbows showers rain, on the mountain like chest of Neela.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "ततश्शरौघेरभिवर्ष्यमाणोविभिन्नगात्रःकपिसैन्यपालः ।\nनीलोबभूवाथविसृष्टगात्रोविष्टम्भितस्तेनमहाबलेन ।।6.70.30।।",
+      "transliteration": "",
+      "translation": "Neela's body wetted by arrows all over, the limbs pierced with arrows, the monkey leader remained powerless and could not move in spite of being extraordinarily strong.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "ततस्तुनीलःप्रतिलभ्यसंज्ञांशैलंसमुत्पाट्यसवृक्षषंण्डम् ।\nततस्समुत्पत्यभृशोग्रवेशोमहादरंतेनजघानमूर्ध्नि ।।6.70.31।।",
+      "transliteration": "",
+      "translation": "Thereafter Neela also regained his senses and uprooting a mountain filled with trees went over Mahodara at high speed and attacked him on the forehead.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "तत: स्सशैलेद्रनिपातभग्नोमहोदरस्तेनमहाद्विपेन ।\nविपोथितोभूमितलेगतासुःपपातवज्राभिहतोयथाद्रिः ।।6.70.32।।",
+      "transliteration": "",
+      "translation": "Then smashed by the impact of the mountain, along with his elephant Mahodara's body fell to the ground. Released from life, he fell like a mountain struck with lightning.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "पितृव्यंनिहतंदृष्टवात्रिशिराश्चापमाददे ।\nहनूमन्तं च सङ्कृद्धोविव्याथनिशितैश्शरैः ।।6.70.33।।",
+      "transliteration": "",
+      "translation": "Trisira got enraged seeing his uncle killed, seized his bow and with a sharp arrow pierced Hanuman.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "स वायुसुनूःकुपितश्चिक्षेपशिखरंगिरेः ।\nत्रिशिरास्तच्छरैस्तीक्ष्णैर्बिभेदबहुधाबली ।।6.70.34।।",
+      "transliteration": "",
+      "translation": "The son of the wind god in anger hurled a top of the mountain on mighty Trisira, who split the mountain into several pieces with an arrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "तद्व्यर्थंशिखरंदृष्टवाद्रुमवर्षंमहाकपिः ।\nविससर्जरणेतस्मिन्रावणस्यसुतंप्रति ।।6.70.35।।",
+      "transliteration": "",
+      "translation": "Then seeing that the top of the mountain hurled was ineffective in that battle over Ravana's son, Hanuman discharged rain of trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "तमापतन्तमाकाशेद्रुमवर्षंप्रतापवान् ।\nत्रिशिरानिशितैर्बाणैश्चिच्छेद च ननाद च ।।6.70.36।।",
+      "transliteration": "",
+      "translation": "Stupendous Trisira tore with his whetted arrows the rain of trees through the sky and roared.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "हनूमानुतोप्लुत्यहयंस्त्रीशिरसस्तदा ।\nविददारनखैःक्रुद्धोनागेन्द्रंमृगराडिव ।।6.70.37।।",
+      "transliteration": "",
+      "translation": "Then Hanuman also jumped up in anger and tore the horse off Trisira just as the lion would tear the lordly elephant with nails.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "अथशक्तिंसमादायकाळरात्रिमिवान्तकः ।\nचिक्षेपानिलपुत्रायत्रिशिरारावणात्मजः ।।6.70.38।।",
+      "transliteration": "",
+      "translation": "In the same manner, Trisira, the son of Ravana sprung up and seized a javelin, just as God of death in dark night and hurled at the son of wind god and shattered.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "दिवःक्षिप्तामिवोल्कांतांशक्तिंक्षिप्तामसङ्गताम् ।\nगृहीत्वाहरिशार्दूलोबभञ्ज च ननाद च ।।6.70.39।।",
+      "transliteration": "",
+      "translation": "Hanuman, the best of monkeys, snapped the javelin flung by Trisira on him, which came down unobstructed like a meteor from heaven and the monkeys roared.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "तांदृष्टवाघोरसङ्काशांशक्तिंभग्नांहनूमता ।\nप्रहृष्टावानरगणाविनेदुर्जलदाइव ।।6.70.40।।",
+      "transliteration": "",
+      "translation": "Seeing the dreadful form of shattered javelin, all Vanaras rejoiced and thundered like rain clouds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "तःखडगंसमुद्यम्यत्रिशिराराक्षसोत्तमः ।\nनिजघानतदाव्यूढेवायुपुत्रस्यवक्षसि ।।6.70.41।।",
+      "transliteration": "",
+      "translation": "Trisira, the foremost of Rakshasas then lifted his sword, placed it on the chest of Hanuman and dug into it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "खडगप्रहाराभिहतोहनुमान्मारुतात्मजः ।\nआजघानतिशिरसंतलेनोरसिवीर्यवान् ।। 6.70.42।।",
+      "transliteration": "",
+      "translation": "Heroic Hanuman hit by Trisira, attacked him with his palm on the chest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "सतलाभिहतस्तेनस्रस्तहस्तायुधोभुवि ।\nनिपपातमहातेजास्त्रिशिरास्त्यक्तचेतनः ।।6.70.43।।",
+      "transliteration": "",
+      "translation": "Trisira, a highly energetic one, hit by Hanuman with his palm, dropped the weapon from his hand, lost his senses and fell on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "स तस्यपततःखङ्गंतमाच्छिद्यमहाकपिः ।\nननादगिरिसङ्काशस्त्रासयन् सर्वनैरृता ।।6.70.44।।",
+      "transliteration": "",
+      "translation": "Taking the sword from Trisira, as he was falling, the great Vanara who resembled a mountain roared, creating terror in all, surrounded there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "अमृष्यमाणस्तंघोषमुत्पपातनिशाचरः ।\nउत्पत्य च हनूमन्तंताडयामासमुष्टिना ।।6.70.45।।",
+      "transliteration": "",
+      "translation": "Unable to bear that roar, that Rakshasa got up jumping and struck Hanuman with his fist.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "तेनमुष्टिप्रहोरेणसञ्चुकोपमहाकपिः ।\nकुपितश्चनिजग्राहकिरीटेराक्षसर्षभम् ।।6.70.46।।",
+      "transliteration": "",
+      "translation": "The great monkey hit by the fist (of Trisira) became furious and in anger he got hold of Trisira's head with crown.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "स तस्यशीर्षाण्यसिनाशितेनकिरीटजुष्टानिसकुण्डलानि ।\nक्रुद्धःप्रचिच्छेदसुतोऽनिलस्यत्वष्टुस्सुतस्येवशिरांसिशक्रः ।।6.70.47।।",
+      "transliteration": "",
+      "translation": "Enraged wind god's son, cut off the three heads of Trisira adorned with earrings just as Indra cut off the heads of Vishwarupa, son of Twashta.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "तान्यायताक्षाण्यगसन्निभानिप्रदीप्तवैश्वानरलोचनानि ।\nपेतुशिरांसीन्द्ररिपोःर्धरण्यांज्योतींषिमुक्तानियथार्कमार्गात् ।।6.70.48।।",
+      "transliteration": "",
+      "translation": "The heads of Trisira, an enemy of Indra, resembling mountains with incongruous eyes glowing like Vyshvanara's eyes, fell into wilderness like stars fallen from the path of Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "तस्मिन् न्हतेदेवरिपौत्रिशीर्षेहनूमताशक्रपराक्रमेण ।\nनेदुःप्लवंगाःप्रचचालभूमीरक्षांस्यथोदुद्रुविरेसमन्तात् ।।6.70.49।।",
+      "transliteration": "",
+      "translation": "Trisira, the enemy of gods, endowed with the prowess of Indra got killed by Hanuman. The earth shook, the monkeys roared and the Rakshasas from all sides took to their heels.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "हतंत्रिशिरसंदृष्टवातथैवचमहोदरं ।\nहतौप्रेक्षयदुराधर्षौदेवान्तकनरान्तकौ ।।6.70.50।।\nचुकोपपरमामर्षीमत्तोराक्षसपुङ्गवः ।",
+      "transliteration": "",
+      "translation": "Witnessing Trisira killed, earlier Mahodara also, Devanthaka and Naranthaka who are difficult to encounter killed, monkeys roared in joy seeing that Matta became very angry.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "जग्राहार्चिष्मतींघोरांगदांसर्वायसींशुभां ।।6.70.51।।\nहेमपट्टपरिक्षिप्तांमांसशोणितफेनिलाम् ।\nविराजमानांवपुषांशत्रुशोणितरंजिताम् ।।6.70.52।।\nतेजसासंप्रदीप्ताग्रांरक्तमाल्यविभूषिताम् ।\nऐरावतमहापद्मसार्वभौमभयावहाम् ।।6.70.53।।",
+      "transliteration": "",
+      "translation": "Mahaparsva seized hold of a good venerable, allpowerful mace plated with gold, smeared with flesh and blood, shining with lustre, shining red with enemy's blood, an effulgent one whose head has been glowing decorated with red flower garlands that brought terror to Airavatam, Mahapadma, and Sarvabhuama, the three elephants guarding the three of the four quarters.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "गदामादायसङ्कृद्धोमत्तोराक्षसपुङ्गवः ।\nहरीन् समभिदुद्रावयुगान्तानगिरिवज्वलन् ।।6.70.54।।",
+      "transliteration": "",
+      "translation": "Matta, the Rakshasa leader became very furious and took hold of the mace glowing like fire, at the time of dissolution of the universe and scattered the monkeys.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "अथर्षभस्समुत्पत्यवानरोरावणानुजम् ।\nमत्तानीकमुपागम्यतस्थौतस्याग्रतोबली ।।6.70.55।।",
+      "transliteration": "",
+      "translation": "Rshaba, the bull among Vanaras endowed with prowess, springing up came and stood in front of Mahaparsva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "तंपुरस्तात् स्थितंदृष्टवावानरंपर्वतोपमम् ।\nआजघानोरसिक्रुद्धोगदयावज्रकल्पया ।।6.70.56।।",
+      "transliteration": "",
+      "translation": "Again, seeing Rshaba standing in front like a mountain, enraged Mahaparsva hit him on the chest with the mace that was like a thunderbolt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-54",
+      "number": 54,
+      "type": "shloka",
+      "original": "स तयाऽभिहतस्तेनगदयावानरर्षभः ।\nभिन्नवक्षास्समाधूतस्सुस्रावरुधिरंबहु ।।6.70.57।।",
+      "transliteration": "",
+      "translation": "Hit in that way by the mace, Rshaba, bull of Vanaras, with chest broken, blood flowed excessively.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-55",
+      "number": 55,
+      "type": "shloka",
+      "original": "स संज्ञांप्राप्यसुचिरादृषभोवानरर्षभः ।\nक्रुद्धोविस्फुरमाणौष्ठोमहापार्श्वमुदैक्षत ।।6.70.58।।",
+      "transliteration": "",
+      "translation": "Regaining consciousness after a long time the monkey chief, Rshaba, was angry, his lips quivering as he was, ran to Mahaparsva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-56",
+      "number": 56,
+      "type": "shloka",
+      "original": "स वेगवान् वेगवदभ्युपेत्यतंराक्षसंवानरवीरमुख्यः ।\nसम्वर्त्यमुष्टिंसहसाजघानबाह्वन्तरेशैलनिकाशरूपः ।।6.70.59।।",
+      "transliteration": "",
+      "translation": "The chief of the Vanaras, whose form was like a mountain, endowed with speed, got up quickly, duly, and forcibly hit the Rakshasa (Mahaparsva) in the space between his arms.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-57",
+      "number": 57,
+      "type": "shloka",
+      "original": "स कृत्तमूलस्��हसेववृक्षःक्षितौपपातक्षतजोक्षिताङ्गः ।\nतांचास्यघोरांयमदण्डकल्पांगदांप्रगृह्याश��तदाननाद ।।6.70.60।।",
+      "transliteration": "",
+      "translation": "Like a tree whose roots have been severed, the Rakshasa fell on the ground. Then seizing forcibly, the dreadful mace that resembled the rod of Lord of death he roared.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-58",
+      "number": 58,
+      "type": "shloka",
+      "original": "मुहूर्तमासीत्सगतासुकल्पःप्रत्यागतात्मासहसासुरारिः ।\nउत्पत्यसन्ध्याभ्रसमानवर्णस्तंवारिराजात्मजमाजघान ।।6.70.61।।",
+      "transliteration": "",
+      "translation": "For a short while, Mahaparsva, the enemy of gods remained as if life had gone off up and struck the son of waters (Rshaba).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-59",
+      "number": 59,
+      "type": "shloka",
+      "original": "स मूर्भितोभूमितलेपपातमुहूर्तमुत्पत्यपुनस्ससंज्ञः ।\nतामेवतस्याद्रिवराद्रिकल्पांगदांसमाविध्यजघानसङ्ख्ये ।।6.70.62।।",
+      "transliteration": "",
+      "translation": "The monkey was unconscious for a while having fallen on the ground. Regaining senses, overcoming, took up the mace which looked like the rock of a foremost mountain and struck him (Mahaparsva) on the battlefield.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-60",
+      "number": 60,
+      "type": "shloka",
+      "original": "सातस्यरौद्रासमुपेत्यदेहंरौद्रस्यदेवाध्वरविप्रशत्रोः ।\nबिभेदवक्षःक्षतजं च भूरिसुस्रावधात्वम्भइवाद्रिराजः ।।6.70.63।।",
+      "transliteration": "",
+      "translation": "He (Rshaba) reached the body of the ferocious enemy of gods and brahmins. He split his chest with his mace and the timid Rakshasa shed blood just as Himalaya Mountain discharges water.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-61",
+      "number": 61,
+      "type": "shloka",
+      "original": "अभिदुद्राववेगेनगदांतस्यमहात्मनः ।\nगृहीत्वातांगदांभीमामाविध्य च पुनःपुनः ।।6.70.64।।\nमत्तानीकंमहात्मानंजघानरणमूर्धनि ।",
+      "transliteration": "",
+      "translation": "The great Rakshasa Mahaparsva went towards the mace held by Rshaba, the great soul. Taking hold of the mace, Rshaba struck the Rakshasa again and again and pierced him in the forefront of the battlefield.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-62",
+      "number": 62,
+      "type": "shloka",
+      "original": "स स्वयागदयाभग्नोविदीर्णदशनेक्षणः ।।6.70.65।।\nनिपपातततोमत्तोवज्राहतइवाचलः ।",
+      "transliteration": "",
+      "translation": "Shattered by his own mace, Matta (Mahaparsva), whose eyes had been crushed, had fallen like a mountain struck by lightning.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-63",
+      "number": 63,
+      "type": "shloka",
+      "original": "विदीर्णनयनेभूमौगतसत्त्वेगतायुषि ।।6.70.66।।\nपतितेराक्षसेतस्मिन् विद्रुतंराक्षसंबलम् ।",
+      "transliteration": "",
+      "translation": "Strength gone, life ceased, eyes crushed, his own Rakshasas fallen on the ground, the Rakshasa army fled.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-70-64",
+      "number": 64,
+      "type": "shloka",
+      "original": "तस्मिन्न्हतेभ्रातरिरावणस्यतन्नैरृतानांबलमर्णवाभम् ।\nत्यक्तायुधंकेवलजीवितार्थंदुद्रावभिन्नार्णवसन्निकाशम् ।।6.70.67।।",
+      "transliteration": "",
+      "translation": "When Ravana's brother was killed, the ocean of Rakshasas left the battlefield for the sake of their own life, and it looked as if the ocean had burst into shores. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेसप्ततितमस्सर्गः ।। This is the end of the seventieth sarga Of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

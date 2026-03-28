@@ -1,0 +1,333 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 60,
+    "title": "Rama's sorrow -- goes from tree to tree enquiring about Sita -- Rama and Lakshmana go in search of Sita.",
+    "titleSanskrit": "",
+    "totalShlokas": 35
+  },
+  "shlokas": [
+    {
+      "id": "v3-60-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "भृशमाव्रजमानस्य तस्याधो वामलोचनम्।\nप्रास्फुरच्चास्खलद्रामो वेपथुश्चाप्य जायत।।3.60.1।।",
+      "transliteration": "",
+      "translation": "As  Rama was returning( to the hermitage), his left eye throbbed repeatedly  and he stumbled and his body trembled.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "उपालक्ष्य निमित्तानि सोऽशुभानि मुहुर्मुहुः।\nअपि क्षेमं नु सीताया इति वै व्याजहार च।।3.60.2।।",
+      "transliteration": "",
+      "translation": "As inauspicious omens appeared again and again, doubting if all is well with Sita, he said to himself, Can Sita be safe?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "त्वरमाणो जगामाथ सीतादर्शनलालसः।\nशून्यमावसथं दृष्ट्वा बभूवोद्विग्नमानसः।।3.60.3।।",
+      "transliteration": "",
+      "translation": "Anxious to see Sita, he hastened to the hermitage and finding it empty, became  restless.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "उद्भ्रमन्निव वेगेन विक्षिपन्रघुनन्दनः।\nतत्र तत्रोटजस्थानमभिवीक्षय समन्ततः।।3.60.4।।\nददर्श पर्णशालां च रहितां सीतया तदा।\nश्रिया विरहितां ध्वस्तां हेमन्ते पद्मिनीमिव।।3.60.5।।",
+      "transliteration": "",
+      "translation": "Rama, the delight of the Raghu dynasty, hurtled in, turning round, throwing his hands to and fro, casting his looks all around the cottage where she used to move. The cottage, devoid of Sita looked like a lotuspond, the beauty of its lotuses destroyed by winter.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "रुदन्तमिव वृक्षैश्च म्लानपुष्पमृगद्विजम्।\nश्रिया विहीनं विध्वस्तं सन्त्यक्तवनदेवतम्।।3.60.6।।\nविप्रकीर्णाजिनकुशं विप्रविद्धब्रुसीकटम्।\nदृष्ट्वा शून्यं निजस्थानं विललाप पुनः पुनः।।3.60.7।।",
+      "transliteration": "",
+      "translation": "The trees with flowers withered, the animals and birds turned pale looked as if they  were weeping. Bereft of their beauty they wore a ruinous look. The sylvan deities had left.  The deerskin and kusa grass were strewn here and there, the grass cushions and straw mats lay scattered. Seeing his cottage so desolate Rama wept again and again.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "हृता मृता वा नष्टा वा भक्षिता वा भविष्यति।\nनिलीनाप्यथवा भीरुरथवा वनमाश्रिता।।3.60.8।।",
+      "transliteration": "",
+      "translation": "'Timid Sita might have been abducted or dead or crushed or eaten up by demons. Or, she may be hiding for protection in the forest'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "गता विचेतुं पुष्पाणि फलान्यपि च वा पुनः।\nअथवा पद्मिनीं याता जलार्थं वा नदीं गता।।3.60.9।।",
+      "transliteration": "",
+      "translation": "'Maybe she has gone to pluck flowers or fruits. Or to the lotuspond or river to  fetch water.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "यत्नान्मृगयमाणस्तु नाससाद वने प्रियाम्।\nशोकरक्तेक्षणश्शोकादुन्मत्त इव लक्ष्यते।।3.60.10।।",
+      "transliteration": "",
+      "translation": "He ransacked the forest, yet did not find his beloved. He  appeared like a mad man, his eyes turned red with tears of sorrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "वृक्षाद्वृक्षं प्रधावन्सगिरेश्चाद्रिं नदान्नदीम्।\nबभूव विलपन्रामश्शोकार्णवपरिप्लुतः।।3.60.11।।",
+      "transliteration": "",
+      "translation": "Running from tree to tree, hill to hill, and river to river and weeping, Rama was immersed in a sea of sorrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अपि काचित्त्वया दृष्टा सा कदम्बप्रिया प्रिया।\nकदम्ब यदि जानीषे शंस सीतां शुभाननाम्।।3.60.12।।",
+      "transliteration": "",
+      "translation": "O Kadamba tree, tell me if you have seen my beloved with a fair face and with love for kadamba flowers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "स्निग्धपल्लवसङ्काशा पीतकौशेयवासिनी।\nशंसस्व यदि वा दृष्टा बिल्व बिल्वोपमस्तनी।।3.60.13।।",
+      "transliteration": "",
+      "translation": "O Bilva tree, tell me if you have seen a lady delicate like your tender leaf, dressed in yellow silk, a lady whose breasts are round like Bilva fruits.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अथवाऽर्जुन शंस त्वं प्रियां तामर्जुनप्रियाम्।\nजनकस्य सुता भीरुर्यदि जीवति वा न वा।।3.60.14।।",
+      "transliteration": "",
+      "translation": "O Arjuna tree, tell me if you know a timid lady, daughter of Janaka and my beloved, fond of Arjuna tree. Is the living or not ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "ककुभः ककुभोरूं तां व्यक्तं जानाति मैथिलीम्।\nयथा पल्लवपुष्पाढ्यो भाति ह्येष वनस्पतिः।।3.60.15।।",
+      "transliteration": "",
+      "translation": "This Kakubha tree rich with tender leaves and flowers (perhaps)knows Maithili whose thighs are beautiful like the trunk of the Kakubha tree.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "भ्रमरैरुपगीतश्च यथा द्रुमवरो ह्ययम्।\nएष व्यक्तं विजानाति तिलकस्तिलकप्रियाम्।।3.60.16।।",
+      "transliteration": "",
+      "translation": "This great Tilaka tree round which bees bumble surely knows the lady who loves to put tilaka marks on the forehead.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "अशोक शोकापनुद शोकोपहतचेतसम्।\nत्वन्नामानं कुरु क्षिप्रं प्रियासन्दर्शनेन माम्।।3.60.17।।",
+      "transliteration": "",
+      "translation": "O Ashoka tree, dispeller of sorrow, by quickly showing me my darling make me ashoka (free from sorrow) as I am griefstricken at heart.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "यदि ताल त्वया दृष्टा पक्वतालफलस्तनी।\nकथयस्व वरारोहां कारुण��यं यदि ते मयि।।3.60.18।।",
+      "transliteration": "",
+      "translation": "O Palmyra tree be kind to me and tell me if you have seen my beautiful beloved who has breasts like ripe palmyra fruit?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "यदि दृष्टा त्वया सीता जम्बु जम्बूफलोपमा।\nप्रियां यदि विजानीषे निःशङ्कं कथयस्व मे।।3.60.19।।",
+      "transliteration": "",
+      "translation": "O Jambu tree, do not hesitate to tell me if you know Sita whose body shines lovely like gold.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अहो त्वं कर्णिकाराद्य सुपुष्पैश्शोभसे भृशम्।\nकर्णिकारप्रिया साध्वी शंस दृष्टा प्रिया यदि।।3.60.20।।",
+      "transliteration": "",
+      "translation": "O Karnikara tree with flowers in full bloom, tell me if you have seen my faithful beloved who is fond of karnikara flowers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "चूतनीपमहासालान्पनसान्कुरवान्धवान्।\nदाडिमाननसान्गत्वा दृष्ट्वा रामो महायशाः।।3.60.21।।\nमल्लिका माधवीश्चैव चम्पकान्केतकीस्तथा।\nपृच्छन्रामो वने भान्तः उन्मत्त इव लक्ष्यते।।3.60.22।।",
+      "transliteration": "",
+      "translation": "Renowned Rama, like a madman confused, approached the Mango, Kadamba , Sal and Jackfruit, Dhava, Champak, Ketaki trees and Pomegranate, Jasmine and Madhavi creepers, in order to make similar queries.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "अथवा मृगशाबाक्षीं मृग जानासि मैथिलीम्।\nमृगविप्रेक्षणी कान्ता मृगीभिस्सहिता भवेत्।।3.60.23।।",
+      "transliteration": "",
+      "translation": "Or,  O deer do you know about Maithili who has the eyes of a fawn? My beloved who has the restless eyes of a doe may be found in their company.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "गज सा गजनासोरूर्यदि दृष्टा त्वया भवेत्।\nतां मन्ये विदितां तुभ्यमाख्याहि वरवारण।3.60.24।।",
+      "transliteration": "",
+      "translation": "O elephant tell me if you have seen her whose thighs are like the trunk of an elephant. O best of elephants, tell me if you know her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "शार्दूल यदि सा दृष्टा प्रिया चन्द्रनिभानना।\nमैथिली मम विस्रब्धं कथयस्व न ते भयम्।।3.60.25।।",
+      "transliteration": "",
+      "translation": "O tiger tell me freely and fearlessly if you have seen my beloved princess from Mithila with a face like the moon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "किं धावसि प्रिये दूरे दृष्टासि कमलेक्षणे।\nवृक्षैराच्छाद्य चात्मानं किं मां न प्रतिभाषसे।।3.60.26।।",
+      "transliteration": "",
+      "translation": "O lotus eyed darling, why are you running away? I have already seen you.  Why are you hiding behind trees and not replying to me?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "तिष्ठ तिष्ठ वरारोहे न तेऽस्ति करुणा मयि।\nनात्यर्थं हास्यशीलासि किमर्थं मामुपेक्षसे।।3.60.27।।",
+      "transliteration": "",
+      "translation": "O my beautiful beloved, stay, stay  Have you no compassion for me ? You are so fond of fun. Why do you avoid me?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "पीतकौशेयकेनासि सूचिता वरवर्णिनि।\nधावन्त्यपि मया दृष्टा तिष्ठ यद्यस्ति सौहृदम्।।3.60.28।।",
+      "transliteration": "",
+      "translation": "O lady of lovely complexion, I can see your yellow silk (flying), while you are running away. If you have love for me, stay on.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "नैव सा नूनमथवा हिंसिता चारुहासिनी।\nकृच्छ्रप्राप्तं न मां नूनं यथोपेक्षितुमर्हति।।3.60.29।।",
+      "transliteration": "",
+      "translation": "O lady with a sweet smile I have never hurt you. When I am in difficulty it does not behove you to ignore me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "व्यक्तं सा भक्षिता बाला राक्षसैः पिशिताशनैः।\nविभज्याङ्कानि सर्वाणि मया विरहिता प्रिया।।3.60.30।।",
+      "transliteration": "",
+      "translation": "It is clear that separated from me, the body of my young beloved is torn off and eaten away by carnivorous demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "नूनं तच्छुभदन्तोष्ठं सुनासं चारुकुण्डलम्।\nपूर्णचन्द्रनिभं ग्रस्तं मुखंनिष्प्रभतां गतम्।।3.60.31।।",
+      "transliteration": "",
+      "translation": "Her beautiful face with her sparkling teeth and lips, wellshaped nose, shining earrings has been like the full moon, eclipsed and rendered pale.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "सा हि चम्पकवर्णाभा ग्रीवा ग्रैवेयशोभिता।\nकोमला विलपन्त्यास्तु कान्ताया भक्षिता शुभा।।3.60.32।।",
+      "transliteration": "",
+      "translation": "That delicate, beautiful neck of my beloved having the complexion of a champak flower and adorned with necklaces was perhaps eaten up.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "नूनं विक्षिप्यमाणौ तौ बाहू पल्लवकोमलौ।\nभक्षितौ वेपमानाग्रौ सहस्ताभरणाङ्गदौ।।3.60.33।।",
+      "transliteration": "",
+      "translation": "Her arms, delicate like tender leaves, their tips (fingers) quivering, adorned with armlets and bracelets have surely been eaten away.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "मया विरहिता बाला रक्षसां भक्षणाय वै।\nसार्धेनेव परित्यक्ता भक्षिता बहुबान्धवा।।3.60.34।।",
+      "transliteration": "",
+      "translation": "The young lady having many relations, forsaken by me, has been (perhaps) picked up by a demon for food and later abandoned halfeaten.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "हा लक्ष्मण महाबाहो पश्यसि त्वं प्रियां क्वचित्।\nहा प्रिये क्व गता भद्रे हा सीतेति पुनः पुनः।।3.60.35।।",
+      "transliteration": "",
+      "translation": "O longarmed Lakshmana, are you able to see my beloved anywhere? O noble lady, O darling, where have you gone? O Sita  SIta",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "इत्येवं विलपन्रामः परिधावन्वनाद्वनम्।\nक्वचिदुद्भ्रमते वेगात्क्वचिद्विभ्रमते बलात्।।3.60.36।।\nक्वचिन्मत्त इवाभाति कान्तान्वेषणतत्परः।",
+      "transliteration": "",
+      "translation": "Rama ran from forest to forest, now jumping, now taking strong strides, but all the time weeping, a madman busy in search of his beloved.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "स वनानि नदीश्शैलान् गिरिप्रस्रवणानि च।।3.60.37।।\nकाननानि च वेगेन भ्रमत्यपरिसंस्थितः।",
+      "transliteration": "",
+      "translation": "He rushed through forests, rivers, hills and mountain streams and through dense jungles with an unstable mind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-60-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "तथा स गत्वा विपुलम् महद्वनं परीत्य सर्वं त्वथ मैथिलीं प्रति।\nअनिष्ठिताशस्सचकार मार्गणे पुनः प्रियायाः परमं परिश्रमम्।।3.60.38।।",
+      "transliteration": "",
+      "translation": "Rama went about the vast forest searching for the princess from Mithila all over not giving up hope of finding her. He continued to make great efforts for searching his beloved. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे षष्टितमस्सर्गः।। Thus ends the sixtieth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

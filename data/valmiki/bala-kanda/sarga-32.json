@@ -1,0 +1,234 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 32,
+    "title": "Sarga 32",
+    "titleSanskrit": "",
+    "totalShlokas": 24
+  },
+  "shlokas": [
+    {
+      "id": "v1-32-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "[Description of the four sons of Brahma and the dynasty of Kusanabha-- enraged Windgod turns the daughters of Kusanabha into humpedback ones.\nब्रह्मयोनिर्महानासीत्कुशो नाम महातपा:।\nअक्लिष्टव्रतधर्मज्ञः सज्जनप्रतिपूजक:।।1.32.1।।",
+      "transliteration": "",
+      "translation": "There was a great ascetic named Kusa, born to Brahma, as ascetic indefatigable in vows, knowldegeable in dharma and a respector of the virtuous.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-32-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "स महात्मा कुलीनायां युक्तायां सुगुणोल्बणान्।\nवैदर्भ्यां जनयामास चतुरस्सदृशान् सुतान्।।1.32.2।।\nकुशाम्बं कुशनाभं च अधूर्तरजसं वसुम्।",
+      "transliteration": "",
+      "translation": "That great soul, Kusa, married the princess of Vidarbha  born in a noble family and a match for him. He begot four virtuous sons who resembled him. They were Kusamba, Kusanabha, Adhurtarajas and Vasu.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-32-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "दीप्तियुक्तान् महोत्साहान् क्षत्रधर्मचिकीर्षया।।1.32.3।।\nतानुवाच कुश: पुत्रान् धर्मिष्ठान् सत्यवादिन:।",
+      "transliteration": "",
+      "translation": "Kusa addressed his four brilliant sons who were highly enthusiastic, pious, truthful and were wedded to duties of the warrior race:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-32-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "क्रियतां पालनं पुत्रा: धर्मं प्राप्स्यथ पुष्कलम्।।1.32.4।।\nऋषेस्तु वचनं श्रुत्वा चत्वारो लोकसम्मता:।\nनिवेशं चक्रिरे सर्वे पुराणां नृवरास्तदा।।1.32.5।।",
+      "transliteration": "",
+      "translation": "\"O my sons, govern with righteousness so that you will acquire immense merit'. Hearing the words of the rishi, the four sons who were the best among men and revered in the world constructed four cities as their abodes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-32-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "कुशाम्बस्तु महातेजा: कौशाम्बीमकरोत्पुरीम् ।\nकुशनाभस्तु धर्मात्मा पुरं चक्रे महोदयम्।।1.32.6।।",
+      "transliteration": "",
+      "translation": "The brilliant Kushamba and the righteous Kushanabha constructed the cities of  Kaushanbi and Mahodaya (as their capital) respectively.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-32-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अधूर्तरजसो राम धर्मारण्यं महीपति:।\nचक्रे पुरवरं राजा वसुश्चक्रे गिरिव्रजम्।।1.32.7।।",
+      "transliteration": "",
+      "translation": "O Rama king Adhurtarajasa constructed Dharmaranya, the best of cities and king Vasu, the city of Girivrajam.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-32-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "एषा वसुमती राम वसोस्तस्य महात्मन:।\nएते शैलवरा: पञ्च प्रकाशन्ते समन्तत:।।1.32.8।",
+      "transliteration": "",
+      "translation": "O Rama this place where we are (called Vasumati) belongs to the magnanimous king Vasu. This is  surrounded by five great shining mountains.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-32-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "सुमागधी नदी रम्या मगधान् विश्रुताययौ।\nपञ्चानां शैलमुख्यानां मध्ये मालेव शोभते।।1.32.9।।",
+      "transliteration": "",
+      "translation": "The delightful and renowned river Sumagadhi (known as Sona), flowing in the country of Magadha, looks beautiful like a garland amidst five great mountains.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-32-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "सैषा हि मागधी राम वसोस्तस्य महात्मन:।\nपूर्वाभिचरिता राम सुक्षेत्रा सस्यमालिनी।।1.32.10।।",
+      "transliteration": "",
+      "translation": "Rama, this Magadhi river, of great Vasu flows from the east surrounded by fertile crops fields like a garland.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-32-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "कुशनाभस्तु राजर्षि: कन्याशतमनुत्तमम्।\nजनयामास धर्मात्मा घृताच्यां रघुनन्दन।।1.32.11।।",
+      "transliteration": "",
+      "translation": "O scion of the Raghu family, the virtuous rajarshi Kusanabha begot one hundred beautiful daughters through a nymph named Ghritachi.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-32-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तास्तु यौवनशालिन्यो रूपवत्य स्स्वलङ्कृता:।\nउद्यानभूमिमागम्य प्रावृषीव शतह्रदा:।।1.32.12।।\nगायन्त्यो नृत्यमानाश्च वादयन्त्यश्च सर्वश:।\nआमोदं परमं जग्मुर्वराभरणभूषिता:।।1.32.13।।",
+      "transliteration": "",
+      "translation": "Those welladorned, beautiful, young maidens in the pleasuregarden looked like lightnings in the rainy season. Bedecked with fine ornaments they were singing, dancing, playing on instruments and moving in all directions in great delight.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-32-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अथ ताश्चारुसर्वाङ्ग्यो रूपेणाप्रतिमा भुवि।\nउद्यानभूमिमागम्य तारा इव घनान्तरे।।1.32.14।।",
+      "transliteration": "",
+      "translation": "With beautiful limbs of unparalleled beauty on earth, they shone in the pleasuregarden like stars in the midst of clouds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-32-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तास्सर्वगुणसम्पन्ना रूपयौवनसंयुता:।\nदृष्ट्वा सर्वात्मको वायुरिदं वचनमब्रवीत्।।1.32.15।।",
+      "transliteration": "",
+      "translation": "At the sight of the maidens embellished with all virtues and youth and beauty, the allpervading Windgod addressed them these words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-32-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "अहं व: कामये सर्वा भार्या मम भविष्यथ।\nमानुषस्त्यज्यतां भावः दीर्घमायुरवाप्स्यथ।।1.32.16।।",
+      "transliteration": "",
+      "translation": "I request you all to be my wives. You will leave this feeling of mortality and attain a  long life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-32-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "चलं हि यौवनं नित्यं मानुषेषु विशेषत:।\nअक्षय्यं यौवनं प्राप्ताः अमर्यश्च भविष्यथ।।1.32.17।।",
+      "transliteration": "",
+      "translation": "Youth is always unstable, especially in human beings. If you marry me, you will be ever youthful like devatas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-32-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तस्य तद्वचनं श्रुत्वा वायोरक्लिष्टकर्मण:।\nअपहास्य ततो वाक्यं कन्याशतमथाब्रवीत् ।।1.32.18।।",
+      "transliteration": "",
+      "translation": "At the works of the untiringly blowing Windgod the lunged maidens laughed and said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-32-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अन्तश्चरसि भूतानां सर्वेषां त्वं सुरोत्तम ।\nप्रभावज्ञा: स्म ते सर्वा: किमस्मानवमन्यसे।।1.32.19।।",
+      "transliteration": "",
+      "translation": "\"O best among devatas you move within all living beings, we feel your impact. Why do you insult us?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-32-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "कुशनाभसुतास्सर्वा: समर्थास्त्वां सुरोत्तम।\nस्थानाच्च्यावयितुं देवं रक्षामस्तु तपो वयम्।।1.32.20।।",
+      "transliteration": "",
+      "translation": "\"O best among devatas we are daughters of Kusanabha, We are capable of pulling you down from your position. We are safeguarding our ascetic merit as virgins (we could curse you to save our ascetic merit)\" of Kusnabha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-32-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "माभूत्स कालो दुर्मेध: पितरं सत्यवादिनम्।\nनावमन्यस्व धर्मेण स्वयं वरमुपास्महे।।1.32.21।।",
+      "transliteration": "",
+      "translation": "O wicked one, do not dishonour our father who always speaks the truth. He will choose the bridegrooms righteously. Do not invite death (father may be the cause of your death).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-32-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "पिता हि प्रभुरस्माकं दैवतं परमं हि न:।\nयस्य नो दास्यति पिता स नो भर्ता भविष्यति।।1.32.22।।",
+      "transliteration": "",
+      "translation": "Our father is our lord. Our father is god to us. Whomsoever our father offers us shall become our husband\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-32-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तासां तद्वचनं श्रुत्वा वायु: परमकोपन:।\nप्रविश्य सर्वगात्राणि बभञ्ज भगवान् प्रभु:।।1.32.23।।",
+      "transliteration": "",
+      "translation": "Having heard the words of those maidens, the most powerful and venerable Windgod became furious. He entered all the limbs of their bodies, twisted and distorted them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-32-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "ता: कन्या वायुना भग्ना विविशुर्नृपतेर्गृहम्।\nप्रापतन् भुवि सम्भ्रान्तास्सलज्जा स्सास्रलोचना:।।1.32.24।।",
+      "transliteration": "",
+      "translation": "Their bodies disfigured and shattered by the Windgod, the maidens with tears flowing from their eyes entered the palace and fell down on the ground, agitated and overtaken by shame.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-32-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "स च ता दयिता दीना: कन्या: परमशोभना:।\nदृष्ट्वा भग्नास्तदा राजा सम्भ्रान्त इदमब्रवीत्।।1.32.25।।",
+      "transliteration": "",
+      "translation": "The king saw his extremely beautiful beloved daughters distressed and shattered and spoke these words with bewilderment.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-32-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "किमिदं कथ्यतां पुत्र्य: को धर्ममवमन्यते।\nकुब्जा: केन कृता: सर्वा वेष्टन्त्यो नाभिभाषथ।\nएवं राजा विनिश्श्वस्य समाधिं सन्दधे तत:।।1.32.26।।",
+      "transliteration": "",
+      "translation": "\"O daughters What has happened? Who has dishonoured virtue? Say it at once. Who has made you hunchbacked? Standing roud me, why are you dumb?\" The king heaved a sigh and entered into a state of samadhi.   इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे द्वात्रिंशस्सर्ग:।। Thus ends the thirtysecond sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

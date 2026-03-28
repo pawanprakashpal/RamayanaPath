@@ -1,0 +1,279 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 11,
+    "title": "Ravana enters the royal assembly followed by Vibheeshana, Prahastha and others and holds consultations with his ministers.",
+    "titleSanskrit": "",
+    "totalShlokas": 29
+  },
+  "shlokas": [
+    {
+      "id": "v6-11-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "सबभूवकृशोराजामैथिलीकाममोहितः ।\nअसन्मान���च्चसुहृदांपापंपापेनकर्मणा ।।6.11.1।।",
+      "transliteration": "",
+      "translation": "Infatuated with passion towards Mythili, disregarded by his dear ones on account of sinful actions, sinner Ravana became weak.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-11-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अतीतसमयेकालेतस्मिन्वैयुधिरावणः ।\nअमात्यैश्चसुहृद्भिश्चप्राप्तकालममन्यत ।।6.11.2।।",
+      "transliteration": "",
+      "translation": "Because of the lapse of time, Ravana considered it imminent to consult with his ministers and friends about war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-11-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "सहेमजालविततंमणिविद्रुमभूषितम् ।\nउपगम्यविनीताश्वमारुरोहमहारथम् ।।6.11.3।।",
+      "transliteration": "",
+      "translation": "Ravana, having reached, ascended the magnificent chariot that was overlaid with golden latticework, decked with gems and corals, and yoked to trained horses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-11-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तमास्थायरथश्रेष्ठंमहामेघसमस्वनम् ।\nप्रययौरक्षसांश्रेष्ठोदशग्रीवस्सभांप्रति ।।6.11.4।।",
+      "transliteration": "",
+      "translation": "The tenheaded Ravana, eminent one among Rakshasas climbed up that best of chariots that was making noise like the roaring sound of a huge cloud and went to assembly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-11-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "असिचर्मधरायोधास्सर्वायुधधरास्ततः ।\nराक्षसाराक्षसेन्द्रस्यपुरस्तात्सम्प्रतस्थिरे ।।6.11.5।।",
+      "transliteration": "",
+      "translation": "Then soldiers wielding swords and different kinds of weapons stood in front of the Lord of Rakshasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-11-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "नानाविकृतवेषाश्चनानाभूषणभूषिताः ।\nपार्श्वतस्पृष्ठतश्चैनंपरिवार्यययुस्तत:।। 6.11.6।।",
+      "transliteration": "",
+      "translation": "Further (Rakshasas) adorned in different kinds of uncouth attire, wearing different kinds of ornaments went by his side and also at the back.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-11-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "रथैश्चातिरथाश्शीघ्रंमत्तैश्चवरवारणैः ।\nअनूत्पेतुर्दशग्रीवमाक्रीडद्भिश्चवाजिभिः ।।6.11.7।।",
+      "transliteration": "",
+      "translation": "(Some Rakshasa) Charioteers riding on chariots, some on proud elephants and some on horses sporting away followed the tenheaded Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-11-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "गदापरिघहस्ताश्चशक्तितोमरपाणयः ।\nपरश्वथधराश्चान्येतथाऽन्येशूलपाणयः ।।6.11.8।।",
+      "transliteration": "",
+      "translation": "Some holding maces and iron bars, some holding strong iron clubs in hand, and some others holding battle axes, tridents and other weapons went.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-11-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "ततस्तूर्यसहस्राणांसञ्जज्ञेनिस्स्वनोमहान् ।\nतुमुलश्शङ्खशब्दश्चसभांगच्छतिरावणे ।।6.11.9।।",
+      "transliteration": "",
+      "translation": "Then as Ravana entered the assembly thousands of band instruments sounded aloud. Conchs broke forth producing tumultuous noise.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-11-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "सनेमिघोषेणमहान्सहसाऽभिनिनादयन् ।\nराजमार्गंश्रियाजुष्टंप्रतिपेदेमहारथः ।।6.11.10।।",
+      "transliteration": "",
+      "translation": "As the rattling sounds of the great chariot echoed in all directions, he entered the bright pleasing royal path all at once.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-11-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "विमलंचातपत्राणांप्रगृहीतमशोभत ।\nपाण्डुरंराक्षसेन्द्रस्यपूर्णस्ताराधिपोयथा ।।6.11.11।।",
+      "transliteration": "",
+      "translation": "The pure white canopy of Ravana held by the Rakshasas spread like lines shone like the Lord of stars (the full moon).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-11-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "हेममञ्जरिगर्भेचशुद्धस्फटिकविग्रहे ।\nचामरव्यजनेतस्यरेजतुस्सव्यदक्षिणे ।।6.11.12।।",
+      "transliteration": "",
+      "translation": "A pair of fans with pure crystal like handles with a golden bouquet in the middle glowed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-11-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तेकृताञ्जलयस्सर्वेरथस्थंपृथिवीस्थिताः ।\nराक्षसाराक्षसश्रेष्ठंशिरोभिस्तंववन्दिरे ।।6.11.13।।",
+      "transliteration": "",
+      "translation": "Standing on the ground, all the Rakshasas bowing their heads down and with folded palms offered their salutations to the foremost of the Rakshasas seated in the chariot.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-11-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "राक्षसैस्त्सूयमानस्सञ्जयाशीर्भिररिन्दमः ।\nआससादमहातेजास्सभांविरचितांतदा ।।6.11.14।।",
+      "transliteration": "",
+      "translation": "Then as the conqueror of foes, an exceptionally splendid one, Ravana was praised by the Rakshasas saying, \"Victory to you, Prosperity to you\", Ravana entered the wellbuilt royal court.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-11-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "सुवर्णरजतास्तीर्णांविशुद्धस्फटिकान्तराम् ।\nविराजमानोवपुषारुक्मपट्टोत्तरच्छदाम् ।।6.11.15।।\nतांपिशाचशतै: षङ्भिरभिगुप्तांसदाप्रभाम् ।\nप्रविवेशमहातेजास्सुकृतांविश्वकर्मणा ।।6.11.16।।",
+      "transliteration": "",
+      "translation": "Exceptionally splendid one, (Ravana) embodied with glowing body entered the royal court constructed by Vishwakarma, with pillars of gold and silver. Inside of the court was pure like crystal and carpeted with shining golden silk. It was very beautiful and ever shining and guarded by six hundred devils.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-11-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तस्यांसवैडूर्यमयंप्रियकाजिनसम्वृतम् ।\nमहत्सोपाश्रयंभेजेरावणःपरमासनम् ।।6.11.17।।",
+      "transliteration": "",
+      "translation": "Ravana sat on a huge excellent seat encrusted with Vydurya gems and covered with deer skin and which had a pillow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-11-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तत: शशासेश्वरवद्दूतान्लघुपराक्रमान् ।\nसमानयतमेक्षिप्रमिहैतान्राक्षसानिति ।।\nकृत्यमस्तिमहज्जानेकर्तव्यमितिशत्रुभिः ।।6.11.18।।",
+      "transliteration": "",
+      "translation": "Then that Lord like Ravana said \"We have to do a great task against the enemies now. It has to be performed.\" He commanded quick footed messengers to get the Rakshasas to him at once.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-11-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "राक्षसास्तद्वचश्श्रुत्वालङ्कायांपरिचक्रमुः ।।6.11.19।।\nअनुगेहमवस्थायविहारशयनेषुच ।\nउद्यानेषुचरक्षांसिचोदयन्तोह्यभीतवत् ।।6.11.20।।",
+      "transliteration": "",
+      "translation": "Those Rakshasas having heard the words spoken by Ravana went to places of recreation, bedrooms and gardens and went round without fear into every house directing the Rakshasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-11-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तेरथान् रुचिरानेकेदृप्तानेकेपृथग्घयान् ।\nनागानेकेऽधिरुरुहुर्जग्मुश्चैकेपदातयः ।।6.11.21।।",
+      "transliteration": "",
+      "translation": "Of those (Rakshasas) some went on exquisite chariots, some on proud sturdy horses some ascended elephants and some by foot.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-11-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "सापुरीपरमाकीर्णारथकुञ्जरवाजिभिः ।\nसम्पतद्भिर्विरुरुचेगरुत्मद्भिरिवाम्बरम् ।।6.11.22।।",
+      "transliteration": "",
+      "translation": "With chariots, elephants and horses advancing in groups the prosperous capital was shining resembling the flocks of birds in the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-11-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तेवाहनाव्यवस्थाप्ययानानिविविधानिच ।\nसभांपद्भिःप्रविविशुस्सिंहागिरिगुहामिव ।।6.11.23।।",
+      "transliteration": "",
+      "translation": "Parking those vehicles of several kinds at the entrance they entered the royal court by foot like the lions entering the cave of a mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-11-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "राज्ञःपादौगृहीत्वातुराज्ञातेप्रतिपूजिताः ।\nपीठेष्वन्येबृसीष्वन्येभूमौकेचिदुपाविशन् ।।6.11.24।।",
+      "transliteration": "",
+      "translation": "They held the feet of the king and on offering salutations to the king took their seat. While some took golden seats, some sat on a kusa grass mat, and some took a se at on the floor.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-11-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तेसमेत्यसभायांवैराक्षसाराजशासनात् ।\nयथार्हमुपतस्थुस्तेरावणंराक्षसाधिपम् ।।6.11.25।।",
+      "transliteration": "",
+      "translation": "Those Rakshasas (who arrived) at the royal court settled down in appropriate seats on the king's command. The leaders of Rakshasas s at close by Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-11-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "मन्त्रिणश्चयथामुख्यानिश्चयार्थेषुपण्डिताः ।\nअमात्याश्चगुणोपेतास्सर्वज्ञाबुद्धिदर्शनाः ।।6.11.26।।\nसमीयुस्तत्रशतशशूराश्चबहवस्तदा ।\nसभायांहेमवर्णायांसर्वार्थस्यसुखायवै ।।6.11.27।।",
+      "transliteration": "",
+      "translation": "Those who were learned in decision making, ministers, virtuous and knowledgeable ones, those who can visualise things with their intellect, army men, like wise many heroes and important people collected at the royal assembly shining in golden colour to deliberate on matters for a happy conclusion.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-11-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "ततोमहात्माविपुलंसुयुग्यंरथम्वरंहेमविचित्रिताङ्गम् ।\nशुभंसमास्थायययौयशस्वीविभीषणस्संसदमग्रजस्य ।।6.11.28।।",
+      "transliteration": "",
+      "translation": "Thereafter illustrious and great Vibheeshana having ascended auspicious and choicest chariot decked with gold and yoked to good horses went to the assembly of his elder brother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-11-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "सपूर्वजायावरजश्शशंसनामाथपश्चाश्चरणौववन्दे ।\nशुकःप्रहस्तश्चतथैवतेभ्योददौयथार्हंपृथगासनानि ।।6.11.29।।",
+      "transliteration": "",
+      "translation": "There after Vibheeshana the younger brother, repeated his name (by way of courtesy ). A fter that he offered salutations to his elder brother's feet. B oth Sukha and Prahastha likewise followed Vibheeshana and took their seats offered according to their position.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-11-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "सुवर्णनानामणिभूषणानांसुवाससांसंसदिराक्षसानाम् ।\nतेषांपरार्घ्यागुरुचन्दनानांस्रजाश्चगन्धाःप्रववुस्समन्तात् ।।6.11.30।।",
+      "transliteration": "",
+      "translation": "In that royal court decorated with different kinds of golden and gem colours, the Rakshasas attired in beautiful clothes with their body smeared with fragrance of incense and sandal paste and wearing floral garland s whose fragrance had spread all over.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-11-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "नचुक्रुशुर्नानृतमाहकश्चित्सभापदोनापिजजल्पुरुच्चैः ।\nसंसिद्धार्थास्सर्वएवोग्रवीर्याभर्तुस्सर्वेददृशुश्चाननंते ।।6.11.31।।",
+      "transliteration": "",
+      "translation": "Those who assembled at the royal court neither made a little noise, nor uttered untruth, nor spoke. All of them were fully accomplished, very heroic and looked at their Lord's face.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-11-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "सरावणश्शस्त्रभृतांमनस्विनांमहाबलानांसमितौमनस्वी ।\nतस्यांसभायांप्रभयाचकाशेमध्येवसूनामिववज्रहस्तेः ।।6.11.32।।",
+      "transliteration": "",
+      "translation": "In that assembly, amid those heroes of great prowess, who held arms, Ravana glowed like Indra, who wields a diamond bolt in battle among the Vasus. ।।इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेएकादशस्सर्गः ।। This is the end of the eleventh sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

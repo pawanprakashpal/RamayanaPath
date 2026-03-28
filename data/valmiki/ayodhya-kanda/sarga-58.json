@@ -1,0 +1,342 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 58,
+    "title": "Sumantra conveys the message of Rama to the wailing king and Kausalya.",
+    "titleSanskrit": "",
+    "totalShlokas": 36
+  },
+  "shlokas": [
+    {
+      "id": "v2-58-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "प्रत्याश्वस्तो यदा राजा मोहात्प्रत्यागतं पुनः।\nअथाऽजुहाव तं सूतं रामवृत्तान्तकारणात्।।2.58.1।।",
+      "transliteration": "",
+      "translation": "When the king regained his consciousness and was consoled, he summoned the   charioteer to hear news about Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अथ सूतो महाराजं कृताञ्जलिरुपस्थितः।\nराममेवानुशोचन्तं दुःखशोकसमन्वितम्।।2.58.2।।\nवृद्धं परमसन्तप्तं नवग्रहमिव द्विपम्।\nविनिश्वसन्तं ध्यायन्तमस्वस्थ मिव कुङञरम्।।2.58.3।।",
+      "transliteration": "",
+      "translation": "Then the charioteer with folded palms approached the king who, deeply afflicted with grief and pain, was brooding over Rama alone. Aged Dasaratha was heaving deep sighs like a newlycaptured, indisposed elephant.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "राजा तु रजसा सूतं ध्वस्ताङ्गं समुपस्थितम्।\nअश्रुपूर्णमुखं दीनमुवाच परमार्तवत्।।2.58.4।।",
+      "transliteration": "",
+      "translation": "Seeing the dejected charioteer standing before him, the desolate king covered all over with dust and his face bathed in tears, said to him in extreme grief:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "क्वनु वत्स्यति धर्मात्मा वृक्षमूलमुपाश्रितः।\nसोऽत्यन्तसुखित स्सूत किमशिष्यति राघवः।।2.58.5।।",
+      "transliteration": "",
+      "translation": "O charioteer Rama is rightous and he is acustoomed to all sorts of comfort. Taking refuge at the foot of a tree how shall he live and what shall he eat?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "दुःखस्यानुचितो दुःखं सुमन्त्र शयनोचितः।\nभूमिपालात्मजो भूमौ शेते कथमनाथवत्।।2.58.6।।",
+      "transliteration": "",
+      "translation": "How can the son of the guardian of the earth who is accustomed to a comfortable bed and not to undeserved suffering lie down on the ground like an orphan, O Sumantra",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "यं यान्तमनुयान्ति स्म पदातिरथकुञ्जराः।\nस वत्स्यति कथं रामो विजनं वन माश्रितः।।2.58.7।।",
+      "transliteration": "",
+      "translation": "Wherever Rama went, elephants, chariots and footsoldiers followed him. How can he (now) live in the desolate forest where he has taken refuge?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "व्यालैर्मृगैराचरितं कृष्णसर्पनिषेवितम्।\nकथं कुमारौ वैदेह्या सार्धं वन मुपस्थितौ।।2.58.8।।",
+      "transliteration": "",
+      "translation": "How can the two young men along with Vaidehi live in the forest infested with black cobras and wicked, wild animals?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "सुकुमार्या तपस्विन्या सुमन्त्र सह सीतया।\nराजपुत्रौ कथं पादै��वरुह्य रथाद्गतौ।।2.58.9।।",
+      "transliteration": "",
+      "translation": "O Sumantra how did those two princes along with pitiable, delicate Sita, alight from the chariot, and enter the forest on foot?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "सिद्धार्थः खलु सूत त्वं येन दृष्टौ ममाऽत्मजौ।\nवनान्तं प्रविशन्तौ तावश्विनाविवमन्दरम्।।2.58.10।।",
+      "transliteration": "",
+      "translation": "You are blessed indeed, O charioteer to have seen my sons entering the outskirts of the forest like Aswinis stepping into the region of the Mandara mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "किमुवाच वचो रामः किमुवाच च लक्ष्मणः।\nसुमन्त्र वनमासाद्य किमुवाच च मैथिली।।2.58.11।।",
+      "transliteration": "",
+      "translation": "Upon reaching the forest, O Sumantra what did Rama, Lakshmana and Sita say?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "आसितं शयितं भुक्तं सूत रामस्य कीर्तय।\nजीविष्यामहमेतेन ययातिरिव साधुषु।।2.58.12।।",
+      "transliteration": "",
+      "translation": "Tell me, O charioteer where Rama sat, where he slept, what (food) he ate. Only your words will enable me to live like Yayati among saints.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "इति सूतो नरेन्द्रेण बोधित स्सज्जमानया।\nउवाच वाचा राजानं स बाष्पपरिबद्धया।।2.58.13।।",
+      "transliteration": "",
+      "translation": "Thus questioned by the king the charioteer, his voice choked with tears and words faltering in grief, addressed the king:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "अब्रवीन्मां महाराज धर्ममेवानुपालयन्।\nअञ्जलिं राघवः कृत्वा शिरसाऽभिप्रणम्य च।।2.58.14।।",
+      "transliteration": "",
+      "translation": "With palms folded and head bowed, O great king Rama offered his salutations to you in confirmity with righteousness and said to me:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "सूत मद्वचनात्तस्य तातस्य विदितात्मनः।\nशिरसा वन्दनीयस्य वन्द्यौ पादौ महात्मनः।।2.58.15।।",
+      "transliteration": "",
+      "translation": "'Convey on my behalf, O charioteer to my illustrious father who is known for his selfknowledge, and is worthy of homage, that I am saluting his feet with my head bowed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "सर्वमन्तःपुरं वाच्यं सूत मद्वचनात्त्वया।\nआरोग्यमविशेषेण यथार्हं चाभिवादनम्।।2.58.16।।",
+      "transliteration": "",
+      "translation": "'On my behalf convey, O charioteer, without any distinction, my salutations to all the  women befitting their status and tell them I was enquiring about their wellbeing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "माता च मम कौसल्या कुशलं चाभिवादनम्।\nअप्रमादं च वक्तव्या ब्रूयाश्चैनामिदं वचः।।2.58.17।।",
+      "transliteration": "",
+      "translation": "'Convey my mother carefully my saluations and my wellbeing and tell her:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "धर्मनित्या यथाकालमग्न्यगारपरा भव।\nदेवि देवस्य पादौ च देववत्परिपालय।।2.58.18।।",
+      "transliteration": "",
+      "translation": "'O mother, adhering to the righteous path and performing in time the rituals in the chamber of sacrificial fire, offer your services at the feet of king Dasaratha as if he were a god.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अभिमानं च मानं च त्यक्त्वा वर्तस्व मातृषु।\nअनु राजानमार्यां च कैकेयीमम्ब कारय।।2.58.19।।",
+      "transliteration": "",
+      "translation": "'O mother, conduct yourself with other mothers without pride and egoism. Ensure that venerable Kaikeyi remains welldisposed towards the king.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "कुमारे भरते वृत्तिर्वर्तितव्या च राजवत्।\nअर्थज्येष्ठा हि राजानो राजधर्ममनु��्मर।।2.58.20।।",
+      "transliteration": "",
+      "translation": "'Behave towards young Bharata as to a king. Irrespective of age, a king is a king. (Hence should be honoured). You should keep this rajadharma (royal prerogative) in mind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "भरतः कुशलं वाच्यो वाच्यो मद्वचनेन च।\nसर्वास्वेव यथान्यायं वृत्तिं वर्तस्व मातृषु।।2.58.21।।",
+      "transliteration": "",
+      "translation": "'Tell Bharata of my welfare and tell him on my behalf that he should honour all our mothers equally.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "वक्तव्यश्च महाबाहुरिक्ष्वाकुकुलनन्दनः।\nपितरं यौवराज्यस्थो राज्यस्थमनुपालय।।2.58.22।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "अतिक्रान्तवया राजा मास्मैनं व्यवरोरुधः।\nकुमार राज्ये जीव त्वं तस्यैवाज्ञाप्रवर्तनात्।।2.58.23।।",
+      "transliteration": "",
+      "translation": "'The king is advanced in age. Do not restrict him in any manner. Carry out his orders as prince regent, and live happily'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "अब्रवीच्चापि मां भूयो भृशमश्रूणि वर्तयन्।\nमातेव मम माता ते द्रष्टव्या पुत्रगर्धिनी।।2.58.24।।",
+      "transliteration": "",
+      "translation": "Shedding profuse tears, Rama continued, 'Look after my mother who is covetous of her son as your own mother'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "इत्येवं मां महराज ब्रुवन्नेव महायशाः।\nरामो राजीवताम्राक्षो भृशमश्रूण्यवर्तयत्।।2.58.25।।",
+      "transliteration": "",
+      "translation": "While saying this the red lotuslike eyes of illustrious Rama streamed with tears, O maharaja",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "लक्ष्मणस्तु सुसङ्कृद्धो निश्श्वसन्वाक्यमब्रवीत्।\nकेनायमपराधेन राजपुत्रो विवासितः।।2.58.26।।",
+      "transliteration": "",
+      "translation": "But Lakshmana, seething with anger and sighing said, 'For what offence has this king's son  been banished'?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "राज्ञा तु खलु कैकेय्या लघुत्वाश्रित्य शासनम्।\nकृतं कार्यमकार्यं वा वयं येनाभिपीडिताः।।2.58.27।।",
+      "transliteration": "",
+      "translation": "'The king, too, submitting to the trash command of Kaikeyi has perpetrated an act, just or unjust (he knows better), for which we are made to suffer so much.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "यदि प्रव्राजितो रामो लोभकारणकारितम्।\nवरदाननिमित्तं वा सर्वथा दुष्कृतं कृतम्।।2.58.28।।",
+      "transliteration": "",
+      "translation": "'Whether it was out of greed (for the kingdom) or for (the execution of) the boon bestowed, this act of banishment is by all means wicked'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "इदं तावद्यथाकाममीश्वरस्य कृते कृतम्।\nरामस्य तु परित्यागे न हेतु मुपलक्षये।।2.58.29।।",
+      "transliteration": "",
+      "translation": "'Or he might have thought he is the overlord and can do as he likes. (Or, he might have done this for fear of God) Otherwise, I do not see any reason for the abandonment of Rama'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "असमीक्षय समारब्धं विरुद्धं बुध्दिलाघवात्।\nजनयिष्यति सङ्क्रोशं राघवस्य विवासनम्।।2.58.30।।",
+      "transliteration": "",
+      "translation": "'Unjustly, foolishly and without (proper) consideration Rama has been banished. This will (definitely) cause sorrow'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "अहं तावन्महाराजे पितृत्वं नोपलक्ष्ये।\nभ्राता भर्ता च बन्धुश्च पिता च मम राघवः।।2.58.31।।",
+      "transliteration": "",
+      "translation": "'I do not regard the great king as my father. Rama alone is my brother, protector, friend and father.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "सर्वर्लोकप्रियं त्यक्त्वा सर्वलोकहिते रतम्।\nसर्वलोकोऽनुरज्येत कथं त्वाऽनेनकर्मणा।।2.58.32।।",
+      "transliteration": "",
+      "translation": "'How can anyone in this world be pleased with you for deserting Rama, the beloved of all, and ever devoted to their welfare?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "सर्वप्रजाभिरामं हि रामं प्रव्राज्य धार्मिकम्।\nसर्वलोकं विरुध्येमं कथं राजा भविष्यसि।।2.58.33।।",
+      "transliteration": "",
+      "translation": "'Having banished the righteous Rama, the delight of all subjects and, thereby,  antagonizing the entire world, how can you claim to be their king?'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "जानकी तु महाराज निश्श्वसन्ती मनस्विनी।\nभूतोपहतचित्तेव विष्ठिता विस्मृता स्मिता।।2.58.34।।",
+      "transliteration": "",
+      "translation": "O great king as for that sensitive Janaki, she stood sighing, stupefied and oblivious (of the past), yet smiling as though her mind was possessed by an evil spirit.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "अदृष्टपूर्वव्यसना राज्यपुत्री यशस्विनी।\nतेन दुःखेन रुदती नैव मां किञ्चिदब्रवीत्।।2.58.35।।",
+      "transliteration": "",
+      "translation": "That glorious princess Sita who had never experienced any adversity earlier, weeping with sorrow, could not even speak to me anything.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "उद्वीक्षमाणा भर्तारं मुखेन परिशुष्यता।\nमुमोच सहसा बाष्पं मां प्रयान्तमुदीक्ष्य सा।।2.58.36।।",
+      "transliteration": "",
+      "translation": "When she saw me leaving, she looked at her husband with a dry (pale) face and suddenly burst into tears.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-58-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "तथैव रामोऽश्रुमुखः कृताञ्जलिः स्थितोऽभवल्लक्ष्मणबाहुपालितः।\nतथैव सीता रुदती तपस्विनी निरीक्षते राजरथं तथैव माम्।।2.58.37।।",
+      "transliteration": "",
+      "translation": "Supported by Lakshmana's arms, Rama stood, his face streaming with tears and palms folded, while the wretched Sita, glaring at me and the royal chariot, weeping.  इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे अष्टपञ्चाशस्सर्गः।। Thus ends the fiftyeighth sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 45,
+    "title": "Devatas and daityas churn the ocean of milk -- Rudra swallows venom -- Visnu assumes the form of tortoise and supports Mandara mountain on his back -- emergence of Dhanvantari, apsarasas, etc -- battle between devas and daityas for possession of nectar.",
+    "titleSanskrit": "",
+    "totalShlokas": 42
+  },
+  "shlokas": [
+    {
+      "id": "v1-45-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "विश्वामित्रवचश्श्रुत्वा राघव स्सहलक्ष्मण:।\nविस्मयं परमं गत्वा विश्वामित्रमथाब्रवीत्।।1.45.1।।",
+      "transliteration": "",
+      "translation": "On hearing the words of Viswamitra, Rama along with Lakshmana, filled with astonishment said to him:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अत्यद्भुतमिदं ब्रह्मन् कथितं परमं त्वया।\nगङ्गावतरणं पुण्यं सागरस्यापि पूरणम्।।1.45.2।।",
+      "transliteration": "",
+      "translation": "\"O Knower of the Brahman this story narrated by you relating to the descent of the sacred Ganga and the fullness of the ocean  (due to Ganga's fall) is very wonderful\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "तस्य सा शर्वरी सर्वा सह सौमित्रिणा तदा।\nजगाम चिन्तयानस्य विश्वामित्रकथां शुभाम् ।।1.45.3।।",
+      "transliteration": "",
+      "translation": "Then Rama along with Lakshmana spent the whole night reflecting on the auspicious story narrated by Viswamitra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तत: प्रभाते विमले विश्वामित्रं महामुनिम्।\nउवाच राघवो वाक्यं कृताह्निकमरिन्दम:।।1.45.4।।",
+      "transliteration": "",
+      "translation": "Thereafter, the progeny of the Raghus, the destroyer of enemies (Rama) addressed Viswamitra in the clear early morning after Viswamitra had completed his routine rites:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "गता भगवती रात्रिश्श्रोतव्यं परमं श्रुतम्।\nक्षणभूतेव नौ रात्रि स्सम्वृत्तेयं महातप:।।1.45.5।।\nइमां चिन्तयतस्सर्वां निखिलेन कथां तव।",
+      "transliteration": "",
+      "translation": "\"O Noble ascetic we have heard this great story worthy to be listened. As we both lay pondering over the entire story (narrated by you), the glorious night passed off just like a moment.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तराम सरितां श्रेष्ठां पुण्यां त्रिपथगां नदीम्।।1.45.6।।\nनौरेषा हि सुखास्तीर्णा ऋषीणां पुण्यकर्मणाम्।\nभगवन्तमिह प्राप्तं ज्ञात्वा त्वरितमागता।।1.45.7।।",
+      "transliteration": "",
+      "translation": "We will cross over Ganga, the best of rivers, the sacred river that flows in three directions.This boat of pious saints which is well laidout has come here swiftly, having come to know that you, O Venerable one have arrived\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तस्य तद्वचनं श्रुत्वा राघवस्य महात्मन:।\nसन्तारं कारयामास सर्षिसङ्घ स्सराघव:।।1.45.8।।",
+      "transliteration": "",
+      "translation": "Hearing the words of noble Rama, he (Viswamitra), accompanied by hosts of sages besides Rama and Lakshmana made arrangements to cross (the river).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "उत्तरं तीरमासाद्य सम्पूज्यर्षिगणं तदा।\nगङ्गाकूले निविष्टास्ते विशालां ददृशु: पु���ीम्।।1.45.9।।",
+      "transliteration": "",
+      "translation": "Having reached the northern bank, they paid homage to the sages encamped on the bank of  Ganga and beheld the city of Vishala.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "ततो मुनिवरस्तूर्णं जगाम सह राघव: ।\nविशालां नगरीं रम्यां दिव्यां स्वर्गोपमां तदा।।1.45.10।।",
+      "transliteration": "",
+      "translation": "Thereupon Viswamitra, the best of ascetics, accompanied by Rama and Lakshmana soon proceeded towards the enchanting and splendid city of Vishala comparable to heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अथ रामो महाप्राज्ञो विश्वामित्रं महामुनिम् ।\nपप्रच्छ प्राञ्जलिर्भूत्वा विशालामुत्तमां पुरीम्।।1.45.11।।",
+      "transliteration": "",
+      "translation": "Thereafter great intellectual, Rama, with folded palms enquired of eminent ascetic Viswamitra, about the excellent city of Vishala.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "कतरो राजवंशोऽयं विशालायां महामुने।\nश्रोतुमिच्छामि भद्रं ते परं कौतूहलं हि मे।।.1.45.12।।",
+      "transliteration": "",
+      "translation": "\"O Distinguished ascetic, which royal dynasty is ruling this city of Vishala? Could you tell me? Great is my curiosity. May you prosper\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "तस्य तद्वचनं श्रुत्वा रामस्य मुनिपुङ्गव:।\nआख्यातुं तत्समारेभे विशालस्य पुरातनम्।।1.45.13।।",
+      "transliteration": "",
+      "translation": "Viswamitra, preeminent among ascetics, hearing the words of Rama commenced to relate the history of the ancient city of Vishala.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "श्रूयतां राम शक्रस्य कथां कथयतश्शुभाम्।\nअस्मिन् देशे तु यद्वृत्तं तदपि शृणु राघव।।1.45.14।।",
+      "transliteration": "",
+      "translation": "\"O Rama hear the auspicious legend of Indra. Listen, too, what had happened to this  country.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "पूर्वं कृतयुगे राम दिते: पुत्रा महाबला:।\nअदितेश्च महाभाग वीर्यवन्तस्सुधार्मिका:।।1.45.15।।",
+      "transliteration": "",
+      "translation": "O Blessed Rama in kritayuga, the sons of Diti were very strong and those of Aditi were spirited and righteous.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "ततस्तेषां नरश्रेष्ठ बुद्धिरासीन्महात्मनाम् ।\nअमरा अजराश्चैव कथं स्याम निरामया:।।1.45.16।।",
+      "transliteration": "",
+      "translation": "O Best among men a thought came to those illustrious ones, 'how can we be  free from old age, death and disease'?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तेषां चिन्तयतां राम बुद्धिरासीन्महात्मनाम्।\nक्षीरोदमथनं कृत्वा रसं प्राप्स्याम तत्र वै।।1.45.17।।",
+      "transliteration": "",
+      "translation": "\"O Rama While the noble sons were reflecting over this matter an idea flashed across their minds to get nectar by churning the ocean of milk.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "ततो निश्चित्य मथनं योक्त्रं कृत्वा च वासुकिम्।\nमन्थानं मन्दरं कृत्वा ममन्थुरमितौजस:।।1.45.18।।",
+      "transliteration": "",
+      "translation": "Thereupon, having decided to churn (the ocean mind) those very powerful ones, made Vasuki, (the great snake), as a rope and Mandara mountain as the churning rod.And started churning it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अथ वर्षसहस्रेण योक्त्रसर्पशिरांसि च।\nवमन्त्यति विषं तत्र ददंशुर्दशनैश्शिला:।।1.45.19।।",
+      "transliteration": "",
+      "translation": "After a thousand years, the hoods of the snake made as rope vomitted venom and started biting the rocks of the Mandara mountain with their teeth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "उत्पपाताग्निसङ्काशं हालाहलमहाविषम्।\nतेन दग्धं जगत्सर्वं सदेवासुरमानुषम्।।1.45.20।।",
+      "transliteration": "",
+      "translation": "Therefrom was produced halahala, virulent venom resembling fire.The entire universe  consisting of devatas, asuras and mortals was burnt down.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "अथ देवा महादेवं शङ्करं शरणार्थिन:।\nजग्मु: पशुपतिं रुद्रं त्राहि त्राहीति तुष्टुवु:।।1.45.21।।",
+      "transliteration": "",
+      "translation": "The devatas sought refuge in the great god Rudra who causes happiness, the Lord of all living beings. 'Save us, Save us', the cried.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "एवमुक्तस्ततो देवैर्देवदेवेश्वर: प्रभु:।\nप्रादुरासीत्ततोऽत्रैव शङ्खचक्रधरो हरि:।।1.45.22।।",
+      "transliteration": "",
+      "translation": "Thereupon, Hari the Lord of celestial beings extolled by the devatas appeared bearing the conch and discus.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "उवाचैनं स्मितं कृत्वा रुद्रं शूलभृतं हरि:।\nदैवतैर्मथ्यमाने तु यत्पूर्वं समुपस्थितम् ।।1.45.23।।\nत्वदीयंहि सुरश्रेष्ठ सुराणामग्रजोऽसि यत् ।\nअग्रपूजामिमां मत्वा गृहाणेदं विषं प्रभो।।1.45.24।।",
+      "transliteration": "",
+      "translation": "Hari, smiling said to the tridentbearing Rudra \"O Chief of celestial beings you were born the earliest among the devatas. Therefore, while churning the ocean whichever is produced first shall be offered to you. Considering it the first offering, O Lord accept this venom.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "इत्युक्त्वा च सुरश्रेष्ठस्तत्रैवान्तरधीयत।\nदेवतानां भयं दृष्टवाश्रुत्वा वाक्यं तु शार्ङ्गिण:।\nहालाहलविषं घोरं स जग्राहामृतोपमम्।।1.45.25।।",
+      "transliteration": "",
+      "translation": "Visnu, the highest among the devatas having the spoken, vanished. Siva who had heard Visnu's words and seen the fear of the gods received that  dreadful halahala   treating it as nectar.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "देवान्विसृज्य देवेशो जगाम भगवान् हर:।\nततो देवासुरास्सर्वे ममन्थू रघुनन्दन ।।1.45.26।।",
+      "transliteration": "",
+      "translation": "Lord of the gods, venerable Siva went away to his abode leaving behind the devatas. O Descendant of Raghu then all the devatas and asuras resumed churning.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "प्रविवेशाथ पातालं मन्थान: पर्वतोऽनघ।\nततो देवास्सगन्धर्वास्तुष्टुवुर्मधुसूदनम्।।1.45.27।।",
+      "transliteration": "",
+      "translation": "'O Sinless one after the mountain (Mandara) used as churning rod sank down to nether world (patala) the devatas along with the gandharvas invoked Visnu'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "त्वं गति: सर्वभूतानां विशेषेण दिवौकसाम्।\nपालयास्मान्महाबाहो गिरिमुद्धर्तुमर्हसि।।1.45.28।।",
+      "transliteration": "",
+      "translation": "\"O mightyarmed Visnu you are the ultimate refuge for all living beings, specially for the devatas. Protect us, you (alone) are fit to lift up the Mandara mountain\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "इति श्रुत्वा हृषीकेश: कामठं रूपमास्थित:।  \nपर्वतं पृष्ठत: कृत्वा शिश्ये तत्रोदधौ हरि:।।1.45.29।।",
+      "transliteration": "",
+      "translation": "Having heard these words, the controller of the sense organs, Visnu, assumed the form of a tortoise reclined in the ocean supporting the mountain on its back.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "पर्वताग्रे तु लोकात्मा हस्तेनाक्रम्य केशव:।\nदेवानां मध्यत: स्थित्वा ममन्थ पुरुषोत्तम:।।1.45.30।।",
+      "transliteration": "",
+      "translation": "Visnu, the Supreme being, the soul of the universe standing amidst the devatas took hold of the peak of mountain with his hand and continued to churn the ocean.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "अथ वर्षसहस्रेण सदण्डस्सकमण्डलु:।\nपूर्वं धन्वन्तरिर्नाम अप्सराश्च सुवर्चस:।।1.45.31।।",
+      "transliteration": "",
+      "translation": "In this way thousand years rolled by. In the beginining came out Dhanvantari holding a staff and a water pot (carried by ascetics) and apsaras of high lustre.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "अप्सु निर्मथनादेव रसास्तस्माद्वरस्त्रिय:।\nउत्पेतुर्मनुजश्रेष्ठ तस्मादप्सरसोऽभवन्।।1.45.32।।",
+      "transliteration": "",
+      "translation": "O Best among men excellent women emerged out of the essence produced by churning of waters. Therefore they are known as apsarasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "षष्टि: कोट्योऽभवंस्तासाम् अप्सराणां सुवर्चसाम्।\nअसङ्ख्येयास्तु काकुत्स्थ यास्तासां परिचारिका:।।1.45.33।।",
+      "transliteration": "",
+      "translation": "O Kakutstha there appeared sixty crore highly lustrous apsarasas. Their  attendants were countless in number.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "न तास्स्म परिगृह्णन्ति सर्वे ते देवदानवा:।\nअप्रतिग्रहणात्ताश्च सर्वास्साधारणास्स्मृता:।।1.45.34।।",
+      "transliteration": "",
+      "translation": "Neither devas nor danavas accept them in marriage. Unmarried, all of them have been regarded as belonging to all.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "वरुणस्य तत: कन्या वारुणी रघुनन्दन ।\nउत्पपात महाभागा मार्गमाणा परिग्रहम्।।1.45.35।।",
+      "transliteration": "",
+      "translation": "O Joy of the Raghus (Rama) thereafter Varuna's daughter Varuni (goddess of wine) came out searching for a consort.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "दिते: पुत्रा न तां राम जगृहुर्वरुणात्मजाम्।\nअदितेस्तु सुता वीर जगृहुस्तामनिन्दिताम्।।1.45.36।।",
+      "transliteration": "",
+      "translation": "O Rama while Diti's sons did not accept the unblemished Varuni, O heroic one, the sons of Aditi did.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "असुरास्तेन दैतेयास्सुरास्तेनादितेस्सुता:।\nहृष्टा: प्रमुदिताश्चासन् वारुणीग्रहणात्सुरा:।।1.45.37।।",
+      "transliteration": "",
+      "translation": "For that reason, sons of Diti were called asuras. Aditi's sons were known as suras. Devatas grew exceedingly glad for having Varuni.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "उच्चैश्श्रवा हयश्रेष्ठो मणिरत्नं च कौस्तुभम्।\nउदतिष्ठन्नरश्रेष्ठ तथैवामृतमुत्तमम्।।1.45.38।।",
+      "transliteration": "",
+      "translation": "O Foremost among men (Rama) ucchaishravas, the best of horses (the celestial horse), kausthubham, the best jewel and also nectar came (from churning).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "अथ तस्य कृते राम महानासीत्कुलक्षय:।\nअदितेस्तु तत: पुत्रा दिते: पुत्रानसूदयन्।।1.45.39।।",
+      "transliteration": "",
+      "translation": "O Rama the race of devatas and daityas suffered great destruction because of (their fight for) that nectar. Thereafter Aditi's sons, the devatas killed Diti's sons, the daityas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "एकतोऽभ्यागमन् सर्वे ह्यसुरा राक्षसैस्सह।\nयुद्धमासीन्महाघोरं वीर त्रैलोक्यमोहनम्।।1.45.40।।",
+      "transliteration": "",
+      "translation": "O Heroic Rama all the asuras along with the rakshasas joined on one side. A violent and a dreadful battle which threw the three worlds in to a great confusion, ensued.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "यदा क्षयं गतं सर्वं तदा विष्णुर्महाबल:। \nअमृतं सोऽहरत्त्तूर्णं मायामास्थाय मोहिनीम्।।1.45.41।।",
+      "transliteration": "",
+      "translation": "When everything was destroyed completely, the exceedingly powerful Visnu assuming the form of Mohini a charming woman (elusive form) with the power of illusion quickly stole away the nectar.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "ये गताऽभिमुखं विष्णुमक्षयं पुरुषोत्तमम्।\nसम्पिष्टास्ते तदा युद्धे विष्णुना प्रभविष्णुना।।1.45.42।।",
+      "transliteration": "",
+      "translation": "Those who opposed the imperishable, supreme purusha, Visnu, in the battle were crushed by all powerful Visnu.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "अदितेरात्मजा वीरा दिते: पुत्रान्निजघ्निरे।\nतस्मिन् घोरे महायुद्धे दैतेयादित्ययोर्भृशम्।।1.45.43।।",
+      "transliteration": "",
+      "translation": "In that great and terrible battle between daityas and devatas, Aditi's sons killed Diti's.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-45-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "निहत्य दितिपुत्रांश्च राज्यं प्राप्य पुरन्दर:।\nशशास मुदितो लोकान् सर्षिसङ्घान् सचारणान्।।1.45.44।।",
+      "transliteration": "",
+      "translation": "Indra, having killed the sons of Diti was happy with the kingdom gained. He ruled the worlds in the company of rishis and celestial singers\". इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे पञ्चचत्वारिंशस्सर्ग:।। Thus ends the fortyfifth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

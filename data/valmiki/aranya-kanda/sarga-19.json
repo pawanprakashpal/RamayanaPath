@@ -1,0 +1,243 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 19,
+    "title": "Khara gets angry seeing mutilated Surpanakha --Surpanakha's description of Rama and Lakshmana to Khara-- Khara sends fourteen demons to attack Rama.",
+    "titleSanskrit": "",
+    "totalShlokas": 25
+  },
+  "shlokas": [
+    {
+      "id": "v3-19-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तां तथा पतितां दृष्ट्वा विरूपां शोणितोक्षिताम्।\nभगिनीं क्रोधसन्तप्तः खरः पप्रच्छ राक्षसः।।3.19.1।।",
+      "transliteration": "",
+      "translation": "Burning with anger to see his sister fallen down disfigured and drenched in blood, Khara enquired:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-19-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "उत्तिष्ठ तावदाख्याहि प्रमोहं जहि सम्भ्रमम्।\nव्यक्तमाख्याहि केन त्वमेवं रूपा विरूपिता।।3.19.2।।",
+      "transliteration": "",
+      "translation": "Get up, give up your confusion and stupefaction. Tell me clearly by whom you have been disfigured like this ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-19-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "कः कृष्णसर्पमासीनमाशीविषमनागसम्।\nतुदत्यभिसमापन्नमङ्गुल्यग्रेण लीलया।।3.19.3।।",
+      "transliteration": "",
+      "translation": "Who will hurt  an innocent, venomous black serpent and stay away quietly close by for fun with his finger tip?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-19-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "कः कालपाशं समासज्य कण्ठे मोहान्न बुध्यते।\nयस्त्वामद्य समासाद्य पीतवान्विषमुत्तमम्।।3.19.4।।",
+      "transliteration": "",
+      "translation": "Who is he who has tied has tied his throat with the noose of death out of ignorance and yet does not know the implications ? Who is he who has caused this injury to you, but does not understand that he has drunk deadly poison.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-19-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "बलविक्रमसम्पन्ना कामगा कामरूपिणी।\nइमामवस्थां नीता त्वं केनान्तकसमागता।।3.19.5।।",
+      "transliteration": "",
+      "translation": "You have sufficient strength and courage. You are capable of  moving as you like and taking any form at your will. By whom have you been brought to this state and drawn close to death?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-19-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "देवगन्धर्वभूतानामृषीणां च महात्मनाम्।\nकोऽयमेवं विरूपां त्वां महावीर्यश्चकार ह।।3.19.6।।",
+      "transliteration": "",
+      "translation": "Which valiant person among gods, gandharvas, sages and other great people, has disfigured you like this ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-19-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "न हि पश्याम्यहं लोके यः कुर्यान्मम विप्रियम्।\nअमरेषु सहस्राक्षं महेन्द्रं पाकशासनम्।।3.19.7।।",
+      "transliteration": "",
+      "translation": "I can see none in this world who can offend me, nor even the thousandeyed Indra among the gods.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-19-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "अद्याहं मार्गणैः प्राणानादास्ये जीवितान्तकैः।\nसलिले क्षीरमासक्तं निष्पिबन्निव सारसः।।3.19.8।।",
+      "transliteration": "",
+      "translation": "Just as the swan drinks only milk from water (mixed with milk), my arrows will (unerringly) drain the life from the enemy's body right now.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-19-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "निहतस्य मया सङ्ख्ये शरसंकृत्तमर्मणः।\nसफेनं रुधिरं रक्तं मेदिनी कस्य पास्यति।।3.19.9।।",
+      "transliteration": "",
+      "translation": "Whose foamy, red blood will the earth drink while I strike his vital organs with my arrows in the fight ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-19-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "कस्य पत्ररथाः क��यान्मांसमुत्कृत्य सङ्गताः।\nप्रहृष्टा भक्षयिष्यन्ति निहतस्य मया रणे।।3.19.10।।",
+      "transliteration": "",
+      "translation": "Whose flesh will be eaten by cheerful flocks of (vultures), biting and tearing his body when he is killed by me in the battle ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-19-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तं न देवा न गन्धर्वा न पिशाचा न राक्षसाः।\nमयापकृष्टं कृपणं शक्तास्त्रातुं महाहवे।।3.19.11।।",
+      "transliteration": "",
+      "translation": "Neither gods nor devils nor gandharvas nor even demons will have the power to rescue that hapless creature dragged by me ruthlessly in the battle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-19-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "उपलभ्य शनैस्संज्ञां तं मे शंसितुमर्हसि।\nयेन त्वं दुर्विनीतेन वने विक्रम्य निर्जिता।।3.19.12।।",
+      "transliteration": "",
+      "translation": "You should tell me as you slowly regain your consciousness which bragart has overpowered you in the forest with his strength.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-19-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "इति भ्रातुर्वचश्श्रुत्वा क्रुद्धस्य च विशेषतः।\nततश्शूर्पणखा वाक्यं सबाष्पमिदमब्रवीत्।।3.19.13।।",
+      "transliteration": "",
+      "translation": "On hearing her angry brother, Surpanakha replied with words choked with tears:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-19-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तरुणौ रूपसम्पन्नौ सुकुमारौ महाबलौ।\nपुण्डरीकविशालाक्षौ चीरकृष्णाजिनाम्बरौ।।3.19.14।।\nफलमूलाशनौ दान्तौ तापसौ धर्मचारिणौ।\nपुत्रौ दशरथस्यास्तां भ्रातरौ रामलक्ष्मणौ।।3.19.15।।",
+      "transliteration": "",
+      "translation": "Here are two young sons of Dasaratha, Rama and Lakshmana, who are gentle, handsome,  strong, with eyes like white lotus, wearing deerskin and bark robes, living on fruits and roots, selfrestrained like ascetics and following the righteous path.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-19-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "गन्धर्वराजप्रतिमौ पार्थिवव्यञ्जनान्वितौ।\nदेवौ वा मानुषौ वा तौ न तर्कयितुमुत्सहे।।3.19.16।।",
+      "transliteration": "",
+      "translation": "They are kings of the gandharvas with all royal insignia. I was not able to discern whether they are gods or humans.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-19-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तरुणी रूपसम्पन्ना सर्वाभरणभूषिता।\nदृष्टा तत्र मया नारी तयोर्मध्ये सुमध्यमा।।3.19.17।।",
+      "transliteration": "",
+      "translation": "I saw between them a young, beautiful woman of slender waist, adorned with all kinds of jewels.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-19-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "ताभ्यामुभाभ्यां सम्भूय प्रमदामधिकृत्य ताम्।\nइमामवस्थां नीताहं यथानाथासती तथा।।3.19.18।।",
+      "transliteration": "",
+      "translation": "I have been subjected to this state of an orphan unfaithful woman by both of them for the sake of that lady.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-19-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तस्याश्चानृजुवृत्तायास्तयोश्च हतयोरहम्।\nसफेनं पातुमिच्छामि रुधिरं रणमूर्धनि।।3.19.19।।",
+      "transliteration": "",
+      "translation": "I wish to drink the foamy blood of that crooked woman and of both the brothers slain on the battle front.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-19-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "एष मे प्रथमः कामः कृतस्तात त्वया भवेत्।\nतस्यास्तयोश्च रुधिरं पिबेयमहमाहवे।।3.19.20।।",
+      "transliteration": "",
+      "translation": "O dear  this is my first wish and you must fulfil it. I will drink her blood and  of the two brothers, in the battle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-19-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "इति तस्यां ब्रुवाणायां चतुर्दश महाबलान्।\nव्यादिदेश खरः क्रुद्धो राक्षसानन्तकोपमान्।।3.19.21।।",
+      "transliteration": "",
+      "translation": "As she was speaking, the inflamed Khara ordered fourteen very strong demons, comparable to Yama, the god of death, to proceed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-19-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "मानुषौ शस्त्रसम्पन्नौ चीरकृष्णाजिनाम्बरौ।\nप्रविष्टौ दण्डकारण्यं घोरं प्रमदया सह।।3.19.22।।",
+      "transliteration": "",
+      "translation": "Two human beings equipped with weapons, clad in bark robes and deerskin have entered the dreadful Dandaka forest along with a woman of bewitching beauty.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-19-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तौ हत्वा तां च दुर्वृत्तामपावर्तितुमर्हथ।\nइयं च रुधिरं तेषां भगिनी मम पास्यति।।3.19.23।।",
+      "transliteration": "",
+      "translation": "I want you to get  both of them along with that notorious woman killed. This sister of mine will drink their blood.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-19-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "मनोरथोऽयमिष्टोऽस्या भगिन्या मम राक्षसाः।\nशीघ्रं सम्पाद्यतां तौ च प्रमथ्य स्वेन तेजसा।।3.19.24।।",
+      "transliteration": "",
+      "translation": "O demons quickly go and crush them with your power and fulfil my sister's sincere wish.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-19-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "इति प्रतिसमादिष्टा राक्षसास्ते चतुर्दश।\nतत्र जग्मुस्तया सार्धं घना वातेरिता यथा।।3.19.25।।",
+      "transliteration": "",
+      "translation": "Thus commanded, the fourteen demons along with Surpanakha rushed there like windblown clouds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-19-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "ततस्तु ते तं समुदग्रतेजसं तथापिऽतीक्ष्णप्रदरा निशाचराः।\nन शेकुरेनं सहसा प्रमर्दितुं वनद्विपा दीप्तमिवाग्निमुत्थितम्।।3.19.26।।",
+      "transliteration": "",
+      "translation": "The nightrangers were unable to crush him(Rama) despite their sharp, glowing weapons  just as wild elephants cannot face all at once the rising flame of the forest fire. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे एकोनविंशस्सर्गः।। Thus ends the nineteenth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

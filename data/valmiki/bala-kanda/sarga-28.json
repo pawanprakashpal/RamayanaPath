@@ -1,0 +1,117 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 28,
+    "title": "Viswamitra teaches Sri Rama the methods of invoking, despatching and withdrawing the astras",
+    "titleSanskrit": "",
+    "totalShlokas": 11
+  },
+  "shlokas": [
+    {
+      "id": "v1-28-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "प्रतिगृह्य ततोऽस्त्राणि प्रहृष्टवदनश्शुचि:।\nगच्छन्नेव च काकुत्स्थो विश्वामित्रमथाब्रवीत्।।1.28.1।।",
+      "transliteration": "",
+      "translation": "After performing the purificatory rites, Rama received the weapons with a cheerful face. In the way Rama said to Viswamitra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-28-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "गृहीतास्त्रोऽस्मि भगवन् दुराधर्षस्सुरैरपि।\nअस्त्राणां त्वहमिच्छामि संहारं मुनिपुङ्गव।।1.28.2।।",
+      "transliteration": "",
+      "translation": "\"O venerable one, having received these weaponsI have become unassailable even by the celestials. O best of ascetics, May I know the way to withdraw these weapons\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-28-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "एवं ब्रुवति काकुत्स्थे विश्वामित्रो महामुनि:।\nसंहारं व्याजहाराथ धृतिमान् सुव्रतश्शुचि:।।1.28.3।।",
+      "transliteration": "",
+      "translation": "To these words spoken by Rama, maharshi Viswamitra who was patient practitioner of vows and pure taught the withdrawl mantra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-28-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "सत्यवन्तं सत्यकीर्तिं धृष्टं रभसमेव च।\nप्रतिहारतरं नाम पराङ्मुखमवाङ्मुखम्।।1.28.4।।\nलक्षाक्षविषमौ चैव दृढनाभसुनाभकौ।\nदशाक्षशतवक्त्रौ च दशशीर्षशतोदरौ।।1.28.5।।\nपद्मनाभमहानाभौ दुन्दुनाभसुनाभकौ।\nज्योतिषं कृशनं चैव नैराश्यविमलावुभौ।।1.28.6।।\nयोगन्धरहरिद्रौ च दैत्यप्रशमनौतथा।\nसार्चिर्माली धृतिर्माली वृत्तिमान् रुचिरस्तथा।।1.28.7।।\nपितृसौमनसं चैव विधूतमकरावुभौ।\nकरवीरकरं चैव धनधान्यौ च राघव।।1.28.8।।\nकामरूपं कामरुचिं मोहमावरणं तथा।\nजृम्भकं सर्वनाभं च सन्तानवरणौ तथा।।1.28.9।।\nभृशाश्वतनयान् राम भास्वरान्कामरूपिण:।\nप्रतीच्छ मम भद्रं ते पात्रभूतोऽसि राघव।।1.28.10।।",
+      "transliteration": "",
+      "translation": "\"O Rama the descendant of Raghu, receive from me the effulgent weapons who are the sons of Bhrusasva and who are capable of changing forms at will. They are  Satyavanta, Satyakirti, Dhrishta, Rabhasa, Pratiharatara, Paranmukha (turned back wards), Avanmukha (turned downwards), Lakshaksha, Vishama, Drudhanabha and Sunabha, Dasaksha, Satavaktra, Dasasheersha and Satodara, Padamanabha and Mahanabha, Dundunabha and Sunabhaka, Jyotisha, Krusanam, both Nairasya and  Vimala, Yogandhara, Haridradaitya, Prasamana, Sarchirmali, Dhri, Mali, Vrtiimanta, also Ruchira, Pitrusaumanasa, bothVidhuta Makara, Karaveera Kara, Dhana, Dhanya, Kama Roopa, Kamaruchi, Moha, also Avarana, Jrumbhaka, Sarvanabha, also Santhana and Varuna. You are worthy of receiving these weapons. May you prosper.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-28-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "बाढमित्येव काकुत्स्थ: प्रहृष्टेनान्तारात्मना।\nदिव्यभास्वरदेहाश्च मूर्तिमन्तस्सुखप्रदा:।।1.28.11\nकेचिदङ्गारसदृशा: केचिद्धूमोपमास्तथा।\nचन्द्रार्कसदृशा: केचित्प्रह्वाञ्जलिपुटास्तथा।।1.28.12।।\nरामं प्राञ्जलयो भूत्वाऽब्रुवन् मधुरभाषिण:।\nइमे स्म नरशार्दूल शाधि किं करवाम ते।।1.28.13।।",
+      "transliteration": "",
+      "translation": "\"Certainly\" said Rama, and with a delighted heart received the astras. Some of the astra devatas were coal-black, some like smoke, some resembled rays of Sun or Moon. Assuming corporal forms, with shining, divine bodies, those weapons the their bodies bent down and palms folder they spoke to Rama in a gentle voice: \"O tiger among men, here we are, What can we do for you\"?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-28-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "मानसा: कार्यकालेषु साहाय्यं मे करिष्यथ।\nगम्यतामिति तानाह यथेष्टं रघुनन्दन:।।1.28.14।।",
+      "transliteration": "",
+      "translation": "Rama spoke to them (astra devatas) saying, \"Reside in my mind and render assistance  in times of need. Now you can go according to your will\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-28-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "अथ ते राममामन्त्ऱ्य कृत्वा चापि प्रदक्षिणम्।\nएवमस्त्विति काकुत्स्थमुक्त्वाजग्मुर्यथाऽगतम्।।1.28.15।।",
+      "transliteration": "",
+      "translation": "Thereafter those devatas having said, \"Be it so\", circumambulated Rama, took leave of him and returned to their respective abodes from where they had come.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-28-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "स च तान् राघवो ज्ञात्वा विश्वामित्रं महामुनिम्।\nगच्छन्नेवाथ मधुरं श्लक्ष्णं वचनमब्रवीत्।।1.28.16।।",
+      "transliteration": "",
+      "translation": "After having acquired the knowledge of the weapons Rama addressed maharshi Viswamitra in gentle and soft words while walking along with him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-28-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "किन्न्वेतन्मेघसङ्काशं पर्वतस्याविदूरत:। \nवृक्षषण्डमितो भाति परं कौतूहलं हि मे।।1.28.17।।\nदर्शनीयं मृगाकीर्णं मनोरममतीव च।\nनानाप्रकारैश्शकुनैर्वल्गुनादैरलङ्कृतम्।।1.28.18।।",
+      "transliteration": "",
+      "translation": "\"From this side of the mountain, not  faroff from here stand shining and goodlooking trees resembling clouds. It is replete scattered with animals, pleasing to the mind and extremely beautiful. It is adorned with various kinds of birds singing sweetly. What could be this? I am very curious to know.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-28-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "निस्सृता: स्म मुनिश्रेष्ठ कान्ताराद्रोमहर्षणात्।\nअनया त्ववगच्छामि देशस्य सुखवत्तया।।1.28.19।।\nसर्वं मे शंस भगवन् कस्याश्रमपदं त्विदम्।",
+      "transliteration": "",
+      "translation": "O best of acetics, I think we have come out of that  awesome (horripilating) forest because of the pleasant feeling experienced in this region. Whose hermitage is this? O Revered one tell me\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-28-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "सम्प्राप्ता यत्र ते पापा ब्रह्मघ्ना दुष्टचारिण:।।1.28.20।।\nतव यज्ञस्य विघ्नाय दुरात्मानो महामुने।\nभगवन् तस्य को देशस्सा यत्र तव याज्ञिकी।।1.28.21।।\nरक्षितव्या क्रिया ब्रह्मन्मया वध्याश्च राक्षसा:।\nएतत्सर्वं मुनिश्रेष्ठ श्रोतुमिच्छाम्यहं प्रभो।।1.28.22।।",
+      "transliteration": "",
+      "translation": "O great ascetic, O venerable brahmana, from where do those slayers of brahmanas, doers of cruel acts, wickedminded and sinful persons come from and cause obstacles to your sacrifice? Where is that sacrificial place required to be protected by me? Where are these rakshasas required to be slain? O best of ascetics, I would like to hear from you\".  इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे अष्टाविंशस्सर्ग:।। Thus ends the twentyeighth sarga of Balakanda of the holy Ramayana the first epic  composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

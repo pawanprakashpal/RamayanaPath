@@ -1,0 +1,234 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 58,
+    "title": "Cursed by Vasishta's sons Trisanku  takes refuge in Viswamitra",
+    "titleSanskrit": "",
+    "totalShlokas": 24
+  },
+  "shlokas": [
+    {
+      "id": "v1-58-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततस्त्रिशङ्कोर्वचनं श्रुत्वा क्रोधसमन्वितम् ।\nऋषिपुत्रशतं राम राजानमिदमब्रवीत्।।1.58.1।।",
+      "transliteration": "",
+      "translation": "\"O Rama to these words of king Trisanku, the hundred sons of the sage angrily reacted:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-58-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "प्रत्याख्यातो हि दुर्बुद्धे गुरुणा सत्यवादिना।\nतं कथं समतिक्रम्य शाखान्तरमुपेयिवान्।।1.58.2।।",
+      "transliteration": "",
+      "translation": "'O Evilminded one having been refused by the Guru true to his word, how could you bypass him and approach us who are mere off shoots (of the main).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-58-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "इक्ष्वाकूणां हि सर्वेषां पुरोधा: परमो गुरु:।\nन चातिक्रमितुं शक्यं वचनं सत्यवादिन:।।1.58.3।।",
+      "transliteration": "",
+      "translation": "For all the kings of the Ikshvakus race, their chief priest is their Guru. It is not possible  to bypass the spiritual preceptor who is true to his word preceptor.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-58-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "अशक्यमिति चोवाच वसिष्ठो भगवानृषि:।\nतं वयं वै समाहर्तुं क्रतुं शक्ता:कथं तव।।1.58.4।।",
+      "transliteration": "",
+      "translation": "When an adorable sage like Vasishta has already said, it is not possible, how can we help you conduct such a sacrifice?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-58-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "बालिशस्त्वं नरश्रेष्ठ गम्यतां स्वपुरं पुन:।\nयाजने भगवाञ्छक्तस्त्रैलोक्यस्यापि पार्थिव।।1.58.5।।\nअवमानं च तत्कर्तुं तस्य शक्ष्यामहे कथम्।",
+      "transliteration": "",
+      "translation": "O Best one among men you are childish. Return to your capital. O Monarch the most venerable Vasishta is capable of conducting sacrifices performed by anybody in the three worlds. How can we dishonour him'?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-58-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तेषां तद्वचनं श्रुत्वा क्रोधपर्याकुलाक्षरम्।।1.58.6।।\nस राजा पुनरेवैतानिदं वचनमब्रवीत्।",
+      "transliteration": "",
+      "translation": "Having heard the confused words uttered by the sages in a state of anger, the king said again:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-58-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "प्रत्याख्यातोऽस्मि गुरुणा गुरुपुत्रैस्तथैव च।।1.58.7।।\nअन्यां गतिं गमिष्यामि स्वस्ति वोऽस्तु तपोधना:।",
+      "transliteration": "",
+      "translation": "\"O Men endowed with the wealth of asceticism I was rejected by my guru and now by his sons. I shall seek another way. Farewell to you\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-58-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "ऋषिपुत्रास्तु तच्छ्रुत्वा वाक्यं घोराभिसंहितम्।।1.58.8।।\nशेपु: परमसङ्कृद्धाश्चण्डालत्वं गमिष्यसि।",
+      "transliteration": "",
+      "translation": "Having seen his fierce intent, the saint's sons were infuriated. They cursed him saying, \"Be a Chandala\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-58-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "एवमुक्त्वा महात्मनो विविशुस्ते स्वमाश्रमम्।।1.58.9।।\nअथ रात्र्यां व्यतीतायां राजा चण्डालतां गत:।",
+      "transliteration": "",
+      "translation": "With this the highsouled sons of Vasishta entered their hermitage. And one night after the king became a Chandala (a lowcaste man).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-58-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "नीलवस्त्रधरो नील: पुरुषो ध्वस्तमूर्धज:।।1.58.10।।\nचित्यमाल्यानुलेपश्च आयसाभरणोऽभवत्।",
+      "transliteration": "",
+      "translation": "The king was tranformed into a darkcomplexioned dirty man with dishevelled hair. His body was besmeared with ashes and on his robes lay wreath collected from the cemetery. He had on him dark (soiled) clothes, and ornaments made of iron.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-58-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तं दृष्टवा मन्त्रिणस्सर्वे त्यज्य चण्डालरूपिणम्।।1.58.11।।\nप्राद्रवन् सहिता राम पौरा येऽस्यानुगामिन:।",
+      "transliteration": "",
+      "translation": "\"O Rama seeing him in the form of a chandala, all his counsellors, inhabitants of the city including his followers fled away.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-58-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "एको हि राजा काकुत्स्थ जगाम परमात्मवान्।।1.58.12।।\nदह्यमानो दिवारात्रं विश्वामित्रं तपोनिधिम्।",
+      "transliteration": "",
+      "translation": "O Descendant of Kakustha wandering alone burning with distress night and day the king went to Viswamitra who was rich in asceticism.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-58-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "विश्वामित्रस्तु तं दृष्ट्वा राजानं विफलीकृतम्।\nचण्डालरूपिणं राम मुनि: कारुण्यमागत:।।1.58.13।।",
+      "transliteration": "",
+      "translation": "O Rama on seeing the king reduced to a useless a chandala, sage Viswamitra was touched with pity\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-58-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "कारुण्यात्स महातेजा वाक्यं परमधार्मिक:।\nइदं जगाद भद्रं ते राजानं घोररूपिणम्।।1.58.14।।",
+      "transliteration": "",
+      "translation": "Exceedingly energetic and deeply pious, he looked at the king who was frightful in appearance and addressed him with compassion saying, \"welfare to you\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-58-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "किमागमनकार्यं ते राजपुत्र महाबल।\nअयोध्याधिपते वीर शापाच्चण्डालतां गत:।।1.58.15।।",
+      "transliteration": "",
+      "translation": "\"O Mighty prince what brings your here, for you are the heroic lord of Ayodhya? Whose curse turned you into a chandala\"?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-58-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अथ त��्वाक्यमाज्ञाय राजा चण्डालतां गत:।\nअब्रवीत्प्राञ्जलिर्वाक्यं वाक्यज्ञो वाक्यकोविदम्।।1.58.16।।",
+      "transliteration": "",
+      "translation": "In response to his words the king,  who had fallen into the state of a chandala yet proficient in expression, spoke to one (Viswamitra) expert in speech, with folded hands.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-58-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "प्रत्याख्यातोऽस्मि गुरुणा गुरुपुत्रैस्तथैव च।\nअनवाप्यैव तं कामं मया प्राप्तो विपर्यय:।।1.58.17।।",
+      "transliteration": "",
+      "translation": "\"Rejected by my guru and his sons, what I achieved was disaster and what I could not was the fulfilment of my wish.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-58-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "सशरीरो दिवं यायामिति मे सौम्यदर्शनम्।\nमया चेष्टं क्रतुशतं तच्च नाऽवाप्यते फलम्।।1.58.18।।",
+      "transliteration": "",
+      "translation": "O Gentle sage it is my intention to enter heaven with my physical body. I performed a hundred sacrifices but  did not reap its fruit.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-58-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "अनृतं नोक्तपूर्वं मे न च वक्ष्ये कदाचन।\nकृच्छ्रेष्वपि गत स्सौम्य क्षत्रधर्मेण ते शपे।।1.58.19।।",
+      "transliteration": "",
+      "translation": "O Gentle sage I have never told a lie in spite of troubled circumstances, I shall never dabble in falsehood. I swear upon it by kshatriya morality .",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-58-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "यज्ञैर्बहुविधैरिष्टं प्रजा धर्मेण पालिता:।।1.58.20।।\nगुरवश्च महात्मान श्शीलवृत्तेन तोषिता:।",
+      "transliteration": "",
+      "translation": "I have performed various sacirifices and ruled over my people guided by the law of righteousness. I have pleased eminent elders with my conduct and character.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-58-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "धर्मे प्रयतमानस्य यज्ञं चाहर्तुमिच्छत:।।1.58.21।।\nपरितोषं न गच्छन्ति गुरवो मुनिपुङ्गव ।",
+      "transliteration": "",
+      "translation": "O Preeminent among sages I endeavour to do my duty. I intend to perform a sacrifice. My gurus do not appreciate this.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-58-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "दैवमेव परं मन्ये पौरुषं तु निरर्थकम्।।1.58.22।।\nदैवेनाक्रम्यते सर्वं दैवं हि परमा गति:।",
+      "transliteration": "",
+      "translation": "I consider destiny to be allpowerful. The effort of a man goes in vain. Everything is controlled by destiny. It is the supreme resort.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-58-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तस्य मे परमार्तस्य प्रसादमभिकाङ्क्षत:।।1.58.23।।\nकर्तुमर्हसि भद्रं ते दैवोपहतकर्मण:।",
+      "transliteration": "",
+      "translation": "My merits have been destroyed by destiny. Deeply afflicted, I crave a favour from you. You are fit to grant it. Wish you well",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-58-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "नान्यां गतिं गमिष्यामि नान्यश्शरणमस्ति मे।।1.58.24।।\nदैवं पुरुषकारेण निवर्तयितुमर्हसि।।",
+      "transliteration": "",
+      "translation": "I will not take refuge in anybody. There is no other protector for me. You are capable of averting my reverses in fate with human effort\".    इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे अष्टपञ्चाशस्सर्ग:।। Thus ends the fiftyeighth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

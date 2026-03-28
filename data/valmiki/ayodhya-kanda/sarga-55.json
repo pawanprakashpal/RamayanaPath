@@ -1,0 +1,297 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 55,
+    "title": "The trio cross Yamuna -- decide to reside on the river bank -- Sita rejoices getting her favourite flowers and fruits.",
+    "titleSanskrit": "",
+    "totalShlokas": 31
+  },
+  "shlokas": [
+    {
+      "id": "v2-55-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "उषित्वा रजनीं तत्र राजपुत्रावरिन्दमौ।\nमहर्षिमभिवाद्याथ जग्मतुस्तं गिरिं प्रति।।2.55.1।।",
+      "transliteration": "",
+      "translation": "After spending the night, the princes, destroyers of enemies, offered obeisance to that  great sage (Bharadhwaja) and went towards that mount Chitrkuta.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-55-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तेषां चैव स्वस्त्ययनं महर्षि स्स चकार ह।\nप्रस्थितांश्चैव तान्प्रेक्ष्य पिता पुत्रानिवान्वगात्।।2.55.2।।",
+      "transliteration": "",
+      "translation": "Seeing them setting forth, the great sage blessed them for a safe journey and followed them like a father following his children.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-55-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "ततः प्रचक्रमे वक्तुं वचनं स महामुनिः।\nभरद्वाजो महातेजा रामं सत्यपराक्रमम्।।2.55.3।।",
+      "transliteration": "",
+      "translation": "Then that great effulgent sage Bharadwaja began to speak to Rama whose strength was truth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-55-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "गङ्गायमुनयो स्सन्धिमासाद्य मनुजर्षभौ।\nकालिन्दीमनुगच्छेतां नदीं पश्चान्मुखाश्रिताम्।।2.55.4।।",
+      "transliteration": "",
+      "translation": "Reaching the confluence of rivers Ganga and Yamuna, O Rama and Lakshmana best among men proceed along the Kalindi (Yamuna) river flowing westward.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-55-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "अथाऽसाद्य तु कालिन्दी शीघ्रस्रोतसमापगाम्।\nतस्यास्तीर्थं प्रचलितं पुराणं प्रेक्ष्य राघवौ।।2.55.5।।\nतत्र यूयं प्लवं कृत्वा तरतांशुमतीं नदीम्।",
+      "transliteration": "",
+      "translation": "On reaching that swiftflowing river Yamuna, O Rama and Lakshmana O scions of the Raghu race, you will find an ancient spot (on the river bank). There make a raft and cross Kalindi, daughter of the Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-55-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "ततो न्यग्रोधमासाद्य महान्तं हरितच्छदम्।।2.55.6।।\nविवृद्धं बहुभिर्वृक्षै श्श्यामं सिद्धोपसेवितम्।\nतस्मै सीताञ्जलिं कृत्वा प्रयुञ्जीताशिषश्शिवाः।।2.55.7।।",
+      "transliteration": "",
+      "translation": "There you will find a large, banyan tree with its lush green leaves, looking dark with its densely grown trees. It is inhabited by siddhas. Sita should offer with folded palms invocations for her wellbeing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-55-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "समासाद्य तु तं वृक्षं वसेद्वातिक्रमेत वा।\nक्रोशमात्रं ततो गत्वा नीलं द्रक्ष्यथ काननम्।।2.55.8।।\nपलाशबदरीमिश्रं रम्यं वंशैश्च यामुनैः।",
+      "transliteration": "",
+      "translation": "Reaching that tree, you may tarry or proceed further. A krosa from there, you will see a beautiful forest filled with dark trees mixed with Palasas and badaris and bamboos on the Yamuna.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-55-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "स पन्थाश्चित्रकूटस्य गत स्सुबहुशो मया।।2.55.9।।\nरम्यो मार्दवयुक्तश्च वनदावैर्विवर्जितः।",
+      "transliteration": "",
+      "translation": "That path leads to Chitrakuta. I had travelled through it several times. It is beautiful, smooth and safe from forest fires.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-55-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "इति पन्थानमावेद्य महर्षिस्सन्यवर्तत।।2.55.10।।\nअभिवाद्य तथेत्युक्त्वा रामेण विनिवर्तितः।",
+      "transliteration": "",
+      "translation": "The great sage returned after instructing Rama about the path. So be it, said Rama and offering obeisance requested Bharadhwaja to go back.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-55-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "उपावृत्ते मुनौ तस्मिन्रामो लक्ष्मणमब्रवीत्।।2.55.11।।\nकृतपुण्याः स्म सौमित्रे मुनिर्यन्नोऽनुकम्पते।",
+      "transliteration": "",
+      "translation": "With the sage gone, Rama said, O Saumitri (son of Sumitra) we are lucky, for the sage has been so kind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-55-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "इति तौ पुरुषव्याघ्रौ मन्त्रयित्वा मनस्विनौ।\nसीतामेवाग्रतः कृत्वा कालिन्दीं जग्मतुर्नदीम्।।2.55.12।।",
+      "transliteration": "",
+      "translation": "Thus talking with one another, the two nobleminded tigers (best) among men advanced towards river Kalindi (Yamuna) with Sita walking in front.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-55-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अथाऽसाद्य तु कालिन्दीं शीघ्रस्रोतोवहां नदीम्।\nचिन्तामापेदिरे सर्वे नदीजलतितीर्षवः।।2.55.13।।",
+      "transliteration": "",
+      "translation": "Thereafter, they all reached the rapidly flowing river Kalindi and began pondering how to cross it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-55-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तौ काष्ठसङ्घातमथो चक्रतु स्सुमहाप्लवम्।\nशुष्कैर्वंशै स्समास्तीर्णमुशीरैश्च समावृतम्।।2.55.14।।",
+      "transliteration": "",
+      "translation": "Then they both made a big wooden float by joining logs of wood, spreading bamboos on it and covering it with the (fragrant roots of) Ushira bushes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-55-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "ततो वेतसशाखाश्च जम्बूशाखाश्च वीर्यवान्।\nचकार लक्ष्मणश्छित्वा सीताया स्सुखमासनम्।।2.55.15।।",
+      "transliteration": "",
+      "translation": "The valiant Lakshmana cut the stems of reeds and branches of the Jambu tree to prepare a comfortable seat for Sita (on that float).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-55-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तत्र श्रियमिवाचिन्त्यां रामो दाशरथिः प्रियाम्। \nईषत्संलज्जमानां तामध्यारोपयतप्लवम्।।2.55.16।।",
+      "transliteration": "",
+      "translation": "Rama, son of Dasaratha helped his beloved (Sita), who was looking inconceivably like Lakshmi (goddess of wealth) and was feeling a little bashful while stepping on to the float.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-55-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "पार्श्वे च तत्र वैदेह्या वसने भूषणानि च।\nप्लवे कठिनकाजं च रामश्चक्रे सहायुधैः।।2.55.17।।",
+      "transliteration": "",
+      "translation": "Rama placed robes and ornaments on the float by the side of Sita and a spade and a basket along with weapons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-55-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "आरोप्य प्रथमं सीतां सङ्घाटं परिगृह्य तौ।\nतत प्रतेरतुर्यत्तौ वीरौ दशरथात्मजौ।।2.55.18।।",
+      "transliteration": "",
+      "translation": "Those valiant sons of Dasaratha held the float (firmly) to help Sita step on to it. Then they crossed the river carefully.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-55-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "कालिन्दीमध्यमायाता सीता त्वेनामवन्दत।\nस्वस्ति देवि तरामि त्वां पारये न्मे पतिर्व्रतम्।।2.55.19।।\nयक्ष्ये त्वां गोसहस्रेण सुराघटशतेन ���।\nस्वस्ति प्रत्यागते रामे पुरी मिक्ष्वाकुपालिताम्।।2.56.20।।",
+      "transliteration": "",
+      "translation": "On reaching the middle of the river Yamuna, Sita made reverential salutations to her saying O goddess, I am crossing you, may safety be ours and may my husband fulfil his vow After Rama's (safe) return to the city (of Ayodhya) ruled by the Ikshvaku kings, I shall worship you with a thousand cows and a hundred pots of wine.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-55-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "कालिन्दी मथ सीता तु याचमाना कृताञ्जलिः।\nतीरमेवाभिसम्प्राप्ता दक्षिणं वरवर्णिनी।।2.55.21।।",
+      "transliteration": "",
+      "translation": "While Sita with her fair complexion was thus invoking river Yamuna with folded hands they reached the southern bank.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-55-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तत प्लवेनांशुमतीं शीघ्रगामूर्मिमालिनीम्।\nतीरजै र्बहुभिर्वृक्षै स्सन्तेरुर्यमुनां नदीम्।।2.55.22।।",
+      "transliteration": "",
+      "translation": "They crossed the swiftflowing river Yamuna, daughter of the Sungod, full of waves and with trees growing thick on her banks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-55-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "ते तीर्णाः प्लवमुत्सृज्य प्रस्थाय यमुनावनात्।\nश्यामं न्यग्रोध मासेदु श्शीतलं हरितच्छदम्।।2.55.23।।",
+      "transliteration": "",
+      "translation": "Having crossed the river, they left the float and proceeded from the adjoining forest of Yamuna and reached the dark, cool banyan tree covered with lush green leaves.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-55-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "न्यग्रोधं तमुपागम्य वैदेही वाक्यमब्रवीत्।\nनमस्तेऽस्तु महावृक्ष पारयेन्मे पतिर्व्रतम्।।2.55.24।।\nकौशल्यां चैव पश्येयं सुमित्रां च यशश्विनीम्।\nइति सीताऽञ्जलिं कृत्वा पर्यगच्छद्वनस्पतिम्।।2.55.25।।",
+      "transliteration": "",
+      "translation": "Having reached the banyan tree, Sita invoked it, saying, 'O great tree I offer you my salutations. May my husband fulfil his vow May I behold Kausalya and the illustrious Sumitra on my return. Saying so, she went round the tree offering reverential salutations with folded hands.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-55-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "अवलोक्य तत स्सीतामायाचन्तीमनिन्दिताम्।\nदयितां च विधेयां च रामो लक्ष्मणमब्रवीत्।।2.55.26।।",
+      "transliteration": "",
+      "translation": "Beholding the obedient, blemishless, beloved Sita invoking blessings, Rama said to Lakhsmana:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-55-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "सीतामादाय गच्छत्वमग्रतो भरतानुज।\nपृष्ठतोऽहं गमिष्यामि सायुधो द्विपदां वर।।2.55.27।।",
+      "transliteration": "",
+      "translation": "O Lakshmana, best among bipeds (men) and brother of Bharata walk ahead with Sita and I shall follow with weapons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-55-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "यद्यत्फलं प्रार्थयते पुष्पं वा जनकात्मजा।\nतत्तत्प्रदद्या वैदेह्या यत्राऽस्या रमते मनः।।2.55.28।।",
+      "transliteration": "",
+      "translation": "Whatever fruit or flower the daughter of Janaka asks for, get it. Whatever pleases her mind give it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-55-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "गच्छतोऽस्तु तयोर्मध्ये बभूव जनकात्मजा।\nमातङ्गयोर्मध्यगता शुभा नागवधूरिव।।2.55.29।।",
+      "transliteration": "",
+      "translation": "The daughter of Janaka walked between them like a sheelephant between two males.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-55-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "एकैकं पादपं गुल्मं लतां वा पुष्पशालिनीम्।\nअदृष्टपूर्वां पश्यन्ती रामं पप्रच्छ साऽबला।।2.55.30।।",
+      "transliteration": "",
+      "translation": "That gentle lady enquired of Rama about a tree or a shrub or a creeper in full bloom which she did not see before.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-55-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "रमणीयान्बहुविधान्पादपान्कुसुमोत्कटान्।\nसीतावचनसंरब्ध आनयामास लक्ष्मणः।।2.55.31।।",
+      "transliteration": "",
+      "translation": "Cheered by Sita's indents, Lakshmana brought her various beautiful plants and stocks of flowers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-55-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "विचित्रवालुकजलां हंससारसनादिताम्।\nरेमे जनकराजस्य सुता प्रेक्ष्य तदा नदीम्।।2.55.32।।",
+      "transliteration": "",
+      "translation": "Beholding the river Yamuna with its wonderful water and sand echoing with the cackle of swans and cranes, Sita went ecstatic.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-55-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "क्रोशमात्रं ततो गत्वा भ्रातरौ रामलक्ष्मणौ।\nबहून्मेध्यान्मृगान्हत्वा चेरतुर्यमुनावने।।2.55.33।।",
+      "transliteration": "",
+      "translation": "After walking a krosa into the forest on the bank of Yamuna, the two brothers killed many deer suitable for sacrifice and ate them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-55-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "विहृत्य ते बर्हिणपूगनादिते शुभे वने वानरवारणायुते।\nसमं नदीवप्रमुपेत्य सम्मतं निवास माजग्मु रदीनदर्शनाः।।2.55.34।।",
+      "transliteration": "",
+      "translation": "They reached the tableland on the bank of that river and moved in high spirit in the lovely forest resounding with cries of flocks of peacocks and teeming with monkeys and elephants. Finally they selected  a spot for their stay. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे पञ्चपञ्चाशस्सर्गः।। Thus ends the fiftyfifth sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 29,
+    "title": "Sita insists on going with Rama",
+    "titleSanskrit": "",
+    "totalShlokas": 22
+  },
+  "shlokas": [
+    {
+      "id": "v2-29-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "एतत्तु वचनं श्रुत्वा सीता रामस्य दुःखिता। \nप्रसक्ताश्रुमुखी मन्दमिदं वचनमब्रवीत्।।2.29.1।।",
+      "transliteration": "",
+      "translation": "Having heard the words of Rama, thus spoke Sita in a faint voice in sadness, with tears flowing incessantly from her eyes:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-29-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "ये त्वया कीर्तिता दोषा वने वस्तव्यतां प्रति। \nगुणानित्येव तान्विद्धि तव स्नेहपुरस्कृतान्।।2.29.2।।",
+      "transliteration": "",
+      "translation": "Understand that the difficulties of forest life described by you will be turned into advantages if they are accompanied by your affection.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-29-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "मृगा स्सिंहा गजाश्चैव शार्दूला श्शरभास्तथा। \nपक्षिण स्सृमराश्चैव ये चान्ये वनचारिणः।।2.29.3।।\nअदृष्टपूर्वरूपत्वात्सर्वे ते तव राघव। \nरूपं दृष्ट्वाऽपसर्पेयुर्भये सर्वे हि बिभ्यति।।2.29.4।।",
+      "transliteration": "",
+      "translation": "O scion of the Raghu race antelopes, lions, elephants, tigers, sarabhas, birds, srimaras and other wild beasts wandering in the forest have not seen your beauty before. Now on seeing you, they will flee away. In fact, who will not be afraid of seeing an object of fear?.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-29-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "त्वया च सह गन्तव्यं मया गुरुजनाज्ञया।\nत्वद्वियोगेन मे राम त्यक्तव्यमिह जीवितम्।।2.29.5।।",
+      "transliteration": "",
+      "translation": "In accordance with the command of the elders, I must accompany you to the forest. If I am separated from you, I will give up my life here itself.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-29-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "न हि मां त्वत्समीपस्थामपि शक्नोतिराघव। \nसुराणामीश्वर श्शक्रः प्रधर्षयितुमोजसा।।2.29.6।।",
+      "transliteration": "",
+      "translation": "If I am  in your company, O Rama even the lord of the gods, Indra with all his might will not be able to hurt me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-29-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "पतिहीना तु या नारी न सा शक्ष्यति जीवितुम्। \nकाममेवं विधं राम त्वया मम निदर्शितम्।।2.29.7।।",
+      "transliteration": "",
+      "translation": "Your salutary instruction to me, O Rama, is 'A woman cannot live without her husband'. This truth is greatly applicable to me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-29-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "अथ चापि महाप्राज्ञ ब्राह्मणानां मया श्रुतम्। \nपुरा पितृगृहे सत्यं वस्तव्यं किल मे वने।।2.29.8।।",
+      "transliteration": "",
+      "translation": "O highly sagacious Rama  I had also heard in my father's house long ago, from brahmins prophesing that some day I shall have certainly to dwell in the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-29-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "लक्षणिभ्यो द्विजातिभ्य श्शृत्वाऽहं वचनं पुरा। \nवनवासकृतोत्साहा नित्यमेव महाबल।।2.29.9।।",
+      "transliteration": "",
+      "translation": "O mighty hero ever since I heard the prophesies from the brahmin palmists I am yearning to dwell in the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-29-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "आदेशो वनवासस्य प्राप्तव्य स्स मया किल। \nसा त्वया सह तत्राहं यास्यामि प्रिय नान्यथा।।2.29.10।।",
+      "transliteration": "",
+      "translation": "Therefore, O my beloved I must certainly obtain such a command to dwell in the forest. I must accompany you to the forest and it cannot be otherwise.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-29-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "कृतादेशा भविष्यामि गमिष्यामि सह त्वया। \nकालश्चायं समुत्पन्न स्सत्यवाग्भवतु द्विजः।।2.29.11।।",
+      "transliteration": "",
+      "translation": "I will go with you, true to the prediction of the brahmin. That time has come and let his prediction come to pass.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-29-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "वनवासेऽभिजानामि दुःखानि बहुथा किल। \nप्राप्यन्ते नियतं वीर पुरुषैरकृतात्मभिः।।2.29.12।।",
+      "transliteration": "",
+      "translation": "I am aware, O valiant one, that there are hardships of every  kind in forest life. But they befall those whose senses are not under their  control.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-29-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "कन्यया च पितुर्गेहे वनवास श्शृतो मया। \nभिक्षिण्या स्साधुवृत्ताया मम मातुरिहाग्रतः।।2.29.13।।",
+      "transliteration": "",
+      "translation": "When I was young in my father's house, a holy female mendicant foretold in the presence of my mother that I would dwell in the forest (in this life).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-29-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "प्रसादितश्च वै पूर्वं त्वं मे बहुतिथं प्रभो। \nगमनं वनवासस्य काङ्क्षितं हि सह त्वया।।2.29.14।।",
+      "transliteration": "",
+      "translation": "Pleased with my long entreaties in the past  to dwell with you in the forest, O lord, you had granted my desire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-29-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "कृतक्षणाऽहं भद्रं ते गमनं प्रति राघव। \nवनवासस्य शूरस्य चर्या हि मम रोचते।।2.29.15।।",
+      "transliteration": "",
+      "translation": "Since then I have been counting time for this forest life. It pleases me to follow my valiant hero as he lives in the forest. Rama, prosperity to you",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-29-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "शुद्धात्मन्प्रेमभावाध्दि भविष्यामि विकल्मषा। \nभर्तारमनुगच्छन्ती भर्ता हि मम दैवतम्।।2.29.16।।",
+      "transliteration": "",
+      "translation": "O my purehearted one by following my husband with love I shall become sinless, because my husband is my god.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-29-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "प्रेत्यभावे हि कल्याण स्सङ्गमो मे सह त्वया। \nश्रुतिर्हि श्रूयते पुण्या ब्राह्मणानां यशस्विनाम्।।2.29.17।।\nइहलोके च पितृभिर्या स्त्री यस्य महामते। \nअद्भिर्दत्ता स्वधर्मेण प्रेत्यभावेऽपि तस्य सा।।2.29.18।।",
+      "transliteration": "",
+      "translation": "My union with you, O highminded one, is auspicious even beyond death. A woman, given away by her parents in accordance with traditional offerings of water belongs to him even after death and lives with him. This is a statement from the Vedas quoted by famous brahmins.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-29-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "एवमस्मात्स्वकां नारीं सुवृत्तां हि पतिव्रताम्। \nनाभिरोचयसे नेतुं त्वं मां केनेह हेतुना।।2.29.19।।",
+      "transliteration": "",
+      "translation": "Why don't you want to take to the forest your own wife who is loyal and devoted, and is of good conduct.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-29-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "भक्तां पतिव्रतां दीनां मां समां सुखदुःखयोः। \nनेतुमर्हसि काकुत्स्थ समान सुखदुःखिनीम्।।2.29.20।।",
+      "transliteration": "",
+      "translation": "O Rama, I am faithful and devoted to you. I have equal disposition to happiness and sorrow. I equally share your prosperity and adversity. Therefore, you should  take your wife (to the forest). In this time of distress.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-29-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "ययदि मां दुःखितामेवं वनं नेतुं न चेच्छसि। \nविषमग्निं जलं वाऽहमास्थास्ये मृत्युकारणात्।।2.29.21।।",
+      "transliteration": "",
+      "translation": "If you do not wish to take your wife in this time of distress to the forest I shall die by consuming poison or throwing myself into fire or drowning in water.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-29-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "एवं बहुविधं तं सा याचते गमनं प्रति। \nनानुमेने महाबाहुस्तां नेतुं विजनं वनम्।।2.29.22।।",
+      "transliteration": "",
+      "translation": "Despite Sita's  pleadings with him in various ways the mightyarmed Rama would not consent to take her to the desolate forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-29-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "एवमुक्ता तु सा चिन्तां मैथिली समुपागता। \nस्नापयन्तीव गामुष्णैरश्रुभिर्नयनच्युतैः।।2.29.23।।",
+      "transliteration": "",
+      "translation": "Thus spoken to (prevented), Sita was filled with grief and cried, drenching the ground with warm tears that fell from her eyes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-29-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "चिन्तयन्तीं तथा तां तु निवर्तयितुमात्मवान्। \nताम्रोष्ठीं स तदा सीतां काकुत्स्थो बह्वसान्त्वयत्।।2.29.24।।",
+      "transliteration": "",
+      "translation": "That selfpossessed scion of the Kakutstha dynasty consoled the copperredlipped Sita in several ways to dissuade her (from going to the forest). इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे एकोनत्रिंशस्सर्गः।। Thus ends the twentyninth sarga of Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 49,
+    "title": "Rama crosses the frontiers of the kingdom of Kosala -- crosses rivers Vedasruti and Gomatispeaks to Sumantra.",
+    "titleSanskrit": "",
+    "totalShlokas": 16
+  },
+  "shlokas": [
+    {
+      "id": "v2-49-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "रामोऽपि रात्रिशेषेण तेनैव महदन्तरम्।\nजगाम पुरुषव्याघ्रः पितुराज्ञामनुस्मरन्।।2.49.1।।",
+      "transliteration": "",
+      "translation": "Recollecting his father's command, Rama, the foremost among men, covered a long distance during the remaining part of the night.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-49-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तथैव गच्छतस्तस्य व्यपायाद्रजनी शिवा।\nउपास्य शिवां सन्ध्यां विषयान्तं व्यगाहत।।2.49.2।।",
+      "transliteration": "",
+      "translation": "While Rama was thus travelling, the auspicious night ended. With the sandhya (morning twilight), worship over, he reached the frontiers of the country.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-49-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "ग्रामान् विकृष्टसीमान्तान् पुष्पितानि वनानि च।\nपश्यन्नतिययौ शीघ्रं शनैरिव हयोत्तमैः।।2.49.3।।\nशृण्वन् वचो मनुष्याणां ग्रामसंवासवासिनाम्।",
+      "transliteration": "",
+      "translation": "Watching the villages furrowed at the outskirts, forests in blossom, hearing the gossips of the people living in the midst of villages, Rama felt he was moving very slowly whereas he had actually covered a long distance with those excellent (swift) horses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-49-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "राजानं धिग्दशरथं कामस्य वशमागतम्।।2.49.4।।\nहा नृशंसाद्य कैकेयी पापा पापानुबन्धिनी।\nतीक्ष्णा सम्भिन्नमर्यादा तीक्ष्णकर्मणि वर्तते।।2.49.5।।\nया पुत्रमीदृशं राज्ञः प्रवासयति धार्मिकम्।\nवनवासे महाप्राज्ञं सानुक्रोशं जितेन्द्रियम्।।2.49.6।।",
+      "transliteration": "",
+      "translation": "(The villagers were speaking among themselves) Fie on the king who is overtaken by passion Alas, the heartless, sinful Kaikeyi, indulging in evil has banished into the forest this prince who is righteous and sagacious, compassionate and selfrestrained. How could this cruel Kaikeyi, by breaking all limits of decorum resort to such atrocious action?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-49-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "कथं नाम महाभागा सीता जनकनन्दिनी।\nसदा सुखेष्वभिरता दुःखान्यनुभविष्यति।।2.49.7।।",
+      "transliteration": "",
+      "translation": "How will Sita, highly fortunate daughter of Janaka and used to comforts endure these sufferings?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-49-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अहो दशरथो राजा निस्नेहः स्वसुतं प्रियम्।\nप्रजानामनघं रामं परित्यक्तुमिहेच्छति।।2.49.8।।",
+      "transliteration": "",
+      "translation": "Alas, the loveless king Dasaratha now intends to abandon his own sinless son Rama who is dear to the subjects.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-49-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "एता वाचो मनुष्याणां ग्रामसंवासवासिनाम्।\nशृण्वन्नतिययौ वीरः कोसलान् कोसलेश्वरः।।2.49.9।।",
+      "transliteration": "",
+      "translation": "Such were the words of people living in villages and hamlets that Rama the valiant lord of Kosala happened to hear as he was crossing the boundaries of Kosala.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-49-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "ततो वेदश्रुतिं नाम शिववारिवहां नदीम्।\nउत्तीर्याभिमुखः प्रायादगस्त्याध्युषितां दिशम्।।2.49.10।।",
+      "transliteration": "",
+      "translation": "He then crossed the river Vedasruti flowing with sacred waters and went in the southern direction where sage Agastya resided.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-49-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "गत्वा तु सुचिरं कालं ततः शीतजलां नदीम्।\nगोमतीं गोयुतानूपामतरत्सागरङ्गमाम्।।2.49.11।।",
+      "transliteration": "",
+      "translation": "Travelling for a long time along the river Gomati full of cool waters on whose marshy bank cows grazed, Rama crossed it at the point where it flows into the sea.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-49-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "गोमतीं चाप्यतिक्रम्य राघवः शीघ्रगैर्हयैः। \nमयूरहंसाभिरुतां ततार स्यन्दिकां नदीम्।।2.49.12।।",
+      "transliteration": "",
+      "translation": "Gomati gone, Rama with the swiftmoving horses crossed the river Syandika echoing with the cries of peacocks and swans.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-49-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "स महीं मनुना राज्ञा दत्तामिक्ष्वाकवे पुरा।\nस्फीतां राष्ट्रावृतां रामो वैदेहीमन्वदर्शयत्।।2.49.13।।",
+      "transliteration": "",
+      "translation": "Rama showed Sita vast tracts of land encircled by kingdoms which were formerly bestowed upon Ikshvaku by emperor Manu.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-49-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "सूत इत्येव चाभाष्य सारथिं तमभीक्ष्णशः।\nहंसमत्तस्वरश्श्रीमानुवाच पुरुषर्षभः।।2.19.14।।",
+      "transliteration": "",
+      "translation": "Graceful Rama, best among men with a voice resembling that of an intoxicated swan, called the charioteer again and again and said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-49-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "कदाऽहं पुनरागम्य सरय्वा पुष्पिते वने।\nमृगयां पर्यटिष्यामि मात्रा पित्रा च सङ्गतः।।2.49.15।।",
+      "transliteration": "",
+      "translation": "When shall I return and reunite with my father and mother and go hunting in the blooming forest on the bank of the river Sarayu?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-49-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "नात्यर्थमभिकाङ्क्षामि मृगयां सरयूवने।\nरतिर्ह्येषातुला लोके राजर्षिगणसम्मता।।2.49.16।।",
+      "transliteration": "",
+      "translation": "In this world, hunting is a unique pleasure. It is regarded as a delightful sport for  royal sages. But I do not have a great longing for hunting in the forest on the bank of river Sarayu.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-49-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "राजर्षीणां हि लोकेऽस्मिन् रत्यर्थं मृगया वने।\nकाले कृतां तां मनुजैर्घन्विनामभिकाङ्क्षिताम्।।2.49.17।।",
+      "transliteration": "",
+      "translation": "In this world, hunting in the woods is a pleasure for royal sages and is greatly sought after by bowmen. This was later resorted to by others.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-49-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "स तमध्वानमैक्ष्वाकस्सूतं मधुरया गिरा।\nतं तमर्थमभिप्रेत्य ययौ वाक्यमुदीरयन्।।2.49.18।।",
+      "transliteration": "",
+      "translation": "The descendant of Ikshvaku related to the charioteer in a sweet voice the thoughts that came to him and went on the way (continued his journey).  इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे एकोनपञ्चाशस्सर्गः।। Thus ends the fortyninth sarga of Ayodhyakanda of  the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

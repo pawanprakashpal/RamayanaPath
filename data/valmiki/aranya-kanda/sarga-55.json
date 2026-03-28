@@ -1,0 +1,306 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 55,
+    "title": "Ravana takes Sita to his palace -- shows her round the mansion, the wealth, attendants etc. to lure her -- persuades her to accept him.",
+    "titleSanskrit": "",
+    "totalShlokas": 32
+  },
+  "shlokas": [
+    {
+      "id": "v3-55-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "सन्दिश्य राक्षसान्घोरान् रावणोऽष्टौ महाबलान्।\nआत्मानं बुद्धिवैक्लब्यात्कृतकृत्यममन्यत।।3.55.1।।",
+      "transliteration": "",
+      "translation": "After ordering the eight most fierce  and powerful demons, Ravana had a sense of accomplishment within himself because of his perverse intellect.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "स चिन्तयानो वैदेहीं कामबाणसमर्पितः।\nप्रविवेश गृहं रम्यं सीतां द्रष्टुमभित्वरन्।।3.55.2।।",
+      "transliteration": "",
+      "translation": "Thinking about Vaidehi and hit by the arrows of Cupid (the god of love). Ravana hastened to see Sita and entered the beautiful home.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "स प्रविश्य तु तद्वेश्म रावणो राक्षसाधिपः।\nअपश्यद्राक्षसीमध्ये सीतां शोकपरायणाम्।।3.55.3।।",
+      "transliteration": "",
+      "translation": "Ravana, lord of the demons, entered his residence and saw Sita full of grief in the midst of the demonesses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "अश्रुपूर्णमुखीं दीनां शोकभाराभिपीडिताम्।\nवायुवेगैरिवाक्रान्तां मज्जन्तीं नावमर्णवे।।3.55.4।।\nमृगयूथपरिभ्रष्टां मृगीं श्वभिरिवावृताम्।\nअधोमुखमुखीं सीतामभ्येत्य च निशाचरः।।3.55.5।।\nतां तु शोकपरां दीनामवशां राक्षसाधिपः।\nस बलाद्दर्शयामास गृहं देवगृहोपमम्।।3.55.6।।",
+      "transliteration": "",
+      "translation": "The demon Ravana forcibly took Sita, her face full of tears, to show her his heavenlike home. Inflicted with grief she looked wretched. She resembled a female deer hounded out of the herd. With her head bent in grief, she looked pathetic like one not under her control, like a boat sinking under the sea driven by the wind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "हर्म्यप्रासादसम्बाधं स्त्रीसहस्रनिषेवितम्।\nनानापक्षिगणैर्जुष्टं नानारत्नसमन्वितम्।।3.55.7।।\nदान्तकैस्तापनीयैश्च स्फाटिकै राजतैरपि।\nवज्रवैडूर्यचित्रैश्च स्तम्भैर्दृष्टिमनोहरैः।।3.55.8।।\nदिव्यदुन्दुभिनिर्ह्रादं तप्तकाञ्चनतोरणम्।",
+      "transliteration": "",
+      "translation": "His home was a complex of palaces and mansions served by thousands of women. It was an abode of different flocks of birds. It had captivating pillars studded with gold, crystals, silver, diamonds and vaiduryas. It resounded with wonderful sounds of drums. Its golden entrances were glittering.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "सोपानं काञ्चनं चित्रमारुरोह तया सह।।3.55.9।।\nदान्तका राजताश्चैव गवाक्षाः प्रियदर्शनाः।\nहेमजालावताश्चासन्स्तत्र प्रासादपङ्क्तयः।।3.55.10।।",
+      "transliteration": "",
+      "translation": "He ascended the wonderful golden staircase taking Sita along with him.Beautiful looked the rows of mansions with silver and ivory windows and golden trellis.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "सुधामणिविचित्राणि भूमिभागानि सर्वशः।\nदशग्रीवस्स्वभवने प्रादर्शयत मैथिलीम्।।3.55.11।।",
+      "transliteration": "",
+      "translation": "The tenheaded Ravana showed Sita, the princess from Mithila the floors with wonderful crystals.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "दीर्घिकाः पुष्करिण्यश्च नानावृक्षसमन्विताः।\nरावणो दर्शयामास सीतां शोकपरायणाम्।।3.55.12।।",
+      "transliteration": "",
+      "translation": "Ravana showed Sita who was overwhelmed with sorrow, stepwells surrrounded by various trees and tanks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "दर्शयित्वा तु वैदेह्याः कृत्स्नं तद्भवनोत्तमम्।\nउवाच वाक्यं पापात्मा सीतां लोभितुमिच्छया।।3.55.13।।",
+      "transliteration": "",
+      "translation": "The sinful Ravana showed Sita, princess of Videha, the best of all his mansions in order to allure her, saying:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "दश राक्षसकोट्यश्च द्वाविंशतिरथापराः।\nतेषां प्रभुरहं सीते सर्वेषां भीमकर्मणाम्।।3.55.14।।\nवर्जयित्वा जरावृद्धान्बालांश्च रजनीचरान्।",
+      "transliteration": "",
+      "translation": "O Sita, leaving aside children and the aged, I am the lord of crores of nightrangers in addition to ten crore demons and twentytwo crore terrorists.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "सहस्रमेकमेकस्य मम कार्यपुरस्सरम्।।3.55.15।।\nयदिदं राजतन्त्रं मे त्वयि सर्वं प्रतिष्ठितम्।\nजीवितं च विशालाक्षि त्वं मे प्राणैर्गरीयसी।।3.55.16।।",
+      "transliteration": "",
+      "translation": "For me alone there are a thousand attendants.The  administration of the kingdom and all my subjects will be under your control. O largeeyed Sita you are dearer to me than my life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "बहूनांस्त्रीसहस्राणां मम योऽसौ परिग्रहः।\nतासां त्वमीश्वरा सीते मम भार्या भव प्रिये।।3.55.17।।",
+      "transliteration": "",
+      "translation": "O Sita dear  be my chief queen among the many thousands of women I have married.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "साधु किं तेऽन्यया बुद्ध्या रोचयस्व वचो मम।\nभजस्वमाभितप्तस्य प्रसादं कर्तुमर्हसि।।3.55.18।।",
+      "transliteration": "",
+      "translation": "Do not think otherwise. Be good and accept my request. I am consumed by thoughts of you. You should be gracious to me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "परिक्षिप्ता समुद्रेण लङ्केयं शतयोजना।\nनेयं धर्षयितुं शक्या से��्द्रैरपि सुरासुरैः।।3.55.19।।",
+      "transliteration": "",
+      "translation": "This Lanka extending to a hundred yojanas and surrounded by the sea is vulnerable to neither demons nor gods including Indra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "न देवेषु न यक्षेषु न गन्धर्वेषु पक्षिषु।\nअहं पश्यामि लोकेषु यो मे वीर्यसमो भवेत्।।3.55.20।।",
+      "transliteration": "",
+      "translation": "I do not see any one equal to me in valour among gods, or yakshas or gandharvas or birds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "राज्यभ्रष्टेन दीनेन तापसेन गतायुषा।\nकिं करिष्यसि रामेण मानुषेणाल्पतेजसा।।3.55.21।।",
+      "transliteration": "",
+      "translation": "Of what use is Rama who has lost his kingdom, who is depressed and leads an  ascetic life and who is a shortlived, lacklustre human being.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "भजस्व सीते मामेव भर्ताहं सदृशस्तव।\nयौवनं ह्यध्रुवं भीरु रमस्वेह मया सह।।3.55.22।।",
+      "transliteration": "",
+      "translation": "O Sita take refuge only in me. I am a befitting husband to you. O timid one youth is impermanent. Enjoy (your life) with me while it lasts.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "दर्शने माकृथा बुद्धिं राघवस्य वरानने।\nकास्य शक्तिरिहागन्तुमपि सीते मनोरथैः।।3.55.23।।",
+      "transliteration": "",
+      "translation": "O lovely Sita, give up the thought of seeing Rama. Where does he possess the power to reach this place even on the mental plane ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "न शक्यो वायुराकाशे पाशैर्बद्धुं महाजवः।\nदीप्यमानस्य वाप्यग्नेर्गृहीतुं विमलां शिखाम्।।3.55.24।।",
+      "transliteration": "",
+      "translation": "It is not possible to bind  the wind blowing at high speed in the sky. Similarly it is not possible to catch the brilliant glow of flaming fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "त्रयाणामपि लोकानां न तं पश्यामि शोभने।\nविक्रमेण नयेद्यस्त्वां मद्बाहुपरिपालिताम्।।3.55.25।।",
+      "transliteration": "",
+      "translation": "O lovely lady, I do not see any one in these three worlds who can, by his valour, take you away from me guarded by my arms.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "लङ्कायां सुमहद्राज्यमिदं त्वमनुपालय।\nत्वत्प्रेष्या मद्विधाश्चैव देवाश्चापि चराचराः।।3.55.26।।",
+      "transliteration": "",
+      "translation": "Rule this vast kingdom of Lanka. People like me, even gods and all beings, mobile and immobile, will be at your beck and call.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "अभिषेकोदकक्लिन्ना तुष्टा च रमयस्व माम्।\nदुष्कृतं यत्परा कर्म वनवासेन तद्गतम्।।3.55.27।।\nयश्च ते सुकृतो धर्मस्तस्येह फलमाप्नुहि।",
+      "transliteration": "",
+      "translation": "Drenched with the waters of consecration, entertain me. The effect of the bad deeds done in the past are over with your dwelling in the forest. Now enjoy the fruits  of your   good and righteous deeds here with me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "इह माल्यानि सर्वाणि दिव्यगन्धानि मैथिलि।।3.55.28।।\nभूषणानि च मुख्यानि सेवस्व च मया सह।।",
+      "transliteration": "",
+      "translation": "O princess from Mithila, put on all garlands of wonderful fragrance and finest of jewels here with me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "पुष्पकं नाम सुश्रोणि भ्रातुर्वैश्रवणस्य मे।।3.55.29।।\nविमानं सूर्यसङ्काशं तरसा निर्जितं मया।",
+      "transliteration": "",
+      "translation": "O finehipped lady, I won by my strength from my brother Vaisravana (Kubera) an aerial chariot called Pushpaka shining with the radiance of the Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "विशालं रमणीयं च तद्विमानमनुत्तम्।।3.55.30।।\nतत्र सीते मया सार्धं विहरस्व यथासुखम्।",
+      "transliteration": "",
+      "translation": "O Sita that excellent chariot is big and beautiful. Where on you can roam happily along with me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "वदनं पद्मसङ्काशममलं चारुदर्शनम्।\nशोकार्तंतु वरारोहे न भ्राजति वरानने।।3.55.31।।",
+      "transliteration": "",
+      "translation": "O heavyhipped lady your face which is a clean lotus pleasing to the eye has lost its shine, stricken with grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "एवं वदति तस्मित्सा वस्त्रान्तेन वराङ्गना।\nपिधायेन्दुनिभं सीता मुखमश्रूण्यवर्तयत्।।3.55.32।।",
+      "transliteration": "",
+      "translation": "As Ravana went on speaking thus, Sita covered her beautiful, moonlike face with the edge of her garment and stood shedding tears.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "ध्यायन्तीं तामिवास्वस्थां दीनां चिन्ताहतप्रभाम्।\nउवाच वचनं पापो रावणो राक्षसेश्वरः।।3.55.33।।",
+      "transliteration": "",
+      "translation": "While Sita was lost in thought, feeling ill at lase, looking wretched with her beauty dulled by her anxiety, the sinful lord of the demons continued :",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "अलं व्रीडेन वैदेहि धर्मलोपकृतेन च।।3.55.34।।\nआर्षोऽयं दैवनिष्यन्दो यस्त्वामभिगमिष्यति।",
+      "transliteration": "",
+      "translation": "O Sita you need not feel shamed that it is a violation of righteous conduct. Take it as godsend which has the approval of sages.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "एतौ पादौ मया स्निग्धौ शिरोभिः परिपीडितौ।।3.55.35।।\nप्रसादं कुरु मे क्षिप्रं वश्यो दासोऽहमस्मिते।",
+      "transliteration": "",
+      "translation": "I am bowing down, pressing my heads at your shining feet. I am at your mercy. Grant me your favourI will remain your slave and remain ever under your control.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "इमाश्शून्य मया वाचश्शुष्यमाणेन भाषिताः।।3.55.36।।\nन चापि रावणः काञ्चिन्मूर्ध्ना स्त्रीं प्रणमेत ह।",
+      "transliteration": "",
+      "translation": "My throat has dried up. I have spoken these words in a forlorn state. Ravana has never bowed down to a woman in obeisance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-55-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "एवमुक्त्वा दशग्रीवो मैथिलीं जनकात्मजाम्।।3.55.37।।\nकृतान्तवशमापन्नो ममेयम���ति मन्यते।",
+      "transliteration": "",
+      "translation": "Having said this to the daughter of Janaka, the tenheaded Ravana who had fallen under the control of Yama, lord of death, misconceived that she had become his own. इतयार्ष श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे पञ्चपञ्चाशस्सर्गः।। Thus ends the fiftyfifth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

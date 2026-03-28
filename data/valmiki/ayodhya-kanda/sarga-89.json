@@ -1,0 +1,216 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 89,
+    "title": "Guha ferries Bharata, Satrughna and all others across Ganga -- Bharata sets out to meet sage Bharadwaja.",
+    "titleSanskrit": "",
+    "totalShlokas": 22
+  },
+  "shlokas": [
+    {
+      "id": "v2-89-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "उष्य रात्रिं तु तत्रैव गङ्गाकूले स राघवः।\nभरतः काल्यमुत्थाय शत्रुघ्नमिदमब्रवीत्।।2.89.1।।",
+      "transliteration": "",
+      "translation": "Bharata got up at daybreak after spending the night on the bank of the Ganga at that very place where Rama, the descendent of Raghu, had stayed. And said these words to Satrughna:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-89-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "शत्रुघ्नोत्तिष्ठ किं शेषे निषादाधिपतिं गुहम्।\nशीघ्रमानय भद्रं ते तारयिष्यति वाहिनीम्।।2.89.2।।",
+      "transliteration": "",
+      "translation": "O Satrughna, blessings to you Why are you still alseep? Arise fetch Guha the king of the nishadas quickly. He will ferry the army across the river.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-89-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "जागर्मि नाहं स्वपिमि तमेवाऽर्यं विचिन्तयन्।\nइत्येवमब्रवीद्भ्रात्ता शत्रुघ्नोऽपि प्रचोदितः।।2.89.3।।",
+      "transliteration": "",
+      "translation": "Urged by his brother Bharata, Satrughna replied 'I am not asleep. I am awake. I am deeply thinking of our esteemed brother, Rama'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-89-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "इति संवदतोरेवमन्योन्यं नरसिंहयोः।\nआगम्य प्राञ्जलिः काले गुहो भरतमब्रवीत्।।2.89.4।।",
+      "transliteration": "",
+      "translation": "While the two lions among men, Bharata and Satrughna were thus conversing with each other, Guha came in the appropriate time and said to Bharata with folded palms:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-89-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "कच्चित्सुखं नदीतीरेऽवात्सीः काकुत्स्थ शर्वरीम्।\nकच्चित्ते सह सैन्यस्य तावत्सर्वमनामयम्।।2.89.5।।",
+      "transliteration": "",
+      "translation": "O scion of the Kakutstha race (Bharata) I trust, you and your army passed the night on the river bank comfortably without any inconvenience.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-89-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "गुहस्य वचनं श्रुत्वा तत्तु स्नेहादुदीरितम्।\nरामस्यानुवशो वाक्यं भरतोऽपीदमब्रवीत्।।2.89.6।।",
+      "transliteration": "",
+      "translation": "On hearing Guha's affectionate words Bharata, ever obedient to Rama, replied:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-89-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "सुखा न श्शर्वरी राजन् पूजिताश्चापि ते वयम्।\nगङ्गां तु नौभिर्बह्वीभिर्दाशास्सन्तारयन्तु नः।।2.89.7।।",
+      "transliteration": "",
+      "translation": "O king (Guha) the night passed comfortably for us. We have been honoured by you in many ways. Let your fishermen be ordered to ferry us across the Ganga in their boats.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-89-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "ततो गुह स्सन्त्वरितं श्रुत्वा भरतशासनम्।\nप्रति प्रविश्य नगरं तं ज्ञातिजनमब्रवीत्।।2.89.8।।",
+      "transliteration": "",
+      "translation": "Then at Bharata's command Guha returned to his habitation quickly and said to his relations:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-89-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "उत्तिष्ठत प्रबुध्यध्वं भद्रमस्तु च वस्सदा।\nनाव स्समनुकर्षध्वं तारयिष्याम वाहिनीम्।।2.89.9।।",
+      "transliteration": "",
+      "translation": "Arise and awake. May you be ever blessed. Haul down the boats into the river. We have to ferry the army (across the river).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-89-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "ते तथोक्ता स्समुत्थाय त्वरिता राजशासनात्।\nपञ्चनावां शतान्याशु समानिन्युस्समन्ततः।।2.89.10।।",
+      "transliteration": "",
+      "translation": "On hearing these words, they arose in haste and immediately brought five hundred boats from every direction in accordance with the command of their king (Guha).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-89-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "अन्या स्स्वस्तिकविज्ञेया महाघंटाधरा वराः।\nशोभमानाः पताकाभिर्युक्तवातास्सुसंहताः।।2.89.11।।",
+      "transliteration": "",
+      "translation": "They brought excellent boats known as Swastika, solidly built, they lookd magnificent, filled with large bells, sails and flags.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-89-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "तत स्स्वस्तिकविज्ञेयां पाण्डुकम्बलसंवृताम्।\nसनन्दिघोषां कल्याणीं गुहो नावमुपाहरत्।।2.89.12।।",
+      "transliteration": "",
+      "translation": "Then Guha personally brought an auspicious boat known as Swastika covered with white canvas and generating captivating sounds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-89-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तामारुरोह भरतश्शत्रुघ्नश्च महाबलः।\nकौसल्या च सुमित्रा च याश्चान्या राजयोषितः।।2.89.13।।\nपुरोहितश्च तत्पूर्वं गुरवो ब्राह्मणाश्च ये।\nअनन्तरं राजदारास्तदैव शकटापणाः।।2.89.14।।",
+      "transliteration": "",
+      "translation": "The family priest (Vasistha) and other brahmins were the first to board. Next mighty  Bharata and Satrughna, Kausalya, Sumitra, women of the palace including the other wives of the king and wagons and supplies followed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-89-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "आवासमादीपयतां तीर्थं चाप्यवगाहताम्।\nभाण्डानि चाददानानां घोषस्त्रिदिवमस्पृशत्।।2.89.15।।",
+      "transliteration": "",
+      "translation": "The clamour of the people setting fire to the temporary shelters in that camp, descending down the river and transporting the supplies into the boats reached the heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-89-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "पताकिन्यस्तु ता नावस्स्वयं दाशै��धिष्ठिताः।\nवहन्त्यो जनमारूढं तदा सम्पेतुराशुगाः।।2.89.16।।",
+      "transliteration": "",
+      "translation": "Those boats adorned with flags were propelled by the fishermen occupying them. They sailed with men rowing on board fast.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-89-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "नारीणामभिपूर्णा स्तु काश्चित् काश्चिच्च वाजिनाम्।\nकाश्चिदत्र वहन्ति स्म यानयुग्यं महाधनम्।।2.89.17।।",
+      "transliteration": "",
+      "translation": "Some boats were filled with women, some others with horses. while still others  transported draught animals for drawing carriages and the great treasures.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-89-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "ता स्स्म गत्वा परं तीरमवरोप्य च तं जनम्।\nनिवृत्ताः काण्डचित्राणि क्रियन्ते दाशबन्धुभिः।।2.89.18।।",
+      "transliteration": "",
+      "translation": "Having reached the other bank, the men disembarked. While returning, the fisherfolk exhibited their craft of lovely formations.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-89-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "सवैजयन्तास्तु गजा गजारोहप्रचोदिताः।\nतरन्त स्स्म प्रकाशन्ते सध्वजा इव पर्वताः।।2.89.19।।",
+      "transliteration": "",
+      "translation": "The elephants, embellished with banners and goaded by their mahouts looked  splendid like mountains with banners while crossing in the water.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-89-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "नावस्त्वारुरुहुश्चान्ये प्लवैस्तेरु स्तथापरे।\nअन्ये कुम्भघटैस्तेरुरन्येतेरुश्च बाहुभिः।।2.89.20।।",
+      "transliteration": "",
+      "translation": "Only some of the people were able to board the boats. Some others crossed on rafts and on large pots. Still others swam with their arms.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-89-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "सा पुण्या ध्वजिनी गङ्गां दाशैस्सन्तारिता स्वयम्।\nमैत्रे मुहूर्ते प्रययौ प्रयागवनमुत्तमम्।।2.89.21।।",
+      "transliteration": "",
+      "translation": "The auspicious army, ferried across the river Ganga by the fishermen, reached the great forest of Prayaga at the auspicious hour of Maitra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-89-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "आश्वासयित्वा च चमूं महात्मा निवेशयित्वा च यथोपजोषम्।\nद्रष्टुं भरद्वाजमृषिप्रवर्य मृत्विग्वृतस्सन्भरतः प्रतस्थे।।2.89.22।।",
+      "transliteration": "",
+      "translation": "The noble Bharata, got his army encamped according to their pleasure and set out, accompanied by his priests, to see the distinguished sage Bharadwaja.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-89-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "स ब्राह्मणस्याऽश्रममभ्युपेत्य महात्मनो देवपुरोहितस्य।\nददर्श रम्योटजवृक्षषण्डं महद्वनं विप्रवरस्य रम्यम्।।2.89.23।।",
+      "transliteration": "",
+      "translation": "Approaching the hermitage of Bharadwaja, the eminent brahmin and official priest of the gods, Bharata saw the delightful huts and trees of the charming great forest. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे एकोननवतितमस्सर्गः।। Thus ends the eightyninth sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

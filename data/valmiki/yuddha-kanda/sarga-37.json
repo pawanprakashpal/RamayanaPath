@@ -1,0 +1,279 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 37,
+    "title": "Vibheeshana reveals to Rama the arrangements made by Ravana to protect Lanka. Sri Rama and Sugriva discuss the plans for success.",
+    "titleSanskrit": "",
+    "totalShlokas": 29
+  },
+  "shlokas": [
+    {
+      "id": "v6-37-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "नरवानरराजौतौसतुवायुसुतःकपिः ।\nजाम्ब��ानृक्षराजश्चराक्षसश्चविभीषणः ।।6.37.1।।\nअङ्गदोवालिपुत्रश्चसौम��त्रिश्शरभःकपिः ।\nसुषेणस्सहदायादोमैन्दोद्विविदएवच ।।6.37.2।।\nगजोगवाक्षःकुमुदोनलोऽथपनसस्तथा ।\nअमित्रविषयंप्राप्तास्समवेतास्समर्धयन् ।।6.37.3।।",
+      "transliteration": "",
+      "translation": "Sugriva the king of men and monkeys, Hanuman the son of wind god, Jambavan the king of Bears, Vibheeshana, Vali's son Angada, Sarabha, accompanied by his kin Sushena, Mainda, Dwivida, Gaja, Gavaksha, Kumuda, the wise Nala and Panasa arrived at the enemy city and collected together thought like this.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-37-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "इयंसालक्षयतेलङ्कापुरीरावणपालिता ।\nसासुरोरगगन्धर्वैरमरैरपिदुर्जया ।।6.37.4।।",
+      "transliteration": "",
+      "translation": "\"This Lanka city ruled by Ravana is seen. It appears that this city is unconquerable to Devas, demons and Gandharvas also by the immortals.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-37-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "कार्यसिद्धिंपुरस्कृत्यमन्द्रयध्वंविनिर्णये ।\nनित्यंसन्निहितोह्यत्ररावणोराक्षसाधिपः ।।6.37.5।।",
+      "transliteration": "",
+      "translation": "\"Rakshasa king Ravana is ever present here. Prepare yourself to achieve success in the mission and determine your duty.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-37-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तथातेषुब्रुवाणेषुरावणावरजोऽब्रवीत् ।\nवाक्यमग्राम्यपदवत्पुष्कलार्धंविभीषणः ।।6.37.6।।",
+      "transliteration": "",
+      "translation": "While they were speaking like that to one another, Ravana's brother Vibheeshana spoke courteously, words full of meaning.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-37-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "अनलश्शरभश्चैवसम्पातिःप्रघसस्तथा ।\nगत्वालङ्कांममामात्याःपुरींपुनरिहागताः ।।6.37.7।।",
+      "transliteration": "",
+      "translation": "\"My ministers Anala, Sarabha, Sampathi and also Praghasa went to Lanka and saw it and returned.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-37-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "भूत्वाशकुनयस्सर्वेप्रविष्टाश्चरिपोर्भलम् ।\nविधानंविहितंयच्चतद्धृष्टवासमुपस्थिताः ।।6.37.8।।",
+      "transliteration": "",
+      "translation": "All of them assumed the form of birds and went deep into Lanka, saw the enemy strength and arrangements made by the enemy and turned up.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-37-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "संविधानंयथाहुस्तेरावणस्यदुरात्मनः ।\nराम तद्ब्रुवतस्सर्वंयथात्त्वेनमेशृणु ।।6.37.9।।",
+      "transliteration": "",
+      "translation": "\"Rama! Alas, they told me everything of the way evil minded Ravana's army is organized as it is. Listen to me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-37-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "पूर्वंप्रहस्तस्सबलोद्वारमासाद्यतिष्ठति ।\nदक्षिणंचमहावीर्यौमहापार्श्वमहोदरौ ।।6.37.10।।",
+      "transliteration": "",
+      "translation": "\"Powerful Prahasta stands at east gate with army, Mahaparsva and Mahodara of great valour are at the south gate.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-37-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "इन्द्रजित्पश्चिमंद्वारंराक्षसैर्भहुभिर्वृतः ।\nपट्टसासिधनुष्मद्भिश्शूलमुद्गरपाणिभिः ।।6.37.11।।\nनानाप्रहरणैश्शूरैरावृतोरावणात्मजः ।",
+      "transliteration": "",
+      "translation": "\"Ravana's own son, Indrajith stands at the west gate surrounded by numerous Rakshasas collected together wielding sharp swords, bows, spears, arrows and darts and many kinds of weapons.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-37-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "राक्षसानांसहस्रैस्तुबहुभिश्शस्त्रपाणिभिः ।।6.37.12।।\nयुक्तःपरमसंविग्नोराक्षर्भहुभिर्वृतः ।\nउत्तरंनगरद्वारंरावणस्स्वयमास्थितः ।।6.37.13।।",
+      "transliteration": "",
+      "translation": "\"Ravana himself stands at the north gate of Lanka, highly agitated surrounded by many thousands of Rakshasas wielding weapons.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-37-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "विरूपाक्षस्तुमहताशूलखडगधनुष्मता ।\nबलेनराक्षसैस्सार्थंमध्यमंगुल्ममास्थितः ।।6.37.14।।",
+      "transliteration": "",
+      "translation": "\"Virupaksha stands in the middle of Lanka wielding spears, swords, bows and arrows accompanied by mighty army.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-37-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "एतानेवंविधान्गुल्मान् लङ्कायांसमुदीक्ष्यते ।\nमामकामन्त्रिणस्सर्वेपुनशशीघ्रमिहागताः ।।6.37.15।।",
+      "transliteration": "",
+      "translation": "All our ministers immediately returned back after keenly observing the city of Lanka in this way.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-37-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "गजानांचसाहस्रंचरथानामयुतंपुरे ।\nहयानामयुतेद्वेचसाग्राकोटीचरक्षसाम् ।।6.37.16।।\nविक्रान्ताबलवन्तश्चसंयुगेष्वाततायिनः ।\nइष्टाराक्षसराजस्यनित्यमेतेनिशाचराः ।।6.37.17।।",
+      "transliteration": "",
+      "translation": "\"Elephant army of ten thousand, similarly ten thousand charioteers, horse riders in twenty thousand, more than a crore foot soldiers, mighty strong and valiant warriors, night ranger's beloved to Ravana, the king of Rakshasas were staying close and serving.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-37-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "एकैकस्यात्रयुद्धार्थेराक्षसस्यविशाम्पते ।\nपरीवारस्सहस्राणांसहस्रमुपतिष्ठते ।।6.37.18।।",
+      "transliteration": "",
+      "translation": "\"O! Lord of men! For the sake of assisting one Rakshasa in war ten lakhs of Rakshasas are staying at his service.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-37-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "एतांप्रवृत्तिंलङ्कायांमन्त्रिप्रोक्तांविभीषणः ।\nएवमुक्त्वामहाबाहूराक्षसांस्तानदर्शयत् ।।6.37.19।।",
+      "transliteration": "",
+      "translation": "Mighty armed Vibheeshana revealed to Rama all the information that was told to him by ministers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-37-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "लङ्कायांसचिवैस्सर्वंरामायप्रत्यवेदयत् ।\nरामंकमलपत्राक्षमिदमुत्तरमब्रवीत् ।।6.37.20।।\nरावणावरजःश्रीमान् रामप्रियचिकीर्षया ।",
+      "transliteration": "",
+      "translation": "Again, Vibheeshana, the prosperous brother of Ravana, spoke to Rama everything about Lanka made known to him by the ministers. Vibheeshana looking at the lotus petal eyed Rama, intending to please Rama, spoke.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-37-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "कुबेरंतुयदाराम रावणःप्रत्ययुध्यत ।।6.37.21।।\nषष्टिश्शतसहस्राणितदानिर्यान्तिरक्षसाः ।\nराक्रमेणवीर्येणतेजसासत्त्वगौरवात् ।।6.37.22।।\nसदृशाय्येऽत्रदर्पेणरावणस्यदुरात्मनः ।",
+      "transliteration": "",
+      "translation": "\"Rama! Earlier when Ravana launched an offensive battle against Kubera, sixty thousand Rakshasas who were equal to him in valour, brilliance, courage, and with respect sallied forth the proud, the evil minded Ravana.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-37-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अत्रमन्युर्नकर्तव्योरोषयेत्वांनभीषये ।।6.37.23।।\nसमर्थोह्यसिवीर्येणसुराणामपिनिग्रहे ।",
+      "transliteration": "",
+      "translation": "\"Here, in this case do not be angry. I am telling out of my duty and not out of indignation or to cause anger or fear in you. You are capable of resisting even Devatas.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-37-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तद्भवांश्चतुरङ्गेणबलेनमहातावृतः ।।6.37.24।।\nव्यूह्येदंवानरानीकंनिर्मथिष्यतिरावणम् ।",
+      "transliteration": "",
+      "translation": "\"You also have these Vanara armies surrounded by four kinds of army, elephants, chariots, cavalry and foot soldiers.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-37-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "रावणावरजेवाक्यमेवंब्रुवतिराघवः ।।6.37.25।।\nशत्रूणांप्रतिघातार्थमिदंवचनमब्रवीत् ।",
+      "transliteration": "",
+      "translation": "When Ravana's younger brother spoke in that way Raghava instructed the army to attack the enemy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-37-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "पूर्वद्वारेतुलङ्कायानीलोवानरपुङ्गवः ।।6.37.26।।\nप्रहस्तप्रतियोद्धास्याद्वानरैर्बहुभिर्वृतः ।",
+      "transliteration": "",
+      "translation": "\"Let the Vanara leader Neela along with Vanaras stay at the east gate of Lanka and give fight to Prahasta.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-37-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "अङ्गदोवालिपुत्रस्तुबलेनमहतावृतः ।।6.37.27।।\nदक्षिणेबाधतांद्वारेमहापार्श्वमहोदरौ ।",
+      "transliteration": "",
+      "translation": "\"Let Vali's son the mighty and powerful Angada along with army crush Mahaparsva and Mahodara at the south gate.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-37-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "हनुमान्पश्चिमद्वारंनिपीड्यपवनात्मजः ।।6.37.28।।\nप्रविशत्वप्रमेयात्माबहुभिःकपिभिर्वृतः ।",
+      "transliteration": "",
+      "translation": "\"Let Hanuman, the wind god's son of unimaginable prowess, enter the west gate along with numerous Vanaras and press against the enemy.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-37-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "दैत्यदावनसङ्घानामृषीणां��महात्मनाम् ।।6.37.29।।\nविप्रकारप्रियःक्षुद्रोवरदानबलान्वितः ।\nपरिक्रमतियःसर्वान्लोकान्सन्तापयन्प्रजाः ।।6.37.30।।\nतस्याहंराक्षसेन्द्रस्यस्वयमेववधेधृतः ।\nउत्तरंनगरद्वारमहंसौमित्रिणासह ।।6.37.31।।\nनिपीड्याभिप्रवेक्ष्यामिसबलोयत्ररावणः ।",
+      "transliteration": "",
+      "translation": "\"That Ravana who is harming Daityas and Danavas, and great souls following wicked practices and armed by the boons is oppressing all people wandering all over. I, with Lakshmana, have determined to persecute and kill him and force my entry to the north gate.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-37-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "वानरेन्द्रश्चबलवानृक्षराजश्चवीर्यवान् ।।6.37.32।।\nराक्षसेन्द्रानुजश्चैवगुलोभवतुमध्यम: ।",
+      "transliteration": "",
+      "translation": "\"Mighty strong Sugriva, valorous Jambavan, the ruler of Vanaras and Vibheeshana, brother of Ravana will remain at the middle of Lanka and fight.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-37-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "नचैवमानुषंरूपंकार्यंहरिभिराहवे ।।6.37.33।।\nएषाभवतुसंङञान् युद्धेऽस्मिन् वानरेबले ।",
+      "transliteration": "",
+      "translation": "\"In the battle like this at present Vanaras should not be in the semblance of humans. Let this be our sign.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-37-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "वानराएवनश्चिह्नंस्वजनेऽस्मिन् भविष्यति ।।6.37.34।।\nवयंतुमानुषेणैवसप्तयोत्प्यामहेपरान् ।\nअहमेषममभ्रात्रालक्ष्मणेनमहौजसौ ।।6.37.35।।\nआत्मनापञ्चमश्चायंसखाममविभीषणः ।",
+      "transliteration": "",
+      "translation": "\"To know our own people the Vanaras are the sign of recognition Chivalrous Lakshmana, my brother, similarly five of us and our friend Vibheeshana, these seven people alone will wage war in human form.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-37-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "सरामःकृत्यसिध्यर्थएवमुक्त्वाविभीषणम् ।।6.37.36।।\nसुवेलारोहणेबुद्धिश्चकारमतिमान्मतिम् ।\nरमणीयतरंदृष्टवासुवेलस्यगिरेस्तटम् ।।6.37.37।।",
+      "transliteration": "",
+      "translation": "Wise Rama having spoken like that to Vibheeshana for accomplishing the task, looking at the beauty of Suvela mountain slopes, climbed up and went.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-37-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "ततस्तुरामोमहताबलेनप्रच्छाद्यसर्वांपृथिवींमहात्मा ।\nप्रहृष्टरूपोऽभिजगामलङ्कांकृत्वामतिंसोऽरिवधेमहात्मा ।।6.37.38।।",
+      "transliteration": "",
+      "translation": "Thereafter great Rama with the army spread all over the ground, felt happy at heart, and resolved to succeed went up to Lanka. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेसप्तत्रिंशस्सर्गः ।। This is the end of the thirty seventh sarga of Yuddha Kanda of the first epic the holy Ramayana composed by Sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

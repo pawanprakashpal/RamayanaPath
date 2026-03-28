@@ -1,0 +1,414 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 8,
+    "title": "Sugriva feels happy about his friendship with Rama -- solicits Vali's death -- relates to Rama about Vali's hostile attitude and his enmity with him.",
+    "titleSanskrit": "",
+    "totalShlokas": 44
+  },
+  "shlokas": [
+    {
+      "id": "v4-8-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "परितुष्टस्तु सुग्रीवस्तेन वाक्येन वानरः।\nलक्ष्मणस्याग्रतो राममिदं वचनमब्रवीत्4.8.1।।",
+      "transliteration": "",
+      "translation": "Sugriva, the monkey was very pleased with Rama's words and said to him in front of Lakshmana:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "सर्वथाऽहमनुग्राह्यो देवतानां न संशयः।\nउपपन्न गुणोपेतस्सखा यस्य भवान्मम4.8.2।।",
+      "transliteration": "",
+      "translation": "'Since one like you endowed with all virtues has become my friend I am (now) worthy of grace of the gods in all respects. There is no doubt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "शक्यं खलु भवेद्राम सहायेन त्वयाऽनघ।\nसुरराज्यमपि प्���ाप्तुं स्वराज्यं किं पनः प्रभो 4.8.3।।",
+      "transliteration": "",
+      "translation": "'O Rama, my sinless Lord, it is possible to attain even the kingdom of the gods with your help, what  to speak of my own kingdom?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "सोऽहं सभाज्यो बन्धूनां सुहृदां चैव राघव।\nयस्याग्निसाक्षिकं मित्रं लब्धं राघववंशजम्4.8.4।।",
+      "transliteration": "",
+      "translation": "'O Rama, since you, born in Raghava dynasty, have become my friend with fire as witness, I have become equally honourable among my relatives and friends.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "अहमप्यनुरूपस्ते वयस्यो ज्ञास्यसे शनैः।\nन तु वक्तुं समर्थोऽहं स्वयमात्मगतान्गुणान्4.8.5।।",
+      "transliteration": "",
+      "translation": "'You will come to know slowly that I am also a friend worthy of you.It is not proper for me to speak of my qualities( flatter myself).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "महात्मनां तु भूयिष्ठं त्वद्विधानां कृतात्मनाम्।\nनिश्चला भवति प्रीतिर्धैर्यमात्मवतामिव4.8.6।।",
+      "transliteration": "",
+      "translation": "'The affection of exalted souls is exceedingly stable like the patience of  selfcontrolled and wellcomposed men like you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "रजतं वा सुवर्णं वा वस्त्राण्याभरणानि च।\nअविभक्तानि साधूनामवगच्छन्ति साधवः4.8.7।।",
+      "transliteration": "",
+      "translation": "'Good friends consider(valuables such as) silver or gold, clothes or ornaments of worldly wealth indivisible.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "आढ्यो वापि दरिद्रो वा दुःखितस्सुखितोऽपि वा।\nनिर्दोषो वा सदोषो वा वयस्यः परमा गतिः4.8.8।।",
+      "transliteration": "",
+      "translation": "'Whether rich or poor, afflicted or happy, flawless or guilty, a friend is the ultimate refuge to a friend.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "धनत्यागस्सुखत्यागो देहत्यागोऽपि वा पुनः।\nवयस्यार्थे प्रवर्तन्ते स्नेहं दृष्टवा तथाविधम्4.8.9।।",
+      "transliteration": "",
+      "translation": "'One will not hesitate to sacrifice wealth or happiness or even life for the sake of a friend like you.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तत्तथेत्यब्रवीद्रामस्सुग्रीवं प्रियवादिनम्।     \t\nलक्ष्मणस्याग्रतो लक्ष्म्या वासवस्येव धीमतः4.8.10।।",
+      "transliteration": "",
+      "translation": "As wise Lakshmana, brilliant like Indra stood witness, Rama said, 'it is true as you say' to Sugriva who spoke pleasing words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "ततो रामं स्थितं दृष्ट्वा लक्ष्मणं च महाबलम्।\nसुग्रीवस्सर्वतश्चक्षुर्वने लोलमपातयत्4.8.11।।",
+      "transliteration": "",
+      "translation": "With mighty Rama and Lakshmana standing by, Sugriva cast his eyes eagerly all round the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "स ददर्श ततस्सालमविदूरे हरीश्वरः।\nसुपुष्पमीषत्पत्राढ्यं भ्रमरैरुपशोभितम्4.8.12।।",
+      "transliteration": "",
+      "translation": "Then the chief of monkeys saw a sala tree looking lovely with tender leaves and flowers graced by bees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तस्यैकां पर्णबहुलां भङ्क्त्वा शाखां सुपुष्पिताम्।\nसालस्यास्तीर्य सुग्रीवो निषसाद सराघवः4.8.13।।",
+      "transliteration": "",
+      "translation": "Sugriva cut a branch of the beautifully blossomed sala tree with plenty of leaves,   spread it (on the ground) and squatted along with Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तावासीनौ ततो दृष्ट्वा हनूमानपि लक्ष्मणम्।\nसालशाखां समुत्पाट्य विनीतमुपवेशयत्4.8.14।।",
+      "transliteration": "",
+      "translation": "Thereafter Hanuman also broke a branch of the sala tree and seated Lakshmana on it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "सुखोपविष्टं रामं तु प्रसन्नमुदधिं यथा।\nफलपुष्पसमाकीर्णे तस्मिन् गिरिवरोत्तमे4.8.15।।\nततः प्रहृष्टस्सुग्रीवश्लक्ष्णं मधुरया गिरा।\nउवाच प्रणयाद्रामं हर्षव्याकुलिताक्षरम्4.8.16।।",
+      "transliteration": "",
+      "translation": "Now Rama, seated comfortably on the best of mountains overgrown with trees full of flowers and fruits, appeared tranguil like an ocean. Extremely delighted and excited, Sugriva spoke to Rama words that got mixed up with softness and sweetness out of love:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अहं विनिकृतो भ्रात्रा चराम्येष भयार्दितः।\nऋष्यमूकं गिरिवरं हृतभार्यस्सुदुःखितः4.8.17।।",
+      "transliteration": "",
+      "translation": "'I am sadly roaming here in the great Rishyamuka mountain, my wife stolen, offended by my brother and frightened.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "सोऽहं त्रस्तो भये मग्���ो वसाम्युद्भ्रान्तचेतनः।\nवालिना निकृतो भ्रात्रा कृतवैरश्च राघव4.8.18।���",
+      "transliteration": "",
+      "translation": "'O Rama my brother is my enemy. Deceived and threatened by him, I live in the forest stricken with fear and utterly confused.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "वालिनो मे भयार्तस्य सर्वलोकाभयङ्कर।\nममापि त्वमनाथस्य प्रसादं कर्तुमर्हसि4.8.19।।",
+      "transliteration": "",
+      "translation": "'O great warrior who can frighten all the worlds scared of Vali, I feel  helpless like an orphan to whom you ought to extend your grace.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु तेजस्वी धर्मज्ञो धर्मवत्सलः।\nप्रत्युवाच स काकुत्स्थस्सुग्रीवं प्रहसन्निव4.8.20।।",
+      "transliteration": "",
+      "translation": "Thus spoken to, the glorious Rama, lover of righteousness who knew his duty, replied to Sugriva with a smile on his face:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "उपकारफलं मित्रमपकारोऽरिलक्षणम्।\nअद्यैव तं हनिष्यामि तव भार्यापहारिणम्4.8.21।।",
+      "transliteration": "",
+      "translation": "'While a friend is known for his help, an enemy is known for his offensiveness. I will this very day kill the one who wrested your wife.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "इमे हि मे महावेगा पत्रिणस्तिग्मतेजसः।\nकार्तिकेयवनोद्भूताश्शरा हेमविभूषिताः4.8.22।।\nकङ्कपत्रपरिच्छन्ना महेन्द्राशनिसन्निभाः।\nसुपर्वाणस्सुतीक्ष्णाग्रास्सरोषा भुजगा इव4.8.23।।",
+      "transliteration": "",
+      "translation": "'Here are my highspeed, winged arrows glowing like fierce fire, born out of Kartikeya's bed of reeds.They are smooth and welljointed, decked with gold, comparable in strength to great Indra's thunderbolt, very sharp with pointed tips looking like angry serpents.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "भ्रातृसंज्ञममित्रं ते वालिनं कृतकिल्बिषम्।\nशरैर्विनिहतं पश्य विकीर्णमिव पर्वतम्4.8.24।।",
+      "transliteration": "",
+      "translation": "'Vali who calls himself your brother is your enemy and a doer of wrong deeds. You will see him crushed, like a mountain shattered, by my arrows.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "राघवस्य वचश्श्रुत्वा सुग्रीवो वाहिनीपतिः।\nप्रहर्षमतुलं लेभे साधु साध्विति चाब्रवीत्4.8.25।।",
+      "transliteration": "",
+      "translation": "On hearing Rama's words, Sugriva, chief of the army of monkeys experienced immeasurable happiness and exclaimed, 'you're great, you're great.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "राम शोकाभिभूतोऽहं शोकार्तानां भवान्गतिः।\nवयस्य इति कृत्वा हि त्वय्यहं परिदेवये4.8.26।।",
+      "transliteration": "",
+      "translation": "'Rama I am overwhelmed with sorrow. You are the refuge of the distressed. As you are a friend I ventilate all my grief to you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "त्वं हि पाणिप्रदानेन वयस्यो मेऽग्निसाक्षिकम्।\nकृतः प्राणैर्बहुमतस्सत्येनापि शपामि ते4.8.27।।",
+      "transliteration": "",
+      "translation": "'I value your hand of friendship extended to me, with fire as witness more than my very life. I, on my own, offer my pledge of friendship.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "वयस्य इति कृत्वा च विस्रब्धः प्रवदाम्यहम्।\nदुःखमन्तर्गतं यन्मे मनो हरति नित्यशः4.8.28।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "एतावदुक्त्वा वचनं बाष्पदूषितलोचनः।\nबाष्पोपहतया वाचा नोच्चैश्शक्नोति भाषितुम्4.8.29।।",
+      "transliteration": "",
+      "translation": "His vision blurred, words choked with tears he was unable to speak further.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "बाष्पवेगं तु सहसा नदीवेगमिवागतम्।\nधारयामास धैर्येण सुग्रीवो रामसन्निधौ4.8.30।।",
+      "transliteration": "",
+      "translation": "Quickly Sugriva controlled his tears streaming fast like the rushing river, with patience, Rama seated in front.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "सन्निगृह्य तु तं बाष्पं प्रमृज्य नयने शुभे।\nविनिश्श्वस्य च तेजस्वी राघवं वाक्यमब्रवीत्4.8.31।।",
+      "transliteration": "",
+      "translation": "Effulgent Sugriva controlled his tears, wiped his bright eyes, took deep breath and said to Rama:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "पुराऽहं वालिना राम राज्यात्स्वादवरोपितः।\nपरुषाणि च संश्राव्य निर्धूतोऽस्मि बलीयसा4.8.32।।",
+      "transliteration": "",
+      "translation": "'O Rama I was subjected to the harsh words of powerful Vali in the past when he uprooted me from  the kingdom and threw me out.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "हृता भार्या च मे तेन प्राणेभ्योऽपि गरीयसी।\nसुहृदश्च मदीया ये संयता बन्धनेषु ते4.8.33।।",
+      "transliteration": "",
+      "translation": "'I was robbed of my wife who is dearer than my own life. All my friends were rounded up and imprisoned.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "यत्नवांश्च सुदुष्टात्मा मद्विनाशाय राघव।\nबहुशस्तत्प्रयुक्ताश्च वानरा निहता मया4.8.34।।",
+      "transliteration": "",
+      "translation": "'O Rama this evilminded one made several attempts to kill me. The monkeys he sent to kill me were themselves killed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "शङ्कया त्वेतया चेह दृष्ट्वा त्वामपि राघव।\nनोपसर्पाम्यहं भीतो भये सर्वे हि बिभ्यति4.8.35।।",
+      "transliteration": "",
+      "translation": "'It is because of suspicion that I did not approach you. Every one is scared when there is ample reason to fear.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "केवलं हि सहाया मे हनुमत्प्रमुखास्त्विमे।\nअतोऽहं धारयाम्यद्य प्राणान् कृच्छ्रगतोऽपि सन्4.8.36।।",
+      "transliteration": "",
+      "translation": "'Only Hanuman and other chiefs are helping me. Therefore, I am surviving in spite of all difficulties.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "एते हि कपयस्स्निग्धा मां रक्षन्��ि समन्ततः।\nसह गच्छन्ति गन्तव्ये नित्यं तिष्ठन्ति च स्थिते4.8.37।।",
+      "transliteration": "",
+      "translation": "'These monkeys out of love for me keep me protected from all sides. They go out with me when it is necessary and stay back whenever I stop (in order to guard me).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "सङ्क्षेपस्त्वेष मे राम किमुक्त्वा विस्तरं हि ते।\nस मे ज्येष्ठो रिपुर्भ्राता वाली विश्रुतपौरुषः4.8.38।।",
+      "transliteration": "",
+      "translation": "'O Rama I tell you (my story) briefly. It is not necessary to go into details. My elder brother Vali, who is known for his prowess, is my enemy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "तद्विनाशाद्धि मे दुःखं प्रणष्टं स्यादनन्तरम्।\nसुखं मे जीवितं चैव तद्विनाशनिबन्धनम्4.8.39।।",
+      "transliteration": "",
+      "translation": "'My sorrow will go only with his death. My happiness and my life are also subject to his destruction.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "एष मे राम शोकान्तश्शोकार्तेन निवेदितः।\nदुःखितस्सुखितो वापि सख्युर्नित्यं सखा गतिः4.8.40।।",
+      "transliteration": "",
+      "translation": "'This what I had to tell you out of sorrow. This is how my sorrow will end. In joy and in sorrow your friend is your refuge.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "श्रुत्वैतद्वचनं रामस्सुग्रीवमिदमब्रवीत्।\nकिं निमित्तमभूद्वैरं श्रोतुमिच्छामि तत्त्वतः4.8.41।।",
+      "transliteration": "",
+      "translation": "After hearing  Sugriva, Rama said 'I wish to know the actual cause of this enmity.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "सुखं हि कारणं श्रुत्वा वैरस्य तव वानर।\nअनन्तरं विधास्यामि सम्प्रधार्य बलाबलम्4.8.42।।",
+      "transliteration": "",
+      "translation": "'On hearing the cause of your enmity and considering your strength and weakness, I will take steps to make you happy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "बलवान् हि ममामर्षश्श्रुत्वा त्वामवमानितम्।\nवर्तते हृदयोत्कम्पी प्रावृड्वेग इवाम्भसः4.8.43।।",
+      "transliteration": "",
+      "translation": "'On hearing about your humiliation I feel highly agitated at heart. I feel very much angry and restless like the water in rainy season.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "हृष्टः कथय विस्रब्धो यावदारोप्यते धनुः।\nसृष्टश्च हि मया बाणो निरस्तश्च रिपुस्तव4.8.44।।",
+      "transliteration": "",
+      "translation": "'Tell me freely and cheerfully before I string the bow. Your enemy will be destroyed as soon as I release my arrow.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु सुग्रीवः काकुत्स्थेन महात्मना।\nप्रहर्षमतुलं लेभे चतुर्भिस्सह वानरैः4.8.45।।",
+      "transliteration": "",
+      "translation": "When the great Rama said this, Sugriva with all the four monkeys felt immeasurably glad.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-8-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "ततः प्रहृष्टवदनस्सुग्रीवो लक्ष्मणाग्रजे।\nवैरस्य कारणं तत्त्वमाख्यातुमुपचक्रमे4.8.46।।",
+      "transliteration": "",
+      "translation": "With a smile on his face, Sugriva started narrating to Lakshmana's elder brother the facts about the cause of his enmity (with Vali). इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे अष्टमस्सर्गः Thus ends the eighth sarga of Kishkindakanda of the Holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 64,
+    "title": "Angada discusses with the monkeys the strategies to cross the ocean.",
+    "titleSanskrit": "",
+    "totalShlokas": 22
+  },
+  "shlokas": [
+    {
+      "id": "v4-64-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "आख्याता गृध्रराजेन समुत्प्लुत्य प्लवङ्गमाः।\nसङ्गताः प्रीतिसंयुक्ता विनेदुर्भीमविक्रमाः।।4.64.1।।",
+      "transliteration": "",
+      "translation": "Hearing the words spoken by the king of vultures, the highly courageous monkeys assembled together and leaped with joyscreaming.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-64-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "सम्पातेर्वचनं श्रुत्वा हरयो रावणक्षयम्।\nहृष्टास्सागरमाजग्मुस्सीतादर्शनकाङ्क्षिणः।।4.64.2।।",
+      "transliteration": "",
+      "translation": "On hearing the words of Sampati, the monkeys felt glad and, eager to see Sita, reached the ocean, the passage to the abode of Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-64-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "अभिक्रम्य तु तं ��ेशं ददृशुर्भीमविक्रमाः।\nकृत्स्नं लोकस्य महतः प्रतिबिम्बमिव स्थितम्।।4.64.3।।",
+      "transliteration": "",
+      "translation": "Having reached the ocean, the monkeys, endowed with frightening courage, stood looking at the vast ocean which appeared like an image of the whole world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-64-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "दक्षिणस्य समुद्रस्य समासाद्योत्तरां दिशम्।\nसन्निवेशं ततश्चक्रुर्हरिवीरा महाबलाः।।4.64.4।।",
+      "transliteration": "",
+      "translation": "Powerful and heroic monkeys assembled at the northern end of the southern ocean.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-64-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "सत्त्वैर्महद्भिर्विकृतैः क्रीडद्भिर्विविधैर्जले।\nव्यात्तास्यैस्सुमहाकायैरूर्मिभिश्च समाकुलम्।।4.64.5।।\nप्रसुप्तमिव चान्यत्र क्रीडन्तमिव चान्यतः।\nक्वचित्पर्वतमात्रैश्च जलराशिभिरावृतम्।।4.64.6।।\nसङ्कुलं दानवेन्द्रैश्च पातालतलवासिभिः।\nरोमहर्षकरं दृष्ट्वा विषेदु: कपिकुञ्जराः।।4.64.7।।",
+      "transliteration": "",
+      "translation": "The ocean was of terrifying form filled with various violent species of grotesque creatures of huge bodies playing in the water. Full of violent tides, it appeared asleep at one place and apparently sporting in another. In some places it was rising as high  as a mountain with huge volumes of water. It was as if roaring with the demon chiefs residing in the underworld. The great monkeys were worried seeing the huge ocean which created horripilation in them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-64-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "आकाशमिव दुष्पारं सागरं प्रेक्षय वानराः।\nविषेदु स्सहसासर्वे कथं कार्यमिति ब्रुवन्।।4.64.8।।",
+      "transliteration": "",
+      "translation": "All the monkeys were worried when they suddenly saw the ocean which looked impassable like the sky. They wondered if they can at all accomplish the task (of finding Sita)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-64-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "विषण्णां वाहिनीं दृष्ट्वा सागरस्य निरीक्षणात्।\nआश्वासयामास हरीन्भयार्तान् हरिसत्तमः।।4.64.9।।",
+      "transliteration": "",
+      "translation": "Angada, the best among the monkeys saw the worried army despondent gazing at the ocean, and comforted the frightened troops.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-64-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तान्विषादेन महता विषण्णान्वानरर्षभान्।\nउवाच मतिमान्काले वालिसूनुर्महाबलः।।4.64.10।।",
+      "transliteration": "",
+      "translation": "Angada,the strong and wise  son of Vali, spoke thus to the tensed vanaras in the right  time:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-64-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "न विषादे मनः कार्यं विषादो दोषवत्तमः।\nविषादो हन्ति पुरुषं बालं क्रुद्ध इवोरगः।।4.64.11।।",
+      "transliteration": "",
+      "translation": "'Do not be despondent. It is the biggest flaw. It destroys a person like an angry serpent killing a young child.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-64-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "यो विषादं प्रसहते विक्रमे पर्युपस्थिते।\nतेजसा तस्य हीनस्य पुरुषार्थो न सिध्यति।।4.64.12।।",
+      "transliteration": "",
+      "translation": "'If one succumbs to despondency while he has to exhibit his valour, his brilliance gets diminished and he does not succeed in his manly pursuits'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-64-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तस्यां रात्र्यां व्यतीतायामङ्गदो वानरैस्सह।\nहरिवृद्धैस्समागम्य पुनर्मन्त्रममन्त्रयत्।।4.64.13।।",
+      "transliteration": "",
+      "translation": "With the night over, Angada joined the older monkeys again and sought their counsel.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-64-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "सा वानराणां ध्वजिनी परिवार्याङ्गदं बभौ।\nवासवं परिवार्येव मरुतां वाहिनी स्थिता।।4.64.14।।",
+      "transliteration": "",
+      "translation": "The army of monkeys encircled Angada like the army of Maruts surrounding Indra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-64-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "कोऽन्यस्तां वानरीं सेनां शक्त:स्तम्भयितुं भवेत्।\nअन्यत्र वालितनयादन्यत्र च हनूमतः।।4.64.15।।",
+      "transliteration": "",
+      "translation": "Who else other than the son of Vali and Hanuman can resist and pacify the monkeyarmy?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-64-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "ततस्तान्हरिवृद्धांश्च तच्च सैन्यमरिन्दमः।\nअनुमान्याङ्गदश्श्रीमान्वाक्यमर्थवदब्रवीत्।।4.64.16।।",
+      "transliteration": "",
+      "translation": "Then the illustrious Angada, subduer of foes took the counsel of elderly monkeys and  the army into confidence and thus addressed them all in meaningful words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-64-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "क इदानीं महातेजा लङ्घयिष्यति सागरम्।\nकः करिष्यति सुग्रीवं सत्यसन्धमरिन्दमम्।।4.64.17।।",
+      "transliteration": "",
+      "translation": "'Now which mighty monkey will cross the ocean? Who will prove Sugriva, subduer of enemies, true to his promise?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-64-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "को वीरो योजनशतं लङ्घयेत प्लवङ्गमाः।\nइमांश्च य��थपान् सर्वान्मोक्षयेत्को महाभयात्।।4.64.18।।",
+      "transliteration": "",
+      "translation": "'O monkeys which one can leap a hundred yojanas and liberate the monkey leaders from the great fear of Sugriva?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-64-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "कस्य प्रभावाद्धारांश्च पुत्रांश्चैव गृहाणि च।\nइतो निवृत्ताः पश्येम सिद्धार्थास्सुखिनो वयम्।।4.64.19।।",
+      "transliteration": "",
+      "translation": "'By whose effort can we be successful and return home happily from here to meet wives and sons?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-64-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "कस्य प्रसादाद्रामं च लक्ष्मणं च महाबलम्।\nअभिगच्छेम संहृष्टास्सुग्रीवं च वनौकसम्।।4.64.20।।",
+      "transliteration": "",
+      "translation": "'By whose grace shall we approach Rama and Lakshmana and even the monkey king Sugriva happily?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-64-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "यदि कश्चित्समर्थो वस्सागरप्लवने हरिः।\nस ददा त्विह न शशीघ्रं पुण्यामभयदक्षिणाम्।।4.64.21।।",
+      "transliteration": "",
+      "translation": "'If there is any one among you who is capable of leaping  across the ocean he will be giving all of us the sacred gift of life quickly?'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-64-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "अङ्गदस्य वच श्श���त्वा न कश्चित् किञ्चिदब्रवीत्।\nस्तिमिते वा भवत्सर्वा सा तत्र हरिवाहिनी।।4.64.22।।",
+      "transliteration": "",
+      "translation": "After hearing Angada, no one spoke a word. The entire army of monkeys became still and motionless.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-64-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "पुनरेवाङ्गदः प्राह तान्हरीन्हरिसत्तमः।\nसर्वे बलवतां श्रेष्ठा भवन्तो दृढविक्रमाः।।4.64.23।।\nव्यपदेश्य कुले जाताः पूजिताश्चाप्यभीक्ष्णशः।",
+      "transliteration": "",
+      "translation": "Angada, the best of the monkeys again addressed them saying, 'you are all mighty, eminent and courageous, born in renowned families and have been honoured again and again(for your actions).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-64-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "न हि वो गमने सङ्गः कदाचित्कस्यचित्क्वचित्।\nब्रुवध्वं यस्य या शक्तिः प्लवने प्लवगर्षभाः।।4.64.24।।",
+      "transliteration": "",
+      "translation": "'None of you at any time have faced any obstruction in doing your deeds. You are efficient  in leaping. O bulls among monkeys now speak out, who among you can fly and how far? इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे चतुष्षष्टितमस्सर्गः।। Thus ends the sixtyfourth sarga in Kishkindakanda of the first epic, the Holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 71,
+    "title": "King Janaka narrates the history of his dynasty--consents to give Sita and Urmila in marriage to Rama and Lakshmana.",
+    "titleSanskrit": "",
+    "totalShlokas": 23
+  },
+  "shlokas": [
+    {
+      "id": "v1-71-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "एवं ब्रुवाणं जनक: प्रत्युवाच कृताञ्जलि:।\nश्रोतुमर्हसि भद्रं ते कुलं न: परिकीर्तितम्।।1.71.1।।",
+      "transliteration": "",
+      "translation": "Vasishta having thus described (the genealogy of Dasaratha) Janaka with folded hands rejoined, \"Be blessed. Let me relate the genealogy  of my race. Listen\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-71-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "प्रदाने हि मुनिश्रेष्ठ कुलं निरवशेषत:।\nवक्तव्यं कुलजातेन तन्निबोध महामुने।।1.71.2।।",
+      "transliteration": "",
+      "translation": "\"O Great sage O Best of ascetics while one offers his daughter (in marriage), one born in a noble family should describe his genealogy in full. Listen.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-71-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "राजाऽभूत् त्रिषु लोकेषु विश्रुत स्स्वेन कर्मणा।\nनिमि: परमधर्मात्मा सर्वसत्त्ववतां वर:।।1.71.3।।",
+      "transliteration": "",
+      "translation": "There was a great man of religion king Nimi, strongest of men and wellknown in the three worlds by his own acts.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-71-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तस्य पुत्रोमिथिर्नाम मिथिला येन निर्मिता।\nप्रथमो जनको नाम जनकादप्युदावसु:।।1.71.4।।",
+      "transliteration": "",
+      "translation": "Nimi begot a son named Mithi who constructed Mithila. He was the first Janaka whose son was Udavasu.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-71-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "उदावसोस्तु धर्मात्मा जातो वै नन्दिवर्धन:।\nनन्दिवर्धनपुत्रस्तु सुकेतुर्नाम नामत:।।1.71.5।।",
+      "transliteration": "",
+      "translation": "Virtuous Nandivardhana was the son of Udavasu whose son was Suketu.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-71-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "सुकेतोरपि धर्मात्मा देवरातो महाबल:।\nदेवरातस्य राजर्षेर्बृहद्रथ इति स्मृत:।।1.71.6।।",
+      "transliteration": "",
+      "translation": "Suketu's son was the righteous and powerful Devarata, father of Brihadradha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-71-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "बृहद्रथस्य शूरोऽभून्महावीर: प्रतापवान्।\nमहावीरस्य धृतिमान् सुधृतिस्सत्यविक्रम:।।1.71.7।।",
+      "transliteration": "",
+      "translation": "Brihadradha's son was the heroic and powerful Mahavira, father of Sudhruti, who was armed with courage and the power of truth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-71-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "सुधृतेरपि धर्मात्मा दृष्टकेतुस्सुधार्मिक:।\nदृष्टकेतोस्तु राजर्षेर्हर्यश्व इति विश्रुत:।।1.71.8।।",
+      "transliteration": "",
+      "translation": "To Sudhruti was born the righteous Drishtaketu, committed to dharma. Rajarshi Drishtaketu was father to the wellknown Haryasva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-71-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "हर्यश्वस्य मरु: पुत्रो मरो: पुत्र: प्रतिन्धक:।\nप्रतिंधकस्य धर्मात्मा राजा कीर्तिरथस्सुत:।।1.71.9।।",
+      "transliteration": "",
+      "translation": "Haryasva's son was Maru, father of Pratindhaka. Pratindhaka's son was the righteous king Kirtiratha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-71-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "पुत्र: कीर्तिरथस्यापि देवमीढ इति स्मृत:।\nदेवमीढस्य विबुधो विबुधस्य महीध्रक:।।1.71.10।।",
+      "transliteration": "",
+      "translation": "The son of Kirtiratha was known as Devamidha. His son was Vibudha, father of Mahidhraka.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-71-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "महीध्रकसुतो राजा कीर्तिरातो महाबल:।\nकीर्तिरातस्य राजर्षेर्महारोमा व्यजायत।।1.71.11।।",
+      "transliteration": "",
+      "translation": "Mighty king Kirtirata was the son of Mahidhraka. He was a Rajarshi, father of Maharoma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-71-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "महारोम्णस्तु धर्मात्मा स्वर्णरोमा व्यजायत।\nस्वर्णरोम्णस्तु राजर्षेर्ह्रस्वरोमा व्यजायत।।1.71.12।।",
+      "transliteration": "",
+      "translation": "To Maharoma's was born the virtuous Swarnaroma. Swarnaroma's son was Hrasvaroma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-71-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तस्य पुत्रद्वयं जज्ञे धर्मज्ञस्य महात्मन:।\nज्येष्ठोऽहमनुजो भ्राता मम वीर: कुशध्वज:।।1.71.13।।",
+      "transliteration": "",
+      "translation": "Hrasvaroma, was a religious king. He was a great soul. Of his two sons. I am the  eldest and valiant Kusadhwaja is my younger brother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-71-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "मां तु ज्येष्ठं पिता राज्ये सोऽभिषिच्य नराधिप:।\nकुशध्वजं समावेश्य भारं मयि वनं गत:।।1.71.14।।",
+      "transliteration": "",
+      "translation": "My father king Hrasvaroma crowned me king, entrusted Kusadhwaja to my care and retired to the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-71-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "वृद्धे पितरि स्वर्याते धर्मेण धुरमावहम्।\nभ्रातरं देवसङ्काशं स्नेहात्पश्यन् कुशध्वजम्।।1.71.15।।",
+      "transliteration": "",
+      "translation": "After my aged father attained heaven, I looked after my brother Kusadhwaja, who resembles the celestials, affectionately and ruled the kingdom with righteousness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-71-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "कस्य चित्त्वथकालस्य साङ्काश्यादगमत्पुरात्।\nसुधन्वा वीर्यवान्राजा मिथिलामवरोधक:।।1.71.16।।",
+      "transliteration": "",
+      "translation": "A little later a powerful king named Sudhanva from the city of Sankasya beseiged Mithila.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-71-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "स च मे प्रेषयामास शैवं धनुरनुत्तमम्।\nसीता कन्या च पद्माक्षी मह्यं वै दीयतामिति।।1.71.17।।",
+      "transliteration": "",
+      "translation": "He (Sudhanva) sent me a message: 'give me the great bow of Siva and the lotuseyed maiden Sita'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-71-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तस्याप्रदानाद्ब्रह्मर्षे युद्धमासीन्मया सह।\nस हतोऽभिमुखो राजा सुधन्वा तु मया रणे।।1.71.18।।",
+      "transliteration": "",
+      "translation": "O Brahmarshi when I refused, a great conflict broke out between him and me. In the encounter king Sudhanva was killed by me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-71-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "निहत्य तं मुनिश्रेष्ठ सुधन्वानं नराधिपम्।\nसाङ्काश्ये भ्रातरं वीरमभ्यषिञ्चं कुशध्वजम्।।1.71.19।।",
+      "transliteration": "",
+      "translation": "O Best of ascetics having killed king Sudhanva, I have crowned my heroic brother Kusadhwaja in Sankasya.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-71-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "कनीयानेष मे भ्राता अहं ज्येष्ठो महामुने।\nददामि परमप्रीतो वध्वौ ते मुनिपुङ्गव।।1.71.20।।\nसीतां रामाय भद्रं ते ऊर्मिला लक्ष्मणाय च।",
+      "transliteration": "",
+      "translation": "O Great ascetic (Vasishta), this one is my youger brother and I am the elder one. O preeminent among ascetics with immense pleasure I am giving these maidens, Sita to Rama and Urmila to Lakshmana. Be blessed",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-71-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "वीर्यशुल्कां मम सुतां सीतां सुरसुतोपमाम्\t।।1.71.21।।\nद्वितीयामूर्मिलां चैव त्रिर्ददामि न संशय:।",
+      "transliteration": "",
+      "translation": "I offer my daughter Sita, who looks like a celestial maiden as reward for (Rama's) prowess and my second daughter Urmila (to Lakshmana). I proclaim it three times so that there is no doubt about it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-71-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "ददामि परमप्रीतो वध्वौ ते रघुनन्दन।।1.71.22।।\nरामलक्ष्मणयो राजन् गोदानं कारयस्व ह।\nपितृकार्यं च भद्रं ते ततो वैवाहिकं कुरु।।1.71.23।।",
+      "transliteration": "",
+      "translation": "O Delight of the Raghus (King Dasaratha), I offer these brides with immense pleasure to Rama and Lakshmana. You may perform the rites for your forefathers by gift of cows. Prosperity to you. Thereafter you may perform the marriage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-71-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "मखा ह्यद्य महाबाहो तृतीये दिवसे प्रभो।\nफल्गुन्यामुत्तरे राजंस्तस्मिन्वैवाहिकं कुरु।।1.71.24।।\nरामलक्ष्मणयो राजन् दानं कार्यं सुखोदयम् ।।",
+      "transliteration": "",
+      "translation": "Today the star Makha is on the ascendant. O King perform the marriage on the, third day from today under UttaraPhalguni star. Gifts may be given for the happiness of Rama and Lakshmana\". इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे एकसप्ततितमस्सर्ग:।। Thus ends the seventyfirst sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

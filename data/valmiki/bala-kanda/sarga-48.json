@@ -1,0 +1,261 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 48,
+    "title": "Having received the hospitality of king Sumati, Viswamitra, Rama and Lakshmana  travel towards Mithila. On enquiry by Rama sage Viswamitra relates the story of Gautama's curse to Ahalya.",
+    "titleSanskrit": "",
+    "totalShlokas": 27
+  },
+  "shlokas": [
+    {
+      "id": "v1-48-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "पृष्ट्वा तु कुशलं तत्र परस्परसमागमे।\nकथान्ते सुमतिर्वाक्यं व्याजहार महामुनिम्।।1.48.1।।",
+      "transliteration": "",
+      "translation": "Getting together they enquired one another's health. And then Sumati spoke to the great ascetic (Viswamitra).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-48-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "इमौ कुमारौ भद्रं ते देवतुल्यपराक्रमौ।\nगजसिंहगती वीरौ शार्दूलवृषभोपमौ।।1.48.2।।\nपद्मपत्रविशालाक्षौ खड्गतूणी धनुर्धरौ।\nअश्विनाविव रूपेण समुपस्थितयौवनौ।।1.48.3।।\nयदृच्छयैव गां प्राप्तौ देवलोकादिवामरौ।\nकथं पद्भ्यामिह प्राप्तौ किमर्थं कस्य वा मुने।।1.48.4।।",
+      "transliteration": "",
+      "translation": "\"O Sage, wish you well Who are these two youths who seem to possess the  prowess of celestial beings. They walk with the gait of an elephant or a lion. They are courageous like tiger or a bull. Their large eyes are like lotuspetals. They are armed with scimitars, bows and quivers. They are young and handsome like Aswinikumaras dropped from heaven casually. Whose sons are they? How did they  come here on foot? With what purpose?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-48-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "भूषयन्ताविमं देशं चन्द्रसूर्याविवाम्बरम्।\nपरस्परस्य सदृशौ प्रमाणेङ्गितचेष्टितै:।।1.48.5।।\nकिमर्थं च मुनिश्रेष्ठ सम्प्राप्तौ दुर्गमे पथि।\nवरायुधधरौ वीरौ श्रोतुमिच्छामि तत्त्वत:।।1.48.6।।",
+      "transliteration": "",
+      "translation": "O Great ascetic they resemble each other in personality, expression and gestures. They adorn this land like Sun and moon in the sky holding excellent weapons. These heroes have trodden paths difficult to traverse. For what purpose have they come? I want to hear clearly\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-48-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तस्य तद्वचनं श्रुत्वा यथावृत्तं न्यवेदयत्।\nसिद्धाश्रमनिवासं च राक्षसानां वधं तथा।।1.48.7।।",
+      "transliteration": "",
+      "translation": "On hearing his words, he (Viswamitra) related all about their stay at Siddhashrama and the slaying of rakshasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-48-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "विश्वामित्रवचश्श्रुत्वा राजा परमहर्षित:।\nअतिथी परमौ प्राप्तौ पुत्रौ दशरथस्य तौ।।1.48.8।।\nपूजयामास विधिवत्सत्कारार्हौ महाबलौ।",
+      "transliteration": "",
+      "translation": "After hearing Viswamitra, the king (Sumati) got exceedingly delighted and extended  hospitality in accordance with tradition to the highly valiant sons of Dasaratha, the distinguished guests worthy of honour.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-48-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तत: परमसत्कारं सुमते: प्राप्य राघवौ।।1.48.9।।\nउष्य तत्र निशामेकां जग्मतुर्मिथिलां तत: ।",
+      "transliteration": "",
+      "translation": "The descendants of Raghu (Rama and Lakshmana) having received great honour from Sumati, stayed there one night and thereafter set out for Mithila.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-48-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तान् दृष्ट्वा मुनयस्सर्वे जनकस्य पुरीं शुभाम्।।1.48.10।।\nसाधु साध्विति शंसन्तो मिथिलां समपूजयन्।",
+      "transliteration": "",
+      "translation": "All the ascetics, having seen that auspicious city of Janaka worshipfully admired Mithila saying, 'Excellent, Excellent'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-48-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "मिथिलोपवने शून्यमाश्रमं दृश्य राघव:।।1.48.11।।\nपुराणं निर्जनं रम्यं पप्रच्छ मुनिपुङ्गवम्।",
+      "transliteration": "",
+      "translation": "At the sight of an old uninhabited, beautiful and desolate hermitage in a grove near Mithila, the descendant of the Raghus enquired of the foremost among the ascetics  (Viswamitra):",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-48-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "श्रीमदाश्रमसङ्काशं किन्न्विदं मुनिवर्जितम्।।1.48.12।।\nज्ञातुमिच्छामि भगवन् कस्यायं पूर्वमाश्रम:।",
+      "transliteration": "",
+      "translation": "\"O Venerable one I wish to know why this auspicios looking hermitage was deserted by ascetics? To whom did this belong in the past.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-48-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तच्छ्रुत्वा राघवेणोक्तं वाक्यं वाक्यविशारद:।।1.48.13।।\nप्रत्युवाच महातेजा विश्वामित्रो महामुनि:।",
+      "transliteration": "",
+      "translation": "Eloquent and brilliant Viswamitra, replied to the descendant of the Raghus saying:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-48-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "हन्त ते कथयिष्यामि श्रुणु तत्त्वेन राघव।।1.48.14।।\nयस्येदमाश्रमपदं शप्तं कोपान्महात्मना।",
+      "transliteration": "",
+      "translation": "\"O Descendant of the Raghus I shall tell all you about this hermitage cursed by the wrath of a great man.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-48-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "गौतमस्य नरश्रेष्ठ पूर्वमासीन्महात्मन:।।1.48.15।।\nआश्रमो दिव्यसङ्काशस्सुरैरपि सुपूजित:।",
+      "transliteration": "",
+      "translation": "O Best among men this hermitage resembling a celestial retreat and wellhonoured even by devatas  once belonged to illustrious Gautama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-48-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "स चेह तप आतिष्ठदहल्यासहित: पुरा।।1.48.16।।\nवर्षपूगाननेकांश्च राजपुत्र महायश:।",
+      "transliteration": "",
+      "translation": "O Highly renowned prince it was here in ancient times that Gautama in the company of Ahalya practised austerities for several years.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-48-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तस्यान्तरं विदित्वा तु सहस्राक्षश्शचीपति:।।1.48.17।।\nमुनिवेषधरोऽहल्यामिदं वचनमब्रवीत्।",
+      "transliteration": "",
+      "translation": "The thousandeyed Indra, consort of Sachi, having found an opportunity (during the absence of the ascetic), assumed the guise of the ascetic (Gautama) and said to Ahalya:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-48-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "ऋतुकालं प्रतीक्षन्ते नार्थिनस्सुसमाहिते।1.48.18\nसङ्गमं त्वहमिच्छामि त्वया सह सुमध्यमे।।",
+      "transliteration": "",
+      "translation": "'O most beautiful one those overtaken by passion would not await the completion of the menstrual period (favourable for copulation). O woman of fine waist I desire union with you.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-48-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "मुनिवेषं सहस्राक्षं विज्ञाय रघुनन्दन।1.48.19\nमतिं चकार दुर्मेधा देवराजकुतूहलात्।।",
+      "transliteration": "",
+      "translation": "O Delight of the Raghus the evilintentioned Ahalya, inclined towards the king of the  celestials and  knowing him to be the thousandeyed Indra in the guise of the ascetic, consented for the union.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-48-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अथाब्रवीत् नरश्रेष्ठ कृतार्थेनान्तरात्मना।1.48.20।।\nकृतार्थाऽस्मि सुरश्रेष्ठ गच्छ शीघ्रमित: प्रभो।\nआत्मानं मां च देवेश सर्वदा रक्ष गौतमात्।1.48.21।।",
+      "transliteration": "",
+      "translation": "O Foremost of men with her heart's desire fulfilled, Ahalya said: \"O Chief of the  celestials I'm satisfied. O Lord, quit this place: O Lord of cthe gods, protect yourself and also me from Gautama in all respects.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-48-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "इन्द्रस्तु प्रहसन् वाक्यमहल्यामिदमब्रवीत्।\nसुश्रोणि परितुष्टोऽस्मि गमिष्यामि यथाऽगतम्।1.48.22।।",
+      "transliteration": "",
+      "translation": "Indra smilingly said to Ahalya, 'O One with lovely hips, I am  gratified. I shall go away the way I have come'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-48-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "एवं सङ्गम्य तु तया निश्चक्रामोटजात्तत:।।\nस सम्भ्रमात्त्वरन् राम शङ्कितो गौतमं प्रति।1.48.23।।",
+      "transliteration": "",
+      "translation": "O Rama he (Indra) came out of the leafhut quickly after his union with her, apprehensive of Gautama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-48-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "गौतमं तं ददर्शाथ प्रविशन्तं महामुनिम्।\nदेवदानवदुर्धर्षं तपोबलसमन्वितम्।।1.48.24।।\nतीर्थेंदकपरिक्लिन्नं दीप्यमानमिवानलम्।\nगृहीतसमिधं तत्र सकुशं मुनिपुङ्गवम्।।1.48.25।।",
+      "transliteration": "",
+      "translation": "Subsequently, Indra beheld the great ascetic Gautama, unassailable by devatas and danavas, endowed with the power of ascetism, drenched with sacrifical waters,  shining like flaming fire, carrying sacrificial firewood and Kusha grass and preeminent  among sages, entering that leaf hut.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-48-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "दृष्ट्वा सुरपतिस्त्रस्तो विवर्णवदनोऽभवत्।\nअथ दृष्ट्वा सहस्राक्षं मुनिवेषधरं मुनि:।।1.48.26।।\nदुर्वृत्तं वृत्तसम्पन्नो रोषाद्वचनमब्रवीत्।",
+      "transliteration": "",
+      "translation": "On seeing him, the face of the Lord of the gods (Indra) turned pale with fear. Having seen the wicked Indra with a thousandeyed in the guise of an ascetic the gentle sage Gautama got enraged and said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-48-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "मम रूपं समास्थाय कृतवानसि दुर्मते।।1.48.27।।\nअकर्तव्यमिदं तस्माद्विफलस्त्वं भविष्यसि।",
+      "transliteration": "",
+      "translation": "\"O Wicked natured one assuming my form you have done a forbidden act. For that reason you shall be devoid of  scrotum.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-48-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "गौतमेनैवमुक्तस्य सरोषेण महात्मना।।1.48.28।।\nपेततुर्वृषणै भूमौ सहस्राक्षस्य तत्क्षणात्।",
+      "transliteration": "",
+      "translation": "Cursed thus out of anger by eminent Gautama the  testicles of Indra immediately dropped down on the earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-48-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "तथा शप्त्वा स वै शक्रमहल्यामपि शप्तवान्।।1.48.29।।\nइह वर्षसहस्राणि बहूनि त्वं निवत्स्यसि।\nवायुभक्षा निराहारा तप्यन्ती भस्मशायिनी।।1.48.30।।\nअदृश्या सर्वभूतानां आश्रमेऽस्मिन्निवत्स्यसि।",
+      "transliteration": "",
+      "translation": "Having thus cursed Indra, he also cursed Ahalya: 'You will be staying here for thousands of years without food and subsisting on air, lying down in ashes, doing penance, without being seen by any living beings in this ashrama'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-48-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "यदा चैतद्वनं घोरं रामो दशरथात्मज:।।1.48.31।।\nआगमिष्यति दुर्धर्षस्तदा पूता भविष्यसि।",
+      "transliteration": "",
+      "translation": "'When the son of Dasaratha, the unassailable Rama enters this dreadful forest, you will be cleansed (of this sin)'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-48-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "तस्यातिथ्येन दुर्वुत्ते लोभमोहविवर्जिता।।1.48.32।।\nमत्सकाशे मुदा युक्ता स्वं वपुर्धारयिष्यसि।",
+      "transliteration": "",
+      "translation": "'O Wickednatured one by offering hospitality to Rama, without covetousness and passion, you will happily live with me by regaining your present form'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-48-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "एवमुक्त्वा महातेजा गौतमो दुष्टचारिणीम्।।1.48.33।।\nइममाश्रममुत्सृज्य सिद्धचारणसेविते।\nहिमवच्छिखरे पुण्ये तपस्तेपे महातपा:।।1.48.34।।",
+      "transliteration": "",
+      "translation": "\"Highly powerful Gautama who had performed rigid austerities thus cursed the wicked Ahalya and left this hermitage, for the peaks of Himavat mountain served by siddhas and charanas. Here he performed austerities\"(said Viswamitra). इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे अष्टचत्वारिंशस्सर्ग:।। Thus ends the fortyeighth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

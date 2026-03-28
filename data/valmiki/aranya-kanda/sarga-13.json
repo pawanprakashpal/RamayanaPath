@@ -1,0 +1,252 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 13,
+    "title": "Agastya's advice to Sri Rama--directs Sri Rama to go to Panchavati to reside.",
+    "titleSanskrit": "",
+    "totalShlokas": 26
+  },
+  "shlokas": [
+    {
+      "id": "v3-13-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "राम प्रीतोऽस्मि भद्रं ते परितुष्टोऽस्मि लक्ष्मण। \nअभिवादयितुं यन्मां प्राप्तौ स्थ स्सह सीतया।।3.13.1।।",
+      "transliteration": "",
+      "translation": "O Rama ,I am pleased. I wish you well. I am glad that both of you have come here with Sita to pay respect to me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-13-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अध्वश्रमेण वां खेदो बाधते प्रचुरश्रमः। \nव्यक्तमुत्कण्ठते वापि मैथिली जनकात्मजा।।3.13.2।।",
+      "transliteration": "",
+      "translation": "Both of you are tired due to the journey. It is evident that Sita, daughter of Janaka, is anxious (to rest).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-13-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "एषा हि सुकुमारी च दुःखैश्च न विमानिता। \nप्राज्यदोषं वनं प्राप्ता भर्तृस्नेहप्रचोदिता।।3.13.3।।",
+      "transliteration": "",
+      "translation": "Even though delicate, Sita never feels discouraged by difficulties. She has come to the forest full of obstacles, since she is motivated by her love for her husband.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-13-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "यथैषा रमते राम इह सीता तथा कुरु। \nदुष्करं कृतवत्येषा वने त्वामनुगच्छती।।3.13.4।।",
+      "transliteration": "",
+      "translation": "O Rama, help Sita enjoy herself in whatever manner she likes. By following you into the forest, she has accomplished the most difficult task৷৷",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-13-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "एषा हि प्रकृतिः स्त्रीणामासृष्टे रघुनन्दन। \nसमस्थमनुरज्यान्ति विषमस्थं त्यजन्ति च।।3.13.5।।",
+      "transliteration": "",
+      "translation": "O Rama, the delight of the Raghu dynasty from the beginning of the creation women, by nature,  keep the husband company when all goes well and give them up when hard times come.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-13-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "शतह्रदानां लोलत्वं शस्त्राणां तीक्ष्णतां तथा। \nगरूडानिलयोश्शैघ्र्यमनुगच्छन्ति योषितः।।3.13.6।।",
+      "transliteration": "",
+      "translation": "Women are fickle like lightning, sharp like weapons and fast like Garuda or the  windgod.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-13-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "इयं तु भवतो भार्या दोषैरेतैर्विवर्जिता। \nश्लाघ्या च व्यपदेश्या च यथा देवी ह्यरुन्धती।।3.13.7।।",
+      "transliteration": "",
+      "translation": "Your wife is free from such blemishes. She is praiseworthy and worthy of mention as an example just like the revered Arundhati.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-13-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "अलङ्कृतोऽयं देशश्च यत्र सौमित्रिणा सह। \nवैदेह्या चानया राम वत्स्यसि त्वमरिन्दम।।3.13.8।।",
+      "transliteration": "",
+      "translation": "O Rama, subduer of enemies the place where you reside along with Lakshmana and Vaidehi will look adorned, indeed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-13-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "एवमुक्तस्समुनिना राघवस्संयताञ्जलिः। \nउवाच प्रश्रितं वाक्यमृषिं दीप्तमिवानलम्।।3.13.9।।",
+      "transliteration": "",
+      "translation": "Thus addressed, Rama held his palms together and said politely to the sage shining like fire:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-13-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "धन्योऽस्म्यनुगृहीत��ऽस्मि यस्य मे मुनिपुङ्गवः। \nगुणैस्सभ्रातृभार्यस्य वरदः परितुष्यति।।3.13.10।।",
+      "transliteration": "",
+      "translation": "I consider myself blessed and favoured by a great sage like you, bestower of boons as you have been pleased with me, my brother and my life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-13-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "किन्तु व्यादिश मे देशं सोदकं बहुकाननम्। \nयत्राश्रमपदं कृत्वा वसेयं निरतस्सुखम्।।3.13.11।।",
+      "transliteration": "",
+      "translation": "Direct me to a place with water and dense forest where we can build an ashram and live happily.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-13-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "ततोऽब्रवीन्मुनिश्रेष्ठश्श्रुत्वा रामस्य तद्वचः। \nध्यात्वा मुहूर्तं धर्मात्मा धीरो धीरतरं वचः।।3.13.12।।",
+      "transliteration": "",
+      "translation": "On hearing the words of Rama, Agastya, the best among the sages, coolheaded and righteous, thought a while and uttered these words coolly :",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-13-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "इतो द्वियोजने तात बहुमूलफलोदकः। \nदेशो बहुमृगश्श्रीमान्पञ्चवट्यभिविश्रुतः।।3.13.13।।",
+      "transliteration": "",
+      "translation": "O dear two yojanas away is a place wellknown as Panchavati, a beautiful resort with many roots, fruits, plenty of water and many animals.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-13-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तत्र गत्वाऽऽश्रमपदं कृत्वा सौमित्रिणा सह। \nरमस्व त्वं पितुर्वाक्यं तथोक्तमनुपालयन्।।3.13.14।।",
+      "transliteration": "",
+      "translation": "Reaching there, you wikk build a hermitage with Lakshmana and enjoy your life given to the fulfilment of the pledge to the father.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-13-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "कालोऽयं गतभूयिष्ठो यः काल स्तव राघव। \nसमयो यो नरेन्द्रेण कृतो दशरथेन ते।।3.13.15।।\nतीर्णप्रतिज्ञः काकुत्स्थ सुखं राज्ये निवत्स्यसि।",
+      "transliteration": "",
+      "translation": "O Rama, scion of the Kakutsthas  much of the period of exile king Dasaratha had assigned has passed. You will fulfil your promise and live happily in the kingdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-13-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "धन्यस्ते जनको राम स राजा रघुनन्दन।।3.13.16।।\nयस्त्वया ज्येष्ठपुत्रेण ययातिरिव तारितः।",
+      "transliteration": "",
+      "translation": "O Rama, joy of the Raghu family with the eldest son like you, your father is blessed and liberated like king Yayati.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-13-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "विदितो ह्येष वृत्तान्तो मम सर्वस्तवानघ।।3.13.17।।\nतपसश्च प्रभावेण स्नेहाद्दशरथस्य च।",
+      "transliteration": "",
+      "translation": "O sinless one, I have kown all these facts about you by the power of penance and love for Dasaratha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-13-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "हृदयस्थश्च ते छन्दो विज्ञातस्तपसा मया।।3.13.18।।\nइहावासं प्रतिज्ञाय मया सह तपोवने। \nअतश्च त्वामहं ब्रूमि गच्छ पञ्चवटीमिति।।3.13.19।।",
+      "transliteration": "",
+      "translation": "I know your heart by virtue of my penance. I, therefore, ask you to proceed to Panchavati, after ensuring your stay here with me in this penancegrove for the time being.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-13-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "स हि रम्यो वनोद्देशो मैथिली तत्र रंस्यते। \nस देशश्श्लाघनीयश्च नातिदूरे च राघव।।3.13.20।।",
+      "transliteration": "",
+      "translation": "O Raghava, that forest tract is delightful and beautiful. It is not far away(from here). Maithili (Sita) will enjoy her stay there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-13-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "गोदावर्यास्समीपे च मैथिली तत्र रंस्यते। \nप्राज्यमूलफलश्चैव नानाद्विजगणायुतः।।3.13.21।।\nविविक्तश्च महाबाहो पुण्योरम्यस्तथैव च।",
+      "transliteration": "",
+      "translation": "O longarmed Rama,that place has plenty of roots and fruits. It is a solitary, holy and beautiful place teeming with various kinds of birds. Sita will enjoy her stay in the vicinity of river Godavari.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-13-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "भवानपि सदारश्च शक्तश्च परिरक्षणे। \nअपि चात्र वसन्राम तापसान्पालयिष्यसि।।3.13.22।।",
+      "transliteration": "",
+      "translation": "O Rama, while staying with your wife, you will look after the ascetics living there since  you are capable of giving protection.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-13-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "एतदालक्ष्यते वीर मधूकानां महद्वनम्। \nउत्तरेणास्य गन्तव्यं न्यग्रोधमभिगच्छता।।3.13.23।।",
+      "transliteration": "",
+      "translation": "O valiant Rama look at the great forest of madhuka trees. Walk north to the forest till you see a great banyan tree.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-13-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "ततः स्थलमुपारुह्य पर्वतस्याविदूरतः। \nख्यातः पञ्चवटीत्येव नित्यपुष्पितकाननः।।3.13.24।।",
+      "transliteration": "",
+      "translation": "Then climb the elevated ground not very far from the mountain. There is the wellknown Panchavati with forests, ever in full bloom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-13-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "अगस्त्येनैवमुक्तस्तु रामस्सौमित्रिणा सह। \nसत्कृत्यामन्त्रयामास तमृषिं सत्यवादिनम्।।3.13.25।।",
+      "transliteration": "",
+      "translation": "Thus addressed by Agastya,  Rama with Lakshmana paid respects to the sage wedded to truth and took leave of him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-13-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तौ तु तेनाभ्यनुज्ञातौ कृतपादाभिवन्दनौ। \nतदाश्रमात्पञ्चवटीं जग्मतुस्सीतया सह।।3.13.26।।",
+      "transliteration": "",
+      "translation": "Both of them worshipped the feet of sage Agastya, and proceeded to Panchavati with his permission.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-13-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "गृहीतचापौ तु नराधिपात्मजौ विषक्ततूणौ समरेष्वकातरौ। \nयथोपदिष्टेन पथा महर्षिणा प्रजग्मतुः पञ्चवटीं समाहितौ।।3.13.27।।",
+      "transliteration": "",
+      "translation": "Both the princes, unafraid of battles, held their bows, tied the quivers and carefully proceeded towards Panchavati along the path suggested by the sage. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे त्रयोदशस्सर्गः।। Thus ends the thirteenth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

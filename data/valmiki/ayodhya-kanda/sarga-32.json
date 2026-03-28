@@ -1,0 +1,378 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 32,
+    "title": "Rama honours Suyajna with valuable gifts--distributes his wealth to dependents, brahmins and to sageTrijata.",
+    "titleSanskrit": "",
+    "totalShlokas": 40
+  },
+  "shlokas": [
+    {
+      "id": "v2-32-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततश्शासन माज्ञाय भ्रातु श्शुभतरं प्रियम्।\nगत्वा स प्रविवेशाशु सुयज्ञस्य निवेशनम्।।2.32.1।।",
+      "transliteration": "",
+      "translation": "Lakshmana having understood the very auspicious and welcome order (of Rama)  immediately  proceeded to the house of Suyajna.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तं विप्रमग्न्यगारस्थं वन्दित्वा लक्ष्मणोऽब्रवीत्।\nसखेऽभ्यागच्छ पश्य त्वं वेश्म दुष्करकारिणः।।2.32.2।।",
+      "transliteration": "",
+      "translation": "Lakshmana paid homage to him who was in the firesanctuary, and said O friend, come and see the palace of Rama who is the accomplisher of all difficult tasks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "ततस्सन्ध्यामुपास्याशु गत्वा सौमित्रिणा सह।\nजुष्टं तत्प्राविशल्लक्ष्म्या रम्यं रामनिवेशनम्।।2.32.3।।",
+      "transliteration": "",
+      "translation": "After performing the twilight prayers, Suyajna along with Lakshmana went straight away and entered the beautiful and prosperous palace of Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तमागतं वेदविदं प्राञ्जलिस्सीतया सह।\nसुयज्ञमभिचक्राम राघवोऽग्निमिवार्चितम्।।2.32.4।।",
+      "transliteration": "",
+      "translation": "On the arrival of sage Suyajna wellversed in the Vedas, both Rama and Sita offered obeisance to him as to firegod and circumambulated him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "जातरूपमयैर्मुख्यैरङ्गदैः कुण्डलैः शुभैः।\nसहेमसूत्रैर्मणिभिः केयूरैर्वलयैरपि।।2.32.5।।\nअन्यैश्च रत्नैर्बहुभिः काकुत्स्थः प्रत्यपूजयत्।\nसुयज्ञं स तदोवाच रामस्सीता प्रचोदितः।।2.32.6।।",
+      "transliteration": "",
+      "translation": "Rama, scion of the Kakutstha dynasty, worshipped Suyajna with a collection of golden ornaments such as earrings, anklets, armlets, bracelets and many other ornaments of precious stones. Then urged by Sita, Rama said to him:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "हारं च हेमसूत्रं च भार्यायै सौम्य हारय।\nरशनां चाधुना सीता दातुमिच्छति ते सखे।।2.32.7।।",
+      "transliteration": "",
+      "translation": "O handsome friend now Sita intends to give away to your wife her necklace, her golden chain and girdle. Could you accept them?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "अङ्गदानि विचित्राणि केयूराणि शुभानि च।\nप्रयच्छति सखे तुभ्यं भार्यायै गच्छती वनम्।।2.32.8।।",
+      "transliteration": "",
+      "translation": "Sita is departing for the forest and offers your wife her armlets, wonderful and elegant  bracelets.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "पर्यङ्कमग्य्रास्तरणं नानारत्नविभूषितम्।\nतमपीच्छति वैदेही प्रतिष्ठापयितुं त्वयि।।2.32.9।।",
+      "transliteration": "",
+      "translation": "Sita also wishes to give away a couch with an exquisite cover, encrusted with a variety of precious stones.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "नाग श्शत्रुञ्जयो नाम मातुलोऽयं ददौ मम।\nतं ते गजसहस्रेण ददामि द्विजसत्तम।।2.32.10।।",
+      "transliteration": "",
+      "translation": "I am gifting you, O best among brahmins a thousand elephants including Satrunjaya an elephant my maternal uncle had given me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "इत्युक्तस्स हि रामेण सुयज्ञः प्रतिगृहृयतत्।\nरामलक्ष्मणसीतानां प्रयुयोजाशिष श्शुभाः।।2.32.11।।",
+      "transliteration": "",
+      "translation": "Thus addressed by Rama, Suyajna accepted the gifts and conferred auspicious blessings on Rama, Lakshmana and Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "अथ भ्रातरमव्यग्रं प्रियं रामः प्रियंवदः।\nसौमित्रिं तमुवाचेदं ब्रह्मेव त्रिदशेश्वरम्।।2.32.12।।",
+      "transliteration": "",
+      "translation": "Sweettongued Rama calmly said to his brother (Lakshmana) like Brahma  addressing Indra:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अगस्त्यं कौशिकं चैव तावुभौ ब्राह्मणोत्तमौ। \nअर्चयाहूय सौमित्रे रत्नैस्सस्यमिवाम्बुभिः।।2.32.13।।",
+      "transliteration": "",
+      "translation": "O Lakshmana invite Agastya and Kausika, the two celebrated brahmins, and bestow on them with reverence plenty of precious gems like showers of rain on standing crops.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तर्पयस्व महाबाहो गोसहस्रैश्च मानद।\nसुवर्णै रजतैश्चैव मणिभिश्च महाधनैः।।2.32.14।।",
+      "transliteration": "",
+      "translation": "Satisfy them, O highlyarmed Lakshmana, O bestower of honour with a thousand cows, gold, silver and with the great wealth of gems.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "कौसल्यां च य आशीर्भिर्भक्तः पर्युपतिष्ठति।\nआचार्यस्तैत्तिरीयाणामभिरूपश्च वेदवित्।।2.32.15।।\nतस्य यानं च दासीश्च सौमित्रे सम्प्रदापय।\nकौशेयानि च वस्त्राणि यावत्तुष्यति स द्विजः।।2.32.16।।",
+      "transliteration": "",
+      "translation": "O Lakshmana, give away chariots, maidservants, silk clothes to learned brahmins of Taittiriya branch and wellversed in the Vedas, to agreeable and faithful brahmins attending on Kausalya with their blessings till they are fully satisfied.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "सूतश्चित्ररथश्चार्य सचिवस्सुचिरोषितः।\nतोषयैनं महार्हैश्च रत्नैर्वस्त्रैर्धनैस्तथा।।2.32.17।।\nपशुकाभिश्च सर्वाभिर्गवां दशशतेन च।",
+      "transliteration": "",
+      "translation": "Noble counsellor (of our father) and charioteer Chitraratha has been in our service for many years. Gratify him with invaluable jewels, clothes, wealth, with young female calves and a thousand cows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "ये चेमे कठकालापा बहवो दण्डमाणवाः।।2.32.18।।\nनित्यस्वाध्यायशीलत्वान्नान्यत्कुर्वन्ति किञ्चन।\nअलसा स्वादुकामाश्च महतां चापि सम्मताः।।2.32.19।।\nतेषामशीतियानानि रत्नपूर्णानि दापय।\nशालिवाहसहस्रं च द्वे शते भद्रकां स्तथा।।2.32.20।।\nव्यञ्जनार्थं च सौमित्रे गोसहस्रमुपाकुरु।",
+      "transliteration": "",
+      "translation": "O Lakshmana many brahmacharis with a staff (as a mark of religious authority) wellversed in Katha and Kalapa portions of the Vedas engaged daily in the study of the Vedas and nothing else. Not active otherwise, they are fond of delicious food and are respected even by great people. Give them eighty carts filled with gems, a thousand bulls capable of carrying paddy, and two hundred oxen capable of  ploughing land and a thousand cows for preparing food (with milk products).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "मेखलीनां महासङ्घः कौसल्यां समुपस्थितः।।2.32.21।।\nतेषां सहस्रं सौमित्रे प्रत्येकं सम्प्रदापय।",
+      "transliteration": "",
+      "translation": "Give each of the large number of brahmacharis wearing girdles and working under Kausalya a thousand (cows or gold coins), O Lakshmana",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अम्बा यथा च सा नन्देत्कौसल्या मम दक्षिणाम्।।2.32.22।।\nतथा द्विजातीस्ता न्सर्वान् लक्ष्मणार्चय सर्वशः।",
+      "transliteration": "",
+      "translation": "You should, O Lakshmana treat all those brahmins in such a way that my mother shall be pleased on seeing my respectful offerings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तत स्सपुरुषव्याघ्रस्तद्धनं लक्ष्मणः स्वयम्।।2.32.23।।\nयथोक्तं ब्राह्मणेन्द्राणांमददाद्धनदो यथा।",
+      "transliteration": "",
+      "translation": "Thereupon Lakshmana, a tiger among men, personally distributed like Kubera, gifts of riches to all those Indras among brahmins (best of brahmins) in accordance with the instructions of Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "अथाऽब्रवीद्बाष्पकलांस्तिष्ठतश्चोपजीविनः।।2.32.24।।\nसम्प्रदायबहुद्रव्यमेकैकस्योपजीवनम्।",
+      "transliteration": "",
+      "translation": "Rama then bestowed abundant wealth on each of the dependents as they stood with their throats choked with tears, saying:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "लक्ष्मणस्य च यद्वेश्म गृहं च यदिदं मम।।2.32.25।।\nअशून्यं कार्यमेकैकं यावदागमनं मम।",
+      "transliteration": "",
+      "translation": "Till I come back, guard each of the palaces of Lakshmana and mine and ensure that they are not left unattended.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "इत्युक्त्वा दुःखितं सर्वं जनं तमुपजीविनम्।।2.32.26।।\nउवाचेदं धनाध्यक्षं धनमानीयतामिति।",
+      "transliteration": "",
+      "translation": "Having spoken thus to all dependents who were overcome with grief, Rama ordered the  treasury officer to bring the entire treasure.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "ततोऽस्य धनमाजह्रुस्सर्वमेवोपजीविनः।।2.32.27।।\nस राशिस्सुमहांस्तत्र दर्शनीयो ह्यदृश्यत।",
+      "transliteration": "",
+      "translation": "When all the dependents fetched the entire wealth of Rama, they were pleased to see the great heap of wealth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "ततस्सपुरुषव्याघ्र स्तद्धनं सहलक्ष्मणः।।2.32.28।।\nद्विजेभ्यो बालवृद्धेभ्यः कृपणेभ्योऽह्यदापयत्।",
+      "transliteration": "",
+      "translation": "Rama, best among men, got the entire wealth distributed among indigent brahmins, and young and old alike with the help of Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तत्रासीत्पिङ्गलो गार्ग्यस्त्रिजटो नाम वै द्विजः।।2.32.29।।\nक्षतवृत्तिर्वने नित्यं फालकुद्दाललाङ्गली।",
+      "transliteration": "",
+      "translation": "A brahmin by name, Trijata, a descendant of sage Garga and of reddishbrown colour used to live in that region earning his livelihood in the forest by digging the earth with an ironspade and a plough.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "तं वृद्धं तरुणी भार्या बालानादाय दारकान्।।2.32.30।।\nअब्रवीद्बाह्मणं वाक्यं दारिद्र्येणाभिपीडिता।",
+      "transliteration": "",
+      "translation": "His young wife, highly distressed due to poverty, keeping her young sons before her said to the aged brahmin:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "अपास्य फालं कुद्दालं कुरुष्व वचनं मम।।2.32.31।।\nरामं दर्शय धर्मज्ञं यदि किञ्चिदवाप्स्यसि।",
+      "transliteration": "",
+      "translation": "Listen to me throw away this ironspade. Go and see the righteous Rama.You may obtain something.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "स भार्यावचनं श्रुत्वा शाटीमाच्छाद्य दुश्छदाम्।।2.32.32।।\nस प्रातिष्ठत पन्थानं यत्र रामनिवेशनम्।",
+      "transliteration": "",
+      "translation": "At the words of his wife, Trijata took the path to Rama's palace, having wrapped  himself with a torn upper garment .",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "भृग्वङ्गिरसमं दीप्त्या त्रिजटं जनसंसदि।।2.32.33।।\nआपञ्चमायाः कक्ष्यायाः नैनं कश्चिदवारयत्।",
+      "transliteration": "",
+      "translation": "No one in the crowd stopped Tirjata until he reached the fifth courtyard as he looked like Bhrigu and Angirasa in brilliance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "स राजपुत्रमासाद्य त्रिजटो वाक्यमब्रवीत्।।2.32.34।।\nनिर्धनो बहुपुत्रोऽस्मि राजपुत्र महायशः।\nउञ्छवृत्तिर्वने नित्यं प्रत्यवेक्षस्व मामिति।।2.32.35।।",
+      "transliteration": "",
+      "translation": "Trijata approached Rama and said O illustrious prince I am a destitute and have many children. I am  living in the forest by collecting leftover grains. Look at me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "तमुवाच ततो राम: परिहास समन्वितम्।\nगवां सहस्रमप्येकं न नु विश्राणितं मया।।2.32.36।।\nपरिक्षिपसि दण्डेन यावत्तावदवाप्स्यसि।",
+      "transliteration": "",
+      "translation": "Rama jokingly replied to him, I have not yet gifted one thousand cows. Throw your staff and the cows on the space your staff covers will be yours.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "स शाटीं त्वरितः कट्यां सम्भ्रान्तः परिवेष्ट्य ताम्।।2.32.37।।\nआविद्ध्य दण्डं चिक्षेप सर्वप्राणेन वेगितः।",
+      "transliteration": "",
+      "translation": "Bewildered Trijata swiftly tightened up his upper garment around his waist, set the direction for his staff and hurled it with all his might.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "स तीर्त्वा सरयूपारं दण्डस्तस्य कराच्च्युतः।।2.32.38।।\nगोव्रजे बहुसाहस्रे पपातोक्षणसन्निधौ।",
+      "transliteration": "",
+      "translation": "The staff he hurled crossed the bank of the river Sarayu and fell near a bull in the midst of a thousands cows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "तं परिष्वज्य धर्मात्मा आतस्मात्सरयूतटात्।।2.32.39।।\nआनयामास ता गोपै स्त्रिजटायाश्रमं प्रति।",
+      "transliteration": "",
+      "translation": "The virtuous Rama embraced Trijata, and despatched all the cattle extending up to the bank of Sarayu to his hermitage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "उवाच स ततो रामस्तं गार्ग्यमभिसान्त्वयन्।\nमन्युर्न खलु कर्तव्यः परिहासो ह्ययं मम।।2.32.40।।",
+      "transliteration": "",
+      "translation": "Afterwards Rama sought to placate Trijata, that descendant of Ganga, saying: This was a joke. Do not be angry.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "इदं हि तेजस्तव यद्दुरत्ययं \nतदेव जिज्ञासितुमिच्छता मया।\nइमं भवानर्थमभि प्रचोदितो\nवृणीष्व किं चेदपरं व्यवस्यति।।2.32.41।।",
+      "transliteration": "",
+      "translation": "Your power is unsurpassable and to ascertain this, I incited you to do this act. If  there is anything else, ask for it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "ब्रवीमि सत्येन नतेऽस्ति यन्त्रणा \nधनं हि यद्यन्मम विप्रकारणात्।\nभवत्सु सम्यक्प्रतिपादनेन त\nन्मयार्जितं प्रीतियशस्करं भवेत्।।2.32.42।।",
+      "transliteration": "",
+      "translation": "Truly speaking, there is no limit to seeking wealth. My wealth is specifically meant for brahmins. By distributing all the wealth earned by me, I get pleasure and renown.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "तत स्सभार्य स्त्रिजटो महामुनि\nर्गवामनीकं प्रतिगृह्य मोदितः।\nयशोबलप्रीतिसुखोपबृंहणी\nस्तदाशिष: प्रत्यवदन्महात्मनः।।2.32.43।।",
+      "transliteration": "",
+      "translation": "Thereafter that great sage Trijata along with his wife, immensely happy to receive multitudes of cows, pronounced blessings on the magnanimous Rama for glory, power, pleasure and prosperity.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "स चापि रामः प्रतिपूर्णमानसो\nमहद्धनं धर्मबलैरुपार्जितम्।\nनियोजयामास सुहृज्जनेऽचिरा\nद्यथार्हसम्मानवचः प्रचोदितः।।2.32.44।।",
+      "transliteration": "",
+      "translation": "Prompted by the deserving words of acclaim from his friends, Rama distributed with joy and without delay the entire wealth earned by him through dharma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-32-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "द्विज स्सुहृद्भृत्यजनोऽथवा तदा \nदरिद्रभिक्षाचरणश्च योऽभवत्।\nन तत्र कश्चिन्न बभूव तर्पितो\nयथार्हसम्मानन दान सम्भ्रमैः।।2.32.46।।",
+      "transliteration": "",
+      "translation": "Thus there was none among those brahmins, attendants, poor people, and beggars, who was not satisfied with the honour (received) or with the charity. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे द्वात्रिंशस्सर्गः।। Thus ends the thirtysecond sarga of Ayodhyakanda of the holy Ramayana, the first  epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

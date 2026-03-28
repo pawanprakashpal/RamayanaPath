@@ -1,0 +1,603 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 64,
+    "title": "Rama and Lakshmana continue their search for Sita -- find signs of ornaments and footprints of Sita,broken pieces of bow, shield and parasol -- Rama ventilates his anger towards all in the three worlds -- concludes that Sita has been hijacked by a demon.",
+    "titleSanskrit": "",
+    "totalShlokas": 65
+  },
+  "shlokas": [
+    {
+      "id": "v3-64-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "स दीनो दीनया वाचा लक्ष्मणं वाक्यमब्रवीत्।\nशीघ्रं लक्ष्मण जानीहि गत्वा गोदावरीं नदीम्।।3.64.1।।\nअपि गोदावरीं सीता पद्मान्यानयितुं गता।",
+      "transliteration": "",
+      "translation": "Rama in dejection said these pitiable words to Lakshmana,O Lakashmana, go swiftly to the river Godavari and find out if Sita has gone there to get lotuses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु रामेण लक्ष्मणः परवीरहा।।3.64.2।।\nनदीं गोदावरीं रम्यां जगाम लघुविक्रमः।",
+      "transliteration": "",
+      "translation": "Lakshmana, destroyer of enemywarriors, went to the beautiful river Godavari with quick steps following the instruction of Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "तां लक्ष्मणस्तीर्थवती विचित्वा राममब्रवीत्।।3.64.3।।\nनैनां पश्यामि तीर्थेषु क्रोशतो न शृणोति मे।",
+      "transliteration": "",
+      "translation": "Searching for Sita at the landings of river Godavari, Lakshmana said to Rama, I am unable to find her at these landings.No one responds to my call.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "कं नु वा देशमापन्ना वैदेही क्लेशनाशिनी।।3.64.4।।\nन ह्यहं वेद तं देशं यत्र सा जनकात्मजा।",
+      "transliteration": "",
+      "translation": "Where could Vaidehi, destroyer of sorrow, go? I wonder. I am unable to trace the spot where the daughter of Janaka could be found.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "लक्ष्मणस्य वचश्श्रुत्वा दीनस्सन्तापमोहितः।।3.64.5।।\nरामस्समभिचक्राम स्वयं गोदावरीं नदीम्।\nस तामुपस्थितो रामः क्व सीतेत्येवमब्रवीत्।।3.64.6।।",
+      "transliteration": "",
+      "translation": "Overwhelmed with grief on hearing Lakshmana's words, Rama himself went to river Godavari, and shouted, where are you, Sita?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "भूतानि राक्षसेन्द्रेण वधार्हेण हृतामिति।\nन तां शशंसू रामाय तथा गोदावरी नदि।।3.64.7।।",
+      "transliteration": "",
+      "translation": "Like the elements of Nature, river Godavari did not disclose Rama that Sita had been abducted by the king of demons who deserved death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "ततः प्रचोदिता भूतैश्शंसास्मैतां प्रियामिति।\nन तु साभ्यवदतसितां पृष्टा रामेण शोचता।।3.64.8।।",
+      "transliteration": "",
+      "translation": "River Godavari (although) prompted by creatures (of Nature) to tell him about his beloved did not respond to brooding Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "रावणस्य तु तद्रूपं कर्माणि च दुरात्मनः।\nध्यात्वा भयात्तु वैदेहीं सा नदी न शशंस ताम्।।3.64.9।।",
+      "transliteration": "",
+      "translation": "Remembering the evilminded Ravana's appearance and action, the river revealed nothing about Vaidehi out of fear.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "निराशस्तु तया नद्या सीताया दर्शने कृतः।\nउवाच रामस्सौमित्रिं सीतादर्शनकर्शितः।।3.64.10।।",
+      "transliteration": "",
+      "translation": "Disappointed by the river and emaciated by not being able to see Sita, Rama said to Lakshmana :",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "एषा गोदावरी सौम्य किंचिन्न प्रति भाषते।\nकिं नु लक्ष्मण वक्ष्यामि समेत्य जनकं वचः।।3.64.11।।\nमातरं चैव वैदेह्या विना तामहमप्रियम्।",
+      "transliteration": "",
+      "translation": "O handsome Lakshmana this Godavari does not at all respond. How can I go to Janaka and my mother without Sita and break this unhappy news?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "या मे राज्यविहीनस्य वने वन्येन जीवतः।।3.64.12।।\nसर्वं व्यपनयेच्छोकं वैदेही क्व नु सा गता।",
+      "transliteration": "",
+      "translation": "Where could have gone that Vaidehi, who  removed all my sorrows and sufferings when I lost my kingdom and survived on food available in the forest?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "ज्ञातिपक्षविहीनस्य राजपुत्रीमपश्यतः।।3.64.13।।\nमन्ये दीर्घा भविष्यन्ति रात्रयो मम जाग्रतः।",
+      "transliteration": "",
+      "translation": "Away from relatives and away from the princess, I keep awake during nights which seem too long.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "गोदावरीं जनस्थानमिमं प्रस्रवणं गिरिम्।।3.64.14।।\nसर्वाण्यनुगमिष्यामि यदि सीता हि दृश्यते।",
+      "transliteration": "",
+      "translation": "I will roam about the river Godavari, Janasthana and this mount Prasravana till I find Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "एते मृगा महावीर्य मामीक्षन्ते मुहुर्मुहुः।।3.64.15।।\nवक्तुकामा इव हि मे इङ्गितान्युपलक्षये।",
+      "transliteration": "",
+      "translation": "O mighty Lakshmana these deer are looking at me again and again indicating that they wish to tell me something.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तांस्तु दृष्ट्वा नरव्याघ्रो राघवः प्रत्युवाच ह।।3.64.16।।\nक्व सीतेति निरीक्षन्वै बाष्पसंरुद्धया दृशा।",
+      "transliteration": "",
+      "translation": "With his vision blurred by tears, Rama, the best among men, looked at them and asked them 'Where is Sita'?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "एवमुक्ता नरेन्द्रेण ते मृगास्सहसोत्थिताः।।3.64.17।।\nदक्षिणाभिमुखास्सर्वे दर्शयन्तो नभस्थलम्।\nमैथिली ह्रियमाणा सा दिशं यामन्वपद्यत।।3.64.18।।\nतेन मार्गेण धावन्तो निरीक्षन्ते नराधिपम्।",
+      "transliteration": "",
+      "translation": "Thus asked by the prince, all the deer got up suddenly, and pointed towards the southern sky, the direction in which the princess from Mithila was carried off. Looking at the Lord of men (Rama), they started running in that direction.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "येन मार्गं च भूमिं च निरीक्षन्ते स्म ते मृगाः।।3.64.19।।\nपुनश्च मार्गमिच्छन्ति लक्ष्मणेनोपलक्षिताः।",
+      "transliteration": "",
+      "translation": "Even Lakshmana marked that the deer were showing and looking at the path lying in that direction.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तेषां वचनसर्वस्वं लक्षयामास चेङ्गितम्।।3.64.20।।\nउवाच लक्ष्मणो ज्येष्ठं धीमान्भ्रातरमार्तवत्।",
+      "transliteration": "",
+      "translation": "Observing intelligently their indications and understanding the meaning of their message, Lakshmana said to his distressed elder brother:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "क्व सितेति त्वया पृष्टा यथेमे सहसोत्थिताः।।3.64.21।।\nदर्शयन्ति क्षितिं चैव दक्षिणां च दिशं मृगाः।\nसाधु गच्छावहे देव दिशमेतां हि नैऋतिम्।।3.64.22।।\nयदि स्यादागमः कश्चिदार्या वा साऽथ लक्ष्यते।",
+      "transliteration": "",
+      "translation": "O lord these deer are indicating the land on the southern side.Therefore it will be proper for both of us to proceed in the southwestern direction. Maybe we will get some clue or find that noble Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "बाढमित्येव काकुत्स्थः प्रस्थितो दक्षिणां दिशम्।।3.64.23।।\nलक्ष्मणानुगतश्शीमन्वीक्षमाणो वसुन्धराम्।",
+      "transliteration": "",
+      "translation": "Handsome Rama said, 'yes'and started in southern direction, carefully looking at the ground, followed by Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "एवं सम्भाषमाणौ तावन्योन्यं भ्रातरावुभौ।।3.64.24।।\nवसुन्धरायां पतितं पुष्पमार्गमपश्यताम्।",
+      "transliteration": "",
+      "translation": "Talking with each other, the two brothers took the path on earth strewn with flowers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तां पुष्पवृष्टिं पतितां दृष्ट्वा रामो महीतले।।3.64.25।।\nउवाच लक्ष्मणं वीरो दुःखितो दुःखितं वचः।",
+      "transliteration": "",
+      "translation": "Seeing showers of flowers fallen on the ground, valiant Rama sadly said these words to sorrowful Lakshmana:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "अभिजानामि पुष्पाणि तानीमानीह लक्ष्मण।।3.64.26।।\nपिनद्धानि हि वैदेह्या मया दत्तानि कानने।",
+      "transliteration": "",
+      "translation": "O Lakshmana, here are the same flowers I had given Vaidehi to wear in the forest. I can recognize them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "मन्ये सूर्यश्च वायुश्च मेदिनी च यशस्विनी।।3.64.27।।\nअभिरक्षन्ति पुष्पाणि प्रकुर्वन्तो मम प्रियम्।",
+      "transliteration": "",
+      "translation": "I think the Sun, the wind  and the famed earth have done me a favour by preserving these flowers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "एवमुक्त्वा महाबाहुं लक्ष्मणं पुरुषर्षभः।।3.64.28।।\nउवाच रामो धर्मात्मा गिरिं प्रस्रवणाकुलम्।",
+      "transliteration": "",
+      "translation": "Rigteous Rama, the best among men, having said these words to the longarmed Lakshmana, asked mount Prasravana, full of streams:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "कच्चित् क्षितिभृतां नाथ दृष्टा सर्वाङ्गसुन्दरी।।3.64.29।।\nरामा रम्ये वनोद्देशे मया विरहिता त्वया।",
+      "transliteration": "",
+      "translation": "O king of the mountains have you seen a lady with beautiful limbs separated from me in this forest tract ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "क्रुद्धोऽब्रवीद्गिरिं तत्र सिंहः क्षुद्रमृगं यथा।।3.64.30।।\nतां हेमवर्णां हेमाभां सीतां दर्शय पर्वत।\nयावत्सानूनि सर्वाणि न ते विध्वंसयाम्यहम्।।3.64.31।।",
+      "transliteration": "",
+      "translation": "Like a lion aiming at a petty animal, angry Rama  said, O Mountain before I destroy  all your slopes show me that goldenhued Sita with lustre like gold.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु रामेण पर्वतो मैथिलीं प्रति।\nशंसन्निव ततस्सीतां नादर्शयत राघवे।।3.64.32।।",
+      "transliteration": "",
+      "translation": "Thus addressed by Rama, the mountain echoed as if it was telling about Sita but did not show her to Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "ततो दाशरथी राम उवाच च शिलोच्चयम्।\nमम बाणाग्निनिर्दग्धो भस्मीभूतो भविष्यसि।।3.64.33।।\nअसेव्यः सततं चैव निस्तृणद्रुमपल्लवः।",
+      "transliteration": "",
+      "translation": "Rama, Dasaratha's son said to the mountain, The fire of my arrows will reduce you to ashes.You will have no grass, no tree, no twig. You will be unfit to be served any more.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "इमां वा सरितं चाद्य शोषयिष्यामि लक्ष्मण।।3.64.34।।\nयदि नाख्याति मे सीतामार्यां चन्द्रनिभाननाम्।",
+      "transliteration": "",
+      "translation": "O Lakshmana if this river does not tell me about that noble Sita with countenance like the moon, I will drain it dry right now.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "एवं स रुषितो रामो दिधक्षन्निव चक्षुषा।।3.64.35।।\nददर्श भूमौ निष्क्रान्तं राक्षसस्य पदं महत्।\nत्रस्ताया रामकाङ्क्षिण्याः प्रधावन्त्या इतस्ततः।।3.64.36।।\nराक्षसेनानुवृत्ताया मैथिल्याश्च पदान्यथ।",
+      "transliteration": "",
+      "translation": "While Rama was angry with his eyes burning, he saw on the ground as he advanced large footprints of a demon and then the footprints of Maithili which signified as if chased by the demon, she was frightened and was running hither and thither, longing to see Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "स समीक्ष्य परिक्रान्तं सीताया राक्षसस्य च।।3.64.37।।\nभग्नं धनुश्च तूणी च विकीर्णं बहुधा रथम्।\nसम्भ्रान्तहृदयो रामश्शशंस भ्रातरंप्रियम्।।3.64.38।।",
+      "transliteration": "",
+      "translation": "Bewildered to see the broken bow and quiver and many splinters of the chariot scattered all over, Rama said to his loving brother Lakshmana:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "पश्य लक्ष्मण वैदेह्याशशीर्णाः कनकबिन्दवः।\nभूषणानां हि सौमित्रे माल्यानि विविधानि च।।3.64.39।।",
+      "transliteration": "",
+      "translation": "O Saumitri  see the many broken bits of gold ornaments and garlands.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "तप्तबिन्दुनिकाशैश्च चित्रैः क्षतजबिन्दुभिः।\nआवृतं पश्य सौमित्रे सर्वतो धरणीतलम्।3.64.40।।",
+      "transliteration": "",
+      "translation": "See, O Lakshmana, the patches of blood looking like drops of shining gold spread all over the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "मन्ये लक्ष्मण वैदेही राक्षसैः कामरूपिभिः।\nभित्वाभित्वा विभक्ता वा भक्षिता वा भविष्यति।।3.64.41।।",
+      "transliteration": "",
+      "translation": "O Lakshmana, Vaidehi might have been cut into pieces, and eaten up by the demons who can assume any form at their free will.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "तस्या निमित्तं वैदेह्या द्वयोर्विवदमानयोः।\nबभूव युद्धं सौमित्रे घोरं राक्षसयोरिह।।3.64.42।।",
+      "transliteration": "",
+      "translation": "O Lakshmana, two demons might have fought a dreadful duel at this place contesting with each other for the sake of Vaidehi.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "मुक्तामणिमयं चेदं तपनीयविभूषितम्।\nधरण्यां पतितं सौम्य कस्य भग्नं महद्धनुः।।3.64.43।।",
+      "transliteration": "",
+      "translation": "O handsome Lakshmana whose is this huge bow embedded with pearls and gems and adorned with gold fallen on the ground?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "तरुणादित्यसङ्काशं वैडूर्यगुलिकाचितम्।\nविशीर्णं पतितं भूमौ कवचं कस्य काञ्चनम्।।3.64.44।।",
+      "transliteration": "",
+      "translation": "Whose is this shield of gold studded with Vaidurya, broken and strewn all over the ground, shining like the morning Sun?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "छत्रं शतशलाकं च दिव्यमाल्योपशोभितम्।\nभग्नदण्डमिदं कस्य भूमौ सम्यङ्निपातितम्।।3.64.45।।",
+      "transliteration": "",
+      "translation": "Whose parasol is this with a hundred spokes, festooned with wonderful flowers thrown down on the ground with broken staff ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "काञ्चनोरश्छदा श्चेमे पिशाचवदनाः खराः।\nभीमरूपा महाकायाः कस्य वा निहता रणे।।3.64.46।।",
+      "transliteration": "",
+      "translation": "Whose are these donkeys, with golden chestcoverings, with the devil's face, fierceful and huge and slain in the encounter ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "दीप्तपावकसङ्काशो द्युतिमान्समरध्वजः।\nअपविद्धश्च भग्नश्च कस्य साङ्ग्रामिको रथः।।3.64.47।।",
+      "transliteration": "",
+      "translation": "Whose war chariot with a battle flag is this, shining like burning fire, turned upside down and broken?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "रथाक्षमात्रा विशिखास्तपनीयविभूषणाः।\nकस्येमेऽभिहता बाणाः प्रकीर्णा घोरकर्मणः।।3.64.48।।",
+      "transliteration": "",
+      "translation": "Whose are these pointless arrows of the size of a chariot axle adorned with bright gold destroyed and scattered ? Who is he that has performed such terrible deeds?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "शरावरौ शरैः पूर्णौ विध्वस्तौ पश्य लक्ष्मण।\nप्रतोदाभीशुहस्तो वै कस्यायं सारथिर्ह��ः।।3.64.49।।",
+      "transliteration": "",
+      "translation": "O Lakshmana  look at these two quivers filled with arrows and lying shattered.  The charioteer is holding a whip and reins in his hands and is lying dead. To whom do they belong?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "कस्येमौ पुरुषव्याघ्र शयाते निहतौ युधि।\nचामरग्राहिणौ सौम्य सोष्णीषमणिकुण्डलौ।।3.64.50।।",
+      "transliteration": "",
+      "translation": "O best among men, O handsome Lakshmana see these carriers of fans with head dress and earrings studded with gems lying slain in the combat. Whose are they ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "पदवीपुरुषस्यैषा व्यक्तं कस्यापि रक्षसः।\nवैरं शतगुणं पश्य ममेदं जीवितान्तकम्।।3.64.51।।",
+      "transliteration": "",
+      "translation": "This indeed is the path the man or the demon has traversed. My enmity with him now has become hundredfold. This will end only with the extermination of his life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "सुघोरहृदयैस्सौम्य राक्षसैः कामरूपिभिः।\nहृता मृता वा सीता सा भक्षिता वा तपस्विनी।।3.64.52।।\nनधर्मस्त्रायते सीतां ह्रियमाणां महावने।",
+      "transliteration": "",
+      "translation": "O handsome one, those demons can change their form at will and are of dreadful nature. Have they abducted or devoured or killed her in this great forest. Even her righteousness could not protect the helpless Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "भक्षितायां हि वैदेह्यां हृतायामपि लक्ष्मण।।3.64.53।।\nके हि लोके प्रियं कर्तुं शक्तास्सौम्य ममेश्वराः।",
+      "transliteration": "",
+      "translation": "If Sita has been devoured or kidnapped, none in this world or even gods could do anything to make me happy, O handsome Lakshmana",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "कर्तारमपि लोकानां शूरं करुणवेदिनम्।।3.64.54।।\nअज्ञानादवमन्येरत्सर्वभूतानि लक्ष्मण।",
+      "transliteration": "",
+      "translation": "O Lakshmana even the compassionate and heroic Creator of the worlds will be disrespected by all beings, however ignorantly (if such things are allowed to happen).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "मृदुं लोकहिते युक्तं दान्तं करुणवेदिनम्।।3.64.55।।\nनिर्वीर्य इति मन्यन्ते नूनं मां त्रिदशेश्वराः।",
+      "transliteration": "",
+      "translation": "The gods will certainly consider me a man engaged in the welfare of the world, a man of selfrestraint and compassion, but at the same time a weak man.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "मां प्राप्य हि गुणो दोषस्संवृत्तः पश्य लक्ष्मण।।3.64.56।।\nअद्यैव सर्वभूतानां रक्षसामभवाय च।\nसंहृत्यैव शशिज्योत्स्नां महान्सूर्य इवोदितः।।3.64.57।।\nसंहृत्यैव गुणान्सर्वान्मम तेजः प्रकाशते।",
+      "transliteration": "",
+      "translation": "O Lakshmana even demerits turn into merits when they come in contact with me. Just as the Sun shines, effacing the moonlight, my brilliance will outshine my demerits of exterminating all (wicked) beings including the demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "नैव यक्षा न गन्धर्वा न पिशाचा न राक्षसाः।।3.64.58।।\nकिन्नरा वा मनुष्या वा सुखं प्राप्स्यन्ति लिक्ष्मण।",
+      "transliteration": "",
+      "translation": "O Lakshmana, neither yakshas, nor goblins nor demons nor kinneras nor humans  will be in peace now.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "ममास्त्रबाणसम्पूर्णमाकाशं पश्य लक्ष्मण।।3.64.59।।\nनिस्सम्पातं करिष्यामि ह्यद्य त्रैलोक्यचारिणाम्।",
+      "transliteration": "",
+      "translation": "O Lakshmana, just see, I will fill the sky with all my weapons and arrows and make all movements impossible in the three worlds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "सन्निरुद्धग्रहगणमावारितनिशाकरम्।।3.64.60।।\nविप्रणष्टानलमरुद्भास्करद्युतिसंवृतम्।\nविनिर्मथितशैलाग्रं शुष्यमाणजलाशयम्।।3.64.61।।\nध्वस्तद्रुमलतागुल्मं विप्रणाशितसागरम्।\nत्रैलोक्यं तु करिष्यामि संयुक्तं कालकर्मणा।।3.64.62।।",
+      "transliteration": "",
+      "translation": "I will obstruct the movement of planets and the Moon, destroy the radiance of the Sun, the fire and block the wind crush the mountain tops, dry up the tanks, destroy the trees shrubs and creepers and annihilate the oceans. I shall bring about this fatal change at once in the three worlds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-54",
+      "number": 54,
+      "type": "shloka",
+      "original": "न तां कुशलिनीं सीतां प्रदास्यन्ति ममेश्वराः।\nअस्मिन्मुहूर्ते सौमित्रे मम द्रक्ष्यन्ति विक्रमम्।।3.64.63।।",
+      "transliteration": "",
+      "translation": "If the gods do not return my Sita safely to me, O Lakshmana  they will witness my power right now.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-55",
+      "number": 55,
+      "type": "shloka",
+      "original": "नाकाशमुत्पतिष्यन्ति सर्वभूतानि लक्ष्मण।\nमम चापगुणोन्मुक्तैर्बाणजालैर्निरन्तरम्।।3.64.64।।",
+      "transliteration": "",
+      "translation": "Lakshmana no beings will be able to move in the sky, blocked by arrows released from my bowstring there will be no space left there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-56",
+      "number": 56,
+      "type": "shloka",
+      "original": "अर्दितं मम नाराचैर्ध्वस्तभ्रान्तमृगद्विजम्।\nसमाकुलममर्यादं जगत्पश्याद्य लक्ष्मण।।3.64.65।।",
+      "transliteration": "",
+      "translation": "O Lakshmna now beasts and birds will be confused and destroyed by my darts.You will see them crossing all limits of propriety.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-57",
+      "number": 57,
+      "type": "shloka",
+      "original": "आकर्णपूर्णैरिषुभिर्जीवलोकं दुरावरैः।\nकरिष्ये मैथिलीहेतोरपिशाचमराक्षसम्।।3.64.66।।",
+      "transliteration": "",
+      "translation": "For the sake of Maithili I will render this world devoid of goblins and demons with my irresistible arrows pulled up to my ears.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-58",
+      "number": 58,
+      "type": "shloka",
+      "original": "मम रोषप्रयुक्तानां सायकानां बलं सुराः।\nद्रक्ष्यन्त्यद्य विमुक्तानामतिदूरातिगामिनाम्।।3.64.67।।",
+      "transliteration": "",
+      "translation": "Now the gods will witness the power of my arrows released in great rage which can hit distant targets.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-59",
+      "number": 59,
+      "type": "shloka",
+      "original": "नैव देवा न दैतेया न पिशाचा न राक्षसाः।\nभविष्यन्ति मम क्रोधात्त्रैलोक्ये विप्रणाशिते।।3.64.68।।",
+      "transliteration": "",
+      "translation": "My anger will destroy all the gods, demons and evil spirits. They will be extinghished from the three worlds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-60",
+      "number": 60,
+      "type": "shloka",
+      "original": "देवदानवयक्षाणां लोका ये रक्षसामपि।\nबहुधा न भविष्यन्ति बाणौघैश्शकलीकृताः।।3.64.69।।",
+      "transliteration": "",
+      "translation": "The worlds of gods, yakshas or even demons torn into shreds by my arrows will not  survive.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-61",
+      "number": 61,
+      "type": "shloka",
+      "original": "निर्मर्यादानिमान्लोकान्करिष्याम्यद्य सायकैः।\nहृतां मृतां वा सौमित्रे न दास्यन्ति ममेश्वराः।।3.64.70।।",
+      "transliteration": "",
+      "translation": "If the gods do not hand over Sita to me either carried away or dead I will transgress these worlds, O Lakshmana",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-62",
+      "number": 62,
+      "type": "shloka",
+      "original": "तथारुपां हि वैदेहीं न दास्यन्ति यदि प्रियाम्।\nनाशयामि जगत्सर्वं त्रैलोक्यं सचराचरम्।।3.64.71।।",
+      "transliteration": "",
+      "translation": "If my beloved Vaidehi is not given back to me in her true form I will destroy the three worlds with all animate and inanimate beings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-63",
+      "number": 63,
+      "type": "shloka",
+      "original": "इत्युक्त्वा रोषताम्राक्षो रामो निष्पीड्य कार्मुकम्।\nशरमादाय सन्दीप्तं घोरमाशीविषोपमम्।।3.64.72।।\nसन्धाय धनुषि श्रीमान्रामः परपुरञ्जयः।\nयुगान्ताग्निरिव क्रुद्ध इदं वचनमब्रवीत्।।3.64.73।।",
+      "transliteration": "",
+      "translation": "After speaking these words, handsome Rama, his eyes red with anger, pressed his bow, took out the glowing arrow that was dreadful like a poisonous serpent, fixed it to his bow and said these words in a rage like the fire at the time of dissolution of the world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-64",
+      "number": 64,
+      "type": "shloka",
+      "original": "यथा जरा यथा मृत्युर्यथा कालो यथा विधिः।\nनित्यं न प्रतिहन्यन्ते सर्वभूतेषु लक्ष्मण।।3.64.74।।\nतथाहं क्रोधसंयुक्तो न निवार्योऽस्मि सर्वथा।",
+      "transliteration": "",
+      "translation": "Just as all beings in this world cannot avoid age and death, or defy time and fate so also none can prevent me at all when I am  angry, O Lakshmana",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-64-65",
+      "number": 65,
+      "type": "shloka",
+      "original": "पुरेव मे चारुदंतीमनिन्दितां दिशन्ति सीतां यदि नाद्य मैथिलीम्।\nसदेवगन्धर्वमनुष्यपन्नगं जगत्सशैलं परिवर्तयाम्यहम्।।3.64.75।।",
+      "transliteration": "",
+      "translation": "I will topsyturvy this entire world including the gods, the gandharvas, human beings, serpents and mountains if they do not show me the princess from Mithila, who is blemishless and whose teeth are beautiful इत्यार्शे श्रीमद्रामायणे वाल्मीकेय आदिकाव्ये अरण्यकाण्डे चतुष्षष्टिमस्सर्गः।। Thus ends the sixtyfourth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

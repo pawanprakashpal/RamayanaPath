@@ -1,0 +1,153 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 56,
+    "title": "Sampati sees Angada and other monkeys -- hears about the death of his brother Jatayu.",
+    "titleSanskrit": "",
+    "totalShlokas": 15
+  },
+  "shlokas": [
+    {
+      "id": "v4-56-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "उपविष्टास्तु ते सर्वे यस्मिन्प्रायं गिरिस्थले।\nहरयो गृध्रराजश्च तं देशमुपचक्रमे।।4.56.1।।\nसम्पातिर्नाम नाम्ना तु चिरञ्जीवी विहङ्गमः।\nभ्राता जटायुषः श्रीमान्विख्यातबलपौरुषः।।4.56.2।।",
+      "transliteration": "",
+      "translation": "While the monkeys were preparing to fast unto death on the plateau of the mountain, Sampati, the prosperous king of vultures, the longlived elder brother of Jatayu widely known for his strength, appeared there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-56-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "कन्दरादभिनिष्क्रम्य स विन्ध्यस्य महागिरेः।\nउपविष्टान्हरीन्दृष्ट्वा हृष्टात्मा गिरमब्रवीत्।।4.56.3।।",
+      "transliteration": "",
+      "translation": "Coming out of the cave of the great mount Vindhya, Sampati was glad to see the monkeys seated there and said to himself:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-56-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "विधिः किल नरं लोके विधानेनानुवर्तते।\nयथाऽयं विहितो भक्ष्यश्चिरान्मह्यमुपागतः।।4.56.4।।",
+      "transliteration": "",
+      "translation": "'Destiny rules the world of men in accordance with a divine arrangement. Or else, it would not have brought me food after a long time (of fasting)'. (The monkeys are food for Sampati)'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-56-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "परम्पराणां भक्षिष्ये वानराणां मृतं मृतम्।\nउवाचेदं वचः पक्षी तान्निरीक्ष्य प्लवङ्गमान्।।4.56.5।।",
+      "transliteration": "",
+      "translation": "Looking at them, the vulture continued, 'I will eat these monkeys one after the other as and when they die'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-56-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तस्य तद्वचनं श्रुत्वा भक्ष्यलुब्धस्य पक्षिणः।\nअङ्गदः परमायस्तो हनूमन्तमथाब्रवीत्।।4.56.6।।",
+      "transliteration": "",
+      "translation": "Hearing the words of the vulture greedily waiting for food, deeply dejected Angada spoke to Hanuman:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-56-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "पश्य सीतापदेशेन साक्षाद्वैवस्वतो यमः।\nइमं देशमनुप्राप्तो वानराणां विपत्तये।।4.56.7।।",
+      "transliteration": "",
+      "translation": "'See, Yama, son of Vaivasvata, has arrived here in person  to destroy the monkeys in the name of Sita. (Sita became the direct agent for causing the destruction of monkeys).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-56-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "रामस्य न कृतं कार्यं राज्ञो न च वचः कृतम्।\nहरीणामियमज्ञाता विपत्तिस्सहसागता।।4.56.8।।",
+      "transliteration": "",
+      "translation": "'Rama's task has not been performed. Sugriva's order has not been excuted. And (now) suddenly this calamity has overtaken the monkeys unawares.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-56-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "वैदेह्याः प्रियकामेन कृतं कर्म जटायुषा।\nगृध्राराजेन यत्तत्र श्रुतं वस्तदशेषतः।।4.56.9।।",
+      "transliteration": "",
+      "translation": "'We have heard in detail about the task accomplished by Jatayu, the king of vultures, in order to please Sita, the princess of Videha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-56-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तथा सर्वाणि भूतानि तिर्यग्योनिगतान्यपि।\nप्रियं कुर्वन्ति रामस्य त्यक्त्वा प्राणान्यथा वयम्।।4.56.10।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-56-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अन्योऽन्यमुपकुर्वन्ति स्नेहकारुण्ययन्त्रिताः।\nतेन तस्योपकारार्थं त्यजताऽत्मानमात्मना।।4.56.11।।",
+      "transliteration": "",
+      "translation": "'Bound by  friendship and compassion each one helps the other. In fact, Jatayu did this by giving up his life on his own, for the sake of Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-56-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "प्रियं कृतं हि रामस्य धर्मज्ञेन जटायुषा।\nराघवार्थे परिश्रान्ता वयं सन्त्यक्तजीविताः।।4.56.12।।\nकान्ताराणि प्रपन्नाः स्म न च पश्याम मैथिलीम्।",
+      "transliteration": "",
+      "translation": "'Jatayu, the knower of dharma, has laid down his life for the wellbeing of Rama. We are exhausted in the process of helping Rama. We have lost hope of our lives after entering these forests. Yet we have failed to find the princess from Mithila.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-56-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "स सुखी गृध्रराजस्तु रावणेन हतो रणे।।4.56.13।।\nमुक्तश्च सुग्रीवभयाद्गतश्च परमां गतिम्।",
+      "transliteration": "",
+      "translation": "'The king of vultures was slain by Ravana in a combat. He attained supreme status. He had no fear for Sugriva (as we have).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-56-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "जटायुषो विनाशेन राज्ञो दशरथस्य च।।4.56.14।।\nहरणेन च वैदेह्या स्संशयं हरयो गताः।",
+      "transliteration": "",
+      "translation": "'The survival of monkeys has become doubtful due to the death of Jatayu, death of  king Dasaratha and the abduction of the princess from Videha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-56-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "रामलक्ष्मणयोर्वासश्च अरण्ये सह सीतया।।4.56.15।।\nराघवस्य च बाणेन वालिनश्च तथा वधः।\nरामकोपादशेषाणां रक्षसानां तथा वधः।।4.56.16।।\nकैकेय्या वरदानेन इदं च विकृतं कृतम्।",
+      "transliteration": "",
+      "translation": "'The exile of Rama and Lakshmana into the forest along with Sita, so also the death of Vali and of the demons in the hands of Rama due to his anger are all evil  consequences of a boon granted to Kaikeyi.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-56-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तदसुखमनुकीर्तितं वचो\nभुवि पतितांश्च समीक्ष्य वानरान्।\nभृशचलितमतिर्महामतिः\nकृपणमुदाहृतवान् स गृध्रराट्।।4.56.17।।",
+      "transliteration": "",
+      "translation": "The wise king of vultures was shaken up mentally on seeing the monkeys lying on the ground and hearing the unhappy narration of Angada.  इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आतिकाव्ये किष्किन्धाकाण्डे षटपञ्चाशस्सर्गः।। Thus ends the  fiftysixth sarga in Kishkindakanda of the first epic, the Holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

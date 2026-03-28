@@ -1,0 +1,216 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 59,
+    "title": "Viswamitra  invites the sages to perform the sacrifice  curses the sons of Vasishta and Mahodaya.",
+    "titleSanskrit": "",
+    "totalShlokas": 22
+  },
+  "shlokas": [
+    {
+      "id": "v1-59-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "उक्तवाक्यं तु राजानं कृपया कुशिकात्मज:।\nअब्रवीन्मधुरं वाक्यं साक्षाच्चण्डालरूपिणम्।।1.59.1।।",
+      "transliteration": "",
+      "translation": "What the king said was proved by his chandala form which the son of Kushika (Viswamitra) heard and out of compassion spoke these sweet words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-59-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "ऐक्ष्वाक स्वागतं वत्स जानामि त्वां सुधार्मिकम् ।\nशरणं ते भविष्यामि मा भैषीर्नृपपुङ्गव।।1.59.2।।",
+      "transliteration": "",
+      "translation": "\"O Descendant of Ikshvakus, O child, welcome. I know you as highly righteous. O eminent among kings fear not. I offer you refuge.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-59-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "अहमामन्त्रये सर्वान्महर्षीन्पुण्यकर्मण:।\nयज्ञसाह्यकरान् राजन् ततो यक्ष्यसि निर्वृत:।।1.59.3।।",
+      "transliteration": "",
+      "translation": "O king I shall invite pious maharshis to assist you in the sacrifice which you will be able to perform with great relief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-59-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "गुरुशापकृतं रूपं यदिदं त्वयि वर्तते ।\nअनेन सह रूपेण सशरीरो गमिष्यसि।।1.59.4।।",
+      "transliteration": "",
+      "translation": "With the present physical body disfigured by the curse of your spiritual preceptor, you shall go to heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-59-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "हस्तप्राप्तमहं मन्ये स्वर्गं तव नराधिप।\nयस्त्वं कौशिकमागम्य शरण्यं शरणागत:।।1.59.5।।",
+      "transliteration": "",
+      "translation": "O King since you have taken refuge in Viswamitra who is the protector of those who resort to him, I think heaven is already within your reach\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-59-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "एवमुक्त्वा महातेजा: पुत्रान् परमधार्मिकान्।\nव्यादिदेश महाप्राज्ञान् यज्ञसम्भारकारणात्।।1.59.6।।",
+      "transliteration": "",
+      "translation": "Most brilliant Viswamitra having thus spoken, ordered his deeply religious and highly  learned sons to make preparations for the sacrifice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-59-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "सर्वान् शिष्यान् समाहूय वाक्यमेतदुवाच ह।\nसर्वानृषिगणान्वत्सा आनयध्वं ममाज्ञया।\nसशिष्यसुहृदश्चैव सर्त्विज स्सबहुश्रुतान्।।1.59.7।।",
+      "transliteration": "",
+      "translation": "He summoned all his disciples, and said, \"Children bring here hosts of rishis along with their disciples and friends, officiating priests and persons wellversed in the Srutis. This is my order.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-59-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "यदन्यो वचनं ब्रूयान्मद्वाक्यबलचोदित:।\nतत्सर्वमखिलेनोक्तं ममाख्येयमनादृतम्।।1.59.8।।",
+      "transliteration": "",
+      "translation": "If any one should speak with disrespect in response to my order, you may report the matter to me in full\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-59-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तस्य तद्वचनं श्रुत्वा दिशो जग्मुस्तदाज्ञया।\nआजग्मुरथ देशेभ्य स्सर्वेभ्यो ब्रह्मवादिन:।।1.59.9।।",
+      "transliteration": "",
+      "translation": "At his command the disciples set out in different directions. And as a result, expounders of the vedas began arriving from various countries.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-59-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "ते च शिष्या: समागम्य मुनिं ज्वलिततेजसम्।\nऊचुश्चवचनं सर्वे सर्वेषां ब्रह्मवादिनाम्।।1.59.10।।",
+      "transliteration": "",
+      "translation": "All the disciples on their return, communicated to the sage shining in splendour what the expounders of the vedas had said.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-59-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "श्रुत्वा ते वचनं सर्वे समायान्ति द्विजातय:।\nसर्वदेशेषु चागच्छन् वर्जयित्वा महोदयम्।।1.59.11।।",
+      "transliteration": "",
+      "translation": "Having heard your words, all brahmins except Mahodaya have arrived from all countries.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-59-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "वासिष्ठं तच्छतं सर्वं क्रोधपर्याकुलाक्षरम्।\nयदाह वचनं सर्वं शृणु त्वं मुनिपुङ्गव।।1.59.12।।",
+      "transliteration": "",
+      "translation": "O Preeminent among ascetics Here is what the hundred sons of Vasishta spoke in anger.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-59-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "क्षत्रियो याजको यस्य चण्डालस्य विशेषत:।\nकथं सदसि भोक्तारो हविस्तस्य सुरर्षय:।।1.59.13।।",
+      "transliteration": "",
+      "translation": "When a kshatriya acts as a priest for the sacrifice, particularly for a chandala, how can gods and sages partake the offerings?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-59-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "ब्राह्मणा वा महात्मानो भुक्त्वा चण्डालभोजनम्।\nकथं स्वर्गं गमिष्यन्ति विश्वामित्रेण पालिता:।।1.59.14।।",
+      "transliteration": "",
+      "translation": "Joining Viswamitra, (in chanting the mantras during the yaga) how will the great brahmins attain heaven after partaking the food offered by of Chandala?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-59-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "एतद्वचननैष्ठुर्यमूचु स्संरक्तलोचना:।\nवासिष्ठा मुनिशार्दूल सर्वे ते समहोदया:।।1.59.15।।",
+      "transliteration": "",
+      "translation": "O Best among ascetics all the sons of Vasishta along with Mahodaya with their eyes reddened in anger spoke these harsh words\":",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-59-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तेषां तद्वचनं श्रुत्वा सर्वेषां मुनिपुङ्गव:।\nक्रोधसंरक्तनयन स्सरोषमिदमब्रवीत्।।1.59.16।।",
+      "transliteration": "",
+      "translation": "On hearing the words (of the hundred sons of Vasishta uttered in anger) Viswamitra, preeminent among ascetics, spoke furiously with eyes reddened in anger.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-59-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "ये दूषयन्त्यदुष्टं मां तप उग्रं समास्थितम्।\nभस्मीभूता दुरात्मानो भविष्यन्ति न संशय:।।1.59.17।।",
+      "transliteration": "",
+      "translation": "\"I am blameless. I have practised rigorous penance. These wicked ones who have abused (a sage like me) will be reduced to ashes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-59-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अद्य ते कालपाशेन नीता वैवस्वतक्षयम्।\nसप्तजातिशतान्येव मृतपस्सन्तु सर्वश:।।1.59.18।।",
+      "transliteration": "",
+      "translation": "Caught by the noose of death this day, they shall be brought  to the abode of Yama  and for seven hundred births, feed on corpses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-59-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "श्वमांसनियताहारा मुष्टिका नाम निर्घृणा:।\nविकृताश्च विरूपाश्च लोकाननुचरन्त्विमान्।।1.59.19।।",
+      "transliteration": "",
+      "translation": "Reborn as the merciless race of mushtikas, feeding on the flesh of dogs, hideous and deformed, they shall wander in these worlds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-59-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "महोदयस्तु दुर्बुद्धिर्मामदूष्यं ह्यदूषयत्।\nदूषित स्सर्वलोकेषु निषादत्वं गमिष्यति।।1.59.20।।",
+      "transliteration": "",
+      "translation": "The wicked Mahodaya, who blamed a sage like me so faultless shall be reborn in the race of the nishadas vulnerable to abuse by all.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-59-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "प्राणातिपातनिरतो निरनुक्रोशतां गत:।\nदीर्घकालं मम क्रोधाद्दुर्गतिं वर्तयिष्यति।।1.59.21।।",
+      "transliteration": "",
+      "translation": "As a consequence of my anger that Mahodaya, devoid of mercy and  taking pleasure in depriving others of their life, will pursue a wretched life for a long time\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-59-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "एतावदुक्त्वा वचनं विश्वामित्रो महातपा:।\nविरराम महातेजा ऋषिमध्ये महामुनि:।।1.59.22।।",
+      "transliteration": "",
+      "translation": "The most powerful sage Viswamitra of fierce asceticism fell silent after after uttering  this curse in the assembly of rishis. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे एकोनषष्टितमस्सर्ग:।। Thus ends the fiftyninth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

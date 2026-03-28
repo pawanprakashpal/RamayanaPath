@@ -1,0 +1,279 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 51,
+    "title": "Ravana comes to know that Rama and Lakshmana are released from the bondage. Disappointed by the news Ravana sends Dhumraksha to fight with Rama and Lakshmana.",
+    "titleSanskrit": "",
+    "totalShlokas": 29
+  },
+  "shlokas": [
+    {
+      "id": "v6-51-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तेषांसुतुमुलंशब्दंवानराणांत���स्विनाम् ।\nनर्दतांराक्षसैस्सार्धंतदाशुश्रावरावणः ।।6.51.1।।",
+      "transliteration": "",
+      "translation": "Then Ravana and all the Rakshasas heard the increasing and highly tumultuous sound made by the courageous Vanaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-51-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "स्निग्धगम्भीरनिर्घोषंश्रुत्वासनिनदंभृशम् ।\nसचिवानांततस्तेषांमध्येवचनमब्रवीत् ।।6.51.2।।",
+      "transliteration": "",
+      "translation": "Thereafter, hearing the loud and deep sounds of roaring and seeing his (Ravana's) ministers in the midst, he spoke as follows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-51-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "यथाऽसौसम्प्रहृष्टानांवानराणांसमुत्थितः ।\nबहूनांसुमहान्नादोमेघनामिवगर्जिताम् ।।6.51.3।।\nव्यक्तंसुमहतीप्रीतिरेतेषांनात्रसंशयः ।\nतथाहिविपुलैर्नादैश्चुक्षुभेवरुणालयः ।।6.51.4।।",
+      "transliteration": "",
+      "translation": "\"Many Vanaras have collected together and roared making loud noises just as thunder rumbling clouds. By that there is no doubt that they are very happy. For that reason, even the wide ocean is agitated.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-51-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तौतुबद्धौशरैस्तीक्ष्णैर्भ्रातरौरामलक्ष्मणौ ।\nअयंचसुमहान्नादशङ्कांजनयतीवमे ।।6.51.5।।",
+      "transliteration": "",
+      "translation": "\"The two brothers Rama and Lakshmana are bound by sharp arrows. By the loud noise that I hear I doubt in my mind!\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-51-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "एतत्तुवचनंचोक्त्वामन्त्रिणोराक्षसेश्वरः ।\nउवाचनैरृतांस्तत्रसमीपपरिवर्तिनः ।।6.51.6।।",
+      "transliteration": "",
+      "translation": "Having spoken like that to the ministers, the Lord of Rakshasas said to the Rakshasas who stood waiting close by.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-51-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "ज्ञायतांतूर्णमेतेषांसर्वेषांचवनचारिणाम् ।\nशोककालेसमुत्पन्नहर्षकारणमुत्थितम् ।।6.51.7।।",
+      "transliteration": "",
+      "translation": "\"For what reason are the Vanaras (rangers of woods) rejoicing that way in the time of grief? It may be found out speedily.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-51-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तथोक्तास्तेनसम्भ्रान्ताःप्राकारमधिरुह्यच ।\nददृशुःपालितांसेनांसुग्रीवेणमहात्मना ।।6.51.8।।\nतौचमुक्तौसुघोरेणशरबन्धेनराघवौ ।\nसमुत्थितौमहाभागौविषेदुःप्रेक्ष्यराक्षसाः ।।6.51.9।।",
+      "transliteration": "",
+      "translation": "Ravana having said so, the bewildered Rakshasas scaling the boundary wall beheld the army protected by great Sugriva and the prosperous Raghavas relieved from arrows and happy, he became worried.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-51-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "सन्त्रस्तहृदयाःसर्वेप्राकारात् वरुह्यते ।\nविषण्णवदनाघोराराक्षसेन्द्रमुपस्थिता ।।6.51.10।।",
+      "transliteration": "",
+      "translation": "All the dreadful Rakshasas getting down the boundary wall with pale faces, sad countenance reached the Lord of Rakshasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-51-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तदप्रियंदीनमुखारावणस्यनिशाचराः ।\nकृत्स्नंनिवेदयामासुर्यथावद्वाक्यकोविदाः ।।6.51.11।।",
+      "transliteration": "",
+      "translation": "Rakshasas who were well versed in talking, desperately conveyed the unpleasantness as it is to Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-51-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "यौताविन्द्रजितायुद्धेभ्रातरौरामलक्ष्मणौ ।\nनिबद्धौशरबन्धेननिष्प्रकम्पभुजौकृतौ ।।6.51.12।।\nविमुक्तौशरबन्धेनदृश्येतेतौरणाजिरे ।\nपाशानिवगजौछित्वागजेन्द्रसमविक्रमौ ।।6.51.13।।",
+      "transliteration": "",
+      "translation": "\"The two brothers, Rama and Lakshmana, who are like powerful elephants have been set free from the bondage of arrows of Indrajith in the battlefield. Their shoulders are relieved and are like elephants snapped off the rope binding them.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-51-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तच्छ्रुत्वावचनंतेषांराक्षसेन्द्रोमहाबलः ।\nचिन्तारोषसमाक्रान्तोविषण्णवदनोऽभवत् ।।6.51.14।।",
+      "transliteration": "",
+      "translation": "The Rakshasa king endowed with mighty prowess became pale in face, worried and enraged on hearing the words of Rakshasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-51-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "घोरैर्दत्तवरैर्भद्धौशरैराशीविषोपमैः ।\nअमोघैस्सूर्यसङ्काशैःप्रमथ्येन्द्रजितायुधि ।।6.51.15।।\nतदस्त्रबन्धमासाद्ययदिमुक्तौरिपूमम ।\nसंशयस्थमिदंसर्वमनुपश्याम्यहंबलम् ।।6.51.16।।",
+      "transliteration": "",
+      "translation": "\"My enemies who are bound by the formidable and unfailing, sharp, poisonous and bright arrows like the sun of Indrajith blessed with boons, are liberated from the bondage! I doubt if my army is in danger!\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-51-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "निष्फलाःखलुसम्वृत्ताश्शराःवासुकितेजसः ।\nअदत्तंयैस्तुसङ्ग्रामेरिपूणांजीवितंमम ।।6.51.17।।",
+      "transliteration": "",
+      "translation": "\"My arrows which are equal in brilliance to Vasuki by which my enemies' life was taken away has become in fructuous now.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-51-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "एवमुक्त्वातुसङ्क्रुद्धोनिश्श्वसन्नुरगोयथा ।\nअब्रवीद्रक्षसांमध्येधूम्राक्षंनामराक्षसम् ।।6.51.18।।",
+      "transliteration": "",
+      "translation": "Having said so, hissing Ravana called Dhumraksha to the midst.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-51-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "बलेनमहतायुक्तोराक्षसैर्भीमविक्रमः ।\nत्वंवधायाभिनिर्याहिरामस्यसहवानरैः ।।6.51.19।।",
+      "transliteration": "",
+      "translation": "\"Dhumraksha of fierce prowess, you along with a huge Rakshasa army go just now to destroy Rama along with able Vanaras.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-51-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "एवमुक्तस्तुधूम्राक्षोराक्षसेन्द्रेणधीमता ।\nकृत्वाप्रणामंसम्हृष्टोनिर्जगामनृपालयत् ।।6.51.20।।",
+      "transliteration": "",
+      "translation": "Commanded by the Intelligent king of Rakshasas in that manner, Dhumraksha offered prayers and went from there joyfully.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-51-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अभिनिष्क्रम्यतदद्वारंबलाध्यक्षमुवाचह ।\nत्वरयस्वबलंतूर्णंकिंचिरेणयुयुत्सतः ।।6.51.21।।",
+      "transliteration": "",
+      "translation": "There after Dhumraksha went from the gateway and said to the CommanderinChief of the army\" Get ready immediately and start quickly. Why delay?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-51-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "धूम्राक्षवचनंश्रुत्वाबलाध्यक्षोबलानुगः ।\nबलमुद्योजयामासरावणस्याज्ञयाद्रुतम् ।।6.51.22।।",
+      "transliteration": "",
+      "translation": "On hearing the words of Dhumraksha, the CommanderinChief of the large army, he got ready quickly by the order of Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-51-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तेबद्धघण्टाबलिनोघोररूपानिशाचराः ।\nविगर्जमानास्सम्हृष्टाधूम्राक्षंपर्यवारयन् ।।6.51.23।।",
+      "transliteration": "",
+      "translation": "Mighty army bound with girdles of bells to their waist, of fierce form roaring surrounded Dhumraksha joyfully.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-51-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "विविधायुधहस्ताश्चशूलमुद्गरपाणयः ।\nगदाभिःपट्टसैर्दण्डैरायसैर्मुसलैर्भृशम् ।।6.51.24।।\nपरिघैर्भिण्डिवालैश्चभल्लैप्रासै: परश्वथै: ।\nनिर्ययूराक्षसादिभ्योनर्धन्तोजलदायथा ।।6.51.25।।",
+      "transliteration": "",
+      "translation": "The dreadful Rakshasas set out roaring like rain clouds armed with different kinds of weapons, like tridents, darts, maces, spears, iron bars, rods, even clubs, spears and slings, arrows in thousands.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-51-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "रथैःकवचिनस्त्वन्येध्वजैश्चसमलङ्कृतैः ।\nसुवर्णजालविहितैःखरैश्चविविधाननैः ।।6.51.26।।\nहयैःपरमशीघ्रैश्चगजैश्चैवमदोत्कटैः ।\nनिर्ययुर्नैरृतव्याघ्राव्याघ्राइवदुरासदाः ।।6.51.27।।",
+      "transliteration": "",
+      "translation": "And others collected together holding shields, fearless like tigers, frightful in appearance, mounted on fast horses, chariots yoked to donkeys of different kinds covered with gold mesh, on maddened elephants Set out.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-51-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "वृकसिंहमुखैर्युक्तंखरैःकनकभूषणै: ।\nआरुरोहरथंदिव्यंधूम्राक्षःखरनिस्स्वनः ।।6.51.28।।",
+      "transliteration": "",
+      "translation": "Dhumraksha of frightful tone mounted on a chariot adorned with gold yoked to donkeys with lion and bear like faces.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-51-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "सनिर्यातोमहावीर्योधूम्राक्षोराक्षसैर्वृतः ।\nप्रहसन्पश्चिमद्वारंहनुमान्यत्रयूथपः ।।6.51.29।।",
+      "transliteration": "",
+      "translation": "Heroic Rakshasa, Dhumraksha surrounded by rakshasas set forth laughing to the west gate where Hanuman stood.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-51-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "रथप्रवरमास्थायखरयुक्तंखरस्वनम् ।\nप्रयान्तंतुमहाघोरंराक्षसंभीमदर्शनम् ।।6.51.30।।\nअन्तरिक्षगताःघोराशकुनाःप्रत्यषेधयन् ।",
+      "transliteration": "",
+      "translation": "While the Rakshasa was mounted on the chariot and going braying like a donkey, a fearful bird going in the sky stood before his chariot.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-51-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "रथशीर्षेमहान्भीमोगृध्रश्चनिपपातह ।।6.51.31।।\nध्वजाग्रेग्रथिताश्चैवनिपेतुःकुणपाशनाः ।",
+      "transliteration": "",
+      "translation": "A foul smelling frightening vulture (that feeds on the dead body) descended on top of the chariot and fell down.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-51-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "रुधिरार्द्रोमहान् श्वेतःकबन्धःपतितोभुवि ।।6.51.32।।\nविस्वरंचोत्सृजन्नादंधूम्राक्षस्यसमीपतः ।\nववर्षरुधिरंदेवस्सञ्चचालचमेदिनी ।।6.51.33।।",
+      "transliteration": "",
+      "translation": "A trunk of a white bird drenched in blood sounding discordant fell near by Dhumraksha. It appeared like a rain god shedding blood on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-51-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "प्रतिलोमंवनौवायुर्निर्घातसमनिस्वनः ।\nतिमिरौघवृतास्तत्रदिशश्चनचकाशिरे ।।6.51.34।।",
+      "transliteration": "",
+      "translation": "Thunder like roar was heard. Wind blew adversely. Darkness pervaded, and directions could not be seen.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-51-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "सतूत्पातांस्तदादृष्टवाराक्षसानांभयावहान् ।\nप्रादुर्भूतान्सुघोरांश्चधूम्राक्षोव्यथितोऽभवत् ।।6.51.35।।\nमुमुहूराक्षसाःसर्वेधूम्राक्षस्यपुरस्सराः ।",
+      "transliteration": "",
+      "translation": "Then Rakshasa feared seeing the dreadful manifestation and got worried. All the Rakshasas walking in front of Dhumraksha lost consciousness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-51-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "ततःसुभीमोबहुभिर्निशाचरैर्वृतोऽभिनिष्क्रम्यरणोत्सुकोबली ।\nददर्शतांराघवबाहुपालितांमहौघकल्पांबहुवानरींचमूम् ।।6.51.36।।",
+      "transliteration": "",
+      "translation": "Thereafter many strong and powerful Rakshasas surrounding Dhumraksha, who was enthusiastic about war, beheld many Vanaras protected by Raghava like at universal dissolution. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेएकपञ्चाशस्सर्गः ।। This is the end of the fifty first sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

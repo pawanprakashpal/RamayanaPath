@@ -1,0 +1,270 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 73,
+    "title": "Bharata grieves over his misfortune -- accuses Kaikeyi in so many words -- reveals his decision to bring back Rama to Ayodhya and serve him.",
+    "titleSanskrit": "",
+    "totalShlokas": 28
+  },
+  "shlokas": [
+    {
+      "id": "v2-73-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "सश्रूत्वा तु पितरं वृत्तं भ्रातरौ च विवासितौ।\nभरतो दुःखसन्तप्त इदं वचनमब्रवीत्।।2.73.1।।",
+      "transliteration": "",
+      "translation": "On hearing about the demise of the father and his two brothers sent in exile, Bharata  overtaken by sorrow spoke thus:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-73-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "किं नु कार्यं हतस्येह मम राज्येन शोचतः।\nविहीनस्याथ पित्रा च भ्रात्रा पितृसमेन च।।2.73.2।।",
+      "transliteration": "",
+      "translation": "Bereft of my father and my brother who was like a father to me, of what avail is this kingdom to me when I am grieving and fallen into misfortunes?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-73-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "दुःखे मे दुःखमकरोर्व्रणे क्षारमिवादधाः।\nराजानं प्रेतभावस्थं कृत्वा रामं च तापसम्।।2.73.3।।",
+      "transliteration": "",
+      "translation": "You have caused the death of the king and reduced Rama to an ascetic. You have piled one sorrow over sorrow on me like rubbing salt to the wound",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-73-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "कुलस्य त्वमभावाय कालरात्रिरिवाऽगता।\nअङ्गारमुपगूह्य स्म पिता मे नावबुद्धवान्।।2.73.4।।",
+      "transliteration": "",
+      "translation": "You have come here for the destruction of this race, like a fatal night. My father did not realize that he was embracing a live charcoal.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-73-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "मृत्युमापादितो पिता त्वया मे पापदर्शिनि।\nसुखं परिहृतं मोहात्कुलेऽस्मिन्कुलपांसनि।।2.73.5।।",
+      "transliteration": "",
+      "translation": "O woman of sinful thoughts, you have brought about the death of my father. O obloquy of the race, by your folly you have deprived this family of its happiness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-73-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "त्वां प्राप्य हि पिता मेऽद्य सत्यसन्धो महायशाः।\nतीव्रदुःखाभिसन्तप्तो वृत्तो दशरथो नृपः।।2.73.6।।",
+      "transliteration": "",
+      "translation": "My father king Dasaratha who is bound to truth and highly renowned, having come under your influence and tormented by intense grief has departed from this world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-73-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "विनाशितो महाराजः पिता मे धर्मवत्सलः।\nकस्मात्प्रव्राजितो रामः कस्मादेव वनं गतः।।2.73.7।।",
+      "transliteration": "",
+      "translation": "Why was my father the righteous maharaja killed? Why was Rama exiled into the forest?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-73-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "कौसल्या च सुमित्रा च पुत्रशोकाभिपीडिते।\nदुष्करं यदि जीवेतां प्राप्य त्वां जननीं मम।।2.73.8।।",
+      "transliteration": "",
+      "translation": "Tormented by the grief of separation from their sons, it is difficult for Kausalya and Sumitra to survive under you, O my mother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-73-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "ननुत्वार्योऽपि धर्मात्मा त्वयि वृतिमनुत्तमाम्।\nवर्तते गुरुवृत्तिज्ञो यथा मातरि वर्तते।।2.73.9।।",
+      "transliteration": "",
+      "translation": "My noble and righteous brother (Rama), who is well aware of his duties to the elders conducted himself before you as he would before his own mother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-73-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तथा ज्येष्ठा हि मे माता कौसल्या दीर्घदर्शिनी।\nत्वयि धर्मं समास्थाय भगिन्यामिव वर्तते।।2.74.10।।",
+      "transliteration": "",
+      "translation": "In the same way my eldest mother the farsighted Kausalya, too adhered to righteousness and conducted herself towards you like a sister.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-73-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तस्याः पुत्रं कृताऽत्मानं चीरवल्कलवाससम्। \nप्रस्थाप्य वनवासाय कथं पापे न शोचसि।।2.73.11।।",
+      "transliteration": "",
+      "translation": "You have forced Kausalya's son, so pure in mind, to wear garments made of bark and dwell in the forest. Do you not feel remorse for it, O perverse wretch?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-73-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अपापदर्शनं शूरं कृतात्मानं यशस्विनम्।\nप्रव्राज्य चीरवसनं किन्नु पश्यसि कारणम्।।2.73.12।।",
+      "transliteration": "",
+      "translation": "The glorious, valiant, selfpossessed (Rama) had never contemplated evil. What possible reason do you have for sending him, clothed in bark, into exile?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-73-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "लुब्धाया विदितो मन्ये न तेऽहं राघवं प्रति।\nतथाह्यनर्धो राज्यार्थं त्वयाऽनीतो महानयम्।।2.73.13।।",
+      "transliteration": "",
+      "translation": "Being avaricious, you are, I think, unaware of my devotion to Rama. This great calamity has been brought about by you for (your greed for) the kingdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-73-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "अहं हि पुरुषव्याघ्रावपश्यन्रामलक्ष्मणौ।\nकेन शक्तिप्रभावेन राज्यं रक्षितुमुत्सहे।।2.73.14।।",
+      "transliteration": "",
+      "translation": "When Rama and Lakshmana, the best of men stay away from me, by virtue of what mighty power am I competent to protect this kingdom?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-73-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तं हि नित्यं महाराजो बलवन्तं महाबलः।\nउपाश्रितोऽभूद्धर्मात्मा मेरुर्मेरुवनं यथा।।2.73.15।।",
+      "transliteration": "",
+      "translation": "The mighty and righteous maharaja used to rely upon the powerful Rama just as mount Meru depends on the forest surrounding it for its protection.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-73-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "सोऽहं कथमिमं भारं महाधुर्यसमुद्धृतम्।\nदम्योधुरमिवाऽऽसाद्य वहेयं केनचौजसा।। 2.73.16।।",
+      "transliteration": "",
+      "translation": "Like a young untrained bullock that cannot carry the weight fit for a great bull, with what strength can I bear this burden?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-73-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अथवा मे भवेच्छक्तिर्योगैर्बुद्धिबलेन वा।\nसकामां न करिष्यामि त्वामहं पुत्रगर्धिनीम्।।2.73.17।।",
+      "transliteration": "",
+      "translation": "If I gather the strength (to carry the burden) either by employing the four expedients (available to a king against an enemy) or by the power of intellect, I will not allow you, covetous of your son, to fulfil your ambition.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-73-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "न मे विकाङ्क्षा जायेत त्यक्तुं त्वां पापनिश्चयाम्।\nयदि रामस्य नावेक्षा त्वयि स्यान्मातृवत्सदा।।2.73.18।।",
+      "transliteration": "",
+      "translation": "Had Rama not treated you as his own mother I would not have the slightest hesitation to renounce you, a lady of sinful disposition.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-73-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "उत्पन्नातु कथं बुद्धिस्तवेयं पापदर्शिनि।\nसाधुचारित्रविभ्रष्टे पूर्वेषां नो विगर्हिता।।2.73.19।।",
+      "transliteration": "",
+      "translation": "O woman of sinful thoughts fallen from virtuous conduct, how did you entertain this thought reproachable to our ancestors?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-73-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "अस्मिन्कुले हि पूर्वेषां ज्येष्ठो राज्येऽभिषिच्यते।\nअपरे भ्रातरस्तस्मिन्प्रवर्तन्ते समाहिताः।।2.73.20।।",
+      "transliteration": "",
+      "translation": "In our race only the eldest son is installed in the kingdom and the other brothers behave with utmost respect towards him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-73-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "न हि मन्ये नृशंसे त्वं राजधर्ममवेक्षसे।\nगतिं वा न विजानासि राजवृत्तस्य शाश्वतीम्।।2.73.21।।",
+      "transliteration": "",
+      "translation": "O cruel one I suppose neither have you any respect for the royal tradition nor are you aware of the everlasting benefit that ensues in following the royal traditon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-73-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "सततं राजवृत्ते हि ज्येष्ठो राज्येऽभिषिच्यते।\nराज्ञामेतत्समं तत्स्यादिक्ष्वाकूणां विशेषतः।।2.73.22।।",
+      "transliteration": "",
+      "translation": "According to the established law of royalty, the eldest son is invariably crowned in the kingdom. This is true of all kings. This is a special tradition of the kings of the Ikshvaku race.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-73-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तेषां धर्मैकरक्षाणां कुलचारित्रशोभिनाम्।\nअद्य चारित्रशौण्डीर्यं त्वां प्राप्य विनिवर्तितम्।।2.73.23।।",
+      "transliteration": "",
+      "translation": "As for the Ikshvaku kings, righteousness is their sole protection. They follow the ancestral traditions befitting the noble race. This tradition has been topsyturvied by admitting you into the family.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-73-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "तवापि सुमहाभागा जनेन्द्राः कुलपूर्वगाः।\nबुद्धेर्मोहः कथमयं सम्भूतस्त्वयि गर्हितः।।2.73.24।।",
+      "transliteration": "",
+      "translation": "Even the kings in your ancestral family were highly distinguished men. How did this condemnable deflection originate in your mind?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-73-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "न तु कामं करिष्यामि तवाऽहं पापनिश्चये।\nत्वया व्यसनमारब्धं जीवितान्तकरं मम।।2.73.25।।",
+      "transliteration": "",
+      "translation": "O woman of sinful disposition, I on my part will not fulfil your cherished desire. You  have started a distressing deed to bring an end to my existence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-73-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "एषत्विदानीमेवाहमप्रियार्थं तवानघम्।\nनिवर्तयिष्यामि वनाद्भ्रातरं स्वजनप्रियम्।।2.73.26।।",
+      "transliteration": "",
+      "translation": "To cause a great discomfiture for you, right now I shall bring back my faultless brother, the beloved of his people, from the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-73-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "निवर्तयित्वा रामं च तस्याहं दीप्ततेजसः।\nदासभूतो भविष्यामि सुस्थिरेणान्तरात्मना।।2.73.27।।",
+      "transliteration": "",
+      "translation": "With the effulgent Rama brought back, I shall serve him with a  steadfast mind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-73-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "इत्येवमुक्त्वा भरतो महात्मा प्रियेतरैर्वाक्यगणैस्तुदंस्ताम्।\nशोकातुरश्चापि ननाद भूयः सिंहो यथा पर्वतगह्वरस्थः।।2.73.28।।",
+      "transliteration": "",
+      "translation": "Having inflicted on his mother these unpleasant words in this manner, the highsouled Bharata, overwhelmed with grief, roared again like a lion in a mountaincave. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे त्रिसप्ततितमस्सर्गः।। Thus ends the seventythird sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

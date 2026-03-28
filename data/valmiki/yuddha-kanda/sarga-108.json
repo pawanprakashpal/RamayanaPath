@@ -1,0 +1,279 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 108,
+    "title": "Ravana beholds evil portents over Lanka and his chariot indicating his fall. Rama alerts Matali to be on guard. Rama and Ravana fight facing each other releasing powerful arrows. Celestial bodies and sages watch the fight eager to see the end of Ravana.",
+    "titleSanskrit": "",
+    "totalShlokas": 29
+  },
+  "shlokas": [
+    {
+      "id": "v6-108-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "स रथंसारथिःहृष्टंपरसैन्यप्रधर्षणम् ।\nगन्धर्वनगराकारंस���ुच्छ्रितपाताकिनम् ।।6.108.1।।\nयुक्तंपरमसम्पन्नैर्वजिभिर्हेममालिभिः ।\nयुद्धोपकरणैःपूर्णंपताकाध्वजमालिनीम् ।।6.108.2।।\nग्रसन्तमिवचाकाशंनादयन्तंवसुन्धराम् ।\nप्रणाशंपरनैन्यानांस्वनैन्यस्यप्रहर्षणम् ।।6.108.3।।\nरावणस्यरथंक्षिप्रंचोदयामाससारथिः ।",
+      "transliteration": "",
+      "translation": "Delighted charioteer drove the chariot of Ravana with speed. It was of the shape of the abode of Gandharvas, capable of destroying enemy's army. It had rows of excellent flags, richly endowed, like the best piece of artwork. It was fixed with flag posts in rows touching the sky and filling space. It was yoked to excellent horses adorned with gold chains and equipped with implements for war. The earth was resounding as it was driven as if to crush the enemy's army and its own army was happy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-108-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "समापतन्तंसहसास्वनवन्तंमहाध्वजम् ।।6.108.4।।\nरथंराक्षसराजस्यनरराजोददर्श ह ।\nकृष्णवाजिसमायुक्तंयुक्तंरौद्रेणवर्चसा ।।6.108.5।।\nदीप्यमानमिवाकाशेविमानंसूर्यवर्चसं ।\nतडित्पताकागहनंदर्शितेन्द्रायुधप्रभम् ।।6.108.6।।",
+      "transliteration": "",
+      "translation": "The chariot bells fixed to the huge flag post were making sounds, yoked to dark horses, and was shining with splendor with rage. It was glowing like a bright sun in the sky displaying its splendor, like the aerial chariot. It looked like a cloud holding water, releasing water of arrows from Rakshasa king's bow. The king of humans saw this chariot.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-108-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "शराधाराविमुञ्चन्तंधारासारमिवाम्बुदम् ।\nतंदृष्टवामेघसङ्काशमापतन्तंरथंरिपोः ।।6.108.7।।\nगिरेर्वज्राभिमृष्टस्यदीर्यतस्सदृशस्वनम् ।\nविस्पारयन्वैवेगेनबालचन्द्रानतंधनुः ।।6.108.8।।\nउवाचसारथिंरामंसहस्राक्षस्यमातलिम् ।",
+      "transliteration": "",
+      "translation": "The flow of arrows (from Ravana) released from the chariot were seen by Rama like the flow of water from rain clouds. Seeing that, Sri Rama made terrific sounds by stretching his bow to crescent shape, and it was as if a mountain struck by thunderbolt had broken and resounding and seeing Matali, charioteer of Indra, Sri Rama spoke as follows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-108-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "मातलेपश्यसम्रद्धमापतन्तंरथंरिपोः ।।6.108.9।।\nयथापसव्यंपततावेगेनमहतापुनः ।\nसमरेहन्तुमात्मानंतथानेनकृतामतिः ।।6.108.10।।",
+      "transliteration": "",
+      "translation": "\"Matali! the enemy's chariot is darting forward hurriedly. See him coming in the reverse direction with great speed once again. It strikes my mind that he is surely causing his fall.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-108-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तदप्रमादमातिष्ठन्प्रत्युद्गच्छरथंरिपोः ।\nविध्वंसयितुमिच्छामिवायुर्मेघमिवोत्थितम् ।।6.108.11।।",
+      "transliteration": "",
+      "translation": "\"Being alert, you drive the chariot towards Ravana, just as wind drives the cloud in the sky, as I wish to destroy him.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-108-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अविक्लबमसम्भ्रान्तमव्यग्रहृदयेक्षणम् ।\nरमशिसञ्चारनियंप्रचोदयरथंद्रुतम् ।।6.108.12।।",
+      "transliteration": "",
+      "translation": "\"Drive the chariot swiftly without confusion, without any agitation, with steady heart and vision, controlling the movement of reins and determination.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-108-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "कामं न त्वंसमाधेयःपुरन्दररथोचितः ।\nयुयुत्सुरहमेकाग्रःस्मारयेत्वां न शिक्ष्ये ।।6.108.13।।",
+      "transliteration": "",
+      "translation": "\"You are a driver of great Indra's chariot. You are not required to be told. Wishing to fight with rapt attention, I will remind you now and then not instruct you\", said Rama to Matali.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-108-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "परितुष्टः स रामस्यतेनवाक्येनमातलिः ।\nप्रचोदयामासरथंसुरसारथिरुत्तमः ।।6.108.14।।",
+      "transliteration": "",
+      "translation": "Matali, the best charioteer of the Devatas, was highly delighted at Rama's words and started driving.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-108-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "अपसव्यंततःकुर्वन् रावणस्यमहारथम् ।\nचक्रसम्भूतरसारावणंव्यवदूनयन् ।।6.108.15।।",
+      "transliteration": "",
+      "translation": "Then Matali made the chariot turn round and by the dust rising from the rolling wheels of the chariot, Ravana was shaken.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-108-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "ततःक्रुद्धोदशग्रीवस्ताम्रविस्फारितेक्षणः ।\nरथप्रतिमुखंरामंसायकैरवधूनयत् ।।6.108.16।।",
+      "transliteration": "",
+      "translation": "Then furious Ravana, the ten headed Rakshasa, whose eyes turned coppery in anger, struck Rama with arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-108-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "धर्षणामर्षितोरामोधैर्यंरोषेणलम्भयन् ।\nजग्राहसुमहावेगमैन्द्रंयुधिशरासनम् ।।6.108.17।।",
+      "transliteration": "",
+      "translation": "Rama who was provoked by the assault and army was perturbed. He took up Indra's bow of extraordinary impulse and of high speed like sunbeams.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-108-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "शरांश्चसुमहावेगान्सूर्यर���्मिसमप्रभान् ।\nतदुपोढुंमहद्युद्धमन्योन्यवधकाङ्क्षिणोः ।।6.108.18।।\nपरस्पराभिमुखयोर्दृप्तयोरिवसिंहयोः ।",
+      "transliteration": "",
+      "translation": "The arrows endowed with very high speed, glowing in radiance like the sun's radiance, holding the arrows, each one desirous of killing the other stood facing each other, came near, and started fighting like lions in the great war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-108-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "ततोदेवास्सगन्धर्वास्सिद्धाश्चपरमर्षयः ।।6.108.19।।\nसमीयुर्द्वैरथंद्रष्टुंरावणक्षयकाङ्क्षिणः ।",
+      "transliteration": "",
+      "translation": "Thereafter, the Gandharvas, Devas, Siddhas and sages longing for the end of Ravana came there to witness the duel.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-108-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "वर्षरुधिरंदेवोरावणस्यरधोपरि ।।6.108.20।।\nवातामण्डलिनस्त्रीव्राह्यपसव्यंप्रचक्रमुः ।",
+      "transliteration": "",
+      "translation": "Devas rained blood on Ravana's chariot, wind blew in circles intensely from left to right.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-108-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "महत् गृध्रकुलंचास्यभ्रममाणंनभस्तले ।।6.108.21।।\nयेनयेनरथोयातितेनतेनप्रधावति",
+      "transliteration": "",
+      "translation": "In the sky, a huge flock of eagles hovering on the chariot of Ravana went following the chariot wherever it went.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-108-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "सन्ध्ययाचावृतालङ्काजपापुष्पनिकाशया ।।6.108.22।।\nदृश्यतेसम्प्रदीप्तेवदिवसेऽपिवसुन्धरा ।",
+      "transliteration": "",
+      "translation": "Lanka seemed glowing in red colour like at dusk, and as though the earth was burning, shrouded with Japa flowers, even though it was daytime.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-108-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "सनिर्घातामहोल्काश्चसम्प्रपेतुर्महास्वनाः ।।6.108.23।।\nविषादयंस्तेरक्षांसिरावणस्यतदाहिताः ।",
+      "transliteration": "",
+      "translation": "Meteors and huge fire dropped there indicating Ravana's end. Seeing them, Rakshasas were sad.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-108-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "रावणश्चयतस्तत्रप्रचचालवसुन्धरा ।।6.108.25।।\nरक्षसां च प्रहरतांगृहीताइवबाहवः ।",
+      "transliteration": "",
+      "translation": "Wherever Ravana went, the earth shook. Many Rakshasas felt their hands clasped.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-108-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "ताम्राःपीतास्सिताश्वेताःपतितास्सूर्यरश्मयः ।।6.108.26।।\nदृश्यन्तेरावणस्याग्रेपर्वतस्येवधातवः ।",
+      "transliteration": "",
+      "translation": "The rays of the Sun fell in front of Ravana, in red, yellow, white, and dark like minerals on the mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-108-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "गृध्रैरनुगताश्चास्यवमन्त्योज्वलनंमुखैः ।।6.108.27।।\nप्रणेदुर्मुखमीक्षन्त्यःसम्रद्धमशिवंशिवाः ।",
+      "transliteration": "",
+      "translation": "The vultures followed by shejackals vomited, burning fire from their mouths indicating inauspiciousness and screamed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-108-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "प्रतिकूलंववेवायूरणेपांसून् समुकतिरन् ।।6.108.28।।\nतस्यराक्षसराजस्यकुर्वन्दृष्टिविलोपनम् ।",
+      "transliteration": "",
+      "translation": "The unfavourable wind that blew in war, clouded the sight of Rakshasa king.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-108-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "निपेतुरिन्द्राशनयस्सैन्येचाप्यसमन्ततः ।।6.108.29।।\nदुर्विषह्यस्वनाघोरंविनाजलधरोदयम् ।",
+      "transliteration": "",
+      "translation": "Without clouds, terrific thunderbolts of Indra (rain) dropped on his (Ravana's) army all over causing unbearable sound.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-108-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "दिशश्चप्रदिशस्सर्वाबभूवुस्तिमिरावृताः ।।6.108.30।।\nपांसुवर्षेणमहतादुर्दर्शं च नभोऽभवत् ।",
+      "transliteration": "",
+      "translation": "All directions and intermediate points were enveloped by darkness by the shower of dust and the huge sky was obscure.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-108-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "कुर्वन्त: कलहंघोरंशारिकास्तद्रथंप्रति ।।6.108.31।।\nनिपेतुश्शतशस्तत्रदारुणादारुणारुताः ।",
+      "transliteration": "",
+      "translation": "Hundreds of minas making frightening sounds, fighting in terrific manner emitting dreadful cries had fallen on the chariot there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-108-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "जघनेभ्यःस्फुलिङ्गांश्चनेत्रेभ्योऽश्रूणिसन्ततम् ।।6.108.32।।\nमुमुचुस्तस्यतुरगास्तुल्यमग्नि च वारि च ।",
+      "transliteration": "",
+      "translation": "His (Ravana's) horses were letting out fire sparks from their hips, tears, water, and fire from their eyes at a time, continuously.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-108-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "एवंप्रकाराबहवस्समुत्पाताभयापहाः ।।6.108.33।।\nरावणस्यविनाशायदारुणाःसम्प्रजज्ञिरे ।",
+      "transliteration": "",
+      "translation": "In that manner, many frightful and dreadful objects falling indicated destruction of Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-108-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "रामस्यापिनिमित्तानिसौम्यानि च शिवानि च ।।6.108.34।।\nबभूवुर्जयशंसीनिप्रादुर्भूतानिसर्वशः ।",
+      "transliteration": "",
+      "translation": "On all sides appeared indications of signs of victory for Rama, displaying beings delightful and auspicious.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-108-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "निमित्तानि च सौम्यानिराघवःस्वजयायवै ।।6.108.35।।\nदृष्टवापरमसम्हृष्टोहतंमेने च रावणम् ।",
+      "transliteration": "",
+      "translation": "Sri Rama was very delighted over the appearance of good signs of his own victory and thought 'Ravana is destroyed by me'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-108-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "ततोनिरीक्ष्यात्मगतानिराघवोरणेनिमित्तानिनिमित्तकोविदः ।\nजगामहर्षं च परां च निर्वृतिंचकारयुद्धेह्यधिक च विक्रमम् ।।6.108.36।।",
+      "transliteration": "",
+      "translation": "Thereafter, Raghava, knower of the signs of victory in war and his own self experience felt joyful and proceeded to put an end to the enemy, exhibiting greater prowess. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेअष्टोत्तरशततमस्सर्गः ।। This is the end of one hundred and eighth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

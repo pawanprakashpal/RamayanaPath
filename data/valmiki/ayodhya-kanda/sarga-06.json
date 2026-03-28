@@ -1,0 +1,234 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 6,
+    "title": "Rama and Sita observe the prescribed rites--rejoiced citizens of Ayodhya express their gratitude to the king--people from villages arrive in multitudes.",
+    "titleSanskrit": "",
+    "totalShlokas": 24
+  },
+  "shlokas": [
+    {
+      "id": "v2-6-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "गते पुरोहिते रामः स्नातो नियतमानसः।\nसह पत्न्या विशालाक्ष्या नारायणमुपागमत्।।2.6.1।।",
+      "transliteration": "",
+      "translation": "With the family priest (Vasistha) gone, Rama had his bath, and with his mind under control came to Lord Narayana along with his largeeyed consort, Sita. (with an intention to worship him)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-6-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "प्रगृह्य शिरसा पात्रीं हविषो विधिवत्तदा।\nमहते दैवतायाज्यं जुहाव ज्वलितेऽनले।।2.6.2।।",
+      "transliteration": "",
+      "translation": "Then holding the vessel containing havis on his head, he offered the oblations of  clarified butter into the sacred fire for Visnu in accordance with ritual practices.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-6-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "शेषं च हविषस्तस्य प्राश्याशास्यात्मनः प्रियम्।\nध्यायन्नारायणं देवं स्वास्तीर्णे कुशसंस्तरे।।2.6.3।।\nवाग्यत स्सह वैदेह्या भूत्वा नियतमानसः।\nश्रीमत्यायतने विष्णो श्शिश्ये नरवरात्मजः।।2.6.4।।",
+      "transliteration": "",
+      "translation": "The son of the king (Rama) partook the remainder of the havis seeking his own welfare. With a restrained mind and a vow of silence, he meditated upon Lord Narayana and slept along with Vaidehi on a wellspread bed of kusha grass in the auspicious temple of lord Visnu.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-6-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "एकयामावशिष्टायां रात्र्यां प्रतिविबुद्ध्य सः।\nअलङ्कारविधिं कृत्स्नं कारयामास वेश्मनः।।2.6.5।।",
+      "transliteration": "",
+      "translation": "He got up (Rama) with one yama (three hours) of the night still left, and had his entire  residence decorated.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-6-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तत्र श्रृण्वन्सुखा वाच स्सूतमागधवन्दिनाम्।\nपूर्वां सध्यामुपासीनो जजाप यतमानसः।।2.6.6।।",
+      "transliteration": "",
+      "translation": "Then (in the last watch of the night) hearing the pleasant words of bards and panegyrists he attended to early morning rites and intoned Gayatri with a  concentrated mind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-6-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तुष्टाव प्रणतश्चैव शिरसा मधुसूदनम्।\nविमलक्षौमसंवीतो वाचयामास स द्विजान्।।2.6.7।।",
+      "transliteration": "",
+      "translation": "Clad in spotless silk garments, he extoled Lord Madhusudana (Visnu) with his head bowed low. He listened to the purificatory mantras recited by brahmins.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-6-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तेषां पुण्याहघोषोऽथ गम्भीरमधुरस्तदा।\nअयोध्यां पूरयामास तूर्यघोषानुनादितः।।2.6.8।।",
+      "transliteration": "",
+      "translation": "And then the deep and sweet proclamations of 'This is an auspicious day' mingled with the sounds of trumpets reverberated (the city of) Ayodhya.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-6-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "कृतोपवासं तु तदा वैदेह्या सह राघवम्।\nअयोध्यानिलयश्श्रुत्वा सर्वः प्रमुदितो जनः।।2.6.9।।",
+      "transliteration": "",
+      "translation": "The residents of Ayodhya were happy to hear that the scion of the Raghus (Rama) along with princess of Videha (Sita) had undertaken the fast.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-6-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "ततः पौरजनस्सर्वश्श्रुत्वा रामाभिषेचनम्।\nप्रभातां रजनीं दृष्ट्वा चक्रे शोभयितुं पुरीम्।।2.6.10।।",
+      "transliteration": "",
+      "translation": "Having heard about the coronation of Rama, all the citizens began to decorate the city soon after daybreak.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-6-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "सिताभ्रशिखराभेषु देवतायतनेषु च।\nचतुष्पथेषु रथ्यासु चैत्येष्वट्टालकेषु च।।2.6.11।।\nनानापण्यसमृद्धेषु वणिजामापणेषु च।\nकुटुम्बिनां समृद्धेषु श्रीमत्सु भवनेषु च।।2.6.12।।\nसभासु चैव सर्वासु वृक्षेष्वालक्षितेषु च।\nध्वजा स्समुच्छ्रिताश्चित्राः पताकाश्चाभवंस्तदा।।2.6.13।।",
+      "transliteration": "",
+      "translation": "Banners of varying colours and flags were raised on the temples looking resplendent like peaks wreathed by a mass of white clouds, at the crossroads, on the thoroughfares, on the trees standing on avenues, on the towers and stalls of the merchants abounding in various kinds of merchandise, on prosperous and graceful  houses of householders, in all public halls and on trees looking tall from a distance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-6-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "नटनर्तकसङ्घानां गायकानां च गायताम्।\nमनः कर्णसुखा वाच श्शुशृवुश्च ततस्ततः।।2.6.14।।",
+      "transliteration": "",
+      "translation": "Troupes of actors and dancers entertained the people with songs pleasing to the mind and ears and their utterances were heard here and there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-6-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "रामाभिषेकयुक्ताश्च कथाश्चक्रुर्मिथो जनाः।\nरामाभिषेके सम्प्राप्ते चत्वरेषु गृहेषु च।।2.6.15।।",
+      "transliteration": "",
+      "translation": "As the time for Rama's coronation was approaching, men in public squares and in private houses talked with one another about the consecration of Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-6-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "बाला अपि क्रीडमाना गृहद्वारेषु सङ्घशः।\nरामाभिषवसंयुक्ताश्चक्रुरेवं मिथः कथाः।।2.6.16।।",
+      "transliteration": "",
+      "translation": "Similarly children playing in groups in front of the houses also related to each other  stories regarding the coronation of Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-6-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "कृतपुष्पोपहारश्च धूपगन्धाधिवासितः।\nराजमार्गः कृतः श्रीमान्पौरै रामाभिषेचने।।2.6.17।।",
+      "transliteration": "",
+      "translation": "On the occasion of Rama's coronation the highway, strewn with flowers and rendered fragrant with the burning of incense by the citizens looked glorious.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-6-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "प्रकाशकरणार्थं च निशागमनशङ्कया।\nदीपवृक्षां स्तथा चक्रुरनु रथ्यासु सर्वशः।।2.6.18।।",
+      "transliteration": "",
+      "translation": "In the same way lest night should fall (by the time the installation ceremony was completed), the streets were provided with lamps in the shape of trees to light them up.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-6-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अलङ्कारं पुरस्यैवं कृत्वा तत्पुरवासिनः।\nआकाङ्क्षमाणा रामस्य यौवराज्याभिषेचनम्।।2.6.19।।\nसमेत्य सङ्घशस्सर्वे चत्वरेषु सभासु च।\nकथयन्तो मिथस्तत्र प्रशशंसुर्जनाधिपम्।।2.6.20।।",
+      "transliteration": "",
+      "translation": "Thus the residents of Ayodhya decorated the city and eagerly waited for Rama's cornonation as heirapparent. Gathered in groups at public squares and in the assembly halls they conversed among themselves about the event, praising Dasaratha, the lord among men.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-6-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अहो महात्मा राजाऽयमिक्ष्वाकुकुलनन्दनः।\nज्ञात्वा यो वृद्धमात्मानं रामं राज्येऽभिषेक्ष्यति।।2.6.21।।",
+      "transliteration": "",
+      "translation": "Oh having realised that he himself has grown old the highsouled king Dasaratha the veritable delight to the Ikshvaku race,  is going to coronate Rama in the kingdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-6-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "सर्वेप्यनुगृहीता स्मो यन्नो रामो महीपतिः।\nचिराय भविता गोप्ता दृष्टलोकपरावरः।।2.6.22।।",
+      "transliteration": "",
+      "translation": "All of us are fortunate indeed that Rama who knows the world's high and low shall be our king, protector for a long time.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-6-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "अनुद्धतमनाः विद्वान्धर्मात्मा भ्रातृवत्सलः।\nयथा च भ्रातृषु स्निग्धस्तथाऽस्मास्वपि राघवः।।2.6.23।।",
+      "transliteration": "",
+      "translation": "This scion of the Raghus (Rama) is free from arrogance, is learned, righteous and affectionate towards his brothers as much as towards us.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-6-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "चिरं जीवतु धर्मात्मा राजा दशरथोऽनघः।\nयत्प्रसादोनभिषिक्तं तु रामं द्रक्ष्यामहे वयम्।।2.6.24।।",
+      "transliteration": "",
+      "translation": "May the virtuous and sinless king Dasaratha live long by whose grace we are beholding (going to behold) Rama's coronation.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-6-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "एवंविधं कथयतां पौराणां शुश्रुवु स्तदा।\nदिग्भ्योपि श्रुतवृत्तान्ता: प्राप्ता जानपदा जनाः।।2.6.25।।",
+      "transliteration": "",
+      "translation": "Having heard about the coronation of Rama, villagers arrived from all directions and  listened to the citizens conversing in this manner.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-6-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "ते तु दिग्भ्यः पुरीं प्राप्ता द्रष्टुं रामाभिषेचनम्।\nरामस्य पूरयामासुः पुरीं जानपदा जनाः।।2.6.26।।",
+      "transliteration": "",
+      "translation": "The city was filled with villagers coming from different directions to behold Rama's coronation.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-6-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "जनौघैस्तैर्विसर्पद्भिः शुश्रुवे तत्र निस्वनः।\nपर्वसूदीर्णवेगस्य सागरस्येव निस्वनः।।2.6.27।।",
+      "transliteration": "",
+      "translation": "The multitudes of men moving to and fro gave rise to a noise like the roar of the ocean enhanced by the violent speed (of the wind) on the full and new moon days.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-6-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "ततस्तदिन्द्रक्षयसन्निभं पुरं\nदिदृक्षुभिर्जानपदैरुपागतैः।\nसमन्तत स्सस्वनमाकुलं बभौ\nसमुद्रयादोभिरिवार्णवोदकम्।।2.6.28।।",
+      "transliteration": "",
+      "translation": "The city (of Ayodhya), resembling the abode of Indra, (Amaravati) crowded with villagers from all over wishing to witness it (the coronation of Rama), grew noisy and sparkled like the water of the ocean teeming with aquatic animals. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे षष्ठस्सर्गः।। Thus ends the sixth sarga of Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

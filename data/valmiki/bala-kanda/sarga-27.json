@@ -1,0 +1,207 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 27,
+    "title": "Viswamitra confers celestial weapons on Rama",
+    "titleSanskrit": "",
+    "totalShlokas": 21
+  },
+  "shlokas": [
+    {
+      "id": "v1-27-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "अथ तां रजनीमुष्य विश्वामित्रो महायशाः।\nप्रहस्य राघवं वाक्यमुवाच मधुराक्षरम्।।1.27.1।।",
+      "transliteration": "",
+      "translation": "The night over, illustrious Viswamitra called Rama with a sweet smile.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-27-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "परितुष्टोऽस्मि भ���्रं ते राजपुत्र महायशः।\nप्रीत्या परमया युक्तो ददाम्यस्त्राणि सर्वशः।।1.27.2।।",
+      "transliteration": "",
+      "translation": "\"O prince of great renown, I am extremely pleased. May you prosper Out of great love and affection for you I shall make over all the weapons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-27-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "देवासुरगणान्वापि सगन्धर्वोरगानपि।\nयैरमित्रान् प्रसह्याजौ वशीकृत्य जयिष्यसि।।1.27.3।।\nतानि दिव्यानि भद्रं ते ददाम्यस्त्राणि सर्वशः ।",
+      "transliteration": "",
+      "translation": "With the help of these celestial weapons, you will vanquish even gods and demons, serpents together with gandharvas if they challenge you to a battle as enemies and take them as captives. I shall confer on you all such weapons. May you prosper",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-27-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "दण्डचक्रं महद्दिव्यं तव दास्यामि राघव।।1.27.4।।\nधर्मचक्रं ततो वीर कालचक्रं तथैव च।\nविष्णुचक्रं तथात्युग्रमैन्द्रमस्त्रं तथैव च।।1.27.5।।\nवज्रमस्त्रं नरश्रेष्ठ शैवं शूलवरं तथा।\nअस्त्रं ब्रह्मशिरश्चैव ऐषीकमपि राघव।।1.27.6।। \nददामि ते महाबाहो ब्राह्ममस्त्रमनुत्तमम्।",
+      "transliteration": "",
+      "translation": "Mighty armed, heroic Rama I shall grant you the great celestial dandachakra. O best among men I shall grant you dharmachakra, kalachakra, visnuchakra, indraastra, vajraastra and the great, trident of Siva, brahmashirastra, ishika astra and highly superior brahmaastra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-27-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "गदे द्वे चैव काकुत्स्थ मोदकी शिखरी उभे।।1.27.7।।\nप्रदीप्ते नरशार्दूल प्रयच्छामि नृपात्मज।",
+      "transliteration": "",
+      "translation": "Born in the race of kakutstha and a tiger among men, O Rama I shall also grant two  shining maces known as modaki and shikhari.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-27-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "धर्मपाशमहं राम कालपाशं तथैव च।।1.27.8।।\nपाशं वारुणमस्त्रं च ददाम्यहमनुत्तमम्।",
+      "transliteration": "",
+      "translation": "Rama, I shall grant dharmapasa, kalapasa, varuna pasa, too unique weapons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-27-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "अशनी द्वे प्रयच्छामि शुष्कार्द्रे रघुनन्दन।।1.27.9।।\nददामि चास्त्रं पैनाकमस्त्रं नारायणं तथा।",
+      "transliteration": "",
+      "translation": "O descendant of Raghu I shall grant you two thunderbolts named shuska and ardra (dry and wet), painaka astra and narayanaastra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-27-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "आग्नेयमस्त्रं दयितं शिखरं नाम नामतः।।1.27.10।।\nवायव्यं प्रथनं नाम ददामि च तवानघ ।",
+      "transliteration": "",
+      "translation": "O blemishless Rama I shall grant you agneyaastra known as sikhara which is my  favour weapon and vayavyaastra  known as prathana৷৷",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-27-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "अस्त्रं हयशिरो नाम क्रौञ्चमस्त्रं तथैव च।\nशक्तिद्वयं च काकुत्स्थ ददामि तव राघव।।1.27.11।।",
+      "transliteration": "",
+      "translation": "O Rama bron in the Kakutstha race, I shall grant you two powers named hayasira (Horse head) and kraunchaastra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-27-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "कङ्कालं मुसलं घोरं कापालमथ कङ्कणम्।\nधारयन्त्यसुरा यानि ददाम्येतानि सर्वशः।।1.27.12।।",
+      "transliteration": "",
+      "translation": "I shall grant all these weapons, the dreadful kankala, pestle kapala and kankana used by asuras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-27-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "वैद्याधरं महास्त्रं च नन्दनं नाम नामतः।\nअसिरत्नं महाबाहो ददामि च नृपात्मज।।1.27.13।।",
+      "transliteration": "",
+      "translation": "O mightyarmed prince, I shall grant mahaastra, vaidyadhara and an excellent scimitar known as nandana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-27-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "गान्धर्वमस्त्रं दयितं मानवं नाम नामतः।\nप्रस्वापनप्रशमने दद्मि सौरं च राघव।।1.27.14।।",
+      "transliteration": "",
+      "translation": "Rama, I shall grant two much favoured weapons namely gandharvaastras, manava  astra, which induce and suppress sleep and sauraastra as well.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-27-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "दर्पणं शोषणं चैव सन्तापनविलापने।\nमदनं चैव दुर्धर्षं कन्दर्पदयितं तथा।।1.27.15।।\nपैशाचमस्त्रं दयितं मोहनं नाम नामतः।\nप्रतीच्छ नरशार्दूल राजपुत्र महायशः।।1.27.16।।",
+      "transliteration": "",
+      "translation": "O renowned prince, best among men, receive these astras known as darpana, soshana, santhapana, vilapana, madana astra, the unassailable one favoured by kamadeva  and the paisacha astra known as mohana favoured by demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-27-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तामसं नरशार्दूल सौमनं च महाबल।\nसंवर्धं चैव दुर्धर्षं मौसलं च नृपात्मज।।1.27.17।।\nसत्यमस्त्रं महाबाहो तथा मायाधरं परम्।\nघोरं तेजः प्रभं नाम परतेजोऽपकर्षणम्।।1.27.18।।\nसौम्यास्त्रं शिशिरं नाम त्वष्टुरस्त्रं सुदामनम्।\nदारुणं च भगस्यापि शितेषु मथ मानवम्।।1.27.19।।",
+      "transliteration": "",
+      "translation": "O tiger among men mighty prince, accept tamasa and saumanaastras, the unassailable, samavardha weapon, mausala, satyaastra, the supreme mayadhara astra, the terrible tejaprabhaastra capable of removing the energy of the opponent, a soft weapon called sisira, supremely formidable twashtus astra, Bhaga's terrible shiteshuastra (sharp arrowed one) and manava astra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-27-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "एतान् राम महाबाहो कामरूपान् महाबलान् ।\nगृहाण परमोदारान् क्षिप्रमेव नृपात्मज।।1.27.20।।",
+      "transliteration": "",
+      "translation": "O Rama mightyarmed prince, receive these mighty and highly exalted  astras capable of assuming at once any form at will\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-27-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "स्थितस्तु प्राङ्मुखो भूत्वा शुचिर्मुनिवरस्तदा।\nददौ रामाय सुप्रीतो मन्त्रग्राममनुत्तमम्।।1.27.21।।",
+      "transliteration": "",
+      "translation": "Viswamitra, the greatest ascetic after the purification ritual stood with his face turned  east and happily, conferred on Rama collection of the unique mantras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-27-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "सर्वसङ्ग्रहणं येषां दैवतैरपि दुर्लभम्।\nतान्यस्त्राणि तदा विप्रो राघवाय न्यवेदयत्।।1.27.22।।",
+      "transliteration": "",
+      "translation": "The sage offered Rama the complete collection of those weapons which even the celestials find it difficult to acquire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-27-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "जपतस्तु मुनेस्तस्य विश्वामित्रस्य धीमतः।\nउपतस्थुर्महार्हाणि सर्वाण्यस्त्राणि राघवम्।।1.27.23।।",
+      "transliteration": "",
+      "translation": "While the sagacious ascetic Viswamitra was muttering the mystic terms of these venerable astras (addressing their respective deities), all these weapons (with their mystic power) attended on Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-27-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "ऊचुश्च मुदितास्सर्वे रामं प्राञ्जलयस्तदा।\nइमे स्म परमोदाराः किङ्करास्तव राघव।।1.27.24।।",
+      "transliteration": "",
+      "translation": "The munificient presiding deities of the weapons with folded palms addressed these words to Rama saying, \"Here we are, at you disposal \".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-27-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "प्रतिगृह्य च काकुत्स्थः समालभ्य च पाणिना।\nमानसा मे भविष्यध्वमिति तानभ्यचोदयत्।।1.27.25।।",
+      "transliteration": "",
+      "translation": "Rama received the astras he felt with his hands and commanded them saying, \"Live in my mind\" (serve me whenever I remember you).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-27-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "ततः प्रीतमना रामो विश्वामित्रं महामुनिम्।\nअभिवाद्य महातेजा गमनायोपचक्रमे।।1.27.26।।",
+      "transliteration": "",
+      "translation": "Thereafter, the cheerful Rama, bowed to the mighty ascetic Viswamitra and commenced his journey. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे सप्तविंशस्सर्गः।। Thus ends the twentyseventh sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

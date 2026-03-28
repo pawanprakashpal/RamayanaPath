@@ -1,0 +1,324 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 44,
+    "title": "In the fierce fight that took place in the night Indrajith gets vanquished by Angada. Sri Rama and Lakshmana also put up a great fight and eventually get bound by a noose of serpents.",
+    "titleSanskrit": "",
+    "totalShlokas": 34
+  },
+  "shlokas": [
+    {
+      "id": "v6-44-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "युध्यतामेनतेषांतुत��ावानरराक्षसाम् ।\nरविरस्तंगतोरात्रिःप्रवृत्ताप्राणहारिणी ।।6.44.1।।",
+      "transliteration": "",
+      "translation": "Thus, as the Vanaras and Rakshasas were battling, the Sun began to set, which is not favourable to the life of Vanaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अन्योन्यंबद्धवैराणांघोराणांजयमिच्छताम् ।\nसम्प्रवृत्तंनिशायुद्धंतदावानररक्षसाम् ।।6.44.2।।",
+      "transliteration": "",
+      "translation": "Then Vanaras and dreadful Rakshasas being strongly inimical to each other started the night battle wishing victory.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "राक्षसोऽसीतिहरयोहरिश्चाऽसीतिराक्षसाः ।\nअन्योन्यंसमरेजघ्नुस्तस्मिंस्तमसिदारुणे ।।6.44.3।।",
+      "transliteration": "",
+      "translation": "In the fierce darkness that prevailed, monkeys hit monkeys thinking to be Rakshasas and Rakshasas hit Rakshasas thinking to be Vanaras (not knowing in darkness) hit each other.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "जहिदारयचैहीतिकथंविद्रवसीतिच ।\nएवंसुतुमुलश्शब्दस्तस्मिंस्तमसिशुश्रुवे ।।6.44.4।।\nकालाःकाञ्चनसन्नाहास्तस्मिंस्तमसिराक्षसाः ।\nसम्प्रदृश्यन्तशैलेन्द्रादीप्तौषधिवनाइव ।।6.44.5।।",
+      "transliteration": "",
+      "translation": "\"Strike\", \"Tear\", \"Why are you running away?\" were the kind of tumultuous echo heard in the darkness of the night. In that darkness the dark complexioned Vanaras and Rakshasas covered with golden armour in the night seemed like shining herbs of the forest in the mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तस्मिंस्तमसिदुष्पारेराक्षसाःक्रोधमूर्छिताः ।\nपरिपेतुर्महावेगाभक्षयन्तःप्लवङ्गमान् ।।6.44.6।।",
+      "transliteration": "",
+      "translation": "In that pitch darkness, which was difficult even to move, the Rakshasas overcome by anger and lost senses were wandering devouring the monkeys.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तेहयान् काञ्चनापीडान् ध्वजांश्चाशीविषोपमान् ।\nआप्लुत्यदशनैस्तीक्ष्णैर्भीमकोपाव्यदारयन् ।।6.44.7।।\nवानराबलिनोयुद्धेऽक्षोभयन् राक्षसींचमूम् ।",
+      "transliteration": "",
+      "translation": "The mighty strong Vanaras, terribly angry at the Rakshasas sprang up to the sky, and tore with their sharp teeth, the horses of Rakshasas decked with golden ornaments pervading like fire in the battle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "कुञ्जरान् कुञ्जरारोहान् पताकाध्वजिनोरथान् ।।6.44.8।।\nकर्षुश्चददंशुश्चदशनैःक्रोधमूर्छिताः ।",
+      "transliteration": "",
+      "translation": "Having lost senses in fury they dragged the elephants, those mounted upon them, and the chariots decorated with posts and flags and tore them with their teeth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "लक्ष्मणश्चापिरामश्चशरैराशीविषोपमैः ।।6.44.9।।\nदृश्यादृश्यानिरक्षांसिप्रवराणिनिजघ्नतुः ।",
+      "transliteration": "",
+      "translation": "Then Rama as well as Lakshmana with their venomous snakelike arrows killed both visible and invisible principal Rakshasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तुरङ्गखुरविध्वस्तंरथनेमिसमुत्थितम् ।।6.44.10।।\nरुरोधकर्णनेत्राणियुध्यतांधरणीरजः ।",
+      "transliteration": "",
+      "translation": "Then the dust rose from the ground pulverised the horses' hooves and crushed by the chariot wheels, filling the ears and eyes of those in war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "वर्तमानेतथाघोरेसङ्ग्रामेरोमहर्षणे ।।6.44.11।।\nरुधिरोधामहाघोरानद्यस्तत्रप्रसुस्रुवुः ।",
+      "transliteration": "",
+      "translation": "In that way as the war was going on, and rivers of blood flowing with the terrific noise it made hair stand on end.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "ततोभेरीमृदङ्गानांपणवानांचनिस्स्वनः ।।6.44.12।।\nशङ्खवेणुस्वनोन्मिश्रस्सम्भूवाद्भुतोपमः ।",
+      "transliteration": "",
+      "translation": "There arose wonderful sounds of musical instruments, the sounds of kettle drums, wooden drums, mixed with conchs and flutes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "हतानांस्तनमानानांराक्षसानांचनिःस्वनः ।।6.44.13।।\nशस्तानांवानराणांचसम्बभूवातिदारुणः ।",
+      "transliteration": "",
+      "translation": "There from the battlefield arose the roaring sounds of wounded and appeased Rakshasas and Vanaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "हतैर्वानरवीरैश्चशक्तिशूलपरश्वधैः ।।6.44.14।।\nनिहतैःपर्वताकारैराक्षसैःकामरूपिभिः ।\nशस्त्रपुष्पोपहाराचतत्रासीद्युद्धमेदिनी ।।6.44.15।।\nदुर् ज्ञेयादुर्निवेशाचशोणितास्रावकर्दमा ।",
+      "transliteration": "",
+      "translation": "There with warriors of Vanaras wounded by javelins, tridents and axes, and the Rakshasas of mountain size who could change their form at will, the battlefield was muddy, and wet with blood flowing and difficult to reach.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "साबभूवनिशाघोराहरिराक्षसहारिणी ।।6.44.16।।\nकालरात्रीवभूतानांसर्वेषांदुरतिक्रमा ।",
+      "transliteration": "",
+      "translation": "Like the dreadful night for all beings, difficult to spend, as if it were a dissolution, destructive to Vanaras and Rakshasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "ततस्तेराक्षसास्तत्रतस्मिंस्तमसिदारुणे ।।6.44.17।।\nराममेवाभ्यवर्तन्तसम्हृष्टाश्शरवृष्टिभिः ।",
+      "transliteration": "",
+      "translation": "Thereafter in that exceedingly fearsome dark night in the battlefield highly delighted Rakshasas assailed Rama with a rain of arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तेषामापततांशब्दःक्रुद्धानामपिगर्जताम् ।।6.44.18।।\nउद्वर्तइवसत्त्व, नांसमुद्राणांप्रशुश्रुवे ।",
+      "transliteration": "",
+      "translation": "The thundering noise of the angry Rakshasas rushing towards Rama was like the seven seas rising to flow into the ocean.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तेषांरामश्शरैःषडिभःषडजघाननिशाचरान् ।।6.44.19।।\nनिमेषान्तरमात्रेणशितैरग्निशिखोपमैः ।\nयमशत्रुश्चदुर्धर्षोमहापार्श्वमहोदरौ ।।6.44.20।।\nवज्रदंष्ट्रोमहाकायस्तौचोभौशुकसारणौ ।\nतेतुरामेणबाणौघैस्सर्वेमर्मसुताडिताः ।।6.44.21।।\nयुद्धादपसृतास्तत्रसावशेषायुषोऽभवन् ।",
+      "transliteration": "",
+      "translation": "On Rama striking with the six best of shafts like flames in a time of twinkling of eyelids, the six Rakshasas, Yamasatru, Mahaparva, Mahodara, Mahakaya, and Vajradamshtra found it difficult to overcome. Along with the two Suka, Saranas all of them were struck by Rama's fire like arrows in their vital parts and escaped with leftover life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तत्रकाञ्चनचित्राङ्गैश्शरैरग्निशिखोपमैः ।।6.44.22।।\nदिशश्चकारविमलाःप्रदिशश्चमहारथः ।",
+      "transliteration": "",
+      "translation": "Mighty Rama with his shafts that were like flames of fire, decorated with gold, brightened in all directions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "येत्वन्येराक्षसाभीमारामस्याभिमुखेस्थिताः ।।6.44.23।।\nतेऽपिनष्टाःसमासाद्यपतङ्गाइवपावकम् ।",
+      "transliteration": "",
+      "translation": "Those fierce Rakshasas who stood in front of Rama were destroyed like fireflies fallen in fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "सुवर्णपुङ्खैर्विशिखैस्सपतद्भिस्सहस्रशः ।।6.44.24।।\nबभूवरजनीचित्राखद्योतैरिवशारदी ।",
+      "transliteration": "",
+      "translation": "By the rain of thousands of golden feathered arrows, the night appeared as if illumined by fireflies and like a wonderful autumnal night.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "राक्षसानांचनिनदैर्हरीणांचापिनिस्स्वनैः ।।6.44.25।।\nसाबभूवनिशाघोराभूयोघोरतरातदा ।",
+      "transliteration": "",
+      "translation": "The night which was fierce appeared more dreadful with the loud noise of Rakshasas and Vanaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तेनशब्देनमहताप्रवृद्धेनसमन्ततः ।।6.44.26।।\nत्रिकूटःकन्दराकीर्णःप्रव्याहरदिवाचलः ।",
+      "transliteration": "",
+      "translation": "Resounding with the sound rising all over the caves of Trikuta mountain echoed and it looked as if the mountain was responding to someone's call.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "गोलाङ्गूलामहाकायास्तमसातुल्यवर्चसः ।।6.44.27।।\nसम्परिष्वज्यबाहुभ्यांभक्षयन्रजनीचरान् ।",
+      "transliteration": "",
+      "translation": "The dark complexioned Rakshasas of gigantic body, who were highly energetic were held tightly by the monkeys with black faces and long tails and allowed them to be devoured.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "अङ्गदस्तुरणेशत्रूननिहन्तुंसमुपस्थितः ।।6.44.28।।\nरावणिंनिजघानाशुसारथिंचहयानपि ।",
+      "transliteration": "",
+      "translation": "Angada who was determined to kill the enemies, in no time wounded Ravana's charioteer and also the horses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "वर्तमानेतदाघोरेसङ्ग्रामेभृशदारुणे ।।6.44.29।।\nइन्द्रजित्तुरथंत्यक्त्वाहताश्वोहतसारथिः ।\nअङ्गदेनमहामायस्तत्रैवान्तरधीयत ।।6.44.30।।",
+      "transliteration": "",
+      "translation": "As the violent war was going on, the great cheat, Indrajith disappeared from there as Angada had already killed his horses and charioteer.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "तत्कर्मवालिपुत्रस्यसर्वेदेवास्सहर्षिभिः ।\nतुष्टुवुःपूजनार्हस्यतौचोभौरामलक्ष्मणौ ।।6.44.31।।",
+      "transliteration": "",
+      "translation": "Angada who was worthy of worship, was praised by even the sages, all deities and both Rama and Lakshmana for his action.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "प्रभावंसर्वभूतानिविदुरिन्द्रजितोयुधि ।\nतेनतेतंमहात्मानंतुष्टाःदृष्टवाप्रधर्षितम् ।।6.44.32।।",
+      "transliteration": "",
+      "translation": "All beings present in war were aware of Indrajith's deeds. Therefore, they were gratified to see him defeated.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "ततःप्रहृष्टाःकपयस्ससुग्रीवविभीषणाः ।\nसाधुसाध्वितिनेदुश्चदृष्टवाशत्रुंप्रधर्षितम् ।।6.44.33।।",
+      "transliteration": "",
+      "translation": "Thereafter, Sugriva, Vibheeshana and all monkeys gratified with Angada's deed cried out saying \"Excellent, Well done\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "इन्द्रजित्तुतदातेननिर्जितोभीमकर्मणा ।\nसंयुगेवालिपुत्रेणक्रोधंचक्रेसुदारुणम् ।।6.44.34।।",
+      "transliteration": "",
+      "translation": "Then Indrajith of terrible deeds defeated by Angada in the comb at became terribly angry.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "सोऽन्तर्धानगतःपापोरावणीरणकर्कशः ।\nअदृश्योनिशितान्बाणान्मुमोचाशनिवर्चसः ।।6.44.35।।",
+      "transliteration": "",
+      "translation": "That sinful son of Ravana, who is capable of encountering rising up remained invisible and shot sharp arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "सरामंलक्ष्मणंचैवघोरैर्नागमयैश्शरैः ।\nबिभेदसमरेक्रुद्धःसर्वगात्रेषुराक्षसः ।।6.44.36।।",
+      "transliteration": "",
+      "translation": "The angry Rakshasa (remaining invisible) pierced arrows full of serpents all over the body of Rama and Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "माययासम्वृतस्तत्रमोहयन्राघवौयुधि ।\nअदृश्यस्सर्वभूतानांकूटयोधीनिशाचरः ।।6.44.37।।\nबबन्धशरबन्धेनभ्रातरौरामलक्ष्मणौ ।",
+      "transliteration": "",
+      "translation": "The Rakshasa waging war in invisible form with all beings by his supernatural powers fought with both the brothers, Rama and Lakshmana and bound them in a network of arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "तेनतौपुरुषव्याघ्रौक्रुद्धेनाशीविषैश्शरैः ।।6.44.38।।\nसहसानिहतौवीरौतदाप्रैक्षन्तवानराः ।",
+      "transliteration": "",
+      "translation": "Then the Vanaras beheld the two brothers, tigers among men bound forcibly by the angry Rakshasas like venomous monkeys.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-44-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "प्रकाशरूपस्तुतदानशक्तस्तौबाधितुंराक्षसराजपुत्रः ।\nमायांप्रयोक्तुंसमुपाजगामबबन्धतौराजसुतौदुरात्मा ।।6.44.39।।",
+      "transliteration": "",
+      "translation": "Then the evil minded Rakshasa king's son, being incapable of getting bound in visible form, by remaining invisible, bound them deceitfully. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेचतुश्चत्वारिंशस्सर्गः ।। This is the end of the forty fourth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

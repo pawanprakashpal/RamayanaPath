@@ -1,0 +1,378 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 89,
+    "title": "Dreadful and tumultuous fight takes place between Lakshmana and Indrajith with an exchange of a volley of arrows.",
+    "titleSanskrit": "",
+    "totalShlokas": 40
+  },
+  "shlokas": [
+    {
+      "id": "v6-89-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततश्शरान् दाशरथिस्सन्धायामित्रकर्शणः ।\nसस��्जराक्षसेन्द्रायकृद्धस्सर्पइवश्वसन् ।।6.89.1।।",
+      "transliteration": "",
+      "translation": "Then Lakshmana, the tamer of enemies, sighs in anger like a serpent, fixing his arrows discharged on Rakshasa king.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तस्यज्यातलनिर्घोषं स श्रुत्वाराक्षसाधिपः ।\nविवर्णवदनोभूत्वालक्ष्मणंसमुदैक्षत ।।6.89.2।।",
+      "transliteration": "",
+      "translation": "On hearing the sound of the bow string of Laksmana the Lord of Rakshasa became pale in face and looked at Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "विषण्णवदनंदृष्टवाराक्षसंरावणात्मजे ।\nसौमित्रिंयुद्धसंयुक्तंप्रत्युवाचविभीषणः ।।6.89.3।।",
+      "transliteration": "",
+      "translation": "Seeing Ravana's son, pale faced, Vibheeshana replied as follows to Saumithri who was ready for combat.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "निमित्तान्युपपश्यामियान्यस्मिन् रावणात्मजे ।\nत्वरतेनमहाबाहोभग्नएष न संशयः ।।6.89.4।।",
+      "transliteration": "",
+      "translation": "\"On the basis of the indications of the pale face of Ravana's son, it is clear that he is broken at heart. No doubt about it.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "ततस्सन्धायसौमित्रिश्शरानग्निशिखोपमान् ।\nमुमोचनिशितांस्तस्मिन् सर्पानिवमहाविषान् ।।6.89.5।।",
+      "transliteration": "",
+      "translation": "Then Saumithri fitted his bow with shining arrows that were like tongues of fire, which resembled venomous serpents and discharged.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "शक्राशनिसमस्पर्शैर्लक्ष्मणेनाहतश्शरैः ।\nमुहूर्तमभवन्मूक्षःसर्वसंक्षुभितेन्द्रियः ।।6.89.6।।",
+      "transliteration": "",
+      "translation": "Struck by Indra's thunderbolt like arrows of Lakshmana, all sense organs of Indrajith remained excited for a short while.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "उपलभ्यमुहूर्तेनसंज्ञांप्रत्यागतेन्द्रियः ।\nददर्शावस्थितंवीरंवीरोदशरथात्मजम् ।।6.89.7।।",
+      "transliteration": "",
+      "translation": "Heroic son of Ravana gained consciousness in a short while and returning to normalcy saw the heroic son of Dasharatha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "सोऽभिचक्रामसौमित्रिंरोषात्संरक्तलोचनः ।\nअब्रवीच्चैनमासाद्यपुनस्सपरुषंवचः ।।6.89.8।।",
+      "transliteration": "",
+      "translation": "He (Indrajith), enraged and eyes turned red, advancing towards Lakshmana, and approaching him again spoke in this way harshly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "किं न स्मरसितद्युद्धेप्रथमेमत्पराक्रमम् ।\nनिबद्धस्त्वंसहभ्रात्रायदाभुविविचेष्टसे ।।6.89.9।।",
+      "transliteration": "",
+      "translation": "\"Do you not remember that in the first combat your brother bound by me had fallen on the ground. Why do you not remember my valour?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "युवांखलुमहायुद्धेशक्रानिसमैश्शरैः ।\nशायितौप्रथमंभूमौविसंज्ञौसपुरस्सरौ ।।6.89.10।।",
+      "transliteration": "",
+      "translation": "\"Formerly in the course of the first battle, the great combat, you two were laid down on ground having lost senses struck by my thunderbolt like arrows and Asani of Indra.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "स्मृतिर्वानास्तितेमन्येव्यक्तंवायमसादनम् ।\nगन्तुमिच्छसियस्मात्त्वमंधर्षयितुमिच्छसि ।।6.89.11।।",
+      "transliteration": "",
+      "translation": "\"Knowing my valour, you have come. Have you lost memory or do you desire to go to Yama's abode? Tell me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "यदितेप्रथमेयुद्धे न दृष्टोमत्पराक्रमः ।\nअद्यतेदर्शयिष्यामितिष्ठेदानींव्यवस्थितः ।।6.89.12।।",
+      "transliteration": "",
+      "translation": "\"If you have not seen my courage in the first combat, now I will exhibit. Stand and fight now.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "इत्युक्त्वासप्तभिर्भाणैरभिविव्याथलक्ष्मणम् ।\nदशभिस्तुहनूमन्तंतीक्ष्णधाश्शरोत्तमैः ।।6.89.13।।",
+      "transliteration": "",
+      "translation": "Having spoken that way, Indrajith pierced Lakshmana with seven pointed shafts and Hanuman with ten best of shafts.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "ततःशरशतेनैवसुप्रयुक्तेनवीर्यवान् ।\nक्रोथाव्दिगुणसम्रब्धोनिर्बिभेदविभीषणम् ।।6.89.14।।",
+      "transliteration": "",
+      "translation": "Then valiant Rakshasa, doubly angry pierced well targeted hundred arrows at Vibheeshana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तद्दष्टवेन्द्रजिताकर्मकृतंरामानुजस्तदा ।\nअचिन्तयित्वाप्रहसन्नैतत्किञ्चिदितिब्रुवन् ।।6.89.15।।\nमुमोच च शरान् घोरान् सम्गृह्यनरपुङ्गवः ।\nअभीतवदनःक्रुद्धोरावणिंलक्ष्मणोयुधि ।।6.89.16।।",
+      "transliteration": "",
+      "translation": "Then Lakshmana, the foremost among men, seeing Indrajith not minding his action even a little, laughing said,\" these arrows are not causing even a little pain.\" Then fearless Lakshmana discharged a dreadful arrow at Indrajith.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "नैवंरणगताःशूराःप्रहरन्तिनिशाचर ।\nलघवश्चाल्पवीर्याश्चशरासुखास्तवहीमे ।।6.89.17।।",
+      "transliteration": "",
+      "translation": "\"O Night ranger! Heroes coming for war do not strike this way. These arrows are weak, so not painful but conducive.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "नैवंशूरास्तुयुध्यन्तेसमरेजयकाङ्क्षिणः ।\nइत्येवंतंब्रुवाणस्तुधन्वीशरैरभिववर्ष ह ।।6.89.18।।",
+      "transliteration": "",
+      "translation": "\"Heroes seeking victory in that way do not fight\". Thus speaking, Lakshmana rained arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "स्यबाणैस्सुविध्वस्तंकवचंकाञ्चनंमहत् ।\nव्यशीर्यतरथोपस्थेताराजालमिव्बारात् ।।6.89.19।।",
+      "transliteration": "",
+      "translation": "Shattered by the arrows, the shield of Indrajith covered with gold dropped in the chariot like a mass of stars from the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "विधूतवर्मानाराचैर्भभूव स कृतव्रणः ।\nइन्द्रजित्समरेवीरःप��रत्यूषेभानुमानिव ।।6.89.20।।",
+      "transliteration": "",
+      "translation": "Indrajith's shield shattered by the iron arrows, (of Lakshmana) in the combat, he seemed (bathed in blood) like the morning Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "ततःशरसहस्रेणसङ्क्रुद्धोरावणात्मजः ।\nबिभेदसमरेवीरोलक्ष्मणंभीमविक्रमः ।।6.89.21।।",
+      "transliteration": "",
+      "translation": "Then enraged Ravana's son endowed with terrific valour pierced Lakshmana with a thousand arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "व्यशीर्यतमहद्धिव्यंकवचंलक्ष्मणस्य च ।\nकृतप्रतिकृतान्योन्यंबभूवतुरभिद्रुतौ ।।6.89.22।।",
+      "transliteration": "",
+      "translation": "Lakshmana's mighty and wonderful shield also got shattered. Both took offense as well as retaliated each other moving swiftly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "अभीक्ष्णंनिश्श्वसन्तौतौयुध्येतांतुमुलंयुधि ।\nशरसङ्कृत्तसर्वाङ्गौसर्वतोरुधिरोक्षितौ ।।6.89.23।।",
+      "transliteration": "",
+      "translation": "Wounded all over the body in war and bathed in blood, breathing heavily again and again both of them fought vehemently.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "सुदीर्घकालंतौवीरावन्योन्यनिशितैःशरैः ।\nततक्षतुर्महात्मानौरणकर्मविहारदौ ।।6.89.24।।",
+      "transliteration": "",
+      "translation": "Both heroes, being experts in fighting, tore each other with sharp arrows for long.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "बभूवतुश्चात्मजयेयत्तौभीमपराक्रमौ ।\nतौशरौघैस्तदाकीर्णौनिकृत्तकवचध्वजौ ।।6.89.25।।\nसृजन्तौरुधिरंचोष्णंजलंप्रस्रवणाविव ।",
+      "transliteration": "",
+      "translation": "Both of them of terrible valour, each of them wanting to win, moving together their armour and standards torn, started emitting hot blood from their body like waterfalls gushing out.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "शरवर्षंततोघोरंमुञ्चतोर्भीमनिःस्वनम् ।।6.89.26।।\nसासारयोरिवाकाशेनीलयोःकालमेघयोः ।\nतयोरथमहान्कालोव्यत्ययाद्युध्यमानयोः ।।6.89.27।।\nन च तौयुद्धवैमुख्यंश्रमंवाप्युपजग्मतुः ।",
+      "transliteration": "",
+      "translation": "Just as dark clouds rain from the sky at the time of dissolution, the dreadful rain of arrows set free from the bows of both Lakshmana and Indrajith caused terrific sound. Both of them fought for long and did not turn back from the battlefield or experienced any fatigue",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "अस्त्राण्यस्त्रविदांश्रेष्ठौदर्शयन्तौपुनःपुनः ।।6.89.28।।\nशरानुच्छावचाकारानन्तरिक्षेबबन्धतुः ।",
+      "transliteration": "",
+      "translation": "Both of them, the best warriors, displaying their weapons again and again looking at the sky covered it with a network of arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "न्यपेतदोषमस्यन्तौलघुचित्रं च सुष्ठु च ।।6.89.29।।\nउभौतुतुमुलंघोरंचक्रतुर्नरराक्षसौ ।",
+      "transliteration": "",
+      "translation": "Both human and Rakshasa warriors fought an exceedingly frightening and dreadful fight over one another with agility without wasting a single arrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "तयोःपृथक् पृथभगीमश्शुश्रुवेतलनिस्स्वनः ।।6.89.30।।\nप्रकम्पयन्जनंघोरोनिर्घातइवदारुणः ।",
+      "transliteration": "",
+      "translation": "The fierce and tumultuous impact of the sound produced by their palms (clappings) could be heard separately. It was like a violent wind that had shaken.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "सतयोःभ्राजतेशब्दस्तदासमरयत्तयोः ।।6.89.31।।\nसुघोर���ोर्निष्टनतोर्गगनेमेघयोरिव ।",
+      "transliteration": "",
+      "translation": "When both of them were thus fighting, the exceedingly frightening sound that was heard was like the murmur of clouds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "सुवर्णपुङ्खैर्नाराचैर्बलवन्तौकृतव्रणौ ।।6.89.32।।\nप्रसुस्रुवातेरुधिरंकीर्तिमन्तौजयेधृतौ ।",
+      "transliteration": "",
+      "translation": "Glorious and powerful heroes, determined to win over each other, wounded by the gold covered iron arrows were bleeding profusely.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "तेगात्रयोर्निपतितारुक्मपुङ्खाःशरायुधि ।।6.89.33।।\nअसृदगिग्धाविनिष्पेतुर्विविशुर्धरणीतलम् ।",
+      "transliteration": "",
+      "translation": "In the battle the gold covered arrows fell on their body, dropped out and penetrated into the earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "अन्येसुनिशितैश्शस्त्रैराकाशेसञ्जघट्टिरे ।।6.89.34।।\nबभञ्जुश्चिच्छिदुश्चैवतयोर्बाणाःसहस्रशः ।",
+      "transliteration": "",
+      "translation": "The other pointed arrows of both clashed with weapons in the sky in thousands, shattered and tore them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "सबभूवरणेघोरस्तयोर्बाणमयश्चयः ।।6.89.35।।\nअग्निभ्यामिवदीप्ताभ्यांसत्रेकुशमयश्चयः ।",
+      "transliteration": "",
+      "translation": "In the battle the terrific arrows appeared to the eyes like kusa grass spread by the sacred fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "तयोःकृतव्रणौदेहौशुशुभातेमहात्मनोः ।।6.89.36।।\nसुपुष्पाविवनिष्पत्रौवनेशाल्मलिकिंशुकौ ।",
+      "transliteration": "",
+      "translation": "The wounded bodies of the great heroes, shone like the Kimsuka and Cotton blossoms in the forest, swore off their leaves.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "चक्रतुस्तुमुलंघोरंसन्निपातंमुहुर्मुहुः ।।6.89.37।।\nइन्द्रजिल्लक्ष्मणश्चैवपरस्परवधैषिणौ ।",
+      "transliteration": "",
+      "translation": "Indrajith and Lakshmana again and again carried out tumultuous and dreadful struggle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "लक्ष्मणोरावणिंयुद्धेरावणिश्चापिलक्ष्मणम् ।।6.89.38।।\nअन्योन्यंतावभिघ्नन्तौ न श्रमंप्रतिपद्यताम् ।",
+      "transliteration": "",
+      "translation": "In the battle Lakshmana and Indrajith striking each other had not experienced fatigue.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "बाणजालैश्शरीरस्थैरवगाढैस्तरस्विनौ ।।6.89.39।।\nशुशुभातेमहावीर्यौप्ररूढाविवपर्वतौ ।",
+      "transliteration": "",
+      "translation": "Great heroes, endowed with speed with a network of arrows pierced on the bodies shone like mountains overgrown with trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "तयोरुधिरसिक्तानिसम्वृतान्तिशरैर्भृशम् ।।6.89.40।।\nबभ्राजुःसर्वगात्राणिज्वलन्तइवपावकाः ।",
+      "transliteration": "",
+      "translation": "Both of them, bodies wet with blood and covered with arrows were glowing like fire and appeared bright.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "तयोरथमहान् कालोव्यतीयाद्युध्यमानयोः ।।6.89.41।।\nन च तौयुद्धवैमुख्यंश्रमंवाप्युपजग्मतुः ।",
+      "transliteration": "",
+      "translation": "Even though both, Ravana's son, and Lakshmana, fought for a long time they neither turned away from battle or experienced fatigue.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-89-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "अथसमरपरिश्रमंनिहन्तुंसमरमुखेष्वजितस्यलक्ष्मणस्य ।\nप्रियहितमुपपादयन्महौत्मास्समरमुपेत्यविभीषणोऽवतस्थे ।।6.89.42।।",
+      "transliteration": "",
+      "translation": "Thereafter, Vibheeshana the great self and army chief, intending welfare of Lakshmana who was invincible in battle reached there to relieve him of his fatigue and stood. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेएकोननवतितमस्सर्गः ।। This is the end of the eighty ninth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

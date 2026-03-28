@@ -1,0 +1,234 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 118,
+    "title": "Rama describes to Sita his efforts to succeed with a valiant friend and tells her in a discomforting manner to go wherever.",
+    "titleSanskrit": "",
+    "totalShlokas": 24
+  },
+  "shlokas": [
+    {
+      "id": "v6-118-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तांतुपाश्वस्थितांप्रह्वांरामस्सम्प्रेक���ष्यमैथिलीम् ।\nहृदयान्तर्गतंक्रोधव्याहर्तुमुपचक्रमे ।।6.118.1।।",
+      "transliteration": "",
+      "translation": "Observing Mythili who stood near him, Rama started to give expression to what was in his heart.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-118-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "एषासिनिर्जिताभद्रेशत्रुंजित्वारणाजिरे ।\nपौरुषाद्यदनुष्ठेयंमयैतदुपपादितम् ।।6.118.2।।",
+      "transliteration": "",
+      "translation": "\"O Auspicious Sita! You are won by destruction of the enemy in the battlefield. What was worth doing has been done with all my effort.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-118-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "गतोऽस्म्यन्तममर्षस्यधर्षणासम्प्रमार्जिता ।\nअवमानश्चशत्रुश्चयुगपन्निहतौमया ।।6.118.3।।",
+      "transliteration": "",
+      "translation": "\"I have put an end to the indignity that I lost. I gained reward for the insult. The indignity offered by the enemy has been wiped out all at once.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-118-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "अद्यमेपौरुषंदृष्टमद्यमेसफल्श्रमः ।\nअद्यतीर्णप्रतिज्ञोऽत्वाप्रभवाम्यद्यचात्मनः ।।6.118.4।।",
+      "transliteration": "",
+      "translation": "\"Now you see the result of my effort. I am successful and fulfilled my vow. Today I am independent.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-118-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "यात्वंविरहितानीताचलचित्तेनरक्षसा ।\nदैवसम्पादितोदोषोमानुषेणमयाजितः ।।6.118.5।।",
+      "transliteration": "",
+      "translation": "\"When you were alone you were abducted by the fickle minded Rakshasa. The fault of destiny has been won by me, a mortal by the will of god।।\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-118-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "सम्प्राप्तमवमानंयस्तेजसा न प्रमार्जति ।\nकस्तस्यपुरुषार्थोमहताप्यल्पचेतसः ।।6.118.6।।",
+      "transliteration": "",
+      "translation": "\"What is the purpose of might however great he might be, if he is petty minded and does not wipe off the insult?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-118-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "लङ्घनं च समुद्रस्यलङ्कायाश्चापिमर्धनम् ।\nसफलंतस्य च श्लाघ्यमद्यकर्महनूमतः ।।6.118.7।।",
+      "transliteration": "",
+      "translation": "\"Hanuman's leaping across the ocean and devastating action of Lanka has yielded results now.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-118-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "युद्धेविक्रमतश्चैवहितंमन्त्रयतस्तथा ।\nसुग्रीवस्यससैन्यस्यसफलोऽद्यपरिश्रमः ।।6.118.8।।",
+      "transliteration": "",
+      "translation": "\"The prowess of Sugriva and also his army, his good advice and efforts in combat have become successful.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-118-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "विभीषणस्य च तथासफलोऽद्यपरिश्रमः ।\nविगुणंभ्रातरंत्यक्त्वायोमांस्वयमुपस्थितः ।।6.118.9।।",
+      "transliteration": "",
+      "translation": "\"In the same way even Vibheeshana's hard work leaving his brother devoid of good qualities and coming to me on his own has given success.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-118-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "इत्येवंवदत्श्रुत्वासीतारामस्यतद्वचः ।\nमृगीवोत्फुल्लनयनाबभूवाश्रुपरिप्लुता ।।6.118.10।।",
+      "transliteration": "",
+      "translation": "Sita's broad eyes which were like that of female deer were filled with tears on hearing the words of Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-118-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "पश्यतस्तांतुरामस्यसमीपेहृदयप्रियाम् ।\nजनवादभयाद्राज्ञोबभूवहृदयंद्विधा ।।6.118.11।।",
+      "transliteration": "",
+      "translation": "Rama was already hurt and on seeing Sita who was dear to his heart nearby, he was burning with the fear of public opinion.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-118-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "सीतामुत्पलपत्राक्षींनीलकुञ्चितमूर्थजाम् ।\nअवदद्वैवरारोहंमध्येवानररक्षसाम् ।।6.118.12।।",
+      "transliteration": "",
+      "translation": "In the midst of Vanaras and Rakshasas, Rama spoke with great discomfort to Sita whose eyes were like lotus petals and hair was dark and curly and whose limbs were beautiful.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-118-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "यत्कर्तव्यंमनुष्येणधर्षणांप्रतिमार्जता ।\nतत्कृतंरावणंहत्वामयेदंमानकाङ्क्षिणा ।।6.118.13।।",
+      "transliteration": "",
+      "translation": "\"That which my mind desired as a duty of a human being, to get rid of the insult has been done by killing Ravana.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-118-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "निर्जिताजीवलोकस्यतपसाभावितात्मना ।\nअगस्त्येनदुराधर्षामुनिनादक्षिणेवधिक् ।।6.118.14।।",
+      "transliteration": "",
+      "translation": "\"Though the southern quarter is difficult to assail for the world of mortals, Agastya, a realized sage, has won by the power of his austerity. In the same way I have won you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-118-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "विदितश्चास्तुभत्रंतेयोऽयंरणपरिश्रमः ।\nसुतीर्णःसुहृदांवीर्यान्नत्वदर्थंमयाकृतः ।।6.118.15।।\nरक्षतातुमयावृत्तपमवादं च सर्वतः ।\nप्रख्यातस्यात्मवंशस्यव्यङ्ग्यं च परिमार्जता ।।6.118.16।।",
+      "transliteration": "",
+      "translation": "\"Sita! This effort in carrying out with the assistance of valiant friends is not done for your sake. Let it be known to you. I have done this to protect good conduct and my illustrious race from scandal and rid of obloquy from all sides.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-118-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "प्राप्तचारित्रसन्देहाममप्रतिमुखेस्थिता ।\nदीपोनेत्रातुरस्येवप्रतिकूलासिमेदृढम् ।।6.118.17।।",
+      "transliteration": "",
+      "translation": "\"In the event of doubtful conduct also you are standing firmly like a glowing lamp for me suffering from sore eyes and disagreeable to me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-118-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तद्गच्छत्वानुजानेऽद्ययथेष्टंजनकात्मजे ।\nएतादशदिशोभद्रेकार्यमस्ति न मेत्वया ।।6.118.18।।",
+      "transliteration": "",
+      "translation": "\"O Janaka's daughter! therefore now you are permitted to go wherever to any quarter. Let you be auspicious. I have no work with you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-118-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "कःपुमांस्तुकुलेजातस्स्त्रयंपरगृहाषिताम् ।\nतेजस्वीपुनरादद्यात्सुहृल्लेख्येनचेतसा ।।6.118.19।।",
+      "transliteration": "",
+      "translation": "\"Which eminent man born in a good race will again consciously accept a wife who lived in another's home?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-118-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "रावणाङ्कपरिक्ल���ष्टांदृष्टांदुष्टेनचक्षुषा ।\nकथंत्वापुनरादद्यांकुलंव्यपदिशन् महत् ।।6.118.20।।",
+      "transliteration": "",
+      "translation": "\"You are thrown out of the arms of Ravana. You have been seen by him with lustful eyes, have been seen by all with evil eyes. How can one born in a great race accept you again?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-118-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तदर्थंनिर्जितामेत्वंयशःप्रत्याहृतंमया ।\nनास्तिमेत्यय्यभिष्वङ्गोयथेष्टंगम्यतामितः ।।6.118.21।।",
+      "transliteration": "",
+      "translation": "\"The reason for winning you back is to get rid of the insult. Now I have no interest in you. You may go to the place of your choice.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-118-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तदद्यव्याहृतंभद्रेमयैतत् कृतबुधदिना ।\nलक्ष्मणेनाथभरतेकुरुबुधदिंयथासुखम् ।।6.118.22।।",
+      "transliteration": "",
+      "translation": "\" Auspicious one! This utterance has been thought over well today. You may go wherever you find happiness, either to Lakshmana or else to Bharata. Think well and do.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-118-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "शत्रुघ्नेवाथसुग्रीवेराक्षसेवाविभीषणे ।\nनिवेशयमनस्सीतेयथावासुखमात्मनः ।।6.118.23।।",
+      "transliteration": "",
+      "translation": "\"Sita! You can go to Shatrughna or else Sugriva or even Rakshasa Vibheeshana, wherever you feel like to live.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-118-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "न हित्वांरावणोदृष्टवादिव्यरूपांमनोरमाम् ।\nमर्षयेतचिरंसीतेस्वगृहेपर्यवस्थिताम् ।।6.118.24।।",
+      "transliteration": "",
+      "translation": "\"Sita! You are endowed with beauty and having you in his own house for so long and seeing you, how Ravana could have resisted or detained you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-118-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "ततःप्रियार्हश्रवणातदप्रियंप्रियादुपश्रुत्यचिरस्यमैथिली ।\nमुमोचबाष्पंसुभृशंप्रवेपितागजेन्द्रहस्ताभिहतेवसल्लकी ।।6.118.25।।",
+      "transliteration": "",
+      "translation": "Then having heard unpalatable words from her beloved, Mythili wept, quivering excessively shedding tears for long and was like a creeper struck by a Lordly elephant. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेअष्टादशोत्तरशततमस्सर्गः ।। This is the end of one hundred eighteenth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

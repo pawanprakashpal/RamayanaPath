@@ -1,0 +1,396 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 31,
+    "title": "Rama's army takes position. Ravana seeks advice from his ministers and goes to Sita to threaten her to state that her husband has been killed and places counterfeit head of Rama by Sita's side.",
+    "titleSanskrit": "",
+    "totalShlokas": 42
+  },
+  "shlokas": [
+    {
+      "id": "v6-31-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततस्तमक्षोभ्यबल���लङ्काधिपतयेचराः ।\nसुवेलेराघवंशैलेनिविष्टंप्रत्यवेदयन् ।।6.31.1।।",
+      "transliteration": "",
+      "translation": "There upon the spies described the unshakeable army of Raghava staying at Suvela mountain, to the king of Lanka.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "चाराणांरावणश्श्रुत्वाप्राप्तंरामंमहाबलम् ।\nजातोद्वेगोऽभवत्किञ्चित्सचिवानिदमब्रवीत् ।।6.31.2।।",
+      "transliteration": "",
+      "translation": "Having heard from the spies that Rama has come with mighty force, Ravana got perturbed and said to the ministers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "मन्त्रिणश्शीघ्रमायान्तुसर्वेवैसुसमाहिताः ।\nअयंनोमन्त्रकालोहिसम्प्रप्ताइतिराक्षसाः ।।6.31.3।।",
+      "transliteration": "",
+      "translation": "\"The time has come for us to call for all the rakshasas and ministers immediately and assemble (said Ravana).\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तस्यतद्वचनंश्रुत्वामन्त्रिणोऽभ्यागमन् द्रुतम् ।\nततस्समन्त्रयामासराक्षसैस्सचिवैस्सह ।।6.31.4।।",
+      "transliteration": "",
+      "translation": "Having been ordered (by Ravana) that way, the ministers along with Rakshasas instantly reached and he started to think with them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "मन्त्रयित्वासदुर्धर्षःक्षमंयत्समनन्तरम् ।\nविसर्जयित्वासचिवान्प्रविवेशस्वमालयम् ।।6.31.5।।",
+      "transliteration": "",
+      "translation": "Thereafter, thinking about what is appropriate to do, unassailable Ravana dispensed his ministers and entered his own residence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "ततोराक्षसमाहूयविद्युज्जिह्वंमहाबलम् ।\nमायाविदंमहामायःप्राविशद्यत्रमैथिली ।।6.31.6।।",
+      "transliteration": "",
+      "translation": "Then Ravana of extraordinary skills sent for Vidyujihvam, a learned one in conjuring tricks and went from there to Mythili.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "विद्युज्जिह्वंचमायाज्ञमब्रवीद्राक्षसाधिपः ।\nमोहयिष्यावहेसीतांमाययाजनकात्मजाम् ।।6.31.7।।",
+      "transliteration": "",
+      "translation": "Rakshasa king Ravana said to Vidyujihvam who knew conjuring tricks, \"We will cheat Sita, daughter of Janaka by a trick.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "शिरोमायामयंगृह्यराघवस्यनिशाचर: ।\nत्वंमांसमुतिष्ठस्वमहच्चसशरंधनुः ।।6.31.8।।",
+      "transliteration": "",
+      "translation": "\"O Night ranger! You make an illusory head of Raghava and come and stand at me holding an arrow with great bow.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "एवमुक्तस्तथेत्याहविद्युज्जिह्वोनिशाचरः ।\nदर्शयामासतांमायांसुप्रयुक्तांसरावणे ।।6.31.9।।\nतस्यतुष्टोऽभवद्राजाप्रददौचविभूषणम् ।",
+      "transliteration": "",
+      "translation": "When the Rakshasa king had spoken that way to Vidyujihvam, he said, \"Be it so.\" Pleased with the dexterous production of Vidyujihvam, Ravana presented to him a beautiful ornament.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अशोकवनिकायांतुसीतादर्शनलालसः ।\nवैरृतानामधिपतिस्संविवेशमहाबलः ।।6.31.10।।",
+      "transliteration": "",
+      "translation": "Eager to have a look at Sita, the mighty king of Rakshasas entered Asoka grove.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "ततोदीनामदैन्यार्हांददर्शधनदानुजः ।।6.31.11।।\nअधोमुखींशोकपरामुपविष्टांमहीतले ।\nभर्तारमेवध्यायन्तीमशोकवविकांगताम् ।।6.31.12।।",
+      "transliteration": "",
+      "translation": "Thereafter, the younger brother of Kubera (Ravana) saw sad Sita, who did not deserve that piteous condition, who had been reduced to sorrowful state, seated on the ground in Asoka grove, with her head bent down filled with sorrow contemplating on her husband alone.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "उपास्यमानांघोराभीराक्षसीभिरितस्ततः ।\nउपसृत्यततस्सीतांप्रहर्षंनामकीर्तयन् ।।6.31.13।।\nइदंचवचनंधृष्टमुवाचजनकात्मजाम् ।",
+      "transliteration": "",
+      "translation": "While she was guarded by dreadful Rakshasa women surrounding her closely, Ravana went near her happily and saw her. He addressed Sita praising her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "सान्त्व्यमानामयाभद्रेयमुपाश्रित्यवल्गसे ।\nखरहन्तासतेभर्ताराघवस्समरेहतः ।।6.31.14।।",
+      "transliteration": "",
+      "translation": "\"O Auspicious one! However, much I have requested you, you did not care for me seeking your husband. Raghava, who killed Khara, has been killed in war.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "छिन्नंतेसर्वतोमूलंदर्पस्तेनिहतोमया ।\nव्यसनेनात्मनस्सीते ममभार्याभविष्यसि ।।6.31.15।।",
+      "transliteration": "",
+      "translation": "\"O Sita! All your roots have been crushed by me. Give up your vanity. By your own accord, you become my wife.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "विसृजेमांमतिंमू���े: किंमृतेनकरिष्यसि ।\nभवस्वभद्रे: भार्याणांसर्वेसामीश्वरीमम ।।6.31.16।।",
+      "transliteration": "",
+      "translation": "\"O Foolish one! Give up these thoughts from your mind. What will you do with your deceased husband? O auspicious one! You are the queen of all my wives.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अल्पपुण्ये: निवृत्तार्थे: मूढे: पण्डितमानिनि: ।\nशृणुभर्तृवधंसीते: घोरंवृत्रवधंयथा ।।6.31.17।।",
+      "transliteration": "",
+      "translation": "\"O woman of less merit! You are one who has given up all worldly actions. Stupid one! You pretend as if you know everything. O Sita! Hear about your husband 's death like that of Vrthasura.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "समायातस्समुद्रान्तंमांहन्तुंकिलराघवः ।\nवानरेन्द्रप्रणीतेनबलेनमहतावृतः ।।6.31.18।।",
+      "transliteration": "",
+      "translation": "\"Raghava led by the huge army force of the Vanara king has arrived on the seashore.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "सन्निविष्टस्समुद्रस्यपीड्यतीरमथोत्तरम् ।\nबलेनमहतारामोव्रजत्यस्तंदिवाकरे ।।6.31.19।।",
+      "transliteration": "",
+      "translation": "And when the Sun moved towards the west, Rama encamped on the northern shore of the sea with a huge army to strike.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "अथाध्वनिपरिश्रान्तमर्धरात्रेस्थितंबलम् ।\nसुखसुप्तंसमासाद्यचारित्रंप्रथमंचरैः ।।6.31.20।।",
+      "transliteration": "",
+      "translation": "After having walked all the way they slept well and when they were sleeping at midnight, we found out all about them by sending prime spies.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तत्प्रहस्तप्रणीतेनबलेनमहतामम ।\nबलमस्यहतंरात्रौयत्ररामस्सलक्ष्मणः ।।6.31.21।।",
+      "transliteration": "",
+      "translation": "\"There in that camp Lakshmana and Rama are killed by my powerful army led by Prahastha at night.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "पट्टसान्परिघांश्चक्रान्दण्डान्महायशान् ।\nबाणजालानिशूलानिभास्वरान्कूटमुद्गरान् ।।6.31.22।।\nयष्टीश्चतोमरान् शक्तीश्चक्राणिमुसलानिच ।\nउद्यम्योद्यम्यरक्षोभिर्वानरेषुनिपातितां ।।6.31.23।।",
+      "transliteration": "",
+      "translation": "Again, and again lifting spears, iron bars, javelins, huge staffs, sparkling maces, shining iron mallets and clubs, lances and strong Musalas, the Rakshasas hurled at Vanaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "अथसुप्तस्यरामस्यप्रहस्तेनप्रमाथिना ।\nअसक्तंकृतहस्तेनशिरश्छिन्नंमहासिना ।।6.31.24।।",
+      "transliteration": "",
+      "translation": "\"There after the head of Rama, who was sleeping, was severed by Prahastha, skilled at striking, with a big sword without any feeling of attachment.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "विभीषणस्समुत्पत्यनिगृहीतोयदृच्छया ।\nदिशःप्रव्राजितस्सर्वैस्सर्लक्ष्मणःप्लवगैस्सहा ।।6.31.25।।",
+      "transliteration": "",
+      "translation": "\"When Vibheeshana rose up he was caught by chance. Lakshmana and Vanaras fled in all directions.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "सुग्रीवोग्रीनयासीतेभग्नयाप्लवगाधिपः ।\nनिरस्तहनुकश्शेतेहनुमान्राक्षसैर्हतः ।।6.31.26।।",
+      "transliteration": "",
+      "translation": "\"O Sita! Vanara Lord Sugriva with his neck broken, Hanuman with chin broken were killed by Rakshasas and are lying down fallen on the ground.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "जाम्बवानथजानुभ्यामुत्पतन्निहतोयुधि ।\nपट्टसैर्बहुभिश्छिन्नोनिकृत्तःपादपोयथा ।।6.31.27।।",
+      "transliteration": "",
+      "translation": "And while Jambavan was rising on his knees, he was struck by many iron bars in comb at and had fallen down like a tree.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "मैन्दश्चद्विविदश्चोभौनिहतौवानरर्षभौ ।।6.31.28।।\nनिश्श्वसन्तौरुदन्तौचरुधिरेणसमुक्षितौ ।\nअसिनाव्यायतौछिन्नौमध्येह्यरिनिषूदनौ ।।6.31.29।।",
+      "transliteration": "",
+      "translation": "\"Mainda and Dwivida of huge bodies, who are slayers of enemies, the bulls among Vanaras are breathing hard, and bathed in blood roaring, having been cutin the middle of their body.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "अनुतिष्ठतिमेदिन्यांपनसःपनसोयथा ।।6.31.30।।\nनाराचैर्बहुभिश्चिन्नश्शेतेदर्यांदरीमुखः ।\nकुमुदस्तुमहातेजानिष्कूजन्सायकै: कृतः ।।6.31.31।।",
+      "transliteration": "",
+      "translation": "\"Panasa is lying down on earth like jackfruit. Darimukha is lying down shattered by many arrows. Brilliant Kumuda too is torn off and silently lying down.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "अङ्गदोबहुभिश्छिन्नश्शरैरासाद्यराक्षसैः ।\nपतितोरुधिरोद्गारीक्षितौनिपतिताङ्गदः ।।6.31.32।।",
+      "transliteration": "",
+      "translation": "\"By the many arrows of Rakshasas reaching towards Angada, he lies down chopped up and destroyed, with his armlets dropped down throwing up blood.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "हरयोमथितानागैरथजातैस्तथापरे ।\nशयितामृदिताश्चाश्वैर्यायुवेगैरिवाम्बुदाः ।।6.31.33।।",
+      "transliteration": "",
+      "translation": "\"There, some of the sleeping Vanaras were crushed by elephants, so also, just as by the speed of wind the clouds are crushed the Vanaras are crushed to death.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "प्रहृताश्चपरेत्रस्ताहस्यमानाजघन्यतः ।\nअभिद्रुतास्तुरक्षोभिस्सिंहैरिवमहाद्विपाः ।।6.31.34।।",
+      "transliteration": "",
+      "translation": "\"Some were followed behind as they were speeding like lions and mighty elephants afflicted and frightened, struck by Rakshasas.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "सागरेपतिताःकेचित्केचिग्दगनमाश्रिताः ।\nऋक्षावृक्षानुपारूढावानरींवृत्तिमाश्रिताः ।।6.31.35।।",
+      "transliteration": "",
+      "translation": "\"While a few Vanaras dived into the sea, some took refuge in the sky. Resorting to their natural way the Bears climbed the trees.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "सागरस्यचतीरेषुशैलेषुचवनेषुच ।\nपिङ्गलास्तेविरूपाक्षैर्बहुभिर्बहवोहताः ।।6.31.36।।",
+      "transliteration": "",
+      "translation": "\"Many fierceeyed Rakshasas killed several Vanaras on the shore of the ocean, in the mountains and woods.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "एवंतवहतोभर्ताससैन्योममसेनया ।\nक्षतजार्द्रंरजोध्वस्तमिदंचस्याहृतंशिरः ।।6.31.37।।",
+      "transliteration": "",
+      "translation": "\"In that way the army of your husband has been killed by Rakshasa army and his decayed head drenched in blood covered with dust has been brought.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "ततःपरमदुर्धर्षोरावणोराक्षसेश्वरः ।\nसीतायामुपशन्त्यांराक्षसीमिदमब्रवीत् ।।6.31.38।।",
+      "transliteration": "",
+      "translation": "Then Ravana, the highly unassailable king of Rakshasas spoke these words to the hearing of Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "राक्षसंक्रूरकर्माणंविद्युज्जिह्वंत्वमानय ।\nयेनतद्राघवशिरस्सङ्ग्रामात्स्वयमाहृतम् ।।6.31.39।।",
+      "transliteration": "",
+      "translation": "\"Bring that Rakshasa, Vidyujihvam of cruel deeds who brought Rama's head from the battlefield.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "विद्युज्जिह्वस्ततोगृह्यशिरस्तत्सशरासनम् ।\nप्रणामंशिरसाकृत्वारावणस्याग्रतस्थितः ।।6.31.40।।",
+      "transliteration": "",
+      "translation": "Then holding the head along with the bow, Vidyujihvam bowed his head down in salutation and stood in front of Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "तमब्रवीत्ततोराजारावणोराक्षसंस्थितम् ।\nविद्युज्जिह्वंमहाजिह्वंसमीपपरिवर्तिनम् ।।6.31.41।।",
+      "transliteration": "",
+      "translation": "Then the king, Ravana spoke to Vidyujihvam, the Rakshasa with extended tongue, who stood close by.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "अग्रतःकुरुसीतायाश्शीघ्रंदाशरधेशशिरः ।\nअवस्थांपश्चिमांभर्तुःकृपणासाधुपश्यतु ।।6.31.42।।",
+      "transliteration": "",
+      "translation": "At once place the head of Dasaratha's son before that piteous woman. Let her see the ultimate status attained by her husband at the end (said Ravana).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "एवमुक्तंतुतद्रक्षशशिरस्तत्प्रियदर्शनम् ।\nउपनिक्षिप्यसीतायाःक्षिप्रमन्तरधीयत ।।6.31.43।।",
+      "transliteration": "",
+      "translation": "Having spoken immediately placed the head of Rama that was pleasing to see, by the side of Sita and went away.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "रावणश्चापिचिक्षेपभस्वरंकार्मुकंमहत् ।\nत्रिषुलोकेषुविख्यातंसीतामिदमुवाचह ।।6.31.44।।",
+      "transliteration": "",
+      "translation": "Thus addressed Ravana casting down the bright great bow that is famous in the three worlds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "इदंतुतवरामस्यकार्मुकंज्यासमायुतम् ।\nइहप्रहस्तेनानीतंहत्वातंनिशिमानुषम् ।।6.31.45।।",
+      "transliteration": "",
+      "translation": "\"Prahastha has brought this bow duly tied with the string after killing human Rama in the night.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-31-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "सविद्युज्जिह्वेनसहैवतच्छिरोधनुश्चभूमौविनिकीर्यरावणः ।\nविदेहराजस्यसुतांयशस्विनींततोऽब्रवीत्तांभवमेवशानुगा ।।6.31.46।।",
+      "transliteration": "",
+      "translation": "Then Ravana placing that head brought by Vidyujihvam and the famous bow on the ground said to the daughter of the king of Videha, \"Now you may submit to my will.\" ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेएकत्रिंशस्सर्गः ।। This is the end of the thirty first sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

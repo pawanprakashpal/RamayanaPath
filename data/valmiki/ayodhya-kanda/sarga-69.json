@@ -1,0 +1,189 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 69,
+    "title": "Bharata experiences unhappiness over a distressing and frightening dream.",
+    "titleSanskrit": "",
+    "totalShlokas": 19
+  },
+  "shlokas": [
+    {
+      "id": "v2-69-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "यामेव रात्रिं ते दूताः प्रविशन्ति स्म तां पुरीम्।\nभरतेनापि तां रात्रिं स्वप्नो दृष्टोऽयमप्रियः।।2.69.1।।",
+      "transliteration": "",
+      "translation": "On the very night the messengers were entering the city, Bharata had a distressing dream.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-69-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "व्युष्टामेव तु तां रात्रिं दृष्ट्वा तं स्वप्नमप्रियम्।\nपुत्रो राजाधिराजस्य सुभृशं पर्यतप्यत।।2.69.2।।",
+      "transliteration": "",
+      "translation": "The son of the king of kings (Bharata) felt extremely troubled hen he had an  unpleasant dream at dawn.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-69-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "तप्यमानं समाज्ञाय वयस्याः प्रियवादिनः।\nआयासं हि विनेष्यन्त स्सभायां चक्रिरे कथाः।।2.69.3।।",
+      "transliteration": "",
+      "translation": "Observing him griefstricken his peers who always spoke pleasant words, engaged him in a variety of ways in the assembly in order to divert him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-69-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "वादयन्ति तथा शान्तिं लास यन्त्यपि चापरे।\nनाटकान्यपरे प्राहुर्हास्यानि विविधानि च।।2.69.4।।",
+      "transliteration": "",
+      "translation": "In order to provide mental peace to Bharata, some played stringed instruments while some enacted dramatic scenes, some danced and cracked various kinds of jokes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-69-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "स तैर्महात्मा भरतस्सखिभिः प्रियवादिभिः।\nगोष्ठीहास्यानि कुर्वद्भिर्न प्राहृष्यत राघवः।।2.69.5।।",
+      "transliteration": "",
+      "translation": "The magnanimous Bharata born in the race of Raghus, was not delighted by the conversations and jokes and soothing words of his friends.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-69-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तमब्रवीत्प्रियसखो भरतं सखिभिर्वृतम्।\nसुहृद्भिः पर्युपासीनः किं सखे नानुमोदसे।।2.69.6।।",
+      "transliteration": "",
+      "translation": "Addressing Bharata amidst his companions some one close among them said O friend why are you dejected in spite of being in the company of friends.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-69-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "एवं ब्रुवाणं सुहृदं भरतः प्रत्युवाच ह।\nश्रुणु त्वं यन्निमित्तं मे दैन्यमेतदुपागतम्।।2.69.7।।",
+      "transliteration": "",
+      "translation": "Addressing his companion who was speaking thus, Bharata replied, saying Listen to the reason this desolation has overtaken me:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-69-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "स्वप्ने पितरमद्राक्षं मलिनं मुक्त मूर्धजम्।\nपतन्तमद्रिशिखरात्कलुषे गोमयह्रदे।।2.69.8।।",
+      "transliteration": "",
+      "translation": "In my dream I saw my father looking pale, with dishevelled hair, his body filled with filth falling from the peak of a mountain into a pool of cow  dung.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-69-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "प्लवमानश्च मे दृष्टस्स तस्मिन्गोमयह्रदे।\nपिबन्नञ्जलिना तैलं हसन्नपि मुहुर्मुहुः।।2.69.9।।",
+      "transliteration": "",
+      "translation": "I saw my father floating in that pool of cow  dung, drinking oil with cupped palms and  bursting into laughter again and again.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-69-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "ततस्तिलौदनं भुक्त्वा पुनः पुनरधश्शिराः।\nतैलेनाभ्यक्तसर्वाङ्गः तैलमेवान्वगाहत।।2.69.10।।",
+      "transliteration": "",
+      "translation": "Thereafter I beheld him eating rice cooked with sesame seeds, his body besmeared with oil plunging again and again into it (the pool).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-69-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "स्वप्नेऽपि सागरं शुष्कं चन्द्रं च पतितं भवि।\nउपरुद्धां च जगतीं तमसेव समावृताम्।।2.69.11।।\nऔपवाह्यस्य नागस्य विषाणं शकलीकृतम्।\nसहसाचापि संशान्तं ज्वलितं जातवेदसम्।।2.69.12।।\nअवतीर्णां च पृथिवीं शुष्कां श्च विविधान् द्रुमान्।\nअहं पश्यामि विध्वस्तान् सधूमांश्चापि पर्वतान्।।2.69.13।।",
+      "transliteration": "",
+      "translation": "In that dream I beheld the sea being dried up and the Moon fallen onto the ground. I saw the earth as though enveloped by darkness and obscured, the tusk of an  elephant worthy of a ride by the monarch broken into pieces, a blazing fire  extinguished suddenly, the earth split open, various trees dried up and mountains crumbled and covered with smoke.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-69-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "पीठे कार्ष्णायसे चैनं निषण्णं कृष्णवाससम्।\nप्रहसन्ति स्म राजानं प्रमदाः कृष्णपिङ्गलाः।।2.69.14।।",
+      "transliteration": "",
+      "translation": "In the dream, I beheld my father clad in black clothes and resting on a seat made of iron and the women in dark and brownish complexion laughing at him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-69-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "त्वरमाणश्च धर्मात्मा रक्तमाल्यानुलेपनः।\nरथेन खरयुक्तेन प्रयातो दक्षिणामुखः।।2.69.15।।",
+      "transliteration": "",
+      "translation": "Thereafter, I beheld that virtuous monarch bedecked with garlands made of red flowers and his body bedaubed with red sandalpaste, hurrying off southward on a chariot yoked with asses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-69-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "प्रहसन्तीव राजानं प्रमदा रक्तवासिनी।\nप्रकर्षन्ती मया दृष्टा राक्षसी विकृतानना।।2.69.16।।",
+      "transliteration": "",
+      "translation": "Finally I beheld a demoness attired in red clothes with an ugly appearance, dragging the king away as if mocking at him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-69-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "एवमेतन्मया दृष्टमिमां रात्रिं भयावहम्।\nअहं रामोऽथवा राजा लक्ष्मणो वा मरिष्यति।।2.69.17।।",
+      "transliteration": "",
+      "translation": "I had such a frightful dream last night. Either I, Rama, the king or Lakshmana might  die.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-69-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "नरो यानेन य स्स्वप्ने स्वरयुक्तेन याति हि।\nअचिरात्तस्य धूमाग्रं चितायां सम्प्रदृश्यते।।2.69.18।।",
+      "transliteration": "",
+      "translation": "If one beholds in a dream a person setting out on a carriage yoked to asses, the wreath of smoke ascending from his funeral pyre will be seen soon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-69-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "एतन्निमित्तं दीनोऽहं तन्नवः प्रतिपूजये।\nशुष्यतीव च मे कण्ठः न स्वस्थमिव मे मनः।।2.69.19।।",
+      "transliteration": "",
+      "translation": "So it is for this reason that I am desolate and cannot respond well to your conversation. It appears as if my throat is getting parched up and my mind is illdisposed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-69-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "न पश्यामि भयस्थानं भयं चैवोपधारये \nभ्रष्टश्च स्वरयोगो मे छाया चोपहता मम।\nजुगुप्सन्निव चाऽत्मानं न पश्यमि च कारणम्।।2.69.20।।",
+      "transliteration": "",
+      "translation": "I do not see any reason for apprehension but I experience only fear. My voice has degenerated. My appearance looks haggard. Without any reason whatsoever I detest myself.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-69-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "इमां च दुस्स्वप्नगतिं निशाम्यतामनेकरूपामवितर्कितां पुरा।\nभयं महत्तद्धृदयान्नयाति मे विचिन्त्य राजानमचिन्तदर्शनम्।।2.69.21।।",
+      "transliteration": "",
+      "translation": "On observing the course of this nightmare, with all those images formerly unconceived and having thought of the king's incomprehensible presence, a great fear that has gripped my heart does not leave me. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे एकोनसप्ततितमस्सर्गः।। Thus ends the sixtyninth sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,648 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 74,
+    "title": "Instructed by Jambavan, Hanuman goes to Himalayas, gets the herbs along with the hillock. Inhaling the fragrance of the herbs Rama and Lakshmana regain their senses. The Vanaras lying unconscious, are healed by the fragrance, relieved of pain and awakened.",
+    "titleSanskrit": "",
+    "totalShlokas": 70
+  },
+  "shlokas": [
+    {
+      "id": "v6-74-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तयोस्तदासादितयोरणाग्रेमुमोहसैन्यंहरिपुङ्गवानाम् ।\nसु���्रीवनीलाङ्गदजाम्बवन्तो न चापिकिञ्चित्प्रतिपेदिरेते ।।6.74.1।।",
+      "transliteration": "",
+      "translation": "The two brothers (Rama and Lakshmana) become unconscious in the forefront of the battle the monkey leaders lose senses. Sugriva, Neela, Angada and Jambavantha did not know What to do.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "ततोविषण्णंसमवेक्ष्यसैन्यंविभीषणोबुद्धिमतांवरिष्ठः ।\nउवाचशाखमृगराजवीरानाश्वासयन्नप्रतिमैर्वचोभिः ।।6.74.2।।",
+      "transliteration": "",
+      "translation": "Thereafter, foremost among the wise, Vibheeshana observing the despondency of the monkey leaders spoke to them reassuring in incomparable words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "माभैष्टनास्त्यत्रविषादकालोयदार्यपुत्त्रौविवशौविषण्णौ ।\nस्वयम्भुवोवाक्यमथोद्वहन्तौयत्सादिताविन्द्रजिदस्त्रजालैः ।।6.74.3।।",
+      "transliteration": "",
+      "translation": "\"O Noble men! Do not fear. Rama and Lakshmana are afflicted by Indrajith's volley of arrows and have lost senses. They are despondent to honour the statement of the creator not otherwise.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तस्मैतुदत्तंपरमास्त्रमेतत्स्वयम्भुवाब्राह्मममोघवेगम् ।\nतन्मानयन्तौयुधिराजपुत्रौनिपातितौकोऽत्रविषादकालः ।।6.74.4।।",
+      "transliteration": "",
+      "translation": "To him (Indrajith), the creator has conferred this weapon of Brahma endowed with terrific speed. To respect the missile both the princes have fallen. Why do you grieve?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "ब्राह्ममस्त्रंततोधीमान्मानयित्वातुमारुतिः ।\nविभीषणवचश्श्रुत्वाहनूमांस्तमथाब्रवीत् ।।6.74.5।।",
+      "transliteration": "",
+      "translation": "Thereafter, hearing Vibheeshana's words, wise Hanuman spoke this with respect to the missile of Brahma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "एतस्मिन्निहतेसैन्येवानराणांतरस्विनाम् ।\nयोयोधारयतेप्राणांस्तंतमाश्वासयाव ।।6.74.6।।",
+      "transliteration": "",
+      "translation": "\"Whoever is strong among Vanaras, have been struck and are alive breathing among the Vanaras. Let us restore their confidence.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तावुभौयुगपवदीरौहनूमद्राक्षसोत्तमौ ।\nउल्काहस्तौतदारात्रौरणशीर्षेविचेरतुः ।।6.74.7।।",
+      "transliteration": "",
+      "translation": "The two heroes, Hanuman and Vibheeshana, and the foremost of Rakshasas with torch in hand searched for the left over Vanaras in the battlefield.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "भिन्नलाङ्गूलहस्तोरुपादाङ्गुळशिरोधरैः ।\nस्रवद्भिःक्षतजंगात्रैःप्रस्रवद्भिस्ततस्ततः ।।6.74.8।।\nपतितैःपर्वताकारैर्वानरैरभिसङ्कुलाम् ।\nशस्सैश्चपतितैर्दीप्तैर्ददृशातेवसुन्धराम् ।।6.74.9।।",
+      "transliteration": "",
+      "translation": "Two of them saw the ground covered with Vanaras of mountainlike forms, who had fallen with tails cut off, some with broken thighs, broken legs and fingers, necks severed, letting off blood, discharging urine and glowing weapons lying on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "सुग्रीवमङ्गदंनीलंशरभंगन्धमादनम् ।\nगवाक्षं च सुषेणं च वेगदर्शिनमाहुकम् ।।6.74.10।।\nमैन्दंनळंज्योतिमुखंद्विविदंपनसंतथा ।\nविभीषणोहनूमांश्चददृशातेहतान् रणे ।।6.74.11।।",
+      "transliteration": "",
+      "translation": "Vibheeshana and Hanuman saw in the battlefield Sugriva, Angada, Neela, Sarabha, Gandhamadana, Gavaksha, Sushena, Vegadarsi, Ahuka, Mainda, Nala, Jyothimukha, Dwivida and Panasa struck down.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "सप्तषष्टिर्हताःकोट्योवानराणांतरस्विनाम् ।\nअह्नःपञ्चमशेषेणवल्लभेनस्वयम्भुवः ।।6.74.12।।",
+      "transliteration": "",
+      "translation": "By the creator's missile Indrajith struck down sixtyseven crores of strong Vanaras between the fifth and last part of the day.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "सागरौघनिभंभीमंदृष्टवाबाणार्दितंबलम् ।\nमार्गतेजाम्बवन्तंस्मिहनूमान् सविभीषणः ।।6.74.13।।",
+      "transliteration": "",
+      "translation": "Vibheeshana and Hanuman seeing the ocean of Vanara army and the glowing arrows on them, looked for Jambavantha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "स्वभावजरयायुक्तंवृद्धंशरशतैश्चितम् ।\nप्रजापतिसुतंवीरंशाम्यन्तमिवपावकम् ।।6.74.14।।\nदृष्टवातमुपसङ्ग्रम्यपौलस्त्योवाक्यमब्रवीत् ।",
+      "transliteration": "",
+      "translation": "Paulastya (Vibheeshana of Paulastya clan), seeing the son of Prajapathi (Jambavan), who by nature was wise and aged, afflicted by hundreds of arrows, like a cooling fire sacrifice, went close by and spoke these words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "च्चिदार्यशरैस्तीक्ष्णैर्नप्राणाध्वंसितास्तव ।।6.74.15।।\nविभीषणवचश्श्रुत्वाजाम्बवानृक्षपुङ्गवः ।\nकृच्छ्रादभ्युग्द��रन्वाक्यमिदंवचनमब्रवीत् ।।6.74.16।।",
+      "transliteration": "",
+      "translation": "\"O Noble Jambavan! Indeed, your life has not been afflicted with these sharp arrows.\" Hearing this, Jambavan uttered these words with difficulty.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "नैरृतेन्द्रमहावीर्यस्वरेणत्वाऽभिलक्ष्ये ।\nपीड्यमानशशितैर्बाणैर्नत्वापश्यामिचक्षुषा ।।6.74.17।।",
+      "transliteration": "",
+      "translation": "\"Great hero, Vibheeshana! I recognise you by your voice. Pierced with sharp arrows I am not able to see you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "अञ्जनासुप्रजायेनमातरिश्वा च नैरृत ।\nहनुमान् वानरश्रेष्ठःप्राणान् धारयतेक्वचित् ।।6.74.18।।",
+      "transliteration": "",
+      "translation": "Vibheeshana (Rakshasa)! Indeed, Hanuman, the foremost of Vanaras, by whose birth, Anjana and Supraja are blessed as parents, are they alive?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "श्रुत्वाजाम्बवतोवाक्यमुवाचेदंविभीषणः ।\nआर्यपुत्रावतिक्रम्यकस्मात्पृच्छसिमारुतिम् ।।6.74.19।।",
+      "transliteration": "",
+      "translation": "After hearing Jambavantha, Vibheeshana said \"Noble son, why are you enquiring about Hanuman?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "नैवराजनिसुग्रीवेनाङ्गदेनापिराघवे ।\nआर्यसन्दर्शितस्स्नेहोयथावायुसुतेपरः ।।6.74.20।।",
+      "transliteration": "",
+      "translation": "\"Noble one! You are showing affection to Hanuman but not to King Sugriva, or Angada or even Raghava?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "विभीषणवचश्श्रुत्वाजाम्बवान्वाक्यमब्रवीत् ।\nशृणुनैरृतशार्दूलयस्मात् पृच्छामिमारुतिम् ।।6.74.21।।",
+      "transliteration": "",
+      "translation": "On hearing Vibheeshana, the tiger among Rakshasas, Jambavan replied, \"Listen why I enquired about Maruthi.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तस्मिन्जीवतिवीरेतुहतमप्यहतंबलम् ।\nहनूमत्युज्झितप्राणेजीवन्तोऽपिवयम् हृता ।।6.74.22।।",
+      "transliteration": "",
+      "translation": "If this hero Hanuman is alive, even if the army is destroyed and if we are alive, it is like dead only.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "धरतेमारुतिस्तातमारुतप्रतिमोयदि ।\nवैश्वानरसमोवीर्वेजीविताशाततोभवेत् ।।6.74.23।।",
+      "transliteration": "",
+      "translation": "\"Dear! If Hanuman who is equal to wind god, resembles Vyshvanara (God of fire) is breathing, then we can hope to live (for life).\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "ततोवृद्धमुपागम्यनियमेनाभ्यवादयत् ।\nगृह्यजाम्बवतःपादौहनूमान्मारुतात्मजः ।।6.74.24।।",
+      "transliteration": "",
+      "translation": "Thereafter, Hanuman the son of the wind god coming close to the aged Jambavan clasped his feet in accordance with tradition and greeted him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "श्रुत्वाहनुमतोवाक्यंतदाऽपिव्यथितेन्द्रियः ।\nपुनर्जातमिवात्मानंमन्यतेप्लवगोत्तमः ।।6.74.25।।",
+      "transliteration": "",
+      "translation": "Then again, Jambavan whose senses were affected, on hearing the statement of Hanuman, the foremost of Vanaras, felt as though he was born again.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "ततोऽब्रवीन्महातेजाहनूमन्तं स जाम्बवान् ।\nआगच्छहरिशार्दूल वानरांस्त्रातुमर्हसि ।।6.74.26।।",
+      "transliteration": "",
+      "translation": "Then brilliant Jambavan spoke to Hanuman, the tiger among Vanaras, on reaching him. \"You ought to protect the Vanaras.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "नान्योवक्रमपर्याप्तस्त्वमेषांपरमस्सखा ।\nत्वत्पराक्रमकालोऽयंनान्यंपश्यामिकथञ्चन ।।6.74.27।।",
+      "transliteration": "",
+      "translation": "\"You are fully endowed with prowess and great friend of monkeys in that way. It is time for you to show your talent. Indeed, I do not see anyone else.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "ऋक्ष्वानरवीराणामनीकानिप्रहर्षय ।\nशल्यौकुरुचाप्येतासादितौरामलक्ष्मणौ ।।6.74.28।।",
+      "transliteration": "",
+      "translation": "For the Bears and Vanaras, create excessive happiness. For Rama and Lakshmana who are unconscious, make them comfortable.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "गत्वापरममध्वानमुपर्युपरिसागरम् ।\nहिमवन्तंनगश्रेष्ठंहनुमन्गन्तुमर्हसि ।।6.74.29।।",
+      "transliteration": "",
+      "translation": "\"Hanuman, you ought to go very far over the sea to the Himalayas, the highest mountain.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "ततःकाञ्चनमत्युच्चमृषभंपर्वतोत्तमम् ।\nकैलासशिखरंचापिद्रक्ष्यस्यरिनिषूदन ।।6.74.30।।",
+      "transliteration": "",
+      "translation": "\"O Destroyer of enemies! there on top you will see the foremost of the mountain Rshaba and on the peak of Kailasa.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "तयोशशिखरयोर्मध्येप्रदीप्तमतुलप्रभम् ।\nसर्यौषधियुतंवीर द्रक्ष्यस्यौषधिपर्यतम् ।।6.74.31।।",
+      "transliteration": "",
+      "translation": "\"Heroic Hanuman! In the middle of those two mountains, you will see a highly splendid mountain covered with all kinds of medicinal herbs.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "तस्यवानरशार्दूल चतस्रो मूधि सम्भवाः ।\nद्रक्ष्यस्योषधयोदीप्तादीपय्नत्योदिशोदश ।।6.74.32।।",
+      "transliteration": "",
+      "translation": "\"O Tiger among monkeys! You will see on the summit four medicinal herbs growing there illuminating the ten directions.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "मृतसञ्जीवनींचैवविशल्यकरणीमपि ।\nसुवर्णकरणींचैवसन्धानकरणींतथा ।।6.74.33।।",
+      "transliteration": "",
+      "translation": "\"Mrtasanjivani, Visalyakarani, Suvarnakarani, Sandhani, all these herbs are grown there.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "तास्सर्वाहनुमन्गृह्वक्षिप्रमागन्तुमर्हसि ।\nआश्वासयहरीन् प्राणैर्योज्यगन्धवहात्मज ।।6.74.34।।",
+      "transliteration": "",
+      "translation": "\"Hanuman, taking the four herbs you, the son of wind god ought to return immediately with the speed of wind, to unite the life of the monkeys and reassure.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "श्रुत्वाजाम्बवतोवाक्यंहनूमान् हरिपुङ्गवः ।\nआपूर्यतबलोद्धर्षैस्तोयवेगैरिवार्णवः ।।6.74.35।।",
+      "transliteration": "",
+      "translation": "\"Hearing the instruction of Jambavantha, the son of the wind god, infused with wind speed as the ocean, heaves with the force of wind increasing his strength fully.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "पर्वततटाग्रस्थःपीडयन् पर्वतोत्तमम् ।\nहनूमान्दृश्यतेवीरोद्वितीयइवपर्वतः ।।6.74.36।।",
+      "transliteration": "",
+      "translation": "Standing on the summit of the foremost of the mountains, hero Hanuman pressing his feet seemed like a second mountain",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "हरिपादविनिर्भग्नोनिषसाद स पर्वतः ।\nन शशाकतदात्मानंसोढुंभृशनिपीडितः ।।6.74.37।।",
+      "transliteration": "",
+      "translation": "Trodden by the feet of Hanuman that mountain pressed forcibly by himself could not bear his strength.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "तस्यपेतुर्नगाभूमौहरिवेगाच्चजज्वलुः ।\nशृङ्गाणि च व्यशीर्यन्तपीडितस्यहनूमता ।।6.74.38।।",
+      "transliteration": "",
+      "translation": "Oppressed by the speed of Hanuman, the mountain fell to the ground and by the impetuosity of his speed the mountain got shattered.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "तस्मिन् सम्पीड्यमानेतुभग्नद्रुमशिलातले ।\nन शेकुर्वानरास्स्थातुंघूर्णमानेनगोत्तमे ।।6.74.39।।",
+      "transliteration": "",
+      "translation": "As the foremost of the mountain got oppressed it crushed the trees and rocks on it and Vanaras were unable to stand on it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "साघूर्णितमहाद्वाराप्रभग्नगृहगोपुरा ।\nलङ्कात्रासाकुलारात्रौप्रवृत्तेवाभवत्तदा ।।6.74.40।।",
+      "transliteration": "",
+      "translation": "Then the mighty gates of Lanka shaking, homes shattered, stricken with fear that night it seemed Lanka was dancing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "पृथिवीधरसङ्काशोनिपीड्यधरणीधरम् ।\nपृथिवींक्षोभयामाससार्णवांमारुतात्मजः ।।6.74.41।।",
+      "transliteration": "",
+      "translation": "Son of the wind god, who was like a mountain supported by earth, pressing hard caused the earth with its ocean to shake.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "आरुरोहतदातस्माद्��रिर्मलयपर्वतम् ।\nमेरुमन्दरसङ्काशंनानाप्रस्रवणाकुलम् ।।6.74.42।।\nनानाद्रुमलताकीर्णंविकासिकमलोत्पलम् ।\nसेवितंदेवगन्धर्वैष्षष्टियोजनमुच्छ्रितम् ।।6.74.43।।\nविद्याधरैर्मुनिगणैरप्सरोभिर्निषेवितम् ।\nनानामृगगणाकीर्णंबहुकन्दरशोभितम् ।।6.74.44।।\nसर्वानाकुलयंस्तत्रयक्षगन्धर्वकिन्नरान् ।\nहनुमान् मेघसङ्काशोववृधेमारुतात्मजः ।।6.74.45।।",
+      "transliteration": "",
+      "translation": "From that mountain the monkey sprang to Malaya Mountain which was like Meru and Mandara mountains. It was set with various springs, covered with various trees and creepers, abounded with lotuses, frequented by Devas, Gandharvas. It was sixty yojanas high and visited by Vidhyadharas, celestial nymphs, and sages, filled with various species of deer and numerous caves. Yakshas, Gandharvas, and Kinnaras were living there. There the son of the wind god grew in size like a cloud.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "पद्भ्यांतुशैलमापीड्यबडबामुखवन्मुखम् ।\nविवृत्योग्रंननादोच्चैस्त्रासयन्निवराक्षसान् ।।6.74.46।।",
+      "transliteration": "",
+      "translation": "Pressing the mountain hard by his feet, opening his largemouth wide, he roared like Rakshasas to make Rakshasas fearful.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "तस्यनानद्यमानस्यश्रुत्वानिनदमद्भुतम् ।\nलङ्कास्थाराक्षसास्सर्वे न शेकुस्स्पन्दितुंभयात् ।।6.74.47।।",
+      "transliteration": "",
+      "translation": "All the Rakshasas in Lanka hearing the loud roar of Hanuman were afraid and could not stir from there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "नमस्कृत्वाऽथरामायमारुतिर्भीमविक्रमः ।\nराघवार्थेपरंकर्मसमीहतपरन्तपः ।।6.74.48।।",
+      "transliteration": "",
+      "translation": "Maruti, scorcher of enemies, endowed with terrific valour offered prayers to Sri Rama and made up his mind to embark on the stupendous task for Raghava.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "स पुच्छमुद्यम्यभुजङ्गकल्पंविनम्यपृष्ठंश्रवणेनिकुञ्च्य ।\nविवृत्यवक्त्रंबडबामुखाभमापुफ्लुवेव्योमनिचण्डवेगः ।।6.74.49।।",
+      "transliteration": "",
+      "translation": "Raising his tail which resembled a serpent, bending his back, and ears, opening his mouth wide expounded Hanuman sprang up at terrific speed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "सवृक्षषण्डांस्तरसाजहारशैलान् शिलाःप्राकृतवानरांश्च ।\nबाहूरुवेगोद्धतसम्प्रणुन्नास्तेक्षीणवेगास्सलिलेनिपेतुः ।।6.74.50।।",
+      "transliteration": "",
+      "translation": "By the speed of his arms and thighs clusters of branches of trees, mountains, rocks, and common monkeys were attracted, and with reduction of speed along the way the rocks fell.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "तौप्रसार्योरगभोगकल्पौभुजौभुजङ्गारिनिकाशवीर्यः ।\nजगाममेरुंनगराजमग्य्रंदिशःप्रकर्षन्निववायुसूनुः ।।6.74.51।।",
+      "transliteration": "",
+      "translation": "Stretching his arms which resembled coils of serpents, whose valour equalled Garuda, enemy of serpents, as if attracting all the directions went to the summit of the foremost mountain which equalled Meru mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "स सागरंघूर्णितवीचिमालंतथाभृशंभ्रामितसर्वसत्त्वम् ।\nसमीक्षमाणस्सहसाजगामचक्रंयथाविष्णुकराग्रमुक्तम् ।।6.74.52।।",
+      "transliteration": "",
+      "translation": "Observing the ocean whose waves were made to revolve round (by his speed), exceedingly, whose creatures were made to whirl round violently (by the wind force generated by his speed), he went forth like the wheel loosened from Vishnu's hand.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "स पर्वतान्वृक्षगवान् सरांसिनदीस्तटाकानिपुरोत्तमानि ।\nस्फीतान् जनान्तानपिसम्प्रवीक्ष्यजगामवेगापतितृतुल्यवेगः ।।6.74.53।।",
+      "transliteration": "",
+      "translation": "Watching the mountains, trees, birds, rivers, tanks, the best of cities, all of them and prosperous people, he went at his father's speed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "आदित्यपथमाश्रित्यजगाम स गतक्लमः ।\nहनूमांस्त्वरितोवीरःपितृतुल्यपराक्रमः ।।6.74.54।।",
+      "transliteration": "",
+      "translation": "Hanuman who was equal to his father in prowess, went unwearied, hurriedly in the path of the Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "जवेनमहतायुक्तोमारुतिर्मारुतोयथा ।\nजगामहरिशार्दूलोदिशश्शब्देनपूरयन् ।।6.74.55।।",
+      "transliteration": "",
+      "translation": "Maruthi, the tiger among monkeys went like the wind possessing great speed filling sound in all directions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "स्म्मरन्जाम्बवतोवाक्यंमारुतिर्वातरंहसा ।\nददर्शसहसागत्वाहिमवन्तंमहाकपिः ।।6.74.56।।",
+      "transliteration": "",
+      "translation": "Going at wind speed, the great monkey Maruthi, remembering Jambavantha's words, reached and sighted the Himalayas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "नानाप्रस्रवणोपेतंनानाकन्दरनिर्घरम् ।\nश्वेताभ्रचयसङ्काशैशशिखरैश्चारुदर्शनैः ।।6.74.57।।\nशोभितंविविधैर्वृक्षैरगमत्पर्वतोत्तमम् ।",
+      "transliteration": "",
+      "translation": "He reached the foremost of mountains, which was adorned with different kinds of springs, many caves and cascades and graced with trees. The peaks were like masses of white autumn clouds graced with splendour and beautiful to look at.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "स तंसमासाद्यमहानगेन्द्रमतिप्रवृद्धोत्तमघोरशृङ्गम् ।\nददर्शपुण्यानिमहाश्रमाणिसुरर्षिसंघोत्तमसेवितानि ।।6.74.58।।",
+      "transliteration": "",
+      "translation": "Reaching there he saw the tall and terrifying peaks of the Lord of mountains frequented by Devatas and sages, meritorious hermitages.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "स ब्रह्मकोशंरजतालयं च शक्रालयंरुद्रशरप्रमोक्षम् ।\nहयाननंब्रह्मशिरश्चदीप्तंददर्शवैवस्वतकिङ्करांश्च ।।6.74.59।।",
+      "transliteration": "",
+      "translation": "He saw the seat of Brahma, the abode of Rajathanabha, the abode of Indra, the location from which Rudra discharged an arrow (at Tripura), the abode of Lord Hayagriva, and glowing abode of the deity presiding over Brahmastra and Vyvasvatah's attendants.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-54",
+      "number": 54,
+      "type": "shloka",
+      "original": "वज्रालयंवैश्रवणालयं च सूर्यप्रभंसूर्यनिबन्धनंच ।\n a.\nब्रह्मासनंशङ्करकार्मुकं च ददर्शनाभिं च वसुन्धरायाः ।।6.74.60।।",
+      "transliteration": "",
+      "translation": "He saw Vajralayam (where Brahma gave Indra the thunderbolt), the abode of Kubera shining like the Sun, the spot where the Sun was bound, Brahma's abode and the abode of the bow of Lord Siva, and the earth navel.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-55",
+      "number": 55,
+      "type": "shloka",
+      "original": "कैलासमग्य्रंहिमवच्छिलां च तथर्षभंकाञ्चनशैलमग्य्रम् ।\nसन्दीप्तसर्वौषधिसन्प्रदीप्तंददर्शसर्वौषधिपर्वतेन्द्रम् ।।6.74.61।।",
+      "transliteration": "",
+      "translation": "He saw Kailas, the rocks of Himalayas, that way on the Rshaba the foremost Lord Siva, the golden mountain, and the great mountain on which grew, glowing medicinal herbs.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-56",
+      "number": 56,
+      "type": "shloka",
+      "original": "स तंसमीक्ष्यानलरश्मिदीप्तंविसिष्मियेवासवदूतसूनुः ।\nआवृत्यतंचौषधिपर्वतेन्द्रंतत्रौषधीनांविचयंचकार ।।6.74.62।।",
+      "transliteration": "",
+      "translation": "Observing the herbs blazing like fire, he was astonished at the herbs on the mountain and went round thinking of the names of herbs (asked by Jambavan).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-57",
+      "number": 57,
+      "type": "shloka",
+      "original": "सयोजनसहस्राणिसमतीत्यमहाकपिः ।\nदिव्यौषधिधरंशैलंव्यचरन्मारुतात्मजः ।।6.74.63।।",
+      "transliteration": "",
+      "translation": "The great monkey, son of the wind god, having traversed a thousand yojanas began to range the wonderful herbs and went about searching.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-58",
+      "number": 58,
+      "type": "shloka",
+      "original": "महौषध्यस्ततस्सर्वास्तस्मिन् पर्वतसत्तमे ।\nविज्ञायार्थिनमायान्तंततोजग्मुरदर्शनम् ।।6.74.64।।",
+      "transliteration": "",
+      "translation": "Perceiving a seeker coming for them, the herbs all over the wonderful mountain disappeared.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-59",
+      "number": 59,
+      "type": "shloka",
+      "original": "स तामहात्माहनुमानपश्यंश्चुकोपकोपाच्चभृशंननाद ।\nअमृष्यमाणोऽनगिनिकाशचक्षुर्महीधरेन्द्रंतमुवाचवाक्यम् ।।6.74.65।।",
+      "transliteration": "",
+      "translation": "The great soul Hanuman was not able to see, those herbs, became angry and his eyes were burning like fire in anger. He jumped up and roared and said to the lordly mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-60",
+      "number": 60,
+      "type": "shloka",
+      "original": "कीमेतदेवंसुविनिश्चितंतेयद्राघवेनासिकृतानुकम्प ।\nपश्याद्यमद्बाहुबलाभिभूतोविकीर्णमात्मानमथोनगेन्द्र ।।6.74.66।।",
+      "transliteration": "",
+      "translation": "\"O King of mountains! You are not showing compassion to Raghava. Is it your determination to be like this? Overcome by my shoulder strength I shall crush you now. You may see.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-61",
+      "number": 61,
+      "type": "shloka",
+      "original": "स तस्यशृङ्गंसनगंसनागंसकाञ्चनंधातुसहस्रजुष्टम् ।\nविकीर्णकूटंज्वलिताग्रसानुंप्रगृह्यवेगात्सहसोन्ममाथ ।।6.74.67।।",
+      "transliteration": "",
+      "translation": "Seizing hold of the peaks vehemently, its trees, elephants, gold mines withthousands of minerals he crushed the projections and set fire and burnt and uprooted swiftly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-62",
+      "number": 62,
+      "type": "shloka",
+      "original": "सतसमुत्पाट्यखमुत्पपातवित्रास्यलोकान् ससुरासुरेन्द्रान् ।\nसंस्तूयमानःखचरैरनेकैर्जगामवेगाद्गरुडोग्रवेगः ।।6.74.68।।",
+      "transliteration": "",
+      "translation": "Striking terror among Devatas and demons and leaders inhabiting the world, uprooting the mountain he hurried at Garuda's speed into the sky praised by aerial creatures.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-63",
+      "number": 63,
+      "type": "shloka",
+      "original": "स भास्कराध्वानमनुप्रपन्नस्तंभास्कराभंशिखरंप्रगृह्य ।\nबभौतदाभास्करसन्निकाशोरवेस्समीपेप्रतिभास्कराभः ।।6.74.69।।",
+      "transliteration": "",
+      "translation": "Resembling the Sun closely, radiant like the Sun he was taking the top of the mountain, betaking himself in the vicinity of the Sun he was like another Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-64",
+      "number": 64,
+      "type": "shloka",
+      "original": "स तेनशैलेनभृशंरराजशैलोपमोगन्धवहात्मजस्तु ।\nसहस्रधारेणसपावकेनचक्रेणखेविष्णुरिवार्पितेन ।।6.74.70।।",
+      "transliteration": "",
+      "translation": "He, the son of the wind god sitting upon the crag, was delightful like Vishnu with a flaming wheel shining.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-65",
+      "number": 65,
+      "type": "shloka",
+      "original": "तंवानराःप्रेक्ष्यविनेदुरुच्चैस्सतानपिप्रेक्ष्यमुदाननाद ।\nतेषांसमुध्घुष्टरवंनिशम्यलङ्कालयाभीमतरंविनेदुः ।।6.74.71।।",
+      "transliteration": "",
+      "translation": "Observing him high the Vanaras became joyful, and he also saw them. Hearing their loud noise becoming aware of the Rakshasas of Lanka also roared in terrible fear.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-66",
+      "number": 66,
+      "type": "shloka",
+      "original": "ततोमहात्मानिपपाततस्मिन् शैलोत्तमेवानरसैन्यमथ्ये ।\nहर्युत्तमेभ्यशशिरसाऽभिवाद्यविभीषणं��त्र स सस्वजे च ।।6.74.72।।",
+      "transliteration": "",
+      "translation": "The great Hanuman along with the mountain descended in the midst of the Vanara army, and greeted the army head bent down and embraced Vibheeshana standing there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-67",
+      "number": 67,
+      "type": "shloka",
+      "original": "तावप्युभौमानुषराजपुत्रौतंगन्धमाघ्रायमहौषधीनाम् ।\nबभूवतुस्तत्रतदाविशल्यावुत्तस्थुरन्ये च हरिप्रवीराः ।।6.74.73।।",
+      "transliteration": "",
+      "translation": "The two sons of the ruler of men inhaling the fragrance of the herbs became free from wounds. Other Vanara heroes also got restored.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-68",
+      "number": 68,
+      "type": "shloka",
+      "original": "सर्वेविशल्याविरुजाःक्षणेनहरिप्रवीराश्चहताश्चयेस्युः ।\nगन्धेनतासांप्रवरौषधीनांसुप्तानिशान्तेष्विवसम्प्रबुद्धाः ।।6.74.74।।",
+      "transliteration": "",
+      "translation": "All those Vanara warriors killed were restored with life instantly by the fragrance. Those who were asleep also got up when they became fully awake.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-69",
+      "number": 69,
+      "type": "shloka",
+      "original": "दाप्रभृतिलङ्कायांयुध्यन्तेहरिराक्षसाः ।\nतदाप्रभृतिमानार्थमाज्ञयारावणस्य च ।।6.74.75।।\nयेहन्यन्तेरणेतत्रराक्षसाःकपिकुञ्जरैः ।\nहताहतास्तुक्षिप्यन्तेसर्वएवतुसागरे ।।6.74.76।।",
+      "transliteration": "",
+      "translation": "From the beginning of the war in Lanka till the end without exception, all the Rakshasas were killed in war by the Vanara leaders then and there were thrown into the ocean by Ravana's instruction, not to have means of proof.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-74-70",
+      "number": 70,
+      "type": "shloka",
+      "original": "ततोहरिर्गन्धवहात्मजस्तुतमोषधीशैलमुदग्रवेगः ।\nनिनायवेगाद्धिमवन्तमेवपुनश्चरामेणसमाजगाम ।।6.74.77।।",
+      "transliteration": "",
+      "translation": "The son of the wind god sprung from there hurriedly took the mountain of herbs to Himalayas and returned and joined Rama. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेचतुस्सप्ततितमस्सर्गः ।। This is the end of the seventy fourth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 98,
+    "title": "Major conflict between Sugriva and Mahodara, minister of Ravana. Death of Mahodara in the hands of Sugriva.",
+    "titleSanskrit": "",
+    "totalShlokas": 37
+  },
+  "shlokas": [
+    {
+      "id": "v6-98-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "हन्यमानेबलेतूर्णमन्योन्यंतेमहामृथे ।\nसरसीवमहाघर्मेसोपक्षीणेबभूवतुः ।।6.98.1।।",
+      "transliteration": "",
+      "translation": "In the major conflict, each one destroying the other army, it seemed like the midsummer lakes totally lost its water.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "स्वबलस्यविघातेनविरूपाक्ष्वधेन च ।\nबभूवद्विगुणंक्रुद्धोरावणोराक्षसाधिपः ।।6.98.2।।",
+      "transliteration": "",
+      "translation": "The Lord of Rakshasas, Ravana, became doubly angry by the destruction of his army and fall of Virupaksha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "प्रक्षीणंतुबलंदृष्टवावध्यमानंवलीमुखैः ।\nबभूवास्यव्यथायुद्धेप्रेक्ष्यदैवविपर्ययम् ।।6.98.3।।",
+      "transliteration": "",
+      "translation": "Rakshasa's army was killed by Vanaras and drastically reduced. Seeing the adversary of God's grace, Ravana was agonized on witnessing it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "उवाच च समीपस्थंमहोदरमरिन्दमम् ।\nअस्मिन्कालेमहाबाहोजयाशात्वयिमेस्थिता ।।6.98.4।।",
+      "transliteration": "",
+      "translation": "And then Ravana spoke to Mahodara who was close by, one who is difficult to encounter, saying \" At this time the hope for my victory is centered in you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "जहिशत्रुचमूंवीरदर्शयाद्यपराक्रमम् ।\nभर्तृपिण्डस्यकालोऽऽयंनिर्देष्टुंसाधुयुध्यताम् ।।6.98.5।।",
+      "transliteration": "",
+      "translation": "\"O heroic Mahodara! Today, exhibit your valour by destroying the enemy army. Having received my subsistence, this is the time to repay. Fight well in war.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "एवमुक्तस्तथेत्युक्त्वाराक्षसेन्द्रोमहोदरः ।\nप्रविवेशारिसेनांतांपतङ्गइवपावकम् ।।6.98.6।।",
+      "transliteration": "",
+      "translation": "Having spoken like that by the king of Rakshasas, Mahodara entered the army of the enemy like a moth enters fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "ततस्सकदनंचक्रेवानराणांमहाबलः ।\nभर्तृवाक्येनतेजस्वीस्वेनवीर्येणचोदितः ।।6.98.7।।",
+      "transliteration": "",
+      "translation": "Thereafter, the mighty and brilliant Mahodara, in obedience to the word of the king, inspired by his own valour, went to fight with Vanaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "वानराश्चमहासत्त्वाःप्रगृह्वःविपुलाशशिलाः ।\nप्रविश्यारिबलंभीमंजघ्नुस्तेरजनीचरान् ।।6.98.8।।",
+      "transliteration": "",
+      "translation": "The mighty Vanaras also seizing huge rocks entered into the frightening enemy army of the Rakshasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "महोदरस्तुसङ्कृद्धश्शरैःकाञ्चनभूषणैः ।\nचिच्छेदपाणिपादोरुन्वानराणांमहाहवे ।।6.98.9।।",
+      "transliteration": "",
+      "translation": "In that great war, enraged Mahodara with arrows decked in gold shattered the Vanaras by attacking on hands, legs, and thighs.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "ततस्तेवानरास्सर्वेराक्षसैरर्दिताभृशम् ।\nदिशोदशद्रुताःकेचित्केचित्सुग्रीवमाश्रिताः ।।6.98.10।।",
+      "transliteration": "",
+      "translation": "Thereafter, unable to bear the pain, those Vanaras hit by Rakshasas, went in ten directions and some went to Sugriva for refuge.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "प्रभग्नांसमरेदृष्टवावानराणांमहाचमूम् ।\nअभिदुद्रावसुग्रीवोमहोदरमनन्तरम् ।।6.98.11।।",
+      "transliteration": "",
+      "translation": "Seeing the great army of Vanaras defeated in the conflict, Sugriva rushed towards Mahodara.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "प्रगृह्यविपुलांघोरांमहीधरसमांशिलाम् ।\nचिक्षेप स महातेजास्तद्वधायहरीश्वरः ।।6.98.12।।",
+      "transliteration": "",
+      "translation": "Endowed with great energy, Sugriva, the monkey Lord, seizing a huge mountain like dreadful rock, hurled to kill Mahodara.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तामापततनींसहसाशिलांदृष्टवामहोदरः ।\nअसम्भ्रान्तस्ततोबाणैर्निर्बिभेददुरासदाम् ।।6.98.13।।",
+      "transliteration": "",
+      "translation": "Then seeing the formidable rock coming towards him, he was not bewildered and immediately struck and broke it with his arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "रक्षसातेनबाणौघैर्निकृत्तासासहस्रधा ।\nनिपपातशिलाभूमौगृध्रचक्रमिवाकुलम् ।।6.98.14।।",
+      "transliteration": "",
+      "translation": "That rock, struck by Mahodara fell on the ground shattered and broken into a thousand pieces.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तांतुभिन्नांशिलांदृष्टवासुग्रीवःक्रोधमूर्छितः ।\nसालमुत्पाट्यचिक्षेपराक्षसेरणमूर्थनि ।।6.98.15।।",
+      "transliteration": "",
+      "translation": "Seeing the fragmented rock, Sugriva was deluded with anger, and tearing up a sala tree, he shattered on the Rakshasa (Mahodara) in the battlefield.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "शरैश्चविददार��नंशूरःपरपुरञ्जयः ।\nस ददर्शततःक्रुद्धःपरिघंपतितंभुवि ।।6.98.16।।",
+      "transliteration": "",
+      "translation": "Mahodara, a scourge of enemy forces, who lacerated Sugriva in that manner, angry, made the tree fall on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "आविध्यतु स तंदीप्तंपरिघंतस्यदर्शयन् ।\nपरिघाग्रेणवेगेनजघानास्यहयोत्तमान् ।6.98.17।।",
+      "transliteration": "",
+      "translation": "Sugriva, picking up that glowing iron bar, exhibiting its top, whirling it around, struck the best of horses of Mahodara.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तस्माद्धतहयावदीरःसोऽऽवप्लुत्यमहारथात् ।\nगदांजग्राहसंक्रुद्धोराक्षसोऽऽथमहोदरः ।।6.98.18।।",
+      "transliteration": "",
+      "translation": "Then the hero, Mahodara, his horses destroyed, jumped from the great chariot, and took hold of a mace.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "गदापरिघहस्तौतौयुधिवीरौसमीयतुः ।\nनर्दन्तौगोवृषप्रख्यौघनाविवसविद्युतौ ।।6.98.19।।",
+      "transliteration": "",
+      "translation": "Both the heroes, Mahodara and Sugriva like two bulls holding mace and iron bar respectively, like clouds charged with lightning came roaring in the battlefield.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "ततःक्रुद्धोगदांतस्यैचिक्षेपरजनीचरः ।\nज्वलतनींभास्कराभासांसुग्रीवायमहोदरः ।।6.98.20।।",
+      "transliteration": "",
+      "translation": "Then provoked by anger, the night ranger, Mahodara flung his mace at Sugriva which shone like the Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "गदांतांसुमहाघोरामापततनींमहाबलः ।\nसुग्रीवोरोषताम्राक्षस्समुद्यम्यमहाहवे ।।6.98.21।।\nआजघानगदांतस्यपरिघेणहरीश्वर ।\nपपात स गदोद्भिन्नःपरिघस्तस्यभूतले ।।6.98.22।।",
+      "transliteration": "",
+      "translation": "In that terrible conflict, seeing the mace broken and falling, mighty Sugriva, whose eyes turned red in anger, lifted up his iron bar, struck at the mace of the Rakshasa. The mace fell on the ground and broke into pieces.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "ततोजग्राहतेजस्वीसुग्रीवोवसुधातलात् ।\nआयसंमुसलंघोरंसर्वतोहेमभूषितम् ।।6.98.23।।",
+      "transliteration": "",
+      "translation": "Then, energetic Sugriva picked from the ground a frightening steel club encrusted with gold on all sides.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "स तमुद्यम्यचिक्षेपसोऽऽप्यन्यांव्याक्षिपद्गदाम् ।\nभिन्नावन्योन्यमासाद्यपेततुद्दरणीतले ।।6.98.24।।",
+      "transliteration": "",
+      "translation": "Sugriva took up the steel club and hurled at Mahodara who took another mace and hit back. Both collided with each other and shattered they fell down on the surface of the earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "ततोग्नप्रहरणौमुष्टिभ्यांतौसमीयतुः ।\nतेजोबलसमाविष्टौदीप्ताविवहुताशनौ ।।6.98.25।।",
+      "transliteration": "",
+      "translation": "Thereafter, both of them fully endowed with strength, with their weapons broken, who resembled glowing fires, fought with their fists.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "जघ्नतुस्तौतदान्योन्यंवेदतुश्चपुनःपुनः ।\nतलैश्चान्योन्यमहत्यपेततुश्चमहीतले ।।6.98.26।।",
+      "transliteration": "",
+      "translation": "Then both of them again and again striking each other slapping with palms fell down and rolled on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "उत्पेततुस्ततस्तूर्णंजघ्नतुश्चपरस्परम् ।\nभुजैश्चिक्षिपतुर्वीरावन्योन्यमपराजितौ ।।6.98.27।।",
+      "transliteration": "",
+      "translation": "Then quickly getting up striking one another, both the heroes who have never been defeated, pushed each other by their arms.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "जग्मतुस्तौश्रमंवीरौबाहुयुधेपरंतपौ ।\nअजहारतदाखडगमदूरपरिवर्तिनम् ।।6.98.28।।\nराक्षसश्चर्मणासार्धंमहावेगोमहोदरः ।",
+      "transliteration": "",
+      "translation": "Both being scourge of their enemies, both heroes wrestling were exhausted with fighting. Then the Rakshasa picked up a sword lying not far from there along with a shield.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "थैव च महाखडगंचर्मणापतितंसह ।।6.98.29।।\nजग्राहवानरश्रेष्ठस्सुग्रीवोवेगवत्तरः।।",
+      "transliteration": "",
+      "translation": "Likewise, Sugriva endowed with speed, a champion of Vanaras, took up a huge sword fallen down with a shield.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "तौतुरोषपरीताङ्गौनर्दन्तावभ्यधावताम् ।।6.98.30।।\nउद्यतासीरणेहृष्टावुभौशस्त्रविशारदौ ।",
+      "transliteration": "",
+      "translation": "Then the two, whose limbs ceased, who were knowledgeable in the use of weapons, furious, sprang forward in the battle, both with joy, roaring to destroy one another.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "दक्षिणंमण्डलंचोभौसुतूर्णंसम्परीयतुः ।।6.98.31।।\nअन्योन्यमभिसङ्कृद्धौ जये प्रणिहितावुभौ ।",
+      "transliteration": "",
+      "translation": "Enraged at one another, intent to win, both stretched forth at great speed, going from left to right in circles and encountered each other.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "तुशूरोमहावेगोवीर्यश्लाघीमहोदरः ।।6.98.32।।\nमहाचर्मणितंखडगंपातयामासदुर्मतिः ।",
+      "transliteration": "",
+      "translation": "Mahodara, a warrior, evil minded one, endowed with great speed, hurled the sword on the shield of Sugriva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "लग्नमुत्कर्षतःखडगंखडगेनकपिकुञ्जरः ।।6.98.33।।\nजहारसशिरस्त्राणंकुण्डलोपहितंशिरः ।",
+      "transliteration": "",
+      "translation": "While Mahodara was extracting the sword stuck to the head, Sugriva, the elephant of the monkeys, severed the head of Mahodara which was decked with earrings and helmet.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "निकृत्तशिरसस्तस्यपतितस्यमहीतले ।।6.98.34।।\nतद्बलंराक्षसेन्द्रस्यदृष्टवातत्र न तिष्टते ।",
+      "transliteration": "",
+      "translation": "Mahodara's head severed and fell on the ground. Seeing that Rakshasa king's army ran from there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "हत्वांतंवानरैस्सार्धंननादमुदितोहरिः ।।6.98.35।।\nचुक्रोध च दशग्रीवोबभौहृष्टश्चराघवः ।",
+      "transliteration": "",
+      "translation": "Sugriva, the monkey leader having killed Mahodara, the Vanaras shouted in joy. The ten headed Ravana became enraged. Raghava was glad.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "विषण्णवदनास्सर्वेराक्षसादीनचेतसः ।।6.98.36।।\nविद्रवन्तिततस्सर्वेभयवित्रस्तचेतसः ।",
+      "transliteration": "",
+      "translation": "All the Rakshasas became dull and piteous with sad faces. Out of fear they ran.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "महोदरंतंन्वििपात्यभूमौमहागिरेःकीर्णमिवैकदेशम् ।\nसूर्यात्मजस्तत्ररराजलक्ष्म्यसूर्यस्स्वतेजोभिरिवाप्रधृष्यः ।।6.98.37।।",
+      "transliteration": "",
+      "translation": "Just as a part of a huge mountain thrown down, an unassailable Mahodara, fallen on the ground, shone there like Lakshmi, just as the Sun shines by his own radiance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-98-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "अथविजयमवाप्यवानरेन्द्रस्समरमुखेसुरसिद्धयक्षसङ्घै ।\nअन्वितलगतैश्चभूतसङ्घैर्हर्षरुषसमाकुलितैस्तुतोमहात्मा ।।6.98.38।।",
+      "transliteration": "",
+      "translation": "Thereafter, Suras, Siddhas, Yakshas of heaven and all beings on the land, great selves who were gazing at the battle felt highly delighted seeing the victory of the Vanara king in the forefront of the battlefield. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाडेअष्टानवतितमःसर्गः ।। This is the end of the ninety eighth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

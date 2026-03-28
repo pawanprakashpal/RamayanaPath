@@ -1,0 +1,198 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 44,
+    "title": "Rama chases the magic deer-- unable to catch, kills it -- gets stunned at the deer calling out Sita, Lakshmana imitating his voice--death of the deer--Rama returns to the hermitage.",
+    "titleSanskrit": "",
+    "totalShlokas": 20
+  },
+  "shlokas": [
+    {
+      "id": "v3-44-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तथा तु तं समादिश्य भ्रातरं रघुनन्दनः।\nबबन्धासिं महातेजा जाम्बूनदमयत्सरुम्।।3.44.1।।",
+      "transliteration": "",
+      "translation": "The brilliant Rama, delight of the Raghu dynasty, thus instructed his brother and fastened a sword with a golden handle to his waist.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-44-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तत स्त्र्यवनतं चापमादायाऽत्मविभूषणम्।\nआबध्य च कलापौ द्वौ जगामोदग्रविक्रमः।।3.44.2।।",
+      "transliteration": "",
+      "translation": "A man of indomitable prowess, he took the bow with three curves that was like an ornament to him, tied two quivers at the back and left.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-44-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "तं वञ्चयानो राजेन्द्रमापतन्तं निरीक्ष्यवै।\nबभूवान्तर्हितस्त्रासात्पुनस्सन्दर्शनेऽभवत्।।च3.44.3।।\nबद्धासिर्धनुरादाय प्रदुद्राव यतो मृगः।",
+      "transliteration": "",
+      "translation": "On seeing Rama approaching him, the deer disappeared due to fear and again came within sight. With his sword and the bow, Rama chased wherever the deer ran.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-44-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तं स्म पश्यति रूपेण द्योतमानमिवाग्रतः।।3.44.4।।\nअवेक्ष्यावेक्ष्य धावन्तं धनुष्पाणिर्महावने।\nअतिवृत्तमिषोः पाताल्लोभयानं कदाचन।।3.44.5।।\nशङ्कितन्तु समुद्भ्रान्तमुत्पतन्तमिवाम्बरे।\nदृश्यमानमदृश्यं च वनोद्देशेषु केषुचित्।।3.44.6।।\nछिन्नाभ्रैरिव संवीतं शारदं चन्द्रमण्डलम्।",
+      "transliteration": "",
+      "translation": "Rama, wielder of the bow, saw that splendid animal ahead of him. Holding the bow he saw the deer running away, bewldered into the great forest looking at him again and again. The deer was getting out of the range of his arrow, while it enticed him now and then. Suspecting that he might be caught,  the deer was, as though jumping into the sky. Now it came within sight and now out of sight in the huge forest. It looked like the autumnal moon surrounded by clouds. (The clouds muffle the Moon and reveal him now and then).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-44-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "मुहुर्तादेव ददृशे मुहुर्दूरात्प्रकाशते।।3.44.7।।\nदर्शनादर्शनादेवं सोऽपाकर्षत राघवम्।\nसुदूरमाश्रमस्यास्य मारीचो मृगतां गतः।।3.44.8।।",
+      "transliteration": "",
+      "translation": "Maricha, transformed into a deer, was seen now near, now faroff. He pulled Rama away from the hermitage through his exits and entrances.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-44-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "आसीत् क्रुद्धस्तु काकुत्स्थो विवशस्तेन मोहितः।\nअथावतस्थे संभ्रान्तश्चायामाश्रित्य शाद्वले।।3.44.9।।",
+      "transliteration": "",
+      "translation": "Deluded by that deer, Rama got tired, perplexed and angry. Then bewidered, he waited on a grassland under a shade.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-44-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "स तमुन्मादयामास मृगरूपो निशाचरः।\nमृगैः परिवृतो वन्यैरदूरात्प्रत्यदृश्यत।।3.44.10।।",
+      "transliteration": "",
+      "translation": "That demon transformed himself into a deer and, surrounded by the animals of the forest at close range, attracted his attention.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-44-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "गृहीतुकामं दृष्ट्वैवं पुनरेवाभ्यधावत।\nतत्क्षणादेव संत्रासात्पुनरन्तर्हितोऽभवत्।।3.44.11।।",
+      "transliteration": "",
+      "translation": "Seeing Rama's  intention to catch him, the deer ran away once again out of fear and disappeared in a moment.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-44-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "पुनरेव ततो दूराद्वृक्षषण्डाद्विनिस्सृतम्।\nदृष्ट्वा रामो महातेजास्तं हन्तुं कृतनिश्चयः।।3.44.12।।",
+      "transliteration": "",
+      "translation": "Resplendent Rama saw the deer coming out of a cluster of trees at a distance and determined to kill him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-44-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "भूयस्तु शरमुद्धृत्य कुपितस्तत्र राघवः।\nसूर्यरश्मिप्रतीकाशं ज्वलन्तमरिमर्दनः।।3.44.13।।\nसन्धाय सुदृढे चापे विकृष्य बलवद्बली।\nतमेव मृगमुद्दिश्य श्वसन्तमिव पन्नगम्।।3.44.14।।\nमुमोच ज्वलितं दीप्तमस्त्रं ब्रह्मविनिर्मितम्।",
+      "transliteration": "",
+      "translation": "Powerful Rama, destroyer of foes, lifted in a rage his arrow blazing like the light of  the Sun, strung it to his sturdy bow and drew it with all his force. He then aimed at the deer and released the shining  arrow created by Brahma which went hissing like a  serpent.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-44-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "शरीरं मृगरूपस्य विनिर्भिद्य शरोत्तमः।।3.44.15।।\nमारीचस्यैव हृदयं बिभेदाशनिसन्निभः।",
+      "transliteration": "",
+      "translation": "The great arrow which was like a thunderbolt first pierced into the body of Maricha who had assumed the form of a deer and then tore his heart.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-44-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "तालमात्रमथोत्प्लुत्य न्यपतत्सशरातुरः।।3.44.16।।\nविनदन्भैरवं नादं धरण्यामल्पजीवितः।",
+      "transliteration": "",
+      "translation": "And, hurt by the dart, Maricha roared frighteningly, leaped as high as a  palm tree  and dropped down on earth almost dead.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-44-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "म्रियमाणस्तु मारीचो जहौ तां कृत्रिमां तनुम्।।3.44.17।।\nस्मृत्वा तद्वचनं रक्षो दध्यौ केन तु लक्ष्मणम्।\nइह प्रस्थापयेत्सीता शून्ये तां रावणो हरेत्।।3.44.18।।",
+      "transliteration": "",
+      "translation": "Maricha gave up his false form of the deer and before breathing his last, remembered the words of Ravana. He thought over the means through which Sita could send Lakshmana to this spot so that  Ravana would abduct her when she is alone.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-44-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "स प्राप्तकालमाज्ञाय ��कार च तत स्वनम्।\nसदृशं राघवस्येह हा सीते लक्ष्मणेति च।।3.44.19।।",
+      "transliteration": "",
+      "translation": "Then Maricha realised that the appropriate time had come. In a voice similar to Rama's, he shouted loudly 'Alas Sita, Alas Lakshmana '",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-44-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तेन मर्मणि निर्विद्धं शरेणानुपमेन हि।\nमृगरूपं तु तत्त्यक्त्वा राक्षसं रूपमास्थितः।।3.44.20।।\nचक्रे स सुमहाकायं मारीचो जीवितं त्यजन्।",
+      "transliteration": "",
+      "translation": "Struck in the vital part by Rama's matchless dart, Maricha gave up the form of the deer and assumed his huge body of the demon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-44-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तं दृष्ट्वा पतितं भूमौ राक्षसं घोरदर्शनम्।।3.44.21।।\nरामो रुधिरसिक्ताङ्गं चेष्टमानं महीतले।\nजगाम मनसा सीतां लक्ष्मणस्य वचस्स्मरन्।।3.44.22।।",
+      "transliteration": "",
+      "translation": "Seeing that terrific demon fallen on the ground, drenched in blood, and strring his limbs, Rama thought of Lakshmana's words and reached Sita mentally (thought of her).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-44-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "मारीचस्य तु मायैषा पूर्वोक्तं लक्ष्मणेन तु।\nतत्तथा ह्यभवच्चाद्य मारीचोऽयं मया हतः।।3.44.23।।",
+      "transliteration": "",
+      "translation": "This is an illusion created by Maricha. It happened exactly the way Lakshmana had said earlier. Maricha is now killed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-44-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "हा सीते लक्ष्मणेत्येवमाक्रुश्य च महास्वरम्।\nममार राक्षसस्सोऽयं श्रुत्वा सीता कथं भवेत्।।3.44.24।।\nलक्ष्मणश्च महाबाहुः कामवस्थां गमिष्यति।\nइति सञ्चिन्त्य धर्मात्मा रामो हृष्टतनूरुहः।।3.44.25।।",
+      "transliteration": "",
+      "translation": "This demon Maricha screamed aloud saying, 'Alas, Sita, Alas, Lakshmana'. He is now dead. How would Sita react to this voice? What would be the condition of Lakshmana? While righteous Rama reflected on this, his hair stood on end.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-44-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तत्र रामं भयं तीव्रमाविवेश विषादजम्।\nराक्षसं मृगरूपं तं हत्वा श्रुत्वा च तत्स्वरम्।।3.44.26।।",
+      "transliteration": "",
+      "translation": "After killing the demon in the figure of a deer and hearing his voice, Rama was overtaken by intense fear born of despair.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-44-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "निहत्य पृषतं चान्यं मांसमादाय राघवः।\nत्वरमाणो जनस्थानं ससाराभिमुखस्तदा।।3.44.27।।",
+      "transliteration": "",
+      "translation": "Then Rama killed another deer, collected the venison and hastened to Janasthana. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे चतुश्चत्वारिंशस्सर्गः। Thus ends the fortyfourth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

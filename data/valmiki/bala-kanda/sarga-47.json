@@ -1,0 +1,216 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 47,
+    "title": "Origin of marutsVishala constructs the city Diti practises her austerities--Sumati  honours Viswamitra.",
+    "titleSanskrit": "",
+    "totalShlokas": 22
+  },
+  "shlokas": [
+    {
+      "id": "v1-47-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "सप्तधातु कृते गर्भे दिति: परमदु:खिता।\nसहस्राक्षं दुराधर्षं वाक्यं सानुनयाऽब्रवीत्।।1.47.1।।",
+      "transliteration": "",
+      "translation": "Deeply distressed Diti, having come to know that the embryo had been severed into seven pieces, humbly spoke to the unassailable Indra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-47-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "ममापराधाद्गर्भोऽयं सप्तधा विफलीकृत:।\nनापराधोऽस्ति देवेश तवात्र बलसूदन।।1.47.2।।",
+      "transliteration": "",
+      "translation": "\"O Indra, Slayer of Balasura, because of my fault this embryo has been made into  seven pieces and rendered useless. In this matter you have not committed any fault.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-47-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "प्रियं तु कर्तुमिच्छामि मम गर्भविपर्यये।\nमरुतां सप्तसप्तानां स्थानपाला भवन्त्विमे।।1.47.3।।",
+      "transliteration": "",
+      "translation": "This disaster to the embryo has happened contrary to expectations. Hence, I seek a favour from you. Let these seven pieces become seven guardians of marut regions (regions of the wind).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-47-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "वातस्कन्धा: इमे सप्त चरन्तु दिवि पुत्रक ।\nमारुता इति विख्याता दिव्यरूपा ममात्मजा:।।1.47.4।।",
+      "transliteration": "",
+      "translation": "O Son, all these seven are my sons of celestial beauty.They will become pesiding deities for Vata Skandha (divisions of wind) and let them be wellknown as maruts wandering in the universe.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-47-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "ब्रह्मलोकं चरत्वेक इन्द्रलोकं तथाऽपर:।\nदिवि वायुरिति ख्यातस्तृतीयोऽपि महायशा:।।1.47.5।।",
+      "transliteration": "",
+      "translation": "Among them, one will move about in Brahmaloka, another in Indraloka, and the third, well known as vayu will move around in the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-47-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "चत्वारस्तु सुरश्रेष्ठ दिशो वै तव शासनात्।\nसञ्चरिष्यन्तु भद्रं ते देवभूता ममात्मजा:।।1.47.6।।",
+      "transliteration": "",
+      "translation": "O best of devatas by your command the other four sons will remain celestial, and will range about in four directions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-47-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तस्यास्तद्वचनं श्रुत्वा सहस्राक्ष: पुरन्दर:।\nउवाच प्राञ्जलिर्वाक्यं दितिं बलनिषूदन:।।1.47.7।।",
+      "transliteration": "",
+      "translation": "The thousandeyed Indra, slayer of Bala, on hearing Diti's words, addressed her with folded palms, saying:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-47-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "सर्वमेतद्यथोक्तं ते भविष्यति न संशय:।\nविचरिष्यन्ति भद्रं ते देवभूतास्तवात्मजा:।।1.47.8।।",
+      "transliteration": "",
+      "translation": "\"Everything will, no doubt, happen the way you said. Your sons will wander about as celestial beings. Prosperity to you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-47-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "एवं तौ निश्चयं कृत्वा मातापुत्रौ ���पोवने।\nजग्मतुस्त्रिदिवं राम कृतार्थाविति नश्श्रुतम्।।1.47.9।।",
+      "transliteration": "",
+      "translation": "\"O Rama mother and sons having arrived at this conclusion in the tapovana  ascended to heaven with their desire fulfilled. This is what we have heard.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-47-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "एष देशस्स काकुत्स्थ महेन्द्राध्युषित: पुरा। \nदितिं यत्र तपस्सिद्धामेवं परिचचार स:।।1.47.10।।",
+      "transliteration": "",
+      "translation": "\"O Descendant of Kakustha (Rama) this is that country which was formerly inhabited by Indra. Here Indra  attended on Diti who achieved the fruit of her austerities.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-47-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "इक्ष्वाकोऽस्तु नरव्याघ्र पुत्र: परमधार्मिक:।।1.47.11।।\nअलम्बुषायामुत्पन्नो विशाल इति विश्रुत:।\nतेन चासीदिह स्थाने विशालेति पुरी कृता।।1.47.12।।",
+      "transliteration": "",
+      "translation": "\"O Tiger among men (Rama) this highly virtuous and wellknown son named Vishala was born to Ikshvakus in Alambusa. Where, a city named Vishala was built.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-47-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "इक्ष्वाकोऽस्तु नरव्याघ्र पुत्र: परमधार्मिक:।।1.47.11।।\nअलम्बुषायामुत्पन्नो विशाल इति विश्रुत:।\nतेन चासीदिह स्थाने विशालेति पुरी कृता।।1.47.12।।",
+      "transliteration": "",
+      "translation": "\"O Tiger among men (Rama) this highly virtuous and wellknown son named Vishala was born to Ikshvakus in Alambusa. Where, a city named Vishala was built.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-47-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "विशालस्य सुतो राम हेमचन्द्रो महाबल:।\nसुचन्द्र इति विख्यात: हेमचन्द्रादनन्तर:।।1.47.13।।",
+      "transliteration": "",
+      "translation": "O Rama mighty Hemachandra was Vishala's son. Hemachandra's successor was the celebrated Suchandra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-47-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "सुचन्द्रतनयो राम धूम्राश्व इति विश्रुत:।\nधूम्राश्वतनयश्चापि सञ्जयस्समपद्यत।।1.47.14।।",
+      "transliteration": "",
+      "translation": "O Rama son of Suchandra was Dhumraswa, wellknown Sanjaya was the son of Dhumraswa.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-47-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "सञ्जयस्य सुतश्श्रीमान् सहदेव: प्रतापवान्।\nकुशाश्वस्सहदेवस्य पुत्र: परमधार्मिक:।।1.47.15।।",
+      "transliteration": "",
+      "translation": "Prosperous and powerful Sahadeva was Sanjaya's son. Highly virtuous Kusaswa was Sahadeva's son.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-47-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "कुशाश���वस्य महातेजा सोमदत्त: प्रतापवान्।\nसोमदत्तस्य पुत्रस्तु काकुत्स्थ इति विश्रुत:।।1.47.16।।",
+      "transliteration": "",
+      "translation": "Brilliant and powerful Somadatta was Kusaswa's son. That Somadatta's son was Kakutstha is wellknown.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-47-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तस्य पुत्रो महातेजा: सम्प्रत्येष पुरीमिमाम्।\nआवसत्यमरप्रख्यस्सुमतिर्नाम दुर्जय:।।1.47.17।।",
+      "transliteration": "",
+      "translation": "Son of Ikshvakus, Sumati comparable to devatas, invincible and exceedingly energetic is still ruling this city.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-47-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "इक्ष्वाकोस्तु प्रसादेन सर्वे वैशालिका नृपा:।\nदीर्घायुषो महात्मानो वीर्यवन्तस्सुधार्मिका:।।1.47.18।।",
+      "transliteration": "",
+      "translation": "By the grace of the Ikshvakus, all the kings of Vishala have been long lived and exalted, valiant and deeply religious.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-47-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "इहाद्य रजनीं राम सुखं वत्स्यामहे वयम्।\nश्व: प्रभाते नरश्रेष्ठ जनकं द्रष्टुमर्हसि।।1.47.19।।",
+      "transliteration": "",
+      "translation": "O Rama we shall spend the right happily here. O Best among men On the tomorrow we see Janaka\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-47-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "सुमतिस्तु महातेजा विश्वामित्रमुपागतम्।\nश्रुत्वा नरवरश्रेष्ठ: प्रत्युद्गच्छन्महायशा:।।1.47.20।।",
+      "transliteration": "",
+      "translation": "Having heard of the arrival of Viswamitra the celebrated Sumati, most brilliant chief of kings proceeded (to receive him).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-47-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "पूजां च परमां कृत्वा सोपाध्यायस्सबान्धव:।\nप्राञ्जलि: कुशलं पृष्ट्वा विश्वामित्रमथाब्रवीत्।।1.47.21।।",
+      "transliteration": "",
+      "translation": "Along with his spiritual preceptors and relatives he paid Viswamitra great respect,  enquired his wellbeing and said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-47-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "धन्योऽस्म्यनुगृहीतोऽस्मि यस्य मे विषयं मुनि:।\nसम्प्राप्तो दर्शनं चैव नास्ति धन्यतरो मम।।1.47.22।।",
+      "transliteration": "",
+      "translation": "\"O Sage no one is more blessed than me since you have favoured me with your arrival in my country.\" इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे सप्तचत्वारिंशस्सर्ग:।। Thus ends the fortyseventh sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

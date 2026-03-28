@@ -1,0 +1,99 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 101,
+    "title": "Bharata pleads with Rama to return -- informs passing away of king Dasaratha.",
+    "titleSanskrit": "",
+    "totalShlokas": 9
+  },
+  "shlokas": [
+    {
+      "id": "v2-101-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "रामस्य वचनं श्रुत्वा भरतः प्रत्युवाच ह।\nकिं मे धर्माद्विहीनस्य राजधर्मः करिष्यति।।2.101.1।।",
+      "transliteration": "",
+      "translation": "On listening to Rama, Bharata replied Of what use shall be these royal duties to me, when I have fallen from righteousness?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-101-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "शाश्वतोऽयं सदा धर्मः स्थितोऽस्मासु नरर्षभ।\nज्येष्ठेे पुत्रे स्थिते राजा न कनीयान् भवेन्नृपः।।2.101.2।।",
+      "transliteration": "",
+      "translation": "O best of men there is an ancient tradition in our race that the younger son cannot become king when the eldest is there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-101-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "स समृद्धां मया सार्धमयोध्यां गच्छ राघव।\nअभिषेचयचात्मानं कुलस्यास्य भवाय नः।।2.101.3।।",
+      "transliteration": "",
+      "translation": "Therefore, O scion of the Raghu race, return along with me to prosperous Ayodhya and for the good of our race get your self coronated.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-101-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "राजानं मानुषं प्राहु र्देवत्वे सम्मतो मम।\nयस्य धर्मार्थसहितं वृत्तमाहुरमानुषम्।।2.101.4।।",
+      "transliteration": "",
+      "translation": "Other think the king to be a human, but to me, he is divine since his conduct and the statecraft are superhuman as they are in conformity with righteousness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-101-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "केकयस्थे च मयि तु त्वयि चारण्य माश्रिते।\nदिवमार्यो गतो राजा यायजूक: सतां मतः।।2.101.5।।",
+      "transliteration": "",
+      "translation": "While I was in Kekaya and you took refuge in the forest, venerable king (Dasaratha), who was always engaged in sacrifices and was held in high esteem by the virtuous, ascended to heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-101-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "निष्क्रान्तमात्रे भवति ससीते सहलक्ष्मणे।\nदुःखशोकाभिभूतस्तु राजा त्रिदिवमभ्यगात्।।2.101.6।।",
+      "transliteration": "",
+      "translation": "As soon as you set out for the forest along with Sita and Lakshmana, the king, overwhelmed with grief, attained heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-101-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "उत्तिष्ठ पुरुषव्याघ्र क्रियतामुदकं पितुः।\nअहं चायं च शत्रुघ्नः पूर्वमेव कृतोदकौ।।2.101.7।।",
+      "transliteration": "",
+      "translation": "Arise, O best of men and offer libations to our father. I and Satrughna have already done so.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-101-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "प्रियेण किल दत्तं हि पितृलोकेषु राघव।\nअक्षय्यं भवतीत्याहुर्भवांश्चैव पितुः प्रियः।।2.101.8।।",
+      "transliteration": "",
+      "translation": "O son of Raghu's race, it is said that whatever is offered by a dear son becomes eternal in the world of manes. You alone are the beloved son of our father.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-101-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "त्वामेव शोचंस्तव दर्शनेप्सुस्त्वय्येव सक्तामनिवर्त्य बुद्धिम्।\nत्वया विहीन स्तव शोकमग्नस्त्वां संस्मरन्नस्तमितः पिता ते।।2.101.9।।",
+      "transliteration": "",
+      "translation": "Your father, deprived of you, brooding over you, wishing to behold you, unable to divert his mind fixed on you, remembering you alone and immersed in sorrow departed (from this world).  इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे एकोत्तर शततम स्सर्गः।। Thus ends the hundredone sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

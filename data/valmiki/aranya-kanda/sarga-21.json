@@ -1,0 +1,207 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 21,
+    "title": "Khara pacifies Surpanakha -- Surpanakha provokes Khara against Rama.",
+    "titleSanskrit": "",
+    "totalShlokas": 21
+  },
+  "shlokas": [
+    {
+      "id": "v3-21-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "स पुनः पतितां दृष्ट्वा क्रोधाच्छूर्पणखां खरः।\nउवाच व्यक्तया वाचा तामनर्थार्थमागताम्।।3.21.1।।",
+      "transliteration": "",
+      "translation": "Seeing Surpanakha collapse, Khara said in clear terms about the unfortunate situation she had created:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-21-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "मया त्विदानीं शूरास्ते राक्षसा रुधिराशनाः।\nत्वत्प्रियार्थं विनिर्दिष्टाः किमर्थं रुद्यते पुनः।।3.21.2।।",
+      "transliteration": "",
+      "translation": "The valiant demons who feed on blood have been commissioned for your pleasure. Why are you crying again?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-21-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "भक्ताश्चैवानुरक्ताश्च हिताश्च मम नित्यशः।\nहन्यमाना न हन्यन्ते न न कुर्युर्वचो मम।।3.21.3।।",
+      "transliteration": "",
+      "translation": "They are loyal and faithful to me. They are always my wellwishers. Even when attacked, they cannot be killed. They never fail to carry out my orders.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-21-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "किमेतच्छ्रोतुमिच्छामि कारणं यत्कृते पुनः।\nहा नाथेति विनर्दन्ती सर्पवल्लुठसि क्षितौ।।3.21.4।।",
+      "transliteration": "",
+      "translation": "I wish to know what makes you lament and roll on the ground like a serpent and hissing?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-21-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "अनाथवद्विलपसि नाथे तु मयि संस्थिते।\nउत्तिष्ठोत्तिष्ठ माभैषीर्वैक्लव्यं त्यज्यतामिह।।3.21.5।।",
+      "transliteration": "",
+      "translation": "When I am here like a lord to protect you, why do you weep like an orphan? Get up. Give up your anxiety. Be not afraid.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-21-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "इत्येवमुक्ता दुर्धर्षा खरेण परिसान्त्विता।\nविमृज्य नयने सास्रे खरं भ्रातरमब्रवीत्।।3.21.6।।",
+      "transliteration": "",
+      "translation": "Thus consoled by Khara, invincible Surpanakha wiped her tearful eyes and said to her brother:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-21-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "अस्मीदानीमहं प्राप्ता हृतश्रवणनासिका।\nशोणितौघपरिक्लिन्ना त्वया च परिसान्त्विता।।3.21.7।।",
+      "transliteration": "",
+      "translation": "My ears and nose sliced off, drenched with blood, I came to you and you pacified me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-21-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "प्रेषिताश्च त्वया वीर राक्षसास्ते चतुर्दश।\nनिहन्तुं राघवं क्रोधान्मत्प्रियार्थं सलक्षणम्।।3.21.8।।",
+      "transliteration": "",
+      "translation": "O warrior  you had sent, out of anger, fourteen demons to put an end to Rama along with Lakshmana in order to please me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-21-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "ते तु रामेण सामर्षाः शूलपट्टसपाणयः।\nसमरे निहतास्सर्वे सायकैर्मर्मभेदिभिः।।3.21.9।।",
+      "transliteration": "",
+      "translation": "The demons who went with spears in their hands were killed, their hearts pierced by  Rama's arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-21-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तान्दृष्ट्वा पतितान्भूमौ क्षणेनैव महाबलान्।\nरामस्य च महत्कर्म महांस्त्रासोऽभवन्मम।।3.21.10।।",
+      "transliteration": "",
+      "translation": "Seeing the powerful demons collapse on the ground in a moment's time through Rama's action, I was frightened.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-21-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "अहमस्मि समुद्विग्ना विषण्णा च निशाचर।\nशरणं त्वां पुनः प्राप्ता सर्वतोभयदर्शिनी।।3.21.11।।",
+      "transliteration": "",
+      "translation": "O demon  I am scared and sad. To me everything looks frightening. I, therefore, seek refuge in you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-21-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "विषादनक्राध्युषिते परित्रासोर्मिमालिनि।\nकिं मां न त्रायसे मग्नां विपुले शोकसागरे।।3.21.12।।",
+      "transliteration": "",
+      "translation": "I am drowned in a vast sea of sorrow where crocodiles in the form of distress reside. It is full of rows of waves of fright. Why do you not save me?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-21-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "एते च निहता भूमौ रामेण निशितैः शरैः।\nयेऽपि मे पदवीं प्राप्ता राक्षसाः पिशिताशनाः।।3.21.13।।",
+      "transliteration": "",
+      "translation": "The demons who live on flesh, who came following me fell down on earth and lay dead,  shot by the sharp arrows of Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-21-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "मयि ते यद्यनुक्रोशो यदि रक्षस्सु तेषु च।\nरामेण यदि ते शक्तिस्तेजो वास्ति निशाचर।3.21.14।।\nदण्डकारण्यनिलयं जहि राक्षसकण्टकम्।",
+      "transliteration": "",
+      "translation": "O demon  if you have compassion for me or for the demons, if you have the power and energy to face Rama, kill the enemy of the demons living in Dandaka forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-21-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "यदि रामं ममामित्रं न त्वमद्यवधिष्यसि।।3.21.15।।\nतवैव चाग्रतः प्राणांस्त्यक्षामि निरपत्रप।",
+      "transliteration": "",
+      "translation": "If now you do not kill that Rama, my enemy, O shameless one, I will give up my life in your very presence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-21-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "बुद्ध्याहमनुपश्यामि न त्वं रामस्य संयुगे।।3.21.16।।\nस्थातुं प्रतिमुखे शक्तस्सबलश्च महात्मनः।",
+      "transliteration": "",
+      "translation": "Instinctively I can foresee that you and your army do not have the capability to encounter that great Rama in a fight.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-21-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "शूरमानी न शूरस्त्वं मिथ्यारोपितविक्रमः।।3.21.17।।\nमानुषौ यो न शक्नोषि हन्तुं तौ रामलक्ष्मणौ।",
+      "transliteration": "",
+      "translation": "You call yourself a hero, yet are not able to kill two humans like Rama and Lakshmana. Your claim to heroism is false. You are not a hero at all.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-21-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "रामेण यदि ते शक्तिस्तेजो वास्ति निशाचर।।3.21.18।।\nदण्डकारण्यनिलयं जहि तं कुलपांसन।",
+      "transliteration": "",
+      "translation": "O demon  you are a disgrace to the family. If you have power or energy, kill that Rama dwelling in Dandaka forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-21-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "निस्सत्वस्याल्प वीर्यस्य वासस्ते कीदृशस्त्विह।।3.21.19।।\nअपयाहि जनस्थानातत्वरितस्सहबान्धवः।",
+      "transliteration": "",
+      "translation": "You have little strength and less heroism. You with your relations should immediately leave Janasthana. What kind of position do you have here?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-21-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "रामतेजोभिभूतो हि त्वं क्षिप्रं विनशिष्यसि।3.21.20।।\nस हि तेजस्समायुक्तो रामो दशरथात्मजः।\nभ्राता चास्य महावीर्यो येन चास्मि विरूपिता।।3.21.21।।",
+      "transliteration": "",
+      "translation": "Let down by the brilliance of Rama, son of Dasaratha, you will be soon destroyed. He is mighty and his brother who has disfigured me is very valiant.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-21-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "एवं विलप्य बहुशो राक्षसी विततोदरी।\nकराभ्यामुदरं हत्वा रुरोद भृशदुःखिता।।3.21.22।।",
+      "transliteration": "",
+      "translation": "Overcome by sorrow, the bigbellied demoness cried  in several ways and being very sad started beating her chest with both hands. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे एकविंशस्सर्गः। Thus ends the twentyfirst sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

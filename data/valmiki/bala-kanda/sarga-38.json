@@ -1,0 +1,234 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 38,
+    "title": "Emperor Sagara performs austerities and a sacrifice for progeny.",
+    "titleSanskrit": "",
+    "totalShlokas": 24
+  },
+  "shlokas": [
+    {
+      "id": "v1-38-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तां कथां कौशिको रामे निवेद्य कुशिकात्मज:।\nपुनरेवापरं वाक्यं काकुत्स्थ मिदमब्रवीत्।।1.38.1।।",
+      "transliteration": "",
+      "translation": "Viswamitra, an offspring of Kusika having related the story (of Karthikeya) to the son of the Kakusthas (Rama) said again.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-38-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अयोध्याधिपति श्शूर: पूर्वमासीन्नराधिप:।\nसगरो नाम धर्मात्मा प्रजाकामस्स चाप्रज:।।1.38.2।।",
+      "transliteration": "",
+      "translation": "\"In olden days there lived a brave and righteous king named Sagara who was ruler of Ayodhya. He was childless and desired to have children,",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-38-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "वैदर्भदुहिता राम केशिनी नाम नामत:।\nज्येष्ठा सगरपत्नी सा धर्मिष्ठा सत्यवादिनी।।1.38.3।।",
+      "transliteration": "",
+      "translation": "O Rama the daughter of the king of Vidarbha by name Kesini was Sagara's eldest wife who was righteous and truthful.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-38-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "अरिष्टनेमेर्दुहिता रूपेणाप्रतिमा भुवि।\nद्वितीया सगरस्यासीत्पत्नी सुमतिसंज्ञिता ।।1.38.4।।",
+      "transliteration": "",
+      "translation": "The daughter of Arishtanemi named Sumati was the second wife of Sagara and  none surpassed her in charm on earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-38-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "ताभ्यां सह महाराज: पत्नीभ्यां तप्तवांस्तप:।\nहिमवन्तं समासाद्य भृगुप्रस्रवणे गिरौ।।1.38.5।।",
+      "transliteration": "",
+      "translation": "The king (Sagara) accompanied by his wives reached Himavat mountain and engaged  himself in severe austerities on a peak called Bhriguprasravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-38-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अथ वर्षशते पूर्णे तपसाऽराधितो मुनि:।\nसगराय वरं प्रादाद्भृगुस्सत्यवतां वर:।।1.38.6।।",
+      "transliteration": "",
+      "translation": "When Sagara completed a hundred years in austerities, highly pleased by his performance, ascetic Bhrugu, the best among the truthful granted him a boon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-38-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "अपत्यलाभस्सुमहान् भविष्यति तवानघ।\nकीर्तिं चाप्रतिमां लोके प्राप्स्यसे पुरुषर्षभ।।1.38.7।।",
+      "transliteration": "",
+      "translation": "O sinless one, you will get a very great progeny, O best among men you will acquire unparalleled fame in this world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-38-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "एका जनयिता तात पुत्रं वंशकरं तव।\nषष्ठिं पुत्रसहस्राणि अपरा जनयिष्यति।।1.38.8।।",
+      "transliteration": "",
+      "translation": "O child, one wife will beget a son who will perpetuate your race and the other, sixty thousand sons, said Bhrugu.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-38-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "भाषमाणं महात्मानं राजपुत्र्यौ प्रसाद्य तम्।\nऊचतु: परमप्रीते कृताञ्जलिपुटे तदा।।1.38.9।।",
+      "transliteration": "",
+      "translation": "Thereafter, both the daughters of the king were exceedingly delighted. Having propitiated  that magnanimous asectic both of them with folded hands in supplication, said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-38-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "एक: कस्यास्सुतो ब्रह्मन् का बहून् जनयिष्यति।\nश्रोतुमिच्छावहे ब्रह्मन् सत्यमस्तु वचस्तव।।1.38.10।।",
+      "transliteration": "",
+      "translation": "O knower of Brahman which of us will beget one, and who many sons? O Brahmarshi we wish to hear. Let your words come true\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-38-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तयोस्तद्वचनं श्रुत्वा भृगु: परमधार्मिक:।\nउवाच परमां वाणीं स्वच्छन्दोऽत्र विधीयताम्।।1.38.11।।",
+      "transliteration": "",
+      "translation": "Hearing their words, highly virtuous Bhrugu made an excellent statement saying, 'In this matter, you may exercise your free will'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-38-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "एको वंशकरो वाऽस्तु बहवो वा महाबला:।\nकीर्तिमन्तो महोत्साहा: का वा कं वरमिच्छति।।1.38.12।।",
+      "transliteration": "",
+      "translation": "'What would you wish? One son who perpetuates the race or many possessed of mighty strength endowed with fame and perseverance?' (asked Bhrugu).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-38-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "मुनेस्तु वचनं श्रुत्वा केशिनी रघुनन्दन।\nपुत्रं वंशकरं राम जग्राह नृपसन्निधौ।।1.38.13।।",
+      "transliteration": "",
+      "translation": "\"O Rama, delight of the descendants of Raghus, on hearing the words of the  ascetic in the presence of king Sagara, Kesini chose the boon to have a son who perpetuates the race.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-38-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "षष्ठिं पुत्रसहस्राणि सुपर्णभगिनी तदा।\nमहोत्साहान् कीर्तिमतो जग्राह सुमति: सुतान्।।1.38.14।।",
+      "transliteration": "",
+      "translation": "Then, Sumati (the other wife) sister of Suparna (Garuda) obtained the boon of sixty thousand sons endowed with fame and great perseverance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-38-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "प्रदक्षिणमृषिं कृत्वा शिरसाऽभिप्रणम्य च।\nजगाम स्वपुरं राजा सभार्यो रघुनन्दन ।।1.38.15।।",
+      "transliteration": "",
+      "translation": "O son of the Raghus the king along with his wives, having circumambulated saint Bhrugu, bowed his head in reverence, saluted him with folded hands and returned to his capital.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-38-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अथ काले गते तस्मिन् ज्येष्ठा पुत्रं व्यजायत।\nअसमञ्ज इति ख्यातं केशिनी सगरात्मजम्।।1.38.16।।",
+      "transliteration": "",
+      "translation": "After lapse of some time, the eldest wife Kesini gave birth to a son wellknown by name Asamanjasa.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-38-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "सुमतिस्तु नरव्याघ्र गर्भतुम्बं व्यजायत।\nषष्ठि: पुत्रसहस्राणि तुम्बभेदाद्विनि:सृता:।।1.38.17।।",
+      "transliteration": "",
+      "translation": "O best among men, Sumati gave birth to a gourdlike foetus and when it burst open, sixty thousand sons emerged.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-38-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "घृतपूर्णेषु कुम्भेषु धात्र्यस्तान् समवर्धयन्।\nकालेन महता सर्वे यौवनं प्रतिपेदिरे।।1.38.18।।",
+      "transliteration": "",
+      "translation": "Nurses placed all of them in pots filled with clarified butter and fostered them. They attained adolescence after a long time.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-38-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "अथ दीर्घेण कालेन रूपयौवनशालिन:।\nषष्टि: पुत्रसहस्राणि सगरस्याभवंस्तदा।।1.38.19।।",
+      "transliteration": "",
+      "translation": "Then, after a long time Sagara's sixty thousand sons attained beauty and youth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-38-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "स च ज्येष्ठो नरश्रेष्ठ सगरस्यात्मसम्भव:।\nबालान् गृहीत्वा तु जले सरय���वा रघुनन्दन।।1.38.20।।\nप्रक्षिप्य प्रहसन्नित्यं मज्जतस्तान् समीक्ष्य वै।",
+      "transliteration": "",
+      "translation": "O best among men, delight of the Raghus (in the mean time) sagara's eldest son  Asamanjasa, used to seize hold of children and throw them into the waters of river Sarayu. And while they were drowning, he was laughing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-38-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "एवं पापसमाचारस्सज्जनप्रतिबाधक:।।1.38.21।।\nपौराणामहिते युक्त: पुत्रो निर्वासित: पुरात्।",
+      "transliteration": "",
+      "translation": "Thus this son inclined towards evil and formenting the good citizens was banished (of the king) from the capital for his indulgence in malevolent acts.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-38-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तस्य पुत्रोंऽशुमान्नाम असमञ्जस्य वीर्यवान्।।1.38.22।।\nसम्मत स्सर्वलोकस्य सर्वस्यापि प्रियंवद:।",
+      "transliteration": "",
+      "translation": "Asamanjasa's son was Anshuman. He was valiant, beloved and courteous to every one in the world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-38-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तत: कालेन महता मतिस्समभिजायत।।1.38.23।।\nसगरस्य नरश्रेष्ठ यजेयमिति निश्चिता।",
+      "transliteration": "",
+      "translation": "O best among men after a long time, a thought came to the mind of Sagara to definitely perform a sacrifice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-38-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "स कृत्वा निश्चयं राम सोपाध्यायगणस्तदा।।1.38.24।।\nयज्ञकर्मणि वेदज्ञो यष्टुं समुपचक्रमे।",
+      "transliteration": "",
+      "translation": "O Rama having determined to perform a sacrifice, he (Sagara) versed in the Vedas, started the initiatory rites for the sacrifice in the company of high priests\". इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे अष्टात्रिंशस्सर्ग: 2 Thus ends the thirtyeighth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

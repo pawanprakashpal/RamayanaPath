@@ -1,0 +1,351 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 12,
+    "title": "Ravana asks Prahastha to decide for the safety of Lanka and also inform Kumbhakarna of the situation.",
+    "titleSanskrit": "",
+    "totalShlokas": 37
+  },
+  "shlokas": [
+    {
+      "id": "v6-12-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "सतांपरिषदंकृत्स्नांसमीक्ष्यसमितिञ्जयः ।\nप्रचोदयामासतदाप्रहस्तंवाहिनीपतिम् ।।6.12.1।।",
+      "transliteration": "",
+      "translation": "Then Ravana who is victorious in wars, looking at the vast assembly (of Rakshasas) ordered Prahastha, the chief of the army.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "सेनापतेयथातेस्युःकृतविद्याश्चतुर्विधाः ।\nयोधानगररक्षायांतथाव्यादेष्टुमर्हसि ।।6.12.2।।",
+      "transliteration": "",
+      "translation": "\"O Chief of the army You order those who are well versed in the knowledge of all kinds of war and entrust those warriors of four divisions of the army to safeguard the city. Likewise, you ought to order them to be more alert.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "सप्रहस्तःप्रणीतात्माचिकीर्षन् राजशासनम् ।\nविनिक्षिपद्बलंसर्वंबहिरन्तश्चमन्दिरे ।।6.12.3।।",
+      "transliteration": "",
+      "translation": "Celebrated Prahastha desiring to carry out the king's order assigned the army inside and outside the city.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "ततोविनिक्षिप्यबलंसर्वनगरगुप्तये ।\nप्रहस्तःप्रमुखेराज्ञोनिषसादजगादच ।।6.12.4।।",
+      "transliteration": "",
+      "translation": "There after Prahastha, having assigned the army for guarding the city, sat down in front of the king, and appealed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "विहितंबहिरन्तश्चबलंबलवतस्तव ।\nकुरुष्याविमनाःक्षिप्रंयदभिप्रेतमस्तुते ।।6.12.5।।",
+      "transliteration": "",
+      "translation": "\"You are a powerful one. Your army has been posted outside as well as inside. You may tell me at once without any distraction what you intend to do.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "प्रहस्तस्यवचश्श्रुत्वाराजाराज्यहितैषिणः ।\nसुखेप्सुस्सुहृदांमध्येव्याजहारसरावणः ।।6.12.6।।",
+      "transliteration": "",
+      "translation": "Ravana who was keen on doing good to the kingdom desiring happiness and having heard Prahastha's word, said this in the midst of his dear ones.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "प्रियाप्रियेसुखंदुःखंलाभालाभेहिताहिते ।\nधर्मकामार्थकृच्छ्रेषुयूयमर्हथवेदितुम् ।।6.12.7।।",
+      "transliteration": "",
+      "translation": "\"When there is doubt about dharma, artha and kama, you are capable of deciphering between desirable and undesirable, happiness and sorrow, gain and loss.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "सर्वकृत्यानियुष्माभिस्समारब्धानिसर्वथा ।\nमन्त्रकर्मनियुक्तानिनजातुविफलानिमे ।।6.12.8���।",
+      "transliteration": "",
+      "translation": "\"The actions carried out by me are always after it is well thought out and decided by all of you. I know that those actions have not failed.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "ससोमग्रहनक्षत्रैर्मरुद्भिरिववासवः ।\nभवद्भिरहमत्यर्थंवृतश्रियमवाप्नुयाम् ।।6.12.9।।",
+      "transliteration": "",
+      "translation": "\"Just as Indra who rules over the moon, sun, stars, and gods attains fortune, accompanied by you I will attain fortune exceedingly at once.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अहंतुखलुसर्वान्वस्समर्थयितुमुद्यतः ।\nकुम्भकर्णस्यतुस्वप्नान्नेममर्थमचोदयम् ।।6.12.10।।",
+      "transliteration": "",
+      "translation": "\"Indeed, rightly I told all of you earlier. Since Kumbhakarna was sleeping I had not informed him about this matter.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "अयंहिसुप्तःषण्मासान्कुम्भकर्णोमहाबलः ।\nसर्वशस्त्रभृतांमुख्यस्सइदानींसमुत्थितः ।।6.12.11।।",
+      "transliteration": "",
+      "translation": "\"Kumbhakarna, the foremost among the wielders of weapons, is very strong. He was sleeping these six months and has arrived now.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "इयंचदण्डकारण्याद्रामस्यमहिषीमया ।\nरक्षोभिश्चरितोद्देशादानीताजनकात्मजा ।।6.12.12।।",
+      "transliteration": "",
+      "translation": "\"This Sita, the consort of Rama was brought from D and akaranya, a place where rakshasas wander.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "सामेवशय्यामारोढुमिच्छत्यलसगामिनी ।\nत्रिषुलोकेषुचान्यामेनसीतासदृशीमता ।।6.12.13।।",
+      "transliteration": "",
+      "translation": "\"Sita who walks modestly did not like to enter into my bed (love me ) however much I prayed. I do not think there is anyone who looks like her in the three worlds.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तनुमध्यापृथुश्रोणीशरदिन्दुनिभानना ।\nहेमबिम्बनिभासौम्यामायेवमयनिर्मिता ।।6.12.14।।",
+      "transliteration": "",
+      "translation": "\"She is a woman of slender waist, plump hips, whose face is like an autumnal full moon. She is gentle and like a golden image. She is like a magical one constructed by Maya.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "सुलोहिततलौश्लक्ष् णौचरणौसुप्रतिष्ठितौ ।\nदृष्ट्वाताम्रनखौतस्यादीप्यतेमेशरीरजः ।।6.12.15।।",
+      "transliteration": "",
+      "translation": "\"Beholding her smooth red soles and evenly shaped pinkish nails of feet, love is kindled in me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "हुताग्निरर्चिस्सङ्काशामेनांसौरीमिवप्रभाम् ।\nउन्नसंविमलंवल्गुविपुलांचारुलोचनम् ।।6.12.16।।\nपश्यंस्तदवशस्तस्याःकामस्यवशमेयिवान् ।",
+      "transliteration": "",
+      "translation": "\"On beholding the sacrificial firelike face of Sita glowing like the radiance of the Sun, seeing her prominent nose, her large attractive countenance with beautiful eyes surely, I am overtaken by love and have become a slave to her.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "क्रोधहर्षसमानेनदुर्वर्णकरणेनच ।।6.12.17।।\nशोकसन्तापनित्येनकामेनकलुषीकृतः ।",
+      "transliteration": "",
+      "translation": "\"I have been disturbed by passion, which is equal in anger or happiness and makes one pale in grief or agony.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "सातुसंवत्सरंकालंमामयाचतभामिनी ।।6.12.18।।\nप्रतीक्षमाणाभर्तारंराममायतलोचना ।\nतन्मयाचारुनेत्रायःप्रतिज्ञातंवचश्शुभम् ।।6.12.19।।\nश्रान्तोऽहंसततंकामाद्यातोहयइवाध्वनि ।",
+      "transliteration": "",
+      "translation": "\"Broadeyed Sita requested me one year time expecting her husband Rama to come (this is a false statement made by Ravana here) and I promised in turn to Sita of beautiful eyes. Just like an exhausted horse that marched I am tired on account of my passion.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "कथंसागरमक्षोभ्यंतरिष्यन्तिवनौकसः ।।6.12.20।।\nबहुसत्त्वसमाकीर्णंतौवादशरथात्मजौ ।",
+      "transliteration": "",
+      "translation": "\"How will the Vanaras and even both the sons of Dasaratha be able to cross the unassailable ocean inhabited by huge crocodiles?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "अथवाकपिनैकेनकृतंनःकदनंमहत् ।।6.12.21।।\nदुर् ज्ञेयाःकार्यगतयोब्रूतयस्ययथामति ।",
+      "transliteration": "",
+      "translation": "\"Even so, a huge destruction was done to us, by a single monkey. The consequences of their acts are unpredictable. Tell me what is there in your mind, according to your own understanding.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "मानुष्यान्नोभयंनास्तितथापितुविमृश्यताम् ।।6.12.22।।\nतदादेवासुरेयुद्धेयुष्माभिस्सहितोऽजयम् ।\nतेमेभवन्तश्चतथासुग्रीवप्रमुखान्हरीन् ।।6.12.23।।\nपरेपारेसमुद्रस्यपुरस्कृत्यनृपात्मजौ ।\nसीतायाःपदवींप्राप्यसम्प्राप्तौवरुणालयाम् ।।6.12.24।।",
+      "transliteration": "",
+      "translation": "\"There is no fear of human beings for me. I won the war between Devas and asuras along with you. As it is, all of you are there. There at the shore of the ocean Rama and Lakshmana have collected with Sugriva and other leaders placing Vanaras in front to get back Sita. You may suggest a way out to gain.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "अदेयाचयथासीतावध्यौदशरथात्मजौ ।\nभवद्भिर्मन्त्र्यतांमन्त्रस्सुनीतंचाभिधीयताम् ।।6.12.25।।",
+      "transliteration": "",
+      "translation": "\"You may also think over and suggest to me a plan to kill Rama and Lakshmana without giving Sita.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "नहिशक्तिंप्रपश्यामिजगत्यन्यस्यकस्यचित् ।\nसागरंवानरैस्तीर्वानिश्चयेनजयोमम ।।6.12.26।।",
+      "transliteration": "",
+      "translation": "\"No one can cross the ocean with Vanaras (help). As such I do not find anyone has the capacity. I am certain of victory.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "तस्यकामपरीतस्यनिशम्यपरिदेवितम् ।\nकुम्भकर्णःप्रचुक्रोधवचनंचेदमब्रवीत् ।।6.12.27।।",
+      "transliteration": "",
+      "translation": "On hearing the lamentation of Ravana seized with passion, enraged Kumbhakarna uttered these words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "यदातुरामस्यसलक्ष्मणस्यप्रसह्यसीताखलुसाइहाऽहृता ।\nसकृत्समीक्ष्यैवसुनिश्चितंतदाभजेतचित्तंयमुनेवयामुनम् ।।6.12.28।।",
+      "transliteration": "",
+      "translation": "\"If you had at that time, that is before bringing Sita by force, which was accompanied by Rama and Lakshmana, discussed, and thought of, then you would be sure in your mind like the Yamuna River filling the Yamuna (mountain ).\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "सर्वमेतन्महाराजकृतमप्रतिमंतव ।\nविधीयेतसहास्माभिरादावेवास्यकर्मणः ।।6.12.29।।",
+      "transliteration": "",
+      "translation": "\"Great king If you had discussed with us about all this action earlier, it would have been very good.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "न्यायेनराजकार्याणियःकरोतिदशानन: ।\nनससन्तप्यतेपश्चान्निश्चितार्थमतिर्नृपः ।।6.12.30।।",
+      "transliteration": "",
+      "translation": "\"O Ravana Whoever is the king, having a sense of determination, thinks justifiably and carries out princely duties will not regret.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "अनुपायेनकर्माणिविपरीतानियानिच ।\nक्रियमाणानिदुष्यन्तिहवींष्यप्रयतेष्विव ।।6.12.31।।",
+      "transliteration": "",
+      "translation": "\"Tasks carried out without proper plan and contrary to the right principles are spoilt like inauspicious oblations offered into sacrificial fire.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "यःपश्चात्पूर्वकार्याणिकर्माण्यभिचिकीर्षति ।\nपूर्वंचापरकार्याणिनसवेदनयानयौ ।।6.12.32।।",
+      "transliteration": "",
+      "translation": "\"He who seeks to perform earlier what has to be done later and does later what have to be done earlier is not a knower of right and wrong.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "चपलस्यतुकृत्येषुप्रसमीक्ष्याधिकंबलम् ।\nक्षिप्रमन्येप्रपद्यन्तेक्रौञ्चस्यखमिवद्विजाः ।।6.12.33।।",
+      "transliteration": "",
+      "translation": "A hasty one who acts without thinking of the superior strength (of enemy) gets out at once like the swan penetrates into the crevice of Krauncha (mountain).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "त्वयेदंमहादारब्धंकार्यमप्रतिचिन्तितम् ।\nदिष्ट्यात्वांनावधीद्रामोविषमिश्रमिवामिषम् ।।6.12.34।।",
+      "transliteration": "",
+      "translation": "\"Without prior thought this great act has been done by you. Rama has not killed you, fortunately like poison mixed flesh would kill.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "तस्मात्त्वयासमारब्धंकर्मह्यप्रतिमंपरैः ।\nअहंसमीकरिष्यामिहत्वाशत्रूंस्तवानघ ।।6.12.35।।",
+      "transliteration": "",
+      "translation": "\"O Sinless Ravana Therefore, that which you have done is not possible for none other than me. I will kill your enemy and accomplish your goal for you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "अहमुत्सादयिष्यामिशत्रूंस्तवनिशाचर ।\nयदिशक्रविवस्वन्तौयदिपावकमारुतौ ।।6.12.36।।\nतावहंयोधयिष्यामिकुबेरवरुणावपि ।",
+      "transliteration": "",
+      "translation": "\"O Rakshasa I will ruin the enemy. I will fight with both of them (Rama and Lakshmana) even if they are Indra and sun, fire god and wind god or Kubera and Varuna.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "गिरिमात्रशरीरस्यमहापरिघयोधिनः ।\nनर्दतस्तीक्ष्णदंष्ट्रस्यबिभीयाद्वैपुरन्दरः ।।6.12.37।।",
+      "transliteration": "",
+      "translation": "\"If I go with a mountain like body and sharp teeth, holding a huge iron bar roaring like a lion, even Indra will run away out of fear.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "पुनर्मांसद्वितीयेनशरेणनिहनिष्यति ।\nततोऽहंतस्यपास्यामिरुधिरंकाममाश्वस ।।6.12.38।।",
+      "transliteration": "",
+      "translation": "\"By the time he releases a second arrow again, I will immediately drink his blood. Stay quiet with confidence.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "वधेनवैदाशरथेस्सुखावहंजयंतवाहर्तुमहंयतिष्ये ।\nहत्वाचरामंसहलक्ष्मणेनखादामिसर्वान्हरियूथमुख्यान् ।।6.12.39।।",
+      "transliteration": "",
+      "translation": "\"By killing Rama, I will try to make you happy and victorious. On killing Rama and Lakshmana like that I will consume the Vanara leaders.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-12-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "रमस्वकामम् पिबचाग्य्रवारुणींकुरष्वकार्याणिहितानिविज्वरः ।\nमयातुरामेगमितेयमक्षयंचिरायसीतावशगाभविष्यति ।।6.12.40।।",
+      "transliteration": "",
+      "translation": "\"You be free from fear, sporting and drinking the best of wines and doing actions that you like. Rama will be sent to the abode of the god of death. On reaching their Sita will be under your control for long.\" ।।इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेद्वादशस्सर्गः।। This is the end of twelfth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

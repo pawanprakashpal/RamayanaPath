@@ -1,0 +1,297 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 37,
+    "title": "Birth of Karttikeya.",
+    "titleSanskrit": "",
+    "totalShlokas": 31
+  },
+  "shlokas": [
+    {
+      "id": "v1-37-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तप्यमाने तपो देवे देवा: सर्षिगणा: पुरा।\nसेनापतिमभीप्सन्त: पितामहमुपागमन्।।1.37.1।।",
+      "transliteration": "",
+      "translation": "In olden days when Iswara was engaged in austerities, the devatas together with the ascetics, approached Lord Brahma for an army general.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-37-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तत��ऽब्रुवन् सुरास्सर्वे भगवन्तं पितामहम्।\nप्रणिपत्य सुरास्सर्वे सेन्द्रास्साग्निपुरोगमा:।।1.37.2।।",
+      "transliteration": "",
+      "translation": "Then led by Indra and the Firegod all devatas approached Lord Brahma, the grandsire saluted him (with folded hands) and spoke.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-37-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "यो न स्सेनापतिर्देव दत्तो भगवता पुरा।\nतप: परममास्थाय तप्यते स्म सहोमया।।1.37.3।।",
+      "transliteration": "",
+      "translation": "\"O Lord in ancient times your lordship gave us an army general (at the time of  creation). He is engrossed in great penance along with Uma .",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-37-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "यदत्रानन्तरं कार्यं लोकानां हितकाम्यया।\nसंविधत्स्व विधानज्ञ त्वं हि न: परमा गति:।।1.37.4।।",
+      "transliteration": "",
+      "translation": "\"O Knower of law and order O Grandsire verily you are our supreme refuge committed to the welfare of the worlds. Tell us what we should do in this matter (now that we cannot procreate a general on account of Uma's curse)\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-37-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "देवतानां वचश्श्रुत्वा सर्वलोकपितामह:।\nसान्त्वयन्मधुरैर्वाक्यैस्त्रिदशानिदमब्रवीत्।।1.37.5।।",
+      "transliteration": "",
+      "translation": "Hearing the words of the devatas, Brahma, the Grandsire of all the worlds consoled the devatas with sweet words, saying:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-37-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "शैल पुत्र्या यदुक्तं तन्न प्रजास्यथ पत्निषु ।\nतस्या वचनमक्लिष्टं सत्यमेतन्न संशय:।।1.37.6।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-37-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "इयमाकाशगा गङ्गा यस्यां पुत्रं हुताशन:।\nजनयिष्यति देवानां सेनापतिमरिन्दमम्।।1.37.7।।",
+      "transliteration": "",
+      "translation": "\"Ganga keeps flowing in the celestial regions. Through Ganga the Firegod will beget a son who will be capable of destroying enemies. He will become the army general of the gods\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-37-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "ज्येष्ठा शैलेन्द्रदुहिता मानयिष्यति तत्सुतम्।\nउमायास्तद्बहुमतं भविष्यति न संशय:।।1.37.8।।",
+      "transliteration": "",
+      "translation": "\"Ganga, the eldest daughter of the king of the mountains, will tend that son of Agni. This will be totally acceptable to Uma. No doubt\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-37-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तच्छ्रुत्वा वचनं तस्य कृतार्था रघुनन्दन।\nप्रणिपत्य सुरास्सर्वे पितामहमपूजयन्।।1.37.9���।",
+      "transliteration": "",
+      "translation": "\"O son of the Raghus having heard Brahma's words all the devatas considered themselves successful in their mission. They saluted him with folded hands and offered their worship.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-37-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "ते गत्वा पर्वतं राम कैलासं धातुमण्डितम्।\nअग्निं नियोजयामासु: पुत्रार्थं सर्वदेवता:।।1.37.10।।",
+      "transliteration": "",
+      "translation": "All the devatas, went to mount Kailasa, adorned with minerals, and urged the Firegod for a son.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-37-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "देवकार्यमिदं देव संविधत्स्व हुताशन।\nशैलपुत्र्यां महातेजो गङ्गायां तेज उत्सृज।।1.37.11।।",
+      "transliteration": "",
+      "translation": "'O lustrous Firegod, accomplish this divine work. O god, possessed of mighty energy, release the vital fluid of Iswara in Ganga, daughter of the king of mountains.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-37-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "देवतानां प्रतिज्ञाय गङ्गामभ्येत्य पावक:।\nगर्भं धारय वै देवि देवतानामिदं प्रियम्।।1.37.12।।",
+      "transliteration": "",
+      "translation": "\"The Firegod gave his consent. The devatas approached Ganga and said, 'O goddess bear the energy of Siva (inyour world) since this cause is dear to the gods'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-37-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तस्य तद्वचनं श्रुत्वा दिव्यं रूपमधारयत्।\nदृष्ट्वा तन्महिमानं स समन्तादवकीर्यत।।1.37.13।।",
+      "transliteration": "",
+      "translation": "\"Hearing the words of the Firegod, Ganga assumed a divine form. Beholding her glory, the god of fire pervaded her from all sides.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-37-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "समन्ततस्तदा देवीमभ्यषिञ्चत पावक:।\nसर्वस्रोतांसि पूर्णानि गङ्गाया रघुनन्दन।।1.37.14।।",
+      "transliteration": "",
+      "translation": "O Rama then, the Firegod discharged the vital fluid of Iswara, preserved in his body, which pervaded all sides of Ganga and all her streams were filled with (the fluid).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-37-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तमुवाच ततो गङ्गा सर्वदेवपुरोहितम्।\nअशक्ता धारणे देव तव तेज स्समुद्धतम्।\nदह्यमानाग्निना तेन सम्प्रव्यथितचेतना।।1.37.15।।",
+      "transliteration": "",
+      "translation": "Ganga addressing the Firegod standing ahead of all the devatas said 'O god of fire, I am incapable of holding your everincreasing splendour. The fiery fluid is burning me. My consciousness is overwhelmed'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-37-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अथाब्रवीदिदं गङ्गां सर्वदेवहुताशन:।\nइह हैमवती पादे गर्भोऽयं सन्निवेश्यताम्।।1.37.16।।",
+      "transliteration": "",
+      "translation": "Thereafter the Firegod who is the partaker of oblations offered to all deities said to Ganga 'Place this embryo on this slope of Mountain Himavan'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-37-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "श्रुत्वा त्वग्निवचो गङगा तं गर्भमतिभास्वरम्।\nउत्ससर्ज महातेज स्स्रोतोभ्यो हि तदानघ ।।1.37.17।।",
+      "transliteration": "",
+      "translation": "\"O glorious, sinless one, (Rama) hearing the words of the Firegod, Ganga then expelled that resplendent embryo from her streams.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-37-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "यदस्या निर्गतं तस्मात्तप्तजाम्बूनदप्रभम् ।\nकाञ्चनं धरणीं प्राप्तं हिरण्यममलं शुभम्।।1.37.18।।",
+      "transliteration": "",
+      "translation": "The embryo that emerged from Ganga reached the earth. It resembled the lustre of molten gold. It furned into gold auspicious, bright and pure.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-37-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "ताम्रं कार्ष्णायसं चैव तैक्ष्ण्यादेवाभ्यजायत।।1.37.19।।\nमलं तस्याभवत्तत्र त्रपु सीसकमेव च।\nतदेतद्धरणीं प्राप्य नानाधातुरवर्धत।।1.37.20।।",
+      "transliteration": "",
+      "translation": "There copper and iron were produced from its acidity, zinc and lead from its residue. Various minerals were formed when that embryo reached the earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-37-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "निक्षिप्तमात्रे गर्भे तु तेजोभिरभिरञ्जितम्।\nसर्वं पर्वतसन्नद्धं सौवर्णमभवद्वनम्।।1.37.21।।",
+      "transliteration": "",
+      "translation": "When the embryo was placed (in Ganga) it spread on all sides of the forest on the mountain. Irradiated with lustre the forest appeared golden.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-37-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "जातरूपमिति ख्यातं तदा प्रभृति राघव।\nसुवर्णं पुरुषव्याघ्र हुताशनसमप्रभम्।।1.37.22।।\nतृणवृक्षलतागुल्मं सर्वं भवति काञ्चनम्।",
+      "transliteration": "",
+      "translation": "O tiger among men, O scion of the Raghus Then onwards gold which is effulgent like fire, became wellknown as Jatarupa (pure form). The grass, shrubs, creepers and trees of that forest looked golden.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-37-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तं कुमारं ततो जातं सेन्द्रास्सह मरुद्गणा:।।1.37.23।।\nक्षीरसंभावनार्थाय कृत्तिकास्समयोजन्।",
+      "transliteration": "",
+      "translation": "Thereafter Kumara was born (out of Ganga's womb). The gods together with Indra arranged six nymphs (stars) to act  as nurses to suckle Kumara as their own offspring.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-37-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "ता: क्षीरं जातमात्रस्य कृत्वा समयमुत्तमम्।।1.37.24।।\nददु: पुत्रोऽयमस्माकं सर्वासामिति निश्चिता:।",
+      "transliteration": "",
+      "translation": "Those krittikas, having decided among themselves and having made an agreement with the gods saying 'This boy shall become a son to all of us' fed the newborn with their milk (breast milk).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-37-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "ततस्तु देवता स्सर्वा: कार्तिकेय इति ब्रुवन्।।1.37.25।।\nपुत्रस्त्रैलोक्यविख्यातो भविष्यति न संशय:।4",
+      "transliteration": "",
+      "translation": "Thereafter, all the gods said, 'This son shall become renowned in the three worlds as Karttikeya, (son of krittikas). There is no doubt '.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-37-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तेषां तद्वचनं श्रुत्वा स्कन्नं गर्भपरिस्रवे।।1.37.26।।\nस्नापयन् परया लक्ष्म्या दीप्यमानं यथानलम्।",
+      "transliteration": "",
+      "translation": "Hearing the words of the gods, the krittikas bathed the baby that descended from the womb of Ganga resembling flaming fire and shining with great beauty.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-37-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "स्कन्द इत्यब्रुवन् देवा: स्कन्नं गर्भपरिस्रवात्।।1.37.27।।\nकार्तिकेयं महाभागं काकुत्स्थ ज्वलनोपमम्।",
+      "transliteration": "",
+      "translation": "O scion of the Kakusthas, Karttikeya lustrous like flaming fire, was very fortunate Descended from the womb of the Ganga, he is named Skanda by the gods.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-37-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "प्रादुर्भूतं तत: क्षीरं कृत्तिकानामनुत्तमम् ।।1.37.28।।\nषण्णां षडाननो भूत्वा जग्राह स्तनजं पय:।",
+      "transliteration": "",
+      "translation": "Then excellent milk surged in the breasts of krittikas. Assuming six mouths, he sucked the milk.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-37-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "गृहीत्वा क्षीरमेकाह्ना सुकुमारवपुस्तदा।।1.37.29।।\nअजयत्स्वेन वीर्येण दैत्यसेनागणान् विभु:।",
+      "transliteration": "",
+      "translation": "Drinking milk just for a day and with a body still tender he could vanquish hosts of demons by his inborn prowess so capable be was",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-37-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "सुरसेनागणपतिं ततस्तमतुलद्युतिम्।।1.37.30।।\nअभ्यषिञ्चन् सुरगणा स्समेत्याग्निपुरोगमा:।",
+      "transliteration": "",
+      "translation": "With the Firegod in the forefront, all the gods assembled and installed Karttikeya, shining on unsurpassed brilliant, as commander of the gods forces.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-37-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "एष ते राम गङ्गाया विस्तरोऽभिहितो मया।।1.37.31।।\nकुमारसम्भवश्चैव धन्य: पुण्यस्तथैव च।",
+      "transliteration": "",
+      "translation": "\"O Rama this story of Ganga and that of the  birth of Kumara, who was fortunate and auspicious, has been related to you in detail.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-37-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "भक्तश्च य: कार्तिकेये काकुत्स्थ भुवि मानवः।\nआयुष्मान् पुत्रपौत्रैश्च स्कन्दसालोक्यतां व्रजेत्।।1.37.32।।",
+      "transliteration": "",
+      "translation": "O son of the Kakusthas whosoever reveres Kartikeya on this earth with devotion and faith, shall have a long life, sons and grandsons and after death will reach the world of  Skanda\". इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डेण्डे सप्तत्रिंशस्सर्ग:।। Thus ends the thirtyseventh sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

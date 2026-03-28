@@ -1,0 +1,252 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 66,
+    "title": "King Janaka honours Viswamitra, Rama and Lakshmana--narrates the story about the bow of Mahadeva--declares he would give Sita in marriage to Rama if he strings the bow.",
+    "titleSanskrit": "",
+    "totalShlokas": 26
+  },
+  "shlokas": [
+    {
+      "id": "v1-66-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तत: प्रभाते विमले कृतकर्मा नराधिप:।\nविश्वामित्रं महात्मानं आजुहाव सराघवम्।।1.66.1।।",
+      "transliteration": "",
+      "translation": "The day dawned bright and clear when the king (Janaka) performed his daily routine rites and welcomed the great Viswamitra with the two Raghavas (Rama and Lakshmana).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-66-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तमर्चयित्वा धर्मात्मा शास्त्रदृष्टेन कर्मणा।\nराघवौ च महात्मानौ तदा वाक्यमुवाच ह।।1.66.2।।",
+      "transliteration": "",
+      "translation": "The virtuous Janaka paid respects to Viswamitra and the highsouled Rama and Lakshmana in accordance with the sastras and spoke:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-66-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "भगवन् स्वागतं तेऽस्तु किं करोमि तवानघ।\nभवानाज्ञापयतु मामाज्ञाप्यो भवता ह्यहम्।।1.66.3।।",
+      "transliteration": "",
+      "translation": "\"Welcome, O Venerable one O Irreproachable one what can I do for you? Worthy of being commanded, I seek your orders.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-66-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "एवमुक्तस्स धर्मात्मा जनकेन महात्मना।\nप्रत्युवाच मुनिर्वीरं वाक्यं वाक्यविशारद:।।1.66.4।।",
+      "transliteration": "",
+      "translation": "At the words of the magnanimous Janaka, the virtuous sage wellversed in speech replied to the heroic king:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-66-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "पुत्रौ दशरथस्येमौ क्षत्रियौ लोकविश्रुतौ।\nद्रुष्टुकामौ धनु श्श्रेष्ठं यदेतत्वयि तिष्ठति।।1.66.5।।",
+      "transliteration": "",
+      "translation": "Dasaratha's sons, (Rama and Lakshmana), kshatriyas renowned in the world are eager to see that great bow in your possession.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-66-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "एतद्दर्शय भद्रं ते कृतकामौ नृपात्मजौ।\nदर्शनादस्य धनुषो यथेष्टं प्रतियास्यत:।।1.66.6।।",
+      "transliteration": "",
+      "translation": "Be blessed. Show this great bow to the princes. This is their desire. Once it is fulfilled, they will go back.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-66-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु जनक: प्रत्युवाच महामुनिम्।\nश्रूयतामस्य धनुषो यदर्थमिह तिष्ठति।।1.66.7।।",
+      "transliteration": "",
+      "translation": "Thus addressed by the mighty ascetic Janaka replied, \"I shall tell you how this bow came to be deposited here\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-66-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "देवरात इति ख्यातो निमेष्षष्ठो महीपति:।\nन्यासोऽयं तस्य भगवन् हस्ते दत्तो महात्मना।।1.66.8।।",
+      "transliteration": "",
+      "translation": "\"O Adorable one there was a famous king named Devarata, sixth in line from Nimi. This bow was kept with him in trust by the exalted lord (Shiva).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-66-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "दक्षयज्ञवधे पूर्वं धनुरायम्य वीर्यवान्।\nरुद्रस्तु त्रिदशान् रो��ात्सलीलमिदमब्रवीत्।।1.66.9।।",
+      "transliteration": "",
+      "translation": "Earlier at the time of destruction of Daksha's sacrifice, Rudra endowed with  great  prowess lifted this bow sportively and spoke to the gods.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-66-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "यस्माद्भागार्थिनो भागान्नाकल्पयत मे सुरा:।\nवराङ्गाणि महार्हाणि धनुषा शातयामि व:।।1.66.10।।",
+      "transliteration": "",
+      "translation": "'O gods in your anxiety to partake your share of the sacrifie, you have failed to provide mine in the sacrificial offerings. Therefore, I shall sever your jewelled heads and beautiful limbs with this bow'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-66-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "ततो विमनसस्सर्वे देवा वै मुनिपुङ्गव।\nप्रसादयन्ति देवेशं तेषां प्रीतोऽभवद्भव:।।1.66.11।।",
+      "transliteration": "",
+      "translation": "\"O Eminent ascetic thereafter all the gods with agitated minds propitiated lord of the gods, Siva and he was pleased with them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-66-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "प्रीतियुक्तस्स सर्वेषां ददौ तेषां महात्मनाम्।\nतदेतद्देवदेवस्य धनूरत्नं महात्मन:। \nन्यासभूतं तदा न्यस्तमस्माकं पूर्व के विभो।।1.66.12।।",
+      "transliteration": "",
+      "translation": "O Lord that gem of a bow belonging to Siva was given to the great gods who in turn got it deposited in trust with our ancestor.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-66-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "अथ मे कृषत: क्षेत्रं लाङ्गूलादुत्थिता मया।\nक्षेत्रं शोधयता लब्धा नाम्ना सीतेति विश्रुता।।1.66.13।।",
+      "transliteration": "",
+      "translation": "Thereupon while I was ploughing and cleaing the (sacrificial) ground, Sita, a wellknown name, was lifted up by the blade of the plough. Thus she was obtained by  me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-66-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "भूतलादुत्थिता सा तु व्यवर्धत ममात्मजा।\nवीर्यशुल्केति मे कन्या स्थापितेयमयोनिजा।।1.66.14।।",
+      "transliteration": "",
+      "translation": "Arisen from the earth and not from a mother's womb, she grew up as my daughter. I made a stipulation that (this shall be the means to win this maiden as a gift) this shall be given in marriage only to the prince whose prowess is fully tried.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-66-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "भूतलादुत्थितां तां तु वर्धमानां ममात्मजाम्।\nवरयामासुरागम्य राजानो मुनिपुंगव।।1.66.15।।",
+      "transliteration": "",
+      "translation": "O Eminent ascetic arisen from the earth and reared as my daughter, she has been sought after in marriage by many princes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-66-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तेषां वरयतां कन्यां सर्वेषां पृथिवीक्षिताम्।\nवीर्यशुल्केति भगवन् न ददामि सुतामहम्।।1.66.16।।",
+      "transliteration": "",
+      "translation": "O Worshipful one all those monarchs sought this maiden but I did not offer my daughter saying that the 'marriage offer' could be made only through the tried and tested prowess of a suitor.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-66-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "ततस्सर्वे नृपतय स्समेत्य मुनिपुंगव।\nमिथिलामभ्युपागम्य वीर्यजिज्ञासवस्तदा।।1.66.17।।",
+      "transliteration": "",
+      "translation": "O Preeminent among ascetics thereafter many kings together came to Mithila to test their prowess.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-66-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तेषां जिज्ञासमानानां वीर्यं धनुरुपाहृतम्।\nन शेकुर्ग्रहणे तस्य धनुषस्तोलनेऽपि वा।।1.66.18।।",
+      "transliteration": "",
+      "translation": "The bow was brought and placed before those who were curious to test their strength  but none was able to grasp or lift the bow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-66-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तेषां वीर्यवतां वीर्यमल्पं ज्ञात्वा महामुने ।\nप्रत्याख्याता नृपतयस्तन्निबोध तपोधन।।1.66.19।।",
+      "transliteration": "",
+      "translation": "O great ascetic I knew those mighty kings had little strength, so rejected them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-66-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तत: परमकोपेन राजानो नृपपुङ्गव।\nन्यरुंधन्मिथिलां सर्वे वीर्यसंदेहमागता:।।1.66.20।।",
+      "transliteration": "",
+      "translation": "O Mighty ascetic, thereafter all the kings doubting their own strength in stringing the bow were inflamed with anger and laid siege on Mithila.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-66-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "आत्मानमवधूतं ते विज्ञाय नृपपुङ्गवा:।\nरोषेण महताऽऽविष्टा: पीडयन्मिथिलां पुरीम्।।1.66.21।।",
+      "transliteration": "",
+      "translation": "Those eminent kings felt humiliated. Inflamed with anger, they tormented the city of Mithila.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-66-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "ततस्संवत्सरे पूर्णे क्षयं यातानि सर्वश:।\nसाधनानि मुनिश्रेष्ठ ततोऽहं भृशदु:खित:।।1.66.22।।",
+      "transliteration": "",
+      "translation": "O Best among ascetics thus one year passed. Everywhere in the city all the means of living were exhausted. I felt deeply sad over this situation.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-66-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "ततो देवगणान् सर्वान् तपसाऽहं प्रसादयम्।\nददुश्च परमप्रीता श्चतुरङ्गबलं सुरा:।।1.66.23।।",
+      "transliteration": "",
+      "translation": "Thereafter, I propitiated the gods by my austerities. Highly pleased, they gave me an army of four divisions (chariots, elephants, horses and infantry ).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-66-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "ततो भग्ना नृपतयो हन्यमाना दिशो ययु:।\nअवीर्या वीर्यसन्दिग्धा स्सामात्या: पापकर्मण:।।1.66.24।।",
+      "transliteration": "",
+      "translation": "Then those wicked kings who were exhausted were doubtful about their energy. They were beaten and defeated. They fled away along with their ministers in different directions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-66-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तदेतन्मुनिशार्दूल धनु: परमभास्वरम्।\nरामलक्ष्मणयोश्चापि दर्शयिष्यामि सुव्रत।।1.66.25।।",
+      "transliteration": "",
+      "translation": "O Sage you are a tiger among asceties, you are faithful to your vows, I shall show this effulgent bow to your Rama and Lakshmana .",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-66-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "यद्यस्य धनुषो राम: कुर्यादारोपणं मुने।\nसुतामयोनिजां सीतां दद्यां दाशरथेरहम्।।1.66.26।।",
+      "transliteration": "",
+      "translation": "O Sage if Rama could lift and string this bow I shall give my daughter Sita, not born from a woman, to him (son of Dasaratha)\".   इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे षट्षष्टितमस्सर्ग:।। Thus ends the sixtysixth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

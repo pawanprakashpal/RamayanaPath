@@ -1,0 +1,216 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 5,
+    "title": "Dasaratha's kingdom and greatness of Ayodhya",
+    "titleSanskrit": "",
+    "totalShlokas": 22
+  },
+  "shlokas": [
+    {
+      "id": "v1-5-1",
+      "number": 1,
+      "type": "shloka",
+      "original": ".\nसर्वा पूर्वमियं येषामासीत्कृत्स्ना वसुन्धरा ।\nप्रजापतिमुपादाय नृपाणां जयशालिनाम् ।।1.5.1।।",
+      "transliteration": "",
+      "translation": "Formerly, this entire earth belonged to  those victorious kings starting from Prajapati (Manu).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-5-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "येषां स सगरो नाम सागरो येन खानित: ।\nषष्टि: पुत्रसहस्राणि यं यान्तं पर्यवारयन् ।।1.5.2।।",
+      "transliteration": "",
+      "translation": "Among them a king named Sagara got the ocean dug and his sixty thousand sons surrounded him whenever he went (to battle).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-5-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "इक्ष्वाकूणामिदं तेषां राज्ञां वंशे महात्मनाम् ।\nमहदुत्पन्नमाख्यानं रामायणमिति श्रुतम् ।।1.5.3।।",
+      "transliteration": "",
+      "translation": "It was from the family of mighty monarchs with Ikshvaku as its founder and the kings born in that race, the celebrated epic known as the 'Ramayanam' arose.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-5-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तदिदं वर्तयिष्यामि सर्वं निखिलमादित: ।\nधर्मकामार्थसहितं श्रोतव्यमनसूयया ।।1.5.4।।",
+      "transliteration": "",
+      "translation": "I shall propagate this Ramayanam, incorporating the merits of dharma, artha and kama, and complete in all respects. It deserves to be heard right from the start without prejudice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-5-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "कोसलो नाम मुदितस्स्फीतो जनपदो महान् ।\nनिविष्टस्सरयूतीरे प्रभूतधनधान्यवान् ।।1.5.5।।",
+      "transliteration": "",
+      "translation": "On the banks of river Sarayu, a great and prosperous country named Kosala, abundant in foodgrains and wealth and inhabited by contended people, was situated.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-5-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अयोध्या नाम नगरी तत्रासील्लोकविश्रुता ।\nमनुना मानवेन्द्रेण या पुरी निर्मिता स्वयम् ।।1.5.6।।",
+      "transliteration": "",
+      "translation": "In the country called Kosala was the famous capital city of Ayodhya built by the lord of men, Manu .",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-5-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "आयता दश च द्वे च योजनानि महापुरी ।\nश्रीमती त्रीणि विस्तीर्णा सुविभक्तमहापथा ।।1.5.7।।",
+      "transliteration": "",
+      "translation": "With welllaid out thoroughfares, the beautiful and prosperous city of Ayodhya extended for twelve yojanas in length and three yojanas in breadth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-5-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "राजमार्गेण महता सुविभक्तेन शोभिता ।\nमुक्तपुष्पावकीर्णेन जलसिक्तेन नित्यश: ।।1.5.8।।",
+      "transliteration": "",
+      "translation": "It looked splendid with its welllaid out and broad highway strewn with flowers and regularly sprinkled with water.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-5-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तां तु राजा दशरथो महारा���्ट्रविवर्धन: ।\nपुरीमावासयामास दिवं देवपतिर्यथा ।।1.5.9।।",
+      "transliteration": "",
+      "translation": "King Dasartha, augmenting the prosperity of the great kingdom, lived in the city of Ayodhya like Indra in heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-5-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "कवाटतोरणवतीं सुविभक्तान्तरापणाम् ।\nसर्वयन्त्रायुधवतीमुपेतां सर्वशिल्पिभि: ।।1.5.10।।",
+      "transliteration": "",
+      "translation": "The city where all kinds of artificers lived had arched outer gateways, wellarranged local markets and all kinds of instruments and weapons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-5-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "सूतमागधसम्बाधां श्रीमतीमतुलप्रभाम् ।\nउच्चाट्टालध्वजवतीं शतघ्नीशतसङ्कुलाम् ।।1.5.11।।",
+      "transliteration": "",
+      "translation": "With matchless splendour, it abounded in eulogists and genealogists. It contained stately edifices decorated with flags and hundreds of sataghnis (missiles).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-5-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "वधूनाटकसङ्घैश्च संयुक्तां सर्वत: पुरीम् ।\nउद्यानाम्रवणोपेतां महतीं सालमेखलाम् ।।1.5.12।।",
+      "transliteration": "",
+      "translation": "The city with suburban towns on all sides had several female dancers and actors.It was filled with gardens and mangogroves. And girdled by sal trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-5-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "दुर्गगम्भीरपरिघां दुर्गामन्यैर्दुरासदाम् ।\nवाजिवारणसम्पूर्णां गोभिरुष्ट्रै: खरैस्तथा ।।1.5.13।।",
+      "transliteration": "",
+      "translation": "It was enclosed by strong fortifications and a deep moat. No enemy can ever enter and occupy that city. It abounded with several elephants and horses, cattle, camels and mules.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-5-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "सामन्तराजसङ्घैश्च बलिकर्मभिरावृताम् ।\nनानादेशनिवासैश्च वणिग्भिरुपशोभिताम् ।।1.5.14।।",
+      "transliteration": "",
+      "translation": "It was embellished with a host of tributary kings who used to pay tributes and with  merchants from different countries.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-5-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "प्रासादै रत्नविकृतै: पर्वतैरुपशोभिताम् ।\nकूटागारैश्च सम्पूर्णामिन्द्रस्येवामरावतीम् ।।1.5.15।।",
+      "transliteration": "",
+      "translation": "Like Indra's Amaravati, it was adorned by mountains and mansions with precious stones.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-5-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "चित्रामष्टापदाकारां नरनारीगणैर्युताम् ।\nसर्वरत���नसमाकीर्णां विमानगृहशोभिताम् ।।1.5.16।।",
+      "transliteration": "",
+      "translation": "With groups of men and women and adorned with sevenstoried palaces, it looked wonderful like a board where the game of ashtapada, is played. It was rich in all kinds of gems.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-5-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "गृहगाढामविच्छिद्रां समभूमौ निवेशिताम् ।\nशालितण्डुलसम्पूर्णामिक्षुकाण्डरसोदकाम् ।।1.5.17।।",
+      "transliteration": "",
+      "translation": "Its dwellings were constructed on levelled ground with no space left unutilised. It was abundantly stocked with fine-grained rice and water which tasted sweet like sugarcane juice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-5-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "दुन्दुभीभिर्मृदङ्गैश्च वीणाभि: पणवैस्तथा ।\nनादितां भृशमत्यर्थं पृथिव्यां तामनुत्तमाम् ।।1.5.18।।",
+      "transliteration": "",
+      "translation": "The city echoed with the sounds of trumpets, mrudangas, vinas and panavas. There was no city on earth superior to Ayodhya.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-5-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "विमानमिव सिद्धानां तपसाधिगतं दिवि ।\nसुनिवेशितवेश्मान्तां नरोत्तमसमावृताम् ।।1.5.19।।",
+      "transliteration": "",
+      "translation": "Like an aerial car acquired by the siddhas in heaven through their austerities, the palaces were perfectly constructed in rows and inhabited by the noblest of men.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-5-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "ये च बाणैर्न विध्यन्ति विविक्तमपरापरम् ।\nशब्दवेध्यं च विततं लघुहस्ता विशारदा: ।।1.5.20।।\nसिंहव्याघ्रवराहाणां मत्तानां नर्दतां वने ।\nहन्तारो निशितैश्शस्त्रैर्बलाद्बाहुबलैरपि ।।1.5.21।।\nतादृशानां सहस्रैस्तामभिपूर्णां महारथै: ।\nपुरीमावासयामास राजा दशरथस्तदा ।।1.5.22।।",
+      "transliteration": "",
+      "translation": "The city was inhabited by thousands of warriors known as maharathas. They were skilled archers and sharphanded. They would not pierce with arrows, solitary persons, persons without defence, fleeing foes who could be tracked down through hints from sound. With sharp arrows or with the strength of their arms, they would kill roaring and inebriated lions, tigers, boars etc. in the forest. It was in that city (of Ayodhya) that king Dasaratha lived.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-5-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "ये च बाणैर्न विध्यन्ति विविक्तमपरापरम् ।\nशब्दवेध्यं च विततं लघुहस्ता विशारदा: ।।1.5.20।। \nसिंहव्याघ्रवराहाणां मत्तानां नर्दतां वने ।\nहन्तारो निशितैश्शस्त्रैर्बलाद्बाहुबलैरपि ।।1.5.21।। \nतादृशानां सहस्रैस्तामभिपूर्णां महारथै: ।\nपुरीमावासयामास राजा दशरथस्तदा ।।1.5.22।।",
+      "transliteration": "",
+      "translation": "The city was inhabited by thousands of warriors known as maharathas. They were skilled archers and sharphanded. They would not pierce with arrows, solitary persons, persons without defence, fleeing foes who could be tracked down through hints from sound. With sharp arrows or with the strength of their arms, they would kill  roaring and inebriated lions, tigers, boars etc. in the forest. It was in that city (of Ayodhya) that king Dasaratha lived.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-5-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तामग्निमद्भिर्गुणवद्भिरावृतां\nद्विजोत्तमैर्वेदषडङ्गपारगै: ।\nसहस्रदैस्सत्यरतैर्महात्मभि \nर्महर्षिकल्पै ऋषिभिश्च केवलै: ।।1.5.23।।",
+      "transliteration": "",
+      "translation": "That city (of Ayodhya) was filled with excellent dwijas (brahmana, kshatriya and vaisyas) performing rituals of sacrificial fire, virtuous and wellversed in the Vedas and Vedangas. They were generous, truthful and dignified. They were almost equal to rishis and maharshis. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे पञ्चमस्सर्ग:।।  Thus ends the fifth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

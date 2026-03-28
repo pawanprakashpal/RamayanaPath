@@ -1,0 +1,621 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 100,
+    "title": "Meeting of Bharata and Rama -- Rama enquires about his father and others -- about Bharata's rule at Ayodhya.",
+    "titleSanskrit": "",
+    "totalShlokas": 67
+  },
+  "shlokas": [
+    {
+      "id": "v2-100-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "जटिलं चीरवसनं प्राञ्जलिं पतितं भुवि।\nददर्श रामो दुर्दर्शं युगान्ते भास्करंयथा।।2.100.1।।",
+      "transliteration": "",
+      "translation": "Rama beheld Bharata with matted locks and robes of bark fallen down on the ground with folded hands like the Sun at the time of dissolution of the world. It was really difficult to look at him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "कथंचिदभिविज्ञाय विवर्णवदनं कृशम्।\nभ्रातरं भरतं रामः परिजग्राह बाहुना।।2.100.2।।",
+      "transliteration": "",
+      "translation": "Rama found it extremely difficult to recognise Bharata with his emaciated body and pallid face. He held him in his arms and lifted him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "आघ्राय रामस्तं मूर्ध्नि परिष्वज्य च राघवः।\nअङ्के भरतमारोप्य पर्यपृच्छत्समाहितः।।2.100.3।।",
+      "transliteration": "",
+      "translation": "Born in the race of Raghu, Rama embraced Bharata and kissed him on his forehead. Placing him on his lap, he enquired thus with a composed mind:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "क्व नु तेऽभूत्पिता तात यदरण्यं त्वमागतः।\nन हि त्वं जीवतस्तस्य वनमागन्तुमर्हसि।।2.100.4।।",
+      "transliteration": "",
+      "translation": "O dear, now that you have come to the forest, where is our father king Dasaratha? You ought not come to the forest while he is living.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "चिरस्य बत पश्यामि दूराद्भरतमागतम्।\nदुष्प्रतीकमरण्येऽस्मिन् किं तात वनमागतः।।2.100.5।।",
+      "transliteration": "",
+      "translation": "You have come a long distance (from Ayodhya) to this forest, O Bharata It is a pity,  dear brother, to see you after a long time, so emaciated. What brings you to the forest?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "कच्चिद्धारयते तात राजा यत्त्वमिहाऽगतः।\nकच्चिन्न दीन स्सहसा राजा लोकान्तरं गतः।।2.100.6।।",
+      "transliteration": "",
+      "translation": "My dear (brother), now that you have come here, I trust, king Dasaratha is keeping good health and hope, he has not departed prematurely in despondency for the other world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "कच्चित्सौम्य न ते राज्यं भ्रष्टं बालस्य शाश्वतम्।\nकच्चिच्छुश्रूषसे तात पितरं सत्यविक्रमम्।।2.100.7।।",
+      "transliteration": "",
+      "translation": "O gentle one, being young and inexperienced, I trust, you have not forfeited the kingdom for ever. Dear child, I trust, you are looking after father whose prowess is his truthfulness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "कच्चिद्धशरथो राजा कुशली सत्यसंङ्गरः।\nराजसूयाश्वमेधानामाहर्ता धर्मनिश्चयः।।2.100.8।।",
+      "transliteration": "",
+      "translation": "I trust king Dasaratha, who is true to his promise, a performer of Rajasuya and Ashwamedha sacrifices and a firm adherent of righteousness is in good health.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "स कच्चिद्ब्राह्मणो विद्वान् धर्मनित्यो महाद्युतिः।\nइक्ष्वाकूणामुपाध्यायो यथावत्तात पूज्यते।।2.100.9।।",
+      "transliteration": "",
+      "translation": "O dear child I trust, the family preceptor of the Ikshvakus, Vasistha, the brahmin (versed in the Vedas), who is learned, ever fixed in virtues and effulgent is being honoured as usual.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "सा तात कच्चित्कौसल्या सुमित्रा च प्रजावती।\nसुखिनी कच्चिदार्या च देवी नन्दति कैकयी।।2.100.10।।",
+      "transliteration": "",
+      "translation": "Dear child I trust, Kausalya and Sumitra, mothers of an excellent progeny are happy. I trust, the noble queen Kaikeyi is happy too.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "कच्चिद्विनयसम्पन्नः कुलपुत्रो बहुश्रुतः।\nअनसूयुरनुद्रष्टा सत्कृतस्ते पुरोहितः।।2.100.11।।",
+      "transliteration": "",
+      "translation": "I trust, you continue to honour the family priest (Suyajna, son of Vasistha) who is endowed with modesty, born of high family, conversant in scriptures, free from envy and who can give you directions with regard to your duties.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "कच्चिदग्निषु ते युक्तो विधिज्ञो मतिमानृजुः।\nहुतं च होष्यमाणं च काले वेदयते सदा।।2.100.12।।",
+      "transliteration": "",
+      "translation": "I trust, the sagacious priest who knows ritual precepts, who is upright and is employed to take care of your sacred fires, informs you always regarding what was offered and what is to be offered as oblation at appropriate time.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "कच्चिद्देवान्पित्रून् मातृ़र्गुरून्पितृसमानपि।\nवृद्धांश्च तात वैद्यांश्च ब्राह्मणांश्चाभिमन्यसे।।2.100.13।।",
+      "transliteration": "",
+      "translation": "Dear brother, I trust you continue to pay homage to gods, father, mothers, teachers, relations equal to your father, aged people, physicians and brahmins.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "इष्वस्त्रवरसम्पन्नमर्थशास्त्र विशारदम्।\nसुधन्वानमुपाध्यायं कच्चित्त्वं तात मन्यसे।।2.100.14।।",
+      "transliteration": "",
+      "translation": "I hope you treat with respect Sudhanva who is equipped with the most formidable arrows and other weapons propelled by mantras and a master in the science of statecraft.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "कच्चिदात्मसमा श्शूरा श्श्रुतवन्तो जितेन्द्रियाः।\nकुलीनाश्चेङ्गितज्ञाश्च कृतास्ते तात मन्त्रिणः।।2.100.15।।",
+      "transliteration": "",
+      "translation": "I hope, dear brother, you have appointed men who are brave, learned, selfcontrolled, of noble birth and skilled in guessing from hints.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "मन्त्रो विजयमूलं हि राज्ञां भवति राघव।\nसुसंवृतो मन्त्रधरैरमात्यै श्शास्त्रकोविदैः।।2.100.16।।",
+      "transliteration": "",
+      "translation": "O Bharata the wellguarded advice of ministers, learned in scriptures and capable of proper counselling, is the root of victory for kings, specially when the advice is kept in confidence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "कच्चिन्निद्रावशं नैषीः कच्चित् कालेऽवबुध्यसे।\nकच्चिच्चापररात्रेषु चिन्तियस्यर्थनैपुणम्।।2.100.17।।",
+      "transliteration": "",
+      "translation": "I trust you are not under the grip of sleep but wake up at appropriate times, I hope you always think of the means of judicious statecraft during the last part of the night.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "कच्चिन्मन्त्रयसे नैकः कच्चिन्न बहुभिस्सह।\nकच्चित्ते मन्त्रितो मन्त्रो राष्ट्रं न परिधावति।।2.100.18।।",
+      "transliteration": "",
+      "translation": "I hope you neither decide alone nor discuss with many. I trust a decision once made by you is not leaked in the kingdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "कच्चिदर्थं विनिश्चित्य लघुमूलं महोदयम्।\nक्षिप्रमारभसे कर्तुं न दीर्घयसि राघव।।2.100.19।।",
+      "transliteration": "",
+      "translation": "O Bharata, having determined on an endeavour involving a little effort and yielding great results, I trust you commence to execute it quickly without procrastination?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "कच्चित्तु सुकृतान्येव कृतरूपाणि वा पुनः।\nविदुस्ते सर्वकार्याणि न कर्तव्यानि पार्थिवाः।।2.100.20।।",
+      "transliteration": "",
+      "translation": "I trust, other kings come to know of your endeavours only when your endeavours suceed or about to succeed. I hope, efforts intended to be made in future are not revealed to them beforehand.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "कच्चिन्नतर्कैर्युक्त्या वा ये चाप्यपरिकीर्तिताः।\nत्वया वा तवामात्यैर्बुध्यते तात मन्त्रितम्।।2.100.21।।",
+      "transliteration": "",
+      "translation": "Dear brother, I hope others are not able to understand your determination or those of your ministers, either by conjecture or by inference or through other means without being revealed either by you or by your ministers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "कच्चित्सहस्रान्मूर्खाणामेकमिच्छसि पण्डितम्।\nपण्डितो ह्यर्थकृच्छ्रेषु कुर्यान्निश्रेयसं महत्।।2.100.22।।",
+      "transliteration": "",
+      "translation": "I hope by setting aside a thousand fools, you prefer a single wise man. A wise man will be of immense help in difficult situations.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "सहस्राण्यपि मूर्खाणां युद्युपास्ते महीपतिः।\nअथवाप्ययुतान्येव नास्ति तेषु सहायता।।2.100.23।।",
+      "transliteration": "",
+      "translation": "Even if the king seeks the assistance from thousands or tens of thousands of fools, they cannot render any help to him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "एकोऽप्यमात्यो मेधावी शूरो दक्षो विचक्षणः।\nराजानं राजपुत्रं वा प्रापयेन्महतीं श्रियम्।।2.100.24।।",
+      "transliteration": "",
+      "translation": "A single clearsighted minister who is prudent, brave and skilful can bring about great  prosperity to a king or a prince.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "कच्चिन्मुख्या महात्स्वेव मध्यमेषु च मध्यमाः।\nजघन्याश्च जघन��येषु भृत्याः कर्मसु योजिताः।।2.100.25।।",
+      "transliteration": "",
+      "translation": "I hope you have employed highly competent servants for important tasks, mediocre servants in mediocre tasks and low people in inferior tasks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "अमात्यानुपधातीतान्पितृपैतामहाञ्छुचीन्।\nश्रेष्ठांछ्रेष्ठेषुकच्चित्वं नियोजयसि कर्मसु।।2.100.26।।",
+      "transliteration": "",
+      "translation": "I hope you are assigning ministers, who are unyielding to bribery and other temptations, holding positions hereditarily and who are full of integrity and eminence, with superior tasks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "कच्चिन्नोग्रेण दण्डेन भृशमुद्वेजितप्रजम्।\nराष्ट्रं तवानुजानन्ति मन्त्रिणः कैकयीसुत।।2.100.27।।",
+      "transliteration": "",
+      "translation": "Are not the citizens of your kingdom agitated at severe punishment meted out to them reproaching your ministers?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "कच्चित्त्वां नावजानन्ति याजकाः पतितं यथा।\nउग्रप्रतिग्रहीतारं कामयानमिव स्त्रियः।।2.100.28।।",
+      "transliteration": "",
+      "translation": "Just like a performer of sacrifice scorns at an outcaste or a woman scorns at a lustful lover, do the subjects not scorn you for collecting taxes more than what is due?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "उपायकुशलं वैद्यं भृत्यसंदूषणे रतम्।\nशूरमैश्वर्यकामं च यो न हन्ति स हन्यते।।2.100.29।।",
+      "transliteration": "",
+      "translation": "A learned person but skilled in contrivances, a warrior with passion for wealth and a man ever engaged in corrupting the minds of servants must be slain. A king who does not kill them is himself killed in due course.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "कच्चिद्धृष्टश्च शूरश्च मतिमान् धृतिमान् शुचिः।\nकुलीनश्चानुरक्तश्च दक्षस्सेनापतिः कृतः।।2.100.30।।",
+      "transliteration": "",
+      "translation": "I trust you have appointed a man who is cheerful, brave, sagacious, steadfast, honest, of a good family, loyal and efficient as the army chief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "बलवन्तश्च कच्चित्ते मुख्या युध्दविशारदाः।\nदृष्टापदाना विक्रान्तास्त्वया सत्कृत्यमानिताः।।2.100.31।।",
+      "transliteration": "",
+      "translation": "I trust you honour and respect those prominent soldiers who are courageous, powerful, skilled in war and who have proven heroic exploits.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "कच्चिद्बलस्य भक्तं च वेतनं च यथोचितम्।\nसम्प्राप्तकालं दातव्यं ददासि न विलम्बसे।।2.100.32।।",
+      "transliteration": "",
+      "translation": "I trust you distribute rations and wages to your army in due time without making delay.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "कालातिक्रमणाच्चैव भक्तवेतनयोर्भृताः।   \nभर्तुः कुप्यन्ति दुष्यन्ति सोऽनर्थ स्सुमहान् स्मृतः।।2.100.33।।",
+      "transliteration": "",
+      "translation": "It has been mentioned in the scriptures that if provisions and wages are not paid in stipulated time, the dependent attendants will be incensed with their masters and will turn hostile and become corrupt, leading to great calamity.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "कच्चित्सर्वेऽनुरक्तास्त्वां कुलपुत्राः प्रधानतः।\nकच्चित्प्राणां स्तवार्थेषु सन्त्यजन्ति समाहिताः।।2.100.34।।",
+      "transliteration": "",
+      "translation": "I hope all men of a good family, especially those who belong to our race, are loyal to you and are ready to sacrifice their lives for your cause.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "कच्चिज्जानपदो विद्वान्दक्षिणः प्रतिभानवान्।\nयथोक्तवादी दूतस्ते कृतो भरत पण्डितः।।2.100.35।।",
+      "transliteration": "",
+      "translation": "O Bharata, I hope you have chosen as your envoy an expert born in your own country, wellinformed, skilful and quick to understand one who repeats and reports (exactly) what has been told.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "कच्चिदष्टादशान्येषु स्वपक्षे दश पञ्च च।\nत्रिभिस्त्रिभिरविज्ञातैर्वेत्सि तीर्थानि चारकैः।।2.100.36।।",
+      "transliteration": "",
+      "translation": "I hope you collect information (of their secret efforts) intelligently through unrecognisable spies with three of them closely watching each of the eighteen officials (there are eighteen categories of officials in a kingdom) of the enemy's side and fifteen  (officials) on your side.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "कच्चिद्व्यपास्तानहितान्प्रतियातांश्च सर्वदा।\nदुर्बलाननवज्ञाय वर्तसे रिपुसूदन।।2.100.37।।",
+      "transliteration": "",
+      "translation": "O slayer of foes, I hope you are always alert about your foes who were defeated by you and have come back. You should not ignore your enemies thinking they are weak.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "कच्चिन्न लौकायतिकान्ब्राह्मणांस्तात सेवसे।।\nअनर्थकुशला ह्येते बालाः पण्डितमानिनः।।2.100.38।।",
+      "transliteration": "",
+      "translation": "Dear brother, I hope you do not serve those brahmins who are atheists, who foolishly think of this world alone and fancy themselves as learned. They only bring disasters.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "धर्मशास्त्रेषु मुख्येषु विद्यमानेषु दुर्बुधाः।\nबुद्धिमान्वीक्षिकीं प्राप्य निरर्थं प्रवदन्ति ते।।2.100.39।।",
+      "transliteration": "",
+      "translation": "While principal scriptures do exist, these superficial fellows take resort to the science of logic based on abstract reasoning, and indulge in futile talks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "वीरैरध्युषितां पूर्वमस्माकं तात पूर्वकैः।\nसत्यनामां दृढ द्वारां हस्त्यश्वरथसङ्कुलाम्।।2.100.40।।\nब्राह्मणैः क्षत्रियैर्वैश्यै स्स्वकर्मनिरतैस्सदा।\nजितेन्द्रियैर्महोत्साहैर्वृतामार्यै स्सहस्रशः।।2.100.41।।\nप्रासादैर्विविधाकारैर्वृतां वैद्यजनाकुलाम्।\nकच्चित्सुमुदितां स्फीतामयोध्यां परिरक्षसि।।2.100.42।।",
+      "transliteration": "",
+      "translation": "My dear brother I trust you are protecting the (impregnable) city of Ayodhya worthy of its name, formerly defended by our heroic ancestors, with its sturdy gates, its elephants, horses and chariots, its thousands of venerable, selfcontrolled and highly energetic brahmins, kshatriyas and vaisyas engaged in their respective professions, filled with palaces of various kinds, abounding in learned people and a prosperous city where everything is available in abundance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "कच्चिच्चैत्यशतैर्जुष्ट स्सुनिविष्टजनाकुलः।\nदेवस्थानैः प्रपाभिश्च तटाकैश्चोपशोभितः।।2.100.43।।\nप्रहृष्टनरनारीकस्समाजोत्सवशोभितः।\nसुकृष्टसीमा पशुमान्हिंसाभिः परिवर्जितः।।2.100.44।।\nअदेवमातृको रम्य श्श्वापदैः परिवर्जितः।\nपरित्यक्तो भयैस्सर्वैः खनिभिश्चोपशोभितः।।2.100.45।।\nविवर्जितो नरैः पापैर्मम पूर्वै स्सुरक्षितः।\nकच्चिज्जनपदस्स्फीतः सुखं वसति राघव।।2.100.46।।",
+      "transliteration": "",
+      "translation": "O Bharata, my country which is marked with hundreds of sanctuaries near villages where life of the people is made comfortable, where there are shrines, water distribution facilities and tanks, which is wellploughed and rich in cattlewealth, free from violence and independent of rain. It is enchanting. It is safe from wild animals. With fears expelled, free from sinful people, adorned with mines and wellprotected by my ancestors, it is prosperous and I hope people are living comfortably.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "कच्चित्ते दयितास्सर्वे कृषिगोरक्षजीविनः।\nवार्तायां संश्रितस्तात लोको हि सुखमेधते।।2.100.47।।",
+      "transliteration": "",
+      "translation": "I trust all those men who live on agriculture and cattlerearing are favourable to you.  The world's prosperity, dear brother, grows on the profession of cattle rearing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "तेषां गुप्तिपरीहारैः कच्चित्ते भरणं कृतम्।\nरक्ष्या हि राज्ञा धर्मेण सर्वे विषयवासिनः।।2.100.48।।",
+      "transliteration": "",
+      "translation": "I trust you nourish them and also afford portection and prevent adversities. A king must protect all those people living in his country in accordanc with righteousness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "कच्चिस्त्रिय स्सान्त्वयसि कच्चित्ताश्च सुरक्षिताः।\nकच्चिन्न श्रद्धास्यासां कच्चिद्गुह्यं न भाषसे।।2.100.49।।",
+      "transliteration": "",
+      "translation": "I trust, you keep the women pacified and wellprotected, you do not believe their words and do not divulge any secrets to them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "कच्चिन्नागवनं गुप्तं कच्चित्ते सन्ति धेनुकाः।\nकच्चिन्न गणिकाश्वानां कुञ्जराणां च तृप्य���ि।।2.100.50।।",
+      "transliteration": "",
+      "translation": "I trust, you protect the habitat of elephants and you have a large number of milch cows. I trust you are not contented with the existing number of female and male   elephants and horses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "कच्चिद्दर्शयसे नित्यं मनुष्याणां विभूषितम्।\nउत्थायोत्थाय पूर्वाह्णे राजपुत्र महापथे।।2.100.51।।",
+      "transliteration": "",
+      "translation": "O prince, I trust, you rise early daily and present yourself welladomed to the people on the thoroughfare.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "कच्चिन्न सर्वे कर्मान्ताः प्रत्यक्षास्तेऽविशङ्कया।\nसर्वे वा पुनरुत्सृष्टा मध्यमेवात्र कारणम्।।2.100.52।।",
+      "transliteration": "",
+      "translation": "All the servants, I trust, do not present themselves to you directly. At the same time they do not remain out of sight with fear at a distance. The middle course is the best way for the welfare of every one.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "कच्चित्सर्वाणि दुर्गाणि धनधान्यायुधोदकैः।\nयन्त्रैश्च परिपूर्णानि तथा शिल्पिधनुर्धरैः।।2.100.53।।",
+      "transliteration": "",
+      "translation": "Hope all the forts are adequately provided with wealth, foodgrains, weapons and water, with machines of war and craftsmen and archers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "आयस्ते विपुलः कच्चित्कच्चिदल्पतरो व्ययः।\nअपात्रेषु न ते कच्चित्कोशो गच्छति राघव।।2.100.54।।",
+      "transliteration": "",
+      "translation": "O Bharata, I trust, your revenues are abundant and expenditure much less. I trust you do not give away your treasure to undeserving persons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "देवतार्थे च पित्रर्थेब्राह्मणाभ्यागतेषु च।\nयोधेषु मित्रवर्गेषु कच्चिद्गच्छति ते व्ययः।।2.100.55।।",
+      "transliteration": "",
+      "translation": "I trust, you are spending only on gods, ancestors, brahmins, guests, warriors and hosts of friends.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "कच्चिदार्यो विशुद्धात्मा क्षारित श्चापरकर्मणा।\nअपृष्ट श्शास्त्रकुशलैर्न लोभाद्वध्यते शुचिः।।2.100.56।।",
+      "transliteration": "",
+      "translation": "I trust a man who is honest, purehearted and venerable, falsely accused of adultery is not slain out of avarice without consulting experts in scriptures.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "गृहीतश्चैव पृष्टश्च काले दृष्टस्सकारणः।\nकच्चिन्न मुच्यते चोरो धनलोभान्नरर्षभ।।2.100.57।।",
+      "transliteration": "",
+      "translation": "O best among men I trust that a thief, caught redhanded and interrogated and has sufficient proof is not set free, out of greed for money.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "व्यसने कच्चिदाढ्यस्य दुर्गतस्य च राघव।\nअर्थं विरागाः पश्यन्ति तवामात्या बहुश्रुताः।।2.100.58।।",
+      "transliteration": "",
+      "translation": "O Bharata, I trust that your ministers are wellinformed and look into all matters in times of hardship pertaining to whether a man is rich or poor without any bias to either.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-54",
+      "number": 54,
+      "type": "shloka",
+      "original": "यानि मिथ्याभिशस्तानां पतन्त्यश्रूणि राघव।\nतानि पुत्रान्पशून्घ्नन्ति प्रीत्यर्थमनुशासतः।।2.100.59।।",
+      "transliteration": "",
+      "translation": "O Bharata, the tears falling from the eyes of persons, who are falsely accused and punished for the pleasure of the king will destroy his progeny and cattle as well.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-55",
+      "number": 55,
+      "type": "shloka",
+      "original": "कच्चिद्वृद्धांश्च बालांश्च वैद्यामुख्यांश्च राघव।\nदानेन मनसा वाचा त्रिभिरेतैर्बुभूषसे।।2.100.60।।",
+      "transliteration": "",
+      "translation": "O Bharata, I trust you wish to thrive by treating the old, children and foremost of learned people with the three expedients namely gifts, affection and kind words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-56",
+      "number": 56,
+      "type": "shloka",
+      "original": "कच्चिद्गुरूंश्च वृद्धांश्च तापसान् देवतातिथीन्।\nचैत्यांश्च सर्वान्सिध्दार्थान्ब्राह्मणांश्च नमस्यसि।।2.100.61।।",
+      "transliteration": "",
+      "translation": "I trust you pay homage to the preceptors, the aged ones, ascetics, gods and guests, to shrines and to accomplished brahmins.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-57",
+      "number": 57,
+      "type": "shloka",
+      "original": "कच्चिदर्थेन वा धर्ममर्थं धर्मेण वा पुनः।\nउभौ वा प्रीतिलोभेन कामेन च न बाधसे।।2.100.62।।",
+      "transliteration": "",
+      "translation": "I trust, righteousness for the sake of prosperity or prosperity for the sake of righteousness or both for the sake of sensual pleasure are not thwarted by you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-58",
+      "number": 58,
+      "type": "shloka",
+      "original": "कच्चिदर्थं च धर्मं च कामं च जयतां वर।\nविभज्य काले कालज्ञ सर्वान्वरद सेवसे।।2.100.63।।",
+      "transliteration": "",
+      "translation": "O Bharata, the best among the victorious, conversant with timely actions and a bestower of boons you are the best of men. I trust, you allocate adequate time for attending to all the three expedients of life like dharma, artha and kama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-59",
+      "number": 59,
+      "type": "shloka",
+      "original": "कच्चित्ते ब्राह्मणा श्शर्म सर्वशास्त्रार्थकोविदाः।\nआशंसन्ते महाप्राज्ञ पौरजानपदैस्सह।।2.100.64।।",
+      "transliteration": "",
+      "translation": "O highly sagacious Bharata, those brahmins who can comprehend the meaning of all scriptures along with the inhabitants of the city and country, I trust, are seeking your happiness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-60",
+      "number": 60,
+      "type": "shloka",
+      "original": "नास्तिक्यमनृतं क्रोधं प्रमादं दीर्घसूत्रताम्।\nअदर्शनं ज्ञानवतामालस्यं पञ्चवृत्तिताम्।।2.100.65।।\nएकचिन्तनमर्थानामनर्थज्ञैश्च मन्त्रणम्।\nनिश्चितानामनारम्भं मन्त्रस्यापरिरक्षणम्।।2.100.66।।\nमङ्गलाद्यप्रयोगं च प्रत्युत्थानं च सर्वतः।\nकच्चित्वं वर्जयस्येतान्राजदोषांश्चतुर्दश।।2.100.67।।",
+      "transliteration": "",
+      "translation": "I trust you eschew the fourteen faults of kings, like atheism, falsehood, anger, inattention, procrastination, evading the wise, indolence, gratification of all five senses, planning alone in the affairs of the kingdom, consultation with people who are proficient in worthless acts, failure to implement decisious, inability to keep the counsel secret and omission of auspicious practices and setting out against all the enemies at a time.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-61",
+      "number": 61,
+      "type": "shloka",
+      "original": "दशपञ्चचतुर्वर्गान्सप्तवर्गं च तत्त्वतः।\nअष्टवर्गं त्रिवर्गं च विद्यास्तिस्रश्च राघव।।2.100.68।।\nइन्द्रियाणां जयं बुद्ध्या षाड्गुण्यं दैवमानुषम्।\nकृत्यं विंशतिवर्गं च तथा प्रकृतिमण्डलम्।।2.100.69।।\nयात्रादण्डविधानं च द्वियोनी सन्धिविग्रहौ।\nकच्चिदेतान्महाप्राज्ञ यथावदनुमन्यसे।।2.100.70।।",
+      "transliteration": "",
+      "translation": "O highly sagacious Bharata, I trust, having understood their true nature you are appropriately following the ten, five and four divisions, the seven divisions, the eight divisions, the three divisions, three kinds of knowledge, victory over the senses, the six qualities, evils arising from destiny and human agency, kritya, division of twenty, similarly Prakriti and Mandalas and two sources of Yatra and chastisement and of peace and war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-62",
+      "number": 62,
+      "type": "shloka",
+      "original": "मन्त्रिभिस्त्वं यथोद्दिष्टैश्चतुर्भिस्त्रिभिरेव वा।\nकच्चित्समस्तैर्व्यस्तैश्च मन्त्रं मन्त्रयसे मिथः।।2.100.71।।",
+      "transliteration": "",
+      "translation": "I trust you deliberate in secrecy on your counsel with three or four counsellors, together and separately with each one, as laid down in sacred texts.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-63",
+      "number": 63,
+      "type": "shloka",
+      "original": "कच्चित्ते सफला वेदाः कच्चित्ते सफलाः क्रियाः।\nकच्चित्ते सफला दाराः कच्चित्ते सफलं श्रुतम्।।2.100.72।।",
+      "transliteration": "",
+      "translation": "I trust, the Vedas you have studied are fruitful, the acts which you commenced are productive, your wife is fruitful (blessed with a son) and the scriptures you studied are useful.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-64",
+      "number": 64,
+      "type": "shloka",
+      "original": "कच्चिदेषैव ते बुद्धिर्यथोक्ता मम राघव।\nआयुष्या च यशस्या च धर्मकामार्थ संहिता।।2.100.73।।",
+      "transliteration": "",
+      "translation": "O Bharata, I trust your intellect is in conformity with what I said conducive to long life, and fame in accordance with righteousness, (legitimate) pleasure and prosperity.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-65",
+      "number": 65,
+      "type": "shloka",
+      "original": "यां वृत्तिं वर्तते तातो यां च नः प्रपितामहाः।\nतां वृत्तिं वर्तसे कच्चिद्याच सत्पथगा शुभा।।2.100.74।।",
+      "transliteration": "",
+      "translation": "I trust, you walk the auspicious path of truth (virtue) followed by our father and forefathers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-66",
+      "number": 66,
+      "type": "shloka",
+      "original": "कच्चित्स्वादु कृतं भोज्यमेको नाश्नासि राघव।\nकच्चिदाशंसमानेभ्यो मित्रेभ्य स्सम्प्रयच्छसि।।2.100.75।।",
+      "transliteration": "",
+      "translation": "O Bharata, I trust you do not partake delicious food all by yourself, and you share it with your friends when they want it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-100-67",
+      "number": 67,
+      "type": "shloka",
+      "original": "राजा तु धर्मेण हि पालयित्वा महामतिर्दण्डधरः प्रजानाम्।\nअवाप्य कृत्स्नां वसुधां यथावदितश्च्युत स्स्वर्गमुपैति विद्वान्।।2.100.76।।",
+      "transliteration": "",
+      "translation": "The highly sagacious and learned king, having acquired the entire earth and punishing the people in accordance with tradition and righteously ruling the kingdom, will ascend the his release (from this world). इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे शततमस्सर्गः।। Thus ends the hundredth sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

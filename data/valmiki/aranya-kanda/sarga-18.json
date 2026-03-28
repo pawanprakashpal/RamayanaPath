@@ -1,0 +1,252 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 18,
+    "title": "Rama directs Surpanakha to Lakshmana-- Surpanakha approaches Lakshmana to marry her -- Lakshmana cuts her nose and ears-- Surpanakha narrates the event to Khara.",
+    "titleSanskrit": "",
+    "totalShlokas": 26
+  },
+  "shlokas": [
+    {
+      "id": "v3-18-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततश्शूर्पणखां रामः कामपाशावपाशिताम्।\nस्वच्छया श्लक्ष्णया वाचा स्मितपूर्वमथाब्रवीत्।।3.18.1।।",
+      "transliteration": "",
+      "translation": "To  Surpanakha bound by the noose of passion Rama with a smile replied in a clear, lucid manner:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-18-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "कृतदारोऽस्मि भवति भार्येयं दयिता मम।\nत्वद्विधानां तु नारीणां सुदुःखा ससपत्नता।।3.18.2।।",
+      "transliteration": "",
+      "translation": "O lady I am married and here is my wife who is dear to me. To be a cowife to some one is indeed painful for people like you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-18-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "अनुजस्त्वेष मे भ्राता शीलवान्प्रियदर्शनः।\nश्रीमानकृतदारश्च लक्ष्मणो नाम वीर्यवान्।।3.18.3।।",
+      "transliteration": "",
+      "translation": "Here is my younger brother Lakshmana. He is a man of good conduct, good look, valiant and virtuous. (Besides) he is not with his wife.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-18-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "अपूर्वी भार्यया चार्थी तरुणः प्रियदर्शनः।\nअनुरूपश्च ते भर्ता रूपस्यास्य भविष्यति।।3.18.4।।",
+      "transliteration": "",
+      "translation": "He is not with his wife, and is in need of one. He is young, handsome and worthy. He will be an appropriate husband to you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-18-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "एनं भज विशालाक्षि भर्तारं भ्रातरं मम।\nअसपत्ना वरारोहे मेरुमर्कप्रभा यथा।।3.18.5।।",
+      "transliteration": "",
+      "translation": "O  woman of large eyes and fine hips, my brother is fit for you. You will (with him) shine like the radiant Sun on mount Meru. You will enjoy yourself without a cowife. You may approach him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-18-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "इति रामेण सा प्रोक्ता राक्षसी काममोहिता।\nविसृज्य रामं सहसा ततो लक्ष्मणमब्रवीत्।।3.18.6।।",
+      "transliteration": "",
+      "translation": "Thus  told by Rama, the demoness, deluded with lust, left him suddenly, and said to  Lakshmana:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-18-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "अस्य रूपस्य ते युक्ता भार्याहं वरवर्णिनी।\nमया सह सुखं सर्वान्दण्डकान्विचरिष्यसि।।3.18.7।।",
+      "transliteration": "",
+      "translation": "With my fine complexion, I will be a suitable wife for you. You can happily wander about in Dandaka forest with me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-18-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु सौमित्री राक्षस्या वाक्यकोविदः।\nततश्शूर्पणखीं स्मित्वा लक्ष्मणो युक्तमब्रवीत्।।3.18.8।।",
+      "transliteration": "",
+      "translation": "Thus addressed by the demoness Lakshmana, son of Sumitra, wellversed in the use of words gave her a befitting reply :",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-18-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "कथं दासस्य मे दासी भार्या भवितुमिच्छसि।\nसोऽहमार्येण परवान्भ्रात्रा कमलवर्णिनि।।3.18.9।।",
+      "transliteration": "",
+      "translation": "O lotuscomplexioned woman , how can you act as a maid to a slave ? Why do you intend to be so? I am already dependent on my revered brother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-18-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "समृद्धार्थस्य सिद्धार्था मुदितामलव��्णिनी।\nआर्यस्य त्वं विशालाक्षि भार्या भव यवीयसी।।3.18.10।।",
+      "transliteration": "",
+      "translation": "O largeeyed one, you have a clear complexion. You may become the younger wife of my master who is lord of great wealth. And live a happy, fulfilled life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-18-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "एनां विरूपामसतीं करालां निर्णतोदरीम्।\nभार्यां वृद्धां परित्यज्य त्वामेवैष भजिष्यति।।3.18.11।।",
+      "transliteration": "",
+      "translation": "He will abandon this uglylooking, unchaste, frightening old woman of drooping belly and accept you alone as his wife.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-18-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "को हि रूपमिदं श्रेष्ठं संत्यज्य वरवर्णिनि।\nमानुषीषु वरारोहे कुर्याद्भावं विचक्षणः।।3.18.12।।",
+      "transliteration": "",
+      "translation": "O lady of fair complexion and beautiful hips, which wise man will fall in love with any other female giving up a fine figure like you ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-18-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "इति सा लक्ष्मणेनोक्ता कराला निर्णतोदरी।\nमन्यते तद्वचस्तथ्यं परिहासाविचक्षणा।।3.18.13।।",
+      "transliteration": "",
+      "translation": "While Lakshmana was thus making fun of the dreadful, droopingbellied Surpanakha, she presumed his words to be true.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-18-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "सा रामं पर्णशालायामुपविष्टं परन्तपम्।\nसीतया सह दुर्दर्षमब्रवीत्काममोहिता।।3.18.14।।",
+      "transliteration": "",
+      "translation": "Deluded with passion, Surpanakha said to formidable Rama, the scorcher of foes,  seated in the leafthatched hut along with Sita:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-18-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "एनां विरूपामसतीं करालां निर्णतोदरीम्।\nवृद्धां भार्यामवष्टभ्य मां न त्वं बहुमन्यसे।।3.18.15।।",
+      "transliteration": "",
+      "translation": "You are holding on to this lady who is ugly, unchaste, fiercelooking, flatbellied and  aged and not caring for me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-18-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अद्येमां भक्षयिष्यामि पश्यतस्तव मानुषीम्।\nत्वया सह चरिष्यामि निस्सपत्ना यथासुखम्।।3.18.16।।",
+      "transliteration": "",
+      "translation": "I shall eat up this woman now before your very eyes and I can move about happily with you without a cowife.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-18-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "इत्युक्त्वा मृगशाबाक्षीमलातसदृशेक्षणा।\nअभ्यधावत्सुसङ��कृद्धा महोल्कां रोहिणीमिव।।3.18.17।।",
+      "transliteration": "",
+      "translation": "While speaking this, Surpanakha, with eyes like flaming amber ran to the fawneyed Sita in great anger like a giant meteor hurtling towards the constellation of Rohini :",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-18-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तां मृत्युपाशप्रतिमामापतन्तीं महाबलः।\nनिगृह्य रामः कुपित स्ततो लक्ष्मणमब्रवीत्।।3.18.18।।",
+      "transliteration": "",
+      "translation": "Mighty Rama in a rage restrained her who was falling upon Sita like the noose of death, and said to Lakshmana:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-18-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "क्रूरैरनार्यै स्सौमित्रे परिहासः कथञ्चन।\nन कार्यः पश्यवैदेहीं कथञ्चित्सौम्य जीवतीम्।।3.18.19।।",
+      "transliteration": "",
+      "translation": "O handsome Lakshmana it is not proper to cut jokes with wicked, uncivilized persons. Now see Sita who has somehow survived.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-18-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "इमां विरूपामसतीमतिमत्तां महोदरीम्।\nराक्षसीं पुरुषव्याघ्र विरूपयितुमर्हसि।।3.18.20।।",
+      "transliteration": "",
+      "translation": "O tiger among men, this uncouth, bigbellied, unchaste and highly passionate demoness deserves to be formed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-18-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "इत्युक्तो लक्ष्मणस्तस्याः क्रुद्धो रामस्य पार्श्वतः।\nउद्धृत्य खङ्गं चिच्छेद कर्णनासं महाबलः।।3.18.21।।",
+      "transliteration": "",
+      "translation": "Thus instructed (by Rama), powerful Lakshmana took position by the side of Rama, angrily lifted the sword and cut off her nose and ears.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-18-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "निकृत्तकर्णनासा तु विस्वरं सा विनद्य च।\nयथागतं प्रदुद्राव घोरा शूर्पणखा वनम्।।3.18.22।।",
+      "transliteration": "",
+      "translation": "Dreadful Surpanakha with her ears and nose cut off, roared in a hoarse voice and ran  away into the forest in the same direction as she came.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-18-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "सा विरूपा महाघोरा राक्षसी शोणितोक्षिता।\nननाद विविधान्नादान्यथा प्रावृषि तोयदः।।3.18.23।।",
+      "transliteration": "",
+      "translation": "The dreadful demoness who thus was disfigured. Drenched in blood, she  thundered like a cloud in rainy season.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-18-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "सा विक्षरन्ती रुधिरं बहुधा घोरदर्शना।\nप्रगृह्य बाहू गर्जन्ती प्रविवेश महावनम्।।3.18.24।।",
+      "transliteration": "",
+      "translation": "Dripping blood profusely, the frightful demoness lifted her arms and entered the great forestroaring.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-18-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "ततस्तु सा राक्षससङ्घसंवृतं खरं जनस्थानगतं विरूपिता।\nउपेत्य तं भ्रातरमुग्रदर्शनं पपात भूमौ गगनाद्यथाऽशनिः।।3.18.25।।",
+      "transliteration": "",
+      "translation": "A disfigured demoness, she fell down like the thunderbolt from the sky on the ground while her fiercelooking brother Khara sat surrounded by demons at Janasthana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-18-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "ततस्सभार्यं भयमोहमूर्छिता सलक्ष्मणं राघवमागतं वनम्।\nविरूपणं चात्मनि शोणितोक्षिता शशंस सर्वं भगिनी खरस्य सा।।3.18.26।।",
+      "transliteration": "",
+      "translation": "Thereafter the sister of Khara, wild with fear and delusion and drenched in blood, narrated all about the arrival of Rama, Sita and Lakshmana in the forest and her disfigurement. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे अष्टादशस्सर्ग।। Thus ends the eighteenth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 5,
+    "title": "Rama is reminded of Sita while talking to Lakshmana and gets immersed in grief.",
+    "titleSanskrit": "",
+    "totalShlokas": 23
+  },
+  "shlokas": [
+    {
+      "id": "v6-5-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "सातुनीलेनविधिवत्स्वारक्षासुसमाहिता ।\nसागरस्योत्तरेतीर���साधुसेनानिवेशिता ।।6.5.1।।",
+      "transliteration": "",
+      "translation": "Nila settled the army successfully by making them reside on the northern shore of the sea, as per tradition.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-5-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "मैन्दश्चद्विविदश्चोभौतत्रवानरपुङ्गवौ ।\nविचेरतुश्चतांसेनांरक्षार्थंसर्वतोदिशम् ।।6.5.2।।",
+      "transliteration": "",
+      "translation": "Dwivida and Mainda, the best of the vanaras, went about in all directions for safeguarding the army.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-5-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "निविष्टायांतुसेनायांतीरेनदनदीपतेः ।\nपार्श्वस्थंलक्ष्मणंदृष्टवारामोवचनमब्रवीत् ।।6.5.3।।",
+      "transliteration": "",
+      "translation": "After the army had settled down on the shores of the lord of rivers (sea), Rama spoke to Lakshmana who stood beside him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-5-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "शोकश्चकिलकालेनगच्छताह्यपगच्छति ।\nममचापश्यतःकान्तामहन्यहनिवर्धते ।।6.5.4।।",
+      "transliteration": "",
+      "translation": "As time passes, grief passes away. However my sorrow is progressing day by day being unable to see my beloved.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-5-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "नमेदुःखंप्रियादूरेनमेदुःखंहृतेतिवा ।\nएतदेवानुशोचामिवयोस्याह्यतिवर्तते ।।6.5.5।।",
+      "transliteration": "",
+      "translation": "There is no grief in me that my beloved is at a distance, nor that she is taken away. Indeed her age is advancing. On this account I am feeling for her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-5-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "वाहिवातयतःकान्तातांस्पृष्टवामामपिस्पृश ।\nत्वयिमेगात्रसंस्पर्शश्चन्द्रेदृष्टिसमागमः ।।6.5.6।।",
+      "transliteration": "",
+      "translation": "O Wind Touch that place where my beloved is and touch me as it will give me the same feeling as my beloved's touch. Through the moon I will get her eye contact too.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-5-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तन्मेदहतिगात्राणिविषंपीतमिवाशये ।\nहानाथेतिप्रियासामांह्रियमाणायदब्रवीत् ।।6.5.7।।",
+      "transliteration": "",
+      "translation": "While being carried away that beloved of mine would have cried aloud saying 'oh my lord'. This thought is burning my body as though I have consumed poison in my stomach.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-5-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तद्वियोगेन्धनवतातच्चिन्ताविपुलार्चिषा ।\nरात्रिंदिवंशरीरंमेदह्यतेमदनाग्निना ।।6.5.8।।",
+      "transliteration": "",
+      "translation": "The pain of separation from her is working as fuel and the thought about hers is engulfing me as extensive flame and burning my body day and night.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-5-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "अवगाह्यर्णवंस्वप्स्येसौमित्रेभवताविना ।\nकथञ्चित्प्रज्वलन्कामस्समांसुप्तंजलेदहेत् ।।6.5.9।।",
+      "transliteration": "",
+      "translation": "O Saumitri Plunging into water alone I will lie down. Probably then the god of love will not be able to consume me while sleeping.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-5-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "बह्वेतत्कामयानस्यशक्यमेतेनजीवितुम् ।\nयदहंसाचवामोरूरेकांधरणिमाश्रितौ ।।6.5.10।।",
+      "transliteration": "",
+      "translation": "Me and Sita are seeking refuge on the same land indeed. Because of that only survival is possible for me, who is desiring for her very much.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-5-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "केदारस्येवकेदारस्सोदकस्यनिरूदकः ।\nउपस्नेहेनजीवामिजीवन्तींयच्छृणोमिताम् ।।6.5.11।।",
+      "transliteration": "",
+      "translation": "I am living only because of hearing about her survival, just as a paddy field without water gets wet by the proximity of a neighboring paddy field with water.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-5-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "कदानुखलुसुश्रोणींशतपत्त्रायतेक्षणाम् ।\nविजित्यशत्रून्द्रक्ष्यामिसीतास्फीतामिवश्रियम् ।।6.5.12।।",
+      "transliteration": "",
+      "translation": "When will I be able to win the enemies and see that Sita of charming limbs, with large and beautiful eyes like lotus petals, who is like an abundance of fortune?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-5-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "कदानुचारुबिम्बोष्ठंतस्याःपद्ममिवाननम् ।\nईषदुन्नम्यपास्यामिरसायनमिवातुरः ।।6.5.13।।",
+      "transliteration": "",
+      "translation": "I do not know when I will lift her lotuslike face slightly and drink her beautiful lips like an afflicted man drinks sweet juice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-5-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तस्यात्तुसंहितौपीनौस्तनौतालफलोपमौ ।\nकदानुखलुसोत्कम्पौश्लिष्यन्त्यामांभजिष्यत: ।।6.5.14।।",
+      "transliteration": "",
+      "translation": "Indeed I am eager to embrace my chest with hers like the palmyra -fruit trees hold the fruits.When will it happen?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-5-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "सानूनमसितापाङ्गीरक्षोमध्यगतासती ।\nमन्नाथानाथहीनेवत्रातारंनाधिगच्छति ।।6.5.15।।",
+      "transliteration": "",
+      "translation": "That darkeyed lady (Sita), even though she has me (husband), is in the midst of rakshasas. Surely she is sad and emaciated being away from her husband, without a protector.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-5-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "कथंजनकरजस्यदुहिताममचप्रिया ।\nराक्षसीमध्यगाशेतेस्नुषादशरथस्यच ।।6.5.16।।",
+      "transliteration": "",
+      "translation": "My beloved is king Janaka's daughter and daughterinlaw of Dasaratha. Yet she is sleeping amid Rakshasas. How is it?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-5-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "कदाऽविक्षोभ्यरक्षांसिसाविधूयोत्पतिष्यति ।\nविधूयजलदान्नीलान् शशिरेखाशरत्स्विव ।।6.5.17।।",
+      "transliteration": "",
+      "translation": "When will she come out pushing the Rakshasas like the crescent moon comes out pushing the dark clouds in autumn?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-5-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "स्वभावतनुकानूनंशोकेनानशनेनच ।\nभूयस्तनुतरासीतादेशकालविपर्ययात् ।।6.5.18।।",
+      "transliteration": "",
+      "translation": "Sita who is by nature slim would surely be slender due to abstaining from eating, unfavorable time and location.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-5-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "कदानुराक्षसेन्द्रस्यनिधायोरसिसायकान् ।\nसीतांप्रत्याहरिष्यामिशोकमुत्सृज्यमानसम् ।।6.5.19।।",
+      "transliteration": "",
+      "translation": "Indeed by shooting arrows into the chest of rakshasa king, when will I get back Sita and cast off grief from my mind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-5-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "कदानुखलुमांसाध्वीसीतासुरसुतोपमा ।\nसोत्कण्ठाकण्ठमालम्ब्यमोक्ष्यत्यानन्दजंजलम् ।।6.5.20।।",
+      "transliteration": "",
+      "translation": "When will Sita, the chaste woman, who is like the daughter of Gods, cling to my neck, and indeed shed tears of joy?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-5-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "कदाशोकमिमंघोरंमैथिलीविप्रयोगजम् ।\nसहसाविप्रमोक्ष्यामिवासश्शुक्लेतरंयथा ।।6.5.21।।",
+      "transliteration": "",
+      "translation": "When will I get rid of this terrible grief of separation from Mythili for good, just like discarding a soiled garment?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-5-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "एवंविलपतस्तस्यतत्ररामस्यधीमतः ।\nदिनक्षयान्मन्दवपुर्भास्करोऽस्तमुपागतः ।।6.5.22।।",
+      "transliteration": "",
+      "translation": "While sagacious Rama was wailing in that way the day came to an end with the sun descending to the west.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-5-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "आश्वा���ितोलक्ष्मणेनरामस्सन्ध्यामुपासत ।\nस्मरन्कमलपत्राक्षींसीतांशोकाकुलीकृतः ।।6.5.23।।",
+      "transliteration": "",
+      "translation": "Remembering the lotus petal eyed Sita, Rama who was distracted with grief, comforted by Lakshmana offered evening prayers. ।।इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्दकाण्डेपञ्चमस्सर्गः।। This is the end of the fifth Sarga of Yuddhakanda of the first epic, the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

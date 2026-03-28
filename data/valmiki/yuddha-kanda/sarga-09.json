@@ -1,0 +1,189 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 9,
+    "title": "Vibheeshana begins to advise the Rakshasas and Ravana.",
+    "titleSanskrit": "",
+    "totalShlokas": 19
+  },
+  "shlokas": [
+    {
+      "id": "v6-9-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततोनिकुम्भोरभसस्सूर्यशत्रुर्महाबलः ।\nसुप्तघ्नोयज्ञहारक्षोमहा���ार्श्वमहोदरौ ।।6.9.1।।\nअग्निकेतुश्चदुर्धर्षोरश्मिकेतुश्चराक्��स: ।\nइन्द्रजिच्चमहातेजाबलवान्रावणात्मजः ।।6.9.2।।\nप्रहस्तोऽथविरूपाक्षोवज्रदंष्ट्रोमहाबलः ।\nधूम्राक्षश्चातिकायश्चदुर्मुखश्चैवराक्षसः ।।6.9.3।।\nपरिघान्पट्टिशान्प्रासान्शक्तिशूलपरश्वधान् ।\nचापानिचसबाणानिखङ्गांश्चविपुलान्शितान् ।।6.9.4।।\nप्रगृह्यपरमक्रुद्धास्समुत्पत्यचराक्षसाः ।\nअब्रुवन्रावणंसर्वेप्रदीप्ताइवतेजसा ।।6.9.5।।",
+      "transliteration": "",
+      "translation": "Then Nikumbha, Rshabha, mighty Suryasatru, Supthagna, Yagnaha raksha, Mahaparva, Mahodaro, Durdarsha, Agnikethu, Rasmikethu Rakshasas, Further Ravana's own son powerful Indrajith, Virupaksha and Prahasta, and mighty Rakshasas Vajradamshtra, Dumraaksha and also Durmukha of huge body holding iron bars, tridents, battle axes, bows and sharp arrows, very sharp swords, got up, highly enraged and all Rakshasas glowing like fire addressed Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-9-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अद्यरामंवधिष्यामस्सुग्रीवंसचलक्ष्मणम् ।\nकृपणंचहनूमन्तंलङ्कायेनप्रधर्षिता ।।6.9.6।।",
+      "transliteration": "",
+      "translation": "\"Right now, we will kill Rama along with Lakshmana, Sugriva and vile Hanuman, on whose account Lanka was attacked.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-9-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "तान्गृहीतायुधान् सर्वान्वारयित्वाविभीषणः ।\nअब्रवीत्प्राञ्जलिर्वाक्यंपुनःप्रत्युपवेश्यतान् ।।6.9.7।।",
+      "transliteration": "",
+      "translation": "With folded hands, Vibheeshana made all the (Rakshasas) wielding arms to stop and sit and addressed these words to Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-9-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "अप्युपायैस्त्रिभिस्तातयोऽर्थःप्राप्तुंनशक्यते ।\nतस्यविक्रमकालांस्तान्युक्तानाहुर्मनीषिणः ।।6.9.8।।",
+      "transliteration": "",
+      "translation": "\"Dear father, intelligent people say that an act which cannot be accomplished by the three means (Sama  Conciliation, Dana  Gift, Bheda  Sowing dissension), should only be accomplished diligently by one's heroic deed. Therefore, we should think of war only after the above three means are employed.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-9-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "प्रमत्तेष्यभियुक्तेषुदैवेनप्रहतेषुच ।\nविक्रमास्तातसिध्यन्तिपरीक्ष्यविधिनाकृताः ।।6.9.9।।",
+      "transliteration": "",
+      "translation": "\"O Dear at those who are not alert, who are attacked by the enemy, and who are struck by fate, if you examine diligently according to prescribed method and perform deeds of heroic valour you will succeed.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-9-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अप्रमत्तंकथंतंतुविजिगीषुंबलेस्थितम् ।\nजितरोषंदुराधर्षतंप्रधर्षयितुमिच्छथ ।।6.9.10।।",
+      "transliteration": "",
+      "translation": "\"How do you wish to overpower, him who is very attentive, bent on victory, mighty, steadfast, has subdued anger and unassailable?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-9-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "समुद्रंलङ्घयित्वातुघोरंनदनदीपतिम् ।\nगतिंहनूमतोलोकेकोविद्यात्तर्कयेतवा ।।6.9.11।।",
+      "transliteration": "",
+      "translation": "\"Hanuman has crossed over the ocean, a Lord of streams and rivers and arrived. Who can ever know or think of such a task in this world?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-9-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "बलान्यपरिमेयानिवीर्याणिचनिशाचराः ।\nपरेषांसहसाऽवज्ञानकर्तव्याकथञ्चन ।।6.9.12।।",
+      "transliteration": "",
+      "translation": "\"Enemy's strength and valour is inestimable to relate. Do not disregard rashly, O Night ranger\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-9-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "किंचराक्षसराजस्यरामेणापकृतंपुरा ।\nआजहारजनस्थानाद्यस्यभार्यांयशस्विनः ।।6.9.13।।",
+      "transliteration": "",
+      "translation": "\"What offence did Rama do earlier to the Rakshasa king that he abducted the glorious wife of Rama from Janasthana?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-9-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "खरोयद्यतिवृत्तस्तुरामेणनिहतोरणे ।\nअवश्यंप्राणिनांप्राणारक्षितव्यायथाबलम् ।।6.9.14।।",
+      "transliteration": "",
+      "translation": "\"(It is true) Khara was killed by Rama in war as he acted beyond his limit. Certainly, living beings will have to protect their life with their own strength.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-9-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "एतन्निमित्तंवैदेहीभयंनस्सुमहद्भवेत् ।\nआहृतासापरित्याज्याकलहार्थेकृतेनकिम् ।।6.9.15।।",
+      "transliteration": "",
+      "translation": "\"On account of this, we have a great fear of Vaidehi. She, who was brought here, is to be given away. What is the use of doing anything, which may be the cause of strife?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-9-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "नतुक्षमंवीर्यवतातेनधर्मानुवर्तिना ।\nवैरंनिरर्थकंकर्तुंदीयतामस्यमैथिली ।।6.9.16।।",
+      "transliteration": "",
+      "translation": "\"To have enmity with a valorous one, a follower of dharma, is useless and not good for us. Give away Mythili to him (Rama).\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-9-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "यावन्नसगजांसाश्वांबहुरत्नसमाकुलाम् ।\nपुरींदारयतेबाणैर्दीयतामस्यमैथिली ।।6.9.17।।",
+      "transliteration": "",
+      "translation": "\"Before Rama comes with elephants and horses and tears with his arrows, this Lanka filled with abundance of gems, give away Mythili.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-9-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "यावत्सुघोरामहतीदुर्धर्षाहरिवाहिनी ।\nनावस्कन्दतिनोलङ्कांतावत्सीताप्रदीयताम् ।।6.9.18।।",
+      "transliteration": "",
+      "translation": "\"Lest the highly dreadful, formidable and huge Vanara troops surround all over Lanka. Give away Sita.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-9-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "विनश्येद्धिपुरीलङ्काशूरास्सर्वेचराक्षसाः ।\nरामस्यदयितापत्नीनस्वयंनयदिदीयते ।।6.9.19।।",
+      "transliteration": "",
+      "translation": "\"If Rama's dear wife is not given, this Lanka will be destroyed and also all Rakshasas.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-9-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "प्रसादयेत्वांबन्धुत्वात्कुरुष्यवचनंमम ।\nहितंतथ्यमहंब्रूमिदीयतामस्यमैथिली ।।6.9.20।।",
+      "transliteration": "",
+      "translation": "\"I am requesting you because you are my relation (brother). Do as I said, as I am telling you for your welfare. Give away Sita.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-9-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "पुराशरत्सूर्यमरीच���सन्निभान्नवाग्रपुङ्खान् सुदृढान्नृपात्मजः ।\nसृजत्यमोघान्विशिखान्वधायतेप्रदीयतांदशरधायमैथिली ।।6.9.21।।",
+      "transliteration": "",
+      "translation": "\"You may restore Rama's Mythili, before the emperor Dasaratha's son sends forth solid unfailing arrows shining like autumnal Sun provided with fresh heads and shafts for killing you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-9-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "त्वजस्वकोपंसुखधर्मनाशनंभजस्वधर्मंरतिकीर्तिवर्धनम् ।\nप्रसीदजीवेमसपुत्रबान्धवाःप्रदीयतांदाशरथायमैथिली ।।6.9.22।।",
+      "transliteration": "",
+      "translation": "\"Give up that happiness and anger which destroys virtues. Seek pleasures that enhance fame. Be pacified. Live happily with sons and relatives restoring Mythili to Rama, the son of Dasaratha.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-9-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "विभीषणवच्शुत्वारावणोराक्षसेश्वराः ।\nविसर्जयित्वातान्सर्वान्प्रविवेशस्वकंगृहम् ।।6.9.23।।",
+      "transliteration": "",
+      "translation": "Having heard everything that was told by Vibheeshana, the Lord of Rakshasas sent away all and entered his palace. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेनवमस्सर्गः ।। This is the end of the ninth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

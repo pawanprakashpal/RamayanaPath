@@ -1,0 +1,378 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 79,
+    "title": "Commanded by Ravana, Maka raksha goes to fight with Rama and gets killed.",
+    "titleSanskrit": "",
+    "totalShlokas": 40
+  },
+  "shlokas": [
+    {
+      "id": "v6-79-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "निर्गतंमकराक्षंतेदृष्टवावानरपुङ्गवाः ।\nआप्लुत्यसहसासर्��ेयोद्धुकामाव्यवस्थिताः ।।6.79.1।।",
+      "transliteration": "",
+      "translation": "On seeing Maka raksha all the Vanara chiefs returned, jumped, and stood ready enthusiastically to fight.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "ततःप्रवृत्तंसुमहत्तद्युद्धंरोमहर्षणम् ।\nनिशाचरैःप्लवङ्गानांदेवानांदानवैरिव ।।6.79.2।।",
+      "transliteration": "",
+      "translation": "Then ensued a battle between Rakshasas and Vanaras whichcaused horripilation, just like the battle between Devas and Danavas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "वृक्षशूलनिपातैश्चशिलापरिघपातनैः ।\nअन्योन्यंमर्दयन्तिस्मतदाकपिनिशाचराः ।।6.79.3।।",
+      "transliteration": "",
+      "translation": "Then monkeys as well as Rakshasas fought hurling trees and pikes and bringing down rocks and clubs physically hurting each other.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "शक्तिखडगगदाकुन्तैस्तोमरैश्चनिशाचराः ।\nपट्टसैर्भिण्ढिपालैश्चबाणपातैःसमन्ततः ।।6.79.4।।\nपाशमुद्गरदण्डैश्चनिखातैश्चापरेस्तथा ।\nकदनंकपिसिंहानांचक्रुस्तेरजनीचराः ।।6.79.5।।",
+      "transliteration": "",
+      "translation": "Those prowlers, then ight rangers discharging javelins, swords, maces, spears, lances, small swords, bhindi Palas, shafts, nooses, mallets and staff and other weapons on the lions among the monkeys, caused destruction.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "बाणौघैरर्दिताश्चापिखरपुत्रेणवानराः ।\nसम्भ्रान्तमनसस्सर्वेदुद्रुवुर्भयपीडिताः ।।6.79.6।।",
+      "transliteration": "",
+      "translation": "Vanaras perturbed terribly by the volley of arrows of Khara's son were stricken with fear and ran.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तान्दृष्टवाराक्षसास्सर्वेद्रवमाणान्वलीमुखान् ।\nनेदुस्तेसिम्हवद्दृष्टाराक्षसाजितकाशिनः ।।6.79.7।।",
+      "transliteration": "",
+      "translation": "The monkeys saw all the arrogant Rakshasas roaring like lions and running as though triumphed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "विद्रवत्सुतदातेषुवानरेषुसमन्ततः ।\nरामस्तान्वारमायासशरवर्षेणराक्षसान् ।।6.79.8।।",
+      "transliteration": "",
+      "translation": "Thereafter, seeing the Vanaras running all over, Rama stopped the Rakshasas by rain of arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "रितान्राक्षसान्दृष्टवामकराक्षोनिशाचरः ।\nक्रोधानलसमाविष्टोवचनंचेदमब्रवीत् ।।6.79.9।।",
+      "transliteration": "",
+      "translation": "Seeing the intercepted Rakshasas, the night ranger Maka raksha was overtaken by fire of anger spoke these words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तिष्ठराम मयासार्धंद्वन्द्वयुद्धंददामिते ।\nत्याजयिष्यामितेप्राणान् धनुर्मुक्सैशशितैश्शरैः ।।6.79.10।।",
+      "transliteration": "",
+      "translation": "\"Rama Stop. Duel will take place with me. I will give you sharpened arrows from my bow and relieve you of your life.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "यत्तदादण्डकारण्येपितरंहतवान्मम ।\nतदग्रतःस्वकर्मस्थंदृष्टवारोषोऽभिवर्धते ।।6.79.11।।",
+      "transliteration": "",
+      "translation": "\"Then in Dandakaranya my father was killed. Now for the samereason you are in front of me. Seeing you my anger is increasing.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "दह्यन्तेधृशमङ्गानिदुरात्मन्ममराघव ।\nयन्मयासि न दृष्टस्त्वंतस्मिन् कालेमहावने ।।6.79.12।।",
+      "transliteration": "",
+      "translation": "\"O Evil minded Raghava! at that time, I did not see you in D and aka forest. My limbs are burning in anger.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "दिष्ट्यासिदर्शनंराम ममत्वंप्राप्तवानिह ।\nकाङ्क्षितोऽसिक्षुधार्तस्यसिंहस्येवेतरोमृगः ।।6.79.13।।",
+      "transliteration": "",
+      "translation": "\"Rama! To my good fortune it became possible for me to see you here. Just as a hungry lion waits for an animal, I am waiting for you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "अद्यमद्बाणवेगेनप्रेतराडिवषयंगतः ।\nयेत्वयानिहताःशूराःसहतैश्चसमेष्यसि ।।6.79.14।।",
+      "transliteration": "",
+      "translation": "\"Now by the speed of my arrow I will send you totherealm of Yama and there you will be along with the demons killed by you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "बहुनात्रकिमुक्तेनशृणुराम वचोमम ।\nपश्यन्तुसकलालोकास्त्वा, मांचैवरणाजिरे ।।6.79.15।।",
+      "transliteration": "",
+      "translation": "\"Rama, why talk so much? Listen to my words. Let people in all worldssee you and me in the battlefield.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "अस्त्रैर्वागदयावापिबाहुभ्यांवामहाहवे ।\nअभ्यस्तंयेनवाराम तेनैवयुधिवर्तताम् ।।6.79.16।।",
+      "transliteration": "",
+      "translation": "\"By weapons, or by mace or else with hand s or any other weapon or with your military practice, you fight, he said to Rama.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "मकराक्ष्वचश्श्रुत्वारामोदशरथात्मजः ।\nअब्रवीत्प्रहसन्वाक्यमुत्तरोत्तरवादिनम् ।।6.79.17।।",
+      "transliteration": "",
+      "translation": "Laughing at the words of Maka raksha who was speaking again and again Rama said.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "कत्थसेकिंवृथारक्षो बहून्यसदृशानिते ।\nन रणेशक्यतेजेतुंविनायुद्धेनवाग्भलात् ।।6.79.18।।",
+      "transliteration": "",
+      "translation": "\"Rakshasa! Why so much of wasteful talk about What you can't accomplish? Victory is not possible on the battlefield with your force of speech\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "चतुर्दशसहस्राणिरक्षसांत्वत्पिता च यः ।\nत्रिशिरादूषणश्चापिदण्डकेनिहतामया ।।6.79.19।।",
+      "transliteration": "",
+      "translation": "\"In Dandaka, fourteen thousand Rakshasas, your father, Trisira, and also Dooshana were killed by me alone.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "स्वाशितास्तवमांसेनगृध्रगोमायुवायसाः ।\nभविष्यन्त्यद्यवैपाप तीक्ष्णतुण्डनखाङ्कुराः ।।6.79.20।।",
+      "transliteration": "",
+      "translation": "\"O Sinner! Today vultures, jackals and crows with sharp beaks and goads like claws will also be satiated with your flesh.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "राघवेणैवमुक्तस्तुमकराक्षोमहाबलः ।\nबाणौघानमुचत्तस्मैराघवायरणाजिरे ।।6.79.21।।",
+      "transliteration": "",
+      "translation": "Spoken in that manner by Raghava in the battlefield, Maka raksha, endowed with extraordinary strength, released a volley of arrows on Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तान्शरान् शरवर्षेणरामश्चिच्छेदनैकधा ।\nनिपेतुर्भुवितेछिन्नारुक्मपुङ्खास्सहस्रशः ।।6.79.22।।",
+      "transliteration": "",
+      "translation": "Rama rained volley of arrows on the Rakshasa and shattered those golden feathered arrows which fell on the ground into thousands of pieces.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तद्युद्धमभवत्तत्रसमेत्यान्योन्यमोजसा ।\nखरराक्षसपुत्रस्यसूनोर्धशरथस्य च ।।6.79.23।।",
+      "transliteration": "",
+      "translation": "On meeting one another between Khara's son and Dasharatha's son a fierce comb at happened.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "जीमूतयोरिवाकाशेशब्दोज्यातलयोस्तदा ।\nधनुर्मुक्तःस्वनोत्कृष्टश्श्रूयते च रणाजिरे ।।6.79.24।।",
+      "transliteration": "",
+      "translation": "Then the sound released by the friction of the bowstring and the hand (of the two heroes) filled the sky like thunder of clouds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "देवदानवगन्धर्वाःकिन्नराश्चमहोरगाः ।\nअन्तरिक्षगतास्सर्वेद्रष्टुकामास्तदद्भुतम् ।।6.79.25।।",
+      "transliteration": "",
+      "translation": "Devas, Danavas, Ghand arvas, Kinnaras and huge serpents all of them stood in space to look at the wonderful evil deed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "विद्धमन्योन्यगात्रेषुद्विगुणंवर्धतेपरम् ।\nकृतप्रतिकृतान्योन्यंकुरुतांतौरणाजिरे ।।6.79.26।।",
+      "transliteration": "",
+      "translation": "Even though they were piercing one another with limbs, their strength remained doubled in the battlefield. Each of them was countering the other and inflicting and hitting each other.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "राममुक्तांस्तुबाणौघान् राक्षसस्त्वच्छिनद्रणे ।\nरक्षोमुक्तांस्तुरामोवैनैकथाप्राच्छिनच्छरैः ।।6.79.27।।",
+      "transliteration": "",
+      "translation": "In the comb at Rakshasa split the arrows released by Rama and Rakshasa shattered the arrows released by Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "बाणौघैर्विततास्सर्वादिशश्चप्रदिशस्तथा ।\nसञ्छन्नावसुधाचैवसमन्तान्नप्रकाशते ।।6.79.28।।",
+      "transliteration": "",
+      "translation": "All quarters were covered by the arrows in that manner all over and even the intermediate point, the earth could not be seen.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "तःक्रुद्धोमहाबाहुर्धनुच्शिच्छेदरक्षसः ।\nअष्टाभिरथनाराचैस्सूतंविव्याधराघवः ।।6.79.29।।",
+      "transliteration": "",
+      "translation": "Then broad shouldered Raghava was enraged and split the bow with eight steel arrows and the charioteer also.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "भित्त्वारथंशरैरामोहत्वाआश्वानपातयत् ।\nविरथोवसुधास्थश्चमकराक्षोनिशाचरः ।।6.79.30।।",
+      "transliteration": "",
+      "translation": "Rama broke the chariot, killed the horses, and laid down the night ranger Maka raksha. Deprived of the chariot he stood on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "तत्तिष्ठद्वसुधांरक्षश्शूलंजग्राहपाणिना ।\nत्रासनंसर्वभूतानांयुगान्ताग्निसमप्रभम् ।।6.79.31।।",
+      "transliteration": "",
+      "translation": "Standing on the ground that Rakshasa who created fear among all beings shone like fire at the time of dissolution of the universe, seized his pike in hand.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "दुरवापम् महच्छूलंरुद्रदत्तंभयङ्करम् ।\nजाज्वल्यमानमाकाशेसंहारास्त्रमिवापरम् ।।6.79.32।।\nयंदृष्टवादेवताःसर्वाभयार्ताविद्रुतादिशः ।",
+      "transliteration": "",
+      "translation": "Seeing that pike, which was glowing like flame, by which the quarters were glowing brightly in the sky like the flame, which had been given by Rudra, which caused fear like another weapon of destruction, all gods fled in panic in all directions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "विभ्राम्यतुमहच्छूलंप्रज्वलन्तन्निशाचरः ।।6.79.33।।\nस क्रोधाप्राहिणोत्तस्मैराघवायमहात्मने ।",
+      "transliteration": "",
+      "translation": "The night ranger whirling round and round the glowing pike furiously hurled at Raghava in that conflict.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "तमापतन्तंज्वलितंखरपुत्रकराच्च्युतम् ।।6.79.34।।\nबाणैत्रिभिराकाशेशूलंचिच्छेदराघवः ।",
+      "transliteration": "",
+      "translation": "Raghava split with his three arrows the burning pike released from the hand of Khara's son while it was still flying in the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "सच्छन्नोनैकथाशूलोदिव्यहाटकमण्डितः ।।6.79.35।।\nव्यशीर्यतमहोल्केवरामबाणार्दितोभुवि ।",
+      "transliteration": "",
+      "translation": "That pike, which was decorated with gold, broke into pieces, and fell down like fire sticks by the many supreme arrows of Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "च्छूलंनिहतंदृष्टवारामेणाक्लिष्टकर्मणा ।।6.79.36।।\nसाधुसावधितिभूतानिव्याहरन्तिनभोगताः ।",
+      "transliteration": "",
+      "translation": "Seeing the unwearied action of Raghava in destroying the pike, the beings in the sky praised him saying,\" well done, well done.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "तंदृष्टवानिहतंशूलंमकराक्षोनिशाचरः ।।6.79.37।।\nमुष्टिमुद्यम्यकाकुत्स्थंतिष्ठतिष्ठेतिचाब्रवीत् ।",
+      "transliteration": "",
+      "translation": "The night ranger Makaraksha seeing his pike destroyed lifting up his fist said this to Kakuthsa, \"Wait, wait.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "सःतंदृष्टवाऽपतन्तंवैप्रहस्यरघुनन्दनः ।।6.79.38।।\nपावकास्त्रंततोरामस्सन्दधेतुशरासने ।",
+      "transliteration": "",
+      "translation": "Then Rama the beloved of Raghus, laughing at Maka raksha, fixed missile presided by fire god.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "तेनास्त्रणहतंरक्षःकाकुत्थ्सेनतदारणे ।।6.79.39।।\nसञ्चिन्नहृदयंतत्रपपात च ममार च ।",
+      "transliteration": "",
+      "translation": "Then struck in the battlefield by that missile of Kakuthsa, the Rakshasa fell down with his heart split open and died.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "दृष्टवातेराक्षसास्सर्वेमकराक्षस्यपातनम् ।।6.79.40।।\nलङ्कामेवप्रधावन्तरामबाणभयार्दिताः ।",
+      "transliteration": "",
+      "translation": "Seeing Maka raksha fall, those Rakshasas became scared of Rama's arrow and ran straight to Lanka.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-79-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "दशरथनृपसूनुबाणवेगैःरजनिचरंनिहतंखरात्मजंतम् ।\nददृशुरथदेवताःप्रहृष्टागिरिमववज्रहतंक्षितौकीर्णम् ।।6.79.41।।",
+      "transliteration": "",
+      "translation": "Khara's son fell dead by the force of Rama's like arrow and the Devatas rejoiced seeing the night ranger shattered like a mountain struck by diamond bolt. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेएकोनाशीतितमस्सर्गः ।। This is the end of the seventy ninth sarga of the Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

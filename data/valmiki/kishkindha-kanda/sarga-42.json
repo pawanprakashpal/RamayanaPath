@@ -1,0 +1,441 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 42,
+    "title": "Sugriva sends the next army in the western direction -- describes rivers, mountains and places in the west.",
+    "titleSanskrit": "",
+    "totalShlokas": 47
+  },
+  "shlokas": [
+    {
+      "id": "v4-42-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "अथ प्रस्थाप्य सुग्रीवस्तान्हरीन्दक्षिणां दिशम्।\nअब्रवीन्मेघसङ्काशं सुषेणं नाम यूथपम्।।4.42.1।।",
+      "transliteration": "",
+      "translation": "After sending the monkeys in the southern direction, Sugriva said to the cloudlike troop leader called Sushena.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तारायाः पितरं राजा श्वशुरं भीमविक्रमम्।\nअब्रवीत्प्राञ्जलिर्वाक्यमभिगम्य प्रणम्य च।।4.42.2।।",
+      "transliteration": "",
+      "translation": "King (Sugriva) went with folded hands to Tara's father, his fatherinlaw, of terrifying valour, offered salutation and said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "मरीचिपुत्रं मारीचमर्चिष्मन्तं महाकपिम्।\nवृतं कपिवरै श्शूरैर्महेन्द्रसदृशद्युतिम्।।4.42.3।।\nबुद्धिविक्रमसम्पन्नं वैनतेयसमद्युतिम्।\nमरीचिपुत्रान्मारीचानर्चिर्मालान्महाबलान्।।4.42.4।।\nऋषिपुत्रांश्चतांत्सर्वान्प्रतीचीमादिशद्दिशम्।",
+      "transliteration": "",
+      "translation": "Sugriva  spoke to the great lustrous monkey Archisman, son of the eminent sage Marichi who possessed the wisdom and prowess of Indra and was comparable to Vaineteya (Garuda) in lustre. He also spoke to the other sons of Maricha, called Marichas, who were very strong and known as Archismalas (garlands of continuous glow) and asked all of them to proceed in the western direction.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "द्वाभ्यां शतसहस्राभ्यां कपीनां कपिसत्तमाः।।4.42.5।।\nसुषेणप्रमुखा यूयं वैदेहीं परिमार्गतः।",
+      "transliteration": "",
+      "translation": "'O foremost of monkeys with Sushena as your group leader accompanied by two hundred thousand vanaras, go and search for Vaidehi.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "सुराष्ट्रान्सहबाह्लीकान् श्चन्द्रचित्रांस्तथैव च।।4.42.6।।\nस्फीताञ्जनपदान्रम्यान्विपुलानि पुराणि च।\nपुन्नागगहनं कुक्षिं वकुलोद्दालकाकुलम्।।4.42.7।।\nतथा केतकषण्डांश्च मार्गध्वं हरियूथपाः।",
+      "transliteration": "",
+      "translation": "'O leaders of monkeys search for Sita in the countries of Saurashtra, and also Bahlika, Chandrachitra, in delightful villages and vast towns, also in Kukshi covered haphazardly with punnaga, bakula and uddalaka trees as well as ketaka shrubs.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "प्रत्यक्स्रोतोगमाश्चैव नद्यश्शीतजलाश्शिवाः।।4.42.8।।\nतापसानामरण्यानि कान्तारा गिरयश्च ये।\nतत्रस्थलीं मरुप्रायामत्युच्चशिरसश्शिलाः।।4.42.9।।\nगिरिजालावृतां दुर्गां मार्गित्वा पश्चिमां दिशम्।\nततः पश्चिममासाद्य समुद्रं द्रष्टुमर्हथ।।4.42.10।।\nतिमिनक्रायुतजलमक्षोभ्यमथ वानराः।",
+      "transliteration": "",
+      "translation": "'O monkeys the auspicious rivers with cool waters flow towards the western region. Search in the groves inhabited by ascetics, other forests, mountains, cliffs, in the desertland. Search in the inaccessible western region surrounded by mountains. Then proceed to the western ocean infested with whales and alligators, which cannot be easily disturbed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "ततः केतकषण्डेषु तमालगहनेषु च।।4.42.11।।\nकपयो ���िहरिष्यन्ति नारिकेलवनेषु च।",
+      "transliteration": "",
+      "translation": "'There the monkeys may roam about the Ketaka shrubs, tamala thickets and coconut groves.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तत्र सीतां च मार्गध्वं निलयं रावणस्य च।।4.42.12।।\nवेलातलनिविष्टेषु पर्वतेषु वनेषु च।\nमुरचीपत्तनं चैव रम्यं चैव जटीपुरम्।।4.42.13।।\nअवन्तीमङ्गलोपां च तथा चालक्षितं वनम्।\nराष्ट्राणि च विशालानि पत्तनानि ततस्ततः।।4.42.14।।",
+      "transliteration": "",
+      "translation": "'Look for Sita as well as the residence of Ravana.You should find the whereabouts of Sita in the mountains and forests located on the sea shore. Search in the city of Murachi, beautiful city of Jata, Avanti, Angalopa and in the unnoticed forestland. Look for her in the vast kingdoms and cities all over.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "सिन्धुसागरयोश्चैव सङ्गमे तत्र पर्वतः।\nमहान्हेमगिरिर्नाम शतशृङ्गो महाद्रुमः।।4.42.15।।",
+      "transliteration": "",
+      "translation": "'There is a lofty mountain with a hundred peaks and great trees at the confluence of river Sindhu and the sea. It is known as Hemagiri (golden mountain).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तस्य प्रस्थेषु रम्येषु सिंहाः पक्षगमाः स्थिताः।\nतिमिमत्स्यगजांश्चैव नीडान्यारोपयन्ति ते।।4.42.16।।",
+      "transliteration": "",
+      "translation": "'On the slopes of that mountain you will find lions called Pakshagamas, that is lions with wings. They carry  the whales, fishes and elephants from the sea to their shelters on the beautiful mountain slopes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तानि नीडानि सिंहानां गिरिशृङ्गगताश्च ये।\nदृप्तास्तृप्ताश्च मातङ्गास्तोयदस्वननिस्वनाः।।4.42.17।।\nविचरन्ति विशालेऽस्मिंस्तोयपूर्णे समन्ततः।",
+      "transliteration": "",
+      "translation": "'The proud elephants wandering on the mountain slopes, and on the vast tract filled with water would be happy trumpeting like thundering clouds. They roam in the caves of lions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "तस्य शृङ्गं दिवस्पर्शं काञ्चनं चित्रपादपम्।।4.42.18।।\nसर्वमाशु विचेतव्यं कपिभिः कामरूपिभिः।",
+      "transliteration": "",
+      "translation": "'The monkeys capable of assuming any form at their will should search the scraping peaks of the golden mountain (Himagiri) with colourful trees without delay.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "कोटिं तत्र समुद्रे तु काञ्चनीं शतयोजनाम्।।4.42.19।।\nदुर्दर्शां  पारियात्रस्य गतां द्रक्ष्यथ वानराः।",
+      "transliteration": "",
+      "translation": "'O monkeys you will see the dazzling golden tip of a mountain called Pariyatra towards the end of the sea. It is extended over a hundred yojanas and  dificult to gaze because of its brilliance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "कोट्यस्तत्र चतुर्विंशद्गन्धर्वाणां तपस्विनाम्।।4.42.20।।\nवसन्त्यग्निनिकाशानां घोराणां कामरूपिणाम्।",
+      "transliteration": "",
+      "translation": "'There dwell twentyfour crore of terrific gandharvas blazing like fire who can assume any form.They lead an ascetic life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "पावकार्चिः प्रतीकाशास्समवेतास्सहस्रशः।।4.42.21।।\nनात्यासादयितव्यास्ते वानरैर्भीमविक्रमैः।",
+      "transliteration": "",
+      "translation": "'Collected together in thousands, and radiating like fire, they live there. Even the very brave vanaras should not go close to them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "नादेयं च फलं तस्माद्देशात्किञ्चित् प्लवङ्गमैः।।4.42.22।।\nदुरासदा हि ते वीरा स्सत्त्ववन्तो महाबलाः।\nफलमूलानि ते तत्र रक्षन्ते भीमविक्रमाः।।4.42.23।।",
+      "transliteration": "",
+      "translation": "'You should not pluck any fruits from those woods, for courageous gandharvas protect the fruits of the trees. It is difficult to go there, for those heroes have frightening bravery.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तत्र यत्नश्च कर्तव्यो मार्गितव्या च जानकी।\nन हि तेभ्यो भयं किञ्चित्कपित्वमनुवर्तताम्।।4.42.24।।",
+      "transliteration": "",
+      "translation": "'Exert yourself in your search for Janaki. Indeed there will be no fear from them, if you behave like normal monkeys in a natural way.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तत्र वैढूर्यवर्णाभो वज्रसंस्थानसंस्थितः।\nनानाद्रुमलताकीर्णो वज्रो नाम महागिरिः।।4.42.25।।\nश्रीमान्समुदितस्तत्र योजनानां शतं समम्।\nगुहास्तत्र विचेतव्या प्रयत्नेन प्लवङ्गमाः ।।4.42.26।।",
+      "transliteration": "",
+      "translation": "'(Beyond) there  is a glorious mountain called Vajra of the colour of Vaidurya, hard as a diamond with different kinds of trees and vines.The  mountain extends evenly to a stretch of a hundred yojanas.There are caves in the mountain where you may look for her with due effort.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "चतुर्भागे समुद्रस्य चक्रवान्नाम पर्वतः।\nतत्र चक्रं सहस्रारं निर्मितं विश्वकर्मणा।।4.42.27।।",
+      "transliteration": "",
+      "translation": "'Then move to the fourth part (of the western sea) where you will see  a mountain called Chakravan occupying a quarter part of the sea.You will find there a thousandspiked wheel built by Visvakarma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तत्र पञ्चजनं हत्वा हयग्रीवं च दानवम्।\nआजहार ततश्चक्रं शङ्खं च पुरुषोत्तमः।।4.42.28।।",
+      "transliteration": "",
+      "translation": "'It was there that the Supreme Lord Visnu, having slain Hayagriva and Panchajanam,  recovered the discus and conch for himself.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तस्य सानुषु चित्रेषु विशालासु गुहासु च।\nरावण स्सह वैदेह्या मार्गितव्यस्तत स्ततः।।4.42.29।।",
+      "transliteration": "",
+      "translation": "'Look for Vaidehi and Ravana in the wide caves and colourful slopes of the (Chakravan) mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "योजनानां चतुष्षष्टिर्वराहो नाम पर्वतः।\nसुवर्णशृङ्गस्सुश्रीमा नगाधे वरुणालये।।4.42.30।।",
+      "transliteration": "",
+      "translation": "'Plunge deep down into the sea and you will see a goldenpeaked mountain called Varaha, the residence of Varuna.It is extended over sixty four yojanas in the sea.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तत्र प्राग्ज्योतिषं नाम जातरूपमयं पुरम्।\nयस्मिन्वसति दुष्टात्मा नरको नाम दानवः।।4.42.31।।",
+      "transliteration": "",
+      "translation": "'On the (Varaha) mountain is the city called Pragjyotisha, which is full of gold.There lives the  evilminded demon Naraka.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "तत्र सानुषु चित्रेषु विशालासु गुहासु च।\nरावणस्सह वैदेह्या मार्गितव्यस्ततस्ततः।।4.42.32।।",
+      "transliteration": "",
+      "translation": "'There all over the wonderful slopes and wide caves look for Vaidehi and Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तमतिक्रम्य शैलेन्द्रं काञ्चनान्तरनिर्दरः।\nपर्वत स्सर्वसौवर्णो धाराप्रस्रवणायुतः।।4.42.33।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "तं गजाश्च वराहाश्च सिंह व्याघ्राश्च सर्वतः।\nअभिगर्जन्ति सततं तेन शब्देन दर्पिताः।।4.42.34।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "यस्मिन्हरिहय्शीमान्महेन्द्रः पाकशासनः।\nअभिषिक्तः सुरै राजा मेघवान्नाम पर्वतः।।4.42.35।।",
+      "transliteration": "",
+      "translation": "'Possessor of tawny horses, king Indra who killed demon Pakasasana was consecrated by gods at this mountain since known as Meghavan.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "तमतिक्रम्य शैलेन्द्रं महेन्द्रपरिपालितम्।\nषष्टि र्गिरिसहस्राणि काञ्चनानि गमिष्यथ।।4.42.36।।\nतरुणादित्यवर्णानि भ्राजमानानि सर्वतः।\nजातरूपमयैर्वृक्षै शोभितानि सुपुष्पितैः।।4.42.37।।",
+      "transliteration": "",
+      "translation": "'On crossing the hill ruled by Indra you will reach the rows of sixty thousand mountains of gold shining like the brilliance of the rising Sun. The mountains glow with golden trees filled with bloom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "तेषां मध्ये स्थितो राजा मेरुरुत्तरपर्वतः।\nआदित्येन प्रसन्नेन शैलो दत्तवरः पुरा।।4.42.38।।",
+      "transliteration": "",
+      "translation": "'In the midst of the sixty thousand hills stands Meru, King of mountains. It is the northern mountain, blessed by the Sungod with a boon in the past.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "तेनैव मुक्तश्शैलेन्द्रस्सर्व एव त���वदाश्रयाः।\nमत्प्रसादाद्भविष्यन्ति दिवा रात्रं च काञ्चनाः।।4.42.39।।\nत्वयि ये चापि वत्स्यन्ति देवगन्धर्वदानवाः।\nते भविष्यन्ति रक्ताश्च प्रभया काञ्चनप्रभाः।।4.42.40।।",
+      "transliteration": "",
+      "translation": "'The Sungod said to mount Meru, 'By my grace all the trees and hillocks of this king of mountains will shine in golden red, the gods, gandharvas and demons who dwell here will have golden radiance '.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "विश्वे देवाश्च मरूतो वसवश्च दिवौकसः।\nआगम्य पश्चिमां सन्ध्यां मेरुमुत्तमपर्वतम्।।4.42.41।।\nआदित्यमुपतिष्ठन्ति तैश्च सूर्योऽभिपूजितः।\nअदृश्यस्सर्वभूतानामस्तं गच्छतिपर्वतम्।।4.42.42।।",
+      "transliteration": "",
+      "translation": "The Visvadevas, Vasus, Maruts, and the gods reach Meru, this great king of mountains, in the evening twilight. Worshipped by them, the Sungod sets behind the mountain and becomes invisible to all beings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "योजनानां सहस्राणि दश तानि दिवाकरः।\nमुहूर्तार्धेन तं शीघ्रमभियाति शिलोच्चयम्।।4.42.43।।",
+      "transliteration": "",
+      "translation": "'Crossing ten thousand yojanas swiftly in half a moment, the Sun touches the mount behind which he sets.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "शृङ्गे तस्य महद्दिव्यं भवनं सूर्यसन्निभम्।\nप्रासादगणसम्बाधं विहितं विश्वकर्मणा।।4.42.44।।",
+      "transliteration": "",
+      "translation": "'There is a great divine abode glowing like the Sungod on the peak of the mountain.It is a cluster of mansions built  by Visvakarma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "शोभितं तरुभिश्चित्रैर्नानापक्षिसमाकुलैः।\nनिकेतं पाशहस्तस्य वरुणस्य महात्मनः।।4.42.45।।",
+      "transliteration": "",
+      "translation": "'It is the residence of Varuna, who holds the noose in his hand.It is an enchanting place, full of trees attracting flocks of various birds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "अन्तरा मेरुमस्तं च तालो दशशिरा महान्।\nजातरूपमय्शीमान्भ्राजते चित्रवेदिकः।।4.42.46।।",
+      "transliteration": "",
+      "translation": "'Between mount Asta (the mountain behind which the Sun sets) and Meru there is a shining golden palm tree with ten high peaks and wonderful altars around.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "तेषु सर्वेषु दुर्गेषु सरस्सु च सरित्सु च।\nरावणस्सह वैदेह्या मार्गितव्यस्तत स्ततः।।4.42.47।।",
+      "transliteration": "",
+      "translation": "'Look for Vaidehi and Ravana all over those inaccessible mountains, lakes and rivers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "यत्र तिष्ठति धर्मज्ञस्तपसा स्वेन भावितः।\nमेरुसावर्णिरित्येव ख्यातो वै ब्रह्मणा समः।।4.42.48।।",
+      "transliteration": "",
+      "translation": "'The sage Merusavarna, knower of dharma, famous for his penance and comparable to Brahma lives there with him on Meru.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "प्रष्टव्यो मेरुसावर्णिर्महर्षिः सूर्यसन्निभः।\nप्रणम्य शिरसा भूमौ प्रवृत्तिं मैथिलीं प्रति।।4.42.49।।",
+      "transliteration": "",
+      "translation": "'Bow down, touch the feet of the seer Merusavarna, who glows like the Sun and then enquire from him about Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "एताव ज्जीवलोकस्य भास्करो रजनीक्ष्ये।\nकृत्वा वितिमिरं सर्वमस्तं गच्छति पर्वतम्।।4.42.50।।",
+      "transliteration": "",
+      "translation": "'The world of living beings is extended to this extent. The Sun dispels darkness at the end of the night and thereafter reaches the mountain behind which he sets (at the end of the day).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "एतावद्वानरैश्शक्यं गन्तुं वानरपुङ्गवाः।\nअभास्करममर्यादं न जानीमस्ततः परम्।।4.42.51।।",
+      "transliteration": "",
+      "translation": "'O great monkeys you can go only up to that point. The Sun's rays do not extend beyond this and it has no boundaries.We do not know about the area beyond this limit.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "अधिगम्य तु वैदेहीं निलयं रावणस्य च।\nअस्त पर्वतमासाद्य पूर्णे मासे निवर्तत।।4.42.52।।",
+      "transliteration": "",
+      "translation": "'Go and find out Sita and the abode of Ravana. After this, return to the mountain behind which the Sun sets and come back on completion of a month.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "ऊर्ध्वं मासान्न वस्तव्यं वसन् वध्यो भवेन्मम।\nसहैव शूरो युष्माभिश्श्वशुरो मे गमिष्यति।।4.42.53।।",
+      "transliteration": "",
+      "translation": "'If you tarry beyond a month, you will be slain. My fatherin law, the brave hero will go with your group.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "श्रोतव्यं सर्वमेतस्य भवद्भिर्दिष्टकारिभिः।\nगुरुरेष महाबाहुश्श्वशुरो मे महाबलः।।4.42.54।।",
+      "transliteration": "",
+      "translation": "'You should obey him. You are meant to carry out his orders. He is not only my fatherinlaw but also a valiant, strong and powerful hero and my preceptor.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "भवन्तश्चापि विक्रान्ताः प्रमाणं सर्व कर्मसु।\nप्रमाणमेनं संस्थाप्य पश्यध्वं पश्चिमां दिशम्।।4.42.55।।",
+      "transliteration": "",
+      "translation": "'My fatherinlaw will be your leader. His authority will be final in all matters. Accept  his authority and look for Vaidehi in the western direction.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "दृष्टायां तु नरेन्द्रस्य पत्न्याममिततेजसः।\nकृतकृत्या भविष्यामः कृतस्य प्रतिकर्मणा।।4.42.56।।",
+      "transliteration": "",
+      "translation": "'We will be achieving our goal when the consort of the highly glorious king Rama is found. And we will return the help he has rendered.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "अतोऽन्यदपि यत्कार्यं कार्यस्यास्य हितं भवेत्।\nसम्प्रधार्य भवद्भिश्च देशकालार्थसंहितम्।।4.42.57।।",
+      "transliteration": "",
+      "translation": "'You may do any work after careful thinking, if it helps to achieve the purpose, and if the work to be performed is in accordance with time and place.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-42-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "ततः सुषेणप्रमुखाः प्लवङ्गामाः\nस्सुग्रीव वाक्यं निपुणं निशम्य।\nआमन्त्य्र सर्वे प्लवगाधिपं ते\nजग्मुर्दिशं तां वरुणाभिगुप्ताम्।।4.42.58।।",
+      "transliteration": "",
+      "translation": "Sushena and other leaders heard the expert advice of Sugriva, and took leave of him.They went towards the western direction ruled by Varuna. इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे द्विचत्वारिंशस्सर्गः।। Thus ends the fortysecond Sarga in the Kishkinda Kanda of the first epic, the Holy Ramayana composed  by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

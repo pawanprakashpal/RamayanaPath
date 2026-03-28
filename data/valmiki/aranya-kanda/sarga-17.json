@@ -1,0 +1,243 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 17,
+    "title": "Surpanakha meets Rama --reveals  her identity -- expresses her desire to be his wife",
+    "titleSanskrit": "",
+    "totalShlokas": 25
+  },
+  "shlokas": [
+    {
+      "id": "v3-17-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "कृताभिषेको रामस्तु सीता सौमित्रिरेव च।\nतस्माद्गोदावरीतीरात्ततो जग्मुस्वमाश्रमम्।।3.17.1।।",
+      "transliteration": "",
+      "translation": "Ablution over, Rama, accompanied by Sita and Lakshmana, went back from the bank of the river Godabari to their hermitage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-17-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "आश्रमं तमुपागम्य राघवस्सह लक्ष्मणः।\nकृत्वा पौर्वाह्णिकं कर्म पर्णशालामुपागमत्।।3.17.2।।",
+      "transliteration": "",
+      "translation": "On reaching the hermitage, Rama and Lakshmana performed the forenoon rituals and entered the leafthatched cottage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-17-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "उवास सुखितस्तत्र पूज्यमानो महर्षिभिः।\nलक्ष्मणेन सह भ्रात्रा चकार विविधाः कथाः।।3.17.3।।",
+      "transliteration": "",
+      "translation": "Honoured by the ascetics , Rama  stayed there peacefully with brother Lakshmana,  discussing diverse matters (from time to time).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-17-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "स रामः पर्णशालायामासीनस्सह सीतया।\nविरराज महाबाहुश्चित्रया चन्द्रमाः इव।।3.17.4।।",
+      "transliteration": "",
+      "translation": "Longarmed Rama seated with Sita in the cottage, appeared like the Moon in conjunction with constellation Chitra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-17-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तदाऽऽसीनस्य रामस्य कथासंसक्तचेतसः।\nतं देशं राक्षसी काचिदाजगाम यदृच्छया।।3.17.5।।",
+      "transliteration": "",
+      "translation": "While Rama was thus seated, engrossed in conversation, there incidentally appeared a demoness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-17-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "सा तु शूर्पणखा नाम दशग्रीवस्य राक्षसः।\nभगिनी राममासाद्य ददर्श त्रिदशोपमम्।।3.17.6।।",
+      "transliteration": "",
+      "translation": "Surpanakha, sister of the tenheaded demon (Ravana) approached Rama shining like a god.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-17-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "सिंहोरस्कं महाबाहुं पद्मपत्रनिभेक्षणम्।\nआजानुबाहुं दीप्तास्यमतीव प्रियदर्शनम्।।3.17.7।।\nगजविक्रान्तगमनं जटामण्डलधारिणम्।\nसुकुमारं महासत्त्वं पार्थिवव्यञ्जनान्वितम्।।3.17.8।।\nराममिन्दीवरश्यामं कन्दर्पसदृशप्रभम्।\nबभूवेन्द्रोपमं दृष्ट्वा राक्षसी काममोहिता।।3.17.9।।",
+      "transliteration": "",
+      "translation": "The demoness was infatuated with Rama,  whose chest was like that of a lion, who was strongarmed, who had a glowing face, pleasing to the eyes, who walked with the gait of an elephant, whose hair was matted,  who was gentle and strong who was, endowed with royal traits, who had a blue lotuslike complexion, who was handsome as the god of love, and who resembled Indra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-17-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "सुमुखं दुर्मुखी रामं वृत्तमध्यं महोदरी।\nविशालाक्षं विरूपाक्षी सुकेशं ताम्रमूर्धजा।।3.17.10।।\nप्रीतिरूपं विरूपा सा सुस्वरं भैरवस्वरा।\nतरुणं दारुणा वृद्धा दक्षिणं वामभाषिणी।।3.17.11।।\nन्यायवृत्तं सुदुर्वृत्ता प्रियमप्रियदर्शना।\nशरीरजसमाविष्टा राक्षसी वाक्यमब्रवीत्।।3.17.12।।",
+      "transliteration": "",
+      "translation": "Rama's face was lovely, Surpanakha's was hideous. Rama had a slender waist, she had a huge belly. His eyes were large,  hers were deformed. His hair was black and beautiful, hers was coppercoloured. He was lovely in appearance, she was ugly. His voice was sweet, hers was shrill. He was young, she was dreadfully old. He was positive, she was perverted. Rama was wellbehaved, she was wicked. Rama was just and loving while she was overcome by lust.  (This) demoness said to Rama :",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-17-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "जटी तापसरूपेण सभार्यश्शरचापधृत्।\nआगतस्त्वमिमं देशं कथं राक्षससेवितम्।।3.17.13।।\nकिमागमनकृत्यं ते तत्त्वमाख्यातुमर्हसि।",
+      "transliteration": "",
+      "translation": "O Rama you are wearing matted hair like an ascetic, but living with your wife and holding bow and arrows. What brings you to this place haunted by demons ? You should tell me the truth ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-17-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु राक्षस्या शूर्पणख्या परन्तपः।।3.17.14।।\nऋजुबुद्धितया सर्वमाख्यातुमुपचक्रमे।",
+      "transliteration": "",
+      "translation": "Thus asked by the demoness Surpanakha,  Rama, scorcher of foes began telling her everything due to his simplemindedness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-17-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "अनृतं न हि रामस्य कदाचिदपि सम्मतम्।।3.17.15।।\nविशेषेणाऽश्रमस्थस्य समीपे स्त्रीजनस्य च।",
+      "transliteration": "",
+      "translation": "To Rama untruth is never acceptable at the hermitage and especially in the presence of a woman.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-17-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "आसीद्धशरथो नाम राजा त्रिदशविक्रमः।।3.17.16।।\nतस्याहमग्रजः पुत्रो रामो नाम जनैश्श्रुतः।",
+      "transliteration": "",
+      "translation": "(Rama replied) There was a king named Dasaratha who was mighty like the gods. I am his eldest son known among the people as Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-17-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "भ्राताऽयं लक्ष्मणो नाम यवीयान्मामनुव्रतः।।3.17.17।।\nइयं भार्या च वैदेही मम सीतेति विश्रुता।",
+      "transliteration": "",
+      "translation": "Here is Lakshmana , my younger brother, who always follows me . And this  is the daughter of the king of Videha and my wife, wellknown as Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-17-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "नियोगात् तु नरेन्द्रस्य पितुर्मातुश्च यन्त्रितः।।3.17.18।।\nधर्मार्थं धर्मकाङ्क्षी च वनं वस्तुमिहागतः।",
+      "transliteration": "",
+      "translation": "I have come here, commanded by the king, my father and mother.Intending to obey the orders of my father, and impelled by duty to  establish righteousness I have come  to reside here.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-17-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "त्वां तु वेदितुमिच्छामि कस्य त्वं कासि कस्य वा।।3.17.19।।\nत्वं हि तावन्मनोज्ञाङ्गी राक्षसी प्रतिभासि मे।",
+      "transliteration": "",
+      "translation": "I wish to know who you are. Tell me who your kins are. With lovely limbs you do not appear to be a demoness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-17-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "इह वा किंनिमित्तं त्वमागता ब्रूहि तत्त्वत:।।3.17.20।।\nसाब्रवीद् वचनं श्रुत्वा राक्षसी मदनार्दिता।",
+      "transliteration": "",
+      "translation": "Tell me truly what you have come here for. Having heard the words of Rama and overtaken by passion, the demoness said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-17-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "श्रूयतां राम वक्ष्यामि तत्त्वार्थं वचनं मम। 3.17.21।।\nअहं शूर्पणखा नाम राक्षसी कामरूपिणी।\nअरण्यं विचरामीदमेका सर्वभयङ्करा।।3.17.22।।",
+      "transliteration": "",
+      "translation": "My name is Surpanakha. I am a demoness who can assume any form at will, I move in this forest alone, unleashing a reign of terror.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-17-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "रावणो नाम मे भ्राता बलीयान्राक्षसेश्वरः।\nवीरो विश्रवसः पुत्रो यदि ते ���्रोत्रमागतः।।3.17.23।।",
+      "transliteration": "",
+      "translation": "My brother is Ravana, son of Visrava, and lord of all demons. You have heard his name I suppose.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-17-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "प्रवृद्धनिद्रश्च सदा कुम्भकर्णो महाबलः।\nविभीषणस्तु धर्मात्मा न तु राक्षसचेष्टितः।।3.17.24।।\nप्रख्यातवीर्यौ च रणे भ्रातरौ खरदूषणौ।",
+      "transliteration": "",
+      "translation": "Kumbhakarna is another brother of mine. He is very strong. He is always in deep sleep. Vibhisna another brother. He is righteous free from  any demoniac trait. My other two brothers are Khara and Dusana who are wellknown heroes of war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-17-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तानहं समतिक्रान्ता राम त्वा पूर्वदर्शनात्।।3.17.25।।\nसमुपेतास्मि भावेन भर्तारं पुरुषोत्तमम्।",
+      "transliteration": "",
+      "translation": "Setting them aside, I came here, as soon as I saw you. You are the finest among men and I am here wishing you to be my husband.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-17-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "अहं प्रभावसम्पन्ना स्वच्छन्दबलगामिनी।।3.17.26।।\nचिराय भव मे भर्ता सीतया किं करिष्यसि।",
+      "transliteration": "",
+      "translation": "I have influence over others, I have capacity to move wherever I want. Be my husband forever. What will you do with Sita?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-17-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "विकृता च विरूपा च न चेयं सदृशी तव।।3.17.27।।\nअहमेवानुरूपा ते भार्या रूपेण पश्य माम्।",
+      "transliteration": "",
+      "translation": "She is ugly, deformed, unsuitable for you. I  am alone  fit for you. Look upon me as your wife.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-17-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "इमां विरूपामसतीं करालां निर्णतोदरीम्।।3.17.28।।\nअनेन ते सह भ्रात्रा भक्षयिष्यामि मानुषीम्।",
+      "transliteration": "",
+      "translation": "I will devour your brother along with this disfigured, unchaste and fearful lady with a flat belly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-17-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "ततः पर्वतशृङ्गाणि वनानि विविधानि च।।3.17.29।।\nपश्यन्सह मया कान्त दण्डकान्विचरिष्यसि।",
+      "transliteration": "",
+      "translation": "O darling, thereafter you can keep wandering with me in this Dandaka forest, enjoying the beauty of the mountain tops and forests.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-17-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "इत्येवमुक्तः काकुत्स्थः प्रहस्य मदिरेक्षणाम्।।3.17.30।।\nइदं वचनमारेभे वक्तुं वाक्यविशारदः।",
+      "transliteration": "",
+      "translation": "Thus addressed, Rama, skilled in speech, laughed and started speaking to that woman of bewitching eyes. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे सप्तदशस्सर्गः।। Thus ends the seventeenth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

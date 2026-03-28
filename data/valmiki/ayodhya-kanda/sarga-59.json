@@ -1,0 +1,324 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 59,
+    "title": "Sumantra describes the shadow of sorrow over Ayodhya -- withering plants and flowers, driedup ponds, immobile animals -- Dasaratha pines for Rama.",
+    "titleSanskrit": "",
+    "totalShlokas": 34
+  },
+  "shlokas": [
+    {
+      "id": "v2-59-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "इति ब्रुवन्तं तं सूतं सुमन्त्रं मन्त्रिसत्तमम्।\nब्रूहि शेषं पुनरिति राजा वचनमब्रवीत्।।2.59.1।।",
+      "transliteration": "",
+      "translation": "Listening to the charioteer, the best of ministers (Sumantra), the king asked him to tell the rest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तस्य तद्वचनं श्रुत्वा सुमन्त्रो बाष्पविक्लबः।\nकथयामास भूयोऽपि रामसन्देशविस्तरम्।।2.59.2।।",
+      "transliteration": "",
+      "translation": "Having heard him, Sumantra, overcome with tears, related further details of Rama's message.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "जटाः कृत्वा महाराज चीरवल्कलधारिणौ।\nगङ्गामुत्तीर्य तौ वीरौ प्रयागाभिमुखौ गतौ।।2.59.3।।",
+      "transliteration": "",
+      "translation": "O King the heroes in bark robes and with matted hair crossed the Ganga and proceeded towards Prayaga.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "अग्रतो लक्ष्मणो यातः पालयन्रघुनन्दनम्।\nतांस्तथा गच्छतो दृष्ट्वा निवृत्तोऽस्म्यवशस्तदा।।2.59.4।।",
+      "transliteration": "",
+      "translation": "Lakshmana walked ahead guarding Rama, the delight of the Raghus. While I returned helplessly seeing them go.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "ममत्वश्वा निवृत्तस्य न प्रावर्तन्त वर्त्मनि।\nउष्णमश्रु प्रमुञ्चन्तो रामे सम्प्रस्थिते वनम्।।2.59.5।।",
+      "transliteration": "",
+      "translation": "When Rama set out for the forest, and I turned back, my horses shedding hot tears were reluctant to walk the path.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "उभाभ्यां राजपुत्राभ्यामथ कृत्वाहमञ्जलिम्।\nप्रस्थितो रथमास्थाय तद्दुःखमपि धारयन्।।2.59.6।।",
+      "transliteration": "",
+      "translation": "Thereafter, controlling my grief and paying obeisance to both the princes with folded  palms, I ascended the chariot and returned.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "गुहेन सार्धं तत्रैव स्थितोऽस्मि दिवसान्बहून्।\nआशया यदि मां रामः पुन श्शब्दापयेदिति।।2.59.7।।",
+      "transliteration": "",
+      "translation": "There along with Guha I waited for (three) days that Rama might call me back.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "विषये ते महाराज रामव्यसनकर्शिताः।\nअपि वृक्षाः परिम्लानास्सपुष्पाङ्कुरकोरकाः।।2.59.8।।",
+      "transliteration": "",
+      "translation": "O great king even trees with their flowers, buds and shoots throughout your empire have withered because of the calamity on Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "उपतप्तोदका नद्यः पल्वलानि सरांसि च।\nपरिशुष्कपलाशानि वनान्युपवनानि च।।2.59.9।।",
+      "transliteration": "",
+      "translation": "Water in rivers, ponds and lakes has heated up while all the foliage in the forests and gardens have shrivelled.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "न च सर्पन्ति सत्त्वानि व्यासा न प्रचरन्ति च।\nरामशोकाभिभूतं तन्निष्कूजमभवद्वनम्।।2.59.10।।",
+      "transliteration": "",
+      "translation": "No living being move about and even wild animals roam no more. Overwhelmed with grief on account of Rama a great silence pervades the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "लीनपुष्करपत्राश्च नरेन्द्र कलुषोदकाः।\nसन्तप्तपद्माः पद्मिन्यो लीनमीनविहङ्गमाः।।2.59.11।।",
+      "transliteration": "",
+      "translation": "The water in the lotus lakes, O king, has become turbid. The blue lotuses have withered and their shrivelled petals are submerged in water. The fishes and aquatic birds are hidden under waters.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "जलजानि च पुष्पाणि माल्यानि स्थलजानि च।\nनाद्य भान्त्यल्पगन्धीनि फलानि च यथापुरम्।।2.59.12।।",
+      "transliteration": "",
+      "translation": "Bunches of flowers grown in water and on land, as well as fruits with their scant fragrance do not shine as before.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "अत्रोद्यानानि शून्यानि प्रलीनविहगनि च।\nन चाभिरामा नारामान्पश्यामि मनुजर्षभ।।2.59.13।।",
+      "transliteration": "",
+      "translation": "Pleasuregardens are all deserted as the birds have vanished. O best of men, as such they do not look beautiful.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "प्रविशन्तमयोध्यां मां न कश्चिदभिनन्दति।\nनरा राममपश्यन्तो निश्श्वसन्ति मुहुर्मुहुः।।2.59.14।।",
+      "transliteration": "",
+      "translation": "None greeted me when I entered Ayodhya, People heaved sighs repeatedly when they did not see Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "देव राजरथं दृष्ट्वा विना राममिहागतम्।\nदुःखादश्रुमुखस्सर्वो राजमार्गगतो जनः।।2.59.15।।",
+      "transliteration": "",
+      "translation": "Beholding the royal chariot arrive without Rama, all were on the highway shedding tears of anguish.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "हर्म्यैर्विमानैः प्रासादैरवेक्ष्यरथमागतम्।\nहाहाकारकृतानार्यो रामादर्शनकर्शिताः।���2.59.16।।",
+      "transliteration": "",
+      "translation": "When the women from mansions, sevenstoried buildings and from royal palaces saw the chariot without Rama, they, overwhelmed with sorrow, cried, 'Alas, Alas'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "आयतैर्विमलैर्नेत्रैरश्रुवेगपरिप्लुतैः।\nअन्योन्यमभिवीक्षन्तेऽव्यक्तमार्ततराः स्त्रियः।।2.59.17।।",
+      "transliteration": "",
+      "translation": "The women, with their large, bright eyes flooded with gushing tears looked in silence at one another in deep anguish.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "नामित्राणां न मित्राणामुदासीनजनस्य च।\nअहमार्ततया किञ्चिद्विशेषमुपलक्षये।।2.59.18।।",
+      "transliteration": "",
+      "translation": "I did not see any difference in the degree of anguish among friends, those who are not friends and and those who are indifferent. (The degree of agony was same in all).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "अप्रहृष्टमनुष्या च दीननागतुरङ्गमा।\nआर्तस्वरपरिम्लाना विनिश्श्वसितनिस्स्वना।।2.59.19।।\nनिरानन्दा महाराज रामप्रव्राजनातुरा।\nकौसल्या पुत्रहीनेव अयोध्या प्रतिभाति मा।।2.59.20।।",
+      "transliteration": "",
+      "translation": "O maharaja, Ayodhya is filled with cheerless people with deep sighs, agonised voices and pale faces depressed and distressed due to Rama's exile. (Even) elephants and horses look spiritless. For me it (the city) resembles (dejected) Kausalya deprived of her son.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "सूतस्य वचनं श्रुत्वा वाचा परमदीनया।\nबाष्पोपहतया राजा तं सूतमिदमब्रवीत्।।2.59.21।।",
+      "transliteration": "",
+      "translation": "At these words of the charioteer, the king in deep distress replied with a voice choked  with tears:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "कैकेय्या विनियुक्तेन पापाभिजनभावया।\nमया न मन्त्रकुशलैर्वृद्धैस्सह समर्थितम्।।2.59.22।।",
+      "transliteration": "",
+      "translation": "Incited by Kaikeyi of sinful relations and sinful motive, I did not consult expert, elderly counsellers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "न सुहृद्भिर्नचामात्यैर्मन्त्रयित्वा न नैगमैः।\nमयायमर्थस्सम्मोहात् स्त्रीहेतो स्सहसा कृतः।।2.59.23।।",
+      "transliteration": "",
+      "translation": "For the sake of a woman, this act was committed in great haste, without consulting friends or ministers or men of prudence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "भवितव्यतया नूनमिदं वा व्यसनं महत्।\nकुलस्यास्य विनाशाय प्राप्तं सूत यदृच्छया।।2.59.24।।",
+      "transliteration": "",
+      "translation": "Surely it is destiny and this calamity has befallen for the wilful destruction of the (entire) race, O charioteer",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "सूत यद्यस्ति ते किञ्चिन्मया तु सुकृतं कृतम्।\nत्वं प्रापयाऽऽशु मां रामं प्राणास्सन्त्वरयन्तिमाम्।।2.59.25।।",
+      "transliteration": "",
+      "translation": "O Charioteer, if ever I have rendered you any favour, quickly  take me to Rama. My life is hastening me (fast running out).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "यद्यद्यापि ममैवाज्ञा निवर्तयतु राघवम्।\nन शक्ष्यामि विना रामं मुहूर्तमपि जीवितुम्।।2.59.26।।",
+      "transliteration": "",
+      "translation": "If my command prevails today, Rama may be brought back. Without Rama I cannot live for a moment even.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "अथवाऽपि महाबाहुर्गतो दूरं भविष्यति।\nमामेव रथमारोप्य शीघ्रं रामाय दर्शय।।2.58.27।।",
+      "transliteration": "",
+      "translation": "Otherwise if (you think) the mightyarmed (Rama) has gone too far then quickly put me in the chariot, and show me Rama (Carry me to him).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "वृत्तदंष्ट्रो महेष्वासः क्वासौ लक्ष्मणपूर्वजः।\nयदि जीवामि साध्वेनं पश्येयं सीतया सह।।2.59.28।।",
+      "transliteration": "",
+      "translation": "Where is that Rama, elder brother to Lakshmana who has wellshaped teeth and wields a mighty bow? If I can see him along with Sita I will survive.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "लोहिताक्षं महाबाहुमामुक्तमणिकुण्डलम्।\nरामं यदि न पश्येयं गमिष्यामि यमक्षयम्।।2.59.29।।",
+      "transliteration": "",
+      "translation": "If I cannot see Rama of redcoloured eyes, the mightyarmed one and wearing earrings bedecked with precious stones I shall surely go to the abode of Yama, the god of death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "अतो नु किं दुःखतरं सोऽहमिक्ष्वाकुनन्दनम्।\nइमामवस्थामापन्नो नेह पश्यामि राघवम्।।2.59.30।।",
+      "transliteration": "",
+      "translation": "What else can be of greater sorrow to me who having reached this state, am still unable to see Rama?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "हा राम रामानुज ह�� हा वैदेहि तपस्विनि।\nन मां जानीत दुःखेन म्रियमाणतमनाथवत्।।2.59.31।।",
+      "transliteration": "",
+      "translation": "Ah Rama, Ah Lakshmana, Ah unfortunate Vaidehi, you do not know that I am dying  like an orphan because of my grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "स तेन राजा दुःखेन भृशमर्पितचेतनः।\nअवगाढस्सुदुष्पारं शोकसागरमब्रवीत्।।2.59.32।।",
+      "transliteration": "",
+      "translation": "The king whose mind was extremely enfeebled due to grief and who was immersed in  a sea of tears which he was unable to cross continued:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "रामशोकमहाभोगस्सीताविरहपारगः।\nश्वसितोर्मि महावर्तो बाष्पफेनजालाविलः।।2.59.33।।\nबाहुविक्षेपमीनौघो विक्रन्दित महास्वनः।\nप्रकीर्णकेशशैवालः कैकेयीबडबामुखः।।2.59.34।।\nममाश्रुवेगप्रभवः कुब्जावाक्यमहाग्रहः।\nवरवेलो नृशंसाया रामप्रव्राजनायतः।।2.59.35।।\nयस्मिन्बत निमग्नोऽहं कौसल्ये राघवं विना।\nदुस्तरो जीवता देवि मयाऽयं शोकसागरः।।2.59.36।।",
+      "transliteration": "",
+      "translation": "O queen Kausalya, I am completely immersed in this ocean of sorrow. The misfortune due to Rama's separation is its breadth. Sita's separation is the other end of the shore. Sighs are its turbulent waves and whirlpools. Tears are its foam and turbid waters. Waving of arms is its fishes. Cries of agony are its roars. My dishevelled hair is its moss. Kaikeyi is the mouth of Badaba. My copious tears are its source. Words of the hunchback (Manthara) are the monstrous crocodiles. The cruel boons to Kaikeyi are its shores. Without Rama I cannot cross  this sea of sorrow alive. Ah, what  a pity",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "अशोभनं योऽहमिहाद्य राघवं दिदृक्षमाणो न लभे सलक्ष्मणम्।\nइतीव राजा विलपन्महायशाः पपात तूर्णं शयने समूर्छितः।।2.59.37।।",
+      "transliteration": "",
+      "translation": "Though I wish I cannot see Rama together with Lakshmana. Indeed this is very unfortunate. Lamenting thus, king Dasaratha of great reknown fell on the bed, unconscious.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-59-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "इति विलपति पार्थिवे प्रणष्टे करुणतरं द्विगुणं च रामहेतोः।\nवचनमनुनिशम्य तस्य देवी भयमगमत्पुनरेव राममाता।।2.59.38।।",
+      "transliteration": "",
+      "translation": "Wailing, Dasaratha fell unconscious. He was doubly grieved due to his yearning for Rama. Rama's mother was seized with fear hearing those lamentations. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे एकोनषष्टितमस्सर्गः।। Thus ends  the fiftyninth sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

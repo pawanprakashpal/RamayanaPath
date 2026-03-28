@@ -1,0 +1,315 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 7,
+    "title": "Manthara informs Kaikeyi about the installation of Rama--happy over the news Kaikeyi gifts away her ornaments.",
+    "titleSanskrit": "",
+    "totalShlokas": 33
+  },
+  "shlokas": [
+    {
+      "id": "v2-7-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ज्ञातिदासी यतो जाता कैकेय्यास्तु सहोषिता।\nप्रासादं चन्द्रसङ्काशमारुरोह यदृच्छया।।2.7.1।।",
+      "transliteration": "",
+      "translation": "The family maid (Manthara) of Kaikeyi who had been living with her since her (Kaikeyi's) birth casually ascended the palace gleaming white like the Moon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "सिक्तराजपथां कृत्स्नां प्रकीर्णकुसुमोत्कराम्।\nअयोध्यां मन्थरा तस्मात्प्रासादादन्ववैक्षत।।2.7.2।।",
+      "transliteration": "",
+      "translation": "Manthara beheld from that palace the whole of Ayodhya with its highways sprinkled with water and strewn with a lot of flowers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "पताकाभिर्वरार्हाभिर्ध्वजैश्च समलङ्कृताम्।\nवृतां छन्दपथैश्चापि शिरस्स्नातजनैर्वृताम्।।2.7.3।।\nमाल्यमोदकहस्तैश्च द्विजेन्द्रैरभिनादिताम्।\nशुक्लदेवगृहद्वारां सर्ववादित्रनिस्वनाम्।।2.7.4।।\nसम्प्रहृष्टजनाकीर्णां ब्रह्मघोषाभिनादिताम्।\nप्रहृष्टवरहस्त्यश्वां सम्प्रणर्दितगोवृषाम्।।2.7.5।।\nप्रहृष्टमुदितैः पौरैरुच्छ्रितध्वजमालिनीम्।\nअयोध्यां मन्थरा दृष्ट्वा परं विस्मयमागता।।2.7.6।।",
+      "transliteration": "",
+      "translation": "The city of Ayodhya was decorated with costly banners and pennants. The labyrinthine roads were crowded with people who had (finished) their headbath and were wandering at will. The temples with their doors painted white were reverberating with the chanting from the Vedas by the best of brahmins holding garlands and sweetmeats in their hands and with sounds of   all kinds of musical instruments. The city was filled with spirited horses and elephants. The bulls were  bellowing and the cows were lowing. The citizens with great joy raised the penants encircling the city of Ayodhya. All this left Manthara astonished.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "प्रहर्षोत्फुल्लनयनां पाण्डुरक्षौमवासिनीम्।\nअविदूरे स्थितां दृष्ट्वा धात्रीं पप्रच्छ मन्थरा।।2.7.7।।",
+      "transliteration": "",
+      "translation": "Seeing a royal  maid clad in white silk garment and standing not very far with her eyes expanded in delight Manthara enquired:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "उत्तमेनाभिसंयुक्ता हर्षेणार्थपरा सती।\nराममाता धनं किन्नु जनेभ्यस्सम्प्रयच्छति।।2.7.8।।",
+      "transliteration": "",
+      "translation": "Why is Rama's mother, forever interested in the accumulation of money gifting away her wealth to men with great joy?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अतिमात्रप्रहर्षोऽयं किं जनस्य च शंस मे।\nकारयिष्यति किं वापि सम्प्रहृष्टो महीपतिः।।2.7.9।।",
+      "transliteration": "",
+      "translation": "Why do the people look exceedingly happy? Tell me, what the king with great delight is proposing to do?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "विदीर्यमाणा हर्षेण धात्री तु परया मुदा।\nआचचक्षेऽथ कुब्जायै भूयसीं राघव श्रियम्।।2.7.10।।",
+      "transliteration": "",
+      "translation": "Bursting with great joy, the royal maid related to the hunchback the great fortune  awaiting the son of the Raghus (Rama).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "श्वः पुष्येण जितक्रोधं यौवराज्येन राघवम्।\nराजा दशरथो राममभिषेचयिताऽनघम्।।2.7.11।।",
+      "transliteration": "",
+      "translation": "Tomorrow under the spell of the Pushya star, king Dasaratha will consecrate blameless Rama born in the race of Raghu as heirapparent (the maid said).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "धात्र्यास्तु वचनं शृत्वा कुब्जा क्षिप्रममर्षिता।\nकैलासशिखराकारा त्प्रासादादवरोहत।।2.7.12।।",
+      "transliteration": "",
+      "translation": "Having heard these words of the royal maid, the hunchback became furious and speedily descended from that palace resembling the peak of mount Kailasa.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "सा दह्यमाना कोपेन मन्थरा पापदर्शिनी।\nशयानामेत्य कैकेयीमिदं वचनमब्रवीत्।।2.7.13।।",
+      "transliteration": "",
+      "translation": "The malevolent Manthara on fire with fury reached Kaikeyi lying upon her couch  and said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "उत्तिष्ठ मूढे किं शेषे भयं त्वामभिवर्तते।\nउपप्लुतामौघेन किमात्मानं न बुध्यसे।।2.7.14।।",
+      "transliteration": "",
+      "translation": "O senseless one, why are you lying down? Get up A great fear is gripping you. Why don't you realise that you are floating in a sea of perils.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अनिष्टे सुभगाकारे सौभाग्येन विकत्थसे। \nचलं हि तव सौभाग्यं नद्यास्स्रोत इवोष्णगे।।2.7.15।।",
+      "transliteration": "",
+      "translation": "Though you appear to be your husband's darling, in reality he dislikes you. The good fortune you boast of indeed is unstable like the stream of a river in summer.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "एवमुक्ता तु कैकेयी रुष्टया परुषं वचः।\nकुब्जया पापदर्शिन्या विषादमगमत्परम्।।2.7.16।।",
+      "transliteration": "",
+      "translation": "At these harsh words of the furious, evileyed hunchback Kaikeyi   fell into great despondency.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "कैकेयी त्वब्रवीत्कुब्जां कच्चित्क्षेमं नु मन्थरे।\nविषण्णवदनां हि त्वां लक्षये भृशदुःखिताम्।।2.7.17।।",
+      "transliteration": "",
+      "translation": "Kaikeyi said to the hunchback, O Manthara isn't all well with you? I can mark it from your dejected face how greatly distressed you feel, indeed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "मन्थरा तु वच श्श्रुत्वा कैकेय्या मधुराक्षरम्।\nउवाच क्रोधसंयुक्ता वाक्यं वाक्यविशारदा।।2.7.18।।",
+      "transliteration": "",
+      "translation": "Hearing the words of Kaikeyi uttered in a gentle voice, wrathful Manthara skilled in speech, said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "सा विषण्णतरा भूत्वा कुब्जा तस्या हितैषिणी।\nविषादयन्ती प्रोवाच भेदयन्ती च राघवम्।।2.7.19।।",
+      "transliteration": "",
+      "translation": "That hunchback feeling still more depressed in her (Kaikeyi's) interest and intending to cause in her despondency and distance Rama from her spoke out:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अक्षय्यं सुमहद्देवि प्रवृत्तं त्वद्विनाशनम्।\nरामं दशरथो राजा यौवराज्येऽभिषेक्ष्यति।।2.7.20।।",
+      "transliteration": "",
+      "translation": "O queen, your end is approaching, and it has no end and it is overwhelming. King Dasaratha is crowning Rama as heirapparent.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "साऽस्म्यगाधे भये मग्ना दुःखशोकसमन्विता।\nदह्यमानाऽनलेनेव त्वद्धितार्थमिहागता।।2.7.21।।",
+      "transliteration": "",
+      "translation": "Plunged in unfathomable fear and stricken with grief and tears I am here seeking your wellbeing and yet consumed as though by fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तव दुःखेन कैकेयि मम दुःखं महद्भवेत्।\nत्वद्वृद्धौ मम वृद्धिश्च भवेदत्र न संशयः।।2.7.22।।",
+      "transliteration": "",
+      "translation": "O Kaikeyi, your sorrow will augment my sorrow. Your prosperity would mean my prosperity. There is no doubt about this.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "नराधिपकुले जाता महिषी त्वं महीपतेः।\nउग्रत्वं राजधर्माणां कथं देवि न बुध्यसे।।2.7.23।।",
+      "transliteration": "",
+      "translation": "O queen, born in the royal family and being a king's consort why don't you realise the ruthless ways of statecraft?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "धर्मावादी शठो भर्ता श्लक्ष्णवादी च दारुणः।\nशुद्धभावे न जानीषे तेनैव मतिसन्धिता।।2.7.24।।",
+      "transliteration": "",
+      "translation": "Your husband speaks morals publicly but in private he is deceitful. He speaks gently  but acts cruelly. Because of your innocent nature you are  beguiled by him. You do not understand this.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "उपस्थितः प्रयुञ्जानस्त्वयि सान्त्वमनर्थकम्।\nअर्थेनैवाद्य ते भर्ता कौसल्यां योजयिष्यति।।2.7.25।।",
+      "transliteration": "",
+      "translation": "When your husband approaches you he swears in meaningless, appeasing words. But today he is going to bestow benefit on Kausalya only.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "उपवाह्य स दुष्टात्मा भरतं तव बन्धुषु।\nकाल्ये स्थापयिता रामं राज्ये निहतकण्टके।।2.7.26।।",
+      "transliteration": "",
+      "translation": "That evilminded one, having sent Bharata away to your relations house, is going to install Rama unhindered in the kingdom at dawn tomorrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "शत्रुः पतिप्रवादेन मात्रेव हितकाम्यया।\nआशीविष इवाङ्केन बाले परिधृतस्त्वया।।2.7.27।।",
+      "transliteration": "",
+      "translation": "O innocent lady with the intention of doing good like a mother to your husband who is your enemy, you are holding on your lap a venomous serpent.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "यथा हि कुर्यात्सर्पो वा शत्रुर्वा प्रत्युपेक्षितः।\nराज्ञा दशरथेनाद्य सपुत्रा त्वं तथा कृता।।2.7.28।।",
+      "transliteration": "",
+      "translation": "King Dasaratha has done to you and to your son the same thing as a  snake or an  enemy would do when ignored.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "पापेनानृतसान्त्वेन बाले नित्यसुखोचिते।\nरामं स्थापयता राज्ये सानुबन्धा हता ह्यसि।।2.7.29।।",
+      "transliteration": "",
+      "translation": "O senseless lady, you are always accustomed to comfort. With deceitful words of appeasement that vicious one (King Dasaratha) is going to install Rama in the kingdom. You along with your son have been surely ruined.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "सा प्राप्तकालं कैकेयि क्षिप्रं कुरु हितं तव।\nत्रायस्व पुत्रमात्मानं मां च विस्मयदर्शने।।2.7.30।।",
+      "transliteration": "",
+      "translation": "O enchantingeyed Kaikeyi, that appropriate time has come. Act quickly for your own wellbeing. Save yourself, your son and me too.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "मन्थाराया वचश्श्रुत्वा शयाना सा शुभानना।\nउत्तस्थौ हर्षसम्पूर्णा चन्द्रलेखेव शारदी।।2.7.31।।",
+      "transliteration": "",
+      "translation": "Hearing the words of Manthara, Kaikeyi of charming countenance lying in her couch rose, full of joy, like the autumnal streak of the Moon's crescent.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "अतीव सा तु संहृष्टा कैकेयी विस्मयान्विता।\nएकमाभरणं तस्यै कुब्जायै प्रददौ शुभम्।।2.7.32।।",
+      "transliteration": "",
+      "translation": "Filled with immense joy and wonder (at the news), Kaikeyi gifted a beauthful ornament to that hunchback.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "दत्वा त्वाभरणं तस्यै कुब्जायै प्रमदोत्तमा।\nकैकेयी मन्थरां दृष्ट्वा पुनरेवाब्रवीदिदम्।।2.7.33।।",
+      "transliteration": "",
+      "translation": "Kaikeyi, the best among the beauties, having given the ornament to Manthara, the hunchback, looked at her and said these words again:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "इदं तु मन्थरे मह्यमाख्यासि परमं प्रियम्।\nएतन्मे प्रियमाख्यातुः किं वा भूयः करोमि ते।।2.7.34।।",
+      "transliteration": "",
+      "translation": "O Manthara, the news you have brought me is exceedingly pleasant. What more can I do for you? Here is the gift for one who brings good tidings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "रामे वा भरते वाऽहं विशेषं नोपलक्षये। \nतस्मात्तुष्टाऽस्मि यद्राजा रामं राज्येऽभिषेक्ष्यति।।2.7.35।।",
+      "transliteration": "",
+      "translation": "I do not see any distinction between Rama and Bharata as such. I am contented with Rama's consecration in the kingdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-7-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "न मे परं किञ्चिदितस्त्वया पुनः\nप्रियं प्रियार्हे सुवचं वचःपरम्।\nतथा ह्यवोचस्त्वमतः प्रियोत्तरं \nवरं परं ते प्रददामि तं वृणु।।2.7.36।।",
+      "transliteration": "",
+      "translation": "O woman worthy of affection for me there is nothing greater and dearer than this news. I will grant you another reward better than this. Just ask for it. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे सप्तमस्सर्गः।। Thus ends the seventh sarga of Ayodhyakanda of the  holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

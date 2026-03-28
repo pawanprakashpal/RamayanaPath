@@ -1,0 +1,207 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 6,
+    "title": "Sages seek Rama's protection from demons -- Rama's assurance to sages",
+    "titleSanskrit": "",
+    "totalShlokas": 21
+  },
+  "shlokas": [
+    {
+      "id": "v3-6-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "शरभङ्गे दिवं प्राप्ते मुनिसङ्घास्समागताः।\nअभ्यगच्छन्त काकुत्स्थं रामं ज्वलिततेजसम्।।3.6.1।।",
+      "transliteration": "",
+      "translation": "When Sarabhanga attained the heaven, all the sages collected together and came to Rama whose radiance was like fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-6-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "वैखानसा वालखिल्यास्सम्प्रक्षाला मरीचिपाः।\nअश्मकुट्टाश्च बहवः पत्राहाराश्च तापसाः।।3.6.2।।\nदन्तोलूखलिनश्चैव तथैवोन्मज्जकाः परे।\nगात्रशय्या अशय्याश्च तथैवाभ्रावकाशकाः।।3.6.3।।\nमुनयस्सलिलाहारावायुभक्षा स्तथापरे।\nआकाशनिलयाश्चैव तथा स्थण्डिलशायिनः।।3.6.4।।\nव्रतोपवासिनो दान्तास्तथाऽर्द्रपटवाससः।\nसजपाश्च तपोनित्यास्तथा पञ्चतपोऽन्वित���ः।।3.6.5।।\nसर्वे ब्राह्म्या श्रिया जुष्टा दृढयोगास्समाहिताः।\nशरभङ्गाश्रमे राममभिजग्मुश्च तापसाः।।3.6.6।।",
+      "transliteration": "",
+      "translation": "Vaikhanasas, Valakhilyas, sages who continuously wash their bodies, Marichakas Asmakuttas sages who live on leaves only, those who have teeth like mortar, Unmajjakas, those who use limbs as their bed, those who practise penance without using a bed, those who do penance in the open, unmindful of rain or Sun or wind, those who live on water only, those who penance under the open sky, those who carry on penance on high places like the mountaintop, those who recline on bare ground only, those who observe fast as a part of religious tradition, those selfrestrained men, those who mutter sacred mantras, those who constantly perform penance and those who stand under the blazing Sun in summer placing fire on four sides while performing penanceall these types of sages met Rama in the hermitage of Sarabhanga.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-6-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "अभिगम्य च धर्मज्ञा रामं धर्मभृतां वरम्।\nऊचुः परमधर्मज्ञमृषिसङ्घास्समाहिताः।।3.6.7।।",
+      "transliteration": "",
+      "translation": "All groups of sages, who knew dharma, and were upholders of righteousness reached Rama, the supreme knower of dharma, and said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-6-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "त्वमिक्ष्वाकुकुलस्यास्य पृथिव्याश्च महारथ।\nप्रधानश्चासि नाथश्च देवानां मघवानिव।।3.6.8।।",
+      "transliteration": "",
+      "translation": "O great charioteer you are the lord of the Ikshvaku race and of the world just like Indra, chief among the gods.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-6-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "विश्रुतस्त्रिषु लोकेषु यशसा विक्रमेण च।\nपितृभक्तिश्च सत्यं च त्वयि धर्मश्च पुष्कलः।।3.6.9।।",
+      "transliteration": "",
+      "translation": "You are renowned in the three worlds for your valour, for your devotion to father, and in you lies enough evidence of your adherence to truth and righteousness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-6-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "त्वामासाद्य महात्मानं धर्मज्ञं धर्मवत्सलम्।\nअर्थित्वान्नाथ वक्ष्यामस्तच्च नः क्षन्तुमर्हसि।।3.6.10।।",
+      "transliteration": "",
+      "translation": "O lord, do excuse us. We sought your help to fulfil our needs since you are at hand. You are a great soul, knower and lover of dharma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-6-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "अधर्मस्सुमहांस्तात भवेत्तस्य महीपतेः।\nयो हरेद्बलिषड्भागां न च रक्षति पुत्रवत्।।3.6.11।।",
+      "transliteration": "",
+      "translation": "O Lord, a king who collect one sixth of the produce as tax and yet does not protect his subjects like his children commits an act of grave injustice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-6-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "युञ्जानस्स्वानिव प्राणान्प्राणैरिष्टान्सुतानिव।\nनित्ययुक्तस्सदा रक्षन्सर्वान्विषयवासिनः।।3.6.12।।\nप्राप्नोति शाश्वतीं राम कीर्तिं स बहुवार्षिकीम्।\nब्रह्मणस्स्थानमासाद्य तत्र चापि महीयते।।3.6.13।।",
+      "transliteration": "",
+      "translation": "O Rama, whoever protects the inhabitants of his kingdom at all times like his own son who he loves more than his own life will attain the world of Brahma and remain there for long years and will achieve prosperity thereafter.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-6-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "यत्करोति परं धर्म मुनिर्मूलफलाशनः।\nतत्र राज्ञश्चतुर्भाग प्रजा धर्मेण रक्षितः।।3.6.14।।",
+      "transliteration": "",
+      "translation": "One fourth of the supreme merit a sage earns by living on fruits and roots, accrues to the king through which the people are protected righteously.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-6-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "सोऽयं ब्राह्मणभूयिष्ठो वानप्रस्थगणो महान्।\nत्वन्नाथोऽनाथवद्राम राक्षसैर्वध्यते भृशम्।।3.6.15।।",
+      "transliteration": "",
+      "translation": "O Rama  we are a group of great sages, mostly brahmins, leading a vanaprastha  life. Yet with a protector like you, we are slaughtered in large numbers like orphans.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-6-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "एहि पश्य शरीराणि मुनीनां भावितात्मनाम्।\nहतानां राक्षसैर्घोरैर्बहूनां बहुधा वने।।3.6.16।।",
+      "transliteration": "",
+      "translation": "Come and see  the bodies of ascetics, who had perceived the Supreme Spirit, killed in large numbers in the forest by the fierce demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-6-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "पम्पानदीनिवासानामनुमन्दाकिनीमपि।\nचित्रकूटालयानां च क्रियते कदनं महत्।।3.6.17।।",
+      "transliteration": "",
+      "translation": "A great slaughter is taking place amongst those residing on the bank of the Pampa lake, near the river Mandakini, and on mount Chitrakuta.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-6-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "एवं वयं न मृष्यामो विप्रकारं तपस्विनाम्।\nक्रियमाणं वने घोरं रक्षोभिर्भीमकर्मभिः।।3.6.18।।",
+      "transliteration": "",
+      "translation": "We ascetics are not able to tolerate the fearful deeds perpetrated by the dreadful demons in the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-6-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "ततस्त्वां शरणार्थं च शरण्यं समुपस्थिताः।\nपरिपालय नो राम वध्यमानान्निशाचरैः।।3.6.19।।",
+      "transliteration": "",
+      "translation": "O Rama, you are worthy of refuge. Hence we have come to you seeking your protection. We are being killed by the nightstalkers. Save us.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-6-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "परा त्वत्तो गतिर्वीर पृथिव्यां नोपपद्यते।\nपरिपालय न स्सर्वान्राक्षसेभ्यो नृपात्मज।।3.6.20।।",
+      "transliteration": "",
+      "translation": "O great warrior here on this earth there is no protector as mighty as you. So, O prince  save us all from these demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-6-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "एतच्छ्रुत्वा तु काकुत्स्थस्तापसानां तपस्विनाम्।\nइदं प्रोवाच धर्मात्मा सर्वानेव तपस्विनः।।3.6.21।।",
+      "transliteration": "",
+      "translation": "Having heard this, righteous Rama of the Kakutstha dynasty said to all the ascetics engaged in penance:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-6-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "नैवमर्हथ मां वक्तुमाज्ञाप्योऽहं तपस्विनाम्।\nकेवलेनात्मकार्येण प्रवेष्टव्यं मया वनं।।3.6.22।।",
+      "transliteration": "",
+      "translation": "You should not speak to me this way. I deserve to be commanded by the ascetics. I have not entered this forest only on a personal mission.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-6-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "विप्रकारमपाक्रष्टुं राक्षसैर्भवतामिमम्।\nपितुस्तु निर्देशकरः प्रविष्टोऽहमिदं वनम्।।3.6.23।।",
+      "transliteration": "",
+      "translation": "I came into this forest in obedience to my father's orders to repel the aggression of demons against you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-6-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "भवतामर्थसिद्ध्यर्थमागतोऽहं यदृच्छया।\nतस्य मेऽयं वने वासो भविष्यति महाफलः।।3.6.24।।",
+      "transliteration": "",
+      "translation": "I came here to acomplish your task incidentally, Therefore, my stay in the forest will yield great results.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-6-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तपस्विनां रणे शत्रून्हन्तुमिच्छामि राक्षसान्।\nपश्यन्तु वीर्यमृषयस्सभ्रातुर्मे तपोधनाः।।3.6.25।।",
+      "transliteration": "",
+      "translation": "I wish to kill in the fight the demons who are your enemies. O great ascetics, you may  witness my prowess supported by my brother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-6-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "दत्त्वाऽभयं चापि तपोधनानां धर्मे धृतात्मा सह लक्ष्मणेन।\nतपोधनैश्चापि सभाज्यवृत्तः सुतीक्ष्णमेवाभिजगाम वीरः।।3.6.26।।",
+      "transliteration": "",
+      "translation": "Brave Rama, steadfast in righteousness, worthy of honour, gave assurance to protect the ascetics endowed with the wealth of penance, and proceeded towards sage Sutikshna. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे षष्ठस्सर्गः।। Thus ends the sixth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

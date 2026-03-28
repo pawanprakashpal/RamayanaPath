@@ -1,0 +1,270 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 19,
+    "title": "Tara arrives -- her lamentations.",
+    "titleSanskrit": "",
+    "totalShlokas": 28
+  },
+  "shlokas": [
+    {
+      "id": "v4-19-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "स वानरमहाराजश्शयानश्शरविक्षतः।\nप्रत्युक्तो हेतुमद्वाक्यैर्नोत्तरं प्रत्यपद्यत4.19.1।।",
+      "transliteration": "",
+      "translation": "The king of monkeys lying on the ground struck by the arrow did not offer to reply after listening to Rama's appropriate answers (to his objections).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-19-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अश्मभिः प्रविभिन्नाङ्गः पादपैराहतो भृशम्।\nरामबाणेन चाक्रान्तो जीवितान्ते मुमोह सः4.19.2।।",
+      "transliteration": "",
+      "translation": "Severely battered by stones, hit by trees and pierced by Rama's arrow, Vali lost consciousness as the end of his life was nearing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-19-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "तं भार्या बाणमोक्षेण रामदत्तेन संयुगे���\nहतं प्लवगशार्दूलं तारा शुश्राव वालिनम्4.19.3।।",
+      "transliteration": "",
+      "translation": "Tara, wife of Vali, heard that her husband, tiger among monkeys, was killed in the battle by the arrow discharged by Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-19-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "सा सपुत्राप्रियं श्रुत्वा वधं भर्तुस्सुदारुणम्।\nनिष्पपात भृशं तस्माद्विविधा गिरिगह्वरात्4.19.4।।",
+      "transliteration": "",
+      "translation": "Hearing the terrible, unhappy news of her husband's death, Tara anxiously rushed along with her son out of the mountain cave.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-19-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "ये त्वङ्गदपरीवारा वानरा भीमविक्रमाः।\nते सकार्मुकमालोक्य रामं त्रस्ताः प्रदुद्रुवुः4.19.5।।",
+      "transliteration": "",
+      "translation": "Alarmed at the sight of Rama holding the bow, the terribly courageous monkeys who followed Angada as his bodyguards ran in different directions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-19-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "सा ददर्श ततस्त्रस्तान्हरीनापततो भृशम्।\nयूथादिव परिभ्रष्टान्मृगान्निहतयूथपान्4.19.6।।",
+      "transliteration": "",
+      "translation": "Tara saw the terrorstricken monkeys running helterskelter, like the herd of deer whose leader who had strayed had been killed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-19-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तानुवाच समासाद्य दुःखितान्दुखिता सती।\nरामवित्रासितान्सर्वाननुबद्धानिवेषुभिः4.19.7।।",
+      "transliteration": "",
+      "translation": "Sorrowful Tara, the wife of Vali, duly approaching the monkeys stricken with grief and running as if chased by the arrows of Rama at their back, said to them:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-19-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "वानराः राजसिंहस्य यस्य यूयं पुरस्सराः।\nतं विहाय सुसन्त्रस्ताः कस्माद्द्रवथ दुर्गताः4.19.8।।",
+      "transliteration": "",
+      "translation": "'O monkeys deserting the lion among kings,whose servants you are ? What should you  be frightened for ? Why run away in distress?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-19-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "राज्यहेतोस्स चेद्भ्राता भ्रात्रा रौद्रेण पातितः।\nरामेण प्रहितैरौद्रैर्मार्गणैर्दूरपातिभिः4.19.9।।",
+      "transliteration": "",
+      "translation": "'If the (elder) brother is struck down by his (younger) brother in anger for the sake of kingship using farreaching arrows discharged by Rama, why are you running?'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-19-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "कपिपत्न्या वचश्श्रुत्वा कपयः कामरूपिणः।\nप्राप्तकालमविक्लिष्टमूच��र्वचनमङ्गनाम्4.19.10।।",
+      "transliteration": "",
+      "translation": "On hearing Tara, the wife of Vali, the monkeys who could assume any form at their will replied with clear words appropriate to the occasion:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-19-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "जीवपुत्रे निवर्तस्व पुत्रं रक्षस्व चाङ्गदम्।\nअन्तको रामरूपेण हत्वा नयति वालिनम्4.19.11।।",
+      "transliteration": "",
+      "translation": "'O mother, your son is still alive. Go back and protect your son Angada. Lord of death in the form of Rama has come and killed Vali and is carrying him away.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-19-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "क्षिप्तान् वृक्षान्समाविध्य विपुलाश्च शिलास्तथा।\nवाली वज्रसमैर्बाणै रामेण विनिपातितः4.19.12।।",
+      "transliteration": "",
+      "translation": "'Rama smashed the trees and stones Vali hurled at him and then struck him down with thunderboltlike arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-19-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "अभिद्रुतमिदं सर्वं विद्रुतं प्रसृतं बलम्।\nअस्मिन् प्लवगशार्दूले हते शक्रसमप्रभे4.19.13।।",
+      "transliteration": "",
+      "translation": "'When Vali who was equal to Indra in strength, a tiger among monkeys, was killed, the army of monkeys got terrified and ran away here and there, scattered in different directions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-19-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "रक्ष्यतां नगरद्वारमङ्गदश्चाभिषिच्यताम्।\nपदस्थं वालिनः पुत्रं भजिष्यन्ति प्लवङ्गमाः4.19.14।।",
+      "transliteration": "",
+      "translation": "'Let the gate of the city be shut and Vali's son be consecrated as king. All the monkeys will serve him when he assumes power.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-19-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "अथवाऽरुचितं स्थानमिह ते रुचिरानने।\nआविशन्ति हि दुर्गाणि क्षिप्रमन्यानि वानराः4.19.15।।",
+      "transliteration": "",
+      "translation": "'O lovely Tara, this very day other monkeys will soon occupy our citadels.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-19-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अभार्याश्च सभार्याश्च सन्त्यत्र वनचारिणः।\nलुब्धेभ्यो विप्रयुक्तेभ्यस्तेभ्यो नस्तुमुलं भयम्4.19.16।।",
+      "transliteration": "",
+      "translation": "'There are monkeys wandering in the forest (sent away by Vali). Some of them have made others' wives their own and some have been separated from their wives. They are a great cause of fear.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-19-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अल्पान्तरगतानां तु श्रुत्वा वचनमङ्गना।\nआत्मनः प्रतिरूपं सा बभाषे चारुहासिनी4.19.17।।",
+      "transliteration": "",
+      "translation": "Hearing the words of the pettyminded monkeys, Tara spoke to them in her own way with a gentle smile:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-19-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "पुत्रेण मम किं कार्यं राज्येनच किमात्मना।\nकपिसिंहे महाभागे तस्मिन्भर्तरि नश्यति4.19.18।।",
+      "transliteration": "",
+      "translation": "'Now that the glorious Vali, a lion among monkeys, my husband is dying, of what purpose is the son, or the kingdom or my own life?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-19-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "पादमूलं गमिष्यामि तस्यैवाहं महात्मनः।\nयोऽसौ रामप्रयुक्तेन शरेण विनिपातितः4.19.19।।",
+      "transliteration": "",
+      "translation": "'I will seek the soles of the feet of the great soul who has been killed by the arrow discharged by Rama.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-19-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "एवमुक्त्वा प्रदुद्राव रुदन्ती शोककर्शिता।\nशिरश्चोरश्च बाहुभ्यां दुःखेन समभिध्नती4.19.20।।",
+      "transliteration": "",
+      "translation": "So saying, the griefstricken, weeping Tara hastened, sadly beating with both hands her head and her chest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-19-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "आव्रजन्ती ददर्शाथ पतिं निपतितं भुवि।\nहन्तारं दानवेन्द्राणां समरेष्वनिवर्तिनम्4.19.21।।",
+      "transliteration": "",
+      "translation": "As she was nearing (the spot) she saw her husband, a great conqueror of monkeys who never retreated  from the battle, mortally hit and fallen on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-19-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "क्षेप्तारं पर्वतेन्द्राणां वज्राणामिव वासवम्।\nमहावातसमाविष्टं महामेघौघनिस्स्वनम्4.19.22।।",
+      "transliteration": "",
+      "translation": "Vali who used to hurl huge mountains like Indra discharges thunderbolts, who had the speed  of wind of high velocity, who would roar like huge thundering clouds,",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-19-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "क्रतुल्यपराक्रान्तं वृष्टवेवोपरतं घनम्।\nनर्दन्तं नर्दतां भीमं शूरं शूरेण पातितम्4.19.23।।\nशार्दूलेनामिषस्यार्थे मृगराजं यथाहतम्।",
+      "transliteration": "",
+      "translation": "(Vali) who was equal to Indra in prowess looked like a huge monsoon cloud that had calmed down after pouring all water, a roaring warrior who could frighten others,  struck down by another warrior,  appeared like a lion killed by a tiger for the sake of meat",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-19-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "अर्चितं सर्वलोकस्य सपताकं सवेदिकम्4.19.24।।\nनागहेतोस्सुपर्णेन चैत्यमुन्मथितं यथा।",
+      "transliteration": "",
+      "translation": "Vali looked like a chaitya (a tree of worship) having a banner and altar and reverentially  worshipped by the entire world, but destroyed by Garuda on account of a serpent (hidden in it). (Here Rama is Garuda, Sugriva, serpent and Vali a sacred Chaitya)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-19-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "अवष्टभ्य च तिष्ठन्तं ददर्श धनुरुत्तम्4.19.25।।\nरामं रामानुजं चैव भर्तुश्चैवानुजं शुभा।",
+      "transliteration": "",
+      "translation": "The auspicious lady Tara beheld Rama standing there firmly with his brother and Sugriva, leaning on the best of bows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-19-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "तावतीत्य समासाद्य भर्तारं निहतं रणे4.19.26।।\nसमीक्ष्य व्यथिता भूमौ सम्भ्रान्ता निपपात ह।",
+      "transliteration": "",
+      "translation": "Passing Rama and Lakshmana, she went near her husband killed in the combat. She was full of agony to see him. Deeply agitated in the mind, she fell down on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-19-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "सुप्त्वेव पुनरुत्थाय आर्यपुत्रेति शोचती4.19.27।।\nरुरोद सा पतिं दृष्ट्वा संवीतं मृत्युदामभिः।",
+      "transliteration": "",
+      "translation": "Tara got up again, as if she woke up from sleep and addressing her husband garlanded with death, lamented.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-19-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "तामवेक्ष्य तु सुग्रीवः क्रोशन्तीं कुररीमिव।\nविषादमगमत्कष्टं दृष्ट्वा चाङ्गदमागतम्4.19.28।।",
+      "transliteration": "",
+      "translation": "Seeing Tara crying like a female osprey and Angada following her in despair, Sugriva felt pain (at heart). इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे एकोनविंशस्सर्गः।। Thus ends the nineteenth sarga of Kishkindakanda of the Holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

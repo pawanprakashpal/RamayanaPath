@@ -1,0 +1,819 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 41,
+    "title": "Sri Rama warns Sugriva against such action being a king and commands Vanara army generals to besiege all the four gates of Lanka. Angada is sent to Ravana to communicate Rama's message that unless Ravana returns Sita back to Rama, he will be killed and Vibheeshana will be made the king of Lanka.",
+    "titleSanskrit": "",
+    "totalShlokas": 89
+  },
+  "shlokas": [
+    {
+      "id": "v6-41-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "अथतस्मिन्निमित्तानिदृष्टवालक्ष्मणपूर्वजः ।\nसुग्रीवंसम्परिष्वज्यतथावचनमब्रवीत् ।।6.41.1।।",
+      "transliteration": "",
+      "translation": "Rama, brother of Lakshmana, seeing the signs of war, embraced Sugriva and spoke these words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "असन्त्ऱ्यमयासार्थंतदिदंसाहसंकृतम् ।\nएवंसाहसुक्तानिनकुर्वन्तिजनेश्वराः ।।6.41.2।।",
+      "transliteration": "",
+      "translation": "\"You have done this courageous feat without consulting me. Rulers do not do such actions.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "संशयेस्थाप्यमांचेदंबलंचसविभीषणम् ।\nकष्टंकृतमिदंवीर साहसंसाहसप्रिय ।।6.41.3।।",
+      "transliteration": "",
+      "translation": "\"O hero, who is fond of daring actions! To me, to the army and Vibheeshana you created a great doubt by this bold action of yours.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "इदानींमाकृथावीर एवंविधमचिन्तितम् ।\nत्वयिकिञ्चित्समापन्नेकिंकार्यंसीतयामम ।।6.41.4।।\nभरतेनमहाबाहो लक्ष्मणेनयवीयसा ।\nशत्रुघ्नेनचशत्रुघ्नस्वशरीरेणवापुन:।। 6.41.5।।",
+      "transliteration": "",
+      "translation": "\"O broad shouldered hero, tamer of foes! Do not do this kind of action. Even if you were harmed a bit, O destroyer of foes, of what use is it to me or even to Sita, Bharata, Satrughna or to Lakshmana or even to my body?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "त्वयिचानागतेपूर्वमितिमेनिश्चितामतिः ।\nजानतश्चापितेवीर्यंमहेन्द्रवरुणोसम ।।6.41.6।।\nहत्वाऽहंरावणंयुद्धेसपुत्रबलवाहनम् ।\nअभिषिच्यचलङ्कायांविभीषणमथापिच ।।6.41.7।।\nभरतेराज्यमावेश्यत्यक्ष्येदेहंमहाबल ।",
+      "transliteration": "",
+      "translation": "\"Mighty Sugriva! You resemble Indra and Varuna in might. Your valour is known to me. I have decided in my mind to kill the sons of Ravana and his relatives in battle, coronate Vibheeshana in Lanka, and hand over the kingdom to Bharata and give up my body.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तमेवंवादिनंरामंसुग्रीवःप्रत्यभाषत ।।6.41.8।।\nतवभार्यापहर्तारंदृष्टवाराघव रावणम् ।\nमर्षयामिकथंवीरजानपौरुषमात्मनः ।।6.41.9।।",
+      "transliteration": "",
+      "translation": "To Rama who was speaking in that manner, Sugriva replied, \"Heroic Rama! Seeing that Ravana, who has borne away your consort, and knowing my own strength, how can I tolerate?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "इत्येवंवादिनंवीरमभिनन्द्यचराघवः ।\nलक्ष्मणंलक्षीसम्पन्नमिदंवचनमब्रवीत् ।।6.41.10।।",
+      "transliteration": "",
+      "translation": "Raghava heard the hero Sugriva, applauding him and spoke these words to Lakshmana, who was endowed with prosperity.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "परिगृह्योदकंशीतंवनानिफलवन्तिच ।\nबलौघंसंविभज्येमंव्यूह्यतिष्ठेमलक्ष्मण ।।6.41.11।।",
+      "transliteration": "",
+      "translation": "\"Lakshmana! We should occupy a region with cool water and good fruits and plan to divide the army and be ready.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "लोकक्षयकरंभीमंभयंपश्याम्युपस्थितम् ।\nनिबर्हणंप्रवीराणामृक्षवानररक्षसाम् ।।6.41.12।।",
+      "transliteration": "",
+      "translation": "\"I foresee the terrific destruction of eminent heroes among Bears, monkeys and Rakshasas. I see the danger approaching.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "वाताश्चहिपरुषांवान्तिकम्पतेचवसुन्धरा ।\nपर्वताग्राणिवेपन्तेपतन्तिधरणीधराः ।।6.41.13।।",
+      "transliteration": "",
+      "translation": "\"The winds are blowing severely, the earth is quaking in, the mountain peaks are shaking, and the elephants bearing the earth (in the four corners) are falling.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "मेघाःक्रवादसङ्काशाःपरुषाःपरुषस्वनाः ।\nक्रूराःक्रूरंप्रवर्षन्तिमिश्रंशोणितबिन्दुभिः ।।6.41.14।।",
+      "transliteration": "",
+      "translation": "\"The fierce clouds resembling wild birds are making terrible harsh sounds and rain mixed with drops of blood is showering.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "रक्तचन्दनसङ्काशासन्ध्यापरमदारुणा ।\nज्वलच्चनिपतत्येतदादित्यादग्निमण्डलम् ।।6.41.15।।",
+      "transliteration": "",
+      "translation": "\"The twilight appears like red sander trees, the burning fire falling from the sun is like a mass of fire and frightening.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "आदित्यमभिवाश्यन्तिजनयन्तोमहद्भयम् ।\nदीनादीनस्वराःघोरानप्रशस्तामृगद्विजाः ।।6.41.16।।",
+      "transliteration": "",
+      "translation": "\"The desperate inauspicious sounds of ominous beasts crying pitifully facing the sun are causing great fear.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "रजन्यामप्रकाशश्चसन्तापयतिचन्द्रमाः ।\nकृष्णरक्तांशुपर्यन्तोयथालोकस्यसंक्ष्ये ।।6.41.17।।",
+      "transliteration": "",
+      "translation": "\"Like at the time of universal dissolution, the moon is not radiant, being surrounded by black and red halo at night and is tormenting.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "ह्रस्वोरूक्षोऽप्रशस्तश्चपरिवेषस्सुलोहितः ।\nआदित्यमण्डलेनीलंलक्ष्मलक्ष्मण दृश्यते ।।6.41.18।।",
+      "transliteration": "",
+      "translation": "\"Lakshmana! Short dark spot observed in the Sun 's orbit is inauspicious. moon is surrounded by copper colour and dreary.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "दृश्यन्तेनयथावच्छनक्षत्राण्यभिवर्तते ।\nयुगान्तमिवलोकस्यपश्यलक्ष्मण शंसति ।।6.41.19।।",
+      "transliteration": "",
+      "translation": "\"Just as the spots on the moon, the stars are also dirty and not visible. It forebodes the end of the universe Lakshmana!\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "काकाश्येनास्तथागृध्रानीचैःपरिपतन्तिच ।\nशिवाश्चाप्यशिवावाचःप्रवदन्तिमहास्वनाः ।।6.41.20।।",
+      "transliteration": "",
+      "translation": "\"The crows, hawks and also vultures are joining lowly animals like jackals and making loud noises which is inauspicious and not good.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "क्षिप्रमद्यद��राधर्षांलङ्कांरावणपालिताम् ।\nअभियामजवेनैवसर्वतोहरिभिर्वृताः ।।6.41.21।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "शैलैःशूलैश्चखडगैश्चविमुक्स्सैःकपिराक्षसैः ।\nभविष्यत्यावृताभूमिर्मांसशोणितकर्दमा ।।6.41.22।।",
+      "transliteration": "",
+      "translation": "\"The land will remain covered by rocks, tridents, swords hurled by the Vanaras and Rakshasas and with flesh and blood.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "इत्येवंतुवदवनीर्वोलक्ष्मणंलक्ष्मणाग्रजः ।\nतस्मादवातरच्छीघ्रंपर्वताग्रान्महाबलः ।।6.41.23।।",
+      "transliteration": "",
+      "translation": "Mighty hero Rama, (the elder brother of Lakshmana) said to Lakshmana in this manner (as described earlier) and descended from the peak of the mountain without delay.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "अवतीर्यचधर्मात्मातस्माच्छैलात्सराघवः ।\nपरैःपरमदुर्धर्षंददर्शबलमात्मनः ।।6.41.24।।",
+      "transliteration": "",
+      "translation": "Climbing down the mountain, the righteous Rama reviewed in his mind the strength of his army and the enemy which is difficult to assail.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "सन्नह्यतुससुग्रीवःकपिराजबलंमहत् ।\nकालज्ञोराघवःकालेसंयुगायाभ्यचोदयत् ।।6.41.25।।",
+      "transliteration": "",
+      "translation": "Raghava, who is knowledgeable of when to do what, motivated the army of Vanaras and Sugriva and ordered.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "ततःकालेमहाबाहुर्बलेनमहतावृतः ।\nप्रस्थितःपुरतोधवनीलङ्कामभिमुखःपुरीम् ।।6.41.26।।",
+      "transliteration": "",
+      "translation": "Surrounded by a large army in front, the broad shouldered Rama proceeded towards Lanka.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "तंविभीषणसुग्रीवौहनूमाञ्जाम्बवान्नळ ।\nऋक्षराजस्तथानीलोलक्ष्मणश्चान्वयुस्तदा ।।6.41.27।।",
+      "transliteration": "",
+      "translation": "Then Vibheeshana, Sugriva, Hanuman, Jambavan, Nala, Neela in the same way Lakshmana followed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "ततःपशचात्सुमहतीपृतनर् क्षवनौकसाम् ।\nप्रच्छाद्यमहतींभूमिमनुयातिस्मराघवम् ।।6.41.28।।",
+      "transliteration": "",
+      "translation": "Then the bears, monkeys, covering all over the land went behind Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "शैलशृङ्गाणिशतशःप्रवृद्धांश्चमहीरुहान् ।\nजगृहुःकुञ्जरप्रख्यावानराःपरवारणाः ।।6.41.29।।",
+      "transliteration": "",
+      "translation": "The monkeys who were of the size of elephants capable of warding off the enemy, bore huge grown up trees in their hands and went.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "तौत्वदीर्घेणकालेनभ्रातरौरामलक्ष्मणौ ।\nरावणस्यपुरींलङ्कामसेदतुररिन्दमौ ।।6.41.30।।",
+      "transliteration": "",
+      "translation": "In a short while the two brothers Rama and Lakshmana, tamers of foes reached the city of Lanka.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "पताकामालिनींरम्यामुद्यानवनशोभिताम् ।\nचित्रवप्रासुदुष्प्रापमुच्चैःप्राकारतोरणाम् ।।6.41.31।।\nतांसुरैरपिदुर्धर्षांरामवाक्यप्रचोदिताः ।\nयथानिदेशंसम्पीड्यन्यविशन्तवनौकसः ।।6.41.32।।",
+      "transliteration": "",
+      "translation": "Commanded by Rama's words the Vanaras remaining in their positions as ordained, entered the wonderful Lanka, which was decorated with flags, embellished with gardens. The defensive walls and arches of the boundary of Lanka were difficult to access even for Devatas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "लङ्कायास्तूत्तरंद्वारंशैलशृङ्गमिवोन्नतम् ।\nरामःसहानुजोधन्वीजुगोपचरुरोधच ।।6.41.33।।",
+      "transliteration": "",
+      "translation": "Accompanied by his brother Lakshmana, Rama, armed with bow, blocked the northern gate of Lanka which was like a lofty mountain peak and protected.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "लङ्कामुपनिविष्टस्तुरामोदशरथात्मजः ।\nलक्ष्मणानुचरोवीरःपुरींरावणपालिताम् ।।6.41.34।।\nउत्तरद्वारमासाद्ययत्रतिष्ठतिरावणः ।\nनान्योरामाद्धितद् द्वारंसमर्थःपरिरक्षितुम् ।।6.41.35।।\nसायुथैराक्षसैर्भीमैरभिगुप्तंसमन्ततः ।\nलघूनांत्रासजननंपाताळमिवदानवैः ।।6.41.36।।",
+      "transliteration": "",
+      "translation": "(Dasaratha's son) Rama who had Lakshmana as follower reached the northern gate protected by Ravana. Just as the ocean is guarded by Varuna, it was guarded by terrific Rakshasas, who were secretly hiding all over like the Rakshasas in the subterranean region with small amounts of numerous armours for protection. It was not possible for anyone other than Rama to enter.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "विन्यस्तानिचयोधानांबहूनिविविधानिच ।\nददर्शाऽयुधजालानितत्रैवकवचानिच ।।6.41.37।।",
+      "transliteration": "",
+      "translation": "Rama Saw there, numerous weapons of every kind so also shields for the combatants of war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "पूर्वंतुद्वारमासाद्यनीलोहरिचमूपतिः ।\nअतिष्ठत्सहमैन्देनद्विविदेनचवीर्यवान् ।।6.41.38।।",
+      "transliteration": "",
+      "translation": "Neela the commanderinchief of the army of monkeys, a valiant one, also Dwivida, and Mainda reached the east gate and remained there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "अङ्गदोदक्षिणद्वारंजग्राहसुमहाबलः ।\nऋषभेणगवाक्षेणगजेनगवयेनच ।।6.41.39।।",
+      "transliteration": "",
+      "translation": "Angada endowed with great prowess along with Rshaba, Gavaksha, Gaja, and Gavaya reached the south gate.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "हनुमान् पश्चिमद्वारंररक्षबलवान्कपिः ।\nप्रमाथिप्रषुभ्यांचवीरैरन्यैश्चसङ्गतः ।।6.41.40।।",
+      "transliteration": "",
+      "translation": "Mighty monkey Hanuman united with heroes Pramati and Praghasa and others protected the west gate.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "मध्यमेचस्वयंगुल्मेसुग्रीवस्समतिष्ठत ।\nसहसर्वैर्हरिश्रेष्ठैस्सुपर्णश्वसनोपमैः ।।6.41.41।।",
+      "transliteration": "",
+      "translation": "Sugriva chief of all army and best of the monkey army who was equal to Garuda of beautiful wings, endowed with wind speed remained in the middle (of north and west) post.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "वानराणांतुषटित्रंशत्कोट्यःप्रख्यातयूथपाः ।\nनिपीड्योपनिविष्टाश्चसुग्रीवोयत्रवानरः ।।6.41.42।।",
+      "transliteration": "",
+      "translation": "Renowned generals of the Vanara army and thirtysix crores of Vanaras stood there camping.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "शासनेनतुरामस्यलक्ष्मणस्सविभीषणः ।\nद्वारेद्वारेहरीणांतुकोटिंकोटिंन्यवेशयेत् ।।6.41.43।।",
+      "transliteration": "",
+      "translation": "By the command of Rama, Vibheeshana accompanied by Lakshmana posted crores and crores of Vanaras there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "पश्चिमेनतुरामस्यसुषेणःसहजाम्बवान् ।।6.41.44।।\nआदूरान्मध्यमेगुल्मेतस्थौबहुबलानुगः ।",
+      "transliteration": "",
+      "translation": "Sushena along with Jambavan and a large army of Vanaras were posted in the centre not far from Rama at the west by Rama's order.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "तेतुवानरशार्धूलाःशार्दूलाइवदंष्ट्रिणः ।।6.41.45।।\nगृहीत्वाद्रुमशैलाग्रान्हृष्टायुद्धायतस्थिरे ।",
+      "transliteration": "",
+      "translation": "Vanaras who resembled tigers, endowed with sharp teeth joyfully stood there holding trees and peaks of mountain waiting to combat.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "सर्वेविकृतलाङ्गूलास्सर्वेदंष्ट्रानखायुधा:।। 6.41.46।।\nसर्वेविकृतचित्राङ्गास्सर्वेचविकृताननाः ।",
+      "transliteration": "",
+      "translation": "All had their tails lifted unusually, had their nails and teeth sharp as weapons, some had unnatural face, and all of them had distorted eyes (as in fury).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "दशनागबलाःकेचित्केचिद्धशगुणोत्तराः ।।6.41.47।।\nकेचिन्नागसहस्रस्यबभूवुस्तुल्यविक्रमाः ।",
+      "transliteration": "",
+      "translation": "A few of them were having the strength of ten elephants, some had ten times more than others, and a few were endowed with great strength equal to thousand elephants.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "सन्तिचौघबलाःकेचित्केचिच्छतगुणोत्तराः ।।6.41.48।।\nअप्रमेयबलाश्चान्येतत्रासन्हरियूथपाः",
+      "transliteration": "",
+      "translation": "Few monkeys had strength of an ogha, some had a hundred times more, and the monkey commanders possessed immeasurable strength.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "अद्भुतश्चविचित्रश्चतेषामासीत्समागमः ।।6.41.49।।\nतत्रवानरसैन्यानांशलभानामिवोद्यमः ।",
+      "transliteration": "",
+      "translation": "There it seemed as if a flight of locusts had gathered, with monkey army gathered there. It was amazing and astonishing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "प्रतिपूर्णमिवाकाशंसञ्छन्नेवचमेदिनी ।।6.41.50।।\nलङ्कापुमनिविष्टैश्चसम्पतद्भिश्चवानरैः ।",
+      "transliteration": "",
+      "translation": "Vanaras settled in such a way all around Lanka completely covering the land with those already at Lanka.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "शतंशतसहस्राणांपृथगृक्षवनौकसाम् ।।6.41.51।।\nलङ्काद्वाराङयुपाजग्मुरन्येयोद्धुंसमन्ततः ।",
+      "transliteration": "",
+      "translation": "A hundred thousand bars and monkeys and several others already gathered at the gates of Lanka to fight proceeded.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "आवृतस्सगिरिस्सर्वैस्सैस��समन्तात् प्लवङ्गमैः ।।6.41.52।।\nअयुतानांसहस्रंचपुरींतामभ्यवर्तत ।",
+      "transliteration": "",
+      "translation": "All over the mountain the monkeys surrounded the boundary wall of Lanka city to collect information.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "वानरैर्बलवद्भिश्चबभूवद्रुमपाणिभिः ।।6.41.53।।\nसम्वृतासर्वतोलङ्कादुष्प्रवेशाऽपिवायुना ।",
+      "transliteration": "",
+      "translation": "Mighty Vanaras holding uprooted trees occupied everywhere and it seemed difficult for even wind to enter Lanka.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "राक्षसाविस्मयंजग्मुःसहसाऽभिनिपीडिताः ।।6.41.54।।\nवानरैर्मेघसङ्काशैश्शक्रतुल्यपराक्रमैः ।",
+      "transliteration": "",
+      "translation": "Caught by Vanaras like clouds and equalled Indra in valour gave way to wonder for the Rakshasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "महान् शब्दोऽभवत्तत्रबलौघस्याभिवर्ततः ।।6.41.55।।\nसागरस्येवभिन्नस्ययथास्यात्सलिलस्वनः ।",
+      "transliteration": "",
+      "translation": "Thereafter with the divisions of the Vanara army moving like the ocean on the mountain peak, appeared like the roaring sound of water in the ocean moving out of boundary.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "तेनशब्देनमहतासप्राकारासतोरणा ।।6.41.56।।\nलङ्काप्रचलितासर्वासशैलवनकानना ।",
+      "transliteration": "",
+      "translation": "By the great sound the boundary, the archways and the mountains and forests shook violently.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "रामलक्ष्मणगुप्तासासुग्रीवेणचवाहिनी ।।6.41.57।।\nबभूवदुर्धर्षतरासर्वैरपिसुरासुरैः ।",
+      "transliteration": "",
+      "translation": "Protected by Rama and Lakshmana and Sugriva that an army of monkeys became difficult to assail even for Rakshasas and Devatas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "राघवःसन्निवेश्यैवंस्वसैन्यंरक्षसांवधे ।।6.41.58।।\nसम्मन्त्ऱ्यमन्त्रिभिस्सार्थंनिश्चित्यचपुनःपुनः ।\nआनन्तर्यमभिप्रेप्सुःक्रमयोगार्थतत्त्ववित् ।।6.41.59।।\nविभीषणस्यानुमतेराजधर्ममनुस्मरन् ।\nअङ्गदंवालितनयंसमाहूयेदमब्रवीत् ।।6.41.60।।",
+      "transliteration": "",
+      "translation": "Deliberating on the action to be taken to kill the Rakshasas, Raghava himself called the army and gathered them and the ministers all of them again and again discussed and took the decision. Later recalling the king's duty with Vibheeshana, summoned Vali's son Angada and spoke these words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "गत्वासौम्य दशग्रीवंब्रूहिमद्वचनात्कपे ।\nलङ्घयित्वापुरींलङ्कांभयंत्यक्त्वागतव्यधः ।।6.41.61।।\nभ्रष्टश्रीक गतैश्वर्य मुमूर्षो नष्टचेतनः ।",
+      "transliteration": "",
+      "translation": "\"O noble Hanuman crossing over Lanka without fear, giving up the difficulties experienced earlier we reached. Admonish the tenheaded king who has lost senses, his past fortune and sovereignty.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-54",
+      "number": 54,
+      "type": "shloka",
+      "original": "ऋषीणांदेवतानांचगन्धर्वाप्सरसांतथा ।।6.41.62।।\nनागानामथयक्षाणांराज्ञांचरजनीचर ।\nयच्चपापंकृतंमोहादवलिप्तेनराक्षस ।।6.41.63।।\nनूनंतेविगतोदर्पःस्वयम्भुवरदानजः ।\nतस्यपापस्यसम्प्राप्ताव्युष्टिरद्यदुरसदा ।।6.41.64।।",
+      "transliteration": "",
+      "translation": "\"O night ranger! the time has come for punishment for the sins committed by you to the sages, Devatas, so also to Gandharvas, celestial beauties, Nagas, Yakshas and the kings because of your delusion in conceit. Surely your pride about the boons begotten from the selfborn creator will be gone, said Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-55",
+      "number": 55,
+      "type": "shloka",
+      "original": "तस्य���ण्डधरस्तेऽहंदाराहरकर्शितः ।\nदण्डंधारयमाणस्तुलङ्काद्वारेव्यवस्थितः ।।6.41.65।।",
+      "transliteration": "",
+      "translation": "\"You, who have abducted my wife, I will punish you with a rod of punishment. I am your chastiser, O king of Lanka I have taken position.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-56",
+      "number": 56,
+      "type": "shloka",
+      "original": "पदवींदेवतानांचमहर्षीणांचराक्षस ।\nराजर्षीणांचसर्वेषांगमिष्यसिमयाहतः ।।6.41.66।।",
+      "transliteration": "",
+      "translation": "\"O Rakshasa! Even Devatas, sages and even royal sages have also lost their lives, killed by me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-57",
+      "number": 57,
+      "type": "shloka",
+      "original": "बलेनयेनवैसीतांमाययाराक्षसाधम ।\nयामतिक्रामयित्वात्वंहृतवांस्तद्विदर्शय ।।6.41.67।।",
+      "transliteration": "",
+      "translation": "\"O lowly Rakshasa! By deceiving me you took away Sita. Display that strength now.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-58",
+      "number": 58,
+      "type": "shloka",
+      "original": "अराक्षसमिमंलोकंकर्तास्मिनिशितैःशरैः ।\nनचेच्छरणमभ्येषितामादायतुमैथिलीम् ।।6.41.68।।",
+      "transliteration": "",
+      "translation": "\"If you do not seek my protection I will devoid this world of Rakshasas with my sharp arrows.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-59",
+      "number": 59,
+      "type": "shloka",
+      "original": "धर्मात्माराक्षसश्रेष्ठःसम्प्राप्तोऽयंविभीषणः ।\nलङ्कैश्वर्यंधृवंश्रीमानयंप्राप्नोत्यकण्डकम् ।।6.41.69।।",
+      "transliteration": "",
+      "translation": "\"This Vibheeshana, the best of Rakshasas will be glorious and fortunate undoubtedly having got the kingdom of Lanka.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-60",
+      "number": 60,
+      "type": "shloka",
+      "original": "नहिराज्यमधर्मेणभोक्तुंक्षणमपित्वया ।\nशक्यंमूर्खसहायेनपापेनाविदितात्मना ।।6.41.70।।",
+      "transliteration": "",
+      "translation": "\"One who is not aware of himself, an unrighteous sinner ruling with foolish mates cannot enjoy the kingdom even for a moment.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-61",
+      "number": 61,
+      "type": "shloka",
+      "original": "युध्यस्ववाधृतिंकृत्वाशौर्यमालम्ब्यराक्षस ।\nमच्छरैस्त्वंरणेशान्तस्ततःशान्तोभविष्यसि ।।6.41.71।।",
+      "transliteration": "",
+      "translation": "\"O Rakshasa! You are resorting to fortitude and valour and embracing gallantry in war. By my arrows you will obtain peace (in death).\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-62",
+      "number": 62,
+      "type": "shloka",
+      "original": "यद्वाविशसिलोकांस्त्रीन्पक्षीभूतोमनोजवः ।\nममचक्षुष्पथंप्राप्यनजीवन्प्रतियास्यसि ।।6.41.72।।",
+      "transliteration": "",
+      "translation": "\"O Ravana! You have no control over your mind, and if you come in the range of my eyesight and enter the three worlds also you will not go alive again.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-63",
+      "number": 63,
+      "type": "shloka",
+      "original": "ब्रवीमित्वांहितंवाक्यंक्रियतामौर्ध्वदैहिकम् ।\nसुदृष्टाक्रियतांलङ्काजीवितंतेमयिस्थितम् ।।6.41.73।।",
+      "transliteration": "",
+      "translation": "Having addressed it in well meaning words, Rama said 'I will do you obsequies as no one will be left in Lanka to do your last rites'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-64",
+      "number": 64,
+      "type": "shloka",
+      "original": "इत्युक्तःसतुतारेयोरामेणाक्लिष्टकर्मणा ।\nजगामाकाशामाविश्यमूर्तिमानिवहव्यवाट् ।।6.41.74।।",
+      "transliteration": "",
+      "translation": "Rama having spoken that way, Tara's son, Angada, who was like fire god, who was unwearied in action flew to the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-65",
+      "number": 65,
+      "type": "shloka",
+      "original": "सोऽतिपत्यमुहूर्तेनश्रीमान्रावणमन्दिरम् ।\nददर्शासीनमव्यग्रंरावणंसचिवैःसह ।।6.41.75।।",
+      "transliteration": "",
+      "translation": "Angada landed on Ravana's palace in a moment and saw the tiger like prosperous Ravana seated with his ministers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-66",
+      "number": 66,
+      "type": "shloka",
+      "original": "ततस्तस्य I विदूरेणनिपत्यसहरिपुङ्गवः ।\nदीप्ताग्निसदृशस्तस्थावङ्गदःकनकाङ्गदः ।।6.41.76।।",
+      "transliteration": "",
+      "translation": "Thereafter, the leader of the monkeys, Angada adorned with golden armlets stood like a blazing fire at a distance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-67",
+      "number": 67,
+      "type": "shloka",
+      "original": "तद्रामवचनंसर्वमन्यूनाधिकमुत्तमम् ।\nसामात्यंश्रावयामासनिवेद्यात्मानमात्मना ।।6.41.77।।",
+      "transliteration": "",
+      "translation": "\"I made known the words of Rama completely without adding or deleting. You may listen.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-68",
+      "number": 68,
+      "type": "shloka",
+      "original": "दूतोऽहंकोशलेन्द्रस्यरामस्याक्लिष्टकर्मणः ।\nवालिपुत्रोऽङ्गदोनामयदितेश्रोत्रमागतः ।।6.41.78।।",
+      "transliteration": "",
+      "translation": "\"I am the son of Vali,by name Angada,an envoy of Rama ,the king of Kosala of unwearied action. You may know that I have landed\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-69",
+      "number": 69,
+      "type": "shloka",
+      "original": "अहत्वांराघवोरामःकौसल्यानन्दवर्धनः ।\nनिष्पत्यप्रतियुध्यस्वनृशंस पुरुषोभव ।।6.41.79।।",
+      "transliteration": "",
+      "translation": "\"Raghava, the enhancer of the happiness of Kausalya speaks to you. Ruthless Rakshasa! Sallying forth, get ready for combat.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-70",
+      "number": 70,
+      "type": "shloka",
+      "original": "हन्तास्मित्वांसहामात्यंसपुत्रज्ञातिबान्धवम् ।\nनिरुद्विग्नास्त्रयोलोकाभविष्यन्तिहतेत्वयि ।।6.41.80।।",
+      "transliteration": "",
+      "translation": "\"You and your son's relatives and followers being killed (by me) the three worlds will be rid of fear of you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-71",
+      "number": 71,
+      "type": "shloka",
+      "original": "देवदानवयक्षाणांगन्धर्वोरगरक्षसाम् ।\nशत्रुमद्योद्धरिष्यामित्वामृषीणांचकण्टकम् ।।6.41.81।।",
+      "transliteration": "",
+      "translation": "\"You are an enemy of the gods, Danavas and Yakshas, Gandharvas and Nagas and being a thorn in the neck of sages, I will uproot you from here.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-72",
+      "number": 72,
+      "type": "shloka",
+      "original": "विभीषणस्यचैश्वर्यंभविष्यतिहतेत्वयि ।\nनचेत्सत्कृत्यवैदेहींप्रणिपत्यप्रदास्यसि ।।6.41.82।।",
+      "transliteration": "",
+      "translation": "\"Unless you return back Vaidehi respectfully, bowing down to me you will be killed and Vibheeshana will get the fortune.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-73",
+      "number": 73,
+      "type": "shloka",
+      "original": "इत्येवंपरुषंवाक्यंब्रुवाणेहरिपुङ्गवे ।\nअमर्षवशमापन्नोनिशाचरगणेश्वरः ।।6.41.83।।",
+      "transliteration": "",
+      "translation": "The leader of the monkeys having spoken in that manner, Ravana the ruler of night rangers was overtaken by fury.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-74",
+      "number": 74,
+      "type": "shloka",
+      "original": "ततस्सरोषताम्राक्षश्शशापसचिवांन्नोस्तदा ।\nगृह्यतामेषदुर्मेधावध्यतामितिचासकृत् ।।6.41.84।।",
+      "transliteration": "",
+      "translation": "Thereafter, Ravana who was shaken by fury repeatedly commanded his ministers and said 'Let this evil minded monkey be seized and killed'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-75",
+      "number": 75,
+      "type": "shloka",
+      "original": "रावणस्यवच्शुत्वादीप्ताग्निसमतेजसा ।\nजगृहुस्तंततोघोराश्चत्वारोरजनीचराः ।।6.41.85।।",
+      "transliteration": "",
+      "translation": "Thereafter, having heard the words of Ravana, the four Rakshasas seized Angada blazing in brilliance like fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-76",
+      "number": 76,
+      "type": "shloka",
+      "original": "ग्राहयामासतारेयस्स्वयमात्मनमात्मवान् ।\nबलंदर्शयितुंवीरोयातुधानगणेतदा ।।6.41.86।।",
+      "transliteration": "",
+      "translation": "Then Angada, the son of Tara, on his own wanting to exhibit his strength in the presence of the Rakshasa army allowed himself to be caught.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-77",
+      "number": 77,
+      "type": "shloka",
+      "original": "सतान्बाहुद्वयासक्तानादायपतगानिव ।\nप्रासा��ंशैलसङ्कामुत्पपाताङ्गदस्तदा ।।6.41.87।।",
+      "transliteration": "",
+      "translation": "Then Angada holding the Rakshasas by his arms came down like birds on the roof of the palace which stood like a mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-78",
+      "number": 78,
+      "type": "shloka",
+      "original": "तेन्तरिक्षाद्विनिर्धूतास्तस्यवेगेनराक्षसाः ।\nभूमौनिपतिताःसर्वेराक्षसेन्द्रस्यपश्यतः ।।6.41.88।।",
+      "transliteration": "",
+      "translation": "Crushed by that speed of Angada coming down as if from the sky all the Rakshasas fell down on the ground while the Rakshasa king looked on.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-79",
+      "number": 79,
+      "type": "shloka",
+      "original": "ततःप्रासादशिखरंशैलशृङ्गमिवोन्नतम् ।\nददर्शराक्षसेन्द्रस्यवालिपुत्रःप्रतापवान् ।।6.41.89।।",
+      "transliteration": "",
+      "translation": "Then as the courageous Vali's son landed on the high peak of the palace which resembled a mountain peak, Ravana stood looking.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-80",
+      "number": 80,
+      "type": "shloka",
+      "original": "तत्पफालपदाक्रान्तंदशग्रीवस्यपश्यतः ।\nपुराहिमवतश्शृङ्गंवज्रिणेवविदारितम् ।।6.41.90।।",
+      "transliteration": "",
+      "translation": "As Ravana was looking, Angada trampling his feet gave way to the palace just as Himalayan peak broke to hit Indra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-81",
+      "number": 81,
+      "type": "shloka",
+      "original": "भङ् क्त्वाप्रासादशिखरंनामविश्राव्यचात्मनः ।\nविनद्यसुमहानादमुत्पपातविहायसम् ।।6.41.91।।",
+      "transliteration": "",
+      "translation": "Hitting on the peak of the palace, Angada declaring his own name emitting loud sound rose up to the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-82",
+      "number": 82,
+      "type": "shloka",
+      "original": "व्यथयन्राक्षसान्सर्वान्हर्षयंश्चापिवानरान् ।\nसवानराणांमध्येतुरामपार्श्वमुपागतः ।।6.41.92।।",
+      "transliteration": "",
+      "translation": "Angada caused pain to the Rakshasas and delighted the monkeys and returned to the midst of Vanaras near Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-83",
+      "number": 83,
+      "type": "shloka",
+      "original": "रावणस्तुपरंचक्रेक्रोधंप्रासादधर्षणात् ।\nविनाशंचात्मनःपश्यन्निश्श्वासपरमोऽभवत् ।।6.41.93।।",
+      "transliteration": "",
+      "translation": "Ravana exhibiting extreme anger at the shattering of his palace and seeing his destruction started sighing heavily.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-84",
+      "number": 84,
+      "type": "shloka",
+      "original": "रामस्तुबहुभिर्हृष्टर्निनदद्भिःप्लवङ्गमैः ।\nवृतोरिपुवधाकाङ्क्षीयुद्धायैवाभ्यवर्तत ।।6.41.94।।",
+      "transliteration": "",
+      "translation": "Delighted by the roaring sound of many monkeys Rama awaited surrounded by groups of monkeys desirous of starting war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-85",
+      "number": 85,
+      "type": "shloka",
+      "original": "सुषेणस्तुमहावीर्योगिरिकूटोपमोहरिः ।\nबहुभिःसम्वृतस्तत्रवानरैःकामरूपिभिः ।।6.41.95।।",
+      "transliteration": "",
+      "translation": "Sushena of great prowess, who resembled a mountain in form stood there surrounded by many Vanaras who could change their form at their will.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-86",
+      "number": 86,
+      "type": "shloka",
+      "original": "सचतुर्द्वाराणिसर्वाणिसुग्रीववचनात्कपिः ।\nपर्यक्रामतदुर्धर्षोनक्षत्राणीवचन्द्रमाः ।।6.41.96।।",
+      "transliteration": "",
+      "translation": "Sushena, a monkey who is difficult to encounter, went around all the four gates just like the moon goes around stars by the order of Sugriva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-87",
+      "number": 87,
+      "type": "shloka",
+      "original": "तेषामक्षौहिणिशतंसमवेक्ष्यवनौकसाम् ।\nलङ्कामुपनिविष्टानांसागरंचानिवर्तताम् ।।6.41.97।।\nराक्षसाविस्मयंजग्मुस्त्रासंजग्मुस्तथापरे ।\nअपरेसमरोध्धर्षाद्धर्षमेवप्रपेदिरे ।।6.41.98।।",
+      "transliteration": "",
+      "translation": "Seeing the large army of a hundred Akshauhinis of monkeys staying near Lanka spreading beyond the sea waiting for war the Rakshasas were wonder struck, some feared, some were alarmed to witness the jubilant Vanaras who exhibited joy alone.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-88",
+      "number": 88,
+      "type": "shloka",
+      "original": "कृत्स्नंहिकपिभिर्व्याप्तंप्राकारपरिखान्तरम् ।\nददृशूराक्षसादीनाःप्राकारंनानरीकृतम् ।।6.41.99।।\nहाहाकारंप्रकुर्वन्तिराक्षसाभयमोहिताः ।",
+      "transliteration": "",
+      "translation": "The Rakshasas were desperate to see the spread of monkeys over the entire area from the boundary to moat of Lanka. The way the space between was filled with Vanaras seemed as though the Vanaras converted into boundaries. Rakshasas were seen making a loud noise.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-41-89",
+      "number": 89,
+      "type": "shloka",
+      "original": "तस्मिन् महाभीषणकेप्रवृत्तेकोलाहलेराक्षसराजधान्याम् ।\nप्रगृह्यरक्षांसिमहायुधानियुगान्तवाताइवसंविचेरुः ।।6.41.100।।",
+      "transliteration": "",
+      "translation": "To protect the kingdom of Rakshasas, the Rakshasas holding weapons making frightening sounds and shouting, advanced for a great War. It seemed as though it was the end of the universe. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेएकचत्वारिंशस्सर्गः ।। This is the end of the forty first sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

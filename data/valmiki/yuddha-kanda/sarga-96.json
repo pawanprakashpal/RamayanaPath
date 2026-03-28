@@ -1,0 +1,387 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 96,
+    "title": "Deluded with anger Ravana commands the army generals to start to take revenge on Vanara army in the battlefield and follows them to exhibit his valour.",
+    "titleSanskrit": "",
+    "totalShlokas": 41
+  },
+  "shlokas": [
+    {
+      "id": "v6-96-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "आर्तानांराक्षसीनांतुलङ्कायांव��कुलेकुले ।\nरावणःकरुणंशब्दंशुश्रावपरिदेवितम् ।।6.96.1।।",
+      "transliteration": "",
+      "translation": "Ravana heard from every house in Lanka sounds of piteous cries and pathetic sounds of the afflicted.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "स तुदीर्घंविनिःश्वस्यमुहूर्तंध्यानमास्थितः ।\nबभूवपरमक्रुद्धोरावणोभीमदर्शनः ।।6.96.2।।",
+      "transliteration": "",
+      "translation": "Ravana remained silent for long, thought for a moment and assumed a terrific angry form.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "सन्दश्यदशनैरोष्ठंक्रोधसम्रक्तलोचनः ।\nराक्षसैरपिदुर्दर्शःकालाग्निरिवमूर्छितः ।।6.96.3।।",
+      "transliteration": "",
+      "translation": "Biting his teeth, eyes turned red in wrath, Ravana was perplexed. He was difficult to look at even for the Rakshasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "उवाच च समीपस्थान्राक्षसान्राक्षसेश्वरः ।\nक्रोधाव्यक्तकथस्तत्रनिर्दहन्निवचक्षुषा ।।6.96.4।।\nमहोदरंमहापार्श्वंविरूपाक्षं च राक्षसम् ।\nशीघ्रंवदतसैन्यानिनिर्यातेतिममाज्ञया ।।6.96.5।।",
+      "transliteration": "",
+      "translation": "Thus spoke the Lord of Rakshasas indistinctly in anger with his eyes burning as though it would consume them (Rakshasas). He commanded Mahodara, Mahaparsva and Virupaksha who stood nearby saying\" quickly instruct the army to go.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तस्यतद्वचनंश्रुत्वाराक्षसास्तेभयार्दिताः ।\nचोदयामासुरव्यग्रान्राक्षसांस्तान्नृपाज्ञया ।।6.96.6।।",
+      "transliteration": "",
+      "translation": "On hearing the words of the king's order, the Rakshasas stricken with fear, unagitated, started thinking.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तेतुसर्वेतथेत्युक्त्वाराक्षसाभीमदर्शनाः ।\nकृतस्वस्त्वयनाःसर्वेतेरणाभिमुखाययुः ।।6.96.7।।",
+      "transliteration": "",
+      "translation": "All the Rakshasas with frightful looks saying 'Be it so', having prepared themselves with armor went towards the battlefield.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "प्रतिपूज्ययथान्यायंरावणंतेमहारथाः ।\nतस्थुःप्राञ्जलयःसर्वेभर्तुर्विजयकाङ्क्षिणः ।।6.96.8।।",
+      "transliteration": "",
+      "translation": "All the great chariot warrior spraying to Ravana with folded palms stood desiring success.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "अथोवाचप्रहस्यैतान्रावणःक्रोधमूर्छितः ।\nमहोदरमहापार्श्वौविरूपाक्षं च राक्षसम् ।।6.96.9।।",
+      "transliteration": "",
+      "translation": "Then Ravana who was deluded with anger, laughing aloud spoke to Mahodara, Mahaparsva and Virupaksha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "अद्यबाणैर्धनुर्मुक्स्सैर्युगान्तादित्यसन्निभैः ।\nराघवंलक्ष्मणंचैवनेष्यामियमसादनम् ।।6.96.10।।",
+      "transliteration": "",
+      "translation": "Loosening the shafts from the bow, Ravana resembling the Sun at the time of dissolution of the universe said,\" I shall dispatch Raghava and Lakshmana to the abode of the Lord of death.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "खरस्यकुम्भकर्णस्यप्रहसेन्द्रजितोस्तथा ।\nकरिष्यामिप्रतीकारमद्यशत्रुवधादहम् ।।6.96.11।।",
+      "transliteration": "",
+      "translation": "\"Today by the killing the enemy I will take my revenge and also of Khara, Kumbhakarna, Prahastha and Indrajith.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "नैवान्तरिक्षं न दिशो न नद्यौर्नापिसागराः ।\nप्रकाशत्वंगमिष्यन्तिमद्बाणजलदावृताः ।।6.96.12।।",
+      "transliteration": "",
+      "translation": "\"By my arrows covering the sky like clouds there will be no effulgence both in space and in the quarters and not even in the ocean.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अद्यवानरमुख्यानांतानियूथानिभागशः ।\nधनुषाशरजालेनवधिष्यामिपतत्रिणा ।।6.96.13।।",
+      "transliteration": "",
+      "translation": "\"Today by the network of plumed arrows released from my bow I shall kill the troops of Vanara leaders' part by part.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "अद्यवानरसैन्यानिरथेनपवनौजसा ।\nधनुस्समुद्रादुद्भूतैर्मथिष्यामिशरोर्मिभिः ।।6.96.14।।",
+      "transliteration": "",
+      "translation": "\"Seated on the chariot I shall knock out the Vanara army by the waves in the form of arrows released from the ocean of my bow.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "व्याकोशपद्मवक्त्राणिपद्मकेसरवर्चसाम् ।\nअद्ययूथतटाकानिगजवत्प्रमथाम्यहम् ।।6.96.15।।",
+      "transliteration": "",
+      "translation": "\"Like an elephant now I shall torment the ponds in the form of battalions of Vanaras shining like the filaments of lotuses, with their faces resembling open lotuses.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "सशरैरद्यवदनैस्सङ्ख्येवानरयूथपाः ।\nमण्डयिष्यन्तिवसुधांसनालैरिवपङ्कजैः ।।6.96.16।।",
+      "transliteration": "",
+      "translation": "\"Now with the arrows fixed on their faces the Vanara battalions spread on the earth will adorn the earth like lotuses spread on earth.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अद्ययूथप्रचण्डानांहरीणांद्रुमयोधिनाम् ।\nमुक्तेनैकेषुणायुद्धेभेत्स्यामि च शतंशतम् ।।6.96.17।।",
+      "transliteration": "",
+      "translation": "\"Today in the combat each one of the arrows released by me will pierce through one hundred monkeys vehemently fighting with trees\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "हतोभर्ताहतोभ्रातायासां च चतनयोहतः ।\nवधेनाद्यरिपोस्तासांकरोम्यश्रुप्रमार्जनम् ।।6.96.18।।",
+      "transliteration": "",
+      "translation": "\"Today through the destruction of the enemy I will wipe the tears of the one whose son has been killed, whose brother has been killed.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अद्यमद्भाणनिर्भिन्नैःप्रकीर्णैर्गतचेतनैः ।\nकरोमिवानरैर्युद्धेयत्नावेक्ष्यतलांमहीम् ।।6.96.19।।",
+      "transliteration": "",
+      "translation": "\"Today, in the combat, my arrows will split open the Vanaras and ceased of life, they will be covering the earth. It will be possible to see the ground only with effort.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "अद���यगोमयवोगृध्राश्चये च मांसाशिनोऽपरे ।\nसर्वांस्तांस्तर्पयिष्यामिशत्रुमांसैश्शरार्दितैः ।।6.96.20।।",
+      "transliteration": "",
+      "translation": "\"Today I shall provide for whatever animals, eagles or flesheating animals the flesh of enemies killed by my arrows.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "कल्प्यतांमेरथंशीघ्रंक्षिप्रमानीयतांधनुः ।\nअनुप्रयान्तुमांयुद्धेयेऽत्रशिष्टानिशाचराः ।।6.96.21।।",
+      "transliteration": "",
+      "translation": "\"Let my chariot and bow be ready and brought here. Let the night rangers who survived follow me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तस्यतद्वचनंश्रुत्वामहापार्श्वोऽब्रवीद्वचः ।\nबलाध्यक्षान् स्थिथांस्तत्रबलंसंत्वर्यतामिति ।।6.96.22।।",
+      "transliteration": "",
+      "translation": "On hearing the speech of Ravana, Mahaparsva enjoined the mighty leaders of the army standing there and spoke as follows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "बलाध्यक्षास्तुसम्रब्दाराक्षसांस्तान् गृहेगृहे ।\nचोदयन्तःपरिययुर्लङ्कांलघुपराक्रमाः ।।6.96.23।।",
+      "transliteration": "",
+      "translation": "\"Let the army leaders of mighty valour go hurriedly to search in every house in Lanka for Rakshasas.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "ततोमुहूर्तान्निष्पेतूराक्षसाभीमदर्शनाः ।\nनदन्तोभीमवदनानानाप्रहरणैर्भुजैः ।।6.96.24।।\nअसिभिःपट्टसै: शूलैर्गदाभिर्मुसलैर्हलैः ।\nशक्तिभिस्तीक्ष्णधाराभिर्महद्भि: कूटमुद्गरैः ।।6.96.25।।\nयष्टिभिर्विमलैश्चक्रैर्निशितैश्चपरश्वथै: ।\nभिन्दिपालैःशतघ्नीभिरन्यैश्चापिवरायुधैः ।।6.96.26।।",
+      "transliteration": "",
+      "translation": "Then the Rakshasas of terrific looks, and frightening faces holding on shoulders roaring departed with swords, spears, tridents, maces, iron bars, halas, sharp pointed javelins, huge Kutamudgaras, staffs and several discusses, sharp Bhindipalas, Sataghnis and many kinds of excellent weapons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "अथानयद्बलाध्यक्षस्सत्वरोरावणाज्ञया ।\nद्रुतंसूतसमायुक्तंयुक्ताष्टतुरगंरथम् ।\nआरुरोहतदाभीमोदीप्यमानंस्वतेजसा ।।6.96.27।।",
+      "transliteration": "",
+      "translation": "Then by Ravana's command. the chief of the army with chariot rider brought the chariot yoked to eight horses quickly. Then dreadful and selfeffulgent glowing Ravana ascended the chariot.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "ततःप्रयातस्सहसाराक्षसैर्भहुभिर्वृतः ।।6.96.28।।\nरावणःसत्त्वगाम्भीर्याद्दारयन्निवमेदिनीम् ।",
+      "transliteration": "",
+      "translation": "Then Ravana surrounded by many Rakshasas set out swiftly rending the earth with all his might and majesty.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "रावणेनाभ्यनुज्ञातौमहापार्श्वमहोदरौ ।\nविरूपाक्षश्चदुर्धर्षोरथानारुरुहुस्तदा ।।6.96.29।।",
+      "transliteration": "",
+      "translation": "Duly permitted by Ravana, Mahaparsva and Mahodara who are difficult to overpower and also Virupaksha ascended their chariots.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "तेतुहृष्टाविवर्धन्तोभिन्दन्तइवमेदिनीम् ।\nनादंघोरंविमुञ्चन्तोनिर्ययुर्जयकाङ्क्षिणः ।।6.96.30।।",
+      "transliteration": "",
+      "translation": "Happy leaders, roaring exultantly, as if breaking the earth, emerged, turning round, desiring victory and sallied forth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "ततोयुद्धायतेजस्वीरक्षोगणबलैर्वृतः ।\nनिर्ययावुद्यतधनुःकालान्तकयमोपमः ।।6.96.31।��",
+      "transliteration": "",
+      "translation": "Then Ravana surrounded by the army of Rakshasas lifted his bow, like the Lord Yama at the time of dissolution of the universe, went for the battle glowing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "ततःप्रजविताश्वेनरथेन स महारथः ।\nद्वारेणनिर्ययौतेनयत्रतौरामलक्ष्मणौ ।।6.96.32।।",
+      "transliteration": "",
+      "translation": "Then from the mighty chariot yoked to exceedingly swift horses, the mighty charioteer made his exit from the entrance and saw Rama and Lakshmana there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "ततोनष्टप्रभःसूर्योदिशश्चतिमिरावृताः ।\nद्विजाश्चनेदुर्घोराश्चसञ्चचाल च मेदिनी ।।6.96.33।।",
+      "transliteration": "",
+      "translation": "Then the Sun lost his radiance, and the four directions were enveloped by gloom, the birds made fearful noise and the earth shook.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "ववर्षरुधिरंदेवश्चस्खलुश्चतुरङ्गमाः ।\nध्वजाग्रेन्यपतद्गृध्रोविनेदुश्चाशिवाःशिवाः ।।6.96.34।।",
+      "transliteration": "",
+      "translation": "Devas rained blood, horses stumbled, eagles settled on top of the post and jackals howled in a frightening way.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "नयनंचास्फुरद्वामंवामोबाहुरकम्पत ।\nविवर्णवदनश्साकतिंचिदभ्रश्यतस्वनः ।।6.96.35।।",
+      "transliteration": "",
+      "translation": "His left eye twitched, left arm quivered, face turned pale and indeed his tone became hoarse.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "ततोनिष्पततोयुद्धेदशग्रीवस्यरक्षसः ।\nरणेनिधनशंसीनिरूपाण्येतानिजज्ञिरे ।।6.96.36।।",
+      "transliteration": "",
+      "translation": "Thereafter as Ravana set forth for the battle, all the following forms predicting his death appeared.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "अन्तरिक्षात्पपातोल्कानिराघतसमनिर्घास्वना ।\nविनेदुरशिवागृध्रावायसैरभिमिश्रिताः ।।6.96.37।।",
+      "transliteration": "",
+      "translation": "A meteor had fallen from the sky resembling thunder, coupled with inauspicious eagle cries.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "एतानचिन्तयन्घोरानुत्पातान्समवस्थितान् ।\nनिर्ययौरावणोमोहाद्वधार्थंकालचोदितः ।।6.96.38।।",
+      "transliteration": "",
+      "translation": "Impelled by the time spirit, Ravana set forth without thinking of the terrific portents that had appeared in delusion for his destruction.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "तेषांतुरथघोषेणराक्षसानांमहात्मनाम् ।\nवानराणामपिचमूर्युद्धायैवाभ्यवर्तत ।।6.96.39।।",
+      "transliteration": "",
+      "translation": "The Vanaras stood facing the great sound of Rakshasa troops, on hearing the sounds of chariots for the sake of battle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "तेषांतुतुमुलंयुद्धंबभूवकपिरक्षसाम् ।\nअन्योन्यमाह्वयानानांक्रुद्धानांजयमिच्छताम् ।।6.96.40।।",
+      "transliteration": "",
+      "translation": "Intense battle took place between the angry Vanaras and Rakshasas challenging one another desiring victory.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "ततःक्रुद्धोदशग्रीवश्शरैःकाञ्चनभूषणैः ।\nवानराणामनीकेषुचकारकदनंमहत् ।।6.96.41।।",
+      "transliteration": "",
+      "translation": "There the tenheaded Ravana using arrows adorned with gold plumes struck Vanaras and a great war took place.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "विकृत्तशिरसःकेचिद्रावणेनवलीमुखाः ।\nकेचिद्विच्छिन्नहृदयाःकेचिच्छ्रोत्रविवर्जिताः ।।6.96.42।।",
+      "transliteration": "",
+      "translation": "Some Vanaras ' heads were deformed, some were pierced in their hearts, and some had their ears cut off.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "निरुच्छवासाहताःकेचित्केचित्पार्श्वेषुदारिताः ।\nकेचिद्विभिन्नशिरसःकेचिच्चक्षुर्विनाकृताः ।।6.96.43।।",
+      "transliteration": "",
+      "translation": "A few were made lifeless, some had their flanks split, some had their heads smashed and few were deprived of their eyes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-96-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "दशाननःक्रोधविवृत्तनेत्रोयतोयतोऽभ्येतिरथेवसङ्ख्ये ।\nततस्ततस्तस्यशरप्रवेगंसोढुं न शेकुर्हरियूथपास्ते ।।6.96.44।।",
+      "transliteration": "",
+      "translation": "In the battlefield wherever Ravana drove in fury, rolling his eyes filled with anger, the monkey troops could not withstand the speed of his arrows. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेषण्णनवतितमस्सर्गः ।। This is the end of the ninety sixth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

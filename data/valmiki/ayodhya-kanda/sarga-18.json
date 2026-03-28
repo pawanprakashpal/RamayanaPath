@@ -1,0 +1,369 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 18,
+    "title": "Rama enquires Kaikeyi the reasons for his father's grief-- she informs him about the two boons bestowed by the king -- urges him to uphold the promise given by his father and live in the forest for fourteen years.",
+    "titleSanskrit": "",
+    "totalShlokas": 39
+  },
+  "shlokas": [
+    {
+      "id": "v2-18-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "स ददर्शासने रामो निषण्णं पितरं शुभे।\nकैकेयीसहितं दीनं मुखेन परिशुष्यता।।2.18.1।।",
+      "transliteration": "",
+      "translation": "Rama beheld his father reclined on an auspicious couch and by his side was seated Kaikeyi. He looked wretched with a pale face.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "स पितुश्चरणौ पूर्वमभिवाद्य विनीतवत्।\nततो ववन्दे चरणौ कैकेय्या स्सुसमाहितः।।2.18.2।।",
+      "transliteration": "",
+      "translation": "With all humility and wellcomposed mind, he made reverential salutation first at his father's feet and thereafter at Kaikeyi's.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "रामेत्युक्त्वा तु वचनं बाष्पपर्याकुलेक्षणः।\nशशाक नृपतिर्दीनो नेक्षितुं नाभिभाषितुम्।।2.18.3।।",
+      "transliteration": "",
+      "translation": "Dasaratha uttered the word 'Rama', but thereafter could neither say any more in  distress nor look at him becuase his eyes were brimming with tears.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तदपूर्वं नरपतेर्दृष्ट्वा रूपं भयावहम्।\nरामोऽपि भयमापन्नः पदा स्पृष्ट्वेव पन्नगम्।।2.18.4।।",
+      "transliteration": "",
+      "translation": "Never before did Rama see such frightful appearance of his father. He was seized with fear as if  he trampled a serpent.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "इन्द्रियैरप्रहृष्टैस्तं शोकसन्तापकर्शितम्।\nनिश्श्वसन्तं महाराजं व्यथिताकुलचेतसम्।।2.18.5।।\nऊर्मिमालिनमक्षोभ्यं क्षुभ्यन्तमिव सागरम्।\nउपप्लुतमिवादित्यमुक्तानृतमृषिं यथा।।2.18.6।।",
+      "transliteration": "",
+      "translation": "Maharaja (Dasaratha) with his senses dulled had become emaciated due to sorrow and suffering. With an agitated and troubled mind, he was breathing heavily. Although unshakable, he looked agitated like an ocean with successive rows of waves, like  the  Sun in eclipse, like an ascetic who has uttered falsehood.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अचिन्त्यकल्पं हि पितुस्तं शोकमुपधारयन्।\nबभूव संरब्धतर स्समुद्र इव पर्वणि।।2.18.7।।",
+      "transliteration": "",
+      "translation": "The more Rama reflected on the incomprehensible sorrow of the king, the more he became perturbed like an ocean on the new Moon day.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "चिन्तयामास च तदा रामः पितृहिते रतः।\nकिं स्विदद्यैव नृपतिर्न मां प्रत्यभिनन्दति।।2.18.8।।",
+      "transliteration": "",
+      "translation": "Devoted to his father's wellbeing, Rama reflected, Why does not father reciprocate my greeting (like on other days)?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "अन्यदा मां पिता दृष्ट्वा कुपितोऽपि प्रसीदति।\nतस्य मामद्य स���प्रेक्ष्य किमायासः प्रवर्तते।।2.18.9।।",
+      "transliteration": "",
+      "translation": "On other occasions even though angry he would feel pleased. But today  why does he feel sad even after seeing me?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "स दीन इव शोकार्तो विषण्णवदनद्युतिः।\nकैकेयीमभिवाद्यैव रामो वचनमब्रवीत्।।2.18.10।।",
+      "transliteration": "",
+      "translation": "With a sorrowful countenance Rama made salutation to Kaikeyi and said like a wretch tormented with grief:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "कच्चिन्मया नापराद्धमज्ञानाद्येन मे पिता।\nकुपितस्तन्ममाचक्ष्व त्वं चैवैनं प्रसादय।।2.18.11।।",
+      "transliteration": "",
+      "translation": "Have I committed any offence unknowingly? Please tell me why my father is angry with me. You alone can pacify him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "अप्रसन्नमनाः किन्नु सदा मां प्रति वत्सलः।\nविवर्णवदनो दीनो न हि मामभिभाषते।।2.18.12।।",
+      "transliteration": "",
+      "translation": "Father has always been affectionate to me but today why is he in a dejected mood?  Why does his countenance look pale and wretched? Why does he not speak to me?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "शरीरो मानसो वापि कच्चिदेनं न बाधते।\nसन्तापोवाऽभितापो वा दुर्लभं हि सदा सुखम्।।2.18.13।।",
+      "transliteration": "",
+      "translation": "Is he suffering from any physical ailment or mental agony? It is affliction of either the body or the mind. (For) perpetual happiness is indeed rare.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "कच्चिन्न किञ्चिद्भरते कुमारे प्रियदर्शने।\nशत्रुघ्ने वा महासत्त्वे मात्रूणां वा ममाशुभम्।।2.18.14।।",
+      "transliteration": "",
+      "translation": "Has any misfortune befallen the handsome Bharata or the mighty Satrughna or any of my mothers?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "अतोषयन्महाराजमकुर्वन्वा पितुर्वचः।\nमुहूर्तमपि नेच्छेयं जीवितुं कुपिते नृपे।।2.18.15।।",
+      "transliteration": "",
+      "translation": "If I have (ever) displeased the maharaja, my father or disobeyed his command which has angered him, I do not wish to live for a moment৷৷",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "यतोमूलं नरः पश्येत्प्रादुर्भावमिहात्मनः।\nकथं तस्मिन्नवर्तेत प्रत्यक्षे सति दैवते।।2.18.16।।",
+      "transliteration": "",
+      "translation": "How can a man who owes his origin (birth) in this world to him (father) who still exists as a visible god not conduct himself (as per his wish)?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "कच्चित्ते परुषं किञ्चिदभिमानात्पतिता मम।\nउक्तो भवत्या कोपेन यत्रास्य लुलितं मनः।।2.18.17।।",
+      "transliteration": "",
+      "translation": "Have you said anything harsh to my father out of anger or (injured) selfrespect for which his mind has been shaken?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "एतदाचक्ष्व मे देवि तत्त्वेन परिपृच्छतः।\nकिं निमित्तमपूर्वोयं विकारो मनुजाधिपे।।2.18.18।।",
+      "transliteration": "",
+      "translation": "O Devi I am repeatedly asking you the cause of this unprecedented change in the king please tell me the truth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "एवमुक्ता तु कैकेयी राघवेण महात्मना।\nउवाचेदं सुनिर्लज्जा धृष्टमात्महितं वचः।।2.18.19।।",
+      "transliteration": "",
+      "translation": "When Kaikeyi was thus asked by the magnanimous scion of the Raghus (Rama) she  uttered unashamed these impudent words in her own interest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "न राजा कुपितो ���ाम व्यसनं नास्य किञ्चन। \nकिञ्चिन्मनोगतंत्वस्य त्वद्भयान्नाभिभाषते।।2.18.20।।",
+      "transliteration": "",
+      "translation": "O Rama, the king is neither angry, nor has any misforturne befallen him. But out of fear for you he is not able to speak out what he has in mind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "प्रियं त्वामप्रियं वक्तुं वाणी नास्योपवर्तते।\nतदवश्यं त्वया कार्यं यदनेनाश्रुतं मम।।2.18.21।।",
+      "transliteration": "",
+      "translation": "The goddess of speech does not permit him to say an unpleasant thing to you for you are his beloved son. So you must fulfil the promise he has made to me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "एष मह्यं वरं दत्त्वा पुरा मामभिपूज्य च।\nस पश्चात्तप्यते राजा यथाऽन्यः प्राकृतस्तथा।।2.18.22।।",
+      "transliteration": "",
+      "translation": "In the past the king had honoured me with (two) boons. Now like any other common man he is repenting (for the same).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "अतिसृज्य ददानीति वरं मम विशांपतिः।\nस निरर्थं गतजले सेतुं बन्धितुमिच्छति।।2.18.23।।",
+      "transliteration": "",
+      "translation": "The king bestowed on me boons saying, 'I shall grant you two boons'. But now he wishes in vain to build a dam when the water has run down.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "धर्ममूलमिदं राम विदितं च सतामपि।\nतत्सत्यं न त्यजेद्राजा कुपितस्त्वत्कृते यथा।।2.18.24।।",
+      "transliteration": "",
+      "translation": "O Rama, this (truth) is the basis of righteousness. The virtuous also know this. The king being angry (with me), should not abandon the truth for your sake.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "यदि तद्वक्ष्यते राजा शुभं वा यदि वाऽशुभम्।\nकरिष्यसि ततस्सर्वमाख्यास्यामि पुनस्त्वहम्।।2.18.25।।",
+      "transliteration": "",
+      "translation": "If you fulfil whatever the king says, pleasant or unpleasant, I shall relate to you everything.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "यदि त्वभिहितं राज्ञा त्वयि तन्न विपत्स्यते।\nततोऽहमभिधास्यामि न ह्येष त्वयि वक्ष्यति।।2.18.26।।",
+      "transliteration": "",
+      "translation": "If you do not transgress the word given by the king I shall tell you everything. The king on his own will not tell you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "एतत्तु वचनं श्रुत्वा कैकेय्या समुदाहृतम्।\nउवाच व्यथितो रामस्तां देवीं नृपसन्निधौ।।2.18.27।।",
+      "transliteration": "",
+      "translation": "Very much depressed on hearing the words of Kaikeyi, Rama thus said to her in the presence of the king:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "अहो धिङ्नार्हसे देवि वक्तुं मामीदृशं वचः।\nअहं हि वचनाद्राज्ञः पतेयमपि पावके।।2.18.28।।\nभक्षयेयं विषं तीक्ष्णं मज्जेयमपि चार्णवे।\nनियुक्तो गुरुणा पित्रा नृपेण च हितेन च।।2.18.29।।",
+      "transliteration": "",
+      "translation": "Alas, what a pity, O queen, it does not behove you to speak to me such words. I can jump into fire. Since he is my father, preceptor and wellwisher, I shall consume  deadly poison or even get drowned in the sea if he so commands.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "तद्ब्रूहि वचनं देवि राज्ञो यदभिकाङ्क्षितम्।\nकरिष्ये प्रतिजाने च रामो द्विर्नाभिभाषते।।2.18.30।।",
+      "transliteration": "",
+      "translation": "Hence tell me, O Devi Whatever be the desire of the king: I promise I shall carry out, Rama does not say two things (does not go back on his word).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "तमार्जवसमायुक्तमनार्या सत्यवादिनम्।\nउवाच रामं कैकेयी वचनं भृशदारुणम्।।2.18.31।।",
+      "transliteration": "",
+      "translation": "To Rama who was devoted to truth and to rectitude of conduct the ignobale Kaikeyi said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "पुरा दैवासुरे युद्धे पित्रा ते मम राघव।\nरक्षितेन वरौ दत्तौ सशल्येन महारणे।।2.18.32।।",
+      "transliteration": "",
+      "translation": "O descendant of Raghu in the great war between gods and demons in the past your father had granted me two boons for protecting him when he was wounded by a shaft.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "तत्र मे याचितो राजा भरतस्याभिषेचनम्।\nगमनं दण्डकारण्ये तव चाद्यैव राघव।।2.18.33।।",
+      "transliteration": "",
+      "translation": "O scion of the Raghus, hence I have asked the king for consecration of Bharata and your departure to Dandaka forest today itself.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "यदि सत्यप्रतिज्ञं त्वं पितरं कर्तुमिच्छसि।\nआत्मानं च नरश्रेष्ठ मम वाक्यमिदं शृणु।।2.18.34।।",
+      "transliteration": "",
+      "translation": "O the best of men if you want to be true to the word given by you and your father, listen to what I say.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "सन्निदेशे पितुस्तिष्ठ यथा तेन प्रतिश्रुतम्।\nत्वयाऽरण्यं प्रवेष्टव्यं नव वर्षाणि पञ्च च।।2.18.35।।",
+      "transliteration": "",
+      "translation": "Abide by your father's command. As promised by him go to the forest for fourteen years.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "भरतस्त्वभिषिच्येत यदेतदभिषेचनम्।\nत्वदर्थे विहितं राज्ञा तेन सर्वेण राघव।।2.18.36।।",
+      "transliteration": "",
+      "translation": "Bharata shall be consecrated, O descendant of the Raghu dynasty with all these preparations made by the king to install you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "सप्त सप्त च वर्षाणि दण्डकारण्यमाश्रितः।\nअभिषेकमिमं त्यक्त्वा जटाजिनधरो वस।।2.18.37।।",
+      "transliteration": "",
+      "translation": "Forsake this consecration, wear matted locks and deerskin and take refuge in Dandaka forest for fourteen years.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "भरतः कोसलपुरे प्रशास्तु वसुधामिमाम्।\nनानारत्न समाकीर्णां सवाजिरथकुञ्जराम्।।2.18.38।।",
+      "transliteration": "",
+      "translation": "Let Bharata live in Ayodhya, the capital of Kosala and rule this kingdom rich in gems of different kinds in horses, chariots and elephants.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "एतेन त्वां नरेन्द्रोऽयं कारुण्येन समाप्लुतः।\nशोकसंक्लिष्ट वदनो न शक्नोति निरीक्षितुम्।।2.18.39।।",
+      "transliteration": "",
+      "translation": "This is why the king with his face tortured by tears and (his heart) overwhelmed with compassion for you, is unable to look at you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "एतत्कुरु नरेन्द्रस्य वचनं रघुनन्दन।\nसत्येन महता राम तारयस्व नरेश्वरम्।।2.18.40।।",
+      "transliteration": "",
+      "translation": "O Joy of the Raghus, O son of the Raghu race, carry out the word of promise given by the king and save him by helping him keep the truth which is great.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-18-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "इतीव तस्यां परुषं वदन्त्यां \nन चैव रामः प्रविवेश शोकम्।\nप्रविव्यथे चापि महानुभावो \nराजा तु पुत्रव्यसनाभितप्तः।।2.18.41।।",
+      "transliteration": "",
+      "translation": "Even though she was speaking harsh words, Rama did not come to grief. But the magnanimous king was greatly afflicted to see the calamity on his son. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे अष्टादशस��सर्गः।। Thus ends the eighteenth sarga of Ayodhyakanda of the oly Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

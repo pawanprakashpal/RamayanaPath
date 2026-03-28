@@ -1,0 +1,378 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 39,
+    "title": "Lamentations of Dasaratha--Sumantra fetches the chariot at the command of the king treasury officer gives valuable ornaments and garments to Sita--Kausalya instructs Sita on the obligations of a wife towards her husband-- Rama seeks leave of his other mothers.",
+    "titleSanskrit": "",
+    "totalShlokas": 40
+  },
+  "shlokas": [
+    {
+      "id": "v2-39-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "रामस्य तु वचः शृत्वा मुनिवेशधरं च तम्।\nसमीक्ष्य सह भार्याभी राजा विगतचेतनः।।2.39.1।।\nनैनं दुःखेन सन्तप्तः प्रत्यवैक्षत राघवम्।\nन चैनमभिसम्प्रेक्ष्य प्रत्यभाषत दुर्मनाः।।2.39.2।।",
+      "transliteration": "",
+      "translation": "After hearing  Rama and beholding him in the robes of  an ascetic, Dasaratha and his wives fell unconscious. With his body and mind afflicted with grief, Dasaratha could not look Rama in the face nor could he make a reply.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "रामस्य तु वचः शृत्वा मुनिवेशधरं च तम्।\nसमीक्ष्य सह भार्याभी राजा विगतचेतनः।।2.39.1।।\nनैनं दुःखेन सन्तप्तः प्रत्यवैक्षत राघवम्।\nन चैनमभिसम्प्रेक्ष्य प्रत्यभाषत दुर्मनाः।।2.39.2।।",
+      "transliteration": "",
+      "translation": "After hearing  Rama and beholding him in the robes of  an ascetic, Dasaratha and his wives fell unconscious. With his body and mind afflicted with grief, Dasaratha could not look Rama in the face nor could he make a reply.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "स मुहूर्तमिवासंज्ञो दुःखितश्च महीपतिः।\nविललाप महाबाहू राममेवानुचिन्तयन्।।2.39.3।।",
+      "transliteration": "",
+      "translation": "The mightyarmed king lost consciousness for a moment and in grief lamented, brooding only over Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "मन्ये खलु मया पूर्वं विवत्सा बहवःकृताः।\nप्राणिनो हिंसिता वापि तस्मादिदमुपस्थितम्।।2.39.4।।",
+      "transliteration": "",
+      "translation": "'In the past I must have separated many from their children or harmed many living beings. That is why I think this calamity has befallen me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "न त्वेवानागते काले देहाच्च्यवति जीवितम्।\nकैकेय्या क्लिश्यमानस्य मृत्युर्मम न विद्यते।।2.39.5।।\nयोऽहं पावकसङ्काशं पश्यामि पुरतः स्थितम्।\nविहाय वसने सूक्ष्मे तापसाच्छादमात्मजम्।।2.39.6।।",
+      "transliteration": "",
+      "translation": "Unless the destined hour arrives, life does not leave the body. Therefore, even though I am tormented by Kaikeyi and even after seeing my son, standing before me, (bright) like fire, taking off his fine clothes and wearing the robes of an ascetic my end does not come.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "एकस्याः खलु कैकेय्याः कृतेऽयं क्लिश्यते जनः।\nस्वार्थे प्रयतमानायाः संश्रित्य निकृतिं त्विमाम्।।2.39.7।।",
+      "transliteration": "",
+      "translation": "Only because of Kaikeyi  who resorted to this deception in pursuit of selfish ends so many people are made to suffer.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "एवमुक्त्वा तु वचनं बाष्पेण पिहितेन्द्रियः।\nरामेति सकृदेवोक्त्वा व्याहर्तुं न शशाक ह।।2.39.8।।",
+      "transliteration": "",
+      "translation": "Having uttered these words and muttering, 'O Rama' only once, his vision blurred by tears, he could speak no more.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "संज्ञां तु प्रतिलभ्यैव मुहूर्तात्स महीपतिः।\nनेत्राभ्यामश्रुपूर्णाभ्यां सुमन्त्रमिदमब्रवीत्।।2.39.9।।",
+      "transliteration": "",
+      "translation": "Regaining his senses in a moment, the king, with eyes filled with tears, said to Sumantra:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "औपवाह्यं रथं युक्त्वा त्वमायाहि हयोत्तमैः।\nप्रापयैनं महाभागमितो जनपदात्परम्।।2.39.10।।",
+      "transliteration": "",
+      "translation": "Harness the finest horses to the chariot suitable for the journey, drive this magnanimous Rama to a place outside the city, and come back.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "एवं मन्ये गुणवतां गुणानां फलमुच्यते।\nपित्रा मात्रा च यत्साधुर्वीरो निर्वास्यते वनम्।।2.39.11।।",
+      "transliteration": "",
+      "translation": "That the pious and heroic son is banished by his parents to the forest is, I think, the reward to the virtuous for his virtues.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "राज्ञो वचनमाज्ञाय सुमन्त्रः शीघ्रविक्रमः।\nयोजयित्वाऽययौ तत्र रथमश्वैरलङ्कृतम्।।2.39.12।।",
+      "transliteration": "",
+      "translation": "In obedience to the words of the king, Sumantra promptly harnessed the horses to a welldecorated chariot and brought it there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "तं रथं राजपुत्राय सूत: कनकभूषितम्।\nआचचक्षेऽञ्जलिं कृत्वा युक्तं परमवाजिभिः।।2.39.13।।",
+      "transliteration": "",
+      "translation": "With folded palms Sumantra informed the prince that a chariot, decked in gold and  harnessed with excellent horses, is ready.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "राजा सत्वरमाहूय व्यापृतं वित्तसंञ्चये।\nउवाच देशकालज्ञो निश्चितं सर्वत श्शुचिम्।।2.39.14।।",
+      "transliteration": "",
+      "translation": "The king who was aware of the right place and time summoned hurriedly the treaury officer, who was firm and honest and said to him:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "वासांसि च महार्हाणि भूषणानि वराणि ���।\nवर्षाण्येतानि सङ्ख्याय वैदेह्याः क्षिप्रमानय।।2.39.15।।",
+      "transliteration": "",
+      "translation": "Assess the (needs for) number of years the princess of Videha (Sita) is going to be in the forest, and fetch her quickly highly valuable garments and excellent ornaments.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "नरेन्द्रेणैवमुक्तस्तु गत्वा कोशगृहं ततः।\nप्रायच्छत्सर्वमाहृत्य सीतायै सममेव तत्।।2.39.16।।",
+      "transliteration": "",
+      "translation": "Ordered thus by the king, the officer went to the treasury, collected all the things and presented them to Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "सा सुजाता सुजातानि वैदेही प्रस्थिता वनम्।\nभूषयामास गात्राणि तैर्विचित्रैर्विभूषणैः।।2.39.17।।",
+      "transliteration": "",
+      "translation": "That princess of noble birth from Videha adorned her beautiful limbs with the sparkling ornaments and got ready to depart for the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "व्यराजयत वैदेही वेश्म तत्सुविभूषिता।\nउद्यतोंऽशुमतः काले खं प्रभेव विवस्वतः।।2.39.18।।",
+      "transliteration": "",
+      "translation": "Welladorned Sita illumined the palace like the rising Sun lighting up the sky at dawn.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तां भुजाभ्यां परिष्वज्य श्वश्रूर्वचनमब्रवीत्।\nअनाचरन्ती कृपणं मूर्ध्न्युपाघ्राय मैथिलीम्।।2.39.19।।",
+      "transliteration": "",
+      "translation": "Kausalya, Sita's motherinlaw, took her in her arms, embraced her, kissed her on the forehead, and said to her who conducted herself without evoking any pity.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "असत्य स्सर्वलोकेऽस्मिन्सततं सत्कृताः प्रियैः।\nभर्तारं नानुमन्यन्ते विनिपातगतं स्त्रियः।।2.39.20।।",
+      "transliteration": "",
+      "translation": "Those women who, although always gratified, do not follow their husband when they fall into misfortune, are regarded as unfaithful.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "एष स्वभावो नारीणामनुभूय पुरा सुखम्।\nअल्पामप्यापदं प्राप्य दुष्यन्ति प्रजहत्यपि।।2.39.21।।",
+      "transliteration": "",
+      "translation": "Though they have enjoyed all pleasures (with their husbands) earlier, they censure them in the wake of the slightest trouble or even abandon them. This is the nature of women.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "असत्यशीला विकृता दुर्ग्राह्यहृदयास्सदा।\nयुवत्यः पापसंङ्कल्पाः क्षणमात्राद्विरागिणः।।2.39.22।।",
+      "transliteration": "",
+      "translation": "Evilminded young ladies are infidels. They are of perverted nature. They are inscrutable. In an instant they lose their love (for their husbands).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "न कुलं न कृतं विद्या न दत्तं नापि सङ्ग्रहः।\nस्त्रीणां गृह्णाति हृदयमनित्यहृदया हि ताः।।2.39.23।।",
+      "transliteration": "",
+      "translation": "Neither family traditions nor benefits received, nor education nor affection nor gifts nor even accumulated wealth attract women's hearts. Their minds are unstable indeed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "साध्वीनां हि स्थितानां तु शीले सत्ये श्रुते शमे।\nस्त्रीणां पवित्रं परमं पतिरेको विशिष्यते।।2.39.24।।",
+      "transliteration": "",
+      "translation": "But for those virtuous women whose minds are fixed in chastity, truth, scriptures and stability, the husband occupies a distinguished place and is considered supremely holy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "स त्वया नावमन्तव्यः पुत्रः प्रव्राजितो मम।\nतव दैवतमस्त्वेष निर्धनः सधनोऽपि वा।।2.39.25।।",
+      "transliteration": "",
+      "translation": "You must not underestimate my son in his exile. You must treat him as your god whether he is wealthy or not.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "विज्ञाय वचनं सीता तस्या धर्मार्थसंहितम्।\nकृताञ्जलिरुवाचेदं श्वश्रूमभिमुखे स्थिताम्।।2.39.26।।",
+      "transliteration": "",
+      "translation": "Sita who understood the import of these words which were in conformity with dharma and artha, repiled to her motherinlaw facing her with folded palms:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "करिष्ये सर्वमेवाहमार्या यदनुशास्ति माम्।\nअभिज्ञास्मि यथा भर्तुर्वर्तितव्यं श्रुतं च मे।।2.39.27।।",
+      "transliteration": "",
+      "translation": "I shall do exactly all that the venerable motherinlaw instructs me. I have heard it earlier and have fully understood as to how I should conduct myself towards my husband.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "न मामसज्जनेनार्या समानयितुमर्हति।\nधर्माद्विचलितुं नाहमलं चन्द्रादिव प्रभा।।2.39.28।।",
+      "transliteration": "",
+      "translation": "My worshipful motherinlaw should not equate me with wicked people (women). I cannot swerve from the path of virtue like radiance which never leaves the Moon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "नातन्त्री वाद्यते वीणा नाचक्रो वर्तते रथः।\nनापतिस्सुखमेधेत या स्यादपि शतात्मजा।।2.39.29।।",
+      "transliteration": "",
+      "translation": "A veena (lute) sans strings cannot be played. A chariot without wheels cannot move. Similarly, a woman without her husband finds no  happiness even though she has one hundred sons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "मितं ददाति हि पिता मितं माता मितं सुतः।\nअमितस्य हि दातारं भर्तारं का न पूजयेत्।।2.39.30।।",
+      "transliteration": "",
+      "translation": "While the happiness that the father, mother and son give is limited, a husband gives unlimited happiness. Which wife will not worship such a husband?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "साहमेवं गता श्रेष्ठा श्रुतधर्मपरावरा।\nआर्ये किमवमन्येऽहं स्त्रीणां भर्ता हि दैवतम्।।2.39.31।।",
+      "transliteration": "",
+      "translation": "Instructed about my obligations by an eminent lady (her mother?), imbued with these ideals, how can I, O exalted one, underestimate him (my husband)? For a woman the husband is a god indeed",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "सीताया वचनं श्रुत्वा कौशल्या हृदयङ्गमम्।\nशुद्धसत्त्वा मुमोचाश्रु सहसा दुःखहर्षजम्।।2.39.32।।",
+      "transliteration": "",
+      "translation": "Listening to the heartstirring words of Sita, Kausalya with her heart so pure burst instantaneously into tears of joy and grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "तां प्राञ्जलिरभिक्रम्य मातृमध्येऽतिसत्कृताम्। \nरामः परमधर्मात्मा मातरं वाक्यमब्रवीत्।।2.39.33।।",
+      "transliteration": "",
+      "translation": "Most virtuous Rama approached his mother, that highly revered lady among all his mothers, and with folded hands said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "अम्ब मा दुःखिता भूस्त्वं पश्य त्वं पितरं मम।।\nक्षयो हि वनवासस्य क्षिप्रमेव भविष्यति।।2.39.34।।",
+      "transliteration": "",
+      "translation": "O mother, do not grieve. Look after my father. My stay in the forest will soon come to an end.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "सुप्तायास्ते गमिष्यन्ति नव वर्षाणि पञ्च च।\nसा समग्रमिह प्राप्तं मां द्रक्ष्यसि सुहृद्वृतम्।।2.39.35।।",
+      "transliteration": "",
+      "translation": "Fourteen years will pass off like a night's sleep. You will see me come home safe  and sound, surrounded by my friends.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "एतावदभिनीतार्थमुक्त्वा स जननीं वचः।\nत्रयश्शतशतार्धाश्च ददर्शा वेक्ष्य मातरः।।2.39.36।।",
+      "transliteration": "",
+      "translation": "Speaking thus to his mother with highly polished words, he then turned his gaze at his other three hundred and fifty mothers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "ता श्चापि स तथैवार्ता मातृ़र्दशरथात्मजः।\nधर्मयुक्तमिदं वाक्यं निजगाद कृताञ्जलिः।।2.39.37।।",
+      "transliteration": "",
+      "translation": "To all the mothers who stood deeply distressed with grief the son of Dasaratha spoke with folded hands these words suffused with virtue:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "संवासात्परुषं किञ्चिदज्ञानाद्वापि यत्कृतम्।\nतन्मे समनुजानीत सर्वाश्चामन्त्रयामि वः।।2.39.38।।",
+      "transliteration": "",
+      "translation": "If I have been harsh towards you, on account of our living together or through ignorance may you forgive me. I (now) seek leave of you all.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "वचनं राघवस्यैतध्दर्मयुक्तं समाहितम्।\nशुश्रुवुस्ताः स्त्रियंस्सर्वा श्शोकोपहतचेतसः।।2.39.39।।",
+      "transliteration": "",
+      "translation": "All the women with their senses afflicted by grief heard the virtuous and wellbalanced words of the scion of the Raghu race:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "जज्ञेऽथ तासां सन्नादः क्रौञ्चीनामिव निस्वनः।\nमानवेन्द्रस्य भार्याणामेवं वदति राघवे।।2.39.40।।",
+      "transliteration": "",
+      "translation": "While Rama said so, there arose a loud cry of the wives of the king like the cry of the female herons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-39-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "मुरजपणवमेघघोषवत्\nदशरथवेश्म बभूव यत्पुरा।\nविलपितपरिदेवनाकुलं\nव्यसनगतं तदभूत्सुदुःखितम्।।2.39.41।।",
+      "transliteration": "",
+      "translation": "Dasaratha's palace which reverberated, like the rumblings of the cloud, with the sounds of drums and other musical instruments earlier, now immensely griefsticken and trapped in calamity, is filled with wailings and lamentations.  इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे एकोनचत्वारिंशस्सर्गः।। Thus ends the thirtyninth sarga of Ayodhyakanda of  the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

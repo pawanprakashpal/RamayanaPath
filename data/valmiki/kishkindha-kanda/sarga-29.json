@@ -1,0 +1,252 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 29,
+    "title": "Hanuman awakens Sugriva from slumber -- advises to initiate the search Vaidehi.",
+    "titleSanskrit": "",
+    "totalShlokas": 26
+  },
+  "shlokas": [
+    {
+      "id": "v4-29-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "समीक्ष्य विमलं व्योम गतविद्युद्वलाहकम्।\nसारसाकुलसङ्घुष्टं रम्यज्योत्स्नानुलेपनम्4.29.1।।\nसमृद्धार्थं च सुग्रीवं मन्दधर्मार्थसङ्ग्रहम्।\nअत्यर्थमसतां मार्गमेकान्तगतमानसम्4.29.2।।\nनिर्वृत्तकार्यं सिद्धार्थं प्रमदाभिरतं सदा।\nप्राप्तवन्तमभिप्रेतान्सर्वानेव मनोरथान्4.29.3।।\nस्वां च पत्नीमभिप्रेतां तारां चापि समीप्सिताम्।\nविहरन्तमहोरात्रं कृतार्थं विगतज्वरम्4.29.4।।\nक्रीडन्तमिव देवेशं नन्दनेऽप्सरसां गणैः।\nमन्त्रिषु न्यस्तकार्यं च मन्त्रिणामनवेक्षकम्4.29.5।।\nउत्सन्नराज्यसन्देशं कामवृत्तमवस्थितम्।\nनिश्चितार्थोऽर्थतत्त्वज्ञः कालधर्मविशेषवित्4.29.6।।\nप्रसाद्य वाक्यैर्मधुरैर्हेतुमद्भिर्मनोरमैः।\nवाक्यविद्वाक्य तत्त्वज्ञं हरीशं मारुतात्मजः4.29.7।।\nहितं तत्त्वं च पथ्यं च सामधर्मार्थनीतिमत्।\nप्रणयप्रीतिसंयुक्तं विश्वासकृतनिश्चयम्।\nहरीश्वरमुपागम्य हन���मान्वाक्यमब्रवीत्4.29.8।।",
+      "transliteration": "",
+      "translation": "Hanuman, son of the Windgod, saw the clear sky flooded with lovely moonlight, free from clouds and lightning and cackling of herons. He noticed that because Sugriva had attained abundant wealth and merit, he was not taking care of the kingdom. He was engrossed in sensual pleasures. Having accomplished the desired object, he was engaged in enjoyment of the company of women, his own wives and Tara, whom he coveted. He was strolling (in the pleasant garden) night and day without caring for the kingdom, entrusting it to the ministers whose movements he did not watch. He was sporting with women like Indra sports with apsaras in the Nandana garden.Hanuman, who was conscious of his duties and responsibilities, who was aware of the importance of action in time and who was skilful in speech approached Sugriva, king of the monkeys. Having decided to take him into confidence, Hanuman spoke in a convincing, wellmeaning, sweet, pleasing manner words truthful and helpful, conciliatory and just, full of love and affection:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-29-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "राज्यं प्राप्तं यशश्चैव कौली श्रीरभिवर्धिता।\nमित्राणां सङ्ग्रहश्शेषस्तं भवान्कर्तुमर्हति4.29.9।।",
+      "transliteration": "",
+      "translation": "'You have attained the kingdom. You have earned fame. The prosperity of your family has gone up. All that remains is to earn the goodwill of friends. Attend to that  now.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-29-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "यो हि मित्रेषु कालज्ञस्सततं साधु वर्तते4.29.10।।\nतस्य राज्यं च कीर्तिश्च प्रतापश्चाभि वर्धते।",
+      "transliteration": "",
+      "translation": "'The kingdom, glory and fame of a king who knows the value of time and conducts himself well towards his allies always grows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-29-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "यस्य कोशश्च दण्डश्च मित्राण्यात्मा च भूमिप4.29.11।।\nसमवेतानि सर्वाणि स राज्यं महदश्नुते।",
+      "transliteration": "",
+      "translation": "'He to whom the treasury, sceptre, allies and his own self all these are equally dear,  enjoys a large kingdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-29-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तद्भवान्वृत्तसम्पन्नः स्थितः पथि निरत्यये4.29.12।।\nमित्रार्थमभिनीतार्थं यथावत्कर्तुमर्हति।",
+      "transliteration": "",
+      "translation": "'Endowed with right conduct, you ought to duly answer the cause of your ally conforming to proper course of action.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-29-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "सन्त्यज्य सर्वकर्माणि मित्रार्थे योऽनुवर्तते4.29.13।।\nसम्भ्रमाद्धि कृतोत्साहस्सोऽनर्थैर्नावरुध्यते।",
+      "transliteration": "",
+      "translation": "'Whoever sets aside his personal interest and works for the welfare of his ally with due enthusiasm and excitement  will not be harmed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-29-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "यस्तु कालव्यतीतेषु मित्रकार्येषु वर्तते4.29.14।।\nस कृत्वा महतोऽप्यर्थान्न मित्रार्थेन युज्यते।",
+      "transliteration": "",
+      "translation": "'He who exceeds the time limit in accomplishing a friend's task, and puts forth great effort later succeeds not.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-29-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "यदिदं मित्रकार्यं वीर नोमित्रकार्यमरिन्दम 4.29.15।।\nक्रियतां राघवस्यैतद्वैदेह्याः परिमार्गणम्।\nतदिदं वीर कार्यं ते कालातीतमरिन्दम 4.29.16।।",
+      "transliteration": "",
+      "translation": "'O subduer of enemies we should do the brave deed of finding Vaidehi for the sake of your friend. O crusher of enemies this is your duty at present and it is already delayed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-29-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "न च कालमतीतं ते निवेदयति कालवित्।\nत्वरमाणोऽपि सन्प्राज्ञस्तव राजन्वशानुगः4.29.17।।",
+      "transliteration": "",
+      "translation": "'O king a wise man (like Rama) who is aware of timely action would not tell you even if it is unduly delayed, even when he is in a hurry to get the work done, since he is staying in your kingdom (since he is dependant on you).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-29-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "कुलस्य हेतुः स्फीतस्य दीर्घबन्धुश्च राघवः।\nअप्रमेयप्रभावश्च स्वयं चाप्रतिमो गुणैः4.29.18।।",
+      "transliteration": "",
+      "translation": "'Rama is  responsible in lending stability to you and to your wellknown family. He will continue to be your ally for a long time. Let it be known that his power is boundless and his virtues peerless.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-29-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तस्य त्वं कुरु वै कार्यं पूर्वं तेन कृतं तव।\nहरीश्वर कपिश्रेष्ठानाज्ञापयितुमर्हसि4.29.19।।",
+      "transliteration": "",
+      "translation": "'O king pray accomplish his object the same way he has accomplished your own. You ought to issue orders to the foremost of the monkeys.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-29-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "न हि तावद्भवेत्कालो व्यतीतश्चोदनादृते।\nचोदितस्य हि कार्यस्य भवेत्कालव्यतिक्रमः4.29.20।।",
+      "transliteration": "",
+      "translation": "'Time will not be deemed lapsed in vain if the work is sincerely taken up without delay and without pressure from your ally, Rama. If it is undertaken under pressure, it will be considered transgression of time.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-29-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "अकर्तुरपि कार्यस्य भवान्कर्ता हरीश्वर\nकिं पुनः प्रतिकर्तुस्ते राज्येन च धनेन च4.29.21।।",
+      "transliteration": "",
+      "translation": "'O lord of monkeys help even a person who has not helped you. As such, do you need to be told that you should help one, with whose help you have earned wealth and kingdom?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-29-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "शक्तिमानपिविक्रान्तो वानरर्क्षगणेश्वर।\nकर्तुं दाशरथेः प्रीतिमाज्ञायां किन्न सज्जसे4.29.22।।",
+      "transliteration": "",
+      "translation": "'O protector of the monkeys, you are powerful and you are prompt. Why don't you issue orders which will please Rama?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-29-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "कामं खलु शरैश्शक्तस्सुरासुरमहोरगान्।\nवशे दाशरथिः कर्तुं त्वत्प्रतिज्ञां हि काङ्क्षते4.29.23।।",
+      "transliteration": "",
+      "translation": "'Indeed, Rama is fully capable of subduing gods, demons as well as nagas with his arrows. He is looking for your help in view of your promise.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-29-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "प्राणत्यागाविशङ्केन कृतं तेन तवप्रियम्।\nतस्य मार्गाम वैदेहीं पृथिव्यामपि चाम्बरे4.29.24।।",
+      "transliteration": "",
+      "translation": "'He has done you a deed dear to you without hesitation, risking his own life.Let us help him in search of his Vaidehi whether she is on earth or in heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-29-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "देवदानव गन्धर्वा नसुरास्समरुद्गणाः।\nन च यक्षा भयं तस्य कुर्युः किमुत राक्षसाः4.29.25।।",
+      "transliteration": "",
+      "translation": "'Not gods, demons, gandharvas or even marutas, suras or yakshas can cause fright in him much less the rakshasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-29-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तदेवं शक्तियुक्तस्य पूर्वं प्रियकृतस्तव।\nरामस्यार्हसि पिङ्गेश कर्तुं सर्वात्मना प्रियम्4.29.26।।",
+      "transliteration": "",
+      "translation": "'Therefore, O king of monkeys you ought to oblige Rama wholeheartedly exerting all your strength, as he has done your work.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-29-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "नाधस्तादवनौ नाप्सु गतिर्नोपरि चाम्बरे।\nकस्यचित्सज्जतेऽस्माकं कपीश्वर तवाज्ञया4.29.27।।",
+      "transliteration": "",
+      "translation": "'O lord of monkeys commanded by you, each one of us or all of us together can ransack the underworld, the earth, or water or heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-29-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तदाज्ञापय कः किं ते कुतो वापि व्यवस्यतु।\nहरयोऽह्यप्रधृष्यास्ते सन्ति कोट्यग्रतोऽनघ4.29.28।।",
+      "transliteration": "",
+      "translation": "O sinless hero therefore issue your command. There are more than a crore of invincible monkeys. Determine  now who should  do and what and in which place. We are at your service'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-29-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तस्य तद्वचनं श्रुत्वा काले साधु निवेदनम्।\nसुग्रीवस्सत्त्वसम्पन्नश्चकार मतिमुत्तमाम्4.29.29।।",
+      "transliteration": "",
+      "translation": "Sugriva who had a great sense of duty, started applying  his mind, when he heard the honest advice of Hanuman.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-29-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "स सन्दिदेशाभिमतं नीलं नित्यकृतोद्यमम्।\nदिक्षु सर्वासु सर्वेषां सैन्यानामुपसङ्ग्रहे4.29.30।।",
+      "transliteration": "",
+      "translation": "He sent word to the ever diligent Nila, his favourite, to collect all cadres of army of the monkeys from all directions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-29-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "यथा सेना समग्रा मे यूथपालाश्च सर्वशः।\nसमागच्छन्त्यसङ्गेन सेनाग्राणि तथा कुरु4.29.31।।",
+      "transliteration": "",
+      "translation": "'Let the entire army with leaders of different groups assemble here seperately. O chief of army act accordingly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-29-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "ये त्वन्तपालाः प्लवगाश्शीघ्रगा व्यवसायिनः।\nसमानयन्तु ते सैन्यं त्वरिताश्शासनान्मम4.29.32।।\nस्वयं चानन्तरं सैन्यं भवानेवानुपश्यतु।",
+      "transliteration": "",
+      "translation": "'Let the swiftfooted monkeys, guardians of frontiers, army chiefs muster soon in obedience to my command. You (Nila) alone should personally  supervise the work to be done next.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-29-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "त्रिपञ्चरात्रादूर्ध्वं यः प्राप्नुयान्नेह वानरः।\nतस्य प्राणान्तिको दण्डो नात्र कार्या विचारणा4.29.33।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-29-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "हरींश्च वृद्धानुपयातु साङ्गदो\nभवान्ममाज्ञामधिकृत्य निश्चिताम्।\nइति व्यवस्थां हरिपुङ्गवेश्वरो\nविधाय वेश्म प्रविवेश वीर्यवान्4.29.34।।",
+      "transliteration": "",
+      "translation": "'In strict obedience to my orders, go with Angada to the elderly monkeys and inform them about my decision and order'. After making this arrangement valiant Sugriva entered his residence. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे एकोनत्रिंशस्सर्गः।। Thus ends the twentyninth sarga of Kishkindakanda of the Holy Ramayana, the first epic, composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

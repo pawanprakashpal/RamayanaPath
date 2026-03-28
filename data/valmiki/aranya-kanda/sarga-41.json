@@ -1,0 +1,198 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 41,
+    "title": "Maricha's admonitions and warnings to Ravana",
+    "titleSanskrit": "",
+    "totalShlokas": 20
+  },
+  "shlokas": [
+    {
+      "id": "v3-41-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "आज्ञप्तो राजवद्वाक्यं प्रतिकूलं निशाचरः।\nअब्रवीत्परुषं वाक्यं मारीचो राक्षसाधिपम्।।3.41.1।।",
+      "transliteration": "",
+      "translation": "At this royal command which was against his interest Maracha used harsh words to the demonking:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-41-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "केनायमुपदिष्टस्ते विनाशः पापकर्मणा।\nसपुत्रस्य सराष्ट्रस्य सामात्यस्य निशाचर।।3.41.2।।",
+      "transliteration": "",
+      "translation": "Who is that sinner who has given you this advice which will spell destruction on you, your sons, your kingdom and your ministers ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-41-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "कस्त्वया सुखिना राजन्नाभिनन्दति पापकृत्।\nकेनेदमुपदिष्टं ते मृत्युद्वारमुपायतः।।3.41.3।।",
+      "transliteration": "",
+      "translation": "Which sinner is not able to see you happy? O king by whom is this gate of death  shown to you cunningly?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-41-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "शत्रवस्तव सुव्यक्तं हीनवीर्या निशाचराः।\nइच्छन्ति त्वां विनश्यन्तमुपरुद्धं बलीयसा।।3.41.4।।",
+      "transliteration": "",
+      "translation": "This is clear that your enemy demons are now powerless. Hence they want you to be engaged with a stronger power and be destroyed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-41-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "केनेदमुपदिष्टं ते क्षुद्रेणाहितवादिना।\nयस्त्वामिच्छति नश्यन्तं स्वकृतेन निशाचर।।3.41.5।।",
+      "transliteration": "",
+      "translation": "O Ravana by which mean fellow is this advice given against your welfare? Who wants you to be destroyed by your own action.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-41-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "वध्याः खलु न हन्यन्ते सचिवास्तव रावण।\nये त्वामुत्पथमारूढं न निगृह्णन्ति सर्वशः।।3.41.6।।",
+      "transliteration": "",
+      "translation": "O Ravana the ministers should have prevented you by all means from adopting this  wrong path. Since they have not done so, they deserve to be spain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-41-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "अमात्यैः कामवृत्तो हि राजा कापथमाश्रितः।\nनिग्राह्यस्सर्वथा सदभिर्न निग्राह्यो निगृह्यसे।।3.41.7।।",
+      "transliteration": "",
+      "translation": "Good ministrers should always prevent a lustful king from taking resourse to an evil path. Why were you not stopped, even though you deserve to be checked.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-41-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "धर्ममर्थं च कामं च यशश्च जयतां वर।\nस्वामिप्रसादात्सचिवाः प्राप्नुवन्ति निशाचर।।3.41.8।।",
+      "transliteration": "",
+      "translation": "O Ravana  the best among the successful ministers attain piety, prosperity, pleasures and fame by the grace of the king.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-41-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "विपर्यये तु तत्सर्वं व्यर्थं भवति रावण।\nव्यसनं स्वामिवैगुण्यात्प्राप्नुवन्तीतरे जनाः।।3.41.9।।",
+      "transliteration": "",
+      "translation": "Otherwise evrything will become useless, O Ravana  Others will suffer calamities on account of their master's vices.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-41-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "राजमूलो हि धर्मश्च जयश्च जयतां वर।\nतस्मात्सर्वा���्ववस्थासु रक्षितव्या नराधिपाः।।3.41.10।।",
+      "transliteration": "",
+      "translation": "O Ravana, the best among the victorious indeed the king is at the root of righteousness and victory.Therefore, the king should be protected by all at every stage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-41-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "राज्यं पालयितुं शक्यं न तीक्ष्णेन निशाचर।\nन चापि प्रतिकूलेन नाविनीतेन राक्षस।।3.41.11।।",
+      "transliteration": "",
+      "translation": "O nightwalking demon  a kingdom cannnot be governed by a king who is rude or hostile or impolite.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-41-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "ये तीक्ष्णमन्त्रास्सचिवा भज्यन्ते सह तेन वै।\nविषमे तुरगा श्शीघ्रा मन्दसारथयो यथा।।3.41.12।।",
+      "transliteration": "",
+      "translation": "Ministers who adopt improper strategies go down along with the king just like swift horses driven by a slow charioteer on a rugged terrain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-41-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "बहवस्साधवो लोके युक्ता धर्ममनुष्ठिताः।\nपरेषामपराधेन विनष्टास्सपरिच्छदाः।।3.41.13।।",
+      "transliteration": "",
+      "translation": "Persons who walk the righteous path go down in this world along with their kith and kin due to the mistakes committed by others .",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-41-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "स्वामिना प्रतिकूलेन प्रजास्तीक्ष्णेन रावण।\nरक्ष्यमाणा न वर्धन्ते मेषा गोमायुना यथा।।3.41.14।।",
+      "transliteration": "",
+      "translation": "O Ravana, people who are ruled by a cruel and hostile king will not grow like the sheep protected by a jackal.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-41-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "अवश्यं विनशिष्यन्ति सर्वे रावण राक्षसाः।\nयेषां त्वं कर्कशो राजा दुर्बुद्धिरजितेन्द्रियः।।3.41.15।।",
+      "transliteration": "",
+      "translation": "Under a rude, crooked king whose senses are not under his control the demons will surely perish.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-41-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तदिदं काकतालीयं घोरमासादितं मया।\nअत्र किं शोचनीयस्त्वं ससैन्यो विनशिष्यसि।।3.41.16।।",
+      "transliteration": "",
+      "translation": "I am faced with  this dreadful disaster accidentally. You will not only be in a miserable state because of your misdeeds, you will perish along with your army.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-41-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "मां निहत्य तु रामश्च न चिरात्त्वां वधिष्यति।\nअनेन कृतकृत्योऽस्मि म्रियेयमरिणा हतः।।3.41.17।।",
+      "transliteration": "",
+      "translation": "Rama will kill you not long after killing me.Hence even if I die in the hands of the enemy, my desire will be fulfilled.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-41-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "दर्शनादेव रामस्य हतं मामवधारय।\nआत्मानं च हतं विद्धि हृत्वा सीतां सबान्धवम्।।3.41.18।।",
+      "transliteration": "",
+      "translation": "Yu most understand that if I die at the very sight of Rama, you along with your relatives will perish with the abduction of Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-41-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "आनयिष्यसि चेत्सीतामाश्रमात्सहितो मया।\nनैवत्वमसि नाहं च नैव लङ्का न राक्षसाः।।3.41.19।।",
+      "transliteration": "",
+      "translation": "If you bring Sita from the hermitage with my assistance, know that none of us will surviveyou nor I, nor Lanka , nor the demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-41-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "निवार्यमाणस्तु मया हितैषिणा न मृष्यसे वाक्यमिदं निशाचर।\nपरेतकल्पा हि गतायुषो नरा हितं न गृह्णन्ति सुहृद्भिरीरितम्।।3.41.20।।",
+      "transliteration": "",
+      "translation": "O Ravana, you do not understand this word of warning coming from your wellwisher. Men who are going to die do not heed the advice given by their friends. इत्यार्ष�� श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे एकचत्वारिंशस्सर्गः।। Thus ends the fortyfirst sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

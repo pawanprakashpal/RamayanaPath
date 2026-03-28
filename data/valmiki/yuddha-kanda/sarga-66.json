@@ -1,0 +1,315 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 66,
+    "title": "Angada restores courage and confidence of Vanaras who feared Kumbhakarna and were fleeing from the battlefield. Destruction of some Vanaras at the hand s of Kumbhakarna.",
+    "titleSanskrit": "",
+    "totalShlokas": 33
+  },
+  "shlokas": [
+    {
+      "id": "v6-66-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "स लङ्घयित्वाप्राकारंगिर��कूटोपमोमहान् ।\nनिर्ययौनगरात्तूर्णंकुम्भकर्णोमहाबलः ।।6.66.1।।",
+      "transliteration": "",
+      "translation": "Mighty Kumbhakarna, a gigantic one, resembling a mountain peak, having swiftly crossed over the boundary of the city roared.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "ननाद च महानादंसमुद्रमभिनादयन् ।\nविजयन्निवनिर्घातन्विधमन्निवपर्वतान् ।।6.66.2।।",
+      "transliteration": "",
+      "translation": "Kumbhakarna roared making loud noises as if proclaiming victory, like the breaking of mountains and reverberating of ocean.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "तमवध्यंमघवतायमेनवरुणेनवा ।\nप्रेक्ष्यभीमाक्षमायान्तंवानराविप्रदुद्रुवुः ।।6.66.3।।",
+      "transliteration": "",
+      "translation": "Observing that rakshasa with frightening eyes, who could not be killed by Indra or Yama or even by Varuna coming towards them the vanaras ran in fear.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तांस्तुविप्रद्रुतान् दृष्टवाराजपुत्रोऽङ्गदोऽब्रवीत् ।\nनलंनीलंगवाक्षं च कुमुदं च महाबलम् ।।6.66.4।।",
+      "transliteration": "",
+      "translation": "Seeing the Vanaras running in fear, Angada spoke to Nala, Nila, Gavaksha, Mahabala and Kumuda.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "आत्मानमत्रविस्मृत्यवीर्याण्यभिजनानि च ।\nक्वगच्छतभयत्रस्ताःप्राकृताहरयोयथा ।।6.66.5।।",
+      "transliteration": "",
+      "translation": "\"Forgetting yourself, that you are warriors, not knowing by nature, being Vanaras where are you going?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "साधुसौम्या निवर्तध्वंकिप्राणान्परिरक्षथ ।\nनालंयुद्धायवैरक्षोमहतीयंबिभीषका ।।6.66.6।।",
+      "transliteration": "",
+      "translation": "\"O good Vanaras! You are modest. Return. Why are you protecting your life? This Rakshasa is not capable of facing war. He can create only fear.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "महतीमुथतितामेनांराक्षसानांबिभीषिकाम् ।\nविक्रमाद्विधमिष्यामोनिवर्तध्वंप्लवङ्गमाः ।।6.66.7।।",
+      "transliteration": "",
+      "translation": "\"O Vanaras! We will dispel this huge rakshasa, a nightmare with our power. Come back.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "कृच्छ्रेणतुसमाश्वस्यसङ्गम्य च ततस्ततः ।\nवृक्षाद्रिहस्ताहरयस्सम्प्रतस्थूरणाजिरम् ।।6.66.8।।",
+      "transliteration": "",
+      "translation": "Overcoming fear, the Vanaras getting together from here and there holding trees by hand, proceeded to the battlefield.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तेनिवृत्यतुसङ्कृद्धाःकुम्भकर्णंवनौकसः ।\nनिर्जघ्नुःपरमक्रुद्धास्समदाइवकुञ्जराः ।।6.66.9।।",
+      "transliteration": "",
+      "translation": "Those forest rangers who were extremely enraged turned back to hit, determined like the elephants in rut went to vanquish Kumbhakarna.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "प्रांशुभिर्गिरिशृङ्गैश्चशिलाभिश्चमहाबलः ।\nपादपैःपुष्पिताग्रैश्चहन्यमानो न कम्पते ।।6.66.10।।",
+      "transliteration": "",
+      "translation": "Though Kumbhakarna was hit with lofty mountain peaks and trees with blossoms at crests, he was not shaken.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तस्यगात्रेषुपतिताभिद्यन्तेशतशश्शिलाः ।\nपादपाःपुष्पिताग्राश्चभग्नाःपेतुर्महीतले ।।6.66.11।।",
+      "transliteration": "",
+      "translation": "Fallen on his limbs many rocks got broken, even the treetops with blossoms were broken and fell on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "सोऽपिसैन्यानिसङ्क्रुद्धोवानराणांमहौजसाम् ।\nममन्थपरमायत्तोवनान्यग्निरिवोत्थितः ।।6.66.12।।",
+      "transliteration": "",
+      "translation": "Enraged Kumbhakarna began to destroy Vanaras endowed with extraordinary vigour, just as great forest fire burns the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "लोहितार्द्रास्तुबहवश्शेरतेवानरर्षभाः ।\nनिरस्तांपतिताभूमौताम्रपुष्पाइवद्रुमाः ।।6.66.13।।",
+      "transliteration": "",
+      "translation": "Many bulls among the Vanaras lay on the ground like trees with red flowers on top tossed and fallen on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "लङ्घयन्तःप्रधावन्तोवानरानावलोकयन् ।\nकेचित्समुद्रेपतिताःकेचिद्गगनमास्थिताः ।।6.66.14।।",
+      "transliteration": "",
+      "translation": "The Vanaras leapt without looking back. Indeed, some dropped into the ocean, and some flew into space.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "वध्यमानास्तुतेवीराराक्षसेन च लीलया ।\nसागरंयेनतेतीर्णाःपथातेनदुद्रुवुः ।।6.66.15।।",
+      "transliteration": "",
+      "translation": "Struck by Rakshasa, the Vanaras ran in the same path crossing the ocean (by which they came).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तेस्थलानितदानिम्नंविवर्णमानाभयात् ।\nऋक्षावृक्षान् समारूढ��ःकेचित्पर्वतमाश्रिताः ।।6.66.16।।",
+      "transliteration": "",
+      "translation": "Out of fear the vanaras rushed to plains with pale countenance, some climbed up mountains and bears climbed up trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "ममज्जुरर्णवेकेचिद्गुहाःकेचित्समाश्रिताः ।\nनिपेतुःकेचिदपरेकेचिन्नैवावतस्थिरे ।।6.66.17।।\nकेचिद्भूमौनिपतिताःकेचित्सुप्तामृताइव ।",
+      "transliteration": "",
+      "translation": "Some drowned in the ocean, some entered into the caves, some others not knowing what to do sat down and others fell on the ground and some slept as if dead.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तान्समीक्ष्याङ्गदोभग्नान्वानरानिदमब्रवीत् ।।6.66.18।।\nअवतिष्ठतयुध्यामोनिवर्तध्वंप्लवङ्गमाः ।",
+      "transliteration": "",
+      "translation": "Seeing the monkeys routed, Angada spoke, 'Stay, return back. We will fight'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "भग्नानांवो न पश्यामिपरिगम्यमहीमिमाम् ।।6.66.19।।\nस्थानंसर्वेनिवर्तध्वंकिंप्राणान् परिरक्षथ ।",
+      "transliteration": "",
+      "translation": "\"I do not see any refuge for you even if you go round the globe. All of you return back. Why do you preserve life?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "निरायुधानांद्रवतामसङ्गगतिपौरुषाः ।।6.66.20।।\nदाराह्युपहसिष्यन्ति स वैघातस्तुजीवताम् ।",
+      "transliteration": "",
+      "translation": "\"Monkeys! Your valour can't be challenged. If you run away for life abandoning weapons even your wives will ridicule you. That is more than death.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "कुलेषुजातास्सर्वेस्मविस्तीर्णेषुमहत्सु च ।।6.66.21।।\nक्वगच्छतभयत्रस्ताःहरयःप्राकृतायथा ।\nअनार्याःखलुयद्भीतास्त्यक्त्वावीर्यंप्रधावत ।।6.66.22।।",
+      "transliteration": "",
+      "translation": "\"You are born in noble families, and are widely spread. As such why are you running away like ordinary monkeys as if terrified giving up your valour. It is not worthy of you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "विकत्थनानिवोयानि तदावैजनसंसदि ।\nतानिवःक्वनुयातानिसोदग्राणिम हितानि च ।।6.66.23।।",
+      "transliteration": "",
+      "translation": "\"Earlier in the assembly of people you made vigorous statements and acclaimed yourselves highly with selfpraise. Where has it gone?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "भीरुप्रवादाश्श्रूयन्तेयस्तुजीवतिधिक्कृतः ।\nमार्गस्सत्पुरुषैर्जष्टःसेव्यतांत्यज्यतांभयम् ।।6.66.24।।",
+      "transliteration": "",
+      "translation": "\"He who is defeated lives, but people will say he is timid. Resorting to the path of good people and serving them gives up fear.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "शयामहेऽनिहताःपृथिव्यामल्पजीविताः ।\nदुष्प्रापंब्रह्मलोकंवाप्राप्नुयामोयुधिसूदिता ।।6.66.25।।",
+      "transliteration": "",
+      "translation": "\"If we are killed in war, fallen dead on the ground and our life span is reduced, we will attain the realm of Brahma which is difficult to attain.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "सम्प्राप्नुयामःकीर्तिंवानिहत्वाशत्रुमाहवे ।\nजीवितंवीरलोकस्यमोक्ष्यामोवसुवानराः ।।6.66.26।।",
+      "transliteration": "",
+      "translation": "\"By killing the enemy, we will attain fame. Or else we will attain the world of Brahma, liberated.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "न कुम्भकर्णःकाकुत्स्थंदृष्टवाजीवन् गमिष्यति ।\nदीप्यमानमिवासाद्यपतङ्गोज्वलनंयथा ।।6.66.27।।",
+      "transliteration": "",
+      "translation": "\"Just as flies reaching the blazing fire can't escape, so also Kumbhakarna can't escape with life after facing Kakuthsa.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "लायनेनचोद्धिष्टाःप्राणान् रक्षामहेवयम् ।\nएकेनबहवोभग्नायशोनाशंगमिष्यति ।।6.66.28।।",
+      "transliteration": "",
+      "translation": "\"Even though we are distinguished, if we preserve our life by running away for life, destroyed by one, our glory will come to an end.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "एवंब्रुवाणंतंशूरमङ्गदंकनकाङ्गदम् ।\nद्रवमाणास्ततोवाक्यमूचुःशूरुविगर्हितम् ।।6.66.29।।",
+      "transliteration": "",
+      "translation": "While the heroic Angada, adorned with gold armlets, was speaking in that manner to the fleeing vanara heroes, condemned by the hero the vanaras replied as follows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "कृतंनःकदनंघोरंकुम्भकर्णेनरक्षसा ।\nन स्थानकालोगच्छामोदयितंजीवितंहिनः ।।6.66.30।।",
+      "transliteration": "",
+      "translation": "\"Kumbhakarna, the Rakshasa has done havoc to us. This is not the moment to stay. Our life is dear to us.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "एतावदुक्त्वावचनंसर्वेतेभेजिरेदिशः ।\nभीमंभीमाक्षमायान्तंदृष्टवावानरयूथपाः ।।6.66.31।।",
+      "transliteration": "",
+      "translation": "All the Vanara troops having replied that way, seeing Kumbhakarna of frightful eyes coming towards them, scattered in all directions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "द्रवमाणस्तुतेवीराअङ्गदेनवलीमुखाः ।\nसान्त्वैश्चैहनुमानैश्चततस्सर्वेनिवर्तिताः ।।6.66.32।।",
+      "transliteration": "",
+      "translation": "Though the heroic monkeys were running away, Angada by his good words and examples turned them to return from wherever they were.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "प्रहर्षमुपनीताश्चवालिपुत्रेणधीमता ।\nआज्ञाप्रतीक्षास्तस्थुश्चसर्वेवानरयूथपाः ।।6.66.33।।",
+      "transliteration": "",
+      "translation": "All the Vanara troops having heard Angada, son of Vali happily restored awaiting his command.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-66-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "ऋषभशरभमैन्दधूम्रनीलाःकुमुदसुषेणगवाक्षरम्भताराः ।\nद्विविदपनसवायुपुत्रमुख्यास्त्वरिततराभिमुखंरणं ।।6.66.34।।",
+      "transliteration": "",
+      "translation": "Rshaba, Sarabha, Mainda and Nila, Kumuda, Susena, Rambha, and Tara headed by Dwiviida, Panasa and Hanuman marched ahead swiftly to the battlefield. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेषष्टितमस्सर्गः ।। This is the end of the sixty sixth sarga of Yuddha Kanda of the first epic, the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

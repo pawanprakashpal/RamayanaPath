@@ -1,0 +1,297 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 22,
+    "title": "Vali repents -- asks Sugriva  to take care of Angada and Tara -- hands over his golden necklace to Sugriva -- exhorts Angada.",
+    "titleSanskrit": "",
+    "totalShlokas": 31
+  },
+  "shlokas": [
+    {
+      "id": "v4-22-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "वीक्षमाणस्तु मन्दासुस्सर्वतो मन्दमुच्छ्वसन्।\nआदावेव तु सुग्रीवं ददर्शत्वात्मजाग्रतः4.22.1।।",
+      "transliteration": "",
+      "translation": "Vali, gazing all around, breathing slowly and sighing feably beheld Sugriva at first instance, Sugriva who was standing in front of his own son.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-22-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तं प्राप्तविजयं वाली सुग्रीवं प्लवगेश्वरः।\nआभाष्य व्यक्तया वाचा सस्नेहमिदमब्रवीत्4.22.2।।",
+      "transliteration": "",
+      "translation": "Vali, the lord of monkeys, lovingly said to Sugriva, who had won a victory:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-22-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "सुग्रीव दोषेण न मां गन्तुमर���हसि किल्बिषात्।\nकृष्यमाणं भविष्येण बुद्धिमोहेन मां बलात्4.22.3।।",
+      "transliteration": "",
+      "translation": "'O Sugriva you ought not to accuse me of exiling you, and wresting your wife. My  mind was deluded by the force of fate that controls one's future.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-22-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "युगपद्विहितं तात न मन्ये सुखमावयोः।\nसौहार्द भ्रातृयुक्तं हि तदिदं तात नान्यथा4.22.4।।",
+      "transliteration": "",
+      "translation": "'O dear I believe that both of us are not destined to enjoy the love and happiness that come together to brothers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-22-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "प्रतिपद्य त्वमद्यैव राज्यमेषां वनौकसाम्।\nमामप्यद्यैव गच्छन्तं विद्धि वैवस्वतक्षयम्4.22.5।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-22-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "जीवितं च हि राज्यं च श्रियं च विपुलामिमाम्।\nप्रजहाम्येष वै तूर्णं महच्चागर्हितं यशः4.22.6।।",
+      "transliteration": "",
+      "translation": "'I am leaving this world soon, along with this vast kingdom, prosperity and untarnished fame.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-22-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "अस्यां त्वहमवस्थायां वीर वक्ष्यामि यद्वचः।\nयद्यप्यसुकरं राजन्कर्तुमेव तदर्हसि4.22.7",
+      "transliteration": "",
+      "translation": "'O warrior king you should do whatever I request you at this hour even though it may not be easy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-22-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "सुखार्हं सुखसंवृद्धं बालमेनमबालिशम्।\nबाष्पपूर्णमुखं पश्य भूमौ पतितमङ्गदम्4.22.8।।",
+      "transliteration": "",
+      "translation": "'Look at this young Angada fallen on the ground, face flooded with tears. Raised with comfort, he deserves to be kept happy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-22-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "मम प्राणैः प्रियतरं पुत्रं पुत्रमिवौरसम्।\nमया हीनमहीनार्थं पर्वतः परिपालय4.22.9।।",
+      "transliteration": "",
+      "translation": "'He is dearer to me than my life. Take care of him like your own son. He is separated from me. Take care of him in all respects, so that he is not deprived of anything.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-22-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "त्वमेवास्य हि दाता च परित्राता च सर्वशः।\nभयेष्वभयदश्चैव यथाऽहं प्लवगेश्वर।।4.22.10।।",
+      "transliteration": "",
+      "translation": "'O lord of monkeys from now on, you alone will be his father, provider of everything, saviour and protector in danger.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-22-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "एष तारात्मज श्रीमांस्त्वया तुल्यपराक्रमः।\nरक्षसां च वधे तेषामग्रतस्ते भविष्यति4.22.11।।",
+      "transliteration": "",
+      "translation": "'This prosperous son of Tara, your equal in valour, will remain with you in the forefront to crush demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-22-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अनुरूपाणि कर्माणि विक्रम्य बलवान्रणे।\nकरिष्यत्येष तारेयस्तरस्वी तरुणोऽङ्गदः4.22.12।।",
+      "transliteration": "",
+      "translation": "'This mighty hero Angada, son of Tara, is young and dynamic. He will strike (the enemy) in a fitting manner in war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-22-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "सुषेणदुहिता चेयमर्थसूक्ष्मविमनिश्चये।\nऔत्पातिके च विविधे सर्वतः परिनिष्ठिता4.22.13।।",
+      "transliteration": "",
+      "translation": "'Tara, daughter of Sushena, is wise and efficient in discerning subtle matters and in foreseeing unexpected events.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-22-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "यदेषा साध्विति ब्रूयात्कार्यं तन्मुक्तसंशयम्।\nन हि तारामतं किञ्चिदन्यथा परिवर्तते4.22.14।।",
+      "transliteration": "",
+      "translation": "'Tara's opinion is never wrong. It does not change. Whatever she speaks is right and should be carried out without any doubt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-22-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "राघवस्य च ते कार्यं कर्तव्यमविशङ्कया।\nस्यादधर्मो ह्यकरणे त्वां च हिंस्याद्विमानितः4.22.15।।",
+      "transliteration": "",
+      "translation": "'You ought to carry out Rama's work without hesitation. If you do not, it will be unrighteous and harmful.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-22-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "इमां च मालामाधत्स्व दिव्यां सुग्रीव काञ्चनीम्।\nउदारा श्रीस्थिता ह्यास्यां सम्प्रजह्यान्मृते मयि4.22.16।।",
+      "transliteration": "",
+      "translation": "'O Sugriva put on this divine golden necklace. It has great brilliance. Its present lustre may be gone when I am dead.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-22-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "इत्येवमुक्तस्सुग्रीवो वालिना भ्रातृसौहृदात्।\nहर्षं त्यक्त्वा पुनर्दीनो ग्रहग्रस्त इवोडुराट्4.22.17।।",
+      "transliteration": "",
+      "translation": "Thus spoken to by Vali with brotherly affection, Sugriva gave up joy (of victory) and appeared dull like the Moon eclipsed by planet Rahu.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-22-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तद्वालिवचनाच्छान्तः कुर्वन्युक्तमतन्द्रितः।\nजग्राह सोऽभ्यनुज्ञातो मालां तां चैव काञ्चनीम्4.22.18।।",
+      "transliteration": "",
+      "translation": "On hearing Vali's words, Sugriva became composed with no illfeeling. Considering it to be proper, he received with his permission the golden necklace.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-22-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तां मालां काञ्चनीम् दत्त्वा दृष्ट्वाचैवात्मजं स्थितम्।\nसंसिद्धः प्रेत्यभावाय स्नेहादङ्गदमब्रवीत्4.22.19।।",
+      "transliteration": "",
+      "translation": "Having given the golden necklace to Sugriva,Vali, feeling ready to depart, looked at his son Angada who stood by and spoke affectionately:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-22-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "देशकालौ भजस्वाद्य क्षममाणः प्रियाप्रिये।\nसुखदुःख सह: काले सुग्रीववशगो भव4.22.20।।",
+      "transliteration": "",
+      "translation": "'Enduring pleasure or pain equally  with due regard to time and place favourable to you or otherwise, you should submit to the will of Sugriva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-22-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "यथा हि त्वं महाबाहो लालितस्सततं मया।\nन तथा वर्तमानं त्वां सुग्रीवो बहुमंस्यते।।4.22.21���।",
+      "transliteration": "",
+      "translation": "'O longarmed one you have always been affectionately brought up by me. Sugriva may not rear you that way.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-22-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "माऽस्यामित्रैर्गतं गच्छेर्मा शत्रुभिररिन्दम।\nभर्तुरर्थपरो दान्तः सुग्रीववशगो भव4.22.22।।",
+      "transliteration": "",
+      "translation": "'O conqueror of foes do not align with his enemies or with the friends of his enemies. Remain selfrestrained and loyal to Sugriva. Be subordinate to his will.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-22-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "न चातिप्रणयः कार्यः कर्तव्योऽप्रणयश्च ते।\nउभयं हि महान्दोष स्तस्मादन्तरदृग्भव4.22.23।।",
+      "transliteration": "",
+      "translation": "'You are not to be excessively friendly or otherise as both are serious mistakes. Therefore, be insightful.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-22-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "इत्युक्त्वाऽथ विवृत्ताक्षः शरसम्पीडितो भृशम्।\nविवृतैर्दशनै र्भीमैर्बभूवोत्क्रान्तजीवितः4.22.24।।",
+      "transliteration": "",
+      "translation": "Having spoken this, tormented by the arrow, eyes popping out and his dreadful teeth ejected, Vali remained drained of life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-22-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "ततो विचुक्रुशुस्तत्र वानरा हरियूथपाः।\nपरिदेवयमानास्ते सर्वे प्लवगपुङ्गवा:4.22.25।।",
+      "transliteration": "",
+      "translation": "Then the best of the monkeys and their troop leaders bewailed the death of Vali, crying bitterly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-22-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "किष्किन्धा ह्यद्य शून्याऽसीत्स्वर्गते वानराधिपे।\nउद्यानानि च शून्यानि पर्वताः काननानि च4.22.26।।\nहते प्लवगशार्दूले निष्प्रभा वानराः कृताः।",
+      "transliteration": "",
+      "translation": "Lord of monkeys having gone to heaven, Kishkinda looked desolate including the pleasure gardens, the mountains and forests. The monkeys also became dull.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-22-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "यस्य वेगेन महता काननानि वनानि च।\nपुष्पौघेणानुबध्यन्ते करिष्यति तदद्य कः4.22.27।।",
+      "transliteration": "",
+      "translation": "(The vanaras wailed aloud saying) 'The forests and gardens looked connected together with the flowers that swayed by his speed .Who can do that now?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-22-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "येन दत्तं महद्युद्धं गन्धर्वस्य महात्मनः4.22.28।।\nगोलभस्य महाबाहोर्दशवर्षाणि पञ्च च।\nनैव रात्रौ न दिवसे त���्युद्धमुपशाम्यति4.22.29।।",
+      "transliteration": "",
+      "translation": "'Great soul, Vali endowed with stout shoulders joined a duel with a gandharva called Golabha for fifteen years nonstop night and day.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-22-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "ततस्तु षोडशे वर्षे गोलभो विनिपातितः।\nहत्वा तं दुर्विनीतं तु वाली दंष्ट्राकरालवान्4.22.30।।\nसर्वाऽभयङ्करोऽस्माकं कथमेष निपातितः।",
+      "transliteration": "",
+      "translation": "'In the sixteenth year Golabha, the uncontrollable enemy was killed by Vali with his dreadful fangs and rendered protection to everybody. How did he get killed?'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-22-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "हते तु वीरे प्लवगाधिपे तदा\nप्लवङ्गमास्तत्र न शर्म लेभिरे।\nवनेचराः सिंहयुते महावने\nयथा हि गावो निहते गवां पतौ4.22.31।।",
+      "transliteration": "",
+      "translation": "Just as the cattle get frightened when the leader of the herd gets killed in a huge forest full of lions, the young monkey became puzzled when the chief of monkeys got killed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-22-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "ततस्तु तारा व्यसनार्णवाप्लुता\nमृतस्य भर्तुर्वदनं समीक्ष्य सा।\nजगाम भूमिं परिरभ्य वालिनं\nमहाद्रुमं छिन्नमिवाश्रिता लता4.22.32।।",
+      "transliteration": "",
+      "translation": "Then Tara, immersed in a sea of sorrow, looked at the face of her dead husband and sank, embracing Vali, like a creeper clinging to the massive tree when the tree is cut down. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे द्वाविंशस्सर्गः।। Thus ends the twentysecond sarga of Kishkindakanda of the Holy Ramayana, the first epic, composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

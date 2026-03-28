@@ -1,0 +1,144 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 65,
+    "title": "Lakshmana pacifies Rama -- explains that destruction of the world is not proper -- initiates the search.",
+    "titleSanskrit": "",
+    "totalShlokas": 14
+  },
+  "shlokas": [
+    {
+      "id": "v3-65-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तप्यमानं तथा रामं सीताहरणकर्शितम्।\nलोकानामभवे युक्तं सांवर्तकमिवानलम्।।3.65.1।।\nवीक्षमाणं धनुस्सज्यं निश्श्वसन्तं पुनः पुनः।\nदग्धुकामं जगत्सर्वं युगान्ते च यथा हरम्।।3.65.2।।\nअदृष्टपूर्वं सङ्क्रुद्धं दृष्ट्वा रामं तु लक्ष्मणः।\nअब्रवीत्प्राञ्जलिर्वाक्यं मुखेन परिशुष्यता।।3.65.3।।",
+      "transliteration": "",
+      "translation": "Tormented and emaciated due to Sita's abduction, resembling the fire at the time of dissolution of the creation, ready to destroy the world, Rama looked at his bow strung again and again, breathing hot sighs like Lord Siva at the end of the creation, wishing to burn down the world in a rage. Lakshmana who had never seen Rama in such anger before said to him with folded hands and parched throat.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-65-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "पुरा भूत्वा मृदुर्दान्तस्सर्वभूतहिते रतः।\nन क्रोधवशमापन्नः प्रकृतिं हातुमर्हसि।।3.65.4।।",
+      "transliteration": "",
+      "translation": "Earlier you were gentle, self restrained and engaged in the welfare of all beings. (Now) it is not proper for you to give up your natural composure in anger.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-65-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "चन्द्रे लक्ष्मीः प्रभा सूर्ये गतिर्वायौ भुवि क्षमा।\nएतत्तु नियतं सर्वं त्वयि चानुत्तमं यशः।।3.65.5।।",
+      "transliteration": "",
+      "translation": "In you are always present the grace of the Moon, the radiance of the Sun, the motion of the wind, the forbearance of the earth and reputation.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-65-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "एकस्य नापराधेन लोकान् हन्तुं त्वमर्हसि।\nन तु जानामि कस्यायं भग्नस्साङ्ग्रामिको रथः।।3.65.6।।\nकेन वा कस्य वा हेतोस्सायुधस्सपरिच्छदः।",
+      "transliteration": "",
+      "translation": "To destroy the world for the mistake of a single person is not proper. Why and by whom is this warchariot broken with weapons and all its accesories I do not know.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-65-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "खुरनेमिक्षतश्चायं सिक्तो रुधिरबिन्धुभिः।।3.65.7।।\nदेशो निर्वृत्तसङ्ग्रामस्सुघोरः पार्थिवात्मज।",
+      "transliteration": "",
+      "translation": "O prince, this place is damaged by the hooves of the horses and the rims of the chariot. It is soaked with drops of blood.Very dreadful must have been the fight here.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-65-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "एकस्य तु विमर्धोऽयं न द्वयोर्वदतांवर।।3.65.8।।\nन हि वृत्तं हि पश्यामि बलस्य महतः पदम्।",
+      "transliteration": "",
+      "translation": "O, best of the eloquent  this fight involves only one and not two. I do not see the footprints of a big army.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-65-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "नैकस्य तु कृते लोकान्विनाशयितुमर्हसि।।3.65.9।।\nयुक्तदण्डा हि मृदवः प्रशान्ता वसुधाधिपाः।",
+      "transliteration": "",
+      "translation": "To destroy the entire world for one individual is not right. The lords of the earth should remain gentle, peaceful and punish only the deserving.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-65-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "सदा त्वं सर्वभूतानां शरण्यः परमा गतिः।।3.65.10।।\nको नु दारप्रणाशं ते साधु मन्येत राघव।",
+      "transliteration": "",
+      "translation": "You are the ultimate resort and refuge of all beings. Who would like that your wife should be abducted ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-65-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "सरितस्सागराश्शैला देवगन्धर्वदानवाः।।3.65.11।।\nनालं ते विप्रियं कर्तुं दीक्षितस्येव साधवः।",
+      "transliteration": "",
+      "translation": "Just as pious men do not do anything disagreeable towards persons who observe religious vows, so also rivers, seas and mountains, gods, gandharvas and demons are not capable of causing unhappiness to you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-65-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "येन राजन्हृता सीता तमन्वेषितुमर्हसि।।3.65.12।।\nमद्वितीयो धनुष्पाणिस्सहायैः परमर्षिभिः।",
+      "transliteration": "",
+      "translation": "O king bow in hands, followed by me and with the help of great sages you should search for the one who has abducted Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-65-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "समुद्रं च विचेष्यामः पर्वतांश्च वनानि च।।3.65.13।।\nगुहाश्च विविधा घोरा नदी पद्मवनानि च।",
+      "transliteration": "",
+      "translation": "We will search oceans, mountains, forests and several dreadful caves, rivers and lotusponds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-65-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "देवगन्धर्वलोकांश्च विचेष्यामस्समाहिताः।।3.65.14।।\nयावन्नाधिगमिष्यामस्तव भार्यापहारिणम्।",
+      "transliteration": "",
+      "translation": "We will search relentlessly for the abductor of your wife everywhere including the world of gods and gandharvas till we find her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-65-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "न चेत्साम्ना प्रदास्यन्ति पत्नीं ते त्रिदशेश्वराः।।3.65.15।।\nकोसलेन्द्र ततः पश्चात्प्राप्तकालं करिष्यसि।",
+      "transliteration": "",
+      "translation": "O lord of Kosala when gods do not restore Sita on request, then you can think of taking action at the appropriate time.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-65-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "शीलेन साम्ना विनयेन सीतां नयेन न प्राप्स्यसि चेन्नरेन्द्र।\nततस्समुत्सादय हेमपुङ्खै र्महेन्द्रवज्रप्रतिमैश्शरौघैः।।3.65.16।।",
+      "transliteration": "",
+      "translation": "O king if you fail to get Sita through appeasement, through humility or diplomacy then you destroy (the three worlds) by your goldtipped stream of arrows comparable to Indra's thunderbolt. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे पञ्चषष्टितमस्सर्गः।। Thus ends the sixtyfifth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

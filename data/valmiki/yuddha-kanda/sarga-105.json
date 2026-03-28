@@ -1,0 +1,288 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 105,
+    "title": "Rama accuses Ravana for abducting Sita. Ravana gets confused with the rain of arrows from Rama. Seeing the situation of Ravana his charioteer takes him away from the battlefield.",
+    "titleSanskrit": "",
+    "totalShlokas": 30
+  },
+  "shlokas": [
+    {
+      "id": "v6-105-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "स तेनतुतदाक्रोधात्का��ुत्स्थेनार्दितोरणे ।\nरावणस्समरश्लाघिमहाक्रोधामुपागमत् ।।6.105.1।।",
+      "transliteration": "",
+      "translation": "Ravana, who was proud of his skill in warfare, became very angry when he was pained by Kakuthsa's arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-105-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "स दीप्तनयनोरोषाच्चापमायाम्यवीर्यवान् ।\nअभ्यर्दयत्सुसङ्कृद्धोराघवंपरमाहवे ।।6.105.2।।\nबाणधारसहस्रैस्तैस्सतोयदइवाम्बरात् ।\nराघवंरावणोबाणैस्तटकमिवपूरयन् ।।6.105.3।।",
+      "transliteration": "",
+      "translation": "Valiant hero, Ravana, with his eyes flaming in anger, raising his bow, rained arrows at Sri Rama. He continued to rain thousands of arrows just as rain filled the tank, his arrows covered Raghava.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-105-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "पूरितःशरजालेनधनुर्मुक्तेनसम्युगे ।\nमहागिरिरिवाकम्प्यःकाकुत्स्थो न प्रकम्पते ।।6.105.4।।",
+      "transliteration": "",
+      "translation": "Sri Rama did not get agitated, and stood like a huge mountain, even though the network of arrows released from the bow of Ravana covered him in the conflict.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-105-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "स शरैश्शरजालानिवारयन् समरेस्थितः ।\nगभस्तीनिवसूर्यस्यप्रतिजग्राहवीर्यवान् ।।6.105.5।।",
+      "transliteration": "",
+      "translation": "Valiant Sri Rama stood intercepting them when streams of arrows covered him, and tolerated them like the rays of the Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-105-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "ततश्शरसहस्राणिक्षिप्रहस्तोनिशाचरः ।\nनिजघानोरसिक्रुद्धोराघवस्यमहात्मनः ।।6.105.6।।",
+      "transliteration": "",
+      "translation": "Thereafter the quickhanded angry night ranger struck into the chest of Raghava thousands of arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-105-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "स शोणितसमादिग्धस्समरेलक्ष्मणाग्रजः ।\nदृष्टःफुल्लइवारण्येसुमहान् किंशुकद्रुमः ।।6.105.7।।",
+      "transliteration": "",
+      "translation": "In that conflict Lakshmana's elder brother looked like a huge Kimsuka tree in bloom in the forest body being covered with blood all over.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-105-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "शराभिघातसम्रब्दःसोऽभिजग्राहसायकान् ।\nकाकुत्स्थ: सुमहातेजायुगान्तादित्यतेजसः ।।6.105.8।।",
+      "transliteration": "",
+      "translation": "Endowed with extraordinary energy, Kakuthsa, angered by the impact of arrows resembled the Sun at the end of universal dissolution, took up arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-105-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "ततोऽन्योन्यंसुसम्रब्धौतावुभौरामरावणौ ।\nशरान्धकारेसमरेनोपलक्ष्यतां���दा ।।6.105.9।।",
+      "transliteration": "",
+      "translation": "Then with both Rama and Ravana speedily releasing (hail of) arrows on one another, the battlefield was darkened by arrows, and they were not able to see each other.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-105-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "ततःक्रोधसमाविष्टोरामोदशरथात्मजः ।\nउवाचरावणंवीरःप्रहस्यपरुषंवचः ।।6.105.10।।",
+      "transliteration": "",
+      "translation": "Then Rama, the heroic son of Dasharatha, overcome by anger, laughing at Ravana, spoke these words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-105-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "ममभार्याजनस्थानादज्ञानाद्राक्षसाधम ।\nहृतातेविवशायस्मात्तस्मात्त्वंनासिवीर्यवान् ।।6.105.11।।",
+      "transliteration": "",
+      "translation": "\"Lowly Rakshasa! My wife was abducted by you ignorantly when she was helpless. Therefore, you are not valiant.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-105-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "मयाविरहितांदीनांवर्तमानांमहावने ।\nवैदेहींप्रसभंहृत्वाशूरोऽहमितिमन्यसे ।।6.105.12।।",
+      "transliteration": "",
+      "translation": "\"Having abducted Vaidehi living in the forest by force, when she was desperate and separated from me, do you think that you are a hero?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-105-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "स्त्रीषुशूरविनाथासुपरदाराभिमर्शक ।\nकृत्वाकापुरुषंकर्मशूरोऽहमितिमन्यसे ।।6.105.13।।",
+      "transliteration": "",
+      "translation": "\"Timid fellow! You having laid hands on another woman think you are a hero? You, who have done such an action, think that you are a hero?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-105-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "भिन्नमर्यादनिर्लज्ज चारित्रेष्वनवस्थित ।\nदर्पान्मृत्युमुपादायशूरोऽहमितिमन्यसे ।।6.105.14।।",
+      "transliteration": "",
+      "translation": "\"O shameless one! You have transgressed morality and traditional practice. You are dissolute and by your pride seeking death. You think that you are a hero!\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-105-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "शूरेणधनदभ्रात्राबलैःसमुदितेन च ।\nश्लाघनीयंमहत्कर्मयशस्यं च कृतंत्वया ।।6.105.15।।",
+      "transliteration": "",
+      "translation": "\"By laudable great action performed by you (of abducting Sita and your penance) you have attained fame. You are a heroic brother of Kubera, rich in might.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-105-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "उत्सेकानाभिपन्नस्यगर्हितस्याहितस्य च ।\nकर्मणःप्राप्नुहीदानांतस्याद्यसुमहत्फलम् ।।6.105.16।।",
+      "transliteration": "",
+      "translation": "\"You will attain the great result of your hurtful action, overpowered by pride and vanity today.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-105-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "शूरोऽहमितिचात्मानमवगच्छसिदुर्मते ।\nनैवलज्जास्तितेसीतांचौरवद्वृपकर्षतः ।।6.105.17।।",
+      "transliteration": "",
+      "translation": "\"O Evil minded fellow! You boast yourself as a hero, while you abducted Sita like a thief. Shame did not stand in your way.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-105-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "यदिमत्सन्निधौसीताधर्षितास्यात्त्वयाबलात् ।\nभ्रातरंतुखरंपश्येस्तदामत्सायकैर्हतः ।।6.105.18।।",
+      "transliteration": "",
+      "translation": "\"If Sita had been seen by me forcibly taken by you in my presence, then you would have been killed by my arrows and seen your brother Khara.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-105-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "दिष्ट्यासिममदुष्टात्मश्चक्षुर्विषयमागतः ।\nअद्यत्वांसायकैस्तीक्ष्णैर्नयामियमसादनम् ।।6.105.19।।",
+      "transliteration": "",
+      "translation": "\"O selfish Ravana! Today you have come in my sight by good fortune. I shall send you to the abode of Yama with my arrows.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-105-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "अद्यतेमच्छरैश्चिन्नंशिरोज्वलितकुण्डलम् ।\nक्रव्यादाव्यपकर्षन्तुविकीर्णंरणपांसुषु ।।6.105.20।।",
+      "transliteration": "",
+      "translation": "\"Now, let your head severed by my shafts lying in dust in the battlefield with the shining earrings be dragged by the carnivorous animals.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-105-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "निपत्योरसिगृध्रास्तेक्षितौक्षिप्तस्यरावण ।\nपिबन्तुरुधिरंतर्षाद्बाणशल्यान्तरोत्थितम् ।।6.105.21।।",
+      "transliteration": "",
+      "translation": "\"Ravana! After your body is caused to destroy and scattered on the ground, let the vultures drink the blood oozing from your chest pierced by the heads of my arrows.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-105-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "अद्यमद्बाणभिन्नस्यगतासोःपतितस्यते ।\nकर्षन्त्वन्त्राणिपतगागरुत्मन्तइवोरगान् ।।6.105.22।।",
+      "transliteration": "",
+      "translation": "\"Let the birds tear your intestines as eagles would tear off snakes, now when your body is split and fallen, split by my arrows and ceased of life.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-105-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "इत्येवं स वदन्वीरोरामश्शत्रुनिबर्हणः ।\nराक्षसेन्द्रंसमीपस्थंशरवर्षैरवाकिरत् ।।6.105.23।।",
+      "transliteration": "",
+      "translation": "Speaking in this way to Ravana who was nearby, Rama the exterminator of enemies rained showers of arrows and covered.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-105-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "बभूवद्विगुणंवीर्यंबलंहर्षश्चसंयुगे ।\nरामस्यास्त्रबलंचैवशत्रोर्निधनकाङ्क्षिणः ।।6.105.24।।",
+      "transliteration": "",
+      "translation": "The strength, valiance, enthusiasm, and the strength of missiles of Rama, who was desirous of the destruction of the enemy, doubled.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-105-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "प्रादुर्भभूवुरस्त्राणिसर्वाणिविदितात्मनः ।\nप्रहर्षाच्चमहातेजाश्शीघ्रहस्ततरोऽभवत् ।।6.105.25।।",
+      "transliteration": "",
+      "translation": "All missiles appeared before Rama because of his richness in selfknowledge. In his excessive energy and joy the prince became more skillful with his hands.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-105-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "शुभान्येतानिचिह्नानिविज्ञायात्मगतानिसः ।\nभूयएवार्दयद्रामोरावणंराक्षसान्तकृत् ।।6.105.26।।",
+      "transliteration": "",
+      "translation": "Rama, who can put an end to Rakshasas, knower of his own self having experienced auspicious signs, began to strike at Ravana more vehemently.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-105-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "हरीणांचाश्मनिकरैश्शरवर्षाच्चराघवात् ।\nहन्यमानोदशग्रीवोविघूर्णहृदयोऽभवत् ।।6.105.27।।",
+      "transliteration": "",
+      "translation": "By the stones thrown by the Vanaras and rain of shafts from Raghava, the ten headed Ravana was pained and was bewildered.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-105-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "यदा च शस्त्रंनारेभे न चकर्षशरासनम् ।\nनास्यप्रत्यकरोवदीर्यंविक्लबेनान्तरात्मना ।।6.105.28।।",
+      "transliteration": "",
+      "translation": "Being confused mentally, Ravana did not start his arrows, nor stretch his bow, nor was able to use missiles and was not able to oppose Rama's valour.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-105-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "क्षिप्ताःश्चाशुशरास्तेनशस्त्राणिविविधानि च ।\nमरणार्थायवर्तन्तेमृत्युकालोऽभ्यवर्तत ।।6.105.29।।",
+      "transliteration": "",
+      "translation": "Ravana's arrows of several kinds being destroyed, perceiving that his death is objective Rama's missiles, and that the time of death appeared, he was unable to act.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-105-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "सूतस्तुरथनेतास्यतदवस्थंनिरीक्ष्यतम् ।\nशनैर्युद्धासम्भ्रान्तोरथंतस्यापवाहयत् ।।6.105.30।।",
+      "transliteration": "",
+      "translation": "Observing his (Ravana's) condition, the charioteer quietly, slowly withdrew his chariot from the battlefield.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-105-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "रथं च तस्याथजवेनसाथिर्निवार्यभीमंजलदस्वनंतदा ।\nजगामभीत्यासमरान्महीपतिंनिरस्तवीर्यंपतितंसमीक्ष्य ।।6.105.31।।",
+      "transliteration": "",
+      "translation": "Then the charioteer perceiving that the king has lost his valiance and fallen, went quickly from the battlefield, in fear, as the chariot was rumbling like a terrible cloud. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेपञ्चोत्तरशततमस्सर्गः ।। This is the end of the hundred and fifth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

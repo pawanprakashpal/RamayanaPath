@@ -1,0 +1,243 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 15,
+    "title": "Rama, Lakshmana and Sita enter Panchavati --Lakshmana makes a thatched cottage at Panchavati -- performance of traditional sacrifices before entering the cottage --description of the beautiful nature around Panchavati and river Godavari.",
+    "titleSanskrit": "",
+    "totalShlokas": 25
+  },
+  "shlokas": [
+    {
+      "id": "v3-15-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततः पञ्चवटीं गत्वा नानाव्यालमृगायुताम्।\nउवाच भ्रातरं रामस्सौमित्रिं दीप्ततेजसम्।।3.15.1।।",
+      "transliteration": "",
+      "translation": "On reaching Panchavati, which was full of various vicious animals, Rama said to Lakshmana, his brother who was glowing like  fire:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-15-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "आगताः स्म यथोद्दिष्टममुं देशं महर्षिणा। \nअयं पञ्चवटीदेशस्सौम्य पुष्पितपादपः।।3.15.2।।",
+      "transliteration": "",
+      "translation": "O handsome one, following the directions of the great sage, we have arrived at Panchavati, a place full of blossoming trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-15-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "सर्वतश्चार्यतां दृष्टिः कानने निपुणोह्यसि।\nआश्रमः कतरस्मिन्नो देशे भवति सम्मतः।।3.15.3।।",
+      "transliteration": "",
+      "translation": "O Lakshmana cast your eyes all around the forest for a suitable place (for building a hermitage).  Indeed, you are good at judging things.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-15-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "रमते यत्र वैदेही त्वमहं चैव लक्ष्मण।\nतादृशो दृश्यतां देशस्सन्निकृष्टजलाशयः।।3.15.4।।\nवनरामण्यकं यत्र स्थलरामण्यकं तथा।\nसन्निकृष्टं च यत्र स्यात्समित्पुष्पकुशोदकम्।।3.15.5।।",
+      "transliteration": "",
+      "translation": "Look, O Lakshmana  for a place to the liking of Sita, a place where there is water source nearby  where both of us can enjoy. Find a beautiful location where the surrounding forest is beautiful and where faggots, flowers, water and kusa grass are available at hand.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-15-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु रामेण लक्ष्मण संयताञ्जलिः।\nसीतासमक्षं काकुत्स्थमिदं वचनमब्रवीत्।।3.15.6।।",
+      "transliteration": "",
+      "translation": "Having been thus instructed by Rama, Lakshmana said with folded palms in the presence of Sita:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-15-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "परवानस्मि काकुत्स्थ त्वयि वर्षशतं स्थिते।\nस्वयं तु रुचिरे देशे क्रियतामिति मां वद।।3.15.7।।",
+      "transliteration": "",
+      "translation": "O Rama, I shall be dependent on you, even if I live for a hundred years. You only need to indicate a beautiful place of your choice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-15-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "सुप्रीतस्तेन वाक्येन लक्ष्मणस्य महात्मनः।\nविमृशन्रोचयामास देशं सर्वगुणान्वितम्।।3.15.8।।",
+      "transliteration": "",
+      "translation": "Rama was pleased with the words of great Lakshmana. Deliberating over it, he agreed upon a site suitable in all respects.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-15-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "स तं रुचिरमाक्रम्य देशमाश्रमकर्मणि।\nहस्तौ गृहीत्वा हस्तेन रामस्सौमित्रिमब्रवीत्।।3.15.9।।",
+      "transliteration": "",
+      "translation": "Having come to a beautiful spot suitable for the asram, Rama took both the hands of  Lakshmana in his own and said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-15-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "अयं देशस्समश्रीमान् पुष्पितैस्तरुभिर्वृतः।\nइहाऽश्रमपदं सौम्य यथावत्कर्तुमर्हसि।।3.15.10।।",
+      "transliteration": "",
+      "translation": "This place is level, surrounded by beautiful trees in full bloom. O handsome one, you may build the hermitage here.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-15-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "इयमादित्यसङ्काशैः पद्मैस्सुरभिगन्धिभिः।\nअदूरे दृश्यते रम्या पद्मिनी पद्मशोभिता।।3.15.11।।",
+      "transliteration": "",
+      "translation": "There, not very far, is a beautiful lotustank shining like the Sun, fragrant with lotuses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-15-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "यथातख्यातमगस्त्येन मुनिना भावितात्मना।\nइयं गोदावरी रम्या पुष्पितैस्तरुभिर्वृता।।3.15.12।।\nहंसकारण्डवाकीर्णा चक्रवाकोपशोभिता।",
+      "transliteration": "",
+      "translation": "As said by the selfrealised soul, sage Agastya, this Godavari is beautiful, surrounded by trees with flowers in bloom, filled with flocks of swans, ducks and ruddy geese.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-15-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "नातिदूरे न चासन्ने मृगयूथपिपीडिताः।।3.15.13।।\nमयूरनादिता रम्याः प्रांशवो बहुकन्दराः।\nदृश्यन्ते गिरयः सौम्य फुल्लैस्तरुभिरावृताः।।3.15.14।।",
+      "transliteration": "",
+      "translation": "O handsome one, neither far nor near are seen tall mountains and flowering trees and herds of deer. Their numerous caves echo with sounds of peacocks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-15-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "सौवर्णैराजतैस्ताम्रैर्देशे देशे च धातुभिः।\nगवाक्षिता इवाभान्ति गजाः परमभक्तिभिः।।3.15.15।।",
+      "transliteration": "",
+      "translation": "These mountains, with streaks of minerals like gold, silver and copper forming decorative designs, look beautiful like colourful windows, and appear like huge elephants.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-15-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "सालैस्तालैस्तमालैश्च खर्जूरपनसाम्रकैः।\nनीवारैस्तिमिशैश्चैव पुन्नागैश्चोपशोभिताः।।3.15.16।।\nचूतैरशोकैस्तिलकैश्चम्पकैः केतकैरपि।\nपुष्पगुल्मलतोपेतैस्तैस्तैस्तरुभिरावृताः।।3.15.17।।\nचन्दनैस्पन्दनैर्नीपैः पर्णासैर्लिकुचैरपि।\nधवाश्वकर्णखदिरैः शमीकिंशुकपाटलैः।।3.15.18।।",
+      "transliteration": "",
+      "translation": "The place is covered with  sal and palmyrah trees including mango, jackfruit, dates, kadamba, punnaga, ashoka, champak, tilaka, ketaka, sandalwood, spandan, dhava, asvakarna parnasha, khadira, sami, kimsuka and patala trees. It is full of wild paddy, flowering bushes and creepers that run on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-15-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "इदं पुण्यमिदं मेध्यमिदं बहुमृगद्विजम्।\nइह वत्स्याम सौमित्रे सार्धमेतेन पक्षिणा।।3.15.19।।",
+      "transliteration": "",
+      "translation": "This is a holy place fit for sacrifice. There are many animals and birds here.Hence we will reside here with Jatayu.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-15-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु रामेण लक्ष्मणः परवीरहा।\nअचिरेणाऽश्रमं भ्रातुश्चकार सुमहाबलः।।3.15.20।।",
+      "transliteration": "",
+      "translation": "Thus directed by Rama, the mighty Lakshmana, destroyer  of enemy warriors, soon built a hermitage for his brother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-15-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "पर्णशालां सुविपुलां तत्र सङ्खातमृत्तिकाम्।\nसुस्तम्भां मस्करैर्दीर्घैः कृतवंशां सुशोभनाम्।।3.15. 21।।\nशमीशाखाभिरास्तीर्य दृढपाशावपाशिताम्।\nकुशकाशशरैः पर्णैस्सुपरिच्छादितां तथा।।3.15.22।।\nसमीकृततलां रम्यां चकार लघुविक्रमः।\nनिवासं राघवस्यार्थे प्रेक्षणीयमनुत्तमम्।।3.15.23।।",
+      "transliteration": "",
+      "translation": "Lakshmana who was quick to act dug the clay with nippers, planted long bamboo poles, put branches of sami trees across and tied them with strong ropes. He spread kusa and kasa grass and leaves on the levelled ground. He built a beautiful, spacious and nice residence for Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-15-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "सहसा लक्ष्मणः श्रीमान् नदीं गोदावरीं तदा।\nस्नात्वा पद्मानि चादाय सफलः पुनरागतः।।3.15.24।।",
+      "transliteration": "",
+      "translation": "Lakshmana then went to river Godavari, had his bath, and returned with some lotuses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-15-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "ततः पुष्पबलिं कृत्वा शान्तिं च स यथाविधि।\nदर्शयामास रामाय तदाश्रमपदं कृतम्।।3.15.25।।",
+      "transliteration": "",
+      "translation": "Lakshmana offered oblation of flowers, invoked peace as per tradition (before occupying a newly made home) and showed Rama the cottage he had built.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-15-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "स तं दृष्ट्वा कृतं सौम्यमाश्रमं सीतया सह।\nराघवः पर्णशालायां हर्षमाहारयत्परम्।।3.15.26।।",
+      "transliteration": "",
+      "translation": "Rama and Sita saw the beautiful hermitage built by Lakshmana, and expressed much happiness over the leafthatched cottage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-15-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "सुसंहृष्टः परिष्वज्य बाहुभ्यां लक्ष्मणं तदा।\nअतिस्निग्धं च गाढं च वचनं चेदमब्रवीत्।।3.15.27।।",
+      "transliteration": "",
+      "translation": "Deeply pleased with Lakshmana, he hugged him tightly and said those loving words :",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-15-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "प्रीतोऽस्मि ते महत्कर्म त्वया कृतमिदं प्रभो।\nप्रदेयो यन्निमित्तं ते परिष्वङ्गो मया कृतः।।3.15.28।।",
+      "transliteration": "",
+      "translation": "O my master, you have done a great task for which I have given you what I could give at the moment a hug.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-15-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "भावज्ञेन कृतज्ञेन धर्मज्ञेन च लक्ष्मण।\nत्वया पुत्रेण धर्मात्मा न संवृत्तः पिता मम।।3.15.29।।",
+      "transliteration": "",
+      "translation": "O Lakshmana with a son like you who can understand others' feelings, who has a sense of gratitude and a sense of duty my father is not dead yet.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-15-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "एवं लक्ष्मणमुक्त्वा तु राघवो लक्ष्मिवर्धनः।\nतस्मिन् देशे बहुफले न्यवसत्सुसुखं वशी।।3.15.30।।",
+      "transliteration": "",
+      "translation": "Rama who was an enhancer of fortunes and who had his senses under control said thus to Lakshmana and lived happily there in that place filled with fruits.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-15-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "कञ्चित्कालं स धर्मात्मा सीतया लक्ष्मणेन च।\nअन्वास्यमानो न्यवसत्स्वर्गलोके यथामरः।।3.15.31।।",
+      "transliteration": "",
+      "translation": "Righteous Rama, served by Lakshmana, and Sita lived there for some time like a god in heaven.  इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे पञ्चदशस्सर्गः।। Thus ends the fifteenth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

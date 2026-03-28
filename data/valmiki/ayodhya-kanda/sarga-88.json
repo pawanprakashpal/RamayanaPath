@@ -1,0 +1,234 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 88,
+    "title": "Guha relates to Bharata about Rama's life in the forest contrary to the life in Ayodhya.",
+    "titleSanskrit": "",
+    "totalShlokas": 24
+  },
+  "shlokas": [
+    {
+      "id": "v2-88-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तच्छ्रुत्वा निपुणं सर्वं भरत स्सह मन्त्रिभिः।\nइङ्गुदीमूलमागम्य रामशय्यामवेक्ष्य ताम्।।2.88.1।।\nअब्रवीज्जननी स्सर्वा इह तेन महात्मना।\nशर्वरी शयिता भूमाविदमस्य विमर्दितम्।।2.88.2।।",
+      "transliteration": "",
+      "translation": "After listening to all that Guha had said, Bharatha reached the foot of the ingudi tree accompanied by his ministers and gazing at Rama's bed, said to all his mothers the magnanimous Rama rested that night here on this ground in that crushed bed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-88-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तच्छ्रुत्वा निपुणं सर्वं भरत स्सह मन्त्रिभिः।\nइङ्गुदीमूलमागम्य रामशय्यामवेक्ष्य ताम्।।2.88.1।।\nअब्रवीज्जननी स्सर्वा इह तेन महात्मना।\nशर्वरी शयिता भूमाविदमस्य विमर्दितम्।।2.88.2।।",
+      "transliteration": "",
+      "translation": "After listening to all that Guha had said, Bharatha reached the foot of the ingudi tree accompanied by his ministers and gazing at Rama's bed, said to all his mothers the magnanimous Rama rested that night here on this ground in that crushed bed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-88-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "महाभागकुलीनेन महाभागेन धीमता।\nजातो दशरथेनोर्व्यां न रामस्स्वप्तु मर्हति।।2.88.3।।",
+      "transliteration": "",
+      "translation": "Rama, son of highly fortunate and sagacious Dasaratha, born of a noble lineage does not deserve to rest on this naked earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-88-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "अजिनोत्तरसंस्तीर्णे वरास्तरणसंचये।\nशयित्वा पुरुषव्याघ्रः कथं शेते महीतले।।2.88.4।।",
+      "transliteration": "",
+      "translation": "How could Rama, the best among men used to a bed made of a pile of excellent spreads and overspread with deer skin, sleep on the bare ground?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-88-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "प्रासादाग्रविमानेषु वलभीषु च सर्वदा।\nहैमराजतभौमेषु वरास्तरणशालिषु।।2.88.5।।\nपुष्पसञ्चयचित्रेषु चन्दनागरुगन्धिषु।\nपाण्डुराभ्रप्रकाशेषु शुकसङ्घरूतेषुच।।2.88.6।।\nप्रासादवरवर्येषु शीतवत्सु सुगन्धिषु।\nउषित्वामेरुकल्पेषु कृतकाञ्चन भित्तिषु।।2.88.7।।\nगीतवादित्रनिर्घोषैर्वराभरणनिस्स्वनैः।\nमृदङ्गवरशब्दैश्च सततं प्रतिबोधितः।।2.88.8।।\nवन्दिभिर्वन्दितः काले बहुभि स्सूतमागधैः।\nगाथाभिरनुरूपाभि स्स्तुतिभिश्च परन्तपः।।2.88.9।।",
+      "transliteration": "",
+      "translation": "Rama, scorcher of enemies, one who was accostomed to dwell in the attic of sevenstoreyed mansions with floors paved with gold, and silver, spread with excellent carpets, decked with bouquets of flowers and perfumed with sandal and agaru. The peaks of those palaces were bright like towering white clouds and echoed with cries of  parrots. They were cool and fragrant with perfumes. The marvellous palaces made of golden walls are comparable to mount Meru. He used to wake up to the sounds of songs and musical instruments, the tinkling of finest ornaments and the splendid sounds of the drums. Many bards, genealogists and panegyrists singing befitting ballads and extolling his virtues at appropriate time used to salute him in reverence (Bharata lamented).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-88-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अश्रद्धेयमिदं लोके न सत्यं प्रतिभाति मा।\nमुह्यते खलु मे भाव स्स्वप्नोऽयमिति मे मतिः।।2.88.10।।",
+      "transliteration": "",
+      "translation": "It is unbelievable that such a thing has happened to Rama in this world. It does not seem real to me and looks appears like a dream and my mind is bewildered.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-88-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "न नूनं दैवतं किंचित्कालेन बलवत्तरम्।\nयत्र दाशरथी रामो भूमावेव शयीत सः।।2.88.11।।",
+      "transliteration": "",
+      "translation": "Dasaratha's son, Rama had to rest on the ground would admittedly mean that no divine power is mightier than Time (Destiny).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-88-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "विदेहराजस्य सुता सीता च प्रियदर्शना।\nदयिता शयिता भूमौ स्नुषा दशरथस्य च।।2.88.12।।",
+      "transliteration": "",
+      "translation": "Sita, daughter of Janaka, king of Videha, and beloved daughterinlaw of Dasaratha who caused delight to the beholder, too had to rest on the bare ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-88-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "इयं शय्या मम भ्रातुरिदं हि परिवर्तितम्।\nस्थण्डिले कठिने सर्वं गात्रै र्विमृदितं तृणम्।।2.88.13।।",
+      "transliteration": "",
+      "translation": "This is my brother's couch and it is here where he had tossed about. The grass spread on this hard surface is crushed by his limbs.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-88-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "मन्ये साभरणा सुप्ता सीताऽस्मिञ्छयनोत्तमे।\nतत्र तत्र हि दृश्यन्ते सक्ताः कनकबिन्दवः।।2.88.14।।",
+      "transliteration": "",
+      "translation": "Some particles of gold dust are seen stuck to this bed here and there. I think Sita might have rested on this excellent bed with all her jewellery.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-88-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "उत्तरीयमिहाऽसक्तं सुव्यक्तं सीतया तदा।\nतथा ह्येते प्रकाशन्ते सक्ताः कौशेयतन्तवः।।2.88.15।।",
+      "transliteration": "",
+      "translation": "That the upper garment of Sita might have been caught here is well evident from the shining silken threads stuck.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-88-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "मन्ये भर्तु स्सुखा शय्या येन बाला तपस्विनी।\nसु��ुमारी सती दुःखं न हि विजानाति मैथिली।।2.88.16।।",
+      "transliteration": "",
+      "translation": "Hapless Sita is young and delicate. Being a chaste lady, she, even in these (adverse) circumstances, does not feel the brunt. Hence, maybe she thinks her husbands' (hard) bed comfortable to her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-88-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "हा हन्ताऽस्मि नृशंसोऽहं यत्सभार्यः कृते मम।\nईदृशीं राघवश्शय्यामधिशेते ह्यनाथवत्।।2.88.17।।",
+      "transliteration": "",
+      "translation": "Alas, what suffering Because of a cruel man like me Rama along with his spouse was condemned to recline upon such bed like an orphan.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-88-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "सार्वभौमकुले जात स्सर्वलोकस्य सम्मतः।\nसर्वलोकप्रियस्त्यक्त्वा राज्यं सुखमनुत्तम्।।2.88.18।।\nकथमिन्दीवरश्यामो रक्ताक्षः प्रियदर्शनः।\nसुखभागी न दुःखार्ह श्शयितो भुवि राघवः।।2.88.19।।",
+      "transliteration": "",
+      "translation": "How could such Rama sleep on the ground? He was born in the house of emperors, worthy of reverence by the entire world and beloved of all the worlds, with the complexion of a blue lotus, with red eyes, and pleasing looks, one who deserves to be happy and not to suffer by renouncing the kingdom and excellent comforts.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-88-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "धन्यः खलु महाभागो लक्��्मण श्शुभलक्षणः।\nभ्रातरं विषमे काले यो राममनुवर्तते।।2.88.20।।",
+      "transliteration": "",
+      "translation": "Surely Lakshmana of great merit and auspicious virtues is fortunate since he is accompanying his brother Rama in times of adversity.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-88-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "सिद्धार्था खलु वैदेही पतिं याऽनुगता वनम्।\nवयं संशयिता स्सर्वे हीनास्तेन महात्मना।।2.88.21।।",
+      "transliteration": "",
+      "translation": "Sita has, indeed, accomplished her object by accompanying her husband (to the forest). Bereft of that magnanimous Rama, all of us are in doubt (if he will accept our services).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-88-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "आकर्णधारा पृथिवी नौः इव प्रतिभाति मा।\nगते दशरथे स्वर्गं रामे चारण्यमाश्रिते।।2.88.22।।",
+      "transliteration": "",
+      "translation": "King Dasaratha having ascended to heaven and Rama taken shelter in the forest, this kingdom appears to me like a ship without a helmsman.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-88-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "न च प्रार्थयते कच्चिन्मनसापि वसुन्धराम्।\nवनेऽपि वसतस्तस्य बाहुवीर्याभिरक्षिताम्।।2.88.23।।",
+      "transliteration": "",
+      "translation": "No one, even in thought, would ever desire this kingdom, protected by the strength of his arms even while residing in the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-88-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "शून्यसंवरणारक्षामयन्त्रितहयद्विपाम्।\nअपावृतपुरद्वारां राजधानीमरक्षिताम्।।2.88.24।।\nअप्रहृष्टबलां शून्यां विषमस्थामनावृताम्।\nशत्रवो नाभिमन्यन्ते भक्षान्विषकृतानिव।।2.88.25।।",
+      "transliteration": "",
+      "translation": "Now the gates of our capital city (Ayodhya) are wide open. The city is unprotected and endangered. There are no guards to keep vigil over the ramparts. The horses and elephants are not in control (hence unprepared for battle). The army is unhappy and demoralised. At this state even the enemies will not like to seize the city, they will shun it like food mixed with poison.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-88-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "अद्यप्रभृति भूमौ तु शयिष्येऽहं तृणेषु वा।\nफलमूलाशनो नित्यं जटाचीराणि धारयन्।।2.88.26।।",
+      "transliteration": "",
+      "translation": "From today onwards, wearing matted hair and clad in robes made of bark and living on fruits and roots, I too shall sleep on the naked ground or on grass.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-88-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तस्यार्थमुत्तरं कालं निवत्स्यामि सुखं वने।\nतं प्रतिश्रवमामुच्य नास्य मिथ्या भविष्यति।।2.88.27।।",
+      "transliteration": "",
+      "translation": "Taking upon myself the vow of Rama, I too shall live in the forest cheerfully for the rest of the term on behalf of him so that his vow shall not prove untrue.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-88-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "वसन्तं भ्रातुरर्थाय शत्रुघ्नो माऽनुवत्स्यति।\nलक्ष्मणेन सहत्वार्यो ह्ययोध्यां पालयिष्यति।।2.88.28।।",
+      "transliteration": "",
+      "translation": "As I live in the forest on behalf of my brother Rama, Satrughna will live with me. My esteemed brother Rama will rule Ayodhya along with Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-88-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "अभिषेक्ष्यन्ति काकुत्स्थमयोध्यायां द्विजातयः।\nअपि मे देवताः कुर्युरिमं सत्यं मनोरथम्।।2.88.29।।",
+      "transliteration": "",
+      "translation": "In Ayodhya the brahmins shall coronate Rama. Will the gods make this desire of mine true?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-88-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "प्रसाद्यमान श्शिरसा मया स्वयं बहुप्रकारं यदि नाभिपत्स्यते।\nततोऽनुवत्स्यामि चिराय राघवम् वनेचरन्नार्हति मामुपेक्षितुम्।।2.88.30।।",
+      "transliteration": "",
+      "translation": "I will seek his grace in many ways by bowing down my head. Even then if Rama does not grant my wish, I shall also live with him as long as it takes. He will not be able to ignore a forester like me. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे अष्टाशीतितमस्सर्गः।। Thus ends the eightyeigth sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

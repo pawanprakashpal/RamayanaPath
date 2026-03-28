@@ -1,0 +1,261 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 40,
+    "title": "Ravana commands Maricha with the authority of a king-- threatens to kill him if he disobeyed determined Ravana indicates his plan of the golden deer.",
+    "titleSanskrit": "",
+    "totalShlokas": 27
+  },
+  "shlokas": [
+    {
+      "id": "v3-40-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "मारीचेन तु तद्वाक्यं क्षमं युक्तं च निशाचरः।\nउक्तो न प्रतिजग्राह मर्तुकाम इवौषधम्।।3.40.1।।",
+      "transliteration": "",
+      "translation": "The demon Ravana did not heed the appropriate advice of the competent Maricha just like a man wishing to die refuses medicine.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-40-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तं पथ्यहितवक्तारं मारीचं राक्षसाधिपः।\nअब्रवीत्परुषं वाक्यमयुक्तं कालचोदितः।।3.40.2।।",
+      "transliteration": "",
+      "translation": "The king of the demons, driven by fate, replied with improper and harsh words to Maricha whose advice was salutary and beneficial to him :",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-40-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "यत्किलैतदयुक्तार्थं मारीच मयि कथ्यते।\nवाक्यं निष्फलमत्यर्थमुप्तं बीजमिवोषरे।।3.40.3।।",
+      "transliteration": "",
+      "translation": "O Maricha, the words addressed to me are not appropriate.Your advice is extremely fruitless like a seed sown in saline, barren soil.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-40-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "त्वद्वाक्यैर्न तु मां शक्यं भेत्तुं रामस्य संयुगे।\nपापशीलस्य मूर्खस्य मानुषस्य विशेषतः।।3.40.4।।",
+      "transliteration": "",
+      "translation": "It is not possible to dissuade me from my encounter with Rama who is sinful, foolish and especially an ordinary human being.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-40-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "यस्त्यक्त्वा सुहृदो राज्यं मातरं पितरं तथा।\nस्त्रीवाक्यं प्राकृतं श्रुत्वा वनमेकपदे गतः।।3.40.5।।",
+      "transliteration": "",
+      "translation": "On hearing the casual words of a woman, (this) Rama came to the forest at once, leaving his friends, kingdom, mother and father.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-40-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अवश्यन्तु मया तस्य संयुगे खरघातिनः।\nप्राणैः प्रियतरा सीता हर्तव्या तव सन्निधौ।।3.40.6।।",
+      "transliteration": "",
+      "translation": "In your very presence I will surely abduct Sita, wife of Rama who killed Khara in war,  Sita whom he loves more than his life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-40-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "एवं मे निश्चिता बुद्धिर्हृदि मारीच वर्तते।\nन व्यावर्तयितुं शक्या सेन्द्रैरपि सुरासुरैः।।3.40.7।।",
+      "transliteration": "",
+      "translation": "O Maricha  I have made up my mind that way. Even demons or deities including Indra cannot alter this decision of mine.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-40-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "दोषं गुणं वा सम्पृष्टस्त्वमेवं वक्तुमर्हसि।\nअपायं वाप्युपायं वा कार्यस्यास्य विनिश्चये।।3.40.8।।",
+      "transliteration": "",
+      "translation": "If I asked you the merits or demerits, the risks involved or the way out while deciding a case, you should have said what you did.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-40-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "सम्पृष्टेन तु वक्तव्यं सचिवेन विपश्चिता।\nउद्यताञ्जलिना राज्ञे य इच्छेद्भूतिमात्मनः।।3.40.9।।",
+      "transliteration": "",
+      "translation": "A wise counsellor should give advice to the king only when his opinion is sought and that too with folded hands, if he wishes his own prosperity.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-40-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "वाक्यमप्रितकूलं तु मृदुपूर्वं हितं शुभम्।\nउपचारेण युक्तं च वक्तव्यो वसुधाधिपः।।3.40.10।।",
+      "transliteration": "",
+      "translation": "A king should be addressed with politeness and decorum, with words not unfavourble intended for his good luck and wellbeing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-40-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "सावमर्दं तु यद्वाक्यं मारीच हितमुच्यते।\nनाभिनन्दति तद्राजा मानार्हो मानवर्जितम्।।3.40.11।।",
+      "transliteration": "",
+      "translation": "A king who deserves honour does not feel happy to hear even good words of advice if said in disrespectful or authoritarian way, O Maricha",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-40-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "पञ्च रूपाणि राजानो धारयन्त्यमितौजसः।\nअग्नेरिन्द्रस्य सोमस्य वरुणस्य यमस्य च।।3.40.12।।",
+      "transliteration": "",
+      "translation": "Very powerful kings assume five forms like fire, Indra, Moon, Varuna and Yama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-40-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "औष्ण्यं तथा विक्रमं च सौम्यं दण्डं प्रसन्नताम्।\nधारयन्ति महात्मानो राजानः क्षणदाचर।।3.40.13।।\nतस्मात्सर्वास्ववस्थासु मान्याः पूज्याश्च पार्थिवाः।",
+      "transliteration": "",
+      "translation": "Great kings possess heat, (of the firegod), valour (of Indra), coolness (of the Moon), command (of Varuna) and grace (of the Lord of death). Therefore kings at all stages deserve respect and reverence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-40-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "त्वं तु धर्ममविज्ञाय केवलं मोहमास्थितः।\nअभ्यागतं मां दौरात्म्यात्परुषं वक्तुमिच्छसि।।3.40.14।।",
+      "transliteration": "",
+      "translation": "You do not know your rightful duty.Because of delusion and an evil mind, you want to speak only harsh words to me, a guest who has come to you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-40-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "गुणदोषौ न पृच्छामि क्षमं चात्मनि राक्षस।\nमयोक्तं तव चैतावत्संप्रत्यमितविक्रमः।।3.40.15।।",
+      "transliteration": "",
+      "translation": "O demon  O extremely valiant demon  I ask you(to do) this much now. I am not asking you whether it is good or bad or whether it is for my welfare or not.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-40-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अस्मिंस्तु त्वं महाकृत्ये साहाय्यं कर्तुमर्हसि।\nशृणु तत्कर्म साहाय्ये यत्कार्यं वचनान्मम।।3.40.16।।",
+      "transliteration": "",
+      "translation": "You have to help me in accomplishing this great task .Hear me on the kind of work you have to do.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-40-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "सौवर्णस्त्वं मृगो भूत्वा चित्रो रजतबिन्दुभिः । \nआश्रमे तस्य रामस्य सीतायाः प्रमुखे चर ।।3.40.17 ।।",
+      "transliteration": "",
+      "translation": "Missing",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-40-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "सौवर्णस्त्वं मृगो भूत्वा चित्रो रजतबिन्दुभिः।\nआश्रमे तस्य रामस्य सीतायाः प्रमुखे चर।\nप्रलोभयित्वा वैदेहीं यथेष्टं गन्तुमर्हसि।।3.40.18।।",
+      "transliteration": "",
+      "translation": "Transform yourself into a wonderful golden deer with silver spots and move about in front of Sita at the hermitage of Rama. After fascinating her, you may go whereever you desire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-40-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "त्वां तु मायामृगं दृष्ट्वा काञ्चनं जातविस्मया।\nआनयैनमिति क्षिप्रं रामं वक्ष्यति मैथिली।।3.40.19।।",
+      "transliteration": "",
+      "translation": "Seeing the illusory golden deer, Sita, wonderstruck, will at once ask Rama to get the  deer.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-40-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "अपक्रान्ते तु काकुत्स्थे दूरं यात्वाप्युदाहर।\nहा सीते लक्ष्मणेत्येवं रामवाक्यानुरूपकम्।।3.40.20।।",
+      "transliteration": "",
+      "translation": "Divert Rama to a faroff place and cry, 'Alas, Sita, Alas, Lakshmana',  imitating the voice of Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-40-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तच्छ्रुत्वा रामपदवीं सीतया च प्रचोदितः।\nअनुगच्छति सम्भ्रान्तः सौमित्रिरपि सौहृदात्।।3.40.21।।",
+      "transliteration": "",
+      "translation": "On hearing you, Lakshmana will be bewildered. Urged by Sita and out of love for Rama, Lakshmana will follow the same track as Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-40-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "अपक्रान्ते च काकुत्स्थे लक्ष्मणे च यथासुखम्।\nआनयिष्यामि वैदेहीं सहस्राक्षश्शचीमिव।।3.40.22।।",
+      "transliteration": "",
+      "translation": "When Rama and Lakshmana are away I will comfortably abduct Vaidehi like the thousandeyed Indra brought Sachi.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-40-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "एवं कृत्वा त्विदं कार्यं यथेष्टं गच्छ राक्षस।\nराज्यस्यार्धं प्रयच्छामि मारीच तव सुव्रत।।3.40.23।।",
+      "transliteration": "",
+      "translation": "You may go wherever you want after accomplishing this task. I will give you, O demon of determination half my kingdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-40-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "गच्छ सौम्य शिवं मार्गं कार्यस्यास्य विवृद्धये।\nअहं त्वानुगमिष्यामि सरथो दण्डकावनम्।।3.40.24।।",
+      "transliteration": "",
+      "translation": "Go and accomplish this task. Let your path be auspicious. I will follow you on the chariot into the Dandaka forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-40-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "प्राप्य सीतामयुद्धेन वञ्चयित्वा तु राघवम्।\nलङ्कां प्रतिगमिष्यामि कृतकार्यस्सह त्वया।।3.40.25।।",
+      "transliteration": "",
+      "translation": "I will deceive Rama and obtain Sita, without waging a war. With the work done, I will return to Lanka along with you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-40-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "न चेत्करोषि मारीच हन्मि त्वामहमद्य वै।\nएतत्कार्यमवश्यं मे बलादपि करिष्यसि।\nराज्ञो हि प्रतिकूलस्थो न जातु सुखमेधते।।3.40.26।।",
+      "transliteration": "",
+      "translation": "O Maricha if you do not do this, I will kill you now. Or, by force make you do this work. No one who goes against the king lives in comfort.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-40-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "आसाद्य तं जीवितसंशयस्ते मृत्युर्ध्रुवो ह्यद्य मया विरुध्य।\nएतद्यथावत्प्रतिगृह्य बुद्ध्या यदत्र पथ्यं कुरु तत्तथा त्वम्।।3.40.27।।",
+      "transliteration": "",
+      "translation": "Your survival is doubtful after facing Rama in combat. But your death is certain if you oppose me now. Think carefuly and do whatever is desirable for you in the present circumstances. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे चत्वारिंशस्सर्गः।। Thus ends the fortieth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

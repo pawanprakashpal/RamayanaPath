@@ -1,0 +1,342 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 56,
+    "title": "Chitrakuta described -- Rama meets sage Valmiki -- Lakshmana builds a leafthatched cottage -- Rama enters the cottage at an auspicious time after due worship of respective deities.",
+    "titleSanskrit": "",
+    "totalShlokas": 36
+  },
+  "shlokas": [
+    {
+      "id": "v2-56-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "अथ रात्र्यां व्यतीतायामवसुप्तमनन्तरम्।\nप्रबोधयामास शनैर्लक्ष्मणं रघुनन्दनः।।2.56.1।।",
+      "transliteration": "",
+      "translation": "When the night was over, Rama, Delight of the Raghus, gently awakened Lakshmana who was asleep.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "सौमित्रे श्रुणु वन्यानां वल्गु व्याहरतां स्वनम्।\nसम्प्रतिष्ठामहे काल प्रस्थानस्य परन्तप।।2.56.2।।",
+      "transliteration": "",
+      "translation": "Listen to the songs of the forest birds, O son of Sumitra O tormentor of foes it is time we set out.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "स सुप्तस्समये भ्रात्रा लक्ष्मणः प्रतिबोधितः।\nजहौ निद्रां च तन्द्रीं च प्रसक्तं च पथि श्रमम्।।2.56.3।।",
+      "transliteration": "",
+      "translation": "Awakened by his brother in time, Lakshmana shook off his sleep, his drowsiness and his fatigue due to journey.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तत उत्थाय ते सर्वे स्पृष्ट्वा नद्या श्शिवं जलम्।\nपन्थानमृषिणाऽदिष्टं चित्रकूटस्य तं ययुः।।2.56.4।।",
+      "transliteration": "",
+      "translation": "Then they all rose, touched the river's auspicious waters and went the way the sage had directed -- towards mount Chitrakuta.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "ततस्सम्प्रस्थितः काले रामस्सौमित्रिणा सह।\nसीतां कमलपत्राक्षीमिदं वचनमब्रवीत्।।2.56.5।।",
+      "transliteration": "",
+      "translation": "Early in the morning Rama set out with Lakshmana and said this to Sita with eyes like lotus petals:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "आदिप्तानिव वैदेहि सर्वतः पुष्पितान्नगान्।\nस्वैः पुष्पैः किंशुकान् पश्य मालिनशिशिरात्यये।।2.56.6।।",
+      "transliteration": "",
+      "translation": "O daughter of Videha behold these kimsuka trees in full bloom everywhere. With the passing of winter, they appear bright as though they are garlanded by their own flowers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "पश्य भल्लातकान् फुल्लान्नरै रनुपसेवितान्।\nफलपत्रैरवनता न्नूनं शक्ष्याम जीवितुम्।।2.56.7।।",
+      "transliteration": "",
+      "translation": "Behold these bhallataka trees in full bloom though there are none to enjoy them. They are bent with fruits and leaves. Surely, we can live here. (This place is fit for our habitation).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "पश्य द्रोणप्रमाणानि लम्बमानानि लक्ष्मण।\nमधूनि मधुकारीभि स्सम्भृतानि नगे नगे।।2.56.8।।",
+      "transliteration": "",
+      "translation": "O Lakshmana see the honeycombs of the size of wooden vessels crowded by the honeybees hanging down from every tree.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "एष क्रोशति नत्यूहस्तं शिखी प्रतिकूजति।\nरमणीये वनोद्देशे पुष्पसंस्तरसङ्कटे।।2.56.9।।",
+      "transliteration": "",
+      "translation": "In this delightful forest region strewn with fallen flowers the peacock is responding to the screaming of natyuha bird.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "मातङ्गयूथानुसृतं पक्षिसंङ्घानुनादितम्।\nचित्रकूटमिमं पश्य प्रवृद्धशिखरं गिरिम्।।2.56.10।।",
+      "transliteration": "",
+      "translation": "See these flocks of singing birds followed by herds of elephants. See this mount Chitrakuta with its towering peaks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "समभूमितले रम्ये द्रुमैर्बहुभिरावृते।\nपुण्ये रंस्यामहे तात चित्रकूटस्य कानने।।2.56.11।।",
+      "transliteration": "",
+      "translation": "O dear this sacred forest of Chitrakuta standing on a level land is full of various trees. Let us enjoy it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "ततस्तौ पादचारेण गच्छन्तौ सह सीतया।\nरम्यमासेदतुश्शैलं चित्रकूटं मनोरमम्।।2.56.12।।",
+      "transliteration": "",
+      "translation": "Then they both along with Sita walked to that lovely, delightful Chitrakuta mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तन्तु पर्वतमासाद्य नानापक्षिगणायुतम्।\nबहुमूलफलं रम्यं सम्पन्नं सरसोदकम्।।2.56.13।।",
+      "transliteration": "",
+      "translation": "Rama arrived at that enchanting mountain full of various kinds of birds, fruits and roots, and sweet water. (And said to Lakshmana:)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "मनोज्ञोऽयं गिरिस्सौम्य नानाद्रुमलतायुतः।\nबहुमूलफलो रम्य स्स्वाजीवः प्रतिभाति मे।।2.56.14।।",
+      "transliteration": "",
+      "translation": "O gentle one this enchanting mountain with different kinds of trees and creepers and many roots and fruits appears to be a happy place to live in.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "मुनयश्च महात्मानो वसन्त्यस्मि शिलोच्चये।\nअयं वासो भवेत्तावदत्र सौम्य रमेमहि।।2.56.15।।",
+      "transliteration": "",
+      "translation": "Great sages reside on this high mountain. Let it be our habitation and let us enjoy our life here, O handsome one",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "इति सीता च रामश्च ल��्ष्मणश्च कृताञ्जलिः।\nअभिगम्याऽश्रमं सर्वे वाल्मीकि मभिवादयन्।।2.56.16���।",
+      "transliteration": "",
+      "translation": "Thus Rama, Sita and Lakshmana approached the hermitage of sage Valmiki and paid obeisance to him with folded hands.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तान्महर्षि प्रमुदितः पूजयामास धर्मवित्।\nअस्यतामिति चोवाच स्वागन्तु निवेद्य च।।2.56.17।।",
+      "transliteration": "",
+      "translation": "The great sage Valmiki conversant with righteousness was delighted. He honoured them by extending welcome and said 'Be seated'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "ततोऽब्रवीन्महाबाहुर्लक्ष्मणं लक्ष्मणाग्रजः।\nसन्निवेद्य यथान्याय मात्मानमृषये प्रभुः।।2.56.18।।",
+      "transliteration": "",
+      "translation": "The mightyarmed elder brother of Lakshmana revealed his identity to the sage by duly introducing himself. And said then to Lakshmana:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "लक्ष्मणाऽऽनय दारूणि दृढानि च वराणि च।\nकुरुष्वाऽवसथं सौम्य वासे मेऽभिरतं मनः।।2.56.19।।",
+      "transliteration": "",
+      "translation": "O handsome Lakshmana, make a hut with strong, sound logs of wood. My mind impels me to stay here.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तस्य तद्वचनं श्रुत्वा सौमित्रिर्विविधान् द्रुमान्।\nआजहार तत श्चक्रे पर्णशालामरिन्दमः।।2.56.20।।",
+      "transliteration": "",
+      "translation": "Having heard Rama, Saumitri, the subduer of enemies fetched different kinds of logs of wood, and with them made a hut and thatched it with leaves.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तां निष्ठितां बद्धकटां दृष्ट्वा रामस्सुदर्शनाम्।\nशुश्रूषमाणमेकाग्रमिदं वचनमब्रवीत्।।2.56.21।।",
+      "transliteration": "",
+      "translation": "Rama saw the goodlooking leafhut with mats tied around as walls, and said to Lakshmana who was awaiting further command with rapt attention:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "ऐणेयं मांसमाहृत्य शालां यक्ष्यामहे वयम्।\nकर्तव्यं वास्तुशमनं सौमित्रे चिरजीविभिः।।2.56.22।।",
+      "transliteration": "",
+      "translation": "O Lakshmana those who intend to live for long (in this hut), should pacify the deity presiding over here. Therefore, we shall bring the venison of a black antelope and make necessary offerings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "मृगं हत्वाऽऽनय क्षिप्रं लक्ष्मणेह शुभेक्षण।\nकर्तव्य श्शास्त्रदृष्टो हि विधिर्धर्ममनुस्मर।।2.56.23।।",
+      "transliteration": "",
+      "translation": "Slay an antelope and bring it here quickly. O Lakshmana The rites as prescribed by the scriptures will have to be carried out. You may recollect that tradition.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "भ्रातुर्वचनमाज्ञाय लक्ष्मणः परवीरहा।\nचकार स यथोक्तं च तं राम पुनरब्रवीत्।।2.56.24।।",
+      "transliteration": "",
+      "translation": "Lakshmana, slayer of heroes on the enemy's side, understood and implemented what he was told. Rama again said to him:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "ऐणेयं श्रपयस्वैतच्छालां यक्ष्यामहे वयम्।\nत्वर सौम्य मुहूर्तोऽयं ध्रुवश्च दिवसोऽप्ययम्।।2.56.25।।",
+      "transliteration": "",
+      "translation": "Cook this venison, O handsome one We will offer it to the presiding deity of this hut. Hasten, the day and time are fixed (for the rites)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "स लक्ष्मणः कृष्णमृगं मेध्यं हत्वा प्रतापवान्।\nअथ चिक्षेप सौमित्रिस्समिद्धे जातवेदसि।।2.56.26।।",
+      "transliteration": "",
+      "translation": "Then the powerful son of Sumitra killed a black antelope fit for offering, and offered it to the wellkindled fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "तन्तु पक्वं परिज्ञाय निष्टप्तं छिन्नशोणितम्।\nलक्ष्मण: पुरुषव्याघ्रमथ राघवमब्रवीत्।।2.56.27।।",
+      "transliteration": "",
+      "translation": "With the blood drained out of the venison, Lakshmana roasted it and cooked it well, and then said to Rama, the tiger (best) among men.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "अयं सर्व: समस्ताग्ङ: श्रृत: कृष्णमृगो मया।\nदेवतां देवसङ्काश यजस्व कुशलो ह्यसि।।2.56.28।।",
+      "transliteration": "",
+      "translation": "This black antelope with all its limbs is wellcooked. O divine sire, you may make the \noffering to Vastu devata in which you are proficient.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "राम: स्नात्वा तु नियतो गुणवान् जप्यकोविदः।\nसङ्ग्रहेणाकरोत् स्रवार्न मन्त्रान् सत्रावसानिकान्।।2.56.29।।",
+      "transliteration": "",
+      "translation": "Virtuous Rama, who was an expert in the recitation of mantras, took his bath and his mind controlled, intoned briefly all the mantras appropriate to the completion of the ritual.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "इष्ट्वा देवगणान्सर्वान्विवेशाऽवसथं ���ुचिः।\nबभूव च मनोह्लादो रामस्यामिततेजसः।।2.56.30।।",
+      "transliteration": "",
+      "translation": "Sanctified with the worship of all the gods, Rama of immeasurable lustre felt a great happiness on entering the hut.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "वैश्वदेवबलिं कृत्वा रौद्रं वैष्णव मेव च।\nवास्तुसंशमनीयानि मङ्गलानि प्रवर्तयन्।।2.56.31।।\nजपं च न्यायत कृत्वा स्नात्वा नद्यां यथाविधि।\nपापसंशमनं राम श्चकार बलिमुत्तमम्।।2.56.32।।",
+      "transliteration": "",
+      "translation": "Rama, offered oblations to Visvadevas, Rudra and Visnu,  performed the auspices for the appeasement of the household deity. And having muttered japa silently in conformity with tradition, he took his ablution in the river as enjoined (by the sastras) and offered his final oblations for the expiation of his sins.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "वेदिस्थलविधानानि चैत्यान्यायतनानि च।\nआश्रमस्यानुरूपाणि स्थापयामास राघवः।।2.56.33।।",
+      "transliteration": "",
+      "translation": "Rama, son of the Raghus, made altars in all the quarters, places of worship and sacred spots for fire befitting a hermitage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "वन्यैर्माल्यैः फलैर्मूलैः पक्वैर्मांसैर्यथाविधि।\nअद्भिर्जपैश्च वेदोक्तैर्दर्भैश्च ससमित्कुशैः।।2.56.34।।\nतौ तर्पयित्वा भूतानि राघवौ सह सीतया।\nतदा विविशतु श्शालां सुशुभां शुभलक्षणौ।।2.56.35।।",
+      "transliteration": "",
+      "translation": "Bestowed with auspicious qualities, Rama and Lakshmana along with Sita propitiated those celestial beings with garlands of forest flowers, fruits and roots, wellcooked venison, water, muttering of prayers as expounded in the Vedas, faggots and kusa grass and entered that auspicious hermitage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "तां वृक्षपर्णच्छदनां मनोज्ञां यथाप्रदेशं सुकृतां निवाताम्।\nवासाय सर्वे विविशुस्समेतास्सभां यथा देवगणास्सुधर्माम्।।2.56.36।।",
+      "transliteration": "",
+      "translation": "Just like the gods enter the court of Sudharma, they all stepped into the hut to dwell there. The hut was charming wellbuilt on a suitable site and protected against storm.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "अनेकनानामृगपक्षिसङ्कुले विचित्रपत्रस्तबकैर्द्रुमैर्युते।\nवनोत्तमे व्यालमृगानुनादिते तदा विजह्रु स्सुसुखं जितेन्द्रियाः।।2.56.37।।",
+      "transliteration": "",
+      "translation": "Then they with their senses conquered, enjoyed perfect happiness in that splendid forest teeming with many varieties of animals and birds, with trees full of brilliant clusters of flowers and echoing with the sounds of wild animals.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-56-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "सुरम्यमासाद्य तु चित्रकूटं नदीं च तां माल्यवतीं सुतीर्थाम्।\nननन्द हृष्टो मृगपक्षिजुष्टां जहौ च दुखं पुरविप्रवासात्।।2.35.38।।",
+      "transliteration": "",
+      "translation": "Having reached the marvellous mount Chitrakuta and river Malyavati with excellent holy places and full of animals and birds, Rama shed the sorrow of his banishment from the city (of Ayodhya) and rejoiced with a gladdened heart. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे षट्पञ्चाशस्सर्गः।। Thus ends the fiftysixth sarga in Ayodhyakanda of  the  holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

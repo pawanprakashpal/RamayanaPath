@@ -1,0 +1,207 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 121,
+    "title": "The Fire god restores Sita to Sri Rama testifying her purity.",
+    "titleSanskrit": "",
+    "totalShlokas": 21
+  },
+  "shlokas": [
+    {
+      "id": "v6-121-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "एतच्छ्रुत्वाशुभंवाक्यंपितामहसमीरितम् ।\nअङ्केनादायवैदेहिमुत्पपातविभावसुः ।।6.121.1।।",
+      "transliteration": "",
+      "translation": "On hearing creator Brahma's address to Rama, fire god emerged picking auspicious Vaidehi in his arms.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-121-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "नविधूयाथचितांतांतुवैदेहींहव्यवाहनः ।\nउत्तस्थौमूर्तिमानाशुगृहीत्वाजनकात्मजाम् ।।6.121.2।।",
+      "transliteration": "",
+      "translation": "Then the fire god taking human form emerged from the fire immediately,with Janaka's daughter shaking off the fire sticks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-121-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "तरुणादित्यसङ्काशंतप्तकाञ्चनभूषणाम् ।\nरक्ताम्बरधरांबालांसीलकुञ्चितमूर्थजाम् ।।6.121.3।।\nअक्लिष्टमाल्याभरणांतथारूपामनिन्दिताम् ।\nददौरामायवैदेहीमङ्केकृत्वाविभावसुः ।।6.121.4।।",
+      "transliteration": "",
+      "translation": "Radiating like the rising sun, adorned with polished gold ornaments, wearing red coloured clothes, with beautiful black hair, wearing fresh flowers, being in the same young form as before, blameless Vaidehi was held in the arms of the fire god and presented to Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-121-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "अब्रवीत्तुतदारामंसाक्षीलोकस्यपावकः ।\nएषातेराम वैदेहीपापमस्यां न विद्यते ।।6.121.5।।",
+      "transliteration": "",
+      "translation": "Then the fire god who is a witness in the world, spoke to Rama,\" Here is your wife Vaidehi and she does not know any sin.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-121-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "नैववाचा न मनसानैवबुद्ध्या न चक्षुषा ।\nसुवृत्तावृत्तशौण्डीरन त्वामत्यचरच्छुभा ।।6.121.6।।",
+      "transliteration": "",
+      "translation": "\"Sita is of good conduct and auspicious. To you who are endowed with valour, she is faithful by speech, by intention of thought and intellect and even by glance.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-121-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "रावणेनापनीतैषावीर्योसतिक्तेनरक्षसा ।\nत्वयाविरहितादीनाविवशानिर्जनाद्वनात् ।।6.121.7।।",
+      "transliteration": "",
+      "translation": "\"When she was lonely, piteous, having no control, Rakshasa Ravana, who was proud of his valour abducted her from the forest when no one was there.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-121-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "रुद्धाचान्तःपुरेगुप्तात्वच्छित्तात्वत्परायणा ।\nरक्षिताराक्षसीभिश्चघोराभिर्घोरबुद्धिभिः ।।6.121.8।।",
+      "transliteration": "",
+      "translation": "\"She was separated from you yet fully absorbed in you. She was kept in the gynaeceum secretly and guarded by frightful and ruthless Rakshasa women.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-121-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "प्रलोभ्यमानाविविधंभर्त्स्यमाना च मैथिली ।\nनाचिन्तयततद्रक्षस्त्वद्गतेनान्तरात्मना ।।6.121.9।।",
+      "transliteration": "",
+      "translation": "\" Although Mythili was tempted, threatened also, she had set her mind on you only and not thought of that Rakshasa.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-121-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "विशुद्धभावांनिष्पापांप्रतिगृह्णीष्वमैथिलीम् ।\nन किञ्चिरभिधातव्याअहमाज्ञापयामिते ।।6.121.10।।",
+      "transliteration": "",
+      "translation": "\"Mythili is of untainted mind and a sinless one. Take her back without any reply, I am ordering you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-121-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "ततःप्रीतिमानारामःश्रुत्यैवंवदतांवरः ।\nदध्यौमुहूर्तंधर्मात्माबाष्पव्याकुललोचनः ।।6.121.11।।",
+      "transliteration": "",
+      "translation": "Then the supremely righteous Rama, who is good at speaking rejoiced at heart, his eyes filled with tears, thought for a moment.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-121-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "एवमुक्तोमहातेजाधृतिमान्दृढविक्रमः ।\nउवाचत्रिदशश्रेष्ठंरामोधर्मभृतांवरः ।।6.121.12।।",
+      "transliteration": "",
+      "translation": "Rama who is endowed with valour and firmness, and an upholder of dharma, a supreme person said to Brahma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-121-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अवश्यंत्रिषुलोकेषु न सीतापापमर्हति ।\nदीर्घकालोषिताहीयंरावणान्तःपुरेशुभा ।।6.121.13।।",
+      "transliteration": "",
+      "translation": "\"That Sita is auspicious and has surely not done any sin is known to three worlds. But she lived long in the gynaeceum of Ravana.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-121-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "बालिशोखलुकामात्मारामोदशरथात्मजः ।\nइतिवक्ष्यन्तिमांसन्तोजानकीमविशोध्यहि ।।6.121.14।।",
+      "transliteration": "",
+      "translation": "\"The people will surely say that mighty Dasharatha's son, Rama being lusty at heart has accepted Janaki without testing.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-121-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "अनन्यहृदयांभक्तांमच्चित्तपरिवर्तिनीम् ।\nअहमप्यवगच्छामिमैथिलींजनकात्मजाम् ।।6.121.15।।",
+      "transliteration": "",
+      "translation": "\"I also know that Mythili is ever coming around me with undivided love and is devoted to me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-121-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "इमामपिविशालाक्षींरक्षितांस्वेनतेजसा ।\nरावणोनातिवर्तेतवेलामिवमहोदधिः ।।6.121.16।।",
+      "transliteration": "",
+      "translation": "\"Naturally she is selfeffulgent and can protect herself. Will Ravana be able to violate broad eyed Janakijust as the great ocean can't cross the bounds.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-121-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "प्रत्ययार्थंतुलोकानांत्रयाणांसत्यसंश्रयः ।\nउपेक्षेचापिवैदेहींप्रविशन्तींहुताशनम् ।।6.121.17।।",
+      "transliteration": "",
+      "translation": "\" As I am a follower of truth only, to convince the three worlds I was disregarding Vaidehi entering fire.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-121-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "न हिशक्तःसुदुष्टात्मामनसापिहिमैथिलीम् ।\nप्रधर्षयितुमप्राप्यांदीप्तामग्निशिखामिव ।।6.121.18।।",
+      "transliteration": "",
+      "translation": "\"It could not be possible for the evil minded Rakshasa to access or lay thoughts on Mythili who was glowing like flames of fire.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-121-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "नेयमर्हतिचैश्वर्यंरावणान्तःपुरेशुभा ।\nअनन्याहिमयासीताभास्करेणप्रभायथा ।।6.121.19।।",
+      "transliteration": "",
+      "translation": "\" Auspicious Sita would not have cared for the fortunes in the gynaeceum of Ravana. She is just like the radiance of the sun attached to the sun, attached to me and none other.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-121-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "विशुद्धात्रिषुलोकेषुम���थिलीजनकात्मजा ।\nन विहातुंमयाशक्याकीर्तिरात्ववतायथा ।।6.121.20।।",
+      "transliteration": "",
+      "translation": "\"Mythili is unsullied in the three worlds. Renouncing her is not feasible just as fame and as she is like my own self.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-121-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "अवश्यं च मयाकार्यंसर्वेषांवोवचोहितम् ।\nस्निग्धानांलोकनाधानामेवं च वदतांहितम् ।।6.121.21।।",
+      "transliteration": "",
+      "translation": "\"You are worship worthy of the world and loving people advising me in this way. Your words of good advice are good to all and for me. I will certainly follow.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-121-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "इत्येवम्विजयीमहाबलःप्रशस्यमानःस्वकृतेनकर्मणा ।\nसमेत्यरामःप्रिययामहायशाःसुखंसुखार्होऽनुबभूवराघवः ।।6.121.22।।",
+      "transliteration": "",
+      "translation": "Illustrious Raghava, endowed with mighty prowess, who deserved happiness, spoke like this to all for the service rendered. He was praised by all for his deeds and was happy with his dear wife. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेएकविंशत्युत्तरशततमस्सर्गः ।। This is the end of one hundred and twentyone sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

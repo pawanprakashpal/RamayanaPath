@@ -1,0 +1,432 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 50,
+    "title": "Rama reaches Srngiberapura on the bank of the Ganga--Guha, chief of the nishadas welcomes Rama.",
+    "titleSanskrit": "",
+    "totalShlokas": 46
+  },
+  "shlokas": [
+    {
+      "id": "v2-50-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "विशालान् कोसलान् रम्यान् यात्वा लक्ष्मणपूर्वजः।\nअयोध्याभिमुखो धीमान् प्राञ्जलिर्वाक्यमब्रवीत्।।2.50.1।।",
+      "transliteration": "",
+      "translation": "Having crossed the vast, beautiful kingdom of Kosala, the sagacious elder brother of Lakshmana stood facing Ayodhya with folded palms and said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "आपृच्छे त्वां पुरीश्रेष्ठे काकुत्स्थपरिपालिते।\nदैवतानि च यानि त्वां पालयन्ति वसन्ति च।।2.50.2।।",
+      "transliteration": "",
+      "translation": "O Ayodhya, the best of cities ruled by those born in the Kakutstha race I take leave of you and of all those gods inhabiting and guarding you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "निवृत्तवनवासस्त्वामनृणो जगतीपतेः।\nपुनर्द्रक्ष्यामि मात्रा च पित्रा च सह सङ्गतः।।2.50.3।।",
+      "transliteration": "",
+      "translation": "On completion of exile and my filial obligations to king Dasaratha, lord of the world, discharged, I shall, reunited with my parents, see you again.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "ततो रुधिरताम्राक्षो भुजमुद्यम्य दक्षिणम्।\nअश्रुपूर्णमुखो दीनोऽब्रवीज्जानपदं जनम्।।2.50.4।।",
+      "transliteration": "",
+      "translation": "He looked miserable, his copperred eyes filled with tears. He raised his right hand  and said to the villagers who had come to see him:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "अनुक्रोशो दया चैव यथार्हं मयि वः कृतः।\nचिरं दुःखस्य पापीयो गम्यतामर्थसिद्धये।।2.50.5।।",
+      "transliteration": "",
+      "translation": "You have aptly shown your kindness and compassion to me. It is not proper to prolong one's grief. So do go and altend to your duties.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तेऽभिवाद्य महात्मानं कृत्वा चापि प्रदक्षिणम्।\nविलपन्तो नरा घोरं व्यतिष्ठन्त क्वचित् क्वचित्।।2.50.6।।",
+      "transliteration": "",
+      "translation": "All of them paid their homage by circumambulating the highsouled Rama. Crying  bitterly, they stood here and there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तथा विलपतां तेषामतृप्तानां च राघवः।\nअचक्षुर्विषयं प्रायाद्यथार्कः क्षणदामुखे।।2.50.7।।",
+      "transliteration": "",
+      "translation": "Not yet satisfied (they wanted to linger longer), they stood weeping, while Rama went out of sight just as the Sun disappears at nightfall.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "ततो धान्यधनोपेतान् दानशीलजनान् शिवान्।\nअकुतश्चिद्भयान् रम्यांश्चैत्ययूपसमावृतान्।।2.50.8।।\nउद्यानाम्रवनोपेतान् सम्पन्नसलिलाशयान्।\nतुष्टपुष्टजनाकीर्णान् गोकुलाकुलसेवितान्।।2.50.9।।\nलक्षणीयान्नरेन्द्राणां ब्रह्मघोषाभिनादितान्।    \nरथेन पुरुषव्याघ्रः कोसलानत्यवर्तत।।2.50.10।।",
+      "transliteration": "",
+      "translation": "Rama, the best  of men, crossed the auspicious land of Kosala which was worth seeing by kings. It looked charming with sacrificial posts and altars, pleasure gardens and mango groves and tanks filled with water. It was rich with herds of  cattle, wealth and foodgrains. It was inhabited by charitable, contented and wellnourished people free from fear from any quarter. And it reverberated with the sounds of Vedic recitations.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "मध्येनमुदितं स्फीतं रम्योद्यानसमाकुलम्।\nराज्यं भोग्यं नरेन्द्राणां ययौ धृतिमतां वरः।।2.50.11।।",
+      "transliteration": "",
+      "translation": "Rama, the greatest among those endowed with fortitude, travelled through the  middle of the kingdom which was pleasing, prosperous and full of ravishing gardens fit to be enjoyed by kings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तत स्त्रिपथगां दिव्यां शिवतोयामशैवलाम्।\nददर्श राघवो गङ्गां पुण्यामृषिनिषेविताम्।।2.50.12।।",
+      "transliteration": "",
+      "translation": "There Rama saw the holy Ganga flowing in three (worlds) with her sacred waters, free from moss, and worshipped by sages.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "आश्रमैरविदूरस्थैः श्रीमद्भिस्समलङ्कृताम्।\nकालेऽप्सरोभिर्हृष्टाभि स्सेविताम्भोह्रदां शिवाम्।।2.50.13।।",
+      "transliteration": "",
+      "translation": "The holy Ganga, adorned with graceful hermitages situated not far away is visited at times by delightful nymphs who sport in her lakes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "देवदानवगन्धर्वैः किन्नरैरुपशोभिताम्।\nनानागन्धर्वपत्नीभि स्सेवितां सततं शिवाम्।।2.50.14।।",
+      "transliteration": "",
+      "translation": "The Ganga is graced by devatas, danavas, gandharvas and kinneras. Wives of several gandharvas always visit this auspicious river.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "देवाऽऽक्रीडशताकीर्णां देवोद्यानशतायुताम्।\nदेवार्थमाकाशगमां विख्यातां देवपद्मिनीम्।।2.50.15।।",
+      "transliteration": "",
+      "translation": "Since this river flows through heavens for the gods, it is wellknown as 'Devapadmini' where celestial lotuses grow. The river embraces hundreds of hills serving as sporting places and pleasuregardens for gods.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "जलाघाताट्टहासोग्रां फेननिर्मलहासिनीम्।\nक्वचिद्वेणीकृतजलां क्वचिदावर्तशोभिताम्।।2.50.16।।",
+      "transliteration": "",
+      "translation": "The sound of dashing waters of the Ganga is like her laughter and the foam like her sparkling smile. Here she flows straight like the braid of a maiden and there in whirlpools.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "क्वचित् स्तिमितगम्भीरां क्वचिद्वेगजलाकुलाम्।\nक्वचिद्गम्भीरनिर्घोषां क्वचिद्भैरवनिस्वनाम्।।2.50.17।।",
+      "transliteration": "",
+      "translation": "Here the Ganga runs deep but quiet, there she looks perturbed due to fastflowing waters, here she flows with a deep groan and there with a dreadful roar.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "देवसङ्घाप्लुतजलां निर्मलोत्पलशोभिताम्।\nक्वचिदाभोगपुलिनां क्वचिन्निर्मलवालुकाम्।।2.50.18।।",
+      "transliteration": "",
+      "translation": "Here hosts of celestials take their ablutions and there she shines with lilies of pure blue. Here her banks are curved and there her bed is dotted with patches of white sand.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "हंससारससङ्घुष्टां चक्रवाकोपकूजिताम्।\nसदा मदैश्च विहगैरभिसन्नादितान्तराम्।।2.50.19।।",
+      "transliteration": "",
+      "translation": "The river reverberates with the cries of swans, cranes and chakravakas (ruddy goose). It rings intermittently with the chirpings of birds charged with endless pasison.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "क्वचित्तीररुहैर्वृक्षैर्मालाभिरिवशोभिताम्।\nक्वचित्फुल्लोत्पलच्छन्नां क्वचित्पद्मवनाकुलाम्।।2.50.20।।",
+      "transliteration": "",
+      "translation": "Here on her banks stand trees adorned as though with garlands, and there in her waters abound fullblown lilies and a forest of lotuses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "क्वचित्कुमुदषण्डैश्च कुड्मलैरुपशोभिताम्।\nनानापुष्परजोध्वस्तां समदामिव च क्वचित्।।2.50.21।।",
+      "transliteration": "",
+      "translation": "Here she is decked with hosts of waterlilies and halfblown flowers while elsewhere she looks intoxicated with the pollen fallen from various flowers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "व्यपेतमलसङ्घातां मणिनिर्मलदर्शनाम्।\nदिशागजैर्वनगजै र्मत्तैश्च वरवारणैः।।2.50.22।।\nदेवोपवाह्यैश्च मुहुस्सन्नादितवनान्तराम्।",
+      "transliteration": "",
+      "translation": "The river, cleansed of heaps of impurities, appears like a transparent gem. The interiors of forests on her banks always resounds with the trumpeting of mighty, intoxicated, wild elephants guarding the quarters, fit to be the vehicles of gods.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "प्रमदामिव यत्नेन भूषितां भूषणोत्तमैः।।2.50.23।।\nफलैः पुष्पैः किसलयैर्वृतां गुल्मैर्द्विजैस्तथा।\nशिंशुमारैश्च नक्रैश्च भुजङ्गैश्च निषेविताम्।।2.50.24।।",
+      "transliteration": "",
+      "translation": "Just like a lady, Ganga is decorated with the best of ornaments her banks are filled with fruits, flowers, tender leaves or shoots and (flowering) shrubs. It is inhabited by birds and brahmins and infested with sisumaras (small whales), crocodiles and serpents.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "विष्णुपादच्युतां दिव्यामपापां पापनाशिनीम्।\nतां शङ्करजटाजूटाद्भ्रष्टां सागरतेजसा।।2.50.25।।\nसमुद्रमहिषीं गङ्गां सारसक्रौञ्चनादिताम्।\nआससाद महाबाहुः शृङ्गिबेरपुरं प्रति।।2.50.26।।",
+      "transliteration": "",
+      "translation": "Mightyarmed Rama reached Srngaberapura on the bank of this consort of the ocean, this Ganga loud with the cries of kraunchas and herons. This sinless, divine Ganga, destroyer of sins who flows from the feet of lord Visnu and by the effulgence (penance) of Sagara's son (Bhagiratha) emerged from the matted locks of lord Siva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तामूर्मिकलिलावर्तामन्ववेक्ष्य महारथः।\nसुमन्त्रमब्रवीत्सूतमिहैवाद्य वसामहे।।2.50.27।।",
+      "transliteration": "",
+      "translation": "Beholding river Ganga full of waves and whirlpools, the great chariotwarrior (Rama) said to Sumantra: We shall spend the night here.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "अविदूरादयं नद्या बहुपुष्पप्रवालवान्।\nसुमहानिङ्गुदीवृक्षो वसामोऽत्रैव सारथे।।2.50.28।।",
+      "transliteration": "",
+      "translation": "O charioteer there is a very large ingudi (almond) tree not far from the river, luxuriant with flowers and budding leaves. We shall stay there tonight.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "द्रक्ष्याम स्सरितां श्रेष्ठां सम्मान्यसलिलां शिवाम्।\nदेवदानवगन्धर्वमृगमानुषपक्षिणाम्।।2.50.29।।",
+      "transliteration": "",
+      "translation": "We shall watch Ganga, the best among rivers, whose holy waters are respected by gods, demons, gandharvas, beasts, serpents, men and birds alike.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "लक्ष्मणश्च सुमन्त्रश्च बाढमित्येव राघवम्।\nउक्त्वा तमिङ्गुदीवृक्षं तदोप���यतुर्हयैः।।2.50.30।।",
+      "transliteration": "",
+      "translation": "Lakshmana and Sumantra agreed with Rama, saying 'Be it so' and turned the horses towards that ingudi tree.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "रामोऽभियाय तं रम्यं वृक्षमिक्ष्वाकुनन्दनः।\nरथादवातरत्तस्मात्सभार्य स्सहलक्ष्मणः।।2.50.31।।",
+      "transliteration": "",
+      "translation": "Rama, delight of the Ikshvakus, along with his consort and Lakshmana reached that beautiful tree and alighted from the chariot.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "सुमन्त्रोऽप्यवतीर्यास्मान्मोचयित्वा हयोत्तमान्।\nवृक्षमूलगतं राममुपतस्थे कृताञ्जलिः।।2.50.32।।",
+      "transliteration": "",
+      "translation": "Sumantra also got off the chariot, unyoked the horses and with folded palms stood near Rama who had already reached the foot of the tree.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "तत्र राजा गुहो नाम रामस्यात्मसमस्सखा।\nनिषादजात्यो बलवान् स्थपतिश्चेति विश्रुतः।।2.50.33।।",
+      "transliteration": "",
+      "translation": "There lived the mighty king Guha who was born in the race of nishadas (hunters) and became famous as their lord. He was a friend to Rama who was like his own self.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "स शृत्वा पुरुषव्याघ्रं रामं विषयमागतम्।\nवृद्धैः परिवृतोऽमात्यैः ज्ञातिभिश्चाभ्युपागतः।।2.50.34।।",
+      "transliteration": "",
+      "translation": "Having come to know that Rama, the best among men, had arrived in his region Guha accompanied by senior ministers and people of his clan came to greet him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "ततो निषादाधिपतिं दृष्ट्वा दूरादुपस्थितम्।\nसह सौमित्रिणा राम स्समागच्छद्गुहेन सः।।2.50.35।।",
+      "transliteration": "",
+      "translation": "When Rama and Lakshmana saw from a distance that Guha, king of the nishadas, was approaching them, they went forward to receive him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "तमार्तस्सम्परिष्वज्य गुहो राघवमब्रवीत्।\nयथाऽयोध्या तथेयं ते राम किं करवाणि ते।।2.50.36।।\nईदृशं हि महाबाहो कः प्राप्स्यत्यतिथिं प्रियम्।",
+      "transliteration": "",
+      "translation": "Overwhelmed with grief (to see Rama in bark), Guha embraced Rama and said This is just like Ayodhya to you. What can I do for you? O mightyarmed Rama, who can have the good fortune of receiving  such a beloved guest like you?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "ततो गुणवदन्नाद्यमुपादाय पृथग्विधम्।।2.50.37।।\nअर्घ्यं चोपानयत्क्षिप्रं वाक्यं चेदमुवाच ह।",
+      "transliteration": "",
+      "translation": "Thereafter he quickly brought rice and various kinds of tasty food and drink as welcome offerings and said to him:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "स्वागतं ते महाबाहो तवेयमखिला मही।।2.50.38।।\nवयं प्रेष्या भवान्भर्ता साधु राज्यं प्रशाधि नः।",
+      "transliteration": "",
+      "translation": "O mightyarmed prince, welcome to you This entire land belongs to you. You are our master and we, your servants. Rule this kingdom happily.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "भक्ष्यं भोज्यं च पेयं च लेह्यंचेदमुपस्थितम्।।2.50.39।।\nशयनानि च मुख्यानि वाजिनां खादनं च ते।",
+      "transliteration": "",
+      "translation": "All kinds of food to be taken by biting, chewing, drinking and licking are here for you. There is an excellent bed ready. There are also enough fodder for the horses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "एवं ब्रुवाणं तु गुहं राघवः प्रत्युवाच ह।।2.50.40।।\nअर्चिताश्चैव हृष्टाश्च भवता सर्वथा वयम्।\nपद्भ्यामभिगमाच्चैव स्नेहसन्दर्शनेन च।।2.50.41।।",
+      "transliteration": "",
+      "translation": "Hearing (the words of) Guha, Rama replied By coming on foot to meet us and by displaying your friendliness, you have amply honoured us and pleased us.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "भुजाभ्यां साधु पीनाभ्यां पीडयन्वाक्यमब्रवीत्।।\nदिष्ट्या त्वां गुह पश्यामि ह्यरोगं सह बान्धवैः।\nअपि ते कुशलं राष्ट्रे मित्रेषु च धनेषु च।।2.50.42।।",
+      "transliteration": "",
+      "translation": "Rama embracing him tightly with his strong arms said, O Guha it is fortunate that I am able to see you and your relations in good health. Hope, all is well with your friends, kingdom and (collection of) revenue.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "यत्त्विदं भवता किञ्चित्प्रीत्या समुपकल्पितम्।\nसर्वं तदनुजानामि न हि वर्ते प्रतिग्रहे।।2.50.43।।",
+      "transliteration": "",
+      "translation": "I must give you back whatever you have offered me so affectionately. I am not in a position to accept anything.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "कुशचीराजिनधरं फलमूलाशिनं च माम्।\nविद्धि प्रणिहितं धर्मे तापसं वनगोचरम्।।2.50.44।।",
+      "transliteration": "",
+      "translation": "You must know me as an ascetic devoted to righeousness,and as a wanderer in the forest wearing garments made of bark, kusa grass and antelope skin, subsisting on fruits and roots.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "अश्वानां खादनेनाहमर्थी नान्येन केनचित्।\nएतावताऽत्र भवता भविष्यामि सुपूजितः।।2.50.45।।",
+      "transliteration": "",
+      "translation": "What I now need is fodder for the horses. Nothing more. If you can do this much, I'll deem it a great honour.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "एते हि दयिता राज्ञः पितुर्दशरथस्य मे।\nएतैस्सुविहितैरश्वै भविष्याम्यहमर्चितः।।2.50.46।।",
+      "transliteration": "",
+      "translation": "If these horses which are the favourites of my father, king Dasaratha are wellfed, I shall consider myself honoured.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "अश्वानां प्रतिपानं च खादनं चैव सोऽन्वशात्।\nगुहस्तत्रैव पुरुषां स्त्वरितं दीयतामिति।।2.50.47।।",
+      "transliteration": "",
+      "translation": "Guha ordered the men standing there Give these horses liquids like water and forage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "ततश्चीरोत्तरासङ्गः सन्ध्यामन्वास्य पश्चिमाम्।\nजलमेवाददे भोज्यं लक्ष्मणेनाऽऽहृतं स्वयम्।।2.50.48।।",
+      "transliteration": "",
+      "translation": "Rama wearing the upper garment then offered oblations to Sandhya and partook of only water as refreshment, brought by Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "तस्य भूमौ शयानस्य पादौ प्रक्षाल्य लक्ष्मणः।\nसभार्यस्य ततोऽभ्येत्य तस्थौ वृक्षमुपाश्रितः।।2.50.49।।",
+      "transliteration": "",
+      "translation": "Lakshmana washed the feet of Rama who along with his consort lay upon the ground, and returned to take rest under the tree.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "गुहोऽपि सह सूतेन सौमित्रिमनुभाषयन्।\nअन्वजाग्रत्ततो राममप्रमत्तो धनुर्धरः।।2.50.50।।",
+      "transliteration": "",
+      "translation": "Guha, bow in hand, conversing with Sumantra and Soumitri (Son of Sumitra, Lakshmana) then kept vigil over Rama by remaining awake (all night).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-50-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "तथा शयानस्य ततोऽस्य धीमतो \nयशस्विनो दाशरथेर्महात्मनः।\nअदृष्टदुःखस्य सुखोचितस्य सा \nतदाव्यतीयाय चिरेण शर्वरी।।2.50.51।।",
+      "transliteration": "",
+      "translation": "As the wise, illustrious, magnanimous son of Dasaratha (Rama) who was used to pleasures and not discomfort lay on the ground, the long night slipped away.  इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे पञ्चाशस्सर्गः।। Thus ends the fiftieth sarga of Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 19,
+    "title": "Viswamitra requests king Dasaratha to send Rama to protect the sacrifice contemplated by him -- grief of Dasaratha.",
+    "titleSanskrit": "",
+    "totalShlokas": 21
+  },
+  "shlokas": [
+    {
+      "id": "v1-19-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तच्छ्रुत्वा राजसिंहस्य वाक्यमद्भुतविस्तरम्।\nहृष्टरोमा महातेजा विश्वामित्रोऽभ्यभाषत।।1.19.1।।",
+      "transliteration": "",
+      "translation": "Having heard these wonderful words of Dasaratha, the lion among kings, the brilliant Viswamitra with hair on end replied:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-19-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "सदृशं राजशार्दूल तवैतद्भुवि नान्यथा।\nमहावंशप्रसूतस्य वसिष्ठव्यपदेशिन:।।1.19.2।।",
+      "transliteration": "",
+      "translation": "\"O Tiger among kings having been born on earth in an illustrious lineage and initiated by Vasishta, this way (of speaking) befits you. It cannot be any other way.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-19-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "यत्तु मे हृद्गतं वाक्यं तस्य कार्यस्य निश्चयम्।\nकुरूष्व राजशार्दूल भव सत्यप्रतिश्रव:।।1.19.3।।",
+      "transliteration": "",
+      "translation": "O Tiger among kings I shall unfold the purpose conceived in my mind. Take a decision and be truthful to your promise.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-19-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "अहंनियममातिष्ठे सिध्यर्थं पुरुषर्षभ।\nतस्य विघ्नकरौ द्वौ तु राक्षसौ कामरूपिणौ।।1.19.4।।",
+      "transliteration": "",
+      "translation": "O best among men for the successful completion of a sacrifice I took up a selfimposed  religious observance. Two rakshasas, capable of assuming forms at will, are creating impediments to that sacrifice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-19-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "व्रते मे बहुशश्चीर्णे समाप्त्यां राक्षसाविमौ।\nमारीचश्च सुबाहुश्च वीर्यवन्तौ सुशिक्षितौ।।1.19.5।।\nसमांसरुधिरौघेण वेदिं तामभ्यवर्षताम्।",
+      "transliteration": "",
+      "translation": "When my sacrifice generally speaking, is nearing completion the powerful and welltrained Maricha and Subahu who are raining streams of blood and flesh upon the altar.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-19-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अवधूते तथाभूते तस्मिन्नियमनिश्चये।।1.19.6।।\nकृतश्रमो निरुत्साहस्तस्माद्देशादपाक्रमे।",
+      "transliteration": "",
+      "translation": "The (solemn) vow for observance of religious rites being thus interrupted, I left that country as an exerted and discouraged man.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-19-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "न च मे क्रोधमुत्स्रष्टुं बुद्धिर्भवति पार्थिव।।1.19.7।।\nतथा भूता हि सा चर्या न शापस्तत्र मुच्यते।",
+      "transliteration": "",
+      "translation": "O King my mind does not permit me to vent my wrath. The nature of sacrifice is such that I refrain from cursing them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-19-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "स्वपुत्रं राजशार्दूल रामं सत्यपराक्रमम्।।1.19.8।।\nकाकपक्षधरं शूरं ज्येष्ठं मे दातुमर्हसि।",
+      "transliteration": "",
+      "translation": "O tiger among kings it is befitting of you to entrust your eldest son Rama to me who is valiant, young (having sidelocks of hair) and true to his prowess.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-19-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "शक्तो ह्येष मया गुप्तो दिव्येन स्वेन तेजसा।।1.19.9।।\nराक्षसा ये विकर्तारस्तेषामपि विनाशने।",
+      "transliteration": "",
+      "translation": "Protected by me and by his own divine power, Rama is capable of destroying even those demons causing impediments to the sacrifice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-19-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "श्रेयश्चास्मै प्रदास्यामि बहुरूपं न संशय:।।1.19.10।।\nत्रयाणामपि लोकानां येन ख्यातिं गमिष्यति।",
+      "transliteration": "",
+      "translation": "I will confer upon him, without doubt, a lot of blessings for his wellbeing by which he will attain fame in all the three worlds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-19-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "न च तौ राममासाद्य शक्तौ स्थातुं कथञ्चन।।1.19.11।।\nन च तौ राघवादन्यो हन्तुमुत्सहते पुमान्।",
+      "transliteration": "",
+      "translation": "Both of them (Maricha and Subahu) will not be able to withstand Rama in any way. Rama, and Rama alone, is capable of destroying them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-19-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "वीर्योत्सिक्तौ हि तौ पापौ कालपाशवशं गतौ।।1.19.12।।\nरामस्य राजशार्दूल न पर्याप्तौ महात्मन:।",
+      "transliteration": "",
+      "translation": "Proud of their strength, the two wicked demons have been noosed by Yama, the god of death. O tiger among kings they are no match for the magnanimous Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-19-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "न च पुत्रकृतस्नेहं कर्तुमर्हसि पार्थिव।।1.19.13।।\nअहं ते प्रतिजानामि हतौ तौ विद्धि राक्षसौ।",
+      "transliteration": "",
+      "translation": "\"O king it is not proper for you to hesitate because of your paternal affection. You need to know that both the rakshasas will perish. This, I assure you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-19-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "अहं वेद्मि महात्मानं रामं सत्यपराक्रमम्।।1.19.14।।\nवसिष्ठोऽपि महातेजा ये चेमे तपसि स्थिता:।",
+      "transliteration": "",
+      "translation": "I know Rama who is a great soul, true to his prowess and also Vasishta of great lustre and these other sages who have been steadfast in asceticism also know.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-19-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "यदि ते धर्मलाभं च यशश्च परमं भुवि।।1.19.15।।\nस्थितमिच्छसि राजेन्द्र रामं मे दातुमर्हसि।",
+      "transliteration": "",
+      "translation": "O king of kings, if you are seeking the benefits of righteousness, great everlasting  fame in this world, it is fit and proper to give Rama to me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-19-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "यदिह्यनुज्ञां काकुत्स्थ ददते तव मन्त्रिण:।।1.19.16।।\nवसिष्ठप्रमुखा: सर्वे ततो रामं विसर्जय।",
+      "transliteration": "",
+      "translation": "O Kakustha if your counsellors and all other sages headed by Vasishta give their consent, then only you may relieve Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-19-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अभिप्रेतमसंसक्तमात्मजं दातुमर्हसि।।1.19.17।।\nदशरात्रं हि यज्ञस्य रामं राजीवलोचनम्।",
+      "transliteration": "",
+      "translation": "You should spare your dear son, the lotuseyed Rama, impartial and detached, for ten nights.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-19-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "नात्येति कालो यज्ञस्य यथाऽयं मम राघव।।1.19.18।।\nतथा कुरुष्व भद्रं ते मा च शोके मन: कृथा:।",
+      "transliteration": "",
+      "translation": "O (Dasaratha), descendant of Raghu act in such a manner that the time for my sacrifice is not delayed. Do not indulge in grief. Prosperity to you\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-19-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "इत्येवमुक्त्वा धर्मात्मा धर्मार्थसहितं वच:।।1.19.19।।\nविरराम महातेजा विश्वामित्रो महामुनि:।",
+      "transliteration": "",
+      "translation": "After speaking these words charged with dharma and artha the great sage resplendent Viswamitra fell silent.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-19-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "स तन्निशम्य राजेन्द्रो विश्वामित्रवचश्शुभम्।।1.19.20।।\nशोकमभ्यगमत्तीव्रं व्यषीदत भयान्वित:।",
+      "transliteration": "",
+      "translation": "Having listened to those auspicious words of Viswamitra, the king among kings, (Dasaratha) experienced intense grief out of fear. He became despondent.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-19-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "इति हृदयमनोविदारणं\nमुनिवचनं तदतीव शुश्रुवान्।\nनरपतिरभवन्महांस्तदा\nव्यथितमना: प्रचचाल चासनात्।।1.19.21।।",
+      "transliteration": "",
+      "translation": "The great king felt shaken off his throne after listening to the words of the sage (Viswamitra) which broke his heart and terribly upset his mind. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये  बालकाण्डे एकोनविंशस्सर्ग:।। Thus ends the nineteenth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

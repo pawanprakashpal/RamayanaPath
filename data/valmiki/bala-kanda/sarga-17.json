@@ -1,0 +1,297 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 17,
+    "title": "At the instance of Brahma, devas procreate different forms of monkey chiefs and bears.",
+    "titleSanskrit": "",
+    "totalShlokas": 31
+  },
+  "shlokas": [
+    {
+      "id": "v1-17-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "पुत्रत्वं तु गते विष्णौ राज्ञस्तस्य सुमहात्मन:।\nउवाच देवतास्सर्वास्स्वयम्भूर्भगवानिदम्।।1.17.1।।",
+      "transliteration": "",
+      "translation": "When Visnu had decided to be born as the son of that great king (Dasaratha), the selfborn Lord (Brahma), addressed all devatas :",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-17-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "सत्यसन्धस्य वीरस्य सर्वेषान्नो हितैषिण:।\nविष्णोस्सहायान्बलिनस्सृजध्वं कामरूपिण:।।1.17.2।।",
+      "transliteration": "",
+      "translation": "Create strong and powerful beings capable of assuming forms at free will to extend support to Visnu who is  true to his word, heroic and benevolent.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-17-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "मायाविदश्च शूरांश्च वायुवेगसमाञ्जवे।\nनयज्ञान्बुद्धिसम्पन्नान्विष्णुतुल्यपराक्रमान्।।1.17.3।।\nअसंहार्यानुपायज्ञान् दिव्यसंहननान्वितान्।\nसर्वास्त्रगुणसम्पन्नानमृतप्राशनानिव।।1.17.4।।\nअप्सरस्सु च मुख्यासु गन्धर्वाणां तनूषु च ।\nसृजध्वं हरिरूपेण पुत्रांस्तुल्यपराक्रमान्।।1.17.5।।",
+      "transliteration": "",
+      "translation": "Incarnate as monkeys in the womb of  chiefs of apsarasas and gandharvas. Create sons who have the knowledge of deceitful tricks, who are brave, who match wind in speed, who are endowed with intellect and statecraft, who are determined, who are  knowledgeable in various means of achieving victory, who are supernatural  bodies, who possess capability of employing and resisting weapons, who resemble those who subsist on amrita (immortals) and are equal (to Visnu) in prowess.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-17-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "पूर्वमेव मया सृष्टो जाम्बवानृक्षपुङ्गव:।\nजृम्भमाणस्य सहसा मम वक्त्रादजायत।।1.17.6।।",
+      "transliteration": "",
+      "translation": "Earlier Jambavan, the foremost among bears was suddenly emerged out of my face while I was yawning.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-17-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "ते तथोक्ता भगवता तत्प्रतिश्रुत्य शासनम्।\nजनयामासुरेवं ते पुत्रान्वानररूपिण:।।1.17.7।।",
+      "transliteration": "",
+      "translation": "Instructed by Brahma in that manner, all of them gave birth to sons in the form of monkeys.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-17-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "ऋषयश्च महात्मानस्सिद्धविद्याधरोरगा:।\nचारणाश्च सुतान्वीरान्ससृजुर्वनचारिण:।।1.17.8।।",
+      "transliteration": "",
+      "translation": "Distinguished rishis, siddhas, vidhyadharas, uragas, charanas procreated (in the form of monkeys) heroic sons who became forestdwellers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-17-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "वानरेन्द्रं महेन्द्राभमिन्द्रो वालिनमूर्जितम्।\nसुग्रीवं जनयामास तपनस्तपतां वर:।।1.17.9।।",
+      "transliteration": "",
+      "translation": "Indra gave birth to Vali, chief of monkeys resembling Mahendra mountain and having a mighty body. Sun, great among those producing heat, begot Sugriva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-17-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "बृहस्पतिस्त्वजनयत्तारं नाम महाहरिम्।\nसर्ववानरमुख्यानां बुद्धिमन्तमनुत्तमम्।।1.17.10।।",
+      "transliteration": "",
+      "translation": "Brihaspati begot the intelligent monkey Tara who  had none to surpass him among the monkey chiefs.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-17-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "धनदस्य सुतश्श्रीमान् वानरो गन्धमादन:।\nविश्वकर्मात्वजनयन्नलं नाम महाहरिम्।।1.17.11।।",
+      "transliteration": "",
+      "translation": "Kubera begot glorious Gandhamadana and Viswakarma begot a great monkey Nala.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-17-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "पावकस्य सुतश्श्रीमान् नीलोऽग्निसदृशप्रभ:।\nतेजसा यशसा वीर्यादत्यरिच्यत वानरान्।।1.17.12।।",
+      "transliteration": "",
+      "translation": "Neela, the prosperous son of Agni the firegod who equalled him in glow surpassed other monkeys in energy, renown and prowess.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-17-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "रूपद्रविणसम्पन्नावश्विनौ रूपसम्मतौ।\nमैन्दं च द्विविदं चैव जनयामासतुस्स्वयम्।।1.17.13।।",
+      "transliteration": "",
+      "translation": "Aswini devatas, endowed with wealth and beauty, procreated Mainda and Dwivida who were highly esteemed for their beauty.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-17-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "वरुणो जनयामास सुषेणं वानरर्षभम्।\nशरभं जनयामास पर्जन्यस्तु महाबलम्।।1.17.14।।",
+      "transliteration": "",
+      "translation": "Varuna begot the monkey warrior Sushena and Parjanya, Sarabha of great strength.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-17-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "मारुतस्यात्मजश्श्रीमान्हनुमान्नाम वीर्यवान् ।\nवज्रसंहननोपेतो वैनतेयसमो जवे।।1.17.15।।",
+      "transliteration": "",
+      "translation": "Vayu, the windgod, begot a son named Hanuman, mighty and graceful, having a body as hard as a diamond and speed equal to Garuda's.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-17-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "ते सृष्टा बहुसाहस्रा दशग्रीववधे रता:।\nअप्रमेयबला वीरा विक्रान्ता: कामरूपिण:।।1.17.16।।",
+      "transliteration": "",
+      "translation": "Thousands of warriors possessing immeasurable strength and courage and capable of assuming any form at will were created to kill Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-17-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "मेरुमन्दरसङ्काशा वपुष्म���्तो महाबला:।\nऋक्षवानरगोपुच्छा: क्षिप्रमेवाभिजज्ञिरे।।1.17.17।।",
+      "transliteration": "",
+      "translation": "Endowed with bodies similar to the Meru and Mandara mountains and having  great strength, bears, monkeys, monkeys with cowtails quickly came into being.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-17-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "यस्य देवस्य यद्रूपं वेषो यश्च पराक्रम:।\nअजायत समस्तेन तस्य तस्य सुत: पृथक्।।1.17.18।।",
+      "transliteration": "",
+      "translation": "The sons of devatas retained characteristics like beauty, form and prowess of their procreator (gods).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-17-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "गोलाङ्गूलीषु चोत्पन्ना: केचित्सम्मतविक्रमा:।\nऋक्षीषु च तथा जाता वानरा: किन्नरीषु च।।1.17.19।।",
+      "transliteration": "",
+      "translation": "Some monkeys with acknowledged, valour were born to female monkeys with tails         Similarly some other monkeys were born to female bears and female kinnaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-17-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "देवा महर्षिगन्धर्वास्तार्क्ष्या यक्षा यशस्विन:।\nनागा: किम्पुरुषाश्चैव सिद्धविद्याधरोरगा:।।1.17.20।। \nबहवो जनयामासुर्हृष्टास्तत्र सहस्रश:।\nवानरान्सुमहाकायान्सर्वान्वै वनचारिण:।।1.17.21।।\nअप्सरस्सु च मुख्यासु तथा विद्याधरीषु च।\nनागकन्यासु च तथा गन्धर्वीणां तनूषु च ।।1.17.22।।",
+      "transliteration": "",
+      "translation": "The devatas, rishis, gandharvas, garudas, yakshas, kimpurushas, siddhas, vidyadharas, uragas and many others were immensely pleased. Thousands of gigantic monkeys wandering in forests were procreated from principal apsarasas  vidhyadaris, nagas, and  gandharvas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-17-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "कामरूपबलोपेता यथाकामं विचारिण:।\nसिंहशार्दूलसदृशा दर्पेण च बलेन च।।1.17.23।।",
+      "transliteration": "",
+      "translation": "They were endowed with the powers to assume any form at will. They possessed enormous strength and power to freely wander in forests. They were like lions and tigers in pride and prowess.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-17-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "शिलाप्रहरणास्सर्वे सर्वे पादपयोधिन:।।1.17.24।।\nनखदंष्ट्रायुधास्सर्वे सर्वे सर्वास्त्रकोविदा:।",
+      "transliteration": "",
+      "translation": "They all could strike with rocks, use nails and teeth and trees as weapons. They were skilled in the use of all kinds of weapons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-17-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "विचालयेयुश्शैलेन्द्रान्भेदयेयुस्स्थिरान्द्रुमान्।\nक्षोभयेयुश्च वेगेन समुद्रं सरितां पतिम्।।1.17.25।।",
+      "transliteration": "",
+      "translation": "They could shake mountains and uproot deeprooted trees. With their speed they could cause disturbance to Samudra, the lord of the rivers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-17-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "दारयेयु: क्षितिं पद्भ्यामाप्लवेयुर्महार्णवम्।\nनभ:स्थलम् विशेयुश्च गृह्णीयुरपि तोयदान्।।1.17.26।।",
+      "transliteration": "",
+      "translation": "They could cause cleavage to this earth with their feet, cross the mighty ocean with one leap and enter the sky and even seize the clouds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-17-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "गृह्णीयुरपि मातङ्गान्मत्तान्प्रव्रजतो वने।\nनर्दमानाश्च नादेन पातयेयुर्विहङ्गमान्।।1.17.27।।",
+      "transliteration": "",
+      "translation": "They could capture wild elephants sojourning in the forest and make the flying birds drop down screaming.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-17-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "ईदृशानां प्रसूतानि हरीणां कामरूपिणाम्।\nशतं शतसहस्राणि यूथपानां महात्मनाम्।।1.17.28।।",
+      "transliteration": "",
+      "translation": "A crore of monkeys capable of assuming any form at will, great monkeys and commanders of monkey forces were created.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-17-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "ते प्रधानेषु यूथेषु हरीणां हरियूथपा:।\nबभूवुर्यूथपश्रेष्ठा वीरांश्चाजनयन् हरीन्।।1.17.29।।",
+      "transliteration": "",
+      "translation": "Those monkey commanders created heroic monkeys among the chief monkey clans who later proved the best among clanleaders.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-17-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "अन्ये ऋक्षवत: प्रस्थानवतस्थु स्सहस्रश:।\nअन्ये नानाविधान्शैलान्भेजिरे काननानि च।।1.17.30।।",
+      "transliteration": "",
+      "translation": "Thousands of monkeys dwelt on the plateaus on the top of mountains abounding in bears. Some others inhabited various hills and forests.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-17-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "सूर्यपुत्रं च सुग्रीवं शक्रपुत्रं च वालिनम्।\nभ्रातरावुपतस्थुस्ते सर्व एव हरीश्वरा:।।1.17.31।।\nनलं नीलं हनूमन्तमन्यांश्च हरियूथपान्। 3",
+      "transliteration": "",
+      "translation": "All those leaders, Nala, Neela, Hanuman and others dwelt near those two brothers Sugriva, the offspring of Surya and Vali, the son of Indra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-17-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "ते तार्क्ष्यबलसम्पन्नास्सर्वे युद्धविशारदा:।\nविचरन्तोऽर्दयन्दर्पात्सिंहव्याघ्रमहोरगान्।।1.17.32।।",
+      "transliteration": "",
+      "translation": "Endowed with the might of Garuda and wellversed in warfare, all of them  moving around tormented ferouious lions, tigers and mighty serpents .",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-17-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "तांश्च सर्वान्महाबाहुर्वाली विपुलविक्रम:।\nजुगोप भुजवीर्येण ऋक्षगोपुच्छवानरान्।।1.17.33।।",
+      "transliteration": "",
+      "translation": "Mighty armed leader Vali endowed  with immense prowess  protected, with his strong arms all those bears, gopuchhas(cowtailed) and monkeys.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-17-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "तैरियं पृथिवी शूरैस्सपर्वतवनार्णवा।\nकीर्णा विविधसंस्थानैर्नानाव्यञ्जनलक्षणै:।।1.17.34।।",
+      "transliteration": "",
+      "translation": "Born in many forms  wih various characteristics (relating to the body and tribe), they pervaded this earth with its mountains, forests and seas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-17-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "तैर्मेघबृन्दाचलकूटकल्पै:\nमहाबलैर्वानरयूथपालै:।\nबभूव भूर्भीमशरीररूपै\nस्समावृता रामसहायहेतो:।।1.17.35।।",
+      "transliteration": "",
+      "translation": "In order to assist Rama, this earth was filled with commanders of those who led the monkey forces resembling masses of clouds and mountains. They loan endowed with immense strength and fearful forms and countenances. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे सप्तदशस्सर्ग:।। Thus ends the seventeenth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 67,
+    "title": "Rama strings the bow and breaks-- Janaka  sends counsellors to Ayodhya to bring king Dasaratha",
+    "titleSanskrit": "",
+    "totalShlokas": 27
+  },
+  "shlokas": [
+    {
+      "id": "v1-67-1",
+      "number": 1,
+      "type": "shloka",
+      "original": ".\nजनकस्य वचश्श्रुत्वा विश्वामित्रो महामुनि: ।\nधनुर्दर्शय रामाय इति होवाच पार्थिवम्।।1.67.1।।",
+      "transliteration": "",
+      "translation": "At the words of Janaka, great ascetic Viswamitra said to the king, \"Let the bow be shown to Rama\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-67-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "ततस्स राजा जनक: सामन्तान्व्यादिदेश ह।\nधनुरानीयतां दिव्यं गन्धमाल्यविभूषितम्।।1.67.2।।",
+      "transliteration": "",
+      "translation": "Thereafter king Janaka said to his feudatories, \"Let the divine bow adorned with flowers and sandalpaste be brought\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-67-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "जनकेन समादिष्टा: सचिवा प्राविशन् पुरीम्।\nतद्धनु: पुरत: कृत्वा निर्जग्मु: पार्थिवाज्ञया।।1.67.3।।",
+      "transliteration": "",
+      "translation": "Commanded by (king) Janaka, the ministers went to the city, put the bow in front of them and carried it as per the orders of the king.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-67-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "नृणां शतानि पञ्चाशद्व्यायतानां महात्मनाम्।\nमञ्जूषामष्टचक्रां तां समूहुस्ते कथञ्चन।।1.67.4।।",
+      "transliteration": "",
+      "translation": "Five thousand mighty stalwarts drew with great difficulty the eightwheeled cart on which the bow was placed in a box.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-67-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तामादाय तु मञ्जूषामायसीं यत्र तद्धनु:।\nसुरोपमं ते जनकमूचुर्नृपतिमन्त्रिण:।।1.67.5।।",
+      "transliteration": "",
+      "translation": "The counsellors of the king, brought the iron casket containing the bow and said these words to Janaka comparable to a celestial:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-67-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "इदं धनुर्वरं राजन् पूजितं सर्वराजभि:।\nमिथिलाधिप राजेन्द्र दर्शनीयं यदिच्छसि।।1.67.6।।",
+      "transliteration": "",
+      "translation": "'O Indra among kings O lord of Mithila here is the great bow, worshipped by all kings,  which you intend to show (to Rama)'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-67-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तेषां नृपो वच: श्रुत्वा कृताञ्जलिरभाषत।\nविश्वामित्रं महात्मानं तौ चोभौ रामलक्ष्मणौ।।1.67.7।।",
+      "transliteration": "",
+      "translation": "Having heard this, the king with folded hands said to the great soul Viswamitra sitting with the two princes Rama and Lakshmana:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-67-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "इदं धनुर्वरं ब्रह्मन् जनकैरभिपूजितम्।\nराजभिश्च महावीर्यै: अशक्तै: पूरितुं पुरा।।1.67.8।।",
+      "transliteration": "",
+      "translation": "\"O Brahman in the olden days, this great bow was worshipped by my forefathers. Powerful kings failed to string this bow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-67-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "नैतत्सुरगणास्सर्वे नासुरा न च राक्षसा:।\nगन्धर्वयक्षप्रवरा: सकिन्नरमहोरगा:।।1.67.9।।",
+      "transliteration": "",
+      "translation": "Hosts of devatas, asuras, rakhasas, kinnaras and great serpents, the best of gandharvas and yakshas, also failed (to wield this bow).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-67-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "क्व गतिर्मानुषाणां च धनुषोऽस्य प्रपूरणे।\nआरोपणे समायोगे वेपने तोलनेऽपि वा।।1.67.10।।",
+      "transliteration": "",
+      "translation": "How then can men bend, string, fix the arrow, pull the string and lift it?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-67-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तदेतद्धनुषां श्रेष्ठमानीतं मुनिपुङ्गव।\nदर्शयैतन्महाभाग अनयो: राजपुत्रयो:।।1.67.11।।",
+      "transliteration": "",
+      "translation": "O Eminent ascetic such heaviest bow is brought here, O Highly accomplished sage show this to the two princes\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-67-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "विश्वामित्रस्तु धर्मात्मा श्रुत्वा जनकभाषितम्।\nवत्स राम धनु: पश्य इति राघवमब्रवीत्।।1.67.12।।",
+      "transliteration": "",
+      "translation": "Having heard the words of Janaka, the righteous Viswamitra said: \"O Child O Descendant of Raghu look at this bow\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-67-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "ब्रह्मर्षेर्वचनाद्रामो यत्र तिष्ठति तद्धनु:।\nमञ्जूषां तामपावृत्य दृष्ट्वा धनुरथाब्रवीत्।।1.67.13।।",
+      "transliteration": "",
+      "translation": "At the words of the great rishi Viswamitra, Rama opened the casket, beheld  the bow and said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-67-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "इदं धनुर्वरं ब्रह्मन् संस्पृशामीह पाणिना।\nयत्नवांश्च भविष्यामि तोलने पूरणेऽपि वा।।1.67.14।।",
+      "transliteration": "",
+      "translation": "\"O Brahmarshi, shall I touch this great bow with my hands lift and string it\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-67-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "बाढमित्येव तं राजा मुनिश्च समभाषत।\nलीलया स धनुर्मध्ये जग्राह वचनान्मुने:।।1.67.15।",
+      "transliteration": "",
+      "translation": "The king as also the rishi said \"Be it so\". At the words of the sage (Viswamitra), he (Rama) took hold of the bow by the its middle with ease:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-67-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "पश्यतां नृपसहस्राणां बहूनां रघुनन्दन: ।\nआरोपयत्स धर्मात्मा सलीलमिव तद्धनु:।।1.67.16।।",
+      "transliteration": "",
+      "translation": "Virtuous Rama, the delight of the Raghus, in the presence of several thousands of men fixed the string to the bow and drew it as though with ease.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-67-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "आरोपयित्वा धर्मात्मा पूरयामास तद्धनु:।\nतद्बभञ्ज धनुर्मध्ये नरश्रेष्ठो महायशा:।।1.67.17।।",
+      "transliteration": "",
+      "translation": "Rama, the best among men, righteous and famous lifted the bow. Stringing it with a twang he drew it and broke it into two in the middle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-67-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तस्य शब्दो महानासीत् निर्घातसमनिस्वन:।\nभूमिकम्पश्च सुमहान् पर्वतस्येव दीर्यत:।।1.67.18।।",
+      "transliteration": "",
+      "translation": "It generated a loud sound like the clap of thunder, like the trembling of the earth and the splitting of a mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-67-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "निपेतुश्च नरा स्सर्वे तेन शब्देन मोहिता:।\nवर्जयित्वा मुनिवरं राजानं तौ च राघवौ।।1.67.19।।",
+      "transliteration": "",
+      "translation": "On hearing the sound, except Janaka, Viswamitra and the two raghavas (Rama and Lakshmana) the rest of the people around fell down and fainted.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-67-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "प्रत्याश्वस्ते जने तस्मिन्राजा विगतसाध्वस:।\nउवाच प्राञ्जलिर्वाक्यं वाक्यज्ञो मुनिपुङ्गवम्।।1.67.20।।",
+      "transliteration": "",
+      "translation": "When the people recovered the king skilful in the use  of words addressed the eminent ascetic  without apprehension with folded palms in the following words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-67-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "भगवन् दृष्टवीर्यो मे रामो दशरथात्मज:।\nअत्यद्भुतमचिन्त्यं च न तर्कितमिदं मया।।1.67.21।।",
+      "transliteration": "",
+      "translation": "\"O Worshipful one I have witnessed the prowess of Rama, son of Dasaratha. I had not  imagined that this marvellous feat could be ever accomplished.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-67-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "जनकानां कुले कीर्तिमाहरिष्यति मे सुता।\nसीता भर्तारमासाद्य रामं दशरथात्मजम्।।1.67.22।।",
+      "transliteration": "",
+      "translation": "By receiving Rama, son of Dasaratha, as her husband, my daughter Sita will bring glory to my dynasty.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-67-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "मम सत्या प्रतिज्ञा च वीर्यशुल्केति कौशिक।\nसीता प्राणैर्बहुमता देया रामाय मे सुता।।1.67.23।।",
+      "transliteration": "",
+      "translation": "O Son of Kausika I announce Sita to be the 'Reward of prowess'. My vow has come true. She is more valuable than my life and fit to be given to Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-67-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "भवतोऽनुमते ब्रह्मन् शीघ्रं गच्छन्तु मन्त्रिण:।\nमम कौशिक भद्रं ते अयोध्यां त्वरिता रथै:।।1.67.24।।",
+      "transliteration": "",
+      "translation": "O Brahmarshi Kausika, be blessed With your consent my ministers will take the chariots to Ayodhya immediately.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-67-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "राजानं प्रश्रितैर्वाक्यैरानयन्तु पुरं मम।\nप्रदानं वीर्यशुल्काया: कथयन्तु च सर्वश:।।1.67.25।।",
+      "transliteration": "",
+      "translation": "That Sita, the reward of prowess is to be given to Rama be reventially communicated in detail to king Dasaratha and he may be conveyed here.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-67-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "मुनिगुप्तौ च काकुत्स्थौ कथयन्तु नृपाय वै।\nप्रीयमाणं तु राजानमानयन्तु सुशीघ्रगा:।।1.67.26।।",
+      "transliteration": "",
+      "translation": "The welfare of the descendant of Kausika (Rama and Lakshmana) under the protection of sage (Viswamitra) be reported to the king. The king who will be happy to hear this  be brought here by swiftfooted men\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-67-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "कौशिकश्च तथेत्याह राजा चाभाष्य मन्त्रिण:।।1.67.27।।\nअयोध्यां प्रेषयामास धर्मात्मा कृतशासनान्।\nयथावृत्तं समाख्यातुमानेतुं च नृपं तदा।।1.67.28।।",
+      "transliteration": "",
+      "translation": "The son of Kausika (Viswamitra) also said, \"So be it\". The virtuous king, having consulted his ministers, despatched counsellors to Ayodhya to communicate to king Dasaratha all that had taken place and bring him (to Mithila). इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे सप्तषष्टितमस्सर्ग:।। Thus ends the sixtyseventh sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

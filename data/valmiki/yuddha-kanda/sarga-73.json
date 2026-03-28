@@ -1,0 +1,621 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 73,
+    "title": "Indrajith consoles Ravana, takes up Brahmastra and attacks Rama and Lakshmana and the army of Vanaras and makes them become unconscious by the network of arrows.",
+    "titleSanskrit": "",
+    "totalShlokas": 67
+  },
+  "shlokas": [
+    {
+      "id": "v6-73-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततोहतान्राक्षसपुङ्गवांस्ता���् देवान्तकादित्रिशिरोतिकायान् ।\nरक्षोगणास्तत्रहतावशिष्टास��तेरावणायत्वरिताश्शशंसुः ।।6.73.1।।",
+      "transliteration": "",
+      "translation": "Then the Rakshasas who survived the killings, hurriedly reported to the Rakshasa king, Ravana about the killing of Devanthaka, Trisira and Atikaya.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "ततोहतांस्तान् सहसानिशम्यराजामुमोहपरिप्लुताक्षः ।\nपुत्रक्षयंभ्रातृवधं च घोरंविचिन्त्यराजाविपुलंप्रदध्यौ ।।6.73.2।।",
+      "transliteration": "",
+      "translation": "There upon the king, getting to know suddenly about the dreadful killing of his son and brother lost his senses. His eyes were filled with tears, and he was thinking seriously.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "ततस्तुराजानमुदीक्ष्यदीनंशोकार्णवेसम्परिपुप्लुवानम् ।\nरथर्षभोराक्षसराजसूनुस्तमिन्द्रजिद्वाक्यमिदंबभाषे ।।6.73.3।।",
+      "transliteration": "",
+      "translation": "Thereafter, seeing the desperate Rakshasa king immersed in a sea of sorrow, Indrajith, son of Ravana, foremost of the chariot riders, submitted as follows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "न तात मोहंपरिगन्तुमर्हसियत्रेन्द्रजिजजीवतिराक्षसेन्द्र ।\nनेन्द्रारिबाणाभिहतोहिकश्चित्प्राणान् समर्थस्समरेऽभिपातुम् ।।6.73.4।।",
+      "transliteration": "",
+      "translation": "\"Dear king of Rakshasas! Do not give way to despair when Indrajith is alive. Indeed, struck by Indrajith's arrows in battle it is not possible for anyone to be with life.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "पश्याद्यरामंसहलक्ष्मणेनमद्बाणनिर्भिन्नविकीर्णदेहम् ।\nगतायुषंभूमितलेशयानंशितैश्शरैराचितसर्वगात्रम् ।।6.73.5।।",
+      "transliteration": "",
+      "translation": "\"Now you will see Rama along with Lakshmana also, their body torn into pieces along with their army their life ceased, lying on the ground pierced with arrows all over the limbs.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "इमांप्रतिज्ञांशृणुशक्रशत्रोःसुनिश्चितांपौरुषदैवयुक्ताम् ।\nअद्यैवरामंसहलक्ष्मणेनसन्तर्पयिष्यामिशरैरमोघैः ।।6.73.6।।",
+      "transliteration": "",
+      "translation": "\"Listen to this vow of Indra's enemy, which is fully determined and combined with manliness and divinity. I shall put an end to Rama and Lakshmana with my wonderful arrows.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "अद्येन्द्रवैवस्वतविष्णुमित्रसाध्याश्चवैश्वानरचन्���्रसूर्याः ।\nद्रक्ष्यन्तुमेविक्रममप्रमेयंविष्णोरिवोग्रंबलियज्ञवाटे ।।6.73.7।।",
+      "transliteration": "",
+      "translation": "\"Today, Indra, Vishnu, Mitra, Sadhyas, Vysvanara, moon and Sun will witness my immeasurable prowess as they witnessed the terrible prowess of Vishnu at the fire sacrifice of Bali.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "स एवमुक्त्वात्रिदशेन्द्रशत्रुरापृच्छयराजानमदीनसत्त्वः ।\nसमारुरोहानितुल्यवेगंरथंखरश्रेष्ठसमाधियुक्तम् ।।6.73.8।।",
+      "transliteration": "",
+      "translation": "(Indrajith) having spoken in that manner, taking leave of the king, the enemy of Indra (the ruler of gods), ascended the chariot swift as wind in speed, drawn by the best of donkeys.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तमास्थायमहातेजारथंहरिरथोपमम् ।\nजगामसहसातत्रयत्रयुद्धमरिन्दमः ।।6.73.9।।",
+      "transliteration": "",
+      "translation": "Highly energetic he (Indrajith) was, a tamer of enemies, seated in the chariot that was like Indra's, quickly went to the battlefield from there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तंप्रस्थितंमहात्मानमनुजग्मुर्महाबलाः ।\nसम्हर्षमाणाबहनोधनुष्प्रवरपाणयः ।।6.73.10।।\nगजस्कन्धगताःकेचित्केचित्प्रवरवाजिभिः ।\nव्याघ्रवृश्चिकमार्जारखरोरोष्ट्रैश्चभुजङ्गमैः ।।6.73.11।।\nवराहैश्श्वापदैस्सिंहैर्जम्बुकैःपर्वतोपमैः ।\nकाकहंसमयूरैश्चराक्षसाभीमविक्रमाः ।।6.73.12।।\nप्रासमुद्गरनिस्त्रिंशपरश्वथगदाधराः ।\nभुशुण्डिमुद्गरायष्टिशतघ्नीपरिघायुधा ।।6.73.13।।",
+      "transliteration": "",
+      "translation": "Many Rakshasas of terrific valour, endowed with extraordinary strength, happily, wielding excellent bows, taking barbed missiles, hammers, whetted axes, maces, Bhusandi mallets, Ayasthis, Sataghnis, and Parighas, making noise, went following great Indrajith. Some went on the back of elephants and horses, tigers as large as mountains, scorpions, cats, donkeys, and camels. As well as on serpents, lions, tigers, and jackals.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "स शङ्खनिनदैःपूर्णैर्भेरीणांचापिनिस्स्वनैः ।\nजगामत्रिदशेन्द्रास्तूयमानोनिशाचरैः ।।6.73.14।।",
+      "transliteration": "",
+      "translation": "The Rakshasas went on praising the enemy of Indra, Indrajith, making noise, blowing conchs in full blast, beating drums.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "स शङ्खशशिवर्णेनछत्रेणरिपुसूदनः ।\nरराजप्रतिपूर्णेननभश्चन्द्रमसायथा ।।6.73.15।।",
+      "transliteration": "",
+      "translation": "He, the destroyer of foes went with white parasols like a full moon shine in the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "अवीज्यतततोवीरोहैमैर्हेमविभूषितैः ।\nचारुचामरमुख्यैश्चमुख्यस्सर्वधनुष्मताम् ।।6.73.16।।",
+      "transliteration": "",
+      "translation": "Thereafter the chief hero went decked with golden ornaments, fanned by archers holding whisks with gold handles.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "स तुदृष्टवाविनिर्यान्तंबलेनमहातावृतम् ।\nराक्षसाधिपतिश्रशीमान् रावणःपुत्रमब्रवीत् ।।6.73.17।।",
+      "transliteration": "",
+      "translation": "Ravana, the prosperous king of Rakshasas, seeing his son sallying forth surrounded by huge army spoke.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "त्वमप्रतिरथःपुत्रत्वयावैवासवोजितः ।\nकिम्पुनर्मानुषंधृष्यंनिहनिष्यसिराघवम् ।।6.73.18।।\nतथोक्तोराक्षसेन्द्रेणप्रत्यगृह्णान्महाशिषः ।",
+      "transliteration": "",
+      "translation": "\"Son! there is no adversary who can fight with you sitting in a chariot. Indra has been won by you. What to say about mortals like Rama who can be assailed by you.\"Rakshasa king having spoken that way, Indrajith accepted the blessings and departed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तस्त्विन्द्रजितालङ्कासूर्यप्रतिमतेजसा ।।6.73.19।।\nरराजाप्रतिवीर्येणद्यौरिवार्केणभास्वता ।",
+      "transliteration": "",
+      "translation": "Then Lanka shone like the Sun in the sky with Indrajith who was effulgent like the Sun and matchless in valour shone.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "सम्प्राप्यमहातेजायुद्धभूमिमरिन्दमः ।।6.73.20।।\nस्थापयामासरक्षांसिरथंप्रतिसमन्ततः ।",
+      "transliteration": "",
+      "translation": "Upon reaching the battlefield, he, the tamer of foes, highly energetic Indrajith, ranged the Rakshasas around the chariot.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "ततस्तुहुतभोक्तारंहुतभुक्सदृशप्रभः ।।6.73.21।।\nजुहावराक्षसश्रेष्ठोमन्त्रवद्विधिवत्तदा ।",
+      "transliteration": "",
+      "translation": "Then the foremost of Rakshasas, who was like fire god in brilliance worshipped fire god with chanting of mantras as per tradition.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "सहविर्लाजसंस्कारैर्माल्यगन्धपुरस्कृतैः ।।6.73.22।।\nजुहुवेपावकंतत्रराक्षनेन्द्रःप्रतापवान् ।",
+      "transliteration": "",
+      "translation": "The heroic Rakshasa king worshipped according to tradition with flowers and fragrance followed by parched grain and fire god.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "शस्त्राणिशरपत्राणिसमिधोऽथविभीतकाः ।।6.73.23।।\nलोहितानि च वासांसिस्रुवंकार्ष्णायसंतथा ।",
+      "transliteration": "",
+      "translation": "In that fire sacrifice, weapons were leaves, bibika sticks were fuel, red pieces of cloth were used, and in the same way the ladle for sacrifice was made of iron.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "सतत्राग्निंसमास्तीर्यशरपत्रैस्सतोमरैः ।।6.73.24।।\nछागस्यकृष्णवर्णस्यगळंजग्राहजीवतः ।",
+      "transliteration": "",
+      "translation": "There he strewed into the fire, lances as leaves, dark coloured live go at clasped by its neck and consigned.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "सकृदेवसमिद्धस्यविधूमस्यमहार्चिषः ।।6.73.25।।\nबभूवुस्तानिलिङ्गानिविजयंयान्यदर्शयन् ।",
+      "transliteration": "",
+      "translation": "From the fire set ablaze by the of fearing of fire sticks into it was free from smoke burst into flames indicating victory.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "प्रदक्षिणावर्तशिखस्तप्तकाञ्चनभूषणः ।।6.72.26।।\nहविस्तत्प्रतिजग्राहपावकस्स्वयमास्थितः ।",
+      "transliteration": "",
+      "translation": "The fire god himself, decked in polished gold ornaments turned round and accepted the offerings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "सोऽस्त्रमाहारयामासब्राह्ममिन्द्ररिपुस्तदा ।।6.73.27।।\nधनुश्चात्मरथंचैवसर्वंतत्राभ्यमन्त्रयत् ।",
+      "transliteration": "",
+      "translation": "He, with whom weapons are adept invoked weapon presided over by Brahma and charged his own chariot with it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तस्मिन्नाहूयमानेस्त्रेहूयमाने च पावके ।।6.73.28।।\nसार्धंग्रहेन्दुनक्षत्रैर्वितत्रासनभस्थ्सलम् ।",
+      "transliteration": "",
+      "translation": "While the missile was being invoked and fire sacrifice was done, all planets, moon, Sun, and Stars in the sky shook in fear.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "स पावकंपावकदीप्ततेजाहुत्वामहेन्द्रप्रतिमप्रभावः ।\nस चापबाणासिरथाश्वसूतःखेऽन्तर्दधेऽत्मानमचिन्त्यरूपः ।।6.73.29।।",
+      "transliteration": "",
+      "translation": "Flaming like fire god, endowed with the prowess of Indra, possessing inconceivable form, Indrajith with his bow, arrows and chariot disappeared into the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "ततोहयरथाकीर्णंपताकाध्वजशोभितम् ।\nनिर्ययौराक्षसबलंनर्दमानंययुत्सया ।।6.73.30।।",
+      "transliteration": "",
+      "translation": "Then, the Rakshasa army filled with horses and chariots, graced with pennants and flags, desiring to fight went roaring aloud.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "तेशरैर्बहुभिश्चित्रैस्तीक्ष्णवेगैरलङ्कृतैः ।\nतोमरैरङ्कुशैश्चापिवानरान् जघ्नुराहवे ।।6.73.31।।",
+      "transliteration": "",
+      "translation": "They began to strike Vanaras, with many wonderfully decorated, sharp and swift arrows, lances, and tridents.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "रावणिस्तुततस्सङ्कृद्धस्तान्निरीक्ष्यनिशाचरान् ।\nहृष्टाभवन्तोयुध्यन्तुवानराणांजिघांसया ।।6.73.32।।",
+      "transliteration": "",
+      "translation": "Thereafter enraged Ravana's son looking at the Rakshasas said, \"Be happy and kill the Vanaras in fight.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "ततस्तेराक्षसास्सर्वेनर्धन्तोजयकाङ्क्षिणः ।\nअभ्यवर्षंस्ततोघोरान्वानरान् शरव��ष्टिभिः ।।6.73.33।।",
+      "transliteration": "",
+      "translation": "Thereafter the Rakshasas roaring and longing for victory rained arrows in a terrific manner at the Vanaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "स तुनालीकनाराचैर्गदाभिर्मुसलैरपि ।\nरक्षोभिस्सम्वृतस्सङ्ख्येवानरान् विचकर्त ह ।।6.73.34।।",
+      "transliteration": "",
+      "translation": "Indrajith, remaining concealed and surrounded by Rakshasas, destroyed the Vanaras with nalikas, steel arrows and maces.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "तेवध्यमानास्समरेवानराःपादपायुधाः ।\nअभ्यवर्षन्तसहसारावणिंशैलपादपैः ।।6.73.35।।",
+      "transliteration": "",
+      "translation": "Struck in the battle by Indrajith, the Vanaras rained heavily armed with trees and rocks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "इन्द्रजित्तुतदाक्रुद्धोमहातेजामहाबलः ।\nवानराणांशरीराणिव्यधमद्रावणात्मजः ।।6.73.36।।",
+      "transliteration": "",
+      "translation": "Mighty and energetic son of Ravana, Indrajith became angry and began to attack the Vanaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "शरेणैकेन च हरीन्नवपञ्च च सप्त च ।\nबिभेदसमरेक्रुद्धोराक्षसान् संप्रहर्षयन् ।।6.73.37।।",
+      "transliteration": "",
+      "translation": "Filled with anger, Indrajith alone with nine, five, seven arrows tore the Vanaras into pieces.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "स शरैस्सूर्यसङ्काशैश्शातकुम्भविभूषितैः ।\nवानरान् समरेवीरःप्रममाथसुदुर्जयः ।।6.73.38।।",
+      "transliteration": "",
+      "translation": "Hero Indrajith, who is difficult to conquer in battle, killed the Vanaras with sun like arrows decorated with gold.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "तेभिन्नगात्रास्समरेवानराश्शरपीडिताः ।\nपेतुर्मथितसङ्कल्पास्सुरैरिवमहासुराः ।।6.73.39।।",
+      "transliteration": "",
+      "translation": "Pierced by arrows in the battle, those Vanaras with their necks broken, giving up hopes of winning, frustrated, fell like the demons oppressed by great gods.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "तंतपन्तमिवादित्यंघोरैर्बाणगभस्तिभिः ।\nअभ्यधावन्तसङ्कृद्धास्सम्युगेवानरर्षभाः ।।6.73.40।।",
+      "transliteration": "",
+      "translation": "Then the bulls among Vanaras rushed in the battlefield towards Indrajith whose arrows were dreadful and blazing like the Sun 's rays.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "ततस्तुवानरास्सर्वेभिन्नदेहाविचेतसः ।\nव्यथिताविद्रवन्तिस्मरुधिरेणसमुक्षिताः ।।6.73.41।।",
+      "transliteration": "",
+      "translation": "Then Vanaras with their bodies broken, courage and consciousness lost, blood flowed from mutilated bodies.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "रामस्यार्थेपराक्रम्यवानरास्त्यक्तजीविताः ।\nनर्दन्तस्तेऽभिवृत्तास्तुसमरेसशिलायुधाः ।।6.73.42।।",
+      "transliteration": "",
+      "translation": "Vanaras, armed with rocks in the battle, roaring and not turning back, stood for the cause, giving up their life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "तेद्रुमैःपर्वताग्रैश्चशिलाभिश्चप्लवङ्गमाः ।\nअभ्यवर्षन्तसमरेरावणिंपर्यवस्थिताः ।।6.73.43।।",
+      "transliteration": "",
+      "translation": "The Vanaras retreated back to the battle and rained on Ravana's son, trees, mountains and rocks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "तद्रुमाणांशिलानां च वर्षंप्राणहरंमहत् ।\nव्यपोहतमहातेजारावणिस्समितिंजयः ।।6.73.44।।",
+      "transliteration": "",
+      "translation": "Energetic Indrajith, who is ever victorious in battle dispersed the deadly rain of rocks and trees capable of taking out life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "ततःपावकसङ्काशैश्शरैराशीविषोपमैः ।\nवानराणामनीकानिबिभेदसमरेप्रभुः ।।6.73.45।।",
+      "transliteration": "",
+      "translation": "Then the Lord of Rakshasas dispersed the complete army of Vanaras with arrows burning like fire and resembling venomous serpents.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "अष्टादशशरैस्तीक्ष्णैस्सविदद्वागन्धमादनम् ।\nविव्याथनवभिश्चैवनलंदूरादवस्थितम् ।।6.73.46।।",
+      "transliteration": "",
+      "translation": "He shattered Gandhamadana with eighteen very sharp arrows and Nala standing at far with nine arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "सप्तभिस्तुमहावीर्योमैन्दंमर्मविदारणैः ।\nपञ्चभिर्विशिखैश्चैवगजंविव्याथसंयुगे ।।6.73.47।।",
+      "transliteration": "",
+      "translation": "Indrajith, the eminent hero, hurt Mainda in private parts and even afflicted Gaja with five spades in the battle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "जाम्बवन्तंतुदशभिर्नीलंत्रिंशद्भिरेव च ।\nसुग्रीवमृषभंचैवसोऽङ्गदंद्विविधंतथा ।।6.73.48।।\nघोरैर्दत्तवरैस्तीक्ष्णैर्निष्प्राणानकरोत्तदा ।",
+      "transliteration": "",
+      "translation": "Then he struck Jambavan with ten, Neela with thirty, and Sugriva, Rshaba and Angada. In the same way Dwivida with sharp and terrific arrows that were bestowed upon him as boons and made them lose consciousness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "अन्यानपितदामुख्यान्वानरान् बहुभिश्शरैः ।।6.73.49।।\nअर्दयामाससङ्कृद्धःकालानगिरिवमूर्छितः ।",
+      "transliteration": "",
+      "translation": "Highly enraged like the fire at the time of universal destruction, he tormented many chiefs of Vanaras and others.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "सशरैस्सूर्यसङ्काशैस्सुमुक्सैशशीघ्रगामिभिः ।।6.73.50।।\nवानराणामनीकानिनिर्ममन्थमहारणे ।",
+      "transliteration": "",
+      "translation": "He, with his swift moving arrows, bright like the Sun , stretching to the ear hurt many vanaras in that great war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "आकुलांवानरींसेनांशरजालेनमोहिताम् ।।6.73.51।।\nहृष्टस्सपरयाप्रीत्याददर्शक्षतजोक्षिताम् ।",
+      "transliteration": "",
+      "translation": "Seeing the vast Vanara army deluded by the net of arrows, Indrajith was very happy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "वानरेवमहातेजाराक्षसेन्द्रात्मजोबली ।।6.73.52।।\nसंसृज्यबाणवर्षं च शस्त्रवर्षं च दारुणम् ।\nममर्दवानरानीकमिन्द्रजित्त्वरितोबली ।।6.73.53।।",
+      "transliteration": "",
+      "translation": "Highly energetic, mighty, and swift Indrajith raining sharp arrows and weapons quickly Devastated the Vanara army.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "स्वसैन्यमुत्सृज्यसमेत्यतूर्णंमहारणेवानरवाहिनीषु ।\nअदृश्यमानश्शरजालमुग्रंववर्षनीलाम्बुधरोयथाम्बु ।।6.73.54।।",
+      "transliteration": "",
+      "translation": "Leaving from his own army space, moving swiftly, remaining concealed in the blue sky like a rain cloud, Indrajith rained a net of arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "तेशक्रजिद्बाणविशीर्णदेहामायाहताविस्वरमुन्नदन्तः ।\nरणेनिपेतुर्हरयोऽद्रिकल्पायथेन्द्रवज्राभिहतानगेन्द्राः ।।6.73.55।।",
+      "transliteration": "",
+      "translation": "In the battle, the Vanaras who were like mountains, became victims of cheating, and were struck by Indrajith's thunderbolt like arrows. Their bodies were broken and shrieking in discordant tones they fell like mountains.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "तेकेवलंसन्ददृशुशशिताग्रान्बाणान्रणेवानरवाहिनीषु ।\nमायानिगूढंतुसुरेन्द्रशत्रुं न चावृतंराक्षसमभ्यपश्यन् ।।6.73.56।।",
+      "transliteration": "",
+      "translation": "The Vanara troops saw only the sharp pointed arrows covering them. They could not see the enemy of Indra being concealed by magical power.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "ततस्सरक्षोधिपतिर्महात्मासर्वादिशोबाणगणैशशिताग्रैः ।\nप्रच्छादयामासरविप्रकाशैर्विपादयामास च वानरेन्द्रान् ।।6.73.57।।",
+      "transliteration": "",
+      "translation": "Thereafter the mighty Lord of Rakshasas despatched volley of sharp tipped arrows bright like the Sun, at Vanara leaders on all sides and eradicated.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-54",
+      "number": 54,
+      "type": "shloka",
+      "original": "स शूलनिस्त्रिंशपरश्वधानिव्याविध्यदीप्तानलसन्निभानि ।\nसविस्फुलिङ्गोज्ज्वलपावकानिववर्षतीव्रंप्लवगेन्द्रसैन्ये ।।6.73.58।।",
+      "transliteration": "",
+      "translation": "He rained a violent shower of tridents, swords and axes burning like sacrificial fire shedding flames with fire sparks on the Vanara army.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-55",
+      "number": 55,
+      "type": "shloka",
+      "original": "ततोज्वलनसङ्काशैश्शरैर्वानरयूथपाः ।\nताडिताश्शक्रजिद्बाणैःप्रफुल्लाइवकिंशुकाः ।।6.73.59।।",
+      "transliteration": "",
+      "translation": "Struck by Indrajith's arrows, the (bodies of) Vanara troops were glowing like Kimsuka trees (red in colour) bearing flowers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-56",
+      "number": 56,
+      "type": "shloka",
+      "original": "तेन्योन्यमभिसर्पन्तोनिनदन्तश्चविस्वरम् ।\nराक्षसेन्द्रास्त्रनिर्भिन्नानिपेतुर्वानरर्षभाः ।।6.73.60।।",
+      "transliteration": "",
+      "translation": "Hit by the Rakshasa king, the bulls among Vanaras gliding towards one another roared in discordant tones and fell down.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-57",
+      "number": 57,
+      "type": "shloka",
+      "original": "उदीक्षमाणागगनंकेचिन्नेत्रेषुताडिताः ।\nशरैर्विविशुरन्योन्यंपेतुश्चजगतीतले ।।6.73.61।।",
+      "transliteration": "",
+      "translation": "Some Vanaras looking up to the sky eyes pierced with arrows held one another and fell on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-58",
+      "number": 58,
+      "type": "shloka",
+      "original": "हनूमन्तं च सुग्रीवमङ्गदंगन्धमादनम् ।\nजाम्बवन्तंसुषेणं च वेगदर्शिनमेव च ।।6.73.62।।\nमैन्दं च द्विविदंनीलंगवाक्षंगजगोमुभौ ।\nकेसरिंहरिलोमानंविद्युद्धंष्ट्रं च वानरम् ।।6.73.63।।\nसूर्याननंज्योतिमुखंतथादधिमुखंहरिम् ।\nपावकाक्षनळंचैवकुमुदंचैववानरम् ।।6.73.64।।\nप्रसैश्शूलैश्शितैर्बाणैरिन्द्रजिन्मन्त्रसम्हितैः ।\nविव्याधहरिशार्दूलान् सर्वांस्तान्राक्षसोत्तमः ।।6.73.65।।",
+      "transliteration": "",
+      "translation": "Indrajith, the foremost of the Rakshasas, with lances, tridents, sharp arrows charged with mantras pierced at all the tigers among Vanaras --Hanuman, Sugriva, Angada, Gandhamadanam, Jambavantha, Sushena, Vegadarsi, Mainda, Dwivida, Neela, Gavaksha, Vidyuuhamshtra, and monkeys Suryanana, Jyothimukha, Dadhimukha, Pavaksha, and also Nala, Kumuda.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-59",
+      "number": 59,
+      "type": "shloka",
+      "original": "स वैगदाभिर्हरियूथमुख्यान्निर्भिद्यबाणैस्तपनीयवङ्खैः ।\nववर्षरामंशरवृष्टिजालैस्सलक्ष्मणंभास्कररमशिकल्पैः ।।6.73.66।।",
+      "transliteration": "",
+      "translation": "Having hurt the Vanara leaders with maces and arrows shining like gold, he rained volley of arrows shining like sun rays on Lakshmana and Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-60",
+      "number": 60,
+      "type": "shloka",
+      "original": "स बाणवर्षैरभिवृष्यमाणोधारानिपातानिवतानच्नित्य ।\nसमीक्षमाणःपरमाद्भुतश्रीरामतदालक्ष्मणमित्युवाच ।।6.73.67।।",
+      "transliteration": "",
+      "translation": "Most wonderful and prosperous Rama, looking at the rain of arrows continuing to shower, not minding it as if they are rain of water drops, spoke this to Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-61",
+      "number": 61,
+      "type": "shloka",
+      "original": "असौपुनर्लक्ष्मणराक्षसेन्द्रोब्रह्मास्त्रमाश्रित्यसुरेन्द्रशत्रुः ।\nनिपातयित्वाहरिसैन्यमुग्रमस्मान्शरैरर्दयतिप्रसक्तः ।।6.73.68।।",
+      "transliteration": "",
+      "translation": "\"Lakshmana! Rakshasa king, an enemy of Indra afflicted the Vanaras with the Brahmastram secured by him. Using that power, he is tormenting us with sharp arrows.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-62",
+      "number": 62,
+      "type": "shloka",
+      "original": "स्वयम्भुवादत्तवरोमहात्मा ।\nसमाहितोन्तर्हितभीमकायः ।\nकथंनुशक्योयुधिनष्टदेहोनिहन्तुमद्येन्द्रजिदुद्यतास्त्रः ।।6.73.69।।",
+      "transliteration": "",
+      "translation": "\"How can it be possible now to destroy that great Indrajith who is conferred with boons of invincibility by the creator Brahma, who is steadfast and is concealed in dreadful form with weapons uplifted?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-63",
+      "number": 63,
+      "type": "shloka",
+      "original": "मन्येस्वयम्भुर्भगवानच्नित्योयस्यैतदस्त्रंप्रभवश्चयोऽस्य ।\nबाणावपातास्त्वमिहाद्यधीमन्मयासहाव्यग्रमनास्सहस्व ।।6.73.70।।",
+      "transliteration": "",
+      "translation": "\"This weapon of him (Indrajith) is that of the glorious creator and is presided by Him. By that reason he is inconceivable. O! Wise Lakshmana, remain calm and undisturbed at this hail of arrows.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-64",
+      "number": 64,
+      "type": "shloka",
+      "original": "प्रच्छादयत्येषहिराक्षसेन्द्रस्सर्वाधिशस्सायकवृष्टिजालैः ।\nएतच्चसर्वंपतिताग्य्रशूरं न भ्राजतेवानरराजसैन्यम्।। 6.73.71।।",
+      "transliteration": "",
+      "translation": "\"This Rakshasa king is covered thickly with volley of arrows on all sides. Able warriors of Vanaras are falling and not happy.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-65",
+      "number": 65,
+      "type": "shloka",
+      "original": "आवांतुदृष्टवापतितौविसंज्ञौनिवृत्तयुद्दौगतरोषहर्षे ।\nध्रुवंप्रवेक्ष्यत्यमरारिवासमसौसमादायरणाग्रलक्ष्मीम् ।।6.73.72।।",
+      "transliteration": "",
+      "translation": "\"This Indrajith is desisting from comb at on seeing us. As the Vanaras have lost pride and happiness and fallen into unconscious state, he would surely think that he has attained prosperity after victory in war and surely enter Lanka, the abode of enemies of god.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-66",
+      "number": 66,
+      "type": "shloka",
+      "original": "ततस्तुताविन्द्रजिदस्त्रजालैर्भभूवतुस्तत्रतथाविशस्तौ ।\nस चापितौतत्रविदर्शयित्वाननादहर्षाद्युधिराक्षसेन्द्रः ।।6.73.73।।",
+      "transliteration": "",
+      "translation": "Seeing the two princes severed and fallen down struck by the net of arrows of Indrajith, he roared happily in the battle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-73-67",
+      "number": 67,
+      "type": "shloka",
+      "original": "सतत्तदावानरसैन्यमेवंरामं च सङ्ख्येसहलक्ष्मणेन ।\nविषादयित्वासहसाविवेशपुरींदशग्रीवभुजाभिगुप्ताम् ।।6.73.74।।\nसन्स्तूयमानस्सतुयातुधानैः ।\nपत्रे च सर्वंहृषितोऽभ्युवाच ।।6.73.75।।",
+      "transliteration": "",
+      "translation": "Thereafter Vanara army withdrew from the battle along with Rama and Lakshmana. Indrajith for his part moved to the abode protected by Ravana's arms, while being praised. He at once entered the city happily and related everything to the father. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेत्रिसप्ततितमस्सर्गः ।। This is the Seventy third sarga of Yuddha Kanda of the first epic the holy Ramayana composed by Sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

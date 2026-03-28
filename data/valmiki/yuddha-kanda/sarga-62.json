@@ -1,0 +1,216 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 62,
+    "title": "Ravana reveals his fear of Rama to Kumbhakarna and urges him to destroy Rama.",
+    "titleSanskrit": "",
+    "totalShlokas": 22
+  },
+  "shlokas": [
+    {
+      "id": "v6-62-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "स तुराक्षसशार्दूलोनिद्रामदसमाकुलः ।\nराजमार्गंश्रियाजुष्���ंययौविपुलविक्रमः ।।6.62.1।।",
+      "transliteration": "",
+      "translation": "He (Kumbhakaran), who was endowed with indomitable prowess, a tiger among Rakshasas, was sleepy and inebriated, marched along the splendid royal path.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-62-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "राक्षसानांसहस्रैश्चवृतःपरमदुर्जयः ।\nगृहेभ्यःपुष्पवर्षेणकीर्यमाणस्तदाययौ ।।6.62.2।।",
+      "transliteration": "",
+      "translation": "Then, Kumbhakarna, who is very difficult to win over, walked violently surrounded by Rakshasas, covered with showers of flowers from houses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-62-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "स हेमजालविततंभानुभास्वरदर्शनम् ।\nददर्शविपुलंरम्यंराक्षसेन्द्रनिवेशनम् ।।6.62.3।।",
+      "transliteration": "",
+      "translation": "He saw the vast abode of the king of Rakshasas, with lattice work of gold and looking bright like the morning Sun",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-62-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "स तत्तदासूर्यइवाभ्रजालंप्रविश्यरक्षोधिपतेर्निवेशम् ।\nददर्शदूरेऽग्रजमासनस्थंस्वयम्भुवंशक्रवासनस्थम् ।।6.62.4।।",
+      "transliteration": "",
+      "translation": "He saw entering the abode of Lord of Rakshasas like the Sun penetrating into a mass of clouds, from a distance his elder brother seated on the throne just like Indra saw the SelfBorn Brahma on the throne.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-62-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "भ्रातुस्सभवनंगच्छन्रक्षोगणसमन्विम् ।\nकुम्भकर्णःपदन्यासैरकम्पयतमेदिनीम् ।।6.62.5।।",
+      "transliteration": "",
+      "translation": "While Kumbhakarna accompanied by troops of Rakshasas, was taking strides to his brother's abode, even the earth was shaken.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-62-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "सोऽभिगम्यगृहंभ्रातुःकक्ष्यामभिविगाह्य च ।\nददर्शोद्विगन्नमासीनंविमानेपुष्पकेगुरुम् ।।6.62.6।।",
+      "transliteration": "",
+      "translation": "Having gone to his brother's residence, stepping into the enclosure, he saw his brother seated in a perturbed state.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-62-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "अथदृष्टवादशग्रीवःकुम्भकर्णमुपस्थितम् ।\nतूर्णमुत्थायसंहृष्टःसन्निकर्षमुपानयत् ।।6.62.7।।",
+      "transliteration": "",
+      "translation": "The ten headed Ravana seeing Kumbhakarna, was delighted and got up quickly and made him come close to him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-62-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "अथासीनस्यपर्यङ्केकुम्भकर्णोमहाबलः ।\nभ्रातुर्ववन्देचरणौकिंकृत्यमितिचाब्रवीत् ।।6.62.8।।",
+      "transliteration": "",
+      "translation": "Getting up from his seat, Kumbhakarna endowed with extraordinary might bowed down and clasped his brother's feet and asked him, what task he had to do?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-62-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "उत्पत्यचैनंमुदितोरावणःपरिषस्वजे ।\nस भ्रात्रासम्परिष्वक्तोयथावच्छाभिनन्दितः ।।6.62.9।।\nकुम्भकर्णश्शुभंदिव्यंप्रतिपेदेवरासनम् ।",
+      "transliteration": "",
+      "translation": "Getting up from his seat Ravana embraced and greeted Kumbhakarna. So also, he duly rejoiced and occupied the seat.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-62-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "स तदासनमाश्रित्यकुम्भकर्णोमहाबलः ।।6.62.10।।\nसंरक्तनयनःक्रोधाद्रावणंवाक्यमब्रवीत् ।",
+      "transliteration": "",
+      "translation": "Mighty Kumbhakarna, duly took the seat. Enraged Ravana with blood shot eyes spoke these words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-62-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "किमर्थमहमादृत्यत्वयाराजन्विबोधितः ।।6.62.11।।\nशंसकस्माद्भयंतेऽत्रकोऽद्यप्रेतोभविष्यति ।",
+      "transliteration": "",
+      "translation": "\"O King! For what purpose have I been awakened by you? Whom are you fearing? I wish to know who is to be ceased in life?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-62-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "भ्रातरंरावणःक्रुद्धंकुम्भकर्णमवस्थितम् ।।6.62.12।।\nईषत्तुपरिवृत्ताभ्यांनेत्राभ्यांवाक्यमब्रवीत् ।",
+      "transliteration": "",
+      "translation": "Kumbhakarna, was overcome with anger, and asked his brother Ravana, who was seated and rolling his eyes in anger.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-62-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "अद्यतेसुमहान्कालश्शयानस्यमहाबल ।।6.62.13।।\nसुखितस्त्वं न जानीषेममरामकृतंभयम् ।",
+      "transliteration": "",
+      "translation": "\"Oh! Kumbhakarna of extraordinary prowess! You were asleep for long happily. You do not know that I am afraid of Rama.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-62-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "एषदाशरथीरामःसुग्रीवसहितोबली ।।6.62.14।।\nसमुद्रंसबलस्तीर्त्वामूलंनःपरिकृन्तति ।",
+      "transliteration": "",
+      "translation": "\"Rama, the son of Dasaratha accompanied by Sugriva, crossed the ocean with an army that was cutting our roots.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-62-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "हन्तपश्यस्वलङ्कायावनान्युपवनानि च ।।6.62.15।।\nसेतुनासुखमागम्यवानरैकार्णवीकृतम् ।",
+      "transliteration": "",
+      "translation": "\" Alas! You see how the Vanaras, arriving at Lanka, crossing the bridge have done away with groves and gardens.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-62-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "येराक्षसामुख्यतमाहतास्तेवानरैर्युधि ।।6.62.16।।\nवानराणांक्षयंयुद्धे न पश्यामिकदाचन ।\nनचापिवानरायुद्धेजितपूर्वाःकदाचन ।।6.62.17।।",
+      "transliteration": "",
+      "translation": "\"Of the Rakshasas, the chiefs have been killed in war by Vanaras. But I did not see even one Vanara to have been killed in war. Vanaras have not failed to succeed in war.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-62-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तदेतद्भयमुत्पन्नंत्रायस्वेमांमहबल ।\nनाशयत्वमिमानद्यतदर्थंबोधितोभवान् ।।6.62.18।।",
+      "transliteration": "",
+      "translation": "\"Mighty strong I am, but such is the fear that has been created in me from them. You have been awakened, to destroy them. Reported Ravana.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-62-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "सर्वक्षपितकोशं च स त्वमभ्यवपद्यमाम् ।\nत्रायस्वेमांपुरींलङ्कांबालवृद्धावशेषिताम् ।।6.62.19।।",
+      "transliteration": "",
+      "translation": "\" All resources of mine are exhausted. These children and aged are only left in Lanka city, knowing that you will save the city of Lanka.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-62-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "भ्रातुरर्थेमहाबाहो कुरुकर्मसुदुष्करम् ।\nमयैवंनोक्तपूर्वोहिकश्चिद्भ्रातः प���न्तप ।।6.62.20।।",
+      "transliteration": "",
+      "translation": "\"O broad shouldered brother! Do this task which is difficult for others. O Scourge of enemies! I have not asked you before for such a task.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-62-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "त्वय्यस्तिममस्नेहःपरासम्भावना च मे ।\nदैवासुरेषुयुद्धेषुबहुशोराक्षसर्षभ ।।6.62.21।।\nत्वयादेवाःप्रतिव्यूह्यनिर्जिताश्चासुरायुधि ।",
+      "transliteration": "",
+      "translation": "\"O Bull among Rakshasas! Being my brother, do this for me. I always have affection for you. Considering that you have encountered war with Devas and Asuras and won both Devas and Asuras, do this help.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-62-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तदेतत्सर्वमातिष्ठवीर्यंभीमपराक्रम ।।6.62.22।।\nन हितेसर्वभूतेषुदृश्यतेसदृशोबली ।",
+      "transliteration": "",
+      "translation": "\"O Brother of fierce valour! Get up. I have not seen anyone stronger than you among all beings.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-62-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "कुरुष्वमेप्रियहितमेतदुत्तमंयथाप्रियंप्रियरणबान्धवप्रिय ।\nस्वतेजसाविधमसपत्नवाहिनींशरद्घनंपवनइवोद्यतोमहान् ।।6.62.23।।",
+      "transliteration": "",
+      "translation": "\"You are a lover of wars. You are a lover of relations. You are always my dear well wisher. O self glorious one! Do this task of throwing out the torrent army just like wind throws rainy clouds.\" ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेष्टितमस्सर्गः ।। This is the end of the sixty second sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

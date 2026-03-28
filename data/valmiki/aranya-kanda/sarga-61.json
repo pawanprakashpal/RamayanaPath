@@ -1,0 +1,261 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 61,
+    "title": "Unable to find Sita, Rama gets restless -- Lakshmana consoles him -- Rama's speculation about Sita.",
+    "titleSanskrit": "",
+    "totalShlokas": 27
+  },
+  "shlokas": [
+    {
+      "id": "v3-61-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "दृष्ट्वाश्रमपदं शून्यं रामो दशरथात्मजः।\nरहितां पर्णशालां च विध्वस्तान्यासनानि च।।3.61.1।।\nअदृष्ट्वा तत्र वैदेहीं सन्निरीक्ष्य च सर्वशः।\nउवाच रामः प्राक्रुश्य प्रगृह्य रुचिरौ भुजौ।।3.61.2।।",
+      "transliteration": "",
+      "translation": "Rama, son of Dasaratha, saw the empty cottage devoid of Sita. The mats were displaced. He searched everywhere but unable to see Vaidehi lifted his lovely arms and said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-61-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "क्व नु लक्ष्मण वैदेही कं वा देशमितो गता।\nकेनाहृता वा सौमित्रे भक्���िता केन वा प्रिया।।3.61.3।।",
+      "transliteration": "",
+      "translation": "O son of Sumitra, where is my beloved ? Where did she go? By whom was she abducted? Or, devoured? O Lakshmana",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-61-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "वृक्षेणाच्छाद्य यदि मां सीते हसितुमिच्छसि।\nअलं ते हसितेनाद्य मां भजस्व सुदुःखितम्।।3.61.4।।",
+      "transliteration": "",
+      "translation": "O Sita if you intend to make fun by hiding behind a tree, I tell you it is enough. Stop it and come to this extremely sorrowful man.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-61-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "यैस्सह क्रीडसे सीते विश्वस्तैर्मृगपोतकैः।\nएते हीनास्त्वया सौम्ये ध्यायन्त्यस्राविलेक्षणाः।।3.61.5।।",
+      "transliteration": "",
+      "translation": "O gentle  Sita those fawns who trusted you and played with you, are now separated from you. Brooding over you, their eyes are brimming with tears.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-61-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "सीतया रहितोऽहं वै न हि जीवामि लक्ष्मण।\nमृतं शोकेन महता सीताहरणजेन माम्।।3.61.6।।\nपरलोके महाराजो नूनं द्रक्ष्यति मे पिता।",
+      "transliteration": "",
+      "translation": "O Lakshmana, I cannot live without Sita. I am filled with deep grief on account of Sita's abduction. My late father, the king will certainly see me in the other world (I will definitely commit suicide).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-61-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "कथं प्रतिज्ञां संश्रुत्य मया त्वमभियोजितः।।3.61.7।।\nअपूरयित्वा तं कालं मत्सकाशमिहागतः।\nकामवृत्तमनार्यं मां मृषावादिनमेव च।।3.61.8।।\nधिक्त्वामिति परे लोके व्यक्तं वक्ष्यति मे पिता।",
+      "transliteration": "",
+      "translation": "My father say will surely in the other world: Without completing the appointed period of the vow taken, how could you come here ? Fie upon you  You are irresponsible. You are ignoble. You are a liar.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-61-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "विवशं शोकसन्तप्तं दीनं भग्नमनोरथम्।।3.61.9।।\nमामिहोत्सृज्य करुणं कीर्तिर्नरमिवानृजुम्।\nक्व गच्छसि वरारोहे मां नोत्सृज सुमध्यमे।।3.61.10।।\nत्वया विरहितश्चाहं मोक्ष्ये जीवितमात्मनः।",
+      "transliteration": "",
+      "translation": "O lovely lady where have you gone, leaving me here like fame deserting a crook? I am helpless griefstricken, pitiable, pathetic and disappointed. O lady of slender waist, leave me not. Separated from you, I will give up my life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-61-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "इतीव विलपन्रामस्सीतादर्शनलालसः।।3.61.11।।\nन ददर्श सुदुःखार्तो राघवो जनकात्मजाम्।",
+      "transliteration": "",
+      "translation": "Deeply distressed, Rama who was anxious to see Sita, daughter of Janaka, wailed and wailed but could not see her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-61-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "अनासादयमानं तं सीतां दशरथात्मजम्।।3.61.12।।\nपङ्कमासाद्य विपुलं सीदन्तमिव कुञ्जरम्।\nलक्ष्मणो राममत्यर्थमुवाच हितकाम्यया।।3.61.13।।",
+      "transliteration": "",
+      "translation": "Lakshmana, dedicated to his wellbeing, spoke to Rama, son of Dasaratha, who was sinking like an elephant into the quagmire, when he failed to trace Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-61-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "मा विषादं महाबाहो कुरु यत्नं मया सह।\nइदं च हि वनं शूर बहुकन्दरशोभितम्।।3.61.14।।",
+      "transliteration": "",
+      "translation": "O longarmed, heroic Rama, do not grieve. This forest is full of caves. Let us try together.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-61-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "प्रियकाननसञ्चारा वनोन्मत्ता च मैथिली।\nसा वनं वा प्रविष्टा स्यान्नलिनीं वा सुपुष्पिताम्।।3.61.15।।",
+      "transliteration": "",
+      "translation": "Sita is madly in love with the forest. She might have entered deep into the jungle or into a fully blossomed lotuspond.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-61-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "सरितं वापि सम्प्राप्ता मीनवञ्जुलसेविताम्।\nस्नातुकामा निलीना स्याद्धासकामा वने क्वचित्।।3.61.16।।",
+      "transliteration": "",
+      "translation": "Maybe she has gone to take a dip in the river full of reeds and fishes  Or has hidden somewhere for the sake of fun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-61-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "वित्रासयितुकामा वा लीना स्यात्कानने क्वचित्।\nजिज्ञासमाना वैदेही त्वां मां च पुरुषर्षभ।।3.61.17।।\nतस्याह्यन्वेषणे श्रीमन् क्षिप्रमेव यतावहे।",
+      "transliteration": "",
+      "translation": "O best of men, maybe Vaidehi has hidden in the forest intending to scare you and me. She wishes to test our love. O blessed Rama let us ransack the forest immediately.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-61-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "वनं सर्वं विचिनुवो यत्र सा जनकात्मजा।।3.61.18।।\nमन्यसे यदि काकुत्स्थ मा स्म शोके मनः कृथाः।",
+      "transliteration": "",
+      "translation": "O scion of the Kakutsthas, let us search all over the forest if you please. Do not indulge in sorrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-61-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु सौहार्दाल्लक्ष्मणेन समाहितः।।3.61.19।।\nसह सौमित्रिणा रामो विचेतुमुपचक्रमे।",
+      "transliteration": "",
+      "translation": "When Lakshmana consoled him so affectionately Rama became composed. He continued the search with Lakshmana, son of Sumitra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-61-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तौ वनानि गिरींश्चैव सरितश्च सरांसि च।।3.61.20।।\nनिखिलेन विचिन्वानौ सीतां दशरथात्मजौ।",
+      "transliteration": "",
+      "translation": "The two sons of Dasaratha went on searching for Sita in forests, mountains, rivers, ponds everywhere.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-61-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तस्य शैलस्य सानूनि गुहाश्च शिखराणि च।।3.61.21।।\nनिखिलेन विचिन्वानौ नैव तामभिजग्मतुः।",
+      "transliteration": "",
+      "translation": "They were not able to find Sita even though they searched all over the mountain slopes, caves and peaks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-61-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "विचित्य सर्वतश्शैलं रामो लक्ष्मणमब्रवित्।।3.61.22।।\nनेह पश्यामि सौमित्रे वैदेहीं पर्वते शुभाम्।",
+      "transliteration": "",
+      "translation": "After searching her all over, Rama said  Saumitri, I am unable to find the noble Vaidehi on the mountain",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-61-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "ततो दुःखाभिसन्तप्तो लक्ष्मणो वाक्यमब्रवीत्।।3.61.23।।\nविचरन्दण्डकारण्यं भ्रातरं दीप्ततेजसम्।",
+      "transliteration": "",
+      "translation": "Going about the Dandaka forest Lakshmana, consumed by sorrow, said  to his brother, glowing with brilliance:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-61-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "प्राप्स्यसि त्वं महाप्राज्ञ मैथिलीं जनकात्मजाम्।।3.61.24।।\nयथा विष्णुर्महाबाहुर्बलिं बद्ध्वा महीमिमाम्।",
+      "transliteration": "",
+      "translation": "O longarmed brother O wise sire  just as Visnu obtained the earth by binding Bali you will obtain Sita certainly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-61-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु सौहार्दाल्लक्ष्मणेन स राघवः।।3.61.25।।\nउवाच दीनया वाचा दुःखाभिहतचेतनः।",
+      "transliteration": "",
+      "translation": "Having been addressed thus by Lakshmana, Raghava with a griefstriken heart said these piteous words :' Lakshmana,having  spoken like that very affectionately to Rama,who was disturbed by excessive grief said these words piteously:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-61-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "वनं सर्वं सुविचितं पद्मिन्यः फुल्लपङ्कजाः।।3.61.26।।\nगिरिश्चायं महाप्राज्ञ बहुकन्दरनिर्झरः।\nन हि पश्यामि वैदेहीं प्राणेभ्योऽपि गरीयसीम्।।3.61.27।।",
+      "transliteration": "",
+      "translation": "O wise Lakshmana I have searched the entire forest, the ponds with fully blossomed lotuses, the mountains with many caves and streams. But could not see Vaidehi who is dearer to me than my life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-61-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "एवं स विलपन्रामस्सीताहरणकर्शितः।\nदीनश्शोकसमाविष्टो मुहूर्तं विह्वलोऽभवत्।।3.61.28।।",
+      "transliteration": "",
+      "translation": "Thus tormented by the abduction of Sita, Rama felt dejected and cried.Overpowered by grief he lost his consciousness for a moment.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-61-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "सन्तप्तो ह्यवसन्नाङ्गो गतबुद्धिर्विचेतनः।\nनिषसादातुरो दीनो निश्श्वस्याशीतमायतम्।।3.61.29।।",
+      "transliteration": "",
+      "translation": "By grief tormented, limbs enervated, intellect atrophied, senses switched off, he felt anxious and depressed and sighed long and hot.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-61-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "बहुलं स तु निश्श्वस्य रामो राजीवलोचनः।\nहा प्रियेति विचुक्रोश बहुशो बाष्पगद्गदः।।3.61.30।।",
+      "transliteration": "",
+      "translation": "Rama, his throat choked, shed propuse tears, sighing, O my darling.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-61-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "तं ततस्सान्त्वयामास लक्ष्मणः प्रियबान्धवः।\nबहुप्रकारं धर्मज्ञः प्रश्रितं प्रश्रिताञ्जलिः।।3.61.31।।",
+      "transliteration": "",
+      "translation": "Then Lakshmana, the knower of dharma and a dear friend offered obeisance most humbly with folded palms and consoled Rama in many ways.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-61-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "अनादृत्य तु तद्वाक्यं लक्ष्मणोष्ठपुटाच्च्युतम्।\nअपश्यंस्तां प्रियां सीतां प्राक्रोशत्स पुनः पुनः।।3.61.32।।",
+      "transliteration": "",
+      "translation": "Without caring  for the words from the lips of Lakshmana, Rama sobbed loudly, unable to see his beloved Sita. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे एकषष्टितमस्सर्गः।। Thus ends the sixtyfirst sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 59,
+    "title": "Rama enquires Lakshmana the reason for leaving Sita alone-- Lakshmana tells him about Sita goading him to leave immediately.",
+    "titleSanskrit": "",
+    "totalShlokas": 26
+  },
+  "shlokas": [
+    {
+      "id": "v3-59-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "अथाश्रमादुपावृत्तमन्तरा रघुनन्दनः।\nपरिपप्रच्छ सौमित्रिं रामो दुःखार्दितं पुनः।।3.59.1।।",
+      "transliteration": "",
+      "translation": "Rama, the delight of the Raghus, once again questioned Lakshmana who had come out of the hermitage, deeply hurt:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-59-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तमुवाच किमर्थं त्वमागतोऽपास्य मैथिलीम्।\nयदा सा तव विश्वासाद्वने विरहिता मया।।3.59.2।।",
+      "transliteration": "",
+      "translation": "Why did you come, leaving the princess from Mithila alone in the forest when I had left her under your trust ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-59-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "दृष्ट्वैवाभ्यागतं त्वां मे मैथिलीं त्यज्य लक्ष्मण।\nशङ्कमानं महत्पापं यत्सत्यं व्यथितं मनः।।3.59.3।।",
+      "transliteration": "",
+      "translation": "When I saw you, O Lakshmana, coming without Sita, my mind was oppressed with evil thought which have come true.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-59-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "स्फुरते नयनं सव्यं बाहुश्च हृदयं च मे।\nदृष्ट्वा लक्ष्मण दूरे त्वां सीताविरहितं पथि।।3.59.4।।",
+      "transliteration": "",
+      "translation": "O Lakshmana, as I saw you from a distance without Sita, my left eye, my shoulder and my heart throbbed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-59-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "एवमुक्तन्तु सौमित्रिर्लक्ष्मणश्शुभलक्षणः।\nभूयो दुःखसमाविष्टो दुःखितं राममब्रवीत्।।3.59.5।।",
+      "transliteration": "",
+      "translation": "Thus addressed, virtuous Lakshmana, overwhelmed with sorrow replied to the grief stricken Rama:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-59-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "न स्वयं कामकारेण तां त्यक्त्वाहमिहागतः।\nप्रचोदित स्तयैवोग्रैस्त्वत्सकाशमिहागतः।।3.59.6।।",
+      "transliteration": "",
+      "translation": "I did not leave her on my own nor have I  come here of my own accord. I came to you,  provoked by her angry  words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-59-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "आर्येणेव पराक्रुष्टं हासीते लक्ष्मणेति च।\nपरित्राहीति यद्वाक्यं मैथिल्यास्तच्छ्रुतिं गतम्।।3.59.7।।",
+      "transliteration": "",
+      "translation": "Uttered loudly, 'Alas Sita, Alas, Lakshmana, save me', as if these were the words of your noble self, reached Sita's ears.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-59-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "सा तमार्तस्वरं श्रुत्वा तव स्नेहेन मैथिली।\nगच्छ गच्छेति मामाह रुदन्ती भयविह्वला।।3.59.8।।",
+      "transliteration": "",
+      "translation": "The princess from Mithila heard this cry of pain and, wild with fear, urged me out of her love for you to go.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-59-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "प्रचोद्यमानेन मया गच्छेति बहुशस्तया।\nप्रत्युक्ता मैथिली वाक्यमिदं त्वत्प्रत्ययान्वितम्।3.59.9।।",
+      "transliteration": "",
+      "translation": "When I was repeated asked to go, I said this in order to instil confidence in the princess from Mithila :",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-59-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "न तत्पश्याम्यहं रक्षो यदस���य भयमावहेत्।\nनिर्वृता भव नास्त्येतत्केनाप्येवमुदाहृतम्।।3.59.10।।",
+      "transliteration": "",
+      "translation": "'No one  can cause fear in Rama. I do not see any demon who can hold a threat to him. Give up fear. Some one might have said it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-59-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "विगर्हितं च नीचं च कथमार्योऽभिधास्यति।\nत्राहीति वचनं सीते यस्त्रायेत्रिदशानपि।।3.59.11।।",
+      "transliteration": "",
+      "translation": "'How can Rama who is capable of saving even gods speak such unworthy, demeaning words, 'Save me, O Sita'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-59-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "किं निमित्तं तु केनापि भ्रातुरालम्ब्य मे स्वरम्।\nराक्षसेनेरितं वाक्यं त्राहि त्राहीति शोभने।।3.59.12।।",
+      "transliteration": "",
+      "translation": "O fair lady, for some reason some demon  has uttered these words 'Save me, save me' adapting my brother's voice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-59-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "विस्वरं व्याहृतं वाक्यं लक्ष्मण त्राहि मामिति।\nन भवत्या व्यथा कार्या कुनारीजनसेविता।।3.59.13।।",
+      "transliteration": "",
+      "translation": "'Lakshmana, save me' are the words uttered in an altered tone. Like an ordinary, lowborn woman you are not to feel concerned for this.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-59-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "अलं वैक्लब्यमालम्ब्य स्वस्था भव निरुत्सुका।\nन सोऽस्ति त्रिषु लोकेषु पुमान्वै राघवं रणे।।3.59.14।।\nजातो वा जायमानो वा संयुगे यः पराजयेत्।\nन जय्यो राघवो युद्धे देवैश्शक्रपुरोगमैः।।3.59.15।।",
+      "transliteration": "",
+      "translation": "'You should not feel agitated or dispirited. Be composed. There is no one either born or going to be born in the three worlds who can defeat Rama in war. He cannot be conquered in a battle even by gods led by indra.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-59-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "एवमुक्ता तु वैदेही परिमोहितचेतना।\nउवाचाश्रूणि मुञ्चन्ती दारुणं मामिदं वचः।।3.59.16।।",
+      "transliteration": "",
+      "translation": "Deluded by her senses, Vaidehi said these words, shedding tears when I  tried to  console  her:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-59-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "भावो मयि तवात्यर्थं पाप एव निवेशितः।\nविनष्टे भ्रातरि प्राप्तुं न च त्वं मामवाप्स्यसि।।3.59.17।।",
+      "transliteration": "",
+      "translation": "'You have an extremely sinful intention of getting me  when your brother is dead. But you will not be able to gain me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-59-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "सङ्केताद्भरतेन त्वं रामं समनुगच्छसि।\nक्रोशन्तं हि यथात्यर्थं नैवमभ्यवपद्यसे।।3.59.18।।",
+      "transliteration": "",
+      "translation": "'Since you are not reaching out to Rama who is helplessly crying for his rescue, you must have followed Rama, instructed by Bharata (to do him harm)'৷৷",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-59-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "रिपुः प्रच्छन्नचारी त्वं मदर्थमनुगच्छसि।\nराघवस्यान्तरप्रेप्सुस्तथैनं नाभिपद्यसे।।3.59.19।।",
+      "transliteration": "",
+      "translation": "'You are an enemy moving in disguise with an interest in me. You are waiting for an opportunity to set aside Rama. That is why you are not rushing to him.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-59-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "एवमुक्तो हि वैदेह्या संरब्धो रक्तलोचनः।\nक्रोधात्प्रस्फुरमाणोष्ठ आश्रमादभिनिर्गतः।।3.59.20।।",
+      "transliteration": "",
+      "translation": "At these words from the princess of Videha, I came out of the hermitage in an agitated mood with my eyes turned red and lips quivering in anger.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-59-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "एवं ब्रुवाणं सौमित्रिं रामस्सन्तापमोहितः।\nअब्रवीद्दुष्कृतं सौम्य तां विना यत्त्वमागतः।।3.59.21।।",
+      "transliteration": "",
+      "translation": "To Lakshmana thus reporting, Rama, overcome with grief, said,(Even then) O noble brother your coming here, leaving her behind, is a wrong step taken.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-59-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "जानन्नपि समर्थं मां रक्षसां विनिवारणे।\nअनेन क्रोधवाक्येन मैथिल्या निस्सृतो भवान्।।3.59.22।।",
+      "transliteration": "",
+      "translation": "You have come out of the hermitage provoked by Maithili's angry words, even though you are aware that I am capable of warding off the demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-59-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "न हि ते परितुष्यामि त्यक्त्वा यद्यासि मैथिलीम्।\nक्रुद्धायाः परुषं श्रुत्वा तां विहाय त्वमागतः।।3.59.23।।",
+      "transliteration": "",
+      "translation": "I am not happy with you as you have come here deserting Sita on the plea that she was angry and spoke harsh words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-59-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "सर्वथा त्वविनीतं ते सीतया यत्प्रचोदितः।\nक्रोधस्य वशमापन्नो नाकरोश्शासनं मम।।3.59.24।।",
+      "transliteration": "",
+      "translation": "Provoked by the words of Sita spoken in anger you came without respecting my orders. It is definitely an act of disobedience.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-59-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "असौ हि राक्षसश्शेते शरेणाभिहतो मया।\nमृगरूपेण येनाहमाश्रमादपवाहितः।।3.59.25।।",
+      "transliteration": "",
+      "translation": "This demon who misled me in the guise of a deer and took me away from the hermitage, lies dead, killed by my arrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-59-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "विकृष्य चापं परिधाय सायकं सलीलबाणेन च ताडितो मया।\nमार्गीं तनुं त्यज्य स विक्लबस्वरो बभूव केयूरधरस्सराक्षसः।।3.59.26।।",
+      "transliteration": "",
+      "translation": "Bending the bow I fixed the arrow and released it at ease. Hit by that arrow he gave up his guise of the deer and assuming the form of a demon with a bracelet on his arm fell down groaning.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-59-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "शराहतेनैव तदार्तया गिरा स्वरं समालम्ब्य सुदूरसुश्रवम्।\nउदाहृतं तद्वचनं सुदारुणं त्वमागतो येन विहाय मैथिलीम्।।3.59.27।।",
+      "transliteration": "",
+      "translation": "Hit by the arrow, the demon imitating my voice cried out in desperation which could be clearly audible even from a distance. On hearing the dreadful words you deserted Sita and came here. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे एकोनषष्टितमस्सर्��ः।। Thus ends the fiftyninth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

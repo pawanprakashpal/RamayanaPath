@@ -1,0 +1,351 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 52,
+    "title": "Dhumraksha gets killed by Hanuman.",
+    "titleSanskrit": "",
+    "totalShlokas": 37
+  },
+  "shlokas": [
+    {
+      "id": "v6-52-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "धूम्राक्षंप्रेक्ष्यनिर्यान्तंराक्षसंभीमविक्रमम् ।\nविनेदुर्वानरास्सर��वेप्रहृष्टायुद्धकाङ् क्षिणः ।।6.52.1।।",
+      "transliteration": "",
+      "translation": "Seeing Dhumraksha of terrible prowess returning, the vanaras made loud noises out of joy and desire to wage war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तेषांसुतुमुलंयुद्धंसञ्जज्ञेकपिरक्षसाम् ।\nअन्योन्यंपादपैर्घोरंनिघ्नतांशूलमुद्गरैः ।।6.52.2।।",
+      "transliteration": "",
+      "translation": "Tumultuous war took place between Vanaras and Rakshasas, striking one another, monkeys with terrible trees and Rakshasas with tridents and clubs.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "राक्षसैर्वानराघोराविनिकृत्तस्समन्ततः ।\nवानरैराक्षसाश्चापिद्रुमैर्भूमिसमीकृताः ।।6.52.3।।",
+      "transliteration": "",
+      "translation": "Fierce Rakshasas mowed down the Vanaras all over and even the Vanaras pulled down Rakshasas to the ground with trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "राक्षसास्त्वभिसङ्क्रुद्धावानरान्निशितैश्शरैः ।\nविव्यथुर्घोरसङ्काशैःकङ्कपत्रैरजिह्मगैः ।।6.52.4।।",
+      "transliteration": "",
+      "translation": "Highly enraged Rakshasas on their part fixed the Vanaras with sharp dreadful arrows with itching feathers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तेगदाभिश्चभीमाभिःपट्टसै: कूटमुद्गरैः ।\nघोरैश्चपरिघैश्चित्रैस्त्रिशूलैश्चापिसंश्रितैः ।।6.52.5।।\nविदार्यमाणारक्षोभिर्वानरास्तेमहाबलाः ।\nअमर्षाज्जनितोद्धर्षाश्चक्रुःकर्माण्यभीतवत् ।।6.52.6।।",
+      "transliteration": "",
+      "translation": "The Vanaras although strong were wielding maces, spikes, tridents, terrific iron bars and multitude of weapons of many kinds to crush the Rakshasas. They were endowed with prowess, knowledgeable of weapons and doing their duty without fear and with great enthusiasm.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "शरनिर्भिन्नगात्रास्तेशूलनिर्भिन्नदेहिनः ।\nजगृहुस्तेद्रुमांस्तत्रशिलाश्चहरियूथपाः ।।6.52.7।।",
+      "transliteration": "",
+      "translation": "Vanaras 's bodies split in their necks by the terrible tridents, took up trees and rocks to fight.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तेभीमवेगाहरयोनर्दमानास्ततस्ततः ।\nममन्थूराक्षसान्वीरान्नामानिचबभाषिरे ।।6.52.8।।",
+      "transliteration": "",
+      "translation": "The monkeys endowed with terrific speed, proceeding from there roaring, proclaiming their names crushed the Rakshasa heroes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तद्भभूवाद्भुतंघोरंयुद्धंवानररक्षसाम् ।\nशिलाभिर्विविधाभिश्चबहुभिश्चैवपादपैः ।।6.52.9।।",
+      "transliteration": "",
+      "translation": "Wonderful fight took place between Vanaras and Rakshasas who held trees and rocks of several kinds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "राक्षसामथिताःकेचिद्वानरैर्जितकाशिभिः ।\nववमूरुधिरंकेचिन्मुखैरुधिरभोजनाः ।।6.52.10।।",
+      "transliteration": "",
+      "translation": "Vanaras who had conquered fear crushed Rakshasas into lumps of flesh indeed the Rakshasas threw out blood from their mouths.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "पार्श्वेषुदारिताःकेचित्केचिद्राशीकृताद्रुमैः ।\nशिलाभिश्चूर्णिताःकेचित्केचिद्धन्तैर्विदारिताः ।।6.52.11।।",
+      "transliteration": "",
+      "translation": "Some tore by the sides of the body, some crushed by the trees, some powdered by the rocks, and some were torn into pieces with teeth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "ध्वजैर्विमथितैर्भग्नैःखङ्गैश्चविनिपातितैः ।\nरथैर्विध्वंसितैश्चापिपतितैःरजनीचरैः ।।6.52.12।।",
+      "transliteration": "",
+      "translation": "Indeed, the night rangers were killed, their flags were broken. They were crushed, their swords were destroyed with chariots fallen.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "गजेन्द्रैःपर्वताकारैःपर्वताग्रैर्वनौकसाम् ।\nमथितैर्वाजिभिःकीर्णंसारोहैर्वसुधातलम् ।।6.52.13।।",
+      "transliteration": "",
+      "translation": "By the Vanaras hurling from the mountains, the crushed elephants were like mountains and the horses with riders crushed covered the ground all over.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "वानरैर्भीमविक्रान्स्सैराप्लुत्याऽप्लुत्यवेगितैः ।\nराक्षसाःकरजैस्तीक्ष्णैर्मुखेषुविनिर्तिताः ।।6.52.14।।",
+      "transliteration": "",
+      "translation": "The Vanaras with their terrific valour jumping up wounded the Rakshasas in their face with their sharp nails.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "विषण्णवदनाभूयोविप्रकीर्णशिरोरुहाः ।\nमूढाश्शोणितगन्धेननिपेतुर्धरणीतले ।।6.52.15।।",
+      "transliteration": "",
+      "translation": "Some others with pale faces and dishevelled hair lost senses due to rolling in blood dropped on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "अन्येतुपरमसङ्कृक्रुद्धाराक्षसाभीमनिश्वना: ।\nतलैरेवाभिधावन्तिवज्रस्पर्शसमैर्हरीन् ।।6.52.16।।",
+      "transliteration": "",
+      "translation": "Other Rakshasas of terrific valour, extremely enraged, hit the monkeys with their palms which were hard as diamond to touch.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "वानरैरापतन्तस्तेवेगितावेगवत्तरैः ।\nमुष्टिभिश्चरणैर्दन्स्सैःपादपैश्चावपोथिता ।।6.52.17।।",
+      "transliteration": "",
+      "translation": "Endowed with speed, the Vanaras also fell on the Rakshasas at greater speed, knocking them down with fists, feet, teeth and even trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "सैन्यंतुविद्रुतंदृष्टवाधूम्राक्षोराक्षसर्षभः ।\nरोषेणकदनंचक्रेवानराणांयुयुत्सताम् ।।6.52.18।।",
+      "transliteration": "",
+      "translation": "Dhumraksha, the bull among the Rakshasas seeing the army distressed and running away, being eager to fight began to cause havoc to the Vanaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "प्तासैःप्रमथिताःकेचिद्वानराश्शोणितस्रवाः ।\nमुद्गरैराहताःकेचित्पातिताधरणीतले ।।6.52.19।।",
+      "transliteration": "",
+      "translation": "Few Vanaras mutilated by barbed darts, some struck with mallets, blood oozing dropped down.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "परिघैर्मथिताःकेचिद्भिण्डिवालैर्विदारिताः ।\nपट्टसैराहता: केचिद्विह्वलन्तोगतासवः ।।6.52.20।।",
+      "transliteration": "",
+      "translation": "Some were pound by iron bars, some were torn up, some split and some pierced and cut ceased in life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "केचिद्विनिहताश्शूलैरुधिरार्द्रावनौकसः ।\nकेचिद्विद्रावितानष्टाःसङ्क्रुद्धैराक्षसैर्युधि ।।6.52.21।।",
+      "transliteration": "",
+      "translation": "In the battlefield some Vanaras, attacked by Rakshasas, were floating on the ground in blood, dead.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "विभिन्नहृदयाःकेचिदेकपार्श्वेनदारिताः ।\nविदारितास्त्रिशूलैश्चकेचिदान्स्रैर्विनिःसृताः ।।6.52.22।।",
+      "transliteration": "",
+      "translation": "Some with their hearts open and broken, beaten on side laid detached of their inner parts.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तत्सुभीमंमहायुद्धंहरिराक्षससङ्कुलम् ।\nप्रबभौशब्दबहुलंशिलापादपसङ्कुलम् ।।6.52.23।।",
+      "transliteration": "",
+      "translation": "The monkeys and Rakshasa groups took part in a fierce fight with rocks and trees abounding loud noise.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "धनुर्ज्यातन्त्रिमधुरंहिक्कातालसमन्वितम् ।\nमन्धस्न्तितसङ्गीतंतद्युद्धगान्धर्वमाबभौ ।।6.52.24।।",
+      "transliteration": "",
+      "translation": "It seemed like music in the form of twang of bow strings, neighing of horses like the sound of wooden cymbals, vocal music in the form of trumpeting of elephants, that battle seemed like symphony.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "धूम्राक्षस्तुधनुष्पाणिर्वानरान्रणमूर्धनि ।\nहसन्विद्रावयामासदिशस्तुशरवृष्टिभिः ।।6.52.25।।",
+      "transliteration": "",
+      "translation": "Dhumraksha with his bow in hand, showering arrows, laughing in battlefront dispersed the Vanaras in directions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "धूम्राक्षेणार्दितंसैन्यंव्यथितंप्रेक्ष्यमारुतिः ।\nअभ्यवर्ततसङ्क्रुद्धःप्रगृह्यविपुलांशिलाम् ।।6.52.26।।",
+      "transliteration": "",
+      "translation": "Beholding the perturbed army, Hanuman seized a huge rock and turned towards Dhumraksha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "क्रोधाद् द्विद्द्विगुणताम्राक्षःपितृस्तुल्यपराक्रमः ।\nशिलांतांपातयामासधूम्राक्षस्यरथंप्रति ।।6.52.27।।",
+      "transliteration": "",
+      "translation": "Endowed with mighty valour equal to his father, an angry Hanuman hurled the rock at the chariot of Dhumraksha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "आपततनींशिलांदृष्टवागदामुद्यम्यसम्भ्रमात् ।\nरथादाप्लुत्यवेगेनवसुधायांव्यतिष्ठत ।।6.52.28।।",
+      "transliteration": "",
+      "translation": "Beholding the rock descending upon him, Dhumraksha rushed instantly on the ground from the chariot and stood.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "साप्रमथ्यरथंतस्यनिपपातशिलाभुवि ।\nसचक्रकूबरसाश्वंसध्वजंसशरासनम् ।।6.52.29।।",
+      "transliteration": "",
+      "translation": "That rock fell on the chariot and got crushed along with its wheel and axle and with arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "सभङ् क्त्वातुरथंतस्यहनुमान् मारुतात्मजः ।\nरक्षसांकदनंचक्रेसस्कन्धविटपैर्द्रुमैः ।।6.52.30।।",
+      "transliteration": "",
+      "translation": "Hanuman the son of WindGod in that way started destroying the chariot and the Rakshasa with tree trunks and stems.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "विभिन्नशिरसोभूत्वाराक्षसाश्शोणितोक्षिता: ।\nद्रुमैःप्रमथिताश्चान्येनिपेतुर्धरणीतले ।।6.52.31।।",
+      "transliteration": "",
+      "translation": "Some Rakshasas hit by trees with their heads broken, shedding blood fell on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "विद्राव्यराक्षसंसैन्यंहनुमान्मारुतात्मजः ।\nगिरिशशिखरमादायधूम्राक्षमभिदुद्रुवे ।।6.52.32।।",
+      "transliteration": "",
+      "translation": "Hanuman the son of WindGod, after chasing the army of Rakshasas reaching the top of the mountain, jumped on Dhumraksha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "तमापतन्तंधूम्राक्षोगदामुद्यम्यवीर्यवान् ।\nविनर्दमानःसहसाहनूमन्तमभिद्रवत् ।।6.52.33।।",
+      "transliteration": "",
+      "translation": "Lifting his mace on seeing Hanuman, heroic and brave Dhumraksha darted on Hanuman, roaring like a lion.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "तस्यक्रुद्धस्यरोषेणगदांतांबहुकण्टकाम् ।\nपातयामासधूम्राक्षोमस्तकेऽथहनूमतः ।।6.52.34।।",
+      "transliteration": "",
+      "translation": "And then lifting his mace fixed with many nails, Dhumraksha enraged lighted on Hanuman.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "ताडितःसतयातत्रगदयाभीमरूपया ।\nसकपिर्मारुतबलस्तंप्रहारमचिन्तयन् ।।6.52.35।।\nधूम्राक्षस्यशिरोमध्येगिरिशृङ्गमपातयत् ।",
+      "transliteration": "",
+      "translation": "That fierce mace fell on Hanuman's head. Hanuman who was equal to wind god without caring for the hit dropped the peak of the mountain on the centre of Dhumraksha's head.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "सविस्फारितसर्वाङ्गोगिरिशृङ्गेणताडितः ।\nपपातसहसाभूमौविकीर्णइवपर्वतः ।।6.52.36।।",
+      "transliteration": "",
+      "translation": "By the falling of the peak of the mountain on Dhumraksha, all his limbs broken to pieces and crushed fell on the ground like a mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "धूम्राक्षंनिहतंदृष्टवाहतशेषानिशाचराः ।।6.52.37।।\nत्रस्ताःप्रविविशुर्लङ्कांवध्यमानाःप्लवङ्गमैः ।",
+      "transliteration": "",
+      "translation": "Those Rakshasas who survived the onslaught, seeing Dhumraksha killed, reentered Lanka out of fear of being killed by Vanaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-52-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "सतुपवनसुतोनिहत्यशत्रून्क्षतजवहरिस्सरितश्चसन्निकीर्य ।\nरिपुवधजनितश्रमोमहात्मामुदमगमत्कपिभिःसुपूज्यमानः ।।6.52.38।।",
+      "transliteration": "",
+      "translation": "The son of wind god, the great soul, having killed the enemy in the battlefield and making the river of blood to flow, was exhausted by killing enemies. The monkeys started worshipping him in joy. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेद्विपञ्चाशस्सर्गः ।। This is the end of the fifty second sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

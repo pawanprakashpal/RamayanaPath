@@ -1,0 +1,153 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 127,
+    "title": "Sri Rama lands at the hermitage of sage Bharadwaja and gets to know from him the wellbeing of his mothers, Bharata and Shatrughna.",
+    "titleSanskrit": "",
+    "totalShlokas": 15
+  },
+  "shlokas": [
+    {
+      "id": "v6-127-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "पूर्णेचतुर्दशेवर्षेपञ्चम्यांलक्ष्मण��ग्रजः ।\nभरद्वाजाश्रमंप्राप्यववन्देनियतोमुनिम् ।।6.127.1।।",
+      "transliteration": "",
+      "translation": "After the fourteenth year of exile, on the fifth day of the bright half of lunar month Sri Rama and Lakshmana reached Bharadwaja's hermitage. They bent their heads down (as a mark of respect) and offered salutations.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-127-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "सोऽपृच्छदभिवाद्यैनंभरद्वाजंतपोधनम् ।\nशृणोषिकच्चिद्भगवन्सुभिक्षानायमंपुरे ।।6.127.2।।\nकच्चित्सयुक्तोभरतोजीवन्त्यपि च मातरः ।",
+      "transliteration": "",
+      "translation": "Rama and Lakshmana having greeted sage Bharadwaja who had asceticism as his wealth, enquired, saying, \"Have you heard that crops have been good, Bharata is active, and mothers are doing well in Ayodhya?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-127-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "एवमुक्तस्तुरामेणभरद्वाजोमहामुनिः ।।6.127.3।।\nप्रत्युवाचरघुश्रेष्ठंस्मितपूर्वंप्रहृष्टवत् ।",
+      "transliteration": "",
+      "translation": "When Rama had spoken that way to the great sage, Bharadwaja was delighted and with a smiling look replied.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-127-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "पङ्कदिग्धस्तुभरतोजटिलस्त्वांप्रतीक्षते ।।6.127.4।।\nपादुकतेपुरस्कृत्यसर्वं च कुशलंगृहे ।",
+      "transliteration": "",
+      "translation": "\"Bharata is without attention to his body, wearing matted locks, placing your wooden sandals in front expecting you in the house. All is well at Ayodhya.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-127-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "त्वांपुराचीरवसनंप्रविशन्तंमहावनम् ।।6.127.5।।\nस्त्रीतृतीयंच्युतंराज्याद्धर्मकामं च केवलम् ।\nपदातिंत्यक्तसर्वस्वंपितुर्वचनकारिणम् ।।6.127.6।।\nसर्वभोगैःपरित्यक्तंस्वर्गच्युतमिवामरम् ।\nदृष्टातुकरुणापूर्वंममासीत्समितिञ्जयः ।।6.127.7।।\nकैकेयीवचनेयुक्तंवन्यमूलफलाशिनम् ।",
+      "transliteration": "",
+      "translation": "\"Rama! You, who are victorious in winning enemies, have earlier on account of father's words, intent on following father's words, accepting Kaikeyi's words, went with Lakshmana and Sita, clad in bark clothes, giving up kingdom and all possessions, like heaven set out on foot and entered huge forest, living on roots and fruits of the forest. Seeing you, compassion arose in me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-127-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "साम्प्रतंतुसमृद्धार्थंसमित्रगणबान्धवम् ।।6.127.8।।\nसमीक्ष्यविजितारिं च समाभूप्रतीतिरुत्तमा ।",
+      "transliteration": "",
+      "translation": "\"I am happy to see you coming to me, who have completed the task and won the enemies and after successful completion, you are meeting relatives and friends.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-127-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "सर्वं च सुखदुःखंतेविदितंममराघव ।\nयत्त्वयाविपुलंप्राप्तंजनस्थान्नवधादिकम् ।।6.127.9।।",
+      "transliteration": "",
+      "translation": "\"Raghava, while you were sojourning at Janasthana, you experienced joy and sorrow abundantly all that is known to me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-127-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "ब्राह्मणार्थेनियुक्तस्यरक्षतःसर्वतापसान् ।\nरावणेनहृताभार्याबभूवेयमनिता ।।6.127.10।।",
+      "transliteration": "",
+      "translation": "\"This irreproachable wife of yours was abducted by Ravana while you were engaged with the protection of all ascetics and entrusted with the care of brahmanas.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-127-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "मारीचदर्शनंचैवसीतोन्मधनमेव च ।\nकबन्धदर्शनंचैवसम्पाभिगमनंतथा ।।6.127.11।।\nसुग्रीवेण च तेसख्यंयथावालीहतस्त्वया ।\nमार्गणंचैववैदेह्याःकर्मवातात्मजस्य च ।।6.127.12।।\nविदितायां च सीतायांनलसेतुर्यथाकृतः ।\nयथाचादीपितालङ्काप्रहृष्टैर्हरियूथपैः ।।6.127.13।।\nसपुत्रबान्दवामात्यःसबलःसहावाहनः ।\nयथा च निहतःसंख्येरावणोबलदर्पितः ।।6.127.14।।\nयथा च निहतेतस्मिन् रावणेदेवकण्टके ।\nसमागमश्चत्रिदशैर्यथादत्तश्चतेवरः ।।6.127.15।।\nसर्वंममैतद्विदितंतपसाधर्मवत्सल ।\nसम्पतन्ति च मेशिष्याःप्रवृत्ताख्याःपुरीमितः ।।6.127.16।।",
+      "transliteration": "",
+      "translation": "\"O, you are a lover of rightful duty, seeing Maricha, searching Sita, appearance of Kabhanda, your going to Pampa, making friendship with Sugriva, killing of Vali, searching for Vaidehi, finding of Sita by the son of wind god, and his action, setting fire to Lanka, finding of Nalasethu, construction of bridge, delighted Vanaras, destruction of sons, relatives and vehicles of Ravana's army, killing of Ravana who was a thorn in the eyes of god, coming of Brahma and gods, bestowing a boon and all that is known to me by the power of my penance. My disciples in Ayodhya communicated to me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-127-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अहमप्यद्यतेदद्मिवरंशस्त्रभृतांवर ।\nअर्घ्यंप्रतिगृहाणेदमयोध्यांश्वोगमिष्यसि ।।6.127.17।।",
+      "transliteration": "",
+      "translation": "\"Jewel among the wielders of weapons! Now you take this water, and I shall bestow a boon to you. After taking my blessings you proceed to Ayodhya.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-127-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तस्यतच्छिरसावाक्यंप्रतिगृह्यनृपात्मजः ।\nबाढमित्येवसम्हृष्टःश्रीमान्वरमयाचत ।।6.127.18।।",
+      "transliteration": "",
+      "translation": "Glorious son of emperor obeying the words of Bharadwaja bending his head in reverence requested for that boon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-127-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अकालफलिनोवृक्षास्सर्वेचापिमधुस्रवाः ।\nफलान्यमृतगन्धीनिबहूनिविविधानि च ।।6.127.19।।\nभवन्तुमार्गेभगवन्नयोध्यांप्रतिगच्छतः ।",
+      "transliteration": "",
+      "translation": "\"O divine sage! Let all the trees bear fruits out of season of several kinds of many sweet and juicy, tasting nectar appear on our way as we proceed to Ayodhya.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-127-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तथेति च प्रतिज्ञातेवचनात्समनन्तरम् ।।6.127.20।।\nअभवन्पादपास्तत्रस्वर्गपादपसन्निभाः ।",
+      "transliteration": "",
+      "translation": "When Bharadwaja promised saying, 'Be it so' and the trees on all sides grew like heavenly trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-127-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "पुष्फलाःफलिनश्चासवनिपुष्पाःपुष्पशालिनः ।।6.127.21।।\nशुष्कास्समग्रपत्रास्तेनगाश्चैवमधुस्रवाः ।\nसर्वतोयोजनास्त्रिस्रोगच्छतामभवंस्तदा ।।6.127.22।।",
+      "transliteration": "",
+      "translation": "\"Then while we were proceeding for three yojanas on all sides the trees that did not have fruits started bearing fruits, trees that did not have blossoms started having blossoms and the trees that dried up developed leaves and began to shed honey.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-127-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "ततःप्रहृष्टाःप्लवगर्षभास्तेबहूनिदिव्यानिफलानिचैव ।\nकामादुपाश्नन्तिसहस्रशस्तेमुदावनितास्स्वर्गजितोमुदेव ।।6.127.23।।",
+      "transliteration": "",
+      "translation": "Then those bulls among Vanaras were delighted as though they were in heaven. Thrilled and very happy at the wonderful fruits, they enjoyed them as they liked as per their desire and felt joyful. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेसप्तविंशत्युत्तरशततमस्सर्गः ।। This is the end of one hundred and twenty seventh sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

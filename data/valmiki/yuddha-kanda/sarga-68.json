@@ -1,0 +1,216 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 68,
+    "title": "Ravana grieves Kumbhakarna's death",
+    "titleSanskrit": "",
+    "totalShlokas": 22
+  },
+  "shlokas": [
+    {
+      "id": "v6-68-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "कुम्भकर्णंहतंदृष्टवाराघवेणमहात्मना ।\nराक्षसाराक्षसेन्द्रायरावणायन्य���ेदयन् ।।6.68.1।।",
+      "transliteration": "",
+      "translation": "Seeing Kumbhakarna slain by the glorious Raghava, the Rakshasas informed Ravana, the king of Rakshasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-68-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "राजन् स कालसङ्काशस्संयुक्तःकालकर्मणा ।\nविद्राव्यवानरींसेनांभक्षयित्वा च वानरान् ।।6.68.2।।",
+      "transliteration": "",
+      "translation": "\"O King! Kumbhakarna, who was equal to the God of Death, devoured and won over the Vanaras, scattered the army, has joined death as a consequence of time (fate).\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-68-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "प्रतपित्वा मुहूर्तंतुप्रशान्तोरामतेजसा ।\nकायेनार्थप्रविष्टेनसमुद्रंभीमदर्शनम् ।।6.68.3।।\nनिकृत्तकण्ठोरुभुजोविक्षरन्रुधिरंबहु ।\nरुद्ध्वाद्वारंशरीरेणलङ्कायाःपर्वतोपमः ।।6.68.4।।\nकुम्भकर्णस्तवभ्राताकाकुत्स्थशरपीडितः ।\nलगण्डभूतोविकृतोदावदग्धइवद्रुमः ।।6.68.5।।",
+      "transliteration": "",
+      "translation": "\"Your brother Kumbhakarna showed his might for a short time. But by virtue of Rama's energy and arrows, his mountainlike body was reduced to a trunk of dreadful appearance. Bleeding excessively, he was like a mass submerged in an ocean of blood. like a tree caught in forest fire he was blocking the gate of Lanka in ugly form with a head, nose and ears chopped off.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-68-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तंश्रुत्वाविनिहतंसङ्ख्येकुम्भकर्णंमहाबलम् ।\nरावणश्शोकसन्तप्तोमुमोह च पपात च ।।6.68.6।।",
+      "transliteration": "",
+      "translation": "Hearing that Kumbhakarna of great strength was slain, Ravana immersed in grief became deluded and fell.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-68-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "पितृव्यंनिहतंश्रुत्वादेवान्तकनरान्तकौ ।\nत्रिशिराश्चातिकायश्चरुरुदुश्शोकपीडिताः ।।6.68.7।।",
+      "transliteration": "",
+      "translation": "Hearing about uncle's destruction, the sons of Ravana, Devanthaka, Naranthaka, Trisira and Atikaya, roared aloud afflicted by grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-68-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "भ्रातरंनिहतंश्रुत्वारामेणाक्लिष्टकर्मणा ।\nमहोदरमहापार्श्वौशोकाक्रान्तौबभूवतुः ।।6.68.8।।",
+      "transliteration": "",
+      "translation": "Ravana's brothers, Mahodara and Mahaparsva were overtaken by sorrow on hearing about the unwearied action of Rama and slaying of Kumbhakarna.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-68-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "ततःकृच्छ्रात्समासाद्यसंज्ञांराक्षसपुङ्गवः ।\nकुम्भकर्णवधाद्दीनोविललापकुलेन्द्रियः ।।6.68.9।।",
+      "transliteration": "",
+      "translation": "Thereafter the foremost of the Rakshasas regained consciousness with great difficulty and awakened to the situation of Kumbhakarna's destruction, wailed disturbed in mind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-68-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "हावीर रिपुदर्पघ्न कुम्भकर्ण महाबल ।\nत्वंमांविहायवैदैवाद्यातोऽसियमसादनम् ।।6.68.10।।",
+      "transliteration": "",
+      "translation": "\"Ha! Hero! Kumbhakarna! You, who crushed the pride of the enemy, endowed with great prowess have deserted me and gone to the abode of death, actually by divine will.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-68-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "ममशल्यमनुद्धृत्यबान्धवानांमहाबल ।\nशत्रुसैन्यंप्रताप्यैकस्त्वंमांसन्त्यज्यगच्छसि ।।6.68.11।।",
+      "transliteration": "",
+      "translation": "\"O Kumbhakarna of extraordinary might! You have tormented the enemy army singlehanded with valour. You are going alone leaving me and the kinsfolk.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-68-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "इदानींखल्वहंनास्मियस्यमेदक्षिणोभुजः ।\nपतितोयंसमाश्रित्य न बिभेमिसुरासुरान् ।।6.68.12।।",
+      "transliteration": "",
+      "translation": "\"I who depended on you like my right arm did not fear Devatas or Danavas and I am destroyed now.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-68-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "कथमेवंविधोवीरोदेवदानवदर्पहा ।\nकालाग्निरुद्राप्रतिमोरणेराघवेणवैहतः ।।6.68.13।।",
+      "transliteration": "",
+      "translation": "\"You, who crushed the pride of Devas and Danavas are equal to timespirit and death at dissolution and being a hero, how did you die in the hands of Raghava?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-68-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "यस्यतेवज्रनिष्पेषो न कुर्वाद्व्यसनंसदा ।\nस कथंरामबाणार्तंप्रसुप्तोऽसिमहीतले ।।6.68.14।।",
+      "transliteration": "",
+      "translation": "\"You are never affected by the strike of thunderbolt. How are you sleeping on the ground hit by Rama's arrows?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-68-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "एतेदेवगणास्सार्थमृषिभिर्गगनेस्थिताः ।\nनिहतंत्वांरणेदृष्टवानिनदन्तिप्रहर्षिताः ।।6.68.15।।",
+      "transliteration": "",
+      "translation": "\"These Devatas and all sages are standing in the sky, seeing the battle and laughing aloud seeing your destruction.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-68-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "ध्रुवमद्यैवसंहृष्टालब्धलक्षाःप्लवङ्गमाः ।\nआरोक्ष्यन्तीहदुर्गाणिलङ्काद्वाराणिसर्वशः ।।6.68.16।।",
+      "transliteration": "",
+      "translation": "\"Having found an opportunity, all the Vanaras, highly rejoiced, on this very day, will surely climb over the gates of forts of Lanka determined.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-68-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "राज्येननास्तिमेकार्यंकिंकरिष्यामिसीतया ।\nकुम्भकर्णविहीनस्यजीवितेनास्तिमेमतिः ।।6.68.17।।",
+      "transliteration": "",
+      "translation": "\"I have no purpose with the kingdom. What will I do with Sita? I have lost my life and mind with Kumbhakarna's death.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-68-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "यद्यहंभ्रातृहन्तारं न हन्मियुधिराघवम् ।\nननुमेमरणंश्रेयो न चेदंव्यर्थजीवितम् ।।6.68.18।।",
+      "transliteration": "",
+      "translation": "\"If I do not kill Raghava who killed my brother in battle it is a waste of my life.\" Thus, thought Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-68-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अद्यैवतंगमिष्यामिदेशंयत्रानुजोमम ।\nन हिभ्रातृ़न् समुत्सृज्यक्षणंजीवितमुत्सहे ।।6.68.19।।",
+      "transliteration": "",
+      "translation": "\"This very day, this very minute I shall reach the region where my brother died, I have no interest in life.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-68-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "देवाहिमांहसिष्यन्तिदृष्टवापूर्वापकारिणम् ।\nकथमिन्द्रंजयिष्यामिकुम्भकर्ण हतेत्वयि ।।6.68.20।।",
+      "transliteration": "",
+      "translation": "\"Devatas who were harmed by me earlier will laugh at me now that Kumbhakarna is slain. How will I win Indra?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-68-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तदिदंमामनुप्राप्तंविभीषणवचश्शुभम् ।\nयदज्ञानान्मयातस्य न गृहीतंमहात्मनः ।।6.68.21।।",
+      "transliteration": "",
+      "translation": "\"This calamity that has come upon me was because I have not taken such auspicious advice rendered by the great soul Vibheeshana.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-68-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "विभीषणवचोयावत्कुम्भकर्णप्रहस्तयोः ।\nविनाशोऽयंसमुत्पन्नोमांव्रीडयतिदारुणः ।।6.68.22।।",
+      "transliteration": "",
+      "translation": "\"Thus, loss of both Kumbhakarna and Prahastha is dreadful. It is because of not following the words of advice of Vibheeshana totally. It hurts me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-68-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तस्यायंकर्मणःप्राप्तोविपाकोममशोकदः ।\nयन्मयाधार्मिकश्शमान् स निरस्तोविभीषणः ।।6.68.23।।",
+      "transliteration": "",
+      "translation": "\"Righteous and prosperous Vibheeshana has been expelled by me earlier. By that action, I have obtained this grief.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-68-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "इतिबहुविधमाकुलान्तरात्माकृपणमतीवविलप्यकुम्भकर्णम् ।\nन्यपदथदशाननोभृशार्तस्तमनुजमिन्द्ररिपुंहतंविदित्वा ।।6.68.24।।",
+      "transliteration": "",
+      "translation": "Thus, the ten-headed, Ravana saddened by the destruction of his brother, an enemy of Indra, the Rakshasa king lamented profusely in many ways grieving and fell down, his mind agitated deeply. \n।। इत्यार्षेवाल्मीकीयेआदिकाव्येश्रीमद्रामायणेयुद्धकाण्डेअष्टषष्टितमस्सर्गः ।। \nThis is the end of the sixtyeighth sarga of Yuddha Kanda of the first epic the holy Ramayana, composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

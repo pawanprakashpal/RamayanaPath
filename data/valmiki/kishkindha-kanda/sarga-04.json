@@ -1,0 +1,306 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 4,
+    "title": "Lakshmana speaks to Hanuman the purpose of their arrival at Rishyamuka -- Hanuman takes Rama and Lakshmana on his shoulders to Sugriva",
+    "titleSanskrit": "",
+    "totalShlokas": 32
+  },
+  "shlokas": [
+    {
+      "id": "v4-4-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततः प्रहृष्टौ हनुमान्कृत्यवानिति तद्वचः।\nश्रुत्वा मधुरसम्भाषं  सुग्रीवं मनसा गतः4.4.1।।",
+      "transliteration": "",
+      "translation": "After listening to the sweet words of Lakshmana, Hanuman, having done what he had to do felt happy and thought of Sugriva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "भव्यो राज्यागमस्तस्य सुग्रीवस्य महात्मनः। \nयदयं कृत्यवान्प्राप्तः कृत्यं चैतदुपागतम्4.4.2।।",
+      "transliteration": "",
+      "translation": "The great Sugriva, thinks Hanuman, who had done his duty is likely to acquire his kingdom, because great Rama who would help in the work of Sugriva has also come.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "ततः परमसंहृष्टो हनुमान् प्लवगर्षभः।\nप्रत्युवाच ततो वाक्यं रामं वाक्यविशारदः4.4.3।।",
+      "transliteration": "",
+      "translation": "Hanuman, the best of the monkeys, learned in conversation, felt extremely happy and enquired from Rama:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "किमिर्थं त्वं वनं घोरं पम्पाकाननमण्डितम्।\nआगतस्सानुजो दुर्गं नानाव्याळमृगायुतम्4.4.4।।",
+      "transliteration": "",
+      "translation": "'Why have you come with your brother to this dreadful, inaccessible forest surrounding Pampa, full of different varieties of serpents and wild animals?'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तस्य तद्वचनं श्रुत्वा लक्ष्मणो रामचोदितः।\nआचचक्षे महात्मानं रामं दशरथात्मजम्4.4.5।।",
+      "transliteration": "",
+      "translation": "Having listened to Hanuman, and urged by Rama, Lakshmana told him about the great Rama, son of Dasaratha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "राजा दशरथो नाम द्युतिमान्धर्मवत्सलः।\nचातुर्वर्ण्यं स्वधर्मेण नित्यमेवाभ्यपालयत्4.4.6।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "न द्वेष्टा विद्यते तस्य न च स द्वेष्टि कञ्चन।\nस च सर्वेषु भूतेषु पितामह इवापरः4.4.7।।\nअग्निष्टोमादिभिर्यज्ञैरिष्टवानाप्तदक्षिणैः।",
+      "transliteration": "",
+      "translation": "'He never hated any one nor did any one ever hate him. To all his subjects, he was like another father, the Creator Brahma. And he was generous in giving gifts while performing yajnas (rituals with fire) like Agnistoma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तस्यायं पूर्वजः पुत्रो रामो नाम जनैः श्रुतः।।4.4.8।।\nशरण्यस्सर्वभूतानां पितुर्निर्देशपारगः।",
+      "transliteration": "",
+      "translation": "'Here is his eldest son, popularly known as Rama. He is the protector of all beings and never failed his father's instructions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "वीरो दशरथस्यायं पुत्राणां गुणवत्तमः।।4.4.9।।\nराजलक्षणसम्पन्नस्सम्युक्तो राजसम्पदा।\nराज्याद्भ्रष्टो वने वस्तुं मया सार्धमिहागतः4.4.10।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "भार्यया च महातेजास्सीतयाऽनुगतो वशी।\nदिनक्षये महातेजाः प्रभयेव दिवाकरः4.4.11।।",
+      "transliteration": "",
+      "translation": "'This glorious Rama was followed by his wife, Sita, like the rays of the effulgent Sun follow him to the end of the day.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "अहमस्यावरो भ्राता गुणैर्दास्यमुपागतः।\nकृतज्ञस्य बहुज्ञस्य लक्ष्मणो नाम नामतः4.4.12।।",
+      "transliteration": "",
+      "translation": "'I am his younger brother, called Lakshmana. I have accepted the service of this learned, virtuous and grateful man.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "सुखार्हस्य महार्हस्य सर्वभूतहितात्मनः।\nऐश्वर्येण च हीनस्य वनवासाश्रितस्य च4.4.13।।\nरक्षसाऽपहृता भार्या रहिते कामरूपिणा।\nतच्च न ज्ञायते रक्षः पत्नी येनास्य सा हृता4.4.14।।",
+      "transliteration": "",
+      "translation": "'This man who should have lived in comfort and in reverence, one who was worthy of all the wellwishers lost his wealth and was banished into the forest. He is now deprived of his wife kidnapped by an unknown demon who could assume any form at will.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "दनुर्नाम दितेः पुत्रश्शापाद्राक्षसतां गतः।\nआख्यातस्तेन सुग्रीवस्समर्थो वानरर्षभः4.4.15।।",
+      "transliteration": "",
+      "translation": "'Diti's son called Danu who had been cursed to live the life of a demon had said that Sugriva, the best among monkeys, would be able to locate her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "स ज्ञास्यति महावीर्यस्तव भार्यापहारिणम्।\nएवमुक्त्वा दनुस्स्वर्गं भ्राजमानो गतस्सुखम्4.4.16।।",
+      "transliteration": "",
+      "translation": "'That Valiant Sugriva can spot the demon who has abducted your wife', said Danu and disappeared happily into heaven shining in brilliance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "एतत्ते सर्वमाख्यातं यथा तथ्येन पृच्छतः।\nअहं चैव हि रामश्च सुग्रीवं शरणं गतौ4.4.17।।",
+      "transliteration": "",
+      "translation": "'I have given a factual account of everything, since you asked me. Now Rama and I have arrived seeking Sugriva's shelter.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "एष दत्त्वा च वित्तानि प्राप्य चानुत्तमं यशः।\nलोकनाथः पुरा भूत्वा सुग्रीवं नाथमिच्छति4.4.18।।",
+      "transliteration": "",
+      "translation": "'Having earned supreme fame through his munificence in the past, this lord of the world now craves Sugriva's indulgence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "पिता यस्य पुरा ह्यासीच्छरण्यो धर्मवत्सलः।\nतस्य पुत्रश्शरण्यश्च सुग्रीवं शरणं गतः4.4.19।।",
+      "transliteration": "",
+      "translation": "'One whose father was once a protector of dharma, a refuge to all now seeks Sugriva's shelter.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "सर्वलोकस्य धर्मात्मा शरण्यश्शरणं पुरा।\nगुरुर्मे राघवस्सोऽयं सुग्रीवं शरणं गतः4.4.20।।",
+      "transliteration": "",
+      "translation": "'This righteous Rama who used to lend in the past protection to the whole world and, indeed, a refuge to all, venerable sir, now seeks Sugriva's shelter.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "यस्य प्रसादे सततं प्रसीदेयुरिमाः प्रजाः।\nस रामो वानरेन्द्रस्य प्रसादमभिकाङ्क्षते। 4.4.21।।",
+      "transliteration": "",
+      "translation": "'This Rama for whose grace the subjects were ever bobolden to him now seeks the favour of the Chief of monkeys.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "येन सर्वगुणोपेताः पृथिव्यां सर्वपार्थिवाः।\nमानितास्सततं राज्ञा सदा दशरथेन वै4.4.22\nतस्यायं पूर्वजः पुत्रस्त्रिषु लोकेषु विश्रुतः।\nसुग्रीवं वानरेन्द्रं तु रामश्शरणमागतः4.4.23।।",
+      "transliteration": "",
+      "translation": "'Famous in all the three worlds, this Rama, who was the firshborn of Dasaratha, endowed with all virtues and ever respected by all the kings of this earth, now seeks shelter of Sugriva, Chief of monkeys.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "शोकाभिभूते रामे तु शोकार्ते शरणं गते।\nकर्तुमर्हति सुग्रीवः प्रसादं हरियूधपः4.4.24।।",
+      "transliteration": "",
+      "translation": "'Sugriva, lord of monkeys, ought to help Rama who tormented by, and overwhelmed with, grief seeks his favour.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "एवं ब्रुवाणं सौमित्रिं करुणं साश्रुलोचनम्।\nहनुमान्प्रत्युवाचेदं वाक्यं वाक्यविशारदः4.4.25।।",
+      "transliteration": "",
+      "translation": "To Saumitri who was speaking thus in a piteous tone, his eyes filled with tears the eloquent Hanuman replied:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "ईदृशा बुद्धिसम्पन्ना जितक्रोधा जितेन्द्रियाः।\nद्रष्टव्या वानरेन्द्रेण दिष्ट्या दर्शनमागताः4.4.26।।",
+      "transliteration": "",
+      "translation": "'It is a matter of great fortune that you who have intelligence, control over your senses and conquered anger have come to see the lord of monkeys who needs instead, to approach you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "स हि राज्यात्परिभ्रष्टः कृतवैरश्च वालिना।\nहृतदारो वने त्यक्तो भ्रात्रा विनिकृतो भृशम्4.4.27।।",
+      "transliteration": "",
+      "translation": "'(In fact) seriously offended by his brother Vali who treated him like his enemy and expelled him from the kingdom. He is now abandoned in the forest, his wife hijacked.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "करिष्यति स साहाय्यं युवयोर्भास्करात्मजः।\nसुग्रीवस्सह चास्माभि स्सीतायाः परिमार्गणे4.4.28।।",
+      "transliteration": "",
+      "translation": "'Sugriva, son of the Sungod, along with us will extend all help to you, in your search for Sita.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "इत्येवमुक्त्वा हनुमान् श्लक्ष्णं मधुरया गिरा।\nबभाषे सोऽभिगच्छेम सुग्रीवमिति राघवम्4.4.29।।",
+      "transliteration": "",
+      "translation": "Hanuman, having spoken with sweet, gentle words said to the Raghavas, 'We will now go to Sugriva'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "एवं ब्रुवाणं धर्म���त्मा हनुमन्तं स लक्ष्मणः।\nप्रतिपूज्य यथान्यायमिदं प्रोवाच राघवम्4.4.30।।",
+      "transliteration": "",
+      "translation": "Having offered reverential salutations to Hanuman as per tradition, righteous Lakshmana now spoke to Rama:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "कपिः कथयते हृष्टो यथाऽयं मारुतात्मजः।\nकृत्यवांत्सोऽपि सम्प्राप्तः कृतकृत्योऽसि राघव4.4.31।।",
+      "transliteration": "",
+      "translation": "'O Raghava this monkey, son of the Windgod appears pleased as evident from his words. As he is a man of action, take your work as accomplished now.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "प्रसन्नमुखवर्णश्च व्यक्तं हृष्टश्च भाषते।\nनानृतं वक्ष्यते वीरो हनुमान्मारुतात्मजः4.4.32।।",
+      "transliteration": "",
+      "translation": "'It is evident from his words  and from his cheerful face that Hanuman is pleased. (I know that) this heroic son of the Windgod will never tell a lie'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "ततस्स तु महाप्राज्ञो हनुमान्मारुतात्मजः।\nजगामादाय तौ वीरौ हरिराजाय राघवौ4.4.33।।",
+      "transliteration": "",
+      "translation": "Hanuman, son of the Windgod, endowed with great wisdom carried both the Raghava warriors to the king of monkeys.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "भिक्षुरूपं परित्यज्य वानरं रूपमास्थितः।\nपृष्ठमारोप्य तौ वीरौ जगाम कपिकुञ्जरः4.4.34।।",
+      "transliteration": "",
+      "translation": "Hanuman, who was an elephant among monkeys, gave up the guise of a mendicant, and assuming the form of the monkeys, lifted both the heroes  on to his back and proceeded.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-4-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "स तु विपुलयशाः कपिप्रवीरः\nपवनसुतः कृतकृत्यवत्प्रहृष्टः।\nगिरिवरमुरुविक्रमः प्रयात\nस्स शुभमतिस्सह रामलक्ष्मणाभ्याम्4.4.35।।",
+      "transliteration": "",
+      "translation": "The son of the Windgod, the most valiant, the supremely heroic monkey and the one welladmired, having performed his task, felt immensely happy.And with an auspicious feeling, departed for the great mountain (Rishyamuka) along with Rama and Lakshmana. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किंधाकाण्डे चतुर्थस्सर्गः।। Thus ends the fourth sarga of Kishkindakanda of the Holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

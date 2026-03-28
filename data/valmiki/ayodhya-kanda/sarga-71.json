@@ -1,0 +1,405 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 71,
+    "title": "Crossing many rivers, forests and territories Bharata reaches Ayodhya -- witnesses scenes of dull desolation charged with an atmosphere of apprehensions -- enters the palace dejected",
+    "titleSanskrit": "",
+    "totalShlokas": 43
+  },
+  "shlokas": [
+    {
+      "id": "v2-71-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "स प्राङ्मुखो राजगृहादभिनिर्याय राघवः।\nततस्सुदामां द्युतिमान् सन्तीर्यावेक्ष्य तां नदीम्।।2.71.1।।\nह्लादिनीं दूरपारां च प्रत्यक्स्रोतस्तरङ्गिणीम्��\nशतद्रूमतरच्छ्रीमान्नदीमिक्ष्वाकुनन्दनः।।2.71.2।।",
+      "transliteration": "",
+      "translation": "Glorious and prosperous prince Bharata, the delight of the Ikshvaku race, set out from Rajagriha, took the eastern direction, and observing the course of the river Sudama crossed Hladini and Satadru rivers which were very wide and flowing westwards crested with waves.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "स प्राङ्मुखो राजगृहादभिनिर्याय राघवः।\nततस्सुदामां द्युतिमान् सन्तीर्यावेक्ष्य तां नदीम्।।2.71.1।।\nह्लादिनीं दूरपारां च प्रत्यक्स्रोतस्तरङ्गिणीम्।\nशतद्रूमतरच्छ्रीमान्नदीमिक्ष्वाकुनन्दनः।।2.71.2।।",
+      "transliteration": "",
+      "translation": "Glorious and prosperous prince Bharata, the delight of the Ikshvaku race, set out from Rajagriha, took the eastern direction, and observing the course of the river Sudama crossed Hladini and Satadru rivers which were very wide and flowing westwards crested with waves.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "ऐलाधाने नदीं तीर्त्वा प्राप्य चापरपर्पटान्।\nशिलामकुर्वतीं तीर्त्वा आग्नेयं शल्यकर्षणम्।।2.71.3।।\nसत्यसन्धश्शुचिश्श्रीमान्प्रेक्षमाण श्शिलावहाम्।\nअत्ययात्स महाशैलान्वनं चैत्ररथं प्रति।।2.71.4।।",
+      "transliteration": "",
+      "translation": "Bharata, ever true to his word, handsome and purehearted, reached Aparaparpata region and crossed river Satadru at Eladhana, the mountain in which river Silavaha originates. Then he traversed Salyakarsna regions in the northeast, observing the course of the Silavaha and went beyond the great mountains in the direction of the forest called Chaitraratha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "सरस्वतीं च गङ्गां च युग्मेन प्रतिपद्यच।\nउत्तरान्वीरमत्स्यानां भारुण्डं प्राविशद्वनम्।।2.71.5।।",
+      "transliteration": "",
+      "translation": "Arriving at the confluence of Saraswati and Ganga and traversing the north of Veeramatsya region, he entered the Bharunda forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "वेगिनीं च कुलिङ्गाख्यां ह्लादिनीं पर्वताऽऽवृताम्।\nयमुनां प्राप्य सन्तीर्णः बलमाश्वासयत्तदा।।2.71.6।।",
+      "transliteration": "",
+      "translation": "He crossed the swiftflowing river known as Kulinga surrounded by hills and pleasing to the mind. Thereafter on crossing Yamuna he made his army rest on the otherside.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "सशीतीकृत्य तु गात्राणि क्लान्तानाश्व��स्य वाजिनः।\nतत्र स्नात्वा च पीत्वा च प्रायादादाय चोदकम्।।2.71.7।।",
+      "transliteration": "",
+      "translation": "The weary horses rested and cooled their bodies. And they bathed and drank. They set out again refreshed taking with them a store of water.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "राजपुत्रो महारण्यमनभीक्ष्णोपसेवितम्।\nभद्रो भद्रेण यानेन मारुतः खमिवात्ययात्।।2.71.8।।",
+      "transliteration": "",
+      "translation": "Then with the blessed prince (Bharata) on an excellent chariot, it (the army) moved through the vast and uninhabited forest like the god of wind passing through the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "भागीरथीं दुष्प्रतरामंशुधाने महानदीम्।\nउपायाद्राघवस्तूर्णं प्राग्वटे विश्रुते पुरे।।2.71.9।।",
+      "transliteration": "",
+      "translation": "Bharata, the descendant of Raghu, knowing that the mighty river Bhagirathi was difficult to cross at a place known as Anshudhana, quickly reached the famous city of Pragvata.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "स गङ्गां प्राग्वटे तीर्त्वा समायात्कुटिकोष्ठिकाम्।\nसबल स्तां स तीर्त्वाऽथ समायाद्धर्मवर्धनम्।।2.71.10।।",
+      "transliteration": "",
+      "translation": "With Ganga at Pragvata city and river Kutikoshtika crossed along with his army, he reached Dharmavardhana village.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तोरणं दक्षिणार्धेन जम्भूप्रस्थमुपागमत्।\nवरूथं च ययौ रम्यं ग्रामं दशरथात्मजः।।2.71.11।।",
+      "transliteration": "",
+      "translation": "Having traversed the southern end of Torana, the son of Dasaratha (Bharata) reached the beautiful Varutha village via Jambuprastha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तत्र रम्ये वने वासं कृत्वाऽसौ प्राङ्मुखो ययौ।\nउद्यानमुज्जिहानायाः प्रियका यत्र पादपाः।।2.71.12।।",
+      "transliteration": "",
+      "translation": "He (Bharata) halted in that charming forest for a while, proceeded eastwards till he reached a place known as Ujjihana garden abounding in spriyaka trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "सालांस्तु प्रियकान्प्राप्य शीघ्रानास्थाय वाजिनः।\nअनुज्ञाप्याथ भरतः वाहिनीं त्वरितो ययौ।।2.71.13।।",
+      "transliteration": "",
+      "translation": "After reaching the groves of sala and priyaka trees, Bharata harnessed the swiftrunning horses to the chariot and ordered his forces to proceed fast.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "वासं कृत्वा सर्वतीर्थे तीर्त्वा चोत्तानिकां नदीम्।\nअन्या नदीश्च विविधाः पार्वतीयैस्तुरङ्गमैः।।2.71.14।।\nहस्तिपृष्ठकमासाद्य कुटिकामत्यवर्तत।\nततार च नरव्याघ्रो लौहित्ये स कपीवतीम्।।2.71.15।।",
+      "transliteration": "",
+      "translation": "That tiger among men, Bharata halted at a place known as Sarvatirtha and crossed the Uttanika and various other rivers with the help of hillborn horses. He crossed the Kutika river on an elephant the river Kapivati at a place known as Lauhitya.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "एकसाले स्थाणुमतीं विनते गोमतीं नदीम्।\nकलिङ्गनगरे चापि प्राप्य सालवनं तदा।।2.71.16।।\nभरतः क्षिप्रमागच्छत्सुपरिश्रान्तवाहनः।",
+      "transliteration": "",
+      "translation": "Bharata crossed the rivers Sthanumati at Ekasala and Gomati at Vinata villages. Thereafter as his horses were extremely tired he rested for a while in the sala forest in Kalinganagara before he speedily set out (again).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "वनं च समतीत्याशुशर्वर्यामरुणोदये।।2.71.17।।\nअयोध्यां मनुना राज्ञा निर्मितां सन्ददर्श ह।",
+      "transliteration": "",
+      "translation": "He passed quickly through the forest at night and at sunrise beheld the city of Ayodhya built by king Manu.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तां पुरीं पुरुषव्याघ्रस्सप्तरात्रोषितः पथि।।2.71.18।।\nअयोध्यामग्रतो दृष्ट्वा सारथिं वाक्यमब्रवीत्।",
+      "transliteration": "",
+      "translation": "Having spent seven nights on his way, that tiger among men (Bharata) saw Ayodhaya before him. He said to the charioteer:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "एषा नातिप्रतीता मे पुण्योद्याना यशस्विनी।।2.71.19।।\nअयोध्या दृश्यते दूरात्सारथे पाण्डुमृत्तिका।\nयज्वभिर्गुणसम्पन्नैर्ब्राह्मणैर्वेदपारगैः।।2.71.20।।\nभूयिष्ठमृद्धैराकीर्णा राजर्षिपरिपालिता।",
+      "transliteration": "",
+      "translation": "O charioteer I am able to see Ayodhya of great renown from a distance but not so clearly that whiteclaycity of Ayodhya, with its sacred gardens ruled by several rajarsis, inhabited by numerous wealthy people, by virtuous brahmins and priests who perform sacrifices and who are wellversed in the Vedas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "एषा नातिप्रतीता मे पुण्योद्याना यशस्विनी।।2.71.19।।\nअयोध्या दृश्यते दूरात्सारथे पाण्डुमृत्तिका।\nयज्वभिर्गुणसम्पन्नैर्ब्राह्मणैर्वेदपारगैः।।2.71.20।।\nभूयिष्ठमृद्धैराकीर्णा राजर्षिपरिपालिता।",
+      "transliteration": "",
+      "translation": "O charioteer I am able to see Ayodhya of great renown from a distance but not so clearly that whiteclaycity of Ayodhya, with its sacred gardens ruled by several rajarsis, inhabited by numerous wealthy people, by virtuous brahmins and priests who perform sacrifices and who are wellversed in the Vedas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "अयोध्यायां पुरा शब्दश्श्रूयते तुमुलो महान्।।2.71.21।।\nसमन्तान्नरनारीणां तमद्य न श्रुणोम्यहम्।",
+      "transliteration": "",
+      "translation": "I do not hear now, in Ayodhya the tumultous noise of men and women I used to hear earlier all over.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "उद्यानानि हि सायाह्ने क्रीडित्वोपरतैर्नरैः।।2.71.22।।\nसमन्तात्परिधावद्भिः प्रकाशन्ते ममान्यथा।",
+      "transliteration": "",
+      "translation": "I do not see people who with passion used to stroll in the parks early in the morning. I see no cheerfulness in any one.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तान्यद्यानुरुदन्तीव पर���त्यक्तानि कामिभिः।।2.71.23।।\nअरण्यभूतेव पुरी सारथे प्रतिभाति मे।",
+      "transliteration": "",
+      "translation": "O charioteer, people full of passion have abandoned the gardens. To me, the city looks like a forest as if weeping.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "न ह्यत्र यानैर्दृश्यन्ते न गजैर्न च वाजिभिः।।2.71.24।।\nनिर्यान्तो वाऽभियान्तो वा नरमुख्या यथापुरम्।",
+      "transliteration": "",
+      "translation": "Important people mounted on elephants or horses are not seen going out of the city or coming in.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "उद्यानानि पुरा भान्ति मत्तप्रमुदितानि च।।2.71.25।।\nजनानां रतिसंयोगेष्वत्यन्तगुणवन्ति च।",
+      "transliteration": "",
+      "translation": "Earlier the gardens used to reverberate with passionate songs of birds--places appropriate for lovers seeking pleasures.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "तान्येतान्यद्य पश्यामि निरानन्दानि सर्वशः।।2.71.26।।\nस्रस्तपर्णैरनुपथं विक्रोशद्भिरिव द्रुमैः।",
+      "transliteration": "",
+      "translation": "Now the trees appear cheerless, the paths are full of dry leaves fallen all over. It appears as if the trees are crying.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "नाद्यापि श्रूयते शब्दः मत्तानां मृगपक्षिणाम्।।2.71.27।।\nसंरक्तां मधुरां वाणीं कलं व्याहरतां बहु।",
+      "transliteration": "",
+      "translation": "I do not hear in the red tincture of the rising Sun the melodious voices of the freely moving animals and birds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "चन्दनागरुसम्पृक्तो धूपसम्मूर्छितोऽतुलः।।2.71.28।।\nप्रवाति पवन श्श्रीमान्किन्नुनाद्य यथापुरम्।",
+      "transliteration": "",
+      "translation": "Why is it that the incomparable fragrance of sandal and incense that used to fill the nostrils, not blowing now in the prosperous city of Ayodhya?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "भेरीमृदङ्गवीणानां कोणसङ्घट्टितः पुनः।।2.71.29।।\nकिमद्य शब्दो विरतस्सदा दीनगतिः पुरा।",
+      "transliteration": "",
+      "translation": "Why is it that the sounds of musical instruments like mrudangas and veenas are not heard now? Why is the city filled with melancholy?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "अनिष्टानि च पापानि पश्यामि विविधानि च।।2.71.30।।\nनिमित्तान्यमनोज्ञानितेन सीदति मे मनः।",
+      "transliteration": "",
+      "translation": "Since I see many passing, inauspicious, sinful, ugly sights, my mind shrinks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "सर्वथा कुशलं सूत दुर्लभं मम बन्दुषु।।2.71.31।।\nतथाह्यसति सम्मोहे हृदयं सीदतीव मे।",
+      "transliteration": "",
+      "translation": "I do not see anywhere, O charioteer the wellbeing, of my kinsmen. Hence I feel deluded and my heart is filled with grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "विषण्ण श्श्रान्तहृदयस्त्रस्त स्सुलुलितेन्द्रियः।।2.71.32।।\nभरतः प्रविवेशाशु पुरीमिक्ष्वाकुपालिताम्।",
+      "transliteration": "",
+      "translation": "Dejected and depressed at heart, with no control over his senses and his mind full of apprehension, Bharata swiftly entered the city of Ayodhya ruled by the Ikshvakus.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "द्वारेण वैजयन्तेन प्राविशच्छ्रान्तवाहनः।।2.71.33।।\nद्वास्स्थैरुत्थाय विजयं पृष्टस्तै स्सहितो ययौ।",
+      "transliteration": "",
+      "translation": "He entered the city through the gate known as Vaijayanta with his horses exhausted. The doorkeepers stood up and amidst cries of victory followed him in.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "स त्वनेकाग्रहृदयो द्वास्स्थं प्रत्यर्च्य तं जनम्।।2.71.34।।\nसूतमश्वपतेः क्लान्तमब्रवीत्तत्र राघवः।",
+      "transliteration": "",
+      "translation": "Bewildered, that descendant of Raghu (Bharata), reciprocated the greetings of the gatekeepers and then addressed the exhausted charioteer, Ashwapati:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "किमहं त्वरयाऽनीतः कारणेन विनानघ।।2.71.35।।\nअशुभाशङ्कि हृदयं शीलं च पततीव मे।",
+      "transliteration": "",
+      "translation": "O irreproachable one, why was I brought here in haste without any reason? My mind apprehends something inauspicious. I feel indisposed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "श्रुता नो यादृशाः पूर्वं नृपतीनां विनाशने।।2.71.36।।\nआकारांस्तानहं सर्वानिहपश्यामि सारथे।",
+      "transliteration": "",
+      "translation": "O charioteer I now see the very for ebodings I had heard in the past in connection with the death of kings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "सम्मार्जनविहीनानि परुषाण्युपलक्षये।।2.71.37।।\nअसंयत कवाटानि श्रीविहीनानि सर्वशः।\nबलिकर्मव���हीनानि धूपसम्मोदनेन च।।2.71.38।।\nअनाशितकुटुम्बानि प्रभाहीनजनानि च।\nअलक्ष्मीकानि पश्यामि कुटुम्बिभवनान्यहम्।।2.71.39।।",
+      "transliteration": "",
+      "translation": "I see the unswept homes of householders standing dirty with doors not closed. There is no beauty anywhere. No one offers oblations (at the time of worship). There is no fragrance of burning incense. The families have no food to eat. The people look cheerless. I see inauspiciousness everywhere.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "सम्मार्जनविहीनानि परुषाण्युपलक्षये।।2.71.37।।\nअसंयत कवाटानि श्रीविहीनानि सर्वशः।\nबलिकर्मविहीनानि धूपसम्मोदनेन च।।2.71.38।।\nअनाशितकुटुम्बानि प्रभाहीनजनानि च।\nअलक्ष्मीकानि पश्यामि कुटुम्बिभवनान्यहम्।।2.71.39।।",
+      "transliteration": "",
+      "translation": "I see the unswept homes of householders standing dirty with doors not closed. There is no beauty anywhere. No one offers oblations (at the time of worship). There is no fragrance of burning incense. The families have no food to eat. The people look cheerless. I see inauspiciousness everywhere.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "अपेतमाल्यशोभानि ह्यसम्���ृष्टाजिराणि च।\nदेवागाराणि शून्यानि न चाभान्ति यथापुरम्।।2.71.40।।",
+      "transliteration": "",
+      "translation": "The temples stand devoid of the beauty of floral offerings. The floors of front yards are left unswept and unsmeared. They look deserted, devoid of brightness of the past.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "देवतार्चाः प्रविद्धाश्च यज्ञगोष्ठ्यस्तथाविधाः।\nमाल्यापणेषु राजन्ते नाद्य पण्यानि वा तथा।।2.71.41।।",
+      "transliteration": "",
+      "translation": "The offerings to deities have been dispensed with. There are no groups of people performing the usual holy sacrifices. The markets where garlands were sold now stand without them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "दृश्यन्ते वणिजोऽप्यद्य न यथापूर्वमत्रवै।\nध्यानसंविग्नहृदयाः नष्टव्यापारयन्त्रिताः।।2.71.42।।",
+      "transliteration": "",
+      "translation": "Even traders seem restrained by the loss of business. They are not seen as before concentrating on their trade.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "देवायतनचैत्येषु दीनाः पक्षिगणास्तथा।।2.71.43।।\nमलिनं चाश्रुपूर्णाक्षं दीनं ध्यानपरं कृशम्।\nसस्त्रीपुंसं च पश्यामि जनमुत्कण्ठितं पुरे।।2.71.44।।",
+      "transliteration": "",
+      "translation": "I see groups of birds frequenting the temples. The sanctuaries appear dispirited. The people in the city, both men and women look dull, emaciated, pitiable with throats choked. Their eyes are filled with tears and minds absorbed in distressing thoughts.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "इत्येवमुक्त्वा भरतस्सूतं तं दीनमानसः।\nतान्यनिष्टान्ययोध्यायां प्रेक्ष्य राजगृहं ययौ।।2.71.45।।",
+      "transliteration": "",
+      "translation": "With these words said to the charioteer, Bharata, having seen such ominous sights in Ayodhya, proceeded to the king's palace with a depressed heart.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "तां शून्यशृङ्गाटकवेश्मरथ्यां रजोऽरुणद्वारकवाटयन्त्राम्।\nदृष्ट्वा पुरीमिन्द्रपुरप्रकाशां दुःखेन सम्पूर्णतरो बभूव।।2.71.46।।",
+      "transliteration": "",
+      "translation": "As he (Bharata) beheld the city of Ayodhya that once had the lustre of the city of Indra, now with its crossroads, houses and highways all deserted, the fittings (nuts and bolts) on the doors red with dust, he was overwhelmed with grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-71-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "बहूनि पश्यन्मनसोऽप्रियाणि यान्यन्यदा नास्य पुरे बभूवुः।\nअवाक्छिरा दीनमना नहृष्टः पितुर्महात्मा प्रविवेश वेश्म।।2.71.47।।",
+      "transliteration": "",
+      "translation": "Having witnessed many unpleasant things that had never happened before, the magnanimous Bharata who was looking cheerless and dejected entered his father's palace with his head bent down. \nइत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे एकसप्ततितमस्सर्गः।। \nThus ends the seventyfirst sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 94,
+    "title": "Commanded by Ravana, the Rakshasa army departs to the battlefield. Destruction of Rakshasa army by Sri Rama's powerful arrows.",
+    "titleSanskrit": "",
+    "totalShlokas": 33
+  },
+  "shlokas": [
+    {
+      "id": "v6-94-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "स प्रविश्यसभांराजादीनःपरमदुःखितः ।\nनि���पादासनेमुख्येसिंहःक्रुद्धइवश्वसन् ।।6.94.1।।",
+      "transliteration": "",
+      "translation": "Ravana, the king entered the council, angry like a lion, looking piteous, very sad and sat on the seat.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अब्रवीच्च स तान्सर्वान् बलमुख्यान् महाबलः ।\nरावणःप्राञ्जलिर्वाक्यंपुत्रव्यसनकर्शितः ।।6.94.2।।",
+      "transliteration": "",
+      "translation": "Ravana, endowed with mighty prowess, shrunken on account of his son, greeting all the army chiefs with folded hands spoke as follows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "सर्वेभवन्तस्सर्वेणहस्त्यश्वेनसमावृताः ।\nनिर्यान्तुरथसङ्घैश्चपादातैश्चोपशोभिताः ।।6.94.3।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "एकंरामंपरिक्षिप्यसमरेहन्तुमर्हथ ।\nवर्षन्तश्शरवर्षाणिप्रावृट् कालइवाम्बुदाः ।।6.94.4।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "अथवाहंशरैस्तीक्ष्णैर्भिन्नगात्रंमहाहवे ।\nभवद्भिःश्वोनिहन्तास्मिरामंलोकस्यपश्यतः ।।6.94.5।।",
+      "transliteration": "",
+      "translation": "\"I shall kill him with huge sharp arrows as the world looks at Rama, once his limbs are struck by you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "इत्येतद्वाक्यमादायरक्षसेन्द्रस्यराक्षसाः ।\nनिर्ययुस्तेरथैःशीघ्रैर्नानानीकैश्चसंयुताः ।।6.94.6।।",
+      "transliteration": "",
+      "translation": "On Rakshasa king speaking like that, all the diverse battalions together departed swiftly on chariots.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "परिघान् पट्टसांश्चैवशरखङ्गपरश्वधान् ।\nशरीरान्तकरान् सर्वेचिक्षिपुर्वानरान् प्रति ।।6.94.7।।\nवानराश्चद्रुमान्शैलान्राक्षसान्प्रतिचिक्षिपुः ।",
+      "transliteration": "",
+      "translation": "All the Rakshasas threw at the Vanaras iron bars, clubs, axes, swords, and arrows, which were capable of destroying the life. Vanaras also attacked Rakshasas with trees and rocks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "स सङ्ग्रामोमहाभीमस्सूर्यस्यदयनंप्रति ।।6.94.8।।\nरक्षसांवानराणां च तुमुलस्समपद्यत ।",
+      "transliteration": "",
+      "translation": "By the time of sunrise, the most terrific war started between Vanaras and Rakshasas, which became tumultuous.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तेगदाभिश्चचित्राभिःप्रासैःखडगैःपरश्वधैः ।।6.94.9।।\nअन्योन्यंसमरेजघ्नुस्तदावानरराक्षसाः ।",
+      "transliteration": "",
+      "translation": "The Vanaras and Rakshasas attacked one another with wonderful maces, darts, swords, and axes in war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "एवंप्रवृत्तेसङ्ग्रामेह्यद्भुतंसुमहद्रजः ।।6.94.10।।\nरक्षसांवानराणां च शान्तंशोणितविस्रवैः ।",
+      "transliteration": "",
+      "translation": "As the war was in progress, wonderful dust had risen which subsided by the flow of blood of Vanaras and Rakshasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "मातङ्गरथकूलाश्चवाजिमत्सास्यध्वजद्रुमाः ।।6.94.11।।\nशरीरसङ्घाटवहाःप्रसस्रुःशोणितापगाः ।",
+      "transliteration": "",
+      "translation": "There with rivers of blood flowing, elephants and chariots were like banks, horses were like fish, staff of chariots like trees and dead bodies as logs of wood seemed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "ततस्तेवानराःसर्वेशोणितौघपरिप्लुताः ।।6.94.12।।\nध्वजवर्मरथानश्वान्नानाप्रहरणानि च ।\nआप्लुत्याप्लुत्यसमरेवानरेन्द्राबभञ्चिरे ।।6.94.13।।",
+      "transliteration": "",
+      "translation": "Leaping and jumping the Vanaras and also the leaders of Vanaras bathed in blood broke all kinds of weapons, staff of chariots and the horses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "केशान् कर्णललाटं च नासिकाश्चप्लवङ्गमाः ।\nरक्षसांदशनैस्तीक्ष्णैर्नखैश्चापिव्यकर्तयन् ।।6.94.14।।",
+      "transliteration": "",
+      "translation": "The monkeys with their sharp teeth and nails tore off the hair, ears, noses, and forehead of the Rakshasas,",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "एकैकंराक्षसंसङ्ख्येशतंवानरपुङ्गवाः ।\nअभ्यधावन्तफलिनंवृक्षंशकुनयोयथा ।।6.94.15।।",
+      "transliteration": "",
+      "translation": "Just as trees laden with fruits are attacked by birds, each one of the Rakshasas was attacked by hundreds of Vanaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तदागदाभिर्गुर्वीभिःप्रासैःखडगैःपरश्वधैः ।\nनिर्जघ्नुर्वानरान्घोरान्राक्षसाःपर्वतोपमाः ।।6.94.16।।",
+      "transliteration": "",
+      "translation": "Then the mountainlike forms of Rakshasas attacked the Vanaras with heavy maces, darts, swords, and axes in frightening ways.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "राक्षसैर्वध्यमानानांवानराणांमहाचमूः ।\nशरण्यंशरणंयातारामंदशरथात्मजम् ।।6.94.17।।",
+      "transliteration": "",
+      "translation": "The Vanaras being struck by Rakshasas sought the protection of Rama, the son of Dasharatha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "ततोरामोमहातेजाधनुरादायवीर्यवान् ।\nप्रविश्यराक्षसंसैन्यंशरवर्षंववर्ष ह ।।6.94.18।।",
+      "transliteration": "",
+      "translation": "Then, the highly energetic and valiant Rama, taking up the bow showered rain of arrows on Rakshasa army.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "प्रविष्टंतुतदारामंमेघास्सूर्यमिवाम्बरे ।\nनाथिजग्मुर्महाघोरानिर्दहन्तंशराग्निना ।।6.94.19।।",
+      "transliteration": "",
+      "translation": "Then Rama entered the army with fire like arrows which were consuming the Rakshasas like the clouds in the sky which can't approach the scorching Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "कृतान्येवसुघोराणिरामेणरजनीचराः ।\nददृशुस्ते न वैरामंकर्माण्यसुकराणिते ।।6.94.20।।",
+      "transliteration": "",
+      "translation": "The night rangers were able to see Rama's terrible action which was difficult for others only after he had performed not otherwise (as they could not see his quick movement).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "चालयन्तंमहासैन्यंविधमन्तंमहारथान् ।\nददृशुस्ते न वैरामंवातंवनगतंयथा ।।6.94.21।।",
+      "transliteration": "",
+      "translation": "They could not see Rama while he was moving and breaking huge chariots as one would not be able to see the trees in the forest when the wind blew fast.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "छिन्नंभिन्नंशरैर्दग्धंप्रभन्नंशस्त्रपीडितम् ।\nबलंरामेणददृशुर्नरामंशीघ्रकारिणम् ।।6.94.22।।",
+      "transliteration": "",
+      "translation": "They saw the army shattered, broken into pieces, tormented with darts by Rama but could not make out Rama who was very fast in action.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "प्रहरन्तंशरीरेषु न तेपश्यन्तिराघवम् ।\nइन्द्रियार्थेषुतिष्ठन्तंभूतात्मानमिवप्रजाः ।।6.94.23।।",
+      "transliteration": "",
+      "translation": "Just as created beings experience their senses and do not perceive their soul, the army experienced the hitting of Raghava by their senses but were not able to perceive him who was hitting them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "एषहन्तिगजानीकमेषहन्तिमहारथान् ।\nएषहन्तिशरैस्तीक्ष्णैःपदातीस्वाजिभिःसह ।।6.94.24।।\nइतितेराक्षसास्सर्वेरामस्यसदृशान्रणे ।\nअन्योन्यंकुपिताजघ्नुस्सादृश्याद्राघवस्यते ।।6.94.25।।",
+      "transliteration": "",
+      "translation": "'Rama is here killing elephants', 'Here is Rama destroying chariot warriors', 'Rama is killing horses, foot soldiers with sharp arrows', saying like that, the Rakshasas were striking one another in the battle. Being there where Rama was, they were mistaking one another for Rama there because of the socalled resemblance and attacking one another.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "न तेददृशिरेरामंदहन्तमपिवाहिनीम् ।\nमोहिताःपरमास्त्रणगान्धर्वेणमहात्मना ।।6.94.26।।",
+      "transliteration": "",
+      "translation": "The Rakshasas got confused by the supreme missile presided over by Gandharvas, released by Rama, which was burning their army, and were not able to see.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तेतुरामसहस्राणिरणेपश्यन्तिराक्षसाः ।\nपुनःपश्यन्तिकाकुत्स्थमेकमेवमहाहवे ।।6.94.27।।",
+      "transliteration": "",
+      "translation": "In the battle those Rakshasas could see a thousand Ramas at one place and again one Rama alone at another place",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "भ्रमन्तीकाञ्चनींकोटिंकार्मुकस्यमहात्मनः ।\nअलातचक्रप्रतिमांददृशुस्ते न राघवम् ।।6.94.28।।",
+      "transliteration": "",
+      "translation": "While Rama was going around in circles with his bow, the Rakshasas were confused, and saw the golden ends of the bow to be like a burning fire stick circling and could not see Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "शरीरनाभिसत्त्वार्चिश्शरारंनेमिकार्मुकम् ।\nज्याघोषतलनिर्घोषंतेजोबुधदिगुणप्रभम् ।।6.94.29।।\nदिव्यास्त्रगुणपर्यन्तंनिघ्नन्तंयुधिराक्षसान् ।\nददृशूरामचक्रंतत्कालचक्रमिवप्रजाः ।।6.94.30।।",
+      "transliteration": "",
+      "translation": "People saw Rama in the form of wheel exterminating the Rakshasas on the battlefield, which had the body of Sri Rama as its navel, his strength as its glow, the arrows as spokes, his bow as belly, the twangling of the bowstring as its sound, his virtues and effulgence as the power of his mystic missiles in war. Rama was seen as a wheel of time spirit by the people.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "अनीकंदशसाहस्रंरथानांवातरम्हसाम् ।\nअष्टादशसहस्राणिकुञ्जराणांतरस्विनाम् ।।6.94.31।।\nचतुर्दशसहस्राणिसारोहाणां च वाजिनाम् ।\nपूर्णेशतसहस्रेद्वेराक्षसानांपदातिनाम् ।।6.94.32।।\nदिवसस्याष्टभागेनशरैरग्निशिखोपमैः ।\nहतात्यान्येकेनरामेणरक्षसांकामरूपिणाम् ।।6.94.33।।",
+      "transliteration": "",
+      "translation": "In the eighth part of the day, in the battlefield, an army of Rakshasas who were capable of changing their forms at will, constituting a myriad of chariots with wind speed, eighteen thousand fleetfooted elephants, fourteen thousand horses with riders, two lakh Rakshasas fighting on foot exterminated by Rama singlehanded with his arrows that resembled tongues of fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "तेहताश्वाहतरथाश्शान्ताविमथितध्वजाः ।\nअभिपेतुःपुरींलङ्कांहतशेषानिशाचराः ।।6.94.34।।",
+      "transliteration": "",
+      "translation": "Rakshasas dead, chariots destroyed, staff of chariots broken, remaining Rakshasas returned to Lanka.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "हतैर्गजपदात्यश्वैस्तद्बभूवरणाजिरम् ।\nअक्रीडभूमिःक्रुद्धस्यरुद्रस्येवमहात्मनः ।।6.94.35।।",
+      "transliteration": "",
+      "translation": "With the elephants, horses, and foot soldiers killed, the battlefield was like the ground where mighty Rudra sported in anger.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "ततोदेवास्कसगन्धर्वास्सिद्धाश्चपरमर्षयः ।\nसाधुसावधितिरामस्यतत्कर्मसमपूजयन् ।।6.94.36।।",
+      "transliteration": "",
+      "translation": "Then, the Gandharvas, Devas, and Siddhas were very happy and praised Sri Rama saying, 'well done, well done' and offered prayers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "अब्रवीच्छतदारामःसुग्रीवंप्रत्यनन्तरम् ।\nविभीषणं च धर्मात्माहनूमन्तं च वानरम् ।।6.94.37।।\nजाम्बवन्तंहरिश्रेष्ठंमैन्दंद्विविदमेव च ।\nएतदस्त्रबलंदिव्यंममवात्ऱ्यम्बकस्यवा ।।6.94.38।।",
+      "transliteration": "",
+      "translation": "Then righteous Sri Rama said to nearby Sugriva, Vibheeshana, Hanuman, Jambavan and leaders of Vanaras like Mainda, Dwivida, that the power of these arrows are in him and Lord Siva only.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-94-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "निहत्यतांराक्षसराजवाहिनींरामस्तदाशक्रसमोमहात्मा ।\nअस्त्रषुशस्त्रषुजितक्लमश्चसंस्तूयतेदेवगणैःप्रहृष्टैः ।।6.94.39।।",
+      "transliteration": "",
+      "translation": "Sri Rama, a compeer of Indra having exterminated the Rakshasa king's army with weapons and missiles, the Devas and sages too were jubilant. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेचतुर्नवतितमस्सर्गः ।। This is the end of the ninety fourth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 14,
+    "title": "Vibheeshana advises Ravana to give away Sita to Sri Rama before the Rakshasas are pierced by Rama.",
+    "titleSanskrit": "",
+    "totalShlokas": 22
+  },
+  "shlokas": [
+    {
+      "id": "v6-14-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "निशाचरेन्द्रस्यनिशम्यवाक्यंसकुम्भकर्णस्यचगर्जि��ानि ।\nविभीषणोराक्षसराजमुख्यमुवाचवाक्यंहितमर्थयुक्तम् ।।6.14.1।।",
+      "transliteration": "",
+      "translation": "On hearing the statement of the Lord of Rakshasas and roaring of Kumbhakarna, looking at Ravana the king of Rakshasas, Vibheeshana said these good words appropriate of a noble person.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-14-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "न्तरभोगराशिश्चिन्ताविषस्सुस्मिततीक्ष्णदंष्ट्रः ।\nपञ्चाङ्गुलीपञ्चशिरोऽतिकायस्सीतामहाहिस्तवकेनराजन् ।।6.14.2।।",
+      "transliteration": "",
+      "translation": "\"O king Why have you desired Sita who has snake hood at her bosom, has poison of grief, has sharp fangs behind her gentle smile and has five fingers of her palm as five heads of snake called Sita?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-14-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "यावन्नलङ्कांसमभिद्रवन्तिवलीमुखाःपर्वतकूटमात्राः ।\nदष्ट्रायुधाश्चैवनखायुधाश्चप्रदीयतांदाशरथायमैथिली ।।6.14.3।।",
+      "transliteration": "",
+      "translation": "\"Before the monkeys of mountain like form whose teeth and claws are like weapons reach Lanka, give away Mythili to Rama.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-14-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "यावन्नगृह्णन्तिशिरांसिबाणारामेरिताराक्षसपुङ्गवानाम् ।\nवज्रोपमावायुसमानवेगाःप्रदीयतांदाशरथायमैथिली ।।6.14.4।।",
+      "transliteration": "",
+      "translation": "\"Give away Mythili to Rama before he releases arrows like that of thunder bolt with the speed of wind and take away the heads of the leader.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-14-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "नकुम्भकर्णेन्द्रजितौचराजंस्तथामहापार्श्वमहोदरौवा ।\nनिकुम्भकुम्भौचतथाऽतिकायःस्थातुंनशक्तायुधिराघवस्य ।।6.14.5।।",
+      "transliteration": "",
+      "translation": "\"O King It will not be possible for either Kumbhakarna or Indrajith so also for Mahaparsva not even Mahodara, so also for Nikumbha or Kumbha and Athikaya to face Rama in combat.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-14-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "जीवंस्तुरामस्यनमोक्ष्यसेत्वंगुप्तस्सवित्राप्यथवामरुद्भि: ।\nनवासवस्याङ्कगतोनमृत्योर्नभोनपाताळमनुप्रविष्टः ।।6.14.6।।",
+      "transliteration": "",
+      "translation": "\"Rama's arrows will not leave you with life even if you are guarded by Sun or wind god, not even if you sit on the lap of Indra or death god or even if you enter the sky or under water.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-14-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "निशम्यवाक्यंतुविभीषणस्यततःप्रहस्तोवचनंबभाषे ।\nननोभयंविद्मनदैवतेभ्योनदानवेभ्योऽप्यथवाकुतश्चित् ।।6.14.7।।",
+      "transliteration": "",
+      "translation": "After hearing the words said by Vibheeshana, Prahastha spoke these words, we do not know the fear of gods or Rakshasas or anyone.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-14-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "नयक्षगन्धर्वमहोरगेभ्योभयंनसंख्येपतगोरगेभ्यः ।\nकथंनुरामाद्भविताभयंनोनरेन्द्रपुत्रात्समरेकदाचित् ।।6.14.8।।",
+      "transliteration": "",
+      "translation": "\"We are not afraid of Yakshas, Gandharvas, or even Nagas. We have no fear of birds or reptiles. What fear can we have of the king's son, Rama?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-14-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "प्रहस्तवाक्यंत्वहितंनिशम्यविभीषणोराजहितानुकाङ्क्षी ।\nततोमहार्थंवचनंबभाषेधर्मार्थकामेषुनिविष्टबुद्धि:।। 6.14.9।।",
+      "transliteration": "",
+      "translation": "Then Vibheeshana, wishing the welfare of the king, intent upon Dharma, artha and kama, thinking rightly and deeply, spoke these words on hearing Prahastha's words that were not good.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-14-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "प्रहस्त: राजाचमहोदरश्चत्वंकुम्भकर्णश्चयथाऽर्थजातम् ।\nब्रवीतरामंप्रतितन्नशक्यंयथागतिस्स्वर्गमधर्मबुद्धेः ।।6.14.10।।",
+      "transliteration": "",
+      "translation": "\"That which you intend to accomplish against Rama is not possible either for you or the king and even for Kumbhakarna and Mahodara, just as heaven is not obtained by the unrighteous people,\" said Vibheeshana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-14-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "वधस्तुरामस्यमयात्वयाचप्रहस्तसर्वैरपिराक्षसैर्वा ।\nकथंभवेदर्थविशारदस्यमहार्णवंतर्तुमिवाप्लवस्य ।।6.14.11।।",
+      "transliteration": "",
+      "translation": "\"Prahastha How can you or me or all Rakshasas kill Rama who is knowledgeable of everything, just as one who is not swimming can cross the great ocean.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-14-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "धर्मप्रधानस्यमहारथस्यइक्ष्वाकुवंशप्रभवस्यराज्ञः ।\nपुरोस्यदेवाश्चतथाविधस्यकृत्येषुशक्तस्यभवन्तिमूढा ।।6.14.12।।",
+      "transliteration": "",
+      "translation": "\"One to whom righteousness is foremost, who is capable of fighting with eleven thousand warriors as charioteer, (like Dasaratha) who is a glorious scion of Ikshvaku dynasty, who is highly capable in war, in front of whom even gods got bewildered earlier. What can be done by you?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-14-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तीक्ष्णानतायत्तवकङ्कपत्रादुरासदाराघवविप्रमुक्ताः ।\nभित्वाशरीरंप्रविशन्तिबाणाःप्रहस्ततेनैवविकत्थसेत्वम् ।।6.14.13।।",
+      "transliteration": "",
+      "translation": "\"Prahastha Sharp arrows of Rama fixed with feathers of Kanka birds are dangerous arrows. They will tear your body and penetrate. What are you boasting yourself?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-14-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "भित्त्वानतावत्प्रविशन्तिकायंप्राणान्तिकास्तेऽशनितुल्यवेगाः ।\nशिताश्शराराघवविप्रमुक्ताःप्रहस्ततेनैवविकत्थसेत्वम् ।।6.14.14।।",
+      "transliteration": "",
+      "translation": "\"Prahastha Before the lifethreatening sharp arrows which have the speed of a meteor released by Rama penetrate and tear your body, why are you boasting yourself?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-14-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "नरावणोनातिबलस्त्रिशीर्षोनकुम्भकर्णोऽस्यसुतोनिकुम्भः ।\nनचेन्द्रजिद्दाशरधिंप्रसोढुंत्वंवारणेशक्रसमंसमर्थ:।। 6.14.15।।",
+      "transliteration": "",
+      "translation": "\"Either Ravana or exceptionally strong Trisirsha, or even Nikumbha son of Kumbahakarna, or Indrajith are not capable of opposing Rama who is equal to Indra in war. How can you?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-14-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "देवान्तकोवापिनरान्तकोवातथातिकायोऽतिरथोमहात्मा ।\nआकम्पनश्चाद्र��समानसारःस्थातुंनशक्तायुधिराघवस्य ।।6.14.16।।",
+      "transliteration": "",
+      "translation": "\"Either by Devanthaka or Naranthaka, in the same way the great soul Athiratha or Akampana, who is of mountainlike size, will not be able to stand against Raghava in war.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-14-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अयंचराजाव्यसनाभिभूतोमित्रैरमित्रप्रतिमैर्भवद्भि: ।\nअन्वास्यतेराक्षसनाशनार्थेतीक्ष्णःप्रकृत्याह्यसीक्षयकारी ।।6.14.17।।",
+      "transliteration": "",
+      "translation": "\"This king who is by nature violent and acts without thinking about being an addict to seven vices, is destroying Rakshasas. You are also attending to him calling yourself as friends but like enemies.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-14-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अनन्तभोगेनसहस्रमूर्थ्नानागेनभीमेनमहाबलेव ।\nबलात्परिक्षिप्तमिमंभवन्तोराजानमुत्क्षिप्यविमोचयन्तु ।।6.14.18।।",
+      "transliteration": "",
+      "translation": "\"This king is entwined by a fearsome and extremely strong thousand hooded snake endowed with extraordinary energy at present. Lift him up and relieve him.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-14-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "यावद्धिकेशग्रहणातसुहृद्भि: समेत्यसर्वैःपरिपूर्णकामैः ।\nनिगृह्यराजापरिरक्षितव्योभूतैर्यथाभीमबलैर्गृहीतः ।।6.14.19।।",
+      "transliteration": "",
+      "translation": "\"The king will have to be protected by all friends joined together whose wishes have been gratified even by catching him by his hair forcibly just as a man surrounded by a devil of terrific strength is pulled out by his hair.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-14-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "सुवारिणाराघवसागरेणप्रच्छाद्यमानस्तरसाभवद्भि: ।\nयुक्तस्त्वयंतारयितुंसमेत्यकाकुत्स्थपातालमुखेपतन्सः ।।6.14.20।।",
+      "transliteration": "",
+      "translation": "\"He is going to fall into the ocean called Rama to be destroyed, engulfed in the pit of the shape of Kakutstha Rama, the underworld. It is proper for all of us to join and make him free.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-14-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "इदंपुरस्यास्यसराक्षसस्यराज्ञश्चपथ्यंससुहृज्जनस्य ।\nसम्यग्घिवाक्यंस्वमतंब्रवीमिनरेन्द्रपुत्रायददामपत्नीम् ।।6.14.21।।",
+      "transliteration": "",
+      "translation": "\"I tell these good words embodying my opinion. Let the king's wife be given away for the good of the Rakshasas, their dear ones, for the capital and the king.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-14-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "परस्यवीर्यंस्वबलंचबुध्वास्थानंक्षयंचैवतथैववृद्धिम् ।\nतथास्वपक्षेप्यनुमृश्यबुध्वावदेत् क्षमंस्वामिहितंसमन्त्री ।।6.14.22।।",
+      "transliteration": "",
+      "translation": "\"One who is a minister should advice after ascertaining the strength of the foe and his own strength so also one's own growth (in strength) and fall in strength (of foe) and advice that which is conducive to the king's welfare.\" ।।इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेचतुर्दसस्सर्गः।। This is the end of the fourteenth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

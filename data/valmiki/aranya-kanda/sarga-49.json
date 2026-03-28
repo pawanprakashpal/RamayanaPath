@@ -1,0 +1,360 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 49,
+    "title": "Ravana carries away Sita in his chariot-- she screams and wails aloud -- implores the animals, trees, mountains and rivers to tell Rama about her.",
+    "titleSanskrit": "",
+    "totalShlokas": 38
+  },
+  "shlokas": [
+    {
+      "id": "v3-49-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "सीताया वचनं श्रुत्वा दशग्रीवः प्रतापवाम्।\nहस्ते हस्तं समाहत्य चकार सुमहद्वपुः।।3.49.1।।",
+      "transliteration": "",
+      "translation": "On hearing the Sita's words, the powerful Ravana struck his palms one over the other and assumed a huge form (original figure).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "स मैथिलीं पुनर्वाक्यं बभाषे च ततो भृशम्।\nनोन्मत्तया श्रुतौ मन्ये मम वीर्यपराक्रमौ।।3.49.2।।",
+      "transliteration": "",
+      "translation": "Ravana again said to that princess from Mithila, I suppose you are too insane to disregard my strength and valour.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "उद्वहेयं भुजाभ्यां तु मेदिनीमम्बरे स्थितः।\nआपिबेयं समुद्रं च हन्यां मृत्युं रणे स्थितः।।3.49.3।।",
+      "transliteration": "",
+      "translation": "Standing in the sky, I can  lift the earth with my arms.  I can drink the oceans. I can kill even the god of death in a combat.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "अर्कं ऱुन्ध्यां शरैस्तीक्ष्णैर्विभिन्द्या हि महीतलम्।\nकामरूपिणमुन्मत्ते पश्य मां कामदं पतिम्।।3.49.4।।",
+      "transliteration": "",
+      "translation": "I can obstruct the Sun and shatter the earth with my sharp arrows. O mad woman I am a husband who can fulfil your desires, and can assume any form at my own free will. Look at me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "एवमुक्तवतस्तस्य सूर्यकल्पे शिखिप्रभे।\nक्रुद्धस्य हरिपर्यन्ते रक्ते नेत्रे बभूवतुः।।3.49.5।।",
+      "transliteration": "",
+      "translation": "As Ravana exploded in anger, his ambercoloured eyes turned red like the radiance of the flaming fire, and almost as bright as the Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "सद्यस्सौम्यं परित्यज्य भिक्षुरूपं स रावणः।\nस्वं रूपं कालरूपाभं भेजे वैश्रवणानुजः।।3.49.6।।",
+      "transliteration": "",
+      "translation": "Ravana, brother of Kubera, shed the gentle figure of a mendicant and assumed the form of the god of death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "संरक्तनयनश्श्रीमांस्तप्तकाञ्चनभूषणः।\nक्रोधेन महताविष्टो नीलजीमूतसन्निभः।।3.49.7।।\nदशास्यः कार्मुकी बाणी बभूव क्षणदाचरः।",
+      "transliteration": "",
+      "translation": "Overcome by intense anger, Ravana's eyes reddened. The nightranger, stood armed with bow and arrows and shining with glittering gold ornaments, appeared like a black cloud.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "स परिव्राजकच्छद्म महाकायो विहाय तत्।।3.49.8।।\nप्रतिपद्य स्वकं रूपं रावणो राक्षसाधिपः।\nसंरक्तनयनः क्रोधाज्जीमूतनिचयप्रभः।।3.49.9।।\nरक्ताम्बरधरस्तस्थौ स्त्रीरत्नं प्रेक्ष्य मैथिलीम्।",
+      "transliteration": "",
+      "translation": "Ravana, chief of the demons, shed the mendicant's form and assumed his real self. Clad in red garments, his eyes turned red in anger. Looking like layers of clouds, he stood in front of Sita, a gem among women.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "स तामसितकेशान्तां भास्करस्य प्रभामिव।।3.49.10।।\nव��नाभरणोपेतां मैथिलीं रावणोऽब्रवीत्।",
+      "transliteration": "",
+      "translation": "Ravana said to the princess from Mithila, whose black hair was shining, who was luminous like the Sun and was clad in the best of clothes and ornaments.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "त्रिषु लोकेषु विख्यातं यदि भर्तारमिच्छसि।।3.49.11।।\nमामाश्रय वरारोहे तवाहं सदृशः पतिः।",
+      "transliteration": "",
+      "translation": "O beautiful lady  if you desire a husband who is famous in the three worlds, take refuge in me. I am fit to be your husband.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "मां भजस्व चिराय त्वमहं श्लाघ्यः प्रियस्तव।।3.49.12।।\nनैव चाहं क्वचिद्भद्रे करिष्ये तव विप्रियम्।\nत्यज्यतां मानुषे भावो मयि भावः प्रणीयताम्।।3.49.13।।",
+      "transliteration": "",
+      "translation": "I am your praiseworthy husband. I will not cause any unpleasantness to you at any time. Abandon on your inclination towards, a (mere) mortal. Divert your love to me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "राज्याच्च्युतमसिद्धार्थं रामं परिमितायुषम्।\nकैर्गुणैरनुरक्तासि मूढे पण्डितमानिनि।।3.49.14।।\nयः स्त्रिया वचनाद्राज्यं विहाय ससुहृज्जनम्।\nअस्मिन्व्यालानुचरिते वने वसति दुर्मतिः।।3.49.15।।",
+      "transliteration": "",
+      "translation": "O stupid woman you think you are very wise. What is there in Rama so that you are attached to him ? He has left the kingdom and his kith and kin due to the words of a woman. He has not accomplished anything (in life). He has a limited life span and now lives in this forest haunted by wild animals.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "इत्युक्त्वा मैथिलीं वाक्यं प्रियार्हां प्रियवादिनीम्।\nअभिगम्य सुदुष्टात्मा राक्षसः काममोहितः।।3.49.16।।\nजग्राह रावणस्सीतां बुधः खे रोहिणीमिव।",
+      "transliteration": "",
+      "translation": "Just as Budha (planet Mercury) catches Rohini (a cluster of five stars) in the sky, the evilminded, infatuated Ravana advanced towards the pitiable, pleasing Sita and caught hold of her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "वामेन सीतां पद्माक्षीं मूर्धजेषु करेण सः।।3.49.17।।\nऊर्वोस्तु दक्षिणेनैव परिजग्राह पाणिना।",
+      "transliteration": "",
+      "translation": "Ravana seized with his left hand the lotuseyed Sita by the hair and lifted her by the thighs with his right hand.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तं दृष्ट्वा मृत्युसङ्काशं तीक्ष्णदंष्ट्रं महाभुजम्।।3.49.18।।\nप्राद्रवन्गिरिसङ्काशं भयार्ता वनदेवताः।",
+      "transliteration": "",
+      "translation": "The sylvan deities fled out of fear on seeing the dreadful appearance of Ravana who had sharp teeth and mighty arms. He looked like a mountain, a veritable god of death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "स च मायामयो दिव्यः खरयुक्तः खरस्वनः।।3.49.19।।\nप्रत्यदृश्यत हेमाङ्गो रावणस्य महारथः।",
+      "transliteration": "",
+      "translation": "There arrived the great  golden chariot of Ravana, illusive and wonderful, harnessed with donkeys and braying like donkeys.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "ततस्तां परुषैर्वाक्यैर्भर्त्सयन्स महास्वनः।।3.49.20।।\nअङ्केनादाय वैदेहीं रथमारोपयत्तदा।",
+      "transliteration": "",
+      "translation": "Reproaching the princess from Videha loudly and harshly, Ravana took her on his lap and put her on the chariot.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "सा गृहीता विचुक्रोश रावणेन यशस्स्विनी।।3.49.21।।\nरामेति सीता दुःखार्ता रामं दूरगतंवने।",
+      "transliteration": "",
+      "translation": "Seized by Ravana, illustrious Sita screamed aloud Alas, Rama. for one who was far away in the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तामकामां स कामार्तः पन्नगेन्द्रवधूमिव।।3.49.22।।\nविवेष्टमानामादाय उत्पपाताथ रावणः।",
+      "transliteration": "",
+      "translation": "Passionate Ravana took hold of Sita who was not willing and was writhing in pain. He seized her  like (an eagle carrying away) a serpent queen and flew up.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "ततस्सा राक्षसेन्द्रेण ह्रियमाणा विहायसा।।3.49.23।।\nभृशं चुक्रोश मत्तेव भ्रान्तचित्ता यथाऽऽतुरा।",
+      "transliteration": "",
+      "translation": "While Sita was being carried off in the sky by the king of demons,   she screamed a lot in agony and anxiety like a mad woman in a bewildered state:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "हा लक्ष्मण महाबाहो गुरुचित्तप्रसादक।।3.49.24।।\nह्रियमाणां न जानीषे रक्षसा माममर्षिणा।",
+      "transliteration": "",
+      "translation": "Alas, O longarmed Lakshmana, you who used to entertain your brother do not know that I am being carried away by this ruthless demon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "जीवितं सुखमर्थांश्च धर्महेतोः परित्यजन्।।3.49.25।।\nह्रियमाणामधर्मेण मां राघव न पश्यसि।",
+      "transliteration": "",
+      "translation": "O Rama, you have given up your life, pleasure and treasure for the sake of righteousness. Do you not see me carried off by an unrighteous fellow ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "ननु नामाविनीतानां विनेतासि परन्तप।।3.49.26।।\nकथमेवंविधं पापं न त्वं शासि हि रावणम्।",
+      "transliteration": "",
+      "translation": "O scorcher of enemies you are the chastiser of the haughty. Why do you not punish such a sinner like Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "ननु सद्योऽविनीतस्य दृश्यते कर्मणःफलम्।।3.49.27।।\nकालोऽप्यङ्गीभवत्यत्र सस्यानामिव पक्तये।",
+      "transliteration": "",
+      "translation": "The effect of arrogant action cannot be seen right away. Just as the crop yields results only after ripening, in the same way it takes time. Time acts as a supporting factor.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "त्वं कर्म कृतवानेतत्कालोपहतचेतनः।।3.49.28।।\nजीवितान्तकरं घोरं रामाद्व्यसनमाप्नुहि।",
+      "transliteration": "",
+      "translation": "Time has taken a toll of your senses. This has made you do what you have done. A great calamity is awaiting you in the hands of Rama. It will end your life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "हन्तेदानीं सकामास्तु कैकेयी सह बान्धवैः।।3.49.29।।\nह्रिये यद्धर्मकामस्य धर्मपत्नी यशस्विनः।",
+      "transliteration": "",
+      "translation": "Alas, the lawful wife of the glorious and righteous Rama is being abducted now. Let  Kaikeyi along with her relations be happy with her desire fulfilled.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "आमन्त्रये जनस्थाने कर्णिकारान्सुपुष्पितान्।।3.49.30।।\nक्षिप्रं रामाय शंसध्वं सीतां हरति रावणः।",
+      "transliteration": "",
+      "translation": "O karnikar trees in full bloom in Janasthana, tell Rama quickly that Ravana is kidnapping Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "माल्यवन्तं शिखरिणं वन्दे प्रस्रवणं गिरिम्।।3.49.31।।\nक्षिप्रं रामाय शंस त्वं सीतां हरति रावणः।",
+      "transliteration": "",
+      "translation": "I salute to Malyavan and  Prasravana mountains. Tell Rama at once that Ravana is carrying away Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "हंसकारण्डवाकीर्णां वन्दे गोदावरीं नदीम्।।3.49.32।।\nक्षिप्रं रामाय शंस त्वं सीतां हरति रावणः।",
+      "transliteration": "",
+      "translation": "O river Godavari abounding in swans and cranes, my salutations to you  Tell Rama immediately that Ravana is taking away Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "दैवतानि च यान्यस्मिन्वने विविधपादपे।।3.49.33।।\nनमस्करोम्यहं तेभ्योभर्तुश्शंसत मां हृताम्।",
+      "transliteration": "",
+      "translation": "I offer my salutations to different deities residing in this forest abounding in trees of many kinds. Tell my husband about me that I am being whisked away.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "यानि कानि चिदप्यत्र सत्त्वानि निवसन्त्युत।।3.49.34।।\nसर्वाणि शरणं यामि मृगपक्षिगणानपि।",
+      "transliteration": "",
+      "translation": "I seek refuge in all those living beings as well as herds of animals and birds in the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "ह्रियमाणां प्रियां भर्तुः प्राणेभ्योऽपि गरीयसीम्।।3.49.35।।\nविवशाऽपहृता सीता रावणेनेति शंसत।",
+      "transliteration": "",
+      "translation": "Tell Rama that his dear wife Sita whom he loves more than his life is abducted helplessly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "विदित्वा मां महाबाहुरमुत्रापि महाबलः।।3.49.36।।\nआनेष्यति परा���्रम्य वैवस्वतहृतामपि।",
+      "transliteration": "",
+      "translation": "If he knows that I am abducted by Yama, the god of death, that mighty, longarmed hero will save me even from there by virtue of his valour.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "सा तदा करुणा वाचो विलपन्ती सुदुःखिता।।3.49.37।।\nवनस्पतिगतं गृध्रं ददर्शाऽयतलोचना।",
+      "transliteration": "",
+      "translation": "When the griefstricken, largeeyed Sita was lamenting piteously, she saw the vulture (Jatayu) seated on a tree.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "सा तमुद्वीक्ष्य सुश्रोणी रावणस्य वशं गता।3.49.38।।\nसमाक्रन्दद्भयपरा दुःखोपहतया गिरा।",
+      "transliteration": "",
+      "translation": "The heavyhipped Sita felt frightened in the grip of Ravana. When she saw Jatayu she screamed, shaken by sorrow:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "जटायो पश्य मामद्य ह्रियमाणामनाथवत्।।3.49.39।।\nअनेन राक्षसेन्द्रेण करुणं पापकर्मणा।",
+      "transliteration": "",
+      "translation": "O Jatayu, see me now being carried away by the sinful king of demons in this pitiable condition as though I am an orphan.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "नैष वारयितुं शक्यस्तव क्रूरो निशाचरः।।3.49.40।।\nसत्त्वाञ्जितकाशी च सायुधश्चैव दुर्मतिः।",
+      "transliteration": "",
+      "translation": "This nightranger is equipped with weapons. Cruel, strong and evilminded, he has won wars. You cannot stop him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-49-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "रामाय तु यथातत्त्वं जटायो हरणं मम।।3.49.41।।\nलक्ष्मणाय च तत्सर्वमाख्यातव्यमशेषतः।",
+      "transliteration": "",
+      "translation": "O Jatayu narrate to Rama and Lakshmana the exact facts of my abduction and all the details without any omission. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे एकोनपञ्चाशस्सर्गः।। Thus ends the fortyninth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

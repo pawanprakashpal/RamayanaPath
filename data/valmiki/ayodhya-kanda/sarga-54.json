@@ -1,0 +1,360 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 54,
+    "title": "Rama, Sita and Lakshmana depart for Dandaka forest -- reach the hermitage of sage Bharadwaja -- seek advice for a dwelling -- place -- Bharadwaja suggests Chitrakuta at the confluence of rivers Ganga and Yamuna -- they set out after a night's stay.",
+    "titleSanskrit": "",
+    "totalShlokas": 38
+  },
+  "shlokas": [
+    {
+      "id": "v2-54-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ते तु तस्मिन्महावृक्षे उषित्वा रजनीं शिवाम्।\nविमलेऽभ्युदिते सूर्ये तस्माद्देशात्प्रतस्थिरे।।2.54.1।।",
+      "transliteration": "",
+      "translation": "They (Rama, Sita and Lakshmana) spent that auspicious night under that great tree and set out from there after the bright sun rose.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "यत्र भागीरथीं गङ्गां यमुनाभिप्रवर्तते।\nजग्मुस्तं देशमुद्दिश्य विगाह्य सुमहद्वनम्।।2.54.2।।\nते भूमिभागान्विविधान् देशांश्चापि मनोरमान्।\nअदृष्टपूर्वान् पश्यन्तस्तत्र तत्र यशश्विनः।।2.54.3।।",
+      "transliteration": "",
+      "translation": "Illustrious Rama, Sita and Lakshmana entered the deep forest and saw the different regions of the land and other enchanting places which they had never seen before and proceeded towards the region where the river Yamuna merged with Bhagirathi Ganga.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "यथा क्षेमेण गच्छन् स पश्यंश्च विविधान् द्रुमान्।\nनिवृत्तमात्रे दिवसे रामः सौमित्रिमब्रवीत्।।2.54.4।।",
+      "transliteration": "",
+      "translation": "Walking on the safe path and observing various kinds of trees Rama said to Lakshmana at the end of the day:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "प्रयागमभितः पश्य सौमित्रे धूममुन्नतम्।\nअग्नेर्भगवतः केतुं मन्ये सन्निहितो मुनिः।।2.54.5।।",
+      "transliteration": "",
+      "translation": "O son of Sumitra, look at the column of smoke rising like the banner of the venerable firegod near Prayaga. I think an ascetic dwells nearby.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "नूनं प्राप्ताः स्म सम्भेदं गङ्गायमुनयोर्वयम्।\nतथा हि श्रूयते शब्दो वारिणो वारिघट्टितः।।2.54.6।।",
+      "transliteration": "",
+      "translation": "We have surely reached the confluence of Ganga and Yamuna which can be ascertained from the sounds of clashing water.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "दारूणि परिभिन्नानि वनजैरुपजीविभिः।\nभरद्वाजाश्रमे चैते दृश्यन्ते विविधा द्रुमाः।।2.54.7।।",
+      "transliteration": "",
+      "translation": "Here are logs of wood cut into pieces by forestdwellers, living on forest products. You can see various trees near the hermitage of sage Bharadwaja.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "धन्विनौ तौ सुखं गत्वा लम्बमाने दिवाकरे।\nगङ्गायमुनयोस्सन्धौ प्रापतुर्निलयं मुनेः।।2.54.8।।",
+      "transliteration": "",
+      "translation": "The two archers (Rama and Lakshmana) reached comfortably (walking at an easy pace) by evening the hermitage of sage Bharadwaja near the confluence of Ganga and Yamuna.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "रामस्त्वाश्रममासाद्य त्रासयन्मृगपक्षिणः।\nगत्वा मुहूर्तमध्वानं भरद्वाजमुपागमत्।।2.54.9।।",
+      "transliteration": "",
+      "translation": "Seeing Rama approaching the hermitage the deer and the birds were frightened. Proceeding on the path, for a while Rama reached (the place of) Bharadwaja.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "ततस्त्वाश्रमासाद्य मुनेर्दर्शनकाङ्क्षिणौ।\nसीतयानुगतौ वीरौ दूरादेवावतस्थतुः।।2.54.10।।",
+      "transliteration": "",
+      "translation": "Thereafter the two heroes followed by Sita arrived at the hermitage and, wishing to see the sage, waited at a distance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "स प्रविश्य महात्मानमृषिं शिष्यगणैर्वृतम्।\nसंशितव्रतमेकाग्रं तपसा लब्धचक्षुषम्।।2.54.11।।\nहुताग्निहोत्रं दृष्ट्वैव महाभागं कृताञ्जलिः।\nरामः सौमित्रिणा सार्धं सीतया चाभ्यवादयत्।।2.54.12।।",
+      "transliteration": "",
+      "translation": "Rama entered the hermitage and saw that highsouled Bharadwaja surrounded by his disciples. He was a distinguished sage who (himself) kindled sacrficial fires and acquired spiritual insight by practising rigid austerities with concentration of mind and ascetic powers. Rama, Lakshmana and Sita paid their obeisance to that great sage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "न्यवेदयत चात्मानं तस्मै लक्ष्मणपूर्वजः।\nपुत्रौ दशरथस्यावां भगवन् रामलक्ष्मणौ।।2.54.13।।",
+      "transliteration": "",
+      "translation": "Lakshmana's elder brother (Rama) introduced himself (to Bharadwaja), O venerable one, we are both sons of Dasaratha, Rama and Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "भार्या ममेयं वैदेही कल्याणी जनकात्मजा।\nमां चानुयाता विजनं तपोवनमनिन्दिता।।2.54.14।।",
+      "transliteration": "",
+      "translation": "This blessed one is my consort, Sita, daughter of Janaka. Irreproachable she has followed me to the desolate grove of penance (hermitage).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "पित्रा प्रव्राज्यमानं मां सौमित्रिरनुज प्रियः।\nअयमन्वगमद्भ्राता वनमेव दृढव्रतः।।2.54.15।।",
+      "transliteration": "",
+      "translation": "This is the son of Sumitra, my beloved younger brother, a man of firm resolve. He has accompanied me when I was sent on exile to the forest by my father.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "पित्रा नियुक्ता भगवन् प्रवेक्ष्यामस्तपोवनम्।\nधर्ममेव चरिष्याम स्तत्र मूलफलाशनाः।।2.54.16।।",
+      "transliteration": "",
+      "translation": "O venerable one on my father's command we entered the desolate forest of penance. Subsisting on roots and fruits, I shall practise the righteous way of life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तस्य तद्वचनं श्रुत्वा राजपुत्रस्य धीमतः।\nउपानयत धर्मात्मा गामर्घ्यमुदकं ततः।।2.54.17।।",
+      "transliteration": "",
+      "translation": "Sage Bharadwaja heard the words of sagacious Rama and offered a bull, water (for washing feet) and arghya (offering to a guest).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "नानाविधानन्नरसान् वन्यमूलफलाश्रयान्।      \nतेभ्यो ददौ तप्ततपा वासं चैवाभ्यकल्पयत्।।2.54.18।।",
+      "transliteration": "",
+      "translation": "The ascetic who practised severe penance offered them different kinds of food and drink made from roots and fruits available in the forest. He also provided them a place to rest in.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "मृगपक्षिभिरासीनो मुनिभिश्च समन्ततः।\nराममागतमभ्यर्च्य स्वागतेनाहतं मुनिः।।2.54.19।।",
+      "transliteration": "",
+      "translation": "There the sage sat, surrounded by hermits, animals and birds after having welcomed Rama with due honour.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "प्रतिगृह्य च तामर्चामुपविष्टं स राघवम्।\nभरद्वाजोऽब्रवीद्वाक्यं धर्मयुक्तमिदं तदा।।2.54.20।।",
+      "transliteration": "",
+      "translation": "Rama accepted the hospitality of Bharadwaja and took a seat in front of the sage, who spoke to him these words in conformity with righteousness:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "चिरस्य खलु काकुत्स्थ पश्यामि त्वामिहागतम्।\nश्रुतं तव मया चेदं विवासनमकारणम्।।2.54.21।।",
+      "transliteration": "",
+      "translation": "O descendant of the Kakutstha dynasty, I am able to see you on your arrival here after a long time. I have also heard about your unwarranted banishment.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "अवकाशो विविक्तोऽयं महानद्योस्समागमे।\nपुण्यश्च रमणीयश्च वसत्विह भवान् सुखम्।।2.54.22।।",
+      "transliteration": "",
+      "translation": "This sacred and solitary region near the confluence of two great rivers (Ganga and Yamuna) is a pleasant place. You may stay here comfortably.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु वचनं भरद्वाजेन राघवः।\nप्रत्युवाच शुभं वाक्यं रामः सर्वहिते रतः।।2.54.23।।",
+      "transliteration": "",
+      "translation": "Rama, ever devoted to the wellbeing of every one, heard Bharadwaja and replied to him with these auspicious words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "भगवन्नित आसन्नः पौरजानपदो जनः।\nसुदर्शमिह मां प्रेक्ष्य मन्येऽहमिममाश्रमम्।।2.54.24।।\nआगमिष्यति वैदेहीं मां चापि प्रेक्षको जनः।\nअनेन कारणेनाहमिह वासं न रोचये।।2.54.25।।",
+      "transliteration": "",
+      "translation": "O venerable sage, I feel the people living in nearby villages and towns, perceiving that we can be easily seen here, will frequent this ashram. This is the reason I don't wish to stay here.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "एकान्ते पश्य भगवन्नाश्रमस्थानमुत्तमम्।\nरमेत यत्र वैदेही सुखार्हा जनकात्मजा।।2.54.26।।",
+      "transliteration": "",
+      "translation": "O revered one, Janaka's daughter (Sita) deserves comfort. Suggest a solitary and agreeable place for our hermitage where she can enjoy herself.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "एतछ्रुत्वा शुभं वाक्यं भरद्वाजो महामुनिः।\nराघवस्य ततो वाक्यमर्थग्राहकमब्रवीत्।।2.54.27।।",
+      "transliteration": "",
+      "translation": "On hearing the auspicious words of Rama conveying his intention, the great sage Bharadwaja replied to him thus:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "दशक्रोश इतस्तात गिरिर्यत्रनिवत्स्यसि।\nमहर्षिसेवितः पुण्यः सर्वतः सुखदर्शनः।।2.54.28।।\nगोलाङ्गूलानुचरितो वानरर्क्षनिषेवितः।\nचित्रकूट इति ख्यातो गन्धमादनसन्निभः।।2.54.29।।",
+      "transliteration": "",
+      "translation": "O my son ten krosas (about twenty miles) from here is a mountain wellknown as  Chitrakuta, resembling 'Gandhamadana'. That mountain frequented by maharshis is sacred. It looks pleasant from all sides. Monkeys, apes and bears wander there and it is an appropriate place for you to live in.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "यावता चित्रकूटस्य नरशृङ्गान्यवेक्षते।\nकल्याणानि समाधत्ते न पापे कुरुते मनः।।2.54.30।।",
+      "transliteration": "",
+      "translation": "As long as one beholds the peaks of mount Chitrakuta, he will be inspired to do good deeds and will not employ his mind in sinful thoughts.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "ऋषयस्तत्र बहवो विहृत्य शरदां शतम्।\nतपसा दिवमारूढाः कपालशिरसा सह।।2.54.31।।",
+      "transliteration": "",
+      "translation": "On the Chitrakuta mountain many ascetics wandered about (lived) for hundreds of years carrying on penance. In the process they became so much emaciated that they looked as if they were left (only) with the skulls on their heads. (In the end) they ascended heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "प्रविविक्तमहं मन्ये तं वासं भवतस्सुखम्।\nइह वा वनवासाय वस राम मया सह।।2.54.32।।",
+      "transliteration": "",
+      "translation": "O Rama, I think you will enjoy your stay there in a solitary place. Or else, you may live with me here during the period of banishment.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "स रामं सर्वकामैस्तं भरद्वाजः प्रियातिथिम्।\nसभार्यं सह च भ्रात्रा प्रतिजग्राह धर्मवित्।।2.54.33।।",
+      "transliteration": "",
+      "translation": "Bharadwaja, who knows his duty honoured Rama, his beloved guest with his consort and brother by extending all kinds of hospitality.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "तस्य प्रयागे रामस्य तं महर्षिमुपेयुषः।\nप्रपन्ना रजनी पुण्याः चित्राः कथयतः कथाः।।2.54.34।।",
+      "transliteration": "",
+      "translation": "At Prayaga, while the great sage Bharadwaja was narrating to Rama sitting near him several interesting anecdotes, the holy night set in.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "सीतातृतीयः काकुत्स्थः परिश्रान्तः सुखोचितः।\nभरद्वाजाश्रमे रम्ये तां रात्रिमवसत्सुखम्।।2.54.35।।",
+      "transliteration": "",
+      "translation": "The exhausted scion of the Kakutsthas, used to comforts, stayed in the lovely hermitage of Bharadwaja for the night with Sita, as the third member (of the group).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "प्रभातायां रजन्यां तु भरद्वाजमुपागमत्।\nउवाच नरशार्दूलो मुनिं ज्वलिततेजसम्।।2.54.36।।",
+      "transliteration": "",
+      "translation": "When the night passed into dawn, Rama the best of men approached the resplendent Bharadwaja and said.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "शर्वरीं भगवन्नद्य सत्यशील तवाश्रमे।\nउषिताः स्मेह वसतिमनुजानातु नो भवान्।।2.54.37।।",
+      "transliteration": "",
+      "translation": "O venerable sage devoted to truth, we have spent the night in your hermitage. Please permit us to depart for the dwellingplace (suggested by you).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "रात्र्यां तु तस्यां व्युष्टायां भरद्वाजोऽब्रवीदिदम्।\nमधुमूलफलोपेतं चित्रकूटं व्रजेति ह।।2.54.38।।",
+      "transliteration": "",
+      "translation": "When the night came to a close, Bharadwaja said (to Rama): You may proceed to Chitrakuta which abounds in roots, fruits and honey.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "वासमौपयिकं मन्ये तव राम महाबल\nनानानगगणोपेतः किन्नरोरगसेवितः।\nमयूरनादाभिरुतो गजराजनिषेवितः।।2.54.39।।\nगम्यतां भवता शैल श्चित्रकूटः स विश्रुतः।\nपुण्यश्च रमणीयश्च बहुमूलफलायुतः।।2.54.40।।",
+      "transliteration": "",
+      "translation": "O mighty Rama, I think mount Chitrakuta is the right place for you to stay. Go there. That mountain is full of trees of every kind, is inhabited by kinneras and uragas (serpents). It echoes with the cries of peacocks, is frequented by mighty tuskers. Filled with fruits and roots, it is sacred and pleasant.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "तत्र कुञ्जरयूथानि मृगयूथानि चाभितः।\nविचरन्ति वनान्तेस्मिन् तानि द्रक्ष्यसि राघव।।2.54.41।।",
+      "transliteration": "",
+      "translation": "You will see, O Rama, herds of elephants and deer ranging in the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "सरित्प्रस्रवणप्रस्थान् दरीकन्दरनिर्झरान्।\nचरतः सीतया सार्धं नन्दिष्यति मनस्तव।।2.54.42।।",
+      "transliteration": "",
+      "translation": "Your heart will be filled with joy while you wander with Sita beholding rivers,  waterfalls, plateaus, caverns and mountaintorrents.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-54-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "प्रहृष्टकोयष्टिककोकिलस्वनैर्विनादितं तं वसुधाधरं शिवम्।\nमृगैश्च मत्तैर्बहुभिश्च कुञ्जरैः सुरम्यमासाद्य समावसाश्रमम्।।2.54.43।।",
+      "transliteration": "",
+      "translation": "The auspicious mountain (Chaitrakuta) resounds with the note of cheerful lapwings and cuckoos. Intoxicated elephants and deer move about in the enchanting mountain. There you may settle down in a hermitage.  इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे चतुःपञ्चाश स्सर्गः।। Thus ends the fiftyfourth sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 99,
+    "title": "Angada kills Mahaparsva, the minister of Ravana.",
+    "titleSanskrit": "",
+    "totalShlokas": 23
+  },
+  "shlokas": [
+    {
+      "id": "v6-99-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "महोदरेतुनिहतेमहापार्श्वोमहाबलः ।\nसुग्रीवेणसमीक्ष्याथक्रोधात्सम्ररक्तलोचनः ।।6.99.1।।\nअङ्गदस्यचमूंभीमांक्षोभयामाससायकैः ।",
+      "transliteration": "",
+      "translation": "Gazing at Mahodara killed by Sugriva, mighty Mahaparsva's eyes turned red in anger. He created a commotion in the army of Angada.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-99-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "सवानराणांमुख्यानामुत्तमाङ्गानिसर्वशः ।।6.99.2।।\nपातयामानकायेभ्यःफलंवृन्तादिवानिलः ।",
+      "transliteration": "",
+      "translation": "That leader (Mahaparsva) severed the heads of Vanara leaders from their body just as wind drops fruits from stalks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-99-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "केषांचिदिषुभिर्बाहुन् स्कन्धांश्छिच्छेदराक्षसः च ।।6.99.3।।\nवानराणांसुङ्कृद्ध: पार्श्वंकेषांव्यदारयत् ।",
+      "transliteration": "",
+      "translation": "Then with his arrows, that Rakshasa (Mahaparsva) shattered the arms of some, shoulders of some, sides, and ribs of some Vanaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-99-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तेऽर्दिताबाणवर्षेणमहापार्श्वेनवानराः ।।6.99.4।।\nविषादविमुखाःसर्वेबभूवुर्गतचेतसः ।",
+      "transliteration": "",
+      "translation": "By the rain of arrows of Mahaparsva, the Vanaras were dejected and wore a sad look on their face and lost senses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-99-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "निरीक्ष्यबलमुद्विग्नमङ्गदोराक्षसार्दितम् ।।6.99.5।।\nवेगंचक्रेमहावेगमहाबाहुस्समुद्रइवपर्वणि ।",
+      "transliteration": "",
+      "translation": "Observing the army oppressed by the Rakshasa leader, Angada, endowed with broad shoulders, exhibited his might speedily like the ocean on full moon days.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-99-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "आयसंपरिघंगृह्यसूर्यरमशिसमप्रभम् ।।6.99.6।।\nसमरेवानरश्रेष्ठोमहापार्श्वेन्यपातयत् ।",
+      "transliteration": "",
+      "translation": "The foremost of the Vanaras (Angada), taking an iron bar flung on Mahaparsva in the battlefield.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-99-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "स तुतेनप्रहारेणमहापार्श्वोविचेतनः ।।6.99.7।।\nससूतस्स्यन्दनात्तस्माद्विसंज्ञश्चापतद्भुवि ।",
+      "transliteration": "",
+      "translation": "By that hit, Mahaparsva became unconscious and fell on the ground, senseless, from the chariot along with the charioteer.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-99-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "स ऋक्षराजस्तेजस्वीनीलाञ्जनचयोपमः ।।6.99.8।।\nनिष्पत्यसुमहावीर्यस्स्वाद्व्यूहन्मेघसन्निभात् ।\nप्रगृह्यगिरिशृङ्गाभांक्रुद्धस्सविपुलांशिलाम् ।।6.99.9।।\nअश्वाञ्जघानतरसाबभञ्जतम् स्यन्दनं च तम् ।",
+      "transliteration": "",
+      "translation": "Jambavantha, the mighty king of Bears, rushed from his army that looked like a dark cloud. The great hero with his army resembling a heap of black mountain, in his fury seized a huge rock resembling a mountain peak, crushed the chariot and struck the horses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-99-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "मुहूर्ताल्लब्धसंज्ञस्तुमहापार्श्वोमहाबलः ।।6.99.10।।\nअङ्गदंबहुभिर्बाणैर्भूयस्तंप्रत्यविध्यत ।",
+      "transliteration": "",
+      "translation": "In a short while, regaining consciousness, mighty Mahaparsva struck Angada again with many shafts.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-99-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "जाम्बवन्तंत्रिभिर्बाणैराजघानस्तनान्तरे ।।6.99.11।।\nऋक्षराजंगवाक्षं च जघानबहुभिश्शरैः ।",
+      "transliteration": "",
+      "translation": "Mahaparsva pierced three shafts into the chest of Jambavantha and attacked Gavaksha with many arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-99-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "जाम्बवन्तंगवाक्षं च स दृष्टवाशरपीडितौ ।।6.99.12।।\nजग्राहपरिघंघोरमङ्गदःक्रोधमूर्छितः ।",
+      "transliteration": "",
+      "translation": "Seeing Gavaksha and Jambavantha afflicted by shafts, deluded with anger, Angada took hold of a dreadful iron bar.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-99-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "तस्याङ्गदःप्रकुपितोराक्षसस्यतमायसम् ।।6.99.13।।\nदूरस्थितस्यपरिघंरविरश्मिसमप्रभम् ।\nद्वावाभ्यांभुजाभ्यांसङ्गृह्यभ्रामयित्वा च वेगवान् ।।6.99.14।।\nमहापार्श्वस्यचिक्षेपवधार्थंवालिनस्सुतः ।",
+      "transliteration": "",
+      "translation": "Vali's son Angada got enraged, seized an iron bar which shone like the radiant sun's rays and stood at a distance to kill Mahaparsva. Angada whirling the iron bar round and round hurled it around and thrown at Mahaparsva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-99-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "स तुक्षिप्तोबलवतापरिघन्तस्यरक्षसः ।।6.99.15।।\nधनुश्चसशरंहस्ताछचिरस्त्रांचाप्यपातयत् ।",
+      "transliteration": "",
+      "translation": "That iron bar hurled by Angada hit the forehead of the Rakshasa.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-99-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तंसमासाद्यवेगेनवालिपुत्रःप्रतापवान् ।।6.99.16।।\nतलेनाभ्यहनत्क्रुद्धः कर्णमूले सकुण्डले ।",
+      "transliteration": "",
+      "translation": "Courageous son of Vali, enraged, with all speed, slapped the Rakshasa's ear adorned with shining earrings, with his palm.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-99-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "स तुक्रुद्धोमहावेगोमहापार्श्वोमहाद्युति ।।6.99.17।।\nकरेणैकेनजग्राहसुमहान्तंपरश्वथम् ।",
+      "transliteration": "",
+      "translation": "Angry Mahaparsva, who was endowed with speed and shining brightly, took hold of an extraordinary battle axe in one hand.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-99-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तंम्तैलधौतंविमलंशैलसारमयंदृढम् ।।6.99.18।।\nराक्षसःपरमक्रुद्धोवालिपुत्रेन्यपातयत् ।",
+      "transliteration": "",
+      "translation": "Extremely enraged Rakshasa, hurled at Vali's son that axe that was cleansed with oil, the clean strong axe that was like feet of a mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-99-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तेनवामांसफलकेभृशंप्रत्यवपादितम् ।।6.99.19।।\nअङ्गदोमोक्ष्यामाससरोषस्सपरश्वधम् ।",
+      "transliteration": "",
+      "translation": "Angada, full of fury, escaped Mahaparsva's aim to strike his left shoulder blade in violence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-99-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "सवीरोवज्रसङ्काशमङ्गदोमुष्टिमात्मनः ।।6.99.20।।\nसंवर्तयत्सुसङ्कृद्धःपितृतुल्यपराक्रमः ।",
+      "transliteration": "",
+      "translation": "Angada, who was equal to his father in his prowess, was highly furious and himself clenched his fist which resembled thunderbolt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-99-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "राक्षसस्यस्तनाभ्याशेमर्मज्ञोहृदयंप्रति ।।6.99.21।।\nइन्द्राशनिमस्पर्शं स मुष्टिंविन्यपातयत् ।",
+      "transliteration": "",
+      "translation": "Angada who knew the vital parts, pierced into the middle of the breasts of the Rakshasa into the heart by his fist which was equal to Indra's thunderbolt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-99-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तेनतस्यनिपातेनराक्षसस्यमहामृधे ।।6.99.22।।\nपफालहृदयंचास्य स पपातहतोभुवि ।",
+      "transliteration": "",
+      "translation": "In that great conflict, struck by the fist, the Rakshasa (Mahaparsva's) heart broke and killed and fell on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-99-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "स्मिन्निपतितेभूमौतत्सैन्यंसम्प्रचुक्षुभे ।।6.99.23।।\nअभवच्चमहान्क्रोधस्समरेरावणस्यतु ।",
+      "transliteration": "",
+      "translation": "Mahaparsva having fallen down in the battle, the army was bewildered, and Ravana was overcome with anger.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-99-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "वानराणांश्चहृष्टानांसिंहनादःसुपुष्कलः ।।6.99.24।।\nस्पोटयन्निवशब्देनलङ्कांसाट्टालगोपुराम् ।\nमहेन्द्रेणेवदेवानांनादस्समभवन्महान् ।।6.99.25।।",
+      "transliteration": "",
+      "translation": "Highly rejoiced Vanaras roared in high pitch sound. The tall attics and gates of Lanka vibrated with sound. Even the gods, accompanied by Indra, made great sounds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-99-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "अथैन्द्रशत्रुस्त्रिदिवालयानांवनौकनांचैवम्हाप्रणादम् ।\nश्रुत्वासरोषंयुधिराक्षसेन्द्रः ।पुनश्चयुद्धाभिमुखोऽवतस्थे ।।6.99.26।।",
+      "transliteration": "",
+      "translation": "Then Ravana, the enemy of Indra, hearing the great sound made by the three dwellers of heaven of forest and of Rakshasas, reacting violently again, prepared for war. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेनवनवतितमस्सर्गः ।। This is the end of the ninety ninth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

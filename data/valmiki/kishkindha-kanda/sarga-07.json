@@ -1,0 +1,243 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 7,
+    "title": "Sugriva promises to kill Ravana and bring Sita back -- he consoles Rama -- Rama promises to kill Vali.",
+    "titleSanskrit": "",
+    "totalShlokas": 25
+  },
+  "shlokas": [
+    {
+      "id": "v4-7-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु सुग्रीवो रामेणार्तेन वानरः।\nअब्रवीत्प्राञ्जलिर्वाक्यं सबाष्पं बाष्पगद्गदः।।4.7.1।।",
+      "transliteration": "",
+      "translation": "On hearing the words of Rama in deep distress, the monkey replied to him with folded hands, his throat choked with tears:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-7-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "न जाने निलयं तस्य सर्वथा पापरक्षसः।\nसामर्थ्यं विक्रमं वापि दौष्कुलेयस्य वा कुलम्4.7.2।।",
+      "transliteration": "",
+      "translation": "'I do not have any knowledge of this sinful demon's dwelling , his capability, his valour or his clan or his despicable lineage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-7-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "सत्यं ते प्रत���जानामि त्यज शोकमरिन्दम।\nकरिष्यामि तथा यत्नं यथा प्राप्स्यसि मैथिलीम्4.7.3।।",
+      "transliteration": "",
+      "translation": "'O subduer of enemies, give up sorrow. I promise I will make necessary effort so that you will obtain the princess from Mithila.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-7-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "रावणं सगणं हत्वा परितोष्यात्मपौरुषम्।\nतथाऽस्मि कर्ता न चिराद्यथा प्रीतो भविष्यसि4.7.4।।",
+      "transliteration": "",
+      "translation": "'With all my capability I will kill Ravana and his clan. Thus I will be able to satisfy you soon with my efforts.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-7-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "अलं वैक्लब्यमालम्ब्य धैर्यमात्मगतं स्मर।\nत्वद्विधानां न सदृशमीदृशं बुद्धिलाघवम्।।4.7.5।।",
+      "transliteration": "",
+      "translation": "'Give up despair. It is enough. Be patient. Maintain your natural disposition.It is unworthy of men like you to entertain such frivolus thoughts?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-7-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "मयाऽपि व्यसनं प्राप्तं भार्याविरहजं महत्।\nनाहमेवं हि शोचामि न च धैर्यं परित्यजे4.7.6।।",
+      "transliteration": "",
+      "translation": "'Separated from my wife, I, too, am afflicted with deep grief. But I do not brood, I do  not lose patience.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-7-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "नाहं तामनुशोचामि प्राकृतो वानरोऽपि सन्।\nमहात्मा च विनीतश्च किं पुनर्धृतिमान्भवान्4.7.7।।",
+      "transliteration": "",
+      "translation": "'I am an ordinary monkey born. Even then, I do not brood over my wife. You are highsouled, humble and patient. Why do you grieve?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-7-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "बाष्पमापतितं धैर्यान्निग्रहीतुं त्वमर्हसि।\nमर्यादां सत्त्वयुक्तानां धृतिं नोत्स्रष्टुमर्हसि4.7.8।।",
+      "transliteration": "",
+      "translation": "'Restrain the flow of your tears. Be  patient. Men (like you) endowed with  equilibrium and dignity and patience ought not to leave their composure.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-7-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "व्यसने वाऽर्थकृच्छ्रे वा भये वा जीवितान्तके।\nविमृशन्वै स्वया बुद्ध्या धृतिमान्नावसीदति4.7.9।।",
+      "transliteration": "",
+      "translation": "'In times of grief or loss of wealth or at the hour of death, one who is patient does not abandon his wisdom, he does not despair.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-7-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "बालिशस्तु नरो नित्यं वैक्लब्यं योऽनुवर्तते।\nस मज्जत्यवशश्शोके भाराक्रान्तेव नौर्जले4.7.10।।",
+      "transliteration": "",
+      "translation": "A man who is unwise and distraught only gets sunk in grief like a heavily loaded boat (sinks) in water.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-7-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "एषोऽञ्जलिर्मया बद्धः प्रणयात्त्वां प्रसादये।\nपौरुषं श्रय शोकस्य नान्तरं दातुमर्हसि4.7.11।।",
+      "transliteration": "",
+      "translation": "'I implore you with folded palms on account of our friendship to show manliness. You should not give in to grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-7-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "ये शोकमनुवर्तन्ते न तेषां विद्यते सुखम्।\nतेजश्च क्षीयते तेषां न त्वं शोचितुमर्हसि4.7.12।।",
+      "transliteration": "",
+      "translation": "'There is no happiness for those who give way to sorrow. Their brilliance is dimmed. Therefore, you ought not grieve.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-7-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "शोकेनाभिप्रपन्नस्य जीविते चापि संशयः।\nस शोकं त्यज राजेन्द्र धैर्यमाश्रय केवलम्4.7.13।।",
+      "transliteration": "",
+      "translation": "'Even the chances of survival are doubtful for a man who is overpowered by sorrow. Give up sorrow and have patience, O king",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-7-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "हितं वयस्यभावेन ब्रूमि नोपदिशामि ते।\nवयस्यतां पूजयन्मे न त्वं शोचितुमर्हसि4.7.14।।",
+      "transliteration": "",
+      "translation": "'Out of friendly concern I offer my opinion in your interest. I am not competent to advise you. Respecting my friendship, you should never yield to grief.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-7-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "मधुरं सान्त्वित स्तेन सुग्रीवेण स राघवः।\nमुखमश्रुपरिक्लिन्नं वस्त्रान्तेन प्रमार्जयत्4.7.15।।",
+      "transliteration": "",
+      "translation": "Consoled by the sweet words of Sugriva, Rama wiped his face filled with tears by the hem of his upper cloth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-7-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "प्रकृतिस्थस्तु काकुत्स्थस्सुग्रीववचनात्प्रभुः।\nसम्परिष्वज्य सुग्रीवमिदं वचनमब्रवीत्4.7.16।।",
+      "transliteration": "",
+      "translation": "When lord Rama, the scion of the Kakutstha race was comforted by these words of Sugriva, he came to his senses, and clasping him said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-7-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "कर्तव्यं यद्वयस्येन स्निग्धेन च हितेन च।\nअनुरूपं च युक्तं च कृतं सुग्रीव तत्त्वया4.7.17।।",
+      "transliteration": "",
+      "translation": "'O Sugriva you have done what a friend should have done in a befitting manner with your sweet words and good wishes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-7-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "एष च प्रकृतिस्थोऽहमनुनीतस्त्वया सखे।\nदुर्लभो हीदृशो बन्धुरस्मिन्काले विशेषतः4.7.18।।",
+      "transliteration": "",
+      "translation": "'O friend you have guided me back to my senses thus. It is difficult to find a friend like you specially at this time.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-7-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "किं तु यत्नस्त्वया कार्यो मैथिल्याः परिमार्गणे।\nराक्षसस्य च रौद्रस्य रावणस्य दुरात्मनः4.7.19।।",
+      "transliteration": "",
+      "translation": "'Indeed, you must make effort to trace the princess from Mithila and the evilminded,  fierce  demon Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-7-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "मया च यदनुष्ठेयं विस्रब्धेन तदुच्यताम्।\nवर्षास्विव च सुक्षेत्रे सर्वं सम्पद्यते तव4.7.20।।",
+      "transliteration": "",
+      "translation": "'Now tell me about my duty without any hesitation. I assure you that your desire will be fulfilled, just as seeds sown in a fertile land with timely rains bear fruit.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-7-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "मया च यद��दं वाक्यमभिमानात्समीरितम्।\nतत्त्वया हरिशार्दूल तत्त्वमित्युपधार्यताम्4.7.21।।",
+      "transliteration": "",
+      "translation": "'O tiger amongst monkeys accept my words uttered out of injured honour in their true sense.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-7-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "अनृतं नोक्तपूर्वं मे न च वक्ष्ये कदाचन।\nएतत्ते प्रतिजानामि सत्येनैव च ते शपाम्यहमं।।4.7.22।।",
+      "transliteration": "",
+      "translation": "'I have never uttered a false word earlier nor will I do it in future. This is my promise. I swear by truth alone.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-7-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "ततः प्रहृष्टस्सुग्रीवो वानरैस्सचिवैस्सह।\nराघवस्य वचश्श्रुत्वा प्रतिज्ञातं विशेषतः4.7.23।।",
+      "transliteration": "",
+      "translation": "Sugriva and his counsellors felt glad on hearing Rama's words, particularly  the assurance given by him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-7-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "एवमेकान्तसम्पृक्तौ ततस्तौ नरवानरौ।\nउभावन्योन्यसदृशं सुखं दुःखमभाषताम्4.7.24।।",
+      "transliteration": "",
+      "translation": "Man and monkey then met privately and shared the weal and woe of one another.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-7-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "महानुभावस्य वचो निशम्य\nहरिर्नृपाणामृषभस्य तस्य।\nकृतं स मेने हरिवीरमुख्य\nस्तदा स्वकार्यं हृदयेन विद्वान्4.7.25।।",
+      "transliteration": "",
+      "translation": "Wise Sugriva, chief of monkeys, heard the words of the magnanimous Rama, a bull  among men. He felt glad at heart thinking that his task has been achieved. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे सप्तमस्सर्गः।। Thus ends the seventh sarga of Kishkindakanda of the Holy Ramayana, the first epic composed by the sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

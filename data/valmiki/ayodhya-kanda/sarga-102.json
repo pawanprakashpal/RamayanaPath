@@ -1,0 +1,441 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 102,
+    "title": "Rama, Sita and Lakshmana's grief over king Dasaratha's death -- Rama and Lakshmana offer libations of water in Mandakini river",
+    "titleSanskrit": "",
+    "totalShlokas": 47
+  },
+  "shlokas": [
+    {
+      "id": "v2-102-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तां श्रुत्वा करुणां वाचं पितुर्मरणसंहिताम्।\nराघवो भरते नोक्तां बभूव गतचेतनः।।2.102.1।।",
+      "transliteration": "",
+      "translation": "Having heard the words of Bharata regarding the death of his father, Rama became unconscious.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तं तु वज्रमिवोत्सृष्टमाहवे दानवारिणा\nवाग्वज्रंभरते नोक्त ममनोज्ञं परन्तपः।।2.102.2।।\nप्रगृह्य रामो बाहू वैपुष्पिताग्रो यथा द्रुमः।\nवने परशुना कृत्तस्तथा भुवि पपात ह।।2.102.3।।",
+      "transliteration": "",
+      "translation": "On hearing the thunderlike words spoken by Bharata afflicting the mind, like the  thunderbolt hurled by Indra (enemy of demons) in a battle, Rama, the scorcher of enemies, stretching forth both his arms, fell down on the ground like a tree with flowering tops severed by an axe in the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "तथा हि पतितं रामं जगत्यां जगतीपतिम्।\nकूलघातपरिश्रान्तं प्रसुप्तमिव कुञ्जरम्।।2.102. 4।।\nभ्रातरस्ते महेष्वासं सर्वतश्शोककर्शितम्।\nरुदन्तस्सह वैदेह्या सिषिचुस्सलिलेन वै।।2.102.5।।",
+      "transliteration": "",
+      "translation": "Those brothers on all sides, with Sita lamenting, sprinkled water on Rama, the great archer and lord of the earth who, afflicted with grief, had fallen down on the ground, and was lying like an elephant exhausted from repeatedly striking a river bank.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "स तु संज्ञां पुनर्लब्ध्वा नेत्राभ्यामस्रमुत्सृजन्।\nउपाक्रामत काकुत्स्थ कृपणं बहु भाषितुम्।।2.102.6।।",
+      "transliteration": "",
+      "translation": "On regaining consciousness, shedding tears profusely, Rama again started speaking piteously.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "स रामस्स्वर्गतं श्रुत्वा पितरं पृथिवीपतिम्।\nउवाच भरतं वाक्यं धर्मात्मा धर्मसंहितम्।।2.102.7।।",
+      "transliteration": "",
+      "translation": "On hearing that his father, king Dasaratha, the lord of the world had attained heaven, righteous Rama said to Bharata in conformty with his rightful conduct.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "किं करिष्याम्ययोध्यायां ताते दिष्टां गतिं गते।\nकस्तां राजवराध्दीनामयोध्यां पालयिष्यति।।2.102.8।।",
+      "transliteration": "",
+      "translation": "What shall I do in Ayodhya now that my father has followed the path ordained by the gods? Who will rule that Ayodhya deprived of that best of kings?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "किं नु तस्य मया कार्यं दुर्जातेन महात्मनः।\nयो मृतो मम शोकेन मया चापि न संस्कृतः।।2.102.9।।",
+      "transliteration": "",
+      "translation": "I could not even perform the last rites of that magnanimous one who died of grief on account of me. What use is my life with an unlucky birth?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "अहो भरत सिद्धार्थो येन राजा त्वयाऽनघ।\nशत्रुघ्नेन च सर्वेषु प्रेतकृत्येषु सत्कृतः।।2.102.10।।",
+      "transliteration": "",
+      "translation": "O irreproachable Bharata, it is gratifying that you and Satrughna are indeed fortunate to have fulfilled your cherished desire since the king was wellhonoured by you with all the obsequial rites.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "निष्प्रधानामनेकाग्रां नरेन्द्रेण विनाकृताम्।\nनिवृत्तवनवासोऽपि नायोध्यां गन्तु मुत्सहे।।2.102.11।।",
+      "transliteration": "",
+      "translation": "Even after the completion of my exile I do not wish to return to Ayodhya which is directionless, bereft of its chief, the king.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "समाप्तवनवासं मामयोध्यायां परन्तप।\nकोऽनु शासिष्यति पुनस्ताते लोकान्तरं गते।।2.102.12।।",
+      "transliteration": "",
+      "translation": "O subduer of enemies, when father has gone to the other world, who will guide me in Ayodhya after I complete my term of exile?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "पुरा प्रेक्ष्य सुवृत्तं मां पिता यान्याह सान्त्वयन्।\nवाक्यानि तानि श्रोष्यामि कुतश्श्रोत्रसुखान्यहम्।।2.102.13।।",
+      "transliteration": "",
+      "translation": "On seeing my good conduct our father used to say comforting words to me. Now  from whom can I hear such words pleasing to the ears?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "एवमुक्त्वा स भरतं भार्यामभ्येत्य राघवः।\nउवाच शोकसन्तप्तः पूर्णचन्द्रनिभाननाम्।।2.102.14।।",
+      "transliteration": "",
+      "translation": "Having thus spoken to Bharata, Rama, overwhelmed with grief, approached his wife Sita whose face looked like the full Moon, and said to her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "सीते मृतस्ते श्वशुरः पित्रा हीनोऽसि लक्ष्मण।\nभरतो दुःखमाचष्टे स्वर्गतं पृथिवीपतिम्।।2.102.15।।",
+      "transliteration": "",
+      "translation": "O Sita, your fatherinlaw is dead. O Lakshmana, you are deprived of your father. Bharata is relating to me the sad news that king Dasaratha has attained his heavenly abode.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "ततो बहुगुणं तेषां बाष्पं नेत्रेष्वजायत।\nतथा ब्रुवति काकुत्स्थे कु���ाराणां यशस्विनाम्।।2.102.16।।",
+      "transliteration": "",
+      "translation": "While the scion of the Kakutsthas was saying thus, copious tears welled up from the eyes of all those illustrious sons of Dasaratha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "ततस्ते भ्रातर  स्रव्रॆ भृशमाश्वास्य दु:खितम्।\nअब्रुवन् जगतीभर्तुः क्रियतामुदकं पितुः।।2.102.17।।",
+      "transliteration": "",
+      "translation": "All the brothers, having consoled Rama as best they could, told him, Let the libations be offered to our father, the protector of the world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "सा सीता स्वर्गतं श्रुत्वा श्वशुरं  तं महानृपम्।\nनेत्राभ्यामश्रुपूर्णाभ्या शशाकेक्षितुं प्रियम्।।2.102.18।।",
+      "transliteration": "",
+      "translation": "On hearing that her fatherinlaw, king Dasaratha, had attained heaven, Sita, her eyes filled with tears could not look at her husband in the face.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "सान्त्वयित्वा तु तां रामो रुदन्तीं जनकात्मजाम्।\nउवाच लक्ष्मणं तत्र दुःखितो दुःखितं वचः।।2.102.19।।",
+      "transliteration": "",
+      "translation": "Having consoled Sita, daughter of Janaka, griefstricken Rama said to Lakshmana who was also distressed with grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "आनयेङ्गुदिपिण्याकं चीरमाहर चोत्तरम्।\nजलक्रियार्थं तातस्य गमिष्यामि महात्मनः।।2.102.20।।",
+      "transliteration": "",
+      "translation": "I shall go and offer libations to my magnanimous father. Go and fetch the dried pulp of ingudi fruit and an upper garment made of bark.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "सीता पुरस्ताद्व्रजतु त्वमेनामभितो व्रज।\nअहं पश्चाद्गमिष्यामि गतिर्ह्येषा सुदारुणा।।2.102.21।।",
+      "transliteration": "",
+      "translation": "Let us proceed in this order -- you first, Sita second and I last. This procession  in mourning is terrible indeed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "ततो नित्यानुगस्तेषां विदितात्मा महामतिः।\nमृदुर्दान्तश्च कान्तश्च रामे च दृढभक्तिमान्।।2.102.22।।\nसुमन्त्र स्तैर्नृपसुतैस्सार्धमाश्वस्य राघवम्।\nअवातारयदालम्ब्य नदीं मन्दाकिनीं शिवाम्।।2.102.23।।",
+      "transliteration": "",
+      "translation": "Thereafter, their constant follower Sumantra who was conversant in spiritual knowledge, a highminded person, softnatured, selfcontrolled, tranquilminded and staunchly devoted to Rama consoled him. Holding the hands of the princes, Sumantra helped their descent into the auspicious river Mandakini for taking bath.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "ततो नित्यानुगस्तेषां विदितात्मा महामतिः।\nमृदुर्दान्तश्च शान्तश्च रामे च दृढभक्तिमान्।।2.102.22।।\nसुमन्त्रस्तैर्नृपसुतैः सार्धमाश्वास्य राघवम्।\nअवातारयदालम्ब्य नदीं मन्दाकिनीं शिवाम्।।2.102.23।।",
+      "transliteration": "",
+      "translation": "Thereafter, their constant follower Sumantra who was conversant in spiritual knowledge, a highminded person, softnatured, selfcontrolled, tranquilminded and staunchly devoted to Rama consoled him. Holding the hands of the princes, Sumantra helped their descent into the auspicious river Mandakini for taking bath.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "ते सुतीर्थां ततः कृच्छ्रादुपागम्य यशस्विनः।\nनदीं मन्दाकिनीं रम्यां सदा पुष्पितकाननाम्।।2.102.24।।\nशीघ्रस्रोतसमासाद्य तीर्थं शिवमकर्दमम्।\nसिषिचु स्तूदकं राज्ञे तत एतद् भवत्विति।।2.102.25।।",
+      "transliteration": "",
+      "translation": "The illustrious brothers approached with great difficulty the swiftflowing and enchanting river Mandakini which had convenient descent and endowed with forests always in bloom. They descended at an auspicious place that was not slushy and offered libations of water saying 'O father, let these offerings be yours'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "ते सुतीर्थां ततः कृच्छ्रादुपागम्य यशस्विनः।\nनदीं मन्दाकिनीं रम्यां सदा पुष्पितकाननाम्।।2.102.24।।\nशीघ्रस्रोतसमासाद्य तीर्थं शिवमकर्दमम्।\nसिषिचु स्तूदकं राज्ञे तातैतत्ते भवत्विति।।2.102.25।।",
+      "transliteration": "",
+      "translation": "The illustrious brothers approached with great difficulty the swiftflowing and enchanting river Mandakini which had convenient descent and endowed with forests always in bloom. They descended at an auspicious place that was not slushy and offered libations of water saying 'O father, let these offerings be yours'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "प्रगृह्य च महीपालो जलपूरितमञ्जलिम्।\nदिशं याम्यामभिमुखो रुदन्वचनमब्रवीत्।।2.102.26।।",
+      "transliteration": "",
+      "translation": "Rama, the ruler of the earth, held water with both palms cupped and, facing the south, the direction of Yama (the god of death) said these words, sobbing:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "एतत्ते राजशार्दूल विमलं तोयमक्षयम्।\nपितृलोकगत स्याद्य मद्दत्तमुपतिष्ठतु।।2.102.27।।",
+      "transliteration": "",
+      "translation": "'O best of kings, you are gone to the world of the manes, and let this inexhaustible libation of pure water reach you'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "ततो मन्दाकिनीतीरात्प्रत्युत्तीर्य स राघवः।\nपितुश्चकार तेजस्वी निर्वापं भ्रातृभि सह।।2.102.28।।",
+      "transliteration": "",
+      "translation": "Then, the powerful scion of the Raghu race reached bank, from the bathing spot of the river Mandakini along with his brothers and offered pinda (an offering of rice flour to the departed) to his late lamented father.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "ऐङ्गुदं बदरीमिश्रं पिण्याकं दर्भसंस्तरे।\nन्यस्य रामस्सदुःखार्तो रुदन्वचनमब्रवीत्।।2.102.29।।",
+      "transliteration": "",
+      "translation": "Placing the balls of ingudi pulp mixed with badari fruit on a spread of darbha grass, Rama, was overcome with grief and weeping, said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "इदं भुङ्क्ष्वमहाराज प्रीतो यदशना वयम्।\nयदन्नः पुरुषो भवति तदन्ना स्तस्य देवताः।।2.102.30।।",
+      "transliteration": "",
+      "translation": "O great king, we offer you such food as we partake now. Be pleased to accept it. For,  his gods are offered the food a man takes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "तत स्तेनैव मार्गेण प्रत्युत्तीर्य सरित्तटात्।\nआरुरोह नरव्याघ्रो रम्यसानुं महीधरम्।।2.102.31।।",
+      "transliteration": "",
+      "translation": "Rama, the tiger among men, ascending the riverbank and proceeding on the same path (he had come), climbed the (Chitrakuta) mountain of charming slopes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "ततः पर्णकुटीद्वारमासाद्य जगतीपतिः।\nपरिजग्राह बाहुभ्यामुभौ भरतलक्ष्मणौ।।2.102.32।।",
+      "transliteration": "",
+      "translation": "Rama, lord of the earth, reached the door of the leafhut and took Bharata and  Lakshmana in his arms.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "तेषां तु रुदतां शब्दात् प्रतिशब्दोऽभवद् गिरौ।\nभ्रातॄणां सह वैदेह्या सिंहानां नर्दतामिव।।2.102.33।।",
+      "transliteration": "",
+      "translation": "The mountain echoed with the sound of lamentations of all the brothers along with Sita which resembled the roar of lions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "महाबलानां रुदतां कुर्वतामुदकं पितुः।\nविज्ञाय तुमुलं शब्दं त्रस्ता भरत सैनिकाः।।2.102.34।",
+      "transliteration": "",
+      "translation": "The soldiers of Bharata were alarmed on hearing the tumultuous sounds raised by those mighty brothers offering libations of water and lamenting.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "अब्रुवंश्चापि रामेण भरत संगतो ध्रुवम्।\nतेषामेव महान् श‌ब्द: शोचतां पितरं मृतम्।।2.102.35।।",
+      "transliteration": "",
+      "translation": "They said, 'Bharata must have joined Rama. That loud noise must be their wailing over their deceased father'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "अथ वासान्परित्यज्य तं सर्वेऽभिमुखास्स्वनम्।\nअप्येकमनसो जग्मुर्यथास्थानं प्रधाविताः।।2.102.36।।",
+      "transliteration": "",
+      "translation": "Then all of them left their camps with one single thought (of seeing Rama) in their minds and ran in the direction from where that sound emanated.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "हयैरन्ये गजैरन्ये रथैरन्ये स्वलङ्कृतैः।\nसुकुमारा स्तथैवान्ये पद्भिरेव नरा ययुः।।2.102.37।।",
+      "transliteration": "",
+      "translation": "Some rode horses, some, elephants, while others mounted welldecorated chariots, while the young went on foot.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "अचिरप्रोषितं रामं चिरविप्रोषितं यथा।\nद्रष्टुकामो जनः सर्वो जगाम सहसाऽऽश्रमम्।।2.102.38।।",
+      "transliteration": "",
+      "translation": "The whole multitude of people at once rushed towards the hermitage wishing to see Rama as if he had left long ago though he had gone on exile very recently.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "भ्रातृ़णां त्वरितास्ते तु द्रष्टुकामा स‌मागमम्।\nययुर्बहुविधैर्यानै: खुरनेमिस्वनाकुलैः।।2.102.39।।",
+      "transliteration": "",
+      "translation": "Eager to see the union of brothers, all those people went by every sort of vehicle filled with the sounds of hooves and wheels.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "सा भूमिर्बहुभिर्यानैः रथ‌नेमिसमाहता।\nमुमोच तुमुलं शब्दं द्यौरिवाभ्रसमागमे।।2.102.40।।",
+      "transliteration": "",
+      "translation": "The earth crushed by several vehicles, hooves (of horses) and wheels (of chariots) emitted tumultuous sounds like the sky in the gathering stormclouds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "तेन वित्रासिता नागाः करेणुपरिवारिताः।\nआवासयन्तो गन्धेन जग्मुरन्यद्वनं ततः।।2.102.41।।",
+      "transliteration": "",
+      "translation": "Frightened by the sound, the elephants followed by their females, spreading all the way the odour of the ichor, moved to other forests.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "वराह वृकसङ्घाश्च महिषा: सृमरास्तथा ।\nव्याघ्रगोकर्णगवया वित्रेसुः पृषतै स‌ह।।2.102.42।।",
+      "transliteration": "",
+      "translation": "Hearing that sound, hosts of boars and deer, buffaloes, serpents and apes, tigers, antelopes with ears like the cows', gavayas as well as dappled antelopes were all frightened.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "रथाङ्गसाह्वा नत्यूहा हंसाः कारण्डवाः परे।\nतथा पुंस्कोकिलाः क्रौञ्चा विसंज्ञा भेजिरे दिशः।।2.102.43।।",
+      "transliteration": "",
+      "translation": "Ducks, watercranes, geese, karandavas, cranes, male cuckoos and kraunchas fled senselessly in different directions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "तेन शब्देन वित्रस्तैराकाशं पक्षिभिर्वृतम्।\nमनुष्यैरावृता भूमिरुभयं प्रबभौ तदा।।2.102.44।।",
+      "transliteration": "",
+      "translation": "The sky was filled with birds frightened by the sound and the earth covered with people. Both looked extremely beautiful.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "ततस्तं पुरषव्याघ्रं यशस्विनमकल्पषम्।\nआसीनं स्थण्डिले रामं ददर्श सहसा जनः।।2.102.45।।",
+      "transliteration": "",
+      "translation": "All at once the people saw the illustrious Rama, the best of men, and the subduer of enemies squatting on the bare earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "विगर्हमाणः कैकेयीं मन्थरासहितामपि।\nअभिगम्य जनो रामं बाष्पपूर्णमुखोऽभवत्।।2.102.46।।",
+      "transliteration": "",
+      "translation": "All those men with faces full of tears, reproaching Kaikeyi and Manthara (all the way), approached Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "तान्नरान्बाष्पपूर्णाक्षान्समीक्ष्याथ सुदुःखितान्।\nपर्यष्वजत धर्मज्ञः पितृवन्मातृवच्च सः।।2.102.47।।",
+      "transliteration": "",
+      "translation": "Thereafter, beholding those people deeply afflicted, their eyes full of tears, Rama embraced them as if they were his own father and mother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "स तत्र कांश्चित्परिषस्वजे नरान्नरास्तु केचित्तु तमभ्यवादयन्।\nचकार सर्वान्सवयस्यबान्धवान्यथार्ह मासाद्य तदा नृपात्मजः।।2.102.48।।",
+      "transliteration": "",
+      "translation": "Rama embraced some, while others paid him obeisance. Therafter, he honoured his erstwhile companions and relations in accordance with their status.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-102-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "स तत्र तेषां रुदतां महात्मनां भुवं च खं चानुनिनादयन्स्वनः।\nगुहा गिरीणां च दिशश्च सन्ततं मृदङ्गघोषप्रतिमः प्रशुश्रुवे।।2.102.49।।",
+      "transliteration": "",
+      "translation": "The weeping and the tumult of those magnanimous people made the earth, sky, mountaincaves and all quarters reverberate incessantly like the beating of drums. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे द्व्युत्तरशततमस्सर्गः।। Thus ends the hundred and second sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

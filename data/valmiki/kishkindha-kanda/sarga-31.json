@@ -1,0 +1,432 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 31,
+    "title": "Lakshmana arrives at Sugriva's cavepalace -- Lakshmana's anger over Sugriva's slackness -- monkeys fear Lakshamana.",
+    "titleSanskrit": "",
+    "totalShlokas": 46
+  },
+  "shlokas": [
+    {
+      "id": "v4-31-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "स कामिनं दीनमदीनसत्त्वं\nशोकाभिपन्नं समुदीर्णकोपम्।\nनरेन्द्रसूनुर्नरदेवपुत्रं\nरामानुजः पूर्वजमित्युवाच4.31.1।।",
+      "transliteration": "",
+      "translation": "Seeing the indomitable hero, his elder brother, son of a king, lovesick, dejected and overcome by anger and grief, spoke prince Lakshmana:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "न वानरः स्थास्यति साधुवृत्ते\nन मंस्यते कर्मफलानुषङ्गान्।\nन भोज्यते वानरराज्यलक्ष्मीं\nतथाहि नाभिक्रमतेऽस्य बुद्धिः4.31.2।।",
+      "transliteration": "",
+      "translation": "'Sugriva has not stuck to the conduct of the virtuous, of sharing the fruits of action equally. He does not realize that he obtained the prosperous kingship of vanaras as a  result of your (friendly) action. He does not have the intelligence of conducting himself in your favour (of searching Sita). Therefore he will not enjoy the kingship for long.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "मतिक्षयाद्ग्राम्यसुखेषु सक्त\nस्तव प्रसादाप्रतिकारबुद्धिः।\nहतोऽग्रजं पश्यतु वीर तस्य\nन राज्यमेवं विगुणस्य देयम्4.31.3।।",
+      "transliteration": "",
+      "translation": "'O hero he is too ungrateful to return the favour done to him, Engaged in rustic, vulgar pleasures, he is not thinking of it. Let him see his killed elder brother. Kingship should not be given to an individual who is a destitute of virtues.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "न धारये कोपमुदीर्णवेगं\nनिहन्मि सुग्रीवमसत्यमद्य।\nहरिप्रवीरैस्सह वालिपुत्रो\nनरेन्द्रपत्न्या विचयं करोतु4.31.4।।",
+      "transliteration": "",
+      "translation": "'I cannot hold my overflowing anger. I shall kill this untruthful Sugriva. Let Vali's son along with the foremost of monkeys search for the queen (Sita).'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तमात्तबाणासनमुत्पतन्तं\nनिवेदितार्थं रणचण्डकोपम्।\nउवाच रामः परवीरहन्ता\nस्ववेक्षितं सानुनयं च वाक्यम्4.31.5।।",
+      "transliteration": "",
+      "translation": "Rama, a slayer of enemy heroes but not of those who seek his refuge, spoke in a conciliatory tone to Lakshmana who jumped, wielding bow and arrows, inspired with his fierce fighting spirit.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "न हि वै त्वद्विधो लोके पापमेवं समाचरेत्।\nपापमार्येण यो हन्ति स वीरः पुरुषोत्तमः4.31.6।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "नेदमत्र त्वया ग्राह्यं साधुवृत्तेन लक्ष्मण।\nतां प्रीतिमनुवर्तस्व पूर्ववृत्तं च सङ्गतम्4.31.7।।",
+      "transliteration": "",
+      "translation": "'O Lakshmana with your good conduct you should not do so.  Keeping in view the affectionate friendship extended (by Sugriva) earlier, be friendly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "सामोपहितया वाचा रूक्षाणि परिवर्जयन्।\nवक्तुमर्हसि सुग्रीवं व्यतीतं कालपर्यये4.31.8।।",
+      "transliteration": "",
+      "translation": "'Sugriva has exceeded the time limit. Avoiding harsh words, you ought to speak to him in a conciliatory manner.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "सोऽग्रजेनानुशिष्टार्थो यथावत्���ुरुषर्षभः।\nप्रविवेश पुरीं वीरो लक्ष्मणः परवीरहा4.31.9।।",
+      "transliteration": "",
+      "translation": "Having been duly briefed by his elder brother, the heroic Lakshmana, destroyer of enemies, a bull among men entered the city.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "ततश्शुभमतिः प्राज्ञो भ्रातुः प्रियहिते रतः।\nलक्ष्मणः प्रतिसंरब्धो जगाम भवनं कपेः4.31.10।।\nशक्रबाणासनप्रख्यं धनुः कालान्तकोपमः।\nप्रगृह्य गिरिशृङ्गाभं मन्दरः सानुमानिव।।4.31.11।।",
+      "transliteration": "",
+      "translation": "The noblehearted, benevolent and wise Lakshmana, eager to please Rama, picked up his bow looking like a mountain peak, comparable to the bow of Indra and agitated with the anger of the god of Death entered the mansion of Sugriva which stood like the mountain peak of Mandara.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "यथोक्तकारी वचनमुत्तरं चैव सोत्तरम्।\nबृहस्पतिसमो बुद्ध्या मत्वा रामानुजस्तदा4.31.12।।\nकामक्रोधसमुत्थेन भ्रातुः कोपाग्निना वृतः।\nप्रभञ्जन इवाप्रीतः प्रययौ लक्ष्मणस्तदा4.31.13।।",
+      "transliteration": "",
+      "translation": "Then Lakshmana, obedient, intelligent like Brihaspati, like a tempest, encompassed by the fire of anger and deliberating in his mind as to the possible questions from Sugriva and the reply from him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "सालतालाश्वकर्णांश्च तरसा पातयन्बहून्।\nपर्यस्यन्गिरिकूटानि द्रुमानन्यांश्च वेगतः4.31.14।।\nशिलाश्च शकलीकुर्वन्पद्भ्यां गज इवाशुगः।\nदूरामेकपदं त्यक्त्वा ययौ कार्यवशाद्द्रुतम्4.31.15।।",
+      "transliteration": "",
+      "translation": "'Lakshmana rushed on foot speedily, cutting the branches of sala, tala and asvakarna and other trees on the way  and forcibly turning and crushing the mountain rocks into pieces with a single foot, like a swiftmoving elephant taking long strides, to carry out the task.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तामपश्यद्बलाकीर्णां हरिराजमहापुरीम्।\nदुर्गामिक्ष्वाकुशार्दूलः किष्किन्धां गिरिसङ्गटे4.31.16।।",
+      "transliteration": "",
+      "translation": "The tiger of the Ikshvaku race saw the inaccessible Kishkinda, the capital of vanara kingdom, located between mountains and fortified with the army.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "रोषात्प्रस्फुरमाणोष्ठ स्सुग्रीवं प्रति लक्ष्मणः।\nददर्श वानरान्भीमाकनिष्किन्धाया बहिश्चरान्4.31.17।।",
+      "transliteration": "",
+      "translation": "His lips trembling in anger, Lakshmana saw fierceful monkey guards of Sugriva at the entrance of Kishkinda city.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तं दृष्ट्वा वानरास्सर्वे लक्ष्मणं पुरुषर्षभम्।\nशैलशृङ्गाणि शतशः प्रवृद्धांश्च महीरुहान्4.31.18।।\nजगृहुः कुञ्जरप्रख्या वानराः पर्वतान्तरे।",
+      "transliteration": "",
+      "translation": "Hundreds of monkeys of the size of elephants stood holding huge trees and boulders of rocks on seeing Lakshmana, the bull among men.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तान्गृहीतप्रहरणान्सर्वान्दृष्ट्वा तु लक्ष्मणः4.31.19।।\nबभूव द्विगुणं क्रुद्धो बह्विन्धन इवानलः।",
+      "transliteration": "",
+      "translation": "On seeing the monkeys wielding weapons, Lakshmana's anger doubled like logs of firewood put to burning.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तं ते भयपरीताङ्गाः क्रुद्धं दृष्ट्वा प्लवङ्गमाः4.31.20।।\nकालमृत्युयुगान्ताभं शतशो विद्रुता दिशः।",
+      "transliteration": "",
+      "translation": "Seeing enraged Lakshmana, who looked like a veritable god of Death at the time of dissolution of the universe, hundreds of monkeys, their limbs trembling in fear ran in different directions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "ततस्सुग्रीवभवनं प्रविश्य हरिपुङ्गवाः4.31.21।।\nक्रोधमागमनं चैव लक्ष्मणस्य न्यवेदयन्।",
+      "transliteration": "",
+      "translation": "Having entered Sugriva's palace, the monkeychiefs reported the arrival of angry Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तारया सहितः कामी सक्तः कपिवृषो रहः4.31.22।।\nन तेषां कपिवीराणां शुश्राव वचनं तदा।",
+      "transliteration": "",
+      "translation": "But Sugriva who was engrossed in overtures with passionate Tara, did not heed the words of the monkeychiefs.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "ततस्सचिवसन्दिष्टा हरयो रोमहर्षणाः।\nगिरिकुञ्जर मेघाभा नगर्या निर्ययुस्तदा।।4.31.23।।",
+      "transliteration": "",
+      "translation": "Commanded by the ministers, the monkeys who looked like fierce mountains, elephants and clouds that caused horripilation, left the place at once.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "नखदंष्ट्रायुधा घोरास्सर्वे विकृतदर्शनाः4.31.24।।\nसर्वे शार्दूलदर्पाश्च सर्वे च विकृताननाः।",
+      "transliteration": "",
+      "translation": "The monkeys, their faces, deformed, their nails and teeth like weapons were dreadful and horrifying in appearance, proud as tigers",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "दशनागबलाः केचित्केचिद्दशगुणोत्तराः4.31.25।।\nकेचिन्नागसहस्रस्य बभूवुस्तुल्यविक्रमाः।",
+      "transliteration": "",
+      "translation": "Of them some possessed the strength of ten, some a hundred and some a thousand elephants. All of them were of equal valour.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "कृत्स्नांहि कपिभिर्व्याप्तां द्रुमहस्सैर्महाबलैः4.31.26।।\nअपश्यल्लक्ष्मणः क्रुद्धः किष्किन्धां तां दुरासदाम्।",
+      "transliteration": "",
+      "translation": "Enraged Lakshmana saw the huge inacccessible city of Kishkinda filled with  mighty strong and fierce monkeys holding trees in hand.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "ततस्ते हरयस्सर्वे प्राकारपरिघान्तरात्4.31.27।।\nनिष्क्रम्योदग्रसत्त्वास्तु तस्थुराविष्कृतं तदा।",
+      "transliteration": "",
+      "translation": "The mighty monkeys came out of the entrance of the ironboundary wall from beneath and made their appearance and stood in full attention.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "सुग्रीवस्य प्रमादं च पूर्वजं चार्तमात्मवान्4.31.28।।\nबुद्ध्वा कोपवशं वीरः पुनरेव जगाम सः।",
+      "transliteration": "",
+      "translation": "The sensible warrior, recognising Sugriva's dereliction of duty and his own brother's agony once again flew into fury.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "स दीर्घोष्णमहोच्छवासः कोपसंरक्तलोचनः4.31.29।।\nबभूव नरशार्दूल स्सधूम इव पावकः।",
+      "transliteration": "",
+      "translation": "Sighing hot, deep breath, eyes turned red in anger, this tiger among men appeared like fire with smoke (The sigh was smoke and red eyes, fire).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "बाणशल्यस्फुरज्जिह्वस्सायकासनभोगवान्4.31.30।।\nस्वतेजोविषसङ्घातः पञ्चास्य इव पन्नगः।",
+      "transliteration": "",
+      "translation": "His bow was like the hood of a snake,with the iron nails fixed on the tip of his arrows like moving fangs and his own brightness like the venom of the fivehooded snake.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "तं दीप्तमिव कालाग्निं नागेन्द्रमिव कोपितम्4.31.31।।\nसमासाद्याङ्गदस्त्रासाद्विषादमगमद्भृशम्।",
+      "transliteration": "",
+      "translation": "Dismayed, Angada approached Lakshmana, who was glowing like fire at the time of dissolution of the world and enraged like the lord of serpents.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "सोऽङ्गदं रोषताम्राक्षस्सन्दिदेश महायशाः4.31.32।।\nसुग्रीवः कथ्यतां वत्स ममागमनमित्युत।",
+      "transliteration": "",
+      "translation": "Renowned Lakshmana, with his eyes turned red in anger said to Angada 'O dear, inform Sugriva, about my arrival'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "एष रामानुजः प्राप्तस्वत्सकाशमरिन्दम4.31.33।।\nभ्रातुर्व्यसनसन्तप्तो द्वारि तिष्ठति लक्ष्मणः।\nतस्य वाक्यं यदि रुचिः क्रियतां साधु वानर4.31.34।।\nइत्युक्त्वा शीघ्रमागच्छ वत्स वाक्यमरिन्दम।",
+      "transliteration": "",
+      "translation": "'O subduer of enemies speak in this way: 'Lakshmana, the dear younger brother of Rama has come to you and waits for your presence at the entrance, burning in grief of his elder brother. Well, if you like to hear his words, do as you please.' 'Return swiftly after saying so.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "लक्ष्मणस्य वचः श्रुत्वा शोकाविष्टोऽङ्गदोऽब्रवीत्।\nपितुस्समीपमागम्य सौमित्रिरयमागतः4.31.35।।",
+      "transliteration": "",
+      "translation": "On hearing Lakshmana's words Angada became sad. He approached his father (Sugriva) and said 'Saumitri has come'. (This sloka appears an interpolation).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "अथाङ्गदस्तस्य वचो निशम्य \nसम्भ्रान्तभावः परिदीनवक्त्रः।\nनिपत्य तूर्णं नृपतेस्तरस्वी \nततः रुमायाश्चरणौ ववन्दे4.31.36।।",
+      "transliteration": "",
+      "translation": "On hearing Lakshmana's words powerful Angada felt agitated. His face turned pale. He went and prostrated at once to the king and then to the queen, Ruma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "संङ्गृह्य पादौ पितुरग्र्यतेजाः\nजग्राह मातुः पुनरेव पादौ।\nपादौ रुमायाश्च निपीडयित्वा\nनिवेदयामास ततस्तमर्थम्4.31.37।।",
+      "transliteration": "",
+      "translation": "Highly brilliant Angada holding his father's feet first, then mother's and thereafter Ruma's, reported the matter to  Sugriva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "स निद्रामदसंवीतो वानरो न विबुद्धवान्।\nबभूव मदमत्तश्च मदनेन च मोहितः4.31.38।।",
+      "transliteration": "",
+      "translation": "The monkey was too drowsy with drink, too intoxicated with passion to come back to his senses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "ततः किलकिलां चक्रुर्लक्ष्मणं प्रेक्ष्य वानराः।\nप्रसादयन्तस्तं क्रुद्धं भयमोहितचेतसः4.31.39।।",
+      "transliteration": "",
+      "translation": "Looking at angry Lakshmana, and scared at heart, the monkeys started making a noise in order to please him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "ते महौघनिभं दृष्ट्वा वज्राशनिसमस्वनम्।\nसिंहनादं समं चक्रुर्लक्ष्मणस्य समीपतः4.31.40।।",
+      "transliteration": "",
+      "translation": "They saw Lakshmana advancing like a mighty flood and went near him making sounds like the thunderbolt or a lion.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "तेन शब्देन महता प्रत्यबुध्यत वानरः।\nमदविह्वलताम्राक्षो व्याकुलस्रग्विभूषणः4.31.41।।",
+      "transliteration": "",
+      "translation": "By the great sound (of the monkeys) the drunken redeyed vanara king awakened, his garlands and ornaments in disarray.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "अथाङ्गदवचः श्रुत्वा तेनैव च समागतौ।\nमन्त्रिणौ वानरेन्द्रस्य सम्मतौ दारदर्शिनौ4.31.42।।\nप्लक्षश्चैव प्रभावश्च मन्त्रिणावर्थधर्मयोः।\nवक्तुमुच्चावचं प्राप्तं लक्ष्मणं तौ शशंसतुः4.31.43।।",
+      "transliteration": "",
+      "translation": "On hearing Angada's words the two ministers named Plaksha and Prabhava who were perrmitted to have audience with the queens went to the harem on invitation from Angada. They reported to Sugriva about the arrival of Lakshmana who had come to speak to him about matters regading wealth and righteousness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "प्रसादयित्वा सुग्रीवं वचनैस्सामनिश्चितैः।\nआसीनं पर्युपासीनौ यथा शक्रं मरुत्पतिम्4.31.44।।",
+      "transliteration": "",
+      "translation": "Both of them sat close by Sugriva who was like Indra and said these pleasing words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "सत्यसन्धौ महाभागौ भ्रातरौ रामलक्ष्मणौ।\nवयस्यभावं सम्प्राप्तौ राज्यार्हौ राज्यदायिनौ4.31.45।।",
+      "transliteration": "",
+      "translation": "'Rama and Lakshmana, both the brothers venerable and true to their promise, have conferred on you sovereignty and have extended friendship.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "तयोरेको धनुष्पाणिर्द्वारि तिष्ठति लक्ष्मणः।\nयस्य भीताः प्रवेपन्तो नादान्मुञ्चन्ति वानराः4.31.46।।",
+      "transliteration": "",
+      "translation": "'Of the two, only Lakshmana is standing at the entrance wielding his bow in hand. The monkeys are trembling in fear and running about, making a loud noise'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "स एष राघवभ्राता लक्ष्मणो वाक्यसारथिः।\nव्यवसायरथः प्राप्तस्तस्य रामस्य शासनात्4.31.47।।",
+      "transliteration": "",
+      "translation": "'By the command of Rama, his brother has come to you, Rama's words as charioteer and his work as chariot'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "अयं च दयितो राजंस्ताराया स्तनयोऽङ्गदः।\nलक्ष्मणेन सकाशं ते प्रेषितस्त्वरयाऽनघ4.31.48।।",
+      "transliteration": "",
+      "translation": "'O blameless king Tara's son, Angada, has sent us into your presence. Lakshmana has come.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "सोऽयं रोषपरीताक्षो द्वारि तिष्ठति वीर्यवान्।\nवानरान्वानरपते चक्षुषा प्रदहन्निव4.31.49।।",
+      "transliteration": "",
+      "translation": "'O lord of monkeys Valiant Lakshmana is standing at the entrance,eyes filled with anger as if he would burn the vanaras'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "तस्य मूर्ध्ना प्रणम्य त्वं सपुत्रस्सहबन्धुभिः।\nगच्छ शीघ्रं महाराज रोषो ह्यस्य निवर्त्यताम्4.31.50।।",
+      "transliteration": "",
+      "translation": "'O great king Go at once with your son and relations, salute him now and avert his anger'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-31-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "यदाह रामो धर्मात्मा तत्कुरुष्व समाहितः।\nराजं स्तिष्ठस्व समये भव सत्यप्रतिश्रवाः4.31.51।।",
+      "transliteration": "",
+      "translation": "'O king be true to your promise to his brother, righteous Rama without fail. Honour the agreement.' इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे एकत्रिंशस्सर्गः।। Thus ends the thirtyfirst sarga of Kishkindakanda of the Holy Ramayana, the first epic, composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

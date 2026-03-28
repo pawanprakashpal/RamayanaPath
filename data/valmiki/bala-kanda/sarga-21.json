@@ -1,0 +1,207 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 21,
+    "title": "On king Dasaratha's refusal to accede to his request, Viswamitra gets enraged.",
+    "titleSanskrit": "",
+    "totalShlokas": 21
+  },
+  "shlokas": [
+    {
+      "id": "v1-21-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तच्छ्रुत्वा वचनं तस्य स्नेहपर्याकुलाक्षरम्।\nसमन्यु: कौशिको वाक्यं प्रत्युवाच महीपतिम्।।1.21.1।।",
+      "transliteration": "",
+      "translation": "Out of affection towards his son, his (king Dasaratha's) plea to Viswamitra was full of contradiction. And on hearing the king, enraged Viswamitra replied:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-21-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "पूर्वमर्थं प्रतिश्रुत्य प्रतिज्ञां हातुमिच्छसि।\nराघवाणामयुक्तोऽयं कुलस्यास्य विपर्यय:।।1.21.2।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-21-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "यदीदं ते क्षमं राजन् गमिष्यामि यथाऽगतम्।\nमिथ्याप्रतिज्ञ: काकुत्स्थ सुखीभव सबान्धव:।।1.21.3।।",
+      "transliteration": "",
+      "translation": "O king, if this act of yours is appropriate to you, I will go back (to the places) where from I came. O scion of the race of kakutstha, you have proved false to your promise. Live happily with your relatives\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-21-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तस्य रोषपरीतस्य विश्वामित्रस्य धीमत:।\nचचाल वसुधा कृत्स्ना विवेश च भयं सुरान्।।1.21.4।।",
+      "transliteration": "",
+      "translation": "At the sight of the wise sage Viswamitra seized of wrath, the entire earth shook and  devatas were gripped in fear.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-21-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "त्रस्तरूपं तु विज्ञाय जगत्सर्वं महानृषि:।\nनृपतिं सुव्रतो धीरो वसिष्ठो वाक्यमब्रवीत्।।1.21.5।।",
+      "transliteration": "",
+      "translation": "Great Vasishta, an adherent of ascetic practices and steadfast (to duty), seeing that the entire world frightened addressed the king, saying:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-21-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "इक्ष्वाकूणां कुले जातस्साक्षाद्धर्म इवापर:।\nधृतिमान् सुव्रत: श्रीमान्नधर्मं हातुमर्हसि।।1.21.6।।",
+      "transliteration": "",
+      "translation": "\"Born in the line of Ikshvaku, you are a veritable the second god of righteousness, firm adherent of vows auspicious and virtuous. It is not right on your part to abandon your  promise.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-21-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "त्रिषु लोकेषु विख्यातो धर्मात्मा इति राघव।\nस्वधर्मं प्रतिपद्यस्व नाधर्मं वोढुमर्हसि।।1.21.7।।",
+      "transliteration": "",
+      "translation": "O Dasaratha you are reputed in the three worlds as righteousminded. Do your own  duty. Do not follow an unjust act which is unworthy of respect.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-21-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "संश्रुत्यैवं करिष्यामीत्यकुर्वाणस्य राघव।\nइष्टापूर्तवधो भूयात्तस्माद्रामं विसर्जय।।1.21.8।।",
+      "transliteration": "",
+      "translation": "O Dasaratha, a promise made and not kept amounts to destruction of merits earned through previous pieties. Therefore send Rama (with him).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-21-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "कृतास्त्रमकृतास्त्रं वा नैनं शक्ष्यन्ति राक्षसा:।\nगुप्तं कुशिकपुत्रेण ज्वलनेनामृतं यथा।।1.21.9।।",
+      "transliteration": "",
+      "translation": "Trained or not in the use of arms, as long as Rama is protected by Viswamitra, just as nectar is protected by the flaming firegod rakshasas will not be able to compete with him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-21-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "एष विग्रहवान् धर्म एष वीर्यवतां वर:।\nएष बुध्याऽधिको लोके तपसश्च परायणम्।।1.21.10।।",
+      "transliteration": "",
+      "translation": "This (Viswamitra) is an embodiment of righteousness and unsurpassed among the powerful. None can excel him in intellect in this world. He is the supreme refuge in  austerity.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-21-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "एषोऽस्त्रान् विविधान्वेत्ति त्रैलोक्ये सचराचरे।\nनैनमन्य: पुमान्वेत्ति न च वेत्स्यन्ति केचन।।1.21.11।।",
+      "transliteration": "",
+      "translation": "This Viswamitra knows the use of various kinds of weapons which no one knows among the animate and the inanimate in the three worlds. Nor will any one even know in future.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-21-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "न देवा नर्षय: केचिन्नासुरा न च राक्षसा:।\nगन्धर्वयक्षप्रवरास्सकिन्नरमहोरगा:।।1.21.12।।",
+      "transliteration": "",
+      "translation": "No gods nor sages nor asuras in rakshasas nor kinnaras nor mighty serpents nor  gandharvas nor the best of yakshas (will be able to know)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-21-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "सर्वास्त्राणि भृशाश्वस्य पुत्रा: परमधार्मिका:।\nकौशिकाय पुरा दत्ता यदा राज्यं प्रशासति।।1.21.13।।",
+      "transliteration": "",
+      "translation": "All these weapons were given to Viswamitra by Bhrisasva's highly virtuous sons while  he was ruling the kingdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-21-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तेऽपि पुत्रा भृशाश्वस्य प्रजापतिसुतासुता:।\nनैकरूपा महावीर्या दीप्तिमन्तो जयावहा:।।1.21.14।।",
+      "transliteration": "",
+      "translation": "Grandsons (daughter's sons) of Prajapati, they (these weapons) are in diverse forms, highly energetic and full of glory they bring victory.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-21-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "जया च सुप्रभा चैव दक्षकन्ये सुमध्यमे।\nते सुवातेऽस्त्रशस्त्राणि शतं परमभास्वरम्।।1.21.15।।",
+      "transliteration": "",
+      "translation": "Jaya and Suprabha of slender waists are the two daughters of Daksha. They gave  birth to one hundred effulgent sons known as astras and shastras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-21-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "पञ्चाशतं सुतान् लेभे जया नाम परान् पुरा।\nवधायासुरसैन्यानाममेयान् कामरूपिण:।।1.21.16।।",
+      "transliteration": "",
+      "translation": "Formerly Jaya, for the destruction of the army of asuras gave birth to fifty sons by virtue of a boon. They  possess immeasurable power of changing forms at will.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-21-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "सुप्रभाऽजनयच्चापि पुत्रान्पञ्चाशतं पुन:।\nसंहारान्नामदुर्धर्षान् दुराक्रामान् बलीयस:।।1.21.17।।",
+      "transliteration": "",
+      "translation": "Suprabha gave birth to another fifty sons named Samharas who are unassailable,  invincible and more powerful.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-21-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तानि चास्त्राणि वेत्त्येष यथावत्कुशिकात्मज:।\nअपूर्वाणां च जनने शक्तो भूयस्स धर्मवित्।।1.21.18।।",
+      "transliteration": "",
+      "translation": "Viswamitra is well conversant with these weapons. Being virtuous, he is capable of creating new weapons also.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-21-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "एवं वीर्यो महातेजा विश्वामित्रो महायशाः।\nन रामगमने राजन् संशयं कर्तुमर्हसि।।1.21.19।।",
+      "transliteration": "",
+      "translation": "Such is the prowess of Viswamitra who is a highly effulgent and highly renowned  sage. O King in sending Rama, you need not entertain any doubt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-21-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तेषां निग्रहणे शक्तस्स्वयं च कुशिकात्मज:।\nतव पुत्रहितार्थाय त्वामुपेत्याभियाचते।।1.21.20।।",
+      "transliteration": "",
+      "translation": "Son of Kusika, even though capable of repressing those rakhsasas by himself, it is for the welfare of your son that he is here requesting you to spare him\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-21-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "इति मुनिवचनात्प्रसन्नचित्तो\nरघुवृषभस्तु मुमोद भास्वराङ्ग:।\nगमनमभिरुरोच राघवस्य\nप्रथितयशा: कुशिकात्मजाय बुध्या।।1.21.21।।",
+      "transliteration": "",
+      "translation": "Satisfied in his mind at the words of the sage (Vasishta), the full one among the Raghus' (Dasaratha) one with wide reputation, his frame shining gave his cheerful  consent to the son of Kusika for Rama's departure. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे एकविंशस्सर्ग:।। Thus ends the twentyfirst sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

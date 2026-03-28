@@ -1,0 +1,198 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 62,
+    "title": "Rama's lamentation.",
+    "titleSanskrit": "",
+    "totalShlokas": 20
+  },
+  "shlokas": [
+    {
+      "id": "v3-62-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "सीतामपश्यन्धर्मात्मा शोकोपहतचेतनः।\nविललाप महाबाहू रामः कमललोचनः।।3.62.1।।",
+      "transliteration": "",
+      "translation": "The righteous, the longarmed,lotuseyed Rama, unable to see Sita wept with his senses overwhilmed by grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-62-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "पश्यन्निव च तां सीतामपश्यन्मदनार्दितः।\nउवाच राघवो वाक्यं विलापाश्रयदुर्वचम्।।3.62.2।।",
+      "transliteration": "",
+      "translation": "Under the spell of Cupid, Rama uttered such words in grief which are otherwise unutterable. As if he was seeing Sita (before him) which was not a fact.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-62-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "त्वमशोकस्य शाखाभिः पुष्पप्रियतया प्रिये।\nआवृणोषि शरीरं ते मम शोकविवर्धिनी।।3.62.3।।",
+      "transliteration": "",
+      "translation": "O my beloved  as you love flowers you are hiding your body behind the branches of  the Ashoke tree that enhances my sorrow (paradoxically).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-62-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "कदलीस्कन्धसदृशौ कदल्या संवृतावुभौ।\nऊरू पश्यामि ते देवि नासि शक्ता निगूहितुम्।।3.62.4।।",
+      "transliteration": "",
+      "translation": "O Devi I can see both your thighs which resemble banana trunk hidden behind a banana plant. It is not possible for you to hide them from me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-62-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "कर्णिकारवनं भद्रे हसन्ती देवि सेवसे।\nअलं ते परिहासेन मम बाधावहेन वै।।3.62.5।।",
+      "transliteration": "",
+      "translation": "O gentle one  you are wandering in the karnikara garden, laughing and making fun. Enough of this , that causes my pain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-62-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "परिहासेन किं सीते परिश्रान्तस्य मे प्रिये।\nअयं स परिहासोऽपि साधु देवि न रोचते।।3.62.6।।",
+      "transliteration": "",
+      "translation": "O my dear Sita, why are you joking when I am exhausted? Such fun cannot be relished  now.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-62-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "विशेषेणाश्रमस्थाने हासोऽयं न प्रशस्यते।\nअवगच्छामि ते शीलं परिहासप्रियं प्रिये।।3.62.7।।\nआगच्छ त्वं विशालाक्षि शून्योऽयमुटजस्तव।",
+      "transliteration": "",
+      "translation": "O darling  joking specially in a hermitage  is not appreciated. I know your nature.You love fun. O largeeyed Sita, come here. This cottage of yours is empty.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-62-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "सुव्यक्तं राक्षसैस्सीता भक्षिता वा हृतापि वा।।3.62.8।।\nन हि सा विलपन्तं मामुपसम्प्रैति लक्ष्मण।",
+      "transliteration": "",
+      "translation": "O Lakshmana surely Sita is either devoured by demons or abducted. When I am weeping like this she is not coming to me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-62-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "एतानि मृगयूथानि साश्रुनेत्राणि लक्ष्मण।।3.62.9।।\nशंसन्तीव हि वैदेहीं भक्षितां रजनीचरैः।",
+      "transliteration": "",
+      "translation": "O Lakshmana, these herds of deer with their eyes filled with tears are as if telling me that she is eaten away by the demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-62-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "हा ममार्ये क्व यातासि हा साध्वि वरवर्णिनि।।3.62.10।।\nहा सकामा त्वया देवी कैकेयी सा भविष्यति।",
+      "transliteration": "",
+      "translation": "Alas, my noble lady, where have you gone? O chaste lady of excellent complexion, that queen Kaikeyi's desire will be fulfilled now.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-62-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "सीतया सह निर्यातो विना सीतामुपागतः।।3.62.11।।\nकथं नाम प्रवेक्ष्यामि शून्यमन्तःपुरं पुनः।",
+      "transliteration": "",
+      "translation": "I left home with Sita. How can I reenter the inner apartment without her ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-62-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "निर्वीर्य इति लोको मां निर्दयश्चेति वक्ष्यति।।3.62.12।।\nकातरत्वं प्रकाशं हि सीतापनयनेन मे।",
+      "transliteration": "",
+      "translation": "By Sita's abduction it will be  clear to the world that I lack manliness and compassion. My cowardly nature will clearly manifest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-62-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "निवृत्तवनवासश्च जनकं मिथिलाधिपम्।।3.62.13।।\nकुशलं परिपृच्छन्तं कथं शक्ष्ये निरीक्षितुम्।",
+      "transliteration": "",
+      "translation": "After completing the period of my exile when Janaka , king of Mithila, enquires of her welfare how can I face him?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-62-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "विदेहराजो नूनं मां दृष्ट्वा विरहितं तया।।3.62.14।।\nसुतास्नेहेन सन्तप्तो मोहस्य वशमेष्यति।",
+      "transliteration": "",
+      "translation": "If the king of Videha sees me without her, he will surely be distressed and will fall into a swoon for the love of his daughter.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-62-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "अथवा न गमिष्यामि पुरीं भरतपालिताम्।।3.62.15।।\nस्वर्गोऽपि सीतया हीनश्शून्य एव मतो मम।",
+      "transliteration": "",
+      "translation": "Or else, I will not go to the city ruled by Bharata. Without Sita even heaven will be empty for me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-62-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "मामिहोत्सृज्य हि वने गच्छायोध्यां पुरीं शुभाम्।।3.62.16।।\nन त्वहं तां विना सीतां जीवेयं हि कथञ्चन।",
+      "transliteration": "",
+      "translation": "Go to the auspicious city of Ayodhya, leaving me here in the woods. I can never live without Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-62-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "गाढमाश्लिष्य भरतो वाच्यो मद्वचनात्त्वया।।3.62.17।।\nअनुज्ञातोऽसि रामेण पालयेति वसुन्धराम्।",
+      "transliteration": "",
+      "translation": "While embracing Bharata tightly, repeat my words, 'You are permitted by Rama to rule the earth.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-62-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अम्बा च मम कैकेयी सुमित्रा च त्वया विभो।।3.62.18।।\nकौसल्या च यथान्यायमभिवाद्या ममाऽज्ञया।\nरक्षणीया प्रयत्नेन भवता सूक्तकारिणा।।3.62.19।।",
+      "transliteration": "",
+      "translation": "My mother Kaikeyi, Sumitra and Kausalya  should also be offered due obeisance. You should protect them with great effort, carrying out my instructions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-62-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "सीतायाश्च विनाशोऽयं मम चामित्रकर्शन।\nविस्तरेण जनन्या मे विनिवेद्यस्त्वया भवेत्।।3.62.20।।",
+      "transliteration": "",
+      "translation": "O Lakshmana, subduer of the enemy this loss of Sita and me should be explained in detail to my mother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-62-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "इति विलपति राघवे सुदीने वनमुपगम्य तया विना सुकेश्या।\nभयविकलमुखस्तु लक्ष्मणोऽपि व्यथितमना भृशमातुरो बभूव।।3.62.21।।",
+      "transliteration": "",
+      "translation": "When Rama, devoid of  Sita, the lady with beautiful hair, wailed piteously after reaching the forest, Lakshmana too, his face pale out of fear and mind dejected, felt extremely agitated. इत्यार्षे श्रीमद���रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे द्विषष्टितमस्सर्गः।। Thus ends the sixtysecond sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

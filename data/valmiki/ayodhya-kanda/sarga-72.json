@@ -1,0 +1,495 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 72,
+    "title": "Bharata meets Kaikeyi -- hears from Kaikeyi about the demise of king Dasaratha and Rama's exile -- Vasistha calls upon Bharata to perform obsequies and get consecrated",
+    "titleSanskrit": "",
+    "totalShlokas": 53
+  },
+  "shlokas": [
+    {
+      "id": "v2-72-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "अपश्यंस्तु ततस्तत्र पितरं पितुरालये।\nजगाम भरतो द्रष्टुं मातरं मातुरालये।।2.72.1।।",
+      "transliteration": "",
+      "translation": "Not finding his father in his abode, Bharata went to see his mother in her apartment.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अनुप्राप्तं तु तं दृष्ट्वा कैकेयी प्रोषितं सुतम्।\nउत्पपात तदा हृष्टा त्यक्त्वा सौवर्णमासनम्।।2.72.2।।",
+      "transliteration": "",
+      "translation": "On seeing her son, who was sent away, presently arriving, the delighted Kaikeyi sprang up from her golden seat.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "स प्रविश्यैव धर्मात्मा स्वगृहं श्रीविवर्जितम्।\nभरतः प्रतिजग्राह जनन्याश्चरणौ शुभौ।।2.72.3।।",
+      "transliteration": "",
+      "translation": "On entering home the righteous Bharata found it devoid of cheer and touched the auspicious feet of his mother (with reverence).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "सा तं मूर्धन्युपाघ्राय परिष्वज्य यशस्विनम्।\nअङ्के भरतमारोप्य प्रष्टुं समुपचक्रमे।।2.72.4।।",
+      "transliteration": "",
+      "translation": "Kaikeyi, gave her illustrious son Bharata a hug, kissed him on his forehead, made him rest on her lap and began her query.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "अद्य ते कतिचिद्रात्र्य श्च्युतस्याऽर्यकवेश्मनः।\nअपि नाध्वश्रमशशीघ्रं रथेनापततस्तव।।2.72.5।।",
+      "transliteration": "",
+      "translation": "How many nights have you spent (on the way) since you left your noble grandfather's residence? Hasn't the hurried journey (over such a long distance) on the chariot left you exhausted?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "आर्यकस्ते सुकुशली युधाजिन्मातुलस्तव।\nप्रवासाच्च सुखं पुत्र सर्वं मे वक्तुमर्हसि।।2.72.6।।",
+      "transliteration": "",
+      "translation": "My son are your revered grandfather and your maternal uncle Yudhajit doing well? Did you have a pleasant time during the sojourn? You should tell me all this.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "एवं पृष्टस्तु कैकेय्या प्रियं पार्थिवनन्दनः।\nआचष्ट भरत स्सर्वं मात्रे राजीवलोचनः।।2.72.7।।",
+      "transliteration": "",
+      "translation": "Thus asked lovingly by his mother Kaikeyi, the lotuseyed Bharata, the king's delight  narrated everything to her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "अद्य मे सप्तमी रात्रिश्च्युतस्याऽर्यकवेश्मनः।\nअम्बायाः कुशली तात युधाजिन्मातुलश्च मे।।2.72.8।।",
+      "transliteration": "",
+      "translation": "This is the seventh night since I left my noble grandsire's residence. My mother's father, king of Kekaya and my maternal uncle Yudhajit are doing well.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "यन्मे धनं च रत्नं च ददौ राजा परन्तपः।\nपरिश्रान्तं पथ्यभवत्ततोऽहं पूर्वमागतः।।2.72.9।।",
+      "transliteration": "",
+      "translation": "The (horses carrying) the wealth including the gems which the king (of Kekaya), the subduer of enemies had bestowed on me were exhausted on the way. Therefore I have come in advance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "राजवाक्यहरैर्दूतैस्त्वर्यमाणोऽहमागतः।\nयदहं प्रष्टुमिच्छामि तदम्बा वक्तुमर्हति।।2.72.10।।",
+      "transliteration": "",
+      "translation": "Urged upon by the messengers carrying out the orders of the king, I have come. You, O mother, should answer the questions. I wish to ask you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "शून्योऽयं शयनीयस्ते पर्यङ्को हेमभूषितः।\nन चायमिक्ष्वाकुजनः प्रहृष्टः प्रतिभाति मा।।2.72.11।।",
+      "transliteration": "",
+      "translation": "Your goldbedecked couch, worthy of resting lies empty. None of the attendants of the Ikshvakus look cheerful.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "राजा भवति भूयिष्ठमिहाम्बाया निवेशने।\nतमहं नाद्य पश्यामि द्रष्टुमिच्छन्निहाऽगतः।।2.72.12।।",
+      "transliteration": "",
+      "translation": "I had come here with the hope to see king Dasaratha who spends most of his time in my mother's residence. But today I do not see him .",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "पितुर्ग्रहीष्ये चरणौ तं ममाऽख्याहि पृच्छतः।\nआहोस्विदम्ब ज्येष्ठायाः कौसल्याया निवेशने।।2.72.13।।",
+      "transliteration": "",
+      "translation": "I would like to pay obeisance at my father's feet. Will you answer my question, O mother, and tell me regarding his whereabouts? Or perchance could he be at the residence of my eldest mother Kausalya?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तं प्रत्युवाच कैकेयी प्रियवद्घोरमप्रियम्।\nअजानन्तं प्रजानन्ती राज्यलोभेन मोहिता।।2.72.14।।",
+      "transliteration": "",
+      "translation": "In spite of knowing everything, Kaikeyi actuated by greed for the kingdom, broke the unpleasant and dreadful news as if it were pleasing to Bharata, who was ignorant of what had transpired.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "या गतिस्सर्वभूतानां तां गतिं ते पिता गतः।\nराजा महत्मा तेजस्वी यायजूकस्सतां गतिः।।2.72.15।।",
+      "transliteration": "",
+      "translation": "Your highsouled, brilliant father ever engaged in performing sacrifices and a refuge for the virtuous people, went the inevitable way every living being must follow (attained heaven).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तच्छ्रुत्वा भरतो वाक्यं धर्माभिजनवाञ्चुचिः।\nपपात सहसा भूमौ पितृशोकबलार्दितः।।2.72.16।।",
+      "transliteration": "",
+      "translation": "On hearing these words, he (Bharata), born of a righteous race and endowed with purity of character was shattered by the immense grief of his father's demise and dropped down instantaneously on the floor.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "हा हतोऽस्मीति कृपणां दीनां वाचमुदीरयन्।\nनिपपात महाबाहुर्बाहू विक्षिप्य वीर्यवान्।।2.72.17।।",
+      "transliteration": "",
+      "translation": "The mightyarmed, valiant Bharata, uttering pitiable words, evoking compassion. Alas, I am finished fell down at once throwing up his arms.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "ततश्शोकेन संवीतः पितुर्मरणदुःखितः।\nविललाप महातेजा भ्रान्ताकुलितचेतनः।।2.72.18।।",
+      "transliteration": "",
+      "translation": "Overwhelmed with grief, radiant Bharata reeling with delusion due to sorrow, lamented over the death of his father.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "एतत्सुरुचिरं भाति पितुर्मे शयनं पुरा।\n��शिनेवामलं रात्रौ गगनं तोयदात्यये।।2.72.19।।",
+      "transliteration": "",
+      "translation": "This couch of my father once used to shine like the spotless night sky irradiated by the autumnal Moon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तदिदं न विभात्यद्य विहीनं तेन धीमता।\nव्योमेव शशिना हीनमप्च्छुष्क इव सागरः।।2.72.20।।",
+      "transliteration": "",
+      "translation": "But today this couch without my sagacious father no longer shines like the sky without the Moon or like the sea evaporated.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "बाष्पमुत्सृज्य् कण्ठेन स्वात्मना परमपीडितः।\nआच्छाद्य वदनं श्रीमद्वस्त्रेण जयतां वरः।।2.72.21।।",
+      "transliteration": "",
+      "translation": "Bharata, the foremost among the victorious, clearing his tearchoked throat and covering his auspicious countenance with raiment, wept in profound distress with tears overflowing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तमार्तं देवसङ्काशं समीक्ष्य पतितं भुवि।\nनिकृत्तमिव सालस्य स्कन्धं परशुना वने।।2.72.22।।\nमत्तमातङ्गसङ्काशं चन्द्रार्कसदृशं भुवः।\nउत्थापयित्वा शोकार्तं वचनं चेदमब्रवीत्।।2.72.23।।",
+      "transliteration": "",
+      "translation": "Anguished and griefstricken, he who resembled the gods, fell down on the ground like a trunk of the sala tree in the forest severed by an axe. Seeing her son who was like a mighty elephant or like the Sun or the Moon, Kaikeyi lifted him up from the ground and spoke these words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "उत्तिष्ठोत्तिष्ठ किं शेषे राजपुत्र महायशः।\nत्वद्विधा नहि शोचन्ति सन्त स्सदसि सम्मताः।।2.72.24।।",
+      "transliteration": "",
+      "translation": "O illustrious prince arise, arise. Why are you lying down on the floor? Learned people like you, who are worthy of honour in the assembly ought not to grieve like this.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "दानयज्ञाधिकारा हि शीलश्रुतिवचोऽनुगा।\nबुद्धिस्ते बुद्धिसम्पन्न प्रभेवार्कस्य मन्दिरे।।2.72.25।।",
+      "transliteration": "",
+      "translation": "O highly intelligent one, by your wisdom, virtuous conduct and scriptural knowledge you are entitled to dispense charity and perform sacrifices. You will always shine incessantly like light of the Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "स रुदित्वा चिरं कालं भूमौ विपरिवृत्य च।\nजननीं प्रत्युवाचेदं शोकैर्बहुभिरावृतः।।2.72.26।।",
+      "transliteration": "",
+      "translation": "Bharata engulfed in profuse sorrow wept for a long time rolling on the ground and then said these words in reply to his mother:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "अभिषेक्ष्यति रामं नु राजा यज्ञं नु यक्ष्यते।\nइत्यहं कृतसङ्कल्पो हृष्टो यात्रामयासिषम्।।2.72.27।।",
+      "transliteration": "",
+      "translation": "Thinking that the king is about to consecrate Rama or perform some sacrifice, I undertook the journey in great delight.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "तदिदं ह्यन्यथा भूतं व्यवदीर्णं मनो मम।\nपितरं यो न पश्यामि नित्यं प्रियहिते रतम्।।2.72.28।।",
+      "transliteration": "",
+      "translation": "Now everything has turned out to be different. My mind is shattered.I no longer behold my father who is ever intent on my welfare and happiness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "अम्ब केनात्यगाद्राजा व्याघिना मय्यनागते।\nधन्या रामादयस्सर्वे यैः पिता संस्कृत स्स्वयम्।।2.72.29।।",
+      "transliteration": "",
+      "translation": "O mother what ailment caused the king's death before I could return? How fortunate are Rama and others by whom the last rites of my father were performed",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "न नूनं मां महाराजः प्राप्तं जानाति कीर्तिमान्।\nउपजिघ्रेद्धि मूर्ध्नि तात स्सन्नम्य सत्वरम्।।2.72.30।।",
+      "transliteration": "",
+      "translation": "Surely the illustrious maharaja is not aware of my arrival. Otherwise he would have quickly bent my head and kissed me on my forehead.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "क्व स पाणिस्सुखस्पर्शस्तातस्याक्लिष्टकर्मणः।\nयेन मां रजसा ध्वस्तमभीक्ष्णं परिमार्जति।।2.72.31।।",
+      "transliteration": "",
+      "translation": "Where is that hand of my father of unwearied actions, the hand that would wipe away the dust from my person with a pleasant touch?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "यो मे भ्राता पिता बन्धुर्यस्य दासोऽस्मि धीमतः।\nतस्य मां शीघ्रमाख्याहि रामस्याक्लिष्टकर्मणः।।2.72.32।।",
+      "transliteration": "",
+      "translation": "Announce at once my arrival to the wise Rama, the man of unwearied actions, my brother, father and friend whose slave I am.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "पिता हि भवति ज्येष्ठो धर्ममार्यस्य जानतः।\nतस्य पादौ ग्रहीष्यामि स हीदानीं गतिर्मम।।2.72.33।।",
+      "transliteration": "",
+      "translation": "To one who knows the ways of righteousness the elder brother is (like) the father. Indeed, he (Rama) is my refuge and I shall hold his feet now.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "धर्मविद्धर्मनित्यश्च सत्यसन्धो दृढव्रतः।\nआर्यः किमब्रवीद्राजा पिता मे सत्यविक्रमः।।2.72.34।।",
+      "transliteration": "",
+      "translation": "What did my father, the noble king, conversant with righteous conduct, true, to his vows, one who always conducted himself in a righteous manner, whose truth was his prowess (at the time of his death)?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "पश्चिमं साधु सन्देशमिच्छामि श्रोतुमात्मनः।\nइति पृष्टा यथातत्त्वं कैकेयी वाक्यमब्रवीत्।।2.72.35।।",
+      "transliteration": "",
+      "translation": "I want to hear the exact words of my father's last message to me. Thus questioned (by Bharata), Kaikeyi related the exact facts:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "रामेति राजा विलपन् हा सीते लक्ष्मणेति च।\nस महात्मा परं लोकं गतो गतिमतां वरः।।2.72.36।।",
+      "transliteration": "",
+      "translation": "The magnanimous king, the foremost of those who attained the excellent state after, death, went to the other world, lamenting 'O Rama, O Sita, O Lakshamana'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "इमां तु पश्चिमां वाचं व्याजहार पिता तव।\nकालधर्मपरिक्षिप्तः पाशैरिव महागजः।।2.72.37।।",
+      "transliteration": "",
+      "translation": "Your father, caught by the noose of death, like a great elephant bound by cords, uttered these last words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "सिद्धार्थास्ते नरा राममागतं सह सीतया।\nलक्ष्मणं च महाबाहुं द्रक्ष्यन्ति पुनरागतम्।।2.72.38।।",
+      "transliteration": "",
+      "translation": "'Those men who will see Rama returning home along with Sita and mightyarmed Lakshmana, will have their desires fulfilled.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "तच्छ्रुत्वा विषसादैव द्वितीयाप्रियशंसनात्।\nविषण्णवदनो भूत्वा भूयः पप्रच्छ मातरम्।।2.72.39।।",
+      "transliteration": "",
+      "translation": "Bharata was more distraught on hearing the words that conveyed the second unpleasant tidings. With downcast countenance, he again enquired of his mother thus:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "क्व चेदानीं स धर्मात्मा कौसल्यानन्दवर्धनः।\nलक्ष्मणेन सह भ्रात्रा सीतया �� समं गतः।।2.72.40।।",
+      "transliteration": "",
+      "translation": "Where has righteous Rama who enhances the delight of Kausalya along with his brother Lakshmana and Sita gone now?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "तथा पृष्टा यथातत्त्वमाख्यातुमुपचक्रमे।\nमातास्य सुमहद्वाक्यं विप्रियं प्रियशङ्कया।।2.72.41।।",
+      "transliteration": "",
+      "translation": "Thus questioned, his mother started relating the exact events, presuming them to be pleasant tidings (for Bharata).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "स हि राजसुतः पुत्र चीरवासा महावनम्।\nदण्डकान्सह वैदेह्या लक्ष्मणानुचरो गतः।।2.72.42।।",
+      "transliteration": "",
+      "translation": "O my son, prince Rama attired in garments of bark along with Sita and followed by Lakshmana left for the great Dandaka forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "तच्छ्रुत्वा भरतस्त्रस्तो भ्रातुश्चारित्रशङ्कया।\nस्वस्य वंशस्य महात्म्यात्प्रष्टुं समुपचक्रमे।।2.72.43।।",
+      "transliteration": "",
+      "translation": "Conscious of the glory of his race, Bharata continued to enquire if there was any unrighteous conduct on the part of his brother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "कच्चिन्न ब्राह्मणधनं हृतं रामेण कस्यचित्।\nकच्चिन्नाढ्यो दरिद्रो वा तेनापापो विहिंसितः।।2.72.44।।",
+      "transliteration": "",
+      "translation": "I hope Rama did not seize the wealth of any brahmin nor did any harm to an innocent person, whether rich or poor.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "कच्चिन्न परदारान्वा राजपुत्रोऽभिमन्यते।\nकस्मात्स दण्डकारण्ये भ्रूणहेव विवासितः।।2.72.45।।",
+      "transliteration": "",
+      "translation": "I hope he did not covet another man's wife. Like a sinner who had slain a child in embryo why has he been banished to Dandaka forest?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "अथास्य चपला माता तत्स्वकर्म यथातथम्।\nतेनैव स्त्रीस्वभावेन व्याहर्तुमुपचक्रमे।।2.72.46।।",
+      "transliteration": "",
+      "translation": "Then the capricious mother, with the same feminine disposition which she had displayed earlier, started giving a faithful account of all her deeds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "एवमुक्ता तु कैकेयी भरतेन महात्मना।\nउवाच वचनं हृष्टा मूढा पण्डितमानिनी।।2.72.47।।",
+      "transliteration": "",
+      "translation": "On hearing the words of great Bharata, that foolish woman Kaikeyi thinking herself to be wise, cheerfully said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "न ब्राह्मणधनं किञ्चिद्धृतं रामेण कस्यचित्\nकश्चिन्नाढ्यो दरिद्रो तेनापापो विहिंसितः।\nन रामः परदारांश्च चक्षुर्भ्यामपि पश्यति।।2.72.48।।",
+      "transliteration": "",
+      "translation": "Rama did not rob any brahmin of even a little wealth nor did he harm any innocent man, whether rich or poor. He never casts his eyes on another's wife.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "मया तु पुत्र श्रुत्वैव रामस्यैवाभिषेचनम्।\nयाचितस्ते पिता राज्यं रामस्य च विवासनम्।।2.72.49।।",
+      "transliteration": "",
+      "translation": "My son, I on hearing of Rama's consecration asked your father to confer the kingdom on you and banish Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "स स्ववृत्तिं समास्थाय पिता ते तत्तऽथाकरोत्।\nरामश्च सह सौमित्रिः प्रेषितस्सह सीतया।।2.72.50।।",
+      "transliteration": "",
+      "translation": "Your father, faithful to his word, banished Rama along with Lakshmana and Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "तमपश्यन्प्रियंपुत्रं महीपालो महायशाः।\nपुत्रशोकपरिद्यूनः पञ्चत्वमुपपेदिवान्।।2.72.51।।",
+      "transliteration": "",
+      "translation": "The renowned ruler of the earth (king Dasaratha), unable to behold (the sorry state of) his beloved son and stricken by filial grief, merged into the five elements (died).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "त्वयात्विदानीं धर्मज्ञ राजत्वमवलम्ब्यताम्।\nत्वत्कृते हि मया सर्वमिदमेवं विधं कृतम्।।2.72.52।।",
+      "transliteration": "",
+      "translation": "O knower of dharma, assume kingship now. It is only for your sake that all this has been done by me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "मा शोकं मा च सन्तापं धैर्यमाश्रय पुत्रक।\nत्वदधीना हि नगरी राज्यं चैतदनामयम्।।2.72.53।।",
+      "transliteration": "",
+      "translation": "My son, give up sorrow and agony and take recourse to courage. This city as well as the kingdom, free from all obstacles, is under your control.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-72-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "तत्पुत्र शीघ्रं विधिना विधिज्ञैर्वसिष्ठमुख्यै स्सहितो द्विजेन्द्रैः।\nसङ्काल्य राजानमदीनसत्त्वमात्मानमुर्व्यामभिषेचयस्व।।2.72.54।।",
+      "transliteration": "",
+      "translation": "Therefore, my son, under the guidance of Vasistha and other noble brahmins, wellversed in rituals, quickly perform the funeral obsequies in accordance with tradition and without getting depressed in spirit, get yourself coronated as lord of this earth. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे द्विसप्ततितमस्सर्गः।। Thus ends the seventysecond sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

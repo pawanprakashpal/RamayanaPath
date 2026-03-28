@@ -1,0 +1,531 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 43,
+    "title": "Sugriva sends the next contingent in the northern direction towards the Himalayas -- countries and places in the north described.",
+    "titleSanskrit": "",
+    "totalShlokas": 57
+  },
+  "shlokas": [
+    {
+      "id": "v4-43-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततस्सन्दिश्य सुग्रीवश्श्वशुरं पश्चिमां दिशम्।\nवीरं शतवलिं नाम वानरं वानरर्षभः।।4.43.1।।",
+      "transliteration": "",
+      "translation": "Sugriva, the bull among monkeys, having sent his fatherinlaw in the western direction, said to Satavali, troop leader of the monkeys:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "उवाच राजा धर्मज्ञस्सर्ववानरसत्तमम्।\nवाक्यमात्म हितं चैव रामस्य च हितं तथा।।4.43.2।।",
+      "transliteration": "",
+      "translation": "'Righteous king Sugriva said to the foremost among the monkeys, Satavali what would help his cause as well as the cause of Rama:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "वृतश्शतसहस्रेण त्वद्विधानां वनौकसाम्।\nवैवस्वतसुतैस्सार्धं प्रतिष्ठस्व स्वमन्त्रिभिः।।4.43.3।।",
+      "transliteration": "",
+      "translation": "'Take like you a hundred thousand courageous heroes, your ministers and the sons of Vaivasvata. And begin your expedition.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "दिशं ह्युदीचीं विक्रान्तां हिमशैलावतंसकाम्।\nसर्वतः परिमार्गध्वं रामपत्नीमनिन्दिताम्।।4.43.4।।",
+      "transliteration": "",
+      "translation": "'Look all over the northern direction adorned with mighty Himavan as its earring, for the spouse of blameless Rama",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "अस्मिन्कार्येविनिर्वृत्ते कृते दाशरथेः प्रिये।\nऋणान्मुक्ता भविष्यामः कृतार्थार्थविदां वराः।।4.43.5।।",
+      "transliteration": "",
+      "translation": "'We should be succeessful in our endeavour when we have completed the task dear to Rama. We will be redeemed of our debt to him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "कृतं हि प्रियमस्माकं राघवेण महात्मना।\nतस्य चेत्प्रतिकारोऽस्ति सफलं जीवितं भवेत्।।4.43.6।।",
+      "transliteration": "",
+      "translation": "'Highsouled Rama has done a great service to us earlier. We will be blessed if we are  successful in helping Rama in return.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "अर्थिनः कार्यनिर्वृत्तिमकर्तुरपि यश्चरेत्।\nतस्य स्यात्सफलं जन्म किं पुनः पूर्वकारिणः।।4.43.7।।",
+      "transliteration": "",
+      "translation": "'Our life becomes fruitful when we help a person who was not helped us. What to speak of returning the help one has rendered.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "एतां बुद्धिमवस्थाय दृश्यते जानकी यथा।\nतथा भवद्भिः कर्तव्यमस्मत्प्रियहितैषिभिः।।4.43.8।।",
+      "transliteration": "",
+      "translation": "'Keeping this in mind, you, as my wellwishers, should act in a way Janaki can be traced.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "अयं हि सर्वभूतानां मान्यस्तु नरसत्तमः।\nअस्मासु चागत: प्रीती रामः परपुरञ्जयः।।4.43.9।।",
+      "transliteration": "",
+      "translation": "'This Rama who can conquer the capitals of enemies is great. He loves and is loved by all living beings including ourselves.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "इमानि वनदुर्गाणि नद्यश्शैलान्तराणि च।\nभवन्तः परिमार्गन्तु बुद्धिविक्रमसम्पदा।।4.43.10।।",
+      "transliteration": "",
+      "translation": "'You are rich in wisdom and valour. You should search for Sita everywhere including inaccessible forests and mountain ranges.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तत्र म्लेच्छान्पुलिन्दांश्च शूरसेनांस्तथैव च।\nप्रस्थलान्भरतांश्चैव कुरूंश्च सह मद्रकैः।।4.43.11।।\nकाम्बोजान्यवनां श्चैव शकानारट्टकानपि।\nबाह्लीकानृषिकां श्चैव पौरवानथ टङ्कणान्।।4.43.12।।\nचीनान्परमचीनांश्च नीहारांश्च पुनः पुनः।\nअन्विष्यदरदांश्चैव हिमवन्तं तथैव च।।4.43.13।।",
+      "transliteration": "",
+      "translation": "'Search in the countries of Mlechas, Pulindas, Surasenas, Prasthalas, Bharatas, Madrakas, Kurus, Kambojas and even Yavanas, Shakas, Rattakas, Bahlikas, Rishikas, Pauravas, Tankanas, Cheenas, Paramacheenas, Niharas, Daradas and in the Himalaya mountains again and again in order to find her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "लोध्रपद्मकषण्डेषु देवदारुवनेषु च।\nरावणस्सह वैदेह्या मार्गितव्यस्ततस्ततः।।4.43.14।।",
+      "transliteration": "",
+      "translation": "'There you should explore the dwelling of Ravana and Vaidehi, in the thickets of lodhra and lotuses and in the woods of devadaru.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "ततस्सोमाश्रमं गत्वा देवगन्धर्वसेवितम्।\nकालं नाम महासानुं पर्वतं तु गमिष्यथ।।4.43.15।।",
+      "transliteration": "",
+      "translation": "'Then go and explore the hermitage of Soma inhabited by gods and gandharvas and also the great summits of mount Kala.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "महत्सु तस्य शैलस्य निर्दरेषु गुहासु च।\nविचिनुध्वं महाभागां रामपत्नींततस्ततः।।4.43.16।।",
+      "transliteration": "",
+      "translation": "'Look for that great lady, Rama's consort, in the big caves and caverns all over the mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तमतिक्रम्य शैलेन्द्रं हेमगर्भं महागिरिम्।\nततस्सुदर्शनं नाम गन्तुमर्हथ पर्वतम्।।4.43.17।।",
+      "transliteration": "",
+      "translation": "'Crossing this lord of hills filled with gold, you should reach the great mountain called Sudarsana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "ततो देवसखो नाम पर्वतः पतगालयः।\nनानापक्षिगणाकीर्णो विविधद्रुमभूषितः।।4.43.18।।",
+      "transliteration": "",
+      "translation": "'Then proceed to mount Devasakha inhabited by a variety of birds adorning the trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तस्य काननषण्डेषु निर्घरेषु गुहासु च।\nरावणस्सह वैदेह्या मार्गितव्यस्ततस्ततः।।4.43.19।।",
+      "transliteration": "",
+      "translation": "'You should search for Ravana as well as Vaidehi everywhere in the thickets of that hill, near the mountain streams and also in caves.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तमतिक्रम्य चाकाशं सर्वतश्शतयोजनम्।\nअपर्वतनदीवृक्षं सर्वसत्त्वविवर्जितम्।।4.43.20।।",
+      "transliteration": "",
+      "translation": "'Beyond, there is a desolate place of hundred yojanas with no trace of life, no mountains, no trees, no rivers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तं तु शीघ्रमतिक्रम्य कान्तारं रोमहर्षणम्।\nकैलासं पाण्डुरं शैलं प्राप्य हृष्टा भविष्यथ।।4.43.21।।",
+      "transliteration": "",
+      "translation": "'Crossing that horripilating, desolate place quickly, you will be happy to reach the snowy Kailasa mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तत्र पाण्डुरमेघाभं जाम्बूनदपरिष्कृतम्।\nकुबेरभवनं रम्यं निर्मितं विश्वकर्मणा।।4.43.22।।",
+      "transliteration": "",
+      "translation": "'There is an exquisite mansion of Kubera built by Visvakarma which, embellished with gold, looks like a pale white cloud.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "विशाला नलिनी यत्र प्रभूतकमलोत्पला।\nहंसकारण्डवाकीर्णाप्सरोगणसेविता।।4.43.23।।",
+      "transliteration": "",
+      "translation": "'There is a large lotus pond with many lotuses and lilies, inhabited by swans and ducks and frequented by groups of apasaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तत्र वैश्रवणो राजा सर्वभूतनमस्कृतः।\nधनदो रमते श्रीमान्गुह्यकैस्सह यक्षराट्।।4.43.24।।",
+      "transliteration": "",
+      "translation": "'Kubera, son of Vaisravana, a prosperous king of the yakshas (demigods) worshipped by all beings dwells there with Guhyakas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तस्य चन्द्रनिकाशेषु पर्वतेषु गुहासु च।\nरावणः सह वैदेह्या मार्गितव्यस्ततस्ततः।।4.43.25।।",
+      "transliteration": "",
+      "translation": "'Look for Vaidehi and Ravana all over the caves and mountains of Kilasa of the colour of the moon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "क्रौञ्चं तु गिरिमासाद्य बिलं तस्य सुदुर्गमम्।\nअप्रमत्तै: प्रवेष्टव्यं दुष्प्रवेशं हि तत्स्मृतम्।।4.43.26।।",
+      "transliteration": "",
+      "translation": "'Therefrom proceed to mount krauncha mountain and enter carefully its cave which is reportedly difficult to access.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "वसन्ति हि महात्मानस्तत्र सूर्यसमप्रभाः।\nदेवैरप्यर्चिता स्सम्यग्देवरूपा महर्षयः।।4.43.27।।",
+      "transliteration": "",
+      "translation": "'Great ascetics live there. Worshipped even by the gods, these highsouled godlike ascetics shine like the very Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "क्रौञ्चस्य तु गुहाश्चान्या स्सानूनिशिखराणि च।\nनिर्दराश्च नितम्बाश्च विचेतव्या स्ततस्ततः।।4.43.28।।\nकौञ्चस्य शिखरं चापि निरीक्ष्य च ततस्ततः।",
+      "transliteration": "",
+      "translation": "'Ransack the peaks of Krauncha, its caves, caverns and ridges.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "अवृक्षं कामशैलं च मानसं विहगालयम्।\nन गतिस्तत्र भूतानां देवदानव रक्षसाम्।।4.43.29।।",
+      "transliteration": "",
+      "translation": "'There is a mountain region known as Kama, and Manasa where there are no trees. It is a bird sanctuary. Not only living beings, even gods, demons and rakshas have no access to that place.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "स च सर्वैर्विचेतव्यस्ससानुप्रस्थभूधरः।\nक्रौञ्चं गिरिमतिक्रम्य मैनाको नाम पर्वतः।।4.43.30।।",
+      "transliteration": "",
+      "translation": "'Beyond mount Krauncha you will find Mainaka. All of you should search for Sita in the plain lands and the ridges of the mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "मयस्य भवनं यत्र दानवस्य स्वयं कृतम्।।4.43.31।।\nमैनाकस्तु विचेतव्य स्ससानुप्रस्थकन्दरः।\nस्त्रीणामश्वमुखीनां तु निकेतास्तत्र तत्र तु।।4.43.32।।",
+      "transliteration": "",
+      "translation": "'There on Mainaka a demon, called Maya has built a mansion all by himself. Try to look in the plain lands, ridges and deep caves of Mainaka and in the residences of kinnera women with faces of horses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "तं देशं समतिक्रम्य आश्रमं सिद्धसेवितम्।\nसिद्धा वैखानसास्तत्र वालखिल्याश्च तापसाः।।4.43.33।।",
+      "transliteration": "",
+      "translation": "'On passing that place, you will come across a hermitage inhabited by siddhas and ascetics, Vaikhanasas and Valakilyas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "वन्द्यास्ते तु तपस्सिद्धास्तपसा वीतकल्मषाः।\nप्रष्टव्या चापि सीतायाः प्रवृत्तिर्विनयान्वितैः।।4.43.34।।",
+      "transliteration": "",
+      "translation": "'They deserve  your reverence since they are accomplished ascetics.They are cleansed of sins by their penance.You should be polite when you ask them for information  about Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "हेमपुष्करसञ्छन्नं तस्मिन् वैखानसं सरः।\nतरुणादित्यसङ्काशैर्हंसैर्विचरितं शुभैः।।4.43.35।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "औपवाह्यः कुबेरस्य सार्वभौम इति स्मृतः।\nगजः पर्येति तं देशं सदा सह करेणुभिः।।4.43.36।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "तत्सरस्समतिक्रम्य नष्टचन्द्रदिवाकरम्।\nअनक्षत्रगणं व्योम निष्पयोदमनादितम्।।4.43.37।।",
+      "transliteration": "",
+      "translation": "'If you cross that region, you will find no Sun, no Moon, no stars, no cloud, no sound.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "गभस्तिभिरिवार्कस्य स तु देशः प्रकाशते।\nविश्राम्यद्भिस्तपस्सिद्धैर्देवकल्पैः स्वयंप्रभैः।।4.43.38।।",
+      "transliteration": "",
+      "translation": "'That (Sunless) land shines like the radiance of the Sungod with the presence of selfeffulgent ascetics who have attained perfection in penance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "तं तु देशमतिक्रम्य शैलोदा नाम निम्नगा।\nउभयोस्तीरयोस्तस्याः कीचका नाम वेणवः।।4.43.39।।\nते नयन्ति परं तीरं सिद्धान्प्रत्यानयन्ति च।",
+      "transliteration": "",
+      "translation": "'Passing that region you will reach a mountain stream called Sailoda. On both the banks of the stream are bamboo groves called Kichakas. They waft the siddhas to and from the river. (Kichakas bend forward forming an arch and thus help sages to cross the river.)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "उत्तराः कुरवस्तत्र कृतपुण्यप्रतिश्रयाः।।4.43.40।।\nततः काञ्चनपद्माभिः पद्भिनीभिः कृतोदकाः।\nनीलवैडूर्यपत्राभिर्नद्यस्तत्र सहस्रशः।।4.43.41।।\nरक्तोत्पलवनैश्चात्र मण्डिताश्च हिरण्मयैः।",
+      "transliteration": "",
+      "translation": "'Thereafter you will reach the country of UttaraKuru, a resort for those who have done meritorious deeds.There are lotus ponds with golden lotuses with bluish and greenish leaves.There are thousands of rivers adorned with red and night lotuses of gold.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "तरुणादित्यसङ्काशैर्भान्ति तत्र जलाशयाः।।4.43.42।।\nमहार्हमणिरत्नैश्च काञ्चनप्रभकेसरैः।\nनिलोत्पलवनैश्चित्रै स्स देश स्सर्वतो वृतः।।4.43.43।।\nनिस्तुलाभिश्च मुक्ताभिर्मणिभिश्च महाधनैः।",
+      "transliteration": "",
+      "translation": "'There are tanks and lakes filled with lotuses shining like the rising Sun with lotus leaves having the colour of precious emeralds. The lotus filaments look like golden threads. The entire place is full of blue lotus groves, exquisite pearls and other gems.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "उद्भूतपुलिनास्तत्र जातरूपैश्च निम्नगाः।\nसर्वरत्नमयैश्चित्रैरवगाढा नगोत्तमैः।।4.43.44।।\nजातरूपमयैश्चापि हुताशनसमप्रभैः।",
+      "transliteration": "",
+      "translation": "'There the sandy river banks are rich with all kinds of colourful gems resplendent with the brightness of gold. Gold and gems glowing like fire in the best of mountains have entered these rivers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "नित्यपुष्पफलास्तत्र नगाः पत्त्ररथ��कुलाः।।4.43.45।।\nदिव्यगन्धरसस्पर्शाः सर्वान्कामान् स्रवन्ति च।\nनानाकाराणि वासांसि फलन्त्यन्ये नगोत्तमाः।।4.43.46।।",
+      "transliteration": "",
+      "translation": "'There the trees are filled with flowers and fruits in all seasons. Birds rest on them.  By their excellent fragrance, taste and smooth feel the fruits and flowers satisfy the desires of all. Some other excellent trees provide barks of various kinds which are used for cloth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "मुक्ता वैढूर्यचित्राणि भूषणानि तथैव च।\nस्त्रीणां चाप्यनुरूपाणि पुरुषाणां तथैव च।।4.43.47।।\nसर्वर्तुसुख सेव्यानि फलन्त्यन्ये नगोत्तमाः।\nमहार्हाणि विचित्राणि हैमान्यन्ये नगोत्तमाः।।4.43.48।।",
+      "transliteration": "",
+      "translation": "'Some other great trees (of the region) provide ornaments suitable for both men and women studded with precious pearls and vaidurya which give pleasure in all seasons.  Other trees put forth beautiful and highly valuable ornaments.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "शयनानि प्रसूयन्ते चित्रास्तरणवन्ति च।\nमनःकान्तानि माल्यानि फलन्त्यत्रापरे द्रुमाः।।4.43.49।।",
+      "transliteration": "",
+      "translation": "'The trees of that region deliver beds with colourful spreads. Some trees yield garlands of flowers pleasing to the heart.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "पानानि च महार्हाणि भक्ष्याणि विविधानि च।\nस्त्रियश्च गुणसम्पन्ना रूपयौवनलक्षिताः।।4.43.50।।",
+      "transliteration": "",
+      "translation": "'Some trees bring forth many  good quality drinks, eatables and also virtuous  women, young and beautiful.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "गन्धर्वाः किन्नरास्सिद्धा नागा विद्याधरास्तथा।\nरमन्ते सततं स्तत्र नारीभिर्भास्करप्रभाः।।4.43.51।।",
+      "transliteration": "",
+      "translation": "There gandharvas, kinneras, siddhas, nagas and vidyadharas, radiant like the Sun, are seen sporting with their female companions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "सर्वे सुकृतकर्माण स्सर्वे रतिपरायणाः।\nसर्वे कामार्थसहिता वसन्ति सहयोषितः।।4.43.52।।",
+      "transliteration": "",
+      "translation": "'By virtue of their meritorious deeds (done in the previous birth) they live a luxurious life of riches and sensual pleasures with their female partners.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "गीतवादित्रनिर्घोष स्सोत्कृष्टहसितस्वनः।\nश्रूयते सततं तत्र सर्वभूतमनोहरः।।4.43.53।।",
+      "transliteration": "",
+      "translation": "'Pleasing sounds of heavenly musicvocal and instrumental and laughter of celestial beings are ever heard in that region.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "तत्र नामुदितः कश्चिन्नास्ति कश्चिदसत्प्रियः।\nअहन्यहनि वर्धन्ते गुणास्तत्र मनोरमाः।।4.43.54।।",
+      "transliteration": "",
+      "translation": "'There nobody is unhappy or inclined towards evil deeds and virtues in people go increasing day by day.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "समतिक्रम्य तं देशमुत्तरः पयसां निधिः।\nतत्र सोमगिरिर्नाम मध्ये हेममयो महान्।।4.43.55।।",
+      "transliteration": "",
+      "translation": "'Cross it and, you will reach the northern sea. In its midst is the great golden mountain, Somagiri.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "इन्द्रलोकगता ये च ब्रह्मलोकगताश्च ये।\nदेवास्तं समवेक्षन्ते गिरिराजं दिवं गताः।।4.43.56।।",
+      "transliteration": "",
+      "translation": "'Only those who have reached the world of Indra and Brahma in heaven can see that  king of mountains.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "स तु देशो विसूर्योऽपि तस्य भासा प्रकाशते।\nसूर्यलक्ष्म्याऽभिविज्ञेयस्तपतेव विवस्वता।।4.43.57।।",
+      "transliteration": "",
+      "translation": "'That place gets light and heat even though there is no Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "भगवानपि विश्वात्मा शम्भुरेकादशात्मकः।\nब्रह्मा वसति देवेशो ब्रह्मर्षिपरिवारितः।।4.43.58।।",
+      "transliteration": "",
+      "translation": "'Even divine beings, the elevenfold Samhbu, the allpervading Visnu and Lord Brahma surrounded by Brahmarshis (divine seers) reside there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "न कथञ्चन गन्तव्यं कुरूणामुत्तरेण वः।\nअन्येषामपि भूतानां नातिक्रामति वै गतिः।।4.43.59।।",
+      "transliteration": "",
+      "translation": "'You should not go beyond the north of Kuru. No living being can trespass it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "स हि सोमगिरिर्नाम देवानामपि दुर्गमः।\nतमालोक्य ततः क्षिप्रमुपावर्तितुमर्हथ।।4.43.60।।",
+      "transliteration": "",
+      "translation": "'It is difficult even for gods to reach Somagiri. You should return immediately after  seeing that mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-54",
+      "number": 54,
+      "type": "shloka",
+      "original": "एतावद्वानरैश्शक्यं गन्तुं वानरपुङ्गवाः।\nअभास्करममर्यादं न जानीमस्ततः परम्।।4.43.61।।",
+      "transliteration": "",
+      "translation": "'O monkey leaders it is not possible for monkeys to go beyond. The Sun does not shine beyond that place and it is not visible. We do not know what lies beyond that (Somagiri).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-55",
+      "number": 55,
+      "type": "shloka",
+      "original": "सर्वमेतद्विचेतव्यं यन्मया परिकीर्तितम्।\nयदन्यदपि नोक्तं च तत्रापि क्रियतां मतिः।।4.43.62।।",
+      "transliteration": "",
+      "translation": "'You should keep in mind the places described. You may also think of other places I might have omitted.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-56",
+      "number": 56,
+      "type": "shloka",
+      "original": "ततः कृतं दाशरथेर्महत्प्रियं\nमहत्तरं चापि ततो मम प्रियम्।\nकृतं भविष्यत्यनिलानलोपमा\nविदेहजादर्शनजेन कर्मणा।।4.43.63।।",
+      "transliteration": "",
+      "translation": "'O heroic monkeys comparable to fire If you are successful in finding Vaidehi you will be carrying out your duty.  Rama will be highly pleased by your action. My pleasure will be even greater.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-43-57",
+      "number": 57,
+      "type": "shloka",
+      "original": "ततः कृतार्थाः सहितास्सबान्धवाः\nमयाऽर्चितास्सर्वगुणैर्मनोरमैः।\nचरिष्यथोर्वीं प्रति शान्तशत्रव\nस्स��प्रिया भूतधराः प्लवङ्गमाः।।4.43.64।।",
+      "transliteration": "",
+      "translation": "'O monkeys, when you have accomplished your goal, you will be honoured by me as though you have returned after scoring a victory over the enemy. You will roam this earth with your relatives, rejoicing in the company of your loved ones. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे त्रिचत्वारिंशस्सर्गः।। Thus ends of fortythird sarga in Kishkindakanda of the first epic, the Holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

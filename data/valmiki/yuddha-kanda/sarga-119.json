@@ -1,0 +1,342 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 119,
+    "title": "Sita gives a fitting reply to Rama and enters fire.",
+    "titleSanskrit": "",
+    "totalShlokas": 36
+  },
+  "shlokas": [
+    {
+      "id": "v6-119-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "एवमुक्तातुवैदेहिपरुषंरोमहर्षणम् ।\nराघवेणसरोषेणश्रुत्वाप्रव्यथ���ताऽभवत् ।।6.119.1।।",
+      "transliteration": "",
+      "translation": "Vaidehi heard the harsh horripilating words spoken by Rama in anger and was very much afflicted.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "सातदश्रुतपूर्वंहिजनेमहतिमैथिली ।\nश्रुत्वाभर्तृर्वचोरूक्षंलज्जयावनताभवत् ।।6.119.2।।",
+      "transliteration": "",
+      "translation": "Then Mythili hearing her husband 's harsh words, in the presence of a large number of people, stayed bent with shyness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "प्रविशन्तीवगात्राणिस्वानिसाजनकात्मजा ।\nवाक्षरैस्स्सैःसशल्येवभृशमाश्रूण्यवर्तयत् ।।6.119.3।।",
+      "transliteration": "",
+      "translation": "As if pierced by those arrowlike words, Janaka's daughter shed tears excessively, shrinking into her own limbs.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "ततोबाष्पपरिक्लिन्नंप्रमार्जन्तीस्वमाननम् ।\nशनैर्गद्गदयावाचाभर्तारमिदमब्रवीत् ।।6.119.4।।",
+      "transliteration": "",
+      "translation": "Thereafter, wiping her face clean from flowing tears she spoke slowly in a choked voice in broken words to her husband.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "किंमामसदृशंवाक्यमीदृशंश्रोत्रदारुणम् ।\nरूक्षंश्रावयसेवीर प्राकृतःप्राकृतमिव ।।6.119.5।।",
+      "transliteration": "",
+      "translation": "\"Hero! Why are you addressing me in such harsh unkind words in a rude manner, in a harsh tone like a common man?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "न तथास्मिमहाबाहो यथामामवगच्छसि ।\nप्रत्ययंगच्छमेस्वेनचारित्रेणैवतेशपे ।।6.119.6।।",
+      "transliteration": "",
+      "translation": "\"O Mighty armed! I am not as you think of me, so also show me a proof of it in my past. I swear on my past.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "पृथकस्त्रीणांप्रचारेणजातिंत्वंपरिशङ्कसे ।\nपरित्यजैनांशङ्कांतुयदितेऽहंपरीक्षिता ।।6.119.7।।",
+      "transliteration": "",
+      "translation": "\"You give up judging all womankind by the path followed by vulgar women. You give up these doubts if you have examined.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "यदहंगात्रसम्पर्शंगतास्मिविशवाप्रभो ।\nकामकारो न मेतत्रदैवंतत्रापराध्यति ।।6.119.8।।",
+      "transliteration": "",
+      "translation": "\"O Lord! I was helpless when Ravana contacted my limbs in the past. I was not acting according to my will. My fate is to be blamed and not me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "मदधीनंतुयत्तन्मेहृदयंत्वयिवर्तते ।\nपराधीनेषुगात्रेषुकिंकरिष्याम्यनीश्वरी ।।6.119.9।।",
+      "transliteration": "",
+      "translation": "\"That mind which is under my control is my heart and it abides in you. What can I do about my limbs when I am at others' mercy?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "सहसम्वृद्धभावेनसंसर्गेण च मानद ।\nयदितेऽहं न विज्ञाताहतातेनास्मिशाश्वतम् ।।6.119.10।।",
+      "transliteration": "",
+      "translation": "\"Honourable Rama! If I am not understood by you despite our growing up together with love and in spite of our intimate relationship, I am done forever.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "प्रेषितस्तेमहावीरोहनुमानवलोककः ।\nलङ्कास्थाहंत्वयाराजन्किंतदा न विसर्जिता ।।6.119.11।।",
+      "transliteration": "",
+      "translation": "\"King! When the great hero Hanuman was sent by you to find me in Lanka, why did you not leave me then.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "प्रत्यक्षंवानरस्यास्यतद्वाक्यसमनन्तरम् ।\nत्वयासन्त्यक्तयावीरत्यक्तंस्याजजीवितंमया ।।6.119.12।।",
+      "transliteration": "",
+      "translation": "\"O hero! Had you given me up immediately on receiving your message from Vanara I would have given up my life in the presence of Hanuman there itself.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "न वृथातेश्रमोऽयंस्यात्संशयेन्यस्यजीवितम् ।\nसुहृज्जनपरिक्लेशो न चायंविपुलस्तव ।।6.119.13।।",
+      "transliteration": "",
+      "translation": "\"O Life! If you had a doubt this exertion to you is wasteful. This fruitless hard work was perhaps not required on your part nor your friends.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "त्वयातुनृपशार्दूलदोषमेवानुवर्तता ।\nलघुनेवमनुष्येणस्त्रीत्वमेवपुरस्कृतम् ।।6.119.14।।",
+      "transliteration": "",
+      "translation": "\"O tiger among kings! You also gave up yourself to anger like a weak man and adopted womanliness\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "अपदेशेनजनकादुत्पततिर्वसुथातलात् ।\nममवृत्तं च वृत्तज्ञबहुते न पुरस्कृतम् ।।6.119.15।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "न प्रमाणीकृतंपाणिर्भाल्येममनिपीडितः ।\nममभक्त��श्चशीलं च सर्वंतेपृष्ठतःकृतम् ।।6.119.16।।",
+      "transliteration": "",
+      "translation": "\"When in my young age you held my hand as a mark of acceptance (in our marriage), has it not been considered by you? Has my devotion, character and chastity not been taken into account?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "इतिब्रुवन्तीरुदतीबाष्पगद्गगभाषिणी ।\nउवाचलक्ष्मणंसीतादीनंध्यानपरायणम् ।।6.119.17।।",
+      "transliteration": "",
+      "translation": "Thus speaking, and weeping with tears, with choked throat, Sita was absorbed in her mind and piteous. She spoke to Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "चितांमेकुरुसौमित्रेव्यवनस्यास्यभेषजम् ।\nमिध्यापवादोपहतानाहंजीवितुमुत्सहे ।।6.119.18।।",
+      "transliteration": "",
+      "translation": "\"Saumithri! Cure for this sorrow is only pyre. Arrange for pyre as I do not desire to live with false reproaches.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "अप्रीतेनगुणैर्भर्त्रात्यक्तायाजनसंसदि ।\nयाक्षमामेगतिर्गन्तुंप्रवेक्ष्येहव्यवाहनम् ।।6.119.19।।",
+      "transliteration": "",
+      "translation": "\"When my husband is not pleased with my virtues, renounces me in the gathering of people, I have only that path for me, that is, entering fire and offering myself as oblation.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "एवमुक्तस्तुवैदेह्यालक्ष्मणःपरवीरहा ।\nअमर्षवशमापन्नोराघवंसमुदैक्षत ।।6.119.20।।",
+      "transliteration": "",
+      "translation": "Spoken in that manner by Vaidehi, Lakshmana, the destroyer of enemies, overcome with indignation looked at Raghava.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "स विज्ञायततश्छन्दंरामस्याकारसूचितम् ।\nचितांचकारसौमित्रिर्मतेरामस्यवीर्यवान् ।।6.119.21।।",
+      "transliteration": "",
+      "translation": "Understanding Rama's indication from his looks, Saumithri started to prepare the earth for pyre.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "नहिरामंतदाकश्चित्कालान्तकयमोपमम् ।\nअनुनेतुमथोवक्तुंद्रष्टुंवाप्यशकत्सुहृत् ।।6.119.22।।",
+      "transliteration": "",
+      "translation": "Indeed, no friend or dear could see or speak or make a request or pacify Rama. at that time.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "अधोमुखंस्थितंरामंततःकृत्वाप्रदक्षिणम् ।\nउपावर्ततवैदेहीदीप्यमानंहुताशनम् ।।6.119.23।।",
+      "transliteration": "",
+      "translation": "Thereafter, Vaidehi, walking clockwise near Rama went round him in accordance with tradition and approached the pyre.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "प्रणम्यदैवतेभ्यश्चब्राह्मणेभ्यश्चमैथिली ।\nबद्धाञ्जलिपुटाचेदमुवाचानगिसमीपतः ।।6.119.24।।",
+      "transliteration": "",
+      "translation": "Mythili greeted the gods and brahmanas with joined palms and went near fire and again joined her palms in greeting and spoke as follows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "यथामेहृदयंनित्यंनापसर्पतिराघवात् ।\nतथालोकस्यसाक्षीमांसर्वतःपातुपावकः ।।6.119.25।।",
+      "transliteration": "",
+      "translation": "\"If it is true that my heart has never slid from Raghava at all, may the fire god protect me always and so also the world witness.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "यथामांशुद्धचरितांदुष्टांजानातिराघवः ।\nतथालोकस्यसाक्षीमांसर्वतःपातुपावकः ।।6.119.26।।",
+      "transliteration": "",
+      "translation": "\"If in Rama's view, I am of impeccable conduct and so also if what he is seeing is not known to be true, let the world witness and fire god protect me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "कर्मणामनसावाचायथानातिचराम्यहम् ।\nराघवंसर्वधर्मज्ञंतथामांपातुपावकः ।।6.119.27।।",
+      "transliteration": "",
+      "translation": "'If I have ever acted or been unfaithful at heart or in speech and did not follow a righteous path with Rama, who is a knower of all virtues, let the fire god protect me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "आदित्योभगवान्वायुर्धिशश्चन्द्रस्तथैव च ।\nअहश्चापितथासन्ध्येरात्रिश्चपृथिवीतथआ ।।6.119.28।।\nयथान्येऽपिविजानन्तितथाचारित्रसंयुताम् ।",
+      "transliteration": "",
+      "translation": "\"O gods! Supreme Aditya, wind god, god of the four quarters, and also by moon, and gods presiding during day, night, twilight and so also earth, know me as a woman of good character, let the fire god protect me that way.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "एवमुक्त्वातुवैदेहीपरिक्रम्यहुताशनम् ।\nविवेशज्वलनंदीप्तंनिःशङ्केनान्तरात्मना ।।6.119.29।।",
+      "transliteration": "",
+      "translation": "Having spoken in that way, Vaidehi went round fire fearlessly, absorbed with in herself and entered the flaming and burning fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "नश्चसुमहांस्तत्रबालवृद्धसमाकुलः ।।6.119.30।।\nददर्शमैथिलींदीप्तांप्रविशन्तींहुताशनम् ।",
+      "transliteration": "",
+      "translation": "Young and old assembled there, and the gathering of people witnessed Mythili entering the flaming and burning fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "सातप्तनवहेमाभातप्तकाञ्चनभूषणा ।।6.119.31।।\nपपातज्वलनंदीप्तंसर्वलोकस्यसन्निधौ ।",
+      "transliteration": "",
+      "translation": "Like freshly polished gold, like shining gold ornament, in the presence of the whole world she fell into flaming and glowing fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "ददृशुस्तांविशालाक्षींपतन्तींहव्यवाहनम् ।।6.119.32।।\nसीतांसर्वाणिरूपाणिरुक्मवेदिनिभांतदा ।",
+      "transliteration": "",
+      "translation": "All created beings and forms witnessed large eyed Sita descending on the golden altar, into the fire like goddess of fortune descending on her vehicle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "ददृशुस्तांमहाभागांप्रविशन्तींहुताशनम् ।।6.119.33।।\nसीतांकृत्स्नास्त्रयोलोकाःपुण्यामाज्याहुतीमिव ।",
+      "transliteration": "",
+      "translation": "All the three worlds witnessed noble dark Sita entering the fire, like ghee offered to fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "प्रचुक्रुशुःस्त्रियःसर्वास्तांदृष्टवाहव्यवाहवे ।।6.119.34।।\nपतन्तींसंस्कृतांमन्रन्स्सैर्वसोर्दारामिवाध्वरे ।",
+      "transliteration": "",
+      "translation": "All the women who stood there fled, screaming on seeing Sita falling into fire, like the flow of ghee poured continuously into sacrificial fire reciting sacred verses by priests.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "ददृशुस्तांत्रयोलोकादेवगन्धर्वदानवाः ।।6.119.35।।\nशस्तांपतन्तींनिरयेत्रिविवाद्धेवतामिव ।",
+      "transliteration": "",
+      "translation": "All the Devas, Gandharvas and Danavas of the three worlds who witnessed her falling, extolled her as if goddess was falling from heaven into hell.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-119-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "तस्यामग्निंविशन्त्यांतुहाहेतिविपुलःस्वनः ।।6.119.36।।\nरक्षसांवानराणां च सम्बभूवाद्भुतोपमः ।",
+      "transliteration": "",
+      "translation": "While Sita was entering the fire the Rakshasas and the Vanaras made loud noises saying, 'Ha Ha wonderful'. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेदिकाव्येयुद्धकाण्डेएकोनविंशत्युत्तरशततमस्सर्गः ।। This is the end of one hundred and nineteenth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

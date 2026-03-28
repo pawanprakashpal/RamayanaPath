@@ -1,0 +1,252 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 67,
+    "title": "Rama and Lakshmana see the wounded Jatayu with wings clipped.",
+    "titleSanskrit": "",
+    "totalShlokas": 26
+  },
+  "shlokas": [
+    {
+      "id": "v3-67-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "पूर्वजोऽप्युक्तमात्रस्तु लक्ष्मणेन सुभाषितम्।\nसारग्राही महासारं प्रतिजग्राह राघवः।।3.67.1।।",
+      "transliteration": "",
+      "translation": "Even though Rama was elder, he could grasp the quintessence of the wise counsel only after Lakshmana had said it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-67-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "सन्निगृह्य महाबाहुः प्रवृत्तं कोपमात्मनः।\nअवष्टभ्य धनुश्चित्रं रामो लक्ष्मणमब्रवीत्।।3.67.2।।",
+      "transliteration": "",
+      "translation": "Restraining his anger, the longarmed Rama leaned over  his wonderful bow and spoke to Lakshmana:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-67-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "किं करिष्यावहे वत्स क्व वा गच्छाव लक्ष्मण।\nकेनोपायेन गच्छेयं सीतामिति विचिन्तय।।3.67.3।।",
+      "transliteration": "",
+      "translation": "O dear Lakshmana, what shall we do? Where do we go ? Think of some means by which we can reach Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-67-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तं तथा परितापार्तं लक्ष्मणो राममब्रवीत्।\nइदमेव जनस्थानं त्वमन्वेषितुमर्हसि।।3.67.4।।\nराक्षसैर्बहुभिः कीर्णं नानाद्रुमलतायुतम्।",
+      "transliteration": "",
+      "translation": "Lakshmana said to Rama, afflicted with grief, It is proper for you to (first) search in this Janasthana, covered with different kinds of trees and creepers, and teeming with demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-67-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "सन्तीह गिरिदुर्गाणि निर्दराः कन्दराणि च।।3.67.5।।\nगुहाश्च विविधा घोरा नानामृगगणाकुलाः।\nआवासाः किन्नराणां च गन्धर्वभवनानि च।।3.67.6।।",
+      "transliteration": "",
+      "translation": "Here are difficult mountains, caves, valleys, dreadful caves full of different animals, dwellingplaces of kinneras and mansions of gandharvas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-67-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तानि युक्तो मया सार्धं त्वमन्वेषितुमर्हसि।\nत्वद्विधा बुद्धिसम्पन्ना महात्मानो नरर्षभ।।3.67.7।।\nआपत्सु न प्रकम्पन्ते वायुवेगैरिवाचलाः।",
+      "transliteration": "",
+      "translation": "Accompanied by me you should search for her in those spots. Great people endowed with wisdom do not destabilise in difficulties just as mountains are not shaken by the speed of the wind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-67-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "इत्युक्तस्तद्वनं सर्वं विचचार सलक्ष्मणः।।3.67.8।।\nक्रुद्धो रामश्शरं घोरं सन्धाय धनुषि क्षुरम्।",
+      "transliteration": "",
+      "translation": "Thus advised, the angry Rama fixed a sharp arrow to his bow and roamed in the forest accompanied by Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-67-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "ततः पर्वतकूटाभं महाभागं द्विजोत्तमम्।।3.67.9।।\nददर्श पतितं भूमौ क्षतजार्द्रं जटायुषम्।",
+      "transliteration": "",
+      "translation": "Then he saw the great Jatayu, a wonderful bird, looking like a mountain top, drenched in blood and fallen on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-67-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तं दृष्ट्वा गिरिशृङ्गाभं रामो लक्ष्मणमब्रवीत्।।3.67.10।।\nअनेन सीता वैदेही भक्षिता नात्र संशयः।",
+      "transliteration": "",
+      "translation": "On seeing Jatayu looking like the peak of a mountain, Rama said to Lakshmana, There is no doubt that this bird has devoured Vaidehi.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-67-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "गृध्ररूपमिदं रक्षो व्यक्तं भवति कानने।।3.67.11।।\nभक्षयित्वा विशालाक्षीमास्ते सीतां यथासुखम्।\nएनं वधिष्ये दीप्तास्यैर्घोरैर्बाणैरजिह्मगैः।।3.67.12।।",
+      "transliteration": "",
+      "translation": "This demon in the guise of a vulture has evidently eaten away the largeeyed Sita and is happily relaxing in the forest. With my terrific arrows with burning tips that can go straight I will kill him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-67-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "इत्युक्त्वाभ्यपतद्गृध्रं सन्धाय धनुषि क्षुरम्।\nक्रुद्धो रामस्समुद्रान्तां कम्पयन्निव मेदिनीम्।।3.67.13।।",
+      "transliteration": "",
+      "translation": "Having siad so, Rama took his bow, fixed the sharp arrow, and aimed at the vulture. The seabound earth trembled.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-67-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "तं दीनं दीनया वाचा सफेनं रुधिरं वमन्।\nअभ्यभाषत पक्षी तु रामं दशरथात्मजम्।।3.67.14।।",
+      "transliteration": "",
+      "translation": "But the vulture who was in a piteous state, vomitting foamy blood, spoke these words pathetically to Rama, son of Dasaratha:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-67-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "यामोषधिमिवायुष्मन्नन्वेषसि महावने।\nसा देवी मम च प्राणा रावणेनोभयं हृतम्।।3.67.15।।",
+      "transliteration": "",
+      "translation": "O Longlived one  she who you are searching in the forest like herbal medicine has been carried away by Ravana along with my life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-67-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "त्वया विरहिता देवी लक्ष्मणेन च राघव।\nह्रियमाणा मया दृष्टा रावणेन बलीयसा।।3.67.16।।",
+      "transliteration": "",
+      "translation": "I have seen her snatched from you and from Lakshmana and carried off by powerful Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-67-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "सीतामभ्यवपन्नोऽहं रावणश्च रणे मया।\nविध्वंसितरथश्चात्र पातितो धरणीतले।।3.67.17।।",
+      "transliteration": "",
+      "translation": "I descended down to protect Sita, and in the battle with Ravana his chariot destroyed fell down here on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-67-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "एतदस्य धनुर्भग्नमेतदस्य शरावरम्।\nअयमस्य रथो राम भग्नसाङ्ग्रामिको मया।।3.67.18।।",
+      "transliteration": "",
+      "translation": "O Rama this is his broken bow, this is his quiver and this is his warchariot all devastated by me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-67-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अयं तु सारथिस्तस्य मत्पक्षनिहतो युधि।\nपरिश्रान्तस्य मे पक्षौ छित्त्वा खड्गेन रावणः।।3.67.19।।\nसीतामादाय वैदेहीमुत्पपात विहायसम्।\nरक्षसा निहतं पूर्वं न मां हन्तुं त्वमर्हसि।।3.67.20।।",
+      "transliteration": "",
+      "translation": "He is Ravana's charioteer slain by my wings in the battle.  As I was exhausted in the encounter Ravana clipped my wings,  took Sita, and flew into the sky. You need not kill me. I am already slain by the demon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-67-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "रामस्तस्य तु विज्ञाय बाष्पपूर्णमुखस्तदा।\nद्विगुणीकृततापार्तस्सीतासक्तां प्रियां कथाम्।।3.67.21।।",
+      "transliteration": "",
+      "translation": "Having known from Jatayu the story of his beloved Sita, Rama was full of tears, his grief redoubled.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-67-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "गृध्रराजं परिष्वज्य परित्यज्य महद्धनुः।\nनिपपातावशो भूमौ रुरोद सहलक्ष्मणः।।3.67.22।।",
+      "transliteration": "",
+      "translation": "Rama dropped the bow and embraced the king of birds. He fell down despondent on the ground and began crying along with Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-67-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "एकमेकायने दुर्गे निश्श्वसन्तं कथञ्चन।\nसमीक्ष्य दुःखिततरो रामस्सौमित्रिमब्रवीत्।।3.67.23।।",
+      "transliteration": "",
+      "translation": "Rama saw Jatayu breathing with difficulty in that solitary, inaccessible place.Overcome by greater grief  he said to Lakshmana:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-67-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "राज्यं भ्रष्टं वने वासस्सीता नष्टा हतो द्विजः।\nईदृशीयं ममालक्ष्मीर्निर्दहेदपि पावकम्।।3.67.24।।",
+      "transliteration": "",
+      "translation": "I have been expelled from the kingdom. I am made to stay in the forest. I have lost Sita (my beloved wife). This bird (who was my wellwisher) has been slain. Such misfortune will burn even fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-67-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "सम्पूर्णमपि चेदद्य प्रविशेयं महोदधिम्।\nसोऽपि नूनं ममालक्ष्म्या विशुष्येत्सरितांपतिः।।3.67.25।।",
+      "transliteration": "",
+      "translation": "Now if I enter even the great sea, the lord of the rivers filled with water, it will also dry up due to my misfortune.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-67-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "नास्त्यभाग्यतरो लोके मत्तोऽस्मिन्सचराचरे।\nयेनेयं महती प्राप्ता मया व्यसनवागुरा।।3.67.26।।",
+      "transliteration": "",
+      "translation": "In this world of the animate and the inanimate there is no one more unfortunate than me fallen into the trap of adversities.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-67-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "अयं पितृवयस्यो मे गृध्रराजो जरान्वितः।\nशेते विनिहतो भूमौ मम भाग्यविपर्ययात्।।3.67.27।।",
+      "transliteration": "",
+      "translation": "This aged king of birds is my father's friend. To my illluck, he is struck down and is lying on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-67-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "इत्येवमुक्त्वा बहुशो राघवस्सहलक्ष्मणः।\nजटायुषं च पस्पर्श पितृस्नेहं विदर्शयन्।।3.67.28।।",
+      "transliteration": "",
+      "translation": "Saying such words and showing filial affection, he caressed Jatayu repeatedly with Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-67-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "निकृत्तपक्षं रुधिरावसिक्तं स गृध्रराजं परिरभ्य रामः।\nक्व मैथिली प्राणसमा ममेति विमुच्य वाचं निपपात भूमौ।।3.67.29।।",
+      "transliteration": "",
+      "translation": "Rama hugged the king of vultures with servered wings, drenched in blood and asking him where Sita who was as dear to him as his life was, he dropped him and fell down on the ground. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे सप्तषष्टितमस्सर्गः।। Thus ends the sixtyseventh sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

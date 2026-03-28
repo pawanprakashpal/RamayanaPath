@@ -1,0 +1,180 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 34,
+    "title": "Lakshmana meets Sugriva -- reminds him of his promise to Rama.",
+    "titleSanskrit": "",
+    "totalShlokas": 18
+  },
+  "shlokas": [
+    {
+      "id": "v4-34-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तमप्रतिहतं क्रुद्धं प्रविष्टं पुरुषर्षभम्।\nसुग्रीवो लक्ष्मणं दृष्ट्वा बभूव व्यथितेन्द्रियः।।4.34.1।।",
+      "transliteration": "",
+      "translation": "On seeing the angry Lakshmana, a bull among men, who could not be obstructed,  enter in,  Sugriva was disturbed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-34-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "क्रुद्धं निश्श्वसमानं तं प्रदीप्तमिव तेजसा।\nभ्रातुर्व्यसनसन्तप्तं दृष्ट्वा दशरथात्मजम्।।4.34.2।।\nउत्पपात हरिश्रेष्ठो हित्वा सौवर्णमासनम्।\nमहान्महेन्द्रस्य यथा स्वलङ्कृत इव ध्वजः।।4.34.3।।",
+      "transliteration": "",
+      "translation": "Seeing enraged Lakshmana, son of Dasaratha, sighing heavily, glowing like bright fire burning with the sorrow of Rama, Sugriva jumped out of his seat quitting the decorated golden throne just as Indra's decorated banner is raised up suddenly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-34-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "उत्पतन्तमनूत्पेतू रुमाप्रभृतयः स्त्रियः।\nसुग्रीवं गगने पूर्णचन्द्रं तारागणा इव।।4.34.4।।",
+      "transliteration": "",
+      "translation": "As soon as Sugriva jumped up ,Ruma and other womenfolk rose to their feet like the clusters of stars around the fullMoon in the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-34-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "संरक्तनयनः श्रीमान्विचचाल कृताञ्जलिः।\nबभूवावस्थितस्तत्र कल्पवृक्षो महानिव।।4.34.5।।",
+      "transliteration": "",
+      "translation": "With eyes red as blood through drunkenness,prosperous Sugriva was shaken like the Kalpa tree.He stood there and offered salutations(to Lakshmana) with folded hands.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-34-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "रुमाद्वितीयं सुग्रीवं नारीमध्यगतं स्थितम्।\nअब्रवील्लक्ष्मणः क्रुद्धस्सतारं शशिनं यथा।।4.34.6।।",
+      "transliteration": "",
+      "translation": "Looking at Sugriva surrounded by Ruma and other women like the Moon among stars, infuriated Lakshmana said",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-34-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "सत्त्वाभिजनसम्पन्नस्सानुक्रोशो जितेन्द्रियः।\nकृतज्ञस्सत्यवादी च राजा लोके महीयते।।4.34.7।।",
+      "transliteration": "",
+      "translation": "'Only a king who is an heir to a noble family, compassionate, and selfcontrolled, grateful and truthful excels in the world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-34-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "यस्तु राजा स्थितोऽधर्मे मित्राणामुपकारिणाम्।\nमिथ्या प्रतिज्ञां कुरुते को नृशंसतरस्ततः।।4.34.8।।",
+      "transliteration": "",
+      "translation": "'Which king can be more malicious than the one who makes false promises and adopts an unrighteous path towards those who helped him?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-34-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "शतमश्वानृते हन्ति सहस्रं तु गवानृते।\nआत्मानं स्वजनं हन्ति पुरुषः पुरुषानृते।।4.34.9।।",
+      "transliteration": "",
+      "translation": "'If a man tells a lie about a horse, he commits the sin of killing a hundred horses. If one tells a lie about a cow, he shares the sin of killing a thousand cows. If one tells a lie about a man, it is equal to the sin of killing oneself and his own people.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-34-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "पूर्वं कृतार्थो मित्राणां न तत्प्रतिकरोति यः।\nकृतघ्नस्सर्वभूतानां स वध्यः प्लवगेश्वर।।4.34.10।।",
+      "transliteration": "",
+      "translation": "'O lord of monkeys he who, having accomplished his task first with the help of his friend, does not return the help is ungrateful. Such a person deserves to be killed.It applies to all beings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-34-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "गीतोऽयं ब्रह्मणा श्लोक स्सर्वलोकनमस्कृतः।\nदृष्ट्वा कृतघ्नं क्रुद्धेन तन्निबोध प्लवङ्गम।।4.34.11।।",
+      "transliteration": "",
+      "translation": "'O lord of the monkeys here is a verse worthy of appreciation by all the worlds, sung by a brahmin, when he saw an ungrateful person. Listen:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-34-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "ब्रह्मघ्ने च सुरापे च चोरे भग्नव्रते तथा।\nनिष्कृतिर्विहिता सद्भि: कृतघ्ने नास्ति निष्कृतिः।।4.34.12।।",
+      "transliteration": "",
+      "translation": "'There is expiation for one who kills a brahmin, a drunkard, a thief and a violator of sacred vows. But there is no atonement for an ungrateful man.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-34-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अनार्यस्त्वं कृतघ्नश्च मिथ्यावादी च वानर।\nपूर्वं कृतार्थो रामस्य न तत्प्रतिकरोषि यत्।।4.34.13।।",
+      "transliteration": "",
+      "translation": "'O monkey you have already achieved your objective (with the help of Rama) but have not helped Rama in return. You are surely an ignoble and ungrateful liar.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-34-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "ननु नाम कृतार्थेन त्वया रामस्य वानर।\nसीताया मार्गणे यत्नः कर्तव्यः कृतमिच्छता।।4.34.14।।",
+      "transliteration": "",
+      "translation": "'O monkey, if you are grateful to Rama you should wish to search for Sita. Indeed, you should make efforts to take it up.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-34-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "स त्वं ग्राम्येषु भोगेषु सक्तो मिथ्याप्रतिश्रवः।\nन त्वां रामो विजानीते सर्पं मण्डूकराविणम्।।4.34.15।।",
+      "transliteration": "",
+      "translation": "'You have failed to keep your word. You are engaged in worldly pleasures. Rama did not know that you are a serpent croaking like a frog.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-34-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "महाभागेन रामेण पापः करुणवेदिना।\nहरीणां प्रापितो राज्यं त्वं दुरात्मा महात्मना।।4.34.16।।",
+      "transliteration": "",
+      "translation": "'Rama is illustrious, compassionate and great. He has granted the kingdom to you, to one who is a sinner and an evilminded person.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-34-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "कृतं चेन्नाभिजानीषे रामस्याक्लिष्टकर्मणः।\nसद्यस्त्वं निशितैर्भावार्हतो द्रक्ष्यसि वालिनम्।।4.34.17।।",
+      "transliteration": "",
+      "translation": "'If you do not recognise  the help of Rama who can accomplish any deed with ease, you will be killed with my sharp arrows and meet Vali (in heaven).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-34-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "न च सङ्कुचितः पन्था येन वाली हतो गतः।\nसमये तिष्ठ सुग्रीव मा वालिपथमन्वगाः।।4.34.18।।",
+      "transliteration": "",
+      "translation": "'O Sugriva the path by which Vali went is not closed.I wish you do not follow him. You stand by the promise made.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-34-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "न नूनमिक्ष्वाकुवरस्य कार्मुक\nच्युतान् शरान्पश्यसि वज्र सन्निभान्।\nतत स्सुखं नाम निषेवसे सुखी।\nन रामकार्यं मनसाऽप्यवेक्षसे।।4.34.19।।",
+      "transliteration": "",
+      "translation": "'You have not seen the thunderboltlike arrows released from the bow of Rama, the renowned prince of the Ikshvaku race. Therefore you are resorting to enjoyment without any fear and have not given thought to Rama's work.' इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे चतुस्त्रिंशस्सर्गः।। Thus ends the thirtyfourth sarga in Kishkindakanda of the first epic, the Holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

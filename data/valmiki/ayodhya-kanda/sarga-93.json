@@ -1,0 +1,261 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 93,
+    "title": "Bharata's Journey to Chitrakuta -- Bharata observes signs of smoke and presumes it to be the hermitage of Rama -- Bharata, Vasistha and Satrughna move forward towards the hermitage.",
+    "titleSanskrit": "",
+    "totalShlokas": 27
+  },
+  "shlokas": [
+    {
+      "id": "v2-93-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तया महत्या यायिन्या ध्वजिन्या वनवासिनः। \nअर्दिता यूथपा मत्ताः सयूथास्सम्प्रदुद्रुवुः।।2.93.1।।",
+      "transliteration": "",
+      "translation": "On seeing the great army marching, the exited leaders of herds of elephants inhabiting the forest were frightened and ran off with their herds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-93-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "ऋक्षाः पृषतसङ्घाश्च रुरवश्च समन्ततः। \nदृश्यन्ते वनराजीषु गिरिष्वपि नदीषु च।।2.93.2।।",
+      "transliteration": "",
+      "translation": "Bears, herds of dappled gazelle and antelopes could be seen everywhere in the stretches of the forest, also on the mountains and on the river banks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-93-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "स सम्प्रतस्थे धर्मात्मा प्रीतो दशरथात्मजः। \nवृतो महत्या नादिन्या सेनया चतुरङ्गया।।2.93.3।।",
+      "transliteration": "",
+      "translation": "Bharata the righteous son of Dasaratha, proceeded with great delight in the company of the clamouring army of four divisions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-93-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "सागरौघनिभा सेना भरतस्य महात्मनः। \nमहीं सञ्छादयामास प्रावृषि द्यामिवाम्बुदः।।2.93.4।।",
+      "transliteration": "",
+      "translation": "The army of the magnanimous Bharata, resembling the waves of the ocean, covered the earth as the clouds cover the sky during the rainy season.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-93-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तुरङ्गौघैरवतता वारणैश्च महाजवैः।\nअनालक्ष्या चिरं कालं तस्मिन्काले बभूव भूः।।2.93.5।।",
+      "transliteration": "",
+      "translation": "At that moment, a multiutde of swift horses and elephants spread out with great speed and the surface of the earth became invisible for a long time.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-93-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "स यात्वा दूरमध्वानं सुपरिश्रान्तवाहनः। \nउवाच भरत श्श्रीमान् वसिष्ठं मन्त्रिणां वरम्।।2.93.6।।",
+      "transliteration": "",
+      "translation": "With his draught animals extremely wearied by covering a great distance, the majestic Bharata said to Vasistha, the best of counsellors:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-93-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "यादृशं लक्ष्यते रूपं यथा चैव श्रुतं मया।\nव्यक्तं प्राप्ताः स्म तं देशं भरद्वाजो यमब्रवीत्।।2.93.7।।",
+      "transliteration": "",
+      "translation": "Looking at these surroundings and from what I had heard, it is clear that we have reached the region indicated by Bharadwaja.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-93-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "अयं गिरिश्चित्रकूट इयं मन्दाकिनी नदी। \nएतत्प्रकाशते दूरान्नीलमेघनिभं वनम्।।2.93.8।।",
+      "transliteration": "",
+      "translation": "This mountain is Chitrakuta and this river, Mandakini. The forest shines from a distance like a blue cloud.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-93-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "गिरे स्सानूनि रम्याणि चित्रकूटस्य सम्प्रति। \nवारणैरवमृद्यन्ते मामकै पर्वतोपमैः।।2.93.9।।",
+      "transliteration": "",
+      "translation": "The enchanting ridges of mount Chitrakuta are now trampled by my mountainlike elephants.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-93-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "मुञ्चन्ति कुसुमान्येते नगाः पर्वतसानुषु।\nनीला इवातपापाये तोयं तोयधरा घनाः।।2.93.10।।",
+      "transliteration": "",
+      "translation": "The trees on the mountain ridges are shedding flowers, like dense blue rainclouds showering water at the end of summer.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-93-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "किन्नराचरितं देशं पश्य शत्रुघ्न पर्वतम्। \nमृगैस्समन्तादाकीर्णं मकरैरिव सागरम्।।2.93.11।।",
+      "transliteration": "",
+      "translation": "O Satrughna, behold this mountain frequented by kinneras and abounding in animals like great crocodiles in the ocean.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-93-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "एते मृगगणा भान्ति शीघ्रवेगाः प्रचोदिताः। \nवायुप्रविद्धा श्शरदि मेघराजिरिवाम्बरे।।2.93.12।।",
+      "transliteration": "",
+      "translation": "Incited by the clamour of the army, these swiftrunning herds of deer expelled from their retreats resemble mass of clouds in the autumnal sky shattered by the wind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-93-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "कुर्वन्ति कुसुमापीडान् शिरस्सु सुरभीनमी। \nमेघप्रकाशैः फलकैर्दाक्षिणात्या यथा नराः।।2.93.13।।",
+      "transliteration": "",
+      "translation": "Like the people of the south, the trees on the mountain ridges with branches, brilliant like clouds, are crowned with fragrant flowers as adornments.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-93-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "निष्कूजमिव भूत्वेदं वनं घोरप्रदर्शनम्। \nअयोध्येव जनाकीर्णा सम्प्रति प्रतिभाति मा।।2.93.14।।",
+      "transliteration": "",
+      "translation": "This forest, dreadful in appearance was devoid of twittering of birds. But now it appears to me like Ayodhya thronged with people.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-93-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "खुरैरुदीरितो रेणुर्दावं प्रच्छाद्य तिष्ठति। \nतं वहत्यनिल श्श्रीघ्रं कुर्वन्निव मम प्रियम्।।2.93.15।।",
+      "transliteration": "",
+      "translation": "While the dust kicked by the hooves of the horses enveloped the forest, the wind, as if to please me, is quickly blowing them away.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-93-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "स्यन्दनांस्तुरगोपेतान्सूतमुख्यै रधिष्ठितान्। \nएतान्सम्पततश्श्रीघ्रं पश्य शत्रुघ्न कानने।।2.93.16।।",
+      "transliteration": "",
+      "translation": "Behold, O Satrughna, these chariots, commanded by excellent charioteers,  harnessed with horses are flying through the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-93-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "एतान्वित्रासितान्पश्यबर्हिणः प्रियदर्शनान्। \nएतमाविशत श्श्रीघ्रमधिवासं पतत्रिणः।।2.93.17।।",
+      "transliteration": "",
+      "translation": "Behold, these lovely frightened peacocks and other birds hurriedly entering their nests.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-93-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अतिमात्रमयं देशो मनोज्ञः प्रतिभाति मे। \nतापसानां निवासोऽयं व्यक्तं स्वर्गपथो यथा।।2.93.18।।",
+      "transliteration": "",
+      "translation": "Being the abode of ascetics, this region looks very charming like the pathway to heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-93-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "मृगा मृगीभिः सहिता बहवः पृषता वने।  \nमनोज्ञरूपा दृश्यन्ते कुसुमैरिव चित्रिताः।।2.93.19।।",
+      "transliteration": "",
+      "translation": "In this forest many a dappled deer with their mates looking as if painted with flowers are seen wandering about with a charming appearance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-93-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "साधु सैन्याः प्रतिष्ठन्तां विचिन्वन्तु च कानने। \nयथा तौ पुरुषव्याघ्रौ दृश्येते रामलक्ष्मणौ।।2.93.20।।",
+      "transliteration": "",
+      "translation": "Let the soldiers set out and properly search the forest till such time the best of men, Rama and Lakshmana, are found.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-93-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "भरतस्य वचश्श्रुत्वा पुरुषाश्शस्त्रपाणयः। \nविविशु स्तद्वनं शूरा धूमं च ददृशु स्ततः।।2.93.21।।",
+      "transliteration": "",
+      "translation": "Hearing the words of Bharata, those valiant warriors with weapons in their hands entered the forest. Therafter, they observed a spiral of smoke rising.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-93-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "ते समालोक्य धूमाग्रमूचुर्भरतमागताः। \nनामनुष्ये भवत्यग्नि र्व्यक्तमत्रैव राघवौ।।2.93.22।।",
+      "transliteration": "",
+      "translation": "Having seen the column of smoke, they returned and informed Bharata, saying, 'In a place bereft of men, fire cannot exist. Clearly Rama and Lakshmana must be here only.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-93-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "अथ नाऽत्र नरव्याघ्रौ राजपुत्रौ परन्तपौ। \nअन्ये रामोपमा स्सन्ति व्यक्तमत्र तपस्विनः।।2.93.23।।",
+      "transliteration": "",
+      "translation": "In case the two princes, Rama and Lakshmana, the best of men, and subduers of  enemies are not residing here then evidently it must be some other ascetics like Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-93-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "तच्छ्रुत्वा भरतस्तेषां वचनं साधुसम्मतम्। \nसैन्यानुवाच सर्वांस्तानमित्रबलमर्दनः।।2.93.24।।",
+      "transliteration": "",
+      "translation": "Having heard these words acceptable to the pious, Bharata, the crusher of enemy forces, addressed the entire army:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-93-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "यत्ता भवन्तस्तिष्ठन्तु नेतो गन्तव्यमग्रतः। \nअहमेव गमिष्यामि सुमन्त्रो गुरुरेव च।।2.93.25।।",
+      "transliteration": "",
+      "translation": "All of you carefully watch here. Do not proceed any further. Sumantra, the preceptor and myself shall go forward.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-93-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "एवमुक्ता स्ततस्सर्वे तत्र तस्थुः समन्तः। \nभरतो यत्र धूमाग्रं तत्र दृष्टिं समादधात्।।2.93.26।।",
+      "transliteration": "",
+      "translation": "At this command, all of them halted. Then Bharata fixed his gaze on the source of the smoke.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-93-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "व्यवस्थिता या भरतेन सा चमूर्निरीक्षमाणाऽपि च भूमिमग्रतः। \nबभूव हृष्टा न चिरेण जानती प्रियस्य रामस्य समागमं तदा।।2.93.27।।",
+      "transliteration": "",
+      "translation": "The army thus halted by Bharata, gazing at the space before them rejoiced at the thought that not long before they would rejoin their beloved Rama. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे त्रिनवतितमस्सर्गः।। Thus ends the ninetythird sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

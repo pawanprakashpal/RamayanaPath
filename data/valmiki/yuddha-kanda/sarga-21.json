@@ -1,0 +1,270 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 21,
+    "title": "When the ocean did not give way, Rama gets angry and resorts to stirring up the ocean with his arrows.",
+    "titleSanskrit": "",
+    "totalShlokas": 28
+  },
+  "shlokas": [
+    {
+      "id": "v6-21-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततस्सागरवेलायांदर्भानास्तीर्यराघवः ।\nअञ्जलिं��्राङ्मुखःकृत्वाप्रतिशिश्येमहोदधेः ।।6.21.1।।\nबाहुंभुजगभोगाभमु��धायारिसूदनः ।",
+      "transliteration": "",
+      "translation": "Then Raghava the destroyer of foes, offered his obeisance turning his face towards east, spread the kusa grass mat on the seashore and lay down resting his head upon his shoulders like a coiled serpent.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-21-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "वरकाञ्चनकेयूरमुक्ताप्रवरभूषणैः ।।6.21.2।।\nभुजैःपरमनारीणामभिमृष्टमनेकदा ।।6.21.3।।",
+      "transliteration": "",
+      "translation": "The shoulders that have been adorned with the best of gold, pearl and coral ornaments, were besmeared many times by supreme women.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-21-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "चन्दनागुरुभिश्चैवपुरस्तादधिवासितम् ।\nबालसूर्यप्रकाशैश्चन्दनैरुपशोभितम् ।।6.21.4।।",
+      "transliteration": "",
+      "translation": "The very charming shoulders, smeared with sandal paste and Agaru fragrance emitting the brilliance of the rising Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-21-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "शयनेचोत्तमाङ्गेनसीतायाश्शोभितंपुरा ।\nतक्षकस्येवसम्भोगगङ्गाजलनिषेचितम् ।।6.21.5।।",
+      "transliteration": "",
+      "translation": "(The shoulders) which resembled the coils of Takshaka (in chubbiness) a principal serpent, was graced by Sita while in bed, was bathed by the best of women with waters of Ganga.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-21-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "संयुगेयुगसङ्काशंशत्रूणांशोकवर्धनम् ।\nसुहृदानन्दनंदीर्घंसागरान्तव्यपाश्रयम् ।।6.21.6।।",
+      "transliteration": "",
+      "translation": "The shoulders were long like the union of Yugas, which brought grief to the enemies in war and delight to the friends, and like the earth bound by the ocean on all sides.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-21-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "असत्याचपुनस्सव्यंज्याघातविगतत्वचम् ।\nदक्षिणोदक्षिणंबाहुंमहापरिघसन्निभम् ।।6.21.7।।\nगोसहस्रप्रदारंमुपधायमहत्भुजम् ।\nअद्यमेमरणंवादतरणंसागरस्यवा ।।6.21.8।।\nतिरामोमतिंकृत्वामहाबाहुर्महोदधिम् ।\nअधिशिश्येचविधिवत्प्रयतोनियतोमुनिः ।।6.21.9।।",
+      "transliteration": "",
+      "translation": "The mighty armed Rama's arms were hardened like that of iron bars by the large number of arrows received by the left arm and strained by giving thousands of cows as gifts by the right arm. Rama was determined now to cross over the great ocean or meet the sea with death and lay down subdued and restrained like a sage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-21-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तस्यरामस्यसुप्तस्यकुशास्तीर्णेमहीतले ।\nनियमादप्रमत्तस्��निशास्तिस्रोऽतिचक्रमुः ।।6.21.10।।",
+      "transliteration": "",
+      "translation": "As Rama kept himself alert with a vow and lay on the kusa grass m at spread on the ground, three nights rolled fast.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-21-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "सत्रिरात्रोषितस्तत्रनयज्ञोधर्मवत्सलः ।\nउपासततदारामस्सागरंसरितांपतिम् ।।6.21.11।।",
+      "transliteration": "",
+      "translation": "Rama, a lover of dharma, who had political foresight, spent three nights waiting upon the ocean, the Lord of rivers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-21-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "नचदर्शयतेरूपंमन्दोरामस्यसागरः ।\nप्रयतेनापिरामेणयथार्हमभिपूजितः ।।6.21.12।।",
+      "transliteration": "",
+      "translation": "Though Rama remained selfrestrained and respected the ocean well according to propriety, the ocean was dull and did not show its real form.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-21-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "समुद्रस्यततःक्रुद्धोरामोरक्तान्तलोचनः ।\nसमीपस्थमुवाचेदंलक्ष्मणंशुभलक्ष्मणम् ।।6.21.13।।",
+      "transliteration": "",
+      "translation": "Enraged at the ocean, Rama's eyes turned red. He went near Lakshmana who was endowed with auspicious marks and thus addressed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-21-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "अवलेपस्समुद्रस्यनदर्शयतियत्स्वयम् ।\nप्रशमश्चक्षमाचैवआर्जवंप्रियवादिता ।।6.21.14।।\nअसामर्थ्यंफल्नात्येतेनिर्गुणेषुसतांगुणाः ।",
+      "transliteration": "",
+      "translation": "\"Why is it that the ocean does not show up to me? Indeed, calmness, forbearance, straightforwardness, politeness of speech are all attributes of virtuous qualities and one without these attributes are considered incapable.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-21-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "आत्मप्रशंसिनंदृष्टंधृष्टंविपरिथावकम् ।\nसर्वत्रोत्सृष्टदण्डंचलोकस्सत्कुरुतेनरम् ।।6.21.15।।",
+      "transliteration": "",
+      "translation": "\"Indeed, the world treats one with respect, who praises himself, as an impudent one, an unchaste one and one who goes about with a rod of punishment (not the one who is virtuous).\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-21-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "नसाम्नाशक्यतेकीर्तिर्नसाम्नाशक्यतेयशः ।\nप्राप्तुंलक्ष्मण लोकेऽस्मिन् ञ्जयोवारणमूर्धनि ।।6.21.16।।",
+      "transliteration": "",
+      "translation": "\"O Lakshmana Neither fame nor popularity can win a battle front in this world.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-21-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "अद्यमद्बाणनिर्भग्नैर्मकरैर्मकरानिलयम् ।\nनिरुद्धतोयंसौमित्रेप्लवभदिःपश्यसर्वतः ।।6.21.17।।",
+      "transliteration": "",
+      "translation": "\"Saumithri Witness the crocodiles shattered by my ruthless arrows jumping and floating in the ocean with water splashed on all sides.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-21-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "महाभोगानिमत्स्यानांकरिणांचकराह ।\nभोगिनांपश्यनागानांमयाछिन्नानिलक्ष्मण ।।6.21.18।।",
+      "transliteration": "",
+      "translation": "\"Lakshmana See here the coils of serpents, huge snakes, fish and large sea elephants cut into pieces by me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-21-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "सशङ्खशुक्तिजालंसमीनमकरंतथा ।\nअद्ययुद्धेनमहतासमुद्रंपरिशोषये ।।6.21.19।।",
+      "transliteration": "",
+      "translation": "\"I shall make the ocean dry up with its shells and conchs, fishes and crocodiles in this great combat.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-21-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "क्षमयाहिसमायुक्तंमामयंमकरालयः ।\nअसमर्थंविजानातिधिक् क्षमामीदृशेजने ।।6.21.20।।",
+      "transliteration": "",
+      "translation": "\"By my being tolerant, this ocean treats me to be incapable. Endowed with such qualities of forbearance, I will show the people (ocean).\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-21-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "नदर्शयतिसाम्नामेसागरोरूपमात्मनः ।।6.21.21।।\nचापमानयसौमित्रेशरांश्चाशीविषोपमान् ।\nसागरंशोषयिष्यामिपद् भ्यांयान्तुप्लवङ्गमाः ।।6.21.22।।",
+      "transliteration": "",
+      "translation": "\"The ocean has not shown his own form to me. O Lakshmana Get the bow and venomous snake like arrows, I will dry up the ocean and the Vanaras can walk by foot and go.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-21-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "अद्याक्षोभ्यमपिक्रुद्धःक्षोभयिष्यामिसागरम् ।\nवेलासुकृतमर्यादंसहस्रोर्मिसमाकुलम् ।।6.21.23।।\nनिर्मर्यादंकरिष्यामिसायायिकैर्वरुणालयम् ।\nमहार्णवंक्षोभयिष्येमहादानवसङ्कुलम् ।।6.21.24।।",
+      "transliteration": "",
+      "translation": "\"(The ocean) Having made me angry, now I will torment the ocean even though it is imperturbable and has its limits. I will torment the ocean with its thousands of waves and mighty demons by my arrows and make the ocean cross its boundary.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-21-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "एवमुक्त्वाधनुष्पाणिःक्रोधविस्फारितेक्षणः ।\nबभूवरामोदुर्धर्षोयुगान्तानगिरिवज्वलन् ।।6.21.25।।",
+      "transliteration": "",
+      "translation": "Having spoken like that, Rama with his flaming red eyes seemed like the flame at the end of the universe and unassailable.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-21-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "सम्पीड्यचधनुर्घोरंकम्पयित्वाशरैर्जगत् ।\nमुमोचविशिखानुग्रान्वज्रानिवशतक्रतुः ।।6.21.26।।",
+      "transliteration": "",
+      "translation": "Bending the terrific bow, he released frightful arrows like Indra (who released thunderbolts) who performed a hundred sacrifices.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-21-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तेज्वलन्तोमहावेगास्तेजसासायकोत्तमाः ।\nप्रविशन्तिसमुद्रस्यसलिलंत्रस्तपन्नगम् ।।6.21.27।।",
+      "transliteration": "",
+      "translation": "Glowing in brilliance like flame, the arrows of the best among the arrows pierced like snakes into the water of the ocean.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-21-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तोयवेगस्समुद्रस्यसनक्रमकरोमहान् ।\nसम्बभूवमहाघोरस्समारुतरवस्तदा ।।6.21.28।।",
+      "transliteration": "",
+      "translation": "Then the ocean seemed terrible with the fish and crocodiles rushing out with the speed of water and powerful wind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-21-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "महोर्मिकुलाविततश्शङ्खजालसमावृतः ।\nसधूमःपरिवृत्तोर्मिस्सहसासीन्महोदधिः ।।6.21.29।।",
+      "transliteration": "",
+      "translation": "With the movement of the sea water filled with the conchs and shells suddenly terrific smoke whirling round and rising played around.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-21-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "व्यथिताःपन्नगाश्चासदनीप्तास्यादीप्तलोचनाः ।\nदानवाश्चमहावीर्याःपाताळतलवासिनः ।।6.21.30।।",
+      "transliteration": "",
+      "translation": "Those snakes with blazing hoods and glowing eyes residing in the underworld and the demons became oppressed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-21-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "ऊर्मयस्सिन्धुराजस्यसनक्रमकरास्तथा ।\nविन्द्यमन्दरसङ्काशास्समुत्पेतुस्सहस्रशः ।।6.21.31।।",
+      "transliteration": "",
+      "translation": "Thousands of waves of the ocean rose like the peaks of Vindhya and Mandara mountains.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-21-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "आघूर्णिततरङ्गौघस्सम्भ्रान्तोरगराक्षसः ।\nउद्वर्तितमहाग्राहस्संवृत्तस्सलिलाशयः ।।6.21.32।।",
+      "transliteration": "",
+      "translation": "The waves rose up tossing and whirling about. The agitated Nagas and Rakshasas were thrown up by a highly disturbed ocean that produced a great sound.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-21-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "ततस्तुतंराघवमुग्रवेगंप्रकर्षमाणंधनुरप्रमेयम् ।\nसौमित्रिरुत्पत्यसमुच्छवसन्तंमामेतिचोक्त्वादनुराललम्बे ।।6.21.33।।",
+      "transliteration": "",
+      "translation": "Then Saumithri got up and rushed very fast to Rama who was stretching his bow exceedingly and breathing hard in anger and said, 'no more, no more' and seized the bow. ।।इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेएकविंशस्सर्गः ।। This is the end of the twenty first sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

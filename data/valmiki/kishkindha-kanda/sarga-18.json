@@ -1,0 +1,576 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 18,
+    "title": "Rama explains to Vali the righteous duties of kings -- justifies his action in killing him -- Vali pleads with Rama to protect Angada",
+    "titleSanskrit": "",
+    "totalShlokas": 62
+  },
+  "shlokas": [
+    {
+      "id": "v4-18-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "इत्युक्तः प्रश्रितं वाक्यं धर्मार्थसहितं हितम्।\nपरुषं वालिना रामो निहतेन विचेतसा4.18.1।।",
+      "transliteration": "",
+      "translation": "To these harsh words though seemingly wellmeaning, courteous and righteous, Vali who had been mortally wounded and confused in mind, Rama replied:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तं निष्प्रभमिवादित्यं मुक्ततोयमिवाम्बुदम्।\nउक्तवाक्यं हरिश्रेष्ठमुपशान्तमिवानलम्4.18.2।।\nधर्मार्थगुणसम्पन्नं हरीश्वरमनुत्तमम्।\nअधिक्षिप्तस्तदा रामः पश्चाद्वालिनमब्रवीत्4.18.3।।",
+      "transliteration": "",
+      "translation": "To righteous Vali,the best of the monkeys, the lord of the monkeys, who looked like the Sun shorn of his brilliance or a raindrained cloud or a fire that had been extinguished. Rama, under the scanner, said in reply:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "धर्ममर्थं च कामं च समयं चापि लौकिकम्।\nअविज्ञाय कथं बाल्यान्मामिहाद्य विगर्हसे4.18.4।।",
+      "transliteration": "",
+      "translation": "'Without correct knowledge of dharma, artha, kama and worldly ways, how do you reproach me bitterly now in total ignorance?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "अपृष्ट्वा बुद्धिसम्पन्नान्वृद्धानाचार्यसम्मतान्।\nसौम्य वानरचापल्यात्किं मावक्तुमिहेच्छसि4.18.5।।",
+      "transliteration": "",
+      "translation": "'O gentle Vali why do you speak with monkeyish frivolousness, without consulting the elders and teachers endowed with intelligence?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "इक्ष्वाकूणामियं भूमिस्सशैलवनकानना।\nमृगपक्षिमनुष्याणां निग्रहप्रग्रहावपि4.18.6।।",
+      "transliteration": "",
+      "translation": "'This earth including mountains, groves and forests, animals, birds and humans belongs to the Ikshvaku kings.The right of purnishment and reward also vests with them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तां पालयति धर्मात्मा भरतस्सत्यवागृजुः।\nधर्मकामार्थतत्त्वज्ञो निग्रहानुग्रहे रतः4.18.7।।",
+      "transliteration": "",
+      "translation": "'Bharata, righteous, truthful, upright, knower of dharma, artha and kama and dispenser of punishment and rewards, rules this earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "नयश्च विनयश्चोभौ यस्मिन्सत्यं च सुस्थितम्।\nविक्रमश्च यथा दृष्टस्स राजा देशकालवित्4.18.8।।",
+      "transliteration": "",
+      "translation": "'Bharata in whom justice and discipline, truth and courage along with the knowledge of time and place for action are firmly rooted is king (of this earth).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तस्य धर्मकृतादेशा वयमन्ये च पार्थिवाः।\nचरामो वसुधां कृत्स्नां धर्मसन्तानमिच्छवः4.18.9।।",
+      "transliteration": "",
+      "translation": "'Following his command, in confirmity with dharma we and the other kings also move all over the  entire world desirous of promoting dharma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तस्मिन्नृपतिशार्दूले भरते धर्मवत्सले।\nपालयत्यखिलां भूमिं कश्चरेद्धर्मनिग्रहम्4.18.10।।",
+      "transliteration": "",
+      "translation": "'Who can stray from the path of dharma when the whole world is ruled by Bharata, a tiger among kings, and a lover of dharma?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "ते वयं धर्मविभ्रष्टं स्वधर्मे परमे स्थिताः।\nभरताज्ञां पुरस्कृत्य निगृह्णीमो यथाविधि4.18.11।।",
+      "transliteration": "",
+      "translation": "'By the command of Bharata ,all of us are devoted to our duty of upholding dharma and virtue and duly punish those who deviate from the path of dharma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "त्वं तु संक्लिष्टधर्मा च कर्मणा च विगर्हितः।\nकामतन्त्रप्रधानश्च न स्थितो राजवर्त्मनि4.18.12।।",
+      "transliteration": "",
+      "translation": "'You have violated dharma. You stand condemned for your actions. Passion is your priority. You have strayed from the right path of kings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "ज्येष्ठो भ्राता पिता चैव यश्च विद्यां प्रयच्छति।\nत्रयस्ते पितरो ज्ञेया धर्म्ये च पथि वर्तिनः4.18.13।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "यवीयानात्मनः पुत्रशशिष्यश्चापि गुणोदितः।\nपुत्रवत्ते त्रयश्चिन्त्या धर्मश्चेदत्रकारणम्4.18.14।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "सूक्ष्मः परमदुरजेयस्सतां धर्मः प्लवङ्गम।\nहृदिस्थस्सर्वभूतानामात्मा वेद शुभाशुभम्4.18.15।।",
+      "transliteration": "",
+      "translation": "'O monkey dharma is very subtle. It is extremely difficult to understand. Installed in the hearts of all living beings the self knows good and evil (soul is the witness of good and evil).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "चपलश्चपलैस्सार्धं वानरैरकृतात्मभिः।\nजात्यन्ध इव जात्यन्धैर्मन्त्रयन् प्रेक्षसे नु किम्4.18.16।।",
+      "transliteration": "",
+      "translation": "'You are fickle by nature. Your consultants are frivolous, pettyminded monkeys. It is like one born blind suppporting another blind by birth. What do you know (about dharma)?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अहं तु व्यक्ततामस्य वचनस्य ब्रवीमि ते।\nन हि मां केवलं रोषात्त्वं विगर्हितुमर्हसि4.18.17।।",
+      "transliteration": "",
+      "translation": "'I shall explain to you clearly (the reason for striking you down). It is not proper for you to despise me with mere anger and malice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तदेतत्कारणं पश्य यदर्थं त्वं मया हतः।\nभ्रातुर्वर्तसि भार्यायां त्यक्त्वा धर्मं सनातनम्4.18.18।।",
+      "transliteration": "",
+      "translation": "'Now know the reason why I struck you down. Having abandoned the eternal  law, you are living with your younger brother's wife.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अस्य त्वं धरमाणस्य सुग्रीवस्य महात्मनः।\nरुमायां वर्तसे कामात्स्नुषायां पापकर्मकृत्4.18.19।।",
+      "transliteration": "",
+      "translation": "'You are a sinner, since you live with Ruma, who is your virtual daughterinlaw, when the great self Sugriva is alive. (A younger brother is like a son and his wife, a  daughterinlaw).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तद्व्यतीतस्य ते धर्मात्कामवृत्तस्य वानर।\nभ्रातृभार्यावमर्शेऽस्मिन्दण्डोऽयं प्रतिपादितः4.18.20।।",
+      "transliteration": "",
+      "translation": "'O monkey since you have violated morality by sinning against your brother's wife this punishment is justified.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "न हि धर्मविरुद्धस्य लोकवृत्तादपेयुषः।\nदण्डादन्यत्र पश्यामि निग्रहं हरियूथप4.18.21।",
+      "transliteration": "",
+      "translation": "'O lord of monkeys I do not see any other way of controlling a person excepting punishing the one who has acted against dharma and swerved from the accepted code of conduct.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "न हि ते मर्षये पापं क्षत्रियोऽहं कुलोद्भवः।\nऔरसीं भगिनीं वापि भार्यां वाप्यनुजस्य यः4.18.22।।\nप्रचरेत नरः कामात्तस्य दण्डो वधः स्मृतः।",
+      "transliteration": "",
+      "translation": "'I am a kshatriya born of a good family. I will not pardon you for your sin. Whosoever transgresses dharma against his own daughter, sister or brother's wife out of lust should be killed according to smriti.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "भरतस्तु महीपालो वयं त्वादेशवर्तिनः4.18.23।।\nत्वं तु धर्मादतिक्रान्तः कथं शक्यं उपेक्षितुम्।",
+      "transliteration": "",
+      "translation": "'Bharata is a king and we follow his command. How can you, who have strayed from dharma, go unpunished?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "गुरूर्धर्मव्यतिक्रान्तं प्राज्ञो धर्मेण पालयन्4.18.24।।\nभरतः कामवृत्तानां निग्रहे पर्यवस्थितः।",
+      "transliteration": "",
+      "translation": "'Wise Bharata being a respectable king rules by dharma. By the command of Bharata, we are bent upon punishing those who have strayed from dharma  by being addicted to sensual pleasures.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "वयं तु भरतादेश विधिं कृत्वा हरीश्वर।\nत्वद्विधान्भिन्नमर्यादान्नियन्तुपर्यवस्थिताः4.18.25।।",
+      "transliteration": "",
+      "translation": "'O Vali we have to follow Bharata's command and are bent upon punishing those wicked people who deviate from the bounds of dharma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "सुग्रीवेण च मे सख्यं लक्ष्मणेन यथा तथा।\nदारराज्यनिमित्तं च निःश्रेयसि रत स्स मे4.18.26।।\nप्रतिज्ञा च मया दत्ता तदा वानरसन्निधौ।\nप्रतिज्ञा च कथं शक्या मद्विधेनानवेक्षितुम्4.18.27।।",
+      "transliteration": "",
+      "translation": "'My friendship with Sugriva is as strong as that with Lakshmana. Its motive is the recovery of his wife and sovereignty. I have  promised this to him in the presence of monkeys. How can a pledge remain unhonoured by a person like me? How is it possible?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "तदेभिः कारणैस्सर्वैर्महद्भिर्धर्मसंहितैः4.18.28।।\nशासनं तप यद्युक्तं तद्भवाननुमन्यताम्।",
+      "transliteration": "",
+      "translation": "'Knowing all these reasons(many violations of dharma), it is proper for you as a king to approve of the punishment accorded to you in consonance with dharma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "सर्वथा धर्म इत्येव द्रष्टव्यस्तव निग्रहः4.18.29।।\nवयस्यस्योपकर्तव्यं धर्ममेवानुपश्यतः।",
+      "transliteration": "",
+      "translation": "'Punishment given to you should be viewed as a right course of action in all respects. This is the duty of a trustworthy friend who follows dharma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "शक्यं त्वयाऽपि तत्कार्यं धर्ममेवानुपश्यता4.18.30।।\nश्रूयते मनुना गीतौ श्लोकौ चारित्रवत्सलौ।\nगृहीतौ धर्मकुशलैस्तत्तथा चरितं हरे4.18.31।।",
+      "transliteration": "",
+      "translation": "'You should also have acted in that manner considering dharma. Now listen to what Manu said, in two verses that hold good traditions dear which are accepted by men wellversed in dharma. O monkey the action taken by me is in conformity with this.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "राजभिर्धृतदण्डास्तु कृत्वा पापानि मानवाः।\nनिर्मलास्स्वर्गमायान्ति सन्तस्सुकृतिनो यथा4.18.32।।",
+      "transliteration": "",
+      "translation": "'Men who have perpetrated sins should be subjected to punishment by kings so that they become stainless and attain heaven like pious men who have performed good deeds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "शासनाद्वाऽपिमोक्षाद्वा स्तेनः स्तेयाद्विमुच्यते।\nराजात्वशासन्पापस्य तदवाप्नोति किल्बिषम्4.18.33।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "आर्येण मम मान्धात्रा व्यसनं घोरमीप्सितम्।\nश्रमणेन कृते पापे यथा पापं कृतं त्वया4.18.34।।",
+      "transliteration": "",
+      "translation": "'In the past a similar sin was perpetrated by Sramana, a revered soul (mendicant) and Mandhata, a noble king of my race inflicted terrible punishment on him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "अन्यैरपि कृतं पापं प्रमत्तैर्वसुधाधिपैः।\nप्रायश्चित्तं च कुर्वन्ति तेन तच्छाम्यते रजः4.18.35।।",
+      "transliteration": "",
+      "translation": "'Vicious deeds have been committed by others when the kings were not watchful. Kings punish such sinners when they are vigilant. Otherwise they have to atone for their negligence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "तदलं परितापेन धर्मतः परिकल्पितः।\nवधो वा��रशार्दूल न वयं स्ववशे स्थिता:।।4.18.36।।",
+      "transliteration": "",
+      "translation": "'O tiger among monkeys do not regret. Your death has the sanction of dharma. We are under the control of sastras. We are committed to them. We do not have the freedom to act independently.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "शृणु चाप्यपरं भूयः कारणं हरिपुङ्गव।\nयच्छ्रुत्वा हेतुमद्वीर न मन्युं कर्तुमर्हसि4.18.37।।",
+      "transliteration": "",
+      "translation": "'O hero O best of monkeys listen to me. I will give you one more reason. On hearing it, I hope you would not be angry with me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "न मे तत्र मनस्तापो न मन्युर्हरिपुङ्गव।\nवागुराभिश्च पाशैश्च कूटैश्च विविधैर्नराः4.18.38।।\nप्रतिच्छन्नाश्च दृश्याश्च गृह्णन्ति सुबहून्मृगान्।",
+      "transliteration": "",
+      "translation": "'O best of monkeys I have no mental agony nor do I regret in this case. Hidden from  view or out in the open, people catch animals by means of snares or ropes or through other tricks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "प्रधावितान्वा वित्रस्तान्विस्रब्धांश्चापि निष्ठितान्4.18.39।।\nप्रमत्तानप्रमत्तान्वा नरा मांसार्थिनो भृशम्।\nविध्यन्ति विमुखांश्चापि न च दोषोऽत्र विद्यते4.18.40।।",
+      "transliteration": "",
+      "translation": "'People seeking animal flesh for food kill animals alarmed or unalarmed, animals that run away or animals that stand still. They kill animals whether they are alert or not and no blemish is attached.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "यान्ति राजर्षयश्चात्र मृगयां धर्मकोविदाः।\nतस्मात्त्वं निहतो युद्धे मया बाणेन वानर4.18.41।।\nअयुध्यन्प्रतियुध्यन्वा यस्माच्छाखामृगो ह्यसि।",
+      "transliteration": "",
+      "translation": "'O monkey even royal saints wellversed in dharma go for hunting. I struck you down with an arrow whether you were fighting with Sugriva or not, since you are a monkey. (You can be hit whether you are fighting face to face or not).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "दुर्लभस्य च धर्मस्य जीवितस्य शुभस्य च4.18.42।।\nराजानो वानरश्रेष्ठ प्रदातारो न संशयः।",
+      "transliteration": "",
+      "translation": "'O best of monkeys kings are donors of dharma, life and auspiciousness to people which is difficult to acquire. There is no doubt about it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "तान्न हिंस्यान्न चाक्रोशेन्नाक्षिपेन्नाप्रियं वदेत्4.18.43।।\nदेवा मानुषरूपेण चरन्त्येते महीतले।",
+      "transliteration": "",
+      "translation": "'One should not insult kings, nor shout at them, nor disregard them nor speak unpleasant words to them. They are gods in human form moving on this earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "त्वं तु धर्ममविज्ञाय केवलं रोषमास्थितः4.18.44।।\nप्रदूषयसि मां धर्मे पितृपैतामहे स्थितम्।",
+      "transliteration": "",
+      "translation": "'Seized with improper anger, you are reproaching one who is devoted to dharma, without knowing that I follow the code of conduct that has been passed on by my fathers and forefathers.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु रामेण वाली प्रव्यथितो भृशम्4.18.45।।\nन दोषं राघवे दध्यौ धर्मेऽधिगतनिश्चयः।",
+      "transliteration": "",
+      "translation": "Vali was very much pained to hear Rama. He became free from confusion regarding dharma and no longer found fault with Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "प्रत्युवाच ततो रामं प्राञ्जलिर्वानरेश्वरः।।4.18.46।।\nयत्त्वमात्थ नरश्रेष्ठ तदेवं नात्र संशयः।",
+      "transliteration": "",
+      "translation": "Thereafter Vali offered obeisance with folded palms to Rama, saying, 'O best among men whatever you have spoken is undoubtedly true.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "प्रतिवक्तुं प्रकृष्टे हि नापकृष्टस्तु शक्नुयात्4.18.47।।\nयदयुक्तं मया पूर्वं प्रमादाद्वाक्यमप्रियम्।\nतत्रापि खलु मे दोषं कर्तुं नार्हसि राघव।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "तदयुक्तं मया पूर्वं प्रमादादुक्तमप्रियम् । \nतत्रापि खलु मे दोषं कर्तुं नार्हसि राघव ।। 4.18.48 ।।",
+      "transliteration": "",
+      "translation": "In Progress",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "त्वं हि दृष्टार्थतत्त्वज्ञ: प्रजानां च हिते रतः।\nकार्यकारणसिद्धौ च प्रसन्ना बुद्धिरव्यया4.18.49।।",
+      "transliteration": "",
+      "translation": "'You are a wise man given to truth and righteousness.You remain devoted to people's wellbeing. As you know for certain about cause and effect your intellect is sound and words pleasant.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "मामप्यगतधर्माणं व्यतिक्रान्तपुरस्कृतम्।\nधर्मसंहितया वाचा धर्मज्ञ परिपालय4.18.50।।",
+      "transliteration": "",
+      "translation": "'O knower of dharma, I did not follow dharma in the past. I have trangressed the bounds of dharma. Say, you have pardoned me, protect me in a righteous manner.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "न त्वात्मानमहं शोचे न तारां न च बान्धवान्।\nयथा पुत्रं गुणज्येष्ठमङ्गदं कनकाङ्गदम् 4.18.51।।",
+      "transliteration": "",
+      "translation": "'I neither grieve for myself nor for Tara nor for my kinsmen. But I do for my son Angada adorned with golden armlets. He is embellished with all virtues.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "स ममादर्शनाद्दीनो बाल्यात्प्रभृति लालितः।\nतटाक इव पीताम्बुरुपशोषं गमिष्यति4.18.52।।",
+      "transliteration": "",
+      "translation": "'I loved him very much from his childhood. He will grow depressed in my absence. He will become like a pond whose waters have been dried up.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "बालश्चाकृतबुद्धिश्च एकपुत्रश्च मे प्रियः।\nतारेयो राम भवता रक्षणीयो महाबलः4.18.53।।",
+      "transliteration": "",
+      "translation": "'O Rama he is my only son through Tara and dear to me. He is young,innocent but strong.He  deserves to be protected by you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "सुग्रीवे चाङ्गदे चैव विधत्स्व मतिम���त्तमाम्।\nत्वं हि शास्ता च गोप्ता च कार्याकार्यविधौ स्थितः4.18.54।।",
+      "transliteration": "",
+      "translation": "'Shower equal affection from your heart on Sugriva and Angada. You are their protector and punisher also. You know what should and should not be done.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "या ते नरपते वृत्तिर्भरते लक्ष्मणे च या।\nसुग्रीवे चाङ्गदे राजंस्तां त्वमाधातुमिहासि4.18.55।।",
+      "transliteration": "",
+      "translation": "'O lord of men may you have the same kind of affection for Sugriva and Angada as you have for Bharata and Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "मद्दोषकृतदोषां तां यथा तारां तपस्विनीम्।\nसुग्रीवो नावमन्येत तथाऽवस्थातुमर्हसि4.18.56।।",
+      "transliteration": "",
+      "translation": "'I hope Tara will not be made to suffer because of my offence. Make Sugriva not to run wretched Tara down.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "त्वया ह्यनुगृहीतेन राज्यं शक्यमुपासितुम्4.18.57।।\nत्वद्वशे वर्तमानेन तव चित्तानुवर्तिना।\nशक्यं दिवं चार्जयितुं वसुधां चापि शासितुम्4.18.58।।",
+      "transliteration": "",
+      "translation": "'It is possible for a person favoured by you to rule the kingdom.It is possible for one who is under your control and acts according to your will to rule the entire world and earn heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-54",
+      "number": 54,
+      "type": "shloka",
+      "original": "त्वत्तोऽहं वधमाकाङ्क्षन्वार्यमाणोऽपि तारया।\nसुग्रीवेण सह भ्रात्रा द्वन्द्वयुद्धमुपागतः4.18.59।।\nइत्युक्त्वा सन्नतो रामं विरराम हरीश्वरः।",
+      "transliteration": "",
+      "translation": "'Even though I was prevented by Tara, I came for a duel with Sugriva since I wished to die in your hands.' Having spoken thus to Rama, Vali fell silent.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-55",
+      "number": 55,
+      "type": "shloka",
+      "original": "स तमाश्वासयद्रामो वालिनं व्यक्तदर्शनम्4.18.60।।\nसामसम्पन्नया वाचा धर्मतत्त्वार्थयुक्तया।",
+      "transliteration": "",
+      "translation": "Now Vali was able to see clearly. Rama consoled him with words of peace and tranquillity, truth and righteousness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-56",
+      "number": 56,
+      "type": "shloka",
+      "original": "न सन्तापस्त्वया कार्य एतदर्थं प्लवङ्गम4.18.61।।\nन वयं भवता चिन्त्या नाप्यात्मा हरिसत्तम।\nवयं भवद्विशेषेण धर्मतः कृतनिश्चयाः4.18.62।।",
+      "transliteration": "",
+      "translation": "'O best of monkeys, abandon all your anxiety on this score. Bother not about us or about yourself. Whatever has happened, has happened in consonance with dharma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-57",
+      "number": 57,
+      "type": "shloka",
+      "original": "दण्ड्ये यः पातयेद्दण्डं दण्ड्यो यश्चापि दण्ड्यते।\nकार्यकारणसिद्धार्था वुभौ तौ नावसीदतः4.18.63।।",
+      "transliteration": "",
+      "translation": "'The sinner and the punisher, whoever gives punishment and whoever receives it, are both regulated by the law of cause and effect. So do not despair.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-58",
+      "number": 58,
+      "type": "shloka",
+      "original": "तद्भवान्दण्डसंयोगादस्माद्विगतकल्मषः।\nगतस्स्वां प्रकृतिं धर्म्यं धर्मदृष्टेन वर्त्मना4.18.64।।",
+      "transliteration": "",
+      "translation": "'You have been purged of your sin through punishment from the point of view of righteousness. You have regained your spiritual nature on the path of dharma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-59",
+      "number": 59,
+      "type": "shloka",
+      "original": "त्यज शोकं च मोहं च भयं च हृदये स्थितम्।\nत्वया विधानं हर्यग्र्य न शक्यमतिवर्तितुम्4.18.65।।",
+      "transliteration": "",
+      "translation": "'O best of monkeys remove sorrow from your heart, delusion and fear. It is not possible for you to transgress fate.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-60",
+      "number": 60,
+      "type": "shloka",
+      "original": "यथा त्वय्यङ्गदो नित्यं वर्तते वानरेश्वर।\nतथा वर्तेत सुग्रीवे मयि चापि न संशयः4.18.66।।",
+      "transliteration": "",
+      "translation": "'O lord of monkeys Angada will remain with Sugriva and with me as he used to live with you. Rest assured.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-61",
+      "number": 61,
+      "type": "shloka",
+      "original": "स तस्य वाक्यं मधुरं महात्मन\nस्समाहितं धर्मपथानुवर्तिनः।\nनिशम्य रामस्य रणावमर्दिनो\nवचस्सुयुक्तं निजगाद वानरः4.18.67।।",
+      "transliteration": "",
+      "translation": "Having listened to the sweet, wellcomposed words of great Rama, a crusher of the enemy in war ,follower of righteous path, Vali replied in appropriate manner:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-18-62",
+      "number": 62,
+      "type": "shloka",
+      "original": "शराभितप्तेन विचेतसा मया\nप्रदूषितस्त्वं यदजानता प्रभो।\nइदं महेन्द्रोपम भीमविक्रम\nप्रसादितस्त्वं क्षम मे नरेश्वर4.18.68।।",
+      "transliteration": "",
+      "translation": "'Pray, O mighty prince, hero of immense valour, pardon me for the words of blame I unwittingly hurled at you. I said all that in excruciating pain caused by your mighty arrow and in confusion of what is right and what is wrong.' इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे अष्टादशस्सर्गः।। Thus ends the eighteenth sarga of Kishkindakanda of the Holy Ramayana, the first epic, composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

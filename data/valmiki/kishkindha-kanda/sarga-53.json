@@ -1,0 +1,333 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 53,
+    "title": "Svayamprabha helps the monkeys to reach out of the cave -- Angada regrets for exceeding the time limit -- proposes fasting unto death fearing punishment -- the monkeys decide to end their life rather than return without Sita.",
+    "titleSanskrit": "",
+    "totalShlokas": 35
+  },
+  "shlokas": [
+    {
+      "id": "v4-53-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "एवमुक्तश्शुभं वाक्यं तापस्या धर्मसंहितम्।\nउवाच हनुमान्वाक्यं तामनिन्दितचेष्टिताम्।।4.53.1।।",
+      "transliteration": "",
+      "translation": "To the auspicious words of the righteous, blameless hermitess Hanuman replied:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "शरणं त्वां प्रपन्ना स्म सर्वे वै धर्मचारिणीं।\nयः कृतस्समयोऽस्माकं सुग्रीवेण महात्मना।।4.53.2।।\nस च कालो ह्यतिक्रान्तो बिले च परिवर्तताम्।",
+      "transliteration": "",
+      "translation": "'You are a righteous lady. You have given us refuge. Now in moving about the cave we have exceeded the time limit given by Sugriva.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "सा त्वमस्माद्बिलाद्घोरादुत्तारयितुमर्हसि।।4.53.3।।\nतस्मात्सुग्रीववचनादतिक्रान्तान्गतायुषः।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "त्रातुमर्हसि नस्सर्वान्सुग्रीवभयकर्शितान्।।4.53.4।।\nमहच्चकार्यमस्माभिः कर्तव्यं धर्मचारिणि।\nतच्चापि न कृतं कार्यमस्माभिरिह वासिभिः।।4.53.5।।",
+      "transliteration": "",
+      "translation": "'O righteous lady we have a great task waiting. We are afraid of Sugriva as we could not accomplish our objective by staying here. Save us.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "एवमुक्ता हनुमता तापसी वाक्यमब्रवीत्।\nजीवता दुष्करं मन्ये प्रविष्टेन निवर्तितुम्।।4.53.6।।",
+      "transliteration": "",
+      "translation": "To the words of Hanuman the ascetic replied, 'I consider it difficult for any one who enters here to go back alive.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तपसस्तु प्रभावेन नियमोपार्जितेन च।\nसर्वानेव बिलादस्मादुद्धरिष्यामि वानरान्।।4.53.7।।",
+      "transliteration": "",
+      "translation": "'I will help all monkeys out of this cave by virtue of my power of asceticism duly practised.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "निमीलयत चक्षूंषि सर्वे वानरपुङ्गवाः।\nन हि निष्क्रमितुं शक्यमनिमीलितलोचनैः।।4.53.8।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "ततस्सम्मीलितास्सर्वे सुकुमाराङ्गुलैः करैः।\nसहसाऽपिदधुर्दृष्टिं हृष्टा गमनकाङ्क्षया।।4.53.9।।",
+      "transliteration": "",
+      "translation": "Happy at the prospect of getting out (of the cave) they all not only closed their eyes but also covered them with their delicate fingers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "वानरास्तु महात्मानो हस्तरुद्धमुखास्तदा।\nनिमेषान्तरमात्रेण बिलादुत्तारितास्तया।।4.53.10।।",
+      "transliteration": "",
+      "translation": "Then the great monkeys, faces covered with their hands, emerged from the cave in a moment.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "ततस्तान्वानरान्सर्वांस्तापसी धर्मचारिणी।\nनिस्सृतान्विषमात्तस्मात्समाश्वास्येदमब्रवीत्।।4.53.11।।",
+      "transliteration": "",
+      "translation": "The righteous hermitess released all the monkeys out of that difficult situation and said these words of consolation:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "एष विन्ध्यो गिरिश्श्रीमान्नानाद्रुमलताकुलः।\nएष प्रस्रवणश्शैलस्सागरोऽयं महोदधिः।।4.53.12।।\nस्वस्ति वोऽस्तु गमिष्यामि भवनं वानरर्षभाः।\nइत्युक्त्वा तद्बिलं श्रीमत्प्रविवेश स्वयम्प्रभा।।4.53.13।।",
+      "transliteration": "",
+      "translation": "'This Vindhya mountain has a rich collection of trees and bushes. This is Prasravana hill and this is the great ocean.O monkeys. Good luck to you. (Now) I am going back home'. Having said so, Svayamprabha entered the splendid cave.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "ततस्ते ददृशुर्घोरं सागरं वरुणालयम्।\nअपारमभिगर्जन्तं घोरैरूर्मिभिरावृतम्।।4.53.14।।",
+      "transliteration": "",
+      "translation": "Then the monkeys saw the boundless, dreary ocean roaring wild with its terrific waves spread all over.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "मयस्य मायाविहितं गिरिदुर्गं विचिन्वताम्।\nतेषां मासो व्यतिक्रान्तो यो राज्ञा समयः कृतः।।4.53.15।।",
+      "transliteration": "",
+      "translation": "While they were ransacking the impassable mountain created with the magical powers of Maya, the time limit of one month set by the king was over.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "विन्ध्यस्य तु गिरेः पादे सम्प्रपुष्पितपादपे।\nउपविश्य महाभागाश्चिन्तामापेदिरे तदा।।4.53.16।।",
+      "transliteration": "",
+      "translation": "Then the highsoul monkeys reached the hill adjacent to Vindhya mountain on which trees were in full bloom.They sat there, lost in thought.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "ततः पुष्पातिभाराग्रान् लताशतसमावृतान्।\nद्रुमान्वासन्तिकान्दृष्टवा बभूवुर्भयशङ्किताः।।4.53.17।।",
+      "transliteration": "",
+      "translation": "Alarmed at the thought (of transgression of time limit), the monkeys kept looking at the tree tops entwined with a hundred oreepers heavily loaded with the flowers of spring.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "ते वसन्तमनुप्राप्तं प्रतिबुद्ध्वा परस्परम्।\nनष्टसन्देशकालार्था निपेतुर्धरणीतले।।4.53.18।।",
+      "transliteration": "",
+      "translation": "Having realised (looking at the flowers) that spring has set in and they have exceeded the time limit, they all fell down on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "ततस्तान्कपिवृद्धांस्तु शिष्टांश्चैव वनौकसः।\nवाचा मधुरयाऽभाष्य यथावदनुमान्य च।।4.53.19।।\nस तु सिंहवृषस्कन्धः पीनायतभुजः कपिः।\nयुवराजो महाप्राज्ञः अङ्गदो वाक्यमब्रवीत्।।4.53.20।।",
+      "transliteration": "",
+      "translation": "Coming to a conclusion after due deliberation Angada, heir apparent, profoundly wise, endowed with sturdy and broad shoulders like those of a lion or a bull, spoke in a sweet voice to the elderly, respectable monkeys, dwellers of the forest:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "शासनात्कपिराजस्य वयं सर्वे विनिर्गताः।\nमासः पूर्णो बिलस्थानां हरयः किं न बुद्ध्यते।।4.53.21।।",
+      "transliteration": "",
+      "translation": "'O monkeys don't you realize that all of us have come here at the command of the monkey king, and while we were in the cave a whole month has gone by?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "वयमाश्वयुजे मासि कालसङ्ख्याव्यवस्थिताः।\nप्रस्थितास्सोऽपि चातीतः किमतः कार्यमुत्तरम्।।4.53.22।।",
+      "transliteration": "",
+      "translation": "'We started our journey in the month of Ashvayuja with a certain time limit. That has exceeded. What is the future course of action?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "भवन्तः प्रत्ययं प्राप्ताः नीतिमार्गविशारदाः।\nहितेष्वभिरता भर्तुर्निसृष्टास्सर्वकर्मसु।।4.53.23।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "कर्मस्वप्रतिमास्सर्वे दिक्षु विश्रुतपौरुषाः।\nमां पुरस्कृत्य निर्याताः पिङ्गाक्षप्रतिचोदिताः।।4.53.24।।",
+      "transliteration": "",
+      "translation": "'You are all celebrated for bravery and incomparable in your activities. You have followed me in obedience to the orders of the tawnyeyed Sugriva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "इदानीमकृतार्थानां मर्तव्यं नात्र संशयः।\nहरिराजस्य सन्देशमकृत्वा कस्सुखी भवेत्।।4.53.25।।",
+      "transliteration": "",
+      "translation": "'We should be killed since we have failed to achieve the objective (of finding Sita). There is no doubt about it. Who can live in peace without executing the orders of the king?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तस्मिन्नतीते काले तु सुग्रीवेण कृते स्वयम्।\nप्रायोपवेशनं युक्तं सर्वेषां च वनौकसाम्।।4.53.26।।",
+      "transliteration": "",
+      "translation": "'Now that the time limit fixed by Sugriva has expired, the right thing to do for the monkeys is to fast unto death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "तीक्ष्णः प्रकृत्या सुग्रीवस्स्वामिभावे व्यवस्थितः।\nन क्षमिष्यति नस्सर्वानपराधकृतो गतान्।।4.53.27।।",
+      "transliteration": "",
+      "translation": "'By nature Sugriva is harsh, and being a king now, he will not forgive us who are real offenders and have not done the task assigned.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "अप्रवृत्तौ च सीतायाः पापमेव करिष्यति।\nतस्मात् क्षममिहाद्यैव गन्तुं प्रायोपवेशनम् हि नः।।4.53.28।।\nत्यक्त्वा पुत्रांश्च दारांश्च धनानि च गृहाणि च।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "धृवं नो हिंसिता राजा सर्वान्प्रतिगतानितः।।4.53.29।।\nवधेनाप्रतिरूपेण श्रेयान्मृत्युरिहैव नः।",
+      "transliteration": "",
+      "translation": "'Surely the king will torture us by awarding death sentence in a singular manner when we go back. It is better for us to meet death here itself.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "न चाहं यौवराज्येन सुग्रीवेणाभिषेचितः।।4.53.30।।\nनरेन्द्रेणाभिषिक्तोऽस्मि रामेणाक्लिष्टकर्मणा।",
+      "transliteration": "",
+      "translation": "'I was not installed as heir apparent by Sugriva. I was made crowned prince by king Rama, the king of the people who never hurts others.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "स पूर्वं बद्धवैरो मां राजा दृष्ट्वा व्यतिक्रमम्।।4.53.31।।\nघातयिष्यति दण्डेन तीक्ष्णेन कृतनिश्चयः।",
+      "transliteration": "",
+      "translation": "'The Monkeyking nursed bitter enmity against me even earlier. Now seeing my lapse, he will decidedly inflict severe punishment on me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "किं मे सुहृदभिर्व्यसनं पश्यद्भिर्जीवितान्तरे।।4.53.32।।\nइहैव प्रायमासिष्ये पुण्ये सागररोधसि।",
+      "transliteration": "",
+      "translation": "'I do not want my friends to see my calamity, my death. I shall sit here on the sacred shores of this ocean and await my death'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "एतच्छ्रुत्वा कुमारेण युवराजेन भाषितम्।।4.53.33।।\nसर्वे ते वानरश्रेष्ठाः करुणं वाक्यमब्रुवन्।",
+      "transliteration": "",
+      "translation": "Hearing the young heir apparent thus speaking, the best of the monkeys kindly responded:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "तीक्ष्णः प्रकृत्या सुग्रीवः प्रियासक्तश्च राघवः।।4.53.34।।\nअदृष्टायां तु वैदेह्यां दृष्ट्वाऽस्मांश्त समागतान्।\nराघवप्रियकामार्थं घातयिष्यत्यसंशयम्।।4.53.35।।",
+      "transliteration": "",
+      "translation": "'By nature Sugriva is harsh. Rama is devoted to his wife. Therefore, if Sugriva sees that we have not found Vaidehi and have returned (without fulfilling the mission) he will award death sentence to us in order to please Rama.There is no doubt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "न क्षमं चापराद्धानां गमनं स्वामिपार्श्वतः।\nइहैव सीतामन्विष्य प्रवृत्तिमुपलभ्य वा।।4.53.36।।\nनो चेद्गच्छाम तं वीरं गमिष्यामो यमक्षयम्।",
+      "transliteration": "",
+      "translation": "'Those who have failed in their mission, being offenders should not go to meet the king. Offenders are not forgiven. Here itself we will search for Sita and if we are able to know her whereabouts we will go back. Or else we will go to the abode of Yama'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "प्लवङ्गमानां तु भयार्दितानां\nश्रुत्वा वचस्तार इदं बभाषे।\nअलं विषादेन बिलं प्रविश्य\nवसाम सर्वे यदि रोचते वः।।4.53.37।।",
+      "transliteration": "",
+      "translation": "'On hearing the words of the frightened monkeys, Tara said, 'Enough of this sorrow. If it pleases you, we will all go to the cave and reside there' ''",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "इदं हि मायाविहितं सुदुर्गमं\nप्रभूतवृक्षोदकभोज्यपेयकम्।\nइहास्ति नो नैव भयं पुरन्दरा\nन्न राघवाद्वानरराजतोऽपि वा।।4.53.38।।",
+      "transliteration": "",
+      "translation": "'This cave built by magic is inaccessible. It has a number of trees, water, eatables and drinks. (If we live here) we need not be afraid of even Indra, the breaker of enemy citadels or even of Rama or also of the king of monkeys'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-53-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "श्रुत्वाऽङ्गदस्यापि वचोऽनुकूल\nमूचुश्च सर्वे हरयः प्रतीताः।\nयथा न हिंस्येम तथा विधान\nमसक्तमद्यैव विधीयतां नः।।4.53.39।।",
+      "transliteration": "",
+      "translation": "All the monkeys agreed to the favourable suggestion of Tara which was acceptable to Angada. 'A plan may be made in such a way by which we will not be killed by the king. Our strategy should be delinked from the conditions laid down by the king. Let us not face punishment' said the monkeys. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे त्रिपञ्चाशस्सर्गः।। Thus ends the fiftythird sarga in Kishkindakanda of the first epic, the Holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

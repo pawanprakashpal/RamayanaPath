@@ -1,0 +1,558 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 93,
+    "title": "Ravana laments over Indrajith's death, departs to kill Sita. Suparsva prevents Ravana from the dastardly action.",
+    "titleSanskrit": "",
+    "totalShlokas": 60
+  },
+  "shlokas": [
+    {
+      "id": "v6-93-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततःपौलस्त्यसचिवा्श्रुत्वाचेन्द्रजितोवधम् ।\nआचचक्षुरभिज्ञायदशग्रीवायसव्यथा: ।।6.93.1।।",
+      "transliteration": "",
+      "translation": "Then, having known about the distressing fall of Indrajith, the ministers of Ravana reported to the tenheaded Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "युद्धेहतोमहाराजलक्ष्मणेनतवात्मजः ।\nविभीषणसहायेनमिषतांनोमहाद्युतिः ।।6.93.2।।",
+      "transliteration": "",
+      "translation": "\"O King! Your glorious son was killed by Lakshmana with the assistance of Vibheeshana, as we were witnessing.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "शूरंशूरेणसम्गम्यसम्युगेष्वपराजितः ।\nलक्ष्मणेनहतश्शूरःपुत्रस्तेमहेन्द्रजित् ।।6.93.3।।\nगतस्सपरमान्लोकान्शरैस्सन्ताप्यलक्ष्मणम् ।",
+      "transliteration": "",
+      "translation": "\"Your son who has never been defeated in war, who won Indra, the ruler of gods, after fighting and fighting was killed by Lakshmana's arrows. He has ascended to the higher world.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "स तंप्रतिभयंश्रुत्वावधंपुत्रस्यदारुणम् ।।6.93.4।।\nघोरमिन्द्रजितःसङ्ख्येकश्मलंप्राविशन्महत् ।",
+      "transliteration": "",
+      "translation": "On hearing about the enumeration of his son Indrajith's dreadful, frightening and ghastly end, Ravana gave way to swoon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "उपलभ्यचिरात्संज्ञां राजाराक्षसपुङ्गव ।।6.93.5।।\nपुत्रशोकाकुलोदीनोविललापाकुलेन्द्रियः ।",
+      "transliteration": "",
+      "translation": "Coming to senses after a long time, the Rakshasa king Ravana, dejected with sorrow of his son's death, lost senses, lamented.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "हाराक्षसचमूमुख्यममवत्समहाबल ।।6.93.6।।\nजित्वेन्द्रंकथमद्यत्वंलक्ष्मणस्यवशंगतः ।",
+      "transliteration": "",
+      "translation": "'My son who was a chief of the Rakshasa army, a mighty one, who has won even Indra, how has he become a victim of Lakshmana'?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "ननुत्वमिषुभिःक्रुद्धोभिन्द्याःकालान्तकावपि ।।6.93.7।।\nमन्दरस्यापिशृङ्गाणिकिंपुनर्लक्ष्मणंयुधि ।",
+      "transliteration": "",
+      "translation": "'When angry, you could pierce with arrows even the time spirit or peak of Mandara mountain, why to speak of Lakshmana again'?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "अद्यवैनस्वतोराजाभूयोबहुमतोमम ।।6.93.8।।\nयेनाद्यत्वंमहाबाहो संयुक्तःकालधर्मणा ।",
+      "transliteration": "",
+      "translation": "'O mighty armed! Today by virtue of time you have joined Yama and become esteemed King'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "एषपन्थाःसुयोधानांसर्वामरगणेष्वपि ।।6.93.9।।\nयःकृतेहन्यतेभर्तुस्सपुमान्स्वर्गमृच्छति ।",
+      "transliteration": "",
+      "translation": "'Killed in war for the cause of the king and treading the path of noble warriors, one attains the heaven. Even for a human it is desirable'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अद्यदेवगणास्सर्वेलोकपालामहर्षयः ।।6.93.10।।\nहतमिन्द्रजितंदृष्टवासुखंस्वप्स्यन्तिनिर्भयाः ।",
+      "transliteration": "",
+      "translation": "'Today, seeing Indrajith killed, Devatas in heaven, guardians of the worlds, great sages would be fearless and be happy and comfortable'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "अद्यलोकास्त्रय: कृत्स्नापृथिवी च सकानना ।।6.93.11।।\nएकेनेन्द्रजिताहीनाशून्येवप्रतिभातिमे ।",
+      "transliteration": "",
+      "translation": "Today without Indrajith alone the three worlds (earth, heaven, and underworld) including forests are desolate, dark, and lustreless to me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अद्यनैरृतकन्यानांश्रोष्याम्यन्तःपुरेरवम् ।।6.93.12।।\nकरेणुसङ्घस्ययथानिनादंगिरिगह्वरे ।",
+      "transliteration": "",
+      "translation": "'Today in the gynaecium we will hear the cries of Rakshasa maidens like the roaring of elephants in the cave'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "यौवराज्यं च लङ्कां च रक्षांसि च परन्तप ।।6.93.13।।\nमातरंमां च भार्याश्चक्वगतोऽसिविहायनः ।",
+      "transliteration": "",
+      "translation": "'O Scourge of enemies! You have left giving up prince regent, Rakshasas, from Lanka, your mother, me, and your wife also. And went. Why'?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "ममनामत्वयावीरगतस्ययमसादनम् ।।6.93.14।।\nप्रेतकार्याणिकार्याणिविपरीतेहिवर्तसे ।",
+      "transliteration": "",
+      "translation": "'O hero! My obsequies should have been done by you. It is peculiar that I have to perform'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "स त्वंजीवतिसुग्रीवेलक्ष्मणेन च राघवे ।।6.93.15।।\nममशल्यमनुद्धृत्यक्वगतोऽसिविहायनः ।",
+      "transliteration": "",
+      "translation": "'While Sugriva is living, Lakshmana and Raghava also, deserting me, you have gone. Where have you gone'?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "एवमादिविलापार्तंरावणंराक्षसाधिपम् ।।6.93.16।।\nआविवेशमहान् कोपःपुत्रव्यसनसम्भवः ।",
+      "transliteration": "",
+      "translation": "Distressed Ravana was lamenting in this way on account of his son deserting, as anger had taken over him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "प्रकृत्याकोपनंह्येनंपुत्रस्यपुनराधयः ।।6.93.17।।\nदीप्तंसन्दीपयामासुर्घर्मेऽर्कमिवरश्मयः ।",
+      "transliteration": "",
+      "translation": "By nature, he is angry. Now with the loss of his son, he was glowing like the Sun that shines brighter by the rays in summer.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "ललाटेभ्रुकुटीभिश्चसङ्गताभिर्व्यरोचत ।।6.93.18।।\nयुगान्तेसहनक्रैस्तुमहोर्मिभिरिवोदधिः ।",
+      "transliteration": "",
+      "translation": "Ravana's eyebrows contracted on his forehead, he shone like the waves in the great ocean with crocodiles at the time of dissolution of the universe.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "कोपाद्विजृम्भमाणस्यवक्त्राद्व्यक्तमिवज्वलन् ।।6.93.19।।\nउत्पपातसधूमानगिर्वृत्रस्यवदनादिव ।",
+      "transliteration": "",
+      "translation": "As Ravana yawned in anger, fire with smoke burst forth from his mouth like Vrtra'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "स पुत्रवधसन्तप्तश्शूरःक्रोधवशंगतः ।।6.93.20।।\nसमीक्ष्यरावणोबुद्ध्यावैदेह्यारोचयद्वधम् ।",
+      "transliteration": "",
+      "translation": "Pondering over the death of his asura son, Ravana was overtaken by fury, and reviwed thinking about the destruction of Vaidehi.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तस्यप्रकृत्यारक्ते च रक्तेक्रोथानगिनापि च ।।6.93.21।।\nरावणस्यमहाघोरेदीप्तेनेत्रेबभूवतुः ।",
+      "transliteration": "",
+      "translation": "By nature, Ravana's eyes are red, through the fire of anger it was even more red glowing and very dreadful.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "घोरंप्रकृत्यारूपंतत्तस्यक्रोधाग्निमूर्छितम् ।।6.93.22।।\nबभूवरूपंक्रुद्धस्यरुद्रस्येवदुरासदम् ।",
+      "transliteration": "",
+      "translation": "His eyes are naturally dreadful, deluded with fire of anger his form was like Rudra's and threatening.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तस्यक्रुद्धस्यनेत्राभ्यांप्रापतन्नाश्रृबिन्दवः ।।6.93.23।।\nदीपाभ्यामिवदीप्ताभ्यांसार्चिषस्स्नेहबिन्दवः ।",
+      "transliteration": "",
+      "translation": "Just as drops of oil drop from flaming lamps, tears dropped from his enraged flaming eyes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "दन्तावनिदशतस्तस्यश्रूयतेदशनस्वनः ।।6.93.24।।\nयन्त्रस्यावेष्ट्यमाणस्य महतो दानवैरिव ।",
+      "transliteration": "",
+      "translation": "When he was biting on his teeth (enraged), the sound from his teeth resembled the sound of a grinder revolved round by Danavas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "कालानगिरिवसङ्क्रुद्धोयांयांदिशमवैक्षत ।।6.93.25।।\nतस्यांतस्यांभयत्रस्ताराक्षसास्सन्विलियलिरे ।",
+      "transliteration": "",
+      "translation": "Fearing Ravana who was enraged like the time of universal destruction, the Rakshasashid themselves in the very quarter he was looking.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "तमन्तकमिवक्रुद्धंचराचरचिखादिषुम् ।।6.93.26।।\nवीक्षमाणंदिशस्सर्वाराक्षसानोपचक्रमुः ।",
+      "transliteration": "",
+      "translation": "The Rakshasas could not go near Ravana who was moving in anger in all directions like the moving and unmoving creations move when chased by the god of death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "ततःपरमसङ्क्रु���्धोरावणोराक्षसाधिपः ।।6.93.27।।\nअब्रवीद्रक्षसांमध्येसंस्तम्भयिषुराहवे ।",
+      "transliteration": "",
+      "translation": "To provoke Rakshasas for battle, an angry Ravana, the king of Rakshasas, spoke as follows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "मयावर्षसहस्राणिचरित्वापरमंतपः ।।6.93.28।।\nतेषुतेष्ववकाशेषुस्वयम्भूःपरितोषितः ।",
+      "transliteration": "",
+      "translation": "'I have done penance for thousands of years several times and am a pleased selfborn creator'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "तस्यैवतपसोव्युष्ट्याप्रसादाच्छस्वयम्भुवः ।।6.93.29।।\nनासुरेभ्यो न देवेभ्योभयंममकदाचन ।",
+      "transliteration": "",
+      "translation": "'By the power of the penancedone by me once, creator Brahma has given me reward, pleased with my penance. I have no fear of Asuras or Devas'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "कवचंब्रह्मदत्तंमेयदादित्यसमप्रभम् ।।6.93.30।।\nदेवासुरविमर्धेषु न भिन्नंवज्रमुष्टिभिः ।",
+      "transliteration": "",
+      "translation": "'I was given a shield by Brahma, effulgent like the Sun which the Devas or Danavas could not break with their thunderbolt fists'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "तेनमामद्यसम्युक्तंरथस्थमिहसम्युगे ।।6.93.31।।\nप्रतीयात्कोऽद्यमामाजौसाक्षादपिपुरन्दरः ।",
+      "transliteration": "",
+      "translation": "'Today if I, with that shield mounted the chariot go for battle, who can dare to withstand me openly? Even Indra can't'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "त्तदातिप्रसन्नेनसशरंकार्मुकंमहत् ।।6.93.32।।\nदेवासुरविमर्धेषुममदत्तंस्वयम्भुवा ।\nअद्यतूर्यशतैर्भीमंधनुरुत्थाप्यतांमम ।।6.93.33।।\nरामलक्ष्मणयोरेववधायपरमाहवे ।",
+      "transliteration": "",
+      "translation": "'Let that supreme bow and the great arrows bestowed to me, by Brahma the creator who was pleased, when I fought in battle between Devas and Asuras, be brought to destroy Rama and Lakshmana today accompanied by hundreds of trumpets.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "स पुत्रवधसन्तप्तःक्रूरःक्रोधवशंगतः ।।6.93.34।।\nसमीक्ष्यरावणोबुद्ध्यासीतांहन्तुंव्यवस्यत ।",
+      "transliteration": "",
+      "translation": "Feeling very sad about the death of his son, cruel Ravana overpowered by anger went thinking to destroy Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "प्रत्यवेक्ष्यताम्राक्षस्सुघोरोघोरदर्शनः ।।6.93.35।।\nदीनोदीनस्वरान्सर्वांस्तानुवाचनिशाचरान् ।",
+      "transliteration": "",
+      "translation": "Redeyed Ravana, looking dreadful with a frightening face, desperate, spoke in a low voice to all Rakshasas as follows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "माययाममवत्सेनवञ्चनार्थंवनौकसाम् ।।6.93.36।।\nकिञ्चिदेवहतंतत्रसीतेयमितिदर्शितम् ।",
+      "transliteration": "",
+      "translation": "'My son showed the Vanaras there something which had been killed there to hoodwink as Sita.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "तदिदंतथ्यमेवाहंकरिष्येप्रियमात्मनः ।।6.93.37।।\nवैदेहींनाशयिष्यामिक्षत्रबन्धुमनुव्रताम् ।\nइत्येवमुक्त्वासचिवान्खङ्गमाशुपरामृशत् ।।6.93.38।।",
+      "transliteration": "",
+      "translation": "\"I myself will rejoice now in the same way (as Indarjith had done for cheating) making it true. I will destroy that lowly kshatriya, Rama's very dear Vaidehi\". Having spoken like that to the ministers he took up the sword.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "उत्प्लुत्यगुणसम्पन्नंविमलाम्बरवर्चसम् ।\nनिष्पपात स वेगेनसभार्यःसचिवैर्वृतः ।।6.93.39।।\nरावणःपुत्रशोकेनभृशमाकुलचेतनः ।\nसङ्क्रुद्धःखडगमादायसहसायत्रमैथिली ।।6.93.40।।",
+      "transliteration": "",
+      "translation": "In a totally confused state on account of the death of his son, he went to Mythili taking the excellent sword, which was shining resembling pure sky, feeling enraged, accompanied by his wife, and surrounded by the ministers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "व्रजन्तंराक्षसंप्रेक्ष्यसिंहनादंविचक्रुशुः ।\nऊचुश्चान्योन्यमालिङ्ग्यसङ्क्रुद्धंप्रेक्ष्यराक्षसम् ।।6.93.41।।",
+      "transliteration": "",
+      "translation": "( As Ravana marched) the Rakshasas in the abode roared like a lion seeing enraged Ravana and embraced each other (thinking of Ravana's victory) and spoke to one another.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "अद्यैनंतावुभौदृष्टवाभ्रातरौप्रव्यधिष्यतः ।\nलोकपालाहिचत्वारःक्रुद्धेनानेनतर्जिताः ।।6.93.42।।\nबहवःशत्रवश्चान्येसम्युगेष्वभिपातिताः ।",
+      "transliteration": "",
+      "translation": "\"Seeing Ravana, the two brothers will tremble. By Ravana's fury all the four rulers of the world (Indra, Yama, Varuna, Kubera), would have disappeared. He has struck down many other enemies in wars.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "त्रिषुलोकेषुरत्नानिभुङक्तेचाहृत्यरावणः ।।6.93.43।।\nविक्रमे च बलेचैवनास्त्यस्यसदृशोभुवि ।",
+      "transliteration": "",
+      "translation": "\"Ravana has collected gems from the three worlds as tax. There is none equal to him in might and prowess in this world.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "तेषांसञ्जल्पमानामशोकवनिकांगताम् ।।6.93.44।।\nअभिदुद्राववैदेहींरावणःक्रोधमूर्छितः ।",
+      "transliteration": "",
+      "translation": "As the Rakshasas were talking in that manner, Ravana, deluded with anger, went fast to Vaidehi in Ashoka grove.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "वार्यमाणःसुसङ्क्रुद्धःसुहृद्भिर्हितबुद्धिभिः ।।6.93.45।।\nअभ्यधावतसङ्क्रुद्धःखेग्रहोरोहिणीमिव ।",
+      "transliteration": "",
+      "translation": "Highly enraged Ravana, darted just as planet Mars rushed to Rohini in the sky, even while his wellwishers were obstructing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "मैथिलीरक्ष्यमाणातुराक्षसीरनिन्दिता ।।6.93.46।।\nददर्शराक्षसंक्रुद्धंनिस्त्रिंशवरधारिणम् ।\nतंनिशाम्यसविस्त्रिंशंव्यथिताजनकात्मजा ।।6.93.47।।\nनिवार्यमाणंबहुशःसुहृद्भिरनिवर्तिनम् ।",
+      "transliteration": "",
+      "translation": "While irreproachable Mythili was being guarded by rakshasi women, she saw him bearing an excellent sword and crossing. When he was repeatedly stopped by friends and obstructed, he was not receding and reaching Janaka's daughter.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "सीतादुःखसमाविष्टाविलपन्तीदमब्रवीत् ।।6.93.48।।\nयथायंमामभिक्रुद्धःसमभिद्रवतिस्वयम् ।\nवधिष्यतिसनाथांमामनाथामिवदुर्मतिः ।।6.93.49।।",
+      "transliteration": "",
+      "translation": "Thus spoke Sita filled with sorrow crying,\" This evil minded angry one is coming to me to kill me as though I am an orphan even though I have a protector.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "बहुशश्चोदयामासभर्तारंमामनुव्रताम् ।\nभार्याभवरमस्वेतिप्रत्याख्यातोध्रुवंमया ।।6.93.50।।\nसोऽयंमामनुपस्थानेव्यक्तंनैराश्यमागतः ।\nक्रोधमोहसमाविष्टोनिहन्तुंमांसमुद्यतः ।।6.93.51।।",
+      "transliteration": "",
+      "translation": "'I who am devoted to my husband and this Ravana wanted me to revel with him. He has been entreated by me several times. Surely, he, having been rejected by me is dejected, filled with anger and infatuation, intends to kill me, is evident'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "अथवातौनरव्याघ्रौभ्रातरौरामलक्ष्मणौ ।\nमन्निमित्तमनार्येणसमरेऽद्यनिपातितौ ।।6.93.52।।",
+      "transliteration": "",
+      "translation": "'Or else, have the two brothers Rama and Lakshmana fallen to unworthy Ravana on my account'?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "भैरवोहिमहान्नादोराक्षसानांश्रुतोमया ।\nबहूनामिहहृष्टानांतथाविक्रोशतांप्रियम् ।।6.93.53।।",
+      "transliteration": "",
+      "translation": "Many Rakshasas rejoiced, calling out their loved ones loudly, making huge noise, were heard.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "अहोधिङ्मन्निमित्तोऽयंविनाशोराजपुत्रयोः ।\nअथवापुत्रशोकेनअहत्यारामलक्ष्मणौ ।।6.93.54।।\nविधमिष्यतिमांरौद्रोराक्षसःपापनिश्चयः ।",
+      "transliteration": "",
+      "translation": "Wow! Has the destruction of the two brothers brought about on account of the grief of the death of his son or on my account? Not able to kill Rama and Lakshmana, has this fierce Rakshasa who does not hesitate, resolved to kill me?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "हनूमतस्तुतद्वाक्यं न कृतंक्षुद्रयामया ।।6.93.55।।\nयद्यहंतस्यपृष्ठेवतदायासमनिर्जिता ।\nनाद्यै���मनुशोचेयंभर्तुरङ्कगतासती ।।6.93.56।।",
+      "transliteration": "",
+      "translation": "'I am a foolish woman. I did not follow Hanuman's advice and had I left mounted on his back, no doubt I would be on my husband 's lap. I did not think in this way'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "मन्येतुहृदयंतस्याःकौसल्यायाःफलिष्यति ।\nएकपुत्रायदापुत्रंविनष्टंश्रोष्यतेयुधि ।।6.93.57।।",
+      "transliteration": "",
+      "translation": "'Kausalya will think her only son has been killed in the battle. I think her heart would break'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "साहिजन्म च बाल्यं च यौवनं च महात्मनः ।\nधर्मकार्याणिरूपं च रुदतीसंस्मरिष्यति ।।6.93.58।।",
+      "transliteration": "",
+      "translation": "'She will be crying and keep remembering his birth, childhood, youth, and his rightful actions, and his charm'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "निराशानिहतेपुत्रेदत्त्वाश्राद्धमचेतना ।\nअग्निमावेक्ष्यतेनूनमापोवापिप्रवेक्ष्यति ।।6.93.59।।",
+      "transliteration": "",
+      "translation": "'Son killed, Kausalya will be disappointed, lost sentience will be offering obsequies, surely and enter fire or water and drown'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "धिगस्तुकुब्जामसतींमन्थरांपापनिश्चयाम् ।\nयन्निमित्तमिमंशोकंकौसल्याप्रतिपत्स्यते ।।6.93.60।।",
+      "transliteration": "",
+      "translation": "'Because of the sinful resolve of hunch back Mandara, this grief has come to Kausalya surely. Let her be burnt'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-54",
+      "number": 54,
+      "type": "shloka",
+      "original": "इत्येवंमैथिलींदृष्टवाविलपन्तींतपस्विनीम् ।\nरोहिणीमिवचन्द्रेणविनाग्रहवशंगताम् ।।6.93.61।।\nएतस्मिन्नन्तरेतस्यअमात्यःशीलवान् शुचिः ।\nसुपार्श्वोनाममेधावीरावणंरक्षसेश्वरम् ।।6.93.62।।\nनिवार्यमाणःसचिवैरिदंवचनमब्रवीत् ।",
+      "transliteration": "",
+      "translation": "Seeing Mythili in this manner grieving, just as Rohini fell under the sway of the Mars planet in the absence of the moon, being away from her husband, Suparsva, an upright minister of Ravana who was pure and wise spoke these words of advice to the Lord of Rakshasas in spite of other ministers trying to stop him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-55",
+      "number": 55,
+      "type": "shloka",
+      "original": "कथंनामदशग्रीव साक्षद्वैश्रवणानुज ।।6.93.63।।\nहन्तुमिच्छसिवैदेहींक्रोधाद्��र्ममपास्य च ।",
+      "transliteration": "",
+      "translation": "\"You being the direct brother of Kubera (one of the guardians of the world), ten head Lord desires to seek Vaidehi in fury and kill her casting righteousness?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-56",
+      "number": 56,
+      "type": "shloka",
+      "original": "वेदविद्याव्रतस्नातःस्वकर्मनिरतस्तथा ।।6.93.64।।\nस्त्रियःकस्माद्वधंवीरमन्यसेराक्षसेश्वर ।",
+      "transliteration": "",
+      "translation": "\"O Hero! Lord of Rakshasas! You made a vow of celibacy essential for Vedic study, so also engaged in your obligatory duties. Do you think of killing a woman?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-57",
+      "number": 57,
+      "type": "shloka",
+      "original": "मैथिलींरूपसम्पन्नांप्रत्यवेक्षस्वपार्थिव ।।6.93.65।।\nतस्मिन्नेवसहास्माभिराहेवक्रोधमुत्सृज ।",
+      "transliteration": "",
+      "translation": "\"O King! Mythili is endowed with charm. Your anger may be exhibited on Rama in battle (not Sita)'.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-58",
+      "number": 58,
+      "type": "shloka",
+      "original": "अभ्युत्थानंत्वमद्यैवकृष्णपक्षचतुर्धशीम् ।।6.93.66।।\nकृत्वानिर्याह्यमावास्यांविजयायबलैर्वृतः ।",
+      "transliteration": "",
+      "translation": "\"Today being the fourteenth day of the dark fortnight, start on the next day that is the fifteenth dark day surrounded by the army and win.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-59",
+      "number": 59,
+      "type": "shloka",
+      "original": "शूरःधीमान् रथीखडगीरथप्रवमास्थितः ।।6.93.67।।\nहत्वादाशरथिंरामंभवान् प्राप्स्यसिमैथिलीम् ।",
+      "transliteration": "",
+      "translation": "\"Shrewd carwarrior, you are wise. Seated in the foremost chariot with your sword, kill Dasharatha's son and attain Sita.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-93-60",
+      "number": 60,
+      "type": "shloka",
+      "original": "स तद्दुरात्मासुहृदानिवेदितंवचःसुधर्म्यंप्रतिगृह्यरावणः ।\nगृहंजगामथततश्चवीर्यवान् पुनःसभां च प्रययौसुहृद्वृतः ।।6.93.68।।",
+      "transliteration": "",
+      "translation": "Accepting the righteous words of advice tendered by his friend, evil minded Ravana again went home and started to go to the council. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेत्रिनवतितमस्सर्गः ।। This is the end of the ninety third sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

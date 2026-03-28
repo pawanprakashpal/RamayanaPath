@@ -1,0 +1,396 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 16,
+    "title": "Lakshmana's description of nature at Panchavati to Rama -- Rama's reflections on  Bharata's virtues.",
+    "titleSanskrit": "",
+    "totalShlokas": 42
+  },
+  "shlokas": [
+    {
+      "id": "v3-16-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "वसतस्तस्य तु सुखं राघवस्य महात्मनः।\nशरद्व्यपाये हेमन्तऋतुरिष्टः प्रवर्तत।।3.16.1।।",
+      "transliteration": "",
+      "translation": "While the great self Rama  lived happily there, autumn passed and dear winter set in.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "स कदाचित्प्रभातायां शर्वर्यां रघुनन्दनः।\nप्रययावभिषेकार्थं रम्यां गोदावरीं नदीम्।।3.16.2।।",
+      "transliteration": "",
+      "translation": "Once Rama, delight of the Raghu race, went to the beautiful river Godavari for ablution in the early hours of the morning.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "प्रह्वः कलशहस्तस्तं सीतया सह वीर्यवान्।\nपृष्ठतोऽनुव्रजन्भ्राता सौमित्रिरिदमब्रवीत्।।3.16.3।।",
+      "transliteration": "",
+      "translation": "While valiant Lakshmana, walking behind Sita who was carrying a pitcher in her hand bent down a little and told Rama thus:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "अयं स कालः सम्प्राप्तः प्रियो यस्ते प्रियंवद।\nअलङ्कृत इवाभाति येन संवत्सरः शुभः।।3.16.4।।",
+      "transliteration": "",
+      "translation": "O sweetspeaking brother, the season which is dear to you has arrived. It appears the auspicious year is going to be embellished with this season.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "नीहारपरुषो लोकः पृथिवी सस्यशालिनी।\nजलान्यनुपभोग्यानि सुभगो हव्यवाहनः।।3.16.5।।",
+      "transliteration": "",
+      "translation": "People feel frozen with fog, and water is no more enjoyable. The earth is full of crops and fire is so agreeable.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "नवाग्रयणपूजाभिरभ्यर्च्य पितृदेवताः।\nकृताग्रयणकाः काले सन्तो विगतकल्मषाः।।3.16.6।।",
+      "transliteration": "",
+      "translation": "Pious men offer their libations of the first crop at Agnistoma sacrifice and thereby please their manes and get rid of their sins.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "प्राज्यकामा जनपदास्सम्पन्नतरगोरसाः।\nविचरन्ति महीपाला यात्रास्था विजिगीषवः।।3.16.7।।",
+      "transliteration": "",
+      "translation": "People in the countryside with their desires satisfied obtain abundant cow's milk at this time. Rulers of the earth are out on their expedition with a desire for victory.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "सेवमाने दृढं सूर्ये दिशमन्तक सेविताम्।\nविहीनतिलकेव स्त्री नोत्तरा दिक्प्रकाशते।।3.16.8।।",
+      "transliteration": "",
+      "translation": "As the Sun has resorted to the direction (south) that serves the god of death, the north devoid of (the Sun) shines like a woman without the vermilion mark on the forehead.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "प्रकृत्या हिमकोशाढ्यो दूरसूर्यश्च साम्प्रतम्।\nयथार्थनामा सुव्यक्तं हिमवान्हिमवान्गिरिः।।3.16.9।।",
+      "transliteration": "",
+      "translation": "Presently with the Sun far away, the Himalayas abounding in snow has naturally justified its name.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अत्यन्तसुखसञ्चारा मध्याह्ने स्पर्शतस्सुखाः।\nदिवसास्सु��गादित्याश्चायासलिलदुर्भगाः।।3.16.10।।",
+      "transliteration": "",
+      "translation": "The days are enjoyable at noon as it is pleasant to move about during this time since the sun is not scorching. But the shade and water seem to be unfortunate (as they are not liked by any one.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "मृदुसूर्यास्सनीहाराः पटुशीतास्समारुताः।\nशून्यारण्या हिमध्वस्ता दिवसा भान्तिसाम्प्रतम्।।3.16.11।।",
+      "transliteration": "",
+      "translation": "The days will be frostsmitten. The Sun will also be mild. Due to heavy dewfall the weather will be cold with the blowing of the wind. Forests will be empty (as no animals would be seen moving around.)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "निवृत्ताकाशशयनाः पुष्यनीता हिमारुणाः।\nशीता वृद्धतरायामास्त्रियामा यान्ति साम्प्रतम्।।3.16.12।।",
+      "transliteration": "",
+      "translation": "At this time people do not sleep under the open sky. With the month of Pushya approaching, nights feel cool and look red due to frost. They prolong into three yamas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "रविसङ्क्रान्तसौभाग्य स्तुषारारुणमण्डलः।\nनिश्श्वासान्ध इवादर्शन्छन्द्रमा न प्रकाशते।।3.16.13।।",
+      "transliteration": "",
+      "translation": "With the radiance of the Sun dimmed, with its orb reddened by frost, the moon does not shine clear like a mirror blurred with breath.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "ज्योत्स्न तुषारमलिना पौर्णमास्यां न राजते।\nसीतेव चातपश्यामा लक्ष्यते न तु शोभते।।3.16.14।।",
+      "transliteration": "",
+      "translation": "On a fullmoon night the beams of the moon faded by forest look pale, dull like Sita scorched by the heat of the Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "प्रकृत्या शीतलस्पर्शो हिमविद्धश्च साम्प्रतम्।\nप्रवाति पश्चिमो वायुः काले द्विगुणशीतलः।।3.16.15।।",
+      "transliteration": "",
+      "translation": "The west wind which by nature feels cold at this time blows doubly cold, hit by snow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "बाष्पच्छन्नान्यरण्यानि यवगोधूमवन्ति च।\nशोभन्तेऽभ्युदिते सूर्ये नद्भि क्रौञ्चसारसैः।।3.16.16।।",
+      "transliteration": "",
+      "translation": "The snowcold forest terrains are fertile with barley and wheat crops. As the Sun rises the swans and kraunchas produce pleasing notes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "खर्जूरपुष्पाकृतिभिश्शिरोभिः पूर��णतण्डुलैः।\nशोभन्ते किञ्चिदानम्राश्शालयः कनकप्रभाः।।3.16.17।।",
+      "transliteration": "",
+      "translation": "The tops of rice crops shining like gold resemble the flowers of datepalm.The fields full of ripe paddy bending a little (under the weight of grains) look delightful.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "मयूखैरुपसर्पद्भिर्हिमनीहारसंवृतैः।\nदूरमभ्युदितस्सूर्यश्शशाङ्क इव लक्ष्यते।।3.16.18।।",
+      "transliteration": "",
+      "translation": "The Sun risen at the distant horizon looks like the Moon, his lengthening rays covered with snow and dew.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "अग्राह्यवीर्यः पूर्वाह्णे मध्याह्ने स्पर्शतस्सुखः।\nसंरक्तः किञ्चिदापाण्डुरातपश्शोभते क्षितौ।।3.16.19।।",
+      "transliteration": "",
+      "translation": "The heat of the Sun which we do not feel in the forenoon is comfortable during midday when the Sun shines slightly reddish white on earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "अवश्यायनिपातेन किञ्चित्प्रक्लिन्नशाद्वला।\nवनानां शोभते भूमिर्निविष्टतरुणातपा।।3.16.20।।",
+      "transliteration": "",
+      "translation": "As the miadows are wet with dewdrops, the land looks delightful with mild Sunlight  shining on the surface.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "स्पृशंस्तु विमलं शीतमुदकं द्विरदस्सुखम्। \nअत्यन्ततृषितो वन्यः प्रतिसंहरते करम्।।3.16.21।।",
+      "transliteration": "",
+      "translation": "The wild tusker, extremely thirsty, touches the clean, cold water joyfully, but immediately withdraws its trunk unable to bear the cold.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "एते हि समुपासीना विहगा जलचारिणः।\nनावगाहन्ति सलिलमप्रगल्भा इवाहवम्।।3.16.22।।",
+      "transliteration": "",
+      "translation": "Just as inefficient warriors do not enter the warfield, aquatic birds sitting near water do not venture to take a plunge into it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "अवश्यायतमोनद्धा नीहारतमसाऽवृताः।\nप्रसुप्ता इव लक्ष्यन्ते विपुष्पा वनराजयः।।3.16.23।।",
+      "transliteration": "",
+      "translation": "The flowerless forest ranges appear as if they are asleep, enveloped in the darkness of frost and  snow .",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "बाष्पसञ्छन्नसलिला रुतविज्ञेयसारसाः।\nहिमार्द्रवालुकैस्तीरैस्सरितो भान्ति साम्प्रतम्।।3.16.24।।",
+      "transliteration": "",
+      "translation": "Now the rivers are not visible as the waters are covered with vapour. They are only inferred through the cackling of swans and the sands of the bank moistened with dewdrops.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तुषारपतनाच्चैव मृदुत्वाद्भास्करस्य च।\nशैत्यादगाग्रस्थमपि प्रायेण रसवज्जलम्।।3.16.25।।",
+      "transliteration": "",
+      "translation": "Due to snowfall, mildness of the Sun, and coldness (of weather) even the water flowing from the mountain top is not generally tasty.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "जराजर्जरितैः पद्मैशशीर्णकेसरकर्णिकैः।\nनालषेर्हिमध्वस्सैर्न भन्ति कमलाकराः।।3.16.26।।",
+      "transliteration": "",
+      "translation": "The lotuses in the tank  no more shine (bright) as they are decayed by age, their filaments and pericarps withered with only stalks remaining.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "अस्मिंस्तु पुरुषव्याघ्रः काले दुःखसमन्वितः।\nतपश्चरति धर्मात्मा त्वद्भक्त्या भरतः पुरे।।3.16.27।।",
+      "transliteration": "",
+      "translation": "At this time, righteous Bharata, the best among men, with his devotion to you must be sadly performing penance at his residence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "त्यक्त्वा राज्यं च मानं च भोगांश्च विविधान्बहून्।\nतपस्स्वी नियताहारश्शेते शीते महीतले।।3.16.28।।",
+      "transliteration": "",
+      "translation": "Giving up his kingdom, honour and pleasures of many kinds, Bharata will be living like an ascetic, sleeping on the ground in cold weather, his food under restriction.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "सोऽपि वेलामिमां नूनमभिषेकार्थमुद्यतः।\nवृतः प्रकृतिभिर्नित्यं प्रयाति सरयूं नदीम्।।3.16.29।।",
+      "transliteration": "",
+      "translation": "At this time, Bharata,  accompanied by his subjects, must be daily going to river Sarayu for ablution.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "अत्यन्तसुखसंवृद्धस्सुकुमारस्सुखोचितः।\nकथं न्वपररात्रेषु सरयूमवगाहते।।3.16.30।।",
+      "transliteration": "",
+      "translation": "How can Bharata who was brought up in luxury, who is delicate, and deserves all comfort, take a dip in river Sarayu (in cold morning) ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "पद्मपत्रेक्षणो वीरश्श्यामो निरुदरो महान्।\nधर्मज्ञ स्सत्यवादी च ह्रीनिषेधो जितेन्द्रियः।।3.16.31।।\nप्रियाभिभाषी मधुरो दीर्घबाहुररिन्दमः।\nसन्त्यज्य वि���िधान्भोगानार्यं सर्वात्मना श्रितः।।3.16.32।।",
+      "transliteration": "",
+      "translation": "He has a blue complexion, a pair of eyes like lotus petals, a thin waist and long arms.  He is selfrestrained, softspoken, sweettempered and truthful. He knows his duty and maintains a low profile. A subduer  of enemies, he is heroic and great. Such Bharata has given up the diverse pleasures of life and has surrendered himself to you with all his soul.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "जितस्स्वर्गस्तव भ्रात्रा भरतेन महात्मना।\nवनस्थमपि तापस्ये यस्त्वामनुविधीयते।।3.16.33।।",
+      "transliteration": "",
+      "translation": "Although you dwell in the forest, your great brother Bharata has won the kingdom of heaven by faithfully adopting your asceticism.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "न पित्र्यमनुवर्तन्ते मातृकं द्विपदा इति।\nख्यातो लोकप्रवादोऽयं भरतेनान्यथा कृतः।।3.16.34।।",
+      "transliteration": "",
+      "translation": "The saying that men follow mother's path but not the path of the father, has been disproved by Bharata.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "भर्ता दशरथो यस्यास्साधुश्च भरतस्सुतः।\nकथं नु साऽम्बा कैकेयी तादृशी क्रूरशीलिनी।।3.16.35।।",
+      "transliteration": "",
+      "translation": "How could mother Kaikeyi, who has a husband like Dasaratha and a noble son like Bharata, be so wicked by nature ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "इत्येवं लक्ष्मणे वाक्यं स्नेहाद्ब्रुवति धार्मिके।\nपरिवादं जनन्यास्तमसहन्राघवोऽब्रवीत्।।3.16.36।।",
+      "transliteration": "",
+      "translation": "When pious Lakshmana said thus to Rama out of his love for him, Rama replied, unable to tolerate the words of censure against mother (Kaikeyi) :",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "स तेऽम्बा मध्यमा तात गर्हितव्या कथञ्चन।\nतामेवेक्ष्वाकुनाथस्य भरतस्य कथां कुरु।।3.16.37।।",
+      "transliteration": "",
+      "translation": "O dear, Kaikeyi, our second mother, is never to be criticised like that. You may, however, speak more of Bharata, the lord of the Iksvakus.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "निश्चिताऽपि हि मे बुद्धिर्वनवासे दृढव्रता।\nभरतस्नेहसन्तप्ता बालिशीक्रियते पुनः।।3.16.38।।",
+      "transliteration": "",
+      "translation": "Even though I have made up my mind to dwell in the forest and keep my vow, my love for Bharata makes me waver like a child (Rama does not want Bharata to suffer on his  account).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "संस्मराम्यस्य वाक्यानि प्रियाणि मधुराणि च।\nहृद्यान्यमृतकल्पानि मनःप्रह्लादनानि च।।3.16.39।।",
+      "transliteration": "",
+      "translation": "I remember his dear, sweet, ambrosial  words, soothing to the heart and pleasing to the mind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "कदान्वहं समेष्यामि भरतेन महात्मना।\nशत्रुघ्नेन च वीरेण त्वया च रघुनन्दन।।3.16.40।।",
+      "transliteration": "",
+      "translation": "O enhancer of joy of the Raghus  when shall I meet great Bharata, brave Satrughna and you all together?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "इत्येवं विलपंस्तत्र प्राप्य गोदावरीं नदीम्।\nचक्रेऽभिषेकं काकुत्स्थस्सानुजस्सह सीतया।।3.16.41।।",
+      "transliteration": "",
+      "translation": "Expressing his grief in such manner, Rama reached Godavari where he took his bath with his brother and Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "तर्पयित्वाऽथ सलिलैस्ते पितृ़न्दैवतानि च।\nस्तुवन्ति स्मोदितं सूर्यं देवताश्च समाहिताः।।3.16.42।।",
+      "transliteration": "",
+      "translation": "And then poised, they offered libations of water to their forefathers and gods and prayer to the rising Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-16-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "कृताभिषेकस्सरराज रामः सीताद्वितीयस्सह लक्ष्मणेन।\nकृताभिषेको गिरिराजपुत्र्या रुद्रस्सनन्दी भगवानिवेशः।।3.16.43।।",
+      "transliteration": "",
+      "translation": "Accompanied by Sita and Lakshmana,Rama finished his bath in the river.He looked splendid like Lord Rudra followed by Nandi and the daughter of the king of  the mountains (Parvati).  इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे षोडशस्सर्गः।। Thus ends the sixteenth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

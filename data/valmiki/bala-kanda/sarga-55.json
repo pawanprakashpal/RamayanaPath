@@ -1,0 +1,252 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 55,
+    "title": "Viswamitra's sons and soldiers get destroyed in the clash--Viswamitra performs austerities and acquires divine weapons by pleasing Lord Siva.",
+    "titleSanskrit": "",
+    "totalShlokas": 26
+  },
+  "shlokas": [
+    {
+      "id": "v1-55-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततस्तानाकुलान् दृष्ट्वा विश्वामित्रास्त्रमोहितान्।\nवसिष्ठश्चोदयामास कामधुक् सृज योगत:।।1.55.1।।",
+      "transliteration": "",
+      "translation": "Thereafter, Vasishta having seen the forces tortured and overpowered by the weapons of Viswamitra said, \"O Kamadhenu create additional forces through your yogic power.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-55-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तस्याहुम्भारवाज्जाता: काम्भोजा रविसन्निभा:।\nऊधसस्त्वथ सञ्जाता: पप्लवाश्शस्त्रपाणय:।।1.55.2।।\nयोनिदेशाच्च यवनाश्शकृद्देशाच्छका स्तथा।\nरोमकूपेषु च म्लेच्छा हारीतास्सकिरातका:।।1.55.3।।",
+      "transliteration": "",
+      "translation": "\"From her lowing Kambhojas bright like the Sun, from the udder Paplavas, weapons in  hand, from the vagina Yavanas, from the anus Sakas, from the roots of the hair Mlecchas along with Kiratas and Haritas were born.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-55-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "तैस्तैर्निषूदितं सर्वं विश्वामित्रस्य तत्क्षणात्।\nसपदातिगजं साश्वं सरथं रघुनन्दन।।1.55.4।।",
+      "transliteration": "",
+      "translation": "O descendant of the Raghus, Viswamitra's army consisting of infantry, elephants, horses, chariots has been entirely destroyed by them instantly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-55-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "दृष्ट्वा निषूदितं सैन्यं वसिष्ठेन महात्मना।\nविश्वामित्रसुतानां च शतं नानाविधायुधम्।।1.55.5।।\nअभ्यधावत्सुसङ्कृद्धं वसिष्ठं जपतां वरम्।\nहुङ्कारेणैव तान् सर्वान् ददाह भगवान् ऋषि:।।1.55.6।।",
+      "transliteration": "",
+      "translation": "Having seen the army destroyed by the powerful Vasishta, one hundred sons of Viswamitra became extremely furious and armed with various kinds of weapons rushed towards Vasishta, the best among ascetics. Adorable sage Vasishta, reduced them to ashes with just a 'humkara' (the loud 'hum' sound produced with the mouth)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-55-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "ते साश्वरथपादाता वसिष्ठेन महात्मना।\nभस्मीकृता मुहूर्तेन विश्वामित्रसुता स्तदा।।1.55.7।।",
+      "transliteration": "",
+      "translation": "Then one hundred sons of Viswamitra together with their horses, chariots and foot soldiers were reduced to ashes in a moment by the powerful Vasishta.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-55-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "दृष्ट्वा विनाशितान् पुत्रान् बलं च सुमहायशा:।\nसव्रीडश्चिन्तयाऽविष्टो विश्वामित्रोऽभवत्तदा।।1.55.8।।",
+      "transliteration": "",
+      "translation": "Seeing his sons and army destroyed the illustrious Viswamitra was filled with shame and anxiety.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-55-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "समुद्र इव निर्वेगो भग्नदंष्ट्र इवोरग:।\nउपरक्त इवादित्यस्सद्यो निष्प्रभतां गत:।।1.55.9।।",
+      "transliteration": "",
+      "translation": "Like the ocean without waves or the snake bereft of fangs or the Sun eclipsed by Rahu, suddenly (Viswamitra) looked cheerless and dull.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-55-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "हतपुत्रबलो दीनो लूनपक्ष इव द्विज:।\nहतदर्पो हतोत्साहो निर्वेदं समपद्यत।।1.55.10।।",
+      "transliteration": "",
+      "translation": "Having lost his sons and the army, like a bird with wings clipped, wretched, with pride vanished and confidence shattered Viswamitra fell into despondency.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-55-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "स पुत्रमेकं राज्याय पालयेति नियुज्य च।\nपृथिवीं क्षत्रधर्मेण वनमेवान्वपद्यत।।1.55.11।।",
+      "transliteration": "",
+      "translation": "Viswamitra, having entrusted one of his remaining sons to rule the kingdom in accordance with the kshatriya tradition reached the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-55-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "स गत्वा हिमवत्पार्श्वं किन्नरोरगसेवितम्।\nमहादेवप्रसादार्थं तपस्तेपे महातपा:।।1.55.12।।",
+      "transliteration": "",
+      "translation": "Mighty ascetic Viswamitra, reached the slopes of the Himavat mountain inhabited by kinnaras and uragas (serpents) and performed  austerities in order to propitiate lord Mahadeva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-55-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "केनचित्त्वथ कालेन देवेशो वृषभध्वज:।\nदर्शयामास वरदो विश्वामित्रं महाबलम्।।1.55.13।।",
+      "transliteration": "",
+      "translation": "After some time, lord of the gods, bestower of boons, Maheswara with the symbol of the bull on the banner  appeared before mighty Viswamitra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-55-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "किमर्थं तप्यसे राजन् ब्रूहि यत्ते विवक्षितम्।\nवरदोऽस्मि वरो यस्ते काङ्क्षितस्सोऽभिधीयताम्।।1.55.14।।",
+      "transliteration": "",
+      "translation": "O King what are you performing the penance for? Tell me what you want? I am bestower of boons. Speak out you desire (said Lord Siva).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-55-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु देवेन विश्वामित्रो महातपा:।\nप्रणिपत्य महादेवमिदं वचनमब्रवीत्।।1.55.15।।",
+      "transliteration": "",
+      "translation": "Having heard this from the god, Viswamitra who performed the great austerities prostrated before Mahadeva and said these words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-55-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "यदि तुष्टो महादेव धनुर्वेदो ममानघ।\nसाङ्गोपाङ्गोपनिषदस्सरहस्य: प्रदीयताम्।।1.55.16।।",
+      "transliteration": "",
+      "translation": "O Irreproachable one O Mahadeva if you are pleased with me, make me an expert in Dhanurveda, the science of archery with all it secrets, angas (branches), upangas (subdivisions) and Upanishads.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-55-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "यानि देवेषु चास्त्राणि दानवेषु महर्षिषु।\nगन्धर्वयक्षरक्षस्सु प्रतिभान्तु ममानघ।।1.55.17।।",
+      "transliteration": "",
+      "translation": "O Irreproachable one whatever weapons are known to devatas, danavas, maharshis, gandharvas, yakshas, rakshasas, be revealed to me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-55-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तव प्रसादाद्भवतु देवदेवममेप्सितम्।\nएवमस्त्विति देवेशो वाक्यमुक्त्वा गतस्तदा।।1.55.18।।",
+      "transliteration": "",
+      "translation": "O Lord of the gods by your favour let my desire be fulfilled. Lord Mahadeva having said: 'Be it so' vanished.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-55-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "प्राप्य चास्त्राणि राजर्षिर्विश्वामित्रो महाबल:।\nदर्पेण महता युक्तो दर्पपूर्णोऽभवत्तदा।।1.55.19।।",
+      "transliteration": "",
+      "translation": "Rajarshi Viswamitra endowed with supreme power became very haughty. Having obtained the weapons, his insolence was greatly accentuated.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-55-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "विवर्धमानो वीर्येण समुद्र इव पर्वणि।\nहतमेव तदा मेने वसिष्ठमृषिसत्तमम्।।1.55.20।।",
+      "transliteration": "",
+      "translation": "Like the sea during the full moon, with his increased power (blessed with the invincible strength of the weapons) Viswamitra thought the foremost of ascetics Vasishta was (already) slain. (It shows the height of the king's ignorance and arrogance).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-55-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "ततो गत्वाऽऽश्रमपदं मुमोचास्त्राणि पार्थिव:।\nयैस्तत्तपोवनं सर्वं निर्दग्धं चास्त्रतेजसा।।1.55.21।।",
+      "transliteration": "",
+      "translation": "Thereafter king Viswamitra having proceeded towards the hermitage (of Vasishta) and released the weapons by the energy of which the entire forest of the ascetics was burnt down.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-55-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "उदीर्यमाणमस्त्रं तद्विश्वामित्रस्य धीमत:।\nदृष्ट्वा विप्रद्रुतास्सर्वे मुनयश्शतशो दिश:।।1.55.22।।",
+      "transliteration": "",
+      "translation": "On seeing the weapons discharged by the intelligent Viswamitra saints in hundreds fled in all directions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-55-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "वसिष्ठस्य च ये शिष्यास्तथैव मृगपक्षिण:।\nविद्रवन्ति भयाद्भीता नानादिग्भ्यस्सहस्रश:।।1.55.23।।",
+      "transliteration": "",
+      "translation": "The disciples of Vasishta as well as animals and birds got terrified by the fear and fled in their thousands in all directions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-55-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "वसिष्ठस्याश्रमपदं शून्यमासीन्महात्मन:।\nमुहूर्तमिव निश्शब्दमासीदिरिणसन्निभम्।।1.55.24।।",
+      "transliteration": "",
+      "translation": "The greatsoul Vasishta's hermitage became deserted and silent in an instant like a barren field.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-55-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "वदतो वै वसिष्ठस्य मा भैरिति मुहुर्मुहु:।\nनाशयाम्यद्य गाधेयं नीहारमिव भास्कर:।।1.55.25।।",
+      "transliteration": "",
+      "translation": "Even while Vasistha was repeatedly  assuring  the saints saying \"Do not fear, I will now  destroy Viswamitra, son of Gadhi just as the Sun dispels the morning mist (they fled)\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-55-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "एवमुक्त्वा महातेजा वसिष्ठो जपतां वर:।\nविश्वामित्रं तदा वाक्यं सरोषमिदमब्रवीत्।।1.55.26।।",
+      "transliteration": "",
+      "translation": "The infuriated Vasishta who was highly brilliant, foremost among those who meditate said to Viswamitra:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-55-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "आश्रमं चिरसम्वृद्धं यद्विनाशितवानसि।\nदुराचारोऽसि तन्मूढ तस्मात्त्वं न भविष्यसि।।1.55.27।।",
+      "transliteration": "",
+      "translation": "\"O Fool this hermitage has been developed over a long time. Why did you destroy it?  On account of your wickedness you will not live long.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-55-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "इत्युक्त्वा परमक्रुद्धो दण्डमुद्यम्य सत्वर:।\nविधूममिव कालाग्निं यमदण्डमिवापरम्।।1.55.28।।",
+      "transliteration": "",
+      "translation": "Exceedingly furious Vasishta quickly lifted up his staff which looked like the staff of Yama (the od of death), like smokeless fire at the time of destruction of the worlds. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे पञ्चपञ्चाशस्सर्ग:।। Thus ends the fiftyfifth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

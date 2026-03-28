@@ -1,0 +1,243 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 20,
+    "title": "Rama kills all the fourteen demons -- Surpanakha describes the killing to Khara.",
+    "titleSanskrit": "",
+    "totalShlokas": 25
+  },
+  "shlokas": [
+    {
+      "id": "v3-20-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततश्शूर्पणखा घोरा राघवाश्रममागता।\nराक्षसानाचचक्षे तौ भ्रातरौ सह सीतया।।3.20.1।।",
+      "transliteration": "",
+      "translation": "The frightful Surpanakha came to the hermitage of Rama and showed both the brothers and Sita to the demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-20-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "ते रामं पर्णशालायामुपविष्टं महाबलम्।\nददृशुस्सीतया सार्धं वैदेह्या लक्ष्मणेन च।3.20.2।।",
+      "transliteration": "",
+      "translation": "They saw mighty Rama together with Vaidehi and Lakshmana sitting in the leafthatched cottage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-20-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "तान्दृष्ट्वा राघवश्श्रीमानागतांस्तां च राक्षसीम्।\nअब्रवीद्भ्रातरं रामो लक्ष्मणं दीप्ततेजसम्।।3.20.3।।",
+      "transliteration": "",
+      "translation": "Seeing the demons along with Surpanakha arrive, said the handsome Rama, scion of the Raghu dynasty to his brother Lakshmana, who was blazing like fire :",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-20-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "मुहूर्तं भव सौमित्रे सीतायाः प्रत्यनन्तरः।\nइमानस्या वधिष्यामि पदवीमागतानिह।।3.20.4।।",
+      "transliteration": "",
+      "translation": "O Lakshmana  stand by Sita for a while. I shall kill these demons who have come here.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-20-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "वाक्यमेतत्ततश्श्रुत्वा रामस्य विदितात्मनः।\nतथेति लक्ष्मणो वाक्यं रामस्य प्रत्यपूजयत्।।3.20.5।।",
+      "transliteration": "",
+      "translation": "Lakshmana heard him and in turn honoured the word of Rama, knower of the self.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-20-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "राघवोऽपि महच्चापं चामीकरविभूषितम्।\nचकार सज्यं धर्मात्मा तानि रक्षांसि चाब्रवीत्।।3.20.6।।",
+      "transliteration": "",
+      "translation": "Righteous Rama too, lifted up his great bow decked with gold and fastened the string and then said to the demons:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-20-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "पुत्रौ दशरथस्यावां भ्रातरौ रामलक्ष्मणौ।\nप्रविष्टौ सीतया सार्धं दुश्चरं दण्डकावनम्।।3.20.7।।",
+      "transliteration": "",
+      "translation": "We, Rama and Lakshmana, sons of Dasaratha, are brothers, who have entered the inaccessible Dandaka forest along with Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-20-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "फलमूलाशनौ दान्तौ तापसौ धर्मचारिणौ।\nवसन्तौ दण्डकारण्ये किमर्थमुपहिंसथ।।3.20.8।।",
+      "transliteration": "",
+      "translation": "Feeding on fruits and roots and following the righteous path, we are living in Dandaka forest like ascetics. Why are you torturing us?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-20-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "युष्मान्पापात्मकान्हन्तुं विप्रकारान्महाहवे।\nऋषीणां तु नियोगेन प्राप्तोऽहं सशरायुधः।।3.20.9।।",
+      "transliteration": "",
+      "translation": "I came here equipped with bows, arrows and weapons, asked by ascetics to kill in the battle sinners like you who are offending them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-20-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तिष्ठतैवात्र सन्तुष्टा नोपावर्तितुमर्हथ।\nयदि प्राणैरिहार्थो वा निवर्तध्वं निशाचराः।।3.20.10।।",
+      "transliteration": "",
+      "translation": "If you care for your life, you may return, or else, if you please you may remain (die) here, O demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-20-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तस्य तद्वचनं श्रुत्वा राक्षसास्ते चतुर्दश।\nऊचुर्वाचं  सुसंक्रुद्धा ब्रह्मघ्नाश्शूलपाणयः।।3.20.11।।",
+      "transliteration": "",
+      "translation": "At these words, the destroyers of brahmins, the fourteen demons were inflamed. They lifted their spears and spoke:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-20-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "क्रोधमुत्पाद्य नो भर्तुः खरस्य सुमहात्मनः।\nत्वमेव हास्यसे प्राणानद्यास्माभिर्हतो युधि।।3.20.12।।",
+      "transliteration": "",
+      "translation": "You have incited the wrath of Khara, our great master for which you will now pay with your life in the fight.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-20-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "का हि ते शक्तिरेकस्य बहूनां रणमूर्धनी।\nअस्माकमग्रतः स्थातुं किं पुनर्योद्दुमाहवे।।3.20.13।।",
+      "transliteration": "",
+      "translation": "How can you face us alone? We outnumber you? Leave alone fighting, you cannot even stand in front of us.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-20-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "एहि बाहुप्रयुक्तैर्नः परिघैश्शूलपट्टिसैः।\nप्राणांस्त्यक्षसि वीर्यं च धनुश्च करपीडितम्।।3.20.14।।",
+      "transliteration": "",
+      "translation": "Come on with daggers and sharpedged spears hurled, you will give up your life,your prowess as well as the bow held in your hand.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-20-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "इत्येवमुक्त्वा सङ्कृद्धा राक्षसास्ते चतुर्दश।\nचिक्षिपुस्तानि शूलानि राघवं प्रति दुर्जयम्।।3.20.15।।",
+      "transliteration": "",
+      "translation": "Saying these words, the fourteen infuriated demons hurled their spears at invincible Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-20-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तानि शूलानि काकुत्स्थस्समस्तानि चतुर्दश।\nतावद्भिरेव चिच्छेद शरैः काञ्चनभूषणैः।।3.20.16।।",
+      "transliteration": "",
+      "translation": "All the fourteen spears hurled turned into splinters by the same number of golden arrows released by Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-20-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "ततः पश्चान्महातेजा नाराचान्सूर्यसन्निभान्।\nजग्राह परमक्रुद्धश्चतुर्दश शिलाशितान्।।3.20.17।।",
+      "transliteration": "",
+      "translation": "Then the effulgent Rama, mighty angry, took fourteen arrows sharpened by stones and glowing like the  Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-20-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "गृहीत्वा धनुरायम्य लक्ष्यानुद्दिश्य राक्षसान्।\nमुमोच राघवो बाणान्वज्रानिव शतक्रतुः।।3.20.18।।",
+      "transliteration": "",
+      "translation": "Rama took the bow, stretched it and aimed at his target, the demons  and sent the arrows as Indra would release the thunderbolt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-20-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "रुक्मपुङ्खाश्च विशिखा दीप्ता हेमविभूषिताः।\nते भित्त्वा रक्षसां वेगाद्वक्षांसि रुधिराप्लुताः।3.20.19।।\nविनिष्पेतुस्तदा भूमौ न्यमज्जन्ताशनिस्वनाः।",
+      "transliteration": "",
+      "translation": "Goldfeathered blazing arrows decorated with gold, released by Rama flew fast and pierced the chests of the demons. Drenched in blood they (the arrows) thundered (out of their chests) and  plunged into the earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-20-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "ते भिन्नहृदया भूमौ छिन्नमूला इव द्रुमाः।।3.20.20।।\nनिपेतुश्शोणितार्द्राङ्गा विकृता विगतासवः।",
+      "transliteration": "",
+      "translation": "With their hearts split, their bodies drenched in blood, disfigured and lifeless, the demons fell down on earth like trees cut  at the roots.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-20-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तान् दृष्ट्वा पतितान्भूमौ राक्षसी क्रोधमूर्छिता।।3.20.21।।\nपरित्रस्ता पुनस्तत्र व्यसृजद्भैरवस्वनान्।",
+      "transliteration": "",
+      "translation": "Seeing the demons fallen on the ground, the demoness wild with anger and fear roared.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-20-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "उपगम्य खरं सा तु किञ्चित्संशुष्कशोणिता।।3.20.22।।\nपपात पुनरेवार्ता सनिर्यासेव सल्लकी।",
+      "transliteration": "",
+      "translation": "Her blood slightly dried up, she came back afflicted to Khara and fell down like a sallaki tree, its sap oozing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-20-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "पपात पुनरेवार्ता सनिर्यासेव सल्लकी ।।3.20.23 ।।",
+      "transliteration": "",
+      "translation": "Missing",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-20-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "भ्रातुस्समीपे शोकार्ता ससर्ज निनदं मुहुः।।3.20.24।।\nसस्वरं मुमुचे बाष्पं विषण्णवदना तदा।",
+      "transliteration": "",
+      "translation": "Then desperately screaming and shedding tears with a sad face beside her brother, she roared again and again.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-20-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "निपातितान् दृश्य रणे तु राक्षसान् प्रधाविता शूर्पणखा पुनस्ततः।\nवधं च तेषां निखिलेन रक्षसां शशंस सर्वं भगिनी खरस्य सा।।3.20.25।।",
+      "transliteration": "",
+      "translation": "When Surpanakha saw the demons fall dead on the battleground, she ran to Khara,her brother and told in detail about the death of the demons. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे विंशस्सर्गः।। Thus ends the twentieth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

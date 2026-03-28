@@ -1,0 +1,297 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 24,
+    "title": "While crossing the river Rama asks \"What is this tumultuous sound gushing from the Ganga?\"--Viswamitra gives the reply--The trio enter the forest -- Viswamitra narrates the story of Tataka.",
+    "titleSanskrit": "",
+    "totalShlokas": 31
+  },
+  "shlokas": [
+    {
+      "id": "v1-24-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तत: प्रभाते विमले कृताह्निकमरिन्दमौ।\nविश्वामित्रं पुरस्कृत्य नद्यास्तीरमुपागतौ।।1.24.1।।",
+      "transliteration": "",
+      "translation": "Thereafter the destroyers of foes, Rama and Lakshmana offering their morning oblations on that bright dawn arrived at the bank of the river (Ganga) with Viswamitra ahead of them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-24-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "ते च सर्वे महात्मानो मुनयस्संश्रितव्रता:।\nउपस्थाप्य शुभां नावं विश्वामित्रमथाब्रुवन्।।1.24.2।।",
+      "transliteration": "",
+      "translation": "All the highminded ascetics and strict followers of vows secured an auspicious boat for them and addressed Viswamitra, saying:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-24-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "आरोहतु भवान्नावं राजपुत्रपुरस्कृत:।\nअरिष्टं गच्छ पन्थानं मा भूत्कालविपर्यय:।।1.24.3।।",
+      "transliteration": "",
+      "translation": "With the princes ahead of you, board the boat. Tread the safe path. Let there be no loss of time.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-24-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "विश्वामित्रस्तथेत्युक्तवा तानृषीनभिपूज्य च।\nततार सहितस्ताभ्यां सरितं सागरङ्गमाम्।।1.24.4।।",
+      "transliteration": "",
+      "translation": "\"Be it so\", said Viswamitra and paid respect to all those sages. And accompanied by them (Rama and Lakshmana), crossed the river flowing towards the sea.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-24-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "ततश्शुश्राव वै शब्दमतिसंरम्भवर्धितम्।\nमध्यमागम्य तोयस्य सह राम:कनीयसा।।1.24.5।।",
+      "transliteration": "",
+      "translation": "As they reached the midstream, Rama and his younger brother heard a sound greatly  augmented by the speed (of the river).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-24-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अथ रामस्सरिन्मध्ये पप्रच्छ मुनिपुङ्गवम्।\nवारिणो भिद्यमानस्य किमयं तुमुलो ध्वनि:।।1.24.6।।",
+      "transliteration": "",
+      "translation": "Rama enquired of Viswamitra, the best of sages, \"What is this tumultuous sound  bursting out of the waters?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-24-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "राघवस्य वचश्श्रुत्वा कौतूहलसमन्वित:।\nकथयामास धर्मात्मा तस्य शब्दस्य निश्चयम्।।1.24.7।।",
+      "transliteration": "",
+      "translation": "At the words of Rama filled with curiosity, the righteous (Viswamitra) narrated the true nature of that sound.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-24-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "कैलासपर्वते राम मनसा निर्मितं सर:।\nब्रह्मणा नरशार्दूल तेनेदं मानसं सर:।।1.24.8।।",
+      "transliteration": "",
+      "translation": "\"O tiger among men, Rama. Brahma created out of his mind a lake on mount Kailas and so that lake is called Manasa (Sarovara).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-24-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तस्मात्सुस्राव सरसस्सायोध्यामुपगूहते ।\nसर प्रवृत्ता सरयू: पुण्या ब्रह्मसरश्च्��ुता।।1.24.9।।",
+      "transliteration": "",
+      "translation": "This river which flows from Manasa Sarovara is, therefore, known as 'Sarayu'. It  surrounds  Ayodhya. This sacred river flows from that lake of Brahma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-24-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तस्यायमतुलश्शब्दो जाह्नवीमभिवर्तते।\nवारिसङ्क्षोभजो राम प्रणामं नियत:कुरु।।1.24.10।।",
+      "transliteration": "",
+      "translation": "When Ganga approaches this river (Sarayu), there is a clash of waters and this great noise is produced. Rama, offer respectful salutations here, with a calm mind\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-24-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "ताभ्यां तु तावुभौ कृत्वा प्रणाममतिधार्मिकौ।\nतीरं दक्षिणमासाद्य जग्मतुर्लघुविक्रमौ।।1.24.11।।",
+      "transliteration": "",
+      "translation": "Deeply religious (in nature) they both made obeisance to the two rivers and reached the southern bank and advanced with quick steps.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-24-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "स वनं घोरसङ्काशं दृष्ट्वा नृपवरात्मज:।\nअविप्रहतमैक्ष्वाक: पप्रच्छ मुनिपुङ्गवम्।।1.24.12।।",
+      "transliteration": "",
+      "translation": "He who was a descendent of Ikshvaku and son of the best of kings, (Dasaratha) having seen that untrodden and dreadful forest asked the foremost of the ascetics:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-24-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "अहो वनमिदं दुर्गं झिल्लिकागणनादितम्।\nभैरवैश्शपदै: पूर्णं शकुन्तैर्दारुणारुतै:।।1.24.13।।",
+      "transliteration": "",
+      "translation": "\"What a wonder This inaccessible forest echoes with the (shrill) chirpings of crickets It is filled with ferocious beasts and birds producing fearful sounds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-24-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "नानाप्रकारैश्शकुनै र्वाश्यद्भिर्भैरवस्वनै:।\nसिंहव्याघ्रवराहैश्च वारणैश्चोपशोभितम्।।1.24.14।।",
+      "transliteration": "",
+      "translation": "\"It resounds with the frightful shricks of various kinds of birds. Lions, tigers, boars and elephants prowl about.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-24-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "धवाश्वकर्णककुभैर्बिल्वतिन्दुकपाटलै:।\nसङ्कीर्णं बदरीभिश्च किन्न्वेतद्दारुणं वनम्।।1.24.15।।",
+      "transliteration": "",
+      "translation": "This forest jampacked with dhava, ashvakarna, kakubha, bilva, tinduka, patala and badari trees, how frightening this forest could be\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-24-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तमुवाच महातेजा विश्वामि���्रो महामुनि:।\nश्रूयतां वत्स काकुत्स्थ यस्यैतद्दारुणं वनम्।।1.24.16।।",
+      "transliteration": "",
+      "translation": "Viswamitra, the great sage radiating energy addressing Rama said, \"O child of kakusthsa dynasty I shall tell you whose dreadful forest this is. Listen\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-24-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "एतौ जनपदौ स्फीतौ पूर्वमास्तां नरोत्तम।\nमलदाश्च करूशाश्च देवनिर्माणनिर्मितौ।।1.24.17।।",
+      "transliteration": "",
+      "translation": "O best among men, formerly these two large and prosperous cities called Malada and Karusha built by celestial architects existed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-24-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "पुरा वृत्रवधे राम मलेन समभिप्लुतम्।\nक्षुधा चैव सहस्राक्षं ब्रह्महत्या समाविशत्।।1.24.18।।",
+      "transliteration": "",
+      "translation": "O Rama, in ancient times after killing Vritrasura, Indra was overpowered by the sin of slaying a brahmin and was affected by impurity and hunger.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-24-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तमिन्द्रं स्नापयन् देवा ऋषयश्च तपोधना:।\nकलशैस्स्नापयामासुर्मलं चास्य प्रमोचयन्।।1.24.19।।",
+      "transliteration": "",
+      "translation": "Devas and rishis endowed with the wealth of asceticism bathed Indra with the (consecrated) waters (brought from all rivers) from the pitchers and got him cleansed of impurities.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-24-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "इह भूम्यां मलं दत्वा दत्वा कारूशमेव च।\nशरीरजं महेन्द्रस्य ततो हर्षं प्रपेदिरे।।1.24.20।।",
+      "transliteration": "",
+      "translation": "With the hunger and the taint and impurity from the body of Mahendra removed at this place, the devas rejoiced.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-24-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "निर्मलो निष्करूशश्च शुचिरिंन्द्रो यदाभवत्।\nददौ देशस्य सुप्रीतो वरं प्रभुरनुत्तमम्।।1.24.21।।",
+      "transliteration": "",
+      "translation": "Cleansed of his impurities and his hunger gone, Indra once again became pure. Allpowerful Indra highly pleased gave an excellent boon to that region.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-24-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "इमौ जनपदौ स्फीतौ ख्यातिं लोके गमिष्यत:।\nमलदाश्च करूशाश्च ममाङ्गमलधारिणौ।।1.24.22।।",
+      "transliteration": "",
+      "translation": "Indra blessed the place saying, 'Having absorbed impurities of my body, let these places be extremely fertile and prosperous and let this be renowned throughout this world as Malada and Karusha'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-24-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "साधु साध्विति तं देवा: पाकशासनमब्रुवन्।\nदेशस्य पूजां तां दृष्ट्वा कृतां शक्रेण धीमता।।1.24.23।।",
+      "transliteration": "",
+      "translation": "Having seen the honour bestowed on that land by the wise Indra, the gods said to him, 'Well done, Well done'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-24-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "एतौ जनपदौ स्फीतौ दीर्घकालमरिन्दम।\nमलदाश्च करूशाश्च मुदितौ धनधान्यत:।।1.24.24।।",
+      "transliteration": "",
+      "translation": "O Destroyers of enemies these prosperous townships, Malada and Karusha looked cheerful with (bumper) crops and wealth for a long time.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-24-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "कस्यचित्त्वथ कालस्य यक्षी वै कामरूपिणी।\nबलं नागसहस्रस्य धारयन्ती तदा ह्यभूत्।।1.24.25।। \nताटका नाम भद्रं ते भार्या सुन्दस्य धीमत:। 2\nमारीचो राक्षस: पुत्रो यस्याश्शक्रपराक्रम:।।1.24.26।।",
+      "transliteration": "",
+      "translation": "Then, after a lapse of several years, O gentle one a terrible yakshini by name Tataka,   wife of intelligent Sunda, capable of assuming different forms at will, possessed of the strength of a thousand elephants and mother of a rakshasa known as Maricha armed with the power of Indra took possession of this place.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-24-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "वृत्तबाहुर्महावीर्यो विपुलास्य तनुर्महान्।\nराक्षसो भैरवाकारो नित्यं त्रासयते प्रजा:।।1.24.27।।",
+      "transliteration": "",
+      "translation": "The arms (of Maricha) are round and strong. He is highly energetic. He has a large face and a huge body. In appearance, he is gigantic and possesses a dreadful form. That rakshasa always threatened the inhabitants.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-24-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "इमौ जनपदौ नित्यं विनाशयति राघव।\nमलदांश्च करूशांश्च ताटका दुष्टचारिणी।।1.24.28।।",
+      "transliteration": "",
+      "translation": "\"O Rama that wicked than Tataka carried on her depredations at regular intervals in these locations, Malada and Karusha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-24-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "सेयं पन्थानमावृत्य वसत्यध्यर्धयोजने।\nअत एव न गन्तव्यं ताटकाया वनं यत:।।1.24.29।।",
+      "transliteration": "",
+      "translation": "Tataka lives at a distance of one and a half yojanas from here obstructing the path.  Since Tataka dwells in this forest, no one comes here (because of fears).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-24-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "स्वबाहुबलमाश्रित्य जहीमां दुष्टचारिणीम्।\nमन्नियोगादिमं देशं कुरु निष्कण्टकं पुन:।।1.24.30।।",
+      "transliteration": "",
+      "translation": "\"By  the strength of your arms slay this one of wicked deeds. Comply with my orders and make this country safe (and habitable).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-24-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "न हि कश्चिदिमं देशं शक्नोत्यागन्तुमीदृशम्।\nयक्षिण्या घोरया राम उत्सादितमसह्यया।।1.24.31।।",
+      "transliteration": "",
+      "translation": "O Rama none dare approach this country ravaged by such dreadful, intolerable yakshini.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-24-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "एतत्ते सर्वमाख्यातं यथैतद्दारुणं वनम्।\nयक्ष्या चोत्सादितं सर्वमद्यापि न निवर्तते।।1.24.32।।",
+      "transliteration": "",
+      "translation": "You have been told the manner in which this fierce forest is entirely ruined by that cruel yakshini. Tell now she has not left this place\". इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे चतुर्विंशतिस्सर्ग:।। Thus ends the twentyfourth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

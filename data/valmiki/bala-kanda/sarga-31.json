@@ -1,0 +1,234 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 31,
+    "title": "Viswamitra  accompanied by the two princes departs for Mithila they halt on the bank of Sona on their way",
+    "titleSanskrit": "",
+    "totalShlokas": 24
+  },
+  "shlokas": [
+    {
+      "id": "v1-31-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "अथ तां रजनीं तत्र कृतार्थौ रामलक्ष्मणौ।\nऊषतुर्मुदितौ वीरौ प्रहृष्टेनान्तरात्मना।।1.31.1।।",
+      "transliteration": "",
+      "translation": "There, with their purpose fulfilled the heroes, Rama and Lakshmana, full of joy in their hearts spent the night.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-31-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "प्रभातायां तु शर्वर्यां कृतपौर्वाह्णिकक्रियौ।\nविश्वामित्रमृषींश्चान्यान् सहितावभिजग्मतु:।।1.31.2।।",
+      "transliteration": "",
+      "translation": "As the night dawned, both the brothers performed the morning rites and approached Viswamitra and other rishis.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-31-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "अभिवाद्य मुनिश्रेष्ठं ज्वलन्तमिव पावकम्।\nऊचतुर्मधुरोदारं वाक्यं मधुरभाषिणौ।।1.31.3।।",
+      "transliteration": "",
+      "translation": "Sweettongued, they visited with folded hands the best of ascetics Viswamitra who was shining like a flaming fire and addressed him  thus in sweet and generous words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-31-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "इमौ स्म मुनिशार्दूल किङ्करौ समुपस्थितौ।\nआज्ञापय यथेष्टं वै शासनं करवाव किम्।।1.31.4।।",
+      "transliteration": "",
+      "translation": "\"O tiger among ascetics, we  two are at your  service. Command whatever you want and we shall execute\" it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-31-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "एवमुक्ता स्ततस्ताभ्यां सर्व एव महर्षय:।\nविश्वामित्रं पुरस्कृत्य रामं वचनमब्रुवन्।।1.31.5।।",
+      "transliteration": "",
+      "translation": "Addressed, thus by both of them, Viswamitra ahead of all the sages, spoke to Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-31-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "मैथिलस्य नरश्रेष्ठ जनकस्य भविष्यति।\nयज्ञ: परमधर्मिष्ठस्तस्य यास्यामहे वयम्।।1.31.6।।",
+      "transliteration": "",
+      "translation": "\"O foremost of men, Janaka, king of Mithila, is performing a great religious sacrifice. We shall go there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-31-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "त्वं चैव नरशार्दूल सहास्माभिर्गमिष्यसि।\nअद्भुतं धनुरत्नं च तत्र तद्रष्टुमर्हसि।।1.31.7।।",
+      "transliteration": "",
+      "translation": "O tiger among men, come along with us. You ought to see there the wonderful  jewel of a bow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-31-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तद्धि पूर्वं नरश्रेष्ठ दत्तं सदसि दैवतै:।\nअप्रमेयबलं घोरं मखे परमभास्वरम्।।1.31.8।।",
+      "transliteration": "",
+      "translation": "O best among men, this bow of immeasurable energy. dreadful and highly lustrous was bestowed on king Janaka by devatas in a sacrificial  assembly in the past.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-31-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "नास्य देवा न गन्धर्वा नासुरा न च राक्षसा:।\nकर्तुमारोपणं शक्ता न कथञ्चन मानुषा:।।1.31.9।।",
+      "transliteration": "",
+      "translation": "Neither devas, nor gandharvas, nor asuras nor human, are capable of stringing the bow by any means.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-31-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "धनुषस्तस्य वीर्यं तु जिज्ञासन्तो महीक्षित:।\nन शेकुरारोपयितुं राजपुत्रा महाबला:।।1.31.10।।",
+      "transliteration": "",
+      "translation": "Mighty princes and kings have failed to string it, in their attempt to know its strength.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-31-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तद्धनुर्नरशार्दूल मैथिलस्य महात्मन:।\nतत्र द्रक्ष्यसि काकुत्स्थ यज्ञं चाद्भुतदर्शनम्।।1.31.11।।",
+      "transliteration": "",
+      "translation": "O best of men, O descendent of Kakustha, there you will see the bow that belongs to the magnanimous king of Mithila and the wonderful sacrifice at that place.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-31-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "तद्धि यज्ञफलं तेन मैथिलेनोत्तमं धनु:।\nयाचितं नरशार्दूल सुनाभं सर्वदैवतै:।।1.31.12।।",
+      "transliteration": "",
+      "translation": "O best among men, that excellent bow strong in the middle was offered by king of Mithila, Devarata as well as by all devatas as fruit of the sacrifice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-31-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "आयागभूतं नृपतेस्तस्य वेश्मनि राघव।\nअर्चितं विविधैर्गन्धैर्धूपैश्चागरुगन्धिभि:।।1.31.13।।",
+      "transliteration": "",
+      "translation": "O Rama, that bow is worshipped in the king's palace as principal deity with various kinds of perfumes, sandal paste, incense and fragrant agaru\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-31-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "एवमुक्त्वा मुनिवर: प्रस्थानमकरोत्तदा।\nसर्षिसङ्घ स्सकाकुत्स्थ: आमन्त्र्य वनदेवता:।।1.31.14।।",
+      "transliteration": "",
+      "translation": "Having spoken thus, Viswamitra,  the best of ascetics commenced the onward journey along with the Kakutshas and rishis, taking leave of the deities of the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-31-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "स्वस्ति वोऽस्तु गमिष्यामि सिद्वस्सिद्धाश्रमादहम्।\nउत्तरे जाह्नवीतीरे हिमवन्तं शिलोच्चयम्।।1.31.15।।",
+      "transliteration": "",
+      "translation": "\"(O ascetics of the forest) May you be safe. My purpose has been achieved in this Siddhaashrama. From here I shall go to the Himavanta mountain situated on the  northern bank of  Jahnavi\" (said Viswamitra).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-31-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "प्रदक्षिणं तत: कृत्वा स��द्धाश्रममनुत्तमम्।\nउत्तरां दिशमुद्दिश्य प्रस्थातुमुपचक्रमे।।1.31.16।।",
+      "transliteration": "",
+      "translation": "Thereafter, circumambulating the supreme Siddhasrama with reverence, they (Viswamitra and the princes) commenced their journey in the northern direction.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-31-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तं प्रयान्तं मुनिवरमन्वयादनुसारिणम्।\nशकटीशतमात्रं तु प्रायेण ब्रह्मवादिनाम्।।1.31.17।।",
+      "transliteration": "",
+      "translation": "As Viswamitra, the best of ascetics set out on his journey, expounders of the Vedas followed him, nearly in one hundred carriages.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-31-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "मृगपक्षिगणाश्चैव सिद्धाश्रमनिवासिन:।\nअनुजग्मुर्महात्मानं विश्वामित्रं महामुनिम्।।1.31.18।।\nनिवर्तयामास तत: पक्षिसङ्घान् मृगानपि।",
+      "transliteration": "",
+      "translation": "Birds and beasts living in Siddhaashrama also followed the illustrious maharshi  Viswamitra over a long distance until he sent them back.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-31-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "ते गत्वा दूरमध्वानं लम्बमाने दिवाकरे।\nवासं चक्रुर्मुनिगणाः शोणाकूले समाहिता:।।1.31.19।।",
+      "transliteration": "",
+      "translation": "The sages travelled a long distance and halted on the bank of  Sona at sunset.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-31-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तेऽस्तं गते दिनकरे स्नात्वा हुतहुताशना:।\nविश्वामित्रं पुरस्कृत्य निषेदुरमितौजस:।।1.31.20।।",
+      "transliteration": "",
+      "translation": "The sages who possessed great splendour bathed and offered oblations to fire at sunset and sat in front of  Viswamitra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-31-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "रामोऽपि सहसौमित्रिर्मुनीं स्तानभिपूज्य च।\nअग्रतो निषसादाथ विश्वामित्रस्य धीमत:।।1.31.21।।",
+      "transliteration": "",
+      "translation": "Rama together with Lakshmana having offered respectful salutations to the sages, sat in front of the sagacious Viswamitra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-31-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "अथ रामो महातेजाः विश्वामित्रं महामुनिम्।\nपप्रच्छ नरशार्दूल: कौतूहलसमन्वित:।।1.31.22।।",
+      "transliteration": "",
+      "translation": "Thereafter highly lustrous Rama, the best among men, filled with curiosity enquired of  the great sage Viswamitra:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-31-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "भगवन् कोऽन्वयं देशस्समृद्धवनशोभित:।\nश्रोतुमिच्छामि भद्रं ते वक्तुमर्हसि तत्त्वत:।।1.31.23।।",
+      "transliteration": "",
+      "translation": "\"O worshipful one, what could be the reason for this region shining with luxuriant groves?  I wish to hear from you. You can tell me all about this (region). May it be safe for you\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-31-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "चोदितो रामवाक्येन कथयामास सुव्रत:।\nतस्य देशस्य निखिलमृषिमध्ये महातपा:।।1.31.24।।",
+      "transliteration": "",
+      "translation": "A sage of  excellent vows and rigid austerities, Viswamitra, urged by the words of Rama, described  in the midst of rishis the entire story relating to that region. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे एकत्रिंशस्सर्ग:।। Thus ends the thirtyfirst sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 27,
+    "title": "Rama and Lakshmana reach Prasravana mountain -- description of the mountain cave where Rama and Lakshmana dwelt",
+    "titleSanskrit": "",
+    "totalShlokas": 40
+  },
+  "shlokas": [
+    {
+      "id": "v4-27-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "अभिषिक्ते तु सुग्रीवे प्रविष्टे वानरे गुहाम्।\nआजगाम सह भ्रात्रा रामः प्रस्रवणं गिरिम्4.27.1।।",
+      "transliteration": "",
+      "translation": "After the consecration, Sugriva entered the cavecity (of Kishkinda) and Rama accompanied by his brother reached mountain Prasravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "शार्दूलमृगसङ्घुष्टं सिंहैर्भीमरवैर्वृतम्।\nनानागुल्मलतागूढं बहुपादपसङ्कुलम्4.27.2।।\nऋक्षवानरगोपुच्छैर्मार्जारैश्च निषेवितम्।\nमेघराशिनिभं शैलं नित्यं शुचिजलाशयम्।।4.27.3।।",
+      "transliteration": "",
+      "translation": "The (Prasravana) mountain reverberated with the terrific roars of tigers and deer and lions. There were several kinds of shrubs, creepers and trees.It was inhabited by bears, apes, monkeys and wild cats in large number. The mountain was like a huge cluster of clouds. The waters in the ponds were pure.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "तस्य शैलस्य शिखरे महतीमायतां गुहाम्।\nप्रत्यगृह्णत वासार्थं रामस्सौमित्रिणा सह4.27.4।।",
+      "transliteration": "",
+      "translation": "Rama and Lakshmana decided to reside in the long, wide cave on top of the great mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "कृत्वा च समयं रामस्सुग्रीवेण सहानघः।\nकालयुक्तं महद्वाक्यमुवाच रघुनन्दनः4.27.5।।\nविनीतं भ्रातरं भ्राता लक्ष्मणं लक्ष्मिवर्धनम्।",
+      "transliteration": "",
+      "translation": "Sinless Rama, the delight of the Raghus made an agreement with Sugriva and then spoke appropriately to Lakshmana, his obedient brother and enhancer of glory:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "इयं गिरिगुहा रम्या विशाला युक्तमारुता।\nअस्यां वत्स्याम सौमित्रे वर्षरात्रमरिन्दम4.27.6।।",
+      "transliteration": "",
+      "translation": "'O Saumitri, subduer of enemies this beautiful mountain cave is spacious and  adequately ventilated. We will reside here in the rainy season.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "गिरिशृङ्गमिदं रम्यमुन्नतं पार्थिवात्मज4.27.7।।\nश्वेताभिः कृष्णताम्राभिश्शिलाभिरुपशोभितम्।\nनानाधातुसमाकीर्णं दरीनिर्झरशोभितम्4.27.8।।\nविविधैर्वृक्षषण्डैश्च चारुचित्रलतायुतम्।\nनानाविहगसङ्घुष्टं मयूररवनादितम्4.27.9।।\nमालतीकुन्दगुल्मैश्च सिन्धुवारैश्शिरीषकैः।\nकदम्बार्जुनसर्जैश्च पुष्पितैरुपशोभितम्4.27.10।।",
+      "transliteration": "",
+      "translation": "'O prince this lovely mountain peak is lofty. It has white, black and red stones with many kinds of minerals scattered all over. It is delightful with caves and streams, and various clusters of trees and variegated vines. The chirps of several kinds of birds as well as the sounds of excellent peacocks are heard here. This place is delightful with bushes of jasmine, kunda and sindhuvara, sireeshaka, kadamba, arjuna and sarja in bloom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "इयं च नलिनी रम्या फ़ुल्लपङ्कजमण्डिता।\nनातिदूरे गुहायानौ भविष्यति नृपात्मज4.27.11।।",
+      "transliteration": "",
+      "translation": "'O prince this pond with lotus creeper and lotuses in full bloom is endearing. It is located not far from the cave.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "प्रागुदक्प्रवणे देशे गुहा साधु भविष्यति।\nपश्चाच्चैवोन्नता सौम्य निवातेयं भविष्यति4.27.12।।",
+      "transliteration": "",
+      "translation": "'O goodnatured Lakshmana the descending path on the northeastern side of the cave and elevation on the the west is auspicious.This place is protected from rain water and  from strong wind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "गुहाद्वारे च सौमित्रे शिला समतला शुभा।\nश्लक्ष्णा चैवायता चैव भिन्नाञ्जनचयोपमा4.27.13।।",
+      "transliteration": "",
+      "translation": "'O Lakshmana at the entrance of the cave is a rock, smooth and large,  resembling a heap of shining collyrium.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "गिरिशृङ्गमिदं तात पश्य चोत्तरतः शुभम्।\nभिन्नाञ्जनचयाकारमम्भोधरमिवोत्थितम्4.27.14।।",
+      "transliteration": "",
+      "translation": "'O dear look at the mountain peak in the north rising like a raincloud.It is auspicious.  It resembles a heap of collyrium.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "दक्षिणस्यामपि दिशि स्थितं श्वेतमिवापरम्।\nकैलासशिखरप्रख्यं नानाधातुविभूषितम्4.27.15।।",
+      "transliteration": "",
+      "translation": "'In the southern direction is a white rock appearing as if it is another mountain. It looks like mount Kailas and is rich with various minerals.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "प्राचीनवाहिनीं चैव नदीं भृशमकर्दमाम्।\nगुहायाः पूर्वतः पश्य त्रिकूटे जाह्नवीमिव4.27.16।।\nचन्दनैस्तिलकैस्तालैस्तमालैरतिमुक्तकैः।\nपद्मकैः सरलैश्चैव अशोकैश्चैव शोभिताम्4.27.17।।",
+      "transliteration": "",
+      "translation": "'Look at the river flowing towards the east. It has clean water and flows towards the east of the cave and looks like the river Jahnavi flowing on the mount Trikuta. This place looks delightful with the sandalwood, tilaka, sala, tamala, atimukta, padmaka, sarala and asoka trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "वानीरैस्तिमिशैश्चैव वकुलैः केतकैर्धवैः।\nहिन्तालैस्तिनिशैर्नीपैर्वेत्रकैः कृतमालकैः4.27.18।।\nतीरजैश्शोभिता भाति नानारूपै स्ततस्ततः।\nवसनाभरणोपेता प्रमदेवाभ्यलङ्कृता4.27.19।।",
+      "transliteration": "",
+      "translation": "'See the different kinds of trees like canes timida, vakula, ketaka, hintala, tinisa, kadamba, dhava, krutamalaka, betasa grown here and there  on the bank (of the river), which  looks beautiful like a woman decorated with clothes and ornaments.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "शतशः पक्षिसङ्घैश्च नानानादैर्विनादिता।\nएकैकमनुरक्तैश्च चक्रवाकैरलङ्कृता।।4.27.20।।\nपुलिनैरतिरम्यैश्च हंससारससेवितैः।\nप्रहसन्तीवभात्येषा नारी सर्वविभूषिता।।4.27.21।।",
+      "transliteration": "",
+      "translation": "'The river flocked with hundreds of birds chirping melodious notes and specially the chakravaka birds which are clinging to their mates in great love are moving in pairs.The river has lovely sandy banks filled with swans and sarasa birds. The river appears as though a young woman decked all over is laughing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "क्वचिन्नीलोत्पलैश्छन्ना भाति रक्तोत्पलैः क्वचित्।\nक्वचिदाभाति शुक्लैश्च दिव्यैः कुमुदकुट्मलैः4.27.22।।",
+      "transliteration": "",
+      "translation": "'The river looks wonderful with lotuses now blue, now red and now white.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "पारिप्लवशतैर्जुष्टा बर्हिक्रौञ्चविनादिता।\nरमणीया नदी सौम्य मुनिसङ्घैर्निषेविता4.27.23।।",
+      "transliteration": "",
+      "translation": "'This placid river water is haunted by waterbirds, peacocks and kraunchas, It is inhabited by groups of sages.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "पश्य चन्दनवृक्षाणां पङ्क्तीस्सुरचिता इव।\nककुभानां च दृश्यन्ते मनसेवोदितास्समम्4.27.24।।",
+      "transliteration": "",
+      "translation": "'See the uniform rows of sandalwood trees, it looks as though they are arranged together imaginatively.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अहो सुरमणीयोऽयं देशश्शत्रुनिषूदन।\nदृढं रंस्याव सौमित्रे साध्वत्र निवसावहै4.27.25।।",
+      "transliteration": "",
+      "translation": "'O Saumitri destroyer of enemies this place is most enchanting. Surely we will reside here sporting in joy .",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "इतश्च नातिदूरे सा किष्किन्धा चित्रकानना।\nसुग्रीवस्य पुरी रम्या भविष्यति नृपात्मज4.27.26।।",
+      "transliteration": "",
+      "translation": "'O prince  Sugriva's delightful city of Kishkinda with wonderful forest around is not  far from here.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "गीतवादित्रनिर्घोषश्श्रूयते जयतां वर।\nनर्दतां वानराणां च मृदङ्गाडम्बरै स्सह4.27.27।।",
+      "transliteration": "",
+      "translation": "'O hero among the victorious, the sounds of vocal and instrumental music, the beating of drums and shrieking of monkeys are heard (from here).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "लब्ध्वा भार्यां कपिवरः प्राप्य राज्यं सुहृद्वृतः।\nध्रुवं नन्दति सुग्रीवस्सम्प्राप्य महतीं श्रियम्4.27.28।।",
+      "transliteration": "",
+      "translation": "'Having obtained his wife, his kingdom and attained prosperity the monkey chief,                                 Sugriva will be surely enjoying the company of friends and relatives'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "इत्युक्त्वा न्यवसत्तत्र राघवस्सहलक्ष्मणः।\nबहुदृश्यदरीकुञ्जे तस्मिन्प्रस्रवणे गिरौ4.27.29।।",
+      "transliteration": "",
+      "translation": "Having said so, Rama resided with Lakshmana on the Prasvarana mountain with many beautiful caverns and shrubs of vines.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "सुसुखेऽपि बहुद्रव्ये तस्मिन्हि धरणीधरे।\nवसतस्तस्य रामस्य रतिरल्पापिना भवेत्4.27.30।।",
+      "transliteration": "",
+      "translation": "Though Rama was residing in comfort on the mountain richly endowed with many pleasant things, he experienced little happiness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "हृतां हि भार्यां स्मरतः प्राणेभ्योऽपि गरीयसीम्।\nउदयाभ्युदितं दृष्ट्वा शशाङ्कं च विशेषतः4.27.31।।",
+      "transliteration": "",
+      "translation": "Specially with the rising Moon in the east, he remembered his abuducted wife who was dearer to him than his life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "आविवेश न तं निद्रा निशासु शयनं गतम्।\nतत्समुत्थेन शोकेन बाष्पोपहतचेतसम्4.27.32।।",
+      "transliteration": "",
+      "translation": "As Rama lay in bed, at night, his grief rose and choked him with tears.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "तं शोचमानं काकुत्स्थं नित्यं शोकपरायणम्।\nतुल्यदुःखोऽब्रवीद्भ्राता लक्ष्मणोऽनुनयन्वचः4.27.33।।",
+      "transliteration": "",
+      "translation": "Seeing Rama worried and engrossed in endless sorrow, his brother Lakshmana who was equally sad spoke these words of consolation:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "अलं वीर व्यथां गत्वा न त्वं शोचितुमर्हसि।\nशोचतो व्यवसीदन्ति सर्वार्था विदितं हि ते4.27.34।।",
+      "transliteration": "",
+      "translation": "'O heroic one, you know one who broods fails to achieve his objective. So do not brood.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "भवान्क्रियापरो लोके भवान् देवपरायणः।\nआस्तिको धर्मशीलश्च व्यवसायी च राघव4.27.35।।\nन ह्यव्यवसितश्शत्रुं राक्षसं तं विशेषतः।\nसमर्थस्त्वं रणे हन्तुं विक्रमैर्जिह्मकारिणम्4.27.36।।",
+      "transliteration": "",
+      "translation": "'O Rama you are a man of action, enterprising. You are godfearing, righteous and religious. You will not be able to kill a crooked enemy in a battle, especially a demon, with your valour if you make no endeavour.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "समुन्मूलय शोकं त्वं व्यवसायं स्थिरं कुरु।\nततस्सपरिवारं तं निर्मूलं कुरु राक्षसम्।।4.27.37।।",
+      "transliteration": "",
+      "translation": "'Root out sorrow. Be daring. Be firm in resolve. (Only) then can you destroy the demon and his family.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "पृथिवीमपि काकुत्स्थ ससागरवनाचलाम्।\nपरिवर्तयितुं शक्तः किमङ्गपुन रावणम्4.27.38।।",
+      "transliteration": "",
+      "translation": "'O Kakutstha, you can turn the earth with its oceans, forests and mountains, what to speak of Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "शरत्कालं प्रतीक्षस्व प्रावृट्कालोऽयमागतः।\nततस्सराष्ट्रं सगणं रावणं त्वं वधिष्यसि4.27.39।।",
+      "transliteration": "",
+      "translation": "'This is the rainy season.Wait for autumn.Thereafter you will destroy Ravana along with his kingdom and clan.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "अहं तु खलु ते वीर्यं प्रसुप्तं प्रतिबोधये।\nदीप्सैराहुतिभिः काले भस्मच्छन्नमिवानलम्4.27.40।।",
+      "transliteration": "",
+      "translation": "'I am only awakening your dormant valour as one would kindle the fire covered with ashes by making offerings.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "लक्ष्मणस्य तु तद्वाक्यं प्रतिपूज्य हितं शुभम्।\nराघवस्सुहृदं स्निग्धमिदं वचनमब्रवीत्।।4.27.41।।",
+      "transliteration": "",
+      "translation": "On hearing the good counsel and auspicious words of Lakshmana, Rama spoke these loving and warm words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "वाच्यं यदनुरक्तेन स्निग्धेन च हितेन च।\nसत्यविक्रमयुक्तेन तदुक्तं लक्ष्मण त्वया4.27.42।।",
+      "transliteration": "",
+      "translation": "'O Lakshmana you have spoken the words of an affectionate and friendly counsellor of proven valour.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "एष शोकः परित्यक्तस्सर्वकार्यावसादकः।\nविक्रमेष्वप्रतिहतं तेजः प्रोत्साहयाम्यहम्।।4.27.43।।",
+      "transliteration": "",
+      "translation": "'This sorrow which dampens one's daring spirit is given up. I shall now resort to such  undaunted valour during my heroic exploits.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "शरत्कालं प्रतीक्षिष्ये स्थितोऽस्मि वचने तव।\nसुग्रीवस्य नदीनां च प्रसादमनुपालयन्4.27.44।।",
+      "transliteration": "",
+      "translation": "'I will wait for autumn. I will stick to your advice while I wait until Sugriva and the rivers are pleased (with moderate flow of water.)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "उपकारेण वीरस्तु प्रतीकारेण युज्यते।\nअकृतज्ञोऽप्रतिकृतो हन्ति सत्त्ववतां मनः4.27.45।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "अथैव मुक्तःप्रणिधाय लक्ष्मणः\nकृताञ्जलिस्तत्प्रतिपूज्य भाषितम्।\nउवाच रामं स्वभिरामदर्शनं\nप्रदर्शयन्दर्शनमात्मनश्श���भम्4.27.46।।",
+      "transliteration": "",
+      "translation": "Then Lakshmana reflected upon the words of Rama thoughtfully. He honoured his brother's words by receiving his advice with folded hands and spoke to his handsome brother giving out his own views:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "यथोक्तमेतत्तव सर्वमीप्सितं\nनरेन्द्र कर्ता न चिराद्धरीश्वरः।\nशरत्प्रतीक्षः क्षमतामिमं भवान्\nजलप्रपातं रिपुनिग्रहे धृतः4.27.47।।",
+      "transliteration": "",
+      "translation": "'O lord of men, your desire will be fulfilled soon. Be determined to fight the enemy while waiting for autumn. Forgive this rainy season (and its water that obstructs).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-27-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "नियम्य कोपं प्रतिपाल्यतां शरत्\nक्षमस्व मासां श्चतुरो मया सह।\nवसाचलेऽस्मिन्मृगराजसेविते\nसंवर्धयन् शत्रुवधे समुद्यमम्4.27.48।।",
+      "transliteration": "",
+      "translation": "'Control your anger and wait for autumn. Pardon these (intervening) four months (which put a halt on your wareffort). Stay with me on this mountain infested with lions. Brace up to kill the enemy. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे सप्तविंशस्सर्गः।। Thus ends the twentyseventh sarga of Kishkindakanda of the Holy Ramayana, the first epic, composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

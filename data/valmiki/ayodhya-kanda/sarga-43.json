@@ -1,0 +1,207 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 43,
+    "title": "Lamentations of Kausalya.",
+    "titleSanskrit": "",
+    "totalShlokas": 21
+  },
+  "shlokas": [
+    {
+      "id": "v2-43-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततः समीक्ष्य शयने सन्नं शोकेन पार्थिवम्।\nकौशल्या पुत्रशोकार्ता तमुवाच महीपतिम्।।2.43.1।।",
+      "transliteration": "",
+      "translation": "Struck by the grief of her son's departure, Kausalya looked at the king who lay on the couch completely exhausted and said to him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-43-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "राघवे नरशार्दूले विषमुप्त्वाहिजिह्मगा।  \nविचरिष्यति कैकेयी निर्मुक्तेव हि पन्नगी।।2.43.2।।",
+      "transliteration": "",
+      "translation": "Moving crookedly like a snake, Kaikeyi has released her venom on Rama, the best among men. Now she will move about freely like a sheserpent that has cast off its slough.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-43-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "विवास्य रामं सुभगा लब्धकामा समाहिता।\nत्रासयिष्यति मां भूयो दुष्टाहिरिव वेश्मनि।।2.43.3।।",
+      "transliteration": "",
+      "translation": "Having banished Rama, she is now happy with her desires fulfilled. And like a vicious serpent living in the house she will again frighten me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-43-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "अथ स्म नगरे रामश्चरन् भैक्षं गृहे वसेत्।\nकामकारो वरं दातुमपि दासं ममात्मजम्।।2.43.4।।",
+      "transliteration": "",
+      "translation": "It would have been better had I offered her my son as a slave. He would have lived on in the house by doing his duties and begging his food in the city.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-43-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "पातयित्वा तु कैकेय्या रामं स्थानाद्यथेष्टतः।\nप्रदिष्टो रक्षसां भागः पर्वणीवाहिताग्निना।।2.43.5।।",
+      "transliteration": "",
+      "translation": "You have thrown away Rama from his place as per the whim of Kaikeyi, like the share of offering meant for gods given away to rakshasas by the sacrificers on the new Moon days.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-43-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "गजराजगतिर्वीरो महाबाहुर्धनुर्धरः। \nवनमाविशते नूनं सभार्य स्सह लक्ष्मणः।।2.43.6।।",
+      "transliteration": "",
+      "translation": "My mightyarmed son, a great archer and a hero, Rama whose gait is like that of the king of elephants, must be entering the forest along with his consort Sita and Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-43-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "वने त्वदृष्टदुःखानां केकय्यानुमते त्वया।\nत्यक्तानां वनवासाय कान्ववस्था भविष्यति।।2.43.7।।",
+      "transliteration": "",
+      "translation": "You have banished them as per the desire of Kaikeyi. What will be their plight in the forest, for they have never experienced any hardship earlier",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-43-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "ते रत्नहीनास्तरुणाः फलकाले विवासिताः।\nकथं वत्स्यन्ति कृपणाः फलमूलैः कृताशनाः।।2.43.8।।",
+      "transliteration": "",
+      "translation": "Deprived of all costly things they have been banished at the tender age of youth, a time for enjoying their lives. How will they lead a miserable life subsisting on fruits and roots?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-43-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "अपीदानीं स कालस्स्यान्मम शोकक्षय श्शिवः।\nसभार्यं यत्सह भ्रात्रा पश्येयमिह राघवम्।।2.43.9।।",
+      "transliteration": "",
+      "translation": "Will there ever be that auspicious moment to end my sorrow? When I can see  Rama here along with his wife and brother?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-43-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "श्रृत्वैवोपस्थितौ वीरौ कदायोध्या भविष्यति।\nयशस्विनी हृष्टजना सूच्छ्रितध्वजमालिनी।।2.43.10।।",
+      "transliteration": "",
+      "translation": "When will the city of Ayodhya attain that glory when having heard that both the brave brothers have come back the people will rejoice and fill it with uplifted banners?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-43-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "कदा प्रेक्ष्य नरव्याघ्रावरण्यात्पुनरागतौ।\nनन्दिष्यति पुरी हृष्टा समुद्र इव पर्वणि।।2.43.11।।",
+      "transliteration": "",
+      "translation": "When will, like the swelling sea on a full Moon day, the city hail the return of Rama and Lakshmana, the best among men?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-43-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "कदाऽयोध्यां महाबाहुः पुरीं वीरः प्रवेक्ष्यति।\nपुरस्कृत्य रथे सीतां वृषभो गोवधूमिव।।2.43.12।।",
+      "transliteration": "",
+      "translation": "When will the mightyarmed hero (Rama) enter the city of Ayodhya with Sita in front in the chariot, like a bull following the cow?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-43-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "कदा प्राणिसहस्राणि राजमार्गे ममात्मजौ।\nलाजैरवकिरिष्यन्ति प्रविशन्तावरिन्दमौ।।2.43.13।।",
+      "transliteration": "",
+      "translation": "When will the people in their thousands shower the parched grain on the highway when my sons (Rama and Lakshmana), subduers of enemies, enter the city?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-43-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "प्रविशन्तौ कदाऽयोध्यां द्रक्ष्यामि शुभकुण्डलौ।\nउदग्रायुधनिस्त्रिंशौ सश्रृङ्गाविव पर्वतौ।।2.43.14।।",
+      "transliteration": "",
+      "translation": "When shall I see both of them wearing auspicious earrings and holding poweful weapons (bows) and swords high, like two mountain peaks?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-43-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "कदासुमनसः कन्याद्विजातीनां फलानि च।\nप्रदिशन्तः पुरीं हृष्टाः करिष्यन्ति प्रदक्षिणम्।।2.43.15।।",
+      "transliteration": "",
+      "translation": "When will I see them delightfully moving round the city with young brahmin girls offering them flowers and fruits.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-43-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "कदा परिणतो बुद्ध्या वयसा चामरप्रभः।\nअभ्युपैष्यति धर्मज्ञस्त्रिवर्ष इव मां ललन्।।2.43.16।।",
+      "transliteration": "",
+      "translation": "When will Rama, the knower of righteousness, possessing the lustre of gods, and fully mature in age and wisdom come back to me playfully like a threeyearold boy?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-43-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "निस्संशयं मया मन्ये पुरा वीर कदर्यया।\nपातुकामेषु वत्सेषु मातृ़णां शातितास्स्तनाः।।2.43.17।।",
+      "transliteration": "",
+      "translation": "O valiant one, in my previous birth I must have undoubtedly hacked off the udders of cows when the calves were thirsting for milk from their mothers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-43-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "साहं गौरिव सिंहेन विवत्सा वत्सला कृता।\nकैकेय्या पुरुषव्याघ्र बालवत्सेव गौर्बलात्।।2.43.18।।",
+      "transliteration": "",
+      "translation": "O best of men I have been forcibly separated from my affectionate son by Kaikeyi just like a cow from its calf by a lion.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-43-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "न हि तावद्गुणैर्जुष्टं सर्वशास्त्रविशारदम्।\nएकपुत्रा विना पुत्रमहं जीवितुमुत्सहे।।2.43.19।।",
+      "transliteration": "",
+      "translation": "I cannot live without my only son who is adept in all scriptures and endowed with all virtues.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-43-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "न हि मे जीविते किञ्चित्सामर्थ्यमिह कल्प्यते।\nअपश्यन्त्याः प्रियं पुत्रं महाबाहुं महाबलम्।।2.43.20।।",
+      "transliteration": "",
+      "translation": "Without seeing my beloved son, longarmed and mighty, I have but little strength to live in this world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-43-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "अयं हि मां दीपयते समुत्थितः\nतनूजशोकप्रभवो हुताशनः।\nमहीमिमां रश्मिभिरुद्धतप्रभः\nयथा निदाघे भगवान् दिवाकरः।।2.43.21।।",
+      "transliteration": "",
+      "translation": "I am consumed by this blazing fire of grief caused by separation from my son like the earth scorched in summer by the Sungod with his oppressive rays इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे त्रिचत्वारिंशस्सर्गः।। Thus ends the fortythird sarga of Ayodhyakanda of  the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 23,
+    "title": "Lakshmana speaks of his valour-- condemns destiny as feeble and powerless-- urges Rama to  get consecrated--  Rama resolves to obey his father's command.",
+    "titleSanskrit": "",
+    "totalShlokas": 37
+  },
+  "shlokas": [
+    {
+      "id": "v2-23-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "इति ब्रुवति रामे तु लक्ष्मणोऽधश्शिरा मुहुः।\nश्रृत्वा मध्यं जगामेव मनसा दुःखहर्षयोः।।2.23.1।।",
+      "transliteration": "",
+      "translation": "While Rama was speaking thus, Lakshmana listened to him with his head down, experiencing both grief and joy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तदा तु बध्द्वा भ्रुकुटीं भ्रुवोर्मध्ये नरर्षभः।\nनिशश्वास महासर्पो बिलस्थ इव रोषितः।।2.23.2।।",
+      "transliteration": "",
+      "translation": "Lakshmana, frowning between his eyebrows, hissed like a great serpent seized with anger in its hole.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "तस्य दुष्प्रतिवीक्षं तद्भ्रुकुटीसहितं तदा।\nबभौ क्रुद्धस्य सिंहस्य मुखस्य सदृशं मुखम्।।2.23.3।।",
+      "transliteration": "",
+      "translation": "With his frown, his face looked frightening like the face of a lion provoked.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "अग्रहस्तं विधुन्वंस्तु हस्ती हस्तमिवात्मनः।\nतिर्यगूर्ध्वं शरीरे च पातयित्वा शिरोधराम्।।2.23.4।।\nअग्राक्ष्णा वीक्षमाणस्तु तिर्यग्भ्रातरमब्रवीत्।",
+      "transliteration": "",
+      "translation": "Shaking his forearm like an elephant raising its trunk, moving his neck horizontally and vertically and casting a pointed and oblique look at his brother, Lakshmana said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "अस्थाने सम्भ्रमो यस्य जातो वै सुमहानयम्।।2.23.5।।\nधर्मदोष प्रसङ्गेन लोकस्यानतिशङ्कया।\nकथंह्येतदसम्भ्रान्तस्त्वद्विधो वक्तुमर्हति।।2.23.6।।\nयथा दैवमशौडीरं शौण्डीर क्षत्रियर्षभ।",
+      "transliteration": "",
+      "translation": "O Rama, the greatest among the brave kshatriyas you say this because of your fear that (by disobeying father's command) harm will be done to righteousness. This great haste is unwarranted for there is the least apprehension about people's verdict (in favour of exile). How do you, of all persons, speak about destiny as allpowerful in these circumstances when it is powerless?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "किन्नाम कृपणं दैवमशक्तमभिशंससि।।2.23.7।।\nपापयोस्ते कथं नाम तयोश्शङ्का न विद्यते।",
+      "transliteration": "",
+      "translation": "Why do you extol this pitiable and powerless destiny? Why don't you doubt those two vicious persons (Dasaratha and Kaikeyi)?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "सन्ति धर्मोपधा श्लक्ष्णाः धर्मात्मन्किं न बुध्यसे।।2.23.8।।\nतयोस्सुचरितं स्वार्थं शाठ्यात्परिजिहीर्षतोः।",
+      "transliteration": "",
+      "translation": "Why don't you realise, O virtuous one that there are soft means of creating hindrances in their plan without trangressing dharma. You know dharma. Why don't you understand that their acts of deception wear the guise of dharma?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "यदि नैवं व्यवसितं स्याद्धि प्रागेव राघव।।2.23.9।।\nतयोः प्रागेव दत्तश्च स्याद्वरः प्रकृतश्च सः।",
+      "transliteration": "",
+      "translation": "If both of them had not decided before, O Rama the boon granted to Kaikeyi naturally would have been fulfilled long ago.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "लोकविद्विष्टमारब्धं त्वदन्यस्याभिषेचनम्।\nनोत्सहे सहितुं वीर तत्र मे क्षन्तुमर्हसि।।2.23.10।।",
+      "transliteration": "",
+      "translation": "The consecration of any one other than you, O valiant one is universally detested. I do not want to tolerate (this act). You should pardon me in this matter.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "येनेय मागता द्वैधं तव बुद्धिर्महामते।\nस हि धर्मो मम द्वेष्यः प्रसङ्गाद्यस्य मुह्यसि।।2.23.11।।",
+      "transliteration": "",
+      "translation": "O noble minded one I hate this righteousness which has deluded your intellect and created this dilemma about this issue.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "कथं त्वं कर्मणा शक्तः कैकेयीवशवर्तिनः।\nकरिष्यसि पितुर्वाक्यमधर्मिष्ठं विगर्हितम्।।2.23.12।।",
+      "transliteration": "",
+      "translation": "When you are able to counter (this move), why do you want to execute the unjustifiable and contemptible words of the king who is under the spell of Kaikeyi?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "यद्ययं किल्बिषाद्भेदः कृतोऽप्येवं न गृह्यते।\nजायते तत्र मे दुःखं धर्मसङ्गश्च गर्हितः।।2.23.13।।",
+      "transliteration": "",
+      "translation": "I am grieved that even though this plot has been hatched by a treacherous mind, you are not taking it in the right perspective. Censurable is adherence to virtue.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "मनसाऽपि कथं कामं कुर्यास्त्वं कामवृत्तयोः।\nतयोस्त्वहितयोर्नित्यं शत्र्वोः पित्रभिधानयोः।।2.23.14।।",
+      "transliteration": "",
+      "translation": "As both of them are steeped in passion, they never thought of your wellbeing. How will you fulfil the wishes of these enemies miscalled parents?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "यद्यपि प्रतिपत्तिस्ते दैवी चापि तयोर्मतम्।\nतथाप्युपेक्षणीयं ते न मे तदपि रोचते।।2.23.15।।",
+      "transliteration": "",
+      "translation": "It might be your opinion that their dictate is the decree of destiny. Even then, it does not satisfy me. It (destiny) should be ignored.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "विक्लबो वीर्यहीनो यस्स दैवमनुवर्तते।\nवीरास्सम्भावितात्मानो न दैवं पर्युपासते।।2.23.16।।",
+      "transliteration": "",
+      "translation": "Those who are timid and cowardly alone depend on destiny.The valiant with of  selfrespect will not accept it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "दैवं पुरुषकारेण यः समर्थः प्रबाधितुम्।\nन दैवेन विपन्नार्थः पुरुषस्सोऽवसीदति।।2.23.17।।",
+      "transliteration": "",
+      "translation": "In the case of one capable of striking destiny with human efforts it cannot defeat his objective and bring him despondency.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "द्रक्ष्यन्ति त्वद्य दैवस्य पौरुषं पुरुषस्य च।\nदैवमानुषयोरद्य व्यक्ता व्यक्तिर्भविष्यति।।2.23.18।।",
+      "transliteration": "",
+      "translation": "Today all will witness the power of destiny and the power of man. The difference between man and destiny will be manifested today.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अद्य मत्पौरुषहतं दैवं द्रक्ष्यन्ति वै जनाः।\nयद्दैवादाहतं तेऽद्य दृष्टं राज्याभिषेचनम्।।2.23.19।।",
+      "transliteration": "",
+      "translation": "Today people will see destiny defeated by my valour just as they saw your consecration defeated (obstructed) by destiny.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "अत्यङ्कुशमिवोद्दामं गजं मदबलोद्धतम्।\nप्रधावितमहं दैवं पौरुषेण निवर्तये।।2.23.20।।",
+      "transliteration": "",
+      "translation": "I will make destiny, the elephant, running wild on the strength of the rut, unmanageable (even) by the goad, turn back with my valour.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "लोकपालास्समस्ता स्ते नाद्य रामाभिषेचनम्।\nन च कृत्स्नास्त्रयो लोका विहन्युः किं पुनः पिता।।2.23.21।।",
+      "transliteration": "",
+      "translation": "All the guardians of the quarters and all the three worlds united cannot prevent the consecration of Rama today, what to speak of our father (king Dasaratha).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "यैर्निवासस्तवारण्ये मिथो राजन्समर्थितः।\nअरण्ये ते निवत्स्यन्ति चतुर्दश समास्तथा।।2.23.22।।",
+      "transliteration": "",
+      "translation": "O king those who, with mutual support banished you to the forest, will themselves  dwell in the forest for fourteen years.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "अहं तदाशां छेत्स्यामि पितुस्तस्याश्च या तव।\nअभिषेकविघातेन पुत्रराज्याय वर्तते।।2.23.23।।",
+      "transliteration": "",
+      "translation": "Therefore, I shall frustrate the desire of father and of  Kaikeyi who plans the kingdom for her son by obstructing your consecration.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "मद्बलेन विरुद्धाय न स्याद्दैवबलं तथा।\nप्रभविष्यति दुःखाय यथोग्रं पौरुषं मम।।2.23.24।।",
+      "transliteration": "",
+      "translation": "Any one who opposes my terrible valour will come to grief. The power of destiny will not cause that much sorrow as my valour will.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "ऊर्ध्वं वर्षसहस्रान्ते प्रजापाल्यमनन्तरम्।\nआर्यपुत्राः करिष्यन्ति वनवासं गते त्वयि।।2.23.25।।",
+      "transliteration": "",
+      "translation": "When after ruling the subjects for a thousand years you withdraw into the forest (for yativrata) your sons will rule them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "पूर्वं राजर्षिवृत्त्या हि वनवासो विधीयते।\nप्रजा निक्षिप्य पुत्रेषु पुत्रवत्परिपालने।।2.23.26।।",
+      "transliteration": "",
+      "translation": "Leaving their sons to look after the subjects as their own children, the rajarsis in  ancient times used to retire into the forest as per practice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "स चेद्राजन्यनेकाग्रे राज्यविभ्रमशङ्कया।\nनैवमिच्छसि धर्मात्मन् राज्यं राम त्वमात्मनि।।2.23.27।।\nप्रतिजाने च ते वीर माऽभूवं वीरलोकभाक्।\nराज्यं च तव रक्षेयमहं वेलेव सागरम्।।2.23.28।।",
+      "transliteration": "",
+      "translation": "O righteous one, if you apprehend chaos in the kingdom for want of wholehearted support from the (feudatory) kings then, O my valiant brother, I swear to you, I will protect your kingdom like the shore protecting the ocean. Or else, I shall never attain the afterworld of heroes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "मङ्गलैरभिषिञ्चस्व तत्र त्वं व्यापृतो भव।\nअहमेको महीपालानलं वारयितुं बलात्।।2.23.29।।",
+      "transliteration": "",
+      "translation": "The consecration may be performed with these auspicious materials. I am alone capable of facing these kings with my valour.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "न शोभार्थाविमौ बाहू न धनुर्भूषणाय मे।\nनाऽसिराबन्धनार्थाय न शरास्तम्भहेतवः।।2.23.30।।\nअमित्रदमनार्थं मे सर्वमेतच्चतुष्टयम्।",
+      "transliteration": "",
+      "translation": "These my arms are not intended to enhance the beauty (of my body). This bow is not for decoration. The sword is not for the sake of strapping my waist. The arrows are not meant to be fixed to my quiver. All these four are meant for taming my enemies.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "न चाहं कामयेऽत्यर्थं यस्स्याच्छत्रुर्मतो मम।।2.23.31।।\nअसिना तीक्ष्णधारेण विद्युच्चलितवर्चसा।\nप्रगृहीतेन वै शत्रुं वज्रिणं वा न कल्पये।।2.23.32।।",
+      "transliteration": "",
+      "translation": "Any one who turns my enemy will not be allowed to remain alive. Holding my sharpedged sword, lustrous as a flash of lightning, I shall  exterminate my enemy even if it were Indra, the bearer of thunder.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "खड्गनिष्पेषनिष्पिष्टैर्गहना दुश्चरा च मे।\nहस्त्यश्वनरहस्तोरुशिरोभिर्भविता मही।।2.23.33।।",
+      "transliteration": "",
+      "translation": "This entire earth will become impenetrable and impassable, scattered with the trunks, thighs and heads of elephants, horses and warriors hacked off with my sword.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "खड्गधाराहता मेऽद्य दीप्यमाना इवाद्रयः।\nपतिष्यन्ति द्विपा भूमौ मेघा इव सविद्युतः।।2.23.34।।",
+      "transliteration": "",
+      "translation": "The elephants, struck by the blows of my sword, will fall on earth like mountains engulfed in flames and like clouds with lightning.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "बद्धगोधाङ्गुलित्राणे प्रगृहीतशरासने।\nकथं पुरुषमानी स्यात्पुरुषाणां मयि स्थिते।।2.23.35।।",
+      "transliteration": "",
+      "translation": "When I stand before men (enemies) wearing godha and fingerprotector, holding the bow ready, who amongst men will boast of his manliness?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "बहुभिश्चैकमत्यस्यन्नेकेन च बहून्जनान्।\nविनियोक्ष्याम्यहं बाणान्नृवाजिगजमर्मसु।।2.23.36।।",
+      "transliteration": "",
+      "translation": "Striking each of my foes with many arrows and many with one arrow, I shall aim them at the vitals of men, horses and elephants.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "अद्य मेऽस्त्रप्रभावस्य प्रभावः प्रभविष्यति।\nराज्ञश्चाप्रभुतां कर्तुं प्रभुत्वं तव च प्रभोः।।2.23.37।।",
+      "transliteration": "",
+      "translation": "O Lord today you shall see the power of my glorious weapons in depriving the king (Dasaratha) of his authority and establishing your supremacy over the kingdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "अद्य चन्दनसारस्य केयूरामोक्षणस्य च।\nवसूनां च विमोक्षस्य सुहृदां पालनस्य च।।2.23.38।।\nअनुरूपाविमौ बाहू राम कर्म करिष्यतः।\nअभिषेचनविघ्नस्य कर्तृ़णां ते निवारणे।।2.23.39।।",
+      "transliteration": "",
+      "translation": "These arms, O Rama which are fit for sandalwood cream, for wearing armlets, for distributing wealth and for protecting friends, will perform the worthy act of subduing those who are creating obstruction to your consecration.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "ब्रवीहि कोऽद्यैव मया वियुज्यताम्\nतवा सुहृत्प्राणयशस्सुहृज्जनैः। \nयथा तवेयं वसुधा वशे भवे  \nत्तथैव मां शाधि तवास्मि किङ्करः।।2.23.40।।",
+      "transliteration": "",
+      "translation": "Tell me your enemy who should be deprived of his life, fame and friends. Command me as to how this earth shall come under your control. Now itself I shall do that. I am your servant.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-23-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "विमृज्य बाष्पं परि���ान्त्व्यचासकृत् \nस लक्ष्मणं राघववंशवर्धनः।\nउवाच पित्र्ये वचने व्यवस्थितं  \nनिबोध मामेष हि सौम्य सत्पथः।।2.23.41।।",
+      "transliteration": "",
+      "translation": "Wiping the tears again and again and having consoled Lakshmana for more than once, Rama, the enhancer of the glory of the Raghu dynasty said, O handsome one know, for sure, that I am firm in abiding by the words of our father. This is the true path (for me).  इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे त्रयोविंशस्सर्गः।। Thus ends the twentythird sarga of Ayodhyakanda of  the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

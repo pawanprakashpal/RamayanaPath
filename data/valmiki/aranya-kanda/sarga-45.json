@@ -1,0 +1,351 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 45,
+    "title": "There at the hermitage Sita asks Lakshmana to rush to Rama's help Lakshmana resists, stating Rama needs no help--Sita lashes at Lakshmana in harsh words.",
+    "titleSanskrit": "",
+    "totalShlokas": 37
+  },
+  "shlokas": [
+    {
+      "id": "v3-45-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "आर्तस्वरं तु तं भर्तुर्विज्ञाय सदृशं वने।\nउवाच लक्ष्मणं सीता गच्छ जीनीहि राघवम्।।3.45.1।।",
+      "transliteration": "",
+      "translation": "On hearing the voice in distress and recognising that it was similar to her husband's voice, Sita said to Lakshmana, 'Go and find out Rama's whereabouts'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "न हि मे हृदयं स्थाने जीवितं वाऽवतिष्ठति।\nक्रोशतः परमार्तस्य श्रुतश्शब्दो मया भृशम्।।3.45.2।।\nआक्रन्दमानं तु वने भ्रातरं त्रातुमर्हसि।",
+      "transliteration": "",
+      "translation": "I clearly heard Rama calling out in great distress. Indeed, my heart as well as my life is not in its place (restless). You ought to go and protect your brother who is crying in pain in the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "तं क्षिप्रमभिधाव त्वं भ्रातरं शरणैषिणम्।।3.45.3।।\nरक्षसां वशमापन्नं सिंहानामिव गोवृषम्।",
+      "transliteration": "",
+      "translation": "Like a bull caught by lions, your brother is seeking help caught by demons. You should run at once to your brother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "न जगाम तथोक्तस्तु भ्रातुराज्ञाय शासनम्।।3.45.4।।\nतमुवाच ततस्तत्र कुपिता जनकात्मजा।",
+      "transliteration": "",
+      "translation": "When he did not budge in obedience to his brother's order (to protect Sita), the daughter of Janaka in a rage said :",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "सौमित्रे मित्ररूपेण भ्रातुस्त्वमसि शत्रुवत्।।3.45.5।।\nयस्त्वमस्यामवस्थायां भ्रातरं नाभिपत्स्यसे।",
+      "transliteration": "",
+      "translation": "Since you, O son of Sumitra,  are not reaching out to your brother in this situation, you are an enemy to your brother in the guise of a friend৷৷",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "इच्छसि त्वं विनश्यन्तं रामं लक्ष्मण मत्कृते।।3.45.6।।\nलोभात्त्वं मत्कृते नूनं नानुगच्छसि राघवम्।",
+      "transliteration": "",
+      "translation": "It is possess me that you wish Rama's death. You do not rush to him certainly because of greed for me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "व्यसनं ते प्रियं मन्ये स्नेहो भ्रातरिनास्तिते।।3.45.7।।\nतेन तिष्ठसि विश्रब्धंतमपश्यन्महाद्युतिम्।",
+      "transliteration": "",
+      "translation": "I think Rama's adversity is welcome to you. You do not have any love towards your brother. It is for this that you stand unconcerned instead of proceeding to help your brilliant brother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "किं हि संशयमापन्ने तस्मिन्निह मया भवेत्।।3.45.8।।\nकर्तव्यमिह तिष्ठन्त्या यत्प्रधानस्त्वमागतः।",
+      "transliteration": "",
+      "translation": "When he for whose service you have primary come here, has met with difficulty, what is the use of your being here? What purpose you serve by staying here with me ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "इति ब्रुवाणां वैदेहीं बाष्पशोकपरिप्लुताम्।।3.45.9।।\nअब्रवील्लक्ष्मणस्त्रस्तां सीतां मृगवधूमिव।",
+      "transliteration": "",
+      "translation": "While Sita thus spoke, flooded with tears of sorrow, frightened like a doe, Lakshmana replied :",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "पन्नगासुरगन्धर्वदेवमानुषराक्षसैः।।3.45.10।।\nअशक्यस्तव वैदेहि भर्ता जेतुं न संशयः।",
+      "transliteration": "",
+      "translation": "O Vaidehi there is no doubt that pannagas, asuras, gandharvas, gods, men or even demons cannot defeat him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "देवि देवमनुष्येषु गन्धर्वेषु पतत्रिषु।।3.45.11।।\nराक्षसेषु पिशाचेषु किन्नरेषु मृगेषु च।\nदानवेषु च घोरेषु स न विद्येत शोभने।।3.45.12।।\nयो रामं प्रतियुध्येत समरे वासवोपमम्।",
+      "transliteration": "",
+      "translation": "O brilliant Devi  none  among gods or men, gandharvas, birds or goblins kinnaras, wild animals or dreadful demons can encounter Rama in war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अवध्यस्समरे रामो नैवं त्वं वक्तुमर्हसि।।3.45.13।।\nन त्वामस्मिन्वने हातुमुत्सहे राघवं विना।",
+      "transliteration": "",
+      "translation": "Rama is indestructible in war. It is not proper for you to say what you said. When he is not here I do not wish to leave you alone here in the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "अनिवार्यं बलं तस्य बलैर्बलवतामपि।।3.45.14।।\nत्रिभिर्लोकैस्समुद्युक्तैस्सेश्वरैरपि सामरैः।",
+      "transliteration": "",
+      "translation": "He cannot be stopped by the strength of the mighty, or by Indra supported by gods or by the wellequipped armies of all the three worlds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "हृदयं निर्वृतं तेऽस्तुसन्तापस्त्यज्यतामयम्।।3.45.15।।\nआगमिष्यति ते भर्ता श्रीघ्रं हत्वा मृगोत्तमम्।",
+      "transliteration": "",
+      "translation": "May your heart be relieved (of this fear)  Give up this grief. Your husband will soon return with the excellent deer killed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "न च तस्य स्वरो व्यक्तं मायया केन चित्कृतः।\nगन्धर्वनगरप्रख्या माया सा तस्य रक्षसः।।3.45.16।।",
+      "transliteration": "",
+      "translation": "Surely it is not his voice. It is contrived by some one's illusory power. It is the illusion created by that demon, like the city of the gandharvas. (which does not exist.)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "न्यासभूतासि वैदेहि न्यस्ता मयि महात्म��ा।।3.45.17।।\nरामेण त्वं वरारोहे न त्वां त्यक्तुमिहोत्सहे।",
+      "transliteration": "",
+      "translation": "O best of women Vaidehi  great Rama has entrusted your safty to me. I do not wish to leave you here alone.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "कृतवैराश्च वैदेहि वयमेतैर्निशाचरैः।।3.45.18।।\nखरस्य निधनादेव जनस्थानवधं प्रति।",
+      "transliteration": "",
+      "translation": "O Vaidehi since the killing of Khara and the residents of Janasthana we have developed enmity with the demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "राक्षसा विविधा वाचो विसृजन्ति महावने।।3.45.19।।\nहिंसाविहारा वैदेहि न चिन्तयितुमर्हसि।",
+      "transliteration": "",
+      "translation": "These demons wander about tormenting others and spreading rumours of all kinds.  You need not worry about them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "लक्ष्मणेनैवमुक्ता सा क्रुद्धा संरक्तलोचना।।3.45.20।।\nअब्रवीत्परुषं वाक्यं लक्ष्मणं सत्यवादिनम्।",
+      "transliteration": "",
+      "translation": "Addressed thus by Lakshmana, Sita got mighty angry. Her eyes turned red and she spoke harshly to truthful Lakshmana",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "अनार्याकरणारम्भ नृशंस कुलपांसन।।3.45.21।।\nअहं तव प्रियं मन्ये रामस्य व्यसनं महत्।",
+      "transliteration": "",
+      "translation": "O ignoble, cruel Lakshmana, you are a disgrace to your family. I think this great disaster of Rama is a pleasure to you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "रामस्य व्यसनं दृष्ट्वा तेनैतानि प्रभाषसे।।3.45.22।।\nनैतच्चित्रं सपत्नेषु पापं लक्ष्मण यद्भवेत्।\nत्वद्विधेषु नृशंसेषु नित्यं प्रच्छन्नचारिषु।।3.45.23।।",
+      "transliteration": "",
+      "translation": "O Lakshmana,do you speak such words seeing the disaster of Rama?  No wonder that cruel men who always move like you in disguise will thus resort to sinful action against rivals.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "सुदुष्टस्त्वं वने राममेकमेकोऽनुगच्छसि।\nमम हेतोः प्रतिच्छन्नः प्रयुक्तोभरतेन वा।।3.45.24।।",
+      "transliteration": "",
+      "translation": "You are very wicked. You are hiding your true identity, and employed by Bharata, you are following Rama in the forest as he is alone.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तन्नसिध्यति सौमित्रे तव वा भरतस्य वा।\nकथमिन्दीवरश्यामं पद्मपत्रनिभेक्षणम्।।3.45.25।।\nउपसंश्रित्य भर्तारं कामयेयं पृथग्जनम्।",
+      "transliteration": "",
+      "translation": "O Lakshmana such intention of yours or even of Bharata's will not be fulfilled. I have held the hands of Rama who has eyes like the lotus petal, who has the complexion of the blue lotus. How can I prefer some other man?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "समक्षं तव सौमित्रे प्राणांस्त्यक्षे न संशयः।\nरामं विना क्षणमपि न हि जीवामि भूतले।।3.45.26।।",
+      "transliteration": "",
+      "translation": "I will undoubtedly give up my life in your presence.I will not live even for a moment on earth without Rama, O son of Sumitra",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "इत्युक्तः परुषं वाक्यं सीतया रोमहर्षणम्।।3.45.27।।\nअब्रवील्लक्ष्मणस्सीतां प्राञ्जलिर्विजितेन्द्रियः।",
+      "transliteration": "",
+      "translation": "The selfcontrolled Lakshmana with folded palms replied to Sita's harsh, horripilating words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "उत्तरं नोत्सहे वक्तुं दैवतं भवती मम।।3.45.28।।\nवाक्यमप्रतिरूपं तु न चित्रं स्त्रीषु मैथिलि।\nस्वभावस्त्वेष नारीणामेवं लोकेषु दृश्यते।।3.45.29।।",
+      "transliteration": "",
+      "translation": "O princess from Mithila, I do not want to use such harsh words. To me you are a deity (worthy of adoration). It is not surprising that women of the world use such undeserving words. It is their nature.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "विमुक्तधर्माश्चपलास्तीक्ष्णा भेदकराः स्त्रियः।\nन सहे हीदृशं वाक्यं वैदेहि जनकात्मजे।।3.45.30।।\nश्रोत्रयोरुभयोर्मेद्य तप्तनाराचसन्निभम्।",
+      "transliteration": "",
+      "translation": "Women devoid dharma are fickle and inconsistent. They use sharp, piercing words. O daughter of Janaka, O princess from Videha, your words pierce my ears like redhot darts.I cannot tolerate them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "उपशृण्वन्तु मे सर्वे साक्षिभूता वनेचराः।।3.45.31।।\nन्यायवादी यथान्यायमुक्तोऽहं परुषं त्वया।",
+      "transliteration": "",
+      "translation": "I speak what is just while you use harsh and unjust words. Let all beings who move in the forest bear witness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "धिक्त्वामद्य प्रणश्य त्वं यन्मामेवं विशङ्कसे।\nस्त्रीत्वलदुष्टं स्वभावेन गुरुवाक्ये व्यवस्थितम्।।3.45.32।।",
+      "transliteration": "",
+      "translation": "Fie upon you. Like a woman of wicked nature you doubt me when I stood firm by my brother's words. You will go to ruin.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "गमिष्ये यत्र काकुत्स्थ स्वस्ति तेऽस्तु वरानने।।3.45.33।।\nरक्षन्तु त्वां विशालाक्षि समग्रा वनदेवताः।",
+      "transliteration": "",
+      "translation": "O beautiful lady, I will go to Rama wherever he may be. Be happy. O largeeyed one, may  all the deities of the forest protect you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "निमित्तानि च घोराणि यानि प्रादुर्भवन्ति मे।।3.45.34।।\nअपि त्वां सह रामेण पश्येयं पुनरागतः।\nन वेत्येतन्न जानामि वैदेहि जनकात्मजे।।3.45.35।।",
+      "transliteration": "",
+      "translation": "O daughter of Janaka O princess from Videha, I see dreadful omens. I do not know whether I will see you when I am back with Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "लक्ष्मणेनैवमुक्ता सा रुदन्ती जनकात्मजा।\nप्रत्युवाच ततो वाक्यं तीव्रं बाष्पपरिप्लुता।।3.45.36।।",
+      "transliteration": "",
+      "translation": "At these words of Lakshmana Sita started crying. With eyes filled with tears she replied with harshness :",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "गोदावरीं प्रवेक्ष्यामि विना रामेण लक्ष्मण।\nअबन्धिष्येऽथवा त्यक्ष्ये विषमे देहमात्मनः।।3.45.37।।",
+      "transliteration": "",
+      "translation": "O Lakshmana without Rama I will drown myself in Godavari or hang myself or leap from a cliff into death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "पिबाम्यहं विषं तीक्ष्णं प्रवेक्ष्यामि हुताशनम्।\nन त्वहं राघवादन्यं पदापि पुरुषं स्पृशे।।3.45.38।।",
+      "transliteration": "",
+      "translation": "I will drink deadly poison or enter fire and die, but will not touch any other man even with my feet.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "इति लक्ष्मणमाक्रुश्य सीता दुःखसमन्विता।\nपाणिभ्यां रुदती दुःखादुदरं प्रजघान ह।।3.45.39।।",
+      "transliteration": "",
+      "translation": "Thus Sita cried in distress, sadly hitting her belly with both the hands, blaming Lakshmana (all the time).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "तामार्तरूपां विमना रुदन्तीं सौमित्रिरालोक्य विशालनेत्राम्।\nआश्वासयामास न चैव भर्तु स्तं भ्रातरंकिञ्चिदुवाच सीता।।3.45.40।।",
+      "transliteration": "",
+      "translation": "Saumitri saw  the largeeyed, dejected Sita crying in distress.He pacified and consoled her but she did not say anything at all to her husband's brother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-45-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "ततस्तु सीतामभिवाद्य लक्ष्मणः कृताञ्जलिः किञ्चिदभिप्रणम्य च।\nअन्वीक्षमाणो बहुशश्च मैथिलीम् जगाम रामस्य समीपमात्मवान्।।3.45.41।।",
+      "transliteration": "",
+      "translation": "Selfcomposed Lakshmana with joined palms saluted her with great reverence.And then, turning towards her again and again, left for Rama. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे पञ्जचत्वारिंशस्सर्गः।। Thus ends the fortyfifth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

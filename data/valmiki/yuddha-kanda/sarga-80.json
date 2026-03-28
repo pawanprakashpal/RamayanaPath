@@ -1,0 +1,396 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 80,
+    "title": "Indrajith starts to fight again with Rama and Lakshmana. Lakshmana wants to use Brahmastra and Rama objects to him and reflects on the means of assailing Indrajith. Indrajith conducts a fire sacrifice before starting to fight.",
+    "titleSanskrit": "",
+    "totalShlokas": 42
+  },
+  "shlokas": [
+    {
+      "id": "v6-80-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "मकरा���्षंहतंश्रुत्वारावणस्समितिञ्जयः ।\nरोषेणमहताविष्टोदन्ताङ्कट���टाय्य च ।।6.80.1।।\nकोपितश्चतदातत्रकिंकार्यमितिचिन्तयन् ।\nआदिदेशाथसङ्क्रुद्धोरणायेजितंसुतम् ।।6.80.2।।",
+      "transliteration": "",
+      "translation": "Ravana, who was always victorious in warhearing that Maka raksha had been killed, became highly enraged and grinding his teeth in anger was engrossed in thinking. He commanded his son Indrajith to go to battle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "जहिवीर महावीर्यौभ्रातरौरामलक्ष्मणौ ।\nअदृश्योदृश्यमानोवासर्वथात्वंबलाधिकः ।।6.80.3।।",
+      "transliteration": "",
+      "translation": "\"Oh, Valiant son! You destroy the two heroic brothers, Rama and Lakshmana, by being visible or invisible as you are always superior to them.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "त्वमप्रतिमकर्माणमिन्द्रंजयसिसंयुगे ।\nकिंपुनर्मानुषौदृष्टवा न वधिष्यसिसंयुगे ।।6.80.4।।",
+      "transliteration": "",
+      "translation": "\"You have won the battle with Indra of incomparable deeds. Why not kill men, onseeing them in combat?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तथोक्तोराक्षसेन्द्रेणप्रतिगृह्यपितुर्वचः ।\nयज्ञभूमौ स विधिवत् पावकंजुहवेन्द्रजित् ।।6.80.5।।",
+      "transliteration": "",
+      "translation": "Hearing the words spoken by the Lord of Rakshasas, Indrajith respecting the command poured oblations in the fireas per tradition before proceeding.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "जुह्वतश्चापितत्राग्निंरक्तोष्णीषधरास्त्रिरियः ।\nआजग्मुस्तत्रसम्भ्रान्ताराक्षस्योयत्ररावणिः ।।6.80.6।।",
+      "transliteration": "",
+      "translation": "Thereafter, as he went to the place of fire sacrifice, Rakshasa women brought red coloured head dresses to wear (for the priests).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "शस्त्राणिशरपत्राणिसमिधोऽथविभीतकाः ।\nलोहितानि च वासांहिस्रुवंकार्ष्णायसंतथा ।।6.80.7।।",
+      "transliteration": "",
+      "translation": "Then, in that fire sacrifice, weapons as grass, wooden pieces as sticks for offering into fire, redcoloured clothes for the priests to wear, and so also iron containers as ladles to offer in fire were used.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "सर्वतोऽग्निंसमास्तीर्यशरपत्रैस्सतोमरैः ।\nछागस्यसर्वकृष्णस्यगळंजग्राहजीवतः ।।6.80.8।।",
+      "transliteration": "",
+      "translation": "Weapons were spread on all sides of the fire sacrifice like grass. A darkcoloured live goat's neck was consigned for offering into fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "सकृदेवसमिद्धस्यविधूमस्यमहार्चिषः ।\nबभूवुस्तानिलिङ्गानिविजयंदर्शयन्ति च ।।6.80.9।।",
+      "transliteration": "",
+      "translation": "By that action of fire sacrifice, the mighty flames and the smoke that appeared from the mighty smokeless fire signifying victory appeared.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "प्रदक्षिणावर्तशिखस्तप्तहाटकसन्निभः ।\nहविस्तत्प्रतिजग्राहपावकस्स्वयमुत्थितः ।।6.80.10।।",
+      "transliteration": "",
+      "translation": "The flames of fire going round the fire by itself which closely resembled refined gold, received the offerings into fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "हुत्वाग्निंतर्पयित्वाथदेवदानवराक्षसान् ।\nआरुरोहरथश्रेष्ठमन्तर्थानगतंशुभम् ।।6.80.11।।",
+      "transliteration": "",
+      "translation": "Having offered fire that way, and gratified Devas, Danavas and Rakshasas, he (Indrajith) ascended the best of chariots and disappeared.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "स वाजिभिश्चतुर्भिस्तुबाणैश्चनिशितैर्युतः ।\nआरोपितमहाचापश्शुशुभेस्यन्दनोत्तमः ।।6.80.12।।",
+      "transliteration": "",
+      "translation": "Drawn by horses, fitted with sharp mighty bows, the chariot was shining exquisitely and looked charming.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "जाज्वल्यमानोवपुषातपनीयपरिच्छदः ।\nमृगैश्चन्द्रार्धचन्द्रैश्च स रथस्समलङ्कृतः ।।6.80.13।।",
+      "transliteration": "",
+      "translation": "The chariot was glittering incarnated with gold covered with images offull moon, crescent moon inscriptions and decorated with images of antelopes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "जाम्बूनदमहाकम्बुर्दीप्तपावकसन्निभः ।\nबभूवेन्द्रजितःकेतुर्वैदूर्यसमलङ्कृतः ।।6.80.14।।",
+      "transliteration": "",
+      "translation": "Like flaming fire in appearance, the chariot was provided with rings of gold, the standard of the chariot was adorned with gems of Vydurya.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तेनचादित्यकल्पेनब्रह्मास्त्रण च पालितः ।\nस बभूवदुराधर्षोरावणिस्सुमहाबलः ।।6.80.15।।",
+      "transliteration": "",
+      "translation": "Protected by the weapon of Brahma, effulgent as the orbit of the Sun, the son of Ravana was endowed with mighty prowess and was difficult to gain over.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "सोऽभि��िर्यायनगरादिन्द्रजित्समितिञ्जयः ।\nहत्वाग्निंराक्षसैर्मन्त्रैरन्तर्धानगतोऽब्रवीत् ।।6.80.16।।",
+      "transliteration": "",
+      "translation": "Indrajith who had acquired the power of being victorious in the wars departed, after uttering ritualistic verses which are known to Rakshasas only and making an offering into fire disappeared and bragged as follows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अद्यहत्वारणेयौतौमिथ्याप्रव्रजितौवने ।\nजयंपित्रेप्रदास्यामिरावणायरणार्जितम् ।।6.80.17।।",
+      "transliteration": "",
+      "translation": "\"Having put an end to war, and the two princes who are in exile in the forest in vain, I will present the victory earned to my father now.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अद्यनिर्वानरमुर्वींहत्वारामंसलक्ष्मणम् ।\nकरिष्येपरमांप्रीतिमित्युक्त्वान्तरधीयत ।।6.80.18।।",
+      "transliteration": "",
+      "translation": "'Making the earth devoid of monkeys, killing Rama and Lakshmana, I will provide supreme joy to my father now', saying so he became invisible.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "आपपातथसङ्कृद्धोदशग्रीवेणचोदितः ।\nतीक्षणकार्मुकनाराचैस्तीक्षणस्त्विन्द्ररिपूरणे ।।6.80.19।।",
+      "transliteration": "",
+      "translation": "Directed by the ten headed Ravana, enemy of Indra, equipped with sharp bows Indrajith rushed furiously.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "स ददर्शमहावीर्यौनागौत्रिशिरसानिव ।\nसृजन्ताविषुजालानिवीरौवानरमध्यगौ ।।6.80.20।।",
+      "transliteration": "",
+      "translation": "That great hero saw Rama and Lakshmana like three serpents in the midst of Vanaras raining network of arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "इमौतावितिसञ्चिन्त्यसज्जंकृत्वा च कार्मुकम् ।\nसन्ततानेषुधाराभिःपर्जन्यइववृष्टिमान् ।।6.80.21।।",
+      "transliteration": "",
+      "translation": "Recognising the two princes, stringing his bow, and fastening, affixing he showered a continuous flow of arrows like rain from rain clouds and covered them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तुवैहायसंप्राप्यसरथोरामलक्ष्मणौ ।\nआचक्षुर्विषयेतिष्ठवनिव्याधनिशितैश्शरैः ।।6.80.22।।",
+      "transliteration": "",
+      "translation": "Riding in the aerial car, Indrajith remaining out of sight released pointed arrows from the sky and tormented Rama and Lakshmana standing in the battlefield.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तौतस्यशरवेगेनपरीतौरामलक्ष्मणौ ।\nधनुषीसशरेकृत्वादिव्यमस्त्रंप्रचक्रतुः ।।6.80.23।।",
+      "transliteration": "",
+      "translation": "Covered by the speed of the arrows released on them, both Rama and Lakshmana wielding their bows and arrows discharged wonderful arrows and exhibited their power.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "प्रच्छादयन्तौगगनंशरजालैर्महाबलौ ।\nतमस्त्रःसूर्यसङ्काशैर्नैवपस्पृशतुश्शरैः ।।6.80.24।।",
+      "transliteration": "",
+      "translation": "Though the mighty Rama and Lakshmana were covering the sky with their arrows resembling the sun they could not touch Indrajith.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "स हिधूमान्धकारं च चक्रेप्रच्चादयन्नभः ।\nदिशश्चान्तर्दधेश्रीमान्नीहारतमसावृताः ।।6.80.25।।",
+      "transliteration": "",
+      "translation": "The glorious Indrajith obscured the sky by making it dark through smoke and fog and made the surrounding directions invisible.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "नैवज्यातलनिर्घोषा न च नेमिखुरस्वनः ।\nशुश्रुवेचरतस्तस्य न च रूपंप्रकाशते ।।6.80.26।।",
+      "transliteration": "",
+      "translation": "While Indrajith was moving, neither the sounds produced by palms or of the wheels or the hoof s were heard and the form was also not visible.,",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "घनान्धकारेतिमिरेशरावर्षमिवाद्भुतम् ।\nस ववर्षमहाबाहुर्नाराचशरवृष्टिभिः ।।6.80.27।।",
+      "transliteration": "",
+      "translation": "The mighty armed Indrajith showered rocks and hails of steel arrows in that pitch darkness like the darkness of clouds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "स रामंसूर्यसङ्काशैश्शरैर्धत्तवरोर्भृशम् ।\nविव्याधसमरेक्रुद्धःसर्वगात्रेषुरावणिः ।।6.80.28।।",
+      "transliteration": "",
+      "translation": "In that conflict, the enraged son of Ravana, pierced all over Rama's limbs, with arrows bestowed to him, which were as effulgent as the Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "तौहन्यमानौनाराचैर्धाराभिरिवपर्वतौ ।\nहेमपुङ्खान्नरव्याघ्रौतिग्मान्मुमुचतुःशरान् ।।6.80.29।।",
+      "transliteration": "",
+      "translation": "The tigers among humans, Rama, and Lakshmana, like two mountains hit by steel arrows, released sharp pointedgold shafted steel arrows and tormented (Indrajith).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "अन्तरिक्षेसमासाद्यरावणिंकङ्कपत्रिणः ।\nनिकृत्यपतगाभूमौसेतुस्तेशोणितोक्षिताः ।।6.80.30।।",
+      "transliteration": "",
+      "translation": "The arrows fixed with swords like wings, reaching Ravana's son in the sky pierced him and he fell down soaked in blood.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "अतिमात्रंशरौघेणपीड्यमानौनरोत्तमौ ।\nतानिषून्पततोभल्लैरनेकैर्विचकर्ततुः ।।6.80.31।।",
+      "transliteration": "",
+      "translation": "Brightened by the mass of arrows on their body, the best of men, Rama and Lakshmana began to tear the numerous arrows called Bhallas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "यतोहिददृशातेतौशरान् निपतितान्शितान् ।\nततस्तुतौदाशरथीससृजातेऽस्त्रमुत्तमम् ।।6.80.32।।",
+      "transliteration": "",
+      "translation": "Both the sons of Dasharatha, directed their best weapons in the direction from where arrows were falling on two of them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "रावणिस्तुदिशस्सर्वारथेनातिरथोऽपतत् ।\nविव्याधतौदाशरथीलघ्वस्त्रनिशितैःशरैः ।।6.80.33।।",
+      "transliteration": "",
+      "translation": "The son of Ravana who was a superior chariot warrior and swift in discharging arrows coursed through all directions and pierced arrows at Rama and Lakshmana from the aerial car.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "तेनातिविद्धौतौवीरौरुक्मपुङ्खैःसुसम्हतैः ।\nबभूवतुर्धाशरथीपुष्पितामिवकिंशुकौ ।।6.80.34।।",
+      "transliteration": "",
+      "translation": "Both the sons of Dasharatha looked like fully blossomed Kimsuka trees (blood flowing from the body) pierced by wellmade gold shafted arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "नास्यवेगगतिंकचशिन्न च रूपंधनुश्शरान् ।\nन चान्यद्विदितंकिञ्चित्सूर्यस्येवाभ्रसम्प्लवे ।।6.80.35।।",
+      "transliteration": "",
+      "translation": "When the clouds are cast thickly, except the position of the Sun, nothing is visible. So also, with a swift movement of Indrajith, neither his form nor his bow and arrows were visible.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "तेनविद्धाश्चहरयोनिहताश्चगतासवः ।\nबभूवुःशतशस्तत्रपतिताधरणीतले ।।6.80.36।।",
+      "transliteration": "",
+      "translation": "Then, monkeys struck and killed, lifelessin hundreds fell on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "लक्ष्मणस्तुततस्सुङ्क्रृद्धोभ्रातरंवाक्यमब्रवीत् ।\nब्राह्ममस्त्रंप्रयोक्ष्यामिवधार्थंसर्वरक्षसाम् ।।6.80.37।।",
+      "transliteration": "",
+      "translation": "Then Lakshmana also, enraged, spoke to his brother, saying,\" I will kill all the Rakshasas using the weapon of Brahma.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "तमुवाचततोरामोलक्ष्मणंशुभलक्षणम् ।\nनैकस्यहेतोरक्षांसिपृथिव्यांहन्तुमर्हसि ।।6.80.38।।",
+      "transliteration": "",
+      "translation": "To Lakshmana, gifted with auspicious signs, Rama said\" for the sake of killing one Rakshasa, you are not to kill all the Rakshasas on the earth.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "अयुध्यमानंप्रच्छन्नंप्राञ्जलिंशरणागतम् ।\nपलायमानंमत्तंवा न हन्तुंत्वमिहार्हसि ।।6.80.39।।",
+      "transliteration": "",
+      "translation": "\"You should not kill anyone who is not waging war, not fighting and hidden, one with folded palms surrendered, one who runs away from war and not alert in war\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "अस्यैवतुवधेयत्नंकरिष्यावोमहाभुज ।\nआदेक्ष्यावोमहावेगावस्त्रानाशीविषोपमान् ।।6.80.40।।",
+      "transliteration": "",
+      "translation": "\"O mighty armed Lakshmana! I will make an effort to kill Indrajith by commanding weapons like venomous serpents endowed with high speed.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "तमेनंमायिनंक्षुद्रमन्तर्हितरथंबलात् ।\nराक्षसंनिहनिष्यन्तिदृष्टवावानरयूथपाः ।।6.80.41।।",
+      "transliteration": "",
+      "translation": "\" A conjurer, mean, and invisible Indrajith with the chariot, if seen, in any way the Vanara troops will forcibly kill him with their strength.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "यद्येषभूमिंविशतेदिवंवारसातलंवापिनभस्स्थलंवा ।\nएवंनिगूढोऽममास्त्रदग्धःपतिष्यतेभूमितलेगतासुः ।।6.80.42।।",
+      "transliteration": "",
+      "translation": "\"If he enters into earth, heaven or the underground world or the subterranean world or remains hidden, my weapon will consume him, and he will fall on earth.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-80-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "इत्येवमुक्त्वावचनंमहात्मारघुप्रवीरःप्लवगर्षभैर्वृतः ।\nवधायरौद्रस्यनृशंसकर्मणस्तदामहात्मात्वरितंनिरीक्षते ।।6.80.43।।",
+      "transliteration": "",
+      "translation": "The great soul Sri Rama, having spoken in a meaningful manner, began to reflect on the means of killing Indrajith swiftly as the leaders of Vanaras surrounded him and awaited. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेअशीतितमस्सर्गः ।। This is the end of the eightieth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

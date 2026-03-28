@@ -1,0 +1,243 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 72,
+    "title": "Cremation of Kabandha-- his reappearance in the sky-- tells Rama to make friendship with Sugriva.",
+    "titleSanskrit": "",
+    "totalShlokas": 25
+  },
+  "shlokas": [
+    {
+      "id": "v3-72-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "एवमुक्तौतु तौ वीरौ कबन्धेन नरेश्वरौ।                \nगिरिप्रदरमासाद्य पावकं विससर्जतुः।।3.72.1।।",
+      "transliteration": "",
+      "translation": "Thus said by Kabandha, the two lords of men, the heroes reached a cave in the mountain and lighted the fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-72-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "लक्ष्मणस्तु महोल्काभिर्ज्वलिताभिस्समन्ततः।\nचितामादीपयामास सा प्रजज्वाल सर्वतः।।3.72.2।।",
+      "transliteration": "",
+      "translation": "Lakshmana lit the pyre with big meteorlike logs on all sides and it burned.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-72-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "तच्छरीरं कबन्धस्य घृतपिण्डोपमं महत्।\nमेदसा पच्यमानस्य मन्दं दहति पावकः।।3.72.3।।",
+      "transliteration": "",
+      "translation": "As the flesh of Kabandha's body decomposed, if burnt slowly in the fire although it  was like a huge mass of fat.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-72-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "स विधूय चितामाशु विधूमोऽग्निरिवोत्थितः।\nअरजे वाससी बिभ्रन्मालां दिव्यां महाबलः।।3.72.4।।",
+      "transliteration": "",
+      "translation": "Mighty Kabandha shook himself off the funeral pyre and rose like smokeless fire, wearing a pair of clean clothes and a divine garland.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-72-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "ततश्चिताया वेगेन भास्वरो विमलाम्बरः।\nउत्पपाताशु संहृष्टस्सर्वप्रत्यङ्गभूषणः।।3.72.5।।",
+      "transliteration": "",
+      "translation": "Thereafter shining brightly in pure clothes and wearing ornaments all over the body, Kabandha hurtled out happily and instantaneously from the pyre.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-72-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "विमाने भास्वरे तिष्ठन्हंसयुक्ते यशस्करे।\nप्रभया च महातेजा दिशो दश विराजयन्।।3.72.6।।\nसोऽन्तरिक्षगतो रामं कबन्धो वाक्यमब्रवीत्।\nशृणु राघव तत्त्वेन यथा सीतामवाप्स्यसि।।3.72.7।।",
+      "transliteration": "",
+      "translation": "The effulgent Kabandha rose into the sky on a famous aerial chariot harnessed to swans. Seated on it, he illuminated all ten directions and spoke from the sky,'O Raghava I will truly tell you how you will get Sita, listen to me'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-72-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "राम षड्युक्तयो लोके याभिस्सर्वं विमृश्यते।\nपरिमृष्टो दशान्तेन दशाभागेन सेव्यते।।3.72.8।।",
+      "transliteration": "",
+      "translation": "O Rama there are six expedients (peace,war,marching,neutrality, alliance, making peace with one and waging war with another, for attaining your goal in the world. Only the unlucky can help the unfortunate.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-72-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "दशाभागगतो हीनस्त्वं हि राम सलक्ष्मणः।\nयत्कृते व्यसनं प्राप्तं त्वया दारप्रधर्षणम्।।।3.72.9।।",
+      "transliteration": "",
+      "translation": "Along with Lakshmna you are passing through a bad period on account of which your wife has been kidnapped and you, lying low, are experiencing great grief, O Rama",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-72-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तदवश्यं त्वया कार्यस्ससुहृत्सुहृदां वर।\nअकृत्वा हि न ते सिद्धिमहं पश्यामि चिन्तयन्।।3.72.10।।",
+      "transliteration": "",
+      "translation": "O Rama, the best of friends  you should certainly make friendship with him. As I think over the matter, I do not see any success if you do not adopt this method.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-72-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "श्रूयतां राम वक्ष्यामि सुग्रीवो नाम वानरः।\nभ्रात्रा निरस्तः क्रुद्धेन वालिना शक्रसूनुना।।3.72.11।।",
+      "transliteration": "",
+      "translation": "O Rama, listen. I shall tell you. A monkey named Sugriva has been banished from the kingdom in a fit of anger by his brother Vali, the son of Indra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-72-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "ऋश्यमूके गिरिवरे पम्पापर्यन्तशोभिते।\nनिवसत्यात्मवान्वीरश्चतुर्भिस्सह वानरैः।।3.72.12।।",
+      "transliteration": "",
+      "translation": "A hero of great selfrespect, he lives with four monkeys on a beautiful mountain Rishyamuka extending up to lake Pampa.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-72-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "वानरेन्द्रो महावीर्यस्तेजोवानमितप्रभः।\nसत्यसन्धो विनीतश्च धृतिमान्मतिमान्महान्।।3.72.13।।",
+      "transliteration": "",
+      "translation": "This king of monkeys is energetic with great strength and limitless lustre. He is humble and truthful, valiant, patient and intelligent. He is great.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-72-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "दक्षः प्रगल्भो द्युतिमान्महाबलपराक्रमः।\nभ्रात्रा विवासितो राम राज्यहेतोर्महाबलः।।3.72.14।।",
+      "transliteration": "",
+      "translation": "He is efficient, eloquent, brilliant. He is mighty and strong. (But) he is banished by his brother from the kingdom, O Rama",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-72-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "स ते सहायो मित्रं च सीतायाः परिमार्गणे।\nभविष्यति हिते राम मा च शोके मनः कृथाः।।3.72.15।।",
+      "transliteration": "",
+      "translation": "O Rama he will help you as a benevolent friend in searching out Sita. Do not indulge in sorrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-72-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "भवितव्यं हि यच्चापि न तच्छक्यमिहान्यथा।\nकर्तुमिक्ष्वाकुशार्दूल कालो हि दुरतिक्रमः।।3.72.16।।",
+      "transliteration": "",
+      "translation": "O best of the Ikshvaku race whatever is due to happen cannot be otherwise.  It is not  possible to transgress time (fate).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-72-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "गच्छ श्रीघ्रमितो राम सुग्रीवं तं महाबलम्।\nवयस्यं तं कुरु क्षिप्रमितो गत्वाऽद्य राघव।।3.72.17।।\nअद्रोहाय समागम्य दीप्यमाने विभावसौ।",
+      "transliteration": "",
+      "translation": "O Rama, immediately proceed today from here to mighty Sugriva. Having reached him, make him your friend without malice in the presence of burning fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-72-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "स च ते नावमन्तव्यस्सुग्रीवो वानराधिपः।।3.72.18।।\nकृतज्ञः कामरूपी च सहायार्थी च वीर्यवान्।",
+      "transliteration": "",
+      "translation": "Thinking that Sugriva is only a vanara king, he should not be disrespected. He has a sense of gratitude. He can take any form at will. He is in need of your help although he is very strong.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-72-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "शक्तौह्यद्य युवां कर्तुं कार्यं तस्य चिकीर्षितम्।।3.72.19।।\nकृतार्थो वाऽकृतार्थो वा कृत्यं तव करिष्यति।",
+      "transliteration": "",
+      "translation": "You are both young and able to do the work he wants. Whether his work is done or not, he will fulfil your task.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-72-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "स ऋक्षरजसः पुत्रः पम्पामटति शङ्कितः।।.3.72.20।।\nभास्करस्यौरसः पुत्रो वालिना कृतकिल्बिषः।",
+      "transliteration": "",
+      "translation": "Born of Riksharaja, he is the offspring of the Sungod. He has developed enmity with Vali, and is roaming about the banks of Pampa, suspecting danger from Vali.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-72-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "सन्निधायायुधं क्षिप्रमृष्यमूकालयं कपिम्।।3.72.21।।\nकुरु राघव सत्येन वयस्यं वनचारिणम्।",
+      "transliteration": "",
+      "translation": "O Rama, with your weapons kept ready, go to Sugriva, king of the monkeys, a resident of Rishyamuka. He is wandering in the forest. Establish friendship with him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-72-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "स हि स्थानानि सर्वाणि कार्त्स्न्येन कपिकुञ्जरः।।3.72.22।।\nनरमांसाशिनां लोके नैपुण्यादधिगच्छति।",
+      "transliteration": "",
+      "translation": "He is the foremost of the monkeys. He knows well by his wisdom all the  dwellingplaces of the carnivorous demons in the world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-72-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "न तस्याविदितं लोकेकिञ्चिदस्ति हि राघव।।3.72.23।।\nयावत्सूर्यः प्रतपति सहस्रांशुररिन्दम।",
+      "transliteration": "",
+      "translation": "There is nothing unknown to Sugriva in this world as far as the Sun shines, O subduer of enemies",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-72-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "स नदीर्विपुलान्शैलान् गिरिदुर्गाणि कन्दरान्।।3.72.24।।\nअन्वीक्ष्य वानरैस्सार्धं पत्नीं तेऽधिगमिष्यति।",
+      "transliteration": "",
+      "translation": "Along with his monkeys, he will search all rivers, mountains and caves and will find out your consort.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-72-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "वानरांश्च महाकायान्प्रेषयिष्यति राघव।।3.72.25।।\nदिशो विचेतुं तां सीतां त्वद्वियोगेन शोचतीम्।\nस ज्ञास्यति वरारोहां निर्मलां रावणालये।।3.72.26।।",
+      "transliteration": "",
+      "translation": "Sugriva will find out the lady of purity and chastity brooding over you in separation in the abode of Ravana. He can send gigantic monkeys in different directions in order to search for her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-72-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "स मेरुशृङ्गाग्रगतामनिन्दितां प्रविश्य पातालतलेऽपि वा श्रिताम्।\nप्लवङ्गमानां प्रवरस्तव प्रियां निहत्य रक्षांसि पुनः प्रदास्यति।।3.72.27।।",
+      "transliteration": "",
+      "translation": "Sugriva, king of the monkeys, will reach the demons  and restore you that blameless, beloved consort of yours, even if she is there on top of mount Meru or in the deep underworld.  इत्यार्ष श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे द्विसप्ततितमस्सर्गः।। Thus ends the seventysecond sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

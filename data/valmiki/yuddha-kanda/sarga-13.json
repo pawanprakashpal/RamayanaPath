@@ -1,0 +1,207 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 13,
+    "title": "Mahaparsva advises Ravana to force Sita, and Ravana expresses his inability to do so because of the curse pronounced by Brahma.",
+    "titleSanskrit": "",
+    "totalShlokas": 21
+  },
+  "shlokas": [
+    {
+      "id": "v6-13-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "रावणंक्रुद्धमाज्ञायमहापार्श्वोमहाबलः ���\nमुहूर्तमनुसञ्चिन्त्यप्राञ्जलिर्वाक्यमब्रवीत् ।।6.13.1।।",
+      "transliteration": "",
+      "translation": "Having realized that Ravana has become angry, Mahaparsva of extraordinary strength, thinking of pleasing him for a while greeting him with folded palms, spoke.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-13-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "यःखल्वपिवनंप्राप्यमृगव्यालनिषेवितम् ।\nनपिबेन्मधुसम्प्राप्यसनरोबालिशोभवेत् ।।6.13.2।।",
+      "transliteration": "",
+      "translation": "\"Having reached a forest inhabited by wild animals and snakes for honey, whoever does not drink the honey obtained is surely a childish one.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-13-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "ईश्वरस्येश्वरःकोऽस्तितवशत्रुनिबर्हण: ।\nरमस्वसहवैदेह्याशत्रूनाक्रम्यमूर्धसु ।।6.13.3।।",
+      "transliteration": "",
+      "translation": "\"O Destroyer of foes Who is there to question Lord since you are Lord? Setting your foot on the head of enemy you may sport with Sita.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-13-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "बलात्कुक्कुटवृत्तेनप्रवर्तस्वमहाबल: ।\nआक्रम्याक्रम्यसीतांवैतांभुङ् क्ष्वचरमस्वच ।।6.13.4।।",
+      "transliteration": "",
+      "translation": "\"(O Ravana) of great strength Take hold of Sita forcibly like the cock, enjoy and revel with her.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-13-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "लब्धकामस्यतेपश्चादागमिष्यतियद्भयम् ।\nप्राप्तमप्राप्तकालंवासर्वंप्रतिसहिष्यति ।।6.13.5।।",
+      "transliteration": "",
+      "translation": "\"When you have fulfilled your desire, why fear? Let it happen. Let that which is yet to come, happen. You will be able to face.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-13-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "कुम्भकर्णस्सहास्माभिरिन्द्रजिच्चमहाबलः ।\nप्रतिषेधयितुंशक्तौसवज्रमपिवज्रिणम् ।।6.13.6।।",
+      "transliteration": "",
+      "translation": "\"Kumbhakarna accompanied by Indrajith of extraordinary strength have the power to ward off even if Indra, armed with thunderbolt comes.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-13-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "उपप्रदानंसान्त्वंवाभेदंवाकुशलैःकृतम् ।\nसमतिक्रम्यदण्डेनसिद्धिमर्थेषुरोचये ।।6.13.7।।",
+      "transliteration": "",
+      "translation": "\"Leaving aside charity, conciliation or even by showing dissension, the three means resorted to by the wise people, you will attain success by force.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-13-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "इहप्राप्तान्वयंसर्वान् शत्रूंस्तवमहाबल: ।\nवशेशस्त्रप्रतापेनकरिष्यामोनसंशयः ।।6.13.8।।",
+      "transliteration": "",
+      "translation": "\"O Ravana of extraordinary strength We will bring all your enemies under control on their arrival here. There is no doubt.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-13-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "एवमुक्तस्तदाराजामहापार्श्वेनरावणः ।\nतस्यसम्पूजयन्वाक्यमिदंवचनमब्रवीत् ।।6.13.9।।",
+      "transliteration": "",
+      "translation": "Ravana, the king of Rakshasas feeling happy about the statement of Mahaparsva, spoke these words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-13-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "महापार्श्वनिबोधत्वंरहस्यंकिञ्चिदात्मन: ।\nचिरवृत्तंतदाख्यास्येयदवाप्तंपुरामया ।।6.13.10।।",
+      "transliteration": "",
+      "translation": "\"O Mahaparsva I have certain secret that happened in the past. It was a long time ago and I shall tell you. Listen to it.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-13-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "पितामहस्यभवनंगच्छन्तींपुञ्जिकस्थलाम् ।\nचञ्चूर्यमाणामद्राक्षमाकाशेऽग्निशिखामिव ।।6.13.11।।",
+      "transliteration": "",
+      "translation": "\"While I was going in the sky to the abode of Grandfather Brahma, I saw a celebrated one called Punjikasthala flying concealing herself, glowing like the flame of the fire.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-13-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "साप्रसह्यमयाभुक्ताकृताविवसनाततः ।\nस्वयम्भूभवनंप्राप्तालोलितानलिनीयथा ।।6.13.12।।",
+      "transliteration": "",
+      "translation": "\"Then her clothes were stripped off by me forcibly and enjoyed her. Then like a violently shaken lotus stem, she went to the abode of Brahma.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-13-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तच्चतस्यतदामन्येज्ञातमासीन्महात्मनः ।\nअथसङ्कुपितोदेवोमामिदंवाक्यमब्रवीत् ।।6.13.13।।",
+      "transliteration": "",
+      "translation": "\"Then the high souled Brahma happened to know about that incident, I believe. Enraged Brahma made this statement to me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-13-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "अद्यप्रभृतियामन्याबलान्नारींगमिष्यसि ।\nतदातेशतधामूर्धाफलिष्यतिनसंशयः ।।6.13.14।।",
+      "transliteration": "",
+      "translation": "\"From today onwards if you desire to resort to a woman forcefully, your head will break into a hundred pieces. There is no doubt.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-13-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "इत्यहंतस्यशापस्यभीतःप्रसभमेवताम् ।\nनारोहयेबलात्सीतांवैदेहींशयनेशुभे ।।6.13.15।।",
+      "transliteration": "",
+      "translation": "\"Thus, frightened on account of his curse, I do not perforce to get her to my lustrous bed.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-13-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "सागरस्येनमेवेगोमारुतस्येवमेगतिः ।\nनैतद्दाशरथिर्वेदह्यासादयतितेनमाम् ।।6.13.16।।",
+      "transliteration": "",
+      "translation": "\"My speed is like that of the ocean, my movement is like that of the wind and Dasaratha's son does not know this. Therefore, he is coming to attack me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-13-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "कोहिसिंहमिवासीनंसुप्तंगिरिगुहाशये ।\nक्रुद्धंमृत्युमिवाऽसीनंसम्भोधयितुमिच्छति ।।6.13.17।।",
+      "transliteration": "",
+      "translation": "\"He is waking me up like waking up a lion sleeping in the mountain cave. Like waking up death from sleep, he is desiring to instigate me. What sort of a person is he?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-13-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "नमत्तोनिशितान्बाणान्द्विजिह्वान्पन्नगानिव ।\nरामःपश्यतिसङ्ग्रामेतेनमामभिगच्छति ।।6.13.18।।",
+      "transliteration": "",
+      "translation": "\"Rama has not seen my sharp arrows in comb at that are like the forked flame like the tongues of snakes. So, he is coming towards me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-13-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "क्षिप्रंवज्रसमैर्बाणैश्शतथाकार्मुकच्युतैः ।\nराममादीपयिष्यामिउल्काभिरिवकुञ्जरम् ।।6.13.19।।",
+      "transliteration": "",
+      "translation": "At once with thunderbolts and meteor like arrows released from my bow will blaze up Rama just like fire sticks whirled at elephants.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-13-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तच्चास्यबलमादास्येबलेनमहतावृतः ।\nउदितस्सविताकालेनक्षत्राणामिवप्रभाम् ।।6.13.20।।",
+      "transliteration": "",
+      "translation": "\"Surrounded by a huge army I will split up his army like the morning Sun splits up stars with his radiance.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-13-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "नवासनेनापिसहस्रचक्षुषायुधाऽस्मिशक्योवरुणेनवापुनः ।\nमयात्वियंबाहुबलेननिर्जितापुरापुरीवैश्रवणेनपालिता ।।6.13.21।।",
+      "transliteration": "",
+      "translation": "\"Even for the thousand eyed Indra or Lord Varuna it is not possible to withstand me in combat. In the past I have won this city ruled by Kubera with huge strength.\" ।।इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेत्रयोदशस्सर्गः।। This is the end of the thirteenth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

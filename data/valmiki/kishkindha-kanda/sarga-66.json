@@ -1,0 +1,342 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 66,
+    "title": "Description of Hanuman's glory",
+    "titleSanskrit": "",
+    "totalShlokas": 36
+  },
+  "shlokas": [
+    {
+      "id": "v4-66-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "अनेकशतसाहस्रीं विषण्णां हरिवाहिनीम्।\nजाम्बवान्समुदीक्ष्यैवं हनूमन्तमथाब्रवीत्।।4.66.1।।",
+      "transliteration": "",
+      "translation": "Then Jambavan observed the worries of several hundred thousands of the monkey army and said to Hanuman:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "वीर वानरलोकस्य सर्वशास्त्रविदां वर।\nतूष्णीमेकान्तमाश्रित्य हनूमन्किं न जल्पसि।।4.66.2।।",
+      "transliteration": "",
+      "translation": "'O Hanuman you are the choicest one among many scholars wellversed in all sastras. Why do you sit alone? Why do you not speak?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "हनूमन्हरिराजस्य सुग्रीवस्य समो ह्यसि।\nरा��लक्ष्मणयोश्चापि तेजसा च बलेन च।।4.66.3।।",
+      "transliteration": "",
+      "translation": "'Hanuman you are equal to the king of monkeys and also Rama and Lakshmana in brilliance and strength.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "अरिष्टनेमिनः पुत्रो वैनतेयो महाबलः।\nगरुत्मानिति विख्यात उत्तमस्सर्वपक्षिणाम्।।4.66.4।।",
+      "transliteration": "",
+      "translation": "'You are the son of Arishtanemi (sage Kasyapa) and Vinata, and your gurulike (elder brother) is Garuda, the greatest among birds. He is powerful and and famous.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "बहुशो हि मया दृष्टः सागरे स महाबलः।\nभुजङ्गानुद्धरन्पक्षी महावेगो महायशाः।।4.66.5।।",
+      "transliteration": "",
+      "translation": "'Garuda is very powerful, swift, and famous. I have seen him snatching serpents from the ocean many times.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "पक्षयोर्यद्बलं तस्य तावद्भुजबलं तव।\nविक्रमश्चापि वेगश्च न ते तेनावहीयते।।4.66.6।।",
+      "transliteration": "",
+      "translation": "'The strength of your shoulders is equal to that of his (Garuda's) wings. Your speed and valour are no less.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "बलं बुद्धिश्च तेजश्च सत्त्वं च हरिपुङ्गव।\nविशिष्टं सर्वभूतेषु किमात्मानं न बुध्यसे।।4.66.7।।",
+      "transliteration": "",
+      "translation": "'O leader of the monkeys you are superior in strength, wisdom, brilliance and valour to all beings. Why do you not realise your own strength?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "अप्सराप्सरसां श्रेष्ठा विख्याता पुञ्जिकस्थला।\nअञ्जनेति परिख्याता पत्नी केसरिणो हरेः।।4.66.8।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "विख्याता त्रिषु लोकेषु रूपेणाप्रतिमा भुवि।\nअभिशापादभूत्तात वानरी कामरूपिणी।।4.66.9।।",
+      "transliteration": "",
+      "translation": "'O dear she was famous in the three worlds, peerless in beauty and could change form at her free will. She was born of a monkey on this land by dint of a curse.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "दुहिता वानरेन्द्रस्य कुञ्जरस्य महात्मनः।\nमानुषं विग्रहं कृत्वा रूपयौवनशालिनी।।4.66.10।।\nविचित्रमाल्याभरणा महार्हक्षौमवासिनी।\nअचरत्पर्वतस्याग्रे प्रावृडम्बुदसन्निभे।।4.66.11।।",
+      "transliteration": "",
+      "translation": "'She was the daughter of a great king of monkeys called Kunjara. That young and beautiful lady had assumed a lustrous human form decked with wonderful garlands, ornaments and silk clothes and was roving on top of the mountain which appeared like a proud raincloud.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तस्या वस्त्रं विशालाक्ष्याः पीतं रक्तदशं शुभम्।\nस्थितायाः पर्वतस्याग्रे मारुतोऽपहरच्छनैः।।4.66.12।।",
+      "transliteration": "",
+      "translation": "'While the largeeyed lady was stationed on the mountain top, the Windgod gently let her auspicious yellow garment with red border fly away.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "स ददर्श ततस्तस्या वृत्तावूरू सुसंहतौ।\nस्तनौ च पीनौ सहितौ सुजातं चारु चाननम्।।4.66.13।।",
+      "transliteration": "",
+      "translation": "'Then he (Windgod) saw her curved, wellset thighs, her beautiful plump breasts and her lovely pleasing face.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तां विशालायतश्रोणीं तनुमध्यां यशस्विनीम्।\nदृष्टवैव शुभसर्वाङ्गीं पवनः काममोहितः।।4.66.14।।",
+      "transliteration": "",
+      "translation": "'On seeing the broad hips, slender waist and beautiful limbs of that famous lady the Windgod was infatuated.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "स तां भुजाभ्यां दीर्घाभ्यां पर्यष्वजत मारुतः।\nमन्मथाविष्टसर्वाङ्गो गतात्मा तामनिन्दिताम्।।4.66.15।।",
+      "transliteration": "",
+      "translation": "'The Windgod lost his control over himself. His whole being was overpowered by love for her beautiful, flawless body. He embraced her with his long arms.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "सा तु तत्रैव सम्भ्रान्ता सुव्रता वाक्यमब्रवीत्।\nएकपत्नीव्रतमिदं को नाशयितुमिच्छति।।4.66.16।।",
+      "transliteration": "",
+      "translation": "'She was bewildered by this and being chaste and strict observer of chastiny she said,  'Who is it that has destroyed my monoandry?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अञ्जनाया वच्शुत्वा मारुतः प्रत्यभाषत।\nन त्वां हिंसामि सुश्रोणि मा भूत्ते सुभगे भयम्।।4.66.17।।",
+      "transliteration": "",
+      "translation": "'On hearing Anjana's words, the Windgod replied, ' O auspicious lady, I do you no harm, O lady of beautiful hips. I reached (enjoyed) you in mind, not body. You need not fear.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "मनसाऽस्मि गतो यत्त्वां ���रिष्वज्य यशस्विनीम्।\nवीर्यवान्बुद्धिसम्पन्न: पुत्रस्तव भविष्यति।।4.66.18।।",
+      "transliteration": "",
+      "translation": "'O renowned lady I have embraced you and united with you mentally (enjoyed you without physical contact).You will bring forth a son endowed with great wisdom and courage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "महासत्त्वो महातेजा महाबलपराक्रमः।\nलङ्घने प्लवने चैव भविष्यति हि मत्समः।।4.66.19।।",
+      "transliteration": "",
+      "translation": "'He will be very powerful, illustrious and will be of great valour and strength. He will be  my equal in leaping and flying'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "एवमुक्ता ततस्तुष्टा जननी ते महाकपे।\nगुहायां त्वां महाबाहो प्रजज्ञे प्लवगर्षभम्।।4.66.20।।",
+      "transliteration": "",
+      "translation": "'O great monkey O strongshouldered one having been assured that way, your mother was pleased and delivered you, a bull among monkeys, in a cave.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "अभ्युत्थितं ततस्सूर्यं बालो दृष्ट्वा महावने।\nफलं चेति जिघृक्षुस्त्वमुत्प्लुत्याभ्युद्गतो दिवम्।।4.66.21।।",
+      "transliteration": "",
+      "translation": "'On seeing the rising Sun in the deep forest, mistaking him to be a fruit, you wanted to seize it, when you were young.You suddenly flew into the sky and went flying towards the Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "शतानि त्रीणि गत्वाऽथ योजनानां महाकपे।\nतेजसा तस्य निर्धूतो न विषादं ततोगतः।।4.66.22।।",
+      "transliteration": "",
+      "translation": "'O great monkey you went three hundred yojanas and were pushed back by the  Sun's radiance. Yet it did not leave you depressed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तावदापपत स्तूर्णमन्तरिक्षं महाकपे।\nक्षिप्तमिन्द्रेण ते वज्रं कोपाविष्टेन धीमता।।4.66.23।।",
+      "transliteration": "",
+      "translation": "'O great monkey while falling fast in space, wise Indra hurled his thunderbolt quickly at you, in anger.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तदा शैलाग्रशिखरे वामो हनुरभज्यत।\nततो हि नामधेयं ते हनुमानिति कीर्त्यते।।4.66.24।।",
+      "transliteration": "",
+      "translation": "'You fell on the edge of the mountain peak and your left chin  got broken. Since then you are widely known as Hanuman (one who has a wounded chin).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "तस्त्वावि निहतं दृष्ट्वा वायुर्गन्धवहस्स्वयम्।\nत्रैलोक्ये भृशसङ्कृद्धो न ववौ वै प्रभञ्जनः।।4.66.25।।",
+      "transliteration": "",
+      "translation": "The Windgod who is a carrier of fragrance and breaker of trees became very angry on seeing (the injury on) you and stopped blowing in the three worlds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "सम्भ्रान्ताश्च सूरास्सर्वे त्रैलोक्ये क्षुभिते सति।\nप्रसादयन्ति संक्रुद्धं मारुतं भुवनेश्वराः।।4.66.26।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "प्रसादिते च पवने ब्रह्मा तुभ्यं वरं ददौ।\nअशस्त्रवध्यतां तात समरे सत्यविक्रम।।4.66.27।।",
+      "transliteration": "",
+      "translation": "'O dear when the Windgod was pleased, Brahma gave a boon to you, to appease his anger. The boon made you truly valiant so that you cannot be struck by any weapon and killed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "वज्रस्य च निपातेन विरुजं त्वां समीक्ष्य च।\nसहस्रनेत्रः प्रीतात्मा ददौ ते वरमुत्तमम्।।4.66.28।।\nस्वच्छन्दतश्च मरणं तेभूयादिति वै प्रभो।",
+      "transliteration": "",
+      "translation": "'O lord observing that you are not hurt even when struck by the thunderbolt, Indra offered, one of the best boons to you, to choose to die only when you wish.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "स त्वं केसरिणः पुत्रः क्षेत्रजो भीमविक्रमः।।4.66.29।।\nमारुतस्यौरसः पुत्रस्तेजसा चापि तत्समः।\nत्वं हि वायुसुतो वत्स प्लवने चापि तत्समः।।4.66.30।।",
+      "transliteration": "",
+      "translation": "'You are a son of Kesari endowed with terrific strength and a lawful son of Maruta also. You are, therefore, equal to the very Windgod in flying and in brilliance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "वयमद्य गतप्राणा भवान्नस्त्रातु साम्प्रतम्।\nदाक्ष्यविक्रमसम्पन्नः कपिराज इवापरः।।4.66.31।।",
+      "transliteration": "",
+      "translation": "'Now we have almost lost our life.You are our saviour like another monkeyking (like Garuda, king of birds).You are fully endowed with valour and courage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "त्रिविक्रमे मया तात सशैलवनकानना।\nत्रिस्सप्तकृत्वः पृथिवी परिक्रान्ता प्रदक्षिणम्।।4.66.32।।",
+      "transliteration": "",
+      "translation": "'O dear when Visnu (Vamana incarnate) took three strides I circumambulated the whole earth including its mountains and trees twentyone times.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "तथा चौषधयोऽस्माभिस्सञ्चिता देवशासनात्।\nनिष्पन्नममृतं याभिस्तदासीन्नो महद्बलम्।।4.66.33।।",
+      "transliteration": "",
+      "translation": "'Then on receiving orders from the gods, we collected medicinal herbs and nectar which gave us great strength.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "स इदानीमहं वृद्धः परिहीनपराक्रमः।\nसाम्प्रतं कालमस्माकं भवान्सर्वगुणान्वितः।।4.66.34।।",
+      "transliteration": "",
+      "translation": "'I have become old and my valour is depleted. At this time you are the sole resort for us. You have all the necessary qualities.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "तद्विजृम्भस्व विक्रान्त: प्लवतामुत्तमो ह्यसि।\nत्वद्वीर्यं द्रष्टुकामा हि सर्वा वानरवाहिनी।।4.66.35।।",
+      "transliteration": "",
+      "translation": "'Cheer up and advance.You are the best among the creatures that can leap.The entire army of monkeys want to see your valour.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "उत्तिष्ठ हरिशार्दूल लङ्घयस्व महार्णवम्।\nपरा हि सर्वभूतानां हनुमन्या गतिस्तव।।4.66.36।।",
+      "transliteration": "",
+      "translation": "'O Hanuman, tiger among monkeys, rise up and cross this great ocean.You have that supreme capacity among all beings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "विषण्णा हरयस्सर्वे हनुमन्किमुपेक्षसे।\nविक्रमस्व महावेगो विष्णुस्त्रीन्विक्रमानिव।।4.66.37।।",
+      "transliteration": "",
+      "translation": "'O Hanuman All the monkeys look dejected. Why do you delay? O warrior, act quick with your rapid speed like Trivikrama who took three strides that covered the entire universe'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-66-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "ततस्तु वै जाम्बवता प्रचोदितः\nप्रतीतवेगः पवनात्मजः कपिः।\nप्रहर्षयंस्तां हरिवीरवाहिनीं\nचकार रूपं महदात्मनस्तदा।।4.66.38।।",
+      "transliteration": "",
+      "translation": "Then Hanuman, son of the Windgod, inspired by Jambavan, enlarged his body, ready to leap. The army of heroic monkeys were pleased (to see him). इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे षट्षष्टितमस्सर्गः।। Thus ends the sixtysixth sarga in Kishkindakanda of the first epic, the Holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

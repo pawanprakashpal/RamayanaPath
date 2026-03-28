@@ -1,0 +1,243 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 5,
+    "title": "Vasistha advises Rama and Sita to undertake fast preparatory to coronation.",
+    "titleSanskrit": "",
+    "totalShlokas": 25
+  },
+  "shlokas": [
+    {
+      "id": "v2-5-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "सन्दिश्य रामं नृपति श्श्वोभाविन्यभिषेचने।\nपुरोहितं समाहूय वशिष्ठमिदमब्रवीत्।।2.5.1।।",
+      "transliteration": "",
+      "translation": "The king having instructed Rama summoned Vasistha, the priest and spoke to him about the coronation that was to take place on the following day",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-5-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "गच्छोपवासं काकुत्स्थं कारयाद्य तपोधन।\nश्रीयशोराज्यलाभाय वध्वा सह यतव्रतम्।।2.5.2।।",
+      "transliteration": "",
+      "translation": "Could you, O sage, whose wealth is asceticism go to Rama engaged in strict observance of vows and advise him along with Sita, my daughterinlaw to undertake fast for securing prosperity, fame and kingdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-5-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "तथेति च स राजानमुक्त्वा वेदविदां वरः।\nस्वयं वसिष्ठो भगवान्ययौ रामनिवेशनम्।।2.5.3।।\nउपवासयितुं रामं मन्त्रवन्मन्त्रकोविदः।\nब्राह्मं रथवरं युक्तमास्थाय सुदृढव्रतः।।2.5.4।।",
+      "transliteration": "",
+      "translation": "Venerabel Vasistha, the best amongst the knowers of the Vedas, skilled in mantras and firm in his vows said to the king, 'Be it so.' Thereafter,  mounted on the best of the chariots befitting a brahmin, with horses harnesed he proceeded personally to the abode of Rama to ask him to undertake a fast in accompaniment with mantras preceding the installation ceremony.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-5-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "स रामभवनं प्राप्य पाण्डुराभ्रघनप्रभम्।\nतिस्रः कक्ष्या रथेनैव विवेशमुनिसत्तमः।।2.5.5।।",
+      "transliteration": "",
+      "translation": "Having crossed the three courtyards in the chariot, that foremost of ascetics (Vasistha) entered Rams's abode, shining like a mass of white clouds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-5-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तमागतमृषिं रामस्त्वरन्निव ससम्भ्रमः।\nमानयिष्यन्समानार्हं निश्चक्राम निवेशनात्।।2.5.6।।",
+      "transliteration": "",
+      "translation": "Seeing the venerable sage(Vasitha) arrive, Rama quickly came out of his abode in great excitement to receive him with honour.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-5-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अभ्येत्य त्वरमाणश्च रथाभ्याशं मनीषिणः।\nततोऽवतारयामास परिगृह्य रथात्स्वयम्।।2.5.7।।",
+      "transliteration": "",
+      "translation": "Hastening with rapid strides, Rama approached the chariot of the sagacious Vasistha and personally helped him alight from the chariot.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-5-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "स चैनं प्रश्रितं दृष्ट्वा सम्भाष्याभिप्रसाद्य च।\nप्रियार्हं हर्षयन्राममित्युवाच पुरोहितः।।2.5.8।।",
+      "transliteration": "",
+      "translation": "The family priest Vasistha also, having gratified him by enquiring about his welfare, said thus to Rama, who was humble and lovable:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-5-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "प्रसन्नस्ते पिता राम यौवराज्यमवाप्स्यसि।\nउपवासं भवानद्य करोतु सह सीतया।।2.5.9।।",
+      "transliteration": "",
+      "translation": "O Rama, welldisposed towards you, your father will declare you heirapparent. Do undertake fast today, along with Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-5-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "प्रातस्त्वामभिषेक्ता हि यौवराज्ये नराधिपः।\nपिता दशरथः प्रीत्या ययातिं नहुषो यथा।।2.5.10।।",
+      "transliteration": "",
+      "translation": "Your father, king Dasaratha, will be pleased to coronate you as heirapparent early tomorrow morning as Nahusa did (to his son) Yayati.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-5-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "इत्युक्त्वा स तदा राममुपवासं यतव्रतम्।\nमन्त्रवत्कारयामास वैदेह्या सहितं मुनिः।।2.5.11।।",
+      "transliteration": "",
+      "translation": "The ascetic (Vasistha) having thus spoken to Rama made him undertake fast along with Sita in accompaniment with sacred hymns.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-5-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "ततो यथावद्रामेण स राज्ञो गुरुरर्चितः।\nअभ्यनुज्ञाप्य काकुत्स्थं ययौ रामनिवेशनात्।।2.5.12।।",
+      "transliteration": "",
+      "translation": "Thereafter, Vasistha, preceptor of the king duly honoured by the descendant of Kakutstha (Rama) left his abode.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-5-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "सुहृद्भिस्तत्र रामोऽपि सहासीनः प्रियंवदैः।\nसभाजितो विवेशाऽथ ताननुज्ञाप्य सर्वशः।।2.5.13।।",
+      "transliteration": "",
+      "translation": "Rama also sat for a while in the company of his sweettongued friends and duly  honoured by them in every way took  leave  of them and entered his apartment.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-5-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "हृष्टनारीनरयुतं रामवेश्म तदा बभौ।\nयथा मत्तद्विजगणं प्रफुल्लनलिनं सरः।।2.5.14।।",
+      "transliteration": "",
+      "translation": "The residence of Rama, full of cheerful men and women, looked splendid like a lake with fullblown lotuses flocked by multitudes of intoxicated birds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-5-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "स राजभवनप्रख्यात्तस्माद्रामनिवेशानात्।\nनिर्गत्य ददृशे मार्गं वसिष्ठो जनसंवृतम्।।2.5.15।।",
+      "transliteration": "",
+      "translation": "Vasistha thereafter emerged from the abode of Rama resembling a royal palace and beheld the highways filled with people.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-5-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "बृन्दबृन्दैरयोध्यायां राजमार्गास्��मन्ततः।\nबभूवुरभिसम्बाधाः कुतूहलजनैर्वृताः।।2.5.16।।",
+      "transliteration": "",
+      "translation": "The royal highways in the city of Ayodhya were jammed on all sides with groups of curious people.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-5-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "जनबृन्दोर्मिसंघर्षहर्षस्वनवतस्तदा।\nबभूव राजमार्गस्य सागरस्येव निस्वनः।।2.5.17।।",
+      "transliteration": "",
+      "translation": "The highways resembled the sea and the exultation of the multitudes, the roar that emanated from the clashing of waves.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-5-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "सिक्तसम्मृष्टरथ्या हि तदहर्वनमालिनी।\nआसीदयोध्यानगरी समुच्छ्रितगृहध्वजा।।2.5.18।।",
+      "transliteration": "",
+      "translation": "On that day, the thoroughfares of the city of Ayodhya, surrounded with (pleasure) gardens, were sprinkled with water and swept. The flags (on the top) of the houses were raised high.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-5-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तदा ह्ययोध्यानिलयः सस्त्रीबालाबलो जनः।\nरामाभिषेकमाकाङ्क्षन्नाकाङ्क्षदुदयं रवेः।।2.5.19।।",
+      "transliteration": "",
+      "translation": "Then all the people living in Ayodhya including women, children and aged alike wishing to see the coronation of Rama eagerly waited for the sunrise.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-5-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "प्रजालङ्कारभूतं च जनस्यानन्दवर्धनम्।\nउत्सुकोऽभूज्जनो द्रष्टुं तमयोध्यामहोत्सवम्।।2.5.20।।",
+      "transliteration": "",
+      "translation": "People were anxious to witness that great festival of Ayodhya which was to them (precious) like an ornament and a source of immense joy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-5-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "एवं तज्जनसम्बाधं राजमार्गं पुरोहितः।\nव्यूहन्निव जनौघं तं शनै राजकुलं ययौ।।2.5.21।।",
+      "transliteration": "",
+      "translation": "The priest (Vasistha), beholding the overcrowded highway forced his passage through the crowds of men dividing them into two tracts and slowly entered the royal palace.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-5-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "सिताभ्रशिखरप्रख्यं प्रासादमधिरुह्य सः।\nसमीयाय नरेन्द्रेण शक्रेणेव बृहस्पतिः।।2.5.22।।",
+      "transliteration": "",
+      "translation": "Having ascended the royal palace resembling the peak of a mountain covered with white clouds, Vasistha approached the king like  Brihaspati meeting Indra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-5-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तमागतमभिप्रेक्ष्य हित्वा राजासनं नृपः।\nपप्रच्छ स च तस्मै तत्कृतमित्यभ्यवेदयत्।।2.5.23।।",
+      "transliteration": "",
+      "translation": "On seeing Vasistha the king descended from the throne and enquired whether he had performed the mission to which the ascetic replied affirmatively.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-5-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "चैव तदा तुल्यं सहासीनास्सभासदः।\nआसनेभ्यस्समुत्तस्थुः पूजयन्तः पुरोहितम्।।2.5.24।।",
+      "transliteration": "",
+      "translation": "All those present in the assembly with him (the king) also got up from their seats as he (Dasaratha) did and paid their obeisance to Vasistha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-5-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "गुरुणा त्वभ्यनुज्ञातो मनुजौघं विसृज्य तम्।\nविवेशान्तः पुरं राजा सिंहो गिरिगुहामिव।।2.5.25।।",
+      "transliteration": "",
+      "translation": "The king then, dully permitted by the preceptor, disposed the assembly of men and stepped into his inner apartment, like a lion entering the cave of a mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-5-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तदग्य्रवेषप्रमदाजनाकुलं \nमहेन्द्रवेश्मप्रतिमं निवेशनम्।\nविदीपयंश्चारु विवेश पार्थिव\nश्शशीव तारागणसङ्कुलं नभः।।2.5.26।।",
+      "transliteration": "",
+      "translation": "The king entered the inner apartment thronged with excellently attired women which looked like the palace of Mahendra. He resembled the beautiful Moon that illuminates the sky crowded with stars. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे पञ्चमस्सर्गः।। Thus ends the fifth sarga of Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

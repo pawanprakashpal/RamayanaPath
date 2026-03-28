@@ -1,0 +1,279 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 22,
+    "title": "Rama convinces Lakshmana that destiny is allpowerful--cancels all arrangements for his consecration ceremony.",
+    "titleSanskrit": "",
+    "totalShlokas": 29
+  },
+  "shlokas": [
+    {
+      "id": "v2-22-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "अथ तं व्यथया दीनं सविशेषममर्षितम्। \nश्वसन्तमिव नागेन्द्रं रोषविस्फारितेक्षणम्।।2.22.1।।\nआसाद्य रामस्सौमित्रिं सुहृदं भ्रातरं प्रियम्।\nउवाचेदं स धैर्येण धारयन्सत्त्वमात्मवान्।।2.22.2।।",
+      "transliteration": "",
+      "translation": "The selfpossessed Rama held his composure and approached his beloved, intimate brother Lakshmana who was (looking) miserable with his mental agony. To him, who was hissing like a king cobra, he said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-22-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अथ तं व्यथया दीनं सविशेषममर्षितम्। \nश्वसन्तमिव नागेन्द्रं रोषविस्फारितेक्षणम्।।2.22.1।।\nआसाद्य रामस्सौमित्रिं सुहृदं भ्रातरं प्रियम्।\nउवाचेदं स धैर्येण धारयन्सत्त्वमात्मवान्।।2.22.2।।",
+      "transliteration": "",
+      "translation": "The selfpossessed Rama held his composure and approached his beloved, intimate brother Lakshmana who was (looking) miserable with his mental agony. To him, who was hissing like a king cobra, he said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-22-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "निगृह्य रोषं शोकं च धैर्यमाश्रित्य केवलम्।\nअवमानं निरस्येमं गृहीत्वा हर्षमुत्तमम्।।2.22.3।।\nउपक्लृप्तं हि यत्किञ्चिदभिषेकार्थमद्य मे\nसर्वं विसर्जय क्षिप्रं कुरु कार्यं निरत्ययम्।।2.22.4।।",
+      "transliteration": "",
+      "translation": "Restrain your anger and sorrow. Dismiss this humiliation (from the mind). Achieve great happiness through fortitude. Remove whatever preparations have been made for the purpose of (my) consecration today, and act quickly so that there is no obstacle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-22-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "सौमित्रे योऽभिषेकार्थे मम सम्भार सम्भ्रमः।\nअभिषेकनिवृत्त्यर्थे सोऽस्तु संभारसम्भ्रमः।।2.22.5।।",
+      "transliteration": "",
+      "translation": "O Lakshmana the same enthusiasm with which preparations for my consecration were made be shown for the cessation of those arrangements.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-22-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "यस्या मदभिषेकार्थे मानसं परितप्यते।\nमाता मे सा यथा न स्यात्सविशङ्का तथा कुरु।।2.22.6।।",
+      "transliteration": "",
+      "translation": "Act in such a way that our mother (Kaikeyi), whose heart ached due to my consecration should not entertain any doubt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-22-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तस्याश्शङ्कामयं दुःखं मुहूर्तमपि नोत्सहे।\nमनसि प्रतिसंजातं सौमित्रेऽहमुपेक्षितुम्।।2.22.7।।",
+      "transliteration": "",
+      "translation": "Even for a moment, O Lakshmana I am not inclined to ignore her sorrow caused by the apprehension in her mind (about the possibility of Rama's coronation).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-22-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "न बुद्धिपूर्वं नाबुद्धं स्मरामीह कदाचन।\nमातृ़णां वा पितुर्वाऽहं कृतमल्पं च विप्रियम्।।2.22.8।।",
+      "transliteration": "",
+      "translation": "I do not remember to have done anything any time with a motive or without understanding which might have caused even a little displeasure to father or mothers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-22-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "सत्यस्सत्याभिसन्धश्च नित्यं सत्यपराक्रमः।\nपरलोकभयाद्भीतो निर्भयोऽस्तु पिता मम।।2.22.9।।",
+      "transliteration": "",
+      "translation": "Let my father who is always truthful, who is really valiant, who is always striving for truth and who is afraid of the next world, be fearless.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-22-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तस्याऽपि हि भवेदस्मिन्कर्मण्यप्रतिसंहृते।\nसत्यं नेति मनस्तापस्तस्य तापस्तपेच्च माम्।।2.22.10।।",
+      "transliteration": "",
+      "translation": "If the preparations for the consecration are not withdrawn, my father will suffer mental agony for the fear that his word has not come true and his agony will torment me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-22-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अभिषेकविधानं तु तस्मात्संहृत्य लक्ष्मण।\nअन्वगेवाहमिच्छामि वनं गन्तुमितःपुनः।।2.22.11।।",
+      "transliteration": "",
+      "translation": "Therefore, O Lakshmana I want the arrangement for coronation withdrawn before I proceed to the forest from here itself.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-22-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "मम प्रव्राजनादद्य कृतकृत्या नृपात्मजा।\nसुतं भरतमव्यग्रमभिषेचयिता ततः।।2.22.12।।",
+      "transliteration": "",
+      "translation": "Immediately after my departure to the forest, the king's (Kekaya's) daughter having accomplished her objective, will enthrone Bharata without any distraction.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-22-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "मयि चीराजिनधरे जटामण्डलधारिणि।\nगतेऽरण्यं च कैकेय्या भविष्यति मनस्सुखम्।।2.22.13।।",
+      "transliteration": "",
+      "translation": "Kaikeyi will attain peace of mind only after my departure to the forest in tattered  clothes, an antelope skin and a crown of matted locks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-22-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "बुद्धिः प्रणीता येनेयं मनश्च सुसमाहितम्।\nतं तु नार्हामि संक्लेष्टुं प्रव्रजिष्यामि मा चिरम्।।2.22.14।।",
+      "transliteration": "",
+      "translation": "With wellcomposed mind this decision has been taken. I do not like to inflict pain (on Dasaratha or Kaikeyi). I shall, therefore, depart to the forest without delay.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-22-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "कृतान्तस्त्वेव सौमित्रे द्रष्टव्यो मत्प्रवासने।\nराज्यस्य च वितीर्णस्य पुनरेव निवर्तने।।2.22.15।।",
+      "transliteration": "",
+      "translation": "If the award of the kingdom to me is revoked, O Lakshmana, and if I am banished in this manner, see, it is destiny.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-22-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "कैकेय्याः प्रतिपत्तिर्हि कथं स्यान्मम पीडने।\nयदि भावो न दैवोऽयं कृतान्तविहितो भवेत्।।2.22.16।।",
+      "transliteration": "",
+      "translation": "If this thought and my misfortune were not caused in Kaikeyi by destiny, how could she muster such determination to inflict pain on me?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-22-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "जानासि हि यथा सौम्य न मातृषु ममान्तरम्।\nभूतपूर्वं विशेषो वा तस्या मयि सुतेऽपि वा।।2.22.17।।",
+      "transliteration": "",
+      "translation": "You know, O gentle Lakshmana that never in the past had I any feeling of  distinction amongst my mothers. And Kaikeyi never differentiated between me and her son.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-22-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "सोऽभिषेकनिवृत्त्यर्थैप्रवासार्थैश्च दुर्वचैः।\nउग्रैर्वाक्यैरहं तस्या नान्यद्दैवात्समर्थये।।2.22.18।।",
+      "transliteration": "",
+      "translation": "I do not find any reason other than destiny for the cruel and brutal words spoken by Kaikeyi with the objective of preventing my coronation and exiling me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-22-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "कथं प्रकृतिसम्पन्ना राजपुत्री तथागुणा।\nब्रूयात्सा प्राकृतेव स्त्री मत्पीडां भर्तृसन्निधौ।।2.22.19।।",
+      "transliteration": "",
+      "translation": "If destiny is not the cause behind this, how could Kaikeyi who is gifted with virtues and a noble nature speak such painful words to me before her husband, like an ordinary woman?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-22-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "यदचिन्त्यन्तु तद्दैवं भूतेष्वपि न विहन्यते।\nव्यक्तं मयि च तस्यां च पतितो हि विपर्ययः।।2.22.20।।",
+      "transliteration": "",
+      "translation": "Inconceivable is the power of destiny. Its impact on all beings cannot be averted. That  an adversity has befallen me and Kaikeyi is (therefore) evident.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-22-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "कश्चिद्दैवेन सौमित्रे योद्धुमुत्सहते पुमान्।\nयस्य न ग्रहणं किञ्चित्कर्मणोऽन्यत्र दृश्यते।।2.22.21।।",
+      "transliteration": "",
+      "translation": "O Lakshmana which mortal has the power to fight with destiny the grip of which can be comprehended  by following its course only through its effect and nowhere else.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-22-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "सुखदुःखे भयक्रोधौ लाभालाभौ भवाभवौ।\nयच्च किञ्चित्तथाभूतं ननु दैवस्य कर्म तत्।।2.22.22।।",
+      "transliteration": "",
+      "translation": "Happiness or misery, fear or anger, gain or loss, birth or death, and all such things  are surely the acts of destiny.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-22-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "ऋषयोऽप्युग्रतपसो दैवेनाभिप्रपीडिताः।\nउत्सृज्य नियमांस्तीव्रान्भ्रश्यन्ते काममन्युभिः।।2.22.23।।",
+      "transliteration": "",
+      "translation": "Even rishis with severe austerities are tormented by destiny and are swerved from  their observances because of anger and passion.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-22-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "असङ्कल्पितमेवेह यदकस्मात्प्रवर्तते।\nनिवर्त्यारम्भमारब्धं ननु दैवस्य कर्म तत्।।2.22.24।।",
+      "transliteration": "",
+      "translation": "Any unanticipated and sudden hindrance to the action undertaken shall be deemed to be the act of destiny.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-22-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "एतया तत्त्वया बुद्ध्या संस्तभ्यात्मानमात्मना।\nव्याहतेऽप्यभिषेके मे परितापो न विद्यते।।2.22.25।।",
+      "transliteration": "",
+      "translation": "Even though my consecration was thwarted, there is no feeling of sadness in me. In fact I controlled my mind by my intellect.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-22-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तस्मादपरितापस्संस्त्वमप्यनुविधाय माम्।\nप्रतिसंहारय क्षिप्रमाभिषेचनिकीं क्रियाम्।।2.22.26।।",
+      "transliteration": "",
+      "translation": "Therefore, be free from grief like me and revoke all the arrangements made for the consecration ceremony immediately.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-22-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "एभिरेव घटै स्सर्वैरभिषेचनसम्भृतैः।\nमम लक्ष्मण तापस्ये व्रतस्नानं भविष्यति।।2.22.27।।",
+      "transliteration": "",
+      "translation": "With these very pots (of holy water) brought for the purpose of consecration, O Lakshmana I shall take bath at the time of taking vow for practising penance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-22-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "अथवा किं ममैतेन राजद्रव्यमयेन तु।\nउद्धृतं मे स्वयं तोयं व्रतादेशं करिष्यति।।2.22.28।।",
+      "transliteration": "",
+      "translation": "Or else, for me what is the use of these pots of holy water which are the king's property? The water drawn with my own hands will be made use of for my religious bath.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-22-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "मा च लक्ष्मण सन्तापं कार्षीर्लक्ष्म्या विपर्यये।\nराज्यं वा वनवासो वा वनवासो महोदयः।।2.22.29।।",
+      "transliteration": "",
+      "translation": "Do not grieve, O Lakshmana, over the loss of the kingdom. Living in exile is more glorious than running the kingdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-22-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "न लक्ष्मणास्मिन्खलु कर्मविघ्ने\nमाता यवीयस्यतिशङ्कनीया।\nदैवाभिपन्ना हि वदत्यनिष्टं\nजानासि दैवं च तथा प्रभावम्।।2.22.30।।",
+      "transliteration": "",
+      "translation": "O Lakshmana our younger mother (Kaikeyi) cannot be blamed for her obstruction to my coronation. Overpowered by destiny, she is speaking such unpleasant words. This you know is the impact of destiny. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे द्वाविंशस्सर्गः।। Thus ends the twentysecond sarga of Ayodhyakanda of  the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

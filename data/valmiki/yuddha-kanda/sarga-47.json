@@ -1,0 +1,189 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 47,
+    "title": "Hanuman and others guard Rama and Lakshmana. Ravana commands Rakshasa woman to take Sita in the Pushpaka and show her the state of Rama and Lakshmana. Sita bursts on seeing the fate of Rama and Lakshmana.",
+    "titleSanskrit": "",
+    "totalShlokas": 19
+  },
+  "shlokas": [
+    {
+      "id": "v6-47-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "प्रतिप्रविष्टेलङ्कायांकृतार्थेरावणात्मजे ।\nराघवंपरिवार्यार्तुरक्षुर्व��नरर्षभाः ।।6.47.1।।",
+      "transliteration": "",
+      "translation": "After accomplishing the task Ravana's son entered Lanka while the bull among monkeys guarded Raghava staying around.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-47-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "हनुमानङ्गदोनीलःसुषेणःकुमुदोनलः ।\nगजोगवाक्षोगवयश्शरभोगन्धमादनः ।।6.47.2।।\nजाम्बवानृषभःसुन्दोरम्भःशतवलिःपृथुः ।\nव्यूढानीकाश्चयत्ताश्चद्रुमानादायसर्वतः ।।6.47.3।।\nवीक्षमाणादिशस्सर्वास्तिर्यगूर्ध्वंचवानराः ।\nतृणेष्वपिचचेष्टत्सुराक्षसाइतिमेनिरे ।।6.47.4।।",
+      "transliteration": "",
+      "translation": "Having arranged the army in place, Hanuman, Angada, Nila, Kumuda, Nala, Gava, Sarabha, Gandhamadana, Sanuprastha, Jambavan, Rshaba, Rambha, Satavali, Pruthu, who are always alert were holding trees and looking above, on either side and in all directions and guarded Rama. Whenever there was movement of even a blade of grass, they thought that it might be Rakshasa.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-47-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "रावणश्चापिसम्हृष्टोविसृज्येन्द्रजितंसुतम् ।\nअजुहावततस्सीताक्षिणीराक्षसीस्तदा ।।6.47.5।।",
+      "transliteration": "",
+      "translation": "Ravana was also content to send away his son Indrajith and calls for the Rakshasa woman, caretaker of Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-47-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "राक्षस्यस्त्रिजटाचैवशासनात्समुपस्थिताः ।\nताउवाचततोहृष्टोराक्षसीराक्षसाधमः ।।6.47.6।।",
+      "transliteration": "",
+      "translation": "The rakshasi and also Trijata came and waited there by the order. Lowly Rakshasa, Ravana, full of joy addressed rakshasi.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-47-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "हताविन्द्रजिताख्यातवैदेह्यारामलक्ष्मणौ ।\nपुष्पकंतत्समारोप्यदर्शयध्वंहतौरणे ।।6.47.7।।",
+      "transliteration": "",
+      "translation": "\"Rama and Lakshmana are killed by Indrajith in war. Take Vaidehi in the aerial car and show her.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-47-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "यदाश्रयादवष्टब्धामामुपतिष्ठति ।\nसोऽस्याभर्तासहभ्रात्रानिहतोरणमूर्धनि ।।6.47.8।।",
+      "transliteration": "",
+      "translation": "\"That husband with whose support she was proud and not yielding to me is unconscious along with his brother who have been killed,\" said Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-47-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "निर्विशङ्कानिरुद्विग्नानिरपेक्षाचमैथिली ।\nमामुपस्थास्यतेसीतासर्वाभरणभूषिता ।।6.47.9।।",
+      "transliteration": "",
+      "translation": "\"Mythili, rid of sorrow and free from perturbation, giving up hope (of Rama) can wait upon me adorned with all kinds of jewels.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-47-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "अद्यकालवशंप्राप्तंरणेरामंसलक्ष्मणम् ।\nअवेक्ष्यविनिवृत्तासाचान्यांगतिमपश्यती ।।6.47.10।।\nनिरपेक्षाविशालाक्षीमामुपस्थास्यतेस्वयम् ।",
+      "transliteration": "",
+      "translation": "Ravana thought that the broad eyed Sita coming to conclusion in course of time that Rama has gone along with Lakshmana, rid of hope, with no other haven, will seek him on her own accord.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-47-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तस्यतद्वचनंश्रुत्वारावणस्यदुरात्मनः ।।6.47.11।।\nराक्षस्यस्तास्तथेत्युक्त्वाजग्मुर्वैयत्रपुष्पकम् ।",
+      "transliteration": "",
+      "translation": "The evil minded Rakshasas listening to Ravana's words went to the aerial car.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-47-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "ततःपुष्पकमादायराक्षस्योरावणाज्ञया ।।6.47.12।।\nअशोकवनिकास्थांतांमैथिलींसमुपानयन् ।",
+      "transliteration": "",
+      "translation": "Thereafter, by Ravana's order the Rakshasas went with the aerial car to Mythili in the Ashoka Garden.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-47-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तामादायतुराक्षस्योभर्तृशोकपराजिताम् ।।6.47.13।।\nसीतामारोपयामासुर्विमानंपुष्पकंतदा ।",
+      "transliteration": "",
+      "translation": "Then the Rakshasas took the aerial car near Sita who was overcome by her husband's grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-47-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "ततःपुष्पकमारोप्यसीतांत्रिजटयासह ।।6.47.14।।\nजग्मुर्दर्शयितुंतस्यैराक्षस्योरामलक्ष्मणौ ।",
+      "transliteration": "",
+      "translation": "Thereafter the Rakshasas along with Trijata went to Sita and made her ascend Pushpaka to see Rama and Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-47-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "रावणोऽकारयल्लङ्कांपताकाध्वजमालिनीम् ।।6.47.15।।\nप्राघोषयतहृष्टश्चलङ्कायांराक्षसेश्वरः ।\nराघवोलक्ष्मणश्चैवहताविन्द्रजितारणे ।।6.47.16।।",
+      "transliteration": "",
+      "translation": "The Lord of Rakshasas rejoiced and went to Lanka decorated with flags and posts proclaiming that Rama and Lakshmana were killed by Indrajith in war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-47-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "विमानेनापिगत्वातुसीतात्रिजटया��ह ।\nददर्शवानराणांतुसर्वंसैन्यंनिपातितम् ।।6.47.17।।",
+      "transliteration": "",
+      "translation": "Sita and Trijata flying on the Pushpaka saw all the fallen Vanara army.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-47-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "प्रहृष्टमनसश्चापिददर्शपिशिताशनान् ।\nवानरांश्चातिदुःखार्तान्रामलक्ष्मणपार्श्वतः ।।6.47.18।।",
+      "transliteration": "",
+      "translation": "Sita beheld extremely happy Rakshasas, and grief stricken Vanaras, in great agony near Rama and Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-47-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "ततस्सीताददर्शोभौशयानौशरतल्पगौ ।\nलक्ष्मणंचापिरामंचविसंज्ञौशरपीडितौ ।।6.47.19।।\nविध्वस्तकवचौवीरौविप्रविद्धशरासनौ ।\nसायकैचशिन्नसर्वाङ्गौशरस्तम्बमयौक्षितौ ।।6.47.20।।",
+      "transliteration": "",
+      "translation": "Thereafter Sita beheld both Rama and Lakshmana lying on the bed of arrows, unconscious, struck by arrows, with shields of darts, arrows with feathers, all limbs wounded with shattered armour, bows and reeds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-47-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तौदृष्टवाभ्रातरौतत्रप्रवीरौपुरुषर्षभौ ।\nशयानौपुण्डरीकाक्षौकुमाराविवपावकी ।।6.47.21।।\nशरतल्पगतौवीरौतथाभूतानरर्षभौ ।\nदुःखार्ताकरुणंसीतासुभृशंविललापह ।।6.47.22।।",
+      "transliteration": "",
+      "translation": "Seeing the gallant bulls among men, the two brothers with big eyes, the two heroes like sons of fire god lying on the bed of arrows in such a state, Sita was filled with intense sorrow and pity burst into tears being affected extremely.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-47-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "भर्तारमनवद्याङ्गीलक्ष्मणंचासितेक्षणा ।\nप्रेक्ष्यपांसुषुचेष्टन्तौरुरोदजनकात्मजा ।।6.47.23।।",
+      "transliteration": "",
+      "translation": "Janaka's daughter of beautiful limbs and dark eyes, seeing her husband and Lakshmana, both powerful ones rolling, roared aloud.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-47-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "सबाष्पशोकाभिहतासमीक्ष्यतौभ्रातरौदेवसमप्रभावौ ।\nवितर्कयन्तीनिधनंतयोस्सादुःखान्वितावाक्यमिदंजगाद ।।6.47.24।।",
+      "transliteration": "",
+      "translation": "As tears were rolling down her eyes, beholding the brothers who were equal to gods in their glory, suspecting them to be dead Sita spoke these words ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेसप्तचत्वारिंशस्सर्गः ।। This is the end of the forty seventh sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

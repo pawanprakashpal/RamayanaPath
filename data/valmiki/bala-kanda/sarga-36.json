@@ -1,0 +1,234 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 36,
+    "title": "The devatas create obstacles to the marital bliss of Maheswara and Parvati--Goddess Parvati curses the devatas and the mother earth.",
+    "titleSanskrit": "",
+    "totalShlokas": 24
+  },
+  "shlokas": [
+    {
+      "id": "v1-36-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "उक्तवाक्ये मुनौ तस्मिन्नुभौ राघवलक्ष्मणौ।\nप्रतिनन्द्य कथां वीरावूचतुर्मुनिपुङ्गवम्।।1.36.1।।",
+      "transliteration": "",
+      "translation": "While Viswamitra preeminent ascetic among the sages was telling the story (of Ganga) to the heroic Rama and Lakshmana, they extolled it and enquired:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-36-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "धर्मयुक्तमिदं ब्रह्मन् कथितं परमं त्वया ।\nदुहितुश्शैलराजस्य ज्येष्ठाया वक्तुमर्हसि।।1.36.2।।\nविस्तरं विस्तरज्ञोऽसि दिव्यमानुषसम्भवम्।",
+      "transliteration": "",
+      "translation": "\"O Brahman sage, this excellent story set in righteousness has been narrated by you.  Since you are conversant with the details, you can befittingly tell the story in detail, pertaining to the eldest daughter of king of the mountains and the events that happened in the celestial and mortal worlds",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-36-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "त्रीन् पथो हेतुना केन प्लावयेल्लोकपावनी।।1.36.3।।\nकथं गङ्गा त्रिपथगा विश्रुता सरिदुत्तमा।\nत्रिषु लोकेषु धर्मज्ञ कर्मभि: कैस्समन्विता।।1.36.4।।",
+      "transliteration": "",
+      "translation": "Why does Ganga, the purifier of the worlds overflow the three paths (worlds)? O knower of dharma what deed made, Tripathaga (flowing in three directions) Ganga wellknown in the three worlds as the best (holiest) of all rivers\"?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-36-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तथा ब्रुवति काकुत्स्थे विश्वामित्रस्तपोधन:।\nनिखिलेन कथां सर्वामृषिमध्ये न्यवेदयत्।।1.36.5।।",
+      "transliteration": "",
+      "translation": "Having heard the words of the son of the Kakusthas, Viswamitra, vested with the wealth of asceticism, revealed the complete story in detail in the presence of the sages.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-36-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "पुरा राम कृतोद्वाहो नीलकण्ठो महातपा:।\nदृष्ट्वा च स्पृहया देवीं मैथुनायोपचक्रमे।।1.36.6।।",
+      "transliteration": "",
+      "translation": "\"O Rama, in ancient times, great ascetic the blueneck Lord Siva got married to goddess Uma charmed with her beauty he indulged in sexual enjoyment with intense   passion.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-36-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "शितिकण्ठस्य देवस्य दिव्यं वर्षशतं गतम्।\nन चापि तनयो राम तस्यामासीत् परन्तप।।1.36.7।।",
+      "transliteration": "",
+      "translation": "O Rama, tormentor of enemies, while Lord Siva was thus absorbed in sexual enjoyment, a hundred (celestial) years passed but no son was born to them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-36-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "ततो देवास्समुद्विग्ना: पितामहपुरोगमा:। \nयदिहोत्पद्यते भूतं कस्तत्प्रतिसहिष्यते।।1.36.8।।",
+      "transliteration": "",
+      "translation": "\"Then the devatas led by Brahma were exceedingly alarmed. 'Who will be able to bear the power of the offspring if it is born here and now', they reflected.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-36-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "अभिगम्य सुरास्सर्वे प्रणिपत्येदमब्रुवन्।\nदेव द��व महादेव लोकस्यास्य हिते रत ।।1.36.9।।\nसुराणां प्रणिपातेन प्रसादं कर्तुमर्हसि।",
+      "transliteration": "",
+      "translation": "All devatas approached Siva and paying their obeisance said, \"O God of the gods engaged in the welfare of all O Mahadeva accept our salutations Be king which you can be (if you will)\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-36-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "न लोका धारयिष्यन्ति तव तेजस्सुरोत्तम ।।1.36.10।।\nब्राह्मेण तपसा युक्तो देव्या सह तपश्चर।\nत्रैलोक्यहितकामार्थं तेजस्तेजसि धारय ।।1.36.11।।",
+      "transliteration": "",
+      "translation": "\"O best among the gods, the worlds cannot contain your energy (the son born of your energy) You may engage yourself in penance in the company of Uma in conformity with the Vedas. Retain your energy in your body for the  welfare of the three worlds.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-36-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "देवतानां वचश्श्रुत्वा सर्वलोकमहेश्वर:।\nबाढमित्यब्रवीत्सर्वान्पुनश्चैवमुवाच ह ।।1.36.12।।",
+      "transliteration": "",
+      "translation": "Mahadeva, ruler of the all the worlds, having heard the words of devatas, said \"Be it so\" Further:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-36-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "धारयिष्याम्यहं तेजस्तेजस्येव सहोमया।\nत्रिदशा: पृथिवी चैव निर्वाणमधिगच्छतु।।1.36.13।।",
+      "transliteration": "",
+      "translation": "\" \"Together with Uma I will preserve the semen in my body thereby the devatas and also the earth will have peace.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-36-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "यदिदं क्षुभितं स्थानान्मम तेजो ह्यनुत्तमम्।\nधारयिष्यति कस्तन्मे ब्रुवन्तु सुरसत्तमा:।।1.36.14।।",
+      "transliteration": "",
+      "translation": "\"Who will contain this exceptional vital fluid of mine if shaken from its own place? O best of devatas tell me\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-36-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "एवमुक्तास्सुरास्सर्वे प्रत्यूचुर्वृषभध्वजम्।\nयत्तेज: क्षुभितं ह्येतत्तद्धरा धारयिष्यति।।1.36.15।।",
+      "transliteration": "",
+      "translation": "Thus questioned, all the devatas replied to the bearer of the flag with bull as its symbol (Siva), saying, \"The earth will contain the disturbed vital fluid\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-36-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "एवमुक्तस्सुरपति: प्रमुमोच महीतले।\nतेजसा पृथिवी येन व्याप्ता सगिरिकानना।।1.36.16।।",
+      "transliteration": "",
+      "translation": "Thus replied by the devatas, the god of the gods released his vital fluid  on earth. It  pervaded the entire earth including mountains and forests.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-36-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "ततो देवा: पुनरिदमूचुश्चाथ हुताशनम्।\nप्रविश त्वं महातेजो रौद्रं वायुसमन्वित:।।1.36.17।।",
+      "transliteration": "",
+      "translation": "Then, the devatas said to the firegod, \"Enter this energy (creative power) related to Rudra followed by the windgod\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-36-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तदग्निना पुनर्व्याप्तं सञ्जातश्श्वेतपर्वत:।\nदिव्यं शरवणं चैव पावकादित्यसन्निभम्।।1.36.18।।\nयत्र जातो महातेजा: कार्तिकेयोऽग्निसम्भव:।",
+      "transliteration": "",
+      "translation": "That energy pervaded by fire was transformed into the White Mountain. It turned the forest of reeds (Saravana) (blazing) like the fire or the Sun. From that fire was born the glorious Kartikeya.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-36-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अथोमां च शिवं चैव देवास्सर्षिगणास्तदा।\nपूजयामासुरत्यर्थं सुप्रीतमनसस्तत:।।1.36.19।।",
+      "transliteration": "",
+      "translation": "Thereafter highly pleased with the event the devatas along with the saints worshipped Siva and goddess Uma with deep devotion.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-36-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अथ शैलसुता राम त्रिदशानिद���ब्रवीत्।\nसमन्युरशपत्सर्वान् क्रोधसंरक्तलोचना।।1.36.20।।",
+      "transliteration": "",
+      "translation": "\"Rama thereafter Uma, daughter of the mountain (Himavan) with her eyes red with anger cursed all of them:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-36-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "यस्मान्निवारिता चैव सङ्गति: पुत्रकाम्यया।\nअपत्यं स्वेषु दारेषु तस्मान्नोत्पादयिष्यथ।।1.36.21।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-36-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "अद्यप्रभृति युष्माकमप्रजास्सन्तु पत्नय:।।1.36.22।।\nएवमुक्त्वासुरान् सर्वान् शशाप पृथिवीमपि।",
+      "transliteration": "",
+      "translation": "\"From today onwards your wives will become childless\" cursed Uma. The devatas  were cursed this Even the  earth:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-36-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "अवने नैकरूपा त्वं बहुभार्या भविष्यसि।।1.36.23।।\nन च पुत्रकृतां प्रीतिं मत्क्रोधकलुषीकृता ।\nप्राप्स्यसि त्वं सुदुर्मेधे मम पुत्रमनिच्छती।।1.36.24।।",
+      "transliteration": "",
+      "translation": "\"O Earth you will assume many forms and become wife of many masters. O evilminded one, you did not want me to bear a son. Having been fouled as a result of my anger, you will not have the pleasure of having  a son, cursed Uma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-36-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तान् सर्वान् व्रीडितान् दृष्ट्वा सुरान्सुरपतिस्तदा।\nगमनायोपचक्राम दिशं वरुणपालिताम्।।1.36.25।।",
+      "transliteration": "",
+      "translation": "\"The god of the gods (Mahesvara), seeing all the devatas humiliated began to depart in the westerly direction presided over by Varuna.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-36-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "स गत्वा तप आतिष्ठत्पार्श्वे तस्योत्तरे गिरौ।\nहिमवत्प्रभवे शृङ्गे सह देव्या महेश्वर:।।1.36.26।।",
+      "transliteration": "",
+      "translation": "\"Mahesvara along with goddess Uma, went north of the Himavat mountain and performed penance on a peak.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-36-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "एष ते विस्तरो राम शैलपुत्र्या निवेदित:।\nगङ्गाया: प्रभवं चैव शृणु मे सहलक्ष्मण:।।1.36.27।।",
+      "transliteration": "",
+      "translation": "\"O Rama this story of the daughter of the mountain has been narrated to you. Now listen with Lakshmana the tale of the birth of Ganga\": इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे षट्त्रिंशस्सर्ग:।। Thus ends the thirtysixth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

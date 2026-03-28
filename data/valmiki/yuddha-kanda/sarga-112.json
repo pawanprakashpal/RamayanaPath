@@ -1,0 +1,225 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 112,
+    "title": "Vibheeshana laments and Sri Rama consoles him and asks him to conduct the obsequies of Ravana.",
+    "titleSanskrit": "",
+    "totalShlokas": 23
+  },
+  "shlokas": [
+    {
+      "id": "v6-112-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "भ्रातरंनिहतंदृष्टवाशयानंनिर्जितंरणे ।\nशोकवेगपर��तात्माविललापविभीषणः ।।6.112.1।।",
+      "transliteration": "",
+      "translation": "Vibheeshana, seeing his brother killed and lying in the battlefield, lamented immersed in sorrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-112-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "वीर विक्रान्त विख्यात प्रवीण नयकोविद ।\nमहार्हाशयनोपेतकिंशेषेनिहतोभुवि ।।6.112.2।।",
+      "transliteration": "",
+      "translation": "\"O valiant, powerful and renowned king! You who were skilled in all fields and in polity, accustomed to a sumptuous bed, why are you lying on ground?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-112-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "विक्षिप्यदीर्घौनिश्चेष्टौभुजावङ्गभूषितौ ।\nमुकुटेनापवृत्तेनभास्कराकारवर्चसा ।।6.112.3।।",
+      "transliteration": "",
+      "translation": "\"Decked with armlets, motionless are your arms, broken, knocked down with the crown, radiant like the Sun.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-112-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "दंवीरसम्प्राप्तंयन्मयापूर्वमीरितम् ।\nकाममोहपरीतस्ययत्तन्नरुचितंतव ।।6.112.4।।",
+      "transliteration": "",
+      "translation": "\"Hero! That which was predicted by me earlier, which did not find your favour due to your infatuation, has come true.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-112-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "यन्नदर्पात्प्रहस्तोवानेन्द्रजिन्नापरेजनाः ।\nन कुम्बकर्णोऽतिरथोनातिकायोनरान्तकः ।।6.112.5।।\nन स्वयंत्वममन्येथास्तस्योदर्कोऽयमागतः ।",
+      "transliteration": "",
+      "translation": "\"Either Prahastha or Indrajith or other Rakshasas, or even Kumbhakarna, an exceeding car warrior, nor Atikaya or Naranthaka or you also did not care for my counsel. Its consequence has come now.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-112-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "गतस्सेतुस्सुनीतीनांगतोधर्मस्यविग्रहः ।।6.112.6।।\nगतस्सत्त्वस्यसङ्क्षेपःप्रस्तावानांगतिर्गता ।\nआदित्यःपतितोभूमौमग्नस्तमसिचन्द्रमाः ।।6.112.7।।\nचित्रभानुःप्रशान्तार्चिर्व्यवसायोनिरुद्यमः ।\nअस्मिन्निपतितेवीरे भूमौशस्त्रभृतांवरे ।।6.112.8।।",
+      "transliteration": "",
+      "translation": "\" As this hero, the wielder of weapons has fallen down on ground, the prudent one who was at boundary, disappeared he who was the form of righteousness, departed he who was a repository of might, thrown down and out of sight he, who was praiseworthy for all, lost position. With the hero falling down, it seems the Sun has fallen down, the moon plunged into darkness, fire became extinct, and the enthusiasm of people wasted.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-112-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "किंशेषमिहलोकस्यगतसत्त्वस्यसम्प्रति ।\nरणेराक्षसशार्दूलेप्रसुप्तइवपांसुषु ।।6.112.9।।",
+      "transliteration": "",
+      "translation": "\"With the tiger among the Rakshasas fallen asleep like this in the dust in the battlefield, strength of the people departed. What is left in this world?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-112-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "धृतिप्रवालःप्रसह्याग्य्रपुष्पस्तपोबलश्शौर्यनिबद्धमूलः ।\nरणेमहान्राक्षसराजवृक्षःसम्मर्दितोराघवमारुतेन ।।6.112.10।।",
+      "transliteration": "",
+      "translation": "\"The great tree in the form of Rakshasa king, with its firmness as leaves, stubbornness as its blossom, austerity as strength, valour as strong roots, was crushed by the tempest of Raghava in the battlefield.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-112-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तेजोविषाणःकुलवंशवंशःकोपप्रसादापरगात्रहस्तः ।\nइक्ष्वाकुसिंहावगृहीतदेहःसुप्तःक्षितौरावणगन्धहस्ती ।।6.112.11।।",
+      "transliteration": "",
+      "translation": "\"Ravana's prowess as tusks, father and grand fathers' race as back of the body, wrath as lower body and graciousness as proboscis, overthrown by a lion in the shape of Ikshvaku race having killed him he is lying asleep thrown down.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-112-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "पराक्रमोत्साहविजृम्भितार्चिर्निःश्वासधूमस्स्वबलप्रतापः ।\nप्रतापवान्सम्यतिराक्षसाग्निर्विर्वापितोरामपयोधरेण ।।6.112.12।।",
+      "transliteration": "",
+      "translation": "\"The prowess and exceeding energy of Ravana as flames, his sighs as smoke, his own strength as heat, endowed with might, that fire of Rakshasa has been extinguished by the rainy cloud in the shape of Rama in the battlefield.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-112-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "सिंहरक्षलाङ्गूलककुद्विषाणःपराभिजिद्गन्धनगन्धहस्ती ।\nरक्षोवृषश्चापलकर्णचक्षुःक्षितीश्वरव्याघ्रहतोऽवसन्नः ।।6.112.13।।",
+      "transliteration": "",
+      "translation": "\"Rakshasas who followed as tails, humps and horns, Ravana the conquerors of enemies, like elephants in pride, animality as ears and eyes, the bull in the form of Rakshasa Ravana was killed by Rama, the master of earth in the form of tiger.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-112-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "वदन्तंहेतुमद्वाक्यंपरिदृष्टार्थनिश्चयम् ।\nरामःशोकसमाविष्टमित्युवाचविभीषणम् ।।6.112.14।।",
+      "transliteration": "",
+      "translation": "Thus spoke Rama to Vibheeshana, who was overcome with sorrow and speaking with reason, his determined opinion.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-112-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "नायंविनष्टोनिश्चेष्टस्समरेचण्डविक्रमः ।\nअत्युन्नतमहोत्साहःपतितोऽयमशङ्कितः ।।6.112.15।।",
+      "transliteration": "",
+      "translation": "\"This Ravana is not destroyed without power in war. He is of terrible prowess, of extraordinary enthusiasm and fought without any fear and fallen.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-112-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "नैवंविनष्टाःशोच्यन्तेक्षत्रधर्मव्यवस्थिताः ।\nवृधदिमाशंसमानायेनिपतन्तिरणाजिरे ।।6.112.16।।",
+      "transliteration": "",
+      "translation": "\"Those kings who follow duty steadfast, desiring advancement, fearless in the battlefield, who die in that way should not be mourned.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-112-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "येनसेन्द्रास्त्रयोलोकास्त्रासितायुधिधीमता ।\nतस्मिन्कालसमायुक्ते न कालःपरिशोचितुम् ।।6.112.17।।",
+      "transliteration": "",
+      "translation": "\"He who is wise, and the three worlds fear him, including Indra, the Lord of gods, when brought under the sway of death according to timespirit, should not be mourned.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-112-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "नैकान्तविजयोयुद्धेभूतपूर्वःकदाचन ।\nपरैराहन्यतेवीरःपरान्वाहन्तिसंयुगे ।।6.112.18।।",
+      "transliteration": "",
+      "translation": "\"Not only that, in war, he will only will be victorious is not true now or before. Hero may kill the enemy or will be killed by the enemy.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-112-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "इयंहिपूर्वैस्सन्दि���्टागतिःक्षत्रियसम्मता ।\nक्षत्रियोनिहतंसङ्ख्ये न शोच्यइतिनिश्चयः ।।6.112.19।।",
+      "transliteration": "",
+      "translation": "\"This course has been practised in the past by ancient kings for those killed in war. Warrior killed in war is not to be mourned', is true.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-112-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तदेवंनिश्चयंदृष्टवातत्त्वमास्थायविज्वरः ।\nयदिहानन्तरंकार्यंकल्प्यंतदनुचिन्तय ।।6.112.20।।",
+      "transliteration": "",
+      "translation": "In principle, in that way, decide the action, freed from grief, considering what action is required.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-112-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "मुक्तवाक्यंविक्रान्तंराजपुत्रंविभीषणः ।\nउवाचशोकसन्तप्तोभ्रातुर्हितमनन्तरम् ।।6.112.21।।",
+      "transliteration": "",
+      "translation": "Having spoken that way by the valiant prince to Vibheeshana, who was immersed in grief, spoke to Rama for the good of his brother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-112-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "योऽयंविमर्देष्वविभग्नपूर्वःसुरैस्समस्थेरपिवासवेन ।\nभवन्तमासाद्यरणेविभग्नोवेलामिवासाद्ययथासमुद्रः ।।6.112.22।।",
+      "transliteration": "",
+      "translation": "\"He who has not been defeated in battle by even gods or Indra combined together in a trial of strength has been routed by you like the flow of the ocean divides on reaching the shore.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-112-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "अनेनदत्तानिवनीपकेषुभुक्ताश्चभोगानिभृताश्चभृत्याः ।\nधनानिमित्रेषुसमर्पितानिवैराण्यमित्रेषुनिपातितानि ।।6.112.23।।",
+      "transliteration": "",
+      "translation": "\"He bestowed gifts to mendicants, nurtured dependents, filled his friends with wealth, and held grudges against enemies and destroyed them.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-112-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "एषोहिताग्निश्च:महातपाश्चवेदान्तगःकर्मसुचाग्य्रशूरः ।\nएतस्ययत्प्रेतगतस्यकृत्यंतत्कर्तुमिच्छामितवप्रसादात् ।।6.112.24।।",
+      "transliteration": "",
+      "translation": "\"He maintained sacrificial fire and practised austerities. He mastered vedas and was even doing rituals. To the foremost brother's departed soul, I desire your permission to do the rituals.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-112-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "मरणान्तानिवैराणिनिर्वृत्तंवःप्रयोजनम् ।\nक्रियतामस्यसंस्कारोममाप्येषयथातव ।।6.112.25।।",
+      "transliteration": "",
+      "translation": "\"There is no use of enmity after death. You may carry out his last rites. That way I am also your relation.\" ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेद्वादशोत्तरशततमस्सर्गः।। This is the end of one hundred and twelfth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

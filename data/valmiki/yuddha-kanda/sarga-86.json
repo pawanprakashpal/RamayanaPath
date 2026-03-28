@@ -1,0 +1,297 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 86,
+    "title": "Hanuman and the monkey army attack the Rakshasas. Hanuman challenges Indrajith for a duel and Lakshman catches the sight of Indrajith who gets up from the fire sacrifice to retaliate.",
+    "titleSanskrit": "",
+    "totalShlokas": 31
+  },
+  "shlokas": [
+    {
+      "id": "v6-86-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "अथतस्यामवस्थायांलक��ष्मणंरावणानुजः ।\nपरेषामहितंवाक्यमर्थसाधकमब्रवीत् ।।6.86.1।।",
+      "transliteration": "",
+      "translation": "Ravana's brother seeing Lakshmana spoke these words of advice to accomplish the task and which is not good for the enemies.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-86-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "यदेतद्राक्षसानीकंमेघश्यामंविलोक्यते ।\nएतदायोध्यतांशीघ्रंकपिभिपादपायुधैः ।।6.86.2।।",
+      "transliteration": "",
+      "translation": "\"The army of Rakshasas looks like a dark cloud and let the monkeys too get engaged to fight swiftly with trees as weapons.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-86-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "अस्यानीकस्यमहतोभेदनेयतलक्ष्मण ।\nराक्षसेन्द्रसुतोऽप्यत्रभिन्नेदृश्योभविष्यति ।।6.86.3।।",
+      "transliteration": "",
+      "translation": "\"O Lakshmana! Shatter this mighty army of Rakshasas. When it is broken Ravana's son will become visible.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-86-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "सत्वमिन्द्राशनिप्रख्यैःशरैरवकिरन्परान् ।\nअभिद्रवाशुयावद्वैनैतत्कर्मसमाप्यते ।।6.86.4।।",
+      "transliteration": "",
+      "translation": "\"You have come to attack the enemy. Before he completes his action quickly attack him with the thunderbolt of Indra.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-86-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "ज हिवीरदुरात्मानंमायापरमधार्मिकम् ।\nरावणिंक्रूरकर्माणंसर्वलोकभयावहम् ।।6.86.5।।",
+      "transliteration": "",
+      "translation": "\"Hero, wicked minded, conjurer, unrighteous and cruel one who is a terror for all worlds is Ravana's son. Destroy him.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-86-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "विभीषणवच्श्रुत्वालक्ष्मणश्शुभलक्षणः ।\nववर्षशरवर्षाणिराक्षसेन्द्रसुतंप्रति ।।6.86.6।।",
+      "transliteration": "",
+      "translation": "Lakshmana, who had auspicious marks, on hearing Vibheeshana rained showers of arrows on Ravana's son.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-86-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "ऋक्षाःशाखामृगाश्चैवद्रुमद्रिनखयोधिनः ।\nअभ्यधावन्तसहितास्तदनीकमवस्थितम् ।।6.86.7।।",
+      "transliteration": "",
+      "translation": "The Bears and monkeys together initiated a fight with the army with trees, mountains, and nails as weapons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-86-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "राक्षसाश्चशितैर्भाणैरसिभिश्शक्तितोमरैः ।\nउद्यदैससम् वर्तन्तसमरेकपिसैन्यजिघांसवः ।।6.86.8।।",
+      "transliteration": "",
+      "translation": "The Rakshasas also launched attacks in the battle with sharp swords, javelins, and lances.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-86-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "स सम्प्रहारस्तुमुलःसञ्जज्ञेकपिरक्षसाम् ।\nशब्देनमहतालङ्कांनादयन्वैसमन्ततः ।।6.86.9।।",
+      "transliteration": "",
+      "translation": "With both the monkeys and Rakshasas mutually striking intensely, the mighty sounds resounded all over Lanka",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-86-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "शस्त्रश्चविविधाकारैश्शितैर्बाणैश्चपादपैः ।\nउद्यतैर्गिरिशृङ्गैश्चघोरैराकाशमावृतम् ।।6.86.10।।",
+      "transliteration": "",
+      "translation": "The sky was covered with weapons of various shapes, arrows, trees, mountain peaks thrown at each other and were dreadful.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-86-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तेराक्षसावानरेषुविकृताननबाहवः ।\nनिवेशयन्तःशस्त्राणिचक्रुस्तेसुमहद्भयम् ।।6.86.11।।",
+      "transliteration": "",
+      "translation": "The Rakshasas with disfigured faces and arms, attacked the Vanaras, and their bodies pierced with weapons created great fear in them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-86-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "तथैवसकलैर्वृक्षैर्गिरिशृङ्गैश्चवानराः ।\nअभिजघ्नुजघ्नुश्चसमरेराक्षसर्षभान् ।।6.86.12।।",
+      "transliteration": "",
+      "translation": "The monkeys likewise wounded and assailed the bulls among Rakshasas with trees and mountain peaks in the battle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-86-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "ऋक्षवानरमुख्यैश्चमहाकायैर्महाबलैः ।\nरक्षसांयुध्यमानानांमहद्भयमजायत ।।6.86.13।।",
+      "transliteration": "",
+      "translation": "Mighty Bears and Vanaras of huge body, fighting in the battle caused great fear in Rakshasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-86-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "स्वमनीकंविषण्णंतुश्रुत्वाशत्रुभिरर्दितम् ।\nउदतिष्ठतदुर्दर्षः स कर्मण्यननुष्ठिते ।।6.86.14।।",
+      "transliteration": "",
+      "translation": "Indrajith, who is difficult to overpower, on hearing the cries of his own army in agony got up without completing the task (of ritual).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-86-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "वृक्षान्धकारान्निर्गम्यजातक्रोधः स रावणिः ।\nआरुरोहरथंसज्जंपूर्वयुक्तंसुसंयतम् ।।6.86.15।।",
+      "transliteration": "",
+      "translation": "Enraged, Indrajith coming out of the darkness of trees ascended the chariot already yoked and fixed firmly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-86-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "स भीमकार्मुकधरःकालमेघसमप्रभ: ।\nरक्तास्यनयनोकृद्धोमभौमृत्युरिवान्तकः ।।6.86.16।।",
+      "transliteration": "",
+      "translation": "Indrajith, armed with a terrific bow and arrows, his body shining like a rainy cloud, with red eyes, angry face, seemed like the spirit of death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-86-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "दृष्टवैवतुरथस्थंतंपर्यवर्तततद्बलम् ।\nरक्षसांभीमवेगानांलक्ष्मणेनयुयुत्सताम् ।।6.86.17।।",
+      "transliteration": "",
+      "translation": "Seeing Lakshmana prepared for war, the Rakshasa army endowed with speed surrounded him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-86-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तस्मिन् कालेतुहनूमानुद्यम्यसुदुरासदम् ।\nधरणीधरसङ्काशोमहावृक्षमरिन्दमः ।।6.86.18।।\nस राक्षसानांतत्सैन्यंकालाग्निरिवनिर्दहन् ।\nचकारबहुभिर्वक्षैर्निःसंज्ञंयुधिवानरः ।।6.86.19।।",
+      "transliteration": "",
+      "translation": "In the meantime, Hanuman, who resembled a mountain, a tamer of enemies, who is difficult to overpower, taking up huge trees fighting with Rakshasas created havoc like fire at the time of dissolution and went about.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-86-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "विध्वंसन्तंतरसादृष्टवैवपवनात्मजम् ।\nराक्षसानांसहस्राणिहनूमन्तमवाकिरन् ।।6.86.20।।",
+      "transliteration": "",
+      "translation": "Seeing the wind god's son destroying, thousands of Rakshasas got together surrounding him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-86-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "शितशूलधराश्शूलैरसिभिश्चासिपाणयः ।\nशक्तिहस्ताश्चभिश्शक्तिपट्टसै: पट्टसायुधाः ।।6.86.21।।\nपरिघैश्चगदाभिश्चकुन्तैश्चशुभदर्शनैः ।\nशतशश्चशतघ्नीभिरायसैरपिमुद्गरैः ।।6.86.22।।\nघोरैःपरशुभिश्चैवभिदनिपालैश्चराक्षसाः ।\nमुष्टिभिर्वज्रकल्पैश्चतलैरशनिसन्निभैः ।।6.86.23।।\nअभिजघ्नुःसमासाद्यसमन्तात्पर्वतोपमम् ।\nतेषामपि च सङ्ग्रुद्धश्चकारकदनंमहत् ।।6.86.24।।",
+      "transliteration": "",
+      "translation": "Between the skilful Rakshasas armed with sharp tridents, swords, javelins in hand, with spears in hand, bright iron bars glowing like fire, with iron axes, dreadful hammers, Bhindi palas and Hanuman, with thunderbolt like fists that descended like lightning, and slaps which descended like mountains, a huge skillful war took place.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-86-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "स ददर्शकपिश्रेष्ठमचलोपममिन्द्रजित् ।\nसूदमानमसन्त्रस्तममित्रान् पवनात्मजम् ।।6.86.25।।",
+      "transliteration": "",
+      "translation": "Indrajith witnessed Hanuman, the foremost of Vanaras without weapons, fearlessly fighting.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-86-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "स सारथिमुवाचेदंयाहियत्रैषवानरः ।\nक्षयमेवहिनःकुर्याद्राक्षसामुपेक्षितः ।।6.86.26।।",
+      "transliteration": "",
+      "translation": "Thus Indrajith spoke to the charioteer \"This Vanara will no doubt reduce the Rakshasa army if we keep waiting.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-86-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "इत्युक्तस्सारथिस्तेनययौयत्र न मारुतिः ।\nवहन् परमदुर्धर्षंस्थितमिन्द्रजितंरथे ।।6.86.27।।",
+      "transliteration": "",
+      "translation": "On hearing Indrajith who is highly difficult to encounter speaking in that way his charioteer drove Indrajith, to that place, where Maruthi was.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-86-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "सोऽभ्युपेत्यशरान्खङ्गान्पट्टसासिपरश्वधान् ।\nअभ्यवर्षतदुर्धर्षःकपिमूर्थनिराक्षसः ।।6.86.28।।",
+      "transliteration": "",
+      "translation": "Going near Hanuman, that dreadful Rakshasa, rained arrows, spears, swords and iron bars on the face of Hanuman.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-86-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तानिशस्त्राणिघोराणिप्रतिगृह्य स मारुतिः ।\nरोषेणमहताविष्टोवाक्यंचेदमुवाच ह ।।6.86.29।।",
+      "transliteration": "",
+      "translation": "Receiving those frightening weapons, Maruthi spoke these words overcome by anger.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-86-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "युध्यस्वयदिशूरोऽसिरावणात्मजदुर्मते ।\nवायुपुत्रंसमासाद्य न जीवन् प्रतियास्यसि ।।6.86.30।।",
+      "transliteration": "",
+      "translation": "\"Evil minded hero! Fight with me back having met, you shall not return alive.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-86-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "बाहुभ्यांसम्प्रतियुध्यस्वयदिमेद्वन्द्वमाहवे ।\nवेगंसहस्वदुर्बुद्धेततस्त्वंरक्षसांवरः ।।6.86.31।।",
+      "transliteration": "",
+      "translation": "\"Fight with me for a duel war if you like. Come quickly and with stand, then you will become foremost among Rakshasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-86-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "हनूमन्तंजिघांसन्तंसमुद्यतशरासनम् ।\nरावणात्मजमाचष्टे लक्ष्मणाय विभीषण: ।।6.86.32।।",
+      "transliteration": "",
+      "translation": "\"Vibheeshana told Lakshmana that Indarjith having seated is ready to attack Hanuman.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-86-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "यस्सवा��वनिर्जेतारावणस्यात्मसम्भवः ।\nस एषरथमास्थायहनूमन्तंजिघांसति ।।6.86.33।।",
+      "transliteration": "",
+      "translation": "\"Ravana's son, the conqueror of Indra, having taken a se at in the chariot seeks to kill Hanuman.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-86-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "तमप्रतिमसंस्थानैश्शरैश्शत्रुनिवारणैः ।\nजीवितान्तकरैर्घोरैःसौमित्रेरावणिंजहि ।।6.86.34।।",
+      "transliteration": "",
+      "translation": "\"O Saumithri! Kill that son of Ravana with your formidable weapons of incomparable craftsmanship, dreadful arrows capable of killing enemies.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-86-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "इत्येवमुक्तस्तुतदामहात्माविभीषणेनारिविभीषणेन ।\nददर्शतंपर्वतसन्निकाशंरथस्थितंभीमबलंदुरासदम् ।।6.86.35।।",
+      "transliteration": "",
+      "translation": "Spoken in that way by Vibheeshana, the terror of enemies, the great selfLakshmana saw Indrajith resembling a mountain seated in the chariot and was difficult to approach. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेअदिकव्येयुद्धकाण्डेषडशीतितमस्सर्गः ।। This is the end of the eighty sixth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

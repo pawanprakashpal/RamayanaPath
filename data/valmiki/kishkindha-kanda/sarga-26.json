@@ -1,0 +1,288 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 26,
+    "title": "Sugriva's coronation -- declaration of Angada as heir apparent -- retirement of Rama to Rshyamuka -- Rama asks Sugriva to make arrangements to find Sita after the rainy season.",
+    "titleSanskrit": "",
+    "totalShlokas": 30
+  },
+  "shlokas": [
+    {
+      "id": "v4-26-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततश्शोकाभिसन्तप्तं सुग्रीवं क्लिन्नवाससम्।\nशाखामृगमहामात्राः परिवार्योपतस्थिरे4.26.1।।",
+      "transliteration": "",
+      "translation": "Then the chiefs of the army of the monkeys surrounded  Sugriva, who was overcome with grief and was still in wet clothes (since he had taken bath at the conclusion of the funeral rites) and waited.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-26-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अभिगम्य महाबाहुं राममक्लिष्टकारिणम्।\nस्थिताः प्राञ्जलयस्सर्वे पितामहमिवर्षयः4.26.2।।",
+      "transliteration": "",
+      "translation": "Just like sages stand before the creator Brahma, all the monkeys stood with folded hands before the longarmed Rama, the remover of sorrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-26-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "ततः काञ्चनशैलाभ स्तरुणार्कनिभाननः।\nअब्रवीत्प्राञ्जलिर्वाक्यं हनूमान्मारुतात्मजः4.26.3।।",
+      "transliteration": "",
+      "translation": "Hanuman, son of the Windgod, glowing like a golden mountain, whose face resembled the rising Sun addressed Rama with folded hands:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-26-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "भवत्प्रसादात्सुग्रीवः पितृपैतामहं महत्।\nवानराणां सुदुष्प्रापं प्राप्तो राज्यमिदं प्रभो4.26.4।।",
+      "transliteration": "",
+      "translation": "'O Lord by your grace Sugriva inherited the ancestral kingdom which would have been otherwise difficult.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-26-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "भवता समनुज्ञातः प्रविश्य नगरं शुभम्4.26.5।।\nसंविधास्यति कार्याणि सर्वाणि ससुहृज्जनः।\nस्नातोऽयं विविधैर्गन्धैरौषधैश्च यथाविधि4.26.6।।",
+      "transliteration": "",
+      "translation": "'Permitted by your gracious self, he will enter the auspicious city along with his friends and perform his duties. He had his auspicious bath in fragrant waters with medicinal herbs as per tradition.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-26-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अर्चयिष्यति रत्नैश्च माल्यैश्च त्वां विशेषतः।\nइमां गिरिगुहां रम्यामभिगन्तुमितोऽर्हसि4.26.7।।\nकुरुष्व स्वामिसम्बन्धं वानरान्सम्प्रहर्षय।",
+      "transliteration": "",
+      "translation": "'He wants to propitiate you first specially with garlands and  gems. Pray enter this beautiful mountain cave for the pleasure of the monkeys and establish relationship with king Sugriva.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-26-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "एवमुक्तो हनुमता राघवः परवीरहा4.26.8।।\nप्रत्युवाच हनूमन्तं बुद्धिमान्वाक्यकोविदः।",
+      "transliteration": "",
+      "translation": "Requested by Hanuman who was skilful in conversation, wise Rama, slayer of enemies, replied:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-26-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "चतुर्दश समास्सौम्य ग्रामं वा यदि वा पुरम्4.26.9।।\nन प्रवेक्ष्यामि हनुमन्पितुर्निर्देशपालकः।",
+      "transliteration": "",
+      "translation": "'Dear Hanuman In obedience to my father's command I should not enter any village or city for fourteen years.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-26-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "सुसमृद्धां गुहां रम्यां सुग्रीवो वानरर्षभः4.26.10।।\nप्रविष्टो विधिवद्वीरः क्षिप्रं राज्येऽभिषिच्यताम्।",
+      "transliteration": "",
+      "translation": "'Let Sugriva enter the beautiful prosperous cavern (Kishkinda) and be installed by you as king with due rituals.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-26-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "एवमुक्त्वा हनूमन्तं रामस्सुग्रीवमब्रवीत्4.26.11।।\nवृत्तज्ञो वृत्तसम्पन्नमुदारबलविक्रमम्।",
+      "transliteration": "",
+      "translation": "Having thus spoken to Hanuman, Rama who knew etiquette addressed mighty  Sugriva, endowed with wisdom:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-26-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "इममप्यङ्गदं वीर यौवराज्येऽभिषेचय4.26.12।।\nज्येष्ठस्य स सुतो ज्येष्ठस्सदृशो विक्रमेण ते।\nअङ्गदोऽयमदीनात्मा यौवराज्यस्य भाजनम्4.26.13।।",
+      "transliteration": "",
+      "translation": "'O hero consecrate Angada as heirapparent since he deserves it as the eldest son of your brother, a noble soul and equal to you in prowess.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-26-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "पूर्वोऽयं वार्षिको मासः श्रावणस्सलिलागमः।\nप्रवृत्तास्सौम्य चत्वारो मासा वार्षिकसज्ञिकाः4.26.14।।",
+      "transliteration": "",
+      "translation": "'O noble Sugriva the four months from now will be rainy season. This is Sravana, the first month of the season in which rain is expected to start pouring.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-26-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "नायमुद्योगसमयः प्रविश त्वं पुरीं शुभाम्।\nअस्मिन्वत्स्याम्यहं सौम्य पर्वते सह लक्ष्मणः4.26.15।।",
+      "transliteration": "",
+      "translation": "'O goodnatured Sugriva this is not a suitable time for any endeavour. Go to the auspicious capital city of Kishkinda and I will reside on the mountain with Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-26-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "इयं गिरिगुहा रम्या विशाला युक्तमारुता।\nप्रभूतसलिला सौम्य प्रभूतकमलोत्पला4.26.16।।",
+      "transliteration": "",
+      "translation": "'Dear Sugriva this cavern of the mountain is large and airy. It has abundant water resources with lotuses and lilies.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-26-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "कार्तिके समनुप्राप्ते त्वं रावणवधे यत।\nएष नस्समयस्सौम्य प्रविश त्वं स्वमालयम्4.26.17।।\nअभिषिक्तस्व राज्ये च सुहृदस्सम्प्रहर्षय।",
+      "transliteration": "",
+      "translation": "'Enter the city and get yourself installed and cheer your friends. Make all arrangement for killing Ravana when the month of Kartika begins as it is the proper time (for the purpose).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-26-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "इति रामाभ्यनुज्ञातस्सुग्रीवो वानराधिपः4.26.18��।\nप्रविवेश पुरीं रम्यां किष्किन्धां वालिपालिताम्।",
+      "transliteration": "",
+      "translation": "Thus permitted by Rama , Sugriva, lord of the monkeys entered the beautiful city of Kishkinda (once) ruled by Vali.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-26-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तं वानरसहस्राणि प्रविष्टं वानरेश्वरम्4.26.19।।\nअभिवाद्य प्रविष्टानि सर्वतः पर्यवारयन्।",
+      "transliteration": "",
+      "translation": "Thousands of monkeys entered the city of Kishkinda along with their king, and stood  in attendance everywhere.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-26-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "ततः प्रकृतयस्सर्वा दृष्ट्वा हरिगणेश्वरम्4.26.20।।\nप्रणम्य मूर्ध्ना पतिता वसुधायां समाहिताः।",
+      "transliteration": "",
+      "translation": "Then all the subjects of the city collected together, prostrated to the chief of the monkey clan with their forehead touching the ground (as a mark of respect) and sat down.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-26-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "सुग्रीवः प्रकृतीस्सर्वास्सम्भाष्योत्थाप्य वीर्यवान्4.26.21।।\nभ्रातुरन्तःपुरं सौम्यं प्रविवेश महाबलः।",
+      "transliteration": "",
+      "translation": "Asking the monkeys to rise to their feet, the mighty and powerful Sugriva entered the inner chambers of his brother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-26-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "प्रविश्य त्वभिनिष्क्रान्तं सुग्रीवं प्लवगेश्वरम्4.26.22।।\nअभ्यषिञ्चन्त सुहृदस्सहस्राक्षमिवामराः।",
+      "transliteration": "",
+      "translation": "With Sugriva,the lord of the monkeys, returned to Kishkinda, his kith and kin  coronated him just as the gods consecrated the thousandeyed Indra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-26-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तस्य पाण्डुरमाजह्रुश्छत्रं हेमपरिष्कृतम्4.26.23।।\nशुक्ले च वालव्यजने हेमदण्डे यशस्करे।\nतथा सर्वाणि रत्नानि सर्वबीजौषधीरपि4.26.24\nसक्षीराणां च वृक्षाणां प्ररोहान्कुसुमानि च।\nशुक्लानि चैव वस्त्राणि श्वेतं चैवानुलेपनम्4.26.25।।\nसुगन्धीनि च माल्यानि स्थलजान्यम्बुजानि च।\nचन्दनानि च दिव्यानि गन्धांश्च विविधान्बहून्4.26.26।।\nअक्षतं जातरूपं च प्रियङ्गुमधुसर्पिषी।\nदधि चर्म च वैयाघ्रं वाराही चाप्युपानहौ4.26.27।।\nसमालम्भनमादाय रोचनां समनश्शिलाम्।\nआग्मुस्तत्र मुदिता वराः कन्यास्तु षोडश4.26.28।।",
+      "transliteration": "",
+      "translation": "The monkeys brought a white canopy decorated with gold and two chamaras with glorious golden staff. They also brought jewels, all kinds of medicinal herbs, sprouts, sap from trees, white flowers and white clothes, unguents, garlands of fragrant lotuses that grow on land and water, heavently sandal, fragrants of different kinds, goldcoloured paddy, honey of priyanga, curds, tiger skin and sandals made of boar skin. Then sixteen beautiful, cheerful females appeared with unguent, gorochana  mixed with red arsenic (used for putting tilaka on the forehead).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-26-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "ततस्ते वानरश्रेष्ठं यथाकालं यथाविधि।\nरत्नैर्वस्त्रैश्च भक्ष्यैश्च तोषयित्वा द्विजर्षभान्4.26.29।।",
+      "transliteration": "",
+      "translation": "Then they duly propitiated the brahmins, offering them gifts of gems, clothes and eatables.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-26-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "ततः कुशपरिस्तीर्णं समिद्धं जातवेदसम्।\nमन्त्रपूतेन हविषा हुत्वा मन्त्रविदो जनाः4.26.30।।",
+      "transliteration": "",
+      "translation": "Then the priests (people who recite Vedic hymns) strew around kusa grass, kindled sacred fire with recitation of mantras and made offerings of havis into the fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-26-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "ततो हेमप्रतिष्ठाने वरास्तरणसंवृते।\nप्रासादशिखरे रम���ये चित्रमाल्योपशोभिते4.26.31।।\nप्राङ्मुखं विविधैर्मन्त्रै: स्थापयित्वा वरासने।\nनदीनदेभ्यस्संहृत्य तीर्थेभ्यश्च समन्ततः4.26.32।।\nआहृत्य च समुद्रेभ्यस्सर्वेभ्यो वानरर्षभाः।\nअपः कनककुम्भेषु निधाय विमलाश्शुभाः4.26.33।।\nशुभैर्वृषभशृङ्गैश्च कलशैश्चापि काञ्चनैः।\nशास्त्रदृष्टेन विधिना महर्षिविहितेन च4.26.34।।\nगजो गवाक्षो गवयश्शरभो गन्धमादनः।\nमैन्दश्च द्विविदश्चैव हनुमान्जाम्बवान्नलः4.26.35।।\nअभ्यषिञ्चन्त सुग्रीवं प्रसन्नेन सुगन्धिना।\nसलिलेन सहस्राक्षं वसवो वासवं यथा4.26.36।।",
+      "transliteration": "",
+      "translation": "Then Sugriva was seated facing the east on a golden throne with fine coverings on top of the mansion decorated with multicoloured garlands. As per tradition, sacred waters  collected from rivers and rivulets and stored in golden pots was aportioned in accordance with the procedure ordained by the sages in sastras. At the appropriate time the pure and fragrant water was poured by Gaja, Gavaya, Sarabha, Mainda, Dvivida, Hanumanta, Jambavan and Nala on Sugriva, the bull among monkeys through horns of bulls and jars of gold, like the eight Vasus bathed the thousandeyed Indra. Thus they performed the consecration.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-26-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "अभिषिक्ते तु सुग्रीवे सर्वे वानरपुङ्गवाः।\nप्रचुक्रुशुर्महात्मानो हृष्टा स्तत्र सहस्रशः 4.26.37।।",
+      "transliteration": "",
+      "translation": "As Sugriva was ceremoniously consecrated, thousands of monkeys rejoiced and shrieked out of joy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-26-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "रामस्य तु वचः कुर्वन्सुग्रीवो हरिपुङ्गवः।\nअङ्गदं सम्परिष्वज्य यौवराज्येऽभ्यषेचयत्4.26.38।।",
+      "transliteration": "",
+      "translation": "In obedience to Rama's instruction, Sugriva, lord of the monkeys installed Angada as prince regent and embraced him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-26-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "अङ्गदे चाभिषिक्ते तु सानुक्रोशाः प्लवङ्गमाः।\nसाधु साध्विति सुग्रीवं महात्मानोऽभ्यपूजयन्4.26.39।।",
+      "transliteration": "",
+      "translation": "The great monkeys concerned hailed Sugriva's action  saying, 'well done, well done' on the installation of Angada.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-26-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "रामं चैव महात्मानं लक्ष्मणं च पुनः पुनः।\nप्रीताश्च तुष्टुवुस्सर्वे तादृशे तत्र वर्तिते4.26.40।।",
+      "transliteration": "",
+      "translation": "As Sugriva and Angada were installed, all the monkeys were highly pleased and praised the noblehearted Rama and Lakshmana again and again.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-26-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "हृष्टपुष्टजनाकीर्णा पताकाध्वजशोभिता।\nबभूव नगरी रम्या किष्किन्धा गिरिगह्वरे4.26.41।।",
+      "transliteration": "",
+      "translation": "The beautiful city of Kishkinda situated in a mountaincave, decorated with banners and flags was filled with happy, wellfed citizens.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-26-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "निवेद्य रामाय तदा महात्मने\nमहाभिषेकं कपिवाहिनीपतिः।\nरुमां च भार्यं प्रतिलभ्य वीर्यवा\nनवाप राज्यं त्रिदशाधिपो यथा4.26.42।।",
+      "transliteration": "",
+      "translation": "The valiant leader of the monkey army (Sugriva) reported to great Rama about the installation.Having secured the kingdom and his wife Ruma, Sugriva also felt like Indra (who secured the kingdom of gods). इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्थाकाण्डे षड्विंशस्सर्गः।। Thus ends the twentysixth sarga of Kishkindakanda of the Holy Ramayana, the first epic, composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

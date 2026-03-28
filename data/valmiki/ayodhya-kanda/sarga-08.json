@@ -1,0 +1,369 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 8,
+    "title": "Manthara incites Kaikeyi --Kaikeyi narrates the virtues of Rama--Manthara insinuates that installation of Rama would harm Bharata--hence Rama should be banished and Bharata coronated.",
+    "titleSanskrit": "",
+    "totalShlokas": 39
+  },
+  "shlokas": [
+    {
+      "id": "v2-8-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "मन्थरा त्वभ्यसूयैनामुत्सृज्याभरणं च तत्।\nउवाचेदं ततो वाक्यं कोपदुःखसमन्विता।।2.8.1।।",
+      "transliteration": "",
+      "translation": "Annoyed with Kaikeyi and filled with rage and sorrow, Manthara discarded the ornament (gifted to her) and said these words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "हर्षं किमिदमस्थाने कृतवत्यसि बालिशे।\nशोकसागरमध्यस्थमात्मानं नावबुध्यसे।।2.8.2।।",
+      "transliteration": "",
+      "translation": "O foolish woman why do you display this misplaced happiness, little realising that you are in the midst of an ocean of sorrow?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "मनसा प्रहसामि त्वां देवि दुःखार्दिता सती।\nयच्छोचितव्ये हृष्टाऽसि प्राप्येदं व्यसनं महत्।।2.8.3।।",
+      "transliteration": "",
+      "translation": "O queen at a time when this great misfortune has befallen you, you are rejoicing  instead of feeling miserable. I am indeed laughing at you at heart.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "शोचामि दुर्मतित्वं ते का हि प्राज्ञा प्रहर्षयेत्।\nअरेस्सपत्नीपुत्रस्य वृद्धिं मृत्योरिवागताम्।।2.8.4।।",
+      "transliteration": "",
+      "translation": "I pity your false notion. Will any wise woman rejoice at the prosperity of the son of a cowife who is like an enemy? This is like (courting) death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "भरतादेव रामस्य राज्यसाधारणाद्भयम्।\nतद्विचिन्त्य विषण्णाऽस्मि भयं भीताऽद्धि जायते।।2.8.5।।",
+      "transliteration": "",
+      "translation": "Since Bharata and Rama have equal claim to the kingdom, Bharata is a  source of fear for Rama. Having thought over this matter, I am dejected. Danger springs from one who is in fear.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "लक्ष्मणो हि महेष्वासो रामं सर्वात्मना गतः।\nशत्रुघ्नश्चापि भरतं काकुत्स्थं लक्ष्मणो यथा।।2.8.6।।",
+      "transliteration": "",
+      "translation": "Lakshmana who wields a great bow has taken refuge with all his heart in Rama a  descendant of Kakutstha dynasty. So does Satrughna in Bharata.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "प्रत्यासन्नक्रमेणापि भरतस्यैव भामिनि।\nराज्यक्रमो विप्रकृष्टस्तयोस्तावत्कनीयसोः।।2.8.7।।",
+      "transliteration": "",
+      "translation": "O beautiful lady in order of birth, too, Bharata's right to the throne is just next (to  Rama's). While being younger, the chances of the other two (Lakshmana and Satrughna) are remote.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "विदुषः क्षत्रचारित्रे प्राज्ञस्य प्राप्तकारिणः।\nभयात्प्रवेपे रामस्य चिन्तयन्ती तवात्मजम्।।2.8.8।।",
+      "transliteration": "",
+      "translation": "Rama is learned in the duties of a kshatriya. He is wise enough to do what he should at the appropriate time. While reflecting the fate of your son, I am trembling with fear.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "सुभगा खलु कौशल्या यस्याः पुत्रोऽभिषेक्ष्यते।\nयौवराज्येन महता श्वः पुष्येण द्विजोत्तमैः।।2.8.9।।",
+      "transliteration": "",
+      "translation": "Kausalya whose son is going to be coronated as heirapparent by eminent    brahmins under Pushya  star tomorrow is fortunate, indeed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "प्राप्तां सुमहतीं प्रीतिं प्रतीतां तां हतद्विषम्।\nउपस्थास्यसि कौसल्यां दासीव त्त्वं कृताञ्जलिः।।2.8.10।।",
+      "transliteration": "",
+      "translation": "With folded palms like an attendant, you will have to serve that renowned Kausalya who is greatlly delighted by getting rid of her enemies.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "एवं चेत्त्वं सहास्माभिस्तस्याः प्रेष्या भविष्यसि।\nपुत्रश्च तव रामस्य प्रेष्यभावं गमिष्यति।।2.8.11।।",
+      "transliteration": "",
+      "translation": "If you thus become her attendant along with us, your son will also develop slavishness towards Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "हृष्टाः खलु भविष्यन्ति रामस्य परमास्स्त्रियः।\nअप्रहृष्टा भविष्यन्ति स्नुषास्ते भरतक्षये।।2.8.12।।",
+      "transliteration": "",
+      "translation": "All the women of Rama's (palace) will be delighted indeed. With the decline of Bharata, your daughtersinlaw will be deprived of all happiness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तां दृष्ट्वा परमप्रीतां ब्रुवन्तीं मन्थरां ततः।\nरामस्यैव गुणान्देवी कैकेयी प्रशशंस ह।।2.8.13।।",
+      "transliteration": "",
+      "translation": "Having seen that morose Manthara speaking thus, Kaikeyi commended the virtues of Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "धर्मज्ञो गुरुभिर्दान्तः कृतज्ञस्सत्यवाक्छुचिः।\nरामो राज्ञ स्सुतो ज्येष्ठो यौवराज्यमतोऽर्हति।।2.8.14।।",
+      "transliteration": "",
+      "translation": "Rama knows righteouness. He has been taught selfrestraint by elders. He is grateful and truthful. He is undefiled. He is the eldest son of the king. Therefore, he deserves to be the heirapparent (of the kingdom).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "भ्रातृ़न्भृत्यांश्च दीर्घायुः पितृवत्पालयिष्यति।\nसन्तप्स्यसे कथं कुब्जे श्रुत्वा राम���भिषेचनम्।।2.8.15।।",
+      "transliteration": "",
+      "translation": "Blessed with a long life, Rama will protect his brothers and the servants like a  father. O hunchback, hearing Rama's coronation why are you aggrieved?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "भरतश्चापि रामस्य ध्रुवं वर्षशतात्परम्।\nपितृपैतामहं राज्यमवाप्ता पुरुषर्षभः।।2.8.16।।",
+      "transliteration": "",
+      "translation": "After a hundred years of Rama's rule, Bharata, the best of men, will get the kingdom of his ancestors.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "सा त्वमभ्युदये प्राप्ते वर्तमाने च मन्थरे।\nभविष्यति च कल्याणे किमर्थं परितप्यसे।।2.8.17।।",
+      "transliteration": "",
+      "translation": "Manthara, we have enjoyed prosperity in the past, we are enjoying it now and we will enjoy it in future. Then why are you aggrieved?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "यथा मे भरतो मान्यस्तथा भूयोऽपि राघवः।\nकौशल्यातोऽतिरिक्तं च सोऽनुशुश्रूषते हि माम्।।2.8.18।।",
+      "transliteration": "",
+      "translation": "For me, if Bharata is worthy of consideration Rama is worthier. He serves me even more (scrupulously) than he does Kausalya.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "राज्यं यदि हि रामस्य भरतस्यापि तत्तदा।\nमन्यते हि यथात्मानं तथा भ्रातृ़ंश्च राघवः।।2.8.19।।",
+      "transliteration": "",
+      "translation": "If the kingdom is Rama's, it is also Bharata's, since Rama regards his brothers as his own self",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "कैकेयीवचनं श्रुत्वा मन्थरा भृशदुःखिता।\nदीर्घमुष्णं च विनिश्वस्य कैकेयीमिदमब्रवीत्।।2.8.20।।",
+      "transliteration": "",
+      "translation": "Having heard Kaikeyi's words Manthara was extremely unhappy. Heaving deep, hot sighs she said to Kaikeyi.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "अनर्थदर्शिनी मौर्ख्यान्नात्मानमवबुध्यसे। \nशोकव्यसनविस्तीर्णे मज्जन्ती दुःखसागरे।।2.8.21।।",
+      "transliteration": "",
+      "translation": "You are sinking in the sea of sorrow widened with tears and troubles. But you are stupid enough not to perceive your own wellbeing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "भविता राघवो राजा राघवस्यानु यस्सुतः।\nराजवंशात्तु कैकेयि भरतःपरिहास्यते।।2.8.22।।",
+      "transliteration": "",
+      "translation": "Rama, the scion of the Raghus, will become king. After Rama, his son will suceed him. O Kaikeyi, as for  Bharata, he will be debarred from royal succession (altogether).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "न हि राज्ञस्सुता स्सर्वे राज्ये तिष्ठन्ति भामिनि।\nस्थाप्यमानेषु सर्वेषु सुमहाननयो भवेत्।।2.8.23।।",
+      "transliteration": "",
+      "translation": "O lovely lady, not all the sons of the king will inherit the kingdom. If all of them are installed as kings, there will be great disorder.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "तस्माज्ज्येष्ठे हि कैकेयि राज्यतन्त्राणि पार्थिवाः।\nस्थापयन्त्यनवद्याङ्गि गुणवत्स्वितरेष्वपि।।2.8.24।।",
+      "transliteration": "",
+      "translation": "O Kaikeyi of beautiful limbs, for that reason kings bestow the governance of the kingdom either on the eldest or on other virtuous sons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "असावत्यन्तनिर्भग्नस्तव पुत्रो भविष्यति।\nअनाथवत्सुखेभ्यश्च राजवंशाच्च वत्सले।।2.8.25।।",
+      "transliteration": "",
+      "translation": "O (Kaikeyi) dear cut off from royal succession as well as from its comforts, your son will become totally forlorn and brokenhearted.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "साऽहं त्वदर्थे सम्प्राप्ता त्वं तु मां नावबुद्ध्यसे।\nसपत्नि वृद्धौ या मे त्वं प्रदेयं दातुमिच्छसि।।2.8.26।।",
+      "transliteration": "",
+      "translation": "I am here to serve your interest. Nevertheless you do not understand me and you wish to confer gifts on me on the occasion of the prosperity of your cowife.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "ध्रुवं तु भरतं रामः प्राप्य राज्यमकण्टकम्।\nदेशान्तरं वा नयिता लोकान्तरमथाऽपि वा।।2.8.27।।",
+      "transliteration": "",
+      "translation": "Rama, having secured the thornless kingdom, will banish Bharata from the country or else send him to the other world. This is certain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "बाल एव हि मातुल्यं भरतो नायितस्त्वया।\nसन्निकर्षाच्च सौहार्दं जायते स्थावरेष्वपि।।2.8.28।।",
+      "transliteration": "",
+      "translation": "Bharata has been sent by you right from his childhood to his maternal uncle's house.  Proximity creates friendship even amongst the inanimate objects.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "भरतस्याप्यनुवशश्शत्रुघ्नोऽपि समं गतः।\nलक्ष्मणो हि यथा रामं तथाऽसौ भरतं गतः।।2.8.29।।",
+      "transliteration": "",
+      "translation": "Satrughna who is obedient to Bharata has followed him. Like Lakshmana who has taken refuge in Rama, he has also resorted to Bharata.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "श्रूयते हि द्रुमः कश्चिच्छेत्तव्यो वनजीविभिः।\nसन्निकर्षादिषीकाभिर्मोचितः परमाद्भयात्।।2.8.30।।",
+      "transliteration": "",
+      "translation": "It is said that a tree intended to be cut down by those living on the forest is let off   due to entanglement of a kind of grass known as Ishika (thorny bushes) growing in its vicinity. (If Bharata had been at Ayodhya now, Dasaratha himself would have helped him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "गोप्ता हि रामं सौमित्रिर्लक्ष्मणं चापि राघवः।\nअश्विनोरिव सौभ्रात्रं तयोर्लोकेषु विश्रुतम्।।2.8.31।।",
+      "transliteration": "",
+      "translation": "Just as Lakshmana protects Rama, Rama protects Lakshmana. Their brotherhood is renowned in the world like that of the Ashwins.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "तस्मान्न लक्ष्मणे रामः पापं किञ्चित्करिष्यति।\nरामस्तु भरते पापं कुर्यादिति न संशयः।।2.8.32।।",
+      "transliteration": "",
+      "translation": "Rama will do no harm to Lakshmana. As for Bharata, Rama will doubtless do him harm.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "तस्माद्राजगृहादेव वनं गच्छतु ते सुतः।\nएतद्धि रोचते मह्यं भृशं चापि हितं तव।।2.8.33।।",
+      "transliteration": "",
+      "translation": "Therefore let your son go to the forest straight from his uncle's palace only. That alone will please me. For you also this is highly beneficial.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "एवं ते ज्ञातिपक्षस्य श्रेयश्चैव भविष्यति।\nयदि चेद्भरतो धर्मात्पित्र्यं राज्यमवाप्स्यसि।।2.8.34।।",
+      "transliteration": "",
+      "translation": "If Bharata secures the ancestral kingdom righteously, it will bring welfare to you and to your relations also.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "स ते सुखोचितो बालो रामस्य सहजो रिपुः।\nसमृद्धार्थस्य नष्टार्थो जीविष्यति कथं वशे।।2.8.35।।",
+      "transliteration": "",
+      "translation": "Your son, that young Bharata, is accustomed to comforts. He is a born enemy of Rama. How will he, deprived of all wealth, live under the control of Rama?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "अभिद्रुतमिवारण्ये सिंहेन गजयूथपम्।\nप्रच्छाद्यमानं रामेण भरतं त्रातुमर्हसि।।2.8.36।।",
+      "transliteration": "",
+      "translation": "Like the leader of an elephantherd attacked by a lion in the forest, Bharata is going to be oppressed by Rama. You should save him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "दर्पान्निराकृता पूर्वं त्वया सौभाग्यवत्तया।\nराममाता सपत्नी ते कथं वैरं न शातयेत्।।2.8.37।।",
+      "transliteration": "",
+      "translation": "Being fortunate (being the favourite wife of your husband) you slighted your cowife   earlier with pride. How will she, Rama's mother (Kausalya) remain without retaliating?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "यदा हि रामः पृथिवीमवाप्स्यति\nप्रभूतरत्नाकरशैलपत्तनाम्।\nतदा गमिष्यस्यशुभं पराभवं\nसहैव दीना भरतेन भामिनि।।2.8.38।।",
+      "transliteration": "",
+      "translation": "O lovely lady when Rama becomes the lord of this earth with its oceans, mountains and cities, then along with Bharata you will become miserable and fall into disgrace.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-8-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "यदा हि रामः पृथिवीमवाप्स्यति\nध्रुवं प्रणष्टो भरतो भविष्यति।\nअतो हि सञ्चिन्तय राज्यमात्मजे \nपरस्य चैवाद्य विवासकारणम्।।2.8.39।।",
+      "transliteration": "",
+      "translation": "When Rama obtains this earth, Bharata will be certainly ruined. Therefore, right now think of the kingdom for your son and the means of banishment for your enemy, Rama.   इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे अष्टमस्सर्गः।। Thus ends the eighth sarga of Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

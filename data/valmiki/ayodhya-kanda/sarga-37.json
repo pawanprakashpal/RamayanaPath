@@ -1,0 +1,342 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 37,
+    "title": "Rama puts on bark--Vasistha blames Kaikeyi--says Sita was not ordained to wear bark.",
+    "titleSanskrit": "",
+    "totalShlokas": 36
+  },
+  "shlokas": [
+    {
+      "id": "v2-37-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "महामात्रवचः श्रुत्वा रामो दशरथं तदा।\nअभ्यभाषत वाक्यं तु विनयज्ञो विनीतवत्।।2.37.1।।",
+      "transliteration": "",
+      "translation": "On hearing the minister, Rama who knew how to be polite spoke these words  to Dasaratha humbly:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "त्यक्तभोगस्य मे राजन् वने वन्येन जीवतः।\nकिं कार्यमनुयात्रेण त्यक्तसङ्गस्य सर्वतः।।2.37.2।।",
+      "transliteration": "",
+      "translation": "O king giving up pleasures and attachments altogether I am going to live on whatever is available in the forest. What is the use of followers?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "यो हि दत्त्वा द्विपश्रेष्ठं कक्ष्यायां कुरुते मनः।\nरज्जुस्नेहेन किं तस्य त्यजतः कुञ्जरोत्तमम्।।2.37.3।।",
+      "transliteration": "",
+      "translation": "Having given away the best of elephants, will any one be interested in the rope tied to its girth? Why should one have any attachment for the rope after he has given up the elephant?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तथा मम सतां श्रेष्ठ किं ध्वजिन्या जगत्पते।\nसर्वाण्येवानुजानामि चीराण्येवाऽनयन्तु मे।।2.37.4।।",
+      "transliteration": "",
+      "translation": "O best among the virtuous O lord of the world, I do not have any use for this army. I am giving away everything (to Bharata). Bring the bark only.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "खनित्रपिटके चोभे समानयत गच्छतः।\nचतुर्दश वने वासं वर्षाणि वसतो मम।।2.37.5।।",
+      "transliteration": "",
+      "translation": "I am going to the forest to live there for fourteen years. Bring me two things: a basket and a crowbar.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अथ चीराणि कैकेयी स्वयमाहृत्य राघवम्।\nउवाच परिधत्स्वेति जनौघे निरपत्रपा।।2.37.6।।",
+      "transliteration": "",
+      "translation": "Thereupon in the assembly of people, without any sense of shame Kaikeyi herself brought the bark robes and said to the son of the Raghus (Rama), Wear it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "स चीरे पुरुषव्याघ्रः कैकेय्या प्रतिगृह्य ते।\nसूक्ष्मवस्त्रमवक्षिप्य मुनिवस्त्राण्यवस्त ह।।2.37.7।।",
+      "transliteration": "",
+      "translation": "The tiger among men (Rama) received the bark robes from Kaikeyi and putting off the fine apparel wore the robes of an ascetic.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "लक्ष्मणश्चापि तत्रैव विहाय वसने शुभे।\nतापसाच्छादने चैव जग्राह पितुरग्रतः।।2.37.8।।",
+      "transliteration": "",
+      "translation": "Lakshmana also  removed his auspicious raiment in front (presence) of his father and accepted (put on) the robes of an ascetic.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "अथाऽत्मपरिधानार्थं सीता कौशेयवासिनी।\nसमीक्ष्य चीरं सन्त्रस्ता पृषती वागुरामिव।।2.37.9।।",
+      "transliteration": "",
+      "translation": "Then Sita in silk clothes glanced at the bark robes meant for her to wear and was frightened like a doe seeing a (fowler's) snare.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "सा व्यपत्रपमाणेव प्रगृह्य च सुदुर्मनाः।\nकैकेयी कुशचीरे ते जानकी शुभलक्षणा।।2.37.10।।\nअश्रुसम्पूर्ण नेत्रा च धर्मज्ञा धर्मदर्शिनी।\nगन्धर्वराजप्रतिमं भर्तारमिदमब्रवीत्।।2.37.11।।",
+      "transliteration": "",
+      "translation": "Sita of auspicious nature who knew her duties and understood righteousness, took the garments made of kusa grass from Kaikeyi. With a sense of abashment her eyes suffused with tears, she said to her husband who was the very image of  the king of gandharvas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "कथं नु चीरं बध्नन्ति मुनयो वनवासिनः।\nइति ह्यकुशला सीता सा मुमोह मुहुर्मुहुः।।2.37.12।।",
+      "transliteration": "",
+      "translation": "Sita, unacquainted with wearing bark robes, asked Rama, perplexed 'How do the sages who live in the forest wear bark garment?'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "कृत्वा कण्ठे च सा चीरमेकमादाय पाणिना।\nतस्थौ ह्यकुशला तत्र व्रीडिता जनकात्मजा।।2.37.13।।",
+      "transliteration": "",
+      "translation": "The daughter of Janaka, placed one end of the garment round her neck and held the other in her hand, and stood ashamed as she did not know what to do next.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तस्यास्तत्क्षिप्रमागम्य रामो धर्मभृतां वरः।\nचीरं बबन्ध सीतायाः कौशेयस्योपरि स्वयम्।।2.37.14।।",
+      "transliteration": "",
+      "translation": "Rama, foremost among protectors of righteousness, came forward quickly and fastened the bark himself over her silk garment.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "रामं प्रेक्ष्य तु सीताया बध्नन्तं चीरमुत्तमम्।\nअन्तःपुरगता नार्यो मुमुचुर्वारि नेत्रजम्।।2.37.15।।",
+      "transliteration": "",
+      "translation": "Beholding Rama fastening the bark garment on Sita, the women of the inner apartment shed tears from their eyes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "ऊचुश्च परमायस्ता रामं ज्वलिततेजसम्।\nवत्स नैवं नियुक्तेयं वनवासे मनस्विनी।।2.37.16।��",
+      "transliteration": "",
+      "translation": "Profoundly distressed, they said to Rama glowing with burning lustre O dear, no one has ordered this highminded Sita to dwell in the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "पितुर्वाक्यानुरोधेन गतस्य विजनं वनम्।\nतावद्दर्शनमस्या नः सफलं भवतु प्रभो।।2.37.17।।",
+      "transliteration": "",
+      "translation": "In obedience to the words of your father, O lord you are going to the forest. Till you return, please allow us to have her (Sita's) audience.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "लक्ष्मणेन सहायेन वनं गच्छस्व पुत्रक।\nनेयमर्हति कल्याणी वस्तुं तापसवद्वने।।2.37.18।।",
+      "transliteration": "",
+      "translation": "Go, O son to the forest with Lakshmana as your companion. (But) this auspicious Sita, will not be able to live in the jungle like a hermit.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "कुरु नो याचनां पुत्र सीता तिष्ठतु भामिनी।\nधर्मनित्यस्स्वयं स्थातुं न हीदानीं त्वमिच्छसि।।2.37.19।।",
+      "transliteration": "",
+      "translation": "Do accede to our prayer. Let lovely Sita stay with us as you, O son faithful to your  duty, will not like to remain here.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तासामेवंविधा वाच शृण्वन् दशरथात्मजः।\nबबन्धैव तदा चीरं सीतया तुल्यशीलया।।2.37.20।।",
+      "transliteration": "",
+      "translation": "While Rama was listening to such words uttered by them, he got the bark robes fastened round Sita who was of similar nature.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "चीरे गृहीते तु तया समीक्ष्य नृपतेर्गुरुः।\nनिवार्य सीतां कैकेयीं वसिष्ठो वाक्यमब्रवीत्।।2.37.21।।",
+      "transliteration": "",
+      "translation": "When Sita wore the bark garments, Vasistha, the king's preceptor who was watching this restrained her (Sita) and said to Kaikeyi:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "अतिप्रवृत्ते दुर्मेधे कैकेयि कुलपांसनि।\nवञ्चयित्वा च राजानं न प्रमाणेऽवतिष्ठसे।।2.37.22।।",
+      "transliteration": "",
+      "translation": ". You are exceeding all limits of decency O Kaikeyi your motive is evil. You are a disgrace to the race You have deceived the king and your behaviour does not conform to the standards (of righteousness).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "न गन्तव्यं वनं देव्या सीतया शीलवर्जिते।\nअनुष्ठास्यति रामस्य सीता प्रकृतमासनम्।।2.37.23।।",
+      "transliteration": "",
+      "translation": "You are devoid of good conduct, O Kaikeyi Divine Sita need not go to the forest. Remaining here she should occupy the royal throne of Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "आत्मा हि दारास्सर्वेषां दारसङ्ग्रहवर्तिनाम्।\nआत्मेयमिति रामस्य पालयिष्यति मेदिनीम्।।2.37.24।।",
+      "transliteration": "",
+      "translation": "For every householder, his wife is the soul. Since Sita is the soul of Rama, she can rule this earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "अथ यास्यति वैदेही वनं रामेण सङ्गता।\nवयमप्यनुयास्यामः पुरं चेदं गमिष्यति।।2.37.25।।",
+      "transliteration": "",
+      "translation": "Otherwise, if Sita goes with Rama to the forest, all of us along with the entire city will follow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "अन्तपालाश्च यास्यन्ति सदारो यत्र राघवः।\nसहोपजीव्यं राष्ट्रं च पुरं च सपरिच्छदम्।।2.37.26।।",
+      "transliteration": "",
+      "translation": "The guardians of the harem, its patron king Dasaratha with his retinue and, the people of this city will go wherever Rama lives with his wife.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "भरतश्च सशत्रुघ्नश्चीरवासा वनेचरः।\nवने वसन्तं काकुत्स्थ मनुवत्स्यति पूर्वजम्���।2.37.27।।",
+      "transliteration": "",
+      "translation": "Wandering in the forest and wearing bark, Satrughna and Bharata will live in the company of their elder brother (Rama) in the jungle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "तत श्शून्यां गतजनां वसुधां पादपै स्सह।\nत्वमेका शाधि दुर्वृत्ता प्रजानामहिते स्थिता।।2.37.28।।",
+      "transliteration": "",
+      "translation": "Intent upon doing harm to the people with your vile behaviour, you alone rule this kingdom full of trees and deserted by men.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "न हि तद्भविता राष्ट्रं यत्र रामो न भूपतिः।\nतद्वनं भविता राष्ट्रं यत्र रामो निवत्स्यति।।2.37.29।।",
+      "transliteration": "",
+      "translation": "That is not a kingdom where Rama does not rule. If Rama lives in the forest, that shall be  the kingdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "न ह्यदत्तां महीं पित्रा भरतः शास्तुमर्हति।\nत्वयि वा पुत्रवद्वस्तुं यदि जातो महीपतेः।।2.37.30।।",
+      "transliteration": "",
+      "translation": "If Bharata is truly born to the king, he will not rule the kingdom which has not been bestowed on him (wholeheartedly) by his father. Nor will he live like a son to you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "यद्यपि त्वं क्षितितलाद्गगनं चोत्पतिष्यसि।\nपितृर्वंशचरित्रज्ञः सोऽन्यथा न करिष्यति।।2.37.31।।",
+      "transliteration": "",
+      "translation": "Even if you were to fly from earth to sky, Bharata who knows the traditions of his  father's dynasty, will not act otherwise.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "तत्त्वया पुत्रगर्धिन्या पुत्रस्य कृतमप्रियम्।\nलोके हि स न विद्येत यो न राममनुव्रतः।।2.37.32।।",
+      "transliteration": "",
+      "translation": "Therefore, by greedily guarding your son's interest you are doing him harm. There is  none in this world who will not follow Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "द्रक्ष्यस्यद्यैव कैकेयी पशुव्यालमृगद्विजान्।\nगच्छतस्सह रामेण पादपांश्च तदुन्मुखान्।।2.37.33।।",
+      "transliteration": "",
+      "translation": "Today  you shall see, O Kaikeyi, flocks of cattle, elephants, deer and birds following Rama, even the trees bending towards him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "अथोत्तमान्याभरणानि देवि\nदेहि स्नुषायै व्यपनीय चीरम्।\nन चीरमस्याः प्रविधीयतेति\nन्यवारयत्तद्वसनं वसिष्टः।।2.37.34।।",
+      "transliteration": "",
+      "translation": "O Kaikeyi remove those bark robes and bestow on your daughterinlaw precious ornaments. She was not ordained to wear the bark. Vaisishta, saying so, prevented Sita from wearing that garment.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "एकस्य रामस्य वने निवास\nस्त्वया वृतःकेकयराजपुत्री।\nविभूषितेयं प्रतिकर्मनित्या \nवसत्वरण्ये सह राघवेण।।2.37.35।।",
+      "transliteration": "",
+      "translation": "O Kaikeyi, you asked that Rama only should dwell in the forest (wearing bark robes). Therefore let Sita, adorn her body daily, while she  lives in the forest with Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "यानैश्च मुख्यैः परिचारकैश्च\nसुसंवृता गच्छतु राजपुत्री।\nवस्त्रैश्च सर्वैस्सहितैर्विधानै\nर्नेयं वृता ते वरसम्प्रदाने।।2.37.36।।",
+      "transliteration": "",
+      "translation": "Equipped with excellent chariots, attendants, garments, and all other needs let the princess (Sita) go. While seeking boons, you did not include Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-37-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "तस्मिंस्तथा जल्पति विप्रमुख्ये\nगुरौ नृपस्याप्रतिमप्रभावे।\nनैव स्म सीता विनिवृत्तभावा\nप्रियस्य भर्तुः प्रतिकारकामा।।2.37.37।।",
+      "transliteration": "",
+      "translation": "(Though) Vasistha, endowed with matchless power, the preceptor of the king and foremost among the brahmins thus expressed himself, Sita was not willing to swerve from her resolve in order to serve her beloved husband. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे सप्तत्रिंशस्सर्गः।। Thus ends the thirtyseventh sarga of Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,684 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 91,
+    "title": "Bharadwaja extends elaborate hospitality to Bharata and his entourage -- Invokes Visvakarma to make necessary arrangements.",
+    "titleSanskrit": "",
+    "totalShlokas": 74
+  },
+  "shlokas": [
+    {
+      "id": "v2-91-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "कृतबुद्धिं निवासाय तत्रैव स मुनिस्तदा।\nभरतं कैकयीपुत्रमातिथ्येनन्यमन्त्रयत्।।2.91.1।।",
+      "transliteration": "",
+      "translation": "With the decision of Bharata, son of Kaikeyi, to stay there for the night, sage Bharadwaja extended to him all hospitality.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अब्रवीद्भरतस्त्वेनं नन्विदं भवता कृतम्।\nपाद्यमर्घ्यं तथाऽतिथ्यं वने यदुपपद्यते।।2.91.2।।",
+      "transliteration": "",
+      "translation": "Bharata said to Bharadwaja, You have already extended the hospitality in offering water for washing the feet with and of arghya befitting a guest as available in the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "अथोवाच भरद्वाजो भरतं प्रहसन्निव।\nजाने त्वां प्रीतिसंयुक्तं तुष्येस्त्वं येन केनचित्।।2.91.3।।",
+      "transliteration": "",
+      "translation": "Bharadwaja then said to Bharata with a gentle smile, I know you are full of love and content with whatever is offered you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "सेनायास्तु तवैतस्याः कर्तुमिच्छामि भोजनम्।\nमम प्रीतिर्यथारूपा तथार्हो मनुजर्षभ।।2.91.4।।",
+      "transliteration": "",
+      "translation": "O Bharata, the best of men, I want to treat your army with food. This will please me and I hope you will act accordingly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "किमर्थं चापि निक्षिप्य दूरे बलमिहागतः।\nकस्मान्नेहोपयातोऽसि सबलः पुरुषर्षभः।।2.91.5।।",
+      "transliteration": "",
+      "translation": "Why did you, O Bharata, the best of men, station your army at a distance before coming here? Could you not approach me along with your army?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "भरतः प्रत्युवाचेदं प्राञ्जलिस्तं तपोधनम्।\nससैन्यो नोपयातोऽस्मि भगवन्भगवद्भयात्।।2.91.6।।",
+      "transliteration": "",
+      "translation": "With folded palms (in reverence), Bharata said to sage Bharadwaja whose penance was his wealth: I did not approach you with the army for fear of you, O venerable one.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "राज्ञा च भगवन्नित्यं राजपुत्रेण वा सदा।\nयत्नतः परिहर्तव्या विषयेषु तपस्विनः।।2.91.7।।",
+      "transliteration": "",
+      "translation": "O venerable one a king or a prince ought to intentionally avoid those places occupied by ascetics.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "वाजिमुख्या मनुष्याश्च मत्ताश्च वरवारणाः।\nप्रच्छाद्य भगवन्भूमिं महतीमनुयान्ति माम्।।2.91.8।।",
+      "transliteration": "",
+      "translation": "O venerable sage spirited horses, men and mighty rutting elephants follow me covering a wide expanse of land.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "ते वृक्षानुदकं भूमिमाश्रमेषूटजां स्तथा।\nन हिंस्युरिति तेनाऽहमेक एव समागतः।।2.91.9।।",
+      "transliteration": "",
+      "translation": "Lest the army should damage the huts, trees, land, and defile the water in the ashram, I came here alone.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "आनीयतामितस्सेनेत्याज्ञप्तः परमर्षिणा।\nततस्तु चक्रे भरतस्सेनायास्समुपागमम्।।2.91.10।।",
+      "transliteration": "",
+      "translation": "Thus commanded the great ascetic, 'Let the army be brought here'. Accordingly, Bharata ordered the army to come.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "अग्निशालां प्रविश्याथ पीत्वाऽपः परिमृज्य च।\nआतिथ्यस्य क्रियाहेतोर्विश्वकर्माणमाह्वयत्।।2.91.11।।",
+      "transliteration": "",
+      "translation": "Then Bharadwaja entered the fire sanctuary, sipped water and washed his hands with water and invoked Visvakarma to provide hospitality.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "आह्वये विश्वकर्माणमहं त्वष्टारमेव च।\nआतिथ्यं कर्तुमिच्छामि तत्र मे संविधीयताम्।।2.91.12।।",
+      "transliteration": "",
+      "translation": "I intend to provide hospitality for which I am invoking Visvakarma and Tvastara who builds houses. Let adequate arrangements be made.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "आह्वये लोकपालांस्त्रीन् देवान् शक्रमुखांस्तथा।\nआतिथ्यं कर्तुमिच्छामि तत्र मे संविधीयताम्।।2.91.13।।",
+      "transliteration": "",
+      "translation": "I invoke the three deities, guardians of the four quarters headed by Indra to extend hospitality (to Bharata). Let them make adequate arrangements in this regard.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "प्राक्स्रोतसश्च या नद्यः प्रत्यक्स्रोतस एव च।\nपृथिव्यामन्तरिक्षे च समायान्त्वद्य सर्वशः।।2.91.14।।",
+      "transliteration": "",
+      "translation": "Let the rivers flowing towards the east, and the west, flowing on the earth and in the sky, flowing everywhere reach here and now.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "अन्या स्रवन्तु मैरेयं सुरामन्यास्सुविष्ठिताम्।\nअपरा श्चोदकं शीतमिक्षुकाण्डरसोपमम्।।2.91.15।।",
+      "transliteration": "",
+      "translation": "Let some rivers flow with liquor made of datepalms, some with wellprepared wine and some with cool water which tastes like sugarcane juice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "आह्वये देवगन्धर्वान्विश्वावसुहहाहुहून्।\nतथैवाप्सरसो देवीर्गन्धर्वीश्चापि सर्वशः।।2.91.16।।",
+      "transliteration": "",
+      "translation": "I invoke the gandharvas, Visvavasu, Ha Ha and Hu Hu, and also goddesses like gandharvas (heavenly musicians) and apsaras (nymphs) from all regions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "घृताचीमथ विश्वाचीं मिश्रकेशीमलंबुसाम्।\nनागदन्तां च हेमां च हिमामद्रिकृतस्थलाम्।।2.91.17।।",
+      "transliteration": "",
+      "translation": "I summon also Grutachi, Visvachi, Misrakesi, Alambusa, Nagadantha, Hema and Hima whose abode is on the mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "शक्रं याश्चोपतिष्ठन्ति ब्रह्माणं याश्च योषितः।\nसर्वास्तुम्बुरुणा सार्धमाह्वये सपरिच्छदाः।।2.91.18।।",
+      "transliteration": "",
+      "translation": "I invoke all the women who attend on Indra and Bramha along with tumbur with all their (musical) instruments.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "वनं कुरुषु यद्दिव्यं वासोभूषणपत्रवत्।\nदिव्यनारीफलं शश्वत्तत्कौबेरमिहैतु च।।2.91.19।।",
+      "transliteration": "",
+      "translation": "Let Kubera's divine forest situated in the land of Kurus, where leaves serve as raiment and ornaments and celestial women as its fruits come here.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "इह मे भगवान् सोमो विधत्तामन्नमुत्तमम्।\nभक्ष्यंभोज्यं च चोष्यं च लेह्यं च विविधं बहु।।2.91.20।।",
+      "transliteration": "",
+      "translation": "Let the blessed Moon furnish me with excellent food of every kind -- solid, liquid, soft and those which are to be sucked and licked in great variety and quantity.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "विचित्राणि च माल्यानि पादपप्रच्युतानि च।\nसुरादीनि च पेयानि मांसानि विविधानि च।।2.91.21।।",
+      "transliteration": "",
+      "translation": "Let her furnish me with manycoloured garlands of fresh flowers from trees, wines and other drinks and meat of different kinds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "एवं समाधिना युक्तस्तेजसाऽप्रतिमेन च।\nशीक्षास्वरसमायुक्तं तपसा चाब्रवीन्मुनिः।।2.91.22।।",
+      "transliteration": "",
+      "translation": "The valiant ascetic of incomparable lustre and power of penance in profound meditation said this in an accent in conformity with Vedic instruction.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "मनसा ध्यायतस्तस्य प्राङ्मुखस्य कृताञ्जलेः।\nआजग्मुस्तानि सर्वाणि दैवतानि पृथक्पृथक्।।2.91.23।।",
+      "transliteration": "",
+      "translation": "As Bharadwaja with folded palms was thus meditating with his face turned eastward, all the deities appeared there one by one.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "मलयं दर्दुरं चैव ततस्स्वेदनुदोऽनिलः।\nउपस्पृश्य ववौ युक्त्या सुप्रियात्मा सुखश्शिवः।।2.91.24।।",
+      "transliteration": "",
+      "translation": "Meanwhile, soft auspicious and pleasant breeze passing over Malaya and Dardura mountains, comforting and cooling the sweat, began to blow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "ततोऽभ्यवर्षन्त घना दिव्याः कुसुमवृष्टयः।\nदिव्यदुन्दुभिघोषश्च दिक्षु सर्वासु शुश्रुवे।।2.91.25।।",
+      "transliteration": "",
+      "translation": "Then divine clouds rolled in and showered celestial flowers. The sounds of heavenly gongs could be heard in every direction.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "प्रववुश्चोत्तमा वाता ननृतुश्चाप्सरोगणाः।\nजगुश्च देवगन्धर्वा वीणाः प्रमुमुचुस्स्वरान्।।2.91.26।।",
+      "transliteration": "",
+      "translation": "Gentle breeze began to blow. Troops of apsaras danced. Gandharvas and gods sang and the lyres rang.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "स शब्दो द्यां च भूमिं च प्राणिनां श्रवणानि च।\nविवेशोच्चरितश्श्लक्ष्णस्समो लयसमन्वितः।।2.91.27।।",
+      "transliteration": "",
+      "translation": "That soft, melodious, rhythmic and wellmodulated sound entered the heaven and earth as well as the ears of all living beings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "तस्मिन्नुपरते शब्दे दिव्ये श्रोत्र सुखे नृणाम्।\nददर्श भारतं सैन्यं विधानं विश्वकर्मणः।।2.91.28।।",
+      "transliteration": "",
+      "translation": "When the celestial sounds pleasing to the ears of men had subsided, the army of Bharata beheld the wonderful creations of Visvakarma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "बभूव हि समा भूमिस्समन्तात्पञ्चयोजना।\nशाद्वलैर्भहुभिश्चन्ना नीलवैढूर्यसन्निभैः।।2.91.29।।",
+      "transliteration": "",
+      "translation": "The ground was levelled on every side for five yojanas and covered with several grass lawns resembling lapis lazuli (blue sapphire) and cat's eye.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "तस्मिन्बिल्वाः कपित्थाश्च पनसा बीजपूरकाः।\nआमलक्यो बभूवुश्च चूताश्च फलभूषणाः।।2.91.30।।",
+      "transliteration": "",
+      "translation": "There the best of fruitbearing trees like bilva trees, woodapple trees, citrons, emblic myrobalan trees and mango trees laden with fruits sprang up.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "उत्तरेभ्यः कुरुभ्यश्च वनं दिव्योपभोगवत्।\nआजगाम नदी दिव्या तीरजैर्भहुभिर्वृता।।2.91.31।।",
+      "transliteration": "",
+      "translation": "From the forests of the northern Kuru kingdom, with all delights of heaven, a divine river with innumerable trees that grow on river banks came into existence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "चतुश्शालानि शुभ्राणि शालाश्च गजवाजिनाम्।\nहर्म्यप्रासादसम्बाधास्तोरणानि शुभानि च।।2.91.32।।",
+      "transliteration": "",
+      "translation": "Bright quadrangles, stables for elephants and horses, auspicious arch ways for palaces and mansions sprang up.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "सितमेघनिभं चापि राजवेश्म सुतोरणम्।\nदिव्यमाल्यकृताकारं दिव्यगन्धसमुक्षितम्।।2.91.33।।\nचतुरश्रमसंबाधं शयनासनयानवत्।\nदिव्यैस्सर्वरसैर्युक्तं दिव्यभोजनवस्त्रवत्।।2.91.34।।\nउपकल्पितसर्वान्नं धौतनिर्मलभाजनम्।\nक्लुप्तसर्वासनं श्रीमत्स्वास्तीर्णशयनोत्तमम्।।2.91.35।।",
+      "transliteration": "",
+      "translation": "An auspicious royal palace with splendid archs resembling white clouds sprang up. It was sprinkled with celestial perfumes and adorned with beautiful garlands. That royal palace forming a quadrangle was furnished with couches, seats and carriages and furnished with celestial drinks of every kind, delicious food and splendid garments. It was stocked with food of every variety in clean and spotless vessels. Seats for every one and magnificent couches covered with excellent bedstead were arranged.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "प्रविवेश महाबाहुरनुज्ञातो महर्षिणा।\nवेश्म तद्रत्नसम्पूर्णं भरतः कैकयीसुतः।।2.91.36।।",
+      "transliteration": "",
+      "translation": "Longarmed Bharata, son of Kaikeyi entered that palace full of jewels with the permission of the great sage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "अनुजग्मुश्च तं सर्वे मन्त्रिणस्सपुरोहिताः।\nबभूवुश्च मुदा युक्ता दृष्ट्वा तं वेश्मसंविधिम्।।2.91.37।।",
+      "transliteration": "",
+      "translation": "All the ministers, priests followed him and were glad to see the arrangement in that mansion.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "तत्र राजासनं दिव्यं व्यजनं छत्रमेव च।\nभरतो मन्त्रिभिस्सार्धमभ्यवर्तत राजवत्।।2.91.38।।",
+      "transliteration": "",
+      "translation": "There where stood an exquisite throne, a fan and a parasol Bharata stayed in the company of ministers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "आसनं पूजयामास रामायाभिप्रणम्य च।\nवालव्यजनमादाय न्यषीदत्सचिवासने।।2.91.39।।",
+      "transliteration": "",
+      "translation": "He bowed in reverence and worshipped the throne (as though Rama were seated there). Taking hold of a fan made of yak's tail he sat in a minister's seat.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "आनुपूर्व्यान्निषेदुश्च सर्वे मन्त्रिपुरोहिताः।\nततस्सेनापतिः पश्चात्प्रशास्ताच निषेदतुः।।2.91.40।।",
+      "transliteration": "",
+      "translation": "First the ministers and priests took their respective seats in accordance with their rank, and then the army chief and finally the supervisor of the camp.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "तत स्तत्र मुहूर्तेन नद्यः पायसकर्दमाः।\nउपातिष्ठन्त भरतं भरद्वाजस्य शासनात्।।2.91.41।।",
+      "transliteration": "",
+      "translation": "Rivers filled with payasam (rice cooked in milk and sugar) in the shape of mud flowed towards Bharata at the command of Bharadwaja.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "तासामुभयतः कूलं पाण्डुमृत्तिकलेपनाः।\nरम्याश्चावसधा दिव्या ब्रह्मणस्तु प्रसादजा:।।2.91.42।।",
+      "transliteration": "",
+      "translation": "On both the banks of those rivers, charming, celestial houses plastered with white clay appeared by the grace of Brahma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "तेनैव च मूहूर्तेन दिव्याऽभरणभूषिताः।\nआगुर्विंशतिसाहस्राः ब्रह्मणा प्रहिताः स्त्रियः।।2.91.43।।",
+      "transliteration": "",
+      "translation": "At that very moment twenty thousand women adorned with beautiful ornaments sent by Brahma presented themselves.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "सुवर्णमणिमुक्तेन प्रवालेन च शोभिताः।\nआगुर्विंशतिसाहास्राः कुबेरप्रहिताः स्त्रियः।।2.91.44।।",
+      "transliteration": "",
+      "translation": "Twenty thousand women adorned with gold, gems and corals sent by Kubera came.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "याभिर्गृहीतः पुरुषस्सोन्माद इव लक्ष्यते।\nआगुर्विंशतिसाहस्रा नन्���नादप्सरोगणाः।।2.91.45।।",
+      "transliteration": "",
+      "translation": "Troops of twenty thousand apsaras by whom any man when taken hold of in their arms could be intoxicated with intense passion, came from Nandana gardens.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "नारदस्तुम्भुरुर्गोपः प्रवरास्सूर्यवर्चसः।\nएते गन्धर्वराजानो भरतस्याग्रतो जगुः।।2.91.46।।",
+      "transliteration": "",
+      "translation": "There along with Narada, Tumburu and Gopa, distinguished kings of the gandharvas, looking bright like the Sun, began to sing in the presence of Bharata.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "अलम्बुसा मिश्रकेशी पुण्डरीकाऽथ वामना।\nउपानृत्यंस्तु भरतं भरद्वाजस्य शासनात्।।2.91.47।।",
+      "transliteration": "",
+      "translation": "Thereafter, the apsaras, Alambusa, Misrakesi, Pundarika and Vamana danced near Bharata at the command of Bharadwaja.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "यानि माल्यानि देवेषु यानि चैत्ररथे वने।\nप्रयागे तान्यदृश्यन्त भरद्वाजस्य शासनात्।।2.91.48।।",
+      "transliteration": "",
+      "translation": "The garlands of the gods available in Chitraratha's (Kubera's) garden could not match those obtained under the orders of Bharadwaja.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "बिल्वा मार्दङ्गिका आसन् शम्याग्राहा विभीतकाः।\nअश्वत्था नर्तकाश्चासन्भरद्वाजस्य शासनात्।।2.91.49।।",
+      "transliteration": "",
+      "translation": "At the command of Bharadwaja, bilva trees acted as drummers, vibhitaka trees as cymbalists and the pipal trees as dancers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "ततस्सरलतालाश्च तिलका नक्तमालकाः।\nप्रहृष्टास्तत्र सम्पेतुः कुब्जा भूत्वाऽथ वामनाः।।2.91.50।।",
+      "transliteration": "",
+      "translation": "Thereafter pine, palmyra, tilaka, and naktamala trees were transformed into hunchbacks and dwarfs and moved about in great delight.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "शिंशुपामलकीजम्ब्वो याश्चान्याः काननेषु ताः \nमालती मल्लिका जातिर्याश्चान्याः कानने लताः।\nप्रमदाविग्रहं कृत्वा भरद्वाजाश्रमेऽवदन्।।2.91.51।।",
+      "transliteration": "",
+      "translation": "Asohka, emblic myrobalan and all other trees found in the forest malati, mallika and jati creepers assumed the form of women, came over to the hermitage of Bharadwaja and said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "सुरास्सुरापाः पिबत पायसं च बुभुक्षिताः।।2.91.52।।\nमांसानि च सुमेध्यानि भक्ष्यन्तां यावदिच्छथ।।2.91.53।।",
+      "transliteration": "",
+      "translation": "'O wine drinkers, drink as much as you can those who are hungry partake payasam and sacred meat'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "उच्छाद्य स्नापयन्ति स्म नदीतीरेष वल्गुषु।\nअप्येकमेकं पुरषं प्रमदास्सप्त चाष्ट च।।2.91.54।।",
+      "transliteration": "",
+      "translation": "Every single warrior was attended by seven or eight women who applied oil and massaged his body and bathed him on the lovely banks of the river.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "संवाहन्त्यस्समापेतुर्नार्यो रुचिरलोचनाः।\nपरिमृज्य तथाऽन्योन्यं पाययन्ति वराङ्गनाः।।2.91.55।।",
+      "transliteration": "",
+      "translation": "Some women with beautiful eyes quickly approached them for massaging. The  best of ladies wiped their bodies dry and gave each other wine to drink.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "हयान् गजान् खारानुष्ट्रान्तथैव सुरभेस्सुतान्।\nअभोजयन्वाहनपास्तेषां भोज्यं यथाविधि।।2.91.56।।",
+      "transliteration": "",
+      "translation": "The attendants of draughtanimals fed the horses, elephants, donkeys, camels and oxen their appropriate food.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-54",
+      "number": 54,
+      "type": "shloka",
+      "original": "इक्षूंश्च मधुलाजांश्च भोजयन्ति स्म वाहनान्।\nइक्ष्वाकुवरयोधानां चोदयन्तो महाबला:।।2.91.57।।",
+      "transliteration": "",
+      "translation": "The draughtaimals of the illustrious warriors of Ikshvaku kings were urged by the highly energetic attendants to eat more and more of parched grain mixed with sugarcane and honey.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-55",
+      "number": 55,
+      "type": "shloka",
+      "original": "नाश्वबन्धोऽश्वमाजानान्नगजं कुञ्जरग्रहः।\nमत्तप्रमत्तमुदिता चमूः सा तत्र संबभौ।।2.91.58।।",
+      "transliteration": "",
+      "translation": "The horserider no longer recognised the horse or the mahout the elephant and the whole army was inebriated with drinking and pleasure.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-56",
+      "number": 56,
+      "type": "shloka",
+      "original": "तर्पितास्सर्वकामैस्ते रक्तचन्दनरूषिताः।\nअप्सरोगणसंयुक्तास्सैन्या वाचमुदैरयन्।।2.91.59।।",
+      "transliteration": "",
+      "translation": "All the armymen with their desires gratified and anointing their bodies with red sandal paste surrounded by apsaras exclaimed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-57",
+      "number": 57,
+      "type": "shloka",
+      "original": "न��वायोध्यां गमिष्यामो नगमिष्याम दण्डकान्।\nकुशलं भरतस्यास्तु रामस्यास्तु तथा सुखम्।।2.91.60।।",
+      "transliteration": "",
+      "translation": "We will neither return to Ayodhya, nor enter Dandaka (forest). May Bharata and Rama be happy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-58",
+      "number": 58,
+      "type": "shloka",
+      "original": "इति पादातयोधाश्च हस्त्यश्वारोहबन्धकाः।\nअनाथास्तं विधिं लब्ध्वा वाचमेतामुदीरयन्।।2.91.61।।",
+      "transliteration": "",
+      "translation": "Having enjoyed the hospitality of Bharadwaja the foot soldiers, horse and elephant riders made utterances ignoring their leaders.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-59",
+      "number": 59,
+      "type": "shloka",
+      "original": "संम्प्रहृष्टा विनेदुस्ते नरास्तत्र सहस्रशः।\nभरतस्यानुयातारस्स्वर्गोऽयमिति चाब्रुवन्।।2.91.62।।",
+      "transliteration": "",
+      "translation": "The exceedingly delighted soldiers of Bharata's retinue in their thousands cried out with excitement This is the very heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-60",
+      "number": 60,
+      "type": "shloka",
+      "original": "नृत्यन्ति स्म हसन्ति स्म गायन्ति स्म च सैनिकाः\nसमन्तात्परिधावन्ति माल्योपेतास्सहस्रशः।।2.91.63।।",
+      "transliteration": "",
+      "translation": "Those thousands of soldiers wearing flower garlands ran about dancing, singing, and laughing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-61",
+      "number": 61,
+      "type": "shloka",
+      "original": "ततो भुक्तवतां तेषां तदन्नममृतोपमम्।\nदिव्यानुद्वीक्ष्य भक्ष्यां स्तानभवद्भक्षणे मतिः।।2.91.64।।",
+      "transliteration": "",
+      "translation": "Glancing at the ambrosial food, a desire arose in the minds of those soldiers to eat once again although they had already partaken it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-62",
+      "number": 62,
+      "type": "shloka",
+      "original": "प्रेष्याश्चेट्यश्च वध्वश्च बलस्थाश्च सहस्रशः।\nबभूवुस्ते भृशं दृप्तास्सर्वे चाहतवाससः।।2.91.65।।",
+      "transliteration": "",
+      "translation": "Messengers, maidservants, female attendants, and soldiers -- all of them in their thousands dressed in fresh garments felt exceedingly proud of themselves.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-63",
+      "number": 63,
+      "type": "shloka",
+      "original": "कुञ्जराश्च खरोष्ट्राश्च गोऽश्वाश्च मृगपक्षिणः।\nबभूवुस्सुभृतास्तत्र नान्यो ह्यन्यमकल्पयत्।।2.91.66।।",
+      "transliteration": "",
+      "translation": "There the elephants, donkeys and camels, cows and horses and also beasts and birds were wellnourished. No one troubled the other.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-64",
+      "number": 64,
+      "type": "shloka",
+      "original": "नाऽशुक्लवासा स्तत्राऽसीत्क्षुधितो मलिनोऽपि वा।\nरजसा ध्वस्तकेशो वा नरः कश्चिददृश्यत।।2.91.67।।",
+      "transliteration": "",
+      "translation": "In that army there was none who could be seen without wearing garments of sparkling white, who was hungry or dirty or with decayed hair.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-65",
+      "number": 65,
+      "type": "shloka",
+      "original": "आजैश्चापि च वाराहैर्निष्ठानवरस़ञ्चयैः।\nफलनिर्यूह संसिद्दैस्सूपैर्गन्ध रसान्वितैः।।2.91.68।।\nपुष्पध्वजवतीः पूर्णाश्शुक्लस्यान्नस्य चाभितः।\nददृशुर्विस्मितास्तत्रनरा लौहीस्सहस्रशः।।2.91.69।।",
+      "transliteration": "",
+      "translation": "There the soldiers beheld in amazement thousands of iron containers decked with flags and flowers and filled with white rice, mutton, pork, choicest condiments, fruit juice, fragrant and tasty soup.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-66",
+      "number": 66,
+      "type": "shloka",
+      "original": "बभूवुर्वनपार्श्वेषु कूपाः पायसकर्दमाः।\nताश्चकामदुघा गावो द्रुमाश्चासन्मधुश्च्युतः।।2.91.70।।",
+      "transliteration": "",
+      "translation": "Along the edge of the forest, wells were filled with thick payasam. There were wishfulfilling cows and honeydripping trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-67",
+      "number": 67,
+      "type": "shloka",
+      "original": "वाप्यो मैरेयपूर्णाश्च मृष्टमांसचयैर्वृताः।\nप्रतप्तपिठरैश्चापि मार्गमायूरकौक्कुटैः।।2.91.71।।",
+      "transliteration": "",
+      "translation": "The wells were found filled with datepalm liquor and surrounded by pots of well cooked meat of peacocks, chicken and other animals.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-68",
+      "number": 68,
+      "type": "shloka",
+      "original": "पात्रीणां च सहस्राणि स्थालीनां नियुतानि च।\nन्यर्बुधानि च पात्राणि शातकुम्भमयानि च।।2.91.72।।\nस्थाल्यः कुम्भ्य करम्भ्य श्च दधिपूर्णास्सुसंस्कृताः।\nयौवनस्थस्य गौरस्य कपित्थस्य सुगन्धिनः।।2.91.73।।\nह्रदाः पूर्णा रसालस्य दध्नश्श्वेतस्य चापरे।\nबभूवुः पायसस्यान्ये शर्करायावसञ्चयाः।।2.91.74।।",
+      "transliteration": "",
+      "translation": "There were thousands of pots, lakhs of plates, crores of vessels -- all made of gold and filled with wellgarnished food. Curd was kept in earthern pots like jugs and jars and pots with a wide mouth. Tanks were formed, some filled with white curd of good flavour and of the colour of woodapple, some with white curd blended with spices and some with payasam and heaps of barely powder mixed with sugar.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-69",
+      "number": 69,
+      "type": "shloka",
+      "original": "कल्कान्चूर्णकषायांश्च स्नानानि विविधानि च।\nददृशुर्भाजनस्थानि तीर्थेषु सरतां नराः।।2.91.75।।",
+      "transliteration": "",
+      "translation": "The soldiers saw on the river banks at landing places levigated powder, fragrant powder and extracts and other bathing requisites of different kinds stored in receptacles.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-70",
+      "number": 70,
+      "type": "shloka",
+      "original": "शुक्लानंशुमतश्चापि दन्तधावनसञ्चयान्।\nशुक्लांश्चन्दनकल्कांश्च समुद्गेष्ववतिष्ठतः।।2.91.76।।\nदर्पणापरिमृष्टांश्च वाससां चापि सञ्चयान्।\nपादुकोपानहां चैव युग्मानिच सहस्रशः।।2.91.77।।\nआञ्जनीः कङ्कतान्कूर्चान् शस्त्राणि च धनूंषि च।\nमर्मत्राणानि चित्राणि शयनान्यासनानि च।।2.91.78।।\nप्रतिपानह्रदान्पूर्णन्खरोष्ट्रगजवाजिनाम्।\nअवगाह्यसुतीर्थांश्चह्रदान् सोत्पलपुष्करान्।2.91.79।।\nआकाश वर्णप्रतिमान् स्वच्छतोयान्सुखप्लवान्।\nनीपवैडूर्यवर्णांश्च मृदून्यवससञ्चयान्।\nनिर्वापार्थान् पशूनां ते ददृशुस्तत्र सर्वशः।।2.91.80।।",
+      "transliteration": "",
+      "translation": "There the soldiers beheld on every side stacks of toothbrushing sticks, white and bristled, white lumps of sandal paste placed in dishes made of leaves, well cleaned mirrors, collection of clothes, several pairs of footwear, collyrium boxes, combs,  brushes for cleaning moustaches, weapons, parasoles, bows and shining armour, different kinds of couches, and seats. There were pools of drinking water for donkeys, camels, elephants and horses and excellent landing places filled with flowering lotuses and water lilies. The lakes were of transparent waters resembling the hue of the sky easy and comfortable for swimming. There they saw heaps of soft grass as green as  sapphire and kadamva trees for animals to refresh themselves under.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-71",
+      "number": 71,
+      "type": "shloka",
+      "original": "व्यस्मयन्त मनुष्यास्ते स्वप्नकल्पं तदद्भुतम्।\nदृष्ट्वाऽतिथ्यं कृतं तादृग्भरतस्य महर्षिणा।।2.91.81।।",
+      "transliteration": "",
+      "translation": "The men were amazed when they beheld the wonderful hospitality extended by maharshi Bharadwaja to Bharata, as if all this happened in a dream world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-72",
+      "number": 72,
+      "type": "shloka",
+      "original": "इत्येवं रममाणानां देवानामिव नन्दने।\nभरद्वाजाश्रमे रम्ये सा रात्रिर्व्यत्यवर्तत।।2.91.82।।",
+      "transliteration": "",
+      "translation": "As they were enjoying themselves in Bharadwaja's hermitage like the gods in the garden of Indra the night wore off.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-73",
+      "number": 73,
+      "type": "shloka",
+      "original": "प्रतिजग्मुश्च ता नद्यो गन्धर्वाश्च यथागतम्।\nभरद्वाजमनुज्ञाप्य ताश्च सर्वा वराङ्गनाः।।2.91.83।।",
+      "transliteration": "",
+      "translation": "Those rivers, the gandharvas and all those lovely women took leave of sage Bharadwaja and returned to where they had come from.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-91-74",
+      "number": 74,
+      "type": "shloka",
+      "original": "तथैव मत्ता मदिरोत्कटा नरास्तथैव दिव्यागरुचन्दनोक्षिताः।\nतथैव दिव्या विविधास्स्रगुत्तमाः पृथक्प्रकीर्णा मनुजैः प्रमर्दिताः।।2.91.84।।",
+      "transliteration": "",
+      "translation": "Even after the departure of the gandharvas the soldiers who had consumed limitless liquor were still inebriated. The divine agaru and sandalwood smeared on their bodies still remained. Several splendid garlands crushed by them were strewn all over. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्य अयोध्याकाण्डे एकनवतितमस्सर्गः।। Thus ends the ninetyfirst sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

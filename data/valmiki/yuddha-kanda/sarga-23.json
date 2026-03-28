@@ -1,0 +1,162 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 23,
+    "title": "Rama points out to Lakshmana the evil portents indicating destruction of Rakshasas, monkeys, and people.",
+    "titleSanskrit": "",
+    "totalShlokas": 16
+  },
+  "shlokas": [
+    {
+      "id": "v6-23-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "निमित्तानिनिमित्ताज्ञोदृष्टवालक्ष्मणपूर्वजः ।\nसौमित्रिंसम्परिष्वज्यइदंवचनमब्रवीत् ।।6.23.1।।",
+      "transliteration": "",
+      "translation": "Perceiving the portents, Rama spoke these words embracing Saumithri who was aware of the portents.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-23-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "निमित्तानिपरिगृह्योदकंशीतंवनानिफलवन्तिच ।\nबलौघंसंविभज्येमंव्यूह्यतिष्ठेमलक्ष्मण ।।6.23.2।।",
+      "transliteration": "",
+      "translation": "\"Lakshmana Arrange a place in this forest where there is cool water and fruits for the battalions of the army, we shall remain (alert).\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-23-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "लोकक्षयकरंभीमंभयंपश्याम्युपस्थितम् ।\nनिबर्हणंप्रवीराणामृक्षवानररक्षसाम् ।।6.23.3।।",
+      "transliteration": "",
+      "translation": "\"Dreadful warriors, Bears, monkeys, and Rakshasas will be slain, and I foresee that which bodes destruction of people.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-23-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "वाताश्चकलुषावान्तिकम्पतेचवसुन्धराः ।\nपर्वताग्राणिवेपन्तेपतन्तिचमहीरुहाः ।।6.23.4।।",
+      "transliteration": "",
+      "translation": "\"The wind is blowing mixed with dust, even the earth is cracking, mountain tops are shaking, and huge trees are breaking and falling down.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-23-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "मेघाःक्रव्यादसङ्काशाःपरुषाःपरुषस्वनाः ।\nक्रूराःक्रूरंप्रवर्षन्तिमिश्रंशोणितबिन्दुभिः ।।6.23.5।।",
+      "transliteration": "",
+      "translation": "\"Clouds resembling raw flesh in colour, are making harsh frightening sounds, and rain mixed with drops of blood.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-23-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "रक्तचन्दनसङ्काशासन्ध्यापरमदारुणा ।\nज्वलतःप्रपतत्येतदादित्यादग्निमण्डलम् ।।6.23.6।।",
+      "transliteration": "",
+      "translation": "\"The twilight in red sandal colour is very frightening. The Sun is blazing, raining masses of fire in variegated colours.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-23-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "दीनादीनस्वराःक्रूरास्सर्वतोमृगपक्षिणः ।\nप्रत्यादित्यंविनर्धन्तिजनयन्तोमहाद्भयम् ।।6.23.7।।",
+      "transliteration": "",
+      "translation": "\"The wild animals all over have a piteous look and wailing in low tone standing opposite the Sun is indicating fear.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-23-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "रजन्यामप्रकाशस्तुसन्तापयतिचन्द्रमाः ।\nकृष्णरक्तांशुपर्यन्तोलोकक्षयइवोदितः ।।6.23.8।।",
+      "transliteration": "",
+      "translation": "\"The moon devoid of glow even in the night is like the Sun with black rays around and red aura behind (the black).\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-23-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "ह्रस्वोरूक्षोऽप्रशस्तश्चपरिवेषस्सुलोहितः ।\nआदित्येविमलेनीलंलक्ष्मलक्ष्मणदृश्यते ।।6.23.9।।",
+      "transliteration": "",
+      "translation": "\"Lakshmana the white Sun is appearing in copper colour around with black colour in the centre which had not been seen before. It is small and dreary.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-23-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "रजसामहताचापिनक्षत्राणिहतानिच ।\nयुगान्तमिवलोकानांपश्यशंसन्तीवलक्ष्मण ।।6.23.10।।",
+      "transliteration": "",
+      "translation": "\"Lakshmana the stars devoid of brightness are indicating as though it is the time of dissolution of the universe?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-23-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "काकाश्श्येनास्तथानीचागृध्राःपरिपतन्तिच ।\nशिवाश्चाप्यशिवान्नादान्नदन्तिसुमहाभयान् ।।6.23.11।।",
+      "transliteration": "",
+      "translation": "\"The crows, hawks and eagles are falling down like small animals. Also, the jackals are creating fear by making howls.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-23-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "शैलैश्शूलैश्चखढगैश्चविसृष्टैःकपिराक्षसैः ।\nभविष्यत्यावृताभूमिर्मांसशोणितकर्दमा ।।6.23.12।।",
+      "transliteration": "",
+      "translation": "\"The earth will turn into a mass of flesh and blood and will be covered by the mountains and tridents hurled by Vanaras and Rakshasas.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-23-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "क्षिप्रमद्यैवदुर्दर्षांपुरींरावणपालिताम् ।\nअभियामजनेनैवसर्वतोहरिभिर्ववृताः ।।6.23.13।।",
+      "transliteration": "",
+      "translation": "All the Vanaras turning their direction will go immediately and now itself, swiftly to the city ruled by Ravana (said Rama to Lakshmana).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-23-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "इत्येवमुक्त्वाधर्मात्माधनवीसङ्ग्रामहर्षणः ।\nप्रतस्थेपुरतोरामोलङ्कामभिमुखोविभुः ।।6.23.14।।",
+      "transliteration": "",
+      "translation": "Rama, the subduer of enemies in war, a celebrated one having spoken this way proceeded towards Lanka going in front wielding a bow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-23-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "सविभीषणसुग्रीवास्ततस्तेवानरर्षभाः ।\nप्रतस्थिरेविनर्दन्तोनिश्चिताद्विषतांवधे ।।6.23.15।।",
+      "transliteration": "",
+      "translation": "Then Vibheeshana, Sugriva and all bulls among Vanaras determined in the matter of slaying (the enemies) went roaring.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-23-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "राघवस्यप्रियार्थंतुसुतरांवीर्यशालिनाम् ।\nहरीणांकर्मचेष्टाभिस्तुतोषरघुपुङ्गवः ।।6.23.16।।",
+      "transliteration": "",
+      "translation": "To make Rama happy, the excessively heroic Vanaras made monkey actions. Seeing that Rama felt happy. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेत्रयोविंशस्सर्गः ।। This is the end of the twenty third sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

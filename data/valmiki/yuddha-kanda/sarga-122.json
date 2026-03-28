@@ -1,0 +1,342 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 122,
+    "title": "Lord Maheswara brings Dasharatha to Rama, Sita and Lakshmana. Dasharatha blesses the three.",
+    "titleSanskrit": "",
+    "totalShlokas": 36
+  },
+  "shlokas": [
+    {
+      "id": "v6-122-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "एतच्छ्रुत्वाशुभंवाक्यंराघवेणानुभाषितम् ।\nततश्शु��तरंवाक्यंव्याजहारमहेश्वरः ।।6.122.1।।",
+      "transliteration": "",
+      "translation": "On hearing the sweet reply of Raghava, Lord Maheswara delivered an auspicious message.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "पुष्कराक्ष महाबाहो महावक्ष परन्तप ।\nदिष्ट्याकृतमिदंकर्मत्वयाधर्मभृतांवर ।।6.122.2।।",
+      "transliteration": "",
+      "translation": "\"O Lotuseyed, mighty armed, broadchested, a subduer of enemies, by good luck you have performed this action.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "दिष्ट्यासर्वस्यलोकस्यप्रवृद्धंदारुणंतमः ।\nअपावृत्तंत्वयासङ्ख्येरामरावणजंभयम् ।।6.122.3।।",
+      "transliteration": "",
+      "translation": "\"The dread of Ravana in all the worlds which caused gloom and fear has been fortunately removed by you in the war.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "आश्वास्यभरतंदीनंकौसल्यां च यशस्विनीम् ।\nकैकेयीं च सुमित्रां च दृष्टवालक्ष्मणमातरम् ।।6.122.4।।\nप्राप्यराज्यमयोध्यायांनन्दयित्वासुहृज्जनम् ।\nइक्ष्वाकूणांकुलेवंशंस्थापयित्वामहाबल ।।6.122.5।।\nइष्टवातुरगमेधेनप्राप्यचानुत्तमंयशः ।\nब्राह्मणेभ्योधनंदत्त्वात्रिदिवंगन्तुमर्हसि ।।6.122.6।।",
+      "transliteration": "",
+      "translation": "\"Comforting piteous Bharata, illustrious Kausalya and Kaikeyi too, seeing Lakshmana's mother Sumithra, and attaining sovereignty, make relatives happy. Establishing Ikshvaku race, conducting horse sacrifice and satisfying the Lord attain highest renown by giving wealth in charity to brahmins. You, who are endowed with mighty prowess, deserve to go to heaven\", said Lord Maheswara.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "एषराजादशरथोविमानस्थःपितातव ।\nकाकुत्स्थमानुषेलोकेगुरुस्तवमहायशाः ।।6.122.7।।",
+      "transliteration": "",
+      "translation": "\"O Kakuthsa! Here is your father, teacher in the mortal world, king Dasharatha seated in the aerial car.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "इन्द्रलोकंगतःश्रीमांस्त्वयापुत्रेणतारितः ।\nलक्ष्मणेनसहभ्रात्रात्वमेममभिवादय ।।6.122.8।।",
+      "transliteration": "",
+      "translation": "\"Liberated by you, his son, the glorious emperor has reached Indra's world. You with your brother Lakshmana offer your salutations to him.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "महदेववच्श्रुत्वाराघवःसहलक्ष्मणः ।\nलक्ष्मणेनसहभ्रात्राददर्शपितरंप्रभुः ।।6.122.9।।",
+      "transliteration": "",
+      "translation": "Raghava along with Lakshmana offered salutations to his father seated on top of the aerial chariot after listening to Lord MahaDeva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "दीप्यमानंस्वयालक्ष्मविरजोऽम्भरधारिणम् ।\nलक्ष्मणेनसहभ्रात्राददर्शपितरंप्रभुः ।।6.122.10।।",
+      "transliteration": "",
+      "translation": "Raghava with his younger brother Lakshmana saw his father who was effulgent, blazing and adorned in white clothes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "हर्षेणमहताविष्टोविमनस्थोमहीपतिः ।\nप्राणैःप्रियतरंदृष्टवापुत्रंदशरथस्तदा ।।6.122.11।।\nआरोप्याङ्केमहबाहुर्वरासनगतःप्रभुः ।\nबाहुभ्यांसम्परिष्वज्यततोवाक्यंसमाददे ।।6.122.12।।",
+      "transliteration": "",
+      "translation": "Then Dasaratha, the ruler of the world, seated in an elevated seat in the aerial car, seeing his son who was dearer than life to him, extremely rejoiced and made Raghava sit on his lap, embraced him, and started speaking as follows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "न मेस्वर्गोबहुमतस्सम्मानश्चसुरर्षभैः ।\nत्वयारामविहीनस्यसत्यंप्रतिशृणोमिते ।।6.122.13।।",
+      "transliteration": "",
+      "translation": "\"Rama separated from you, even the suras and sages honouring me in heaven does not give me happiness. It is true and I promise.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "अद्यत्वांनिहतामित्रंदृष्टवासम्पूर्णमानसम् ।\nनिस्तीर्णवनवासं च प्रीतिरासीत्परामम ।।6.122.14।।",
+      "transliteration": "",
+      "translation": "\"Today the enemies are killed, and you have completed the exile. I am fully satisfied and experiencing joyfulness on seeing you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "कैकेय्यायानिचोक्तानिवाक्यानिवदतांवर ।\nतवप्रव्राजनार्थानिस्थितानिहृदयेमम ।।6.122.15।।",
+      "transliteration": "",
+      "translation": "\"Those utterances of Kaikeyi with a motive to send you on exile are still hurting my heart, O Best among speakers!\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "त्वांतुदृष्टवाकुशलिनंपरिष्वज्यसलक्ष्मणम् ।\nअद्यदुःखाद्विमुक्तोऽस्मिनीहारादिवभास्करः ।।6.122.16।।",
+      "transliteration": "",
+      "translation": "\"Seeing you with Lakshmana and embracing you makes me happy freed from grief just as the sun freed from mist.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तारितोऽहंत्वयापुत���र सुपुत्रेणमहात्मना ।\nअष्टावक्रेणधर्मात्माकहोलोब्राह्मणोयथा ।।6.122.17।।",
+      "transliteration": "",
+      "translation": "\"Son! I am liberated by you today, my great son, just as Kahola who was set on righteousness was liberated by Ashtavakra.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "इदानीं च विजानामियथासौम्य सुरेश्वरैः ।\nवधार्थंरावणस्येहविहितंपुरुषोत्तम ।।6.122.18।।",
+      "transliteration": "",
+      "translation": "\"O gentle son! I did not know that the ruler of gods had sent you for the destruction of Ravana, O excellent one.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "सिद्धार्थाखलुकौसल्यायात्वांराम गृहंगतम् ।\nवनान्निवृत्तंसंहृष्टाद्रक्ष्यतेशत्रुसूदनम् ।।6.122.19।।",
+      "transliteration": "",
+      "translation": "\"Rama! Kausalya will see you, as an accomplished one, as a destroyer of enemies, on returning home from the forest and will be highly rejoiced.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "सिद्धार्थाःखलुतेराम नरायेत्वांपुरींगतम् ।\nराज्येचावाभिषिक्तं च द्रक्ष्यन्तेवसुधाधिपम् ।।6.122.20।।",
+      "transliteration": "",
+      "translation": "\"On reaching the city and consecrated in the kingdom as ruler of the world, people will see you as an accomplished person.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अनुरक्तेनबलिनाशुचिनाधर्मचारिणा ।\nइच्छेयंत्वामहंद्रष्टुंभरतेनसमागतम् ।।6.122.21।।",
+      "transliteration": "",
+      "translation": "\"I desire to see you reunited with mighty Bharata who is pure and follower of dharma.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "चतुर्दशसमास्सौम्यवनेनिर्यातितास्त्वया ।\nवसतासीतयासार्धंलक्ष्मणेन च धीमता ।।6.122.22।।",
+      "transliteration": "",
+      "translation": "\"O Gentle Rama! Fourteen years have been spent in the forest with Sita and Lakshmana after my departure from life.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "निवृत्तवनवासोऽसिप्रतिज्ञापूरितात्वया ।\nरावणं च रणेहत्वादेवताःपरितोषिताः ।।6.122.23।।",
+      "transliteration": "",
+      "translation": "\"The period of your exile has been completed, my promise has been fulfilled in the battlefield and the gods have also gratified you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "कृतंकर्मयशश्श्लाघ्यंप्राप्तंतेशत्रुसूदन ।\nभ्रातृभिःसहराज्यस्थोदीर्घमायुरवाप्नुहि ।।6.122.24।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "इतिब्रुवाणंराजानंरामःप्राञ्जलिरब्रवीत् ।\nकुरुप्रसादंधर्मज्ञकैकेय्याभरतस्य च ।।6.122.25।।",
+      "transliteration": "",
+      "translation": "Dasaratha having spoken to Rama, offered salutations with joined palms and said,\" You are righteous. Be gracious to Bharata and Kaikeyi also.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "सपुत्रांत्वांत्यजामीतियदुक्ताकेकयीत्वया ।\nस शापःकेकयींघोरस्सपुत्रां न स्पृशेत्प्रभो ।।6.122.26।।",
+      "transliteration": "",
+      "translation": "\"O Lord! You had spoken in such a way saying 'I disown a good son and Kaikeyi' and cursed. May that dreadful curse not touch your son and Kaikeyi,\" said Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "तथेति स महाराजोराममुक्त्वाकृताञ्जलिम् ।\nलक्ष्मणं च परिष्वज्यपुनर्वाक्यमुवाच ह ।।6.122.27।।",
+      "transliteration": "",
+      "translation": "The king (Dasharatha) saying 'so be it' and embracing Lakshmana again and saluting Rama spoke to Lakshmana as follows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "रामंशुश्रूषताभक्त्यावैदेह्यासहसीतया ।\nकृतमममहाप्रीतिःप्राप्तंधर्मफलं च ते ।।6.122.28।।",
+      "transliteration": "",
+      "translation": "\"You have served with devotion to Rama and Sita and made me very happy. By this task you have earned the merit of righteousness.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "धर्मंप्राप्स्यसिधर्मज्ञ यशश्चविपुलंभुवि ।\nरामेप्रसन्नेस्वर्गं च महिमानंतथोत्तमाम् ।।6.122.29।।",
+      "transliteration": "",
+      "translation": "\"O knower of dharma! If Rama is pleased, extensive fame as well as heaven and supreme glory will be attained on this earth.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "रामंशुश्रूषभद्रंतेसुमित्रानन्दवर्धन ।\nरामस्सर्वस्यलोकस्यसुभेष्वभिरतःसदा ।।6.122.30।।",
+      "transliteration": "",
+      "translation": "\"O Lakshmana, the enhancer of Sumithra's joy, 'Be auspicious. Rama will always remain good in the service of the three worlds.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "एतेसेन्द्रास्त्रयोलोकास्सिद्धाश्चपरमर्षयः ।\nअभिगम्यमहात्मानमर्चन्तिपुरुषोत्तमम् ।।6.122.31।।",
+      "transliteration": "",
+      "translation": "\"This Indra and also Siddhas, supreme sages who are great souls pay respects to Rama and worship him.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "एतत्तदुक्तमव्यक्तमक्षरंब्रह्मनिर्मितम् ।\nदेवानांहृदयंसौम्य गुह्यंरामःपरन्तप ।।6.122.32।।",
+      "transliteration": "",
+      "translation": "\"O Gentle! Rama, the tormentor of enemies is the unmanifest and imperishable secret, is Brahma alone. This is created by Brahma. It is the secret in the heart of gods.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "अवाप्तंधर्मचरणंयशश्चविपुलंत्वया ।\nएनंशुश्रूषताभक्त्यावैदेह्यासहसीतया ।।6.122.33।।",
+      "transliteration": "",
+      "translation": "\"Videha's Sita, you have also earned fame by serving Rama with devotion and following the righteous path.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "इत्युक्त्वालक्ष्मणंराजास्नुषांबद्धाञ्जलिंस्थिताम् ।\nपुत्रीत्याभाष्यमधुरंशनैरेनामुवाच ह ।।6.122.34।।",
+      "transliteration": "",
+      "translation": "Having spoken like that to Lakshmana, looking at the daughter in law standing there with folded palms, Dasaratha addressed her saying,\" Daughter\", gently and sweetly and said.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "कर्तव्यो न तुवैदेहीमन्युस्त्यागमिमंप्रति ।\nरामेणेत्वद्विशुध्यर्थंकृतमेतद्धितैषिणा ।।6.122.35।।",
+      "transliteration": "",
+      "translation": "\"In the event of Rama abandoning you, resentment should not be shown in this way. It is your duty to endure. Rama himself has done this to prove your purity.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "सुदुष्करमिदंपुत्रितवचारित्रलक्षणम् ।\nकृतंयत्तेऽन्यनारीणांयशोह्यभिभविष्यति ।।6.122.36।।",
+      "transliteration": "",
+      "translation": "\"Daughter! that which you have done is a sign of your character. It is highly difficult to do. You will overshadow the future of other women.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "न त्वंकामंसमाधेयाभर्तृशुश्रूषणंप्रति ।\nअवश्यंतुमयावाच्यमेषतेदैवतंपरम् ।।6.122.37।।",
+      "transliteration": "",
+      "translation": "\"You need not be told about the service to your husband. Nevertheless, I am giving instruction. This Rama is supreme god for you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "इतिप्रतिसमादिश्यपुत्रौसीतां च राघवः ।\nइन्द्रलोकंविमानेनययौदशरथोज्वलन् ।।6.122.38।।",
+      "transliteration": "",
+      "translation": "Having admonished the two glowing sons, and Sita, Dasaratha went by aerial car to the world of Indra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-122-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "विमानमास्थायमहानुभावःश्रिया च सम्हृष्टतन्नुर्नृपोत्तमः ।\nआमन्त्यपुत्रौसहसीतया च जगामदेवप्रवरस्यलोकम् ।।6.122.39।।",
+      "transliteration": "",
+      "translation": "The best of kings, majestic and prosperous Dasharatha was delighted, bidding farewell to the sons and Sita ascended the aerial car and went to the abode of gods. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेद्वाविंशत्युत्तरशततमस्सर्गः ।। This is the end of one hundred twenty second sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

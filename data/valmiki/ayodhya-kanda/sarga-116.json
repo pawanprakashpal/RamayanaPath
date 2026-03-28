@@ -1,0 +1,243 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 116,
+    "title": "Apprehensions of ascetics residing at Chitrakuta -- fear of Khara brother of Ravana -- atrocities of rakshasas -- ascetics take leave of Rama and depart.",
+    "titleSanskrit": "",
+    "totalShlokas": 25
+  },
+  "shlokas": [
+    {
+      "id": "v2-116-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "प्रतिप्रयाते भरते वसन्रामस्तपोवने।\nलक्षयामास सोद्वेगमथौत्सुक्यं तपस्विनाम्।।2.116.1।।",
+      "transliteration": "",
+      "translation": "After Bharta, had departed, Rama who was living in the penancegrove of ascetics observed that the ascetics were filled with apprehensions, and were eager (to leave that forest).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-116-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "ये तत्र चित्रकूटस्य पुरस्तात्तापसाश्रमे।\nराममाश्रित्य निरतास्तानलक्षयदुत्सुकान्।।2.116.2।।",
+      "transliteration": "",
+      "translation": "Rama observed that the sages who earlier sought to stay with him near his hermitage  under his protection on chitrakuta were filled with anxiety (now).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-116-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "नयनैर्ब्रुकुटीभिश्च रामं निर्दिश्य शङ्किताः।\nअन्योन्यमुपजल्पन्त श्शनैश्चक्रुर्मिथः कथाः।।2.116.3।।",
+      "transliteration": "",
+      "translation": "Those sages, glancing at Rama with suspicious eyes, knitting their eyebrows and murmering among themselves, conversed secretly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-116-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तेषामौत्सुक्यमालक्ष्य रामस्त्वात्मनि शङ्कितः।\nकृताञ्जलिरुवाचेदमृषिं कुलपतिं ततः।।2.116.4।।",
+      "transliteration": "",
+      "translation": "Having observed their anxiety, Rama apprehending somethig in his mind approached  the chief of the hermitage with folded palms and said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-116-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "न कच्चिद्भगवन्किञ्चित्पूर्ववृत्तमिदं मयि।\nदृश्यते विकृतं येन विक्रियन्ते तपस्विनः।।2.116.5।।",
+      "transliteration": "",
+      "translation": "O revered sire, have you seen any change in my conduct? For what reason are the sages looking perturbed?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-116-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "प्रमादाच्चरितं कच्चित्किञ्चिन्नावरजस्य मे।\nलक्ष्मणस्यर्षिभिदृष्टं नानुरूपमिवात्मनः।।2.116.6।।",
+      "transliteration": "",
+      "translation": "Have the sages found my younger brother Lakshmana doing something unbecoming of him through inadvertence?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-116-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "कच्चिच्छुश्रूषमाणा व श्शुश्रूषणपरा मयि।\nप्रमदाऽभ्युचितां वृत्तिं सीता युक्तं न वर्तते।।2.116.7।।",
+      "transliteration": "",
+      "translation": "Has Sita devoted in her service to me and engaged in serving you failed to follow the conduct befitting a woman?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-116-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "अथर्षिर्जरया वृद्धस्तपसा च जरां गतः।\nवेपमान इवोवाच रामं भूतदयापरम्।।2.116.8।।",
+      "transliteration": "",
+      "translation": "Hearing those words, an ascetic old in age and austerities, as though trembling said  to Rama who is compassionate to all beings:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-116-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "कुतः कल्याणसत्त्वायाः कल्याणाभिरतेस्तथा।\nचलनं तात वैदेह्यास्तपस्विषु विशेषतः।।2.116.9।।",
+      "transliteration": "",
+      "translation": "O dear child, how can goodnatured Sita who is always engaged in performing auspicious deeds, especially towards ascetics be associated with violation of duty?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-116-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "त्वन्निमित्तमिदं तावत्तापसान्प्रतिवर्तते।\nरक्षोभ्यस्तेन संविग्नाः कथयन्ति मिथः कथाः।।2.116.10।।",
+      "transliteration": "",
+      "translation": "There is apprehension for ascetics from the demons on acount of your presence here. That is why they are conversing with one another about the likely fallout.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-116-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "रावणावरजः कश्चित् खरो नामेह राक्षसः।\nउत्पाट्य तापसान्सर्वाञ्जनस्थाननिकेतनान्।।2.116.11।।\nधृष्टश्च जितकाशी च नृशंसः पुरुषादकः।\nअवलिप्तश्च पापश्च त्वां च तात न मृष्यते।।2.116.12।।",
+      "transliteration": "",
+      "translation": "O dear child, Khara, one of the brothers of Ravana is dwelling in nearby 'Janasthana'. He is impudent, reportedly winner of battles, cruel, sinful, a maneater and haughty.   He has uprooted all the ascetics  from Janasthana. He will not tolerate even you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-116-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "त्वं यदाप्रभृति ह्यस्मिन्नाश्रमे तात वर्तसे।\nतदाप्रभृति रक्षांसि विप्रकुर्वन्ति तापसान्।।2.116.13।।",
+      "transliteration": "",
+      "translation": "O dear child, ever since you started residing in this hermitage rakshasas have been  tormenting the ascetics.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-116-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "दर्शयन्ति हि बीभत्सैः क्रूरैर्भीषणकैरपि।\nनानारूपैर्विरूपैश्च रूपैर्विकृतदर्शनैः।।2.116.14।।",
+      "transliteration": "",
+      "translation": "They appear in various distorted forms now rapacious, now fearful, now deformed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-116-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "अप्रशस्तैशुचिभिस्सम्प्रयोज्य च तापसान्।\nप्रतिध्नन्त्यपरान्क्षिप्रमनार्याः पुरतः स्थिताः।।2.116.15।।",
+      "transliteration": "",
+      "translation": "Those wicked rakshasas employ forbidden and dirty means against ascetics and kill them by suddenly appearing in front of them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-116-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तेषु तेष्वाश्रमस्थानेष्वबुद्धमवलीय च।\nरमन्ते तापसां स्तत्र नाश��न्तोऽल्पचेतसः।।2.116.16।।",
+      "transliteration": "",
+      "translation": "These debased rakshasas, concealing themselves in various ashram sites take  delight  in harassing and killing the ascetics.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-116-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अपक्षिपन्ति स्रुग्भाण्डानग्नीस्निञ्चन्ति वारिणा।\nकलशांश्च प्रमध्नन्ति हवने समुपस्थिते।।2.116.17।।",
+      "transliteration": "",
+      "translation": "When sacrifices are about to start, they throw away the sacrificial ladels and vessels containing sacrificial materials and sprinkle water on sacrificial fire. They also break down the earthen vessels used in the sacrifice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-116-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तैर्दुरात्मभिरामृष्टानाश्रमान्प्रजिहासवः।\nगमनायान्यदेशस्य चोदयन्त्यृषयोऽद्य माम्।।2.116.18।।",
+      "transliteration": "",
+      "translation": "Now all these sages are urging me to abandon this hermitage infested by these wicked rakshasas and move to another region.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-116-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तत्पुरा राम शारीरामुपहिंसां तपस्विषु।\nदर्शयन्ति हि दुष्टास्ते त्यक्ष्याम इममाश्रमम्।।2.116.19।।",
+      "transliteration": "",
+      "translation": "O Rama, those vile creatures resort to physical violence against ascetics, we have therefore, resolved to quit this ashram.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-116-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "बहुमूलफलं चित्रमविदूरादितो वनम्।\nपुराणाश्रममेवाहं श्रयिष्ये सगणः पुनः।।2.116.20।।",
+      "transliteration": "",
+      "translation": "Not very far from here stands an ancient ashram in a lovely forest abounding in roots and fruits and I with my companions will seek shelter there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-116-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "खरस्त्वय्यपि चायुक्तं पुरा तात प्रवर्तते।\nसहास्माभिरितो गच्छ यदि बुद्धिः प्रवर्तते।।2.116.21।।",
+      "transliteration": "",
+      "translation": "Dear child, Khara will also misbehave with you as usual. (Therefore), if you so decide you may come along with us.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-116-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "सकलत्रस्य सन्देहो नित्यं यत्तस्य राघव।\nसमर्थस्यापि हि सतो वासो दुःखमिहाद्य ते।।2.116.22।।",
+      "transliteration": "",
+      "translation": "O Rama, even though you are always vigilant and capable in all possible ways to defend youself, a doubt arises in our mind. It is perilous for you to live here with your wife.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-116-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "इत्युक्तवन्तं स्तंराम राजपुत्रस्तपस्विनम्।\nन शशाकोत्तरैर्वाक्यैरवरोद्धुं समुत्सुकम्।।2.116.23।।",
+      "transliteration": "",
+      "translation": "It was not possible for prince Rama to hold back by mere words that ascetic who was saying like this and was anxious to quit the hermitage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-116-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "अभिनन्द्य समापृच्छ्य समाधाय च राघवम्।\nस जगामाश्रमं त्यक्त्वा कुलैः कुलपतिस्सह।।2.116.24।।",
+      "transliteration": "",
+      "translation": "The leader of the group quit the hermitage along with his companions after paying  respect to Rama, convincing him and taking leave of him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-116-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "रामः संसाद्य ऋषिगणमनुगमनाद्देशात्तस्मात्कुलपतिमभिवाद्य ऋषिम्।\nसम्यक्प्रीतैस्तैरनुमत उपदिष्टार्थः पुण्यं वासाय स्वनिलयमुपसम्पेदे।।2.116.25।।",
+      "transliteration": "",
+      "translation": "Rama, followed the sages for some distance to bid them farewell. He paid obeisance to the chief of the group and having grasped the instruction of the highly pleased  sages, he with their consent returned to his holy hermitage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-116-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "आश्रममृषिविरहितं प्रभुः क्षणमपिन जहौ स राघवः।\nराघवं हि सततमनुगता स्तापसाश्चार्षचरित धृतगुणाः।।2.116.26।।",
+      "transliteration": "",
+      "translation": "Lord Rama, did not leave that hermitage deserted by the sages even for a moment. Those who had adopted the traditions of the sages and  had acquired many virtues followed Rama. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे षोडशोत्तरशततमस्सर्गः।। Thus ends the hundredsixteenth sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

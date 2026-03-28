@@ -1,0 +1,549 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 75,
+    "title": "Lanka is set on fire by the Vanaras on Jambavan's instructions. Terrible fight takes place between Rakshasas and Vanaras.",
+    "titleSanskrit": "",
+    "totalShlokas": 59
+  },
+  "shlokas": [
+    {
+      "id": "v6-75-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततोऽब्रवीन्महातेजास्सुग्रीवोवानराधिपः ।\nअर्थ्यंविज्ञापयंश्चापिहनूमन्तमिदंवचः ।।6.75.1।।",
+      "transliteration": "",
+      "translation": "Sugriva, the king of Vanaras called Hanuman to make him know the task ahead and said these words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "यतोहतःकुम्भकर्णःकुमाराश्चनिषूदिताः ।\nनेदानीमुपनिर्हारंरावणोदातुमर्हति ।।6.75.2।।",
+      "transliteration": "",
+      "translation": "\" As Kumbhakarna is killed and his sons are destroyed, Ravana may not putup defence again. I think.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "येयेमहाबलास्सन्तिलघवश्चप्लवङ्गमाः ।\nलङ्कामभ्युतन्त्याशुगृह्योल्काःप्लवगर्षभाः ।।6.75.3।।\nहरयोहरिसङ्काशाःप्रदग्धुंरावणालयम् ।",
+      "transliteration": "",
+      "translation": "\"Of the bulls among vanaras, endowed with prowess, whoever is quick, able and foremost, let them go to Lanka, the abode of Ravana.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तोस्तंगतआदित्येरौद्रेतस्मिन्निशामुखे ।।6.75.4।।\nलङ्कामभिमुखास्सोल्काजग्मुस्तेप्लवगर्षभाः ।",
+      "transliteration": "",
+      "translation": "Thereafter the bulls among Vanaras turned their faces towards Lanka and went holding torches in hand, after the Sun set as the frightening night started.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "उल्काहस्सैर्हरिगणैस्सर्वतस्समभिद्रुताः ।।6.75.5।।\nआरक्षस्थाविरूपाक्षास्सहसाविप्रदद्रुवुः ।",
+      "transliteration": "",
+      "translation": "Vanara troops went all over with torches and chased by them, the Rakshasas at the gates ran instantly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "गोपुराट्टप्रतोलीषुचर्यासुविविधासु च ।।6.75.6।।\nप्रासादेषु च सम्हृष्टास्ससृजुस्तेहुताशनम् ।",
+      "transliteration": "",
+      "translation": "Rejoiced Vanaras set fire to the towering gates, attics, different streets as well as mansions to send away Rakshasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तेषांगृहसहस्राणिददाहहुतभुक्तदा ।।6.75.7।।\nप्रासादाःपर्वताकाराःपतन्तिधरणीतले ।",
+      "transliteration": "",
+      "translation": "Then thousands of their houses were burnt by fire (consumer of offerings), and mountain like mansions collapsed to the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "अगुरुर्दह्यतेतत्रवरं च हरिचन्दनम् ।।6.75.8।।\nमौक्तिकामणयस्स्निग्धावज्रंचापिप्रवालकम् ।",
+      "transliteration": "",
+      "translation": "There, in Lanka, incense and the best of sandalwood was burnt. Nay even glossy pearls, gems and diamonds were also burnt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "क्षौमं च दह्यतेतत्रकौशेयंचापिशोभनं ।।6.75.9।।\nआविकंविविधंचौर्णंकाञ्चनंभाण्डमायुधम् ।",
+      "transliteration": "",
+      "translation": "Their white linen and beautiful silks were burnt. Nay, even several blankets of wool, chests and weapons were also burnt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "नानाविकृतसंस्थानंवाजिभाण्डपरिच्छदौ ।।6.75.10।।\nगजग्रैवेयकक्ष्याश्चरथभाण्डाश्चसम्स्कृताः ।",
+      "transliteration": "",
+      "translation": "Different kinds of peculiar kinds of ornaments used to decorate horses, ornaments worn round the neck and girths of elephants, and polished chariot decorations.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "नुत्राणि च योधानांहस्त्यश्वानां व चर्म च ।।6.75.11।।\nखडगाधनूंषिज्वाबाणास्तोमराङ्कुशशक्तयः ।",
+      "transliteration": "",
+      "translation": "Leather armour of the warriors, shields of horses, excellent bow strings, swords, arrows, goads, lances, and javelins.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "रोमजंवालजंचर्मव्याघ्रजंचण्डजंबहु ।।6.75.12।।\nमुक्तामणिविचित्रांश्चप्रासादांश्चसमन्ततः ।\nविविधानस्त्रसंयोगानग्निर्दहतितत्रवै ।।6.75.13।।",
+      "transliteration": "",
+      "translation": "With fire all over, rugs made of hair of animals, whisks made of fur of animals, tiger skins, musk, wonderful pearls, and gems in laid dwellings of many kinds, and clusters of war weapons were burnt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "नानाविधान्गृहच्छन्दान्धदाहहुतभुक्तदा ।\nआवासान्राक्षसानां च सर्वेषांगृहगर्थिनाम् ।।6.75.14।।\nहेमचित्रतनुत्राणस्रग्दामाम्भरधारिणाम् ।\nशीधुपानचलाक्षाणांमद्विह्वलगामिनाम् ।।6.75.15।।\nकान्तालम्बितवस्त्राणांशत्रुसञ्जातमन्युनाम् ।\nगदाशूलासिहस्तानांखादतांपिबतामपि ।।6.75.16।।\nशयनेषुमहार्हेषुप्रसुप्तानांप्रियैस्सह ।\nत्रस्तानांगच्छतांतूर्णंपुत्रानादायसर्वतः ।।6.75.17।।\nतेषांशतसहस्राणितदालङ्कानिवासिनाम् ।\nअदहत्पावकस्तत्रजज्वाल च पुनःपुनः ।।6.75.18।।",
+      "transliteration": "",
+      "translation": "The fire consumed many kinds of wonderful homes of Rakshasas, with loved ones on the best beds, their armour made of gold Rakshasas decked with garland s and best of attire their eyes inebriated with intoxication, shaking while walking slowly, holding their loved ones, seized with anger against enemies, holding mace and tridents in hand, eating, drinking and sleeping on the best beds, fast asleep some out of fear taking their sons going quickly and all of them dwelling there in hundreds and thousands were burning again and again.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "सारवन्तिमहार्हाणिगम्भीरगुणवन्ति च ।\nहेमचन्द्रार्धचन्द्राणिचन्द्रशालोनतानि च ।।6.75.19।।\nतत्रचित्रगवाक्षाणिसाधिष्ठानानिसर्वशः ।\nमणिविद्रुमचित्राणिस्पृशन्तीवदिवाकरम् ।।6.75.20।।\nक्रौञ्चबर्हिबवीणानांभूषणानां च निस्स्वनैः ।\nनादितान्यचलाभानिवेश्मान्यग्निर्ददाह स ।।6.75.21।।",
+      "transliteration": "",
+      "translation": "The fire consumed the houses which were strong and impenetrable, with many enclosures, magnificent ones, constructed in gold in the shape of a half moon and full moon, windows endowed with wonderful pictures. All over the rooms were high on top, decorated with gems, and as if touching the Sun. It was rendered noisy with notes of herons and peacocks, playing of Veena, and jingling of ornaments like the vibration of sounds. The dwellings which looked like mountains were consumed by fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "ज्वलनेनपरीतानितोरणानिचकाशिरे ।\nविद्युद्भिरिवनद्धानिमेघजालानिघ���्मगे ।।6.75.22।।",
+      "transliteration": "",
+      "translation": "The archways covered with a touch of fire shone like lightning in summer, girt round like clusters of clouds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "ज्वलनेनपरीतानिनिपेतुर्भवनान्वथ ।\nवज्रिवज्रहतानीवशिखराणिमहागिरेः ।।6.75.23।।",
+      "transliteration": "",
+      "translation": "The mansions burnt by fire fell down like a huge mountain struck by a thunderbolt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "विमानेषुप्रसुस्ताश्चदह्यमानावराङ्गनाः ।\nत्यक्ताभरणसर्वाङ्गाहाहेत्युच्चैर्विचुक्रुशुः ।।6.75.24।।",
+      "transliteration": "",
+      "translation": "The lovely women sleeping in burnt mansion tops screamed loudly in desperation saying 'Alas! Oh Oh!' and removing their ornaments.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तत्रचाग्निपरीतानिनिपेतुर्भवनान्यपि ।\nवज्रिवज्रहतानीवशिखराणिमहागिरेः ।।6.75.25।।",
+      "transliteration": "",
+      "translation": "Like peaks of mountains struck by thunderbolt the mansions also fell, caught in fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तानिनिर्दह्यमानानिदूरतःप्रचकाशिरे ।\nहिमवच्छिखराणीवदीप्तौषदिवनानिच ।।6.75.26।।",
+      "transliteration": "",
+      "translation": "As the mansions were burning, they shone like the peaks of Himalayas glowing at a distance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "हर्म्याग्रैर्दह्यमानैश्चज्वालाप्रज्वलितैरपि ।\nरात्रौसादृश्यतेलङ्कापुष्पितैरिवकिंशुकैः ।।6.75.27।।",
+      "transliteration": "",
+      "translation": "While the tops of dwellings were burning, flames were blazing, and Lanka seemed adorned with Kimsuka blossoms.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "हस्त्यध्यक्षैर्गजैर्मुक्तेर्मुक्सैश्चैवतुरङ्गमैः ।\nबभूवलङ्कालोकान्तेभ्रान्तग्राहइवार्णवः ।।6.75.28।।",
+      "transliteration": "",
+      "translation": "In Lanka with the elephants set free, horses set free by the guards, it was like an agitated ocean at the end of the world cycle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "अश्वंमुक्तंगजोदृष्टवाक्वचिद्भीतोऽपसर्पति ।\nभीतोभीतंगजंदृष्टवाक्वचिदश्वोनिवर्तते ।।6.75.29।।",
+      "transliteration": "",
+      "translation": "Some horses that were released, went in different directions afraid of elephants. Some elephants seeing horses ran away in fear.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "लङ्कायांदह्यमानायांशुशुभे स महार्णवः ।\nछायासंसक्तसलिलोलोहितोदइवार्णवः ।।6.75.30।।",
+      "transliteration": "",
+      "translation": "While Lanka was burning its image reflected in the ocean made the ocean look like an ocean of red waters.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "साबभूवमुहूर्तेनहरिभिर्दीपितापुरी ।\nलोकस्यास्यक्ष्येघोरेप्रदीप्तेववसुन्दरा ।।6.75.31।।",
+      "transliteration": "",
+      "translation": "Set fire by the monkeys, in a short while, the city was like a land flaming out of dreadful destruction in the world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "नारीजनस्यधूमेनव्याप्तस्योच्चैर्विनेदुषः ।\nस्वनोज्वलनतप्तस्यशुश्रुवेशतयोजनम् ।।6.75.32।।",
+      "transliteration": "",
+      "translation": "By the smoke that spread, scorched by the fire, the clamour of the women folk at the top of their voice was heard at a hundred yojanas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "प्रदग्धकायानपरान् राक्षसान्निर्गतान् बहिः ।\nसहसाभ्युत्पतन्तिस्महरयोऽथयुयुत्सवः ।।6.75.33।।",
+      "transliteration": "",
+      "translation": "And thereafter the monkeys who were eager to fight assailed the Rakshasas who came out suddenly unable to bear the burning of the bodies.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "उद्घुष्टंवानराणां च राक्षसानां च निस्स्वनः ।\nदिशोदशसमुद्रं च पृथिवींचान्वनादयत् ।।6.75.34।।",
+      "transliteration": "",
+      "translation": "The clamour of the monkeys and the sighing of the Rakshasas resounded in all the ten directions including the ocean as well as the earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "विशल्यौतुमहात्मानौतावुभौरामलक्ष्मणौ ।\nअसम्भ्रान्तौजगृहतुस्तदोभौधनुषीवरे ।।6.75.35।।",
+      "transliteration": "",
+      "translation": "The two great souls, Rama, and Lakshmana, both relieved of pain seized hold of excellent and wellknown bows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "ततोविस्फारयानस्यरामस्यधनुरुत्तमम् ।\nबभूवतुमुलश्शब्दोराक्षसानांभयावहः ।।6.75.36।।",
+      "transliteration": "",
+      "translation": "Then Rama drew the best of bow, that created fear among the Rakshasas by its tumultuous sound.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "अशोभततदारामोधनुर्विष्फारयन् महत् ।\nभगवानिवसङ्कृद्धोभवोवेदमयंधनुः ।।6.75.37।।",
+      "transliteration": "",
+      "translation": "Then, great Rama stretching his bow in great fury shone as though the divine Lord Siva was stretching his bow with imprints of Vedas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "उद्घुष्टंवानराणां च राक्षसानां च निस्स्वनम् ।\nज्याशब्दस्तावुभौशब्दावतिरामस्यशुश्रुवे ।।6.75.38।।",
+      "transliteration": "",
+      "translation": "That sound of the twang of Rama's bow could be heard very high over and above the sounds of the Vanaras and Rakshasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "वानरोद्घुष्टघोषश्चराक्षसानां च निस्स्वनः ।\nज्याशब्दश्चापिरामस्यत्रयंव्याप्यदिशोदश ।।6.75.39।।",
+      "transliteration": "",
+      "translation": "The sound of Rama's bow twang, the clamour of the Vanaras as well as the wailing of Rakshasas, all the three could be heard in all ten directions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "तस्यकार्मुकमुक्सैश्चशरैस्तत्पुरगोपुरम् ।\nकैलासशृङ्गप्रतिमंविशीर्णमपतद्भुवि ।।6.75.40।।",
+      "transliteration": "",
+      "translation": "The entrance gate of Lanka, which was like Kailasa, crumbled and fell by the shaft released from the bow of Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "ततोरामशरान् दृष्टवाविमानेषुगृहेषु च ।\nसन्नाहोराक्षसेन्द्राणांतुमुलस्समपद्यत ।।6.75.41।।",
+      "transliteration": "",
+      "translation": "Seeing Rama's arrows on the highrise mansions and houses, the Rakshasa leaders started preparing for comb at out of fear.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "तेषांसन्नह्यमानानांसिंहनादं च कुर्वताम् ।\nशर्वरीराक्षसेन्द्राणांरौद्रीवसमपद्यत ।।6.75.42।।",
+      "transliteration": "",
+      "translation": "As the Rakshasa leaders were preparing (for attack) and emitting leonine roar, night came upon like the night of Rudra (night of final dissolution).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "आदिष्टावानरेन्द्रास्तेसुग्रीवेणमहात्मना ।\nआसन्नद्वारमासाद्ययुध्यध्वंप्लवगर्षभाः ।।6.75.43।।\nयश्चवोवितथंकुर्वात्तत्रतत्रव्यवस्थितः ।\nस हन्तव्योहिसंफ्लुत्यराजशासनदूषकः ।।6.75.44।।",
+      "transliteration": "",
+      "translation": "Sugriva the great king of Vanaras commanded all the bulls among Vanaras, to encounter after reaching the gate of Lanka. \"He who is staying wherever they are does not obey the king's command will be killed for being guilty of flouting the command\", ordered Sugriva to the Vanaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "तेषुवानरमुखेषुदीप्तोल्कोज्ज्वलपाणिषु ।\nस्थितेषुद्वारमासाद्यरावणंमन्युराविशत् ।।6.75.45।।",
+      "transliteration": "",
+      "translation": "Holding burning torches in hand the Vanara chiefs reached and standing at the gate, saw that Ravana was overtaken by anger.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "तस्यजृम्भितविक्षेपाद्व्यामिश्रावैदिशोदश ।\nरूपवानिवरुद्रस्यमन्युर्गात्रेष्वदृश्यत ।।6.75.46।।",
+      "transliteration": "",
+      "translation": "The ten directions were disturbed violently by his yawning and his wrath was perceptible like Rudra' s form in his limbs by his wrath.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "स निकुम्भं च कुम्भं च कुम्भकर्णात्मजावुभौ ।\nप्रेषयामाससङ्कृद्धोराक्षससैर्बहुभिस्सह ।।6.75.47।।",
+      "transliteration": "",
+      "translation": "Seized with anger, he sent for Kumbha and Nikumbha, both the sons of Kumbhakarna and many Rakshasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "यूपाक्षश्शोणिताक्षश्चप्रजङ्घःकम्पनस्तथा ।\nनिर्ययुःकौम्भकर्णिभ्यांसहरावणशासनात् ।।6.75.48।।",
+      "transliteration": "",
+      "translation": "Yupaksha, Sonithaksha, Prajangha, Kampana set out with both the sons of Kumbhakarna.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "शशासचैवतान् सर्वान्राक्षसान् सुमहाबलान् ।\nराक्षसागच्छताद्यैवसिंहनादं च नादयन् ।।6.75.49।।",
+      "transliteration": "",
+      "translation": "Roaring like a lion, he ordered all the Rakshasas of extraordinary strength to proceed instantly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "ततस्तुचोदितास्तेनराक्षसाज्वलितायुधाः ।\nलङ्कायानिर्ययुर्वीराःप्रणदन्तःपुनःपुनः ।।6.75.50।।",
+      "transliteration": "",
+      "translation": "Ordered by him again and again, the Rakshasa warriors went from Lanka with glowing weapons offering salutations to him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "रक्षसांभूषणस्थाभिर्भाभिस्स्वाभिश्चसर्वशः ।\nचक्रुस्तेसप्रभंव्योमहरयश्चाग्निभिस्सह ।।6.75.51।।",
+      "transliteration": "",
+      "translation": "The Rakshasas by the effulgence of ornaments and by themselves illumined all over the sky like monkeys did with torches.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "तत्रताराधिपस्याभाताराणां च तथैव च ।\nतयोराभरणासा च बलयोर्द्यामभासयन् ।।6.75.52।।",
+      "transliteration": "",
+      "translation": "There the radiance of the moon and stars and the splendour of their ornaments brightened the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "चन्द्राभाभूषणाभा च गृहाणांसागरःपुनः ।\nहरिराक्षससैन्यानिभ्राजयामाससर्वतः ।।6.75.53।।",
+      "transliteration": "",
+      "translation": "The moon light and the splendour of the ornaments, also the light of shining ocean and dwellings lit up the Vanara and Rakshasa armies.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "तत्रचोर्ध्वंप्रदीप्तानांगृहाणांसागरःपुनः ।\nभाभिस्संसक्तसलिलश्चलोर्मिश्शुशुभेऽधिकम् ।।6.75.54।।",
+      "transliteration": "",
+      "translation": "There the waves of the ocean shone brightly getting united with the fire of half burnt houses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "पताकाध्वजसंसक्तमुत्तमासिपरश्वधम् ।\nभीमाश्वरथमातङ्गंनानापततिसमाकुलम् ।।6.75.55।।\nदीप्तशूलगदाखडगप्रासतोमरकार्मुकम् ।\nतद्राक्षसबलंघोरभीमंविक्रमपौरुषम् ।।6.75.56।।\nददृशेज्वलितप्रासंकिङ्किणीशतनादितम् ।\nहेमजालाचितभुजंव्यावेष्टितपरश्वथम् ।।6.75.57।।\nव्याघूर्णितमहाशस्त्रंबाणसंसक्तकार्मुकम् ।\nगन्धमाल्यमधूत्सेकसम्मोदितमहानिलम् ।।6.75.58।।",
+      "transliteration": "",
+      "translation": "Then the Rakshasa army appeared terrific, fixed with flags and poles, equipped with best of axes, horses yoked to formidable chariots and elephants different kinds of foot soldiers, distinguished by wielding shining tridents, maces, swords spears and lances warriors of frightening valour and prowess holding shining barbed missiles hundreds of tiny bells tied to the chariots and elephants making noise  warriors endowed with arms decorated with gold, with axes and weapons to pierce arrows fixed to the bows, with an abundance of fragrance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "घोरंशूरजनाकीर्णंमहाम्बुदरनिस्स्वनम् ।\nतद्दृष्टवाबलमायातंराक्षसानांसुदारुणं ।।6.75.59।।\nसञ्चचालप्लवङ्गानांबलमुच्चैर्ननाद च ।",
+      "transliteration": "",
+      "translation": "Crowded with fierce warriors coming like thundering rainy clouds, the Rakshasas, and the monkey troops coming forward made loud noises with an elevated tone.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "जवेनाफ्लुत्य च पुनस्तद्बलंरक्षसांमहत् ।।6.75.60।।\nअभ्ययात्प्रत्यरिबलंपतङ्गाइवपावकम् ।",
+      "transliteration": "",
+      "translation": "The great army of Rakshasas rushed towards the hostile army just as moths flew up towards flame.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "तेषांभुजपरामर्शव्यामृष्टपरिघाशनि ।।6.75.61।।\nराक्षसानांबलंश्रेष्ठंभूयस्तरमशोभत ।",
+      "transliteration": "",
+      "translation": "Their Clubs and Asanis brandished by rubbing with their arms, the great army of Rakshasas appeared very bright.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "तत्रोन्मत्ताइवोत्पेतुर्हरयोऽथयुयुत्सवः ।।6.75.62।।\nतरुशैलैरभिघ्नन्तोमुष्टिभिश्चनिशाचरान् ।",
+      "transliteration": "",
+      "translation": "Thereafter the monkeys eager to fight with night rangers rose as if gone mad striking the night rangers with trees and rocks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "तथैवापततांतेषांकपीनामसिभिशशितैः ।।6.75.63।।\nशिरांसिसहसाजह्रूराक्षसाभीमदर्शना ।",
+      "transliteration": "",
+      "translation": "When the Rakshasas showed up in that manner, the monkeys approaching them cut off their heads instantly with sharp swords.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "दशनैर्हतकर्णाश्चमुष्टिनिष्कीर्णमस्तकाः ।।6.75.64।।\nशिलाप्रहारभग्���ाङ्गाविचेरुस्तत्रराक्षसाः ।",
+      "transliteration": "",
+      "translation": "The Rakshasas with ears bitten off by the teeth of the monkeys, skulls smashed with fists, and limbs broken with blows of rocks they moved about.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-54",
+      "number": 54,
+      "type": "shloka",
+      "original": "तथैवाप्यपरेतेषांकपीनामभिलक्षिता ।।6.75.65।।\nप्रवीरानभितोजघ्नुर्घोररूपानिशाचराः ।",
+      "transliteration": "",
+      "translation": "In the aforesaid manner the Vanaras struck more night rangers of terrific appearance, great heroes in front of them with sharp swords.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-55",
+      "number": 55,
+      "type": "shloka",
+      "original": "घ्नन्तमन्यंजघानान्यःपातयन्तमपातयत् ।।6.75.66।।\nगर्हमाणंजगर्हेऽन्योदशन्तमपरोऽदशत् ।",
+      "transliteration": "",
+      "translation": "One struck another, who was striking the other. One threw down another who was throwing the other. One abused another reproaching contemptuously, and one bit his rival biting the other.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-56",
+      "number": 56,
+      "type": "shloka",
+      "original": "देहीत्यन्योददात्यन्योददामीत्यपरःपुनः ।।6.75.67।।\nकिंक्लेशयसितिष्ठेतितत्रान्योन्यंबभाषिरे ।",
+      "transliteration": "",
+      "translation": "There they conversed this way with one another 'One said hit me and another one offered to hit,', again another intervened and said, 'Why are you crying?' meaning I offer resistance, one said 'Why are you suffering like this?'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-57",
+      "number": 57,
+      "type": "shloka",
+      "original": "विप्रलम्भितवस्त्रं च विमुक्तकवचायुधम् ।।6.75.68।।\nसमुद्यतमहाप्रासंयष्टिशूलासिसङ्कुलम् ।\nप्रावर्ततमहारौद्रंयुद्धंवानररक्षसाम् ।।6.75.69।।",
+      "transliteration": "",
+      "translation": "Highly enraged Vanaras and Rakshasas fought with them, raiment slipping, shields and weapons dodged, huge lances lifted to fight. They used fists, tridents, spears, and swords.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-58",
+      "number": 58,
+      "type": "shloka",
+      "original": "वानरान्दशसप्तेतिराक्षसाजघ्नुराहवे ।\nराक्षसान्दशसप्तेतिवानराश्चाभ्यपातयन् ।।6.75.70।।",
+      "transliteration": "",
+      "translation": "In that fight the Rakshasas killed the Vanaras at the rate of ten to seven and the Vanaras struck down Rakshasas at the rate of ten to seven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-75-59",
+      "number": 59,
+      "type": "shloka",
+      "original": "विस्रस्तकेशवसनंविध्वस्तकवचध्वजम् ।\nबलंराक्षसमालम्ब्यवानराःपर्यवारयन् ।।6.75.71।।",
+      "transliteration": "",
+      "translation": "The Vanaras surrounded the disturbed Rakshasas, whose hair was ripped off, raiment slipped off, shields and staff posts thrown. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामाणयेआदिकाव्येयुद्धकाण्डेपञ्चसप्ततितमस्सर्गः ।। This is the end of the seventy fifth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

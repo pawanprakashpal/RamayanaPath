@@ -1,0 +1,189 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 7,
+    "title": "King Dasaratha's court and description of the virtues of ministers",
+    "titleSanskrit": "",
+    "totalShlokas": 19
+  },
+  "shlokas": [
+    {
+      "id": "v1-7-1",
+      "number": 1,
+      "type": "shloka",
+      "original": ".\nतस्यामात्या गुणैरासन्निक्ष्वाकोस्तु महात्मन: ।\nमन्त्रज्ञाश्चेङ्गितज्ञाश्च नित्यं प्रियहिते रता: ।।1.7.1।।",
+      "transliteration": "",
+      "translation": "The ministers of the great descendent of the Ikshvakus were endowed with all virtues. They were competent counsellors, skilled in judging motives from facial features and were always intent on doing good and all that was dear and helpful to the king.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-7-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अष्टौ बभूवुर्वीरस्य तस्यामात्या यशस्विन: ।\nशुचयश्चानुरक्ताश्च राजकृत्येषु नित्यश: ।।1.7.2।।",
+      "transliteration": "",
+      "translation": "The mighty and glorious (king Dasaratha) had eight ministers who were free from blemish in their dealings and ever devoted to royal duties.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-7-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "धृष्टिर्जयन्तो विजयस्सिद्धार्थो ह्यर्थसाधक: ।\nअशोको मन्त्रपालश्च सुमन्त्रश्चाष्टमोऽभवत् ।।1.7.3।।",
+      "transliteration": "",
+      "translation": "The eight ministers were Dhrishti, Jayanta,Vijaya, Siddhartha, Arthasadhaka, Ashoka, Mantrapala and Sumantra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-7-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "ऋत्विजौ द्वावभिमतौ तस्याऽऽस्तामृषिसत्तमौ ।\nवसिष्ठो वामदेवश्च मन्त्रिणश्च तथापरे ।।1.7.4।।",
+      "transliteration": "",
+      "translation": "He had two wellchosen excellent rishis, Vasishta and Vamadeva, as family priests besides some other counsellors.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-7-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "विद्याविनीता ह्रीमन्त: कुशला नियतेन्द्रिया: ।\nश्रीमन्तश्च महात्मानश्शास्त्रज्ञा दृढविक्रमा: ।।1.7.5।। \nकीर्तिमन्त: प्रणिहिता: यथावचनकारिण: ।\nतेज: क्षमायश:प्राप्ता स्मितपूर्वाभिभाषिण: ।।1.7.6।।",
+      "transliteration": "",
+      "translation": "They were welleducated in all branches of knowledge and deemed unjust acts shameful. They were renowned, proficient, versed in sastras, wealthy and magnanimous. They had their senses restrained and their deeds were in accordance with their words. They acted with determination. They were brilliant, forgiving and reputed. And always spoke with a smile.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-7-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "क्रोधात्कामार्थहेतोर्वा न ब्रूयुरनृतं वच: । \nतेषामविदितं किञ्चित्स्वेषु नास्ति परेषु वा ।\nक्रियमाणं कृतं वापि चारेणापि चिकीर्षितम् ।।1.7.7।।",
+      "transliteration": "",
+      "translation": "Either in anger or for pecuniary gains or for fulfilment of desire, they never uttered an untrue or unjust word. In the midst of their own people or among their enemies, they knew, through spies everything being done or had been done or intended to be done in future.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-7-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "कुशला व्यवहारेषु सौहृदेषु परीक्षिता: ।\nप्राप्तकालं तु ते दण्डं धारयेयुस्सुतेष्वपि ।।1.7.8।।",
+      "transliteration": "",
+      "translation": "They knew how to deal (with people). They were true to their friends. They used to impose appropriate punishment even on their own sons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-7-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "कोशसङ्ग्रहणे युक्ता बलस्य च परिग्रहे ।\nअहितं चापि पुरुषं न विहिंस्युरदूषकम् ।।1.7.9।।",
+      "transliteration": "",
+      "translation": "They were experts in replenishing the exchequer and in collecting the army. They never inflicted any punishment even on those who were not their wellwishers, if they did not commit any offence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-7-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "वीराश्च नियतोत्साहा राजशास्त्रमनुष्ठिता: ।\nशुचीनां रक्षितारश्च नित्यं विषयवासिनाम् ।।1.7.10।।",
+      "transliteration": "",
+      "translation": "They were heroic. They possessed steady perseverance. They followed the state policy and always protected the virtuous people living in the state.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-7-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "ब्रह्म क्षत्रमहिंसन्तस्ते कोशं समपूरयन् ।\nसुतीक्ष्णदण्डास्संप्रेक्ष्य पुरुषस्य बलाबलम् ।।1.7.11।।",
+      "transliteration": "",
+      "translation": "While ensuring that they did not cause pain to brahmanas and kshatriyas (in thought, word and deed), they filled the treasury. They inflicted stringent punishments on a man after examining his strength and weakness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-7-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "शुचीनामेकबुद्धीनां सर्वेषां सम्प्रजानताम् ।\nनासीत्पुरे वा राष्ट्रे वा मृषावादी नर: क्वचित् ।।1.7.12।।",
+      "transliteration": "",
+      "translation": "While the ministers of chaste conduct administered the kingdom with unanimous decisions, there was no one who was a liar, either in the city or in the kingdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-7-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "कश्चिन्न दुष्टस्तत्रासीत्परदाररतो नर: ।\nप्रशान्तं सर्वमेवासीद्राष्ट्रं पुरवरं च तत् ।।1.7.13।।",
+      "transliteration": "",
+      "translation": "In that kingdom no one was wicked or enamoured of others' wives. Serenity prevailed over the entire kingdom including the city of excellence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-7-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "सुवाससस्सुवेषाश्च ते च सर्वे सुशीलिन: ।\nहितार्थं च नरेन्द्रस्य जाग्रतो नयचक्षुषा ।।1.7.14।।",
+      "transliteration": "",
+      "translation": "They all were welldressed in fine clothes. They possessed good character with an eye on justice and vigilant about the king's welfare.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-7-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "गुरोर्गुणगृहीताश्च प्रख्याताश्च पराक्रमे ।\nविदेशेष्वपि विज्ञातास्सर्वतो बुद्धिनिश्चयात् ।।1.7.15।।",
+      "transliteration": "",
+      "translation": "They imbibed virtues from the elderlies. They were renowned in prowess. They were guided by their intellect in all affairs. They were wellknown everywhere.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-7-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "सन्धिविग्रहतत्त्वज्ञा: प्रकृत्या सम्पदान्विता: ।।1.7.16।।\nमन्त्रसंवरणे शक्ताश्श्लक्ष्णास्सूक्ष्मासु बुद्धिषु ।\nनीतिशास्त्रविशेषज्ञास्सततं प्रियवादिन: ।।1.7.17।।",
+      "transliteration": "",
+      "translation": "The ministers were inherently well aware of the real nature of peace or war. They were affluent, adept in keeping secrecy and sharp in comprehending the points (before making any decision). They were experts in the science of ethics and morality. They always spoke  pleasing words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-7-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "ईदृशैस्तैरमात्यैस्तु राजा दशरथोऽनघ: ।\nउपपन्नो गुणोपेतैरन्वशासद्वसुन्धराम् ।।1.7.18।।",
+      "transliteration": "",
+      "translation": "The faultless king Dasaratha, with the assistance of such ministers endowed with virtues, ruled the earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-7-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अवेक्षमाणश्चारेण प्रजा धर्मेण रञ्जयन् ।\nप्रजानां पालनं कुर्वन्नधर्मान्परिवर्जयन् ।।1.7.19।। \nविश्रुतस्त्रिषु लोकेषु वदान्यस्सत्यसङ्गर: ।\nस तत्र पुरुषव्याघ्रश्शशास पृथिवीमिमा���् ।।1.7.20।।",
+      "transliteration": "",
+      "translation": "In the three worlds he (Dasaratha) was acclaimed in the three words as munificient and upholder of truth, a tiger among men, who ruled protecting and guarding the people through spies. He. ruled the kingdom with righteousness by deserting irreligious and keeping the subjects happy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-7-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "नाध्यगच्छद्विशिष्टं वा तुल्यं वा शत्रुमात्मन: ।\nमित्रवान्नतसामन्त: प्रतापहतकण्टक: ।।1.7.21।।\nस शशास जगद्राजा दिवं देवपतिर्यथा ।",
+      "transliteration": "",
+      "translation": "The king (Dasaratha) had many friends. All the tributary kings were obedient to him. He killed his enemies with his might. There was no foe who was either superior to or equal to him. He ruled the world as Indra ruled the heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-7-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तैर्मन्त्रिभिर्मन्त्रहिते नियुक्तै\nर्वृतोऽनुरक्तै: कुशलैस्समर्थै: ।\nस पार्थिवो दीप्तिमवाप युक्त\nस्तेजोमयैर्गोभिरिवोदितोऽर्क: ।।1.7.22।।",
+      "transliteration": "",
+      "translation": "Accompanied by the ministers who were devoted to his welfare, adept in counselling, skilful, capable and loyal towards him, the king acquired glory like the rising Sun with luminous rays. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे सप्तमस्सर्ग: ।।  Thus ends the seventh sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

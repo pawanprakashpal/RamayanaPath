@@ -1,0 +1,450 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 2,
+    "title": "Dasaratha commends to the assembly of elders and counsellors for installation of Rama as Prince Regent-- Assembly approves the proposal of Dasaratha with delight describing the virtues of Rama in support of their approval.",
+    "titleSanskrit": "",
+    "totalShlokas": 48
+  },
+  "shlokas": [
+    {
+      "id": "v2-2-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततः परिषदं सर्वामामन्त्र्य वसुधाधिपः।\nहितमुद्धर्षणं चैवमुवाच प्रथितं वचः।।2.2.1।।",
+      "transliteration": "",
+      "translation": "Thereafter, the lord of the earth (king Dasaratha) addressed the entire assembly of  invitees. He spoke these pleasing words aimed at their welfare which thrilled and delighted the hearts (of the assembled kings):",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "दुन्दुभिस्वनकल्पेन गम्भीरेणानुनादिना।\nस्वरेण महता राजा जीमूत इव नादयन्।।2.2.2।।\nराजलक्षणयुक्तेन कान्तेनानुपमेन च।\nउवाच रसयुक्तेन स्वरेण नृपतिर्नृपान्।।2.2.3।।",
+      "transliteration": "",
+      "translation": "Lord of men (king Dasaratha) addressed the feudatory kings with words deep, resonant, loud like the kettledrum or the rumbling cloud, in a delightful, incomparable and attractive voice that carried all the dignity of royalty:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "विदितं भवतामेतद्यथा मे राज्यमुत्तमम्।\nपूर्वकैर्मम राजेन्द्रैस्सुतवत्परिपालितम्।।2.2.4।।",
+      "transliteration": "",
+      "translation": "It is wellknown to all of you that people of this greatest kingdom were ruled by my predecessors who were great kings, who looked after the subjects as though they were their own children.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "सोऽहमिक्ष्वाकुभि स्सर्वैर्नरेन्द्रैः परिपालितम्।\nश्रेयसा योक्तुकामोऽस्मि सुखार्हमखिलं जगत्।।2.2.5।।",
+      "transliteration": "",
+      "translation": "I desire to  accomplish the welfare of this entire world which deserves the happiness brought about by the rule of all the Ikshvaku kings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "मयाप्याचरितं पूर्वैः पन्थानमनुगच्छता।\nप्रजा नित्यमनिद्रेण यथाशक्त्यभिरक्षिताः।।2.2.6।।",
+      "transliteration": "",
+      "translation": "Following the path of my forefathers I protected the people to the best of my ability by being ever vigilant.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "इदं शरीरं कृत्स्नस्य लोकस्य चरता हितम्।\nपाण्डुरस्याऽतपत्रस्यच्छायायां जरितं मया।।2.2.7।।",
+      "transliteration": "",
+      "translation": "My body has attained old age after ruling the entire world ensuring the welfare of the people under the shade of royal white parasol.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "प्राप्य वर्षसहस्राणि बहून्यायूंषि जीवतः।\nजीर्णस्यास्य शरीरस्य विश्रान्तिमभिरोचये।।2.2.8।।",
+      "transliteration": "",
+      "translation": "Having lived for thousands of years this body is now worn out  due to old age and therefore I want rest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "राजप्रभ��वजुष्टां हि दुर्वहामजितेन्द्रियैः।\nपरिश्रान्तोऽस्मि लोकस्य गुर्वीं धर्मधुरं वहन्।।2.2.9।।",
+      "transliteration": "",
+      "translation": "I am weary of carrying on the heavy burden of duty and find it difficult to sustain the rule of dharma. It can be shouldered by those who have royal qualities (of might, courage etc) and not by those who have not controlled their senses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "सोऽहं विश्रममिच्छामि पुत्रं कृत्वा प्रजाहिते।\nसन्निकृष्टानिमान्सर्वाननुमान्य द्विजर्षभान्।।2.2.10।।",
+      "transliteration": "",
+      "translation": "Therefore, after convincing all of you, the best of (learned) brahmins present here, I intend to take rest by installing my son to look after the welfare of the people.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अनुजातो हि मां सर्वैर्गुणैर्ज्येष्ठो ममात्मजः।\nपुरन्दरसमो वीर्ये रामः परपुरञ्जयः।।2.2.11।।",
+      "transliteration": "",
+      "translation": "My eldest son Rama, inheriting every virtue of mine, is a conqueror of enemy cities  and is equal to Indra in prowess.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तं चन्द्रमिव पुष्येण युक्तं धर्मभृतां वरम्।\nयौवराज्ये नियोक्ताऽस्मि प्रीतः पुरुषपुङ्गवम्।।2.2.12।।",
+      "transliteration": "",
+      "translation": "I propose to install him (Rama), foremost among upholders of righteousness and the best of men who resembles the Moon in brightness when in conjunction with Pushya star, as heirapparent to the throne.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अनुरूपस्स वै नाथो लक्ष्मीवान् लक्ष्मणाग्रजः।\nत्रैलोक्यमपि नाथेन येन स्यान्नाथवत्तरम्।।2.2.13।।",
+      "transliteration": "",
+      "translation": "With him (Rama) as ruler, all the three worlds will also have a better protector.That elder brother of Lakshmana with signs of greatness is certainly the most befitting to rule this kingdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "अनेन श्रेयसा सद्यस्संयोज्यैवमिमां महीम्।\nगतक्लेशो भविष्यामि सुते तस्मिन्निवेश्य वै।।2.2.14।।",
+      "transliteration": "",
+      "translation": "I shall be relieved of my anxiety  by entrusting the land (ruled by me) to my son (Rama) without any more delay and thus ensure the continued welfare of this world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "यदिदं मेऽनुरूपार्थं मया साधु सुमन्त्रितम्।\nभवन्तो मेऽनुमन्यन्तां कथं वा करवाण्यहम्।।2.2.15।।",
+      "transliteration": "",
+      "translation": "Although it (this decision) is personally favourable to me and I have decided after seeking good counsel, you should also give me your consent and tell me what I should do.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "यद्यप्येषा मम प्रीतिर्हितमन्यद्विचिन्त्यताम्।\nअन्या मध्यस्थचिन्ता हि विमर्दाभ्यधिकोदया।।2.2.16।।",
+      "transliteration": "",
+      "translation": "Although this is what I would like to do, please suggest alternative ways of achieving the welfare (of this kingdom). Deliberations by the unbiased (on this issue) may bring good.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "इति ब्रुवन्तं मुदिताः प्रत्यनन्दन्नृपा नृपम्।\nवृष्टिमन्तं महामेघं नर्दन्त इव बर्हिणः।।2.2.17।।",
+      "transliteration": "",
+      "translation": "Having thus heard king Dasaratha speak, the kings acclaimed him with delight, like peacocks crying (in joy) to see thick clouds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "स्निग्धोऽनुनादी संजज्ञे तत्र हर्षसमीरितः।\nजनौघोद्घुष्टसन्नादो विमानं कम्पयन्निव।।2.2.18।।",
+      "transliteration": "",
+      "translation": "There emanated cries of love and joy from the multitude of people (conveying their approval) whose reverberation seemed to shake the palace.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तस्य धर्मार्थविदुषो भावमाज्ञ���य सर्वशः।\nब्राह्मणा जनमुख्याश्च पौरजानपदै स्सह।।2.2.19।।\nसमेत्य मन्त्रयित्वा तु समतागतबुद्धयः।\nऊचुश्च मनसा ज्ञात्वा वृद्धं दशरथं नृपम्।।2.2.20।।",
+      "transliteration": "",
+      "translation": "Brahmins, kings and other prominent men, inhabitants of towns and villages  having  fully known the views of Dasaratha who was conversant with artha and dharma  joined together and deliberated. They thought out well and having arrived at unanimity in their thinking thus addressed the aged king Dasaratha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "अनेकवर्षसाहस्रो वृद्धस्त्वमसि पार्थिव।\nस रामं युवराजानमभिषिञ्चिस्व पार्थिवम्।।2.2.21।।",
+      "transliteration": "",
+      "translation": "O mighty king, you have grown many thousands of years old. Therefore, you should coronate Rama as prince regent of this kingdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "इच्छामो हि महाबाहुं रघुवीरं महाबलम्।\nगजेन महताऽयान्तं रामं छत्रावृताननम्।।2.2.22।।",
+      "transliteration": "",
+      "translation": "We cherish to see the mightyarmed hero among the Raghus, Rama, riding on a majestic elephant, his countenance shadowed by the royal parasol.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "इति तद्वचनं श्रुत्वा राजा तेषां मनःप्रियं।\nअजानन्निव जिज्ञासुरिदं वचनमब्रवीत्।।2.2.23।।",
+      "transliteration": "",
+      "translation": "Having heard them king Dasaratha, pretending as though he was not aware of their heart's desire but was now wishing to ascertain it, spoke these words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "श्रुत्वैव वचनं यन्मे राघवं पतिमिच्छथ।\nराजान स्संशयोऽयं मे किमिदं ब्रूत तत्त्वतः।।2.2.24।।",
+      "transliteration": "",
+      "translation": "O kings, soon after listening to my words, all of you wish Rama to be king. (But) I doubt (in my mind) whether you have said it from your heart৷৷",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "कथं नु मयि धर्मेण पृथिवीमनुशासति।\nभवन्तो द्रष्टुमिच्छन्ति युवराजं ममात्मजम्।।2.2.25।।",
+      "transliteration": "",
+      "translation": "When the earth is being ruled righteously by me why indeed you intend to see my son as prince regent?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "ते तमूचुर्महात्मानं पौरजानपदैस्सह।\nबहवो नृप कल्याणा गुणाः पुत्रस्य सन्ति ते।।2.2.26।।",
+      "transliteration": "",
+      "translation": "Those kings along with the inhabitants of towns and villages answered the  magnanimous king: O king your son, indeed has many auspicious and admirable  virtues.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "गुणान् गुणवतो देव देवकल्पस्य धीमतः।\nप्रियानानन्दनान्कृत्स्नान्प्रवक्ष्यामोऽद्य तान् शृणु।।2.2.27।।",
+      "transliteration": "",
+      "translation": "O king, we shall now speak about those great virtues of the sagacious (Rama). Comparable to those of the gods, they are dear and a source of delight for every one. Please listen.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "दिव्यैर्गुणैश्शक्रसमो रामस्सत्यपराक्रमः।\nइक्ष्वाकुभ्योऽपि सर्वेभ्यो ह्यतिरिक्तो विशांपते।।2.2.28।।",
+      "transliteration": "",
+      "translation": "Lord of the people Rama with his divine virtues is equal to Indra. He with his  proven valour is exceptional among all the descendents of the Iksvakus.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "राम स्सत्पुरुषो लोके सत्यधर्मपरायणः।\nसाक्षाद्रामाद्विनिर्वृत्तो धर्मश्चापि श्रिया सह।।2.2.29।।",
+      "transliteration": "",
+      "translation": "Devoted to truth and righteousness Rama is the most venerable among men in this world. Even righteousness along with prosperity flows directly from Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "प्रजासुखत्त्वे चन्द्रस्य वसुधायाः क्षमागुणैः।\nबुद्ध्या बृहस्पतेस्तुल्यो वीर्ये साक्षाच्छचीपतेः।।2.2.30।।",
+      "transliteration": "",
+      "translation": "He is equal to the Moon in causing happiness to the people, to the earth in forbearance, to Brihaspati in wisdom and to Indra in prowess.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "धर्मज्ञः सत्यसन्धश्च शीलवाननसूयकः।\nक्षान्तः सान्त्वयिता श्लक्ष्णः कृतज्ञो विजितेन्द्रियः।।2.2.31।।",
+      "transliteration": "",
+      "translation": "Rama knows the ways of righteousness. He is true to his word and free from envy. He possesses a sound character with forbearance, gentleness and a sense of gratitude. With his senses under control, he is a source of consolation (in stressful times).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "मृदुश्च स्थिरचित्तश्च सदा भव्योऽनसूयकः।\nप्रियवादी च भूतानां सत्यवादी च राघवः।।2.2.32।।\nबहुश्रुतानां वृद्धानां ब्राह्मणानामुपासिता।\nतेनास्येहाऽतुला कीर्तिर्यशस्तेजश्च वर्धते।।2.2.33।।",
+      "transliteration": "",
+      "translation": "This son of the Raghus (Rama) is softspoken, steadfast, always serene, truthful and  free from envy. He is pleasing to all beings. He serves those elderly brahmins versed in many lores. With these virtues his incomparable glory, fame and splendour have steadily grown.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "देवासुरमनुष्याणां सर्वास्त्रेषु विशारदः।\nसम्यग्विद्याव्रतस्नातो यथावत्साङ्गवेदवित्।।2.2.34।।",
+      "transliteration": "",
+      "translation": "He is an expert in wielding all kinds of weapons available to devas, asuras and  men. He has achieved mastery over all sciences and has appropriately acquired knowledge of the Vedas and its ancillary sciences.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "गान्धर्वे च भुवि श्रेष्ठो बभूव भरताग्रजः।\nकल्याणाभिजन स्साधुरदीनात्मा महामतिः।।2.2.35।।",
+      "transliteration": "",
+      "translation": "This elder brother of Bharata is the greatest exponent in music on earth. Pious, sagacious, free from meanness, he is of noble descent.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "द्विजैरभिविनीतश्च श्रेष्ठैर्धर्मार्थनैपुणैः।\nयदा व्रजति सङ्ग्रामं ग्रामार्थे नगरस्य वा।।2.2.36।।\nगत्वा सौमित्रिसहितो नाऽविजित्य निवर्तते।",
+      "transliteration": "",
+      "translation": "Whenever he, wellinstructed in all matters by the best of brahmins wellversed in dharma and artha proceeds along with Lakshmana to wage a war for the sake of a village or a town, he never returns without conquering the enemy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "सङ्ग्रामात्पुनरागम्य कुञ्जरेण रथेन वा।2.2.37।।\nपौरान् स्वजनवन्नित्यं कुशलं परिपृच्छति।।\nपुत्रेष्वग्निषु दारेषु प्रेष्यशिष्यगणेषु च।2.2.38।।\nनिखिलेनानुपूर्व्याच्च पितापुत्रानिवौरसान्।।",
+      "transliteration": "",
+      "translation": "While returning from the battlefield, either on a chariot or an elephant Rama stops and  enquires in detail and in order, the welfare of the citizens as he would do for his kith and kin. He enquires about the welfare of their children, sacred  rituals, wives, their servants and disciples as a father would enquire of his sons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "शुश्रूषन्ते च व श्शिष्याः कच्चित्कर्मसु दंशिताः।।2.2.39।।\nइति नः पुरुषव्याघ्र स्सदा रामोऽभिभाषते।",
+      "transliteration": "",
+      "translation": "Rama, a tiger among men, always enquires whether our disciples discharge their duties.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "व्यसनेषु मनुष्याणां भृशं भवति दुःखितः।।2.2.40।।\nउत्सवेषु च सर्वेषु पितेव परितुष्यति।",
+      "transliteration": "",
+      "translation": "He grieves profoundly whenever people are afflicted by misfortunes (and) rejoices like a father on festive occasions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "सत्यवादी महेष्वासो वृद्धसेवी जितेन्द्रियः।।2.2.41।।\nस्मितपूर्वाभिभाषी च धर्मं सर्वात्मना श्रितः।",
+      "transliteration": "",
+      "translation": ". He is one who speaks the truth. He is a great archer, one who has conquered his senses and serves the aged. He speaks with a  smile and protects dharma with all his heart.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "सम्यग्योक्ता श्रेयसां च न विगृह्य कथारुचिः।।2.2.42।।\nउत्तरोत्तरयुक्तौ च वक्ता वाचस्पतिर्यथा।",
+      "transliteration": "",
+      "translation": "He helps those who take refuge in him. He is not  interested in conversation leading to  dissentions. But during debates he is eloquent like Brihaspati (establing the truth on the basis of reasoning).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "सुभ्रूः आयतताम्राक्षः साक्षाद्विष्णुरिव स्वयम्।।2.2.43।।\nरामो लोकाभिरामोऽयं शौर्यवीर्यपराक्रमैः।",
+      "transliteration": "",
+      "translation": "Rama, who is the source of delight to the world, has charming eyebrows and large coppercoloured eyes. He is endowed with heroism, bravery and valour like Visnu manifested.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "प्रजापालनतत्त्वज्ञो न रागोपहतेन्द्रियः।।2.2.44।।\nशक्तस्त्रैलोक्यमप्येको भोक्तुं किन्नु महीमिमाम्।",
+      "transliteration": "",
+      "translation": "He is proficient in the ways and means of ruling the people. His senses are not overpowered by passion. He alone is capable of ruling the three worlds, what to speak the earth",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "नास्य क्रोधः प्रसादश्च निरर्थोऽस्ति कदाचन।।2.2.45।।\nहन्त्येव नियमाद्वध्यानवध्ये न च कुप्यति।",
+      "transliteration": "",
+      "translation": "His anger or favour never goes in vain. He kills those who rightly deserve to be killed  and flares not at those whose life is to be spared.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "युनक्त्यर्थैः प्रहृष्टश्च तमसौ यत्र तुष्यति।।2.2.46।।\nशान्तै स्सर्वप्रजाकान्तैः प्रीतिसञ्जननैर्नृणाम्।\nगुणैर्विरुरुचे रामो दीप्त स्सूर्य इवांशुभिः।।2.2.47।।",
+      "transliteration": "",
+      "translation": "When pleased, Rama bestows wealth. Like the Sun shining with his rays, He shines  with his qualities of tranquil, charming and loving nature.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "तमेवं���ुणसम्पन्नं रामं सत्यपराक्रमम्।\nलोकपालोपमं नाथमकामयत मेदिनी।।2.2.48।।",
+      "transliteration": "",
+      "translation": "The earth desired to have Rama, richly endowed with such virtues, possessing proven  prowess, comparable to Indra and other regents of the world, as her lord.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "वत्सश्श्रेयसि जातस्ते दिष्ट्याऽसौ तव राघव।\nदिष्ट्या पुत्रगुणैर्युक्तो मारीच इव काश्यपः।।2.2.49।।",
+      "transliteration": "",
+      "translation": "O son of the Raghus (Dasaratha), because of  your good  fortune that Rama, endowed with the qualities of an ideal son like Kasyapa to Maricha was born to you for the welfare of this world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "बलमारोग्यमायुश्च रामस्य विदितात्मनः।\nदेवासुरमनुष्येषु सगन्धर्वोरगेषु च।।2.2.50।।\nआशंसते जनस्सर्वो राष्ट्रे पुरवरे तथा।\nआभ्यन्तरश्च बाह्यश्च पौरजानपदो जनः।।2.2.51।।",
+      "transliteration": "",
+      "translation": "Gandharvas, uragas, devas, asuras, the inhabitants of towns and villages, all men living in neighbouring or distant regions are wish the illustrious Rama strength, health and long life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "स्त���रियो वृद्धास्तरुण्यश्च सायं प्रातस्समाहिताः।\nसर्वान् देवान् नमस्यन्ति रामस्यार्थे यशस्विनः।।2.2.52।।",
+      "transliteration": "",
+      "translation": "Women, young and old alike devoutly invoke at dusk and at dawn all the gods for the sake of the celebrated Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "तेषामायाचितं देव त्वत्प्रसादात्समृद्ध्यताम्।\nराममिन्दीवरश्यामं सर्वशत्रुनिबर्हणम्।।2.2.53।।\nपश्यामो यौवराज्यस्थं तव राजोत्तमात्मजम्।",
+      "transliteration": "",
+      "translation": "O Lord let the peoples' prayer be fulfilled by your blessings. We would like to see your son Rama of the complexion of a bluelotus and destroyer of enemies as prince regent.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-2-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "तं देव देवोपममात्मजं ते\nसर्वस्य लोकस्य हिते निविष्टम्।\nहिताय नः क्षिप्रमुदारजुष्टं\nमुदाऽभषेक्तुं वरद त्वमर्हसि।।2.2.54।।",
+      "transliteration": "",
+      "translation": "O bestower of boons it behoves you to install with delight and without delay your son (Rama) endowed with all virtues equal to god of the gods and committed to our wellbeing and to the welfare of this world, as your heirapparent.  इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे द्वितीयस्सर्गः।। Thus ends the second sarga of Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

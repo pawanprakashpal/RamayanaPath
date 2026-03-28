@@ -1,0 +1,333 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 117,
+    "title": "At the command of Sri Rama, Vibheeshana escorts Sita to Rama's presence.",
+    "titleSanskrit": "",
+    "totalShlokas": 35
+  },
+  "shlokas": [
+    {
+      "id": "v6-117-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "स उवाचमहाप्रामस्सोऽभिवाद्यप्लवङ्गमः ।\nरामंवचनमर्थज्ञोव��ंसर्वधनुष्मताम् ।।6.117.1।।",
+      "transliteration": "",
+      "translation": "Highly learned Hanuman greeted and spoke meaningfully to Rama, the foremost among the wielders of bow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "यन्निमित्तोऽयमारम्बःकर्मणांयःफलोदयः ।\nतांदेवींशोकसन्तप्तांद्रष्टुमर्हसिमैथिलीम् ।।6.117.2।।",
+      "transliteration": "",
+      "translation": "\"You ought to see that noble lady Mythili, who was immersed in grief, for whose sake these actions were started and has borne fruit.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "साहिशोकसमाविष्टाबाष्पपर्याकुलेक्षणा ।\nमैथिलीविजयंश्रुत्वाद्रष्टुंत्वामभिकाङ्क्षति ।।6.117.3।।",
+      "transliteration": "",
+      "translation": "\"Mythili who is overcome with grief on hearing your victory, was filled with tears in her eyes and desired to see you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "पूर्वकात्प्रत्ययाच्चाहमुक्तोविश्वस्तयातया ।\nभर्तारंद्रष्टुमिच्छामिकृतार्थंसहलक्ष्मणम् ।।6.117.4।।",
+      "transliteration": "",
+      "translation": "\"In an earlier occasion having known me and trusting me expressed that she desires to see Rama with Lakshmana after victory and with gratitude.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "एवमुक्तोहनुमतारामोधर्मभृतांवरः ।\nआगच्छत्सहसाध्यानमीषद्भाष्पपरिप्लुतः ।।6.117.5।।",
+      "transliteration": "",
+      "translation": "When Hanuman had spoken like that, Rama, the upholder of righteousness, shed tears slightly and suddenly became thoughtful.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "दीर्घमुष्णंविनिःश्वस्यजगतीमवलोकयन् ।\nउवाचमेघसङ्काशंविभीषणमुपस्थितम् ।।6.117.6।।",
+      "transliteration": "",
+      "translation": "Drawing a long hot breath, looking at the ground, he spoke to Vibheeshana, who was like a cloud standing there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "दिव्याङ्गरागांवैदेहींदिव्याभरणभूषिताम् ।\nइहसीतांशिरःस्नातामुपस्थापयमाचिरम् ।।6.117.7।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "एवमुक्तस्तुरामेणत्वरमाणोविभीषणः ।\nप्रविश्यान्तःपुरंसीतांस्त्रीभिस्स्वाभिरोचदयत् ।।6.117.8।।",
+      "transliteration": "",
+      "translation": "When Rama had spoken in that manner, Vibheeeshana for his part hastened to the Gynaeceum and assigned through the women to convey to Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "ततस्सीतांमहाभागांदृष्टवोवाचविभीषणः ।\nमूर्ध्निबद्धाञ्जलिश्रीमान्विनीतोराक्षसेश्वरः ।।6.117.9।।",
+      "transliteration": "",
+      "translation": "Then Vibheeshana, the prosperous Lord of the Rakshasas seeing Sita greeted her with palms joined together lifted it over his head (as a sign of respect).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "दिव्याङ्गरागावैदेहीदिव्याभरणभूषिता ।\nयानमारोहभद्रंतेभर्तात्वांद्रष्टुमिच्छति ।।6.117.10।।",
+      "transliteration": "",
+      "translation": "\"Vaidehi! Anointed with a wonderful fragrance, decked with beautiful ornaments, auspicious and ascending the palanquin, your husband desires to see you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "एवमुक्तातुवैदेहीप्रत्युवाचविभीषणम् ।\nअस्नात्वाद्रष्टुमिच्छामिभर्तारंराक्षसेश्वर ।।6.117.11।।",
+      "transliteration": "",
+      "translation": "Vibheeshana, having spoken that way, Vaidehi said to the Lord of Rakshasas that she would like to see him without having a bath.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "तस्यास्तद्वचनंश्रुत्वाप्रत्युवाचविभीषणः ।\nयथाहरामोभहर्तातेतत्तथाकर्तुमार्हसिमार्हसि ।।6.117.12।।",
+      "transliteration": "",
+      "translation": "Hearing Sita's words Vibheeshana replied saying,\" You will and ought to do what your husband Rama has said.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तस्यतद्वचनंश्रुत्वामैथिलीपतिदेवता ।\nभर्तृभक्त्यावृतासाध्वीतथेतिप्रत्यभाषत ।।6.117.13।।",
+      "transliteration": "",
+      "translation": "Noble Mythili (on hearing Vibheeshana), who looked upon her husband as God, said in reply, 'Alright'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "ततस्सीतांशिरःस्नातांसंयुक्तांप्रतिकर्मणा ।\nमहार्हाभरणोपेतांमहार्हाम्बरधारिणीम् ।।6.117.14।।\nआरोप्यशिबिकांदीप्तांपरार्घ्याम्बरसम्वृताम् ।\nराक्षसैर्भहुभिर्गुप्तामाजहारविभीषणः ।।6.117.15।।",
+      "transliteration": "",
+      "translation": "Thereafter Vibheeshana, making Sita to ascend the palanquin, covered with valuable clothes and guarded by numerous Rakshasas after she adorned herself in the best of ornaments and put on glowing wonderful clothes brought to Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "सोऽभिगम्यमहात्मानंज्ञा��ावपिध्यानमास्थितम् ।\nप्रणतश्चप्रहृष्टश्चप्राप्तांसीतांन्यवेदयत�� ।।6.117.16।।",
+      "transliteration": "",
+      "translation": "Knowing that Sita reached also, great Rama was seen in a meditative mood absorbed in thought. Vibheeshana announced saying, 'Sita has been brought' and greeted with folded palms, full of joy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तामागतामुपश्रुत्यरक्षोगृहचिरोषिताम् ।\nहर्षोदैन्यंच रोषश्चत्रयंराघवमाविशत् ।।6.117.17।।",
+      "transliteration": "",
+      "translation": "On hearing that Sita had arrived, who stayed in Rakshasa's abode for long, Raghava had experienced joy, indignation, and anger, all the three at the same time.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "ततःपार्श्वगतंदृष्टवासविमर्शंविचारयन् ।\nविभीषणमिदंवाक्यमहृष्टोराघवोऽब्रवीत् ।।6.117.18।।",
+      "transliteration": "",
+      "translation": "Raghava, analysed with in him, distressed and thinking deeply, seeing Vibheeshana close by, spoke these words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "राक्षसाधिपतेसौम्यनित्यंमद्विजयेरत ।\nवैदेहीसंनिकर्षंमेशीघ्रंसमुपगच्छतु ।।6.117.19।।",
+      "transliteration": "",
+      "translation": "\"O gentle Vibheeshana, let Sita who sought my victory always be quickly brought near me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तस्यतद्वचनंश्रुत्वाराघवस्यविभीषणः ।\nतूर्णमुत्सारणंतत्रकारयामासधर्मवित् ।।6.117.20।।",
+      "transliteration": "",
+      "translation": "On hearing Raghava's words, faithful Vibheeshana instantly assigned people to disperse from there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "कञ्चुकोष्णीषिणस्तत्रवेत्रजर्जरपाणयः ।\nउत्सारयन्तस्तान्योधान्समन्तात् परिचक्रमुः ।।6.117.21।।",
+      "transliteration": "",
+      "translation": "Then those who were wearing coats and turbans, holding staffs in hand, warriors started moving and dispersed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "ऋक्षाणांवानराणां च राक्षसानां च सर्वशः ।\nवृन्दान्युत्सार्यमाणानिदूरमुत्तस्थुरन्ततः ।।6.117.22।।",
+      "transliteration": "",
+      "translation": "The hordes of Bears, Vanaras and Rakshasas moving about all over there were driven away to a distance from the vicinity.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तेषामुत्सार्यमाणानांनिःस्वनःसुमहानभूत् ।\nवायुनोद्धूयामानस्यसागरस्येवनिःस्वनः ।।6.117.23।।",
+      "transliteration": "",
+      "translation": "The great sound heard there was like the uproar of an ocean lashed by a storm.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "उत्सार्यमाणान् दृष्टवाथजगत्यांजातसम्भ्रमान् ।\nदाक्षिण्यात्तदमर्षाच्चवारयामासराघवः ।।6.117.24।।",
+      "transliteration": "",
+      "translation": "Seeing them excited to know and dispersing, Raghava stopped them out of kindness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "संरम्बश्चाब्रवीद्रामश्चक्षुषाप्रदहन्निव ।\nविभीषणंमहाप्राज्ञंसोपालम्बमिदंवचः ।।6.117.25।।",
+      "transliteration": "",
+      "translation": "Exhibiting anger with his gaze at the uproar, Rama addressed the highly intelligent Vibheeshana resenting their action.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "किमर्थंमामनादृत्यक्लिश्यतेऽयंत्वयाजनः ।\nनिवर्तयैनमुद्योगंजनोऽयंस्वजनोमम ।।6.117.26।।",
+      "transliteration": "",
+      "translation": "\"Why are these people being troubled without disregard for me? Stop this excitement. They are my own people.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "न गृहाणि न वस्त्राणि न प्राकारास्तिरस्क्रिया ।\nनेदृशाराजसत्कारावृत्तमावरणंस्त्रियाः ।।6.117.27।।",
+      "transliteration": "",
+      "translation": "\"For women it is not the house, boundary wall or clothes or protective wall or screen of cloth or even this kind of royal treatment or surrounding, is the protection.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "व्यसनेषु न कृच्छ्रेषु न युद्धेषुस्वयंवरे ।\nन क्रतौनोविवाहेवादर्शनंदूष्यतेस्त्रियाः ।।6.117.28।।",
+      "transliteration": "",
+      "translation": "\"The appearance of a woman in public is not condemned in times of difficulty, in straits, in conflicts, in the selection of a husband, or in sacrificial ceremonies or marriage ceremonies.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "सैषाविपद्गताचैवकृच्छ्रेव च महतिस्थिता ।\nदर्शनेनास्तिदोषोऽस्यामत्समीपेविशेषतः ।।6.117.29।।",
+      "transliteration": "",
+      "translation": "\"Sita is in distress and in a highly miserable situation. Her appearance is no fault especially in my presence.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "विसृज्यशिबिकांतस्मात्पद्भ्यामेवोपसर्पतु ।\nसमीपेममवैदेहींपश्यन्त्वेतेवनौकसः ।।6.117.30।।",
+      "transliteration": "",
+      "translation": "\"Therefore, leaving the palanquin let Vaidehi walk on foot only towards me with the help of these Vanaras.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "एवमुक्तस्तुरामेणसविमर्शोविभीषणम् ।\nरामस्योपानयसतीतांसन्निकर्षंविनीतवत् ।।6.117.31।।",
+      "transliteration": "",
+      "translation": "Rama having spoken clearly in that way, Vibheeshana reverently conducted Sita to Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "ततोलक्ष्मणसुग्रीवौहनूमांश्चप्लवङ्गमः ।\nनिशम्यवाक्यंरामस्यबभूवुर्व्यथिताभृशम् ।।6.117.32।।",
+      "transliteration": "",
+      "translation": "There upon Lakshmana, Sugriva, and Vanara Hanuman, astonished at Rama's statement, became highly distressed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "कलत्रनिरपेक्ष्षैश्चइङ्गितैरस्यदारुणैः ।\nअप्रीतमिवसीतायांतर्कयन्तिस्मराघवम् ।।6.117.33।।",
+      "transliteration": "",
+      "translation": "Seeing Rama having no regard towards Sita, and his harsh gestures, Lakshmana and Sugriva discussed if Rama was displeased with Sita?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "लज्जयात्ववलीयन्तीस्वेषुगात्रेषुमैथिली ।\nविभीषणेनानुगताभर्तारंसाभ्यवर्तत ।।6.117.34।।",
+      "transliteration": "",
+      "translation": "Mythili, also adopting modesty, shrinking into her own limbs, approached her husband followed by Vibheeshana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "विस्मयाच्छप्रहर्षाच्चस्नेहाच्चपतिदेवता ।\nउदैक्षतमुखंभर्तुःसौम्यंसौम्यतरानना ।।6.117.35।।",
+      "transliteration": "",
+      "translation": "Sita, a gentle lady, who considered her husband as God only wondered with a mixed feeling of joy and affection and looked at the gentle face of Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-117-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "अथसमपनुदन्मनःक्लमंसासुचिरमदृष्टमुदीक्ष्यवैप्रियस्य ।\nवदनमुदितचन्द्रपूर्णकान्तंविमलशशाङ्कनिभाननातदानीम् ।।6.117.36।।",
+      "transliteration": "",
+      "translation": "She gazed affectionately at the face of her husband, whose countenance was bright like the early morning sun, which she had not seen for long. With the sorrow in her mind dispelled now, her face shone like the bright moon without cloud. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेसप्तदशोत्तरशततमस्सर्गः ।। This is the end of one hundred and seventeenth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

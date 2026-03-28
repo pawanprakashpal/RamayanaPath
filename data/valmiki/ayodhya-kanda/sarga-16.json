@@ -1,0 +1,405 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 16,
+    "title": "Sumantra reaches Rama's palace and conveys to him  Dasaratha's messageRama accompanied by Lakshmana proceeds to his father's palace-- comments of men and women on his way to the king.",
+    "titleSanskrit": "",
+    "totalShlokas": 43
+  },
+  "shlokas": [
+    {
+      "id": "v2-16-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तदन्तःपुरद्वारं समतीत्य जनाकुलम्।\nप्रविविक्तां ततः कक्ष्यामाससाद पुराणवित्।।2.16.1।।\nप्रासकार्मुकबिभ्रद्भिर्युवभिर्मृष्टकुण्डलैः।\nअप्रमादिभिरेकाग्रै स्स्वनुरक्तैरधिष्ठिताम्।।2.16.2।।",
+      "transliteration": "",
+      "translation": "Sumantra, who was conversant with ancient traditions, passed through the entrance of the inner apartment full of people and reached the sparsely crowded courtyard. There alert, loyal young men were attentively guarding the frontyard, armed with spears and bows and wearing shining earrings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तदन्तःपुरद्वारं समतीत्य जनाकुलम्।\nप्रविविक्तां ततः कक्ष्यामाससाद पुराणवित्।।2.16.1।।\nप्रासकार्मुकबिभ्रद्भिर्युवभिर्मृष्टकुण्डलैः।\nअप्रमादिभिरेकाग्रै स्स्वनुरक्तैरधिष्ठिताम्।।2.16.2।।",
+      "transliteration": "",
+      "translation": "Sumantra, who was conversant with ancient traditions, passed through the entrance of the inner apartment full of people and reached the sparsely crowded courtyard. There alert, loyal young men were attentively guarding the frontyard, armed with spears and bows and wearing shining earrings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "तत्र काषायिणो वृद्धान् वेत्रपाणीन् स्वलङ्कृतान्।\nददर्श विष्ठितान् द्वारि स्त्र्यध्यक्षान्सुसमाहितान्।।2.16.3।।",
+      "transliteration": "",
+      "translation": "He saw aged people appointed as security staff for women's apartments. They were  welladorned, dressed in orange robes and with rapt attention stood holding staff in their hands.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "ते समीक्ष्य समायान्तं रामप्रियचिकीर्षवः।\nसहसोत्पतितास्सर्वे स्वासनेभ्यस्ससम्भ्रमाः।।2.16.4।।",
+      "transliteration": "",
+      "translation": "On seeing (Sumantra) arriving, all of them, wellwishers to Rama, quickly rose from their seats.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तानुवाच विनीतात्मा सूतपुत्रः प्रदक्षिणः। \nक्षिप्रमाख्यात रामाय सुमंन्त्रो द्वारि तिष्ठति।।2.16.5।।",
+      "transliteration": "",
+      "translation": ". Humble and extremely courteous charioteer (to the guards) said, Inform Rama at once that Sumantra is waiting at the entrance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "ते राममुपसङ्गम्य भर्तुः प्रियचिकीर्षवः। \nसहभार्याय रामाय क्षिप्रमेवाभिचक्षिरे।।2.16.6।।",
+      "transliteration": "",
+      "translation": "Always dedicated to the wellbeing of their master, they approached Rama who was in the company of Sita. And informed him:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "प्रतिवेदितमाज्ञाय सूतमभ्यन्तरं पितुः।\nतत्रैवानाययामास राघवप्रियकाम्यया।।2.16.7।।",
+      "transliteration": "",
+      "translation": "Coming to know that Sumantra who is intimate to his father had arrived, Rama, in order to please him, commanded that he be escorted to that very place.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तं वैश्रवणसङ्काशमुपविष्टं स्वलङ्कृतम्।\nददर्श सूतः पर्य्यङ्के सौवर्णे सोत्तरच्छदे।।2.16.8।।\nवराहरुधिराभेण शुचिना च सुगन्धिना।\nअनुलिप्तं परार्ध्येन चन्दनेन परन्तपम्।।2.16.9।।\nस्थितया पार्श्वतश्चापि वालव्यजनहस्तया।\nउपेतं सीतयाभूयश्चित्रया शशिनं यथा।।2.16.10।।",
+      "transliteration": "",
+      "translation": "Sumantra beheld Rama, who resembled Kubera. Rama was sitting on a richlycovered golden couch, welladorned and anointed with precious, pure, fragrant red sandalpaste the colour of which appeared like the blood of a hog. With Sita standing by his side with a fan of yak's tail in her hand Rama, the tormentor of foes,  looked like the Moon united with (the star) Chitra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तं तपन्तमिवादित्यमुपपन्नं स्वतेजसा।\nववन्दे वरदं वन्दी विनयज्ञो विनीतवत्।।2.16.11।।",
+      "transliteration": "",
+      "translation": "Sumantra who knew the art of modesty, made humble, reverential salutation to Rama  the granter of boons, shining like the Sun with his own effulgence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "प्राञ्जलिस्सुमुखं दृष्ट्वा विहारशयनासने।\nराजपुत्रमुवाचेदं सुमन्त्रो राजसत्कृतः।।2.16.12।।",
+      "transliteration": "",
+      "translation": "On seeing Rama of charming countenance relaxing on a couch, Sumantra, honourable to the king (Dasaratha) said these words with folded palms.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "कौशल्यासुप्रजा राम पिता त्वां द्रष्टुमिच्छति।\nमहिष्या सह कैकेय्या गम्यतां तत्र मा चिरम्।।2.16.13।।",
+      "transliteration": "",
+      "translation": "O Rama, worthy son of Kausalya, your father along with queen Kaikeyi desires to see you.You may go there. Please do not delay.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु संहृष्टो नरसिंहो महाद्युतिः।\nततस्सम्मानयामास सीतामिदमुवाच ह।।2.16.14।।",
+      "transliteration": "",
+      "translation": "Highly lustrous Rama ,the lion among men, when thus spoken to, was immensely pleased and extending due honour to him said to Sita:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "देवि देवश्च देवी च समागम्य मदन्तरे।\nमन्त्रयेते धृवं किञ्चिदभिषेचनसंहितम्।।2.16.15।।",
+      "transliteration": "",
+      "translation": "O Sita, I am sure the king and queen are discussing something relating to my consecration.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "लक्षयित्वा ह्यभिप्रायं प्रियकामा सुदक्षिणा।\nसञ्चोदयति राजानं मदर्थमसितेक्षणा।।2.16.16।।",
+      "transliteration": "",
+      "translation": "Darkeyed and highly favoured wellwisher of the king (Kaikeyi) is urging him for my sake in view of his intention.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "सा प्रहृष्टा महाराजं हितकामानुवर्तिनी।\nजननी चार्थकामा मे केकयाधिपतेस्सुता।।2.16.17।।",
+      "transliteration": "",
+      "translation": "My mother, daughter of the king of Kekaya, knows the king's intention and, heppy to do me good, seeks my wellbeing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "दिष्ट्या खलु महाराजो महिष्या प्रियया सह।\nसुमन्त्रं प्राहिणोद्दूतमर्थकामकरं मम।।2.16.18।।",
+      "transliteration": "",
+      "translation": "It is our fortune that the king and his dear queen have sent Sumantra as messenger who is interested in my prosperity and pleasure.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "यादृशी परिषत्तत्र तादृशो दूत आगतः।\nध्रुवमद्यैव मां राजा यौवराज्येऽभिषेक्ष्यति।।2.16.19।।",
+      "transliteration": "",
+      "translation": "There worthy of the council of the king and the queen, a befitting messenger has come. Assuredly the king will consecrate me as heirapparent this very day.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "हन्त शीघ्रमितो गत्वा द्रक्ष्यामि च महीपतिम्।\nसह त्वं परिवारेण सुखमास्व रमस्व च।।2.16.20।।",
+      "transliteration": "",
+      "translation": "I shall go from here immediately and see the king. Remain here happily and rejoice with your maids.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "पतिसम्मानिता सीता भर्तारमसितेक्षणा।\nआद्वारमनुवव्राज मङ्गलान्यभिदध्युषी।।2.16.21।।",
+      "transliteration": "",
+      "translation": "Reflecting over the auspicious event, the darkeyed Sita who is highly esteemed by her husband, followed him up to the entrance, (saying):",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "राज्यं द्विजातिभिर्जुष्टं राजसूयाभिषेचनम्।\nकर्तुमर्हति ते राजा वासवस्येव लोककृत्।।2.16.22।।",
+      "transliteration": "",
+      "translation": "The king will bestow upon you, like the creator of the world (Brahma) bestowing on Indra, the kingdom served by brahmins who are fit to perform 'Rajasuya' sacrifice at the time of consecration.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "दीक्षितं व्रतसम्पन्नं वराजिनधरं शुचिम्।\nकुरङ्गशृङ्गपाणिं च पश्यन्ती त्वां भजाम्यहम्।।2.16.23।।",
+      "transliteration": "",
+      "translation": "I shall be delighted to see you initiated and engaged in the observance of the vow made pure, wearing excellent deerskin and carrying the horns of an antelope in your hand.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "पूर्वां दिशं वज्रधरो दक्षिणां पातु ते यमः।\nवरुणः पश्चिमामाशां धनेशस्तूत्तरां दिशम्।।2.16.24।।",
+      "transliteration": "",
+      "translation": "May Indra protect you on the east, Yama in the south, Varuna in the west and Kubera in the north.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "अथ सीतामनुज्ञाप्य कृतकौतुकमङ्गलः।\nनिश्चक्राम सुमन्त्रेण सह रामो निवेशनात्।।2.16.25।।",
+      "transliteration": "",
+      "translation": "Adorned in auspicious ornaments, Rama took leave of Sita and departed from his palace accompanied by Sumantra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "पर्वतादिव निष्क्रम्य सिंहो गिरिगुहाशयः।\nलक्ष्मणं द्वारिसोऽपश्यत्प्रह्वाञ्जलिपुटं स्थितम्।।2.16.26।।",
+      "transliteration": "",
+      "translation": "Like a lion living in a mountain cave and coming out of it, Rama while exiting, saw Lakshmana at the entrance bowing with folded hands.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "अथ मध्यमकक्ष्यायां समागच्छत्सुहृज्जनैः।\nस सर्वानर्थिनो दृष्ट्वा समेत्य प्रतिनन्द्य च।।2.16.27।।\nततः पावकसङ्काशमारुरोह रथोत्तमम्।\nवैयाघ्रं पुरुषव्याघ्रो राजतं राजनन्दनः।।2.16.28।।",
+      "transliteration": "",
+      "translation": "Rama, the best among men, met all his friends in the middle courtyard. Having seen them all eager to see him, he approached and greeted them. Thereafter, he mounted the best silver chariot covered with tigerskin and glowing like fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "मेघनादमसम्बाधं मणिहेमविभूषितम्।\nमुष्णन्तमिव चक्षूंषि प्रभया सूर्यवर्चसम्।।2.16.29।।\nकरेणुशिशुकल्पैश्च युक्तं परमवाजिभिः।\nहरियुक्तं सहस्राक्षो रथमिन्द्र इवाशुगम्।।2.16.30।।\nप्रययौ तूर्णमास्थाय राघवो ज्वलितश्श्रिया।",
+      "transliteration": "",
+      "translation": "The sound emanating from the chariot resembled the thunder. The spacious chariot was decorated with gold and gems which dazzled the eyes as though they shed the lustre of the Sun. The swiftmoving chariot was harnessed by excellent horses as if they were young elephants. Like the thousandeyed Indra, Rama, ablaze with royal splendour, mounted this chariot and sped away.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "स पर्जन्य इवाकाशे स्वनवानभिनादयन्।।2.16.31।।\nनिकेतान्निर्ययौ श्रीमान्महाभ्रादिव चन्द्रमाः।",
+      "transliteration": "",
+      "translation": "The magnificent chariot, rumbling like a stormcloud in the sky, emerged from (Rama's) residence like the Moon peeping through a huge cloud.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "छत्रचामरपाणिस्तु लक्ष्मणो राघवानुजः।।2.16.32।।\nजुगोप भ्रातरं भ्राता रथमास्थाय पृष्ठतः।",
+      "transliteration": "",
+      "translation": "Holding an umbrella and a fan made of yak's tail in his hand Lakshmana boarded the chariot at the rear, guarding his brother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "ततो हलहलाशब्दस्तुमुलस्समजायत।।2.16.33।।\nतस्य निष्क्रममाणस्य जनौघस्य समन्ततः।",
+      "transliteration": "",
+      "translation": "As it (the chariot) was passing out, a tumultuoas roar emanated from the multitude of people all around.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "ततो हयवरा मुख्या नागाश्च गिरिसन्निभाः।।2.16.34।।\nअनुजग्मुस्तदा रामं शतशोऽथ सहस्रशः।",
+      "transliteration": "",
+      "translation": "Then the chief commanders riding the best of the horses and elephants, resembling hills in size, followed Rama in their hundreds and thousands.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "अग्रतश्चास्य सन्नद्धाश्चन्दनागरुभूषिताः।।2.16.35।।\nखड्गचापधराश्शूरा जग्मुराशंसवो जनाः।",
+      "transliteration": "",
+      "translation": "Soldiers, anointing their bodies with pastes of sandal and aloe wood, equipped with armour and holding swords and bows, went ahead heralding his (Rama's) arrival.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "ततो वादित्रशब्दाश्च स्तुतिशब्दाश्च वन्दिनाम्।।2.16.36।।\nसिंहनादाश्च शूराणां तदा शुश्रुविरे पथि।",
+      "transliteration": "",
+      "translation": "At that time, sounds of musical instruments and songs of eulogy by panegyrists, roarings of warriors were heard on the way.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "हर्म्यवातायनस्थाभिर्भूषिताभिस्समन्ततः।।2.16.37।।\nकीर्यमाण स्सुपुष्पौघैर्ययौ स्त्रीभिररिन्दमः।",
+      "transliteration": "",
+      "translation": "Rama, the subduer of enemies, proceeded while the wellattired women standing at the windows of their mansions showered heaps of flowers on him from every side.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "रामं सर्वानवद्याङ्ग्यो रामपिप्रीषया ततः।।2.16.38।।\nवचोभिरग्य्रैर्हर्म्यस्था क्षितिस्थाश्च ववन्दिरे।",
+      "transliteration": "",
+      "translation": "Women with faultless limbs standing on their housetops as well as on the ground paid their homage with charming words in order to propitiate Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "नूनं नन्दति ते माता कौशल्यामातृनन्दन।।2.16.39।।\nपश्यन्ती सिद्धयात्रं त्वां पित्र्यं राज्यमवस्थितम्।",
+      "transliteration": "",
+      "translation": "O Joy of your mother (Rama) on seeing you having successfully acomplished the purpose of your journey (life) by securing your father's kingdom, your mother Kausalya will surely be delighted.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "सर्वसीमन्तिनीभ्यश्च सीतां सीमन्तिनी वराम्।।2.16.40।।\nअमन्यन्त हि ता नार्यो रामस्य हृदयप्रियाम्।",
+      "transliteration": "",
+      "translation": "Those women considered Sita who was dear to the heart of Rama the best among all women.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "तया सुचरितं देव्या पुरा नूनं महत्तपः।।2.16.41।।\nरोहिणीव शशाङ्केन रामसंयोगमाप या।",
+      "transliteration": "",
+      "translation": "Sita was united with Rama like Rohini with the Moon surely because of her great austerities performed in the past. (They observed).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "इति प्रासादशृङ्गेषु प्रमदाभिर्नरोत्तमः।।2.16.42।।\nशुश्राव राजमार्गस्थः प्रिया वाच उदाहृताः।\nआत्मसंपूजनै शृण्वन् ययौ रामौ महापथम्।।2.16.43।।",
+      "transliteration": "",
+      "translation": "Rama, the best among men, while riding along the highway overheard the pleasing words uttered by women standing on the elevation of their buildings. Thus hearing his own praise Rama proceeded along the highway.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "स राघवस्तत्र कथाप्रपञ्चान् \nशुश्राव लोकस्य समागतस्य।\nआत्माधिकारा विविधाश्च वाचः\nप्रहृष्टरूपस्य पुरो जनस्य।।2.16.44।।",
+      "transliteration": "",
+      "translation": "Rama heard these various words of admiration by people who had assembled there, and (witnessed) the rejoicings of the citizens.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "एष श्रियं गच्छति राघवोऽद्य \nराजप्रसादाद्विपुलां गमिष्यन्।\nएते वयं सर्व समृद्धकामा\nयेषामयं नो भविता प्रशास्ता।।2.16.45।।",
+      "transliteration": "",
+      "translation": "This scion of the Raghus (Rama) is going to acquire the earth and the wealth today by the king's grace. He will be our protector and fulfil all our desires.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "लाभो जनस्यास्य यदेष सर्वं \nप्रपत्स्यते राष्ट्रमिदं चिराय।\nन ह्यप्रियं किञ्चन जातु कश्चि\nत्पश्येन्न दुःखं मनुजाधिपेऽस्मिन्।।2.16.46।।",
+      "transliteration": "",
+      "translation": "If this Rama obtains the entire kingdom for a long time, it will be in the interest of the people. If he becomes king none will ever witness anything unpleasant or sad. (They observed).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "स घोषवद्भिश्च मतङ्गाजैर्ययैः\nपुरस्सरै स्स्वस्तिकसूतमागधैः।\nमहीयमानः प्रवरैश्च वादकै \nरभिष्टुतो वैश्रवणो यथा ययौ।।2.16.47।।",
+      "transliteration": "",
+      "translation": "With bards, panegyrists and great musical performers invoking blessings and walking ahead, he (Rama) proceeded, like Kubera amid intoxicated elephants  and horses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-16-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "करेणुमातंङ्गरथाश्वसंकुलं \nमहाजनौघ परिपूर्णचत्वरम्।\nप्रभूतरत्नं बहुपण्यसञ्चयं \nददर्श रामो रुचिरं महापथम्।।2.16.48।।",
+      "transliteration": "",
+      "translation": "Rama beheld the beautiful highway filled with precious stones and merchandise (for sale), thronged with elephants, horses and chariots, the crossroads crowded with multitude of people.   इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे षोडशस्सर्गः।। Thus ends the sixteenth sarga of Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

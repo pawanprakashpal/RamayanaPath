@@ -1,0 +1,477 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 18,
+    "title": "Dasaratha sends Rsyasringa and the kings and to their respective places -- returns to Ayodhya with his wives--birth of Rama, Lakshmana, Bharata and Satrughna -- purificatory and naming rites -- description of their virtues and characteritics --  Viswamitra comes to meet Dasaratha",
+    "titleSanskrit": "",
+    "totalShlokas": 51
+  },
+  "shlokas": [
+    {
+      "id": "v1-18-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "निर्वृत्ते तु क्रतौ तस्मिन्हयमेधे महात्मन:।\nप्रतिगृह्य सुरा भागान्प्रतिजग्मुर्यथागतम्।।1.18.1।।",
+      "transliteration": "",
+      "translation": "Completed by the magnanimous king (Dasaratha). The aswamedha and putreshti sacrifices, the devatas received their share of havis and returned to their respective  abodes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "समाप्तदीक्षानियम: पत्नीगणसमन्वित:।\nप्रविवेश पुरीं राजा सभृत्यबलवाहन:।।1.18.2।।",
+      "transliteration": "",
+      "translation": "Having completed the prescribed vows (in respect of aswamedha), king Dasaratha together with his queens returned to the city of Ayodhya accompanied by his attendants, army and chariots.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "यथार्हं पूजितास्तेन राज्ञा वै पृथिवीश्वरा:।\nमुदिता: प्रययुर्देशान्प्रणम्य मुनिपुङ्गवम्।।1.18.3।।",
+      "transliteration": "",
+      "translation": "Having been honoured by the king (Dasaratha) in a be fitting manner, the highly pleased lords of the earth (kings) made obeisance to the best of sages (Vasishta) and returned to their own countries.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "श्रीमतां गच्छतां तेषां स्वपुराणि पुरात्तत:।\nबलानि राज्ञां शुभ्राणि प्रहृष्टानि चकाशिरे।।1.18.4।।",
+      "transliteration": "",
+      "translation": "When the army of the kings left the city (Ayodhya) for their own, the armed forces shone bright and cheerfl.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "गतेषु पृथिवीशेषु राजा दशरथस्तदा।\nप्रविवेश पुरीं श्रीमान् पुरस्कृत्य द्विजोत्तमान्।।1.18.5।।",
+      "transliteration": "",
+      "translation": "After the departure of the rulers, the exalted king Dasaratha preceded by the foremost of brahmins entered the city (of Ayodhya).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "शान्तया प्रययौ सार्धमृश्यशृङ्गस्सुपूजित:।\nअन्वीयमानो राज्ञाऽथ सानुयात्रेण धीमता।।1.18.6।।",
+      "transliteration": "",
+      "translation": "Having been duly honoured by king Dasaratha, sage Rsyasringa with his wife Santa  accompanied by the wise king Romapada and his followers set out for his country.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "एवं विसृज्य तान्सर्वान्राजा सम्पूर्णमानस:।\nउवास सुखितस्तत्र पुत्रोत्पत्तिं विचिन्तयन्।।1.18.7।।",
+      "transliteration": "",
+      "translation": "When they (guests) all departed in this manner, Dasaratha with his desire fulfilled, his thought centred on begetting sons lived happily.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "ततो यज्ञे समाप्ते तु ऋतूनां षट्समत्ययु:। \nततश्च द्वादशे मासे चैत्रे नावमिके तिथौ।।1.18.8।। \nनक्षत्रेऽदितिदैवत्ये स्वोच्चसंस्थेषु  पञ्चसु। \nग्रहेषु कर्कटे लग्ने वाक्पताविन्दुना सह।।1.18.9।। \nप्रोद्यमाने जगन्नाथं सर्वलोकनमस्कृतम्। \nकौसल्याऽजनयद्रामं सर्वलक्षणसंयुतम्।।1.18.10।। \nविष्णोरर्धं महाभागं पुत्रमैक्ष्वाकुवर्धनम्।",
+      "transliteration": "",
+      "translation": "Six seasons (one year) passed after the completion of the sacrifice. In the twelfth month of Chaitra on the ninth day (of the bright fortnight), with Aditi as presiding deity when the star Punarvasu was in the ascendent and the five planets Sun, Mars, Saturn, Jupiter and Venus, were exalted in their own house in karkata lagna, when Brihaspati was in conjunction with the Moon, Kausalya gave birth to a son: a facet of Visnu, Lord of the entire universe who received obeisance from all the worlds and was adorned with all auspicious signs, the venerable one  to perpetuate the Ikshvaku race.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "कौसल्या शुशुभे तेन पुत्रेणामिततेजसा।।1.18.11।।\nयथा वरेण देवानामदितिर्वज्रपाणिना।",
+      "transliteration": "",
+      "translation": "Kausalya glowed with the undiminished lustre of her son, just as Aditi with  her son Indra, the foremost among the gods and  the wielder of thunder.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "भरतो नाम कैकेय्यां जज्ञे सत्यपराक्रम:।।1.18.12।।\nसाक्षाद्विष्णोश्चतुर्भागस्सर्वैस्समुदितो गुणै:।",
+      "transliteration": "",
+      "translation": "As an incarnation of the  fourth part of Visnu, imbued with all virtues, and armed with truth Bharata was born to Kaikeyi.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "अथ लक्ष्मणशत्रुघ्नौ सुमित्राऽजनयत्सुतौ।।1.18.13।।\nवीरौ सर्वास्त्रकुशलौ विष्णोरर्धसमन्वितौ।",
+      "transliteration": "",
+      "translation": "Sumitra gave birth to Lakshmana and Satrughna who were heroic, skilled in the use of all weapons and endowed with the facets of Visnu.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "पुष्ये जातस्तु भरतो मीनलग्ने प्रसन्नधी:।।1.18.14।।\nसार्पे जातौ च सौमित्री कुलीरेऽभ्युदिते रवौ।",
+      "transliteration": "",
+      "translation": "Bharata endowed with pure intellect was born in meena lagna when pushya was in the ascendant. Lakshmana and Satrughna were born in karkata lagna with the star aslesha .",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "राज्ञ: पुत्रा महात्मानश्चत्वारो जज्ञिरे पृथक्।।1.18.15।।\nगुणवन्तोऽनुरूपाश्च रुच्या प्रोष्ठपदोपमा:।",
+      "transliteration": "",
+      "translation": "Four worthy sons were successively born to the noble king (Dasaratha), endowed with all virtuous, resembling purvabhadra and uttarabhadra  stars in brightness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "जगु: कलं च गन्धर्वा ननृतुश्चाप्सरोगणा:।।1.18.16।।\nदेवदुन्दुभयो नेदु: पुष्पवृष्टिश्च खाच्च्युता। \nउत्सवश्च महानासीदयोध्यायां जनाकुल:।।1.18.17।।",
+      "transliteration": "",
+      "translation": "The gandharvas sang melodiously. Groups of apsaras danced. Celestial kettledrums were sounded. Flowers were showered from the sky. Men througed to Ayodhya to witness the festivities.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "रथ्याश्च जनसम्बाधा नटनर्तकसङ्कुला: ।\nगायनैश्च विराविण्यो वादनैश्च तथाऽपरै:।।1.18.18।।",
+      "transliteration": "",
+      "translation": "The highways were crowded with men, thronged by actors and dancers. The voices of singers, performers on different instruments, eulogists and genealogists reverberated.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "प्रदेयांश्च ददौ राजा सूतमागधवन्दिनाम्।\nब्राह्मणेभ्यो ददौ वित्तं गोधनानि सहस्रश:।।1.18.19।।",
+      "transliteration": "",
+      "translation": "The king distributed deserving gifts to priests, euologists and genealogists. He gave  brahmins in charity thousands of cows and other valuables.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अतीत्यैकादशाहं तु नामकर्म तथाऽकरोत्।\nज्येष्ठं रामं महात्मानं भरतं कैकयीसुतम्।।1.18.20।।\nसौमित्रिं लक्ष्मणमिति शत्रुघ्नमपरं तथा।\nवसिष्ठ: परमप्रीतो नामानि कृतवान् तदा ।।1.18.21।।",
+      "transliteration": "",
+      "translation": "After a lapse of eleven days, the naming ceremony was performed. Highly delighted preceptor Vasishta named Kausalya's son Rama, Kaikeyi's son Bharata, one son of Sumitra, Lakshmana and the other Satrughna.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "ब्राह्मणान्भोजयामास पौराञ्जानपदानपि।\nअददाद्ब्रह्मणानां च रत्नौघममितं बहु।।1.18.22।। \nतेषां जन्मक्रियादीनि सर्वकर्माण्यकारयत्।",
+      "transliteration": "",
+      "translation": "Brahmins as well as inhabitants of the city and rural areas were feasted. (Dasaratha) bestowed on brahmins unlimited and abundant jewels in charity. The rites at the time of birth and all other rites (associated with the newborn) were duly performed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तेषां केतुरिव ज्येष्ठो रामो रतिकर: पितु:।।1.18.23।।\nबभूव भूयो भूतानां स्वयम्भूरिव सम्मत:।",
+      "transliteration": "",
+      "translation": "Among them, Rama like the exalted flag, became dear to his father like Brahma he was highly respected by all living beings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "सर्वे वेदविदश्शूरास्सर्वे लोकहिते रता:।।1.18.24।।\nसर्वे ज्ञानोपसम्पन्नास्सर्वे समुदिता गुणै:।",
+      "transliteration": "",
+      "translation": "All the sons (of Dasaratha) became wellversed in the Vedas. They were heroic, endowed with knowledge  and virtues and were devoted to the welfare of the people.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तेषामपि महातेजा रामस्सत्यपराक्रम:।।1.18.25।।\nइष्टस्सर्वस्य लोकस्य शशाङ्क इव निर्मल:।",
+      "transliteration": "",
+      "translation": "Among them  the highly lustrous and truly mighty Rama was stainless (in character).  He was auspicious to the entire world like the Moon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "गजस्कन्धेऽश्वपृष्ठे च रथचर्यासु सम्मत:।।1.18.26।।\nधनुर्वेदे च निरत: पितृशुश्रूषणे रत:।",
+      "transliteration": "",
+      "translation": "Accepted as skilled in mounting elephants, riding horses, driving chariots and also in archery, he was always emgaged in the service of his parents.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "बाल्यात्प्रभृति सुस्निग्धो लक्ष्मणो लक्ष्मिवर्धन:।।1.18.27।।\nरामस्य लोकरामस्य भ्रातुर्ज्येष्ठस्य नित्यश:।",
+      "transliteration": "",
+      "translation": "Right from his very childhood Lakshmana, an enhancer of fortune, always remained very  attached to his eldest brother Rama, the delight of the world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "सर्वप्रियकरस्तस्य रामस्यापि शरीरत:।।1.18.28।।\nलक्ष्मणो लक्ष्मिसम्पन्नो बहि:प्राण इवापर:।",
+      "transliteration": "",
+      "translation": "Lakshmana,  possessed of fortune, was the dearest to his brother than his own body. As though he was his life without.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "न च तेन विना निद्रां लभते पुरुषोत्तम:।।1.18.29।।\nमृष्टमन्नमुपानीतमश्नाति न हि तं विना।",
+      "transliteration": "",
+      "translation": "Rama, the greatest among men would not sleep without Lakshmana's company. He would not partake even the choicest food minus to him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "यदा हि हयमारूढो मृगयां याति राघव:।।1.18.30।।\nतदैनं पृष्ठतोऽन्वेति सधनु: परिपालयन्।",
+      "transliteration": "",
+      "translation": "Whenever Raghava (Rama) went hunting into the forest, riding the horse, Lakshmana used to follow him holding bow and arrows (in his hand).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "भरतस्यापि शत्रुघ्नो लक्ष्मणावरजो हि स:।।1.18.31।।\nप्राणै: प्रियतरो नित्यं तस्य चासीत्तथा प्रिय:।",
+      "transliteration": "",
+      "translation": "In a similar manner Satrughna, younger brother of Lakshmana, became dearer than his own life to Bharata. Similarly, Bharata also was dear to Satrughna.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "स चतुर्भिर्महाभागै:पुत्रैर्दशरथ: प्रियै:।।1.18.32।।\nबभूव परमप्रीतो देवैरिव पितामह:।",
+      "transliteration": "",
+      "translation": "With his very fortunate sons, Dasaratha was highly pleased like Brahma was with the gods.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "ते यदा ज्ञानसम्पन्नास्सर्वैस्समुदिता गुणै:।।1.18.33।।\nह्रीमन्त: कीर्तिमन्तश्च सर्वज्ञा दीर्घदर्शिन:।\nतेषामेवं प्रभावानां सर्वेषां दीप्ततेजसाम्।।1.18.34।।\nपिता दशरथो हृष्टो ब्रह्मा लोकाधिपो यथा।",
+      "transliteration": "",
+      "translation": "All his sons were enriched  with knowledge and endowed  with all virtues. They were modest, renowned, omniscient and farsighted. Dasaratha rejoiced at the sight of those glorious sons with such faculties and looked like Brahma, Lord of the worlds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "ते चापि मनुजव्याघ्रा वैदिकाध्ययने रता:।।1.18.35।।\nपितृशुश्रूषणरता धनुर्वेदे च निष्ठिता:।",
+      "transliteration": "",
+      "translation": "They (like) tigers among men, were fond of the study of the Vedas  and were always  engaged in the service of their parents. They were also proficient in the science of archery.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "अथ राजा दशरथस्तेषां दारक्रियां प्रति।।1.18.36।।\nचिन्तयामास धर्मात्मा सोपाध्यायस्सबान्धव:।",
+      "transliteration": "",
+      "translation": "Then the virtuous king Dasaratha deliberated with his priests and kinsmen about the marriage of his sons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "तस्य चिन्तयमानस्य मन्त्रिमध्ये महात्मन:।।1.18.37।।\nअभ्यगच्छन्महातेजा विश्वामित्रो महामुनि:।",
+      "transliteration": "",
+      "translation": "While the nobleminded king was thus deliberating in the midst of his counsellors,  there arrived the effulgent ascetic Viswamitra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "स राज्ञो दर्शनाकाङ्क्षी द्वाराध्यक्षानुवाच ह।।1.18.38।।\nशीघ्रमाख्यात मां प्राप्तं कौशिकं गाधिनस्सुतम्।",
+      "transliteration": "",
+      "translation": "Desirous of seeing the king (Dasaratha) he accosted the doorkeepers, saying \"Inform the king quickly about the arrival of Viswamitra, the son of Gadhi born in the line of  Kusika\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "तच्छ्रुत्वा वचनं त्रासाद्राज्ञो वेश्म प्रदुद्रुवु:।।1.18.39।।\nसम्भ्रान्तमनसस्सर्वे तेन वाक्येन चोदिता:।",
+      "transliteration": "",
+      "translation": "On hearing those words (of Viswamitra) all of them prompted by fear because of left for the royal apartment with excited minds and hurried steps.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "ते गत्वा राजभवनं विश्वामित्रमृषिं तदा।।1.18.40।।\nप्राप्तमावेदयामासुर्नृपायैक्ष्वाकवे तदा।",
+      "transliteration": "",
+      "translation": "Having reached the royal hall, they reported to the king (Dasaratha), descendant of the Ikshvakus about the arrival of sage Viswamitra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "तेषां तद्वचनं श्रुत्वा सपुरोधास्समाहित:।।1.18.41।।\nप्रत्युज्जगाम तं हृष्टो ब्रह्माणमिव वासव:।",
+      "transliteration": "",
+      "translation": "Having heard their words, Dasaratha in great joy went forth together with his preceptors to receive him like Indra receiving Brahma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "तं दृष्ट्वा ज्वलितं दीप्त्या तापसं संशितव्रतम्।।1.18.42।।\nप्रहृष्टवदनो राजा ततोऽर्घ्यमुपहारयत्।",
+      "transliteration": "",
+      "translation": "Seeing Viswamitra, shining with the power of his penance fulfilled the king with a cheerful countenance made offerings with due respect.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "स राज्ञ: प्रतिगृह्यार्घ्यं शास्त्रदृष्टेन कर्मणा।।1.18.43।।\nकुशलं चाव्ययं चैव पर्यपृच्छन्नराधिपम्।2",
+      "transliteration": "",
+      "translation": "Viswamitra received the offerings as ordained in the scriptures and enquired from the king about the welfare and prosperity of his kingdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "पुरे कोशे जनपदे बान्धवेषु सुहृत्सु च ।।1.18.44।।\nकुशलं कौशिको राज्ञ: पर्यपृच्छत्सुधार्मिक:।",
+      "transliteration": "",
+      "translation": "The exceedingly virtuous sage Viswamitra enquired from the king about the treasury welfare of his subjects living in cities and villages, and the well being of his friends and relatives.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "अपि ते सन्नतास्सर्वे सामन्ता रिपवो जिता:।।1.18.45।।\nदैवं च मानुषं चापि कर्म ते साध्वनुष्ठितम्।",
+      "transliteration": "",
+      "translation": "Are the tributary kings submissive to you? Have you conquered your enemies? Are the rites for propitiating gods and the services to humanity  performed rightly?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "वसिष्ठं च समागम्य कुशलं मुनिपुङ्गव:।।1.18.46।।\nऋषींश्च तान्यथान्यायं महाभागानुवाच ह।",
+      "transliteration": "",
+      "translation": "The foremost of ascetis, Viswamitra approached Vasishta and all other distinguised sages following the protocal and enquired about their welfare.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "ते सर्वे हृष्टमनसस्तस्य राज्ञो निवेशनम्।।1.18.47।।\nविविशु: पूजितास्तत्र निषेदुश्च यथार्हत:।",
+      "transliteration": "",
+      "translation": "All of them with gladdened hearts entered the royal palace and sat down, in accordance with their position after having been duly honoured by the king.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "अथ हृष्टमना राजा विश्वामित्रं महामुनिम्।।1.18.48।।\nउवाच परमोदारो हृष्टस्तमभिपूजयन्।",
+      "transliteration": "",
+      "translation": "Then the munificent king, very much (at Viswamitra's arrival) pleased offered him a happy hospitality and spoke:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "यथाऽमृतस्य सम्प्राप्तिर्यथावर्षमनूदके।\nयथा सदृशदारेषु पुत्रजन्माऽप्रजस्य च ।।1.18.49।।\nप्रणष्टस्य यथालाभो यथा हर्षो महोदये।\nतथैवागमनं मन्ये स्वागतं ते महामुने।।1.18.50।।",
+      "transliteration": "",
+      "translation": "\"O great sage, welcome to you Your arrival, to me, is like nectar (to a human being), rains to the parched land, birth of a son to the childless through his worthy wife, recovery of lost properity and festive joy in a great achievemnt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "कं च ते परमं कामं करोमि किमु हर्षित: ।।1.18.51।।\nपात्रभूतोऽसि मे ब्रह्मन्दिष्टया प्राप्ताऽसि कौशिक ।\nअद्य मे सफलं जन्म जीवितं च सुजीवितम्।।1.18.52।।",
+      "transliteration": "",
+      "translation": "\"O Brahman! what is your desire and in what manner shall I fulfill it to your satisfaction? You are a role model for righteousness. How fortunate I am you have come! My birth is rendered fruitful. My life has accomplished its objective.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "पूर्वं राजर्षिशब्देन तपसा द्योतितप्रभः।\nब्रह्मर्षित्वमनुप्राप्त: पूज्योऽसि बहुधा मया।।1.18.53।।",
+      "transliteration": "",
+      "translation": "Earlier you were rajarshi, a warrior sage. By your austerities you have obtained the brilliance that lends radiance even to the Sun and the Moon you have gained the status of a brahmrshi. In several ways you are worthy of my worship.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "तदद्भुतमिदं ब्रह्मन्पवित्रं परमं मम।\nशुभक्षेत्रगतश्चाहं तव सन्दर्शनात्प्रभो।।1.18.54।।",
+      "transliteration": "",
+      "translation": "O Brahman your arrival has caused surprise to me. It has conferred great purity on me. O Lord by your very presence here, I feel I haved acquired the merits of a          pilgrimage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "ब्रूहि यत्प्रार्थितं तुभ्यं कार्यमागमनं प्रति।\nइच्छाम्यनुगृहीतोऽहं त्वदर्थपरिवृद्धये।।1.18.55।।",
+      "transliteration": "",
+      "translation": "Be pleased to tell me the purpose of your visit. I desire to be given the privilege of  doing service to achieve your object.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "कार्यस्य न विमर्शं च गन्तुमर्हसि कौशिक।\nकर्ता चाहमशेषेण दैवतं हि भवान्मम।।1.18.56।।",
+      "transliteration": "",
+      "translation": "O Viswamitra you need not hesitatate to tell me what ought to be performed. I shall accomplish that act in every possible special way. You are a god to me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "मम चायमनुप्राप्तो महानभ्युदयो द्विज।\nतवागमनज: कृत्स्नो धर्मश्चानुत्तमो मम।।1.18.57।।",
+      "transliteration": "",
+      "translation": "O Brahmin I have attained this high foutune today. My great merit has been realised as a result of your arrival\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-18-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "इति हृदयसुखं निशम्य वाक्यं \nश्रुतिसुखमात्मवता विनीतमुक्तम्।\nप्रथितगुणयशा गुणैर्विशिष्ट:\nपरमऋषि: परमं जगाम हर्षम्।।1.18.58।।",
+      "transliteration": "",
+      "translation": "On hearing the words spoken in such an humble manner by the prudent king words pleasing  to the mind and to the ears, the great rishi of  celebrated virtues and fame, of sterling qualities experienced deep delight. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे अष्टादशस्सर्ग:।। Thus ends the eighteenth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 110,
+    "title": "Tumultuous war takes place between Rama and Ravana for seven days and nights both using powerful arrows, maces, and mallets.",
+    "titleSanskrit": "",
+    "totalShlokas": 33
+  },
+  "shlokas": [
+    {
+      "id": "v6-110-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तौतथायुध्यमानौतुसमरेरामरावणौ ।\nददृशुस्सर्वभूतानिविस्मितेनान्तरात्मना ।।6.110.1।।",
+      "transliteration": "",
+      "translation": "As Rama and Ravana were thus fighting in war, all beings watched with astonishment in mind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अर्धयन्तौतुसमरेतयोस्तौस्यन्दनोत्तमौ ।\nपरस्परमभिक्रुद्धौपरस्परमभिद्रुतौ ।।6.110.2।।",
+      "transliteration": "",
+      "translation": "Both of them were moving quickly seeking to gain one another, very furiously persevering.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "परस्परवधेयुक्तौघोररूपौबभूवतुः ।\nमण्डलानि च वीधीश्चगतप्रत्यागतानि च ।।6.110.3।।\nदर्शयन्तौबहुविधांसूतसामर्थ्यजांगतिम् ।",
+      "transliteration": "",
+      "translation": "Both striking one another diligently, going in circles moving forward and backward displaying feats, went on.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "अर्धयन्रावणंरामोराघवंचापिरावणः ।।6.110.4।।\nगतिवेगंसमापन्नौप्रतिवेगप्रवर्तने ।",
+      "transliteration": "",
+      "translation": "Ravana hurting Rama and vice versa displaying quickness in retaliation and speed of arrows, the fight happened.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "क्षिपतोश्शरजालानितयोस्तौस्यन्दनोत्तमौ ।।6.110.5।।\nचेरतुस्सम्युगमहीं सासारौ जलदाविव ।",
+      "transliteration": "",
+      "translation": "The network of arrows released by both of them from the chariots were like water streams from two clouds in the battlefield",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "दर्शयित्वातदातौतुगतिंबहुविधांरणे ।।6.110.6।।\nपरस्परस्याभिमुखौपुनरेव च तस्थतुः ।",
+      "transliteration": "",
+      "translation": "Then those two, having seen many movements, once again stood facing each other in the battlefield.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "धुरंधुरेणरथयोर्वक्त्रंवक्त्रेणवाजिनाम् ।।6.110.7।।\nपताकाश्चपताकाभिस्समीयुस्स्थितयोस्तदा ।",
+      "transliteration": "",
+      "translation": "The two chariots stood facing each other on the battlefield once more, the axle of one chariot facing the axle of another chariot, the flag of one with another flag, the standard with another standard, the face of one horse with the face of another horse stood and it seemed as though they were together.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "रावणस्यततोरामोधनुर्मुस्तैश्शितैश्शरैः ।।6.110.8।।\nचतुर्भिश्चतुरोदीप्तान्हयान्प्रत्यपसर्पयत् ।",
+      "transliteration": "",
+      "translation": "Thereupon, Rama, stretching the bow, released four sharp glowing arrows at Ravana's four horses and drove them back.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "सक्रोधवशमापन्नोहयानामपसर्पणे ।।6.110.9।।\nमुमोचनिशितान्बाणान्राघवायदशाननः ।",
+      "transliteration": "",
+      "translation": "Fallen prey to anger for retreating the horses, the ten headed Ravana released pointed arrows on Raghava.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "सोतिविद्धोबलवतादशग्रीवेणराघवः ।।6.110.10।।\nजगाम न विकारं च न चापिव्यथितोऽभवत् ।",
+      "transliteration": "",
+      "translation": "Raghava, though wounded by the mighty Ravana's arrows, did notexperience suffering or agitation, nor disquiet.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "चिक्षेप च पुनर्भाणान्वज्रपातसमस्वनान् ।।6.110.11।।\nसारथिंवज्रहस्तस्यसमुद्दिश्यदशाननः ।",
+      "transliteration": "",
+      "translation": "The ten headed Ravana with his thunderbolt like hands hurled arrows and struck the charioteer of Rama, making sounds like thunder.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "मातलेस्तुमहावेगाश्शरीरेपतिताश्शराः ।।6.110.12।।\nन सूक्ष्ममपिसम्मोहंव्यथांवाप्रददुर्युधि ।",
+      "transliteration": "",
+      "translation": "Even though the arrows fell on Matali's body at great speed, he did not feel perturbed or experience even slight suffering.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तयाधर्षणयाक्रुद्धोमातलेर्नतथात्मनः ।।6.110.13।।\nचकारशरजालेनराघवोविमुखंरिपुम् ।",
+      "transliteration": "",
+      "translation": "Rama was furious for tormenting Matali like that, but not for hurting him and in fury discharged a network of arrows on him (Ravana) and diverted him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "विंशतिंत्रिंशतिंषष्टिंशतशोऽथसहस्रशः ।।6.110.14।।\nमुमोचराघवोवीरस्सायकान्स्यन्दनेरिपोः ।",
+      "transliteration": "",
+      "translation": "Heroic Raghava thereafter, let loose shafts in twenties, thirties, sixties, hundreds, and thousands at Ravana's chest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "रावणोऽपिततःक्रुद्धोरथस्थराक्षसेश्वरः ।।6.110.15।।\nगदामुसलवर्षेणरामंप्रत्यर्दयद्रणे ।",
+      "transliteration": "",
+      "translation": "Enraged Ravana, the king of Rakshasas, also in return, retaliated with maces and mallets.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तत्प्रवृतंपुनर्युद्धंतुमुलंरोमहर्षणम् ।।6.110.16।।\nगदानांमुसलानां च परिघाणांचनिस्स्वनैः ।\nशराणांपुङ्खवातैश्चक्षुभितास्सप्तसागराः ।।6.110.17।।",
+      "transliteration": "",
+      "translation": "Once again ensued a tumultuous war fought with maces, mallets, and iron bars, caused hair to stand and the resound of the speed of weapons caused agitation in the seven seas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "क्षुब्दानांसागराणां च पातालतलवासिनः ।\nव्यथितादानवाःसर्वेपन्नगाश्चसहस्रशः ।।6.110.18।।",
+      "transliteration": "",
+      "translation": "By the agitation and sounds in the seas, all the Danavas and snakes in thousands inhabiting the seas got distressed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "चकम्पेमेदिनीकृत्स्नासशैलवनकानना ।\nभास्करोनिष्प्रभश्चासीन्नवनौचापिमारुतः ।।6.110.19।।",
+      "transliteration": "",
+      "translation": "The entire globe with its mountains, gardens and forests shook, the Sun lost his radiance, even the wind did not blow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "ततोदेवास्सगन्धर्वास्सिद्धाश्चपरमर्षयः ।\nचिन्तामापेदिरेसर्वेसकिन्नरमहोरगाः ।।6.110.20।।",
+      "transliteration": "",
+      "translation": "Thereafter, the Gandharvas, Devas, Siddhas, great sages, Kinneras and huge serpents all of them became anxious.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "स्वस्तिगोब्राह्मणेभ्योऽस्तुलोक���स्तिष्ठन्तुशाश्वताः ।\nजयतांराघयसङ्ख्येरावणंराक्षसेश्वरम् ।।6.110.21।।\nएवंजपन्तोऽपश्यंस्तेदेवास्सर्षिगणास्तदा ।\nरामरावणयोर्युद्धंसुघोरंरोमहर्षणम् ।।6.110.22।।",
+      "transliteration": "",
+      "translation": "\"May the hosts of sages, Devas, cows and brahmanas be auspicious. May all the worlds endure forever. May Rama conquer Ravana, the Rakshasa king,\" chanting in that manner all witnessed the terrific war between Rama and Ravana that caused hair to stand.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "गन्धर्वाप्सरसांसङ्घादृष्टवायुद्धमनूपमम् ।\nगगनंगगनाकारंसागरस्सागरोपमः ।।6.110.23।।\nरामरावणयोर्युद्धंरामरावणयोरिव ।\nएवंब्रुवन्तोददृशुस्तद्युद्धंरामरावणम् ।।6.110.24।।",
+      "transliteration": "",
+      "translation": "Gandharvas and Apsaras watching the combination of Rama and Ravana fighting an unimaginable war said that sky is its own analogue for sky, sea is its own analogue to sea, in the same way is the struggle between Rama and Ravana is unique like Rama and Ravana's struggle and looked at the combat.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "ततःक्रोधान्महाबासूरघूणांकीर्तिवर्धनः ।\nसन्धायधनुषारामश्शरमाशीविषोपमम् ।।6.110.25।।\nरावणस्यशिरोऽच्छिन्दच्छ्रीमज्ज्वलितकुण्डलम् ।\nतछचिरःपतितंभूमौदृष्टंइलोकैस्त्रिभिस्तदा ।।6.110.26।।",
+      "transliteration": "",
+      "translation": "Then the mighty armed Raghava, enhancer of glory, in wrath like a venomous snake, fitting the bow with arrows cut off the head of Ravana graced with shining earrings. Then the three worlds witnessed the head cut off and fallen on the earth surface.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तस्यैवसदृशंचान्यद्रावणस्योत्थितंशिरः ।\nतत्क्षिप्तंक्षिप्रहस्तेनरामेणक्षिप्रकारिणा ।।6.110.27।।",
+      "transliteration": "",
+      "translation": "A similar looking head arose on Ravana's head. Rama, endowed with a quick hand, cut off by his hand the other head.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "द्वितीयंरावणशिरश्छिन्नंसम्यतिसायकैः ।\nछिन्नमात्रं च तच्चीर्षंपुनरेवप्रदृश्यते ।।6.110.28।।",
+      "transliteration": "",
+      "translation": "Before cutting that second head of Ravana again another head appeared.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तदप्यशनिसङ्काशैश्छिन्नंरामस्यसायकैः ।\nएवमेवशतंछिन्नंशिरसांतुल्यवर्चसाम् ।।6.110.29।।",
+      "transliteration": "",
+      "translation": "Rama cut off the afore said head with Indra's thunderbolt like arrows. In that way equally charming a hundred heads were struck off.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "न चैवरावणस्यान्तोदृश्यतेजीवितक्षये ।\nततस्सर्वास्त्रविद्वीरःकौसल्यानन्दवर्धनः ।।6.110.30।।\nमार्गणैर्बहुभिर्युक्तश्चिन्तयामासराघवः ।",
+      "transliteration": "",
+      "translation": "Rama, knower of all shastras, valiant, enhancer of Kausalya's joy, well versed in the use of weapons, was not able to see the end of Ravana's life. He started thinking.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "मारीचोनिहतोयैस्तुखरोयैस्तुसदूषणः ।।6.110.31।।\nक्रौञ्चावनेविराधस्तुकबन्धोदण्डकेवने ।\nयैस्सालागिरयोभग्नावाली च क्षुभितोऽम्बुधिः ।।6.110.32।।\nत इमेसायकास्सर्वेयुद्धेप्रात्ययिकामम\nकिनुतत्कारणंयेनरावणेमन्दतेजसः ।।6.110.33।।",
+      "transliteration": "",
+      "translation": "'Earlier, by my arrows, Maricha was killed, Dushana and Khara were killed, Kabhanda was killed in Krauncha forest, Virada was killed in Dandaka forest. By which arrows Sala trees were cut off, mountain was broken, ocean was agitated, and Vali was killed, are wasted with Ravana, who is less brilliant in war. What is the reason?'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "इतिचिन्तापरश्चासीदप्रमत्तश्चसम्युगे ।\nववर्षशरवर्षाणीराघवोरावणोरसि ।।6.110.34।।",
+      "transliteration": "",
+      "translation": "Even though Raghava was thinking so, yet remaining alert in the duel, rained arrows on Ravana's chest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "रावणोऽपिततःक्रुद्धोरथस्थोराक्षसेश्वरः ।\nगदामुसलवर्षेणरामंप्रत्यर्दयद्रणे ।।6.110.35।।",
+      "transliteration": "",
+      "translation": "Valiant enemy of Raghava also seated in the chariot, rained three hundred, sixties, hundreds, and thousands of arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "तत्प्रवृत्तंमहद्युद्धंतुमुलंरोमहर्षणम् ।\nअन्तरिक्षे च भूमौ च पुनश्चगिरिमूर्धनि ।।6.110.36।।",
+      "transliteration": "",
+      "translation": "Great war commenced in the sky, as well as on the earth, and on top of mountain again, which was horipulating,",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "देवदानवयक्षाणांपिशाचोरगरक्षसाम् ।\nपश्यतांतन्महायुद्धंसप्तरात्रमवर्तत ।।6.110.37।।",
+      "transliteration": "",
+      "translation": "The Devas, Danavas, Yakshasas also the fiends Demon, Nagas and Rakshasas watched the great war that continued for seven days and nights.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "नैव रात्रिं न दिवसंमुहूर्तं न च क्षणम् ।\nरामरावणयोर्युद्धंविराममुपगच्छति ।।6.110.38।।",
+      "transliteration": "",
+      "translation": "The fight between Rama and Ravana continued all day and night, without stopping for a moment.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-110-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "दशरथसुतराक्षसेन्द्रयोर्जयमनवेक्ष्यरणे स राघवस्य ।\nसुरवररथसारथिर्महात्मारणरतराममुवाचवाक्यमाशु ।।6.110.39।।",
+      "transliteration": "",
+      "translation": "Great charioteer of Indra desiring to see Rama's victory in the duel between Dasharatha's son and Rakshasa king, spoke these words. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेदशोत्तरशततमस्सर्ग: ।। This is the end of one hundred and tenth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

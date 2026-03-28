@@ -1,0 +1,324 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 24,
+    "title": "Rama sees signs of war -- asks Sita and Lakshmana to stay in the cave and proceeds to meet Khara.",
+    "titleSanskrit": "",
+    "totalShlokas": 34
+  },
+  "shlokas": [
+    {
+      "id": "v3-24-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "आश्रमं प्रति याते तु खरे खरपराक्रमे।\nतानेवौत्पातिकान्रामस्सह भ्रात्रा ददर्श ह।।3.24.1।।",
+      "transliteration": "",
+      "translation": "When Khara endowed with malicious might was marching towards the hermitage, Rama and his brother saw the same omens of impending calamity the demon had seen.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तानुत्पातान्महोघोरानुत्थितान्रोमहर्षणान्।\nप्रजानामहितान्दृष्ट्वा रामो लक्ष्मणमब्रवीत्।।3.24.2।।",
+      "transliteration": "",
+      "translation": "When Rama saw the most dreadful, horripilating phenomena foreboding calamity, he said to Lakshmana:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "इमान्पश्य महाबाहो सर्वभूतापहारिणः।\nसमुत्थितान्महोत्पातान्संहर्तुं सर्वराक्षसान्।।3.24.3।।",
+      "transliteration": "",
+      "translation": "O longarmed Lakshmana see these calamitous phenomena that forebode mass destruction of men and demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "अमी रुधिरधारास्तु विसृजन्तः खरस्वनाः।\nव्योम्नि मेघा विवर्तन्ते परुषा गर्दभारुणाः।।3.24.4।।",
+      "transliteration": "",
+      "translation": "These rumbling clouds, brownishred like the colour of a donkey,  are moving about in the sky showering streams of blood.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "सधूमाश्च शरास्सर्वे मम युद्धाभिनन्दिनः।\nरुक्मपृष्ठानि चापानि विचेष्टन्ते च लक्ष्मण।।3.24.5।।",
+      "transliteration": "",
+      "translation": "O Lakshmana all my arrows are smoking and this goldplated bow welcomes me to war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "यादृशा इह कूजन्ति पक्षिणः वनचारिणः।\nअग्रतो नो भयं प्राप्तं संशयो जीवितस्य च।।3.24.6।।",
+      "transliteration": "",
+      "translation": "The way the forestbirds are screeching makes me foresee danger and makes survival doubtful.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "सम्प्रहारस्तु सुमहान्भविष्यति न संशयः।\nअयमाख्याति मे बाहुस्स्फुरमाणो मुहुर्मुहुः।।3.24.7।।\nसन्निकर्षे तु न श्शूर जयं शत्रोः पराजयम्।\nसप्रभं च प्रसन्नं च तव वक्त्रं हि लक्ष्यते।।3.24.8।।",
+      "transliteration": "",
+      "translation": "A mass destruction of life is going to take place. There is no doubt about it. O brave Lakshmana my right shoulder trembles again and again, indicating the defeat of the enemy. Your beaming visage presages victory.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "उद्यतानां हि युद्धार्थं येषां भवति लक्ष्मण।\nनिष्प्रभं वदनं तेषां भवत्यायुः परिक्षयः।।3.24.9।।",
+      "transliteration": "",
+      "translation": "O Lakshmana, while preparing for war, those whose faces look pale are, for sure, going to die.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "रक्षसां नर्दतां घोरश्श्रूयते च महाध्वनिः।\nआहतानां च भेरीणां राक्षसैः क्रूरकर्मभिः।।3.24.10।।",
+      "transliteration": "",
+      "translation": "A dreadful roar of demons and the loud sound of wardrums beaten by the wicked demons are heard.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अनागतविधानं तु कर्तव्यं शुभमिच्छता।\nआपदं शङ्कमानेन पुरुषेण विपश्चिता।।3.24.11।।",
+      "transliteration": "",
+      "translation": "A wise man who apprehends danger or one who desires his own good should plan his defence even before the onset of danger.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तस्माद्गृहीत्वा वैदेहीं शरपाणिर्धनुर्धरः।\nगुहामाश्रय शैलस्य दुर्गां पादपसङ्कुलाम्।।3.24.12।।",
+      "transliteration": "",
+      "translation": "Therefore, take shelter along with Sita in the inaccessible mountain cave, overgrown with trees, ready with your bow and arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "प्रतिकूलितुमिच्छामि न हि वाक्यमिदं त्वया।\nशापितो मम पादाभ्यां गम्यतां वत्स मा चिरम्।।3.24.13।।",
+      "transliteration": "",
+      "translation": "O dear, I do not like you to oppose this word of honour. You must touch my feet and  go without delay.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "त्वं हि शूरश्च बलवान्हन्याह्येतान्न संशयः।\nस्वयं तु हन्तुमिच्छामि सर्वानेव निशाचरान्।।3.24.14।।",
+      "transliteration": "",
+      "translation": "You are valiant and strong. There is no doubt that you can kill all these demons. But I desire to kill them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु रामेण लक्ष्मणस्सह सीताया।\nशरानादाय चापं च गुहां दुर्गां समाश्रयत्।।3.24.15।।",
+      "transliteration": "",
+      "translation": "Thus ordered by Rama, Lakshmana took the arrows and the bow and accompanied by Sita took shelter in the inaccessible cave.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तस्मिन्प्रविष्टे तु गुहां लक्ष्मणे सह सीतया।\nहन्त निर्युक्तमित्युक्त्वा रामः कवचमाविशत्।।3.24.16।।",
+      "transliteration": "",
+      "translation": "With Lakshmana and Sita inside the cave, Rama heaved his shield, saying, Oh the work is accomplished.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "स तेनाग्नि निकाशेन कवचेन विभूषितः।\nबभूव राम स्तिमिरे विधूमोऽग्निरिवोत्थितः।।3.24.17।।",
+      "transliteration": "",
+      "translation": "Adorned with the shield, Rama shone like smokeless fire rising in darkness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "स चापमुद्यम्य महच्छरानादाय वीर्यवान्।\nबभूवावस्थितस्त��्र ज्यास्वनैः पूरयन्दिशः।।3.24.18।।",
+      "transliteration": "",
+      "translation": "Valiant Rama lifted the huge bow and arrows and stood there, filling the directions with the twangs of his bow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "ततो देवास्सगन्धर्वास्सिद्धाश्च सह चारणैः।\nसमेयुश्च महात्मानो युद्धदर्शनकाङ्क्षिणः।।3.24.19।।",
+      "transliteration": "",
+      "translation": "Then the gods along with gandharvas, siddhas, and celestial bards assembled there, wishing to witness the war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "ऋषयश्च महात्मानो लोके ब्रह्मर्षिसत्तमाः।\nसमेत्य चोचुस्सहिता अन्योन्यं पुण्यकर्मणः।।3.24.20।।",
+      "transliteration": "",
+      "translation": "Great ascetics of the world, distinguished brahmarsis, accomplishers of pious deeds assembled and said to one another:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "स्वस्ति गोब्राह्मणेभ्योऽस्तु लोकानां येऽभिसङ्गताः। \nजयतां राघवो युद्धे पौलस्त्यान् रजनीचरान्।।3.24.21।।\nचक्रहस्तो यथा युद्धे सर्वानसुर पुङ्गवान्।",
+      "transliteration": "",
+      "translation": "'Let there be wellbeing for the cows, brahmins, and all the worlds. Let Rama, the scion of the Raghu race, conquer the Paulastyas (demons) in war like lord Visnu, wielder of the disc, who defeated the most powerful demons'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "एवमुक्त्वा पुनः प्रोचुरालोक्य च परस्परम्।।3.24.22।।\nचतुर्दश सहस्राणि रक्षसां भीमकर्मणाम्।\nएकश्च रामो धर्मात्मा कथं युद्धं भविष्यति।।3.24.23।।",
+      "transliteration": "",
+      "translation": "Thus looking at one another they discussed among themselves how there can be war between the righteous Rama fighting singlehanded on the one hand and the fourteen thousand demons, performers of terrific deeds, on the other.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "इति राजर्षयस्सिद्धास्सगणाश्च द्विजर्षभाः।\nजातकौतूहलास्तस्थुर्विमानस्थाश्च देवताः।।3.24.24।।",
+      "transliteration": "",
+      "translation": "Rajarsis, siddhas, great brahmins with their clan and gods on the celestial chariots waited to see the war whetted with curiosity.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "आविष्टं तेजसा रामं सङ्ग्रामशिरसि स्थितम्।\nदृष्ट्वा सर्वाणि भूतानि भयाद्विव्यथिरे तदा।।3.24.25।।",
+      "transliteration": "",
+      "translation": "Seeing Rama standing on the war front, engrossed and radiating heroic lustre, all beings were alarmed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "रूपमप्रतिमं तस्य रामस्याक्लिष्टकर्मणः।\nबभूव रूपं क्रुद्धस्य रुद्रस्येव पिनाकिनः।।3.24.26।।",
+      "transliteration": "",
+      "translation": "Rama, who is unwearied in action and who is of an incomparable (lovely) form, looked ferocious like the wielder of Pinaka (Lord Siva).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "ततो गम्भीरनिर्ह्रादं घोरवर्मायुधध्वजम्।\nअनीकं यातुधानानां समन्तात्प्रत्यदृश्यत।।3.24.27।।",
+      "transliteration": "",
+      "translation": "Then appeared on all sides the wellequipped army of demons raising deep sounds with dreadful shields, weapons and banners.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "सिंहनादं विसृजतामन्योन्यमभिगर्जताम्।\nचापानि विस्फ़ारयतां जृम्भतामप्यभीक्ष्णशः।।3.24.28।।\nविप्रघुष्टस्वनानां च दुन्धुभींश्चापि निघ्नताम्।\nतेषां सुतुमुलश्शब्दः पूरयामास तद्वनम्।।3.24.29।।",
+      "transliteration": "",
+      "translation": "The forest was filled with tumultuous sounds of the warriors roaring like lions,  shouting at one another, stretching the bowstrings constantly, yawning, proclaiming loudly and beating the drums.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "तेन शब्देन वित्रस्ताश्वापदा वनचारिणः।\nदुद्रुवुर्यत्र निश्शब्दं पृष्ठतो न व्यलोकयन्।।3.24.30।।",
+      "transliteration": "",
+      "translation": "The ferocious animals of the forest got frightened and ran away to silent spots without looking back.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "तत्त्वनीकं महाघोरं रामं समुपसर्पत।\nधृतनानाप्रहरणं गम्भीरं सागरोपमम्।।3.24.31।।",
+      "transliteration": "",
+      "translation": "The fierce army, deep like the sea, equipped with various missiles approached Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "रामोऽपि चारयंश्चक्षुस्सर्वतो रणपण्डितः।\nददर्श खरसैन्यं तद्युद्धाभिमुखमुत्थितम्।।3.24.32।।",
+      "transliteration": "",
+      "translation": "Rama, wellversed in warfare, cast his eyes on all sides to see the army of Khara that had come prepared for war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "वितत्य च धनुर्भीमं तूण्याश्चोद्धृत्य सायकान्।\nक्रोधमाहारयत्तीव्रं वधार्थं सर्वरक्षसाम्।।3.24.33।।",
+      "transliteration": "",
+      "translation": "Rama stretched the formidable bow and lifted the arrows from his quiver to kill the demons and assumed intense anger.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "दुष्प्रेक्ष्यस्सोऽभवत्कृद्धो युगान्ताग्निरिव ज्वलन्।\nतं दृष्ट्वा तेजसाविष्टं प्राद्रवन्वनदेवताः।।3.24.34।।",
+      "transliteration": "",
+      "translation": "Rama stood burning in anger like the fire of the doom's day. It was difficult even to look at him. Seeing him full of glow even the sylvan deities ran away.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "तस्य क्रुद्धस्य रूपं तु रामस्य ददृशे तदा।\nदक्षस्येव क्रतुं हन्तुमुद्यतस्य पिनाकिनः।।3.24.35।।",
+      "transliteration": "",
+      "translation": "Rama in anger looked like Lord Siva ready to destroy the sacrifice of Daksha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "आविष्टं तेजसा रामं सङ्ग्रामशिरसि स्थितम्।\nदृष्ट्वा सर्वाणि भूतानि भयार्तानि प्रदुद्रुवुः।।3.24.36।।",
+      "transliteration": "",
+      "translation": "Seeing Rama flashing (in anger) and standing on the warfront all creatures ran away frightened.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-24-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "तत्कार्मुकैराभरणैर्ध्वजैश्च तैर्वर्मभिश्चाग्निसमानवर्णैः।\nबभूव सैन्यं पिशिताशनानां सूर्योदये नीलमिवाभ्रबृन्दम्।।3.24.37।।",
+      "transliteration": "",
+      "translation": "The army of demons equipped with blazing armour, bows and banners appeared like a mass of blue clouds at Sunrise.  इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे चतुर्विंशस्सर्गः।। Thus ends the twentyfourth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

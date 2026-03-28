@@ -1,0 +1,279 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 61,
+    "title": "Kausalya condemns Dasaratha's action -- Dasaratha loses his senses out of intense grief.",
+    "titleSanskrit": "",
+    "totalShlokas": 29
+  },
+  "shlokas": [
+    {
+      "id": "v2-61-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "वनं गते धर्मपरे रामे रमयतां वरे।\nकौसल्या रुदती स्वार्ता भर्तारमिदमब्रवीत्।।2.61.1।।",
+      "transliteration": "",
+      "translation": "When Rama, the greatest among those who please the people, he who was conscious of his duty left for the forest. Kausalya, sobbing in bitter anguish, said to her husband:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-61-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "यद्यपि त्रिषु लोकेषु प्रथितं ते महद्यशः।\nसानुक्रोशो वदान्यश्च प्रियवादी च राघवः।।2.61.2।।",
+      "transliteration": "",
+      "translation": "Your great fame has spread all over the three worlds. People know you as compassionate, generous and sweetspeaking scion of the Raghus.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-61-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "कथं नरवरश्रेष्ठ पुत्रौ तौ सह सीतया।\nदुःखितौ सुखसंवृद्धौ वने दुःखं सहिष्यतः।।2.61.3।।",
+      "transliteration": "",
+      "translation": "O Dasaratha, the best among kings, how will your two sons and Sita brought up in great comfort now tolerate the hardships of forest life?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-61-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "सा नूनं तरुणी श्यामा सुकुमारी सुखोचिता।\nकथमुष्णं च शीतं च मैथिली प्रसहिष्यते।।2.61.4।।",
+      "transliteration": "",
+      "translation": "How can the daughter of Mithila (Sita) who in the prime of her life, accustomed to comforts, endure  heat and cold indeed?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-61-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "भुक्त्वाऽशनं विशालाक्षी सूपदं शान्वितं शुभम्।\nवन्यं नैवारमाहारं कथं सीतोपभोक्ष्यते।।2.61.5।।",
+      "transliteration": "",
+      "translation": "How can the largeeyed Sita having enjoyed delicious food mixed with condiments and soup now partake the food prepared with wild grains?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-61-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "गीतवादित्रनिर्घोषं श्रुत्वा शुभमनिन्दिता।\nकथं क्रव्यादसिंहानां शब्दं श्रोष्यत्यशोभनम्।।2.61.6।।",
+      "transliteration": "",
+      "translation": "How can the blameless Sita, used to the soft sound of songs and musical  instruments hear the frightful roars of lions and other carnivorous animals?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-61-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "महेन्द्रध्वजसङ्काशः क्व नु शेते महाभुजः।\nभुजं परिघसङ्काशमुपधाय महाबलः।।2.61.7।।",
+      "transliteration": "",
+      "translation": "Where will that mightyarmed and powerful Rama, as lofty as Indra's banner, sleep using his ironbarlike arm as pillow?.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-61-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "पद्मवर्णं सुकेशान्तं पद्मनिश्श्वासमुत्तमम्।\nकदा द्रक्ष्यामि रामस्य वदनं पुष्करेक्षणम्।।2.61.8।।",
+      "transliteration": "",
+      "translation": "When shall I see Rama with his lotushued face, his beautiful locks of hair, breath of lotus fragrance and eyes like blue lotus?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-61-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "वज्रसारमयं नूनं हृदयं मे न संशयः।\nअपश्यन्त्या न तं यद्वै फलतीदं सहस्रधा।।2.61.9।।",
+      "transliteration": "",
+      "translation": "No doubt my heart must be made of thunderbolt, since unable to see Rama it does not split into a thousand pieces.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-61-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "यत्त्वयाऽकरुणं कर्म व्यपोह्य मम बान्धवाः।\nनिरस्ताः परिधावन्ति सुखार्हाः कृपणा वने।।2.61.10।।",
+      "transliteration": "",
+      "translation": "(O king) It is because of your heartless action, my Rama and my relatives who deserve to enjoy pleasures at this age have been banished and are miserably wandering in wilderness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-61-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "यदि पञ्चदशे वर्षे राघवः पुनरेष्यति।\nजह्याद्राज्यं च कोषं च भरतो नोपलक्षयते।।2.61.11।।",
+      "transliteration": "",
+      "translation": "Even if Rama returns in the fifteenth year, it is unlikely that Bharata will give up the kingdom and royal treasury (in favour of Rama).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-61-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "भोजयन्ति किल श्राद्धे केचित्स्वानेव बान्धवान्।\nततः पश्चात्समीक्षन्ते कृतकार्या द्विजर्षभान्।।2.61.12।।",
+      "transliteration": "",
+      "translation": "Some first feed their own relatives in shraddha ceremony and thereafter look for the best of brahmins to feed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-61-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तत्र ये गुणवन्तश्च विद्वांसश्च द्विजातयः।\nन पश्चात्तेऽभिमन्यन्ते सुधामपि सुरोपमाः।।2.61.13।।",
+      "transliteration": "",
+      "translation": "The godlike brahmins who are virtuous and learned will not accept the food after others have partaken even if it is ambrosia.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-61-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "ब्राह्मणेष्वपि तृप्तेषु पश्चाद्भोक्तुं द्विजर्षभाः।\nनाभ्युपैतुमलं प्राज्ञा श्शृङ्गच्छेदमिवर्षभाः।।2.61.14।।",
+      "transliteration": "",
+      "translation": "The bulls (best) among the wise brahmins would not like to accept the food after it is tasted by other brahmins, just as bulls dislike their horns being shorn.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-61-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "एवं कनीयसा भ्रात्रा भुक्तं राज्यं विशाम्पते।\nभ्राता ज्येष्ठो वरिष्ठश्च किमर्थं नावमंस्यते।।2.61.15।।",
+      "transliteration": "",
+      "translation": "O Lord of the world why not the eldest and the most distinguished among the brothers likewise disdain the kingdom enjoyed by the younger brother?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-61-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "न परेणाऽहृतं भक्ष्यं व्याघ्रः खादितुमिच्छति।\nएवमेतन्नरव्याघ्रः परलीढं न मन्यते।।2.61.16।।",
+      "transliteration": "",
+      "translation": "Just as a tiger will not eat the food acquired by another beast, Rama, the tiger (best) among men will not accept the kingdom enjoyed by others.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-61-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "हविराज्यं पुरोडाशाः कुशा यूपाश्च खादिराः।\nनैतानि यातयामानि कुर्वन्ति पुनरध्वरे।।2.61.17।।",
+      "transliteration": "",
+      "translation": "Havis, sacrificial offerings like ghee, cakes, kusha grass, and sacrificial posts made from khadira wood, once used in the sacrifice cannot be used again.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-61-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तथा ह्यात्तमिदं राज्यं हृतसारां सुरामिव।\nनाभिमन्तुमलं रामो नष्टसोममिवाध्वरम्।।2.61.18।।",
+      "transliteration": "",
+      "translation": "In the same way Rama will not accept this kingdom enjoyed by others like liquour or soma juice drained of its essence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-61-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "न चेमां धर्षणां राम सङ्गच्छेदत्यमर्षणः।\nदारयेन्मन्दरमपि स हि क्रुद्धश्शितैश्शरैः।।2.61.19।।",
+      "transliteration": "",
+      "translation": "Rama, highly determined will not suffer this indignity. If enraged, he can split open even mount Mandara with his sharp arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-61-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "त्वां तु नोत्सहते हन्तुं महात्मा पितृगौरवात्।\nससोमार्कग्रहगणं नभस्ताराविचित्रितम्।।2.61.20।।\nपातयेद्योदिवं क्रुद्धस्सत्वां न व्यतिवर्तते।\nप्रक्षोभयेद्वारये द्वा महीं शैलशताचिताम्।।2.61.21।।",
+      "transliteration": "",
+      "translation": "Out of respect for his father magnanimous Rama is not inclined to kill you. He has not defied the anger, the Sun, the Moon and the sky looking wonderful with stars can be pulled down. He will not even shake or break the earth surrounded by hundreds of mountains.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-61-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "नैवं विधमसत्कारं राघवो मर्षयिष्यति।\nबलवानिव शार्दूलो वालधेरभिमर्शनम्।।2.61.22।।",
+      "transliteration": "",
+      "translation": "A powerful tiger will not allow its tail to be twisted. In the same way Rama also will not tolerate an insult of this sort.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-61-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "नैतस्य सहिता लोका भयं कुर्युर्महामृथे।\nअधर्मंत्विह धर्मात्मा लोकं धर्मेण योजयेत्।।2.61.23।।",
+      "transliteration": "",
+      "translation": "Even if all the worlds were to unite and fight against him, he will not fear. This  righteous Rama will reestablish justice in this unrighteous world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-61-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "नन्वसौ काञ्चनैर्बाणैर्महावीर्यो महाभुजः।\nयुगान्त इव भूतानि सागरानपि निर्दहेत्।।2.61.24।।",
+      "transliteration": "",
+      "translation": "Valiant and mightyarmed Rama, with his golden shafts can annihilate all living beings and oceans like at the time of  deluge everything is consumed in fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-61-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "स तादृशस्सिंहबलो वृषभाक्षो नरर्षभः।\nस्वयमेव हतः पित्रा जलजेनात्मजो यथा।।2.61.25।।",
+      "transliteration": "",
+      "translation": "Such Rama, the best among men, powerful like a lion, with eyes fierce like that of a bull has been destroyed by his own father just as the big fish destroys its own offsprings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-61-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "द्विजातिचरितो धर्मश्शास्त्रदृष्टस्सनातनः।\nयदि ते धर्मनिरते त्वया पुत्रे विवासिते।।2.61.26।।",
+      "transliteration": "",
+      "translation": "You have banished your son who is devoted to righteousness. Is it in accordance with the scriptures and the eternal tradition followed by the twiceborn?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-61-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "गतिरेका पतिर्नार्या द्वितीया गतिरात्मजः।\nतृतीया ज्ञातयो राजंश्चतुर्थी नेह विद्यते।।2.61.27।।",
+      "transliteration": "",
+      "translation": "O king for a woman the first refuge is the husband, the second her son, the third her relatives and there is no fourth alternative in this world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-61-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "तत्र त्वं चैव मे नास्ति रामश्च वनमाश्रितः।\nन वनं गन्तुमिच्छामि सर्वथा निहता त्वया।।2.61.28।।",
+      "transliteration": "",
+      "translation": "You are nonexistent for my purpose. Rama has taken refuge in the forest and I do not like to go there. You have destroyed me in all possible ways.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-61-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "हतं त्वया राज्यमिदं सराष्ट्रं हतस्तथाऽत्मा सह मन्त्रिभिश्च।\nहता सपुत्राऽस्मि हताश्च पौरास्सुत श्च भार्या च तव प्रहृष्टौ।।2.61.29।।",
+      "transliteration": "",
+      "translation": "You have destroyed this kingdom, and the state along with its inhabitants. You have ruined yourself along with your ministers. You have brought disaster to me and to my son. Your son (Bharata) and your wife (Kaikeyi) are the only persons who are happy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-61-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "इमां गिरं दारुणशब्द संश्रितां निशम्य राजाऽपि मुमोह दुःखितः।\nतत स्स शोकं प्रविवेश पार्थिवस्स्वदुष्कृतं चापि पुनस्तदा स्मरन्।।2.61.30।।",
+      "transliteration": "",
+      "translation": "Hearing the words uttered in harrowing accents, the king overcome with deep distress became senseless. Recollecting his folly thereafter he fell into a sad state.  इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे एकषष्टितमस्सर्गः।। Thus ends the sixtyfirst sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

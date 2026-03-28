@@ -1,0 +1,387 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 2,
+    "title": "Valmiki goes to river Tamasa for morning ablutions -- He sees a male krauncha  being shot down by a hunter -- expresses the reflection of a female companion's sorrow in his experience in the form of a sloka in metrical form -- Lord Brahma appears at the hermitage -- directs him to compose the great poem in the same metre describing the story of Rama as related by Narada -- grants him the power of clairvoyance.",
+    "titleSanskrit": "",
+    "totalShlokas": 41
+  },
+  "shlokas": [
+    {
+      "id": "v1-2-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "नारदस्य तु तद्वाक्यं श्रुत्वा वाक्यविशारद:।\nपूजयामास धर्मात्मा सहशिष्यो महामुनि: ।।1.2.1।।",
+      "transliteration": "",
+      "translation": "On hearing the words of Narada the distinguished and righteous sage Valmiki, proficient in composing slokas worshipped him along with his disciples.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "यथावत्पूजितस्तेन देवर्षिर्नारदस्तदा ।       \nआपृष्ट्वैवाभ्यनुज्ञातस्स जगाम विहायसम् ।।1.2.2।।",
+      "transliteration": "",
+      "translation": "The divine sage Narada after having been worshipped by Valmiki in a befitting manner sought his leave and went to heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "स मुहूर्तं गते तस्मिन्देवलोकं मुनिस्तदा ।\nजगाम तमसातीरं जाह्नव्यास्त्वविदूरत: ।।1.2.3।।",
+      "transliteration": "",
+      "translation": "After Narada had gone to devaloka, sage Valmiki reached the bank of river Tamasa which is not very far from the Ganges for morning ablutions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "स तु तीरं समासाद्य तमसाया महामुनि: ।\nशिष्यमाह स्थितं पार्श्वे दृष्ट्वा तीर्थमकर्दमम् ।।1.2.4।।",
+      "transliteration": "",
+      "translation": "The eminent sage Valmiki reached the bank of Tamasa and seen a descent into the river with pellucid waters, spoke to the disciple standing by the side.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "अकर्दममिदं तीर्थं भरद्वाज निशामय ।\nरमणीयं प्रसन्नाम्बु सन्मनुष्यमनो यथा ।।1.2.5।।",
+      "transliteration": "",
+      "translation": "\"O Bharadwaja, behold the beautiful and pleasant waters of this river. This holy spot  is as clear and pure as the mind of a virtuous man.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "न्यस्यतां कलशस्तात दीयतां वल्कलं मम ।\nइदमेवावगाहिष्ये तमसातीर्थमुत्तमम् ।।1.2.6।।",
+      "transliteration": "",
+      "translation": "O dear one Put down the pitcher on the ground. Give me my garment. I shall take a dip in Tamasa, the holiest of places\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "एवमुक्तो भरद्वाजो वाल्मीकेन महात्मना ।    \nप्रायच्छत मुनेस्तस्य वल्कलं नियतो गुरो: ।।1.2.7।।",
+      "transliteration": "",
+      "translation": "Asked thus by the nobleminded master Valmiki, Bharadwaja, ever obedient to his spiritual master, gave the sage the bark garment.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "स शिष्यहस्तादादाय वल्कलं नियतेन्द्रिय: ।\nविचचार ह पश्यंस्तत्सर्वतो विपुलं वनम् ।।1.2.8।।",
+      "transliteration": "",
+      "translation": "Valmiki who had his senses under his command received the barkgarment from the hands of his disciple and wandered about in that extensive forest, looking all around.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तस्याभ्याशे तु मिथुनं चरन्तमनपायिनम् ।\nददर्श भगवांस्तत्र क्रौञ्चयोश्चारुनिस्वनम् ।।1.2.9।।",
+      "transliteration": "",
+      "translation": "Sage Valmiki espied a pair of melodious kraunchas. Flying about in each other's in separable company there in its vicinity.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तस्मात्तु मिथुनादेकं पुमांसं पापनिश्चय: ।\nजघान वैरनिलयो निषादस्तस्य पश्यत: ।।1.2.10।।",
+      "transliteration": "",
+      "translation": "A sinful and cruelhearted hunter struck down the male bird of the pair in his very  presence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तं शोणितपरीताङ्गं वेष्टमानं महीतले ।\nभार्या तु निहतं दृष्ट्वा रुराव करुणां गिरम् ।।1.2.11।।  \nवियुक्ता पतिना तेन द्विजेन सहचारिणा ।\nताम्रशीर्षेण मत्तेन पत्रिणा सहितेन वै ।।1.2.12।।",
+      "transliteration": "",
+      "translation": "The female companion saw the male bird struck down by the hunter and rolling on the earth, drenched in blood. Separated from her winged comparion with coppercrested head intoxicated with her love, the female companion lifted a piteous wail.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "तदा तु तं द्विजं दृष्ट्वा निषादेन निपातितम् ।\nऋषेर्धर्मात्मनस्तस्य कारुण्यं समपद्यत ।।1.2.13।।",
+      "transliteration": "",
+      "translation": "Then, having seen the bird struck down by the fowler, the pious sage Valmiki was filled with compassion.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तत: करुणवेदित्वादधर्मोऽयमिति द्विज: ।\nनिशाम्य रुदतीं क्रौञ्चीमिदं वचनमब्रवीत् ।।1.2.14।।",
+      "transliteration": "",
+      "translation": "Having heard the wailing of the female bird, the sage (Valmiki) moved to pity at this irreligious act uttered the following words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "मा निषाद प्रतिष्ठां त्वमगमश्शाश्वतीस्समा: ।\nयत्क्रौञ्चमिथुनादेकमवधी: काममोहितम् ।।1.2.15।।   15",
+      "transliteration": "",
+      "translation": "\"O fowler, since you have killed one of the pair of infatuated kraunchas you will be permanently deprived of your position\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तस्यैवं  ब्रुवतश्चिन्ता बभू��� हृदि वीक्षतः ।\nशोकार्तेनास्य शकुने: किमिदं व्याहृतं मया ।।1.2.16।।",
+      "transliteration": "",
+      "translation": "Brooding over his utterances, he reflected, 'What is this that I uttered in reaction to the grief of this bird?'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "चिन्तयन्स महाप्राज्ञश्चकार मतिमान्मतिम् ।\nशिष्यं चैवाऽब्रवीद्वाक्यमिदं स मुनिपुङ्गव: ।।1.2.17।।",
+      "transliteration": "",
+      "translation": "Very wise and learned, he (Valmiki), preeminent among sages, pondered over it (for a while) and spoke these words to his disciple.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "पादबद्धोऽक्षरसमस्तन्त्रीलयसमन्वित: ।\nशोकार्तस्य प्रवृत्तो मे श्लोको भवतु नान्यथा ।।1.2.18।।",
+      "transliteration": "",
+      "translation": "\"Occasioned by the griefstricken (state of the bird) and composed in rhymed lines each of equal number of syllables tuned to the accompaniment of stringed instruments, let it be known as a sloka and not by any other name\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "शिष्यस्तु तस्य ब्रुवतो मुनेर्वाक्यमनुत्तमम् ।\nप्रतिजग्राह संहृष्टस्तस्य तुष्टोऽभवद्गुरु: ।।1.2.19।।",
+      "transliteration": "",
+      "translation": "His disciple, delighted by the excellent verse composed by the sage, committed it to memory which left his spiritual preceptor pleased.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "सोऽभिषेकं तत: कृत्वा तीर्थे तस्मिन्यथाविधि ।\nतमेव चिन्तयन्नर्थमुपावर्तत वै मुनि: ।।1.2.20।।",
+      "transliteration": "",
+      "translation": "After having performed his ablution at that holy spot according to the prescribed ritual, the sage (Valmiki) returned (to his hermitage), pondering over the matter.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "भरद्वाजस्ततश्शिष्यो विनीतश्श्रुतवान्मुनेः ।\nकलशं पूर्णमादाय पृष्ठतोऽनुजगाम ह ।।1.2.21।।",
+      "transliteration": "",
+      "translation": "Then saint Bharadwaja, his disciple humble and learned in scriptures, followed him with a pitcher full (of water).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "स प्रविश्याश्रमपदं शिष्येण सह धर्मवित् ।\nउपविष्ट: कथाश्चान्याश्चकार ध्यानमास्थित: ।।1.2.22।।",
+      "transliteration": "",
+      "translation": "Valmiki who knows dharma entered the hermitage along with his disciple and sat in meditation and composed other stories.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "आजगाम ततो ब्रह्मा लोककर्ता स्वयं प्रभु: ।\nचतुर्मुखो महातेजा द्रष्टुं तं मुनिपुङ्गवम् ।।1.2.23।।",
+      "transliteration": "",
+      "translation": "At that moment, the effulgent, fourfaced Brahma, creator and lord of the world, himself, desirous of seeing him (Valmiki), the best among sages, arrived.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "वाल्मीकिरथ तं दृष्ट्वा सहसोत्थाय वाग्यत: ।\nप्राञ्जलि: प्रयतो भूत्वा तस्थौ परमविस्मित: ।।1.2.24।।",
+      "transliteration": "",
+      "translation": "Greatly surprised to see him, Valmiki, purified by austerities and disciplined in speech, immediately got up and with folded palms stood before him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "पूजयामास तं देवं पाद्यार्घ्यासनवन्दनै: ।\nप्रणम्य विधिवच्चैनं पृष्ट्वाऽनामयमव्ययम् ।।1.2.25।।",
+      "transliteration": "",
+      "translation": "Bowing with reverence as enjoined by tradition and having enquired of his well being,  Valmiki worshipped the immutable Brahma by falling at his feet and welcoming him with a seat and water to wash his feet with.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "अथोपविश्य भगवानासने परमार्चिते ।\nवाल्मीकये महर्षये सन्दिदेशासनं तत: ।।1.2.26।।",
+      "transliteration": "",
+      "translation": "Lord Brahma sat down on a highly worshipful seat and showed a seat for the  ascetic Valmiki to be seated.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "ब्रह्मणा समनुज्ञातस्सोऽप्युपाविशदासने ।   \nउपविष्टे तदा तस्मिन्सर्वलोकपितामहे।\nतद्गतेनैव मनसा वाल्मीकिर्ध्यानमास्थित: ।।1.2.27।।",
+      "transliteration": "",
+      "translation": "Having been ordered by Brahma, he also sat down on a seat. Although seated in the presence of the lord of the worlds, he was absorbed in the thought of events (leading to the death of the krauncha ).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "पापात्मना कृतं कष्टं वैरग्रहणबुद्धिना ।\nयस्तादृशं चारुरवं क्रौञ्चं हन्यादकारणात् ।।1.2.28।।",
+      "transliteration": "",
+      "translation": "The hunter killed the sweetvoiced krauncha without any cause. That sinfulminded one with hostile feeling of capturing it, had perpetrated this cruel act, he thought.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "शोचन्नेव मुहु: क्रौञ्चीमुपश्लोकमिमं पुन: ।\nजगावन्तर्गतमना भूत्वा शोकपरायण: ।।1.2.29।।",
+      "transliteration": "",
+      "translation": "Griefstricken, Valmiki having become introspective and lamenting the plight of the female krauncha  again and again, recited this sloka.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "तमुवाच ततो ब्रह्मा प्रहसन्मुनिपुङ्गवम् ।\nश्लोक एव त्वया बद्धो नात्र कार्या विचारणा ।।1.2.30।।",
+      "transliteration": "",
+      "translation": "Thereafter lord Brahma smilingly addressed Valmiki, the preeminent among sages, saying, \"You have indeed composed a sloka.There is no doubt about it\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "मच्छन्दादेव ते ब्रह्मन् प्रवृत्तेयं सरस्वती ।\nरामस्य चरितं सर्वं कुरु त्वमृषिसत्तम ।।1.2.31।।",
+      "transliteration": "",
+      "translation": "\"OBrahmarshi, at my will, this speech had originated from you. Most excellent ascetic, compose the history of Rama in its entirety (in this metre).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "धर्मात्मनो गुणवतो लोके रामस्य धीमत: ।\nवृत्तं कथय धीरस्य यथा ते नारदाच्छ्रुतम् ।।1.2.32।।",
+      "transliteration": "",
+      "translation": "Narrate the history of Rama who is renowned for righteousness, virtues, wisdom and steadfastness in the manner you have heard it from sage Narada.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "रहस्यं च प्रकाशं च यद्वृत्तं तस्य धीमत: ।\nरामस्य सहसौमित्रेः राक्षसानां च सर्वश: ।।1.2.33।।   \nवैदेह्याश्चैव यद्वृत्तं प्रकाशं यदि वा रह: ।\nतच्चाप्यविदितं सर्वं विदितं ते भविष्यति ।।1.2.34।।",
+      "transliteration": "",
+      "translation": "The incidents pertaining to sagacious Rama together with Lakshmana, Sita, Bharata, etc. and the rakshasas  their deeds, thoughts, unknown or known to everybody and even not known to you, will be revealed to you by my grace.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "न ते वागनृता काव्ये काचिदत्र भविष्यति ।\nकुरु रामकथां पुण्यां श्लोकबद्धां मनोरमाम् ।।1.2.35।।",
+      "transliteration": "",
+      "translation": "Not even a single word of yours in this epic will ever prove untruthful. Compose this sacred, delightful story of Rama, set in the form of slokas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "यावत् स्थास्यन्ति गिरयस्सरितश्च महीतले ।\nतावद्रामायणकथा लोकेषु प्रचरिष्यति ।।1.2.36।।",
+      "transliteration": "",
+      "translation": "As long as the mountains and rivers exist on this earth, the story of Ramayana will prevail among the people.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "यावद्रामायणकथा त्वत्कृता प्रचरिष्यति ।\nतावदूर्ध्वमधश्च त्वं मल्लोकेषु निवत्स्यसि ।।1.2.37।।",
+      "transliteration": "",
+      "translation": "So long as the story of the Ramayana composed by you is remembered in this world, you will live in the upper world, the nether world and Brahmaloka\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "इत्युक्त्वा भगवान्ब्रह्मा तत्रैवान्तरधीयत ।\nततस्सशिष्यो भगवान्मुनिर्विस्मयमाययौ ।।1.2.38।।",
+      "transliteration": "",
+      "translation": "Having spoken these words, lord Brahma vanished. At this he and his disciples were astonished.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "तस्य शिष्यास्ततस्सर्वे जगुश्श्लोकमिमं पुन: ।\nमुहुर्मुहु: प्रीयमाणा: प्राहुश्च भृशविस्मिता: ।।1.2.39।।",
+      "transliteration": "",
+      "translation": "Thereafter, the disciples of Valmiki chanted this sloka again and again in delight. They were greatly astonished and spoke about it often.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "समाक्षरैश्चतुर्भिर्य: पादैर्गीतो महर्षिणा ।\nसोऽनुव्याहरणाद्भूयश्श्लोकश्श्लोकत्वमागत: ।।1.2.40।।",
+      "transliteration": "",
+      "translation": "This sloka of four lines, each consisting of equal number of syllables, was recited by the maharshi. Constant recitation (by others) elicited admiration (from the listeners).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "तस्य बुद्धिरियं जाता वाल्मीकेर्भावितात्मन: ।\nकृत्स्नं रामायणं काव्यमीदृशै: करवाण्यहम् ।।1.2.41।।",
+      "transliteration": "",
+      "translation": "A thought occurred to Valmiki, who is capable of putting thoughts into action \"I shall  compose the epic named Ramayana entirely in this metre\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "उदारवृत्तार्थपदैर्मनोरमैः\nतदास्य रामस्य चकारकीर्तिमान् ।\nसमाक्षरैश्श्लोकशतैर्यशस्विनो \nयशस्करं काव्यमुदारधीर्मुनि: ।।1.2.42।।",
+      "transliteration": "",
+      "translation": "The renowned and sagacious sage composed a kavya with hundreds of charming verses, each containing equal number of syllables and excellent meaningful words set in metre, conferring glory on celebrated Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-2-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "तदुपगतसमाससन्धियोगं\nसममधुरोपनतार्थवाक्यबद्धम् ।\nरघुवरचरितं मुनिप्रणीतं\nदशशिरसश्च वधं निशामयध्वम् ।।1.2.43।।",
+      "transliteration": "",
+      "translation": "This story of Rama and the killing of Ravana composed by the sage consists of compound words, melodious sandhis and lines composed in lucid, melodious and meaningful  phrases. Listen to it. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे द्वितीयस्सर्ग:।। Thus ends the second sarga of Balakanda of the holy Ramayana in synopsis of the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

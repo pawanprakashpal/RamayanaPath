@@ -1,0 +1,279 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 87,
+    "title": "Vibheeshana tells Lakshmana that Indrajith should be killed before the completion of fire sacrifice started by Indrajith.",
+    "titleSanskrit": "",
+    "totalShlokas": 29
+  },
+  "shlokas": [
+    {
+      "id": "v6-87-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "एवमुक्त्वातुसौमित्रिंजातहर्षोविभीषणः ।\nधनुष्पाणिंनमादायत्वरमाणोजगामसः ।।6.87.1।।",
+      "transliteration": "",
+      "translation": "Vibheeshana, having spoken that way, Saumithri was satisfied. Wielding a bow Saumithri went quickly with Vibheeshana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-87-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अविदूरंततोगत्वाप्रविश्यतुमहद्वनम् ।\nदर्शमामासतत्कर्मलक्ष्मणातविभीषणः ।।6.87.2।।",
+      "transliteration": "",
+      "translation": "Thereafter Vibheeshana followed Lakshmana for a small distance to the forest and showed him What to do.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-87-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "नीलजीमूतसङ्काशंन्यग्रोधंभीमदर्शनम् ।\nतेजस्वीरावणभ्रातालक्ष्मणायन्यवेदयत् ।।6.87.3।।",
+      "transliteration": "",
+      "translation": "Vibheeshana, the brilliant brother of Ravana, showed Lakshmana a banyan tree resembling a dark cloud, frightening to look at.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-87-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "इहोपहारंभूतानांबलवान्रावणात्मजः ।\nउपहृत्यततःपश्चात्सङ्ग्राममभिवर्तते ।।6.87.4।।",
+      "transliteration": "",
+      "translation": "\"Mighty son of Ravana having offered oblations for all beings he comes to the battlefield. (Said Vibheeshana)\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-87-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "अदृश्टस्सर्वभूतानांततोभवतिराक्षसः ।\nनिहन्तिसमरेशत्रून् बध्नाति च शरोत्तमैः ।।6.87.5।।",
+      "transliteration": "",
+      "translation": "\"Thereafter he becomes invisible for all beings and kills his enemies with the best of arrows and binds them.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-87-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तमप्रविष्टंन्यग्रोधंबलिनंरावणात्मजम् ।\nविध्वंसयशरैर्दीप्टै: सरथंसाश्वसारथिम् ।।6.87.6।।",
+      "transliteration": "",
+      "translation": "\"Before he enters the banyan tree, you destroy Indrajith, with his chariot, horses and charioteer by the flaming arrows\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-87-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तथेत्युक्त्वामहातेजास्सौमित्रिर्मित्रनन्दनः ।\nबभूवावस्थितस्तत्रचित्रंविस्फारयन्? धनुः ।।6.87.7।।",
+      "transliteration": "",
+      "translation": "Brilliant Saumithri, delighted by his friends, twanging his wonderful bow stood there, after Vibheeshana had spoken to him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-87-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "स रथेनाग्निवर्णेनबलवान्रावणात्मजः ।\nइन्द्रजित्कवचीखङ्गीसध्वजःप्रत्यदृश्यत ।।6.87.8।।",
+      "transliteration": "",
+      "translation": "Indrajith, who was endowed with mighty prowess, armed with shield and sword, appeared like glowing gold in the chariot decorated with a post.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-87-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तमुवाचमहातेजाःपौलस्त्यमपराजितम् ।\nसमह्वयेत्वांसमरेसम्यग्युद्धंप्रयच्छमे ।।6.87.9।।",
+      "transliteration": "",
+      "translation": "Lakshmana of extraordinary energy, spoke to Indrajith of the Paulastya clan,\" I challenge you to fight in battle directly. Fight with me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-87-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "एवमुक्तोमहातेजामनस्वीरावणात्मजः ।\nअब्रवीत्परुषंवाक्यंतत्रदृष्टवाविभीषणम् ।।6.87.10।।",
+      "transliteration": "",
+      "translation": "Having spoken that way, highly energetic and strong minded Indrajith seeing Vibheeshana spoke to him harshly as follows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-87-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "इहत्वंजातसम्वृद्धःसाक्षाद्भ्रातापितुर्मम ।\nकथंद्रुह्यसिपुत्रस्यपितृव्योममराक्षस ।।6.87.11।।",
+      "transliteration": "",
+      "translation": "\"O Rakshasa! You are born here and brought up by my father. You are my father'sbrother also. How can you be hostile to your son?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-87-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "न ज्ञातित्वं न सौहार्धं न जातिस्तवदुर्मते ।\nप्रमाणं न च सौदर्यं न धर्मोधर्मदूषण ।।6.87.12।।",
+      "transliteration": "",
+      "translation": "\"Evil minded Vibheeshana! You are vitiating righteousness, have no value to your race, no affection to your clan, no brotherly feeling and have no righteousness.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-87-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "शोच्यस्त्वमसिदुर्बुद्धेनिन्दनीयश्चसाधुभिः ।\nयस्त्वंस्वजनमुत्सृज्यपरभृत्यत्वमागतः ।।6.87.13।।",
+      "transliteration": "",
+      "translation": "\"You are evil minded, think. You are pitiable and to be blamed for you have abandoned your own people and sought the enemy's protection.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-87-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "नैतछचिथिलयाबुद्ध्यात्वंवेसतिमहदन्तरम् ।\nक्व च स्वजनसम्वासःक्व च नीचपराश्रयः ।।6.87.14।।",
+      "transliteration": "",
+      "translation": "\"You do not seem to have an understanding of the difference between living with one's own people and seeking refuge from strangers. Your intellect has slackened you are not knowing.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-87-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "गुणवान्वापरजनःस्वजनोनिर्गुणोऽपिवा ।\nनिर्गुणःस्वजनःश्रेयान् यःपरःपरएवसः ।।6.87.15।।",
+      "transliteration": "",
+      "translation": "\"Even if others are virtuous and your own people are not virtuous also one should seek the refuge of one's own people. Strangers are always strangers.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-87-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "यसस्स्वपक्षंपरित्यज्यपरपक्षंनिषेवते ।\nस स्वपक्षेक्ष्यंप्राप्तेपश्चास्त्तैरेवहन्यते ।।6.87.16।।",
+      "transliteration": "",
+      "translation": "\"He who renounces his own kind and seeks refuge from others, will be destroyed by others whose refuge he sought when his own people are destroyed.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-87-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "निरनुक्रोशताचेयंयादृशीतेनिशाचर ।\nस्वजनेनत्वयाशक्यंपौरुषंरावणानुज ।।6.87.17।।",
+      "transliteration": "",
+      "translation": "\"O Ravana's brother! You have shown ruthlessness this way. O night ranger! Only you could exhibit this kind of manliness.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-87-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "इत्युक्तोभ्रातृपुत्रेणप्रत्युवाचविभीषणः ।\nअजानन्निवमछचीलंकिंराक्षसविकत्थसे ।।6.87.18।।",
+      "transliteration": "",
+      "translation": "Indrajith having spoken like that, Vibheeshana replied,\" why do you speak like that as though you do not know my disposition?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-87-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "राक्षसेन्द्रसुतासाधोपारुष्यंत्यजगौरवात् ।\nकुलेयद्यप्यहंजातोरक्षसांक्रूरकर्मणाम् ।।6.87.19।।\nगुणोयःप्रथमोनृणंतन्मेशीलमराक्षसम् ।",
+      "transliteration": "",
+      "translation": "\"Impious son of Rakshasa king! Though born in the Rakshasa clan I renounced cruel deeds and followed respectfully manliness as my primary quality. My nature is not like that of Rakshasas.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-87-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "न रमेदारुणेनाहं न चाधर्मेणवैरमे ।।6.87.20।।\nभ्रात्राविषशीलोऽपिकथंभ्रातानिरस्यते ।",
+      "transliteration": "",
+      "translation": "\"I do not delight in cruel deeds, nor follow unrighteousness. Or else because of unfavourable disposition how can a brother be expelled by a brother?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-87-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "धर्मात्प्रच्युतशीलंहिपुरुषंपापनिश्चयम् ।।6.87.21।।\nत्यक्त्वासुखमवाप्नोतिहस्तादाशीविषंयथा ।",
+      "transliteration": "",
+      "translation": "\"The association of one who has renounced righteousness and is of sinful deeds is left by a righteous man who undoubtedly attains happiness, is like shaking of a venomous serpent from the hand.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-87-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "परस्वहरणेयुक्तंपरदाराभिमर्शकम् ।।6.87.22।।\nत्याज्यमाहुर्दुरात्मानंवेश्मप्रज्वलितंयथा ।",
+      "transliteration": "",
+      "translation": "\"Seizing the property of others, uniting with others wife, evil mindedness is said to be given up like getting out of a burning house.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-87-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "परस्वानां च हरणंपरदाराभिमर्शनम् ।।6.87.23।।\nसुहृदामतिशङ्का च त्रयोदोषाःक्षयावहाः ।",
+      "transliteration": "",
+      "translation": "\"Stealing the wealth of others, possessing others wife, distrusting friends, these three faults will destroy a person.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-87-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "महर्षीणांवधोघोरस्सर्वदेवैश्चविग्रहः ।।6.87.24।।\nअभिमानश्चदोषश्चवैरित्वंप्रतिकूलता ।\nएतेदोषाममभ्रातुर्जीवितैश्वर्यनाशनाः ।।6.87.25।।\nगुणान्प्रच्छादयामासुःपर्वतानिवतोयदाः ।",
+      "transliteration": "",
+      "translation": "\"Dreadful killing of sages, haughtiness towards deities, irascibility, anger, animosity, refractorinessall these faults will put an end to one's life. These faults have obscured my brother's future just as rainy clouds veil the mountain.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-87-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "दोषैरेतैःपरित्यक्तोमयाभ्रातापितातव ।।6.87.26।।\nनेयमस्तिपुरीलङ्का न च त्वं न च तेपिता ।",
+      "transliteration": "",
+      "translation": "\"Because of these faults your father and my brother has been abandoned by me from this Lanka. This Lanka will not be there, nor your father and you too.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-87-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "अतिमाननी च बालश्चदुर्विनीतश्चराक्षस ।\nबद्धस्त्वंकालपाशेनब्रूहिमांयद्यदिच्छसि ।।6.87.27।।",
+      "transliteration": "",
+      "translation": "\"O Rakshasa! You are mean, proud of might, immoral and bound by the noose of death. Whatever you wish to say you may say.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-87-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "अद्यतेव्यसनंप्राप्तंकिंमांत्वामिहवक्ष्यसि ।\nप्रवेष्टुं न त्वयाशक्यंन्यग्रोधंराक्षसाधम ।।6.87.28।।",
+      "transliteration": "",
+      "translation": "\"O Lowly Rakshasa! This worry has come to you today. Entering the banyan tree is not possible for you today.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-87-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "धर्षयित्वा च काकुत्स्थं न शक्यंजीवितुंत्वया ।\nयुध्यस्वनरदेवेनलक्ष्मणेनरणेसह ।।6.87.29।।\nहतस्त्वंदेवताकार्यंकरिष्यसियमक्षये ।",
+      "transliteration": "",
+      "translation": "\"Clashing with Lakshmana of Kakuthsa clan is not possible for you. By waging war with Lakshmana, you will be killed and reaching the abode of the Lord of death. You will be doing tasks of deities of Devatas.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-87-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "निदर्शयित्वात्मबलंसमुद्यतंकुरुष्वसर्वायुधसायकव्ययम् ।\nन लक्ष्मणस्यैत्यहिबाणगोचरंत्वमद्यजीवन् सबलोगमिष्यस�� ।।6.87.30।।",
+      "transliteration": "",
+      "translation": "\"Exhibiting your strength and proving your might using all kinds of weapons, and facing Lakshmana's arrows, however, you and your army will not return alive.\" ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेसप्ताशीतितमस्सर्गः ।। This is the end of the eighty seventh sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

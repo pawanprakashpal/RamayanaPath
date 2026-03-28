@@ -1,0 +1,243 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 16,
+    "title": "Devatas urge Visnu to incarnate in human form to destroy Ravana--A celestial being from Prajapatya emerges from the sacrificial fire--gives a vessel containing payasam--his wives partake the payasam and become pregnant.",
+    "titleSanskrit": "",
+    "totalShlokas": 25
+  },
+  "shlokas": [
+    {
+      "id": "v1-16-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततो नारायणो देवो नियुक्तस्सुरसत्तमै:।\nजानन्नपि सुरानेवं श्लक्ष्णं वचनमब्रवीत्।।1.16.1।।",
+      "transliteration": "",
+      "translation": "Although Omniscient lord Narayana knew the means to be employed, when he was requested by the best of devatas he spoke to them softly:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-16-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "उपाय: को वधे तस्य रावणस्य दुरात्मन:।\nयमहं तं समास्थाय निहन्यामृषिकण्टकम्।।1.16.2।।",
+      "transliteration": "",
+      "translation": "\"What strategies should be adopted in the matter of destruction of that evilminded Ravana who is a thorn to the sages?\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-16-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "एवमुक्तास्सुरास्सर्वे प्रत्यूचुर्विष्णुमव्ययम्।\nमानुषीं तनुमास्थाय रावणं जहि संयुगे।।1.16.3।।",
+      "transliteration": "",
+      "translation": "When the devatas were thus addressed by the imperishable Visnu, they replied him saying, \"You may assume the form of a human being and slay Ravana in the battle\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-16-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "स हि तेपे तपस्तीव्रं दीर्घकालमरिन्दम  ।\nयेन तुष्टोऽभवद्ब्रह्मा लोककृल्लोकपूर्वज:।।1.16.4।।",
+      "transliteration": "",
+      "translation": "\"O destroyer of foes Lord Brahma was very pleased with Ravana's intense penance over a long time৷৷",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-16-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "सन्तुष्ट: प्रददौ तस्मै राक्षसाय वरं प्रभु:। 04\nनानाविधेभ्यो भूतेभ्यो भयं नान्यत्र मानुषात्।।1.16.5।।\nअवज्ञाता: पुरा तेन वरदाने हि मानवा:। 105",
+      "transliteration": "",
+      "translation": "Pleased, with the rakshasa Brahma granted a boon to the effect that except from men, there was, for him, no fear of death from any other living beings. Ravana ignored men while seeking the boon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-16-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "एवं पितामहात्तस्माद्वरं प्राप्य स दर्पित:।।1.16.6।।\nउत्सादयति लोकान्त्रीन् स्त्रियश्चाप्यपकर्षति ।\nतस्मात्तस्य वधो दृष्टो मानुषेभ्य: परन्तप।।1.16.7।।",
+      "transliteration": "",
+      "translation": "Having obtained the boon from Brahma, Ravana, greed and arrogant went on bringing  destruction to the three worlds. He carried away women by violence. O destroyer of foes his death is possible by men only.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-16-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "इत्येतद्वचनं श्रुत्वा सुराणां विष्णुरात्मवान्।\nपितरं रोचयामास तदा दशरथं नृपम्।।1.16.8।।",
+      "transliteration": "",
+      "translation": "Having heard the words of devatas, selfpossessed Visnu chose king Dasaratha as his father.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-16-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "स चाप्यपुत्रो नृपतिस्तस्मिन्काले महाद्युति:।\nअयजत्पुत्रियामिष्टिं पुत्रेप्सुररिसूदन:।।1.16.9।।",
+      "transliteration": "",
+      "translation": "At that time, the brilliant king (Dasaratha), destroyer of enemies, who had no sons was performing a sacrifice for sons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-16-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "स कृत्वा निश्चयं विष्णुरामन्त्र्य च पितामहम्।\nअन्तर्धानं गतो देवै: पूज्यमानो महर्षिभि:।।1.16.10।।",
+      "transliteration": "",
+      "translation": "After Visnu had decided (to incarnate) and he was worshipped by devatas and maharshis he disappeared bidding farewell to Brahma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-16-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तो वै यजमानस्य पावकादतुलप्रभम्।\nप्रादुर्भूतं महद्भूतं महावीर्यं महाबलम्।।1.16.11।। \nकृष्णं रक्ताम्बरधरं रक्तास्यं दुन्दुभिस्वनम्।\nस्निग्धहर्यक्षतनुजश्मश्रुप्रवरमूर्धजम्।।1.16.12।।\nशुभलक्षणसम्पन्नं दिव्याभरणभूषितम्।\nशैलशृङ्गसमुत्सेथं दृप्तशार्दूलविक्रमम्।।1.16.13।।\nदिवाकरसमाकारं दीप्तानलशिखोपमम्।\nतप्तजाम्बूनदमयीं राजतान्तपरिच्छदाम्।।1.16.14।।\nदिव्यपायससम्पूर्णां पात्रीं पत्नीमिव प्रियाम्।\nप्रगृह्य विपुलां दोर्भ्यां स्वयं मायामयीमिव।।1.16.15।।",
+      "transliteration": "",
+      "translation": "During the sacrifice, there emerged from the sacrificial fire a mighty being with unmatched splendour, his prowess and strength. He wore a black and crimson garment. He had a red face. His voice was similar to the sounds of a drum. He had whiskers of soft and shining tawny hair resembling the mane of a lion He had fine hair on his head. He was endowed with auspicious signs and adorned with splendid divine ornaments. His height resembled a mountain peak. He walked with the strides of a ferocious tiger. Similar to the Sun in radiance, he looked like the crest of a blazing fire. This divine being held like his beloved wife both hands, a large vessel made of gold purified, in fire, covered with a silver lid and filled with payasam (a preparation of rice in milk and sugar). It looked as though it was created  by magic.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-16-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "समवेक्ष्याब्रवीद्वाक्यमिदं दशरथं नृपम्।\nप्राजापत्यं नरं विद्धि मामिहाभ्यागतं नृप।।1.16.16।।",
+      "transliteration": "",
+      "translation": "Having seen king Dasaratha, he said, \"O King you know I have been sent by Prjapati (Brahma), and I am here\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-16-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "तत: परं तदा राजा प्रत्युवाच कृताञ्जलि:।\nभगवन् स्वागतं तेऽस्तु किमहं करवाणि ते।।1.16.17।।",
+      "transliteration": "",
+      "translation": "With folded palms the king replied, \"O revered lord. Welcome to you. What can I do  for you?\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-16-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "अथो पुनरिदं वाक्यं प्राजापत्यो नरोऽब्रवीत्।\nराजन्नर्चयता देवानद्य प्राप्तमिदं त्वया।।1.16.18।।",
+      "transliteration": "",
+      "translation": "Thereafter the one who came from Prajapati answered, \"O King you have obtained this payasam today in return for the worship offered to the devatas\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-16-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "इदं तु नृपशार्दूल पायसं देवनिर्मितम्।\nप्रजाकरं गृहाण त्वं धन्यमारोग्यवर्धनम्।।1.16.19।।",
+      "transliteration": "",
+      "translation": "\"O Lion among kings, receive this payasam prepared by gods, conferring progeny, bestowing affluence and improving health.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-16-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "भार्याणामनुरूपाणामश्नीतेति प्रयच्छ वै।\nतासु त्वं प्राप्स्यसे पुत्रान्यदर्थं यजसे नृप।।1.16.20।।",
+      "transliteration": "",
+      "translation": "O King you are performing this sacrifice for the sake of sons. Give this to your  worthy consorts to consume it. They will bear you sons\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-16-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तथेति नृपति: प्रीतश्शिरसा प्रतिगृह्यताम्।\nपात्रीं देवान्नसम्पूर्णां द��वदत्तां हिरण्मयीम्।।1.16.21।।",
+      "transliteration": "",
+      "translation": "Dasaratha was pleased to receive respectfully the golden vessel filled with the payasam  prepared and bestowed by devatas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-16-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अभिवाद्य च तद्भूतमद्भुतं प्रियदर्शनम्।\nमुदा परमया युक्तश्चकाराभिप्रदक्षिणम्।।1.16.22।।",
+      "transliteration": "",
+      "translation": "Overwhelmed with great joy, he, walked around that wonderful being of pleasant  countenance again and again and saluated him respectfully.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-16-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "ततो दशरथ: प्राप्य पायसं देवनिर्मितम्।\nबभूव परमप्रीत: प्राप्य वित्तमिवाधन:।।1.16.23।।",
+      "transliteration": "",
+      "translation": "Dasaratha who received the payasam prepared by devatas was highly pleased like a poor man who received wealth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-16-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "ततस्तदद्भुतप्रख्यं भूतं परमभास्वरम्।\nसंवर्तयित्वा तत्कर्म तत्रैवान्तरधीयत।।1.16.24।।",
+      "transliteration": "",
+      "translation": "Then that effulgent figure of wonderful form having given the bowl of payasam vanished from there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-16-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "हर्षरश्मिभिरुद्योतं तस्यान्त:पुरमाबभौ।\nशारदस्याभिरामस्य चन्द्रस्येव नभोंऽशुभि:।।1.16.25।।",
+      "transliteration": "",
+      "translation": "The inner apartment, brightened with rays of happiness, shone like the autumnal sky in the glow of the moon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-16-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "सोऽन्त:पुरं प्रविश्यैव कौसल्यामिदमब्रवीत्।\nपायसं प्रतिगृह्णीष्व पुत्रीयं त्विदमात्मन:।।1.16.26।।",
+      "transliteration": "",
+      "translation": "He entered the inner apartment and addressing queen Kausalya said, \"Receive this payasam which has the power to give you sons\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-16-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "कौसल्यायै नरपति: पायसार्धं ददौ तदा।\nअर्धादर्धं ददौ चापि सुमित्रायै नराधिप:।।1.16.27।।\nकैकेय्यै चावशिष्टार्धं ददौ पुत्रार्थकारणात्। \nप्रददौ चावशिष्टार्धं पायसस्यामृतोपमम्।।1.16.28।। \nअनुचिन्त्य सुमित्रायै पुनरेव महीपति:।\nएवं तासां ददौ राजा भार्याणां पायसं पृथक् ।।1.16.29।।",
+      "transliteration": "",
+      "translation": "Then Dasaratha gave half the portion of payasam to Kausalya, half of the remaining half to Sumitra, half of the remaining portion (oneeighth of original) to Kaikeyi for the sake of a son. On further thinking, he gave the remaining oneeighth portion to Sumitra. In this manner the king divided and distributed the payasam among his wives separately.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-16-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तास्त्वेतत्पायसं प्राप्य नरेन्द्रस्योत्तमास्स्त्रय:।\nसम्मानं मेनिरे सर्वां: प्रहर्षोदितचेतस:।।1.16.30।।",
+      "transliteration": "",
+      "translation": "The virtuous wives of the king were exceedingly delighted and felt honoured after receiving the payasam .",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-16-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "ततस्तु ता: प्राश्य तदुत्तमास्त्रियो \nमहीपतेरुत्तमपायसं पृथक्।\nहुताशनादित्यसमानतेजसो\nऽचिरेण गर्भान्प्रतिपेदिरे तदा।।1.16.31।।",
+      "transliteration": "",
+      "translation": "Then the excellent consorts of the king who glowed like fire and the Sun, having consumed the choicest payasam, became pregnant in a short time.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-16-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "ततस्तु राजा प्रसमीक्ष्य ता: स्त्रिय:\nप्ररूढगर्भा: प्रतिलब्धमानस:।\nबभूव हृष्टस्त्रिदिवे यथा हरि:\nसुरेन्द्रसिद्धर्षिगणाभिपूजित:।।1.16.32।।",
+      "transliteration": "",
+      "translation": "The king now regained his composure of mind on seeing his pregnant wives. He looked delighted like Visnu worshipped by Indra, and hosts of siddhas and rishis. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे षोडशस्सर्ग:।। Thus ends the sixteenth sarga of Balakanda of the holy Ramayana the first epic  composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

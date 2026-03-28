@@ -1,0 +1,171 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 44,
+    "title": "Sugriva speaks very highly of Hanuman to Rama -- Rama hands in his ring to Hanuman as a mark of identification.",
+    "titleSanskrit": "",
+    "totalShlokas": 17
+  },
+  "shlokas": [
+    {
+      "id": "v4-44-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "विशेषेण तु सुग्रीवो हनूमत्यर्थमुक्तवान्।\nस हि तस्मिन्हरिश्रेष्ठे निश्चितार्थोऽर्थसाधने।।4.44.1।।",
+      "transliteration": "",
+      "translation": "Sugriva mentioned about the capacity of Hanuman, the best of monkeys as he knew he would surely succeed in accomplishing the task.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-44-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अब्रवीच्च हनूमन्तं विक्रान्तमनिलात्मजम्।\nसुग्रीवः परमप्रीतः प्रभु स्सर्ववनौकसाम्।।4.44.2।।",
+      "transliteration": "",
+      "translation": "Sugriva, king of the monkeys, spoke, highly pleased, to Hanuman, the warrior son of the Windgod advancing towards him:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-44-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "न भूमौ नान्तरिक्षे वा नाम्बरे नामरालये।\nनाप्सु वा गतिसङ्गं ते पश्यामि हरिपुङ्गव।।4.44.3।।",
+      "transliteration": "",
+      "translation": "'O best of monkeys I scarcely see a hero comparable to your speed on earth or in space or sky or heaven or water.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-44-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "सासुरास्सहगन्धर्वास्सनागनरदेवताः।\nविदिता स्सर्वलोकास्ते ससागरधराधराः।।4.44.4।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-44-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "गतिर्वेगश्च तेजश्च लाघवं च महाकपे।\nपितुस्ते सदृशं वीर मारुतस्य महौजसः।।4.44.5।।",
+      "transliteration": "",
+      "translation": "'O hero, O great monkey in movement, speed, brilliance and quickness you are similar to your mighty father, the Windgod.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-44-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तेजसा वापि ते भूतं न समं भुवि न विद्यते।\nतद्यथा लभ्यते सीता तत्त्वमेवोपपादय।।4.44.6।।",
+      "transliteration": "",
+      "translation": "'I do not know any living being equal to you in brilliance on this earth. Therefore, you alone know how to secure Sita.Go ahead",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-44-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "त्वय्येव हनुम न्नस्ति बलं बुद्धिः पराक्रमः।\nदेशकालानुवृत्तिश्च नयश्च नयपण्डित।।4.44.7।।",
+      "transliteration": "",
+      "translation": "'O learned Hanuman I am of opinion that in you alone rest strength, wisdom, prowess, ability to act in accordance with time and place and knowledge of statecraft'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-44-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "ततः कार्यसमासङ्गमवगम्य हनूमति।\nविदित्वा हनुमन्तं च चिन्तयामास राघवः।।4.44.8।।",
+      "transliteration": "",
+      "translation": "Having understood that Hanuman was capable of accomplishing the goal, Rama started reflecting as follows:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-44-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "सर्वथा निश्चितार्थोऽयं हनूमति हरीश्वरः।\nनिश्चितार्थकरश्चापि हनूमान्कार्यसाधने।।4.44.9।।",
+      "transliteration": "",
+      "translation": "'This  monkey  king, Sugriva has confidence in Hanuman that he will by all means accomplish the task.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-44-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तदेवं प्रस्थितस्यास्य परिज्ञातस्य कर्मभिः।\nभर्त्रा परिगृहीतस्य ध्रुवः कार्यफलोदयः।।4.44.10।।",
+      "transliteration": "",
+      "translation": "'The king Sugriva knows for sure that if Hanuman goes forth, success is assured. So he favours him.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-44-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तं समीक्ष्य महातेजा व्यवसायोत्तरं हरिम्।\nकृतार्थ इव संवृत्तः प्रहृष्टेन्द्रियमानसः।।4.44.11।।",
+      "transliteration": "",
+      "translation": "The mighty Rama was happy in his heart to see Hanuman. He felt as if the task is achieved.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-44-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "ददौ तस्य ततः प्रीतस्स्वनामाङ्कोपशोभितम्।\nअङ्गुलीयमभिज्ञानं राजपुत्र्याः परन्तपः।।4.44.12।।",
+      "transliteration": "",
+      "translation": "Rama, scorcher of enemies, gladly gave Hanuman a ring inscribed with his name as a mark of identification by princess (Sita). And said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-44-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "अनेन त्वां हरिश्रेष्ठ चिह्नेन जनकात्मजा।\nमत्सकाशादनुप्राप्तमनुद्विग्नाऽनुपश्यति।।4.44.13।।",
+      "transliteration": "",
+      "translation": "'O distinguished monkey Janaka's daughter will greet you without any hesitation when you present this signet to her. She will know that you have come from me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-44-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "व्यवसायश्च ते वीर सत्त्वयुक्तश्च विक्रमः।\nसुग्रीवस्य च सन्देशस्सिद्धिं कथयतीव मे।।4.44.14।।",
+      "transliteration": "",
+      "translation": "'O great hero your enterprise,  prowess coupled with courage and Sugriva's message to you seem to indicate to me about the success of your mission'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-44-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "स तद्गृह्य हरिश्रेष्ठः स्थाप्य मूर्ध्नि कृताञ्जलिः।\nवन्दित्वा चरणौ चैव प्रस्थितः प्लवगोत्तमः।।4.44.15।।",
+      "transliteration": "",
+      "translation": "The foremost among the monkeys took the ring given to him, placed it on his forehead and saluated it with folded palms. He then prostrated at the feet of Rama and departed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-44-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "स तत्प्रकर्षन् हरीणां महद्बलं\nबभूव वीरः पवनात्मजः कपिः।\nगताम्बुदे व्योम्नि विशुद्धमण्डलः\nशशीव नक्षत्रगणोपशोभितः।।4.44.16।।",
+      "transliteration": "",
+      "translation": "Like the moon adorned by hosts of stars in the cloudless sky, the mighty heroic Hanuman, the great son of the Windgod, shone in the midst of the army of monkeys.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-44-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अतिबल बलमाश्रितस्तवाहं\nहरिवरविक्रम विक्रमैरनल्पैः।\nपवनसुत यथाऽभिगम्यते सा\nजनकसुता हनुमं स्तथा कुरुष्व।।4.44.17।।",
+      "transliteration": "",
+      "translation": "O Hanuman son of the Windgod, O valiant among the Vanaras, I bank on your strength. Do whatever you can with your mighty valour so that the daughter of Janaka can be found. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे चतुश्चत्वारिंशस्सर्गः।। Thus ends the fortyfourth sarga in Kishkindakanda of the first epic, the Holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

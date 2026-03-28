@@ -1,0 +1,252 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 13,
+    "title": "Dasaratha tries to appease queen Kaikeyi.",
+    "titleSanskrit": "",
+    "totalShlokas": 26
+  },
+  "shlokas": [
+    {
+      "id": "v2-13-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "अतदर्हं महाराजं शयानमतथोचितम्।\nययातिमिव पुण्यान्ते देवलोकात्परिच्युतम्।।2.13.1।।\nअनर्थरूपा सिद्धार्था ह्यभीता भयदर्शिनी।\nपुनराकारयामास तमेव वरमङ्गना।।2.13.2।।",
+      "transliteration": "",
+      "translation": "The maharaja lying on the floor resembled (king) Yayati fallen from heaven after his merits (earned earlier) were exhausted. He neither deserved nor was accustomed to such (humiliating) treatment. Fearless Kaikeyi ,the incarnate of misfortune having accomplished her purpose, displyaing feigned fear, urged the king again (without inhibition), about the boons:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-13-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अतदर्हं महाराजं शयानमतथोचितम्।\nययातिमिव पुण्यान्ते देवलोकात्परिच्युतम्।।2.13.1।।\nअनर्थरूपा सिद्धार्था ह्यभीता भयदर्शिनी।\nपुनराकारयामास तमेव वरमङ्गना।।2.13.2।।",
+      "transliteration": "",
+      "translation": "The maharaja lying on the floor resembled (king) Yayati fallen from heaven after his merits (earned earlier) were exhausted. He neither deserved nor was accustomed to such (humiliating) treatment. Fearless Kaikeyi ,the incarnate of misfortune having accomplished her purpose, displyaing feigned fear, urged the king again (without inhibition), about the boons:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-13-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "त्वं कत्थसे महाराज सत्यवादी दृढव्रतः।\nमम चेमं वरं कस्माद्विधारयितुमिच्छसि।।2.13.3।।",
+      "transliteration": "",
+      "translation": "O great king you used to boast that you always speak the truth and are steadfast in your vows. Why are you now seeking to avoid granting me this boon?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-13-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु कैकेय्या राजा दशरथस्तदा।\nप्रत्युवाच ततः क्रुद्धो मुहूर्तं विह्वलन्निव।।2.13.4।।",
+      "transliteration": "",
+      "translation": "Thus addressed by Kaikeyi, king Dasaratha flew into a temper for a while, and then as if in a state of delirium, replied:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-13-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "मृते मयि गते रामे वनं मनुजपुङ्गवे।\nहन्तानार्ये ममामित्रे सकामा सुखिनी भव।।2.13.5।।",
+      "transliteration": "",
+      "translation": "Alas O ignoble woman, my enemy, your desire would be fulfilled after Rama, the foremost among men is exiled and I am dead. You will be happy thereafter",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-13-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "स्वर्गेऽपि खलु रामस्य कुशलं दैवतैरहम्।\nप्रत्यादेशादभिहितं धारयिष्ये कथं बत।।2.13.6।।",
+      "transliteration": "",
+      "translation": "Even in heaven when the gods enquire about the welfare of Rama how will I convince them about his banishment repudiating the fact? What a catastrophe",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-13-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "कैकेय्याः प्रियकामेन रामः प्रव्राजितो मया।\nयदि सत्यं ब्रवीम्येतत्तदसत्यं भविष्यति।।2.13.7।।",
+      "transliteration": "",
+      "translation": "If I tell the truth, 'To please Kaikeyi I have sent Rama to the forest', none will believe it  and will consider it untruth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-13-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "अपुत्रेण मया पुत्रश्श्रमेण महता महान्।\nरामो लब्धो महाबाहु स्सकथं त्यज्यते मया।।2.13.8।।",
+      "transliteration": "",
+      "translation": "When I was issueless, I obtained mighty and valiant Rama with great effort as a son. How can I banish him?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-13-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "शूरश्च कृतविद्यश्च जितक्रोधो क्षमापरः।\nकथं कमलपत्राक्षो मया रामो विवास्यते।।2.13.9।।",
+      "transliteration": "",
+      "translation": "How can I exile Rama, whose eyes resemble lotus petals, who is learned, who has subdued his anger and who is always full of forgiveness?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-13-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "कथमिन्दीवरश्यामं दीर्घबाहुं महाबलम्।\nअभिराममहं रामं प्रेषयिष्यामि दण्डकान्।।2.13.10।।",
+      "transliteration": "",
+      "translation": "Rama with a charming personality has a complexion like the blue lotus. He has long arms (with immense strength). How can I banish him to Dandaka forest?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-13-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "सुखानामुचितस्यैव दुःखैरनुचितस्य च।\nदुखं नामानुपश्येयं कथं रामस्य धीमतः।।2.13.11।।",
+      "transliteration": "",
+      "translation": "Rama deserves happiness not suffering. How can I  bear to see such a sagacious Rama undergoing distress?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-13-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "यदि दुःखमकृत्वाऽद्य मम संक्रमणं भवेत्।\nअदुःखार्हस्य रामस्य तत स्सुखमवाप्नुयाम्।।2.13.12।।",
+      "transliteration": "",
+      "translation": "If death comes to me right now I shall be very happy because I will not have to inflict suffering on Rama who does not deserve it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-13-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "नृशंसे पापसङ्कल्पे रामं सत्यपराक्रमम्।\nकिं विप्रियेण कैकेयि प्रियं योजयसे मम।।2.13.13।।\nअकीर्तिरतुला लोके ध्रुवं परिभवश्च मे।",
+      "transliteration": "",
+      "translation": "O cruel, malevolent Kaikeyi, why do you propose such a harmful act against Rama who has truth as his prowess and who is so dear to me? Certainly, you will get unparalleled infamy and disgrace in this world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-13-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तथा विलपतस्तस्य परिभ्रमितचेतसः।।2.13.14।।\nअस्तमभ्यगमत्सूर्यो रजनी चाभ्यवर्तत।",
+      "transliteration": "",
+      "translation": "While Dasaratha was thus lamenting with a distracted mind, the Sun set and night fell.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-13-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "सा त्रियामा तथार्त्तस्य चन्द्रमण्डलमण्डिता।।2.13.15।।\nराज्ञो विलपमानस्य न व्यभासत शर्वरी।",
+      "transliteration": "",
+      "translation": "For the king who was in deep anguish and in tears the night appeared dark even though it was adorned with the lunar orb.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-13-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तथैवोष्णं विनिश्वस्य वृद्धो दशरथो नृपः।।2.13.16।।\nविललापार्तवद्युखं गगनासक्तलोचनः।",
+      "transliteration": "",
+      "translation": "The old king Dasaratha, heaving hot sighs, started lamenting pitiably fixing his gaze at the sky like the sick:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-13-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "न प्रभातं त्वयेच्छामि निशे नक्षत्रभूषणे।।2.13.17।।\nक्रियतां मे दया भद्रे मयाऽयं रचितोऽञ्जलिः।",
+      "transliteration": "",
+      "translation": "'O auspiciouslooking Night adorned with stars, I do not wish to see the dawn. O gentle night, be kind to me I pray with folded hands'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-13-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अथवा गम्यतां शीघ्रं नाहमिच्छामि निर्घृणाम्।।2.13.18।।\nनृशंसां कैकयीं द्रष्टुं यत्कृते व्यसनं महत्।",
+      "transliteration": "",
+      "translation": "'Or, pass off quickly. I do not want to see this merciless, malicious Kaikeyi who is the  cause of this great misfortune'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-13-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "एवमुक्त्वा ततो राजा कैकेयीं संयताञ्जलिः।।2.13.19।।\nप्रसादयामास पुनः कैकेयीं चेदमब्रवीत्।",
+      "transliteration": "",
+      "translation": "Having said this, the king spoke again with folded hands to Kaikeyi in order to appease her:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-13-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "साधु वृत्तस्य दीनस्य त्वद्गतस्य गतायुषः।।2.1.20।।\nप्रसादः क्रियतां देवि भद्रे राज्ञो विशेषतः।",
+      "transliteration": "",
+      "translation": "O gentle queen, I am an old man and my life is almost over. I am a wretch devoted to you. I am a man of good conduct. Do me this favour especially as I am  king.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-13-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "शून्ये न खलु सुश्रोणि मयेदं समुदाहृतम्।।2.13.21।।\nकुरु साधु प्रसादं मे बाले सहृदया ह्यसि।",
+      "transliteration": "",
+      "translation": "O lady with fair hips, I hope whatever I have said has not been a cry in the (empty) sky. O young lady show me this favour. Surely you are kindhearted.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-13-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "प्रसीद देवि रामोमेत्वद्दत्तं राज्यमव्यम्।।2.13.22।।\nलभतामसितापाङ्गे यशः परमवाप्नु हि।",
+      "transliteration": "",
+      "translation": "O queen with beautiful, dark eyelashes, show pity on me. Let Rama receive this unbounded kingdom through you and you acquire fame.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-13-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "मम रामस्य लोकस्य गुरूणां भरतस्य च।।2.13.23।।\nप्रियमेतद्गुरुश्रोणि कुरु चारुमुखेक्षणे",
+      "transliteration": "",
+      "translation": "O lady with heavy hips, charming eyes and a beautiful face, do this favour to me, to Rama, to the world, to all the preceptors and to Bharata too.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-13-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "विशुद्धभावस्य सुदुष्टभावा \nताम्रेक्षणस्याश्रुकलस्य राज्ञः।\nश्रुत्वा विचित्रं करुणं विलापं \nभर्तुर्नृशंसा न चकार वाक्यम्।।2.13.24।।",
+      "transliteration": "",
+      "translation": "The king with a clean heart, whose eyes had been rendered red with weeping wailed  piteously. Even after hearing it, that malicious woman full of wicked thoughts did not act upon his word.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-13-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "ततस्स राजा पुनरेव मूर्छितः\nप्रियामतुष्टां प्रतिकूलभाषिणीम्।\nसमीक्ष्य पुत्रस्य विवासनं प्रति \n���्षितौ विसंज्ञो निपपात दुखितः।।2.13.25।।",
+      "transliteration": "",
+      "translation": "Seeing his dear wife not pleased (despite his pleadings) and urging him, to the contrary, for the banishment of his son, the king overcome with grief fell down unconscious on the floor.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-13-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "इतीव राज्ञो व्यथितस्य सा निशा \nजगाम घोरं श्वसतो मनस्विनः\nविबोध्यमानः प्रतिबोधनं तदा  \nनिवारयामास स राजसत्तमः।।2.13.26।।",
+      "transliteration": "",
+      "translation": "The night passed off with the highminded king lamenting this way and heaving deep sighs. When he got up, the eminent king stopped (the panegyrists) awakening him. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे त्रयोदशस्सर्गः।। Thus ends the thirteenth sarga of Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

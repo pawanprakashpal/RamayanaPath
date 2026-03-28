@@ -1,0 +1,432 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 116,
+    "title": "Hanuman communicates the victory of Sri Rama to Sita and the message.",
+    "titleSanskrit": "",
+    "totalShlokas": 46
+  },
+  "shlokas": [
+    {
+      "id": "v6-116-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "इतिप्रतिसमादिष्टोहनूमान्मारुतात्मजः ।\nप्रविवेशपुरींलङ्क���ंपूज्यमानोनिशाचरैः ।।6.116.1।।",
+      "transliteration": "",
+      "translation": "Having been commanded, Hanuman offered prayers to Vibheeshana and entered Lanka.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "प्रविश्य चपुरींलङ्कांपूज्यमानोनिशाचारै: ।\nततस्तेनाभ्युनुज्ञातोहनुमान्वृक्षवाटिकाम् ।।6.116.2।।\nसम्प्रविश्ययथान्यायंसीतायाद्विितोहरिः ।\nददर्शमृजयाहीनांसातङ्कांरोहिणीमिव ।।6.116.3।।\nवृक्षमूलेनिरानन्दांराक्षसीभिःपरीवृताम् ।\nनिभृतःप्रणतःप्रह्वस्सोऽभिगम्याभिवाद्य च ।।6.116.4।।",
+      "transliteration": "",
+      "translation": "The monkey, having sought the permission of Vibheeshana, entered Lanka city. Duly entering the Asoka grove, he attracted the attention of Sita, who was weak with no bath, cheerless, seated at the root of the tree, like Rohini star. After reaching the grove, he greeted Sita with folded palms and stood motionless.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "दृष्टवासमागतंदेवीहनूमन्तंमहाबलम् ।\nतूष्णीमास्ततदादृष्टवास्मृत्वासृष्टाभवत्तदा ।।6.116.5।।",
+      "transliteration": "",
+      "translation": "Seeing the mighty Hanuman, who arrived quietly, she was quiet. Then she saw him and experienced joy on recognizing him",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "सौम्यंतस्यामुखंदृष्टवाहनुमान्प्लवगोत्तमः ।\nरामस्यवचनंसर्वमाख्यातुमुपचक्रमे ।।6.116.6।।",
+      "transliteration": "",
+      "translation": "Gentle Hanuman, the foremost of the monkeys, seeing her started to communicate every word of Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "वैदेही कुशलीरामस्सहसुग्रीवलक्ष्मणः ।\nवभीषणसहायश्चहरीणांसहितोबलैः ।।6.116.7।।",
+      "transliteration": "",
+      "translation": "Hanuman said\" O Vaidehi! Sri Rama accompanied by Sugriva and Lakshmana, with the help of Vibheeshana, is doing well.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "कुशलंचाहसिद्धार्थोहतशत्रुरिमत्रजित् ।\nविभीषणसहायेनरामेणहरिभिस्सह ।।6.116.8।।\nनिहतोरावणोदेविलक्ष्मणेन च वीर्यवान् ।",
+      "transliteration": "",
+      "translation": "\"Noble lady! Sri Rama killed Ravana and won the enemy. He accomplished the purpose with the help of Vibheeshana, the valiant Lakshmana and the monkeys also so to speak. He inquired of your wellbeing.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "प्रियमाख्यामितेदेविभूयश्चत्वांसभाजये ।।6.116.9।।\nतवप्रभावाद्धर्मजेमहान् रामेणसंयुगे ।\nलब्धोऽयंविजयस्सीते���्वस्थाभवगतज्वरा ।।6.116.10।।",
+      "transliteration": "",
+      "translation": "\"O noble lady! I am communicating delightful news to you. O Sita, a respectable lady and knowledgeable one, the victory is attained in the combat by the great soul Rama, by virtue of your strength and devotion.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "रावणश्चहतश्शत्रुर्लङ्कचैववशीकृता ।\nमयाह्यलब्न्दिद्रेणधृतेनतवनिर्जये ।।6.116.11।।\nप्रतिज्ञैषाविनिस्तीर्णाबद्ध्वासेतुंमहोदधौ ।",
+      "transliteration": "",
+      "translation": "'Ravana has been killed, Lanka is under our side vanquished completely. Without any sleep, with forbearance, building an extensive bridge on the great ocean, the vow has been redeemed', is Rama's message to you, said Hanuman.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "सम्भ्रमश्च न कर्तव्योवर्तन्त्यारावणालये ।।6.116.12।।\nविभीषणविधेयंहिलङ्कैश्वर्यमिदंकृतम् ।",
+      "transliteration": "",
+      "translation": "\"This Lanka is under Vibheeshana, Lord of Lanka. There is no need for perturbation thinking that you are in Ravana's abode.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तदाश्वसिहिविस्रब्धंस्वगृहेपरिवर्तसे ।।6.116.13।।\nअयंचाभ्येतिसम्हृष्टस्त्वद्धर्शनसमुत्सुकः ।",
+      "transliteration": "",
+      "translation": "\"You be at ease, as you are living in your own abode\", said Hanuman consoling Sita. 'Vibheeshana, who is very happy, is eager and favouring to see you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "एवमुक्तासमुत्पत्यसीताशशिनिभानना ।।6.116.14।।\nप्रहर्षेणावरुद्धासाव्याहर्तुं न शशाक ह ।",
+      "transliteration": "",
+      "translation": "Hanuman having spoken in that way, Sita got up in excessive joy and could not speak naturally.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "ततोऽब्रवीद्धरिवरःसीतामप्रतिजल्पतीम् ।।6.116.15।।\nकिंत्वंचिन्तयसेदेविकिं च मांनाभिभाषसे ।",
+      "transliteration": "",
+      "translation": "Then seeing Sita not answering him, the monkey chief asked her\" Why are you not replying. What are you thinking?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "एवमुक्ताहनुमतासीताधर्मपथेस्थिता ।।6.116.16।।\nअब्रवीत्परमप्रीताबाष्पगद्गदयागिरा ।",
+      "transliteration": "",
+      "translation": "When Hanuman spoke in that way virtuous Sita was overwhelmed with joy and spoke with a voice choked with tears.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "प्रियमेतदुपश्रुत्यभर्तुर्विजयसंश्रयम् ।।6.116.17।।\nप्रहर्षवशमापन्नानिर्वाक्यास्मिक्षणान्तरम् ।",
+      "transliteration": "",
+      "translation": "\"No doubt that my husband is victorious is very delightful. Hearing this, I am overcome with delight and am unable to speak for a moment.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "न हिपश्यामिसदृशंचिन्तयन्तीप्लवङ्गमा ।।6.116.18।।\nमप्रतियाब्यानकस्येहदातुंप्रत्यभिनन्दनम् ।",
+      "transliteration": "",
+      "translation": "\"Hanuman! However, I think to give you a befitting gift for this happy news. I am not able to see any.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "नहिपश्यामिततसौम्यपृथिव्यामपिवानर ।।6.116.19।।\nसदृशंयत्प्रियाख्यानेतवदत्त्वाभवेत्सुखम् ।",
+      "transliteration": "",
+      "translation": "\"I am not able to see on this earth, a gift befitting the value of your message, which can be given to you to make you happy.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "हिरण्यंवासुवर्णंवारत्नानिविविधानिच ।।6.116.20।।\nराज्यंवात्रिषुलोकेषुनैतदर्हतिभाषितम् ।",
+      "transliteration": "",
+      "translation": "\"Neither gold or silver or gems, not even kingdom or the three worlds are equal to what you have spoken now.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "एवमुक्तस्तुवैदेह्याप्रत्युवाचप्लवङ्गमः ।।6.116.21।।\nप्रगृहीताञ्जलिर्हर्षासतीतायाःप्रमुखेस्थितः ।",
+      "transliteration": "",
+      "translation": "Spoken in that way by Vaidehi, Hanuman stood with folded palms in front of Sita and replied in delight.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "भर्तुःप्रियहितेयुक्तेभर्तुर्विजयकाङ्क्षिण: ।।6.116.22।।\nस्निग्धमेवंविधंवाक्यंत्वमेवार्हस्यनिन्दिते ।",
+      "transliteration": "",
+      "translation": "\"You alone can speak such affectionate words in this manner wishing victory and welfare of your dear husband. You are irreproachable.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तवैतद्वचनंसौम्येसारवत् स्निग्धमेव च ।।6.116.23।।\nरत्नौघाद्विविधाच्चापिदेवराज्याद्विशिष्यते ।",
+      "transliteration": "",
+      "translation": "\"O gentle one! Your meaningful words full of affection are more valuable than clusters of gems or Indra, the Lord of gods.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "अर्थतश्चमयाप्राप्तादेवरज्यादयोगुणाः ।।6.116.24।।\nहतशत्रुंविजयिनंरामंपश्यामिसुस्थितम् ।",
+      "transliteration": "",
+      "translation": "\"Now that the enemy is killed, Rama is happy, which means as if I have attained the rulership of gods.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तस्यतद्वचनंश्रुत्वामैथिलीजनकात्मजा ।।6.116.25।।\nततःशुभतरंवाक्यमुवाचपवनात्मजम् ।",
+      "transliteration": "",
+      "translation": "Hearing the words of Mythili, daughter of Janaka, Hanuman spoke these auspicious words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "अतिलक्षणसम्पन्नंमाधुर्यगुणभूषितम् ।।6.116.26।।\nबुद्ध्याह्यष्टाङ्गयायुक्तंत्वमेवार्हसिभाषितुम् ।",
+      "transliteration": "",
+      "translation": "Continuing to pay tribute to Hanuman's words, Sita said\" Your language and expression are always richly endowed with virtuous qualities, sweet and valuable, combined with eight excellences. (Eight excellences areKeenness to hear discourses, readiness to hear discourses, receptivity, retentive power, reasoning for a proposition, against a proposition, faculty of comprehension, realization of truth).\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "श्लाघनीयोऽनिलस्यत्वंसुतःपरमधार्मिकः ।।6.116.27।।\nबलंशौर्यंश्रुतंसत्त्वंविक्रमोदाक्ष्यमुत्तमम् ।\nतेजःक्षमाधृतिस्स्थैर्यंविनीतत्वं न संशयः ।।6.116.28।।\nएतेचान्ये च बहवोगुणास्त्वय्येवशोभनाः ।",
+      "transliteration": "",
+      "translation": "\"You are a praiseworthy son of wind god. In strength, righteousness, valour, vigour, prowess, skill, you are excellent. You are energetic, endowed with tolerance, forbearance, firmness, brilliance, and humility. You alone have many more qualities, no doubt.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "अथोवाचपुनस्सीतामसम्भ्रान्तोविनीतवत् ।।6.116.29।।\nप्रगृहीताञ्चलिर्हर्षात्सीतायाःप्रमुखेस्थितः ।",
+      "transliteration": "",
+      "translation": "Now with folded palms offering prayers to Sita, Hanuman stood without perturbation, with all humility and again spoke to Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "इमास्तुखलुराक्षस्योयदित्वमनुमन्यसे ।।6.116.30।।\nहन्तुमिच्छामितास्सर्वायाभिस्त्वंतर्जितापुरा ।",
+      "transliteration": "",
+      "translation": "\"I desire to kill all those Rakshasas who in the past have intimidated you indeed and whoever threatened you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "क्लिश्यन्तीम् पतिदेवांत्वामशोकवनिकांगताम् ।।6.116.31।।\nघोररूपसमाचाराःक्रूराःक्रूरतरेक्षणाः ।\nइहश्रुतामयादेवि राक्षस्योविकृताननाः ।।6.116.32।।\nअसकृत्परुषैर्वाक्यैर्वद्नत्योरावणाज्ञया ।",
+      "transliteration": "",
+      "translation": "\"O Devi! You, who were so devoted to your husband, were tormented in Asoka grove earlier. These cruel Rakshasas of hideous conduct, of fierce and distorted forms with terrible eyes addressing you in harsh words by Ravana's order, were heard by me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "विकृताविकृताकाराःक्रूराःक्रूरकचेक्षणाः ।।6.116.33।।\nइच्छामिविविधैराघतैर्हन्तुमेतास्सुदारुणाः ।\nराक्षस्योदारुणकथावरमेतत्प्रयच्छमे ।।6.116.34।।",
+      "transliteration": "",
+      "translation": "\"I wish to kill by all kinds of strokes, these cruel distorted forms of Rakshasas having terrible hair and fierce eyes and not to mention their violence. Permit me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "मुष्टिभिःपर्षिणघातैश्चविशालैश्चैवबाहुभिः ।\nजङ्घाजानुप्रहारैश्चदन्तानांचैवपीडनैः ।।6.116.35।।\nभक्षणैःकर्णनासानांकेशानांलुञ्चनैस्तथा ।\nभृशंशुष्कमुखैश्चैवदारणैर्लङ्घनैर्हतैः ।।6.116.36।।\nविभिन्नशङ्कुग्रीवांशपार्श्वकैश्चकलेवरैः ।\nनिपात्यहन्तुमिच्छामितवविप्रियकारिणीः ।।6.116.37।।",
+      "transliteration": "",
+      "translation": "\"These Rakshasas who have wronged, who are of dreadful appearance, I wish to hit them with fists, with feet spreading long arms, strike with blows of shanks and knees, with teeth, and torment by pulling their ears and nose. Their hair will be torn off violently, their faces will be made dry, they will be tossed up, torn with different sharp conches. Their broken bodies, heads, necks, and trunks will be thrown down and killed. Grant this boon to me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "एवंप्रहारैर्बहुभिःसंप्प्रहार्ययशस्विनि ।\nघातयेतीव्ररूपाभिर्याभिस्त्वंतर्जितापुरा ।।6.116.38।।",
+      "transliteration": "",
+      "translation": "\"O Illustrious lady! I would like to kill the terrible forms of ogres who threatened you, in that way, I will be at and strike in many ways and destroy them\", said Hanuman to Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "इत्युक्तासाहनुमताकृपणादीनवत्सला ।\nहनूमन्तमुवाचेदंचिन्तयित्वाविमृश्य च ।।6.116.39।।",
+      "transliteration": "",
+      "translation": "Hanuman having spoken like that, Sita who was fond of the desperate, thus spoke to Hanuman thinking for a while.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "राजसंश्रयवश्यानांकुर्वतीनांपराज्ञया ।\nविधेयानां च दासीनांकःकुप्यद्वानरोत्तम ।।6.116.40।।",
+      "transliteration": "",
+      "translation": "\"Foremost of Vanaras! Who will be angry? Being under the command of the king and being obedient maids, they did so according to king's order.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "भाग्यवैषम्यदोषेणपुरस्ताद्धुष्कृतेन च ।\nमयैतत्प्राप्यसर्वंस्वकृतंह्युपभुज्यते ।।6.116.41।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "मैवंवदमहाबाहो दैवेह्येषापरागतिः ।\nप्राप्तव्यंतुदशायोगान्मयैतदितिनिश्चितम् ।।6.116.42।।\nदासीनांरावणस्याहंमर्षयामीहदुर्बला ।",
+      "transliteration": "",
+      "translation": "\"Mighty Armed Hanuman! Do not speak in this manner. It was my fate which was supreme. Because of my predetermined circumstances I reaped such a result. I am feeblehearted and condone the maids surely.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "आज्ञप्ताराक्षसेनेहराक्षस्यस्तर्जयन्तिमाम् ।।6.116.43।।\nहतेतस्मिन्नकुर्वन्तितर्जनंमारुतात्मज ।",
+      "transliteration": "",
+      "translation": "\"By Ravana's order they threatened me so. Now with his death, they will not be threatening me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "अयंव्याघ्रसमीपेतुपुराणोधर्मसंहितः ।।6.116.44।।\nऋक्षेणगीतःश्लोकोऽस्तितंनिबोधप्लवङ्गम ।",
+      "transliteration": "",
+      "translation": "\"O Monkey! In olden days a bear had uttered a verse which conforms to righteousness. I shall tell you now.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "न पर: पापमादत्तेपरेषांपापकर्मणाम् ।।6.116.45।।\nसमयोरक्षितव्यस्तुसप्तश्चारित्रभूषणाः ।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "पापानांवाशुभानांवावधार्हाणांप्लवङ्गम ।।6.116.46।।\nकार्यंकरुण्यमार्येण न कश्चिन्नापराध्यति ।",
+      "transliteration": "",
+      "translation": "\"Sinners or noble men, having done a wrong deed and deserve death. Also noble, will show compassion and not commit harm.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "लोकहिंसाविहाराणांरक्षसांकामरूपिणाम् ।।6.116.47।।\nकुर्वतामपिपापानिनैवकार्यमशोभनम् ।",
+      "transliteration": "",
+      "translation": "\"Rakshasas by nature are cruel in their deeds and can assume any form according to their will. No sinful actions to be done even if they do sinful actions.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "एवमुक्तस्तुहनुमान् सीतयावाक्यकोविदः ।।6.116.48।।\nप्रत्युवाचततस्सीतांरामपत्नीयशश्विनीम् ।",
+      "transliteration": "",
+      "translation": "Sita, having spoken that way to Hanuman, he, who was capable of good expression, replied as follows to Rama's consort, who was irreproachable.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "युक्तारामस्यभवतीधर्मपत्नीयशश्विनी ।।6.116.49।।\nप्रतिसन्दिशमांदेवि गमिष्येयत्रराघवः ।",
+      "transliteration": "",
+      "translation": "\"Devi! you are the righteous wife of Rama and earned fame. Give me the right message to Rama in return. I will go.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "एवमुक्ताहनुमतावैदेहिजनकात्मजा ।।6.116.50।।\nसाब्रवीद्ध्रष्टुमिच्छामिभर्तारंवानरोत्तम ।",
+      "transliteration": "",
+      "translation": "Hanuman, having spoken that way to Vaidehi, daughter of Janaka, she said\" I desire to see my husband.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "तस्यास्तद्वचनंश्रुत्वाहनुमान्पवनात्मजः ।।6.116.51।।\nहर्षयन्मैथिलींवाक्यमुवाचेदंमहामतिः ।",
+      "transliteration": "",
+      "translation": "On hearing Mythili, wise Hanuman spoke these words to her bringing joy to her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "पूर्णचन्द्राननंरामंद्रक्ष्यस्यार्येसलक्ष्मणम् ।।6.116.52।।\nस्थिरमित्रंहतामित्रंशचीवत्रिदशेश्वरम् ।",
+      "transliteration": "",
+      "translation": "\"Now you will see Sri Rama whose countenance resembles the moon, with Lakshmana, with friends who are alive, with friends whose enemies are gone, just as Sachi, the consort of Indra, the Lord of gods saw.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "तामेवमुक्त्वाराजन्तींसीतांसाक्षादिवश्रियम् ।।6.116.53।।\nआजगाममहावेगोहनूमान्यत्रराघवः ।",
+      "transliteration": "",
+      "translation": "Hanuman reached Raghava with extraordinary speed assuring Sita, who shone like Lakshmi, goddess of prosperity, and had spoken like that.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-116-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "सपदिहरिवरस्ततोहनूमान् प्रतिवचनंजनकेश्वरात्मजायाः ।\nकथितमकथयद्यथाक्रमेणत्रिदशवरप्रतिमायराघवाय ।।6.116.54।।",
+      "transliteration": "",
+      "translation": "Then Hanuman, the choicest of the monkeys, speedily delivered in turn every word of the message in the same order, in sequence to Raghava, who resembled the Lord of gods. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेषोडशोत्तरशततमस्सर्गः ।। This is the end of one hundred and sixteenth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

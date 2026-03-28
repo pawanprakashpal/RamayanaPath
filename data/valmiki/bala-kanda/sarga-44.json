@@ -1,0 +1,198 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 44,
+    "title": "King Bhagiratha performs funeral rites of his ancestors.",
+    "titleSanskrit": "",
+    "totalShlokas": 20
+  },
+  "shlokas": [
+    {
+      "id": "v1-44-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "स गत्वा सागरं राजा गङ्गयाऽनुगतस्तदा ।\nप्रविवेश तलं भूमेर्यत्र ते भस्मसात्कृता:।।1.44.1।।",
+      "transliteration": "",
+      "translation": "Thereupon that king followed by Ganga reached the ocean and entered the lower regions of the earth where the sons of Sagara were found reduced to ashes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-44-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "भस्मन्यथाऽप्लुते राम गङ्गायास्सलिलेन वै।\nसर्वलोकप्रभुर्ब्रह्मा राजानमिदमब्रवीत्।।1.44.2।।",
+      "transliteration": "",
+      "translation": "After the ashes were inundated by the waters of Ganga, Brahma, lord of the world,   appeared before king Bhagiratha and said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-44-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "तारिता नरशार्दूल दिवं याताश्च देववत्।\nषष्ठि: पुत्रसहस्राणि सगरस्य महात्मन:।।1.44.3।।",
+      "transliteration": "",
+      "translation": "\"O Tiger among men sixty thousand sons of illustrious Sagara having been liberated, had gone towards heaven like devatas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-44-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "सागरस्य जलं लोके यावत्स्थास्यति पार्थिव।\nसगरस्यात्मजास्तावत्स्वर्गे स्थास्यन्ति देववत्।।1.44.4।।",
+      "transliteration": "",
+      "translation": "O King as long as the waters in the ocean exist in this world, shall the sons of Sagara, live in heavens like gods.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-44-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "इयं च दुहिता ज्येष्ठा तव गङ्गा भविष्यति ।\nत्वत्कृतेन च नाम्नाऽथ लोके स्थास्यति विश्रुता।।1.44.5।।",
+      "transliteration": "",
+      "translation": "This Ganga will become your eldest daughter and from now on she will be wellknown in this world (as Bhagirathi) after your name.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-44-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "गङ्गा त्रिपथगा राजन् दिव्या भागीरथीति च।\nत्रीन् पथो भावयन्तीति ततस्त्रिपथगा स्मृता।।1.44.6।।",
+      "transliteration": "",
+      "translation": "O King divine Ganga will be called Tripathaga as well as Bhagirathi. Since she flows in the three worlds (heaven, earth and the lower world: Patala), she will be known as  Tripathaga.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-44-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "पितामहानां सर्वेषां त्वमत्र मनुजाधिप ।\nकुरुष्व सलिलं राजन् प्रतिज्ञामपवर्जय।।1.44.7।।",
+      "transliteration": "",
+      "translation": "O Lord of men O King you may offer the waters of  Ganga here to all your ancestors and thereby fulfil your vow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-44-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "पूर्वकेण हि ते राजंस्तेनातियशसा तदा।\nधर्मिणां प्रवरेणापि नैष प्राप्तो मनोरथ:।।1.44.8।।",
+      "transliteration": "",
+      "translation": "O King by the highly renowned ancestors of yours, the foremost among righteous ones (even Sagara) this desire has not been fulfilled.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-44-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तथैवांशुमता तात लोकेऽप्रतिमतेजसा।\nगङ्गां प्रार्थयतानेतुं प्रतिज्ञा नापवर्जिता।।1.44.9।।",
+      "transliteration": "",
+      "translation": "O Child similarly though Anshuman possessed unparalleled prowess in this world his prayer to Ganga, his vow could not be fulfilled.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-44-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "राजर्षिणा गुणवता महर्षिसमतेजसा।\nमत्तुल्यतपसा चैव क्षत्रधर्मस्थितेन च।।1.44.10।। \nदिलीपेन महाभाग तव पित्राऽति तेजसा।\nपुनर्न शङ्किताऽनेतुं गङ्गां प्रार्थयताऽनघ।।1.44.11।।",
+      "transliteration": "",
+      "translation": "O Sinless one (Bhagiratha) O Distinguished one on the part of Dilipa brilliant your father who had the virtuous of a rajarshi, who was equal to a maharshi in splendour, and to me in austerities and abiding to the duties of a kshatriya it was even not possible to bring Ganga through prayer.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-44-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "सा त्वया समनुक्रान्ता प्रतिज्ञा पुरुषर्षभ।\nप्राप्तोऽसि परमं लोके यश: परमसम्मतम्।।1.44.12।।",
+      "transliteration": "",
+      "translation": "O Best among men you have fulfilled that vow. You have achieved supreme renown  and reverence in this world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-44-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "यच्च गङ्गावतरणं त्वया कृतमरिन्दम।\nअनेन च भवान् प्राप्तो धर्मस्यायतनं महत्।।1.44.13।।",
+      "transliteration": "",
+      "translation": "O Destroyer of enemies by bringing about the descent of Ganga, you have secured a great abode in dharma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-44-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "प्लावयस्व त्वमात्मानं नरोत्तम सदोचिते।\nसलिले पुरुषव्याघ्र शुचि: पुण्यफलो भव।।1.44.14।।",
+      "transliteration": "",
+      "translation": "O Best among men O Tiger among men take a dip in the eternally sacred waters,  purify yourself and acquire holiness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-44-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "पितामहानां सर्वेषां कुरुष्व सलिलक्रियाम्।\nस्वस्ति तेऽस्तु गमिष्यामि स्वं लोकं गम्यतां नृप।।1.44.15।।",
+      "transliteration": "",
+      "translation": "O King perform the rites of all your forefathers with the waters (of Ganga), farewell. I shall return to my world (now). Go back, O King\" (said Grandsire)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-44-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "इत्येवमुक्त्वा देवेश: सर्वलोकपितामह:।\nयथाऽऽगतं तथाऽगच्छत् देवलोकं महायशा:।।1.44.16।।",
+      "transliteration": "",
+      "translation": "\"The Grandsire of all the worlds, highly renowned lord of the gods, having Said this, returned to heaven the way he had come.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-44-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "भगीरथोऽपि राजर्षि: कृत्वा सलिलमुत्तमम्।\nयथाक्रमं यथान्यायं सागराणां महायशा:।।1.44.17।।\nकृतोदकश्शुची राजा स्वपुरं प्रविवेश ह।\nसमृद्धार्थो रघुश्रेष्ठ स्वराज्यं प्रशशास ह।।1.44.18।।",
+      "transliteration": "",
+      "translation": "The illustrious rajarshi Bhagiratha, performed the rites of offering the sacred water of Ganga, in accordance with proper order and tradition for the sons of Sagara. Purified with the ablutions entered his own city.\" O Best of the Raghus his desire thus fulfilled he continued to rule the kingdom thereafter\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-44-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "प्रमुमोद ह लोकस्तं नृपमासाद्य राघव।\nनष्टशोकस्समृद्धार्थो बभूव विगतज्वर:।।1.44.19।।",
+      "transliteration": "",
+      "translation": "\"O Best of the Raghus the world rejoiced having Bhagiratha as king. With his purpose achieved, he was freed from all mental afflictions and sorrows and thereafter lived happily.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-44-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "एष ते राम गङ्गाया विस्तरोऽभिहितो मया।\nस्वस्ति प्राप्नुहि भद्रं ते संध्याकालोऽतिवर्तते।।1.44.20।।",
+      "transliteration": "",
+      "translation": "O Rama I have related you the story of Ganga in detail. Evening time is passing by (and we shall perform the ablutions) farewell.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-44-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "धन्यं यशस्यमायुष्यं पुत्र्यं स्वर्ग्यमतीव च।\nयश्श्रावयति विप्रेषु क्षत्रियेष्वितरेषु च।।1.44.21।। \nप्रीयन्ते पितरस्तस्य प्रीयन्ते दैवतानि च।",
+      "transliteration": "",
+      "translation": "He will be blessed with fame, longevity, progeny and (after death) heaven brahmins One who recites this story of Ganga to the kshatriyas and others, the gods and his forefathers would be pleased with him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-44-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "इदमाख्यानमव्यग्रो गङ्गावतरणं शुभम्।।1.44.22।।\nयश्शृणोति च काकुत्स्थ सर्वान् कामानवाप्नुयात्।\nसर्वे पापा: प्रणश्यन्ति आयु: कीर्तिश्च वर्धते।।1.44.23।।",
+      "transliteration": "",
+      "translation": "O Son of the Kakusthas whosoever listens to this auspicious story relating to the descent of Ganga with concentration, all his desires will be achieved, his sins will be destroyed and his longevity and fame will increase\". इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे चतुश्चत्वारिंशस्सर्ग:।। Thus ends the fortyfourth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

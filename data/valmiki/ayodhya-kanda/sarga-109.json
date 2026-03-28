@@ -1,0 +1,351 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 109,
+    "title": "Rama's justification for adhering to the supreme values of dharma and truth.",
+    "titleSanskrit": "",
+    "totalShlokas": 37
+  },
+  "shlokas": [
+    {
+      "id": "v2-109-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "जाबालेस्तु वचश्श्रुत्वा राम स्सत्यात्मनां वरः।\nउवाच परया भक्त्या स्वबुद्ध्या चाविपन्नया।।2.109.1।।",
+      "transliteration": "",
+      "translation": "Hearing Jabali's words, Rama, the foremost among the truthful, gave a rejoinder, exercising his own judgment and firm conviction with due respect (to Jabali).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "भवान्मे प्रियकामार्थं वचनं यदिहोक्तवान्।\nअकार्यं कार्यसङ्काशमपथ्यं पथ्यसम्मतम्।।2.109.2।।",
+      "transliteration": "",
+      "translation": "Althoug what you have said appears to be salutary, it is actually unwholesome. It appears to be beneficial but is really detrimental.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "निर्मर्यादस्तु पुरुषः पापाचारसमन्वितः।\nमानं न लभते सत्सु भिन्नचारित्रदर्शनः।।2.109.3।।",
+      "transliteration": "",
+      "translation": "A man not bound by morality, engaged in evil deeds and conducts himself contrary to good character is not respected by the virtuous.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "कुलीनमकुलीनं वा वीरं पुरुषमानिनम्।\nचारित्रमेव व्याख्याति शुचिं वा यदि वाऽशुचिम्।।2.109.4।।",
+      "transliteration": "",
+      "translation": "It is only the character that tells whether a man is highborn or not, brave or only  proud of his manliness, honest or dishonest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "अनार्यस्त्वार्यसङ्काश श्शौचाद्दीनस्ताथाऽशुचिः।\nलक्षण्यवदलक्षण्यो दुश्शीलश्शीलवानिव।।2.109.5।।\nअधर्मं धर्मवेशेण यदीमं लोकसङ्कुरम्।\nअभिपत्स्ये शुभं हित्वा क्रियाविधिविवर्जितम्।।2.109.6।।\nकश्चेतयानः पुरुषः कार्याकार्यविचक्षणः।\nबहुमंस्यति मां लोके दुर्वृत्तं लोकदूषणम्।।2.109.7।।",
+      "transliteration": "",
+      "translation": "If like a man who appears noble, though ignoble, clean, though unclean or dishonest,  auspicious, though inauspicious, a man of character, though depraved, I forsake auspicious ways for unrighteousness, abandon pious acts and scriptural practices and indulge, under the cloak of dharma, in acts of wickedness by causing harm and confusion to the world, will any sensible man with a sense of discrimination between should and should not hold me in high esteem?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "कस्य दास्याम्यहं वृत्तं केन वा स्वर्गमाप्नुयाम्।\nआनया वर्तमानो हि वृत्त्या हीनप्रतिज्ञया।।2.109.8।।",
+      "transliteration": "",
+      "translation": "How can I advise others for a virtuous conduct or how can I attain heaven if I break the vow which I follow at present.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "कामवृत्तस्त्वयं लोकः कृत्स्न स्समुपवर्तते।\nयद्वृत्ता स्सन्ति राजानस्तद्वृत्ता स्सन्ति हि प्रजाः।।2.109.9।।",
+      "transliteration": "",
+      "translation": "The entire world conducts itself as per its own sweet will. Therefore the subjects will follow the same path as their kings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "सत्यमेवानृशंसं च राजवृत्तं सनातनम्।\nतस्मात्सत्यात्मकं राज्यं सत्ये लोकः प्रतिष्ठितः।।2.109.10।।",
+      "transliteration": "",
+      "translation": "Truth and nonviolence are the perpetual principles of kings. Therefore, a kingdom is based on truth. This world is firmly established in truth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "ऋषयश्चैव देवाश्च सत्यमेव हि मेनिरे।\nसत्यवादी हि लोकेऽस्मिन्परमं गच्छति क्षयम्।।2.109.11।।",
+      "transliteration": "",
+      "translation": "Sages and gods all accept truth (as the supreme virtue). A truthful man of this world, attains the highest state (abode).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "उद्विजन्ते यथा सर्पान्नरादनृतवादिनः।\nधर्म स्सत्यं परो लोके मूलं स्वर्गस्य चोच्यते।।2.109.12।।",
+      "transliteration": "",
+      "translation": "People are frightened at the sight of a man speaking untruth as though they have seen a serpent. Truth in this world is the greatest virtue and is said to be the very foundation of heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "सत्यमेवेश्वरो लोके सत्यं पद्माश्रिता सदा।\nसत्यमूलानि सर्वाणि सत्यान्नास्ति परं पदम्।।2.109.13।।",
+      "transliteration": "",
+      "translation": "Truth is God. The goddess of wealth always takes refuge in truth. Truth is the root of everything. It is supreme and there is nothing above it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "दत्तमिष्टं हुतं चैव तप्तानि च तपांसि च।\nवेदा स्सत्यप्रतिष्ठाना स्तस्मात्सत्यपरो भवेत्।।2.109.14।।",
+      "transliteration": "",
+      "translation": "Charity, sacrifice, libations, mortifications, asceticism and the Vedas have truth as  their foundation. Therefore, every one should be an adherent of truth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "एकः पालयते लोकमेकः पालयते कुलम्।\nमज्जत्येको हि निरय एक स्स्वर्गे महीयते।।2.109.15।।",
+      "transliteration": "",
+      "translation": "One protects the world. Another runs his family. One plunges into hell. Another is honoured in heaven. (These are the fruits of truth and untruth).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "सोऽहं पितुर्नियोगं तु किमर्थं नानुपालये।\nसत्यप्रतिश्रव स्सत्यं सत्येन समयीकृतः।।2.109.16।।",
+      "transliteration": "",
+      "translation": "I am always true to any promise. I am bound by truth. Why shouId I (now) disobey  my father's command (to keep his promise)?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "नैव लोभान्न मोहाद्वा न ह्यज्ञानात्तमोऽन्वितः।\nसेतुं सत्यस्य भेत्स्यामि गुरो स्सत्यप्रतिश्रवः।।2.109.17।।",
+      "transliteration": "",
+      "translation": "I am always true to my promise. I will not break the bridge of truth of my father out of either greed or delusion or ignorance or illusion.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "असत्यसन्धस्य सतश्चलस्यास्थिरचेतसः।\nनैव देवा न पितरः प्रतीच्छन्तीति नः श्रुतम्।।2.109.18।।",
+      "transliteration": "",
+      "translation": "We have heard that the offerings of a man inclined to untruth, of an unstable and unsteady mind are accepted neither by the gods nor by the ancestors.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "प्रत्यगात्ममिमं धर्मं सत्यं पश्याम्यहं स्वयम्।\nभार स्सत्पुरुषाचीर्णस्तदर्थमभिमन्यते।।2.109.19।।",
+      "transliteration": "",
+      "translation": "I personally regard this righteousness practised by the virtuous as an evident form of truth, as the supreme self. Therefore, this burden (difficult task of living as an exile) is gratifying to me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "क्षात्रं धर्ममहंत्यक्ष्ये ह्यधर्मं धर्मसंहितम्।\nक्षुद्रैर्नृशंसैर्लुब्धैश्च सेवितं पापकर्मभिः।।2.109.20।।",
+      "transliteration": "",
+      "translation": "I renounce the socalled kshatriya code of conduct followed by the mean the cruel, the greedy and by men of evil deeds which is unrighteousness under the cloak of  righteousness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "कायेन कुरुते पापं मनसा सम्प्रधार्य तत्।\nअनृतं जिह्वया चाह त्रिविधं कर्मपातकम्।।2.109.21।।",
+      "transliteration": "",
+      "translation": "At first a man conceives an evil idea in his mind, then executes it through evil deed with his body and tells a lie through his tongue. Thus sinful action is three dimensional (mental, physical and vocal).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "भूमिः कीर्तिर्यशो लक्ष्मीः पुरुषं प्रार्थयन्ति हि।\nसत्यं समनुवर्तने सत्यमेव भजेत तत:।।2.109.22।।",
+      "transliteration": "",
+      "translation": "Land (kingdom) glory, and wealth pursue a man, they long for him even if he is in heaven. Therefore, every one must take recourse to truth alone.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "श्रेष्ठं ह्यनार्यमेव स्याद्यद्भवानवधार्य माम्।\nआह युक्ति करैर्वाक्यैरिदं भद्रं कुरुष्व ह।।2.109.23।।",
+      "transliteration": "",
+      "translation": "The course you thought excellent and 'this auspicious act' you urged me in a cleverlyworded statement to perform is ignoble indeed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "कथं ह्यहं प्रतिज्ञाय वनवासमिमं गुरॊ:।\nभरतस्य करिष्यामि वचो हित्वा गुरोर्वचः।।2.109.24।।",
+      "transliteration": "",
+      "translation": "Having sworn before my father that I would live in the forest, how can I act upon Bharata's request in disregard to my father's words?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "स्थिरा मया प्रतिज्ञाता प्रतिज्ञा गुरुसन्निधौ।\nप्रहृष्यमाणा सा देवी कैकेयी चाभवत्तदा।।2.109.25।।",
+      "transliteration": "",
+      "translation": "I had taken a firm vow in the presence of my father (about my stay in the forest). And then Devi Kaikeyi was immensely delighted.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "वनवासं वसन्नेव शुचिर्नियतभोजनः।\nमूलपुष्पफलैः पुण्यैः पित्रून् देवांश्च तर्पयन्।।2.109.26।।\nसन्तुष्टपञ्चवर्गोऽहं लोकयात्रां प्रवर्तये।\nअकुह श्श्रद्धधानस्सन्कार्याकार्यविचक्षणः।।2.109.27।।",
+      "transliteration": "",
+      "translation": "I shall spend the term of my forest life with faith and holiness and purity of mind and \nwith regulated food and with ancestors and gods satisfied with offerings of roots, flowers and fruits, with my five senses contented and with a mind that discriminates between what ought to be done and what ought not to be done.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "वनवासं वसन्नेवं शुचिर्नियतभोजनः।\nमूलैः पुष्पैः फलैः पुण्यैः पित्रून् देवांश्च तर्पयन्।।2.109.26।।\nसन्तुष्टपञ्चवर्गोऽहं लोकयात्रां प्रवर्तये।\nअकुह श्श्रद्धधानस्सन्कार्याकार्यविचक्षणः।।2.109.27।।",
+      "transliteration": "",
+      "translation": "I shall spend the term of my forest life with faith and holiness and purity of mind and   with regulated food and with ancestors and gods satisfied with offerings of roots, flowers and fruits, with my five senses contented and with a mind that discriminates between what ought to be done and what ought not to be done.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "कर्मभूमिमां प्राप्य कर्तव्यं कर्म यच्छुभम्।\nअग्निर्वायुश्च सोमश्च कर्मणां फलभागिनः।।2.109.28।।",
+      "transliteration": "",
+      "translation": "Having reached this land of (religious) actions, one should perform auspicious rites. As fruit of their actions, Agni, Vayu and Soma have obtained their status.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "शतं क्रतूनामाहृत्य देवराट् त्रिदिवं गतः।\nतपांस्युग्राणि चास्थाय दिवं याता महर्षयः।।2.109.29।।",
+      "transliteration": "",
+      "translation": "After performing a hundred sacrifices, king of the gods (Indra) obtained (dominion over) heaven. Great sages attained heaven after resorting to intense mortifications.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "अमृष्यमाणः पुनरुग्रतेजाः निशम्य तं नास्तिकवाक्यहेतुम्।\nअथाब्रवीत्तं नृपतेस्तनूजो विगर्हमाणो वचनानि तस्य।।2.109.30।।",
+      "transliteration": "",
+      "translation": "The highly energetic prince, Rama, could not tolerate these atheistic arguments of  Jabali for which he had to utter these words full of disdain:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "सत्यं च धर्मं च पराक्रमं च भूतानुकम्पां प्रियवादितां च।\nद्विजातिदेवातिधिपूजनं च पन्थानमाहुस्त्रिदिवस्य सन्तः।।2.109.31।।",
+      "transliteration": "",
+      "translation": "The virtuous maintain that truthfulness, righteousness, valour, compassion towards all beings, speaking pleasing words, paying homage to gods, brahmins and guests -- all these are  paths to heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "तेनैवमाज्ञाय यथावदर्थमेकोदयं सम्प्रतिपद्य विप्राः।\nधर्मं चरन्त स्सकलं यथावत्काङ्क्षन्ति लोकागममप्रमत्ताः।।2.109.32।।",
+      "transliteration": "",
+      "translation": "Therefore, brahmins who have rightly understood the meaning of righteousness and adopt, with unmost care, the righteous ways as laid down in the scriptures seek attainment of higher positions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "निन्दाम्यहं कर्म कृतं पितुस्तद्यस्त्वामगृह्णाद्विषमस्थबुद्धिम्।\nबुद्ध्याऽनयैवंविधया चरन्तं सुनास्तिकं धर्मपथादपेतम्।।2.109.33।।",
+      "transliteration": "",
+      "translation": "You are a great atheist, you have fallen from the path of righteousness. You are guided by an intellect which is extremely peridous. I, therefore, disapprove of my \nfather's decision in inducting a man like you (into the council of ministers).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "यथा हि चोर: स‌ तथा हि बुद्धस्तथागतं नास्तिकमत्र विद्धि।\nतस्माद्धि य: श‌ङ्क्यतमः प्रजानाम् न नास्तिकेनाभिमुखो बुध: स्यात्।।2.109.34।।",
+      "transliteration": "",
+      "translation": "Just as a thief, so is the Buddha (a wise men). Know that the Tathagatas are atheists. They are men most distrusted among the people. A learned man should avoid atheists. \n(Note: Verses 31 to 39 appear to be interpolations, It is anachronistic to talk about Buddha in Tretayuga.)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "त्वत्तो जनाः पूर्वतरे  द्विजाच्श्र शुभानि कर्माणि बहूनि चक्रुः।\nजित्वा सदेमं च परं च लोकं तस्माव्दिजा स्व‌स्ति हुतं कृतं च।।2.109.35।।",
+      "transliteration": "",
+      "translation": "Men superior to you in preceding generations had conquered this world and the other world by always performing many auspicious acts. Twiceborn brahmins perform religious acts and offer libations for the welfare of the world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "धर्मे रता: स‌त्पुरुषै: स‌मेतास्तेजस्विनो दानगुणप्रधानाः।\nअहिंसका वीतमलाश्च लोके भवन्ति पूज्या मुनयः प्रधानाः।।2.109.36।।",
+      "transliteration": "",
+      "translation": "Those supreme ascetics who are radiant, devoted to righteousness and associated with men of virtue, with charity as their chief virtue, eschewing violence and purged of their impurities are truly worthy of reverence in this world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "इति ब्रुवन्तं वचनं सरोषं रामं महात्मानमदीनसत्त्वम्।\nउवाच पथ्यं पुनरास्तिकं च सत्यं वच: सानुनयं च विप्रः।।2.109.37।।",
+      "transliteration": "",
+      "translation": "Having heard the wrathful words of the magnanimous Rama of fearless intellect, that brahmin (Jabali) thus humbly replied in palatable, truthful words full of faith (in god).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "न नास्तिकानां वचनं ब्रवीम्यहं न नास्तिकोऽहं न च नास्ति किञ्चन।\nसमीक्ष्य कालं पुनरास्तिकोऽभवं भवेय काले पुनरेव नास्तिकः।।2.109.38।।",
+      "transliteration": "",
+      "translation": "I do not speak the language of atheists. I am not an atheist. I do not say that the next world does not exist. In keeping with time (occasion) I shall speak the language of a believer or a nonbeliever.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-109-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "न चापि कालोऽय मुपागतश्शनैर्यथा मया नास्तिकवागुदीरिता।\nनिवर्तनार्थं तव राम कारणात् प्रसादनार्थं च मयैतदीरितम्।।2.109.39।।",
+      "transliteration": "",
+      "translation": "O Rama, since the appropriate time has slowly come, I have uttered this. In order to persuade you to return and to propitiate you I have said these words.  इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे नवोत्तरशत��मस्सर्गः।। Thus ends the one hundredninth sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

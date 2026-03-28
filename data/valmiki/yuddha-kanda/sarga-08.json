@@ -1,0 +1,216 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 8,
+    "title": "Prahastha and others assure Ravana that they will kill Rama and others.",
+    "titleSanskrit": "",
+    "totalShlokas": 22
+  },
+  "shlokas": [
+    {
+      "id": "v6-8-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततोनीलाम्बुदनिभ: प्रहस्तोनामराक्षसः ।\nअब्रवीत्प्राञ्जलिर���वाक्यंशूरस्सेनापतिस्तदा ।।6.8.1।।",
+      "transliteration": "",
+      "translation": "Then a Rakshasa whose body was like a dark cloud, called Prahastha, the heroic chief of the army, spoke these words with folded palms.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-8-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "देवदानवगन्धर्वाःपिशाचपतगोरगाः ।\nनत्वांधर्षयितुंशक्याःकिंपुनर्वानरारणे ।।6.8.2।।",
+      "transliteration": "",
+      "translation": "\"Even Devas, Danavas, Gandharvas, Devils, birds, and serpents, cannot face you in war. What to say of Vanaras?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-8-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "सर्वेप्रमत्ताविश्वस्तावञ्चितास्स्महनूमता ।\nनहिमेजीवतोगच्छेज्जीवन् सवनगोचरः ।।6.8.3।।",
+      "transliteration": "",
+      "translation": "All of us were inattentive and confident (of our ability) while Hanuman cheated us. When I am alive how will the wanderer of woods (Hanuman) go with life?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-8-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "सर्वांसागरपर्यन्तांसशैलवनकाननाम् ।\nकरोम्यवानरांभूमिमाज्ञापयतुमांभवान् ।।6.8.4।।",
+      "transliteration": "",
+      "translation": "\"I will make all the oceans, mountains, forests or even the entire earth rid of Vanaras if you order me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-8-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "रक्षांचैवविधास्यामिवानराद्रजनीचर ।\nनागमिष्यतितेदुःखंकिञ्चिदात्मापराधजम् ।।6.8.5।।",
+      "transliteration": "",
+      "translation": "\"O night ranger (Ravana) I will arrange the protection (of this Lanka) from these Vanaras. For your own wrong action (of abducting Sita) you cannot undergo suffering.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-8-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अब्रवीच्चसुसङ्कृद्धोदुर्मुखोनामराक्षसः ।\nइदंनक्षमणीयंहिसर्वेषांनःप्रधर्षणम् ।।6.8.6।।",
+      "transliteration": "",
+      "translation": "Feeling very angry, a Rakshasa called Durmukha said, \"He who has caused shame for all of us does not deserve to be excused.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-8-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "अयंपरिभवोभूयःपुरस्यान्तःपुरस्यच ।\nश्रीमतोराक्षसेन्द्रस्यवानरेणप्रधर्षणम् ।।6.8.7।।",
+      "transliteration": "",
+      "translation": "\"Furthermore, this assault by a Vanara on Lanka, to the royal residence, and to the prosperous Lord of Rakshasas is despising.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-8-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "अस्मिन् मुहूर्तेगत्वैकोनिवर्तिष्यामिवानरान् ।\nप्रविष्टान् सागरंभीममम्बरंवारसातलम् ।।6.8.8।।",
+      "transliteration": "",
+      "translation": "At this very minute I will go alone into the terrific ocean, to the underworld or the upper world and on entering put an end to the monkey.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-8-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "ततोऽब्रवीत्सुसङ्कृद्धोवज्रदंष्ट्रोमहाबलः ।\nप्रगृह्यपरिघंघोरंमांसशोणितरूषितम् ।।6.8.9।।",
+      "transliteration": "",
+      "translation": "Then a mighty strong one who was endowed with diamond like teeth highly enraged, clasping a dreadful iron bludgeon stained with flesh and blood spoke.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-8-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "किंवोहनुमताकार्यंकृपणेनतपस्विना ।\nरामेतिष्ठतिदुर्धर्षेससुग्रीवेऽपिसलक्ष्मणे ।।6.8.10।।",
+      "transliteration": "",
+      "translation": "\"While unassailable Rama is there, along with Lakshmana and Sugriva, what have we to do with miserable, pitiable and helpless Hanuman?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-8-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "अद्यरामंससुग्रीवंपरिघेणसलक्ष्मणम् ।\nआगमिष्यामिहत्वैकोविक्षोभ्यहरिवाहिनीम् ।।6.8.11।।",
+      "transliteration": "",
+      "translation": "\"Now I would go alone and with the iron crowbar, kill Sugriva Lakshmana and Rama and return after shattering the Vanara troops.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-8-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "इदंममापरंवाक्यंशृणुराजन् यदीच्छसि ।\nउपायकुशलोह्येवजयेच्छत्रूनतन्द्रितः ।।6.8.12।।",
+      "transliteration": "",
+      "translation": "\"O King If you like, listen to my other statement: One who is cunning and is vigilant would win over an enemy.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-8-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "कामरूपधराश्शूरास्सुभीमाभीमदर्शनाः ।\nराक्षसावैसहस्राणिराक्षसाधिपनिश्चिताः ।।6.8.13।।\nकाकुत्स्थमुपसङ्गम्यबिभ्रतोमानुषंवपुः ।\nसर्वेह्यसम्भ्रमाभूत्वाब्रुवन्तुरघुसत्तमम् ।।6.8.14।।",
+      "transliteration": "",
+      "translation": "\"O Lord of Rakshasas Thousands of fearful Rakshasas capable of assuming any form at free will, heroic ones of frightful appearance should tell Rama the foremost of Raghus, quietly going near him in human form.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-8-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "प्रेषिताभरतेनैवभ्रात्रातवयवीयसा ।\nसहिसेनांसमुत्थाप्यक्षिप्रमेवोपयास्यति ।।6.8.15।।",
+      "transliteration": "",
+      "translation": "\"'We have been sent by your younger brother Bharata and he is coming here very soon with the army.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-8-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "ततोवयमितस्तूर्णं���ूलशक्तिगदाधराः ।\nचापबाणासिहस्ताश्चत्वरितास्तत्रयामहे ।।6.8.16।।",
+      "transliteration": "",
+      "translation": "\"Then from here we will go there wielding tridents, javelins, maces, swords and arrows.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-8-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "आकाशेगणशस्थ्सित्वाहत्वातांहरिवाहिनीम् ।\nअश्मशस्त्रमहावृष्ट्याप्रापयामयमक्षयम् ।।6.8.17।।",
+      "transliteration": "",
+      "translation": "Staying in the sky in groups, we will rain astras, sastras and boulders on the Vanara troops and on killing them, we shall send them to the abode of God of death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-8-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "एवंचेदुपसर्पेतामनयंरामलक्ष्मणौ ।\nअवश्यमपनीतेनजहतामेवजीवितम् ।।6.8.18।।",
+      "transliteration": "",
+      "translation": "\"When Rama and Lakshmana are distressed that way, they would certainly succumb to our cunning ways and give up life.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-8-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "कौम्भकर्णिस्ततोवीरोनिकुम्भोनामवीर्यवान् ।\nअब्रवीत्परमक्रुद्धोरावणंलोकरावणम् ।।6.8.19।।",
+      "transliteration": "",
+      "translation": "Thereafter the enraged heroic and valiant son of Kumbhakarna called Nikumbha said to Ravana, who made the world cry.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-8-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "सर्वेभवन्तस्तिष्ठन्तुमहाराजेनसङ्गताः ।\nअहमेकोहनिष्यामिराघवंसहलक्ष्मणम् ।।6.8.20।।\nसुग्रीवञ्चहनूमन्तंसर्वांनेवचवानरान् ।",
+      "transliteration": "",
+      "translation": "\"Let all of you stay here along with the king. Going alone I will kill Rama along with Lakshmana, and Hanuman also Sugriva and all of the Vanaras.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-8-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "ततोवज्रहनुर्नामराक्षसःपर्वतोपमः ।।6.8.21।।\nक्रुद्ध: परिलिहन्सृक्कांजिह्वयावाक्यमब्रवीत् ।",
+      "transliteration": "",
+      "translation": "Then a Rakshasa called Vajrahanu, mountain like in form, enraged, licking lips with his tongue said these words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-8-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "स्वैरंकुर्वन्तुकर्माणिभवन्तोविगतज्वराः ।।6.8.22।।\nएकोऽहंभक्षयिष्यामितांसर्वांहरियूथपान् ।\nस्वस्थाःक्रीडन्तुनिश्चिन्ताःपिबन्तुमधुवारुणीम् ।।6.8.23।।",
+      "transliteration": "",
+      "translation": "All of you giving up fear, do your duties freely move happily sporting and drinking sweet wine. Single handed, I will consume all the Vanara army.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-8-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "अहमेकोवधिष्यामिसुग्रीवंसहलक्ष्मणम् ।\nसाङ्गदंचहनूमन्तंरामंचरणकुञ्जरम् ।।6.8.24।।",
+      "transliteration": "",
+      "translation": "\"I alone will kill that Rama with Lakshmana, Sugriva, that Angada, Hanuman and the Vanara army.\" ।।इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेअष्टमस्सर्गः।। This is the end of the eighth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

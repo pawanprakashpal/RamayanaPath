@@ -1,0 +1,297 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 55,
+    "title": "Akampana is instructed by Ravana to fight, who gets perturbed seeing evil portents.",
+    "titleSanskrit": "",
+    "totalShlokas": 31
+  },
+  "shlokas": [
+    {
+      "id": "v6-55-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "वज्रदंष्ट्रंहतंश्रुत्वावालिपुत्रेणरावणः ।\nबलाध्यक्��मुवाचेदंकृताञ्जलिमुपस्थितम् ।।6.55.1।।",
+      "transliteration": "",
+      "translation": "On hearing about Vajradamshtra being killed by Vali's son, Ravana spoke to the chief of the army who stood with folded hands.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-55-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "शीघ्रंनिर्यान्तुदुर्धर्षाराक्षसाभीमविक्रमाः ।\nअकम्पनंपुरस्कृत्यसर्वशस्त्रप्रकोविदम् ।।6.55.2।।",
+      "transliteration": "",
+      "translation": "\"Send for Akampana quickly, who is of terrific valour, difficult to encounter and skilled in all sastras.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-55-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "एषशास्ताचगोप्ताचनेताचयुधिसत्तमः ।\nभूतिकामश्चमेनित्यंनित्यंचसमरप्रियः ।।6.55.3।।",
+      "transliteration": "",
+      "translation": "Akampana is a tamer of foes, protector of people, in that way capable, always desirous of welfare, lover of war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-55-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "एषजेष्यतिकाकत्स्थौसुग्रीवंचमहाबलम् ।\nवानरांश्चापरान् घोरान् हनिष्यतिपरन्तपः ।।6.55.4।।",
+      "transliteration": "",
+      "translation": "\"Scorcher of enemies, this Akampana will win Sugriva of terrific might, Rama and Lakshmana, dreadful Vanaras, and put an end to enemies.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-55-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "परिगृह्यसःताम् I ज्ञाम् रावणस्यमहाबल ।\nबलम् सम्प्रेरयामासःतदालघुपराक्रमः।। 6.55.5।।",
+      "transliteration": "",
+      "translation": "Then accepting Ravana's order, accordingly, taking hold of the army dispatched them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-55-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "ततोनानाप्रहरणाभीमाक्षाभीमदर्शनाः ।\nनिष्पेतूराक्षसामुख्याबलाध्यक्षप्रचोदिताः ।।6.55.6।।",
+      "transliteration": "",
+      "translation": "Thereafter taking different weapons, Rakshasas of fearful eyes and terrific appearance rushed forward ordered by CommanderinChief of the army.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-55-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "रथमास्थायविपुलंतप्तकाञ्चनभूषणम् ।\nमेघाभोमेघवर्णश्चमेघस्वनमहास्वनः ।।6.55.7।।\nराक्षसैःसम्वृतोघोरैस्तदानिर्यात्यकम्पनः ।",
+      "transliteration": "",
+      "translation": "Mounted on a huge chariot, Akampana, decked in pure gold jewels, like cloud in form and complexion, whose loud voice resembled thunder, surrounded by Rakshasas went forward.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-55-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "नहिकम्पयितुंशक्यःसुरैरपिमहामृधे ।।6.55.8।।\nअकम्पनस्ततस्तेषामादित्यइवतेजसा ।",
+      "transliteration": "",
+      "translation": "Akampana who, possibly could not be shaken in war by suras shone like the sun in that manner.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-55-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तस्यनिर्धावमानस्यसम्रब्धस्ययुयुत्सया ।।6.55.9।।\nअकस्माद्दैन्यमागच्छद्धयानांरथवाहिनाम् ।",
+      "transliteration": "",
+      "translation": "As Akampana was going forth excited to wage war, an expression of desperation developed suddenly in the horses drawing the chariots and an experience of depression in him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-55-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "व्यस्फुरन्नयनंचास्यसव्यंयुद्धाभिनदनिनः ।।6.55.10।।\nविवर्णोमुखवर्णश्चगद्गदश्चाभवत्स्वनः ।",
+      "transliteration": "",
+      "translation": "Himself being a lover of war, became pale with his countenance changed, voice choked, and his eyes lost its lustre.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-55-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "अभवत्सुदिनेकालेदुर्दिनंरूक्षमारुतम् ।।6.55.11।।\nऊचुःखगमृगाःसर्वेवाचःक्रूराभयावहाः ।",
+      "transliteration": "",
+      "translation": "At a time on a good day of fine weather, it became cloudy, birds and beasts were making frightening cries all over.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-55-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "ससिंहापचित्कन्धःशार्दूलसमविक्रमः ।।6.55.12।।\nतानुत्पातानचिन्स्सैवनिर्जगामरणाजिरम् ।",
+      "transliteration": "",
+      "translation": "He whose shoulders were developed like that of a lion, who equalled tiger in valour, went forth not minding the evil portents.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-55-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तथानिर्गच्छतस्तस्यरक्षसस्सहराक्षसैः ।।6.55.13।।\nबभूवसुमहान्नादःक्षोभयन्निवसागरम् ।",
+      "transliteration": "",
+      "translation": "While that Akampana was going like that along with Rakshasas huge noise that arose was as if the ocean was agitated.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-55-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तेनशब्देनवित्रस्तावानराणांमहाचमूः ।।6.55.14।।\nद्रुमशैलप्रहाराणांयोद्धुंसमुपतिष्ठतं ।",
+      "transliteration": "",
+      "translation": "Huge troops of Vanaras holding trees and hillocks stood prepared for waging and by that the noise that arose expanded.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-55-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तेषांयुद्धंमहारौद्रंसञ्जज्ञेकपिरक्षसाम् ।।6.55.15।।\nरामरावणयोरर्धेसमभित्यक्तजीविनाम् ।",
+      "transliteration": "",
+      "translation": "Vanaras and Rakshasas dedicated their lives for Rama and Ravana, respectively in that way were enraged and battle took place.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-55-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "सर्वेह्यतिबलाःशूराःसर्वेपर्वतसन्निभाः ।।6.55.16।।\nहरयोराक्षसाश्चैवपरस्परजिघांसवः ।",
+      "transliteration": "",
+      "translation": "Intending to kill one another both Vanaras and Rakshasas who resembled hills, also of extraordinary might and heroic fighting.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-55-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तेषांविवर्धतांशब्दःसंयुगेऽतितरस्विनाम् ।।6.55.17।।\nशुश्रुवेसुमहान् कोपादन्योन्यमभिगर्जताम् ।",
+      "transliteration": "",
+      "translation": "A tremendous sound thundered in that war when they fought with exceeding impetuosity with one another and yelled at each other.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-55-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "रजश्चारुणवर्णाभंसुभीममभवद् भृशम् ।।6.55.18।।\nउद्धतंहरिरक्षोभिःसंरुरोधदिशोदश ।",
+      "transliteration": "",
+      "translation": "Terrific dust of red colour arose instantly in all the ten directions by the Vanaras, and Rakshasas and it enveloped all over.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-55-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "अन्योन्यंरजसातेनकौशेयोद्धूतपाण्डुना ।।6.55.19।।\nसम्वृतानिचभूतानिददृशुर्नरणाजिरे ।",
+      "transliteration": "",
+      "translation": "The combatants could not see one another in the battlefield, and it seemed as though white silk piece was shaken by the wind by the appearance of the surrounding dust.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-55-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "नध्वजोनपताकावाचर्मवातुरगोऽपिवा ।।6.55.20।।\nआयुधंस्यन्दनोवापिददृशेतेनरेणुना ।",
+      "transliteration": "",
+      "translation": "By the dust raised, the posts, flags, shields and not even horses, weapons and chariots were visible.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-55-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "शब्दश्चसुमहांस्तेषांनर्दतामभिधावताम् ।।6.55.21।।\nश्रूयतेतुमुलोयुद्धेनरूपाणिचकाशिरे ।",
+      "transliteration": "",
+      "translation": "As they were rushing over one another, terrific noise was heard, and no form was discernible.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-55-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "हरीनेवसुसंरुष्टाहरयोजघ्नुराहवे ।।6.55.22।।\nराक्षसाराक्षसांश्चापिनिजघ्नुस्तिमिरेतदा ।",
+      "transliteration": "",
+      "translation": "Then in that darkness and in anger Vanaras went attacking Vanaras and Rakshasas also attacked Rakshasas (not knowing).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-55-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तेपरांश्चविनिघ्नन्तःस्वांश्चवानरराक्षसाः ।।6.55.23।।\nरुधिरार्द्रांतदाचक्रुर्महींपङ्कानुलेपनाम् ।",
+      "transliteration": "",
+      "translation": "Not knowing enemies and own people the Vanaras and Rakshasas terminating drenched the mud with their blood and covered the earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-55-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "ततस्तुरुधिरौघेणसिक्तंह्यपगतंरजः ।।6.55.24।।\nशरीरशवसङ्कीर्णाबभूवचवसुन्धरा ।",
+      "transliteration": "",
+      "translation": "Then moistened with blood, the dust settled on the ground was seen covered with bodies and limbs.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-55-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "द्रुमशक्तिगदाप्रासैश्शिलापरिघतोमरैः ।।6.55.25।।\nहरयोराक्षसाश्चैवस्तूर्णंजघ्नुरन्योन्यमोजसा ।",
+      "transliteration": "",
+      "translation": "Then Rakshasas and Vanaras fought one another vigorously with trees, javelins, maces, darts, rocks, and peaks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-55-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "बाहुभिःपरिघाकारैर्युध्यन्तःपर्वतोपमाः ।।6.55.26।।\nहरयोभीमकर्माणोराक्षसान्झघ्नुराहवे ।",
+      "transliteration": "",
+      "translation": "The Vanaras of terrific deeds, like hills in form, resembling iron bars attacked many Rakshasas in the battle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-55-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "राक्षसास्त्वभिसङ्क्रुद्धाःप्रासतोमरपाणयः ।।6.55.27।।\nकपीन्निजघ्निरेतत्रशस्त्रःपरमदारुणैः ।",
+      "transliteration": "",
+      "translation": "There, the highly furious Rakshasas also exterminated the Vanaras with their weapons and darts.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-55-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "अकम्पनस्सुसङ्क्रुद्धोराक्षसानांचमूपतिः ।।6.55.28।।\nसम्हर्षयतितान्सर्वान्राक्षसाभनिमविक्रमान् ।",
+      "transliteration": "",
+      "translation": "Highly enraged Akampana of fierce valour cheered all the Rakshasa troops.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-55-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "हरयस्त्वपिरक्षांसिमहाद्रुममहाश्मभिः ।।6.55.29।।\nविदारयन्त्यभिक्रम्यशस्त्राण्याच्छिद्यवीर्यतः ।",
+      "transliteration": "",
+      "translation": "Even the Vanaras mangled Rakshasas countering with weapons, huge rocks and trees and destroyed them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-55-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "एतस्मिन्नन्तरेवीराहरयःकुमुदोनलः ।।6.55.30।।\nमैन्दश्चपरमक्रुद्धाश्चक्रुर्वेगमनुत्तमम् ।",
+      "transliteration": "",
+      "translation": "In the meantime, in the midst Kumuda, Nala, Mainda, heroic vanaras became furious and went",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-55-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "तेतुवृक्षैर्महावीराराक्षसानांचमूमुखे ।।6.55.31।।\nकदनंसुमहच्चक्रुर्लीलयाहरिपुङ्गवाः ।\nममन्थूराक्षसान् सर्वेवानरागणशोभृशम् ।।6.55.32।।",
+      "transliteration": "",
+      "translation": "Great heroes of the Vanara leaders, chiefs of army sportively waged a great battle and crushed Rakshasas repeatedly. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेपञ्चपञ्चाशस्सर्गः ।। This is the end of the fifty fifth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

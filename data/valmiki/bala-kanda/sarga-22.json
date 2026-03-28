@@ -1,0 +1,189 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 22,
+    "title": "Dasaratha sends Rama and Lakshmana with Viswamitra--Viswamitra confers\n\n\n\nknowledge of bala and atibala to Rama and Lakshmana.",
+    "titleSanskrit": "",
+    "totalShlokas": 19
+  },
+  "shlokas": [
+    {
+      "id": "v1-22-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तथा वसिष्ठे ब्रुवति राजा दशरथस्सुतम \nप्रहृष्टवदनो राममाजुहाव सलक्ष्मणम्।।1.22.1।।",
+      "transliteration": "",
+      "translation": "Vasishta having said thus, king Dasaratha, with cheerful countenance summoned Rama and Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-22-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "कृतस्वस्त्ययनं मात्रा पित्रा दशरथेन च।\nपुरोधसा वसिष्ठेन मङ्गलैरभिमन्त्रितम्।।1.22.2।।\nस पुत्रं मूर्ध्न्युपाघ्राय राजा दशरथ: प्रियम्।\nददौ कुशिकपुत्राय सुप्रीतेनान्तरात्मना।।1.22.3।।",
+      "transliteration": "",
+      "translation": "Rama was given farewell by his parents with recitation of mantras (for securing prosperity and averting evils). Priest Vasishta sanctified him with mantras Dasaratha kissed his son on the forehead and delivered him to the care of Viswamitra, with a heart full of cheer.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-22-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "ततो वायुस्सुखस्पर्शो नीरजस्को ववौ तदा।\nविश्वामित्रगतं दृष्ट्वा रामं राजीवलोचनम्।।1.22.4।।",
+      "transliteration": "",
+      "translation": "At the sight of the lotuseyed Rama accompanying Viswamitra, the wind blew pollenfree with a gentle touch.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-22-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "पुष्पवृष्टिर्महत्यासीद्देवदुन्दुभिनिस्वनै:।\nशङ्खदुन्दुभिनिर्घोष: प्रयाते तु महात्मनि।।1.22.5।।",
+      "transliteration": "",
+      "translation": "The departure of glorious Viswamitra was greeted with incessant showers of flowers, the beating of celestial drums and the blowing of conches.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-22-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "विश्वामित्रो ययावग्रे ततो रामो धनुर्धर:।\nकाकपक्षधरो धन्वी तं च सौमित्रिरन्वगात्।।1.22.6।।",
+      "transliteration": "",
+      "translation": "Viswamitra walked in the forefront. Behind him was Rama, bow in hand, while in the archer, Sumitra's son (Lakshmana) with side locks of hair followed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-22-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "कलापिनौ धनुष्पाणी शोभमानौ दिशो दश ।\nविश्वामित्रं महात्मानं त्रिशीर्षाविव पन्नगौ।।1.22.7।।\nअनुजग्मतुरक्षुद्रौ पितामहमिवाश्विनौ।",
+      "transliteration": "",
+      "translation": "Rama and Lakshmana equipped with bows and quivers resembled three hooded serpents. Warriors of no less prowess, they illuminated the ten quarters and followed the high souled Viswamitra like twin Aswanikumaras  following the grandsire, Brahma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-22-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तदा कुशिकपुत्रं तु धनुष्पाणी स्वलङ्कृतौ।।1.22.8।।\nबद्धगोधाङ्गुलित्राणौ खड्गवन्तौ महाद्युती ।\nकुमारौ चारुवपुषौ भ्रातरौ रामलक्ष्मणौ   ।।1.22.9।।\nअनुयातौ श्रिया दीप्तौ शोभयेतामनिन्दितौ।\nस्थाणुं देवमिवाचिन्त्यं कुमाराविव पावकी ।।1.22.10।।",
+      "transliteration": "",
+      "translation": "Then bows in hand, wellattired, their fingers encased in mongrel skin, for protection (against the bowstring) armed with scimitars, resplendent, young, handsome the two brothers, Rama and Lakshmana shone unblemished. As they followed sage Viswamitra spreading radiance, they looked like sons of the god of fire, (Skanda and Visakhu) following the  incomprehensible Siva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-22-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "अध्यर्धयोजनं गत्वा सरय्वा दक्षिणे तटे।\nरामेति मधुरां वाणीं विश्वामित्रोऽभ्यभाषत।।1.22.11।।",
+      "transliteration": "",
+      "translation": "After crossing a distance of over half a yojana on the southern bank of Sarayu, Viswamitra addressed Rama sweet in a gentle voice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-22-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "गृहाण वत्स सलिलं मा भूत्कालस्य पर्यय:।\nमन्त्रग्रामं गृहाण त्वं बलामतिबलां तथा।।1.22.12।।",
+      "transliteration": "",
+      "translation": "\"O child, take this water (in your hands), let there be no delay. You will receive from me a collection of mantras and also bala and atibala.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-22-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "न श्रमो न ज्वरो वा ते न रूपस्य विपर्यय:।\nन च सुप्तं प्रमत्तं वा धर्षयिष्यन्ति नैऱृता:।।1.22.13।।",
+      "transliteration": "",
+      "translation": "\"(If you receive these mantras), you will experience neither fatigue, nor fever nor will there be a change in your appearance. Whether you are asleep or agitated, rakshasas cannot harm you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-22-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "न बाह्वोस्सदृशो वीर्ये पृथिव्यामस्ति कश्चन।\nत्रिषु लोकेषु वै राम न भवेत्सदृशस्तव ।।1.22.14।।",
+      "transliteration": "",
+      "translation": "O Rama, there is none in this world equal to the might of your hands nor does such a person exist in the three worlds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-22-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "न सौभाग्ये न दाक्षिण्ये न ज्ञाने बुद्धिनिश्चये।\nनोत्तरे प्रतिवक्तव्ये समो लोके तवाऽनघ।।1.22.15।।",
+      "transliteration": "",
+      "translation": "O sinless one, there is none in this world equal to you in good fortune, kindness, wisdom, in taking a decsion or giving a reply.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-22-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "एतद्विद्याद्वये लब्धे भविता नास्ति ते सम:।\nबलात्वतिबला चैव सर्वज्ञानस्य मातरौ।।1.22.16।।",
+      "transliteration": "",
+      "translation": "With these two kinds of knowledge secured, there will be none equal to you, at present or in fututre. Bala and atibala are  mother to all kinds of knowledge .",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-22-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "क्षुत्पिपासे न ते राम भविष्येते नरोत्तम ।\nबलामतिबलां चैव पठत: पथि राघव।।1.22.17।।",
+      "transliteration": "",
+      "translation": "O Rama, best among men, scion in the line of Raghu, on your way you will not feel hunger or thirst if you recite bala and atibala.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-22-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "विद्याद्वयमधीयाने यशश्चाप्यतुलं त्वयि।\nपितामहसुते ह्येते विद्ये तेजस्समन्विते।।1.22.18।।\nप्रदातुं तव काकुत्स्थ सदृशस्त्वं हि धार्मिक।",
+      "transliteration": "",
+      "translation": "O Rama, born in the line Kakutstha and one who is righteous, these two radiant sciences are daughters of the grandsire Brahma. If you pursue these two sciences, you will get unequalled fame. You are a fit person to confer these two sciences.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-22-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "कामं बहुगुणास्सर्वे त्वय्येते नात्र संशय:।\nतपसा सम्भृते चैते बहुरूपे भविष्यत:।।1.22.19।।",
+      "transliteration": "",
+      "translation": "You possess all these qualities in great measure. There is no doubt that If these two sciences (mantras) are nourished with austerities they will assume multiple forms (and benefit you)\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-22-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "ततो रामो जलं स्पृष्ट्वा प्रहृष्टवदनश्शुचि:।\nप्रतिजग्राह ते विद्ये महर्षेर्भावितात्मन:।।1.22.20।।",
+      "transliteration": "",
+      "translation": "Thereafter Rama, touched the water and was sanctified. With a cheerful face he received those two sciences from the maharshi who had perceived the supreme soul.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-22-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "विद्यासमुदितो रामश्शुशुभे भूरिविक्रम:।\nसहस्ररश्मिर्भगवान् शरदीव दिवाकर:।।1.22.21।। \nगुरुकार्याणि सर्वाणि नियुज्य कुशिकात्मजे।\nऊषुस्तां रजनीं तत्र सरय्वां सुसुखं त्रय:।।1.22.22।।",
+      "transliteration": "",
+      "translation": ". Rama, the highly heroic  after acquiring knowledge (of the two sciences) and having rendered all services to preceptor Viswamitra, appeared resplendent like the Sungod in autumn. There the three of them spent the night comfortably on the bank of Sarayu.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-22-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "दशरथनृपसूनुसत्तमाभ्यां\nतृणशयनेऽनुचिते सहोषिताभ्याम्।\nकुशिकसुतवचोऽनुलालिताभ्यां\nसुखमिव सा विबभौ विभावरी च।।1.22.23।।",
+      "transliteration": "",
+      "translation": "The night was spent as though with comfort by the two eminent sons of Dasaratha, who shared the unaccustomed bed of grass. They were kept in good humour by the words of Kusika's son. \nइत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे द्वाविंशस्सर्ग:।। \nThus ends the twenty second sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

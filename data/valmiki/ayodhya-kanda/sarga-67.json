@@ -1,0 +1,351 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 67,
+    "title": "Ministers and brahmins speak about the miserable state of a kingdom without king -- urge Vasistha to name the heir apparent for Ayodhya.",
+    "titleSanskrit": "",
+    "totalShlokas": 37
+  },
+  "shlokas": [
+    {
+      "id": "v2-67-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "आक्रन्दितनिरानन्दा सास्रकण्ठजनाकुला।\nअयोध्यायामवतता सा व्यतीयाय शर्वरी।।2.67.1।।",
+      "transliteration": "",
+      "translation": "The night stretched interminably in Ayodhya, which was filled with sobbing people  rendered cheerless by their lamentations.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "व्यतीतायां तु शर्वर्यामादित्यस्योदये ततः।\nसमेत्य राजकर्तारः सभामीयुर्द्विजातयः।।2.67.2।।",
+      "transliteration": "",
+      "translation": "When the night finally ended and after the sunrise next day, the brahmins who perform royal investiture having been called and reached the assembly hall.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "मार्कण्डेयोऽथ मौद्गल्यो वामदेवश्च काश्यपः।\nकात्यायनो गौतमश्च जाबालिश्च महायशाः।।2.67.3।।\nएते द्विजा स्सहामात्यैः पृथग्वा च मुदीरयन्।\nवसिष्ठमेवाभिमुखाः श्रेष्ठं राजपुरोहितम्।।2.67.4।।",
+      "transliteration": "",
+      "translation": "Markandeya, Maudgalya, Kasyapa, Katyayana, Gautama, Jabali of great renown   accompanied by ministers and brahmins approached Vasistha, the chief  priest of the king and expressed different opinions (on the investiture).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "अतीता शर्वरी दुःखं या नो वर्षशतोपमा।\nअस्मिन्पञ्चत्वमापन्ने पुत्रशोकेन पार्थिवे।।2.67.5।।",
+      "transliteration": "",
+      "translation": "While king Dasaratha died on account of grief over (separation from) his son and rejoined the five elements, the sorrowful night seemed like a hundred years for us. (commented the assembly of ministers).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "स्वर्गतश्च महाराजो रामश्चारण्यमाश्रितः।\nलक्ष्मणश्चापि तेजस्वी रामेणैव गतस्सह।।2.67.6।।",
+      "transliteration": "",
+      "translation": "The great king has attained heaven, Rama has taken refuge in the forest and brilliant Lakshmana has also gone with Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "उभौ भरतशत्रुघ्नौ केकयेषु परन्तपौ।\nपुरे राजगृहे रम्ये मातामहनिवेशने।।2.67.7।।",
+      "transliteration": "",
+      "translation": "Bharata and Satrughna, destroyers of enemies, are at the beautiful city of Rajagriha in the Kekaya kingdom, the palace of their maternal grandfather's palace.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "इक्ष्वाकूणामिहाद्यैव कश्चिद्राजा विधीयताम्।\nअराजकं हि नो राष्ट्रं विनाशं समवाप्नुयात्।।2.67.8।।",
+      "transliteration": "",
+      "translation": "Therefore, let someone from the race of Ikshvakus be appointed king right now.  since without a king, the country will be destroyed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "नाराजके जनपदे विद्युन्माली महास्वनः।\nअभिवर्षति पर्जन्यो महीं दिव्येन वारिणा।।2.67.9।।",
+      "transliteration": "",
+      "translation": "In a country without a king, thunderous clouds garlanded by lightning would no longer water the earth with celestial showers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "नाराजके जनपदे बीजमुष्टिः प्रकीर्यते।\nनाराजके पितुः पुत्रो भार्या वा वर्तते वशे।।2.67.10।।",
+      "transliteration": "",
+      "translation": "Where there is no king, even a handful of seeds will not be sown (will not sprout). In a kingless kingdom, a son or a wife will not obey the father (head of the family).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "नाराजके धनं चास्ति नास्ति भार्या प्यराजके।\nइद मत्याहितं चान्यत्कुतस्सत्य मराजके।।2.67.11।।",
+      "transliteration": "",
+      "translation": "In a kingdom without a king wealth cannot be preserved, no wife would like to stay (with her husband). There is one more cause for a great peril, that is, there is no place for truth in a country (where there is no king).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "नाराजके जनपदे कारयन्ति सभां नराः।\nउद्यानानि च रम्याणि हृष्टाः पुण्यगृहाणि च।।2.67.12।।",
+      "transliteration": "",
+      "translation": "In a country where there is no king, no assemblies are convened by pleasure seeking people, nor do they build delightful gardens or sacred edifices.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "नाराजके जनपदे यज्ञशीला द्विजातयः।\nसत्राण्यन्वासते दान्ता ब्राह्मणा स्संशितव्रताः।।2.67.13।।",
+      "transliteration": "",
+      "translation": "In a country without a king, selfcontrolled brahmins in charge of sacrificial ceremonies, wellversed in the study of Vedas and strict followers of  austerity will not function.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "नाराजके जनपदे महायज्ञेषु यज्वनः।\nब्राह्मणा वसुसम्पन्ना विसृजन्त्याप्तदक्षिणाः।।2.67.14।।",
+      "transliteration": "",
+      "translation": "In a country without a king wealthy brahmins, who have performed great sacrifices, do not offer abundance of gifts to the officiating priests.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "नाराजके जनपदे प्रभूतनटनर्तकाः।\nउत्सवाश्च समाजाश्च वर्धन्ते राष्ट्रवर्धनाः।।2.67.15।।",
+      "transliteration": "",
+      "translation": "In a country without a king, celebrations of associations promoting the welfare of the country, actors and dancers in large numbers do not prosper.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "नारा���के जनपदे सिद्धार्था व्यवहारिणः।\nकथाभिरनुरज्यन्ते कथाशीलाः कथाप्रि���ैः।।2.67.16।।",
+      "transliteration": "",
+      "translation": "Where there is no king, those engaged in lawsuits will not succeed and those who are accustomed to storytelling will not entertain those who love to listen to stories.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "नाराजके जनपदे उद्यानानि समागताः।\nसायाह्ने क्रीडितुं यान्ति कुमार्यो हेमभूषिताः।।2.67.17।।",
+      "transliteration": "",
+      "translation": "In a country without a king, young ladies adorned with golden ornaments no longer meet in the evening at the pleasure garden for sporting.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "नाराजके जनपदे वाहनै शशीघ्रगामिभिः।\nनरा निर्यान्त्यरण्यानि नारीभिस्सह कामिनः।।2.67.18।।",
+      "transliteration": "",
+      "translation": "In a country without a king, pleasureseeking men will not drive in the woods on swiftmoving chariots with women.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "नाराजके जनपदे धनवन्तस्सुरक्षिताः।\nशेरते विवृतद्वाराः कृषिगोरक्षजीविनः।।2.67.19।।",
+      "transliteration": "",
+      "translation": "In a country without a king, wealthy people who live on farming and raising cattle cannot sleep safely in their homes with doors wide open.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "नाराजके जनपदे बद्धघण्टाविषाणिनः।\nअटन्ति राजमार्गेषु कुञ्जरा षष्टिहायनाः।।2.67.20।।",
+      "transliteration": "",
+      "translation": "In a country without a king, young elephants of sixty years of age, their tusks adorned with bells no longer wander about on the highways.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "नाराजके जनपदे शरान्सन्ततमस्यताम्।\nश्रूयते तलनिर्घोष इष्वस्त्राणामुपासने।।2.67.21।।",
+      "transliteration": "",
+      "translation": "In a country without a king, the sounds of the ceaseless discharge of arrows and practice of weapons, the clappings of the cord on the skin shield of shooters throwing the arrows are no longer heard.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "नाराजके जनपदे वणिजो दूरगामिनः।\nगच्छन्ति क्षेममध्वानं बहुपण्यसमाचिताः।।2.67.22।।",
+      "transliteration": "",
+      "translation": "In a country without a king merchants travelling long distances with several kinds of saleable goods cannot go safely on their way.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "नाराजके जनपदे चरत्येकचरो वशी।\nभावयन्नात्मनाऽत्मानं यत्र सायंगृहो मुनिः।।2.67.23।।",
+      "transliteration": "",
+      "translation": "In a country where there is no king, an ascetic who (normally) moves alone, selfcontrolled and contemplating on the higher self no longer wanders or rests in the inn.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "नाराजके जनपदे योगक्षेमं प्रवर्तते।\nनचाप्यराजके सेना शत्रून्विषहते युधि।।2.67.24।।",
+      "transliteration": "",
+      "translation": "In a country without a king, there is no security of possessions and the army cannot withstand the  enemy in a battle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "नाराजके जनपदे हृष्टैः परमवाजिभिः।\nनरास्संयान्ति सहसा रथैश्च परिमण्डिताः।।2.67.25।।",
+      "transliteration": "",
+      "translation": "In a country without a king, welldressed men are no longer enthusiastic to drive on excellent horses and on chariots.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "नाराजके जनपदे नराश्शास्त्रविशारदाः।\nसंवदन्तोऽवतिष्ठन्ते वनेषूपवनेषु च।।2.67.26।।",
+      "transliteration": "",
+      "translation": "In a country with no king people proficient in scriptures do not withdraw to the forests and (recreational) gardens for debates (on scriptures).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "नारा��के जनपदे माल्यमोदकदक्षिणाः।\nदेवताभ्यर्चनार्थाय कल्प्यन्ते नियतैर्जनैः।।2.67.27।।",
+      "transliteration": "",
+      "translation": "In a country where there is no king, people who are disciplined in spiritual practices do not offer garlands of flowers, sweetmeats and alms while worshipping gods.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "नाराजके जनपदे चन्दनागरुरूषिताः।\nराजपुत्रा विराजन्ते वसन्त इव शाखिनः।।2.67.28।।",
+      "transliteration": "",
+      "translation": "In a country where there is no king, the princes, anointed with sandal paste and agaru, no longer look graceful like blosoming trees in spring time.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "यथा ह्यनुदका नद्यः यथा वाऽप्यतृणं वनम्।\nअगोपाला यथा गावस्तथा राष्ट्रमराजकम्।।2.67.29।।",
+      "transliteration": "",
+      "translation": "(The kingdom without a king) is like rivers without water, forests without vegetation and  cows without cowherds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "ध्वजो रथस्य प्रज्ञानं धूमो ज्ञानं विभावसोः।\nतेषां यो नो ध्वजो राजा स देवत्वमितो गतः।।2.66.30।।",
+      "transliteration": "",
+      "translation": "The pennant is an identification for one's chariot. Smoke is a mark of identifying fire. All of us are recognised by the pennant (magnanimity) of the king and such a king has gone to heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "नाराजके जनपदे स्वकं भवति कस्यचित्।\nमत्स्या इव नरा नित्यं भक्षयन्ति परस्परम्।।2.67.31।।",
+      "transliteration": "",
+      "translation": "In a country where there is no king, no one can own anything and, like fish, people devour one another ceaselessly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "ये हि सम्भिन्नमर्यादा नास्तिकाश्छिन्नसंशयाः।\nतेऽपि भावाय कल्पन्ते राजदण्डनिपीडिताः।।2.67.32।।",
+      "transliteration": "",
+      "translation": "Atheists, who disregard the bounds of morality and live freely dispelling doubts will tend to follow virtuous path out of fear when subjected to royal punishment.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "यथा दृष्टि श्शरीरस्य नित्यमेव प्रवर्तते।\nतथा नरेन्द्रो राष्ट्रस्य प्रभवस्सत्यधर्मयोः।।2.67.33।।",
+      "transliteration": "",
+      "translation": "The king is the source for protecting the truth and morality of a country like the eye  which perpetually watches the welfare of the body.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "राजा सत्यं च धर्मश्च राजा ���ुलवतां कुलम्।\nराजा माता पिता चैव राजा हितकरो नृणाम्।।2.67.34।।",
+      "transliteration": "",
+      "translation": "The king is the protector of truth and righteousness, of men of good families. He is father, and mother. He alone renders welfare of the people.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "यमो वैश्रवण श्शक्रः वरुणश्च महाबलः।\nविशेष्यन्ते नरेन्द्रेण वृत्तेन महता ततः।।2.67.35।।",
+      "transliteration": "",
+      "translation": "Hence, the king with his excellent conduct surpasses mighty Yama, Vaisravana, Indra and Varuna.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "अहो तम इवेदं स्यान्नप्रज्ञायेत किञ्चन।\nराजा चे न्न भवे ल्लोके विभज साध्वसाधुनी।।2.67.36।।",
+      "transliteration": "",
+      "translation": "If the king did not show the distinction between the good and evil actions, this world would have been enveloped by darkness. Nothing could have been seen. How great (is the king)?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "जीवत्यपि महाराजे तवैव वचनं वयम्।\nनातिक्रमामहे सर्वे वेलां प्राप्येव सागरः।।2.67.37।।",
+      "transliteration": "",
+      "translation": "Even while the great king was alive, we never defied your word like the ocean which does not overstep its shore.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-67-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "स न स्समीक्ष्य द्विजवर्य वृत्तं नृपं विना राज्यमरण्यभूतम्।\nकुमारमिक्ष्वाकुसुतं वदान्यं त्वमेव राजानमिहाभिषिञ्च।।2.67.38।।",
+      "transliteration": "",
+      "translation": "O Vasistha, the best of brahmins, considering all that has happened and knowing that a kingdom without a king is like a forest, you may consecrate a generous son from  the Ikshvaku race as our king. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे सप्तषष्टितमस्सर्गः।। Thus ends the sixtyseventh sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

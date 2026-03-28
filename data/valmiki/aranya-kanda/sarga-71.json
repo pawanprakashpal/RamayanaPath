@@ -1,0 +1,315 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 71,
+    "title": "Kabandha narrates his story-- promises to help Rama in finding Sita-- attains his true form after his cremation.",
+    "titleSanskrit": "",
+    "totalShlokas": 33
+  },
+  "shlokas": [
+    {
+      "id": "v3-71-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "पुरा राम महाबाहो महाबलपराक्रम।\nरूपमासीन्ममा चिन्त्यं त्रिषु लोकेषु विश्रुतम्।।3.71.1।।\nयथा सोमस्य शक्रस्य सूर्यस्य च यथा वपुः।",
+      "transliteration": "",
+      "translation": "O longarmed, mighty and powerful Rama in the past I was handsome like the Moon or Indra or the Sun inconceivable to all the three worlds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "सोऽहं रूपमिदं कृत्वा लोकवित्रासनं महत्।।3.71.2।।\nऋषीन्वनगतान्राम त्रासयामि ततस्ततः।",
+      "transliteration": "",
+      "translation": "With my appearance, I was a great nuisance to the world and used to terrorise the sages living in the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "ततस्स्थूलशिरा नाम महर्षिः कोपितो मया।।3.71.3।।\nसञ्चिन्वन्विविधं वन्यं रूपेणानेन धर्षितः।",
+      "transliteration": "",
+      "translation": "With my appearance I invited the wrath of Sthulasira who I assaulted among the many seers, while he was collecting food in the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तेनाहमुक्तः प्रेक्ष्यैवं घोरशापाभिधायिना।।3.71.4।।\nएतदेव नृशंसं ते रूपमस्तु विगर्हितम्।",
+      "transliteration": "",
+      "translation": "Seeing me he pronounced a dreadful curse on me saying, 'You will get a cruel, despicable form.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "स मया याचितः क्रुद्धश्शापस्योन्तो भवेदिति।।3.71.5।।\nअभिशापकृतस्येति तेनेदं भाषितं वचः।",
+      "transliteration": "",
+      "translation": "When I sought to know how the curse angrily pronounced on me would come to an end, he said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "यदा छित्त्वा भुजौ रामस्त्वां दहेद्विजने वने।।3.71.6।।\nतदा त्वं प्राप्स्यसे रूपं स्वमेव विपुलं शुभम्।",
+      "transliteration": "",
+      "translation": "'When Rama gets your arms in a desolate forest amputated and your body cremated, you would get back your gloriously auspicious form.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "श्रिया विराजितं पुत्रं दनोस्त्वं विद्धि लक्ष्मण।।3.71.7।।\nइन्द्रकोपादिदं रूपं प्राप्तमेवं रणाजिरे।",
+      "transliteration": "",
+      "translation": "O Lakshmana know that I was the prosperous son of demon Danu. By the wrath of Indra in the battlefeild I obtained this form.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "अहं हि तपसोग्रेण पितामहमतोषयम्।।3.71.8।।\nदीर्घमायुस्स मे प्रादात्ततो मां विभ्रमोऽस्पृशत्।",
+      "transliteration": "",
+      "translation": "I pleased the creator Brahma with great penance. He blessed me with long life. Then this pride and confusion overtook me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "दीर्घमायुर्मया प्राप्तं किं मे शक्रः करिष्यति।।3.71.9।।\nइत्येवं बुद्धिमास्थाय रणे शक्रमधर्षयम्।",
+      "transliteration": "",
+      "translation": "Having been blessed with long life and thinking, what can Indra do to me?, I attacked  him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तस्य बाहुप्रयुक्तेन वज्रेण शतपर्वणा।।3.71.10।।\nसक्थिनी चैव मूर्धा च शरीरे सम्प्रवेशितम्।",
+      "transliteration": "",
+      "translation": "The thunderbolt having a hundred nodes deployed by Indra pierced my thighs and my head.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "स मया याच्यमानस्सन्नानयद्यमसादनम्।।3.71.11।।\nपितामहवचस्सत्यं तदस्त्विति ममाब्रवीत्।",
+      "transliteration": "",
+      "translation": "Entreated, he did not send me to the abode of Yama ( lord of death) and said, 'Let the words of the creator be true' .",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अनाहारः कथं शक्तो भग्नसक्थिशिरोमुखः।।3.71.12।।\nवज्रेणाभिहतः कालं सुदीर्घमपि जीवितुम्।",
+      "transliteration": "",
+      "translation": "Hit by the thunderbolt, my thighbones, head and face were broken. Somehow I could manage to live for a long time without food.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु मे शक्रो बाहू योजनमायतौ।।3.71.13।।\nप्रादादास्यं च मे कुक्षौ तीक्ष्णदंष्ट्रमकल्पयत्।",
+      "transliteration": "",
+      "translation": "Having been entreated, Indra created in me two long arms extending upto a yojana and set my mouth with sharp teeth in the stomach.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "सोऽहं भुजाभ्यां दीर्घाभ्यां संकृष्यास्मिन्वने चरान्।।3.71.14।।\nसिंहव्दिपमृगव्याघ्रान् भक्षयामि समन्ततः।",
+      "transliteration": "",
+      "translation": "Stretching the long arms in the forest, I dragged creatures like lions, tigers, elephants and deer moving in the forest and ate them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "स तु मामब्रवीदिन्द्रो यदा रामस्सलक्ष्मणः।।3.71.15।।\nछेत्स्यते समरे बाहू तदा स्वर्गं गमिष्यसि।",
+      "transliteration": "",
+      "translation": "Indra too had said, 'When Rama along with Lakshmana cuts off your arms in a fight,  you would reach heaven.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अनेन वपुषा राम वनेऽस्मिन्राजसत्तम।।3.71.16।।\nयद्यत्पश्यामि सर्वस्य ग्रहणं साधु रोचये।",
+      "transliteration": "",
+      "translation": "O Rama, the best of kings I thought it was only proper in this forest and with this body to catch whatever creature I saw.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अवश्यं ग्रहणं रामो मन्येऽहं समु���ैष्यति।।3.71.17।।\nइमां बुद्धिं पुरस्कृत्य देहन्यासकृतश्रमः।",
+      "transliteration": "",
+      "translation": "O Rama, I was struggling to preserve my body all the time thinking that some day you would certainly come into my arms.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "स त्वं रामोऽसि भद्रं ते नाहमन्येन राघव।।3.71.18।।\nशक्यो हन्तुं यथातत्त्वमेवमुक्तं महर्षिणा।",
+      "transliteration": "",
+      "translation": "You are that Rama. Be blessed. As stated by the seer I cannot be really killed by any one except you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "अहं हि मतिसाचिव्यं करिष्यामि नरर्षभ।।3.71.19।।\nमित्रं चैवोपदेक्ष्यामि युवाभ्यां संस्कृतोऽग्निना।",
+      "transliteration": "",
+      "translation": "O best among men I will help you with my wisdom and give you friendly advice when I am purified by you both through cremation on the funeral pyre.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु धर्मात्मा दनुना तेन राघवः।।3.71.20।।\nइदं जगाद वचनं लक्ष्मणस्योपशृण्वतः।",
+      "transliteration": "",
+      "translation": "Rigteous Rama spoke the following words in response to the story of Danu within Lakshmana's earshot:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "रावणेन हृता भार्या मम सीता यशस्स्विनी।।3.71.21।।\nनिष्क्रान्तस्य जनस्थानात्सहभ्रात्रा यथासुखम्।",
+      "transliteration": "",
+      "translation": "My illlustrious wife Sita was carried away by Ravana comfortably when I was away from Janasthana along with my brother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "नाममात्रं तु जानामि न रूपं तस्य रक्षसः।।3.71.22।।\nनिवासं वा प्रभावं वा वयं तस्य न विद्महे।",
+      "transliteration": "",
+      "translation": "I only know his name. We do not know how he looks, where he lives and what influence he has.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "शोकार्तानामनाथानामेवं विपरिधावताम्।।3.71.23।।\nकारुण्यं सदृशं कर्तुमुपकारे च वर्तताम्।",
+      "transliteration": "",
+      "translation": "Creatures like you may help those who, like orphans, run here and there, stricken with sorrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "काष्ठान्यादाय शुष्काणि काले भग्नानि कुञ्जरैः।।3.71.24।।\nधक्ष्यामस्त्वां वयं वीर श्वभ्रे महति कल्पिते।",
+      "transliteration": "",
+      "translation": "O hero we will cremate you in a huge pit to be prepared for this occasion, collecting dry logs of wood broken by elephants.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "स त्वं सीतां समाचक्ष्व येन वा यत्र वा हृता।।3.71.25।।\nकुरु कल्याणमत्यर्थं यदि जानासि तत्त्वतः।",
+      "transliteration": "",
+      "translation": "If you really know where SIta has been kidnapped and by whom, tell me. You will be  doing a great service.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु रामेण वाक्यं दनुरनुत्तमम्।।3.71.26।।\nप्रोवाच कुशलो वक्तुं वक्तारमपि राघवम्।",
+      "transliteration": "",
+      "translation": "Danu who was proficient in speech spoke with chosen words to Rama who was a great speaker himself:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "दिव्यमस्ति न मे ज्ञानं नाभिजानामि मैथिलीम्।।3.71.27।।\nयस्तां ज्ञास्यति तं वक्ष्ये दग्धस्स्वं रूपमास्थितः।",
+      "transliteration": "",
+      "translation": "I do not have divine wisdom (now). Nor do I know Sita. When you cremate me, I shall assume my original form and will tell you the name of the person who knows it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "अदग्धस्य तु विज्ञातुं शक्तिरस्ति न मे प्रभो।।3.71.28।।\nराक्षसं तं महावीर्यं सीता येन हृता तव।",
+      "transliteration": "",
+      "translation": "O lord before I am cremated, I do not have the ability to know  about that powerful demon by whom Sita has been abducted.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "विज्ञानं हि मम भ्रष्टं शापदोषेण राघव।।3.71.29।।\nस्वकृतेन मया प्राप्तं रूपं लोकविगर्हितम्।",
+      "transliteration": "",
+      "translation": "O Rama due to the curse I have lost my wisdom. By my own deed, I have attained this form despicable to the world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "किं तु यावन्न यात्यस्तं सविता श्रान्तवाहनः।।3.71.30।।\nतावन्मामवटे क्षिप्त्वा दह राम यथाविधि।",
+      "transliteration": "",
+      "translation": "Before the Sun  disappears with his tired horses drop me into a pit and cremate me in accordance with tradition, O Rama",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "दग्धस्त्वयाहमवटे न्यायेन रघुनन्धन।।3.71.31।।\nवक्ष्यामि तमहं वीर यस्तं ज्ञास्यति राक्षसम्।",
+      "transliteration": "",
+      "translation": "O heroic Rama, delight of the Raghus, if you drop me in a pit and cremate me as per custom, I will tell you about him who knows the demon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "तेन सख्यं च कर्तव्यं न्याय्यवृत्तेन राघव।।3.71.32।।\nकल्पयिष्यति ते प्रीतस्साहाय्यं लघुविक्रमः।",
+      "transliteration": "",
+      "translation": "O Rama you should establish friendship with him in a just manner. That hero of swift action will help you when he is pleased.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-71-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "न हि तस्यास्त्यविज्ञातं त्रिषु लेकेषु राघव।।3.71.33।।\nसर्वान्परिसृतो लोकान्पुरासौ कारणान्तरे।",
+      "transliteration": "",
+      "translation": "O Rama, there is nothing that he does not know in the three worlds. In the past for a different reason he roamed all the (three) worlds. इत्यार्ष श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे एकसप्ततितमस्सर्गः।। Thus ends the seventyfirst sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

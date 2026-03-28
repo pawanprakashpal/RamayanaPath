@@ -1,0 +1,180 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 38,
+    "title": "Rama prays his father to look after his mother with compassion and regard.",
+    "titleSanskrit": "",
+    "totalShlokas": 18
+  },
+  "shlokas": [
+    {
+      "id": "v2-38-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तस्यां चीरं वसानायां नाथवत्यामनाथवत्। \nप्रचुक्रोश जनस्सर्वो धिक्त्वां दशरथं त्विति।।2.38.1।।",
+      "transliteration": "",
+      "translation": "Beholding Sita who was wearing a bark garment, like one without a support, though having a husband, all the people cried bitterly exclaiming O Dasaratha, fie on you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-38-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तेन तत्र प्रणादेन दुःखितस्स महीपतिः। \nचिच्छेद जीविते श्रद्धां धर्मे यशसि चात्मनः।।2.38.2।।",
+      "transliteration": "",
+      "translation": "Hearing that tumult the distressed Dasaratha lost faith in his own life and in his righteousness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-38-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "स निःश्वस्योष्णमैक्ष्वाक स्तां भार्यामिदमब्रवीत्। \nकैकेयि कुशचीरेण न सीता गन्तुमर्हति।।2.38.3।।",
+      "transliteration": "",
+      "translation": "The descendant of the Ikshvakus (Dasaratha), heaving hot sighs, said to his wife O  Kaikeyi, Sita does not deserve to go (to the forest) in garment of kusa grass.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-38-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "सुकुमारी च बाला च सततं च सुखोचिता। \nनेयं वनस्य योग्येति सत्यमाह गुरुर्मम।।2.38.4।।",
+      "transliteration": "",
+      "translation": "Sita a delicate, young princess accustomed to comforts is not fit to dwell in the forest. This is what my preceptor has truly spoken.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-38-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "इयं हि कस्यापकरोति किञ्चि \nत्तपस्विनी राजवरस्य कन्या। \nया चीरमासाद्य जनस्य मध्ये \nस्थिता विसंज्ञाश्रमणीव काचित्।।2.38.5।।",
+      "transliteration": "",
+      "translation": "Sita, daughter of Janaka, the greatest among kings, stands amidst people wearing bark garment like an ascetic with her senses switched off. To whom and what harm has she done?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-38-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "चीराण्यपास्याज्जनकस्य कन्या \nनेयं प्रतिज्ञा मम दत्तपूर्वा। \nयथासुखं गच्छतु राजपुत्री \nवनं समग्रा सह सर्वरत्नैः।।2.38.6।।",
+      "transliteration": "",
+      "translation": "Let the daughter of Janaka take off her bark garments. This is not the promise I had made to you earlier. Let the princess happily go to the forest adorned with all jewels and with all other necessities.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-38-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "अजीवनार्हेण मया नृशंसा \nकृता प्रतिज्ञा नियमेन तावत्। \nतवया हि बाल्यात् प्रतिपन्नमेतत्  \nतन्मां दहेद्वेणुमिवात्मपुष्पम्।।2.38.7।।",
+      "transliteration": "",
+      "translation": "By giving this cruel promise through importunity, I have rendered myself unfit to live. This promise was made as a child's play and it (now) destroys me like a bamboo destroyed by its own flowers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-38-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "रामेण यदि ते पापे किञ्चित्कृतमशोभनम्। \nअपकारः क इह ते वैदेह्या दर्शितोऽधमे।।2.38.8।।",
+      "transliteration": "",
+      "translation": "O sinful woman O wretch Rama might have done something unbecoming to you, but what offence has Sita committed?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-38-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "मृगीवोत्फुल्लनयना मृदुशीला तपस्वीनी। \nअपकारं कमिह ते करोति जनकात्मजा।।2.38.9।।",
+      "transliteration": "",
+      "translation": "What wrong has the daughter of Janaka largeeyed like a doe, so gentle and worthy of compassion done to you?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-38-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "ननु पर्याप्त मेतत्ते पापे रामविवासनम्। \nकिमेभिः कृपणैर्भूय: पातकैरपि ते कृतैः।।2.38.10।।",
+      "transliteration": "",
+      "translation": "Rama's exile, O wicked woman, is enough for you. What are you committing further heinous crimes for?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-38-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "प्रतिज्ञातं मया तावत् त्वयोक्तं देवि शृण्वता। \nरामं यदभिषेकाय त्वमिहागतमब्रवीः।।2.38.11।।",
+      "transliteration": "",
+      "translation": "I have heard you, O Devi speaking to Rama when he came here in connection with  the coronation. I promised you to that extent only.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-38-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "तत्त्वेतत्समतिक्रम्य निरयं गन्तुमिच्छसि।\nमैथिलीमपि या हि त्वमीक्षसे चीरवासिनीम्।।2.38.12।।",
+      "transliteration": "",
+      "translation": "Having exceeded all that, you want to behold Sita in bark garment and thereby, wish for hell.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-38-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "इतीव राजा विलपन्महात्मा \nशोकस्य नान्तं स ददर्श किञ्चित्।\nभृशातुरत्वाच्च पपात भूमौ \nतेनैव पुत्रव्यसनेन मग्नः।।2.38.13।।",
+      "transliteration": "",
+      "translation": "The king could not see any end to his lamentation. Immersed in the grief of separation from his son and deeply tormented, he fell down on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-38-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "एवं ब्रुवन्तं पितरं रामस्सम्प्रस्थितो वनम्। \nअवाक्छिरसमासीनमिदं वचनमब्रवीत्।।2.38.14।।",
+      "transliteration": "",
+      "translation": "Rama who was about to leave for the forest addressed his father who sat with his head bent once again:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-38-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "यं धार्मिक कौशल्या मम माता यशस्विनी। \nवृद्धा चाक्षुद्रशीला च न च त्वां देव गर्हते।।2.38.15।।",
+      "transliteration": "",
+      "translation": "O righteous father O king my aged and illustrious mother, Kausalya possesses neither a mean character nor does she blame you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-38-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "मया विहीनां वरद प्रपन्नां शोकसागरम्। \nअदृष्टपूर्वव्यसनां भूयस्सम्मन्तुमर्हसि।।2.38.16।।",
+      "transliteration": "",
+      "translation": "O bestower of boons,  separated from me and unaccustomed to suffering, she will be plunged into an unforeseen ocean of sorrow. You should pay her greater attention.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-38-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "पुत्रशोकं यथा नर्च्छेत्त्वया पूज्येन पूजिता। \nमां हि सञ्चिन्तयन्ती सा त्वयि जीवेत्तपस्विनी।।2.38.17।।",
+      "transliteration": "",
+      "translation": "Let her not grieve on account of her son. O venerable father, if she, who deserves compassion is honoured by you, she will live.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-38-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "इमां महेंन्द्रोपम जातगर्धिनीं \nतथा विधातुं जननीं ममार्हसि। \nयथा वनस्थे मयि शोककर्शिता \nन जीवितं न्यस्य यमक्षयं व्रजेत्।।2.38.18।।",
+      "transliteration": "",
+      "translation": "You are powerful like Indra.You should act accordingly so that my mother who has a possesive feeling towards her son should not, due to emaciation go to the abode of Yama after my departure for the forest.  इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे अष्टत्रिंशस्सर्गः।। Thus ends the thirtyeighth sarga of Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

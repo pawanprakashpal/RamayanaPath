@@ -1,0 +1,360 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 43,
+    "title": "Pleased with the austerities of Bhagiratha, Siva holds Ganga on his head during her descent and releases in Bindu lake--Ganga branches into  seven streams--following Bhagiratha, Ganga reaches the nether world and delivers the souls of Sagara's sons.",
+    "titleSanskrit": "",
+    "totalShlokas": 38
+  },
+  "shlokas": [
+    {
+      "id": "v1-43-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "देवदेवे गते तस्मिन् सोऽङ्गुष्ठाग्रनिपीडिताम्। \nकृत्वा वसुमतीं राम संवत्सरमुपासत।।1.43.1।।",
+      "transliteration": "",
+      "translation": "\"O Rama when that God of the gods (Brahma) departed, Bhagiratha, pressing the earth with the tip of his big toe (standing supported by the big toe) penanced (meditated upon Siva) for one year.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अथ संवत्सरे पूर्णे सर्वलोकनमस्कृत:।\nउमापति: पशुपती राजानमिदमब्रवीत्।।1.43.2।।",
+      "transliteration": "",
+      "translation": "After one full year was completed, Iswara who is worshipped by all in all the worlds said to king Bhagiratha:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "प्रीतस्तेऽहं नरश्रेष्ठ करिष्यामि तव प्रियम्।\nशिरसा धारयिष्यामि शैलराजसुतामहम्।।1.43.3।।",
+      "transliteration": "",
+      "translation": "\"O Best of men  I am pleased with your devotion. I will hold Ganga on my head, the daughter of the king of mountains (to reduce  the force of her descent). I shall do your wish.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "ततो हैमवती ज्येष्ठा सर्वलोकनमस्कृता।\nतदा सातिमहद्रूपं कृत्वा वेगं च दुस्सहम्।।1.43.4।।\nआकाशादपतद्राम  शिवे शिवशिरस्युत।",
+      "transliteration": "",
+      "translation": "Then Ganga, the eldest daughter of Himavat who is adored by all the worlds, assuming the form of a mighty river descended from the sky with unbearable speed on the auspicious head of Siva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "अचिन्तयच्च सा देवी गङ्गा परमदुर्धरा।।1.43.5।।\nविशाम्यहं हि पातालं स्रोतसा गृह्य शङ्करम्।",
+      "transliteration": "",
+      "translation": "\"Goddess Ganga, extremely difficult to contain, thought that seizing Siva with her flow she would enter the lower regions of the earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तस्यावलेपनं ज्ञात्वा क्रुद्धस्तु भगवान् हर:।।1.43.6।।\nतिरोभावयितुं बुद्धिं चक्रे त्रिनयनस्तदा।",
+      "transliteration": "",
+      "translation": "Then the threeeyed Lord Siva, aware of her proud intentions applied his intelligence to conceal her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "सा तस्मिन् पतिता पुण्या पुण्ये रुद्रस्य मूर्धनि।।1.43.7।।\nहिमवत्प्रतिमे राम जटामण्डलगह्वरे।",
+      "transliteration": "",
+      "translation": "O Rama that sacred river (Ganga), descended on to the depths of the matted locks on the holy head of Siva resembling the mount Himavan.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "सा कथञ्चिन्महीं गन्तुं नाशक्नोद्यत्नमास्थिता।।1.43.8।।\nनैव निर्गमनं लेभे जटामण्डलमोहिता।",
+      "transliteration": "",
+      "translation": "Trapped in the matted locks, she (Ganga) could not come out. With all her efforts she could not reach the earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तत्रैवाबम्भ्रमद्देवी संवत्सरगणान् बहून्।।1.43.9।।\nतामपश्यन्पुनस्तत्र तप: परममास्थित:।",
+      "transliteration": "",
+      "translation": "There the golden Ganga wandered about for many years. Bhagiratha not finding Ganga, once again resorted to great penance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अनेन तोषितश्चाभूदत्यर्थं रघुनन्दन।।1.43.10।।\nविससर्ज ततो गङ्गां हरो बिन्दुसर: प्रति।",
+      "transliteration": "",
+      "translation": "O Son of the Raghus (Rama) Siva was immensely pleased with the penace and thereafter released Ganga (drop by drop) forming Bindusara.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तस्यां विसृज्यमानायां सप्तस्रोतांसि जज्ञिरे।।1.43.11।। \nह्लादिनी पावनी चैव नलिनी च तथाऽपरा।\nतिस्र: प्राचीं दिशं जग्मु: गङ्गाश्शिवजलाश्शुभा:।।1.43.12।।",
+      "transliteration": "",
+      "translation": "As she (Ganga) was released, she branched out into seven streams. Three streams  known as Hladini, Pavani and Nalini having auspicious waters and conferring prosperity flowed eastwards.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "सुचक्षुश्चैव सीता च सिन्धुश्चैव महानदी।\nतिस्रस्त्वेता दिशं जग्मु: प्रतीचीं तु शुभोदका:।।1.43.13।।",
+      "transliteration": "",
+      "translation": "Auspicious Suchakshu, Sita and a great river Sindhu, these three great rivers flowed  westwards.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "सप्तमी चान्वगात्तासां भगीरथमथो नृपम्।\nभगीरथोऽपि राजर्षिर्दिव्यं स्यन्दनमास्थित:।।1.43.14।।\nप्रायादग्रे महातेजा गङ्गा तं चाप्यनुव्रजत्।",
+      "transliteration": "",
+      "translation": "The seventh stream among them followed Bhagiratha. The most brilliant rajarshi Bhagiratha also mounting on divine chariot raced forward and Ganga followed him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "गगनाच्छङ्करशिरस्ततो धरणिमाश्रिता।।1.43.15 ।।\nव्यसर्पत जलं तत्र तीव्रशब्दपुरस्कृतम्।",
+      "transliteration": "",
+      "translation": "From the sky on to the head of Shankara and thence Ganga resorted to the earth. There it flowed forward with a roaring sound.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "मत्स्यकच्छपसङ्घैश्च शिंशुमारगणैस्तदा।।1.43.16।।\nपतद्भि: पतितैश्चान्यैर्व्यरोचत वसुन्धरा।",
+      "transliteration": "",
+      "translation": "Then the earth looked bright with the fallen and falling shoals of fish, turtles and multitudes  of other seaanimals.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "ततो देवर्षिगन्धर्वा यक्षसिद्धगणास्तदा।।1.43.17।।\nव्यलोकयन्त ते तत्र गगनाद्गां गतां तथा।",
+      "transliteration": "",
+      "translation": "Then devarshis, gandharvas, yakshas and hosts of siddhas looked on with astonishment at Ganga falling from the sky and descending on the earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "विमानैर्नगराकारैर्हयैर्गजवरैस्तदा।।1.43.18।। \nपारिप्लवगतैश्चापि देवतास्तत्र विष्ठिता:।",
+      "transliteration": "",
+      "translation": "Then, gods in a state of excitement in their aerial chariots as large as cities, on horses and on big elephants were stationed there (in the sky).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तदद्भुततमं लोके गङ्गापतनमुत्तमम्।।1.43.19।।\nदिदृक्षवो देवगणा: समीयुरमितौजस:।",
+      "transliteration": "",
+      "translation": "Gods with great lustre arrived to witness the most wonderful, grand descent of Ganga.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "सम्पतद्भिस्सुरगणैस्तेषां चाभरणौजसा।।1.43.20।।\nशतादित्यमिवाभाति गगनं गततोयदम्।",
+      "transliteration": "",
+      "translation": "The cloudless sky shone with the radiance of the ornaments of the gods alighting speedily to witness Ganga. It appeared as though the sky was filled with a hundred Suns.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "शिंशुमारोरगगणैर्मीनैरपि च चञ्चलै:।।1.43.21।।\nविद्युद्भिरिव विक्षिप्तमाकाशमभवत्तदा।",
+      "transliteration": "",
+      "translation": "The sky strewn with lightnings appeared as if it was inhabited by seaanimals, serpents and fishes fickle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "पाण्डरैस्सलिलोत्पीडै: कीर्यमाणैस्सहस्रधा।।1.43.22।।\nशारदाभ्रैरिवाकीर्णं गगनं हंससम्प्लवै:।",
+      "transliteration": "",
+      "translation": "White foams of water were scattered in a thousand ways. It appeared as if the sky was  spread over with autumnal clouds flocks of swans.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "क्वचिद्द्रुततरं याति कुटिलं क्वचिदायतम्।।1.43.23।।\nविनतं क्वचिदुद्धूतं क्वचिद्याति शनैश्शनै:।",
+      "transliteration": "",
+      "translation": "Ganga was flowing now rapid, now slow, now wide, now meandering, now low, now high.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "सलिलेनैव सलिलं क्वचिदभ्याहतं पुन:।।1.43.24।।\nमुहुरूर्ध्वमुखं गत्वा पपात वसुधातलम्।",
+      "transliteration": "",
+      "translation": "Sometimes waves dashed against waves. They rose repeatedly upwards and fell down on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "तच्छङ्करशिरोभ्रष्टं भ्रष्टं भूमितले पुन:।।1.43.25।।\nव्यरोचत तदा तोयं निर्मलं गतकल्मषम्।",
+      "transliteration": "",
+      "translation": "The waters of Ganga descended on Shankara's head and from there to the earth. Freed from all impurities, the waters looked pure and clean.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तत्र देवर्षिगन्धर्वा वसुधातलवासिन:।।1.43.26।।\nभवाङ्गपतितं तोयं पवित्रमिति पस्पृशु:।",
+      "transliteration": "",
+      "translation": "Considering the waters fallen from the head of Siva sacred, devatas, rishis and gandharvas and those living on earth touched it (with reverence).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "शापात्प्रपतिता ये च गगनाद्वसुधातलम्।।1.43.27।।\nकृत्वा तत्राभिषेकं ते बभूवुर्गतकल्मषा:।",
+      "transliteration": "",
+      "translation": "Those cursed to fall from heaven to earth were absolved of their sins after bathing there (in the waters of Ganga).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "धूतपापा: पुनस्तेन तोयेनाथ सुभास्वता।।1.43.28।।\nपुनराकाशमाविश्य स्वान् लोकान् प्रतिपेदिरे।",
+      "transliteration": "",
+      "translation": "Cleansed of their sins by the sparkling waters, they ascended through the sky once  again to their own (celestial) worlds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "मुमुदे मुदितो लोकस्तेन तोयेन भास्वता।।1.43.29।।\nकृताभिषेको गङ्गायां बभूव विगतक्लम:।",
+      "transliteration": "",
+      "translation": "People rejoiced at the sight of those shining waters. They were happy  to have a dip in Ganga and their fatigue was gone.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "भगीरथोऽपि राजार्षिर्दिव्यं स्यन्दनमास्थित:।\nप्रायादग्रे महातेजास्तं गङ्गा पृष्ठतोऽन्वगात्।।1.43.30।",
+      "transliteration": "",
+      "translation": "Most brilliant rajarshi Bhagiratha also mounting the divine chariot moved forward and Ganga followed him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "देवास्सर्षिगणा: सर्वे दैत्यदानवरा��्षसा:।।1.43.31।।\nगन्धर्वयक्षप्रवरास्सकिन्नरमहोरगा:। \nसर्वाश्चाप्सरसो राम भगीरथरथानुगाम्।।1.43.32।।\nगङ्गामन्वगमन् प्रीतास्सर्वे जलचराश्च ये।",
+      "transliteration": "",
+      "translation": "O Rama besides acquatic beings, rishis, devatas, daityas, danavas, rakshasas along with kinnaras, serpents, foremost of gandharvas, yakshas and apsaras all followed the chariot of Bhagiratha. They were happy to follow Ganga.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "यतो भगीरथो राजा ततो गङ्गायशस्विनी।।1.43.33।।\nजगाम सरितां श्रेष्ठा सर्वपापप्रणाशिनी।",
+      "transliteration": "",
+      "translation": "Ganga, famous and foremost of rivers, destroyer of all sins, flowed in the direction  king Bhagiratha moved.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "ततो हि यजमानस्य जह्नोरद्भुतकर्मण:।।1.43.34।।\nगङ्गा सम्प्लावयामास यज्ञवाटं महात्मन:।",
+      "transliteration": "",
+      "translation": "Then while Ganga was flowing, it inundated the sacrificial ground of the great sage Jahnu. Jahnu who used to work wonders was performing a sacrifice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "तस्यावलेपनं ज्ञात्वा क्रुद्धो यज्वा तु राघव।।1.43.35।।\nअपिबच्च जलं सर्वं गङ्गाया: परमाद्भुतम्।",
+      "transliteration": "",
+      "translation": "O Descendant of the Raghu dynasty sage Jahnu who was performing the sacrifice, observed her pride and grew  furious. And astonishingly drank the entire waters of Ganga.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "ततो देवास्सगन्धर्वा ऋषयश्च सुविस्मिता:।।1.43.36।।\nपूजयन्ति महात्मानं जह्नुं पुरुषसत्तमम्।\nगङ्गां चापि नयन्ति स्म दुहितृत्वे महात्मन:।।1.43.37।।",
+      "transliteration": "",
+      "translation": "Devatas, rishis and gandharvas stood amazed (at this act). They worshipped the magnanimous Jahnu, noblest among men. The devatas entreated the illustrious Jahnu to treat Ganga as his daughter.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "ततस्तुष्टो महातेजाश्श्रोत्राभ्यामसृजत् पुन:।।1.43.38।।\nतस्माज्जह्नुसुता गङ्गा प्रोच्यते जाह्नवीतिच।",
+      "transliteration": "",
+      "translation": "The brilliant (Jahnu) was pleased. He released her through both his both ears. Hence Ganga is called Jahnavi, daughter of Jahnu.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "जगाम च पुनर्गङ्गा भगीरथरथानुगा।\nसागरं चापि सम्प्राप्ता सा सरित्प्रवरा तदा।।1.43.39।।\nरसातलमुपागच्छत्सिद्ध्यर्थं तस्य कर्मण:।",
+      "transliteration": "",
+      "translation": "Ganga, best among rivers, following the chariot of Bhagiratha, reached the ocean. She entered the nether regions of the earth in order to fulfil his mission (salvation of the sons of Sagara).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "भगीरथोऽपि राजर्षि: गङ्गामादाय यत्नत:।\nपितामहान् भस्मकृतानपश्यद्दीनचेतन:।।1.43.40।।",
+      "transliteration": "",
+      "translation": "Rajarshi Bhagiratha, having brought Ganga with supreme efforts, saw with a sad heart his grandfathers reduced to ashes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-43-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "अथ तद्भस्मनां राशिं गङ्गासलिलमुत्तमम्।\nप्लावयद्धूतपाप्मानस्स्वर्गं प्राप्ता रघूत्तम।।1.43.41।।",
+      "transliteration": "",
+      "translation": "O Best of the Raghus thereafter the holy waters of Ganga inundated those heaps of ashes and the sons of Sagara, purged of their sins, reached heaven\" (said Viswamitra). इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे त्रिचत्वारिंशस्सर्ग:।।  Thus ends the fortythird sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

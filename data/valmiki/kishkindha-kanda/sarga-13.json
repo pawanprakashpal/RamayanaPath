@@ -1,0 +1,288 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 13,
+    "title": "Nature on the way to Kishkinda -- Sugriva describes the hermitage of the seven sages and the power of their penance",
+    "titleSanskrit": "",
+    "totalShlokas": 30
+  },
+  "shlokas": [
+    {
+      "id": "v4-13-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ऋष्यमूकात्स धर्मात्मा किष्किन्धां लक्ष्मणाग्रजः।\nजगाम सहसुग्रीवो वालिविक्रमपालिताम्4.13.1।।",
+      "transliteration": "",
+      "translation": "Lakshmana's righteous elder brother left Rishyamuka with Sugriva for Kishkinda protected by Vali's valour.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-13-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "समुद्यम्य महच्चापं रामः काञ्चनभूषितम्।\nशरांश्चादित्यसङ्काशान्गृहीत्वा रणसाधकान्4.13.2।।",
+      "transliteration": "",
+      "translation": "Getting ready to go, Rama took up his great bow and arrows adorned with gold and potent in war looking (dazzling) like the Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-13-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "अग्रतस्तु ययौ तस्य राघव��्य महात्मनः।\nसुग्रीवः संहतग्रीवो लक्ष्मणश्च महाबलः4.13.3।।",
+      "transliteration": "",
+      "translation": "The strongnecked Sugriva and mighty Lakshmana walked in front of the highsouled Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-13-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "पृष्ठतो हनुमान्वीरो नलो नीलश्च वानरः।\nतारश्चैव महातेजा हरियूथपयूथपः4.13.4।।",
+      "transliteration": "",
+      "translation": "Brave and brilliant Hanuman, Nala, Nila, and Tara among the leaders of the monkeys  walked behind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-13-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "ते वीक्षमाणा वृक्षांश्च पुष्पभारावलम्बिनः।\nप्रसन्नाम्बुवहाश्चैव सरितस्सागरङ्गमाः4.13.5।।",
+      "transliteration": "",
+      "translation": "They saw (on the way) trees bent down with the load of flowers, and rivers with pure water flowing into the sea.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-13-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "कन्दराणि च शैलांश्च निर्दराणि गुहास्तथा।\nशिखराणि च मुख्यानि दरीश्च प्रियदर्शनाः4.13.6।।",
+      "transliteration": "",
+      "translation": "(They saw) beautiful valleys, mountains, caves, prominent peaks with deep caverns.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-13-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "वैढूर्यविमलै:पर्णै पद्मैश्चाकोशकुट्मलैः।\nशोभितांत्सजलान्मार्गे तटाकांश्च व्यलोकयन्4.13.7।।",
+      "transliteration": "",
+      "translation": "Observing on the way delightful lotus buds with leaves like Vaidurya, clear water and full tanks (They moved on).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-13-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "कारण्डैस्सारसैर्हंसैर्वञ्जुलैर्जलकुक्कुटैः।\nचक्रवाकै स्तथा चान्यैश्शकुनैः रुपनादितान्4.13.8।।",
+      "transliteration": "",
+      "translation": "Ducks, cranes, swans, vanjulas, waterfowls, chakravakas and other birds warbling melodiously.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-13-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "मृदुशष्पाङ्कुराहारान्निर्भयान्वनगोचरान्।\nचरतस्सर्वतौऽपश्यन् स्थलीषु हरिणान् स्थितान्4.13.9।।",
+      "transliteration": "",
+      "translation": "They observed deer feeding on tender grass on the ground around without fear, some standing and some roaming the forest",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-13-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तटाकवैरिणश्चापि शुक्लदन्तविभूषितान्।\nघोरानेकचरान्वन्यान्द्विरदान्कूलघातिनः4.13.10।।",
+      "transliteration": "",
+      "translation": "Observing terrific elephants adorned with white tusks wandering alone destroying the tanks, shattering the banks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-13-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "मत्तान्गिरितटोत्कृष्टान्पर्वतानिव जङ्गमान्।\nवारणान्वारिदप्रख्यान्महीरेणुसमुक्षितान्4.13.11।।",
+      "transliteration": "",
+      "translation": "(Observing) intoxicated elephants knocking the edges of mountain slopes, elephants resembling (dark) rainbearing clouds, elephants like moving mountains, elephants with dust covered all over the body.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-13-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "वने वनचरांश्चान्यान्खेचरांश्च विहङ्गमान्।\nपश्यन्तस्त्वरिता जग्मुस्सुग्रीववशवर्तिनः4.13.12।।",
+      "transliteration": "",
+      "translation": "Following Sugriva faithfully, they proceeded swiftly, observing animals of the forest and birds flying in the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-13-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तेषां तु गच्छतां तत्र त्वरितं रघुनन्दनः।\nद्रुमषण्डं वनं दृष्ट्वा रामस्सुग्रीवमब्रवीत्4.13.13।।",
+      "transliteration": "",
+      "translation": "While walking fast, looking at the forest full of trees Rama, the delight of the Raghus said to Sugriva:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-13-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "एष मेघ इवाकाशे वृक्षषण्डः प्रकाशते।\nमेघसङ्घातविपुलः पर्यन्तकदलीवृतः4.13.14।।",
+      "transliteration": "",
+      "translation": "'This cluster of trees surrounded by plantain groves look splendid like a vast collection of clouds in the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-13-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "किमेतत् ज्ञातुमिच्छामि सखे कौतूहलं हि मे।\nकौतूहलापनयनं कर्तुमिच्छाम्यहं त्वया4.13.15।।",
+      "transliteration": "",
+      "translation": "'O friend I wish to know what this is? Could you answer my curiosity?'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-13-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तस्य तद्वचनं श्रुत्वा राघवस्य महात्मनः।\nगच्छन्नेवाचचक्षेऽथ सुग्रीवस्तन्महद्वनम्4.13.16।।",
+      "transliteration": "",
+      "translation": "On hearing great Rama's words while walking in the extensive forest,  Sugriva started  narrating:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-13-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "एतद्राघव विस्तीर्णमाश्रमं श्रमनाशनम्।\nउद्यानवनसम्पन्नं स्वादुमूलफलोदकम्4.13.17।।",
+      "transliteration": "",
+      "translation": "'O Raghava this is a hermitage, enchanting with vast gardens and trees bearing sweet fruits, full of tasty roots and water that relieves tiresomeness (of travellers).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-13-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अत्र सप्तजना न���म मुनय स्संश्रितव्रताः।\nसप्तैवासन्नधशशीर्षा नियतं जलशायिनः4.13.18।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-13-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "सप्तरात्रकृताहारा वायुनाचलवासिनः।\nदिवं वर्षशतैर्याताः सप्तभिः सकलेबराः4.13.19।।",
+      "transliteration": "",
+      "translation": "'These seven sages used to live on air and that too once in seven nights. They lived for seven hundred years performing penance with motionlessness and attained heaven along with their bodies.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-13-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तेषामेवं प्रभावानां द्रुमप्राकारसंवृतम्।\nआश्रमस्सुदुराधर्ष अपि सेन्द्रैस्सुरासुरैः4.13.20।।",
+      "transliteration": "",
+      "translation": "'By virtue of the power of their penance, this hermitage surrounded by a row of trees is impenetrable even for demons and gods including Indra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-13-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "पक्षिणो वर्जयन्त्येतत्तथाऽन्ये वनचारिणः।\nविशन्ति मोहाद्येऽप्यत्र निवर्तन्ते न ते पुनः4.13.21।।",
+      "transliteration": "",
+      "translation": "'Birds and wild animals avoid the hermitage and whoever enters there out of ignorance never returns.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-13-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "विभूषणरवास्तत्र श्रूयन्ते सकलाक्षराः।\nतूर्यगीतस्वनाश्चात्र गन्धो दिव्यश्च राघव4.13.22।।",
+      "transliteration": "",
+      "translation": "'O Rama, one can hear pleasant sounds of jingling ornaments (of nymphs), of songs and windinstruments here. One can inhale divine fragrance, too.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-13-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "त्रेताग्नयोऽपि दीप्यन्ते दूमो ह्यत्र प्रकाशते।\nवेष्टयन्निव वृक्षाग्रान्कपोताङ्गारुणो घनः4.13.23।।",
+      "transliteration": "",
+      "translation": "'The three sacred fires keep burning and the thick smoke they emit resembles the red feet of  pigeons. It shines forth as if enveloping the treetops.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-13-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "एते वृक्षाः प्रकाशन्ते धूमसंसक्तमस्तकाः।\nमेघजालप्रतिच्छन्ना वैढूर्यगिरयो यथा4.13.24।।",
+      "transliteration": "",
+      "translation": "'These treetops covered with thick smoke glow like mountains of Vaidurya concealed by a cluster of clouds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-13-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "कुरु प्रणामं धर्मात्मंस्तेषामुद्दिश्य राघव।\nलक्ष्मणेव सह भ्रात्रा प्रयन्तस्सयताञ्जलिः4.13.25।।",
+      "transliteration": "",
+      "translation": "'O rigteous Rama you and your brother Lakshmana humbly offer obeisance to them(sacred hermitage and sages Saptajana) with folded hands and meditate on them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-13-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "प्रणमन्ति हि ये तेषां मुनीनां भावितात्मनाम्।\nन तेषामशुभं किञ्चिच्छरीरे राम दृश्यते4.13.26।।",
+      "transliteration": "",
+      "translation": "'O Rama, nothing inauspicious happens to them who offer obeisance to those highly spiritual sacred sages.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-13-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "ततो रामस्सह भ्रात्रा लक्ष्मणेन कृताञ्जलिः।\nसमुद्दिश्य महात्मानस्तानृषीनभ्यवादयत्4.13.27।।",
+      "transliteration": "",
+      "translation": "Rama and Lakshmana  offered salutations with folded hands in memory of those great sages, great souls.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-13-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "अभिवाद्य तु धर्मात्मा रामो भ्राता च लक्ष्मणः।\nसुग्रीवो वानराश्चैव जग्मुसंहृष्टमानसाः4.13.28।।",
+      "transliteration": "",
+      "translation": "Righteous Rama, Lakshmana, Sugriva and all the monkeys offered obeisance and proceeded delighted at heart.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-13-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "ते गत्वा दूरमध्वानं तस्मात्सप्तजनाश्रमात्।\nददृशुस्तां दुराधर्षां किष्किन्धां वालिपालिताम्4.13.29।।",
+      "transliteration": "",
+      "translation": "Walking a long distance from the hermitage of the seven seers, they beheld the unassailable Kishkinda ruled by Vali.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-13-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "ततस्तु रामानुजरामवानराः\nप्रगृह्य शस्त्राण्युदिताग्र्यतेजसः।\nपुरीं सुरेशात्मजवीर्यपालितां\nवधाय शत्रोः पुनरागतास्सह4.13.30।।",
+      "transliteration": "",
+      "translation": "Rama and Lakshmana of fierce lustre, and the monkeys took hold of the weapons to kill the enemy and reached the capital ruled by the valour of Vali, son of Indra. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे त्रयोदशस्सर्गः।। Thus ends the thirteenth sarga of Kishkindakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

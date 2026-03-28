@@ -1,0 +1,207 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 75,
+    "title": "Rama and Lakshmana reach Pampa-- admire the beautiful nature on the banks of Pampa.",
+    "titleSanskrit": "",
+    "totalShlokas": 21
+  },
+  "shlokas": [
+    {
+      "id": "v3-75-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "दिवं तु तस्यां यातायां शबर्यां स्वेन तेजसा।\nलक्ष्मणेन सह भ्रात्रा चिन्तयामास राघवः।।3.75.1।।",
+      "transliteration": "",
+      "translation": "When Sabari departed for heaven with her brilliance, Rama  contemplated (about the power of sages)with Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-75-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "स चिन्तयित्वा धर्मात्मा प्रभावं तं महात्मनाम्।\nहितकारिणमेकाग्रं लक्ष्मणं राघवोऽब्रवीत्।।3.75.2।।",
+      "transliteration": "",
+      "translation": "Thinking about the power of the great sages, righteous Rama said to Lakshmana,  his wellwisher with singleminded devotion:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-75-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "दृष्टोऽयमाश्रमस्सौम्य बह्वाश्चर्यो महात्मनाम्।\nविश्वस्तमृगशार्दूलो नानाविहगसेवितः।।3.75.3।।",
+      "transliteration": "",
+      "translation": "O handsome one, we have seen this highly wonderful hermitage, where deer and tigers dwell together with mutual confidence, where birds of all kinds inhabit.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-75-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "सप्तानां च समुद्राणामेषु तीर्थेषु लक्ष्मण।\nउपस्पृष्टं च विधिवत्पितरश्चापि तर्पिताः।।3.75.4।।",
+      "transliteration": "",
+      "translation": "O Lakshmana, having bathed in the waters of the seven seas (by taking ritualistic bath in these waters) the manes are offered oblations in accordance with tradition.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-75-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "प्रणष्टमशुभं तत्तत्कल्याणं समुपस्थितम्।\nतेन तत्त्वेन हृष्टं मे मनो लक्ष्मण सम्प्रति।।3.75.5।।\nहृदये हि नरव्याघ्र शुभमाविर्भविष्यति।",
+      "transliteration": "",
+      "translation": "We have got rid of inauspicious time and good days have come. Therefore, I feel truly happy. Good fortune will appear (now), O Lakshmana, O tiger among men",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-75-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तदागच्छ गमिष्यामि पम्पां तां प्रियदर्शनाम्।।3.75.6।।\nऋष्यमूको गिरिर्यत्र नातिदूरे प्रकाशते।\nयस्मिन्वसति धर्मात्मा सुग्रीवोंऽशुमतस्सुतः।।3.75.7।।\nनित्यं वालिभयात्त्रस्तश्चतुर्भिस्सह वानरैः।",
+      "transliteration": "",
+      "translation": "Come, let us go to Pampa, which is pleasing to look at. Sugriva, the rigteous self, the son of the Sun has been staying for fear of Vali at the shining Rishyamuka, not far from here.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-75-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "अभित्वरे च तं द्रष्टुं सुग्रीवं वानरर्षभम्।।3.75.8।।\nतदधीनं हि मे सौम्य सीतायाः परिमार्गणम्।",
+      "transliteration": "",
+      "translation": "I am hastening to see that noble Sugriva the mighty monkey, as the search for Sita depends on him, O handsome one",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-75-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "एवं ब्रुवाणं तं धीरं रामं सौमित्रिरब्रवीत्।।3.75.9।।\nगच्छावस्त्वरितं तत्र ममापि त्वरते मनः।",
+      "transliteration": "",
+      "translation": "To the words of Rama who was of stable mind, Lakshmana replied : My mind too is hastening me. Let us get there quickly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-75-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "आश्रमात्तु तत स्तस्मान्निष्क्रम्य स विशाम्पतिः।।3.75.10।।\nआजगाम ततः पम्पां लक्ष्मणेन सह प्रभुः।",
+      "transliteration": "",
+      "translation": "Then Rama the lord of men along with Lakshmana departed from the hermitage and went to Pampa.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-75-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "स ददर्श ततः पुण्यामुदारजनसेविताम्।।3.75.11।।\nनानाद्रुमलताकीर्णां पम्पां पानीयवाहिनीम्।\nपद्मैस्सौगन्धिकैस्ताम्रां शुक्लां कुमुदमण्डलैः।।3.75.12।।\nनीलां कुवलयोद्घाटैर्बहुवर्णां कुथामिव।",
+      "transliteration": "",
+      "translation": "He saw the sacred lake Pampa whose sweet flow of water was used by great seers. It abounded in trees and creepers. Its surface was red with lotuses at one place, white with clusters of lilies at another and with blue lotuses at other places. As such, it looked like a carpet with variegated colours.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-75-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "स तामासाद्य वै रामो दूरादुदकवाहिनीम्।।3.75.13।।\nमतङ्गसरसं नाम ह्रदं समवगाहत।",
+      "transliteration": "",
+      "translation": "Rama reached the Matanga lake which he could see from  a distance and bathed in it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-75-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अरविन्दोत्पलवतीं पद्मसौगन्धिकायुताम्।।3.75.14।।\nपुष्पिताम्रवणोपेतां बर्हिणोद्घुष्टनादिताम्।\nतिलकैर्बीजपूरैश्च धवैश्शुक्लद्रुमैस्तथा।।3.75.15।।\nपुष्पितैः करवीरैश्च पुन्नागैश्च सुपुष्पितैः।\nमालतीकुन्दगुल्मैश्च भाण्डीरैर्निचुलैस्तथा।।3.75.16।।\nअशोकैस्सप्तपर्णैश्च केतकैरतिमुक्तकैः।\nअन्यैश्च विविधैर्वृक्षैः प्रमदामिव भूषिताम्।।3.75.17।।\nसमीक्षमाणौ पुषपाढ्यं सर्वतो विपुलद्रुमम्।\nकोयष्टिकैश्चार्जुनकैश्शतपत्रैश्च कीरकैः।।3.75.18।।\nएतैश्चान्यैश्च विहगैर्नादितं तु वनं महत्।\nततो जग्मतुरव्यग्रौ राघवौ सुसमाहितौ।।3.75.19।।\nतद्वनं चैव सरसः पश्यन्तै शकुनैर्युतम्।",
+      "transliteration": "",
+      "translation": "Lake Pampa was filled with red lotuses and their fragrance.The bank was lined with blossoming mango trees and trees of several kinds like tilaka trees with fruits full of seeds like citron, dhava trees, white trees in bloom, karavira trees loaded with flowers, punnaga trees, clusters of jasmine and kunda shrubs, fig trees, so also reeds, ashoka trees, atimuktaka creepors and several other trees looking like women adorned all over. Rama and Lakshmana passed by, glancing at them. There were other trees full of flowers, huge trees, koyashtika trees with reed. Different kinds of birds such as peacocks, parrots, dwelling in the forest were screaming aloud. Looking at all these in that forest Rama and Lakshmana passed by undisturbed with a composed mind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-75-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "स ददर्श ततः पम्पां शीतवारिनिधिं शुभाम्।।3.75.20।।\nतिलकाशोकपुन्नागवकुलोद्दालकाशिनीम्।",
+      "transliteration": "",
+      "translation": "Rama saw lake Pampa with cool waters and the groves on the bank filled with tilaka, ashoka, punnaga, bakula and uddala trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-75-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "स रामो विविधान्वृक्षान्सरांसि विविधानि च।।3.75.21।।\nपश्यन्कामाभिसन्तप्तो जगाम परमं ह्रदम्।",
+      "transliteration": "",
+      "translation": "On seeing different kinds of trees and tanks, the lovestriken Rama visited that great lake.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-75-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "पुष्पितोपवनोपेतां सालचम्पकशोभिताम्।।3.75.22।।\nषट्पदौघसमाविष्टां श्रीमतीमतुलप्रभाम्।\nस्फटिकोपमतोयाढ्यां श्लक्ष्णवालुकसन्तताम्।।3.75.23।।\nस तां दृष्ट्वा पुनः पम्पां पद्मसौगन्घिकैर्युताम्।\nइत्युवाच तदा वाक्यं लक्ष्मणं सत्यविक्रमः।।3.75.24।।",
+      "transliteration": "",
+      "translation": "There were lovely pleasuregardens in full bloom  filled with sal and champk trees. Honeybees on flowers looked lovely and bright. The waters were crystalclear and fragrant with lotuses.The soft sands on the banks of Pampa gleamed. Rama saw them again and again and described them to Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-75-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अस्यास्तीरे तु पूर्वोक्तः पर्वतो धातुमण्डितः।\nऋष्यमूक इति ख्यातः पुण्यः पुष्पितपादपः।।3.75.25।।",
+      "transliteration": "",
+      "translation": "The famous mount, sacred Rishyamuka is situated on the bank of Pampa full of blossoming trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-75-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "हरेः ऋक्षरजोनाम्नः पुत्रस्तस्य महात्मनः।\nअध्यास्ते तं महावीर्यस्सुग्रीव इति विश्रुतः।।3.75.26।।",
+      "transliteration": "",
+      "translation": "The mighty son of Riksharaja, the great soul, the Sun whose son was the wellknown Sugriva, resides on this mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-75-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "सुग्रीवमभिगच्छ त्वं वानरेन्द्रं नरर्षभ।\nइत्युवाच पुनर्वाक्यं लक्ष्मणं सत्यविक्रमम्।।3.75.27।।",
+      "transliteration": "",
+      "translation": "Rama said to Lakshmana, the best of men, who had truth as his strength, Go to Sugriva, lord of the monkeys.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-75-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "राज्यभ्रष्टेन दीनेन तस्यामासक्तचेतसा।\nकथं मया विना शक्यं सीतां लक्ष्मण जीवितुम्।।3.75.28।।",
+      "transliteration": "",
+      "translation": "O Lakshmana, deprived of the kingdom I have become a destitute. With my heart attached to Sita how can I live without her ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-75-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "इत्येवमुक्त्वा मदनाभिपीडितः स लक्ष्मणं वाक्यमनन्यचेतसम्।\nविवेश पम्पां नलिनीं मनोरमां रघूत्तमश्शोकविषादयन्त्रितः।।3.75.29।।",
+      "transliteration": "",
+      "translation": "Having said these words to Lakshmana who was listening to him with undivided attention, Rama, the best of the Raghus, oppressed by love and afflicted by tears of grief entered Pampa, the delightful lotuslake.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-75-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "ततो महद्वर्त्म सुदूरसङ्क्रमं क्रमेण गत्वा प्रविलोकयन्वनम्।\nददर्श पम्पां शुभदर्शकाननामनेकनानाविधपक्षिजालकाम्।।3.75.30।।",
+      "transliteration": "",
+      "translation": "Thereafter, going slowly to a distance, Rama and Lakshmana saw Pampa surrounded by beautiful forests full of many varieties of birds. इत्यार्ष श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे पञ्चसप्ततिमस्सर्गः।। Thus ends the seventyfifth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

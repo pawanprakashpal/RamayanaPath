@@ -1,0 +1,261 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 115,
+    "title": "Bharata proceeds to Nandigrama along with Satrughna -- Consecration of Rama's sandals.",
+    "titleSanskrit": "",
+    "totalShlokas": 27
+  },
+  "shlokas": [
+    {
+      "id": "v2-115-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततो निक्षिप्य मातृ़ स्स अयोध्यायां दृढ व्रतः।\nभरत श्शोकसन्तप्तो गुरूनिदमथाब्रवीत्।।2.115.1।।",
+      "transliteration": "",
+      "translation": "After keeping his mothers in Ayodhya, the griefstricken Bharata who was firm in his vows, said to the elders:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-115-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "नन्दिग्रामं गमिष्यामि सर्वानामन्त्रयेऽद्य वः।\nतत्र दुःखमिदं सर्वं सहिष्ये राघवं विना।।2.115.2।।",
+      "transliteration": "",
+      "translation": "I take leave of all of you. I am going to Nandigrama where I shall keep company with grief on account of Rama's absence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-115-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "गतश्च वा दिवं राजा वनस्थश्च गुरुर्मम।\nरामं प्रतीक्षे राज्याय स हि राजा महायशाः।।2.115.3।।",
+      "transliteration": "",
+      "translation": "King Dasaratha has gone to heaven. My elder brother and guru is in the forest. I shall await his return for ruling the kingdom since he alone is the illustrious king of Ayodhya.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-115-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "एतच्छ्रुत्वा शुभं वाक्यं भरतस्य महात्मनः।\nअब्रुवन्मन्त्रिणस्सर्वे वसिष्ठश्च पुरोहितः।।2.115.4।।",
+      "transliteration": "",
+      "translation": "Hearing the auspicious words of the magnanimous Bharata the counsellors, priests including Vasistha replied:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-115-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "सुभृशं श्लाघनीयं च यदुक्तं भरत त्वया।\nवचनं भ्रातृवात्सल्यादनुरूपं तवैव तत्।।2.115.5।।",
+      "transliteration": "",
+      "translation": "O Bharata, the words you have uttered out of devotion to your brother which befit  you alone are highly praiseworthy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-115-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "नित्यं ते बन्धुलुब्धस्य तिष्ठतो भ्रातृसौहृदे।\nआर्यमार्गं प्रपन्नस्य नानुमन्येत कः पुमान्।।2.115.6।।",
+      "transliteration": "",
+      "translation": "You are always attached to your relations, firmly established in the welfare of your brothers and are pursuing a noble path. Who would not approve of this?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-115-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "मन्त्रिणां वचनं श्रुत्वा यथाभिलषितं प्रियम्।\nअब्रवीत्सारथिं वाक्यं रथो मे युज्यतामिति।।2.115.7।।",
+      "transliteration": "",
+      "translation": "On hearing the pleasing words of the counsellors which were in conformity with his desire, Bharata said to his charioteer, 'Harness my chariot'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-115-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "प्रहृष्टवदन स्सर्वा मातृ़ स्समभिवाद्य सः।\nआरुरोह रथं श्रीमान् शत्रुघ्नेन समन्वितः।।2.115.8।।",
+      "transliteration": "",
+      "translation": "With a cheerful countenance illustrious Bharata paid obeisance to all his mothers and,  acompanied by Satrughna, ascended the chariot.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-115-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "आरुह्य च रथं शीघ्रं शत्रुघ्नभरतावुभौ।\nययतुः परमप्रीतौ वृतौ मन्त्रिपुरोहितैः।।2.115.9।।",
+      "transliteration": "",
+      "translation": "Highly pleased, Bharata and Satrughna ascended the chariot and, surrounded by counsellors and priests, set out  speedily.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-115-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अग्रतो गुरव: सर्वे वसिष्ठप्रमुखा द्विजाः।\nप्रययुः प्राङ्ग्मुखा स्सर्वे नन्दिग्रामो यतोऽभवत्।।2.115.10।।",
+      "transliteration": "",
+      "translation": "Preceded by preceptors, like Vasistha and other brahmins, all of them proceeded eastward in the direction of Nandigrama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-115-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "बलं च तदनाहूतं गजाश्वरथसङ्कुलम्।\nप्रययौ भरते याते सर्वे च पुरवासिनः।।2.115.11।।",
+      "transliteration": "",
+      "translation": "When Bharata left, the army with hordes of elephants, horses and chariots and  inhabitants of Ayodhya  followed him unbidden.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-115-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "रथस्थः स तु धर्मात्मा भरतो भ्रातृवत्सलः।\nनन्दिग्रामं ययौ तूर्णं शिरस्यादाय पादुके।।2.115.12।।",
+      "transliteration": "",
+      "translation": "Righteous Bharata who was deeply attached to his brother proceeded speedily towards Nandigrama on the chariot bearing the sandals of Rama on his head.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-115-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "ततस्तु भरतः क्षिप्रं नन्दिग्रामं प्रविश्य सः।\nअवतीर्य रथात्तूर्णं गुरूनिदमुवाच ह।।2.115.13।।",
+      "transliteration": "",
+      "translation": "Bharata entered Nandigrama quickly, alighted from the chariot and then, addressing, the preceptors, said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-115-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "एतद्राज्यं मम भ्रात्रा दत्तं सन्नयासवत्स्वयम्।\nयोगक्षेमवहे चेमे पादुके हेमभूषिते।।2.115.14।।",
+      "transliteration": "",
+      "translation": "My brother gave me this kingdom as a trust. He gave me the sandals decorated with gold for securing the prosperity and security (of the kingdom).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-115-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "भरत श्शिरसा कृत्वा सन्न्यासं पादुके ततः।\nअब्रवीद्धुःखसंतप्त स्सर्वं प्रकृतिमण्डलम्।।2.115.15।।",
+      "transliteration": "",
+      "translation": "Then Bharata placed the sandals held in trust on his head and, overcome with grief, he addressed the concourse of subjects:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-115-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "छत्रं धारयत क्षिप्रमार्यपादाविमौ मतौ।\nआभ्यां राज्ये स्थितो धर्मः पादुकाभ्यां गुरोर्मम।।2.115.16।।",
+      "transliteration": "",
+      "translation": "Hold the royal paresol now. This is the accepted symbol of the exalted feet of my brother. These sandals shall establish righteousness in the kingdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-115-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "भ्रात्रा हि मयि संन्यासो निक्षिप्त स्सौहृदादयम्।\nतमिमं पालयिष्यामि राघवागमनं प्रति।।2.115.17।।",
+      "transliteration": "",
+      "translation": "This kingdom has been given me by my brother out of affection as a trust. I shall safeguard it until Rama's return.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-115-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "क्षिप्रं संयोजयित्वातु राघवस्य पुनस्स्वयम्।\nचरणौ तौ तु रामस्य द्रक्ष्यामि सहपादुकौ।।2.115.18।।",
+      "transliteration": "",
+      "translation": "'I myself shall see soon Rama's feet reunited with these sandals.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-115-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "ततो निक्षिप्तभारोऽहं राघवेण समागतः।\nनिवेद्य गुरवे राज्यं भजिष्ये गुरुवृत्तिताम्।।2.115.19।।",
+      "transliteration": "",
+      "translation": "The burden of this kingdom has been cast on me. On reunion with Rama, I shall hand it over to my brother, my guru and shall be engaged in his service.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-115-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "राघवाय च सन्यासं दत्त्वेमे वरपादुके।\nराज्यं चेदमयोध्यां च धूतपापो भवामि च।।2.115.20।।",
+      "transliteration": "",
+      "translation": "Restoring the sacred sandals, the kingdom and this city of Ayodhya held as a trust by me, I shall be cleansed of the sin.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-115-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "अभिषिक्ते तु काकुत्स्थे प्रहृष्टमुदिते जने।\nप्रीतिर्मम यशश्चैव भवेद्राज्याच्चतुर्गुणम्।।2.115.21।।",
+      "transliteration": "",
+      "translation": "After Rama is coronated and the people are delighted and pleased, the renown and  pleasure for me will be fourfold (what is obtained from ruling the kingdom).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-115-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "एवं तु विलपन्दीनो भरत स्समहायशाः।\nनन्दिग्रामेऽकरोद्राज्यं दुःखितो मन्त्रिभिस्सह।।2.115.22।।",
+      "transliteration": "",
+      "translation": "Thus lamenting in desolation and grief, the illustrious Bharata lived in Nandigrama along with his counsellors and started ruling the kingdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-115-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "स वल्कलजटाधारी मुनिवेषधरः प्रभुः।\nनन्दिग्रामेऽवसद्वीर स्ससैन्यो भरतस्तदा।।2.115.23।।",
+      "transliteration": "",
+      "translation": "Bharata, the warrior and lord, wore bark garments and matted locks and lived the life of an ascetic in Nandigrama along with his army.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-115-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "रामागमनमाकाङ्क्षन्भरतो भ्रातृवत्सलः।\nभ्रातुर्वचनकारी च प्रतिज्ञापारगस्तथा।।2.115.24।।\nपादुके त्वभिषिच्याथ नन्दिग्रामेऽवसत्तदा।",
+      "transliteration": "",
+      "translation": "Bharata who was attached to his brother and ever obedient to him, fulfilled his vow. He coronated the sandals and lived at Nandigrama longing for the return of Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-115-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "स वालव्यजनं छत्रं धारयामास स स्वयं।\nभरत श्शासनं सर्वं पादुकाभ्यां निवेदयन्।।2.115.25।।",
+      "transliteration": "",
+      "translation": "Bharata reported everything relating to the kingdom to the sandals first. Waving the chamaras (a fan made of yak tail) himself, he held the royal parasol over them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-115-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "ततस्तु भरत शश्रीमानभिषिच्याऽऽर्यपादुके।\nतदधीनस्तदा राज्यं कारयामास सर्वदा।।2.115.26।।",
+      "transliteration": "",
+      "translation": "After the coronation of the sandals of his esteemed brother Rama, illustrious Bharata ruled the kingdom, subordianating himself to them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-115-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "तदा हि यत्कार्यमुपैति किञ्चिदुपायनं चोपहृतं महार्हम्।\nस पादुकाभ्यां प्रथमं निवेद्य चकार पश्चाद्भरतो यथावत्।।2.115.27।।",
+      "transliteration": "",
+      "translation": "Whenever an issue, however small, arose, Bharata kept the sandals informed. Whenever a valuable gift was presented, he offered it to the sandals before he accepted it.  इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे पञ्चदशोत्तरशततमस्सर्गः।। Thus ends the hundredfifteenth sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

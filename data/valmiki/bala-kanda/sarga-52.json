@@ -1,0 +1,207 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 52,
+    "title": "Vasishta orders Kamadhenu to create things necessary for the hospitality to king Viswamitra.",
+    "titleSanskrit": "",
+    "totalShlokas": 21
+  },
+  "shlokas": [
+    {
+      "id": "v1-52-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "स दृष्ट्वा परमप्रीतो विश्वामित्रो महाबल:।\nप्रणतो विनयाद्वीरो वसिष्ठं जपतां वरम्।।1.52.1।।",
+      "transliteration": "",
+      "translation": "Overwhelmed with joy the mighty, heroic Viswamitra upon seeing Vasishta, the greatest among ascetics, was and offered respectful salutations.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-52-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "स्वागतं तव चेत्युक्तो वसिष्ठेन महात्मना।\nआसनं चास्य भगवान् वसिष्ठो व्यादिदेश ह।।1.52.2।।",
+      "transliteration": "",
+      "translation": "Adorable Vasishta received Viswamitra with words of welcome and ordered a seat for him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-52-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "उपविष्टाय च तदा विश्वामित्राय धीमते।\nयथान्यायं मुनिवर: फलमूलमुपाहरत्।।1.52.3।।",
+      "transliteration": "",
+      "translation": "With the sagacious Viswamitra seated the great ascetic, duly offered him fruits and roots.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-52-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "प्रतिगृह्य तु तां पूजां वसिष्ठाद्राजसत्तम:।\nतपोग्निहोत्रशिष्येषु कुशलं पर्यपृच्छत।।1.52.4।।\nविश्वामित्रो महातेजा वनस्पतिगणे तथा ।\nसर्वत्र कुशलं चाह वसिष्ठो राजसत्तमम्।।1.52.5।।",
+      "transliteration": "",
+      "translation": "Foremost among kings, the brilliant Viswamitra, having received  hospitality from Vasishta, enquired about his welbeing his austerities, his firesacrifices, his disciples and trees (in his hermitage). Vasishta, too, informed him of the welfare of all.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-52-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "सुखोपविष्टं राजानं विश्वामित्रं महातपा:।\nपप्रच्छ जपतां श्रेष्ठो वसिष्ठो ब्रह्मणस्सुत:।।1.52.6।।",
+      "transliteration": "",
+      "translation": "Vasishta, son of Brahma, the greatest among those who recite prayers and possess rich asceticism enquired of king Viswamitra comfortably seated (before him):",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-52-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "कच्चित्ते कुशलं राजन् कच्चिद्धर्मेण रञ्जयन्।\nप्रजा: पालयसे वीर राजवृत्तेन धार्मिक।।1.52.7।।",
+      "transliteration": "",
+      "translation": "\"O King, is it all well with you? O righteous one O  heroic one are you ruling (your subjects) in accordance with the duties enjoined upon the king? Do you rule them in conformity with the code of moralit in order to make them happy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-52-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "कच्चित्ते सम्भृता भृत्या: कच्चित्तिष्ठन्ति शासने।\nकच्चित्ते विजितास्सर्वे रिपवो रिपुसूदन ।।1.52.8।।",
+      "transliteration": "",
+      "translation": "Are your servants provided well with their requirements? Do they abide by your command? O Destroyer of foes have all your enemies been conquered ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-52-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "कच्चिद्बलेषु कोशेषु मित्रेषु च परन्तप।\nकुशलं ते नरव्याघ्र पुत्रपौत्रे तवानघ ।।1.52.9।।",
+      "transliteration": "",
+      "translation": "O Tormentor of enemies O Sinless one O Tiger among men is it all well with your army, treasury, friends, sons and grandsons?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-52-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "सर्वत्र कुशलं राजा वसिष्ठं प्रत्युदाहरत्।\nविश्वामित्रो महातेजा वसिष्ठं विनयान्वित:।।1.52.10।।",
+      "transliteration": "",
+      "translation": "Highly brilliant king Viswamitra, humbly informed Vasishta that all was well.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-52-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "कृत्वोभौ सुचिरं कालं धर्मिष्ठौ ता: कथा: शुभा:।\nमुदा परमया युक्तौ प्रीयेतां तौ परस्परम्।।1.52.11।।",
+      "transliteration": "",
+      "translation": "Both the righteous personalities dwelt at length on various matters and interesting anecdotes with great delight and derived mutual pleasure.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-52-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "ततो वसिष्ठो भगवान् कथाऽन्ते रघुनन्दन ।\nविश्वामित्रमिदं वाक्यमुवाच प्रहसन्निव।।1.52.12।।",
+      "transliteration": "",
+      "translation": "O Descendent of Raghu at the end of the conversation, venerable Vasishta, smiling as  it were said to Viswamitra",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-52-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "आतिथ्यं कर्तुमिच्छामि बलस्यास्य महाबल ।\nतव चैवाप्रमेयस्य यथार्हं सम्प्रतीच्छ मे।।1.52.13।।",
+      "transliteration": "",
+      "translation": "O Highy powerful Viswamitra I wish to offer appropriate hospitality to you and to your incomparable army. Be pleased to accept it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-52-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "सत्क्रियां तु भवानेतां प्रतीच्छतु मयोद्यताम्।\nराजा त्वमतिथिश्रेष्ठ: पूजनीय: प्रयत्नत:।।1.52.14।।",
+      "transliteration": "",
+      "translation": "Please accept the honour I extend. Being a king, you are a distinguished guest. you deserve to be treated respectfully in all possible ways\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-52-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "एवमुक्तो वसिष्ठेन विश्वामित्रो महामति:।\nकृतमित्यब्रवीद्राजा प्रियवाक्येन मे त्वया।।1.52.15।।",
+      "transliteration": "",
+      "translation": "To these words of Vasishta, the great intellectual Viswamitra said, \"you have spoken pleasing words. This in itself is hospitality for me\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-52-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "फलमूलेन भगवन् विद्यते यत्तवाश्रमे।\nपाद्येनाचमनीयेन भगवद्दर्शनेन च।।1.52.16।।\nसर्वथा च महाप्राज्ञ पूजार्हेण सुपूजित:।\nगमिष्यामि नमस्तेऽस्तु मैत्रेणेक्षस्व चक्षुषा।।1.52.17।।",
+      "transliteration": "",
+      "translation": "\"O Worshipful one O Profoundly wise one you are worthy of homage. You have excellently honoured me in all possible ways with whatever fruits and roots available in your hermitage, with water for washing feet and for sipping. You have permitted me darshan with your revered self. I shall leave (now). My regards Look upon me with eyes of friendship\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-52-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "एवं ब्रुवन्तं राजानं वसिष्ठ:पुनरेव हि।\nन्यमन्त्रयत धर्मात्मा पुन:पुनरुदारधी:।।1.52.18।।",
+      "transliteration": "",
+      "translation": "As the king was addressing thus the righteous and generous Vasishta, repeatedly requested him to accept his hospitality.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-52-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "बाढमित्येव गाधेयो वसिष्ठं प्रत्युवाच ह।\nयथा प्रियं भगवतस्तथाऽस्तु मुनिपुङ्गव।।1.52.19।।",
+      "transliteration": "",
+      "translation": "The son of Gadhi said to Vasishta, \"O Preeminent among sages, be it so, O venerable one they will be done\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-52-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "एवमुक्तो महातेजा वसिष्ठो जपतां वर:।\nआजुहाव तत: प्रीत: कल्माषीं धूतकल्मष:।।1.52.20।।",
+      "transliteration": "",
+      "translation": "Vasishta who was highly brilliant the greatest among those who meditate (on Brahman) and free from sins was pleased. Thereafter he called the speckled cow (Kamadhenu):",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-52-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "एह्येहि शबले क्षिप्रं श्रृणु चापि वचो मम।\nसबलस्यास्य राजर्षे:कर्तुं व्यवसितोऽस्म्यहम्।।1.52.21।।\nभोजनेन महार्हेण सत्कारं संविधत्स्व मे।",
+      "transliteration": "",
+      "translation": "\"O Sabala, come on quick Listen to my words. I have decided to honour this royal saint and his army with excellent food. Make necessary arrangemets.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-52-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "यस्य यस्य यथाकामं षड्रसेष्वभिपूजितम्।\nतत्सर्वं कामधुक्क्षिप्रमभिवर्ष कृते मम।।1.52.22।।",
+      "transliteration": "",
+      "translation": "O Kamadhenu quickly entertain them for my sake with the food of six kinds of tastes (varieties of rich dishes) as desired by each.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-52-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "रसेनान्नेन पानेन लेह्यचोष्येण संयुतम्।\nअन्नानां निचयं सर्वं सृजस्व शबले त्वर।।1.52.23।।",
+      "transliteration": "",
+      "translation": "O Sabala create at once all food items consisting of liquids and solids for drinking, tasting and siping.\" इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे द्विपञ्चाशस्सर्ग:। Thus ends the fiftysecond sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

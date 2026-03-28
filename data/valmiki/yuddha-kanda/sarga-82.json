@@ -1,0 +1,261 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 82,
+    "title": "Hanuman stops Vanaras running away from the battlefield. Terrific fight takes place between Vanaras and Rakshasas. Hanuman departs to Rama to inform him of Sita's killing by Indrajith. Departure of Indrajith to Nikumbhilam to offer oblations of blood in fire.",
+    "titleSanskrit": "",
+    "totalShlokas": 27
+  },
+  "shlokas": [
+    {
+      "id": "v6-82-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "श्रुत्वातुभीमनिर्ह्रादंशक्राशनिसमस्वनम् ।\nवीक्षमाणा���िशस्सर्वादुद्रुवुर्वानरर्षभा: ।।6.82.1।।",
+      "transliteration": "",
+      "translation": "The bulls among Vanaras heard the roar which was like thunder and looking at Indrajith fled in all directions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-82-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तानुवाचततःसर्वान्हनुमान् मारुतात्मजः ।\nविषण्णवदनान्दीनांस्त्रस्तान्विद्रवतःपृथक् ।।6.82.2।।",
+      "transliteration": "",
+      "translation": "Thereafter, Maruti's son, Hanuman said to all Vanaras who were looking sad, piteous, feeling singly out of fear, and running away.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-82-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "कस्माद्विषण्णवदनाविद्रवध्वंप्लवङ्गमाः ।\nत्यक्तयुद्धसमुत्साहाश्शूरत्वंक्वनुवोगतम् ।।6.82.3।।",
+      "transliteration": "",
+      "translation": "\"O monkeys! Why have you lost enthusiasm to fight, looking sad and running away? Where has your valour gone?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-82-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "पृष्ठतोऽनुव्रजध्वंमामग्रतोयन्तमाहवे ।\nशूरैरनिजनोपेतैरयुक्तंहिनिवर्तितुम् ।।6.82.4।।",
+      "transliteration": "",
+      "translation": "\"Return and come in front, close to me and follow me. It is not proper for you to win wars and be praised.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-82-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "एवमुक्तास्सुसङ्क्रुद्धावायुपुत्रेणधीमता ।\nशैलशृङ्गान् द्रुमांश्चवजगृहुर्हृष्टमानसाः ।।6.82.5।।",
+      "transliteration": "",
+      "translation": "Wise son of wind god having spoken in that way, delighted in mind the Vanaras seized peaks of mountains and also trees in great fury.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-82-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अभिपेतुश्चगर्जन्तोराक्षसान्वानरर्षभाः ।\nपरिवार्यहनूमन्तमन्वयुश्चमहाहवे ।।6.82.6।।",
+      "transliteration": "",
+      "translation": "Surrounding Hanuman, the Vanara leaders followed him for a great fight.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-82-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "स तैर्वानरमुख्यैश्चहनुमान्सर्वतोवृतः ।\nहुताशनइवार्चिष्मानदहच्छत्रुवाहिनीम् ।।6.82.7।।",
+      "transliteration": "",
+      "translation": "Hanuman went surrounded by Vanara leaders who resembled flaming fire and began to consume the enemy troops like flaming fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-82-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "स राक्षसानांकदनंचकारसुमहाकपिः ।\nवृतोवानरसैन्येनकालान्तकयोमोपमः ।।6.82.8।।",
+      "transliteration": "",
+      "translation": "The Vanara army surrounded that great monkey, Hanuman, who was like Yama, the god of death and caused havoc to Rakshasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-82-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "स तुकोपेनचाविष्टःशोकेन च महाकपिः ।\nहनूमान्रावणिरथेमहतींपातयच्छिलाम् ।।6.82.9।।",
+      "transliteration": "",
+      "translation": "Hanuman, overtaken by anger, filled with great sorrow hurled a huge rock at the chariot of Ravana's son.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-82-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तामापतन्तींदृष्टवैवरथस्सारथिनातदा ।\nविधेयाश्वसमायुक्तोविदूरमपवाहितः ।।6.82.10।।",
+      "transliteration": "",
+      "translation": "Then seeing that rock coming towards the chariot yoked to obedient horses, the chariot rider drove it to a long distance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-82-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तमिन्द्रजितमप्राप्यरथस्थंसहसारथिम् ।\nविवेशधरणींभित्त्वासाशिलाव्यर्थमुद्यता ।।6.82.11।।",
+      "transliteration": "",
+      "translation": "That rock hurled by Hanuman failed to reach the chariot in which Indrajith was seated and also the charioteer. It cleaved the earth and entered.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-82-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "पतितायांशिलायांतुव्यथितारक्षसांचमूः ।\nनिपतन्त्या च शिलयाराक्षसामथिताभृशम् ।।6.82.12।।",
+      "transliteration": "",
+      "translation": "As the rock fell on the battlefield the Rakshasa troops got alarmed and were violently crushed to death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-82-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तमभ्यधावन् शतशोनदन्तःकाननौकसः ।\nतेद्रुमांश्चमहाकायागिरिशृङ्गाणिचोद्यताः ।।6.82.13।।",
+      "transliteration": "",
+      "translation": "Those gigantic forest dwellers in hundreds seizing trees and rocks lifted and fought making loud noise.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-82-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "क्षिपनीन्द्रजितंसङ्ख्येवानराभीमविक्रमाः ।\nवृक्षशैलमहावर्षंविसृजन्तःप्लवङ्गमाः ।।6.82.14।।\nशत्रूणांकदनंचक्रुर्नेदुश्चविविधैस्स्वनैः ।",
+      "transliteration": "",
+      "translation": "Courageous Vanaras, innumerable in number began to rain trees and rocks throwing on the enemies. The Rakshasas number rolled on the battlefield shouting in numerous tones.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-82-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "वानरैसैर्महाभीमैर्घोररूपानिशाचराः ।।6.82.15।।\nवीर्यादभिहतावृक्षैर्व्यचेष्टन्तरणक्षितौ ।",
+      "transliteration": "",
+      "translation": "Night rangers of dreadful appearance beaten up with trees by most fierce Vanaras, fell on the battlefield and struck one another.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-82-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "स्वसैन्यमभिवीक्ष्याथवानरार्दितमिन्द्रजित् ।।6.82.16।।\nप्रगृहीतायुधःक्रुद्धःपरानभिमुखोययौ ।",
+      "transliteration": "",
+      "translation": "Indrajith, looking at his own army tormented by the Vanaras, was enraged, and went towards the enemies' seizing weapons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-82-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "सःशरौघानवसृजन्स्वसैन्येनाभिसम्वृतः ।।6.82.17।।\nजघानकपिशार्दूलान्सुबहून्दृष्टविक्रमः ।",
+      "transliteration": "",
+      "translation": "Indrajith of unyielding valour, combining with his own army let go numerous arrows on the tigers of Vanaras and struck them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-82-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "शूलैःरशनिभिःखङ्गै: पट्टसै: कूटमुद्गरैः ।।6.82.18।।\nतेचाप्यनुचरास्तस्यवानरान्जघ्नुराहवे ।",
+      "transliteration": "",
+      "translation": "In the battle, followers of Indrajith struck the Vanaras with tridents, asanis, swords, sharp edged spears, and kutamudgaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-82-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "स्कन्धविटपैश्शालैश्शिलाभिश्चमहाबलः ।।6.82.19।।\nहनूमान्कदनंचक्रेरक्षसांभीमकर्मणाम् ।",
+      "transliteration": "",
+      "translation": "Hanuman, who was endowed with great strength, killed Rakshasas capable of terrific tasks with trees having large trunks and branches and stones also.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-82-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "सनिवार्यपरानीकमब्रवीत्तान्वनौकसः ।।6.82.20।।\nहनूमान् सन्निवर्तध्वं न नस्साध्यमिदंबलम् ।",
+      "transliteration": "",
+      "translation": "Hanuman made the enemy army retreat, and spoke to his own army,\" No use of defeating this army for us as our mission is not winning the army.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-82-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "त्यक्त्वाप्राणान्विवेष्टन्तोरामप्रियचिकीर्षवः ।।6.82.21।।\nयन्निमित्तंहियुध्यामोहतासाजनकात्मजा ।",
+      "transliteration": "",
+      "translation": "\"To please Rama, we are giving up life. Let us make Rama know that the daughter of Janaka for whose sake we are fighting this war and giving up life has been killed.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-82-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "इममर्थंहिविज्ञाप्यरामंसुग्रीवमेव च ।।6.82.22।।\nतौयत्प्रतिविधास्येतेतत्करिष्यामहेवयम् ।",
+      "transliteration": "",
+      "translation": "\"On telling this fact (that Indrajith has killed Sita) to Rama and Sugriva and knowing their reply we will do what is to be done.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-82-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "त्युक्त्वावानरश्रेष्ठोवारयन्सर्ववानरान् ।।6.82.23।।\nशनैश्शनैरसन्त्रस्तस्सबलस्सन्यवर्तत ।",
+      "transliteration": "",
+      "translation": "The foremost of the Vanaras, kept back all the Vanaras after speaking that way to the army and slowly and slowly retreated.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-82-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "ततःप्रेक्ष्यहनूमन्तंव्रजन्तंयत्रराघवः ।।6.82.24।।\nस होतुकामोदुष्टात्मागतश्चैत्यंनिकुम्भिलाम् ।",
+      "transliteration": "",
+      "translation": "Thereafter, observing Hanuman going to Raghava, the evil minded Indrajith went to Nikumbhilam desiring to offer oblations at the sanctuary.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-82-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "निकुम्भिलामधिष्ठायपावकंजुहवेन्द्रजित् ।।6.82.25।।\nयज्ञभूम्यांततोगत्वापावकस्तेनरक्षसा ।\nहूयमानःप्रजज्वालमांसशोणितभुक्तदा ।।6.82.26।।",
+      "transliteration": "",
+      "translation": "Indrajith reaching Nikumbhilam, the sacrificial ground, poured oblation of blood into the sacrificial fire for Devatas and the fire blazed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-82-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "सोऽर्चिःपिनद्धोददृशेहोमशोणिततर्पितः ।\nसन्ध्यागतइवादित्यःसुतीव्रोऽग्नि: समुत्थितः ।।6.82.27।।",
+      "transliteration": "",
+      "translation": "The flame had swollen up with the offering of blood as oblation and risen. It was very bright and wrapped in the flames the fire resembled the sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-82-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "अथेन्द्रजिद्राक्षभूतयेतुजुहावहव्यंविधिनाविधानवित् ।\nदृष्टवाव्यतिष्ठन्त च राक्षसास्तेमहासमूहेषुसमानयज्ञाः ।।6.82.28।।",
+      "transliteration": "",
+      "translation": "Thereafter, Indrajith, with Rakshasas well versed with traditions, poured offerings into the sacrificial fire, as great Rakshasa gathering seated there were watching. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेद्व्यशीतितमस्सर्गः ।। This is the end of the eighty second sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

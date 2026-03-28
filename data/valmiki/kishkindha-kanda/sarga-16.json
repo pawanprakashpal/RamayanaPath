@@ -1,0 +1,360 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 16,
+    "title": "Tara's counsel to Vali -- fight between Vali and Sugriva -- Rama observes Sugriva's plight in the duel -- shoots an arrow at Vali.",
+    "titleSanskrit": "",
+    "totalShlokas": 38
+  },
+  "shlokas": [
+    {
+      "id": "v4-16-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तामेवं ब्रुवतीं तारां ताराधिपनिभाननाम्।\nवाली निर्भर्त्सयामास वचनं चेदमब्रवीत्4.16.1।।",
+      "transliteration": "",
+      "translation": "To these words of Tara with her Moonlike face, Vali replied reproachfully:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "गर्जतोऽस्य च सुसम्भ्रश्च भ्रातुः शत्रोर्विशेषतः।\nमर्षयिष्याम्यहं केन कारणेन वरानने4.16.2।।",
+      "transliteration": "",
+      "translation": "'O lady with a charming face why should I tolerate the enemy (Sugriva) who is none other than my own younger brother, especially when he roars excitedly?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "अधर्षितानां शूराणां समरेष्वनिवर्तिन��म्।\nधर्षणामर्षणं भीरु मरणादतिरिच्यते4.16.3।।",
+      "transliteration": "",
+      "translation": "O timid lady to swallow insult (without facing the opponent) is worse than death for  indomitable heroes (like me) who know no retreat in a battle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "सोढुं न च समर्थोऽहं युद्धकामस्य संयुगे।\nसुग्रीवस्य च सम्रम्भं हीनग्रीवस्य गर्जतः4.16.4।।",
+      "transliteration": "",
+      "translation": "'When the weaknecked Sugriva roars eager to join a duel it is not right on my part to tolerate his arrogance,much less his warcry.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "न च कार्यो विषादस्ते राघवं प्रति मत्कृते।\nधर्मज्ञश्च कृतज्ञश्च कथं पापं करिष्यति4.16.5।।",
+      "transliteration": "",
+      "translation": "'You need not be concerned about me on account of Rama. How can one who knows dharma and who has a sense of gratitude commit sin?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "निवर्तस्व सह स्त्रीभिः कथं भूयोऽनुगच्छसि।\nसौहृदं दर्शितं तारे मयि भक्ति: कृता त्वया4.16.6।।",
+      "transliteration": "",
+      "translation": "'Go back with all the women of the harem. Why do you follow me again? Your devotion towards me is evident from the sincere concern expressed by you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "प्रतियोत्स्याम्यहं गत्वा सुग्रीवं जहि सम्भ्रमम्।\nदर्पमात्रं विनेष्यामि न च प्राणैर्विमोक्ष्यते4.16.7।।",
+      "transliteration": "",
+      "translation": "'I shall accept the challenge and fight with Sugriva. Give up your anxiety. I will destroy  his pride, not his life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "अहं ह्याजौस्थितस्यास्य करिष्यामि यथेप्सितम्।\nवृक्षैर्मुष्टिप्रहारैश्च पीडितः प्रतियास्यति4.16.8।।",
+      "transliteration": "",
+      "translation": "'When he faces me in the battlefield, I will hit him with trees and fists, and he will run back  for life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "न मे गर्वितमायस्तं सहिष्यति दुरात्मवान्।\nकृतं तारे सहांयत्वं सौहृदं दर्शितं मयि4.16.9।।",
+      "transliteration": "",
+      "translation": "'That evilminded Sugriva cannot bear my mighty, hard blows. Tara you could shower your affection on me and extend help (in passing secret information obtained through Angada)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "शापिताऽपि मम प्राणैर्निवर्तस्व जयेन च।\nअहं जित्वा निवर्तिष्ये तमहं भ्रातरं रणे4.16.10।।",
+      "transliteration": "",
+      "translation": "'I make a vow even on my life and my victory. Pray return with the retinue. I will be back only after winning the encounter with my brother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तं तु तारा परिष्वज्य वालिनं प्रियवादिनी।\nचकार रुदती मन्दं दक्षिणा सा प्रदक्षिणम्4.16.11।।",
+      "transliteration": "",
+      "translation": "Pleasing in her words, Tara then embraced Vali and sobbing, circumambulated Vali in compliance (to his advice).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "ततः स्वस्त्ययनं कृत्वा मन्त्रविद्विजयैषिणी।\nअन्तःपुरं सह स्त्रीभिः प्रविष्टा शोकमोहिता4.16.12।।",
+      "transliteration": "",
+      "translation": "The wise counsellor, Tara bade him farewell, wishing him victory and then, overwhelmed with sorrow, entered the inner apartment followed by the womenfolk.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "प्रविष्टायां तु तारायां सह स्त्रीभिस्स्वमालयम्।\nनगरान्निर्ययौ क्रुद्धो महासर्प इव श्वसन्4.16.13।।",
+      "transliteration": "",
+      "translation": "After Tara and other women returned to their abode, Vali departed from the city,  hissing  like a huge angry cobra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "स निश्श्वस्य महातेजा वाली परमरोषणः।\nसर्वतश्चारयन् दृष्टिं शत्रुदर्शनकाङ्क्षया4.16.14।।",
+      "transliteration": "",
+      "translation": "The mighty Vali, breathing heavily, looked around to find where his enemy was.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "स ददर्श ततश्श्रीमान् सुग्रीवं हेमपिङ्गलम्।\nसुसंवीतमवष्टब्धं दीप्यमानमिवानलम्4.16.15।।",
+      "transliteration": "",
+      "translation": "There Vali saw Sugriva in lustrous, red gold complexion standing ready for a combat steady like glowing fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "स तं दृष्ट्वा महावीर्यं सुग्रीवं पर्यवस्थितम्।\nगाढं परिदधे वासो वाली परमरोषण:4.16.16।।",
+      "transliteration": "",
+      "translation": "On seeing the great hero Sugriva standing firmly, the enraged Vali tied his upper cloth (around his loin) tightly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "स वाली गाढसंवीतो मुष्टिमुद्यम्य वीर्यवान्।\nसुग्रीवमेवाभिमुखो ययौ योद्धुं कृतक्षणः4.16.17।।",
+      "transliteration": "",
+      "translation": "Vali tied up his cloth tightly, raised his fist and advanced towards Sugriva, ready for the encounter.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "श्लिष्टं मुष्टिं समुद्यम्य संरब्धतरमागतः।\nसुग्रीवोऽपि समुद्दिश्य वालिनं हेममालिनम्4.16.18।।",
+      "transliteration": "",
+      "translation": "Sugriva also lifted his fist firmly and advanced more impatiently towards Vali adorned with a golden necklace.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तं वाली क्रोधताम्राक्षस्सुग्रीवं रणपण्डितम्।\nआपतन्तं महावेगमिदं वचनमब्रवीत्4.16.19।।",
+      "transliteration": "",
+      "translation": "While Sugriva, expert in combat, advanced swiftly to pounce upon (his enemy), Vali whose eyes turned red in anger said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "एष मुष्टिर्मयाबद्धो गाढस्सन्निहिताङ्गुलिः।\nमया वेगविमुक्तस्ते प्राणानादाय यास्यति4.16.20।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु सुग्रीवः क्रुद्धो वालिनमब्रवीत्।\nतवैव चा हरन्प्राणान्मुष्टिः पततु मूर्धनि4.16.21।।",
+      "transliteration": "",
+      "translation": "This infuriated Sugriva who, looking at Vali, said 'This fist of mine will draw your life out, hitting your forehead'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "ताडितस्तेन सङ्कृद्धस्समभिक्रम्य वेगितः।\nअभवच्छोणितोद्गारी सोत्पीड इव पर्वतः4.16.22।।",
+      "transliteration": "",
+      "translation": "Struck by Vali, enraged Sugriva encountered Vali more aggresively. His body drenched in blood seemed a mountain with rivulets of blood flowing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "सुग्रीवेण तु निस्सङ्गं सालमुत्पाट्य तेजसा।\nगात्रेष्वभिहतो वाली वज्रेणेव महागिरिः4.16.23।।",
+      "transliteration": "",
+      "translation": "With all his vigour, Sugriva uprooted a sala tree, pulled it out and struck Vali on the body, like a thunderbolt striking a huge mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "स तु वाली प्रचलितस्सालताडनविह्वलः।\nगुरुभारसमाक्रान्तो नौ सार्थ इव सागरे4.16.24।।",
+      "transliteration": "",
+      "translation": "Struck by the blows of the sala tree, Vali also lost his balance like the heavily loaded ship of a trader shaken up in the ocean.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तौ भीमबलविक्रान्तौ सुपर्णसमवेगिनौ।\nप्रवृद्धौ घोरवपुषौ चन्द्रसूर्याविवाम्बरे।\nपरस्परममित्रघ्नौ च्छिद्रान्वेषणतत्परौ4.16.25।।",
+      "transliteration": "",
+      "translation": "Both of them endowed with terrible strength, fierce in appearance, and each seeking the weak points of the other advanced, as fast as Garuda, striking at the enemy. Their fight grew more and more fierce like the fight between Sun and Moon in the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "ततोऽवर्धत वाली तु बलवीर्यसमन्वितः।\nसूर्यपुत्रो महावीर्यस्सुग्रीवः परिहीयते4.16.26।।",
+      "transliteration": "",
+      "translation": "In a short while Vali, endowed with great strength, gained the upper hand and Sugriva, son of the Sungod, was losing ground .",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "वालिना भग्नदर्पस्तु सुग्रीवो मन्दविक्रमः।\nवालिनं प्रति सामर्षो दर्शयामास लाघवम्4.16.27।।",
+      "transliteration": "",
+      "translation": "With his strength waning and pride crushed, Sugriva, anguished, exhibited shrewdness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "वृक्षैः स्सशाखै स्सशिखैर्वज्रकोटिनिभैर्नखैः4.16.28।।\nमुष्टिभिर्जानुभिः पद्भिर्बाहुभिश्च पुनः पुनः।\nतयोर्युद्धमभूद्घोरं वृत्रवासवयोरिव4.16.29।।",
+      "transliteration": "",
+      "translation": "Both like Vritra and Indra fought, hitting each other again and again with trees full of branches and tops, with their hard nails akin to thunderbolts and with their fists, knees, feet, etc.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "तौ शोणिताक्तौ युध्येतां वानरौ वनचारिणौ।\nमेघाविव महाशब्दै स्तर्जमानौ परस्परम्4.16.30।।",
+      "transliteration": "",
+      "translation": "The monkeys, wanderers in the forest, both with blood stains fiercely clashed pointing at each other, roaring with dreadful sounds like two clouds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "हीयमानमथोऽपश्यत्सुग्रीवं वानरेश्वरम्।\nवीक्षमाणं दिशश्चैव राघवस्स मुहुर्मुहुः4.16.31।।",
+      "transliteration": "",
+      "translation": "Raghava perceived that the monkey king Sugriva whose strength was waning was looking again and again in all directions (seeking help).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "ततो रामो महातेजा आर्तं दृष्ट्वा हरीश्वरम्।\nशरं च वीक्षते वीरो वालिनो वधकारणात् 4.16.32।।",
+      "transliteration": "",
+      "translation": "Finding the king of the monkeys in distress, the heroic, brilliant Rama looked for an  arrow in order to kill Vali.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "ततो धनुषि सन्धाय शरमाशीविषोपमम्।\nपुरयामास तच्चापं कालचक्रमिवान्तकः4.16.33।।",
+      "transliteration": "",
+      "translation": "Rama then fixed an arrow which resembled a venomous snake, on to his bow looking like the very deathwheel of Yama and stretched it fully.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "तस्य ज्यातलघोषेण त्रस्ताः पत्ररथेश्वराः।\nप्रदुद्रुवुर्मृगाश्चैव युगान्त इव मोहिताः4.16.34।।",
+      "transliteration": "",
+      "translation": "As if scared by the twang of the bowstring, winged and feathered birds and animals ran frightened in different directions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "मुक्तस्तु वज्रनिर्घोष: प्रदीप्ताशनिसन्निभः।\nराघवेण महाबाणो वालिवक्षसि पातितः4.16.35।।",
+      "transliteration": "",
+      "translation": "As Rama shot the mighty arrow, it went like a blazing lightning with a thunderous sound and pierced into the chest of Vali.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "ततस्तेन महातेजा वीयौटत्सिक्तः कपीश्वरः।\nवेगेनाभिहतो वाली निपपात महीतले4.16.36।।",
+      "transliteration": "",
+      "translation": "Then the powerful monkey king Vali, who was proud of his might, fell down on earth, struck by the fast flying arrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "इन्द्रध्वज इवोद्धूतः पौर्णमास्यां महीतले।\nआश्वयुक्समये मासि गतश्रीको विचेतनः4.16.37।।",
+      "transliteration": "",
+      "translation": "Vali fell lustreless on the ground. He was thrown down unconscious like the banner (hoisted in honour) of Indra on the fullmoon day of Aswayuja month.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "नरोत्तमः कालयुगान्तकोपमं\nशरोत्तमं काञ्चनरूप्यभुषितम्।\nससर्ज दीप्तं तममित्रमर्दनं\nसधूममग्निं मुखतो यथा हरः4.16.38।।",
+      "transliteration": "",
+      "translation": "The arrow of Rama, distinguished among men, adorned with silver and gold, which could crush the enemy shone like fire and smoke emitted from the mouth of Rudra at the time of dissolution (at the end of the aeon).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-16-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "अथोक्षितश्शोणिततोयविस्रवै\nस्सुपुष्पिताशोक इवानिलोद्धतः।\nविचेतनो वासवसूनुराहवे\nविभ्रंशितेन्द्रध्वजवत्क्षितिं गतः4.16.39।।",
+      "transliteration": "",
+      "translation": "While Indra's son (Vali) fell unconscious on the ground, drenched in blood flowing, like a fully bloomed Asoka tree shaken down by the wind, he looked like Indra's flag fallen. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे षोडशस्सर्गः।। Thus ends the sixteenth sarga of Kishkindakanda of the Holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

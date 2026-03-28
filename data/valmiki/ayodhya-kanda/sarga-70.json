@@ -1,0 +1,288 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 70,
+    "title": "Messengers from Ayodhya arrive as Bharata was describing his nightmare to his friends -- the message of Vasistha is conveyed to Bharata to hurry back to Ayodhya -- departure of Bharata and Satrughna to Ayodhya.",
+    "titleSanskrit": "",
+    "totalShlokas": 30
+  },
+  "shlokas": [
+    {
+      "id": "v2-70-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "भरते ब्रुवति स्वप्नं दूतास्ते क्लान्तवाहनाः।\nप्रविश्यासह्यपरिखं रम्यं राजगृहं पुरम्।।2.70.1।।\nसमागम्य तु राज्ञा च राजपुत्रेण चार्चिताः \nराज्ञः पाद��� गृहीत्वा तु तमूचुर्भरतं वचः।।2.70.2।।",
+      "transliteration": "",
+      "translation": "While Bharata was relating his dream, the mounted messengers (from Ayodhya) with their weary horses entered the lovely city of Rajagriha  surrounded by an impassable moat. There they met the king of Kekaya country and his son, Yuddhajit and were received with honour. Touching the feet of the king with reverence, they  said to Bharata:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-70-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "भरते ब्रुवति स्वप्नं दूतास्ते क्लान्तवाहनाः।\nप्रविश्यासह्यपरिखं रम्यं राजगृहं पुरम्।।2.70.1।।\nसमागम्य तु राज्ञा च राजपुत्रेण चार्चिताः \nराज्ञः पादौ गृहीत्वा तु तमूचुर्भरतं वचः।।2.70.2।।",
+      "transliteration": "",
+      "translation": "While Bharata was relating his dream, the mounted messengers (from Ayodhya) with their weary horses entered the lovely city of Rajagriha  surrounded by an impassable moat. There they met the king of Kekaya country and his son, Yuddhajit and were received with honour. Touching the feet of the king with reverence, they  said to Bharata:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-70-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "पुरोहितस्त्वां कुशलं प्राह सर्वे च मन्त्रिणः।\nत्वरमाणश्च निर्याहि कृत्यमात्ययिकं त्वया।।2.70.3।।",
+      "transliteration": "",
+      "translation": "The family priest (Vasistha) and all the counsellors have enquired about your welfare. You must return immediately. There is an urgent matter to be attended by you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-70-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "इमानि च महार्हाणि वस्त्राण्याभरणानि च।\nप्रतिगृह्य विशालक्ष मातुलस्य च दापय।।2.70.4।।",
+      "transliteration": "",
+      "translation": "Oh largeeyed one (Bharata) you are asked to take these excellent raiments and precious ornaments and bestow them on your maternal uncle (said the messengers).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-70-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "अत्र विशंतिकोट्यस्तु नृपतेर्मातुलस्य ते।\nदशकोट्यस्तु सम्पूर्णास्तथैव च नृपात्मज।।2.70.5।।",
+      "transliteration": "",
+      "translation": "O prince these gifts worth twenty crore are intended for the king and the rest of the gifts worth ten crore for your maternal uncle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-70-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "प्रतिगृह्य तु तत्सर्वं स्वनुरक्त स्सुहृज्जने।\nदूतानुवाच भरतः कामैस्सम्प्रतिपूज्य तान्।।2.70.6।।",
+      "transliteration": "",
+      "translation": "Affectionate towards his relatives and friends, Bharata received all those gifts and in return honoured those messengers with things they liked, asking them:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-70-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "कच्चित्सुकुशली राजा पिता दशरथो मम।\nकच्चिच्चारोगता रामे लक्ष्मणे च महात्मनि।।2.70.7।।",
+      "transliteration": "",
+      "translation": "I hope my father, Dasaratha is doing well and revered Rama and Lakshmana are in good health",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-70-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "आर्या च धर्मनिरता धर्मज्ञा धर्मदर्शिनी।\nअरोगा चापि कौसल्या माता रामस्य धीमतः।।2.70.8।।",
+      "transliteration": "",
+      "translation": "(I hope) Kausalya mother of the sagacious Rama the venerable lady devoted to righteousness one who knows the ways of righteousness and observes the prescribed code of conduct, is keeping sound  health.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-70-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "कच्चित्सुमित्रा धर्मज्ञा जननी लक्ष्मणस्य या।\nशत्रुघ्नस्य च वीरस्य साऽरोगा चापि मध्यमा।।2.70.9।।",
+      "transliteration": "",
+      "translation": "I hope my mother Sumitra (the middle one) who is familiar with the ways of righteousness, the mother of valiant Lakshmana and Satrughna, is enjoying good health.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-70-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "आत्मकामा सदा चण्डी क्रोधना प्राज्ञमानिनी।\nअरोगा चापि मे माता कैकेयी किमुवाच ह।।2.70.10।।",
+      "transliteration": "",
+      "translation": "And what about my mother Kaikeyi, ever intent on her own wellbeing, wrathful, irascible and proud of her intelligence? Is she maintaining sound health?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-70-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "एवमुक्तास्तु ते दूताः भरतेन महात्मना।\nऊचुस्सप्रश्रयं वाक्यमिदं तं भरतं तदा।।2.70.11।।",
+      "transliteration": "",
+      "translation": "Having listened to the words of that magnanimous Bharata, those messengers addressed him  gracefully with these words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-70-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "कुशलास्ते नरव्याघ्र येषां कुशलमिच्छसि।\nश्रीश्च त्वां वृणुते पद्मा युज्यतां चापि ते रथः।।2.70.12।।",
+      "transliteration": "",
+      "translation": "O tiger among men (Bharata) those of whose welfare you are enquiring are all doing well. May the goddess of wealth and prosperity await you and let your chariot be yoked.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-70-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "भरतश्चापि तान् दूतानेवमुक्तोऽभ्यभाषत।\nआपृच्चेऽहं महाराजं दूतास्सन्त्वरयन्ति माम्।।2.70.13।।",
+      "transliteration": "",
+      "translation": "Having thus been addressed, Bharata said to the messengers. Let me seek the permission of the great king of Kekaya to leave and say goodbye, informing him that the messengers are hastening me up.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-70-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "एवमुक्त्वा तु तान् दूतान्भरतः पार्थिवात���मजः।\nदूतै स्सञ्चोदितो वाक्यं मातामहमुवाच ह।।2.70.14।।",
+      "transliteration": "",
+      "translation": "Having addressed the messengers who were pressing him to leave (for Ayodhya) Bharata said to his maternal grandfather:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-70-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "राजन् पितुर्गमिष्यामि सकाशं दूतचोदितः।\nपुनरप्यहमेष्यामि यदा मे त्वं स्मरिष्यसि।।2.70.15।।",
+      "transliteration": "",
+      "translation": "O king, urged by these messengers I wish to go to my father. I shall come back again (from Ayodhya) whenever you  remember me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-70-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "भरतेनैवमुक्तस्तु नृपो मातामहस्तदा।\nतमुवाच शुभं वाक्यं शिरस्याघ्राय राघवम्।।2.70.16।।",
+      "transliteration": "",
+      "translation": "Then the  king of Kekaya, the maternal grandfather of Bharata, having heard the words  of the scion of the Raghu dynasty (Bharata), kissed him on his forehead and spoke these auspicious words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-70-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "गच्छ तातानुजाने त्वां कैकेयीसुप्रजास्त्वया।\nमातरं कुशलं ब्रूयाः पितरं च परन्तप।।2.70.17।।",
+      "transliteration": "",
+      "translation": "You may go, my child I permit you to leave. Kaikeyi has a worthy son in you. O slayer of enemies convey my best wishes to your mother and father.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-70-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "पुरोहितं च कुशलं ये चान्ये द्विजसत्तमाः।\nतौ च तात महेष्वासौ भ्रातरौ रामलक्ष्मणौ।।2.70.18।।",
+      "transliteration": "",
+      "translation": "My child, convey my best wishes, too, to your family priest Vasistha and other illustrious brahmins and also to those two great bowmen (Rama and Lakshmana).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-70-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तस्मै हस्त्युत्तमांश्चित्रान्कम्बलानजिनानि च।\nअभिसत्कृत्य कैकेयो भरताय धनं ददौ।।2.70.19।।",
+      "transliteration": "",
+      "translation": "The king of Kekaya felicitated Bharata, out of affection and bestowed on him wellbred elephants, manycoloured blankets, antelope skins and riches.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-70-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "रुक्मनिष्कसहस्रे द्वे षोडशाश्वशतानि च।\nसत्कृत्य कैकयीपुत्रं केकयो धनमादिशत्।।2.70.20।।",
+      "transliteration": "",
+      "translation": "King of Kekaya generously gave to the son of Kaikeyi (Bharata) in his honour two thousand gold coins and  sixteen hundred horses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-70-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तथाऽमात्यानभिप्रेतान्विश्वास्यांश्च गुणान्वितान्।\nददावश्वपतिः क्षिप्रं भरतायानुयायिनः।।2.70.21।।",
+      "transliteration": "",
+      "translation": "Similarly his maternal uncle Ashwapati quickly presented him amenable, trustworthy and virtuous counsellors as companions on his return journey.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-70-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "ऐरावतानैन्द्रशिरान्नागान्वै प्रियदर्शनान्।\nखरान् श्रीघ्रान्सुसंयुक्तान्मातुलोऽस्मै धनं ददौ।।2.70.22।।",
+      "transliteration": "",
+      "translation": "His maternal uncle gave him the wealth of goodlooking elephants born in Iravata and Indrasira mountains and swiftmoving and welltrained asses which can be yoked easily. He gave riches too.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-70-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "अन्तःपुरेऽति संवृद्धान् व्याघ्रवीर्यबलान्वितान्।  \nदंष्ट्राऽऽयुधान्महाकायान् शुनश्चोपायनं ददौ।।2.70.23।।",
+      "transliteration": "",
+      "translation": "He also gave him a gift of wellraised dogs of the inner apartment hugebodied with the strength and courage of tigers who used their fangs as weapons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-70-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "स दत्तं केकयेन्द्रेण धनं तन्नाभ्यनन्दत।\nभरतः कैकयीपुत्रो गमनत्वरया तदा।।2.70.24।।",
+      "transliteration": "",
+      "translation": "All the wealth given by the king of Kekaya did not delight Bharata, son of Kaikeyi who was in a hurry to depart for Ayodhya.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-70-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "बभूव ह्यस्य हृदये चिन्ता सुमहती तदा।\nत्वरया चापि दूतानां स्वप्नस्यापि च दर्शनात्।।2.70.25।।",
+      "transliteration": "",
+      "translation": "Then his heart was filled with extreme anxiety due to the haste of the messengers to depart and also due to the dream he had.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-70-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "स स्ववेश्माभ्यतिक्रम्य नरनागाश्वसंवृतम्।\nप्रपेदे सुमहच्छ्रीमान्राजमार्गमनुत्तमम्।।2.70.26।।",
+      "transliteration": "",
+      "translation": "Prosperous Bharata on leaving his residence, passed through incomparable royal highway thronged with men, elephants and horses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-70-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "अभ्यतीत्य ततोऽपश्यदन्तःपुरमुदारधीः।\nततस्तद्भरतश्श्रीमानाविवेशानिवारितः।।2.70.27।।",
+      "transliteration": "",
+      "translation": "Then the nobleminded, prosperous Bharata, on leaving the  highway, saw  the inner apartment of the king which he entered unhindered.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-70-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "स मातामहमापृच्छ्य मातुलं च युधाजितम्।\nरथमारुह्य भरतश्शत्रुघ्नसहितो ययौ।।2.70.28।।",
+      "transliteration": "",
+      "translation": "Thus having taken leave of his maternal grandfather and uncle Yuddhajit, Bharata accompanied by Satrughna boarded the chariot and went along.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-70-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "रथान्मण्डल चक्रांश्च योजयित्वा परश्शतम्।\nउष्ट्र गोऽश्वबलैर्भृत्या भरतं यान्तमन्वयुः।।2.70.29।।",
+      "transliteration": "",
+      "translation": "And the servants harnessing more than a hundred chariots of wellrounded wheels and also camels, oxen and horses followed Bharata who started off.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-70-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "बलेन गुप्तो भरतो महात्मा सहार्यकस्याऽत्मसमैरमात्यैः।\nआदाय शत्रुघ्नमपेतशत्रुर्गृहाद्ययौ सिद्ध इवेन्द्रलोकात्।।2.70.30।।",
+      "transliteration": "",
+      "translation": "Under the protection of the army, the illustrious Bharata who was devoid of enemies, accompanied by ministers who were comparable to him and Satrughna, departed from his venerable grandfather's house like a siddha leaving the regions of Indra.       इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे सप्ततितमस्सर्गः।। Thus ends the seventieth sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

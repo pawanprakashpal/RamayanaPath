@@ -1,0 +1,306 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 9,
+    "title": "Sita's admonition to Rama on the evil of attachment to weapons, after he had given up the kingdom.",
+    "titleSanskrit": "",
+    "totalShlokas": 32
+  },
+  "shlokas": [
+    {
+      "id": "v3-9-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "सुतीक्ष्णेनाभ्यनुज्ञातं प्रस्थितं रघुनन्दनम्।\nहृद्यया स्निग्धया वाचा भर्तारमिदमब्रवीत्।।3.9.1।।",
+      "transliteration": "",
+      "translation": "While Rama was leaving with the permission of Sutikshna, Sita spoke these warm, affectionate words to her husband:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अयं धर्मस्सुसूक्ष्मेण विधिना प्राप्यते महान्।\nनिवृत्तेन तु शक्योऽयं व्यसनात्कामजादिह।।3.9.2।।",
+      "transliteration": "",
+      "translation": "This great path of dharma you are following now can be attained only through subtle means by one free from addiction born of passion.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "त्रीण्येव व्यसनान्यत्र कामजानि भवन्त्युत।\nमिथ्यावाक्यं परमकं तस्माद्गुरुतरावुभौ।।3.9.3।।\nपरदाराभिगमनं विना वैरं च रौद्रता।",
+      "transliteration": "",
+      "translation": "There are three kinds of vices born out of lust. First, speaking untruth, second, having sexual relation with others' wives and third, resorting to violence with no enmity. The later two vices are of serious nature.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "मिथ्यावाक्यं न ते भूतं न भविष्यति राघव।।3.9.4।।\nकुतोऽभिलाषणं स्त्रीणां परेषां धर्मनाशनम्।",
+      "transliteration": "",
+      "translation": "O Rama you never spoke untruth in the past nor will you speak in future. How can there be any desire in you to destroy the virtue of others' wives ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तव नास्ति मनुष्येन्द्र न चाभूत्ते कदाचन।।3.9.5।।\nमनस्यपि तथा राम न चैतद्विद्यते क्वचित्।",
+      "transliteration": "",
+      "translation": "O Rama, lord among men, you hadn't it (lust for other women) in the past. You havn't it now. Never does it exist even in your mind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "स्वदारनिरतस्त्वं च नित्यमेव नृपात्मज।।3.9.6।।\nधर्मिष्ठस्सत्यसन्धश्च पितुर्निर्देशकारकः।",
+      "transliteration": "",
+      "translation": "O prince, you are always faithful to your wife. You are righteous, truthful and obedient to your father's orders.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "सत्यसन्ध महाभाग श्रीमल्लक्ष्मणपूर्वज।।3.9.7।।\nत्वयि धर्मश्च सत्यं च त्वयि सर्वं प्रतिष्ठितम्।",
+      "transliteration": "",
+      "translation": "O Rama, you are truthful, honourable, powerful. O elder brother of Lakshmana, in you is established truth and righteousness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तच्च सर्वं महाबाहो शक्यं धर्तुं जितेन्द्रियैः।।3.9.8।।\nतव वश्येन्द्रियत्वं च जानामि शुभदर्शन।",
+      "transliteration": "",
+      "translation": "O longarmed one, to contain all this is only possible for those who have conquered the senses. O handsome one, I know your ability to control the senses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तृतीयं यदिदं रौद्रं परप्राणाभिहिंसनम्।।3.9.9।।\nनिर्वैरं क्रियते मोहात्तच्च ते समुपस्थितम्।",
+      "transliteration": "",
+      "translation": "(But) you are a victim to the third (vice born of lust) i.e. showing violence without cause for enmity",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "प्रतिज्ञातस्त्वया वीर दण्डकारण्यवासिनाम्।।3.9.10।।\nऋषीणां रक्षणार्थाय वधस्संयति रक्षसाम्।",
+      "transliteration": "",
+      "translation": "O valiant one, you have promised to kill the demons in the battle, in order to protect the sages residing in the Dandaka forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "एतन्निमित्तं च वनं दण्डका इति विश्रुतम्।।3.9.11।।\nप्रस्थितस्त्वं सह भ्रात्रा धृतबाणशरासनः।",
+      "transliteration": "",
+      "translation": "It is only on account of this that you entered the wellknown Dandaka forest with your brother wielding bow and arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "ततस्त्वां प्रस्थितं दृष्ट्वा मम चिन्ताकुलं मनः।।3.9.12।।\nत्वद्वृत्तं चिन्तयन्त्या वै भवेन्निश्श्रेयसं हितम्।",
+      "transliteration": "",
+      "translation": "I am, therefore, worried in my mind when I see you here and think of your wellbeing. I wish your ultimate good. [The next two lines appear, more or less, a repetition. So omitted : Editor]",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "त्वां चैव प्रस्थितं दृष्ट्वा राम चिन्ताकुलं मनः।।3.9.13।।\nसर्वतचशिन्तय्नत्या मे तव निश्श्रेयसं नृप।\nन हि मे रोचते वीर गमनं दण्डकान्प्रति।।3.9.14।।\nकारणं तत्र वक्ष्यामि वदन्त्याश्श्रूयतां मम।",
+      "transliteration": "",
+      "translation": "O brave Rama, I do not like your going to Dandaka forest. I shall tell you the reason. Do listen.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "त्वं हि बाणधनुष्पाणिर्भ्रात्रा सह वनं गतः।।3.9.15।।\nदृष्ट्वा वनचरान्सर्वान्कच्चित्कुर्याश्शरव्ययम्।",
+      "transliteration": "",
+      "translation": "Of course, you will go to the forest with your brother, holding the bow and arrows. Release the arrows when you see the forestrangers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "क्षत्रियाणामपि धनुर्हुताशस्येन्धनानि च।।3.9.16।।\nसमीपतस्स्थितं तेजो बलमुच्छ्रयते भृशम्।",
+      "transliteration": "",
+      "translation": "A bow in the hand of a kshatriya is like fuel to fire. It surely swells his strength and his brilliance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "पुरा किल महाबाहो तपस्स्वी सत्यवाक्छुचिः।।3.9.17।।\nकस्मिंश्चिदभवत्पुण्ये वने रतमृगद्विजे।",
+      "transliteration": "",
+      "translation": "O mightyarmed one, there dwelt in the past an ascetic, noble and truthful in a sacred forest where animals and birds lived merrily together.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तस्यैव तपसो विघ्नं कर्तुमिन्द्रश्शचीपतिः।।3.9.18।।\nखङ्गपाणिरथागच्छदाश्रमं भटरूपधृत्।",
+      "transliteration": "",
+      "translation": "Once Indra, husband of Sachi, came to his hermitage in the guise of an attendant, sword in hand, in order to hinder his penance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तस्मिंस्तदाश्रमपदे निशितः खङ्ग उत्तमः।।3.9.19।।\nस न्यासविधिना दत्तः पुण्ये तपसि तिष्ठतः।",
+      "transliteration": "",
+      "translation": "Then while the sage was practising penance at the hermitage, he gave him that excellent sword to be kept in trust.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "स तच्छस्त्रमनुप्राप्य न्यासरक्षणतत्परः।।3.9.20।।\nवने तु विचरत्येव रक्षन्प्रत्ययमात्मनः।",
+      "transliteration": "",
+      "translation": "Having received the weapon as a trust, the sage went wandering in the forest, always attentive in safeguarding the weapon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "यत्र गच्छत्युपादातुं मूलानि च फलानि च।।3.9.21।।\nन विना याति तं खङ���गं न्यासरक्षणतत्परः।",
+      "transliteration": "",
+      "translation": "Vigilant about protecting the sword deposited with him, the sage never moved without it even when he went gathering roots and fruits.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "नित्यं शस्त्रं परिवहन्क्रमेण स तपोधनः।।3.9.22।।\nचकार रौद्रीं स्वां बुद्धिं त्यक्त्वा तपसि निश्चयम्।",
+      "transliteration": "",
+      "translation": "While the sage moved about holding the weapon, he gave up the practice of penance gradually and developed a violent mindset.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "ततस्सरौद्रेऽभिरतः प्रमत्तोऽधर्मकर्शितः।।3.9.23।।\nतस्य शस्त्रस्य संवासाज्जगाम नरकं मुनिः।",
+      "transliteration": "",
+      "translation": "By association with the sword, he developed a violent attitude. And in that habitual state of excitement he was dragged into unrighteous ways which (ultimately) took him to hell.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "एवमेतत्पुरा वृत्तं शस्त्रसंयोगकारणम्।।3.9.24।।\nअग्निसंयोगवद्धेतुश्शस्त्रसंयोग उच्यते।\nस्नेहाच्च बहुमानाच्च स्मारये त्वां न शिक्षये।।3.9.25।।",
+      "transliteration": "",
+      "translation": "Contact with the weapon has led to this in the past. Like contact with fire, it leads man to destruction. I say this out of my love and reverence for you as a reminder and not as an instruction.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "न कथञ्चन सा कार्या गृहीतधनुषा त्वया।\nबुद्धिर्वैरं  विना हन्तुं राक्षसान्दण्डकाश्रितान्।।3.9.26।।\nअपराधं विना हन्तुं लोकान्वीर न कामये।",
+      "transliteration": "",
+      "translation": "While holding a bow, you should not have the intention to kill demons residing in Dandaka with no animosity against you. O valiant one  I do not desire that any one should be killed without incurring any offence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "क्षत्रियाणां तु वीराणां वनेषु निरतात्मनाम्।।3.9.27।।\nधनुषा कार्यमेतावदार्तानां त्वभिरक्षणम्।",
+      "transliteration": "",
+      "translation": "It is the duty of a kshatriya, a warrior to protect with his bow those who practise selfcontrol (penance) in the forest in a state of panic.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "क्वच शस्त्रं क्व च वनं क्व च क्षात्रं तपः क्वच।।3.9.28।।\nव्याविद्धमिदमस्माभिर्द्देशधर्मस्तु पूज्यताम्।",
+      "transliteration": "",
+      "translation": "Where is the question of wielding a weapon and living in the forest, where is the life of a kshatriya and the life of penance? For us, this is an encroachment. Let the law of the land be honoured.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "तदार्य कलुषा बुद्धिर्जायते शस्त्रसेवनात्।।3.9.29।।\nपुनर्गत्वा त्वयोध्यायां क्षत्रधर्मं चरिष्यसि।",
+      "transliteration": "",
+      "translation": "Lord, when we handle the weapon, the mind gets vitiated. (Only) after returning to Ayodhya can you perform the duty of a kshatriya.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "अक्षया तु भवेत्प्रीतिश्श्वश्रूश्वशुरयोर्मम।।3.9.30।।\nयदि राज्यं परित्यज्य भवेस्त्वं निरतो मुनिः।",
+      "transliteration": "",
+      "translation": "You would have been on unlimited source of joy to my fatherinlaw and motherinlaw had you permanently renounced the kingdom for the life of an ascetic.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "धर्मादर्थः प्रभवति धर्मात्प्रभवते सुखम्।।3.9.31।।\nधर्मेण लभते सर्वं धर्मसारमिदं जगत्।",
+      "transliteration": "",
+      "translation": "Righteousness brings wealth. Wealth brings happiness. Righteousness brings everything. In fact, the essence of the world is righteousness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "आत्मानं नियमैस्तैस्तै कर्शयित्वा प्रयत्नतः।।3.9.32।।\nप्राप्यते निपुणैर्धर्मो न सुखाल्लभ्यते सुखम्।",
+      "transliteration": "",
+      "translation": "The wise earn dharma through getting their bodies emaciated by carefully adopting  different means of discipline (selftorture). Happiness does not beget happiness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "नित्यं शुचिमतिस्सौम्य चर धर्मं तपोवने।।3.9.33।।\nसर्वं हि विदितं तुभ्यं त्रैलोक्यमपि तत्त्वतः।",
+      "transliteration": "",
+      "translation": "O gentle one you may move in this forest of ascetics with a pure mind. The true meaning behind everything in these three worlds is known to you, indeed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-9-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "स्त्रीचापलादेतदुदाहृतं मे धर्मं च वक्तुं तव कस्समर्थः।\nविचार्य बुद्ध्या तु सहानुजेन यद्रोचते तत्कुरु मा चिरेण।।3.9.34।।",
+      "transliteration": "",
+      "translation": "I told you all this out of feminine fickleness. Who can guide you in the ways of dharma? After carefully deliberating the matter with your brother you may act according to your wish. Let there be no delay (hesitation). इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे नवमस्सर्गः।। Thus ends the ninth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

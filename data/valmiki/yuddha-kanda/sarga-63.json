@@ -1,0 +1,504 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 63,
+    "title": "Kumbhakarna points out the misdeeds of Ravana, which has resulted in such a situation and assures Ravana to fight with Rama.",
+    "titleSanskrit": "",
+    "totalShlokas": 54
+  },
+  "shlokas": [
+    {
+      "id": "v6-63-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तस्यराक्षसराजस्यनिशम्यपरिदेवितम् ।\nकु���्भकर्णोबभाषेदंवचनंप्रजहास च ।।6.63.1।।",
+      "transliteration": "",
+      "translation": "Hearing the lament of the Rakshasa king, Kumbhakarna replied laughing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "दृष्टोदोषोहियोऽस्माभिःपुरामन्त्रन्वििर्णये ।\nहितेष्वनभियुक्तेनसोऽयमासादितस्त्वया ।।6.63.2।।",
+      "transliteration": "",
+      "translation": "\"While we were discussing earlier and taking decisions, that disaster foreseen by me has reaped for having not trusted the well wishers.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "शीघ्रंखल्वभ्युपेतंत्वांफलंपापस्यकर्मणः ।\nनिरयेष्वेवपतनंयथादुष्कृतकर्मणः ।।6.63.3।।",
+      "transliteration": "",
+      "translation": "\"Those who do sinful deeds fall unobstructed so also the fruit of your sinful action has come upon you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "प्रथमंवैमहाराजकृत्यमेतदचिन्तितम् ।\nकेवलंवीर्यदर्पेणनानुबन्धोविचिन्तितः ।।6.63.4।।",
+      "transliteration": "",
+      "translation": "\"O king! All this action was not thought of at the beginning, nor the consequences of action weighed in the pride of your prowess.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "यःपश्चातूर्वकार्याणिकुर्यादैश्वर्यमास्थितः ।\nपूर्वंचोत्तरकार्याणि न स वेदनयानया ।।6.63.5।।",
+      "transliteration": "",
+      "translation": "\"Confident of prosperity, he who defers action earlier, he does not know what is right and wrong later on.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "देशकालविहीनानिकर्माणिविपरीतवत् ।\nक्रियमाणानिदुष्यन्तिहवींष्यप्रयतेष्विव ।।6.63.6।।",
+      "transliteration": "",
+      "translation": "\" Actions performed without regard for time and place will be disastrous like the oblations offered into fire without consecration, gets wasted.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "त्रयाणांपञ्चधायोगंकर्मणांयःप्रपश्यति ।\nसचिवैस्समयंकृत्वा स सभ्येवर्ततेपथि ।।6.63.7।।",
+      "transliteration": "",
+      "translation": "He who thinks with ministers and considers the five aspects of threefold duties and moves in the right path performs (Five aspects of action are the method of initiating action, material to be worked upon, time and place of action, provision against mischance and the chances of success). Threefold duties with reference to enemies are Sama, Daana, and Bedha.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "यथागमं च योराजासमयंविचिकीर्षति ।\nबुध्यतेसचिवान्बध्यासुहृदश्चानुपश्यति ।।6.63.8।।",
+      "transliteration": "",
+      "translation": "\"The king who does his duty in time in accordance with justice and thinking intelligently with his ministers, understands rightly.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "धर्ममर्थं च कामं च सर्वान्वारक्षसांपते ।\nभजतेपुरुषःकालेत्रीणिद्वन्द्वानिवापुनः ।।6.63.9।।",
+      "transliteration": "",
+      "translation": "\"O Rakshasa king! A man should pursue his duty or worldly gain or sensual pleasures all the three combined or at least any two in time (the scriptures lay down that duty should be pursued in the morning, wealth in the afternoon and sensual pleasures at night).\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "त्रिषुचैतेषुयच्छ्रेष्ठंश्रुत्वातन्नावबुध्यते ।\nराजावाराजमात्रोवाव्यर्थंतस्यबहुश्रुतम् ।।6.63.10।।",
+      "transliteration": "",
+      "translation": "\" A sovereign king or a king hearing these three does not recognize the best of the three is in vain even though he heard many.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "उपप्रदानंसान्त्वं च भेदंकाले च विक्रमम् ।\nयोगं च रक्षसांश्रेष्ठतावुभौ च नयानयौ ।।6.63.11।।\nकालेधर्मार्थकामान्यस्सम्मन्त्ऱ्यसचिवैःसह ।\nनिषेवेतात्मवान्लोके न स व्यसनमाप्नुयात् ।।6.63.12।।",
+      "transliteration": "",
+      "translation": "\"You are the foremost of the Rakshasas! After discussing with ministers, a king either by gifting or conciliation or dissension or resorting to all of them at the appropriate time takes resort to pursue virtue, wealth, or sensual pleasures at the right time, never meets with sorrow.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "हितानुबन्धमालोच्यकार्यात्कार्यमिहात्मनः ।\nराजासहार्थतत्त्वज्ञैस्सचिवैर्बुस्सहिजीवति ।।6.63.13।।",
+      "transliteration": "",
+      "translation": "\"That king who knows the reality of things and makes decisions in consultation with his ministers, who make their living with their intelligence will live happily.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "अनभिज्ञायशास्त्रार्थान् पुरुषाःपशुबुद्धयः ।\nप्रागल्भ्याद्वक्तुमिच्छन्तिमन्त्रेष्वभ्यन्तरीकृताः ।।6.63.14।।",
+      "transliteration": "",
+      "translation": "\"People whose intelligence level is no better than animals, who have been included to express their views, who do not know the meaning of shastras express their views out of impudence.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "अशास्त्रविदुषांतेषां न कार्यमभिहितंवचः ।\nअर्थशास्त्रानभिज्ञानांविपुलांश्रियमिच्छताम् ।।6.63.15।।",
+      "transliteration": "",
+      "translation": "\"Those who have no knowledge of shastras are ignorant of the science of wealth and desire huge wealth. Their advice ought not to be followed.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "अहितं च हिताकारंधार्ष्ट्याज्जल्पन्तियेनराः ।\nअवेक्ष्यमन्त्रबाह्यास्तेकर्तव्याःकृत्यदूषणा:।। 6.63.16।।",
+      "transliteration": "",
+      "translation": "\"Those who tender advice, which is unwholesome but in wholesome grab, out of their impudence should be kept away from discussion examining early as they mar the purpose.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "विनाशयन्तोभर्तारंसहिताश्शत्रुभिर्बुधैः ।\nविपरीतानिकृत्यानिकारयन्तीहमन्त्रिणः ।।6.63.17।।",
+      "transliteration": "",
+      "translation": "\"Some ministers in order to ruin the king, collide with enemies and make the king take wrong actions.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तान्भर्तामित्रसङ्काशानमित्रान्मन्त्रनिर्णये ।\nव्यवहारेणजानीयात्सचिवानुपसम्हितान् ।।6.63.18।।",
+      "transliteration": "",
+      "translation": "\" A ruler should know those ministers bribed by the enemy, who have become close to the enemy and appear as friends. Those ministers must be known through their behaviour in the deliberations.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "चपलस्येहकृत्यानिसहसानुप्रधावतः ।\nछिद्रमन्येप्रपद्यन्तेक्रौञ्चस्य ख मिवद्विजाः ।।6.63.19।।",
+      "transliteration": "",
+      "translation": "\"Enemies find out the weakness of the king who is unsteady and rush after the actions forcibly without thinking like brahmins just as birds find the holes in Krauncha mountain and elaborate to others.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "योहिशत्रुमवज्ञायनात्मानमभिरक्षति ।\nअवाप्नोतिहिसोऽनर्थान् स्थानाच्चव्यवरोप्यते ।।6.63.20।।",
+      "transliteration": "",
+      "translation": "\"He who knowing fully the actions of the enemy does not protect himself he attains reverses and is also dragged down from position.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "यदुक्तमिहतेपूर्वंक्रियतामनुजेन च ।\nतदेवनोहितंवाक्यंयदिच्छसि च तत्कुरु ।।6.63.21।।",
+      "transliteration": "",
+      "translation": "\"The advice given to you in the past by your brother alone is good. That is good for you. Or you may do what you wish.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तत्तुश्रुत्वादशग्रीवःकुम्भकर्णस्यभाषितम् ।\nभ्रुकुटिंचैवसञ्चक्रेक्रुद्धश्चैनमभाषत ।।6.63.22।।",
+      "transliteration": "",
+      "translation": "Kumbhakarna having spoken that way, the ten headed Ravana frowned, shaking his eyebrows in anger and spoke this way.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "मान्योगुरुवारिचार्यःकिमांत्वमनुशाससि ।\nकिमेवंवाक्छ्रमंकृत्वाकालेयुक्तंविधीयताम् ।।6.63.23।।",
+      "transliteration": "",
+      "translation": "\"Why do you, who are worthy of respect, instruct me like a father or teacher? These words express your cleverness in speaking. It is time to do what is appropriate now. Follow what is to be done.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "विभ्रमाच्चित्तमोहाद्वाबलवीर्याश्रयेणवा ।\nनाभिपन्नमिदानींयद्व्यर्थातस्यपुनःकथाः ।।6.63.24।।",
+      "transliteration": "",
+      "translation": "\"Due to delusion, or lack of understanding or due to pride of my strength I did something. To talk of it now again is futile.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "अस्मिन्कालेतुयद्युक्तंतदिदानींविधीयताम् ।\nगतंतुनानुशोचन्तिगतंतुगतमेवहि ।।6.63.25।।",
+      "transliteration": "",
+      "translation": "\"You may speak of only what is proper to do now. Do not think of the past as it is gone.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "ममापनयजंदोषंविक्रमेणसमीकुरु ।\nयदिखल्वस्तिमेस्नेहोविक्रमंवाऽवगच्छसि ।।6.63.26।।\nयदिवकार्यंमेतत्तेहृदिकार्यतमंमतम् ।",
+      "transliteration": "",
+      "translation": "\"If at all there is any affection in you for me now, you recognize your strengths and think what action is justified in your heart. You may nullify the evil that sprung from my heart.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "स सुहृद्योविपन्नार्थंदीनमभ्यवपद्यते ।।6.63.27।।\nस बन्धुर्योऽपनीतेषुसाहाय्यायोपकल्पते ।",
+      "transliteration": "",
+      "translation": "\" A friend is one who helps when one's fortune is lost and is desperate. Deviating from morals the one who is prepared to help is a relation.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "तमथैवंब्रुवाणंतुवचनंधीरदारुणम् ।।6.63.28।।\nरुष्टोऽयमितिविज्ञायशनैश्श्लक्षणमुवाच ह ।",
+      "transliteration": "",
+      "translation": "Thereafter knowing that Ravana is agitated and arguing in a grave and harsh manner, Kumbhakarna, spoke slowly in a gentle tone.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "अतीवहिसमालक्ष्यभ्रातरंक्षुभितेन्द्रियम् ।।6.63.29।।\nकुम्भकर्णश्शनैर्वाक्यंबभाषेपरिसान्त्वयन् ।",
+      "transliteration": "",
+      "translation": "Sensing that Ravana is disturbed very much, Kumbhakarna taking hold of the brother and consoling him slowly said these words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "शृणुराजन्नवहितोममवाक्यमरिन्दम ।।6.63.30।।\nअलंराक्षसराजेन्द्र सन्तापमुपपद्यते ।\nरोषं च सम्परित्यज्यस्वस्थोभवितुमर्हसि ।।6.63.31।।",
+      "transliteration": "",
+      "translation": "\"Listen to my words, Rakshasa king! You are a scourge of enemies. Put aside this sorrow. Give up the agony also. Be normal. You ought to be your normal self again.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "नैतन्मनसिकर्तव्यंमयिजीवतिपार्थिव ।\nतमहंनाशयिष्यामियत्कृतेपरितप्यते ।।6.63.32।।",
+      "transliteration": "",
+      "translation": "\"While I am (my body is) with life you need not entertain despondency. I will exterminate him, by whose account you are agitated.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "अवश्यंतुहितंवाच्यंसर्वावस्थांतवमया ।\nबन्धुभावादभिहितंभ्रातृस्नेहाच्छपार्थिव ।।6.63.33।।",
+      "transliteration": "",
+      "translation": "\"O king! I will give you good advice in all circumstances being a relation. Salutary advice has been given to you out of brotherly affection.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "सदृशंयत्तुकालेऽस्मिन् कर्तुंस्निग्धेनबन्धुना ।\nशत्रूणांकदनंपश्यक्रियमाणंमयारणे ।।6.63.34।।",
+      "transliteration": "",
+      "translation": "\" At this time, you will see a relation doing that which is right out of affection. All enemies will be destroyed.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "अद्यपश्यमहाबाहो मयासमरमूर्धनि ।\nहतेरामेसहभ्रात्राद्रवन्तींहरिवाहिनीम् ।।6.63.35।।",
+      "transliteration": "",
+      "translation": "\"O mighty armed King! You see Rama along with his brother being killed by me and Vanaras fleeing away from the forefront of war.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "अद्यरामस्यतद्दृष्टवामयानीतंरणाच्छिरः ।\nसुखीभवमहाबाहो सीताभवतुदुःखिता ।।6.63.36।।",
+      "transliteration": "",
+      "translation": "\"Be happy today, O Mighty armed brother! I will bring Rama's head from the battlefield. Sita will be sad. You will see.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "अद्यरामस्यपश्यन्तुनिधनंसुमहत्प्रियम् ।\nलङ्कायांराक्षसाःसर्वेयेतेनिहतबान्धवाः ।।6.63.37।।",
+      "transliteration": "",
+      "translation": "\" All the Rakshasas in Lanka whose relations have been killed will witness Rama's death which will be very welcome.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "अद्यशोकपरीतानांस्वबन्धुवधकारणात् ।\nशत्रोर्युधिविनाशेनकरोम्यस्रप्रमार्जनम् ।।6.63.38।।",
+      "transliteration": "",
+      "translation": "Now I will wipe the tears of Rakshasas who lost their kin and are bewailing their loss.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "अद्यपर्वतसङ्काशंससूर्यमिवतोयदम् ।\nविकीर्णंपश्यसमरेसुग्रीवंप्लवगोत्तम ।।6.63.39।।",
+      "transliteration": "",
+      "translation": "\"Now you will see Sugriva the foremost of monkeys in mountain shape, resembling mountains bathed in blood like evening Sun illumined like the cloud.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "कथं च राक्षसैरेभिर्मया च परिरक्षितः ।\nजिघांसुभिर्दाशरथिं वध्यसे त्वमिहानघ ।।6.63.40।।",
+      "transliteration": "",
+      "translation": "\"O Sinless Ravana! As I am going to kill this son of Dasaratha whom Rakshasas are intending to kill, how can Rama kill you now?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "मांनिहत्यकिलत्वांहिनिहनिष्यतिराघवः ।\nनाहमात्मनिसन्तापंगच्छेयंराक्षसाधिप ।।6.63.41।।",
+      "transliteration": "",
+      "translation": "\"Rakshasa king! Raghava will kill you only after killing me. Never give way for distress.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "कामंवतिदानीमपिमांव्यादिशत्वंपरन्तप ।\nन परःप्रेषणीयस्तेयुद्धायातुलविक्रम ।।6.63.42।।",
+      "transliteration": "",
+      "translation": "\"Command me to wage war at this moment, O Scorcher of enemies. There is no one better than me to be sought for O hero endowed with extraordinary strength.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "अहमुत्सादयिष्यामिशत्रूंस्तवमहाबल: ।\nयदिशक्रोयदियमोयदिपावकमारुतौ ।।6.63.43।।\nतानहंयोधयिष्यामिकुबेरवरुणावपि ।",
+      "transliteration": "",
+      "translation": "\"I shall exterminate your enemies, however mighty they may be. I can contend with Indra or fire god or Yama or wind god, Kubera or even Varuna.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "गिरिमात्रशरीरस्यशितशूलधरस्यमे ।।6.63.44।।\nनर्दतस्तीक्षणदंष्ट्रस्यबिभीयाच्चपुरन्दरः ।",
+      "transliteration": "",
+      "translation": "\"Even Indra with a body as big as a mountain, with pointed teeth like a spike, with sharp teeth will fear me and run if I roar.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "अथवात्यक्तशस्त्रस्यमृद्नतस्तरसारिपून् ।।6.63.45।।\nन मेप्रतिमुखेस्थातुंकश्चित् शक्तोजिजीविषुः ।",
+      "transliteration": "",
+      "translation": "\"Or else giving up weapons and swords using my arms indeed I can crush, and no one can stand in front of me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "नैवशक्त्या न गदयानासिनानिशितैश्शरैः ।।6.63.46।।\nहस्ताभ्यामेवसम्रब्दोहनिष्याम्यपिवज्रिणम् ।",
+      "transliteration": "",
+      "translation": "\"I shall not fight with javelin or mace or sword or sharp arrows. Enraged, alone I can strike down even Indra.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "यदिमेमुष्टिवेगं स राघवोऽद्यसहिष्यते ।।6.63.47।।\nततःपाश्यन्तिबाणौघारुधिरंराघवस्यतु ।",
+      "transliteration": "",
+      "translation": "\"Now if that Raghava can withstand the force of my fists, you will see volleys of Rama's arrows will drink my blood.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "चिन्तयाबाध्यसेराजन्किमर्थंमयितिष्ठति ।।6.63.48।।\nसोऽहंशत्रुविनाशाय तव निर्यातुमुद्यतः ।",
+      "transliteration": "",
+      "translation": "\"O King! while I am here for what reason do you worry and have anxiety? I will go now and decidedly destroy your enemy.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "मुञ्चरामाद्भयंराज न्हनिष्यामीहसम्युगे ।।6.63.49।।\nराघवंलक्ष्मणंचैवसुग्रीवं च महाबलम् ।\nहनूमन्तं च रक्षोघ्नंलङ्कायेनप्रदीपिता ।।6.63.50।।",
+      "transliteration": "",
+      "translation": "\"O King! Give up the fear, as both Rama and Lakshmana will be made short of work in the battlefield, as also mighty Sugriva and dispose of Hanuman, the destroyer of many Rakshasas and who set fire to Lanka.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "हरींश्चापिहनियिष्यामिसंयुगेसमवास्थिवान् ।\nअसाधारणमिच्छामिनदातुंमहद्यशः ।।6.63.51।।",
+      "transliteration": "",
+      "translation": "\"I will remain steady in the battlefield and devour monkeys also. I wish to confer an unusual and great glory on you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "तदिचेन्द्राद्भयं राजन्यदि चापिस्वयम्भुवः ।\nततोऽहंनाशयिष्यामिनैशंतमइवांशुमान् ।।6.63.52।।\nअपिदेवाश्शयिष्यन्तेक्रुद्धेमयिमहीतले ।",
+      "transliteration": "",
+      "translation": "\"Even if there is fear of Indra and Brahma that haunts you, I shall destroy them away like the sun dispels darkness. Devas will fall flat on earth when I am enraged.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "यमं च शमयिष्यामिभक्षयिष्यामिपावकम् ।।6.63.53।।\nआदित्यंपातयिष्यामिसनक्षत्रंमहीतले ।",
+      "transliteration": "",
+      "translation": "\"I shall quell Lord Yama also, devour fire god, make the Sun including stars fall on earth.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "शतक्रतुंवधिष्यामिपास्यामिवरुणालयम् ।।6.63.54।।\nपर्वतांश्चूर्णयिष्यामिदारयिष्यामिमेदिनीम् ।",
+      "transliteration": "",
+      "translation": "\"I shall kill Indra who has done a hundred sacrifices, drink up the ocean the abode of Varuna, crush the mountains totally, and break the earth.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "दीर्घकालंप्रसुप्तस्यकुम्भकर्णस्यविक्रमम् ।।6.63.55।।\nअद्यपश्यन्तुभूतानिभक्ष्यमाणानिसर्वशः ।\nनन्विदंत्रिदिवंसर्वमाहारस्य न पूर्यते ।।6.63.56।।",
+      "transliteration": "",
+      "translation": "\" All beings all over will be eaten now. For a long time Kumbhakarna was sleeping. Now you will see that the food of all the three worlds, earth, heaven and intermediate region will not be enough to fill my stomach.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "वधेनतेदाशरथेःसुखार्हंसुखंसमाहर्तुमहंव्रजामि ।\nनिहत्यरामंसहलक्ष्मणेनखादामिन्हरियूथमुख्यान् ।।6.63.57।।",
+      "transliteration": "",
+      "translation": "\"Through the destruction of Rama, I will bring happiness to you who are worthy of happiness. I will collect Rama along with Lakshmana and all the Vanara leaders and devour all.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-63-54",
+      "number": 54,
+      "type": "shloka",
+      "original": "रमस्वराजन् पिबचाद्यवारुणींकुरुष्वकृत्यानिविनीयतांम् ।\nमयाद्यरामेगमितेयमक्ष्यंचिरायसीतावशगाति ।।6.63.58।।",
+      "transliteration": "",
+      "translation": "\"O King! Now you drink wine, give up agony and start with work. Now Rama will be going to the abode of Yama sent by me. Sita will submit to you for long.\" ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेष्टितमस्सर्गः ।। This is the end of the sixty third sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

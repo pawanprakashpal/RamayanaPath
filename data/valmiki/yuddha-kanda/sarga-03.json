@@ -1,0 +1,288 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 3,
+    "title": "Hanuman gives a detailed description of Lanka on interrogation by Rama.",
+    "titleSanskrit": "",
+    "totalShlokas": 30
+  },
+  "shlokas": [
+    {
+      "id": "v6-3-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "सुग्रीवस्यवचश्श्रुत्वाहेतुमत्परमार्थवत् ।\nप्रतिजग्राहकाकुत्स्थोहनूमन्तमथाब्रवीत् ।।6.3.1।।",
+      "transliteration": "",
+      "translation": "Rama the scion of Kakuthsa dynasty having accepted the wellmeaning words of Sugriva, who spoke the truth with deep understanding, turned to Hanuman and said.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-3-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तपसासेतुबन्धेनसागरोच्छोषणेनच ।\nसर्वथासुसमर्थोऽस्मिसागरस्यास्यलङ्घने ।।6.3.2।।",
+      "transliteration": "",
+      "translation": "\"By austerity or by drying up the ocean or by any other means, I am capable of crossing the ocean.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-3-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "कतिदुर्गाणिदुर्गायालङ्कायाब्रूहितानिमे ।\nज्ञातुमिच्छामितत्सर्वंदर्शनादिववानर ।।6.3.3।।",
+      "transliteration": "",
+      "translation": "\"O Vanara How many forts are in Lanka? You may tell me whatever you have seen. I wish to know all that.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-3-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "बलस्यपरिमाणंचद्वारदुर्गक्रियामपि ।\n\t\nगुप्तिकर्मचलङ्कायारक्षसांसदनानिच ।।6.3.4।।\nयथासुखंयथावच्छलङ्कायामसिदृष्टवान् ।\nसर्वमाचक्ष्वतत्त्वेनसर्वथाकुशलोह्यसि ।।6.3.5।।",
+      "transliteration": "",
+      "translation": "\"Tell me in detail about the strength and size of the army, the number of gateways that are difficult to enter, the way in which the entrances have been protected by the rakshasas, and their dwellings in Lanka. Indeed you are aware of all aspects and are also capable.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-3-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "श्रुत्वारामस्यवचनंहनुमान्मारुतात्मजः ।\nवाक्यंवाक्यविदांश्रेष्ठोरामंपुनरथाब्रवीत् ।।6.3.6।।",
+      "transliteration": "",
+      "translation": "Hanuman the son of Maruti, the foremost among those who are good at speech, having heard Rama's words again said to Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-3-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "श्रूयतांसर्वमाख्यास्येदुर्गकर्मविधानतः ।\nगुप्तापुरीयथालङ्कारक्षिताचयथाबलैः ।।6.3.7।।",
+      "transliteration": "",
+      "translation": "\"I will relate the way in which the city of Lanka is fortified, the way in which it is protected by secret forces, everything you wish to hear.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-3-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "राक्षसाश्चयथास्निग्धारावणस्यचतेजसा ।\nपरांसमृद्धिंलङ्कायास्सागरस्यचभीमताम् ।।6.3.8।।\nविभागंचबलौघस्यनिर्देशंवाहनस्यच ।\nएवमुक्त्वाकपिश्रेष्ठःकथयामासतत्त्ववित: ।।6.3.9।।",
+      "transliteration": "",
+      "translation": "Hanuman, the foremost of the vanaras said that he will truly point out everything in Lanka:\"Ravana's power, the affection of rakshasas to Ravana, his prosperity, the terrifying ocean, the divisions of the army such as chariots, elephants, horses and soldiers.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-3-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "हृष्टप्रमुदितालङ्कामत्तद्विपसमाकुला ।\nमहतीरथसंपूर्णारक्षोगणसमाकुला ।।6.3.10।।",
+      "transliteration": "",
+      "translation": "\"The people in the vast island of Lanka are very delighted. Lanka is filled with chariots and innumerable rakshasas.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-3-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "दृढबद्धकवाटानिमहापरिघवन्तिच ।\nद्वाराणिविपुलान्यस्याश्चत्वारिसुमहान्तिच ।।6.3.11।।",
+      "transliteration": "",
+      "translation": "\"Lanka is endowed with lofty wide courtyards, entrances with doors that are fixed with metal fixtures and large iron bars.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-3-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तत्रेषूपलयन्त्राणिबलवन्तिमहान्तिच ।\nआगतंपरसैन्यंतैस्तत्रप्रतिनिवार्यते ।।6.3.12।।",
+      "transliteration": "",
+      "translation": "\"The doors are fitted with powerful machines which retaliate by discharging darts and stones on the enemy's army and kill them.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-3-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "द्वारेषुसंस्कृताभीमाःकालायसमयाश्शिताः ।\nशतशोरचितावीरैश्शतघ्नयोरक्षसांगणै ।।6.3.13।।",
+      "transliteration": "",
+      "translation": "At the entrances are troops of terrific looking guards kept ready with a hundred sharpened stones studded with iron spikes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-3-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "सौवर्णस्तुमहांस्तस्याःप्राकारोदुष्प्रधर्षणः ।\nमणीविद्रुमवैदूर्यमुक्ताविरचितान्तरः ।।6.3.14।।",
+      "transliteration": "",
+      "translation": "\"Its lofty golden boundary wall encrusted here and there with gems, corals, Vaiduryas and pearls is difficult to assail.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-3-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "सर्वतश्चमहाभीमाश्शीततोयवहाश्शुभाः ।\nअगाधाग्राहवत्यश्चपरिखामीनसेविता ।।6.3.15।।",
+      "transliteration": "",
+      "translation": "All round it (boundary wall) are very splendid moats filled with frighteningcold water inhabited by fish and crocodiles.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-3-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "द्वारेषुतासांचत्वारस्सङ्क्रमाःपरमायताः ।\n\t\t\t\t\nयन्त्रैरुपेताबहुभिर्महद्भिर्गृहपङ्क्तिभिः ।।6.3.16।।",
+      "transliteration": "",
+      "translation": "At the entrance of the gateways around the moats are four road ways. Huge engines are fixed to move the bridges when people approach. There are rows of houses (for the guards) at the gateways.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-3-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "त्रायन्तेसङ्क्रमास्तत्रपरसैन्यागतेसति ।\nयन्त्रैस्तैरवकीर्यन्तेपरिखासुसमन्ततः ।।6.3.17।।",
+      "transliteration": "",
+      "translation": "\"When the enemy arrives, the engines all over the moats lift the bridges making entry impossible for enemy armies.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-3-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "एकस्त्वकम्प्योबलवान्सङ्क्रमस्सुमहादृढः ।\nकाञ्चनै र्बहुभिस्स्तम्भैर्वेदिकाभिश्चशोभितः ।।6.3.18।।",
+      "transliteration": "",
+      "translation": "\"One of the road ways is very strong and steady, shining with unshakeable golden pillars and altars.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-3-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "स्वयंप्रकृतिमापन्नोयुयुत्सूराम  रावण: ।\nउत्थितश्चाप्रमत्तश्चबलानामनुदर्शने ।।6.3.19।।",
+      "transliteration": "",
+      "translation": "\"O Rama Ravana, who is hostile in his intentions, assuming his natural tendency which is eagerness to combat, is always very alert and looks after the army.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-3-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "लङ्कापुनर्निरालम्बादेवदुर्गाभयावहा ।\nनादेयंपार्वतंवान्यंकृत्रिमंचचतुर्विधम् ।।6.3.20।।",
+      "transliteration": "",
+      "translation": "\"Lanka is difficult to access even for devatas located on high peaks of the mountain. It is fierce to onlookers, surrounded by four kinds of forts, like rivers, mountains, forests and artificial fortresses.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-3-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "स्थितापारेसमुद्रस्यदूरपारस्यराघव  ।\nनौपथोपिश्चनास्त्यत्रनिरादेशश्चसर्वशः ।।6.3.21।।",
+      "transliteration": "",
+      "translation": "\"O Raghava Lanka is located on the other shore of the ocean. Passage through the sea is not possible. It is away from all and there is nothing around.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-3-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "शैलाग्रेरचितादुर्गासापुरैर्देवपुरोपमा ।\nवाजिवारणासम्पूर्णालङ्कापरमदुर्जया ।।6.3.22।।",
+      "transliteration": "",
+      "translation": "\"It is inaccessible like the abode of devatas as it is on the peak of the mountain. It is difficult to conquer for any one as it is full of horses and elephants.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-3-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "परिखाश्चशतघ्नयश्चयन्त्राणिविविधानिच ।\nशोभयन्तिपुरींलङ्कांरावणस्यदुरात्मनः ।।6.3.23।।",
+      "transliteration": "",
+      "translation": "\"Evil minded Ravana's city of Lanka is shining with moats and missiles of many kinds and machinery.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-3-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "अयुतंरक्षसामत्रपूर्वद्वारंसमाश्रितम् ।\nशूलहस्तादुराधर्षास्सर्वेखङ्गाग्रयोधिनः ।।6.3.24।।",
+      "transliteration": "",
+      "translation": "\"There(in Lanka) ten thousand warriors are garrisoned at the eastern gate way holding tridents, and those who are unassailable in war stand in front with swords.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-3-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "नियुतंरक्षसामत्रदक्षिणद्वारमाश्रितम् ।\nचतुरङ्गेणसैन्येनयोधास्तत्राप्यनुत्तमाः ।।6.3.25।।",
+      "transliteration": "",
+      "translation": "At the southern gate also one lakh of rakshasas are garrisoned with four divisions of army. They are also the best warriors.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-3-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "प्रयुतंरक्षसामत्रपश्चिमद्वारमाश्रितम् ।\nचर्मखङ्गधरास्सर्वेतथासर्वास्त्रकोविदाः ।।6.3.26।।",
+      "transliteration": "",
+      "translation": "At the western gate are garrisoned ten lakhs of rakshasas wearing shields of skin and holding swords. They are knowledgeable in several weapons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-3-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "न्यर्बुदंरक्षसामत्राप्यु���्तरद्वारमाश्रितम् ।\nरथिनश्चाश्ववाहाश्चकुलपुत्त्रास्सुपूजिताः ।।6.3.27।।",
+      "transliteration": "",
+      "translation": "At the northern gate(of Lanka) are garrisoned one hundred crores of rakshasas constituting, charioteers, horse riding and elephant riding ogres born of noble families, respected and trustworthy (for Ravana).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-3-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "शतशोऽथसहस्राणिमध्यमंस्कन्धमाश्रिताः ।\nयातुधानादुराधर्षास्साग्रकोटिश्चरक्षसाम् ।।6.3.28।।",
+      "transliteration": "",
+      "translation": "\"Hundreds and thousands of warriors who are unassailable are collected in the center(of Lanka) in multitudes of crores.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-3-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "तेमयासङ्क्रमाभग्नाःपरिखाश्चावपूरिताः ।\nदग्धाचनगरीलङ्काप्राकाराश्चावसादिताः ।।6.3.29।।\nबलैकदेशःक्षपितोराक्षसानांमहात्मनाम् ।",
+      "transliteration": "",
+      "translation": "\"I have destroyed some of those roadways, even filled up the moats, burnt parts of the city of Lanka, smashed the boundary walls and killed part of the powerful army.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-3-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "येनकेनतुमार्गेण��रामवरुणालयम् ।\nहतेतिनगरीलङ्कावानरैरवधार्यताम् ।।6.3.30 ।।",
+      "transliteration": "",
+      "translation": "\"If by whatever means the passage of ocean can be crossed by vanaras it can be taken for granted that the city of Lanka is destroyed.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-3-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "अङ्गदोद्विविदोमैन्दोजाम्बवान्पनसोऽनलः ।\nनीलस्सेनापतिश्चेवबलशेषेणकिंतव ।।6.3.31।।\nप्लवमानाहिगत्वातांरावणस्यमहापुरीम् ।।6.3.32।।\nसपर्वतवनांभित्त्वासखातांचसप्रतोरणाम् ।\nसप्राकारांसभवनामानयिष्यन्तिराघव ।।6.3.33।।",
+      "transliteration": "",
+      "translation": "\"Raghava What do we have to do with the rest of the army when Angada, Dwivida, Mainda, Jambavan, Panasa, Nala and the chief of the army Nila are there? Reaching Ravana's city by leaping over the mountains and demolishing the outer gates, other boundaries, archways and other buildings they will get into Lanka city.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-3-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "एवमाज्ञापयक्षिप्रंबलानांसर्वसङ्ग्रहम् ।\nमुहूर्तेनतुयुक्तेनप्रस्थानमभिरोचय ।।6.3.34।।",
+      "transliteration": "",
+      "translation": "\"You may command the total army this way.\"Quickly start at an opportune time towards Lanka (said Hanuman to Rama)\" commanded Hanuman.\" ।।इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेतृतीयस्सर्गः।। This is the end of the third Sarga of Yuddha Kanda of the first epic, the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

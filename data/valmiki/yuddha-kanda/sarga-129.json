@@ -1,0 +1,432 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 129,
+    "title": "Hanuman's description of the long journey of Sri Rama and the people he met.",
+    "titleSanskrit": "",
+    "totalShlokas": 46
+  },
+  "shlokas": [
+    {
+      "id": "v6-129-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "बहूनिनामवर्षाणिगतस्यसुमहद्वनम् ।\nशृणोम्यहंप्रीतिकरंममनाथस्यकीर्तनम् ।।6.129.1।।",
+      "transliteration": "",
+      "translation": "\"I am hearing the good news of my Lord returning from the forest, who was living in the great forest for many years.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "कल्याणीबतगाथेयंलौकिकीप्रतिभातिमे ।\nएतिजीवन्तमानन्दोनरंवर्षशतादपि ।।6.129.2।।",
+      "transliteration": "",
+      "translation": "The saying that \"If a human being lives (long), for a hundred years, he will experience joy\" is true and auspicious.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "राघवस्यहरीणां च कथमासीत्समागमः ।\nकस्मिन् देशेकिमाश्रित्यतत्त्वमाख्याहिपृच्छतः ।।6.129.3।।",
+      "transliteration": "",
+      "translation": "\"How did the alliance of monkeys happen with Rama? Where and why? I am asking you. Tell me truly.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "स पृष्टोराजपुत्रेणबृश्यांसमुपवेशितः ।\nआचचक्षेततस्सर्वंरामस्यचरितंवने ।।6.129.4।।",
+      "transliteration": "",
+      "translation": "Prince Bharata seated comfortably on kusa grass asked Hanuman for all the history that happened in the forest, wishing to hear from him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "यथाप्रव्राजितोरामोमातुर्दत्तौवरौतव ।\nयथापुत्रशोकेनराजादशरथोमृतः ।।6.129.5।।\nयथादूतैस्त्वमानीतस्तूर्णंराजगृहात्प्रभो ।\nत्वयायोध्यांप्रविष्टेनयथाराज्यं न चेप्सितम् ।।6.129.6।।\nचित्रकूटगिरिंगत्वाराज्येनामित्रकर्शनः ।\nनिमन्त्रितस्त्वयाभ्राताधर्ममाचरतासताम् ।।6.129.7।।\nस्थितेनराज्ञोवचनेयथाराज्यंविसर्जितम् ।\nआर्यस्यमादुकेगृह्ययथासिपुनरागतः।।य6.129.8।।\nसर्वमेतन्महाबाहोयथावद्विदितंतव ।\nत्वयिप्रतिप्रयातेतुयद्वृत्तंतन्निबोधमे ।।6.129.9।।",
+      "transliteration": "",
+      "translation": "\"O Lord, mighty armed Bharata! the boons bestowed on your mother, how Sri Rama went on exile, how king Dasharatha died out of grief of son, envoys bringing you to Ayodhya, entering the kingdom, your unwillingness to accept the sovereignty, going to Chitrakuta mountain, seeking your brother noble Rama, a scourge of enemies to accept the kingdom, renouncing the kingdom by Rama, taking his sandals, and again returning here, all this is known to you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अपयातेत्वयितदासमुद्भ्रान्तमृगद्विजम् ।\nपरिध्युIनमिवात्यर्थंतद्वनंसमपद्यत ।।6.129.10।।",
+      "transliteration": "",
+      "translation": "\"When you had gone away the beasts and birds scared of your army got agitated and had a doleful appearance.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तदथस्तिमृदितंघोरंसिंहव्याघ्रमृगाकुलम् ।\nप्रविवेशाथविजनं स महद्दण्डकावनम् ।।6.129.11।।",
+      "transliteration": "",
+      "translation": "\"Then he entered into dreadful Dandaka forest that was devoid of people which was crowded with lions, tigers, and deer, and trampled by the elephants.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तेषांपुरस्ताद्भलवान् गच्छतांगहनेवने ।\nविनदन् सुमहानादंविराधःप्रत्यदृश्यत ।।6.129.12।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तमुत्क्षिप्यमहानादमूर्ध्वबाहुमधोमुखम् ।\nनिखातेप्रक्षिपन्तिस्मवदन्तमिवकुञ्जरम् ।।6.129.13।।",
+      "transliteration": "",
+      "translation": "\"That Viradha uplifted his arms and bent his head low screamed like an elephant. The three dug up a pit and threw him into it.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तत्कृत्वादुष्करंकर्मभ्रातरौरामलक्ष्मणौ ।\nसायाह्नेशरभङ्गस्यरम्यमाश्रममीयतुः ।।6.129.14।।",
+      "transliteration": "",
+      "translation": "\"Both the brothers Rama and Lakshmana encountered Viradha who was difficult to attack and having completed their task, reached the beautiful hermitage of Sarabhanga in the evening.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "शरभङ्गेदिवंप्राप्तेरामस्सत्यपराक्रमः ।\nअभिवाद्यमुनीन्सर्वान्जनस्थानमुपागमत् ।।6.129.15।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "ततःपश्चाच्छूर्पणखानामरामपार्शमुपागता ।\nततोरामेणसन्दिष्टोलक्ष्मणस्सहसोत्थितः ।।6.129.16।।\nप्रगृह्यखङ्गंचिच्छेदकर्णनासेमहाबलः ।",
+      "transliteration": "",
+      "translation": "\"Later came an ogre called Surpanakha close by Rama. Rama indicated to mighty Lakshmana, who got up quickly and cut off her ears and nose with a sword.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "चतुर्दशसहस्राणिजनस्तान्निवासिनाम् ।।6.129.17।।\nहतानिवसतातत्रराघवेणमहात्मना ।",
+      "transliteration": "",
+      "translation": "\"While the great soul Rama lived at Janasthana, he killed fourteen thousand ogres\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "एकेनसहसङ्गम्यरामेणरणमूर्धनि ।।6.129.18।।\nअह्नश्चतुर्थभागेननिःशेषाराक्षसाःकृताः ।",
+      "transliteration": "",
+      "translation": "\"Rama alone in a day finished fourteen thousand Rakshasas standing alone in the forefront of the combat\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "मबलामहावीर्यास्तपसोविघ्नकारिणः ।।6.129.19।।\nनिहताराघवेणाजौदण्डकारण्यवासिनः ।",
+      "transliteration": "",
+      "translation": "\"Mighty strong heroic ogres obstructing the penance of sages living in Dandakaranya were killed by Raghava in the combat.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "राक्षसाश्चविनिष्पिष्टाःखरश्चनिहतोरणे ।।6.129.20।।\nदूषणंचाग्रतोहत्वात्रिशिरास्तदनन्तम् ।",
+      "transliteration": "",
+      "translation": "\"In the battle Rama terminated Khara and killed his elder brother Dushana and also Trisira thereafter.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तस्तेनार्दिताबालारावणंसमुपागता ।।6.129.21।।\nरावणानुचरोघोरोमारीचोनामराक्षसः ।\nलोभयामासवैदेहींभूत्वारत्नमयोमृगः ।।6.129.22।।",
+      "transliteration": "",
+      "translation": "\"Then Surpanakha afflicted by Rama returned to Ravana and informed. Ravana sent dreadful Rakshasa by name Maricha, who assumed the form of deer with precious stones (on body) created a desire for it in Vaidehi.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "साराममब्रवीदृष्टवावैदेसीगृह्यतामिति ।\nअयंमनोहरःकान्तआश्रमोनोभविष्यति ।।6.129.23।।",
+      "transliteration": "",
+      "translation": "\"Seeing that deer Vaidehi spoke to Rama to capture it as she desired and that it was beautiful and will make the hermitage bright.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "ततोरामोधनुष्पाणिर्मृगंतमनुधावति ।\nस तंजघानधावन्तंशरेणानतपर्वणा ।।6.129.24।।",
+      "transliteration": "",
+      "translation": "\"Rama, wielder of bow, chased the deer and followed it chasing and attacked with his arrow.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "अथसौम्य दशग्रीवोमृगंयातेतुराघवे ।\nलक्ष्मणेचापिनिष्क्रान्तेप्रविवेशाश्रमंतदा ।।6.129.25।।",
+      "transliteration": "",
+      "translation": "\"When gentle Raghava went after the deer and Lakshmana also went from there, the ten headed Ravana entered the hermitage.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "जग्राहतरसासीतांग्रहःखेरोहिणीमिव ।\nत्रातुकामंततोयुद्धेहत्वागृध्रंजटायुषम् ।।6.129.26।।\nप्रगृह्यसहसासीतांजगामाशु स राक्षसः ।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तस्त्वद्भुतसङ्काशास्स्थिताःपर्वतमूर्धनि ।।6.129.27।।\nसीतांगृहीत्वागच्छन्तंवानराःपर्वतोपमाः ।\nददृशुर्मिस्मिताकारारावणंराक्षसाधिपम् ।।6.129.28।।",
+      "transliteration": "",
+      "translation": "\"Standing on the mountain top, the Vanaras who were like mountains in size watched the wonderful feat of the king of Rakshasas of wonderful form taking Sita.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "ततशीघ्रतरंगत्वातद्विमानंमनोजवम् ।\nआरुह्यसहवैदेह्यापुष्पकं स महाबलः ।।6.129.29।।\nप्रविवेशतदालङ्कांरावणोराक्षसेश्वरः ।",
+      "transliteration": "",
+      "translation": "\"Then the king of Rakshasas, mighty Ravana ascended with Vaidehi into the Pushpaka, an aerial car that went swiftly at the speed of the mind and entered Lanka.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "तांसुवर्णपरिष्कारेशुभेमहतिवेश्मनि ।।6.129.30।।\nप्रवेश्यमैथिलींवाक्यैस्सान्त्वयामासरावणः ।",
+      "transliteration": "",
+      "translation": "\"Ravana kept Mythili in an auspicious huge mansion with golden walls and consoled her with good words.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तृणवद्भाषितंतस्यतं च नैरृतपुङ्गवम् ।।6.129.31।।\nअचिन्तयन्तीवैदेहीह्यशोकवनिकांगता ।",
+      "transliteration": "",
+      "translation": "\"Vaidehi did not care to talk to the chief of Rakshasas. She ignored him like a straw and stayed in the Ashoka grove.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "न्यवर्तततदारामोमृगंहत्वातदावने ।।6.129.32।।\nनिवर्तमानःकाकुत्स्थोदृष्टवागृध्रं स विव्यथे ।\nगृध्रंहतंतदादृष्टवारामःप्रियतरंपितुः ।।6.129.33।।",
+      "transliteration": "",
+      "translation": "\"Rama returned after killing the deer. On his return Kakuthsa saw in the forest, the vulture, who was dearer than his own father, killed.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "मार्गमाणस्तुवैदेहींराघवंसहलक्ष्मणः ।\nगोदावरीमन्वचरद्वनोद्धेशांश्चपुष्पितान् ।।6.129.34।।",
+      "transliteration": "",
+      "translation": "\"Rama with Lakshmana went about searching, ranging along the banks of Godavari among the blossomed woods.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "आसेदतुर्महारण्येकबन्धंनामराक्षसम् ।\nततःकबन्दवचनाद्रामस्सत्यपराक्रमः ।।6.129.35।।\nऋष्यमूकगिरिंगत्वासुग्रीवेणसमागतः ।",
+      "transliteration": "",
+      "translation": "\"While going in the huge forest the valiant and truthful Rama saw a Rakshasa by the name Kabhanda. According to Kabhanda's words of advice they went to Rshyamuka mountain and met Sugriva.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "तयोस्समागमःपूर्वंप्रीत्यहार्दोव्यजायत ।।6.129.36।।\nभ्रात्रानिरस्तःक्रुद्धेनसुग्रीवोवालिनापुरा ।\nइतरेतरसंवादात्प्रगाढःप्रणयस्तयोः ।।6.129.37।।",
+      "transliteration": "",
+      "translation": "\"Even before they met, they had a happy feeling at heart towards each other. Earlier Sugriva was banished by his enraged brother (Vali). On mutual talk and discussion, they both developed deep friendship.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "रामस्स्वबाहुवीर्येणस्वराज्यंप्रत्यपादयत् ।\nवालिनंसमरेहत्वामहाकायंमहाबलम् ।।6.129.38।।",
+      "transliteration": "",
+      "translation": "\"Rama of mighty arms killed Vali of gigantic body and mighty prowess and restored Sugriva's own kingdom to him.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "सुग्रीवस्स्थापितोराज्येसहितस्सर्ववानरैः ।\nरामायप्रतिजानीतेराजपुत्य्रास्तुमार्गणम् ।।6.129.39।।",
+      "transliteration": "",
+      "translation": "\"Sugriva attained the kingdom and established. He promised to search with all Vanaras and promised to find Sita.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "अदिष्टावानरेन्द्रेणसुग्रीवेणमहात्मना ।\nदशकोट्यःप्लवङ्गानांसर्वाःप्रस्थापिताःदिशः ।।6.129.40।।",
+      "transliteration": "",
+      "translation": "\"Vanara Lord Sugriva ordered the monkeys to go to all countries and all directions and dispatched them to find Sita.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "तेषांनोविप्रनष्टानांविन्ध्येपर्वतसत्तमो ।\nभृशंशोकानितप्तानांमहान्कालो त्यवर्तत ।।6.129.41।।",
+      "transliteration": "",
+      "translation": "\"Monkeys that went to the foremost of mountains Vindhya lost their way and a lot of time and returned with intense grief.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "भ्रातातुगृध्रराजस्यसम्पातिर्नामवीर्यवान् ।\nसमाख्यातिस्मवसतींसीतांरावणमन्दिरे ।।6.129.42।।",
+      "transliteration": "",
+      "translation": "\"Vulture king's brother called Sampathi told the Vanaras positively that Sita is dwelling in Ravana's mansion.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "सोहंदुःखपरीतानांदुःखंतद् ज्ञातीनांनुदन् ।\nआत्मवीर्यंसमास्थाययोजनानांशतंप्लुतः ।।6.129.43।।",
+      "transliteration": "",
+      "translation": "\"To dispel the grief of the Vanaras and relieve them, I resorted to my valour and leapt a hundred yojanas.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "तत्राहमेकामद्राक्षमशोकवनिकांगताम् ।\nकौशेयवस्त्रांमलिनांनिरनन्दांदृढव्रताम् ।।6.129.44।।",
+      "transliteration": "",
+      "translation": "\"There at Ashoka Grove, I saw her wearing unclean silk clothes, dirty in body, devoid of happiness, determined and staying alone.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "तयासमेत्यविधिवत् पृष्टवासर्वमनिन्दिताम् ।\nअभिज्ञानंमयादत्तंरामनामाङ्गुलीयकम् ।।6.129.45।।",
+      "transliteration": "",
+      "translation": "\"Met that irreproachable lady like that and duly enquired everything, delighted Mythili gave me a ring with Rama's name as a token to be given to Sri Rama.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "अभिज्ञानंमणिंलब्द्वाचरिता��्धो हमागतः ।\nमया च पुनरागम्यरामस्याक्लिष्टकर्मणः ।।6.129.46।।\nअभिज्ञानंमयादत्तमर्चिष्मान् स महामणिः ।",
+      "transliteration": "",
+      "translation": "\"Knowing that the most difficult task has been accomplished, again I returned and gave the valuable jewel to Rama.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "श्रुत्वातांमैथिलींरामस्त्वाशशंसे च जीवितम् ।।6.129.47।।\nजीवितान्तमनुप्राप्तःपीत्वामृतमिवातुरः ।",
+      "transliteration": "",
+      "translation": "\"Just as an ailing man at the end of life regains hope on drinking nectar, Sri Rama also gains hope on hearing about Mythili.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "उद्योजयिष्यन्नुद्योगंदध्रेकामंवधेमनः ।।6.129.48।।\nजिघांसुरिवलोकान्तेसर्वान्लोकान्विभावसुः ।",
+      "transliteration": "",
+      "translation": "\"Rama made war efforts to win the war for the destruction of Lanka just as fire burns at the dissolution of the worlds and to conquer Ravana.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "ततस्समुद्रमासाद्यनलंसेतुमकारयत् ।।6.129.49।।\nअतरत्कपिवीराणां वाहिन��� तेन सेतुना ।",
+      "transliteration": "",
+      "translation": "\"Then Nala constructed the bridge, and the monkey heroes crossed the bridge.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "प्रहस्तम्वधीन्नीलःकुम्भकर्णंतुराघवः ।।6.129.50।।\nलक्ष्मणोरावणसुतंस्वयंरामस्तुरावणम् ।",
+      "transliteration": "",
+      "translation": "\"Prahastha was killed by Nila. Rama killed Kumbhakarna. Lakshmana killed Indrajith, the son of Ravana.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "सशक्रेणसमागम्ययमेनवरुणेन च ।।6.129.51।।\nमहेश्वरस्वयंभूभ्यां तथा दशरथेन च ।\nतैश्चदत्तवर्श्रीमानृषिभिश्चसमागतैः ।।6.129.52।।\nसुरर्षिभिश्चकाकुत्स्थोवरान्लेभेपरन्तपः ।",
+      "transliteration": "",
+      "translation": "\"Then to the glorious Kakuthsa, the tormentor of enemies, Indra, Yama, and Varuna bestowed boons, so also Maheswara and Brahma, Dasharatha also reached and bestowed boons on Rama. Ascetics and suras also conferred boons.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "सतुदत्तवरःप्रीत्यावानरैश्चसमागतः ।।6.129.53।।\nपुष्पकेनविमानेनकिष्किनष्धामभ्युपागमत् ।",
+      "transliteration": "",
+      "translation": "\"Having received boons, Rama with the Vanaras collected together reached Kishkinda by Pushpaka aerial car.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "तंगङ्गांपुनारासाद्यवसन्तंमुनिसन्निधौ ।।6.129.54।।\nअविघ्नंपुष्ययोगेनश्वोरामंद्रष्टुमर्हसि ।",
+      "transliteration": "",
+      "translation": "\"He reached the bank of Ganga and is staying at the hermitage of sage. Tomorrow at the time when Pushya star is in union with the moon you will be able to see Rama without any obstruction.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-129-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "ततस्सवाक्यैर्मधुरैर्हनुमतोनिशम्यहृष्टोभरतःकृताञ्जलिः ।\nउवाचवाणींमनसःप्रहर्षणींचिरस्यपूर्णःखलुमेमनोरथः ।।6.129.55।।",
+      "transliteration": "",
+      "translation": "Then Bharata hearing the sweet words of Hanuman offered salutations for bringing joy to his mind and said that his desire has been fulfilled after a long time. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेकोनत्रिंशत्युत्तरशततमस्सर्गः ।। This is the end of one hundred and twenty ninth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 107,
+    "title": "Sage Agastya arrives and advises Rama to chant 'Aditya Hrdaya' verses in praise of Sun god for success.",
+    "titleSanskrit": "",
+    "totalShlokas": 28
+  },
+  "shlokas": [
+    {
+      "id": "v6-107-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततोयुद्धपरिश्रान्तंसमरेचिन्तयास्थितम् ।\nराव��ंचाग्रतोदृष्टवायुद्धायसमुपस्थितम् ।।6.107.1।।\nदैवतैश्चसमागम्यद���रष्टुमभ्यागतोरणम् ।\nउपागम्याब्रवीद्राममगस्त्योभगवान् ऋषिः ।।6.107.2।।",
+      "transliteration": "",
+      "translation": "Then seeing Sri Rama standing and thinking of the war, duly prepared, Rishi Agastya came with Devatas to witness the war with Ravana and spoke as follows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-107-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "राम राम महाबाहो शृणुगुह्यंसनातनम् ।\nयेनसर्वानरीस्वत्ससमरेविजयिष्यसे ।।6.107.3।।",
+      "transliteration": "",
+      "translation": "\"O mighty armed Sri Rama! Dear, hear this eternal secret (mantra) which will enable you to win all the enemies in war.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-107-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "आदित्यहृदयंपुण्यंसर्वशत्रुविनाशनम् ।\nजयावहंजपेन्नित्यमक्षय्यंपरमंशिवम् ।।6.107.4।।\nसर्वमङ्गलमङ्गल्यंसर्वपापप्रणाशनम् ।\nचिन्ताशोकप्रशमनमायुर्वर्धनमुत्तमम् ।।6.107.5।।",
+      "transliteration": "",
+      "translation": "\"Rama! Listen to this sacred mantra, 'Aditya Hridayam' which can bring victory, which is eternal, very auspicious, and supremely blessed and prolongs life of all by means of which you will destroy all enemies, root out sins, remove anxiety and always bring victory.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-107-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "रस्मीमन्तंसमुद्यन्तंदेवासुरनमस्कृतम् ।\nपूजयस्वविवस्त्वन्तंभास्करंभुवनेश्वरम् ।।6.107.6।।",
+      "transliteration": "",
+      "translation": "\"You worship the Sun God, crowned with rays rising up at the horizon, greeted by all gods and demons, who brings light to all and who is the embodiment of all gods.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-107-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "सर्वदेवात्मकोह्येषतेजस्वीरस्मीभावनः ।\nएषदेवासुरगणान्लोकान्पातिगभस्तिभिः ।।6.107.7।।",
+      "transliteration": "",
+      "translation": "\"He is the self in all, glorious, he sustains by his rays of light, the gods, suras and the whole world. He is the Lord of all.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-107-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "एषब्रह्मा च विष्णुश्चशिवःस्कन्धःप्रजापतिः ।\nमहेन्द्रोधनदःकालोयमःसोमोह्यपांपतिः ।।6.107.8।।",
+      "transliteration": "",
+      "translation": "\"In the same way, he is the body of Brahma the creator, he is Vishnu also, Shiva also, S Kanda, Prajapati, Mahendra, Kubera, time spirit, Yama, Soma, and Varuna also.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-107-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "पितरोवसवस्साध्याअश्विनौमरुतोमनुः ।\nवायुर्वह्निःप्रजाःप्राणऋतुकर्ताप्रभाकरः ।।6.107.9।।",
+      "transliteration": "",
+      "translation": "\"He is the god of manes, Vasava, Sadhayas, Aswins, Marutha, Manu, wind god, fire god, life of all beings and god of all seasons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-107-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "आदित्यःसवितासूर्यःखगःपूषागभस्तिमान् ।\nसुवर्णसदृशोभानुर्हिरण्यरेतादिवाकरः ।।6.107.10।।",
+      "transliteration": "",
+      "translation": "\"You are the son of Aditi, the sungod, creator Savitha, the courser in the heavens, the sustainer, the possessor of golden rays, Bhanu, shining with golden rays, the Sun god.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-107-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "हरिदश्वस्सहस्रार्चिस्सप्तसप्तिर्मरीचिमान् ।\nतिमिरोन्मथनश्शम्भुस्त्वष्टामार्तण्डकोऽंशुमान् ।।6.107.11।।",
+      "transliteration": "",
+      "translation": "\"You are the possessor of seven green horses, having a thousand rays, having horse Sapta, destroyer of darkness, mitigator of the suffering of all devotees, giver of happiness, destroyer of all names and forms, the infuser of life in the cosmic egg and having the allpervading rays.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-107-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "हिरण्यगर्भश्शिशिरस्तपनोभास्करोरविः ।\nअग्निगर्भोऽदितेःपुत्रःशङ्घश्शिशिरनाशनः ।।6.107.12।।",
+      "transliteration": "",
+      "translation": "\"You have the golden cosmic egg in the womb, you are cool, you are the purifier, the ruler of all, bringer of day, who Bears the fire of dissolution in the womb. You are the son of Aditi, blissful personified and destroyer of cold.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-107-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "व्योमनाथस्तमोभेदीऋग्यजुस्सामपारगः ।\nघनवृष्टिरपांमित्रोविन्ध्यवीथीप्लवङ्गमः ।।6.107.13।।",
+      "transliteration": "",
+      "translation": "\"You are the Lord of the sky, dispeller of darkness, the master of the three VedasRig, Yajur and Sama, the sender of rain, the friend of water and the courser of the path of Vindhya swiftly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-107-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "आतपीमण्डलेमृत्युःपिङ्गलस्सर्वतापनः ।\nकविर्विश्वोमहातेजारक्तस्सर्वभवोद्भव: ।।6.107.14।।",
+      "transliteration": "",
+      "translation": "\"You are the possessor of heat, adorned with a circle of rays. You are killer of all enemies, tawny destroyer of all, omniscient, lover of all devotees and source of all evolutes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-107-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "नक्षत्रग्रहताराणामधिपोविश्वभावनः ।\nतेजसामपितेजस्वीद्वादशात्मन्नमोऽस्तुते ।।6.107.15।।",
+      "transliteration": "",
+      "translation": "\"You are the Lord of all stars and planets. You are the creator of all, resplendent among the splendid, the twelve faces of twelve months. Hail to you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-107-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "नमःपूर्वायगिरयेपश्चिमायाद्रयेनमः ।\nज्योतिर्गणानांपतयेदिनाधिपतये���मः ।।6.107.16।।",
+      "transliteration": "",
+      "translation": "\"Hail to you, rising on the east mountain, setting in the west. Hail to the Lord of all luminaries.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-107-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "जयायजयभद्रायहर्यश्वायनमोनमः ।\nनमोनमस्सहस्रांशोआदित्यायनमोनमः ।।6.107.17।।",
+      "transliteration": "",
+      "translation": "\"Namaskar, Namaskar to the giver of victory, joy born of victory, god having green horses. Hail to you Aditya.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-107-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "नमउग्रायवीरायसारङ्गायनमोनमः ।\nनमःपद्मप्रबोधायमार्ताण्डायनमोऽस्तुते ।।6.107.18।।",
+      "transliteration": "",
+      "translation": "\"Hail to you of terrible form, of valiant one, denoted by the syllable 'AUM'. Namaskar to the awakener of lotuses. Namaskar to the fierce one.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-107-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "ब्रह्मेशानाच्युतेशायसूर्यायादित्यवर्चसे ।\nभास्वतेसर्वभक्षायरौद्रायवपुषेनमः ।।6.107.19।।",
+      "transliteration": "",
+      "translation": "\"Namskar to you, the ruler of Brahma, Siva and Vishnu, to you the Sun god, the spiritual dwelling light in solar orbit, the consumer of all appearing in the form of Rudra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-107-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तमोघ्नायहिमघ्नायशत्रुघ्नायामितात्मने ।\nकृतघ्नघ्नायदेवायज्योतिषांपतयेनमः ।।6.107.20।।",
+      "transliteration": "",
+      "translation": "\"You are the dispeller of darkness, dispeller of cold, dispeller of enemies, your extent is immeasurable. You are the destroyer of the ungrateful, the ruler of lights, the Lord of all and namaskar to you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-107-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तप्तचामीकराभायहरयेविश्मकर्मणे ।\nनमस्तमोभिनिघ्नायरुचयेलोकसाक्षिणे।।1.107.21।।",
+      "transliteration": "",
+      "translation": "\"Namaskar to one possessing the lustre of pure gold, dispeller of darkness, architect of the universe, splendor incarnate in the form of fire in all, witnessor of all actions in the world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-107-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "नाशयत्येषवैभूतंतदेवसृजतिप्रभुः ।\nपायत्येषतपत्येषवर्षत्येष गभस्तिभिः ।1.107.22।।",
+      "transliteration": "",
+      "translation": "\"Being a creator and destroyer of the world, this Sun god alone radiates, creates thirst by heat and rains to relieve.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-107-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "एषसुप्तेषुजागर्तिभूतेषुपरिनिष्ठितः ।\nएषचैवाग्निहोत्रं च फलंचैवाग्निहोत्रिणाम् ।।6.107.23।।",
+      "transliteration": "",
+      "translation": "\"He alone pervades the created beings and remains awake in sleep. He alone is the fire sacrifice as well as the fruits obtained from fire sacrifice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-107-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "वेदश्चक्रतवश्चैवक्रतूनांफलमेव च ।\nयानिकृत्यानिलोकेषुसर्वेषुपरमप्रभुः ।।6.107.24।।",
+      "transliteration": "",
+      "translation": "\"He is all vedas, as well as all the sacrifices as also the fruits of all sacrifices. He is the supreme controller of all actions in all worlds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-107-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "एनमापत्सुकृच्छ्रेषुकान्तारेषुभयेषु च ।\nकीर्तयन्पुरुषःकश्चिनावसीदतिराघव ।।6.107.25।।",
+      "transliteration": "",
+      "translation": "\"O Raghava! Anyone praying to him will surely not experience grief in straits, in difficulties, in the woods and in times of fear.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-107-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "पूजयस्वैनमेकाग्रोदेवदेवंजगत्पतिम् ।\nएतत्त्रिगुणितंजप्त्वायुद्धेषुविजयिष्यसि ।।6.107.26।।",
+      "transliteration": "",
+      "translation": "\"Worship the Lord of the universe, the Lord of Lords. Worship him alone with concentration of mind, three times of the day by chanting his name. You will attain victory in war.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-107-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "अस्मिन् क्षणेमहाबाहोरावणंत्वंवधिष्यसि ।\nएवमुक्त्वाततोऽगस्त्योजगाम स यथागतम् ।।6.107.27।।",
+      "transliteration": "",
+      "translation": "Agastya having spoken in that way to the mighty armed Rama to worship the Sun God and assuring him that the very moment he will be able to kill Ravana, left in the same way.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-107-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "एतच्छ्रुत्वामहातेजानष्टशोकोऽभवत्तदा ।\nधारयामाससुप्रीतोराघवःप्रयतात्मवान् ।।6.107.28।।",
+      "transliteration": "",
+      "translation": "Then Rama endowed with extra ordinary energy having heard Agastya, was very delighted and stopped worry. He remembered Aditya and chanted in his mind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-107-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "आदित्यंप्रेक्ष्यजप्त्वातुपरंहर्षमवाप्तवान् ।\nत्रिराचम्यशुचिर्भूत्वाधनुरादायवीर्यवान् ।।6.107.29।।\nरावणंप्रेक्ष्यहृष्टात्मायुद्धार्थंसमुपागमत् ।\nसर्वयत्नेनमहतावधेतस्यधृतोऽभवत् ।।6.107.30।।",
+      "transliteration": "",
+      "translation": "Sipping water three times and looking at Aditya, the valiant Rama getting purified, with devotion chanted the supreme with delight. Then he took up his bow, fixing his eyes at Ravana, and advanced for war with an allout effort determined to destroy Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-107-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "अथरविरवदन्निरीक्ष्यरामंमुदितमनाःपरमंप्रहृष्यमाणः ।\nनिशिचरपतिसङ्क्ष्यंविदित्वासुरगणमध्यगतोवचस्त्वरेति ।।6.107.31।।",
+      "transliteration": "",
+      "translation": "And thereafter, the Sun god delighted at heart, overwhelmed with joy surrounded by gods looking at Rama knowing that the Rakshasa king will be destroyed, came quickly to Rama and uttered 'hurry up'. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेसप्तोत्तरशततमस्सर्गः ।। This is the end of the one hundred and seventh sarga of Yuddha Kanda of the first epic the holy Ramayana composed by Sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

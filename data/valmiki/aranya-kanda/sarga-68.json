@@ -1,0 +1,351 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 68,
+    "title": "Jatayu informs Rama about his combat with Ravana and Sita's abduction-- Jatayu's death-- cremation",
+    "titleSanskrit": "",
+    "totalShlokas": 37
+  },
+  "shlokas": [
+    {
+      "id": "v3-68-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "रामस्सम्प्रेक्ष्य तं गृध्रं भुवि रौद्रेण पातितम्।\nसौमित्रिं मित्रसम्पन्नमिदं वचनमब्रवीत्।।3.68.1।।",
+      "transliteration": "",
+      "translation": "Seeing the vulture lying on the ground thrown down by the fierce demon, Rama said to friendly Lakshmana:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "ममायं नूनमर्थेषु यतमानो विहङ्गमः।\nराक्षसेन हतस्संख्ये प्राणांस्त्यक्ष्यति दुस्त्यजान्।।3.68.2।।",
+      "transliteration": "",
+      "translation": "Struck down by the demon in the combat on my account this bird is going to give up his life which is indeed difficult.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "अयमस्य शरीरेऽस्मिन्प्राणो लक्ष्मण विद्यते।\nतथा हि स्वरहीनोऽयं विक्लबस्समुदीक्ष्यते।।3.68.3।।",
+      "transliteration": "",
+      "translation": "O Lakshmana, it appears he is frightened and is experiencing excruciating pain in the body. His voice sounds faint, too.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "जटायो यदि शक्नोषि वाक्यं व्याहरितुं पुनः।\nसीतामाख्याहि भद्रं ते वधमाख्याहि चात्मनः।।3.68.4।।",
+      "transliteration": "",
+      "translation": "O Jatayu If you are still able to speak, tell me about Sita and about how you have been struck down.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "किं निमित्तोऽहरत्सीतां रावणस्तस्य किं मया।\nअपराद्धं तु यं दृष्ट्वा रावणेन हृता प्रिया।।3.68.5।।",
+      "transliteration": "",
+      "translation": "Why did Ravana abduct Sita? What fault did he find with me so that he kidnapped my beloved ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "कथं तच्चन्द्रसङ्काशं मुखमासीन्मनोहरम्।\nसीतया कानि चोक्तानि तस्मिन्काले द्विजोत्तम।।3.68.6।।",
+      "transliteration": "",
+      "translation": "O best of birds how did her delightful, Moonlike face look when she was hijacked. What did she say at that time?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "कथं वीर्यः कथं रूपः किं कर्मा स च राक्षसः।\nक्व चास्य भवनं तात ब्रूहि मे परिपृच्छतः।।3.68.7।।",
+      "transliteration": "",
+      "translation": "O father  how powerful is that demon ? How does he look?What work does he do? Where does he dwell? Do answer my questions?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तमुद्वीक्ष्याथ दीनात्मा विलपन्तमनन्तरम्।\nवाचातिसन्नया रामं जटायुरिदमब्रवीत्।।3.68.8।।",
+      "transliteration": "",
+      "translation": "Thereafter Jatayu, a piteous soul, looked up at Rama who was  crying incessantly and said this in a feeble voice:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "हृता सा राक्षसेन्द्रेण रावणेन विहायसा।\nमायामास्थाय विपुलां वातदुर्दिनसङ्कुलाम्।।3.68.9।।",
+      "transliteration": "",
+      "translation": "Ravana, the lord of the demons created violent winds through terrific magic and whisked her away in the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "परिश्रान्तस्य मे तात पक्षौ छित्वा स राक्षसः।\nसीतामादाय वैदेहीं प्रयातो दक्षिणां दिशम्।।3.68.10।���",
+      "transliteration": "",
+      "translation": "O my child  when I was exhausted, that demon cut off my wings and carried Sita off in the southern direction.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "उपरुध्यन्ति मे प्राणा दृष्टिर्भ्रमति राघव।\nपश्यामि वृक्षान्सौवर्णानुशीरकृतमूर्धजान्।।3.68.11।।",
+      "transliteration": "",
+      "translation": "O scion of the Raghu race, I am gasping for breath. My eyes are reeling. I see root hair growing on the tops of golden trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "येन याति मुहूर्तेन सीतामादाय रावणः।\nविप्रणष्टं धनं क्षिप्रं तत्स्वामी प्रतिपद्यते।।3.68.12।।\nविन्दो नाम मुहूर्तोऽयं स च काकुत्स्थ नाबुधत्।",
+      "transliteration": "",
+      "translation": "The time Ravana kidnapped Sita is known as 'Vinda'. The effect (of that time), is that her husband will regain his lost wealth. O scion of the Kakutstha race  he (Ravana )did not know it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "त्वत्प्रियां जानकीं हृत्वा रावणो राक्षसेश्वरः।।3.68.13।।\nझषवद्बडिशं गृह्य क्षिप्रमेव विनश्यति।",
+      "transliteration": "",
+      "translation": "Ravana, king of the demons, will perish soon for running away with your beloved Janaki just like a fish carrying away a fishhook (which causes its destruction).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "न च त्वया व्यथा कार्या जनकस्य सुतां प्रति।।3.68.14।।\nवैदेह्या रंस्यसे क्षिप्रं हत्वा तं राक्षसं रणे।",
+      "transliteration": "",
+      "translation": "You need not worry about Janaka's daughter. You will soon enjoy the company of your beloved, Vaidehi after killing that demon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "असम्मूढस्य गृध्रस्य रामं प्रत्यनुभाषतः।।3.68.15।।\nआस्यात्सुस्राव रुधिरं म्रियमाणस्य सामिषम्।",
+      "transliteration": "",
+      "translation": "As he(Jatayu) was speaking to Rama with an alert mind even while dying, blood mixed with flesh started oozing from Jatayu's mouth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "पुत्रो विश्रवसस्साक्षाद्भ्राता वैश्रवणस्य च।।3.68.16।।\nइत्युक्त्वा दुर्लभान्प्राणान्मुमोच पतगेश्वरः।",
+      "transliteration": "",
+      "translation": "Ravana was Visrava's son and Vaisravana's (Kubera's) brother, said Jatayu and gave up his rare life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "ब्रूहि ब्रूहीति रामस्य ब्रुवाणस्य कृताञ्जलेः।।3.68.17।।\nत्वक्त्वा शरीरं गृध्रस्य जग्मुः प्राणा विहायसम्।",
+      "transliteration": "",
+      "translation": "As Rama was saying to the vulture with folded palms 'Tell me, tell me'( about Ravana) the life breath of the vulture soared into the sky leaving the body.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "स निक्षिप्य शिरो भूमौ प्रसार्य चरणौ तदा।।3.68.18।।\nविक्षिप्य च शरीरं स्वं पपात धरणीतले।",
+      "transliteration": "",
+      "translation": "Then Jatayu dropped his head down, his feet thrown about, his body outstretched on earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तं गृध्रं प्रेक्ष्य ताम्राक्षं गतासुमचलोपमम्।।3.68.19।।\nरामस्सुबहुभिर्दुःखैर्दीनस्सौमित्रिमब्रवीत्।",
+      "transliteration": "",
+      "translation": "Stricken with deep grief, his eyes red (with tears) Rama saw the vulture looking like a mountain. Seeing him dead, he said to Lakshmana:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "बहूनि रक्षसां वासे वर्षाणि वसता सुखम्।।3.68.20।।\nअनेन दण्डकारण्ये विशीर्णमिह पक्षिणा।",
+      "transliteration": "",
+      "translation": "Dwelling for many years happily in Dandaka forest, the abode of demons, the bird lost his life (on our account).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "अनेकवार्षिको यस्तु चिरकालसमुत्थितः।।3.68.21।।\nसोऽयमद्य हतश्शेते कालो हि दुरतिक्रमः।",
+      "transliteration": "",
+      "translation": "This Jatayu, who lived for long years, is lying dead now. (The dictate of) destiny is inescapable.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "पश्य लक्ष्मण गृध्रोऽयमुपकारी हतश्च मे।।3.68.22।।\nसीतामभ्यवपन्नो वै रावणेन बलीयसा।",
+      "transliteration": "",
+      "translation": "O Lakshmana, see this Jatayu, my benefactor, killed by the powerful Ravana while he was reaching out to help Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "गृध्रराज्यं परित्यज्य पितृपैतामहं महत्।।3.68.23।।\nमम हेतोरयं प्राणान्मुमोच पतगेश्वरः।",
+      "transliteration": "",
+      "translation": "This lord of the birds left his ancestral kingdom of viltures and gave up life for my sake.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "सर्वत्र खलु दृश्यन्ते साधवो धर्मचारिणः।।3.68.24।।\nशूराश्शरण्यास्सौमित्रे तिर्यग्योनिगतेष्वपि।",
+      "transliteration": "",
+      "translation": "O Lakshmana valiant souls and protectors, being righteous and honest are found even among animals and birds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "सीताहरणजं दुःखं न मे सौम्य तथाविधम्।।3.68.25।।\nयथा विनाशे गृध्रस्य मत्कृते च परन्तप।",
+      "transliteration": "",
+      "translation": "O scorcher of enemies, O handsome Lakshmana the grief I experience due to Jatayu's death on my account is more intense than Sita's abduction.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "राजा दशरथश्श्रीमान्यथा मम महायशाः।।3.68.26।।\nपूजनीयश्च मान्यश्च तथाऽयं पतगेश्वरः।",
+      "transliteration": "",
+      "translation": "This lord of the birds for me is as worthy of reverence and honour as the famous and prosperous king Dasaratha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "सौमित्रे हर काष्ठानि निर्मथिष्यामि पावकम्।।3.68.27।।\nगृध्रराजं दिधक्षामि मत्कृते निधनं गतम्।",
+      "transliteration": "",
+      "translation": "O Saumitri  fetch firewood. I shall generate fire by rubbing them and cremate the king of the birds who has laid down his life for my sake.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "नाथं पतगलोकस्य चितामारोप्य राघव।।3.68.28।।\nइमं धक्ष्यामि सौमित्रे हतं रौद्रेण रक्षसा���",
+      "transliteration": "",
+      "translation": "O scion of the Raghus  I will place the body of the lord of the world of birds, killed by the fierce demon, on the funeral pyre and crimate him with honour.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "या गतिर्यज्ञशीलानामाहिताग्नेश्च या गतिः।।3.68.29।।\nअपरावर्तिनां या च या च भूमिप्रदायिनाम्।\nमया त्वं समनुज्ञातो गच्छ लोकाननुत्तमान्।।3.68.30।।\nगृध्रराज महासत्त्व संस्कृतश्च मया व्रज।",
+      "transliteration": "",
+      "translation": "O mighty lord of the birds  by my grace attain the state of those who perform sacrifices, who kindle and maintain sacrificial fires, who beat no retreat from the battlefield and who offer land in charity. Purified by my offering of fire, you may depart for the best of the worlds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "एवमुक्त्वा चितां दीप्तामारोप्य पतगेश्वरम्।।3.68.31।।\nददाह रामो धर्मात्मा स्वबन्धुमिव दुःखितः।",
+      "transliteration": "",
+      "translation": "Thus said, righteous Rama laid him on the pyre and sadly cremated the lord of the birds as one would do to his own relative.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "रामोऽथ सहसौमित्रिर्वनं गत्वा स वीर्यवान्।।3.68.32।।\nस्थूलान्हत्वा महारोहीननुतस्तार तं द्विजम्।",
+      "transliteration": "",
+      "translation": "Then the mighty Rama, accompanied by Saumitri, got into the forest and killed a huge  deer, brought it and spread it as an offering (to the dead Jatayu).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "रोहिमांसानि चोत्कृत्य पेशीकृत्य महायशाः।।3.68.33।।\nशकुनाय ददौ रामो रम्ये हरितशाद्वले।",
+      "transliteration": "",
+      "translation": "Tearing the flesh of the deer to pieces and making them  into balls, the celebrated Rama laid it on a lovely, green grassy land as offering to the bird.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "यत्तत्प्रेतस्य मर्त्यस्य कथयन्ति द्विजातयः।।3.68.34।।\nतत्स्वर्गगमनं तस्य पित्र्यं रामो जजाप ह।",
+      "transliteration": "",
+      "translation": "Rama muttered the mantras recommended by brahmins for dead mortals as one would do for his father, to help him ascend to heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "ततो गोदावरीं गत्वा नदीं नरवरात्मजौ।।3.68.35।।\nउदकं चक्रतुस्तस्मै गृध्रराजाय तावुभौ।",
+      "transliteration": "",
+      "translation": "Then both the princes went down to river Godavari and offered libations for the king of vultures.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "शास्त्रदृष्टेन विधिना जले गृध्राय राघवौ।।3.68.36।।\nस्नात्वा तौ गृध्रराजाय उदकं चक्रतुस्तदा।",
+      "transliteration": "",
+      "translation": "Thereafter both the scions of the Raghu dynasty bathed in water, offered libations for the king of vultures as ordained in the scriptures.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "स गृध्रराजः कृतवान्यशस्करं सुदुष्करं कर्म रणे निपातितः।\nमहर्षिकल्पेन च संस्कृतस्तदा जगाम पुण्यां गतिमात्मनश्शुभाम्।।3.68.37।।",
+      "transliteration": "",
+      "translation": "The king of vultures had performed a very difficult and glorious feat by laying down his life fighting. Sanctified by Rama's offering as laid down in scriptures by the seers, he attained a holy, auspicious and divine state of the self.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-68-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "कृतोदकौ तावपि पक्षिसत्तमे स्थिरां च बुद्धिं प्रणिधाय जग्मतुः।\nप्रवेश्य सीताधिगमे ततो मनो वनं सुरेन्द्रविव विष्णुवासवौ।।3.68.38।।",
+      "transliteration": "",
+      "translation": "Rama and Lakshmana, like two lords of gods, Indra and Visnu, offered libations for the great bird with their settled minds and concentrated and then entered deeper into the forest turning their attention to the search for Sita. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे अष्टषष्टितमस्सर्गः।। Thus ends the sixtyeighth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

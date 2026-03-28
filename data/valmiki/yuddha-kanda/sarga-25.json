@@ -1,0 +1,261 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 25,
+    "title": "Ravana sends Suka and Saarana as spies to the Vanara army. They assume the form of Vanaras and enter the Vanara army. Vibheeshana recognizes them but Rama lets them go.",
+    "titleSanskrit": "",
+    "totalShlokas": 27
+  },
+  "shlokas": [
+    {
+      "id": "v6-25-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "सबलेसागरंतीर्णेरामेदशरथात्मजे ।\nअमात्यौरावणश्रीमानब्रवीच्छुकसारणौ ।।6.25.1।।",
+      "transliteration": "",
+      "translation": "On hearing about Rama, the son of Dasaratha crossing the shore of the ocean along with the army, exuberant Ravana spoke to his ministers Suka and Saarana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-25-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "समग्रंसागरंतीर्णंदुस्तरंवानरंबलम् ।\nअभूतपूर्वंरामेणसागरेसेतुबन्धनम् ।।6.25.2।।",
+      "transliteration": "",
+      "translation": "\"That all the Vanara army together with Rama have crossed the arduous ocean and that the construction of a bridge (is possible) in the sea is not known before.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-25-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "सागरेसेतुबन्दंतुनश्रद्दध्यांकथञ्चन ।\nअवश्यंचापिसङ् ख्येयंतन्मयावानरंबलम् ।।6.25.3।।",
+      "transliteration": "",
+      "translation": "\"It is not believable even to me that they constructed a bridge in the sea. Surely I wish to know the size of their army.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-25-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "भवन्तौवानरंसैन्यंप्रविश्यानुपलक्षितौ ।\nपरिमाणंचवीर्यंचयेचमुख्याःप्लवङ्घमाः ।।6.25.4।।\nमन्त्रिणोयेचरामस्यसुग्रीवस्यचसम्मता: ।\nयेपूर्वमभिवर्तन्तेयेचशूराःप्लवङ्गमाः ।।6.25.5।।\nसचसेतुर्यथाबद्धस्सागरेसलिलार्णवे ।\nनिवेशंचयधातेषांवानराणांमहात्मनाम् ।।6.25.6।।\nरामस्यव्यवसायंचवीर्यंप्रहरणानिच ।\nलक्ष्मणस्यचवीर्यंतत्त्वतोज्ञातुमर्हथः ।।6.25.7।।",
+      "transliteration": "",
+      "translation": "\"Both of you enter Vanara's army without their knowledge and know about the size of the army, of Rama and Sugriva's ministers, of army chiefs who are in the forefront, of the warriors, how they have built bridge in the middle of the sea, about the location of Vanaras and in the same way the efforts and valour of heroes Rama and Lakshmana, I ought to know truly.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-25-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "कश्चसेनापतिस्तेषांवानराणांमहौजसाम् ।\nतच्चज्ञात्वायथातत्त्वंशीघ्रमगन्तुमर्हथः ।।6.25.8।।",
+      "transliteration": "",
+      "translation": "Among those energetic Vanaras, who is the chief of the army? Knowing all these matters, it is fit for you to return quickly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-25-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "इतिप्रतिसमादिष्टौराक्षसौशुकसारणौ ।\nहरिरूपधरौवीरौप्रविष्टौवानरंबलम् ।।6.25.9।।",
+      "transliteration": "",
+      "translation": "Having accepted the order, both the Rakshasa heroes, Suka and Saarana took the form of Vanaras and entered the Vanara army.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-25-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "ततस्तद्वानरंसैन्यमचिन्त्यंरोमहर्षणम् ।\nसङ् ख्यातुंनाध्यगच्छेतांतदातौशुकसारणौ ।।6.25.10।।",
+      "transliteration": "",
+      "translation": "There upon both Suka and Saarana did not know the numbers (of the army) at that time as they could not count the numbers from there as it could not be conceived. It caused the raising of their hair.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-25-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "संस्थितंपर्वताग्रेषुनिर्दरेषुगुहासुच ।\nसमुद्रस्यचतीरेषुवनेषूपवनेषुच ।।6.25.11।।\nतरमाणंचतीर्णंचतर्तुकामंचसर्वशः ।\nनिविष्टंनिविश्चैवभीमनादंमहाबलम् ।।6.25.12।।\nतद्बलार्णवमक्षोभ्यंददृशातेनिशाचरौ ।",
+      "transliteration": "",
+      "translation": "The ocean of army settled on the mountain summits, in caverns and caves, on the shores of the ocean, in the forests and adjoining gardens some who crossed the sea some in the process of crossing settled all over was witnessed by the Rakshasas. It was never ending and making terrific noise.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-25-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तौददर्शमहातेजाःप्रतिच्छन्नौचविभीषणः ।\nआचचक्षेऽथरामायगृहीत्वाशुकसारणौ ।।6.25.13।।",
+      "transliteration": "",
+      "translation": "Brilliant Vibheeshana saw both Suka and Saarana hidden in the army. He took hold of them and brought to the notice of Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-25-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तस्यैमौराक्षसेन्द्रस्यमन्त्रिणौशुकसारणौ ।\nलङ्कायस्समनुप्राप्तौचारौपरपुरञ्जय:।। 6.25.14।।",
+      "transliteration": "",
+      "translation": "\"O conqueror of enemy's citadels! these are spies from Lanka, Suka and Saarana who have come to find us out.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-25-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तौदृष्टवाव्यथितौरामंनिराशौजीवितेतथा ।\nकृताञ्जलिपुटौभीतौवचनंचेदमूचतुः ।।6.25.15।।",
+      "transliteration": "",
+      "translation": "The two (Rakshasa spies) got worried to look at Rama and also lost hope of their life. Caught up with fear they lifted their palms greeting Rama and expressed these words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-25-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "आवामिहागतौसौम्य रावणप्रहितावुभौ ।\nपरिज्ञातुंबलंसर्वंतवेदंरघुनन्दन:।। 6.25.16।।",
+      "transliteration": "",
+      "translation": "\"O noble one! We have come to you assigned by Ravana. O delight of Raghu race, thus we arrived here to know about the entire strength of your army.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-25-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तयोस्तद्व���नंश्रुत्वारामोदशरथात्मजः ।\nअब्रवीत्प्रहसन्वाक्यंसर्वभूतहितेरतः ।।6.25.17।।",
+      "transliteration": "",
+      "translation": "\"On hearing (the spies) Dasaratha's son Rama who remains devoted to the wellbeing of all beings spoke these words smiling at both of them.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-25-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "यदिदृष्टंबलंसर्वंवयंवासुपरिक्षिताः ।\nयथोक्तंवाकृतंकार्यछन्दतःप्रतिगम्यताम् ।।6.25.18।।",
+      "transliteration": "",
+      "translation": "After observing our entire army carefully, acting appropriately (according to Ravana's words) and accomplishing your task you may freely return (said Rama to the spies).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-25-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "अथकिञ्चिददृष्टंवाभूयस्तद्द्रष्टुमर्हथः ।\nविभीषणोवाकात्स्नर्येनभूयस्सन्दर्शयिष्यति ।।6.25.19।।",
+      "transliteration": "",
+      "translation": "\"If you have not seen even a bit, you ought to see. Or else Vibheeshana will show you the total army.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-25-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "नचेदंग्रहणंप्राप्यभेत्तव्यंजीवितंप्रति ।\nन्यस्तशस्त्रौगृहतौवानदूतौवधमर्हतः ।।6.25.20।।",
+      "transliteration": "",
+      "translation": "As you have been caught by us like this you need not have apprehension of your life. Those who do not possess wield or those who are envoys ought not to be slayed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-25-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "प्रच्छमानौविमुञ्चैतौचारौरात्रिंचरावुभौ ।\nशत्रुपक्षस्यसततंविभीषण: विकर्षिणौ ।।6.25.21।।",
+      "transliteration": "",
+      "translation": "\"Vibheeshana! Even though they are spies seeking to divide the enemy army as both the night rangers have been requesting, you may set them free.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-25-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "प्रविश्यनगरींलङ्कांभवद् भ्यांधनदानुजः ।\nवक्तव्योरक्षसांराजायथोक्तंवचनंमम ।।6.25.22।।",
+      "transliteration": "",
+      "translation": "\"Upon entering the city of Lanka, you may tell my words to the king of Rakshasas, the younger brother of Kubera just as it was told by me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-25-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "यद्बलंचसमाश्रित्यसीतांमेहृतवानपि ।\nतद्दर्शययथाकामंससैन्यस्सहबान्धवः ।।6.25.23।।",
+      "transliteration": "",
+      "translation": "\"Let him display the strength on which he has abducted my Sita along with his army and relations at his will.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-25-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "श्वःकाल्येनगरींलङ्कांसप्राकारांसतोरणाम् ।\nरक्षसंचबलंपश्यशरैर्विध्वंसितंमया ।।6.25.24।।",
+      "transliteration": "",
+      "translation": "At dawn tomorrow, you may see how I will crush the arches of the entrance of Lanka city and the strength of Rakshasas.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-25-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "क्रोधंभीममहंमोक्ष्येससैन्येत्वयिरावण: ।\nश्वःकाल्येवज्रवान्वज्रंदानवेष्विववासवः ।।6.25.25।।",
+      "transliteration": "",
+      "translation": "\"Tomorrow at the dawn of the day I will release my dreadful anger on Ravana and even on Rakshasas just as the thunderbolt of Indra was released on Rakshasas.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-25-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "इतिप्रतिसमादिष्टौराक्षसौशुकसारणौ ।।6.25.26।।\nजयेतिप्रतिनन्द्यैतौराघवंधर्मवत्सलम् ।\nआगम्यनगरींलङ्कामब्रूतांराक्षसाधिपम् ।।6.25.27।।",
+      "transliteration": "",
+      "translation": "Having heard the reply of Rama, both the Rakshasas Suka and Saarana praising Rama saying, \"Victory to you!\" reached Lanka and said to the king of Rakshasas as follows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-25-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "विभीषणगृहीतौतुवधार्तौराक्षसेश्वर: ।\nदृष्टवाधर्मात्मनामुक्तौरामेणामिततेजसा ।।6.25.28।।",
+      "transliteration": "",
+      "translation": "\"O king of Rakshasas! Vibheeshana held us captive for slaying us. But righteous self, Rama, the highly effulgent one released us on seeing.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-25-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "एकस्थानगतायत्रचत्वारःपुरुषर्षभाः ।\nलोकपालसमाश्शूराःकृतास्त्रादृढविक्रमा ।।6.25.29।।\nरामोदाशरथि्शीमान् लक्ष्मणश्चविभीषणः ।\nसुग्रीवश्चमहातेजामहेन्द्रसमविक्रमः ।।6.25.30।।\nएतेशक्ताःपुरीलङ्कांसप्राकारांसतोरणाम् ।\nउत्पाट्यसङ्क्रमयितुंसर्वेतिष्ठन्तुवानराः ।।6.25.31।।",
+      "transliteration": "",
+      "translation": "\"Exuberant Rama and Lakshmana, highly brilliant Vibheeshana, and Sugriva who resembles Indra in his valour, are like rulers of the world and are heroic, wielders of weapons and bulls among men. If all four of them come together there in that manner, they will unearth the arch ways and even the city of Lanka. They are capable even if the Vanaras are kept away.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-25-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "यादृश्यंतस्यरामस्यरूपंप्रहरणानिच ।\nवधिष्यतिपुरींलङ्कामेकस्तिष्ठन्तुतेत्रयः ।।6.25.32।।",
+      "transliteration": "",
+      "translation": "\"If we see Rama's form and his weapon it is enough. He can alone slay even when all the other three keep away.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-25-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "रामलक्ष्मणगुप्तासासुग्रीवेणचवाहिनी ।\nबभूवदुर्दर्षतरासर्वैरपिसुरासुरैः ।।6.25.33।।",
+      "transliteration": "",
+      "translation": "\"Even if Rama and Lakshmana are protected, and even Sugriva also, the entire army seems formidable like suras and asuras.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-25-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "प्रहृष्टरूपाध्वजिनीवनौकसां ।\nमहात्मनाम् सम्प्रतियोद्धुमिच्छताम् ।\nअलंविरोधेनशमोविधीयतांप्रदीयतांदाशरथायमैदिली ।।6.25.34।।",
+      "transliteration": "",
+      "translation": "At this time, desiring war with those great Vanara heroes, the wanderers of woods, is not good. Their army is highly delighted to wage war. You may give away Mythili to Rama (said Suka and Saarana to Ravana). ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेपञ्चविंशस्सर्गः ।। This is the end of the twenty fifth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

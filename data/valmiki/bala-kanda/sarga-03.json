@@ -1,0 +1,342 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 3,
+    "title": "Valmiki composes the great epic--names it Ramayana--visualises the past events in detail.",
+    "titleSanskrit": "",
+    "totalShlokas": 36
+  },
+  "shlokas": [
+    {
+      "id": "v1-3-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "श्रुत्वा वस्तु समग्रं तद्धर्मात्मा धर्मसंहितम् ।\nव्यक्तमन्वेषते भूयो यद्वृत्तं तस्य धीमत: ।।1.3.1।।",
+      "transliteration": "",
+      "translation": "Hearing the entire story of Rama from the intellecual Narada, the righteous (Valmiki) sought to know clearly more about the history of Rama endowed  with wisdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "उपस्पृश्योदकं सम्यग्मुनिस्स्थित्वा कृताञ्जलि: ।\nप्राचीनाग्रेषु दर्भेषु धर्मेणान्वेषते गतिम् ।।1.3.2।।",
+      "transliteration": "",
+      "translation": "Having performed achamana, Valmiki seated on kusha grass with folded palms, searched for the course of past events in the history of Rama by his power of penance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "रामलक्ष्मणसीताभी राज्ञा दशरथेन च ।\nसभार्येण सराष्ट्रेण यत्प्राप्तं तत्र तत्त्वत: ।।1.3.3।।\nहसितं भाषितं चैव गतिर्या यच्च चेष्टितम् ।\nतत्सर्वं धर्मवीर्येण यथावत्सम्प्रपश्यति ।।1.3.4।।",
+      "transliteration": "",
+      "translation": "By the power of his penance, the holy sage visualised clearly Rama, Lakshmana and Sita, king Dasaratha, his wives and his kingdom and all that they had observed, experienced, endeavoured during the course of events. He also visualised clearly their laughter and conversation exactly as in real life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "स्त्रीतृतीयेन च तदा यत्प्राप्तं चरता वने ।\nसत्यसन्धेन रामेण तत्सर्वं चान्ववेक्षितम् ।।1.3.5।।",
+      "transliteration": "",
+      "translation": "All that was acquired by truthful Rama, Lakshmana and wife Sita as the third person when they were moving in the Dandakaranya forest, was visualised.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तत: पश्यति धर्मात्मा तत्सर्वं योगमास्थित: ।\nपुरा यत्तत्र निर्वृत्तं पाणावामलकं यथा ।।1.3.6।।",
+      "transliteration": "",
+      "translation": "With the power of yoga, the righteous (Valmiki) saw clearly, like an amalaka fruit in the palm of the hand the entire course of events that happened in the past relating to Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तत्सर्वं तत्त्वतो दृष्ट्वा धर्मेण स महाद्युति: ।\nअभिरामस्य रामस्य चरितं कर्तुमुद्यत: ।।1.3.7।।    \nकामार्थगुणसंयुक्तं धर्मार्थगुणविस्तरम् ।\nसमुद्रमिव रत्नाढ्यं सर्वश्रुतिमनोहरम् ।।1.3.8।।",
+      "transliteration": "",
+      "translation": "Highly resplendent Valmiki, having visualised the story (of Rama), with his power of penance and blending the merits of attainment of worldly prosperity and pleasures together with the detailed description of the merit of righteousness as an end and aim, like an ocean filled with gems, got ready to compose the story of delightful Rama which regales everybody's ears.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "स यथा कथितं पूर्वं नारदेन महर्षिणा ।\nरघुवंशस्य चरितं चकार भगवानृषिः ।।1.3.9।।",
+      "transliteration": "",
+      "translation": "The divine sage, composed the history of Rama born in the race of Raghu, just as it was related by the illustrious sage Narada in the past.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "जन्म रामस्य सुमहद्वीर्यं सर्वानुकूलताम् ।\nलोकस्य प्रियतां क्षान्तिं सौम्यतां सत्यशीलताम् ।।1.3.10।।",
+      "transliteration": "",
+      "translation": "(He described) the birth of Rama, his great prowess, benevolence, pleasant disposition, forbearance, handsome looks and his adherence to truth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "नानाचित्रकथाश्चान्या विश्वामित्रसमागमे ।\nजानक्याश्च विवाहं च धनुषश्च विभेदनम् ।।1.3.11।।",
+      "transliteration": "",
+      "translation": "(He described) Rama's association with Viswamitra, a variety of wonderful stories, the breaking of the great bow and his (Rama's) marriage with Janaki.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "रामरामविवादं च गुणान्दाशरथेस्तथा ।\nतथाऽभिषेकं रामस्य कैकेय्या दुष्टभावताम् ।।1.3.12।।",
+      "transliteration": "",
+      "translation": "(He described) Rama's altercation with Parasurama, his noble qualities, the preparations for his coronation and the wicked nature of Kaikeyi.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "विघातं चाभिषेकस्य राघवस्य विवासनम् ।\nराज्ञश्शोकविलापं च परलोकस्य चाश्रयम् ।।1.3.13।।",
+      "transliteration": "",
+      "translation": "(He described) the obstacles to the coronation of Rama, his departure to the forest, the wailing and death of king Dasaratha with sorrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "प्रकृतीनां विषादं च प्रकृतीनां विसर्जनम् ।\nनिषादाधिपसंवादं सूतोपावर्तनं तथा ।।1.3.14।।",
+      "transliteration": "",
+      "translation": "(He described) the grief of people of Ayodhya and his (Rama's) abandoning them and his (Rama's) conversation with Guha, the ruler of nishadas, the charioteer (Sumantra)'s return (after leaving Rama in the forest).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "गङ्गायाश्चापि सन्तारं भरद्वाजस्य दर्शनम् ।\nभरद्वाजाभ्यनुज्ञानाच्चित्रकूटस्य दर्शनम् ।।1.3.15।।",
+      "transliteration": "",
+      "translation": "(He described) Rama, Lakshmana and Sita ferrying the river Ganges, the visit to holy sage Bharadwaja and the departure to Chitrakuta mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "वास्तुकर्म निवेशं च भरतागमनं तथा ।\nप्रसादनं च रामस्य पितुश्च सलिलक्रियाम् ।।1.3.16।।",
+      "transliteration": "",
+      "translation": "(He described) the making of, and dwelling in, a hut, the arrival of Bharata, Bharata's persuasion to Rama (to return to the kingdom), and Rama's performance the funeral ablution for his father.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "पादुकाग्र्याभिषेकं च नन्दिग्रामनिवासनम् ।\nदण्डकारण्यगमनं विराधस्य वधं तथा ।।1.3.17।।",
+      "transliteration": "",
+      "translation": "(He described) the installation of sandals (of Rama as the symbol of authority),  Bharata is residing at Nandigrama (and his ruling the kingdom from there), Rama's departure for Dandakaranya, and the killing of Viradha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "दर्शनं शरभङ्गस्य सुतीक्ष्णेन समागमम् ।\nअनसूयासहास्यामप्यङ्गरागस्य चार्पणम् ।।1.3.18।।",
+      "transliteration": "",
+      "translation": "(He described) Rama's meeting with (sage) Sarabhanga and his arrival at Sutikshna's, Sita's companionship with Anasuya and anointing of fragrant unguents to her body.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अगस्त्यदर्शनं चैव जटायोरभिसङ्गमम् ।\nपञ्चवट्याश्च गमनं शूर्पणख्याश्च दर्शनम् ।।1.3.19।।",
+      "transliteration": "",
+      "translation": "(He described) the departure of Rama for Panchavati, the interview with sage Agastya, the  meeting with Jatayu and the appearance of Surpanakha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "शूर्पणख्याश्च संवादं विरूपकरणं तथा ।\nवधं खरत्रिशिरसोरुत्थानं रावणस्य च ।।1.3.20।।",
+      "transliteration": "",
+      "translation": "(He described) Rama's dialogue with Surpanakha, her disfigurement, the slaughter of Khara and Trisira, and the beginning of efforts by Ravana (to harm Rama).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "मारीचस्य वधं चैव वैदेह्या हरणं तथा ।\nराघवस्य विलापं च गृध्रराजनिबर्हणम् ।।1.3.21।।",
+      "transliteration": "",
+      "translation": "(He described) the killing of Maricha, the abduction of Sita, Rama's lamentation (over his separation from Sita), and the death of Jatayu.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "कबन्धदर्शनं चापि पम्पायाश्चापि दर्शनम् ।\nशबर्या: दर्शनं चैव हनूमद्दर्शनं तथा ।।1.3.22।।",
+      "transliteration": "",
+      "translation": "(He described) Rama's encounter with Kabandha, the viewing of river Pampa, the meeting with Sabari and Hanuman.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "ऋश्यमूकस्य गमनं सुग्रीवेण समागमम् ।\nप्रत्ययोत्पादनं सख्यं वालिसुग्रीवविग्रहम् ।।1.3.23।।",
+      "transliteration": "",
+      "translation": "(He described) Rama's departure for Rishyamuka mountain, his meeting with Sugriva and the pact of friendship with him, inspiring confidence in him and the combat between Sugriva and Vali.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "वालिप्रमथनं चैव सुग्रीवप्रतिपादनम् ।\nताराविलापं समयं वर्षरात्रनिवासनम् ।।1.3.24।।",
+      "transliteration": "",
+      "translation": "(He described) the killing of Vali (by Rama), the installation of Sugriva, the mourning of Tara, the waiting (for the search of Sita as per the pact of friendship with Sugriva), and the sojourn on the mountain during the rainy season.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "कोपं राघवसिंहस्य बलानामुपसङ्ग्रहम् ।\nदिश: प्रस्थापनं चैव पृथिव्याश्च निवेदनम् ।।1.3.25।।",
+      "transliteration": "",
+      "translation": "(He described) the anger of Rama, the lion in the race of the Raghus (over the delay by Sugriva), the consolidation of the monkey forces, the despatch of envoys to different directions, the report (about the different places) on earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "अङ्गुलीयकदानं च ऋक्षस्य बिलदर्शनम् ।\nप्रायोपवेशनं चापि सम्पातेश्चापि दर्शनम् ।।1.3.26।।",
+      "transliteration": "",
+      "translation": "(He described) the delivery of  the ring (to Hanuman by Rama), the entry into the cave of the riksha, the preparations for their fast unto death, and the meeting with Sampati.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "पर्वतारोहणं चापि सागरस्यापि लङ्घनम् ।\nसमुद्रवचनाच्चैव मैनाकस्य च दर्शनम् ।।1.3.27।।",
+      "transliteration": "",
+      "translation": "(He described) the climbing of Mahendra mountain (by Hanuman), crossing the sea  emergence of Mainaka hill at the command of the lord of ocean.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "सिंहिकायाश्च निधनं लङ्कामलयदर्शनम् ।\nरात्रौ लङ्काप्रवेशं च एकस्याथ विचिन्तनम् ।।1.3.28।।",
+      "transliteration": "",
+      "translation": "(He described) the slaughter of (the female demon) Simhika, the viewing of in Lanka from a mountain, the entry into Lanka by night and thereafter, Hanuman's lonely thinking.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "दर्शनं रावणस्यापि पुष्पकस्य च दर्शनम् ।\nआपानभूमिगमनमवरोधस्य दर्शनम्।।1.3.29।।",
+      "transliteration": "",
+      "translation": "(He described) the view of Ravana and the (aerial chariot), Pushpaka, (by Hanuman), his reaching the hall where liquor is served, sighting of womens' apartments in the royal palace.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "अशोकवनिकायानं सीतायाश्चपि दर्शनम् ।\nअभिज्ञानप्रदानं च रावणस्य च दर्शनम् ।।1.3.30।।",
+      "transliteration": "",
+      "translation": "(He described) the entry (of Hanuman) into the Ashoka garden, the finding of Sita, the  presentation of the ring (as token of recognition by Hanuman) and the sight of Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "राक्षसीतर्जनं चैव त्रिजटास्वप्नदर्शनम् ।\nमणिप्रदानं सीताया वृक्षभङ्गं तथैव च ।।1.3.31।।",
+      "transliteration": "",
+      "translation": "(He described) threatenings of the demonesses, (the narration of) dream by Trijata, Sita presenting chudamani to Hanuman and also the breaking of trees (in the grove by Hanuman).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "राक्षसीविद्रवं चैव किङ्कराणां निबर्हणम् ।\nग्रहणं वायुसूनोश्च लङ्कादाहाभिगर्जनम् ।।1.3.32।।",
+      "transliteration": "",
+      "translation": "(He described) the flight of the female demons, the killing of the servants (of Ravana), the seizure of Hanuman and the burning of Lanka (by Hanuman) with a ferocious roar.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "प्रतिप्लवनमेवाथ मधूनां हरणं तथा ।\nराघवाश्वासनं चापि मणिनिर्यातनं तथा ।।1.3.33।।",
+      "transliteration": "",
+      "translation": "(He described) Hanuman crossing the ocean back, forcibly seizing the Madhu forest and enjoying honey, informing Rama about Sita and consoling him and delivering the gem.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "सङ्गमं च समुद्रेण नलसेतोश्च बन्धनम् ।\nप्रतारं च समुद्रस्य रात्रौ लङ्कावरोधनम् ।।1.3.34।।",
+      "transliteration": "",
+      "translation": "(He described) the meeting with the (lord of the) seas, the construction of bridge by Nala, the crossing of the ocean and the seige of Lanka during night.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "विभीषणेन संसर्गं वधोपायनिवेदनम् ।\nकुम्भकर्णस्य निधनं मेघनादनिबर्हणम् ।।1.3.35।।",
+      "transliteration": "",
+      "translation": "(He described) the association with Vibhisana, disclosure of the means of destruction (of Ravana), the death of Kumbhakarna, and the killing of Meghanada.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "रावणस्य विनाशं च सीतावाप्तिमरे: पुरे ।\nविभीषणाभिषेकं च पुष्पकस्य च दर्शनम् ।।1.3.36।।",
+      "transliteration": "",
+      "translation": "(He described) Ravana's destruction, the reunion with Sita in the enemycity, the coronation of Vibhishana and the sighting of Pushpaka.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "अयोध्यायाश्च गमनं भरतेन समागमम् ।\nरामाभिषेकाभ्युदयं सर्वसैन्यविसर्जनम्।\nस्वराष्ट्ररञ्जनं चैव वैदेह्याश्च विसर्जनम्।।1.3.37।।",
+      "transliteration": "",
+      "translation": "(He described) Rama's return to Ayodhya, the reunion with Bharata, the festive occasion of Rama's coronation disbanding the entire forces, keeping his subjects happy and banishing Sita (in the forest).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-3-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "अनागतं च यत्किञ्चिद्रामस्य वसुधातले ।\nतच्चकारोत्तरे काव्ये वाल्मीकिर्भगवानृषि: ।।1.3.38।।",
+      "transliteration": "",
+      "translation": "Divine sage Valmiki composed events yet to happen on this earth in the history of Rama in Uttarakanda.   इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे तृतीयस्सर्ग:।। Thus ends the third sarga of Balakanda of the holy Ramayana in synopsis of the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

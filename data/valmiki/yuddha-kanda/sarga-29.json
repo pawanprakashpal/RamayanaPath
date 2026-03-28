@@ -1,0 +1,243 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 29,
+    "title": "Ravana rebukes the spies, Suka and Saarana from the Rakshasa army for praising Vanara army and sends Saardula, another spy who also reports about the strength of Vanara army.",
+    "titleSanskrit": "",
+    "totalShlokas": 25
+  },
+  "shlokas": [
+    {
+      "id": "v6-29-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "शुकेनतुसमाख्यातान्दृष��ट्वासहरियूथपान् ।\nसमीपस्थंचरामस्यभ्रातरंस्वंविभीषणम् ।।6.29.1।���\nलक्ष्मणंचमहावीर्यंभुजंरामस्यदक्षिणं ।\nसर्ववानरराजंचसुग्रीवंभीमविक्रमम् ।।6.29.2।।\nअङ्गदंचापिबलिनंवज्रहस्तात्मजात्मजम् ।\nहनूमन्तंचविक्रान्तंजाम्बवन्तंचदुर्जयम् ।।6.29.3।।\nसुषेणंकुमुदंनीलंनलंचप्लवगर्षभम् ।\nगजंगवाक्षंशरभंमैन्दंचद्विविदंतथा ।।6.29.4।।\nकिञ्चिदाविग्नहृदयोजातक्रोधश्चरावणः ।\nभर्त्सयामासतौवीरौकथान्तेशुकसारणौ ।।6.29.5।।",
+      "transliteration": "",
+      "translation": "There after Ravana having heard the words spoken by Suka about the army of Vanara heroes, seeing Lakshmana of extraordinary valour, the right shoulder of Rama standing close by Rama his own brother Vibheeshana close by  the king of Vanaras, Sugriva of fierce valour and Angada the son of Vali (the son of Indra who wields thunderbolt)  and valiant Hanuman Jambavan who is difficult to conquer Sushena, Nila, Kumuda, bull among the leaping animals Nala likewise Gaja, Gavaksha, Sarabha, Mainda and Dwivida got a little broken hearted and mixed with fury started to rebuke both the heroes Suka and Saarana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-29-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अधोमुखौतौप्रणतावब्रवीच्छुकसारणौ ।\nरोषगद्गदयावाचासंरब्धंपरुषंवचः ।।6.29.6।।",
+      "transliteration": "",
+      "translation": "(That Ravana) with his throat choked with anger spoke indignantly and harshly to both Suka and Saarana who stood with their heads bent down in supplication.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-29-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "नतावत्सदृशंनामसचिवैरुपजीविभिः ।\nविप्रियंनृपतेर्वक्तुंनिग्रहेप्रग्रहेप्रभोः ।।6.29.7।।",
+      "transliteration": "",
+      "translation": "\"It is not proper for those ministers dependent on a capable ruler who has the power to check and hold forth, to speak that which is unpleasant.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-29-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "रिपूणांप्रतिकूलानांयुद्धार्थमभिवर्तताम् ।\nउभाभ्यांसदृशंनामवक्तुमप्रस्तवेस्तवम् ।।6.29.8।।",
+      "transliteration": "",
+      "translation": "\"Is it appropriate for both of you to praise the enemy this way before war?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-29-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "आचार्यागुरवोवृद्धावृथावांपर्युपासिताः ।\nसारंयद्राजशास्त्राणामनुजीव्यंनगृह्यते ।।6.29.9।।",
+      "transliteration": "",
+      "translation": "\"You have not grasped that which is the essence of political wisdom in the sastras in spite of waiting upon elders, teachers and parents which was in vain.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-29-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "गृहीतोवानविज्ञातोभारोऽज्ञानस्यवाह्यते ।\nईदृशै: सचिवैर्युक्तोमूर्खैर्दिष्ट्यधराम्यहम् ।।6.29.10।।",
+      "transliteration": "",
+      "translation": "\"Even if you have grasped you have not understood the meaning or out of intensity of your ignorance. Or else I am bearing foolish ones like you who are not fit to be ministers. Out of good luck I am ruling this sovereignty.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-29-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "किंनुमृत्योर्भयंनास्तिवक्तुंमांपरुषंवचः ।\nयस्यमेशासतोजिह्वाप्रयच्छतिशुभाशुभम् ।।6.29.11।।",
+      "transliteration": "",
+      "translation": "\"Did you not have fear of death when you spoke such harsh words to me, who can by mere order make good or evil to you?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-29-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "अप्येवदहनंस्पृष्टवावनेतिष्ठन्तिपादपाः ।\nराजदोषपरामृष्टास्तिष्ठन्तेनापराधिनः ।।6.29.12।।",
+      "transliteration": "",
+      "translation": "\"Trees may remain unscathed even on touching forest fire, but those who are punishable do not remain unpunished on account of the king and are treated harshly.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-29-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "हन्यामहंत्विमौपापौशत्रुपक्षप्रशंसकौ ।\nयदिपूर्वोपकारैस्तुनक्रोधोमृदुतांव्रजेत् ।।6.29.13।।",
+      "transliteration": "",
+      "translation": "\"I would have slayed these two sinners who praise the enemy side, if my anger had not softened and remembered their earlier services.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-29-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अपध्वंसतगच्छध्वंसन्निकर्षाद्इतोमम ।\nनहिवांहन्तुमिच्छामिस्मराम्युपकृतानिवाम् ।।6.29.14।।\nहतावेवकृतघ्नौतौमयिस्नेहपराङ्मुखौ ।",
+      "transliteration": "",
+      "translation": "\"You get away from here, disappear from here. On the contrary since I remember your earlier actions performed by you, I do not wish to kill you. Indeed, both of you are devoid of love and are ungrateful. You stand killed (already).\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-29-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "एवमुक्तौतुसव्रीळौतावुभौशुकसारणौ ।\nरावणंजयशब्देनप्रतिनन्द्याभिनिस्सृतौ ।।6.29.15।।",
+      "transliteration": "",
+      "translation": "Ravana, having spoken that way, both Suka and Saarana felt shy and withdrew from speaking words of praise of Ravana saying, 'Let you be victorious'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-29-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अब्रवीत्सदशग्रीव: समीपस्थंमहोदरम् ।\nउपस्तापयमेशीघ्रंचारान्नीतिविशारदान् ।।6.29.16।।",
+      "transliteration": "",
+      "translation": "Ravana, the tenheaded one, then said to Mahodara who was standing nearby swiftly bring spies who are experts in policy to me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-29-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "महोदरस्तथोक्तस्तुशीघ्रमाज्ञापयच्चरान् ।।6.29.17।।\nततश्चारास्संत्वरिताःप्राप्ताःपार्थिवशासनात् ।\nउपस्थिताःप्राञ्जलयोवर्धयित्वाजयशिषाः ।।6.29.18।।",
+      "transliteration": "",
+      "translation": "(Ravana) Having said so, Mahodara ordered the spies to approach the king quickly. On reaching they greeted the king with folded hand s promoting h i m to' be victorious' and stood.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-29-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तानब्रवीत्ततोवाक्यंरावणोराक्षसाधिपः ।\nचारान्प्रत्यायितान् शूरान्भक्तान्विगतसाध्वसान् ।।6.29.19।।",
+      "transliteration": "",
+      "translation": "There upon the Lord of Rakshasas, spoke these words to those spies who are dependable ones, warriors devoid of fear of enemies.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-29-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "इतोगच्छतरामस्यव्यवसायंपरीक्षथ ।\nमन्त्रिष्वभ्यन्तरायेऽस्यप्रीत्यातेनसमागताः ।।6.29.20।।",
+      "transliteration": "",
+      "translation": "\"From here you go and reach there you may observe perceptions of Rama and of others close to him, his ministers and those who have reached there in affection to him.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-29-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "कथंस्वपितिजागर्तिकिमन्यच्चकरिष्यति ।\nविज्ञायनिपुणंसर्वमागन्तव्यमशेषतः ।।6.29.21।।",
+      "transliteration": "",
+      "translation": "\"You may see how he goes to sleep, how he wakes up etc., what he does, everything. You may come after knowing everything.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-29-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "चारेणविदितश्शत्रुःपण्डितैर्वसुधाधिपैः ।\nयुद्धेस्वल्पेनयत्नेनसमासाद्यनिरस्यते ।।6.29.22।।",
+      "transliteration": "",
+      "translation": "\"Wise kings of the land, having known about enemies from the spies destroy enemies in war with little effort.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-29-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "चारास्तुतेतथेत्युक्त्वाप्रहृष्टाराक्षसेश्वरम् ।\nशार्दूलमग्रतःकृत्वाततश्चक्रुःप्रदक्षिणम् ।।6.29.23।।",
+      "transliteration": "",
+      "translation": "The spies then gladly uttered the words 'be it so', went round the king in reverence and departed with Saardula leading in front.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-29-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "ततस्तेतंमहात्मानंचाराराक्षससत्तमम् ।\nकृत्वाप्रदक्षिणंजग्मुर्यत्ररामस्सलक्ष्मणः ।।6.29.24।।",
+      "transliteration": "",
+      "translation": "Then the spies circumambulated the great Rakshasa king and having done so went to the place where Rama and Lakshmana were stationed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-29-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तेसुवेलस्यशैलस्यसमीपेरामलक्ष्मणौ ।\nप्रच्छन्नाददृशुर्गत्वाससुग्रीवविभीषणौ ।।6.29.25।।",
+      "transliteration": "",
+      "translation": "Reaching the Suvela mountain in disguise, they saw Rama and Lakshmana along with Sugriva and Vibheeshana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-29-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "प्रेक्षमाणाश्चमूंतांतुबभूवुर्भयविक्लबाः ।\nतेतुधर्मात्मनादृष्टाराक्षसेन्द्रेणराक्षसा ।।6.29.26।।",
+      "transliteration": "",
+      "translation": "Those Rakshasas were bewildered with fear on looking at the army. Righteous Vibheeshana recognized them on seeing them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-29-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "विभीषणेनतत्रस्थानिगृहीतायदृच्छया ।\nशार्दूलोग्राहितस्त्वेकःपापोऽयमितिराक्षसः ।।6.29.27।।",
+      "transliteration": "",
+      "translation": "By chance Vibheeshana seized Saardula, the evil Rakshasa who was moving in that army.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-29-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "मोचितस्सोऽपिरामेणवध्यमानःप्लवङ्गमैः ।\nअनृशंस्येनरामेणमोचिताराक्षसाःपरे ।।6.29.28।।",
+      "transliteration": "",
+      "translation": "As the monkeys attempted to kill him (Saardula), compassionate Rama released him and also the other Rakshasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-29-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "वानरैरर्दितास्तेतुविक्रान्तैर्लघुविक्रमैः ।\nपुनर्लङ्कामनुप्राप्ताश्वसन्तोनष्टचेतसः ।।6.29.29।।",
+      "transliteration": "",
+      "translation": "Harassed by the valorous and swift Vanaras, those Rakshasas lost their senses and returned to Lanka gasping and panting.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-29-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "ततोदशग्रीवमुपस्थितास्तेचाराबहिर्नित्यचरानिशाचराः ।\nगिरेस्सुवेलस्यसमीपवासिनंन्यवेदयन्भीमबलंमहाबलाः ।।6.29.30।।",
+      "transliteration": "",
+      "translation": "Then those night ranger spies, who are ever wandering outside, coming near, the ten headed Ravana, narrated about the great force (Vanara army), of fierce strength, residing near the mountain Suvela. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेएकोनत्रिंशस्सर्गः ।। This is the end of the twenty ninth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

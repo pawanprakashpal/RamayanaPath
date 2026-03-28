@@ -1,0 +1,261 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 53,
+    "title": "Ravana sends Vajradamshtra to fight. Fierce fight takes place between Vanaras and Vajradamshtra.",
+    "titleSanskrit": "",
+    "totalShlokas": 27
+  },
+  "shlokas": [
+    {
+      "id": "v6-53-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "धूम्राक्षंनिहतंश्रुत्वारावणोराक्षसेश्वरः ।\nक्र��धेनमहताऽविष्टोनिश्श्वसन्नुरगोयथा ।।6.53.1।।\nदीर्घमुष्णंविनिश्��्वस्यक्रोधेनकलुषीकृतः ।\nअब्रवीद्राक्षसंक्रूरंवज्रदंष्ट्रंमहाबलम् ।।6.53.2।।",
+      "transliteration": "",
+      "translation": "The Lord of Rakshasas was overcome with anger on hearing about Dhumraksha's death. He was hissing like a serpent, heaving a deep burning sigh, for having done a dirty task. He spoke to cruel Vajradamshtra of mighty prowess.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-53-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "गच्छत्वंवीर निर्याहिराक्षसैःपरिवारितः ।\nजहिदाशरथिंरामंसुग्रीवंवानरैःसह ।।6.53.3।।",
+      "transliteration": "",
+      "translation": "\"O Hero, proceed, accompanied by Rakshasa companions and kill Dasaratha's Rama and Sugriva along with Vanaras.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-53-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "तथेत्युक्त्वाद्रुततरंमायावीराक्षसेश्वरम् ।\nनिर्जगामबलैस्सार्दंबहुभिःपरिवारितः ।।6.53.4।।\nनागैरश्वैःखरैरुष्ट्रैःसंयुक्तस्सुसमाहितः ।\nपताकाध्वजचित्रैश्चरथैश्चसमलङ्कृतः ।।6.53.5।।",
+      "transliteration": "",
+      "translation": "The king of Rakshasas, being a deceit, having spoken in that way, many generals of the army went accompanied by elephants, horses, camels, and donkeys with chariots decorated with banners and pennons, and diadems collected together.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-53-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "ततोविचित्रकेयूरमुकुटैश्चविभूषितः ।\nतनुत्राणिचसमावृत्यसधनुर्निर्ययौद्रुतम् ।।6.53.6।।",
+      "transliteration": "",
+      "translation": "Thereafter adorned with wonderful crowns studded with keyura gems, wearing a co at covering the body with bow in hand went alert.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-53-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "पताकालङ्कृतंदीप्तंतप्तकाञ्चनभूषितम् ।\nरथंप्रदक्षिणंकृत्वासमारोहच्चमूपतिः ।।6.53.7।।",
+      "transliteration": "",
+      "translation": "The general went ascending the chariot shining with well polished shining gold, decked with flags after going around clockwise.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-53-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "यष्टिभिस्तोमरैचशित्रैश्शूलैश्चमुसलैरपि ।\nभिण्डिपालैश्चपाशैश्चशक्तिभिःपट्टसैरपि ।।6.53.8।।\nखडगैश्चक्रैर्गदाभिश्चनिशितैश्चपरश्वधैः ।\nपदातयश्चनिर्यान्तिविविधाःशस्त्रपाणयः ।।6.53.9।।",
+      "transliteration": "",
+      "translation": "Armed with swords, many foot soldiers carrying poles, strange clubs, tridents, iron bars, slings and roped to throw spears and spears with sharp edges, swords, battle axes, javelins, and maces, departed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-53-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "विचित्रवाससस्सर्वेदीप्ताराक्षसपुङ्गवाः ।\nगजामदोत्कटाश्शूराश्चलन्तइवपर्वताः ।।6.53.10।।",
+      "transliteration": "",
+      "translation": "All the Rakshasa leaders decorated with lovely raiment, glowing, the heroes moved like mountains. They seemed like elephants intoxicated with ichor.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-53-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तेयुद्धकुशलैरूढास्तोमराङ्कुशपाणिभिः ।\nअन्येलक्षणसंयुक्ताश्शूरारूढामहाबलाः ।।6.53.11।।",
+      "transliteration": "",
+      "translation": "Carrying tridents, clubs, and goads eager for war the Rakshasas mounted on mahouts and horses of noble characteristics, warriors with extraordinary might departed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-53-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तद्राक्षसबलंसर्वंविप्रस्थितमशोभत ।\nप्रावृटकालेयथामेघानर्दमानास्सविद्युतः ।।6.53.12।।\nनिस्सृतादक्षिणद्वारादङ्गदोयत्रयूथपः ।",
+      "transliteration": "",
+      "translation": "Then the entire Rakshasa army determined with a purpose roaring like clouds of the rainy season it looked splendid and crossed over the southern gate where Angada was stationed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-53-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तेषांनिष्क्रममाणानामशुभंसमजायत ।।6.53.13।।\nआकाशाद्विघनात्तीव्रादुल्काश्चाभ्यन्यपतंस्तदा ।\nवमन्त्यःपावकज्वालाशशिवाघोरंववाशिरे ।।6.53.14।।",
+      "transliteration": "",
+      "translation": "As they were leaving evil portents appeared. Dreadful jackals, dazzling fire from the sky and meteors falling appeared.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-53-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "व्याहरन्तमृगाघोरारक्षसांनिधनंतदा ।\nसमापतन्तोयोधास्तुप्रास्खलन् स्तत्रदारुणम् ।।6.53.15।।",
+      "transliteration": "",
+      "translation": "Then the fierce animals indicated the death of Rakshasas, who were going deluded with war and fell down.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-53-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "एतानौत्पातिकान् दृष्टवावज्रदंष्ट्रोमहाबलः ।\nधैर्यमालम्भ्यतेजस्वीनिर्जगामरणोत्सुकः ।।6.53.16।।",
+      "transliteration": "",
+      "translation": "Mighty Vajradamshtra who was energetic, picking up courage seeing the portents that came up, sallied forth eager for war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-53-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तांस्तुनिष्क्रमतोदृष्टवावानराजितकाशिनः ।\nप्रणेदुस्सुमहानादान्पूरयांश्चदिशोदश ।।6.53.17।।",
+      "transliteration": "",
+      "translation": "Vanaras who assumed victory, seeing the Rakshasas coming out stretching filled all the ten directions with loud noise.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-53-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "ततःप्रवृत्तंतुमुलंहरीणांराक्षसैस्सह ।\nघोराणांभीमरूपाणामन्योन्यवथकाङ् क्षिणाम् ।।6.53.18।।",
+      "transliteration": "",
+      "translation": "Then dreadful encounters of fierce form took place between Vanaras and Rakshasas each one trying to kill another.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-53-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "निष्पतन्तोमहोत्साहोभिन्नदेहशिरोधराः ।\nरुधिरोक्षितसर्वाङ्गान्यपतन्थरणीतले ।।6.53.19।।",
+      "transliteration": "",
+      "translation": "Proceeding Further, very eager to fight they fell on the ground with their bodies broken, heads severed, and all limbs bathed in blood.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-53-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "केचिदन्योन्यमासाद्यशूराःपरिघपाणयः ।\nचिक्षिपुर्विविधंशस्त्रंसमरेष्न्विवर्तिनः ।।6.53.20।।",
+      "transliteration": "",
+      "translation": "Heroes in war whose hand s were like iron clubs, who never turned back in war, indeed flung weapons of many kinds on one another.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-53-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "द्रुमाणांचशिलानांचशस्त्राणांचापिनिस्स्वनः ।।6.53.21।।\nश्रूयतेसुमहा���स्तत्रघोरोहृदयभेदसः ।",
+      "transliteration": "",
+      "translation": "There, a very loud fearful noise was heard which pierced the hearts in the battlefield, that was produced by the striking of weapons with trees and rocks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-53-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "रथनेमिस्वनस्तत्रधनुषश्चापिनिस्वसत् ।।6.53.22।।\nशङ्खभेरीमृदङ्गानांबभूवतुमुलःस्वनः ।",
+      "transliteration": "",
+      "translation": "Then came out tumultuous sounds of clutter of chariots, bows, conches, kettle drums and tom toms.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-53-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "केचिदस्त्राणिसन्सृज्यबाहुयुद्धमकुर्वत ।\nतलैश्चचरणैश्चापिमुष्टिभिश्चद्रुमैरपि ।।6.53.23।।\nजानुभिश्चहताःकेचिद्भिन्नदेहाश्चराक्षसाः ।\nशिलाभिश्चूर्णिताःकेचिद्वानरैर्युद्धदुर्मदैः ।।6.53.24।।",
+      "transliteration": "",
+      "translation": "Indeed, abandoning the weapons, the Vanaras fought with their palms, fists, feet, trees, and knees and smashed the Rakshasas crushing their bodies like rocks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-53-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "वज्रदंष्ट्रोभृशंबाणै: रणेवित्रासयन्हरीन् ।\nचचारलोकसंहारेपाशहस्तइवान्तकः ।।6.53.25।।",
+      "transliteration": "",
+      "translation": "Vajradamshtra went about in the battle striking Vanaras just like death goes with a noose for destruction of the world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-53-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "बलवन्तोऽस्त्रविदुषोनानाप्रहरणारणे ।\nजघ्नुर्वानरसैन्यानिराक्षसाःक्रोधमूर्छिताः ।।6.53.26।।",
+      "transliteration": "",
+      "translation": "Mighty Vajradamshtra, who was endowed with the skill of using every kind of weapon, deluded with anger, went after the Vanara army.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-53-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "निघ्नतोराक्षसान्दृष्टवासर्वान्वालिसुतोरणे ।\nक्रोधेनवदिगुणाविष्टःसंवर्तकइवानलः ।।6.53.27।।",
+      "transliteration": "",
+      "translation": "Seeing the Vanaras being destroyed, Vali's son, Angada with redoubled anger, like fire at the time of universal destruction, started to exterminate Rakshasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-53-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तान् राक्षसगणान्सर्वान्वृक्षमुद्यम्यवीर्यवान् ।\nअङ्गदःक्रोधताम्राक्षःसिंहःक्षुद्रमृगानिव ।।6.53.28।।\nकारकदनंघोरंशक्रतुल्यपराक्रमः ।।6.53.29।।",
+      "transliteration": "",
+      "translation": "Heroic Angada, equal to Indra in prowess, enraged, eyes turned red in anger, seizing a tree made a fierce fight with Rakshasa army like a lion with small animals.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-53-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "अङ्गदाभिहतास्तत्रराक्षसाभीमविक्रमाः ।\nविभिन्नशिरसःपेतुर्विकृताइवपादपाः ।।6.53.30।।",
+      "transliteration": "",
+      "translation": "There, struck by Angada of fearful valour, the Rakshasas fell like trees smashed and heads broken.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-53-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "रथैरश्वैर्ध्वजैश्चित्रैश्शरैर्हरिरक्षसाम् ।\nरुधिरेणसञ्छन्नाभूमिर्भयकरातदा ।।6.53.31।।",
+      "transliteration": "",
+      "translation": "Then the wonderful chariots, flags, horses, Vanaras and Rakshasas bodies bathed in blood fell on the ground looked fearful.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-53-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "हारकेयूरवस्स्रैश्चशत्रैश्चसमलङ्कृता ।\nभूमिर्भातिरणेतत्रशारदीवयथानिशा ।।6.53.32।।",
+      "transliteration": "",
+      "translation": "The battlefield with strewn armlets, necklaces and clothes, weapons looked like autumnal night decorated all over.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-53-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "अङ्गदस्यचवेगेनतद्राक्षसबलंमहत् ।\nप्राकम्पततदातत्रपवनेनाम्बुदोयथा ।।6.53.33।।",
+      "transliteration": "",
+      "translation": "Then the Rakshasa hordes hit by Angada shook violently just as a rain cloud would under wind. ।।इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेत्रिपञ्चाशस्सर्गः।। This is the end of the fifty third sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

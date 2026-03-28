@@ -1,0 +1,369 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 52,
+    "title": "Ravana carries away  Sita-- Sita calls out for Rama and Lakshmana again and again.",
+    "titleSanskrit": "",
+    "totalShlokas": 39
+  },
+  "shlokas": [
+    {
+      "id": "v3-52-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "सा तु ताराधिपमुखी रावणेन समीक्ष्य तम्।\nगृध्रराजं विनिहतं विललाप सुदुःखिता।।3.52.1।।",
+      "transliteration": "",
+      "translation": "Sita,whose face was like the lord of the stars (Moon), saw Jatayu, king of birds, struck down by Ravana, and lamented in extreme grif :",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "निमित्तं लक्षणज्ञानं शकुनिस्वरदर्शनम्।\nअवश्यं सुखदुःखेषु नराणां प्रतिदृश्यते।।3.52.2।।",
+      "transliteration": "",
+      "translation": "People, for sure, foresee weal and woe in life from auspicious symptoms and ominous sounds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "नूनं राम न जानासि महद्व्यसनमात्मनः।\nधावन्ति नूनं काकुत्स्थं मदर्थं मृगपक्षिणः।।3.52.3।।",
+      "transliteration": "",
+      "translation": "O Rama you are, indeed, unaware of the great disaster that has befallen you. All the animals and birds are running for my sake to tell you about me, O scion  of the  Kakutsthas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "अयं हि पापचारेण मां त्रातुमभिसङ्गतः।\nशेते विनिहतो भूमौ ममाभाग्याद्विहंगमः।।3.52.4।।",
+      "transliteration": "",
+      "translation": "'This bird that came forward to save me is hit by the sinner(Ravana) and lies down on the ground, as ill luck would have it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "त्राहि मामद्य काकुत्स्थ लक्ष्मणेति वराङ्गना।\nसुसन्त्रस्ता समाक्रन्दच्छृण्वतां तु यथान्तिके।।3.52.5।।",
+      "transliteration": "",
+      "translation": "Terribly frightened, the beautiful lady (Sita) cried bitterly, 'O Rama, O Lakshmana, save me', as if they were close by and were listening to her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तां क्लिष्टमाल्याभरणां विलपन्तीमनाथवत्।\nअभ्यधावत् वैदेहीं रावणो राक्षसाधिपः।।3.52.6।।",
+      "transliteration": "",
+      "translation": "Ravana, king of the demons, ran towards Sita who was weeping like an orphan with her garlands and ornaments crushed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तां लतामिव वेष्टन्तीमालिङ्गन्तीं महाद्रुमान्।\nमुञ्च मुञ्चेति बहुशः प्रवदन्राक्षसाधिपः।।3.52.7।।\nक्रोशन्तीं राम रामेति रामेण रहितां वने।\nजीवितान्ताय केशेषु जग्राहान्तकसन्निभः।।3.52.8।।",
+      "transliteration": "",
+      "translation": "Separated from Rama in the forest, Sita hugged huge trees, running round and round like a creeper coiled, crying loudly, 'Rama, O Rama' . The king of the demons, like Yama, caught hold of her hair only to invite his death, all the time saying, Leave it, Leave it  (Leave the tree).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "प्रधर्षितायां सीतायां बभूव सचराचरम्।\nजगत्सर्वममर्यादं तमसान्धेन संवृतम्।।3.52.9।।\nन वाति मारुतस्तत्र निष्प्रभोऽभूद्दिवाकरः।",
+      "transliteration": "",
+      "translation": "While Sita was being assaulted, the earth with the animate and the inanimate crossed all limits of moral law and became enveloped in blinding darkness. The wind  ceased to blow and the Sun, to shine.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "दृष्ट्वा सीतां परामृष्टां दीनां दिव्येन चक्षुषा।।3.52.10।।\nकृतं कार्यमिति श्रीमान्व्याजहार पितामहः।",
+      "transliteration": "",
+      "translation": "Brahma, the glorious Grandfather, saw with his divine eyes, Sita in a desperate state caught by the enemy and said, 'The task is accomplished.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "प्रहृष्टा व्यथिताश्चासन्सर्वे ते परमर्षयः।।3.52.11।।\nदृष्ट्वा सीतां परामृष्टां दण्डकारण्यवासिनः।\nरावणस्य विनाशं च प्राप्तं बुद्ध्वा यदृच्छया।।3.52.12।।",
+      "transliteration": "",
+      "translation": "All the great seers residing in Dandaka forest felt both happy and sad, happy because the destruction of Ravana is at hand and sad because Sita was in distress.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "स तु तां राम रामेति रुदन्तीं लक्ष्मणेति च।\nजगामादाय चाकाशं रावणो राक्षसाधिपः।।3.52.13।।",
+      "transliteration": "",
+      "translation": "While Sita was crying, 'O Rama, O Lakshmana', Ravana, lord of the demons, carried her back into the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "तप्ताभरणजुष्टाङ्गी पीतकौशेयवासिनी।\nरराजराजपुत्री तुविद्युत्सौदामिनी यथा।।3.52.14।।",
+      "transliteration": "",
+      "translation": "SIta who had put on pure gold ornaments on her body and who was clad in yellow silk  shone like lightning.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "उद्धूतेन च वस्त्रेण तस्याः पीतेन रावणः।\nअधिकं परिबभ्राज गिरिर्दीप्त इवाग्निना।।3.52.15।।",
+      "transliteration": "",
+      "translation": "Ravana was shining all the more with(her) yellow clothes blowing in the air, and looked like a mountain shining with fire burning around.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तस्याः परमकल्याण्यास्ताम्राणि सुरभीणि च।\nपद्मपत्राणि वैदेह्या अभ्यकीर्यन्त रावणम्।।3.52.16।।",
+      "transliteration": "",
+      "translation": "The red lotus petals worn by the most auspicious Sita, princess of Videha, were showered on Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तस्याः कौशेयमुद्धूतमाकाशे कनकप्रभम्।\nबभौ चादित्यरागेण ताम्रमभ्रमिवातपे।।3.52.17।।",
+      "transliteration": "",
+      "translation": "As the goldencoloured garment worn by Sita blew in the wind, it looked like a coppercoloured cloud illumined by the evening Sun in the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तस्��ास्तत्सुनसं वक्त्रमाकाशे रावणाङ्कगम्।\nन रराज विना रामं विनालमिव पङ��कजम्।।3.52.18।।",
+      "transliteration": "",
+      "translation": "Sita's face with her beautiful nose on Ravana's lap and not on Rama's, shone no more like a lotus without its stalk.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "बभूव जलदं नीलं भित्त्वा चन्द्र इवोदितः।\nसुललाटं सुकेशान्तं पद्मगर्भाभमव्रणम्।।3.52.19।।\nशुक्लैस्सुविमलैर्दन्तै प्रभावद्भिरलङ्कृतम्।\nतस्यास्तद्विमलं वक्त्रमाकाशे रावणाङ्कगम्।।3.52.20।।\nरुदितं व्यपमृष्टास्रं चन्द्रवत्प्रियदर्शनम्।\nसुनासं चारुताम्रोष्ठमाकाशे हाटकप्रभम्।।3.52.21।।",
+      "transliteration": "",
+      "translation": "Sita's face looked beautiful with her smooth forehead, shining hair and spotless complexion like the inside of a lotus, with clean, white, shining teeth, a nice nose and lovely red lips. She was continuously weeping and wiping her tears. Her face which was pleasing like the Moon on the lap of Ravana appeared as though the Moon was rising through dark clouds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "राक्षसेन समाधूतं तस्यास्तद्वदनं शुभम्।\nशुशुभे न विना रामंदिवा चन्द्र इवोदितः।।3.52.22।।",
+      "transliteration": "",
+      "translation": "Shaken up by the demon and deprived of Rama's company, Sita's beautiful face looked like the Moon during daytime without any glow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "सा हेमवर्णा नीलाङ्गं मैथिली राक्षसाधिपम्।\nशुशुभे काञ्चनी काञ्ची नीलं मणिमिवाश्रिता।।3.52.23।।",
+      "transliteration": "",
+      "translation": "Goldencomplexioned Sita, princess of Mithila, held by the darkcoloured king of the demons, shone like a girdle resting on a dark blue sapphire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "सा पद्मगौरी हेमाभा रावणं जनकात्मजा।\nविद्युद्घनमिवाविश्य शुशुभे तप्तभूषणा।।3.52.24।।",
+      "transliteration": "",
+      "translation": "Bright like a golden lotus, adorned with gold ornaments, Sita, the daughter of Janaka, held by Ravana, looked like a streak of lightning shining bright in a dark cloud.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तस्या भूषणघोषेण वैदेह्या राक्षसाधिपः।\nबभौ सचपलो नीलस्सघोष इव तोयदः।।3.52.25।।",
+      "transliteration": "",
+      "translation": "The lord of the demons by the side of Sita, princess of Videha with her jingling ornaments looked like the darkblue raincloud with its lightning and thunder.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "उत्तमाङ्गाच्च्युता तस्याः पुष्पवृष्टिस्समन्ततः।\nसीताया ह्रिममाणायाः पपात धरणीतले।।3.52.26।।",
+      "transliteration": "",
+      "translation": "As Sita was being carried away, the shower of flowers dropped from her head and scattered on the earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "सा तु रावणवेगेन पुष्पवृष्टिः समन्ततः।\nसमाधूता दशग्रीवं पुनरेवाभ्यवर्तत।।3.52.27।।",
+      "transliteration": "",
+      "translation": "The shower of flowers that fell flew towards the tenheaded Ravana again in the swirling motion (of the chariot).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "अभ्यवर्तत पुष्पाणां धारा वैश्रवणानुजम्।\nनक्षत्रमाला विमला मेरुं नगमिवोन्नतम्।।3.52.28।।",
+      "transliteration": "",
+      "translation": "The shower of flowers that dropped went round towards Ravana, brother of Vaisravana, like the bright garland of stars move towards mount Meru.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "चरणान्नूपुरं भ्रष्टं वैदेह्या रत्नभूषितम्।\nविद्युन्मण्डलसङ्काशं पपात मधुरस्वनम्।।3.52.29।।",
+      "transliteration": "",
+      "translation": "The gemstudded anklet of Sita, looking like an orb of lightning, dropped with a gentle sound.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "तरुप्रवालरक्ता सा नीलाङ्गं राक्षसेश्वरम्।\nप्राशोभयत वैदेही गजं कक्ष्येव काञ्चनी।।3.52.30।।",
+      "transliteration": "",
+      "translation": "With her golden girdle, Sita whose complexion resembled tender leaves looked like a golden chain to bind an elephant with. (Here Ravana is the elephant).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "तां महोल्कामिवाकाशे दीप्यमानां स्वतेजसा।\nजहाराऽकाशमाविस्य सीतां वैश्रवणानुजः।।3.52.31।।",
+      "transliteration": "",
+      "translation": "The younger brother of Vaisravana (Ravana), like a massive comet, carried Sita, who was glowing in the radiance of her own beauty, and entered the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "तस्यास्तान्यग्निवर्णानि भूषणानि महीतले।\nसघोषाण्यवकीर्यन्त क्षीणास्तारा इवाम्बरात्।।3.52.32।।",
+      "transliteration": "",
+      "translation": "Like the dim stars falling from the sky, her ornaments, bright as flame, scattered on the groundtinkling.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "तस्यास्स्तनान्तराद्भ्रष्टो हारस्ताराधिपद्युतिः।\nवैदेह्या निपतन्भाति गङ्गेव गगनाच्च्युता।।3.52.33।।",
+      "transliteration": "",
+      "translation": "Sita's necklace shining like the bright Moon slipped from between her breasts like the river Ganga falling down from the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "उत्पातवाताभिहता नानाद्विजगणायुताः।\nमाभैरिति विधूताग्रा व्याजह्रुरिव पादपाः।।3.52.34।।",
+      "transliteration": "",
+      "translation": "The trees filled with birds of all kinds, shaken at the top by stormy winds seemed to be saying to Sita, 'Be not afraid'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "नलिन्यो ध्वस्तकमलास्त्रस्तमीनजलेचराः।\nसखीमिव गतोच्छ्वासामन्वशोचन्त मैथिलीम्।।3.52.35।।",
+      "transliteration": "",
+      "translation": "Lotusponds with withering lotuses and with disturbed aquatic life like fishes in fright were as if grieving for Sita as one would grieve for a companion who is unable to breathe.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "समन्तादभिसम्पत्य सिंहव्याघ्रमृगद्विजाः।\nअन्वधावंस्तदा रोषात्सीतां छायानुगामिनः।।3.52.36।।",
+      "transliteration": "",
+      "translation": "Then the lions, tigers, deer and birds gathered together in anger (also anguish) and ran after Sita's shadow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "जलप्रपातास्रमुखाश्शृङ्गैरुच्छ्रितबाहुभिः।\nसीतायां ह्रियमाणायां विक्रोशन्तीव पर्वताः।।3.52.37।।",
+      "transliteration": "",
+      "translation": "The  mountains were  shedding tears in the form of waterfalls, and  crying with hands lifted up in the form of peaks, while Sita was being carried away.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "ह्रियमाणां तु वैदेहीं दृष्ट्वा दीनो दिवाकरः।\nप्रतिध्वस्तप्रभश्श्रीमानासीत्पाण्डरमण्डलः।।3.52.38।।",
+      "transliteration": "",
+      "translation": "Seeing Sita abducted, the glorious Sun looked lustreless and distraught. He developed a pale white disk around him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "नास्ति धर्मः कुतस्सत्यं नार्जवं नानृशंसता।\nयत्र रामस्य वैदेहीं भार्यां हरति रावणः।।3.52.39।।\nइति सर्वाणि भूतानि गणशः पर्यदेवयन्।",
+      "transliteration": "",
+      "translation": "When Rama's consort, the princess of Videha, is being carried away by Ravana, how can there be rightousness or truth or uprightness or compassion for men? Thus bewailed all beings in groups.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "वित्रस्तका दीनमुखा रुरुदुर्मृगपोतकाः।।3.52.40।।\nउद्वीक्ष्योद्वीक्ष्य नयनैरस्रपाताविलेक्षणाः।",
+      "transliteration": "",
+      "translation": "The young deer full of fear and distress looked again and again with eyes blurred with tears at the direction in which Sita went. And wept.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "सुप्रवेपितगात्राश्च बभूवुर्वनदेवताः।।3.52.41।।\nविक्रोशन्तीं दृढं सीतां दृष्ट्वा दुःखं तथा गताम्।",
+      "transliteration": "",
+      "translation": "The  sylvan deities shivered, seeing Sita's grief and cried aloud.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "तां तु लक्ष्मण रामेति क्रोशन्तीं मधुरस्वरम्।।3.52.42।।\nअवेक्षमाणां बहुशो वैदेहीं धरणीतलम्।\nस तामाकुलकेशान्तां विप्रमृष्टविशेषकाम्।।3.52.43।।\nजहारात्म विनाशाय दशग्रीवो मनस्स्विनीम्।",
+      "transliteration": "",
+      "translation": "The ten headed Ravana abducted Sita who was calling out, O Rama, O Lakshmana with her sweet voice, weeping , looking down on the earth her hair dishevelled and auspicious, (vermilion) mark on the forehead erased. Ravana abducted this highminded Sita for his own destruction.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-52-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "ततस्तु सा चारुदती शुचिस्मिता विनाकृता बन्धुजनेन मैथिली।\nअपश्यती राघवलक्ष्मणावुभौ विवर्णवक्त्राभयभारपीडिता।।3.52.44।।",
+      "transliteration": "",
+      "translation": "Then Sita  whose teeth were  beautiful and smile, sweet was distanced from her kins, and, unable to see both Rama and Lakshmana, grew pale in intense fear. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे द्विपञ्चाशस्सर्गः।। Thus ends the fiftysecond sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

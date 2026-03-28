@@ -1,0 +1,315 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 73,
+    "title": "Marriage of Rama, Lakshmana, Bharata and Satrughna.",
+    "titleSanskrit": "",
+    "totalShlokas": 33
+  },
+  "shlokas": [
+    {
+      "id": "v1-73-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "यस्मिंस्तु दिवसे राजा चक्रे गोदानमुत्तमम्\t।\nतस्मिं स्तु दिवसे शूरो युधाजित्समुपेयिवान्।।1.73.1।।",
+      "transliteration": "",
+      "translation": "The day the king (Dasaratha) made a gift of the best (available) cows the heroic Yudhajit arrived.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "पुत्र: केकयराजस्य साक्षाद्भरतमातुल:।\nदृष्ट्वा पृष्ट्वा च कुशलं राजानमिदमब्रवीत्।।1.73.2।।",
+      "transliteration": "",
+      "translation": "Yudhajit, son of king Kekaya, Bharata's own maternal uncle met the king (Dasaratha) and enquiring about his wellbeing said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "केकयाधिपती राजा स्नेहात् कुशलमब्रवीत्\t।\nयेषां कुशलकामोऽसि तेषां सम्प्रत्यनामयम्\t।।1.73.3।।",
+      "transliteration": "",
+      "translation": "\"My father, king of Kekaya affectionately enquires about your welfare. And they whose  welfare you seek  are hale and healthy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "स्वस्रीयं मम राजेन्द्र द्रष्टुकामो महीपति:।\nतदर्थमुपयातोऽहमयोध्यां रघुनन्दन।।1.73.4।।",
+      "transliteration": "",
+      "translation": "The king of Kekaya, O Indra among kings, O Joy of the Raghus, desires to see my  sisters's son and on that account I went to Ayodhya.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "श्रुत्वा त्वहमयोध्यायां विवाहार्थं तवात्मजान् । \nमिथिलामुपयातांस्तु त्वया सह महीपते।।1.73.5।। \nत्वरयाभ्युपयातोऽहं द्रष्टुकाम स्स्वसुस्सुतम्।",
+      "transliteration": "",
+      "translation": "O King having heard in Ayodhya that you have arrived in Mithila along with your sons for their marriage I came here speedily with a desire to see my sister's son .",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अथ राजा दशरथ: प्रियातिथिमुपस्थितम्।।1.73.6।।\nदृष्ट्वा परमसत्कारै: पूजार्हं समपूजयत्।",
+      "transliteration": "",
+      "translation": "King Dasaratha, then accorded a warm welcome to the honoured guest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "ततस्तामुषितो रात्रिं सह पुत्रैर्महात्मभि:।।1.73.7।।\nप्रभाते पुनरुत्थाय कृत्वा कर्माणि कर्मवित्\t।\nऋषींस्तदा पुरस्कृत्य यज्ञवाटमुपागमत्।।1.73.8।।",
+      "transliteration": "",
+      "translation": "With the night spent with his virtuous sons, he who knew his duties got up at dawn and performed his daily devotionas and reached the sacrificial place following the  rishis.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "युक्ते मुहूर्ते विजये सर्वाभरणभूषितै:।\nभ्रातृभिस्सहितो राम: कृतकौतुकमंगल:।।1.73.9।।\nवसिष्ठं पुरत: कृत्वा महर्षीनपरानपि।\nपितु स्समीपमाश्रित्य तस्थौ भ्रातृभिरावृत:।।1.73.10।।",
+      "transliteration": "",
+      "translation": "With the necessary auspicious rites preparatory to marriage performed at an auspicious moment, Vijaya, and keeping Vasishta and other maharshis in the forefront,  Rama accompanied by his brothers adorned with ornaments of every kind came into his  father's presence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "वसिष्ठो भगवानेत्य वैदेहमिदमब्रवीत्।\nराजा दशरथो राजन् कृतकौतुकमङ्गलै:।।1.73.11।।\nपुत्रैर्नरवर श्रेष्ठ दातारमभिकाङ्क्षते।",
+      "transliteration": "",
+      "translation": "Adorable Vasishta approached king Janaka and said, \"O King, of Videha king Dasaratha, the best of men with his sons having performed the auspicious rites preparatory to marriage is awaiting the bestower of the brides\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "दातृप्रतिग्रहीतृभ्यां सर्वार्था: प्रभवन्ति हि।।1.73.12।।\nस्वधर्मं प्रतिपद्यस्व कृत्वा वैवाह्यमुत्तमम्।",
+      "transliteration": "",
+      "translation": "The giver and the receiver, indeed, attain all ends. Fulfil  your own duty by performing the auspicious marriage\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "इत्युक्त: परमोदारो वसिष्ठेन महात्मना।।1.73.13।।\nप्रत्युवाच महातेजा वाक्यं परमधर्मवित्।",
+      "transliteration": "",
+      "translation": "Thus addressed by the great self Vasishta, Janaka, the exceedingly generous, highly lustrous, eminent in ethics replied.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "कस्स्थित: प्रतिहारो मे कस्याज्ञा सम्प्रतीक्ष्यते।।1.73.14।।\nस्वगृहे को विचारोऽस्ति यथा राज्यमिदं तव।",
+      "transliteration": "",
+      "translation": "\"Did any guard prevent you? Whose command are you waiting for? Why do you hesitate to enter into your own house? This kingdom is like your kingdom\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "कृतकौतुकसर्वस्वा वेदिमूलमुपागता:।।1.73.15।।\nमम कन्या मुनिश्रेष्ठ दीप्ता वह्नेरिवार्चिष:।",
+      "transliteration": "",
+      "translation": "O Best of ascetics my daughters have performed all the rites relating to marriage. They (now) stand at the foot of the altar shining like the bright flames of fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "सज्जोऽहं त्वत्प्रतीक्षोऽस्मि वेद्यामस्यां प्रतिष्ठित:।।1.73.16।।\nअविघ्नं कुरुतां राजा किमर्थमवलम्बते।",
+      "transliteration": "",
+      "translation": "Ready at the altar, I have been awaiting you, O King Without hindrance proceed Why delay?\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तद्वाक्यं जनकेनोक्तं श्रुत्वा दशरथस्तदा।\nप्रवेशयामास सुतान् सर्वानृषिगणानपि।।1.73.17।।",
+      "transliteration": "",
+      "translation": "At the words of Janaka, Dasaratha brought his sons along with the hosts of ascetics and entered the marriage pavilion.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "ततो राजा विदेहानां वसिष्ठमिदमब्रवीत्।।1.73.18।।\nकारयस्व ऋषे सर्वमृषिभि: सह धार्मिक।\nरामस्य लोकरामस्य क्रियां वैवाहिकीं विभो।।1.73.19।।",
+      "transliteration": "",
+      "translation": "Thereafter the king of the Videhas to Vasishta, \"O Adherent of righteousness, O Lord O Maharshi perform with the rishis the marriage ceremony of Rama who causes delight to the three worlds\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तथेत्युक्त्वा तु जनकं वसिष्ठो भगवानृषि:।\nविश्वामित्रं पुरस्कृत्य शतानन्दं च धार्मिकम्।।1.73.20।।\nप्रपामध्ये तु विधिवत्वेदिं कृत्वा महातपा:\t।\nअलञ्चकार तां वेदिं गन्धपुष्पै स्समन्तत:\t।।1.73.21।।\nसुवर्णपालिकाभिश्च छिद्रकुम्भैश्च साङ्कुरै:।\nअङ्कुराढ्यैश्शरावैश्च धूपपात्रै स्सधूपकै:।।1.73.22।। \nशङ्खपात्रै स्स्रुवै स्स्रुग्भि: पात्रैरर्घ्याभिपूरितै:।\nलाजपूर्णैश्च पात्रीभिरक्षतैरभिसंस्कृतै:।।1.73.23।।",
+      "transliteration": "",
+      "translation": "Venerable and renowned ascetic Vasishta said \"Be it so\".And with Viswamitra and virtuous Satananda in the forefront, an altar was duly improvised in the centre of the sacrificial pavilion. He adorned the altar on all sides  with fragrant flowers, golden ladles, waterpots with holes filled with sprouts, earthen vessels with sprouts, holders of burning fragrant incense conchshaped vessels, sacrificial ladles, bowls filled with with water for arghya and other purposes, vessels with roasted paddy and grains of rice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "दर्भैस्समैस्समास्तीर्य विधिवन्मन्त्रपूर्वकम्।\nअग्निमादाय वेद्यां तु विधिमन्त्रपुरस्कृतम्।।1.73.24।।\nजुहावाग्नौ महातेजा वसिष्ठो भगवानृषि:।",
+      "transliteration": "",
+      "translation": "Brilliant and worshipful rishi Vasishta chanted, mantras according to tradition, put the darbha grass of equal proportions around the altar, placed the fire on the altar, recited  the mantras from the scriptures and offered oblations into the flame.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "ततस्सीतां समानीय सर्वाभरणभूषिताम्।।1.73.25।।\nसमक्षमग्ने स्संस्थाप्य राघवाभिमुखे तदा।\nअब्रवीज्जनको राजा कौसल्यानन्दवर्धनम्।।1.73.26।।",
+      "transliteration": "",
+      "translation": "Thereafter king Janaka brought Sita adorned with various ornaments and placed her in the presence of Agni in front of Rama, the enhancer of the joy of Kausalya. And said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "इयं सीता मम सुता सहधर्मचरी तव।\nप्रतीच्छ चैनां भद्रं ते पाणिं गृह्णीष्व पाणिना।।1.73.27।।",
+      "transliteration": "",
+      "translation": "\"This my daughter Sita will be your partner in performing her rightful duty. Accept her. Farewell. Take her hand into your own.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "पतिव्रता महाभागा छायेवानुगता सदा।\nइत्युक्त्वा प्राक्षिपद्राजा मन्त्रपूतं जलं तदा।।1.73.28।।",
+      "transliteration": "",
+      "translation": "By being a devoted wife this highly fortunate Sita would always follow you like a shadow\". Thus spoken, he sprinkled the water sanctified with mantras (on them).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "साधु साध्विति देवाना मृषीणां वदतां तदा\t।\nदेवदुन्दुभिर्निर्घोष: पुष्पवर्षो महानभूत्।।1.73.29।।",
+      "transliteration": "",
+      "translation": "Then gods and sages exclaimed: 'well, well'. Celestial kettledrums were sounded and there was a steady rain of flowers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "एवं दत्त्वा तदा सीतां मन्त्रोदकपुरस्कृताम्\t।\nअब्रवीज्जनको राजा हर्षेणाभिपरिप्लुत:।।1.73.30।।",
+      "transliteration": "",
+      "translation": "Then king Janaka sprinkled on Sita waters sanctified by mantras, and immersed in delight said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "लक्ष्मणागच्छ भद्रं ते ऊर्मिलामुद्यतां मया।\nप्रतीच्छ पाणिं गृह्णीष्व माभूत्कालस्य पर्यय:।।1.73.31।।",
+      "transliteration": "",
+      "translation": "\"Lakshmana come and accept my daughter. Urmila ready to be bestowed upon you  by me. Take her hand. Let there be no delay\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तमेवमुक्त्वा जनको भरतं चाभ्यभाषत।\nगृहाण पाणिं माण्डव्या: पाणिना रघुनन्दन\t।।1.73.32।।",
+      "transliteration": "",
+      "translation": "Janaka, having spoken thus to Lakshmana addressed Bharata: \"O Descendant of the Raghus hold Mandavi's hand in your own\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "शत्रुघ्नं चापि धर्मात्मा अब्रवीज्जनकेश्वर:।\nश्रुतकीर्त्या महाबाहो पाणिं गृह्णीष्व पाणिना।।1.73.33।।",
+      "transliteration": "",
+      "translation": "The righteous king Janaka, said again: \"O Mightyarmed Satrughna take the hands of Srutakirti\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "सर्वे भवन्तस्सौम्याश्च सर्वे सुचरितव्रता:।\nपत्नीभिस्सन्तु काकुत्स्था माभूत्कालस्य पर्यय:।।1.73.34।।",
+      "transliteration": "",
+      "translation": "O Descendants of Kakustha (Rama, Lakshmana, Bharata and Satrughna) you all are gentle. You possess sound character. You are true to your vows. Live with your wives. Let there be no delay\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "जनकस्य वच श्शृत्वा पाणीन् पाणिभिरास्पृशन्।\nचत्वारस्ते चतसृ़णां वसिष्ठस्य मते स्थिता:।।1.73.35।।",
+      "transliteration": "",
+      "translation": "At the words of Janaka the four princes took the hands of the four sisters with their own with the consent of Vasishta .",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "अग्निं प्रदक्षिणीकृत्य वेदिं राजानमेव च।\nऋषींश्चैव महात्मानस्सभार्या रघुसत्तमा:।।1.73.36।।\nयथोक्तेन तदा चक्रुर्विवाहं विधिपूर्वकम्।",
+      "transliteration": "",
+      "translation": "The great, noble princes of the race of Raghu, accompanied by their wives circumambulated the altar of the sacred fire. King Janaka and the sages in obedience  to the directions of Vasishta and in accordance with the sastras conducted the matrimonial.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "काकुत्स्थैश्च गृहीतेषु ललितेषु च पाणिषु।।1.73.37।।\nपुष्पवृष्टिर्महत्यासीदन्तरिक्षात्सुभास्वरा।",
+      "transliteration": "",
+      "translation": "While the descendants of Kakustha (Rama, Lakshmana, Bharata and Satrughna) held  the elegant hands (of Sita, Urmila, Mandavi, and Srutakirti) there was a heavy rain of bright flowers from the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "दिव्यदुन्दुभिनिर्घोषैर्गीतवादित्रनिस्वनै:।।1.73.38।।\nननृतुश्चाप्सरस्सङ्घा गन्धर्वाश्च जगु: कलम्।\nविवाहे रघुमुख्यानां तदद्भुतमदृश्यत।।1.73.39।।",
+      "transliteration": "",
+      "translation": "While the bridal ceremony of the foremost of Raghus was on, the apsaras danced to the tune of songs and instrumental music. Sounds of celestial kettledrums were heard. Gandharvas sang in mellifluous melody. It was an unearthly sight.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "ईदृशे वर्तमाने तु तूर्योद्घुष्टनिनादिते।\nत्रिरग्निं ते परिक्रम्य ऊहुर्भार्यां महौजस:।।1.73.40।।",
+      "transliteration": "",
+      "translation": "While the celebration resounded witht he windinstruments the mighty brothers went round the fire three times with their consorts and tied their nuptial knot.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-73-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "अथोपकार्यां जग्मुस्ते सभार्या रघुनन्दना:।\nराजाऽप्यनुययौ पश्यंत्सर्षिसंघ स्सबान्धव:।।1.73.41।।",
+      "transliteration": "",
+      "translation": "Thereafter the descendants of Raghu along with their wives departed for their tents. The king (Dasaratha) also accompanied them with hosts of rishis and relatives.  इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे त्रिसप्ततितमस्सर्ग:।। Thus ends the seventythird sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

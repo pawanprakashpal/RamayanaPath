@@ -1,0 +1,225 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 7,
+    "title": "Rama, Sita and Lakshmana reach the hermitage of Sutikshna.",
+    "titleSanskrit": "",
+    "totalShlokas": 23
+  },
+  "shlokas": [
+    {
+      "id": "v3-7-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "रामस्तु सहितो भ्रात्रा सीतया च परन्तपः।\nसुतीक्ष्णस्याश्रमपदं जगाम सह तैर्द्विजैः।।3.7.1।।",
+      "transliteration": "",
+      "translation": "Rama, the scorcher of enemies, along with his brother Lakshmana and Sita and the sages went to Sutikshna's hermitage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-7-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "स गत्वा दीर्घमध्वानं नदीस्तीर्त्वा बहूदकाः।\nददर्श विमलं शैलं महामेघमिवोन्नतम्।।3.7.2।।",
+      "transliteration": "",
+      "translation": "After covering a long distance and crossing the river (Ganga) with plenty of water, Rama saw a huge mountain looking like a lofty cloud.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-7-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "तत स्तदिक्ष्वाकुवरौ सन्ततं विविधैर्द्रुमैः।\nकाननं तौ विविशतुस्सीतया सह राघवौ।।3.7.3।।",
+      "transliteration": "",
+      "translation": "Rama and Lakshmana, the best of the Ikshvaku family, accompanied by Sita entered the dense forest  filled with trees all over.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-7-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "प्रविष्टस्तु वनं घोरं बहुपुष्पफलद्रुमम्।\nददर्शाश्रममेकान्ते चीरमालापरिष्कृतम्।।3.7.4।।",
+      "transliteration": "",
+      "translation": "Entering that dreadful forest, they saw trees full of flowers and fruits, and a hermitage in a lonely place with lines of bark robes hanging.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-7-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तत्र तापसमासीनं मलपङ्कजटाधरम्।\nरामस्सुतीक्ष्णं विधिवत्तपोवृद्धमभाषत।।3.7.5।।",
+      "transliteration": "",
+      "translation": "There at the hermitage was Sutikshna, an ascetic grown old with (long) penance, wearing soiled, matted locks and seated. Rama (first) addressed him as per custom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-7-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "रामोऽहमस्मि भगवन्भवन्तं द्रष्टुमागतः।\nत्वं माभिवद धर्मज्ञ महर्षे सत्यविक्रम।।3.7.6।।",
+      "transliteration": "",
+      "translation": "O venerable one, I am Rama.You are a great sage, armed with truth as your prowess and a knower of dharma. I have come to see you. Could you speak to me?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-7-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "स निरीक्ष्य ततो धीरो रामं धर्मभृतां वरम्।\nसमाश्लिष्य च बाहुभ्यामिदं वचनमब्रवीत्।।3.7.7।।",
+      "transliteration": "",
+      "translation": "Thereafter the composed Sutikshna, looked at Rama, the best among righteous men, and embracing him with both his arms said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-7-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "स्वागतं ते रघुश्रेष्ठ राम सत्यभृतां वर।\nआश्रमोऽयं त्वयाक्रान्तस्सनाथ इव साम्प्रतम्।।3.7.8।।",
+      "transliteration": "",
+      "translation": "O Rama, the best among the Raghavas and among the upholders of truth, you are welcome. With your presence this hermitage will have a protector now.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-7-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "प्रतीक्षमाणस्त्वामेव नारोहेऽहं महायशः।\nदेवलोकमितो वीर देहं त्यक्त्वा महीतले।\nचित्रकूटमुपादाय राज्यभ्रष्टोऽसि मे श्रुतः।।3.7.9।।",
+      "transliteration": "",
+      "translation": "O renowned hero, I had heard that you have come to Chitrakuta, renouncing your   kingdom. I have been waiting so long to see you here. Unable to give up this body, I did not even leave the earth for heaven, the world of the gods.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-7-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "इहोपयातः काकुत्थ्स देवराजश्शतक्रतुः।।3.7.10।।\nउपागम्य च मे देवो महादेवस्सुरेश्वरः।\nसर्वान् लोकाञ्जितानाह मम पुण्येन कर्मणा।।3.7.11।।",
+      "transliteration": "",
+      "translation": "O scion of the Kakutstha family, Indra, king of the gods came to me and said that by my meritorious deeds I have won all the worlds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-7-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तेषु देवर्षिजुष्टेषु जितेषु तपसा मया।\nमत्प्रसादात्सभार्यस्त्वं विहरस्व सलक्ष्मणः।।3.7.12।।",
+      "transliteration": "",
+      "translation": "Along with your wife and Lakshmana you may roam by my grace the worlds won by me and served by divine sages like devarsi Narada.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-7-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "तमुग्रतपसायुक्तं महर्षिं सत्यवादिनम्।\nप्रत्युवाचात्मवान्रामो ब्रह्माणमिव काश्यपः।।3.7.13।।",
+      "transliteration": "",
+      "translation": "Selfpossessed Rama replied to the truthful ascetic who had performed intense penance. Just as Kasyapa would address Lord Brahma:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-7-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "अहमेवाहरिष्यामि सर्वान् लोकान्महामुने।\nआवासं त्वहमिच्छामि प्रदिष्टमिह कानने।।3.7.14।।",
+      "transliteration": "",
+      "translation": "O great sage I will win all the worlds myself. I (only) want to live in this forest. Allow me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-7-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "भवान्सर्वत्र कुशलस्सर्वभूतहिते रतः।\nआख्यातश्शरभङ्गेण गौतमेन महात्मना।।3.7.15।।",
+      "transliteration": "",
+      "translation": "You are ever engaged in the welfare of all beings. I have heard this from the great sage Sarabhanga of Gautama's clan.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-7-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु रामेण महर्षिर्लोकविश्रुतः।\nअब्रवीन्मधुरं वाक्यं हर्षेण महताऽप्लुतः।।3.7.16।।",
+      "transliteration": "",
+      "translation": "Thus addressed by  Rama, Sutikshna, the great sage, wellknown to the world was highly delighted. He (then) said these sweet words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-7-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अयमेवाश्रमो राम गुणवान्रम्यतामिह।\nऋषिसङ्घानुचरितस्सदा मूलफलैर्युतः।।3.7.17।।",
+      "transliteration": "",
+      "translation": "O Rama this is a salubrious hermitage where hosts of sages live and which is full of roots and fruits, you may enjoy yourself here.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-7-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "इममाश्रममागम्य मृगसङ्घा महायशः।\nअहत्वा प्रतिगच्छन्ति लोभयित्वाऽकुतोभयाः।।3.7.18।।",
+      "transliteration": "",
+      "translation": "O illustrious Rama, herds of animals visit this place fearlessly, enticing the inmates and (then) go back without harming any one.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-7-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "नान्यद्धोषं भवेदत्र मृगेभ्योऽन्यत्र विद्धि वै।\nतच्छृत्वा वचनं तस्य महर्षेर्लक्ष्मणाग्रजः।।3.7.19।।\nउवाच वचनं धीरो विकृष्य  सशरं धनुः।",
+      "transliteration": "",
+      "translation": "When heroic Rama heard that there was no other problem from the wild animals except their frequent incursions, he lifted his bow with an arrow and said these words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-7-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तानहं सुमहाभाग मृगसङ्घान्समागतान्।।3.7.20।।\nहन्यां निशितधारेण शरेणाशनिवर्चसा।",
+      "transliteration": "",
+      "translation": "O reverend one, I will kill with a sharpedged arrow, glowing like a thunderbolt, all those herds of animals who keep coming here.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-7-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "भवांस्तत्राभिषज्येत किंस्यात्कृच्छ्रतरं ततः।।3.7.21।।\nएतस्मिन्नाश्रमे वासं चिरं तु न समर्थये।",
+      "transliteration": "",
+      "translation": "What can be more agonizing for you (than my killing animals). I (therefore) do not foresee our long stay in this hermitage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-7-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तमेवमुक्त्वोपरमं रामस्सन्ध्यामुपागमत्।।3.7.22।।\nअन्वास्य पश्चिमां स्नध्यां तत्र वासमकल्पयत्।\nसुतीक्ष्णस्याऽश्रमे रम्ये सीतया लक्ष्मणेन च।।3.7.23।।",
+      "transliteration": "",
+      "translation": "Rama stopped with this. And then the evening drew to a close. Offering his evening oblation, he arranged for his stay along with Sita and Lakshmana in the delightful hermitage of Sutikshna.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-7-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तमेवमुक्त्वोपरमं रामस्सन्ध्यामुपागमत्।।3.7.22।।\nअन्वास्य पश्चिमां संंध्यां तत्र वासमकल्पयत्।\nसुतीक्ष्णस्याश्रमे रम्ये सीतया लक्ष्मणेन च।।3.7.23।।",
+      "transliteration": "",
+      "translation": "Rama stopped with this. And then the evening drew to a close. Offering his evening oblation, he arranged for his stay along with Sita and Lakshmana in the delightful hermitage of Sutikshna.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-7-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "ततश्शुभं तापसभोज्यमन्नं स्वयं सुतीक्ष्णः पुरुषर्षभाभ्याम्।\nताभ्यां सुसत्कृत्य ददौ महात्मा सन्ध्यानिवृत्तौ  रजनीं मवेक्ष्य।।3.7.24।।",
+      "transliteration": "",
+      "translation": "Seeing that the evening had passed and night had set in, the great sage Sutikshna with due hospitality, served those best of men, food fit for ascetics. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे सप्तमस्सर्गः।। Thus ends the seventh sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

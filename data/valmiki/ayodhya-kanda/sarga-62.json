@@ -1,0 +1,207 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 62,
+    "title": "Sudden flash of a thought in the mind of Dasaratha about an evil act done by him in the past -- Dasaratha attributes present misfortune to the past action -- seeks forgiveness of Kausalya.",
+    "titleSanskrit": "",
+    "totalShlokas": 21
+  },
+  "shlokas": [
+    {
+      "id": "v2-62-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "एवं तु क्रुद्धया राजा राममात्रा सशोकया।\nश्रावितः परुषं वाक्यं चिन्तयामास दुःखितः।।2.62.1।।",
+      "transliteration": "",
+      "translation": "Forced to hear the harsh words of angry Kausalya, the king, deeply distressed, was absorbed in sad thought.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-62-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "चिन्तयित्वा स च नृपो मुमोह व्याकुलेन्द्रियः।\nअथ दीर्घीण कालेन संज्ञामाप परन्तपः।।2.62.2।।",
+      "transliteration": "",
+      "translation": "The king (Dasaratha) tormentor of enemies, for a while, lost his consciousness, his senses bewildered. After a long time he regained his senses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-62-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "स संज्ञामुपलभ्यैव दीर्घमुष्णं च निश्श्वसन्।\nकौसल्यां पार्श्वतो दृष्ट्वा पुन श्चिन्तामुपागमत्।।2.62.3।।",
+      "transliteration": "",
+      "translation": "When he regained his senses, the king heaved deep, hot sighs. Seeing Kausalya by his side he relapsed into a state of anxiety.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-62-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तस्य चिन्तयमानस्य प्रत्याभात्कर्म दुष्कृतम्।\nयदनेन कृतं पूर्वमज्ञानाच्छब्दवेधिना।।2.62.4।।",
+      "transliteration": "",
+      "translation": "While he was thus reflecting on a sinful act he had inadvertently comitted long ago, the act of discharging an arrow that could hit its target following the sound, flashed in his mind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-62-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "अमनास्तेन शोकेन रामशोकेन च प्रभुः।\nद्वाभ्यामपि महाराज श्शोकाभ्यामन्वतप्यत।।2.62.5।।",
+      "transliteration": "",
+      "translation": "The great king, the lord with a broken heart started regretting deeply about both the grievous acts he had committed previously (one is shooting at the son of a sage and the other, banishing Rama).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-62-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "दह्यामान स्सशोकाभ्यां कौसल्यामाह भूपतिः।\nवेपमानोऽञ्जलिं कृत्वा प्रसादार्थमवाङ्मुखः।।2.62.6।।",
+      "transliteration": "",
+      "translation": "Consumed by the double sorrow, the king trembling, with head down and folding his hands said to Kausalya in order to appease her:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-62-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "प्रसादये त्वां कौसल्ये रचितोऽयं मयाऽञ्जलिः।\nवत्सला चानृशंसा च त्वं हि नित्यं परेष्वपि।।2.62.7।।",
+      "transliteration": "",
+      "translation": "O Kausalya I entreat you with folded palms. Be merciful. Forever affectionate, you are not cruel even towards your enemies.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-62-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "भर्ता तु खलु नारीणां गुणवान्निर्गुणोऽपि वा।\nधर्मं विमृशमानानां प्रत्यक्षं देवि दैवतम्।।2.62.8।।",
+      "transliteration": "",
+      "translation": "O Devi for women who have regard for righteousness, a husband, whether virtuous or not, is a god incarnate.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-62-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "सा त्वं धर्मपरा नित्यं दृष्टलोक परावरा।\nनार्हसे विप्रियं वक्तुं दुखिःताऽपि सुदुःखितम्।।2.62.9।।",
+      "transliteration": "",
+      "translation": "You always adhere to righteousness. You have seen both the extremes (good and bad) of this world. Athough you yourself are in grief it does not behove you to speak unpleasant words to one who is suffering from a greater grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-62-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तद्वाक्यं करुणं राज्ञः श्रुत्वा दीनस्य भाषितम्।\nकौसल्या व्यसृजद्बाष्पं प्रणालीव नवोदकम्।।2.62.10।।",
+      "transliteration": "",
+      "translation": "Kausalya heard the pitiable words uttered by the king who was in a wretched condition. She shed tears like a water channel discharging fresh rainwater.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-62-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "सा मूर्ध्निबध्वा रुदती राज्ञः पद्ममिवाञ्जलिम्।\nसम्भ्रमादब्रवीत् त्रस्ता त्वरमाणाक्षरं वचः।।2.62.11।।",
+      "transliteration": "",
+      "translation": "Frightened Kausalya, weeping and raising her palms folded like lotus on to her head,  and charged with emotions said with stumbling syllables:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-62-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "प्रसीद शिरसा याचे भूमौ निपतितास्मि ते।\nयाचितास्मि हता देव क्षन्तव्याऽहं न हि त्वया।।2.62.12।।",
+      "transliteration": "",
+      "translation": "O lord, by falling on the ground at your feet, bowing my head I beg of you to be pleased. By your act of beseeching me, I have been badly hurt. I do deserve to be pardoned.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-62-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "नैषा हि सा स्त्री भवति श्लाघनीयेन धीमता।\nउभयोर्लोकयोर्वीर पत्या या सम्साद्यते।।2.62.13।।",
+      "transliteration": "",
+      "translation": "O heroic one a woman, who is entreated by her sagacious and praiseworthy husband, loses both the worlds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-62-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "जानामि धर्मं धर्मज्ञ त्वां जाने सत्यवादिनम्।\nपुत्रशोकार्तया तत्तु मया किमपि भाषितम्।।2.62.14।।",
+      "transliteration": "",
+      "translation": "O righteous one I know the path of dharma. I also know that you are a truthful. Afflicted with grief on account of my son, I spoke somewhat harshly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-62-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "शोको नाशयते धैर्यं शोको नाशयते श्रुतम्।\nशोको नाशयते सर्वं नास्ति श���कसमो रिपुः।।2.62.15।।",
+      "transliteration": "",
+      "translation": "Grief destroys fortitude. Grief destroys knowledge of the scriptures, grief destroys  everything. There is no enemy equal to grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-62-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "शक्य आपतित स्सोढुं प्रहारो रिपुहस्ततः।\nसोढुंमापतितश्शोकस्सुसूक्ष्मोऽपि न शक्यते।।2.62.16।।",
+      "transliteration": "",
+      "translation": "One can endure an unexpected blow from the enemy's hand but to endure unexpected  grief, however slight it may be, is impossible.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-62-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "धर्मज्ञा श्श्रुतिमन्तोऽपि छिन्नधर्मार्थसंशयाः।\nयतयो वीर मुह्यन्ति शोकसम्मूढचेतसः।।2.62.17।।",
+      "transliteration": "",
+      "translation": "O heroic one even learned ascetics who are well versed in ethics and scriptures and who are free from doubts with regard to dharma and artha, are deluded by grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-62-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "वनवासाय रामस्य पञ्चरात्रोऽद्य गण्यते।\nय श्शोकहतहर्षायाः पञ्चवर्षोपमो मम।।2.62.18।।",
+      "transliteration": "",
+      "translation": "This is the fifth night of Rama's exile, but it is like five years to me whose joy has been destroyed by sorrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-62-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तं हि चिन्तयमानाया श्शोकोऽयं हृदि वर्धते।\nनदीनामिव वेगेन समुद्रसलिलं महत्।।2.62.19।।",
+      "transliteration": "",
+      "translation": "As I think of Rama, my heart swells with sorrow just as the ocean rises with rushing rivers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-62-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "एवं हि कथयन्त्यास्तु कौसल्यायाश्शुभं वचः।\nमन्दरश्मिरभूत्सूर्यो रजनी चाभ्यवर्तत।।2.62.20।।",
+      "transliteration": "",
+      "translation": "While Kausalya was speaking these hearttouching words, the rays of the Sun began to fade and the night fell.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-62-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तथा प्रसादितो वाक्यैर्देव्या कौसल्यया नृपः।\nशोकेन च समाक्रान्तो निद्राया वशन्तोमेयिवान्।।2.62.21।।",
+      "transliteration": "",
+      "translation": "Thus consoled by Kausalya the king, overcome with grief, came under the spell of sleep. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे द्विषष्टितमस्सर्गः।। Thus ends the sixtysecond sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

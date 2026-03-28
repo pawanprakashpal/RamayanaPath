@@ -1,0 +1,315 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 31,
+    "title": "Lakshmana gets ready to accompany Rama takes leave of his friends and collects divine weapons from preceptor Vasistha--Rama asks Lakshmana to  distribute his wealth among brahmins.",
+    "titleSanskrit": "",
+    "totalShlokas": 33
+  },
+  "shlokas": [
+    {
+      "id": "v2-31-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "एवं शृत्वा तु संवादं लक्ष्मणः पूर्वमागतः।\nबाष्पपर्याकुलमुखः शोकं सोढुमशक्नुवन्।।2.31.1।।\nस भ्रातुश्चरणौ गाढं निपीड्य रघुनन्दनः।\nसीतामुवाचातियशां राघवं च महा���्रतम्।।2.31.2।।",
+      "transliteration": "",
+      "translation": "Lakshmana who had already reached there heard the conversation (between Sita and Rama). His eyes brimming with tears, he was unable to bear the grief. He held the feet of his brother tightly and said to the illustrious Sita and Rama of great resolve:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "एवं शृत्वा तु संवादं लक्ष्मणः पूर्वमागतः।\nबाष्पपर्याकुलमुखः शोकं सोढुमशक्नुवन्।।2.31.1।।\nस भ्रातुश्चरणौ गाढं निपीड्य रघुनन्दनः।\nसीतामुवाचातियशां राघवं च महाव्रतम्।।2.31.2।।",
+      "transliteration": "",
+      "translation": "Lakshmana who had already reached there heard the conversation (between Sita and Rama). His eyes brimming with tears, he was unable to bear the grief. He held the feet of his brother tightly and said to the illustrious Sita and Rama of great resolve:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "यदि गन्तुं कृताबुद्धिर्वनं मृगगजायुतम्।\nअहं त्वानुगमिष्यामि वनमग्रे धनुर्धरः।।2.31.3।।",
+      "transliteration": "",
+      "translation": "If you have decided to go to the forest where deer and elephants abound, I shall also accompany you by walking before you, holding the bow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "मया समेतोऽरण्यानि बहूनि विचरिष्यसि।\nपक्षिभिर्मृगयूथैश्च संघुष्टानि समन्ततः।।2.31.4।।",
+      "transliteration": "",
+      "translation": "Accompanied by me, you will roam the forests echoing with the cries of birds and sounds of herds of animals.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "न देवलोकाक्रमणं नामरत्वमहं वृणे।\nऐश्वर्यं वापि लोकानां कामये न त्वया विना।।2.31.5।।",
+      "transliteration": "",
+      "translation": "Without you, I do not want victory over the gods or sovereignty over the worlds or even immortality.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "एवं ब्रुवाणस्सौमित्रिर्वनवासाय निश्चितः।\nरामेण बहुभिस्सान्त्वैर्निषिध्दः पुनरब्रवीत्।।2.31.6।।",
+      "transliteration": "",
+      "translation": "When Rama tried to dissuade Lakshmana with many words of consolation Lakshmana who was determined to go to the forest said again:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "अनुज्ञातश्च भवता पूर्वमेव यदस्म्यहम्।\nकिमिदानीं पुनरिदं क्रियते मन्निवारणम्।।2.31.7।।",
+      "transliteration": "",
+      "translation": "You have granted permission to me earlier.Why are you now preventing me?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "यदर्थं प्रतिषेधो मे क्रियते गन्तुमिच्छतः।\nएतदिच्छामि विज्ञातुं संशयो हि ममानघ।।2.31.8।।",
+      "transliteration": "",
+      "translation": "I wish to know, O sinless one, the reason why you are dissuading me, when I am willing to go with you. This creates a doubt in my mind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "ततोऽब्रवीन्महातेजा रामो लक्ष्मणमग्रतः।\nस्थितं प्राग्गामिनं वीरं याचमानं कृताञ्जलिम्।।2.31.9।।",
+      "transliteration": "",
+      "translation": "Addressing the heroic Lakshmana in front of him imploring with folded hands to take him to the forest so that he may walk ahead (and guard them), the effulgent Rama said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "स्निग्धो धर्मरतो वीरस्सततं सत्पथे स्थितः।\nप्रियः प्राणसमो वश्यो भ्राता चापि सखा च मे।।2.31.10।।",
+      "transliteration": "",
+      "translation": "You are affectionate, you are devoted to dharma. You are valiant. You always walk the path of virtue. You are dear to me like my own life. You are not only an obedient brother but also a friend.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "मयाऽद्य सह सौमित्रे त्वयि गच्छति तद्वनम्।\nको भरिष्यति कौसल्यां सुमित्रां वा यशस्विनीम्।।2.31.11।।",
+      "transliteration": "",
+      "translation": "O Lakshmana, if you also accompany me to the forest, who will take care of mother Kausalya and the illustrious Sumitra?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अभिवर्षति कामैर्यः पर्जन्यः पृथिवीमिव।\nस कामपाशपर्यस्तो महातेजा महीपतिः।।2.31.12।।",
+      "transliteration": "",
+      "translation": "Dasaratha, the mighty king like Parjanya (the raingod), lord of the earth used to shower favours on earth. But now he is bound by the noose of passion.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "सा हि राज्यमिदं प्राप्य नृपस्याश्वपते स्सुता।\nदुःखितानां सपत्नीनां न करिष्यति शोभनम्।।2.31.13।।",
+      "transliteration": "",
+      "translation": "Once the daughter of king Aswapati (Kaikeyi) gains control over the kingdom, she will do nothing to help her afflicted cowives (Kausalya and Sumitra).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "न स्मरिष्यति कौसल्यां सुमित्रां च सुदुःखिताम्।\nभरतो राज्यमासाद्य कैकेय्यां पर्यवस्थितः।।2.31.14।।",
+      "transliteration": "",
+      "translation": "When Bharata secures the kingdom, his confidence reposed in Kaikeyi he will not bother about the miserable Kausalya and Sumitra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तामार्यां स्वयमेवेह राजानुग्रहणेन वा।\nसौमित्रे भर कौशल्यामुक्तमर्थमिमं चर।।2.31.15।।",
+      "transliteration": "",
+      "translation": "Either by yourself or by seeking the favour of the king, O son of Sumitra, lend support to venerable  Kausalya. This is the objective you must accomplish.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "एवं मम च ते भक्तिर्भविष्यति सुदर्शिता।\nधर्मज्ञ गुरुपूजायां धर्मश्चाप्यतुलो महान्।।2.31.16।।",
+      "transliteration": "",
+      "translation": "If you do this, your devotion to me will be amply demonstrated. Service to the elders, O dutiful one, is a virtue, great and unequalled.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "एवं कुरुष्व सौमित्रे मत्कृते रघुनन्दन।\nअस्माभिर्विप्रहीणाया मातुर्नो न भवेत्सुखम्।।2.31.17।।",
+      "transliteration": "",
+      "translation": "O delight of the Raghu race, do this for my sake, since deprived of us, there will be no happiness for our mother, O son of Sumitra",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु रामेण लक्��्मण श्श्लक्ष्णया गिरा।\nप्रत्युवाच तदा रामं वाक्यज्ञो वाक्यकोविदम्।।2.31.18।।",
+      "transliteration": "",
+      "translation": "Thus addressed by Rama who was an adept in the use of words, eloquent Lakshmana gently replied:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तवैव तेजसा वीर भरतः पूजयिष्यति।\nकौसल्यां च सुमित्रां च प्रयतो नात्र संशयः।।2.31.19।।",
+      "transliteration": "",
+      "translation": "Aware of your power O valiant one, Bharata will undoubtedly pay respect to Kausalya and Sumitra with all humility.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "कौशल्या बिभृयादार्या सहस्रमपि मद्विधान्।\nयस्यास्सहस्रं ग्रामाणां सम्प्राप्त मुपजीवनम्।।2.31.20।।",
+      "transliteration": "",
+      "translation": "Noble Kausalya has under her charge a thousand villages for her sustenance. She can support a thousand men like me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तदात्मभरणे चैव मम मातुस्तथैव च।\nपर्याप्ता मद्विधानां च भरणाय यशस्विनी।।2.31.21।।",
+      "transliteration": "",
+      "translation": "Illustrious Kausalya is competent enough to support herself, my mother and men  like me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "कुरुष्व मामनुचरं वैधर्म्यं नेह विद्यते।\nकृतार्थोऽहं भविष्यामि तव चार्थः प्रकल्पते।।2.31.22।।",
+      "transliteration": "",
+      "translation": "Make me your follower. There is no breach of virtue in this. I will have my purpose  accomplished. Your object also will be fulfilled.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "धनुरादाय सशरं खनित्रपिटकाधरः।\nअग्रतस्ते गमिष्यामि पन्थानमनुदर्शयन्।।2.31.23।।",
+      "transliteration": "",
+      "translation": "Holding the bow and arrows and carrying a crowbar and a basket, I shall go in front of you leading the way.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "आहरिष्यामि ते नित्यं मूलानि च फलानि च।\nवन्यानि यानि चान्यानि स्वाहाराणि तपस्विनाम्।।2.31.24।।",
+      "transliteration": "",
+      "translation": "I shall daily collect roots, fruits and other forest products fit for ascetics.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "भवांस्तु सह वैदेह्या गिरिसानुषु रंस्यते।\nअहं सर्वं करिष्यामि जाग्रत स्स्वपतश्च ते।।2.31.25।।",
+      "transliteration": "",
+      "translation": "When you go about for pleasure on mountain slopes along with Sita, I shall do everything for you, whether you are awake or asleep.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "रामस्त्वनेन वाक्येन सुप्रीतः प्रत्युवाच तम्।\nव्रजापृच्छस्व सौमित्रे सर्वमेव सुहृज्जनम्।।2.31.26।।",
+      "transliteration": "",
+      "translation": "Pleased with his words Rama said, O Lakshmana go and take leave of all your friends.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "ये च राज्ञो ददौ दिव्ये महात्मा वरुण स्स्वयम्।\nजनकस्य महायज्ञे धनुषी रौद्रदर्शने।।2.31.27।।\nअभेद्यकवचे दिव्ये तूणी चाक्षयसायकौ।\nआदित्यविमलौ चोभौ खड्गौ हेमपरिष्कृतौ।।2.31.28।।\nसत्कृत्य निहितं सर्वमेतदाचार्यसद्मनि।\nसर्वमायुधमादाय क्षिप्रमाव्रज लक्ष्मण।।2.31.29।।",
+      "transliteration": "",
+      "translation": "O Lakshmana in the great sacrifice performed by the highsouled Janaka, Varuna himself gave him two aweinspiring celestial bows, two impenetrable divine armours, two quivers with inexhaustible arrows, two swords plated with gold and as bright as the sun. All these weapons are deposited in the house of our preceptor (sage Vasistha) where they are being worshipped. Go and bring them swiftly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "स सुहृज्जनमामन्त्र्यवनवासाय निश्चितः।\nइक्ष्वाकुगुरुमागम्य जग्राहायुधमुत्तमम्।।2.31.30।।",
+      "transliteration": "",
+      "translation": "Lakshmana, who was resolved to go to the forest, took leave of his friends, and collected from the house of Vasistha, preceptor of the Ikshvaku race, the powerful weapons deposited with him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "तद्धिव्यं राजशार्दूल सत्कृतं माल्यभूषितम्।\nरामाय दर्शयामास सौमित्रिस्सर्वमायुधम्।।2.31.31।।",
+      "transliteration": "",
+      "translation": "Lakshmana, tiger among princes, brought all those divine weapons sanctified and  decorated with garlands and showed them to Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "तमुवाचात्मवान् रामः प्रीत्या लक्ष्मणमागतम्।\nकाले त्वमागत सौम्य काङ्क्षिते मम लक्ष्मण।।2.31.32।।",
+      "transliteration": "",
+      "translation": "O handsome Lakshmana, you have come at the expected time, said the selfpossessed Rama affectionately when he saw him arrive.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "अहं प्रदातुमिच्छामि यदिदं मामकं धनम्।\nब्राह्मणेभ्यस्तपस्विभ्यस्त्वया सह परन्तप।।2.31.33।।",
+      "transliteration": "",
+      "translation": "Let us give away, O tormentor of enemies (Lakshmana) my belogings to the ascetic brahmins.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "वसन्तीह दृढं भक्त्या गुरुषु द्विजसत्तमाः।\nतेषामपि च मे भूयस्सर्वेषाञ्चोपजीविनाम्।।2.31.34।।",
+      "transliteration": "",
+      "translation": "Here live the best of brahmins who are deeply devoted to their teachers along with those who are dependent on me for their livelihood.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-31-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "वशिष्ठपुत्रं तु सुयज्ञमार्यं\nत्वमानयाशु प्रवरं द्विजानाम्।\nअभिप्रयास्यामि वनं समस्ता\nनभ्यर्च्य शिष्टानपरान् द्विजातीन्।।2.31.35।।",
+      "transliteration": "",
+      "translation": "Fetch Suyajna, son of Vasistha, best among the brahmins along with all other distinguished brahmins to whom I will pay my homage and leave for the forest. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे एकत्रिंशस्सर्गः।। Thus ends the thirtyfirst sarga of Ayodhyakanda of  the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

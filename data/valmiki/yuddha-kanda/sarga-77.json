@@ -1,0 +1,225 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 77,
+    "title": "Hanuman kills Nikumbha.",
+    "titleSanskrit": "",
+    "totalShlokas": 23
+  },
+  "shlokas": [
+    {
+      "id": "v6-77-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "निकुम्भोभ्रातरंदृष्टवासुग्रीवेणनिपातितम् ।\nप्रदहन्निवकोपेनवानरेन्द्रमवैक्षत ।।6.77.1।।",
+      "transliteration": "",
+      "translation": "Seeing his brother struck down by Sugriva, Nikumbha gazed at him as if to burn him in wrath.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-77-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "ततस्स्रग्दामसन्नद्धंदत्तपञ्चाङ्गुलंशुभम् ।\nआददेपरिघंवीरोमहेन्द्रशिखरोपमम् ।।6.77.2।।",
+      "transliteration": "",
+      "translation": "Then the hero Nikumbha, girded with flowers measuring five digits in breadth, took an auspicious club like the peak of Mahendra mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-77-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "हेमपट्टपरिक्षिप्तंवज्रविद्रुमभूषितम् ।\nयमदण्डोपमंभीमंरक्षसांभयनाशनम् ।।6.77.3।।",
+      "transliteration": "",
+      "translation": "It was decked with a gold band, encrusted with diamonds and corals, in the form of Yama's rod, a fierce one which dispelled fear.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-77-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तमाविध्यमहातेजाश्शक्रध्वजसमंतदा ।\nनिननादविवृत्तास्योनिकुम्भोभीमविक्रमः ।।6.77.4।।",
+      "transliteration": "",
+      "translation": "The club was highly splendorous and of terrific strength with the banner of Indra and Nikumbha took that club roared opening his mouth wide and pierced it with force.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-77-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "उरोगतेननिष्केणभुजस्थैरङ्गदैरपि ।\nकुण्डलाभ्यां च चित्राभ्यांमालया च विचित्रया ।।6.77.5।।\nनिकुम्भोभूषणैर्भातितेनस्मपरिघेण च ।\nयथेन्द्रधनुषामेघस्सविद्युत्स्तनयित्नुमान् ।।6.77.6।।",
+      "transliteration": "",
+      "translation": "Nikumbha was shining with ornaments on his chest, golden armlets on arms, wonderful earrings and wonderful garland s holding clubs in hand, with bow like Indra's and roaring like lightning and thunder in the clouds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-77-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "परिघाग्रेणपुष्पोटवातग्रथनिर्महात्मनः ।\nप्रजज्वालसघोषश्चविधूमइवपावकः ।।6.77.7।।",
+      "transliteration": "",
+      "translation": "By Nikumbha whirling around the club and the conjunction of the seven winds coming in contact with the club in his hand crashed in space and glowed like a smokeless fire burst forth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-77-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "नगर्याविटपावत्यागन्धर्वभवनोत्तमैः ।\nसतारग्रहनक्षत्रंसचन्द्रंसमहाग्रहम् ।।6.77.8।।\nनिकुम्भपरिघाघूर्णंभ्रमतीवनभस्थ्सलम् ।",
+      "transliteration": "",
+      "translation": "The heaven with the city of Vitapavati, including the excellent abodes of Gandharvas, the hosts of stars and mansions, the lunar abodes along with other planet abodes revolved round as though it was caused by the spinning of Nikumbha's club.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-77-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "दुरासदश्चसञ्जज्ञेपरिघाभरणप्रभः ।।6.77.9।।\nकपीनांसनिकुम्भाग्निर्युगान्ताग्निरिवोत्थितः ।",
+      "transliteration": "",
+      "translation": "The glow of the club, the ornaments, and the fire of Nikumbha that burst forth was like the fire at the time of dissolution of the universe. It was formidable for the Vanaras to reflect on.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-77-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "राक्षसावानराश्चापि न शेकुस्स्पन्दितुंभयात् ।।6.77.10।।\nहनूमांस्तुविवृत्योरस्तस्थौतस्याग्रतोबली ।",
+      "transliteration": "",
+      "translation": "The Rakshasas and even Vanaras were not able to move out of fear. Only mighty Hanuman stood there showing his chest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-77-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "परिघोपमबाहुस्तुपरिघंभास्करप्रभम् ।।6.77.11।।\nबलीबलवतस्तस्यपातयामासवक्षसि ।",
+      "transliteration": "",
+      "translation": "The Rakshasa, whose arms were like iron bars and shining like the Sun brought it down on the breast of mighty Hanuman.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-77-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "स्थिरेतस्योरसिव्यूढेपरिघश्शतधाकृतः ।।6.77.12।।\nविकीर्यमाणस्सहसाउल्काशतमिवाम्बरे ।",
+      "transliteration": "",
+      "translation": "As soon as the iron club touched the broad chest (of Hanuman), it split into a hundred splinters, in the sky and crumbled.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-77-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "स तुतेनप्रहारेणविचचालमहाकपिः ।।6.77.13।।\nपरिघेणसमाधूतोयथाभूमिचलेऽचलः ।",
+      "transliteration": "",
+      "translation": "The great Vanara did not move and remained steady like a mountain in an earthquake with the iron club touching him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-77-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तथाभिहतस्तेनहनुमान् प्लवगोत्तमः ।।6.77.14।।\nमुष्टिंसम्वर्तयामासबलेनातिमहाबलः ।",
+      "transliteration": "",
+      "translation": "Struck by the Rakshasa, Hanuman, the foremost of the monkeys of extraordinary strength clenched his fist violently.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-77-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तमुद्यम्यमहातेजानिकुम्भोरसिवीर्यवान् ।।6.77.15।।\nअभिचिक्षेपवेगेनवेगवान् वायुविक्रमः ।",
+      "transliteration": "",
+      "translation": "Highly energetic champion endowed with speed, close to wind god in valour raising his fist instantly crushed Nikumbha on the chest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-77-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "ततःपुस्फोटचर्मास्यप्रसुस्राव च शोणितम् ।।6.77.16।।\nमुष्टिनातेनसञ्जज्ञेमेघेविद्युदिवोत्थ��ता ।",
+      "transliteration": "",
+      "translation": "Then Nikumbha's skin split, and blood started flowing, which appeared as though lightning had risen in the cloud.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-77-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "सःतुतेनप्रहारेणनिकुम्भोविचचाल ह ।।6.77.17।।\nस्वस्थश्चापिनिजग्राहहनूमन्तंमहाबलम् ।",
+      "transliteration": "",
+      "translation": "By that blow, Nikumbha was not moved. Recovering from that he caught hold of Hanuman of extraordinary strength.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-77-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "चुक्रुशुस्तदासङ्ख्येभीमंलङ्कानिवासिनः ।।6.77.18।।\nनिकुम्भेनोद्यतंदृष्टवाहनूमन्तंमहाबलम् ।",
+      "transliteration": "",
+      "translation": "Then seeing Hanuman endowed with might, lifted by Nikumbha in the battlefield the residents of Lanka roared terribly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-77-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तदाह्रियमाणोऽपिकुम्भकर्णात्मजेन ह ।।6.77.19।।\nआजघानानिलसुतोवज्रकल्पेनमुष्टिना ।",
+      "transliteration": "",
+      "translation": "Even while being carried by Rakshasa also, the son of the wind god hit Kumbhakarna's son with his hard adamant fist.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-77-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "आत्मानंमोक्षयित्वाथक्षितावभ्यवपद्यत ।।6.77.20।।\nहनूमानुन्ममाथाशुनिकुम्��ंमारुतात्मजः ।",
+      "transliteration": "",
+      "translation": "Hanuman, the son of wind god getting himself released from Nikumbha, springing up standing on the ground tormented Nikumbha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-77-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "निक्षिप्यपरमायत्तोनिकुम्भंनिष्पिपेष ह ।।6.77.21।।\nउत्पत्यचास्यवेगेनपपातोरसिवीर्यवान् ।",
+      "transliteration": "",
+      "translation": "Throwing down Nikumbha with great effort, Hanuman endowed with speed sprang up and fell on his chest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-77-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "परिगृह्य च बाहुभ्यांपरिवृत्यशिरोधराम् ।।6.77.22।।\nउत्पाटयामानशिरोभैरवंनदतोमहत् ।",
+      "transliteration": "",
+      "translation": "Taking hold of the neck with both arms and twisting it round Hanuman broke off the neck of Nikumbha while he was crying terribly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-77-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "अथनिनदतिसादितेनिकुम्भेपवनसुतेनरणेबभूवयुद्धम् ।\nदशरथसुतराक्षसेन्द्रसून्वोर्भृशतरमागतरोषयोस्सुभीमम् ।।6.77.23।।",
+      "transliteration": "",
+      "translation": "And thereafter as Nikumbha killed by windgod's son was crying aloud in the battlefield, a violent and fierce war took place between the highly disturbed son of Dasharatha and Rakshasa Makara.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-77-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "व्यपेतेतुजीवेनिकुम्भस्यहृष्टाविनेदुःप्लवङ्गादिशस्सस्वनुश्च ।\nचचालेवचोर्वीपफालेवचद्यौर्भयंराक्षसानांबलंचाविवेश ।।6.77.24।।",
+      "transliteration": "",
+      "translation": "When Nikumbha's life ceased, monkeys were happy, and their joy resounded in all quarters. Earth was shaken, the Rakshasa army was overtaken by fear and heaven appeared to crumble. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेसप्तसप्ततितमस्सर्गः ।। This is the end of the seventy seventh sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

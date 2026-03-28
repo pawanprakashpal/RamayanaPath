@@ -1,0 +1,315 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 46,
+    "title": "Rama, Sita and Lakshmana stay on the bank of Tamasa river -- at dawn they proceed,  leaving behind the citizens of Ayodhya.",
+    "titleSanskrit": "",
+    "totalShlokas": 33
+  },
+  "shlokas": [
+    {
+      "id": "v2-46-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततस्तु तमसातीरं रम्यमाश्रित्य राघवः।\nसीतामुद्वीक्ष्य सौमित्रिमिदं वचनमब्रवीत्।।2.46.1।।",
+      "transliteration": "",
+      "translation": "The scion of the Raghus (Rama), having taken shelter on the lovely bank of Tamasa, glanced at Sita and said to Lakshmana thus:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "इयमद्य निशा पूर्वा सौमित्रे प्रहिता वनम्।\nवनवासस्य भद्रं ते स नोत्कण्ठितुमर्हसि।।2.46.2।।",
+      "transliteration": "",
+      "translation": "O Lakshmana, this happens to be the first night of our exile. You should not have any longing in your mind. Wish you well",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "पश्य शून्यान्यरण्यानि रुदन्तीव समन्ततः।\nयथानिलयमायद्भिर्निलीनानि मृगद्विजैः।।2.46.3।।",
+      "transliteration": "",
+      "translation": "Look at the deserted forest. The wild animals and birds have returned to their hideouts. They fill the air with their cries.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "अद्यायोध्या तु नगरी राजधानी पितुर्मम।\nसस्त्रीपुंसा गतानस्माञ्शोचिष्यति न संशयः।।2.46.4।।",
+      "transliteration": "",
+      "translation": "There is no doubt that now the men and women of Ayodhya, father's capital city must be bewailing our departure.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "अनुरक्ता हि मनुजा राजानं बहुभिर्गुणैः।\nत्वां च मां च नरव्याघ्र शत्रुघ्न भरतौ तथा।।2.46.5।।",
+      "transliteration": "",
+      "translation": "O best of men because of our many virtues, the people (of Ayodhya) are indeed loyal to the king, to you, to me and to Satrughna and Bharata, too.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "पितरं चानुशोचामि मातरं च यशस्विनीम्।\nअपि वान्धौ भवेतां तु रुदन्तौ तावभीक्ष्णशः।।2.46.6।।",
+      "transliteration": "",
+      "translation": "What distresses me is the thought that both father and illustrious mother may  become blind by repeated weeping (over us).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "भरतः खलु धर्मात्मा पितरं मातरं च मे।\nधर्मार्थकामसहितैर्वाक्यैर्वाश्वासयिष्यति।।2.46.7।।",
+      "transliteration": "",
+      "translation": "Righteous Bharata will indeed console parents with words in conformity with  dharma, artha and kama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "भरतस्यानृशंसत्वं विचिन्त्याहं पुनः पुनः।\nनानुशोचामि पितरं मातरं चापि लक्ष्मण।।2.46.8।।",
+      "transliteration": "",
+      "translation": "As I reflect again and again on the benevolent nature of Bharata, there is no concern in me about my parents, O Lakshmana",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "त्वया कार्यं नरव्याघ्र मामनुव्रजता कृतम्।\nअन्वेष्टव्या हि वैदेह्या रक्षणार्थे सहायता।।2.46.9।।",
+      "transliteration": "",
+      "translation": "You, O Lakshmana, the best among men, have done a good job by accompanying me. Otherwise assistance for Sita's protection would have been sought (necessary).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अद्भिरेव तु सौमित्रे वत्स्याम्यद्य निशामिमाम्।\nएतध्दि रोचते मह्यं वन्येऽपि विविधे सति।।2.46.10।।",
+      "transliteration": "",
+      "translation": "O Lakshmana, I shall live this night on water alone. I prefer it, though various kinds of forest products are available.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "एवमुक्त्वा तु सौमित्रिं सुमन्त्रमपि राघवः।\nअप्रमत्तस्त्वमश्वेषु भव सौम्येत्युवाच ह।।2.46.11।।",
+      "transliteration": "",
+      "translation": "Having said so to Lakshmana, he turned to Sumantra to say O gentle friend, tend the horses with care.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "सोऽश्वान्सुमन्त्रः संयम्य सूर्येऽस्तं समुपागते।\nप्रभूतयवसान् कृत्वा बभूव प्रत्यनन्तरः।।2.46.12।।",
+      "transliteration": "",
+      "translation": "As the Sun was setting, Sumantra tethered the horses, fed them with abundant fodder and sat close to them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "उपास्य तु शिवां सन्ध्यां दृष्ट्वा रात्रिमुपस्थिताम्।\nरामस्य शयनं चक्रे सूतः सौमित्रिणा सह।।2.46.13।।",
+      "transliteration": "",
+      "translation": "Then the charioteer worshipping the auspicious Sandhya (twilight), and seeing the night approach made  bed for Rama and Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तां शय्यां तमसातीरे वीक्ष्य वृक्षदलैः कृताम्।\nरामः सौमित्रिणा सार्धं सभार्यस्संविवेश ह।।2.46.14।।",
+      "transliteration": "",
+      "translation": "Having seen the bed of leaves made ready on the bank of Tamasa, Rama lay down there along with Sita and Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "सभार्यं सम्प्रसुप्तं तं भ्रातरं वीक्ष्य लक्ष्मणः।\nकथयामास सूताय रामस्य विविधान् गुणान्।।2.46.15।।",
+      "transliteration": "",
+      "translation": "Having seen that his brother along with his wife had fallen asleep, Lakshmana narrated the many virtues of Rama to Sumantra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "जाग्रतो ह��येव तां रात्रिं सौमित्रेरुदितो रविः।\nसूतस्य तमसातीरे रामस्य ब्रुवतो गुणान्।।2.46.16।।",
+      "transliteration": "",
+      "translation": "Lakshmana continued to describe Rama's virtues to the charioteer, keeping awake that entire night on the bank of Tamasa until the Sun rose.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "गोकुलाकुलतीरायास्तमसाया विदूरतः।\nअवसत्तत्र तां रात्रिं रामः प्रकृतिभिस्सह।।2.46.17।।",
+      "transliteration": "",
+      "translation": "Rama spent the night with his subjects not very far from the bank of Tamasa which was crowded with herds of cattle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "उत्थाय स महातेजाः प्रकृतीस्ता निशाम्य च।\nअब्रवीद्भ्रातरं रामो लक्ष्मणं पुण्यलक्षणम्।।2.46.18।।",
+      "transliteration": "",
+      "translation": "On getting up, the brilliant Rama looked at his subjects and said to his brother Lakshmana full of noble qualities:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "अस्मद्व्यपेक्षान् सौमित्रे निरपेक्षान् गृहेष्वपि।\nवृक्षमूलेषु संसुप्तान् पश्य लक्ष्मण साम्प्रतम्।।2.46.19।।",
+      "transliteration": "",
+      "translation": "O Lakshmana, son of Sumitra look at these people, fast alseep under the trees. Out of affection for us, they are even indifferent to their home.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "यथैते नियमं पौराः कुर्वन्त्यस्मन्निवर्तने। \nअपि प्राणान्न्यसिष्यन्ति न तु त्यक्ष्यन्ति निश्चयम्।।2.46.20।।",
+      "transliteration": "",
+      "translation": "On seeing the people's resolve to take us back, it appears they are prepared to give up their lives rather than abandon their determination.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "यावदेव तु संसुप्ता स्तावदेव वयं लघु।\nरथमारुह्य गच्छामः पन्थानमकुतोभयम्।।2.46.21।।",
+      "transliteration": "",
+      "translation": "While they are asleep, we shall quickly mount the chariot and fearlessly proceed on the way.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "अतो भूयोऽपि नेदानीमिक्ष्वाकुपुरवासिनः।\nस्वपेयुरनुरक्ता मां वृक्षमूलानि संश्रिताः।।2.46.22।।",
+      "transliteration": "",
+      "translation": "These loyal inhabitants of Ayodhya, the city of the Ikshvakus will no more sleep again shelterd under the trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "पौरा ह्यात्मकृताद्दुःखाद्विप्रमोच्या नृपात्मजैः।\nन तु खल्वात्मना योज्या दुःखेन पुरवासिनः।।2.46.23।।",
+      "transliteration": "",
+      "translation": "The prince should deliver the citizens from the sufferings caused by themselves but should not make them suffer on their account.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "अब्रवील्लक्ष्मणो रामं साक्षाद्धर्ममिवस्थितम्।\nरोचते मे तथा प्राज्ञ क्षिप्र मारुह्यतामिति।।2.46.24।।",
+      "transliteration": "",
+      "translation": "Lakshmana said to Rama who was the very image of like righteousness O wise one, I like this (proposal). Let us quickly mount the chariot.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "अथ रामोऽब्रवीच्छ्रीमान्सुमन्त्रं युज्यतां रथः।\nगमिष्यामि ततोऽरण्यं गच्छ शीघ्रमितः प्रभो।।2.46.25।।",
+      "transliteration": "",
+      "translation": "Then glorious Rama addressing Sumantra said O master charioteer, harness the chariot. I shall (let us) quickly leave for the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "सूतस्तत स्सत्त्वरितः स्यन्दनं तैर्हयोत्तमैः।\nयोजयित्व्राऽथ रामाय प्राञ्जलिः प्रत्यवेदयत्।।2.46.26।।",
+      "transliteration": "",
+      "translation": "Thereupon the charioteer hurriedly harnessed the splendid horses to the chariot and informed Rama with folded hands:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "अयं युक्तो महाबाहो रथस्ते रथिनां वर।\nत्वमारोहस्व भद्रं ते ससीत स्सहलक्ष्मणः।।2.46.27।।",
+      "transliteration": "",
+      "translation": "O best among riders the chariot has been harnessed. O mightyarmed one, board it along with Sita and Lakshmana. All the best",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "तं स्यन्दनमधिष्ठाय राघव स्सपरिच्छदः।\nशीघ्रगामाकुलावर्तां तमसामतरन्नदीम्।।2.46.28।।",
+      "transliteration": "",
+      "translation": "Rama (along with others) mounted the chariot with his belongings, crossed the rapidly flowing Tamasa agitated with whirlpools.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "स सन्तीर्य महाबाहुः श्रीमान् शिवमकण्टकम्।\nप्रापद्यत महामार्गमभयं भयदर्शिनाम्।।2.46.29।।",
+      "transliteration": "",
+      "translation": "Having crossed the river, the mightyarmed and gracious Rama proceeded on the auspicious and thornless highway arousing confidence even in the timid.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "मोहनार्थं तु पौराणां सूतं रामोऽब्रवीद्वचः।\nउदङ्मुखः प्रयाहि त्वं रथमास्थाय सारथे।।2.46.30।।\nमुहूर्तं त्वरितं गत्वा निवर्तय रथं पुनः।\nयथा न विद्युः पौरा मां तथा कुरु समाहितः।।2.46.31।।",
+      "transliteration": "",
+      "translation": "With the intention of confusing the citizens, Rama said to the charioteer, O Sumantra, having seated in the chariot proceed speedly for a while in northerly direction and again turn back the chariot. Accomplish this feat in such a manner that the citizens will not know (where we have gone).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "रामस्य वचनं श्रुत्वा तथा चक्रे स सारथिः।\nप्रत्यागम्य च रामस्य स्यन्दनं प्रत्यवेदयत्।।2.46.32।।",
+      "transliteration": "",
+      "translation": "The charioteer did as instructed by Rama, returned to him with the chariot and informed (of its readiness).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "तौ सम्प्रयुक्तं तु रथं समास्थितौ\nतदा ससीतौ रघुवंशवर्धनौ।\nप्रचोदयामास ततस्तुरङ्गमान्\nस सारथिर्येन पथा तपोवनम्।।2.46.33।।",
+      "transliteration": "",
+      "translation": "When Rama and Lakshmana, perpetuaters of the Raghu race along with Sita were seated on the wellyoked chariot, Sumantra urged the horses to move.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-46-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "तत स्समास्थाय रथं महारथः\nससारथिर्दाशरथिर्वनं ययौ।\nउदङ्मुखं तं तु रथं चकार स\nप्रयाणमाङ्गल्य निमित्तदर्शनात्।।2.46.34।।",
+      "transliteration": "",
+      "translation": "As it augurs well to travel north Sumantra placed the chariot in that direction. Thereafter that great charioteer, Rama, Sita and Lakshmana boarded the chariot and departed. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे षट्चत्वारिंशस्सर्गः।। Thus ends the fortysixth sarga of Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

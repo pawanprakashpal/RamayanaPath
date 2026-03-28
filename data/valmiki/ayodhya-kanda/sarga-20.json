@@ -1,0 +1,504 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 20,
+    "title": "Rama enters to the inner apartment of his mother Kausalya--informs her of his exile to the forest--lamentations of Kausalya.",
+    "titleSanskrit": "",
+    "totalShlokas": 54
+  },
+  "shlokas": [
+    {
+      "id": "v2-20-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तस्मिंस्तु पुरुषव्याघ्रे निष्क्रामति कृताञ्जलौ।\nआर्तशब्दो महान् जज्ञे स्त्रीणामन्तःपुरे तदा।।2.20.1।।",
+      "transliteration": "",
+      "translation": "When the tiger among men (Rama) was coming out with folded palms, there arose a huge cry of distress among the ladies of the harem:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "कृत्येष्वचोदितः पित्रा सर्वस्यान्तःपुरस्य च।\nगतिर्यश्शरणं चापि स रामोऽद्य प्रवत्स्यति।।2.20.2।।",
+      "transliteration": "",
+      "translation": "Rama was the refuge and protector of all the inmates lot of the inner apartment although it was not his duty nor was he forced by his father to safeguard them. That Rama is now going on exile.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "कौशल्यायां यथा युक्तो जनन्यां वर्तते सदा।\nतथैव वर्ततेऽस्मासु जन्मप्रभृति राघवः।।2.20.3।।",
+      "transliteration": "",
+      "translation": "Rama conducted himself towards us in the same way as he did towards his mother Kausalya right from the begining.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "न क्रुध्यत्यभिशप्तोऽपि क्रोधनीयानि वर्जयन्।\nक्रुद्धान्प्रसादयन्सर्वान् स इतोऽद्य प्रवत्स्यति।।2.20.4।।",
+      "transliteration": "",
+      "translation": "Rama who used to avoid deeds that caused anger, pacified those who were angry with him, and never lost his cool even when cursed, that Rama is going on exile today.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "अबुद्धिर्बत नो राजा जीवलोकं चरत्ययम्।\nयो गतिं सर्वभूतानां परित्यजति राघवम्।।.2.20.5।।",
+      "transliteration": "",
+      "translation": "Alas our king who has lost his brain, who has ordered the banishment of Rama, the refuge of all living beings, (on the other hand) is moving about in the world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "इति सर्वा महिष्यस्ता विवत्सा इव धेनवः।\nपतिमाचुक्रुशुश्चैव सस्वरं चापि चुक्रुशुः।।2.20.6।।",
+      "transliteration": "",
+      "translation": "Thus all the queens like calfless cows cried loudly blaming their husband.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "स हि चान्तःपुरे घोरमार्तशब्दं महीपतिः।\nपुत्रशोकाभिसन्तप्तः श्रुत्वा व्यालीयताऽसने।।2.20.7।।",
+      "transliteration": "",
+      "translation": "Tormented with grief on account of his son, the king sank in his seat on hearing the cries of distress from the inner apartment",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "रामस्तु भृशमायस्तो निश्श्वसन्निव कुञ्जरः।\nजगाम सहितो भ्रात्रा मातुरन्तःपुरं वशी।।2.20.8।।",
+      "transliteration": "",
+      "translation": "Deeply pained yet selfpossessed Rama, heaving sighs like an elephant went towards the inner apartment of his mother along with his brother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "सोऽपश्यत्पुरुषं तत्र वृद्धं परमपूजितम्।\nउपविष्टं गृहद्वारि तिष्ठतश्चापरान्बहून्।।2.20.9।।",
+      "transliteration": "",
+      "translation": "Rama beheld a highly venerable elderly man seated at the entrance of the residence and many others standing (nearby).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "दृष्ट्वैव तु तदा रामं ते सर्वे सहसोत्थिताः।\nजयेन जयतां श्रेष्ठं वर्धयन्ति स्म राघवम्।।2.20.10।।",
+      "transliteration": "",
+      "translation": "On seeing Rama, all the eminent among the victors got up immediately and greeted him, saying, 'Victory to you'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "प्रविश्य प्रथमां कक्ष्यां द्वितीयायां ददर्श सः।\nब्राह्मणान्वेदसम्पन्नान्वृद्धान्राज्ञाऽभिसत्कृतान्।।2.20.11।।",
+      "transliteration": "",
+      "translation": "With the first courtyard crossed, Rama saw in the second aged brahmins versed in the Vedas, and duly honoured by the king.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "प्रणम्य रामस्तान्विप्रांस्तृतीयायां ददर्श सः।\nस्त्रियो वृद्धास्तथा बाला द्वाररक्षणतत्पराः।।2.20.12।।",
+      "transliteration": "",
+      "translation": "Rama wished the brahmins and saw old men, women and children vigilantly guarding the door in the third courtyard.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "वर्धयित्वा प्रहृष्टास्ताः प्रविश्य च गृहं स्त्रियः।\nन्यवेदयन्त त्वरिता राममातुः प्रियं तदा।।2.20.13।।",
+      "transliteration": "",
+      "translation": "Wellpleased, the women then greeted him wishing prosperity. They hurried into the abode of Kausalya and gave her the happy news (of Rama's arrival).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "कौशल्यापि तदा देवी रात्रिं स्थित्वा समाहिता।\nप्रभाते त्वकरोत्पूजां विष्णोः पुत्रहितैषिणी।।2.20.14।।",
+      "transliteration": "",
+      "translation": "Having spent the night with a composed mind (abosorbed in meditation), Kausalya was worshipping lord Visnu in the early morning to secure her son's welfare.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "सा क्षौमवसना हृष्टा नित्यं व्रतपरायणा। \nअग्निं जुहोति स्म तदा मन्त्रवत्कृतमङ्गला।।2.20.15।।",
+      "transliteration": "",
+      "translation": "Always engaged in the observance of vows, Kausalya (then) clad in silk cloth was performing rituals of auspiciousness, offering oblations to the firegod in accordance with mantras (Vedic hymns).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "प्रविश्य च तदा रामो मातुरन्त:पुरं शुभम्।\nददर्श मातरं तत्र हावयन्तीं हुताशनम्।।2.20.16।।",
+      "transliteration": "",
+      "translation": "Rama entered the auspicious inner apartment of his mother and saw her exhorting the priests to offer sacrificial oblations to Agni (firegod).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "देवकार्यनिमित्तं च तत्रापश्यत्समुद्यतम्।\nदध्यक्षतं घृतं चैव मोदकान्हविषस्तथा।।2.20.17।।\nलाजान्माल्यानि शुक्लानि पायसं कृसरं तथा।\nसमिध: पूर्णकुम्भांश्च ददर्श रघुनन्दनः।।2.20.18।।",
+      "transliteration": "",
+      "translation": "There Rama saw  curd, grains of rice, clarified butter, sweetmeats, oblations, parched grain, white garlands, porridge of cooked rice mixed with sesame seeds, sacrirficial faggots, vessels filled with water, etc. kept ready for religious rites.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तां शुक्लक्षौमसंवीतां व्रतयोगेन कर्शिताम्।\nतर्पयन्तीं ददर्शाद्भिर्देवतां देववर्णिनी��्।।2.20.19।।",
+      "transliteration": "",
+      "translation": "Kausalya, emaciated due to observance of vows and clad in white silk looked like a celestial being. She was engaged in offering libations to the deities.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "सा चिरस्यात्मजं दृष्ट्वा मातृनन्दनमागतम्।\nअभिचक्राम संहृष्टा किशोरं बडबा यथा।।2.20.20।।",
+      "transliteration": "",
+      "translation": "Seeing her son who had come after a long time and who is a source of joy to his  mother, Kausalya approached him with great delight like a mare to her young calf.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "स मातरमभिक्रान्तामुपसंगृह्य राघवः।\nपरिष्वक्तश्च बाहुभ्यामुपाघ्रातश्च मूर्धनि।।2.20.21।।",
+      "transliteration": "",
+      "translation": "The scion of the Raghus saw his mother coming and bowed her. She held him in both her arms and kissed his forehead.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तमुवाच दुराधर्षं राघवं सुतमात्मनः।\nकौशल्या पुत्रवात्सल्यादिदं प्रियहितं वचः।।2.20.22।।",
+      "transliteration": "",
+      "translation": "Out of love for her son, the invincible scion of the Raghu dynasty, Kausalya spoke with gentle and pleasant words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "वृद्धानां धर्मशीलानां राजर्षीणां महात्मनाम्।\nप्राप्नुह्यायुश्च कीर्तिं च धर्मं चोपहितं कुले।।2.20.23।।",
+      "transliteration": "",
+      "translation": "May you attain long life and fame like those of the aged, virtuous and great rajarsis  who upheld the righteousness in the race.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "सत्यप्रतिज्ञं पितरं राजानं पश्य राघव।\nअद्यैव हि त्वां धर्मात्मा यौवराज्येऽभिषेक्ष्यति।।2.20.24।।",
+      "transliteration": "",
+      "translation": "O scion of the Raghu race see the king, your righteous and truthful father, who will consecrate you as princeregent today itself.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "दत्तमासनमालभ्य भोजनेन निमन्त्रितः।\nमातरं राघवः किञ्चिद्व्रीडात्प्रसार्याञ्जलिमब्रवीत्।।2.20.25।।",
+      "transliteration": "",
+      "translation": "Invited (by Kausalya) to partake the food, Rama out of abashment only touched the seat provided to him and having stretched his folded palms spoke to his mother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "स स्वभावविनीतश्च गौरवाच्च तदा नतः।\nप्रस्थितो दण्डकारण्यमाप्रष्टुमुपचक्रमे।।2.20.26।।",
+      "transliteration": "",
+      "translation": "Modest by nature, Rama with respectful humility began seeking her permission for his departure to Dandaka forest:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "देवि नूनं न जानीषे महद्भयमुपस्थितम्।\nइदं तव च दुःखाय वैदेह्या लक्ष्मणस्य च।।2.20.27।।",
+      "transliteration": "",
+      "translation": "O mother surely you do not know that a great misfortune has befallen, causing distress to you, Sita and Lakshmana, too.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "गमिष्ये दण्डकारण्यं किमनेनासनेन मे।\nविष्टरासनयोग्यो हि कालोऽयं मामुपस्थितः।।2.20.28।।",
+      "transliteration": "",
+      "translation": "I am setting forth to Dandaka forest.  What is this seat for? A time has come for me when I am fit for a seat of kusa grass.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "चतुर्दश हि वर्षाणि वत्स्यामि विजने वने।\nमधुमूलफलैर्जीवन्हित्वा मुनिवदामिषम्।।2.20.29।।",
+      "transliteration": "",
+      "translation": "Abstaining from eating meat like hermits and living on honey, fruits and roots, I am to live in the solitary forest for fourteen years.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "भरताय महाराजो यौवराज्यं प्रयच्छति।\nमां पुनर्दण्डकारण्ये विवासयति तापसम्।।2.20.30।।",
+      "transliteration": "",
+      "translation": "The great king is conferring the status of heirapparent on Bharata while he is banishing me to Dandaka forest to live like an ascetic.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "स षट्चाष्टौ च वर्षाणि वत्स्यामि विजने वने।\nआसेवमानो वन्यानि फलमूलैश्च वर्तयन्।।2.20.31।।",
+      "transliteration": "",
+      "translation": "Living on things available in the forest, on fruits and roots, I am to dwell in the uninhabited jungle for fourteen years.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "सा निकृत्तेव सालस्य यष्टिः परशुना वने।\nपपात सहसा देवी देवतेव दिवश्च्युता।।2.20.32।।",
+      "transliteration": "",
+      "translation": "All on a sidden Kausalya fell down on the ground like the branch of a sal tree in the forest severed by an axe, like a goddess dropped from heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "तामदुःखोचितां दृष्ट्वा पतितां कदलीमिव।\nरामस्तूत्थापयामास मातरं गतचेतसम्।।2.20.33।।",
+      "transliteration": "",
+      "translation": "Seeing his mother who had done nothing to deserve (this) suffering and who had fallen down like a plantain tree, deprived of her senses, Rama raised her up (from the ground).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "उपावृत्त्योत्थितां दीनां बडबामिव वाहिताम्।\nपांसुकुण्ठितसर्वाङ्गीं विममर्श च पाणिना।।2.20.34।।",
+      "transliteration": "",
+      "translation": "Rama gently wiped away the dust that had covered her body as Kausalya stood miserable, like a mare who stands up after having rolled on the ground while pulling the load.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "सा राघवमुपासीनमसुखार्ता सुखोचिता।\nउवाच पुरुषव्याघ्रमुपशृण्वति लक्ष्मणे।।2.20.35।।",
+      "transliteration": "",
+      "translation": "Kausalya who deserved happiness yet was struck down by (this) distress spoke to Rama, the tiger among men who was sitting nearby, while Lakshmana was listening.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "यदि पुत्र न जायेथा मम शोकाय राघव।\nन स्म दुःखमतो भूयः पश्येयमहमप्रजाः।।2.20.36।।",
+      "transliteration": "",
+      "translation": "O my son, if you were not born to me, I, even as a woman without  progeny, would not have experienced grief, more intense than this.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "एक एव हि वन्ध्याया श्शोको भवति मानसः।\nअप्रजाऽस्मीति सन्तापो न ह्यन्यः पुत्र विद्यते।।2.20.37।।",
+      "transliteration": "",
+      "translation": "O my son a barren woman has only one mental agony that she has no progeny.  Except that she does not have any other sorrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "न दृष्टपूर्वं कल्याणं सुखं वा पतिपौरुषे।\nअपि पुत्रे ऽपि पश्येयमिति रामाऽस्थितं मया।।2.20.38।।",
+      "transliteration": "",
+      "translation": "I did not have the fortune, O Rama, to enjoy any auspicious moment or pleasure earlier when my husband was in authority. I exist with the hope that I will have it when my son assumes authority.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "सा बहून्यमनोज्ञानि वाक्यानि हृदयच्छिदाम्।\nअहं श्रोष्ये सपत्नीनामवराणां वरा सती।।2.20.39।।",
+      "transliteration": "",
+      "translation": "I, being the eldest (of the queens) will have to listen to many heartbreaking and unpleasant words from my fellowwives who are younger to me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "अतो दुःखतरं किं नु प्रमदानां भविष्यति।\nमम शोको विलापश्च यादृशोऽयमनन्तकः।।2.20.40।।",
+      "transliteration": "",
+      "translation": "There cannnot be greater distress for any woman than such unending grief and lamentation (which I am now experiencing).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "त्वयि सन्निहितेऽप्येवमहमासं निराकृता।\nकिं पुनः प्रोषिते तात ध्रुवं मरणमेव मे।।2.20.41।।",
+      "transliteration": "",
+      "translation": "O child even when you are nearby I am neglected like this. What to say when you are banished. Death is certain to me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "अत्यन्तनिगृहीतास्मि भर्तुर्नित्यमतन्त्रिता।\nपरिवारेण कैकेय्या स्समा वाप्यथवाऽवरा।।2.20.42।।",
+      "transliteration": "",
+      "translation": "Treating me as an equal or inferior to the attendants of Kaikeyi and making me  always dependent, my husband has greatly suppressed me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "योऽहि मां सेवते कश्चिदथवाप्यनुवर्तते।\nकैकेय्याः पुत्रमन्वीक्ष्य स्वश्चि जनो नाभिभाषते।।2.20.43।।",
+      "transliteration": "",
+      "translation": "Any one who serves me or follows me will not talk to me after seeing Bharata (installed as heirapparent).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "नित्यक्रोधतया तस्याः कथं नु खरवादितत्।\nकैकेय्या वदनं द्रष्टुं पुत्र शक्ष्यामि दुर्गता।।2.20.44।।",
+      "transliteration": "",
+      "translation": "Fallen into an unfortunate state how can I look at Kaikeyi's face who is always harsh and in temper?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "दश सप्त च वर्षाणि जातस्य तव राघव\nअतितानि प्रकाङ्क्षन्त्या मया दुःखपरिक्षयम्।।2.20.45।।",
+      "transliteration": "",
+      "translation": "O Rama, I have spent the last seventeen years after your birth with the expectaion that my sorrows would come to an end.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "तदक्षयं महद्दुःखं नोत्सहे सहितुं चिरम्।\nविप्रकारं सपत्नीनामेवं जीर्णाऽपि राघव।।2.20.46।।",
+      "transliteration": "",
+      "translation": "Therefore, O Rama, I cannot at this old age endure this great, endless sorrow and the insults from cowives for long.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "अपश्यन्ती तव मुखं परिपूर्णशशिप्रभम्।\nकृपणा वर्तयिष्यामि कथं कृपणजीविकाम्।।2.20.47।।",
+      "transliteration": "",
+      "translation": "Without beholding your face that is as bright as the full Moon, how can this wretched woman live this pitiable life?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "उपवासैश्च योगैश्च बहुभिश्च परिश्रमैः।\nदुःखं संवर्धितो मोघं त्वं हि दुर्गतया मया।।2.20.48।।",
+      "transliteration": "",
+      "translation": "Through meditation, through fasts and with a great deal of efforts you have been brought up by this luckless (mother). But alas this is all in vain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "स्थिरं तु हृदयं मन्ये ममेदं यन्न दीर्यते।\nप्रावृषीव महानद्या स्पृष्टं कूलं नवाम्भसा।।2.20.49।।",
+      "transliteration": "",
+      "translation": "I think my heart must be very firm (hard) like the bark of a great river which, touched by (a flood of) fresh water in the rainy season does not disintegrate.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "ममैव नूनं मरणं न विद्यते\nन चावकाऽशोस्ति यमक्षयेऽमम।\nयदन्तकोऽद्यैव न मां जिहीर्षति।\nप्रसह्य सिंहो रुदतीं मृगीमिव।।2.20.50।।",
+      "transliteration": "",
+      "translation": "There is no room for me in the abode of Yama (the god of death). If he does not  carry me off forcibly like a lion carrying away a crying female deer, certainly there is no death for me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "स्थिरं हि नूनं हृदयं ममायसं\nन भिद्यते यद्भुवि नावदीर्यते।\nअनेन दुःखेन च देहमर्पितं \nध्रुवं ह्यकाले मरणं न विद्यते।।2.20.51।।",
+      "transliteration": "",
+      "translation": "Surely my still (hard) heart is made of iron. It neither bursts nor breaks down on the ground. Pervaded by grief, there is no untimely death for this my body, too.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "इदं हि दुःखं यदनर्थकानि मे\nव्रतानि दानानि च संयमाश्च हि।\nतपश्च तप्तं यदपत्यकारणा\nत्सुनिष्फलं बीजमिवोप्तमूषरे।।2.20.52।।",
+      "transliteration": "",
+      "translation": "My regret is that all my mortifications, gifts of charity and penances are of no avail. Even the asceticism which I practised for the sake of progeny was fruitless like a seed sown in a barren land.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "यदि ह्यकाले मरणं स्वयेच्छया\nलभेत कश्चिद्गुरुदुःखकर्शितः।\nगताहमद्यैव परेतसंसदं\nविना त्वया धेनुरिवात्मजेन वै।।2.20.53।।",
+      "transliteration": "",
+      "translation": "If any one, tormented with great sorrow, could willingly commit suicide I would have gone the way to the assembly of Yama (the lord of death) right away as without you I will be now like a cow without a calf.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "अथापि किं जीवितमद्य मे वृथा \nत्वया विना चन्द्रनिभाननप्रभ।\nअनुव्रजिष्यामि वनं त्वयैव गौ\nस्सुदुर्बला वत्समिवानुकाङ्क्षया।।2.20.54।।",
+      "transliteration": "",
+      "translation": "What is the use of this life now? What is life without you whose countenance glows like the full Moon? Like a cow emaciated by its search for the calf, I will follow you into the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-20-54",
+      "number": 54,
+      "type": "shloka",
+      "original": "भृशमसुखममर्षिता तदा    \nबहु विललाप समीक्ष्य राघवम्।\nव्यसनमुपनिशम्य सा मह\nत्सुतमिव बद्धमवेक्ष्य किन्नरी।।2.20.55।।",
+      "transliteration": "",
+      "translation": "Kausalya, filled with anger due to extreme sorrow reflected over her misfortune, and burst into harrowing tears, looking at Rama, like a kinnari looking at her grownup son taken captive.  इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे विंशस्सर्गः।। Thus ends the twentieth sarga of Ayodhyakanda of the the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

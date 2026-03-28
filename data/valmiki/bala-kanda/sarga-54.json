@@ -1,0 +1,216 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 54,
+    "title": "Viswamitra attempts to take Kamadhenu by force--Kamadhenu creates hordes of \n\nwarriors -- the army of Viswamitra gets killed.",
+    "titleSanskrit": "",
+    "totalShlokas": 22
+  },
+  "shlokas": [
+    {
+      "id": "v1-54-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "कामधेनुं वसिष्ठोऽपि यदा न त्यज्यते मुनि:।\nतदास्य शबलां राम विश्वामित्रोऽन्वकर्षत।।1.54.1।।",
+      "transliteration": "",
+      "translation": "\"O Rama when sage Vasishta did not consent to part with the wishfulfilling cow, Viswamitra dragged Sabala by force.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-54-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "नीयमाना तु शबला राम राज्ञा महात्मना।\nदु:खिता चिन्तयामास रुदन्ती शोककर्शिता।।1.54.2।।",
+      "transliteration": "",
+      "translation": "O Rama when she was being taken away by the powerful king the distressed Sabala thus reflected choked with sorrow\":",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-54-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "परित्यक्ता वसिष्ठेन किमहं सुमहात्मना।\nयाहं राजभटैर्दीना ह्रियेय भृशदु:खिता।।1.54.3।।",
+      "transliteration": "",
+      "translation": "\"I am being carried away by attendants of the king in this greatly distressed and pitiable condition. Have I been abandoned by the magnanimous Vasishta?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-54-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "किं मयाऽपकृतं तस्य महर्षेर्भावितात्मन:।\nयन्मामनागसं भक्तामिष्टां त्यजति धार्मिक:।।1.54.4।।",
+      "transliteration": "",
+      "translation": "What harm have I done to the pious maharshi, a compassionate soul? Why does he  forsake me, his auspicious one, despite my innocence and devotion\"?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-54-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "इति सा चिन्तयित्वा तु विनिश्श्वस्य पुन:पुन:।\nनिर्धूय तांस्तदा भृत्यान् शतशश्शत्रुसूदन ।\nजगामानिलवेगेन पादमूलं महात्मन:।।1.54.5।।",
+      "transliteration": "",
+      "translation": "\"O Destroyer of enemies thus thinking and repeatedly sighing, that cow shook off those attendants who were in hundreds and ran towards the feet of the illustrious Vasishta with the speed of the wind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-54-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "शबला सा रुदन्ती च क्रोशन्ती चेदमब्रवीत्।\nवसिष्ठस्याग्रतस्स्थित्वा मेघदुन्दुभिराविणी।।1.54.6।।",
+      "transliteration": "",
+      "translation": "Lowing and moaning, standing before Vasishta, roaring like thunder and of kettledrum, Sabala said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-54-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "भगवन् किं परित्यक्ता त्वयाऽहं ब्रह्मणस्सुत।\nयस्माद्राजभृता मां हि नयन्ते त्वत्सकाशत:।।1.54.7।।",
+      "transliteration": "",
+      "translation": "\"O Brahma's son O Venerable one you have abandoned me? For what reason the servants of the king are taking me away from you\"?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-54-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु ब्रह्मर्षिरिदं वचनमब्रवीत्।\nशोकसन्तप्तहृदयां स्वसारमिव दु:खिताम्।।1.54.8।।",
+      "transliteration": "",
+      "translation": "Addressed thus, Bramharshi said to Sabala, like to  a sister whose heart is afflicted with sorrow:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-54-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "न त्वां त्यजामि शबले नापि मेऽपकृतं त्वया।\nएष त्वां नयते राजा बलोन्मत्तो महाबल:।।1.54.9।।",
+      "transliteration": "",
+      "translation": "\"O Sabala I am not forsaking you. You have done me no harm. This highly powerful king is forcibly carrying you away from me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-54-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "न हि तुल्यं बलं मह्यं राजा त्वद्य विशेषत:।\nबली राजा क्षत्रियश्च पृथिव्या: पतिरेव च।।1.54.10।।",
+      "transliteration": "",
+      "translation": "I am no match for his strength, especially he is a king. Being king, he is a warrior, powerful and lord of the earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-54-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "इयमक्षौहिणी पूर्णा सवाजिरथसङ्कुला।\nहस्तिध्वजसमाकीर्णा तेनासौ बलवत्तर:।।1.54.11।।",
+      "transliteration": "",
+      "translation": "He has an entire akshauhini composed of horses, chariots, elephants and banners. Hence he is stonger\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-54-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "एवमुक्ता वसिष्ठेन प्रत्युवाच विनीतवत्।\nवचनं वचनज्ञा सा ब्रह्मर्षिममितप्रभम्।।1.54.12।।",
+      "transliteration": "",
+      "translation": "To these words of  brahmarshi Vasishta armed with immeasurable power, Sabala, who knew the use of words, replied with humility:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-54-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "न बलं क्षत्रियस्याहुर्ब्राह्मणो बलवत्तर:।\nब्रह्मन् ब्रह्मबलं दिव्यं क्षत्रात्तु बलवत्तरम्।।1.54.13।।",
+      "transliteration": "",
+      "translation": "\"O Best of brahmins it is held that the strength of a kshatriya is no greater than a brahmin's. A brahmin possesses great strength his strength is divine. It is greater than that of a kshatriya.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-54-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "अप्रमेयबलं तुभ्यं न त्वया बलवत्तर:।\nविश्वामित्रो महावीर्यस्तेज स्तव दुरासदम्।।1.54.14।।",
+      "transliteration": "",
+      "translation": "Your power is immeasurable. Even though highly valiant, Viswamitra is not greater than you in strength. Your power is unequalled.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-54-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "नियुङ्क्ष्व मां महाभाग त्वद्ब्रह्मबलसम्भृताम्।\nतस्य दर्पबलं यत्तन्नाशयामि दुरात्मन:।।1.54.15।।",
+      "transliteration": "",
+      "translation": "O Highly fortunate one I am possessed of your brahminic power. Command me. I will destroy the insolent and power of that wickedminded one.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-54-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "इत्युक्तस्तु तया राम वसिष्ठ स्सुमहायशा:।\nस���जस्वेति तदोवाच बलं परबलार्दनम्।।1.54.16।।",
+      "transliteration": "",
+      "translation": "O Rama to this, glorious Vasishta replied: \"Create an army capable of crushing the enemy power.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-54-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तस्य तद्वचनं श्रुत्वा सुरभिस्साऽसृजत्तदा।।1.54.17।।\nतस्या हुम्भारवोत्सृष्टा: पप्लवाश्शतशो नृप। \nनाशयन्ति बलं सर्वं विश्वामित्रस्य पश्यत:।।1.54.18।।",
+      "transliteration": "",
+      "translation": "Hearing his words Kamadhenu created an army. O Rama her lowing brought into being Paplavas in hundreds who destroyed the entire army of Viswamitra, while he looked on helplessly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-54-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "बलं भग्नं ततो दृष्ट्वा रथेनाक्रम्य कौशिक:।\nस राजा परमक्रुद्धो रोषविस्फारितेक्षण:।\nपप्लवान्नाशयामास शस्त्रैरुच्चावचैरपि।।1.54.19।।",
+      "transliteration": "",
+      "translation": "Thereafter the king (Viswamitra), having seen his army thus routed, flew into a fury.  Wideeyed with anger, he sat in his chariot and destoyed the Paplavas with various kinds of weapons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-54-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "विश्वामित्रार्दितान् दृष्ट्वा पप्लवाञ्छतशस्तदा।\nभूय एव���सृजत्कोपाच्छकान् यवनमिश्रितान्।।1.54.20।।",
+      "transliteration": "",
+      "translation": "Having seen hundreds of Paplavas crushed by Viswamitra, once again she created out of anger. Sakas mixed with Yavanas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-54-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तैरासीत् संवृता भूमि श्शकैर्यवनमिश्रितै:।\nप्रभावद्भिर्महावीर्यैर्हेमकिञ्जल्कसन्निभै:।।1.54.21।।",
+      "transliteration": "",
+      "translation": "Sakas mixed with Yavanas, resembling golden filaments possessing brilliance and supreme bravery, covered the earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-54-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "दीर्घासिपट्टिशधरैःमवर्णाम्बरावृतै:।\nनिर्दग्धं तद्बलं सर्वं प्रदीप्तैरिव पावकै:।।1.54.22।।",
+      "transliteration": "",
+      "translation": "Sakas and Yavanas, armed with swords and lances, clad in yellow apparel, looking  like flaming fire destroyed the entire army.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-54-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "ततोऽस्त्राणि महातेजा विश्वामित्रो मुमोच ह।\nतैस्तैर्यवनकाम्भोजा: पप्लवाश्चाकुलीकृता:।।1.54.23।।",
+      "transliteration": "",
+      "translation": "Thereafter, most brilliant Viswamitra released weapons. With these weapons, the Yavanas, Kambhojas and Paplavas were scattered\". इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे चतुष्पञ्चाशस्सर्ग:।। Thus ends the fiftyfourth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

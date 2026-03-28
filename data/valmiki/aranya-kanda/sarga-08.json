@@ -1,0 +1,162 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 8,
+    "title": "Rama takes leave of  Sutikshna",
+    "titleSanskrit": "",
+    "totalShlokas": 16
+  },
+  "shlokas": [
+    {
+      "id": "v3-8-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "रामस्तु सहसौमित्रिस्सुतीक्ष्णेनाभिपूजितः।\nपरिणाम्य निशां तत्र प्रभाते प्रत्यबुध्यत।।3.8.1।।",
+      "transliteration": "",
+      "translation": "Rama, worshipped by Sutikshna and accompanied by Lakshmana, spent the night at the hermitage, and got up early in the morning.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-8-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "उत्थाय तु यथाकालं राघवस्सहसीतया।\nउपस्पृश्यसुशितेन जलेनोत्पलगन्धिना।।3.8.2।।",
+      "transliteration": "",
+      "translation": "In the morning Rama and Sita got up in time and took bath in cool, lilyfragrant water.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-8-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "अथ तेऽग्निं सुरांश्चैव वैदेही रामलक्ष्मणौ।\nकाल्यं विधिवदभ्यर्च्य तपस्विशरणे वने।।3.8.3।।\nउदयन्तं दिनकरं दृष्ट्वा विगतकल्मषाः।\nसुतीक्ष्णभिगम्येदं श्लक्ष्णं वचनमब्रुवन्।।3.8.4।।",
+      "transliteration": "",
+      "translation": "And as per routine, sinless Sita, Rama and Lakshmana offered prayers to the fire and other gods of the forest which was the refuge of the ascetics. Seeing the rising Sun, they worshipped him, and approaching Sutikshna,  said these soothing words:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-8-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "सुखोषितास्स्मभगवंस्त्वया पूज्येन पूजिताः।\nआपृच्छामः प्रयास्यामो मुनयस्त्वरयन्ति नः।।3.8.5।।",
+      "transliteration": "",
+      "translation": "O revered Sutikshna received by one so worshipworthy like you, we spent the night well. We (now)take leave of you. The sages  are hastening us.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-8-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "त्वरामहे वयं द्रष्टुं कृत्स्नमाश्रममण्डलम्।\nऋषीणां पुण्यशीलानां दण्डकारण्यवासिनाम्।।3.8.6।।",
+      "transliteration": "",
+      "translation": "We wish to see the entire circle of hermitages of the sages, residing in Dandaka forest. So we are in a hurry.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-8-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अभ्यनुज्ञातुमिच्छामस्सहैभिर्मुनिपुङ्गवैः।\nधर्मनित्यैस्तपोदान्तैर्विशिखैरिव पावकैः।।3.8.7।।",
+      "transliteration": "",
+      "translation": "We seek your permission to go with the great sages, who are ever engaged in righteousness, selfcontrolled by virtue of their penance, and are like flameless fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-8-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "अविषह्यातपो यावत्सूर्यो नातिविराजते।\nअमार्गेणागतां लक्ष्मीं प्राप्येवान्वयवर्जितः।।3.8.8।।\nतावदिच्छामहे गन्तुमित्युक्त्वा चरणौ मुनेः।\nववन्दे सहसौमित्रिस्सीतया सह राघवः।। 3.8.9।।",
+      "transliteration": "",
+      "translation": "We wish to depart before the Sun grows unbearably hot like the man devoid of good lineage who acquires wealth through unlawful means (becomes arrogant). Thereafter Rama along with Sita and Lakshmana offered worship at the feet of the venerable sage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-8-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तौ संस्पृशन्तौ चरणावुत्थाप्य मुनिपुङ्गवः।\nगाढमालिङ्ग्य सस्नेहमिदं वचनमब्रवीत्।।3.8.10।।",
+      "transliteration": "",
+      "translation": "When both Rama and Lakshmana touched the feet of Sutikshna, the best of the sages, he lifted them up, hugged them tightly, and said affectionately:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-8-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "अरिष्टं गच्छ पन्थानं राम सौमित्रिणा सह।\nसीतया चानया सार्धं छाययेवानुवृत्तया।।3.8.11।।",
+      "transliteration": "",
+      "translation": "You may safely tread, O Rama, this path along with Lakshmana and Sita who is following you like a shadow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-8-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "पश्याश्रमपदं रम्यं दण्डकारण्यवासिनाम्।\nएषां तपस्विनां वीर तपसा भावितात्मनाम्।।3.8.12।।",
+      "transliteration": "",
+      "translation": "O valient Rama the sages, living in  the Dandaka forest, are self realised souls. See how delightful is the location of their hermitages.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-8-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "सप्राज्यफलमूलानि पुष्पितानि वनानि च।\nप्रशस्तमृगयूथानि शान्तपक्षिगणानि च।। 3.8.13।।\nफुल्लपङ्कजषण्डानि प्रसन्नसलिलानि च।\nकारण्डवविकीर्णानि तटाकानि सरांसि च।।3.8.14।।\nद्रक्ष्यसे दृष्टिरम्याणि गिरिप्रस्रवणानि च।\nरमणीयान्यरण्यानि मयूराभिरुतानि च।।3.8.15।।",
+      "transliteration": "",
+      "translation": "You will see the beautiful forestareas with abundant fruits and roots, flowers in full bloom, herds of animals, flocks of quiet birds tanks and lakes filled  with clean waters and shining with fully blossomed lotuses, resounding with waterducks and peacocks  and waterfalls coming down the hills. Thus you will enjoy a delightful sylvan sight.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-8-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "गम्यतां वत्स सौमित्रे भवानपि च गच्छतु।\nआगन्तव्यं च ते दृष्ट्वा पुनरेवाश्रमं मम।।3.8.16।।",
+      "transliteration": "",
+      "translation": "O dear Rama, O Lakshmana you may leave (now), you may have to come back to this hermitage after seeing those places.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-8-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "एवमुक्तस्तथेत्युक्त्वा काकुत्स्थस्सहलक्ष्मणः।\nप्रदक्षिणं मुनिं कृत्वा प्रस्थातुमुपचक्रमे।।3.8.17।।",
+      "transliteration": "",
+      "translation": "Thus addressed, Rama, scion of the Kakutsthas along with Lakshmana circumambulated the sage (in reverence) and set forth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-8-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "ततश्शुभतरे तूणी धनुषी चायतेक्षणा।\nददौ सीता तयोर्भ्रात्रोः खङ्गौ च विमलौ ततः।।3.8.18।।",
+      "transliteration": "",
+      "translation": "Thereafter largeeyed Sita handed the brothers two quivers, two bows as well as two excellent swords.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-8-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "आबध्य च शुभे तूणी चापे चादाय सुस्वनौ।\nनिष्क्रान्तावाश्रमाद्गन्तुमुभौ तौ रामलक्ष्मणौ।।3.8.19।।",
+      "transliteration": "",
+      "translation": "Both Rama and Lakshmana  tied their auspicious quivers, took the two twanging bows and departed from the hermitage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-8-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "श्रीमन्तौ रूपसम्पन्नौ दीप्यमानौ स्वतेजसा।\nप्रस्थितौ धृतचापौ तौ सीतया सह राघवौ।।3.8.20।।",
+      "transliteration": "",
+      "translation": "Handsome Rama and Lakshmana, glowing in their radiance held the bows and exited  with Sita. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे अष्टमस्सर्गः।। Thus ends the eighth sarga of Aranyakanda of the holy Ramayana the first epic  composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,945 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 12,
+    "title": "Lamentations of king Dasaratha.",
+    "titleSanskrit": "",
+    "totalShlokas": 103
+  },
+  "shlokas": [
+    {
+      "id": "v2-12-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततश्शृत्वा महाराजः कैकेय्या दारुणं वचः। \nचिन्तामभिसमापेदे मुहूर्तं प्रतताप च।।2.12.1।।",
+      "transliteration": "",
+      "translation": "After hearing the dreadful words of Kaikeyi, the maharaja (Dasaratha), engulfed in grief, was extremely distressed for a moment.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "किन्नु मे यदि वा स्वप्नश्चित्तमोहोऽपि वा मम। \nअनुभूतोपसर्गो वा मनसो वाप्युपद्रवः।।2.12.2।।",
+      "transliteration": "",
+      "translation": "' Is this a dream? Or a hallucination of the mind? Or some foreboding evil I am going to experience or a malady of my mind'? (wondered Dasaratha)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "इति सञ्चिन्त्य तद्राजा नाध्यगच्छत्तदासुखम्।\nप्रतिलभ्य चिरात्संज्ञां कैकेयीवाक्यताडितः।।2.12.3।।\nव्यथितो विक्लबश्चैव व्याघ्रीं दृष्ट्वा यथा मृगः।\nअसंवृतायामासीनो जगत्यां दीर्घमुच्छवसन्।।2.12.4।।\nमण्डले पन्नगो रुद्धो मन्त्रैरिव महाविषः।\nअहो धिगिति सामर्षो वाचमुक्त्वा नराधिपः।।2.12.5।।\nमोहमापेदिवान्भूय श्शोकोपहतचेतनः।",
+      "transliteration": "",
+      "translation": "The King absorbed in such thoughts did not get solace. He was startled  and distressed like a deer beholding a tigress. He had long lost the senses struck by the (ruthless) words of Kaikeyi. He sank down upon the bare floor heaving deep sighs like  a venomous serpent lying confined in a circle. 'What a pity' said the king with indignation and with his senses overwhelmed  by sorrow  fell into a stupor again.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "चिरेण तु नृप स्संज्ञां प्रतिलभ्य सुदुःखितः।।2.12.6।।\nकैकेयीमब्रवीत्क्रुद्धःप्रदहन्निव चक्षुषा।",
+      "transliteration": "",
+      "translation": "Regaining his consciousness after a long time, the king in deep grief and with eyes as though burning in anger looked at  Kaikeyi  and said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "नृशंसे दुष्टचारित्रे कुलस्यास्य विनाशिनि।।2.12.7।।\nकिं कृतं तव रामेण पापं पापे मयापि वा।",
+      "transliteration": "",
+      "translation": "O woman of cruel and sinful nature, you are bent on destroying this family. What harm has been done to you  by Rama or by me?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "यदा ते जननीतुल्यां वृत्तिं वहति राघव: ।।2.12.8।।\t\nतस्यैव त्वमनर्थाय किंनिमित्तमिहोद्यता ।",
+      "transliteration": "",
+      "translation": "Then Rama was conducting himself in relation to you as his own mother, for what purpose are you seeking injustice to such a person?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "त्वं मयाऽऽत्मविनाशार्थं भवनं स्वं प्रवेशिता।।2.12.9।।\nअविज्ञानान्नृपसुता व्याली तीक्ष्णविषा यथा।",
+      "transliteration": "",
+      "translation": "In my ignorance I brought home for my selfdestruction a king's daughter who was like a venomous female serpent.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "जीवलोको यदा सर्वो रामस्याह गुणस्तवम्।।2.12.10।।\nअपराधं किमुद्दिश्य त्यक्ष्यामीष्टमहं सुतम्।",
+      "transliteration": "",
+      "translation": "When all living beings of this world are extoling the virtues of Rama, for what crime should I abandon my beloved son?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "कौसल्यां वा सुमित्रां वा त्यजेयमपि वा श्रियम्।।2.12.11।।\nजीवितं वाऽत्मनो रामं न त्वेव पितृवत्सलम्।",
+      "transliteration": "",
+      "translation": "I shall give up Kausalya or Sumitra or all my wealth or even my own life but I cannot leave Rama who is devoted to his father.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "परा भवति मे प्रीतिर्दृष्ट्वा तनयमग्रजम्।।2.12.12।।\nअपश्यतस्तु मे रामं नष्टा भवति चेतना।",
+      "transliteration": "",
+      "translation": "When I see my firstborn , I experience supreme delight. But if I do not see him, my  life loses its meaning.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तिष्ठेल्लोको विना सूर्यं शस्यं वा सलिलं विना।।2.12.13।।\nन तु रामं विना देहे तिष्ठेत्तु मम जीवितम्।",
+      "transliteration": "",
+      "translation": "This world can exist without the Sun or crops (can be grown) without water but without Rama, life would not exist in my body.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "तदलं त्यज्यतामेष निश्चयः पापनिश्चये।।2.12.14।।\nअपि ते चरणै मूर्ध्ना स्पृशाम्येष प्रसीद मे।",
+      "transliteration": "",
+      "translation": "O lady of evil intentions, enough of this. Give up your resolve. Here I touch your feet with my head. Be pleased with me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "किमिदं चिन्तितं पापे त्वया परमदारुणम्।।2.12.15।।\nअथ जिज्ञाससे मां त्वं भरतस्य प्रियाप्रिये। \t\nअस्तु यत्तत्त्वया पूर्वं व्याहृतं राघवं प्रति।।2.12.16।।\nस मे ज्येष्ठस्सुत श्रीमान्धर्मज्येष्ठ इतीव मे।\nतत्त्वया प्रियवादिन्या सेवार्थं कथितं भवेत्।।2.12.17।।",
+      "transliteration": "",
+      "translation": "O sinful one why have you got this most dreadful thought? Do you want to know  my likes or dislikes about Bharata? Let them be so.But speaking of Rama earlier, you used to say, 'Rama is my eldest son. He is noble and foremost in discharging his  duties.' Such sweet words could not have been said only to please me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तच्छ्रुत्वा शोकसन्तप्ता सन्तापयसि मां भृशम्।\nआविष्टाऽसि गृहं शून्यं सा त्वं परवशं गता।।2.12.18।।",
+      "transliteration": "",
+      "translation": "Further you are tormented with sorrow under the influence of others' insinuations. You are causing me great pain by entering the empty chamber of wrath.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "इक्ष्वाकूणां कुले देवि सम्प्राप्तस्सुमहानयम्। \nअनयो नयसम्पन्ने यत्र ते विकृता मतिः।।2.12.19।।",
+      "transliteration": "",
+      "translation": "O queen, till now you had a moral sense. With your mind debased (now), a very great immorality has infected the  Ikshvaku race.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "नहि किञ्चिदयुक्तं वा विप्रियं वा पुरा मम।\nअकरोस्त्वं विशालाक्षि तेन न श्रद्दधाम्यहम्।।2.12.20।।",
+      "transliteration": "",
+      "translation": "O largeeyed lady, you have never done anything improper or unpalatable towards me in the past. Therefore I do not  believe your words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "ननु ते राघवस्तुल्यो भरतेन महात्मना।\nबहुशो हि सुबाले त्वं कथाः कथयसे मम।।2.12.21।।",
+      "transliteration": "",
+      "translation": "O childish one, you used to tell me several times that Rama is as dear to you as the highsouled Bharata.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तस्य धर्मात्मनो देवि वनवासं यशस्विनः।\nकथं रोचयसे भीरु नव वर्षाणि पञ्च च।।2.12.22।।",
+      "transliteration": "",
+      "translation": "O lady how do you wish this righteous and illustrious Rama to dwell in the forest for fourteen years?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "अत्यन्तसुकुमारस्य तस्य धर्मे धृतात्मनः।\nकथं रोचयसे वासमरण्ये भृशदारुणे।।2.12.23।।",
+      "transliteration": "",
+      "translation": "Why do you want Rama who is so tender and a firm follower of dharma to dwell in the highly dreadful forest?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "रोचयस्यभिरामस्य रामस्य शुभलोचने।\nतव शुश्रूषमाणस्य किमर्थं विप्रवासनम्।।2.12.24।।",
+      "transliteration": "",
+      "translation": "O woman with attractive eyes, why do you want Rama who is so charming and serving you to be exiled to a distant place?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "रामो हि भरताद्भूयस्तव शुश्रूषते सदा।\nविशेषं त्वयि तस्मात्तु भरतस्य न लक्षये।।2.12.25।।",
+      "transliteration": "",
+      "translation": "Rama is doing greater service to you than Bharata. Therefore, I do not find any reason for you to have a special love for Bharata.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "शुश्रूषां गौरवं चैव प्रमाणं वचनक्रियाम्।\nकस्ते भूयस्तरं कुर्यादन्यत्र मनुजर्षभात्।।2.12.26।।\t\nबहूनां स्त्रीसहस्राणां बहूनां चोपजीविनाम्।",
+      "transliteration": "",
+      "translation": "There are many thousands of women and attendants (in the inner apartment), but who will do greater service and honour you more than Rama, the best among men in the execution of your orders.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "परिवादोऽपवादो वा राघवे नोपपद्यते।।2.12.27।।\nसान्त्वयन्सर्वभूतानि राम श्शुद्धेन चेतसा।\nगृह्णाति मनुजव्याघ्र प्रियैर्विषयवासिनः।।2.12.28।।",
+      "transliteration": "",
+      "translation": "The best among men, Rama has won the trust of the inhabitants of the country by securing their affection with a pure heart and by doing acts dear to them. Therefore, neither a word of blame nor reproach applies to this scion of the Raghu dynasty (Rama).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "सत्येन लोकान् जयति दीनान् दानेन राघवः।\nगुरूञ्छुश्रूषया वीरो धनुषा युधि शात्रवान्।।2.12.29।।",
+      "transliteration": "",
+      "translation": "Rama is a hero who wins over the people by his truthfulness, the poor by charity, the preceptors by his service and the enemies in the battle by the power of  his bow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "सत्यं दानं तपस्त्यागो मित्रता शौचमार्जवम्।\nविद्या च गुरुशुश्रूषा ध्रुवाण्येतानि राघवे।।2.12.30।।",
+      "transliteration": "",
+      "translation": "Truth, munificence, asceticism, renunciation, purity, uprightness, learning and service to his superiors all those (virtues) are firmly planted in this descendant of the Raghus.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "तस्मिन्नार्जवसम्पन्ने देवि देवोपमे कथम्।\nपापमाशंससे रामे महर्षिसमतेजसि।।2.12.31।।",
+      "transliteration": "",
+      "translation": "How do you, O Devi, wish to harm Rama who is endowed with uprightness, who resembles the gods and in lustre to great ascetics?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "न स्मराम्यप्रियं वाक्यं लोकस्य प्रियवादिनः।\nस कथं त्वत्कृते रामं वक्ष्यामि प्रियमप्रियम्।।2.12.32।।",
+      "transliteration": "",
+      "translation": "How can I, for your sake, speak harsh to my beloved Rama who uses pleasing words to the people of the world, and never an unpleasant word which I can recall?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "क्षमा यस्मिन्दमस्त्याग सत्यं धर्मः कृतज्ञता।\nअप्यहिंसा च भूतानां तमृते का गतिर्मम।।2.12.33।।",
+      "transliteration": "",
+      "translation": "Where is the refuge for me without him in whom dwell forgiveness, forbearance, renunciation, truthfulness, righteousness, gratefulness and also nonviolence towards all living beings?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "मम वृद्धस्य कैकेयि गतान्तस्य तपस्विनः।\nदीनं लालप्यमानस्य कारुण्यं कर्तुमर्हसि।।2.12.34।।",
+      "transliteration": "",
+      "translation": "O Kaikeyi, you should show mercy to this wretched, old man on the verge of death, wailing pitifully.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "पृथिव्यां सागरान्तायां यत्किञ्चिदधिगम्यते।\nतत्सर्वं तव दास्यामि मा च त्वां मन्युराविशेत्।।2.12.35।।",
+      "transliteration": "",
+      "translation": "I shall give you all that can be secured on this earth bounded by the ocean. Show no anger.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "अञ्जलिं करोमि कैकेयि पादौ चापि स्पृशामि ते।\nशरणं भव रामस्य माऽधर्मो मामिह स्पृशेत्।।2.12.36।।",
+      "transliteration": "",
+      "translation": "O Kaikeyi I bow to you with folded palms. I touch your feet, too. Be the saviour of Rama. Let no sin taint me here (in this life).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "इति दुःखाभिसन्तप्तं विलपन्तमचेतनम्।\nघूर्णमानं महाराजं शोकेन समभिप्लुतम्।।2.12.37।।\nपारं शोकार्णवस्याशु प्रार्थयन्तं पुनः पुनः। \t\nप्रत्युवाचाथ कैकेयी रौद्रा रौद्रतरं वचः।।2.12.38।।",
+      "transliteration": "",
+      "translation": "Then the fierce Kaikeyi used fiercer words in reply to the king who was tormented with grief and filled with tears, senses switched off, head reeling, overwhelmed with pain, beseeching again and again to ferry him across the ocean of sorrow as quickly as possible:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "यदि दत्त्वा वरौ राजन्पुनः प्रत्यनुतप्यसे। \nधार्मिकत्वं कथं वीर पृथिव्यां कथयिष्यसि।।2.12.39।।",
+      "transliteration": "",
+      "translation": "O valiant king, if you repent like this after having given two boons, how will you talk about your righteousness on this earth?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "यदा समेता बहवस्त्वया राजर्षय स्सह। \nकथयिष्यन्ति धर्मज्ञ तत्र किं प्रतिवक्ष्यसि।।2.12.40।।",
+      "transliteration": "",
+      "translation": "O knower of righteousness when innumerable rajarshis assemble and ask you on this what answer will you give?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "यस्याः प्रसादे जीवामि या च मामभ्यपालयत्।\nतस्याः कृतम् मया मिथ्या कैकेय्या इति वक्षयसि।।2.12.41।।",
+      "transliteration": "",
+      "translation": "Will you say, 'To such a Kaikeyi by whose mercy I am alive and by whom I was protected, I have broken the promise given'?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "किल्बिषत्वं नरेन्द्राणां करिष्यसि नराधिप।\nयो दत्वा वरमद्यैव पुनरन्यानि भाषसे।।2.12.42।।",
+      "transliteration": "",
+      "translation": "O king, right now having given two boons, you are speaking otherwise. You are bringing blemish to kings (of the Ikshwaku race)",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "शैब्यश्श्येनकपोतीये स्वमांसं पक्���िणे ददौ।\nअलर्कश्चक्षुषी दत्वा जगाम गतिमुत्तमाम्।।2.12.43।।",
+      "transliteration": "",
+      "translation": "(King) Saibya gave his own flesh to the hawk in the conflict between the hawk and the pigeon. (King) Alarka gave his eyes (to a blind man) and attained the highest state.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "सागरस्समयं कृत्वा न वेलामतिवर्तते।\nसमयं माऽनृतं कार्षीः पूर्ववृत्तमनुस्मरन्।।2.12.44।।",
+      "transliteration": "",
+      "translation": "Having made the vow (to the gods), the ocean does not advance beyond the shore. Recollect the history of the earlier kings and do not make the vow false.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "स त्वं धर्मं परित्यज्य रामं राज्येऽभिषिच्य च।\nसह कौसल्यया नित्यं रन्तुमिच्छसि दुर्मते।।2.12.45।।",
+      "transliteration": "",
+      "translation": "O wickedminded one, deserting righteousness and installing Rama in the kingdom,  you want to enjoy life with Kausalya everafter?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "भवत्वधर्मो धर्मो वा सत्यं वा यदि वाऽनृतम्।\nयत्त्वया संश्रुतं मह्यं तस्य नास्ति व्यतिक्रमः।।2.12.46।।",
+      "transliteration": "",
+      "translation": "Whether righteous or unrighteous, true or false, there is no deviation from what you have promised to me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "अहं हि विषमद्यैव पीत्वा बहु तवाग्रतः।\nपश्यतस्ते मरिष्यामि रामो यद्यभिषिच्यते।।2.12.47।।",
+      "transliteration": "",
+      "translation": "If Rama is coronated I will die while as you are watching right in your presence today itself by drinking excessive poison.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "एकाहमपि पश्येयं यद्यहं राममातरम्।\nअञ्जलिं प्रतिगृह्णन्तीं श्रेयो ननु मृतिर्मम।।2.12.48।।",
+      "transliteration": "",
+      "translation": "If I were to see Rama's mother receiving homage from everybody even for a day, I shall prefer my death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "भरतेनात्मना चाहं शपे ते मनुजाधिप। \nयथा नान्येन तुष्येयमृते रामविवासनात्।।2.12.49।।",
+      "transliteration": "",
+      "translation": "O king, I swear on Bharata and on my own life that nothing less than Rama's banishment will satisfy me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "एतावदुक्त्वा वचनं कैकेयी विरराम ह।\nविलपन्तं च राजानं न प्रतिव्याजहार सा।।2.12.50।।",
+      "transliteration": "",
+      "translation": "Kaikeyi, having spoken to this extent remained silent. She heeded not the lament of  the king.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "श्रुत्वा तु राजा कैकेय्या वृतं परमशोभनम्।\nरामस्य च वने वासमैश्वर्यं भरतस्य च।।2.12.51।।\t\nनाभ्यभाषत कैकेयीं मुहूर्तं व्याकुलेन्द्रियः।",
+      "transliteration": "",
+      "translation": "Having heard of the highly unfair demands by Kaikeyi for Rama's exile to the forest and Bharata's prosperity (enthronement), the king was dumbstruck for a while with his senses agitated. He did not speak to Kaikeyi.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "प्रैक्षतानिमिषो देवीं प्रियामप्रियवादिनीम्।।2.12.52।।\nतां हि वज्रसमां वाचमाकर्ण्य हृदयाप्रियाम्।\nदुःखशोकमयीं घोरां राजा न सुखितोऽभवत्।।2.12.53।।",
+      "transliteration": "",
+      "translation": "The unhappy king intently fixed his gaze at his beloved queen speaking unpleasant words charged with grief and anguish, unpleasant to the heart like the dreadful thunderbolt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "स देव्या व्यवसायं च घोरं च शपथं कृतम्।\nध्यात्वा रामेति निश्श्वस्य छिन्न स्तरुरिवापतत्।।2.12.54।��",
+      "transliteration": "",
+      "translation": "Reflecting on the determination of the queen and her dreadful vow, the king sighed and cried, 'O Rama' and then fell down like a tree severed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "नष्टचित्तो यथोन्मत्तो विपरीतो यथाऽतुरः।\nहृततेजा यथा सर्पो बभूव जगतीपतिः।।2.12.55।।",
+      "transliteration": "",
+      "translation": "The lord of the earth (Dasaratha) became like a man with the mind deranged, like a sick man behaving to the contrary, like a serpent with its energy drained (through mantra).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "दीनया तु गिरा राजा इति होवाच कैकयीम्।\nअनर्थमिममर्थाभं केन त्वमुपदर्शिता।।2.12.56।।\nभूतोपहतचित्तेव ब्रुवन्ती मां न लज्जसे।",
+      "transliteration": "",
+      "translation": "The king addressed Kaikeyi in humble words saying, Why did you exhibit this unfortunate act apparently beneficial to you? You are not ashamed of saying this like one whose faculties are possessed by an evil spirit.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "शीलव्यसनमेतत्ते नाभिजानाम्यहं पुरा।।2.12.57।।\t\nबालायास्तत्त्वितिदानीं ते लक्षये विपरीतवत्।",
+      "transliteration": "",
+      "translation": "I never knew earlier when you were young that you possessed such perverse behaviour. But now I perceive the reverse (of what I knew).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "कुतो वा ते भयं जातं या त्वमेवंविधं वरम्।।2.12.58।।\nराष्ट्रे भरतमासीनं वृणीषे राघवं वने।",
+      "transliteration": "",
+      "translation": "You are asking for a boon that Bharata should be enthroned in the kingdom while Rama should live in the forest. From where did you get this apprehension?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "विरमैतेन भावेन त्वमेतेनानृतेन वा।।2.12.59।।\nयदि भर्तुः प्रियं कार्यं लोकस्य भरतस्य च।",
+      "transliteration": "",
+      "translation": "If you wish to do good to your husband, to the world and also to Bharata, refrain from this illusory thought.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "नृशंसे पापसङ्कल्पे क्षुद्रे दुष्कृतकारिणि।।2.12.60।।\nकिन्नु दुखमलीकं वा मयि रामे च पश्यसि।",
+      "transliteration": "",
+      "translation": "O cruel one, O woman of sinful resolve, O vile (creature), O woman of evil deeds, what  wrong or sin do you really see in Rama or in me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-54",
+      "number": 54,
+      "type": "shloka",
+      "original": "न कथञ्चिदृते रामाद्भरतो राज्यमावसेत��।।2.12.61।।\nरामादपि हि तं मन्ये धर्मतो बलवत्तरम्।",
+      "transliteration": "",
+      "translation": "Depriving Rama, Bharata in no way will occupy the kingdom because in the matter of righteousness I think he is superior even to Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-55",
+      "number": 55,
+      "type": "shloka",
+      "original": "कथं द्रक्ष्यामि रामस्य वनं गच्छेति भाषिते।।2.12.62।।\nमुखवर्णं विवर्णं तु तं यथैवेन्दुमुपप्लुतम्।",
+      "transliteration": "",
+      "translation": "While instructing Rama to go to the forest, how can I look at his face, pale like the eclipsed moon?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-56",
+      "number": 56,
+      "type": "shloka",
+      "original": "तां हि मे सुकृतां बुद्धिं सुहृद्भिस्सह निश्चिताम्।।2.12.63।।\nकथं द्रक्ष्याम्यपावृत्तां परैरिव हतां चमूम्। \nकिं मां वक्ष्यन्ति राजानो नानादिग्भ्य स्समागताः।।2.12.64।।\nबालो बताऽयमैक्ष्वाकश्चिरं राज्यमकारयत्।",
+      "transliteration": "",
+      "translation": "I have taken this decision in consultation with friends to install Rama. How can I see such a decision being reversed like a retreating army defeated by enemies? Kings from different quarters have already arrived and they will say, How did this ignorant descendant of the Ikshakus (Dasaratha) rule this kingdom for such a long time?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-57",
+      "number": 57,
+      "type": "shloka",
+      "original": "यदा तु बहवो वृद्धा गुणवन्तो बहुश्रुताः।।2.12.65।।\nपरिप्रक्ष्यन्ति काकुत्स्थं वक्ष्यामि किमहं तदा।",
+      "transliteration": "",
+      "translation": "When several virtuous and learned elders ask me about Rama, what shall I tell them?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-58",
+      "number": 58,
+      "type": "shloka",
+      "original": "कैकेय्या क्लिश्यमानेन रामः प्रव्राजितो मया।।2.12.66।।\nयदि सत्यं ब्रवीम्येतत्तदसत्यं भविष्यति।",
+      "transliteration": "",
+      "translation": "If I tell the truth 'Tortured by Kaikeyi, I have sent Rama to the forest', none will believe it  and they will consider it untruth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-59",
+      "number": 59,
+      "type": "shloka",
+      "original": "किं मां वक्ष्यति कौशल्या राघवे वनमास्थिते।।2.12.67।।\nकिं चैनां प्रतिवक्ष्यामि कृत्वा विप्रियमीदृशम्।",
+      "transliteration": "",
+      "translation": "If Rama takes refuge in the forest, what will Kausalya say to me? Having committed such an unpleasant act, what reply can I give her?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-60",
+      "number": 60,
+      "type": "shloka",
+      "original": "यदा यदा हि कौशल्या दासीवच्च सखीव च।।2.12.68।।\nभार्यावद्भगिनीवच्च मातृवच्चोपतिष्ठति। \nसततं प्रियकामा मे प्रियपुत्रा प्रियंवदा।।2.12.69।।\nन मया सत्कृता देवी सत्कारार्हा कृत��� तव।",
+      "transliteration": "",
+      "translation": "Sweetspoken Kausalya who always cherishes my welfare. who has given me my beloved son, who has served me like an attendant, a friend, a wife, a sister and a mother deserved courteous treatment from me, but  because of you, she never received due attention from me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-61",
+      "number": 61,
+      "type": "shloka",
+      "original": "इदानीं तत्तपति मां यन्मया सुकृतं त्वयि।।2.12.70।।\nअपथ्यव्यञ्जनोपेतं भुक्तमन्नमिवातुरम्।",
+      "transliteration": "",
+      "translation": "I have done many favours to you. Like a sick person afflicted by eating rice mixed with unwholesome curry, those acts of kindness are burning me now.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-62",
+      "number": 62,
+      "type": "shloka",
+      "original": "विप्रकारं च रामस्य सम्प्रयाणं वनस्य च।।2.12.71।।\nसुमित्रा प्रेक्ष्य वै भीता कथं मे विश्वसिष्यति।",
+      "transliteration": "",
+      "translation": "In seeing the insult meted out to Rama and his journey to the forest, how will frightened  Sumitra  have confidence in me?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-63",
+      "number": 63,
+      "type": "shloka",
+      "original": "कृपणं बत वैदेही श्रोष्यति द्वयमप्रियम्।।2.12.72।।\nमां च पञ्चत्वमापन्नं रामं च वनमाश्रितम्।",
+      "transliteration": "",
+      "translation": "Alas Sita will listen in a pitiable state the two unpleasant events namely my death and  Rama's exile to the foest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-64",
+      "number": 64,
+      "type": "shloka",
+      "original": "वैदेही बत मे प्राणान्शोचन्ती क्षपयिष्यति।।2.12.73।।\nहीना हिमवतः पार्श्वे किन्नरेणेव किन्नरी।",
+      "transliteration": "",
+      "translation": "What a pity Vaidehi, lamenting like a Kinnari forsaken by a Kinnara on the Himalayan slopes, will cause death to me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-65",
+      "number": 65,
+      "type": "shloka",
+      "original": "न हि राममहं दृष्ट्वा प्रवसन्तं महावने।।2.12.74।।\nचिरं जीवितुमाशंसे रुदन्तीं चापि मैथिलीम्।",
+      "transliteration": "",
+      "translation": "With Rama living in the wilderness and Sita crying, I do not hope to survive for long, indeed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-66",
+      "number": 66,
+      "type": "shloka",
+      "original": "सा नूनं विधवा राज्यं सपुत्रा कारयिष्यसि।।2.12.75।।\nन हि प्रव्राजिते रामे देवि जीवितुमुत्सहे।",
+      "transliteration": "",
+      "translation": "O Devi you will certainly rule the kingdom as a widow along with your son. (But) I do not wish to live after Rama is exiled.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-67",
+      "number": 67,
+      "type": "shloka",
+      "original": "सतीं त्वामहमत्यन्तं व्यवस्याम्यसतीं सतीम्। \nरूपिणीं विषसंयुक्तां पीत्वेव मदिरां नरः।।2.12.76।।",
+      "transliteration": "",
+      "translation": "Like people regarding wine mixed with poison as fine before drinking it, I had a firm belief that you were a chaste woman, but while you who look extremely beautiful you are actually not so.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-68",
+      "number": 68,
+      "type": "shloka",
+      "original": "अनृतैर्बहु मां सान्त्वै स्सान्त्वयन्ती स्म भाषसे। \nगीतशब्देन संरुध्य लुब्धो मृगमिवावधीः।।2.12.77।।",
+      "transliteration": "",
+      "translation": "You used to console me with so many words pleasing but untrue and you killed me like a hunter getting the deer trapped and slaughtered through the melody of music.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-69",
+      "number": 69,
+      "type": "shloka",
+      "original": "अनार्य इति मामार्याः पुत्रविक्रायकं ध्रुवम्। \nधिक्करिष्यन्ति रथ्यासु सुरापं ब्राह्मणं यथा।।2.12.78।।",
+      "transliteration": "",
+      "translation": "Respectable people on the highway will certainly say 'He sold away his son' and censure me as a mean person like a brahmin consuming liquor.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-70",
+      "number": 70,
+      "type": "shloka",
+      "original": "अहो दुःखमहो कृच्छ्रं यत्र वाचः क्षमे तव। \nदुःखमेवंविधं प्राप्तं पुराकृतमिवाशुभम्।।2.12.79।।",
+      "transliteration": "",
+      "translation": "What suffering What a calamity that I am made to put up with your words. I am subject to this suffering may be as expiation for the sin formerly committed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-71",
+      "number": 71,
+      "type": "shloka",
+      "original": "चिरं खलु मया पापे त्वं पापेनाभिरक्षिता। \nअज्ञानादुपसम्पन्ना रज्जुरुद्बन्धिनी यथा।।2.12.80।।",
+      "transliteration": "",
+      "translation": "O wretch I protected you in my folly for a long time through ignorance, like a rope preserved which turned out to be a noose to hang me with.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-72",
+      "number": 72,
+      "type": "shloka",
+      "original": "रममाणस्त्वया सार्धं मृत्युं त्वां नाभिलक्षये। \nबालो रहसि हस्तेन कृष्णसर्पमिवास्पृशम्।।2.12.81।।",
+      "transliteration": "",
+      "translation": "While sporting with you, I did not realize you were death incarnate. Like a child handling a black cobra I caressed you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-73",
+      "number": 73,
+      "type": "shloka",
+      "original": "मया ह्यपितृकः पुत्र स्समहात्मा दुरात्मना। \nतं तु मां जीवलोकोऽयं नूनमाक्रोष्टुमर्हति।।2.12.82।।",
+      "transliteration": "",
+      "translation": "Wicked I am, I have made that magnanimous Rama fatherless. This world of living beings is certainly entitled to condemn me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-74",
+      "number": 74,
+      "type": "shloka",
+      "original": "बालिशो बत कामात्मा राजा दशरथो भृशम्।\nयः स्त्रीकृते प्रियं पुत्रं वनं प्रस्थापयिष्यति।।2.12.83।।",
+      "transliteration": "",
+      "translation": "(They will say), 'Alas how utterly foolish and lustful is king Dasaratha who is sending his beloved son to the forest for the sake of a woman'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-75",
+      "number": 75,
+      "type": "shloka",
+      "original": "व्रतैश्च ब्रह्मचर्यैश्च गुरुभिश्चोपकर्शितः।\nभोगकाले महत्कृच्छ्रं पुनरेव प्रपत्स्यते।।2.12.84।।",
+      "transliteration": "",
+      "translation": "'(Rama) already emaciated by observing vows related to ritual and celibacy in compliance with the orders of the preceptors has to undergo hardships again at a time when he should enjoy pleasures (of life)'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-76",
+      "number": 76,
+      "type": "shloka",
+      "original": "नालं द्वितीयं वचनं पुत्रो मां प्रतिभाषितुम्।\nस वनं प्रव्रजेत्युक्तो बाढमित्येव वक्ष्यति।।2.12.85।।",
+      "transliteration": "",
+      "translation": "My son Rama will not say a second word to me, if I tell him 'Go to the forest'.He will say, 'Certainly so'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-77",
+      "number": 77,
+      "type": "shloka",
+      "original": "यदि मे राघवः कुर्याद्वनं गच्छेति चोदितः।\nप्रतिकूलं प्रियं मे स्यान्न तु वत्सः करिष्यति।।2.12.86।।",
+      "transliteration": "",
+      "translation": "If this scion of the Raghu race (Rama) urged to go to the forest acts against my order, it will be welcome but my son will not do it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-78",
+      "number": 78,
+      "type": "shloka",
+      "original": "शुद्धभावो हि भावं मे न तु ज्ञास्यति राघवः।।2.12.87।।\t\nस वनं प्रब्रजे त्युक्तो बाढ मित्येव वक्षयति।",
+      "transliteration": "",
+      "translation": "The descendant of the Raghus (Rama) who is pure in thought will not come to know my intention. Therefore if I tell him 'Go to the forest,' he will say, 'Certainly so'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-79",
+      "number": 79,
+      "type": "shloka",
+      "original": "राघवे हि वनं प्राप्ते सर्वलोकस्य धिक्कृतम्।।2.12.88।।\nमृत्युरक्षमणीयं मां नयिष्यति यमक्षयम्।",
+      "transliteration": "",
+      "translation": "If Rama goes to the forest, the god of death will conduct me to his abode, for condemned by the entire world, I shall not be forgiven (even by Yama).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-80",
+      "number": 80,
+      "type": "shloka",
+      "original": "मृते मयि गते रामे वनं मनुजपुङ्गवे।।2.12.89।।\nइष्टे मम जने शेषे किं पापं प्रतिपत्स्यसे।",
+      "transliteration": "",
+      "translation": "With me dead and Rama, the best among men, banished, what harmful acts are you contemplating against my wellwishers?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-81",
+      "number": 81,
+      "type": "shloka",
+      "original": "कौशल्या मां च रामं च पुत्रौ च यदि हास्यति।।2.12.90।।\nदुःखान्यसहती देवी मामेवानुमरिष्यति।",
+      "transliteration": "",
+      "translation": "If queen Kausalya loses me, Rama, Lakshmana and Satrughna will follow me into death, unable to bear the grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-82",
+      "number": 82,
+      "type": "shloka",
+      "original": "कौसल्यां च सुमित्रां च मां च पुत्रैस्त्रिभिस्सह।।2.12.91।।\t\nप्रक्षिप्य नरके सा त्वं कैकेयि सुखिता भव।",
+      "transliteration": "",
+      "translation": "O Kaikeyi consign Kausalya, Sumitra, me and my three sons into hell and be happy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-83",
+      "number": 83,
+      "type": "shloka",
+      "original": "मया रामेण च त्यक्तं शाश्वतं सत्कृतं गुणैः।।2.12.92।।\nइक्ष्वाकुकुलमक्षोभ्यमाकुलं पालयिष्यसि।",
+      "transliteration": "",
+      "translation": "You will rule undisturbed the Ikshvaku race honoured for its divine virtues. Now abandoned by me and Rama it will be afflicted with grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-84",
+      "number": 84,
+      "type": "shloka",
+      "original": "प्रियं चेद्भरतस्यैतद्रामप्रव्राजनं भवेत्।।2.12.93।।\nमा स्म मे भरतः कार्षीत्प्रेतकृत्यं गतायुषः।",
+      "transliteration": "",
+      "translation": "If Rama's exile is approved by Bharata, then let him not perform my funeral rites after my death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-85",
+      "number": 85,
+      "type": "shloka",
+      "original": "हन्तानार्ये ममामित्रे सकामा भव कैकयि।।2.12.94।।\nमृते मयि गते रामे वनं पुरुषपुङ्गवे।\nसेदानीं विधवा राज्यं सपुत्रा कारयिष्यसि।।2.12.95।।",
+      "transliteration": "",
+      "translation": "O my enemy, O wicked Kaikeyi, after Rama, the foremost of men, has left for the forest your desires will be fulfilled. And after my death, you as a widow along with your son will rule the kingdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-86",
+      "number": 86,
+      "type": "shloka",
+      "original": "त्वं राजपुत्रीवादेन न्यवसो मम वेश्मनि। \t\nअकीर्तिश्चातुला लोके ध्रुवः परिभवश्च मे।।2.12.96।।\nसर्वभूतेषु चावज्ञा यथा पापकृतस्तथा।",
+      "transliteration": "",
+      "translation": "You lived in my palace under the name of a princess. You have brought me, for sure, unparalleled dishonour and disgrace. Everybody will look upon me with contempt as if I have committed a sinful act.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-87",
+      "number": 87,
+      "type": "shloka",
+      "original": "कथं रथैर्विभुर्यात्वा गजाश्वैश्च मुहुर्मुहुः।।2.12.97।।\nपद्भ्यां रामो महारण्ये वत्सो मे विचरिष्यति।",
+      "transliteration": "",
+      "translation": "How will my son, Rama, who used to ride on chariots, elephants and horses roam the wilderness barefoot?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-88",
+      "number": 88,
+      "type": "shloka",
+      "original": "यस्य त्वाहारसमये सूदाः कुण्डलधारिणः।।2.12.98।।\nअहंपूर्वाः पचन्ति स्म प्रशस्तं पानभोजनम्।\nस कथन्नु कषायाणि तिक्तानि कटुकानि च।।2.12.99।।\nभक्षयन्वन्यमाहारं सुतो मे वर्तयिष्यति।",
+      "transliteration": "",
+      "translation": "How will my son for whom the cooks with kundalas in their ears used to proudly prepare enough food and beverages subsist on astringent, pungent, bitter wild fruits and roots?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-89",
+      "number": 89,
+      "type": "shloka",
+      "original": "महार्हवस्त्रसंवीतो भूत्वा चिरसुखोषितः।।2.12.100।।\nकाषायपरिधानस्तु कथं भूमौनिवत्स्यति।",
+      "transliteration": "",
+      "translation": "How will he who was habituated to wearing expensive apparels and to (royal) comforts over a long period of time live (sleep) on the ground, putting on saffron  robes?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-90",
+      "number": 90,
+      "type": "shloka",
+      "original": "कस्यैतद्धारुणं वाक्यमेवंविधमचिन्तितम्।।2.12.101।।\nरामस्यारण्यगमनं भरतस्याभिषेचनम्।",
+      "transliteration": "",
+      "translation": "Whose are these dreadful words, this inconceivable plan of Rama's exilement and Bharata's enthronement?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-91",
+      "number": 91,
+      "type": "shloka",
+      "original": "धिगस्तु योषितो नाम शठा स्स्वार्थपरास्सदा।\nन ब्रवीमि स्त्रिय स्सर्वा भरतस्यैव मातरम्।।2.12.102।।",
+      "transliteration": "",
+      "translation": "A woman means one who secretly harms others. This is shameful indeed. They always seek selfish interests. I do not say this of all women, only of Bharata's mother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-92",
+      "number": 92,
+      "type": "shloka",
+      "original": "अनर्थभावेऽर्थपरे नृशंसे ममानुतापाय निविष्टभावे।\nकिमप्रियं पश्यसि मन्निमित्तं हितानुकारिण्यथवाऽपि रामे।।2.12.103।।",
+      "transliteration": "",
+      "translation": "O malicious one, O covetous one, O cruel one, O woman determined to torment  me, what fault have you seen in Rama who is always devoted to the welfare of others?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-93",
+      "number": 93,
+      "type": "shloka",
+      "original": "परित्यजेयुः पितरो हि पुत्रान्भार्याः पतींश्चापि कृतानुरागाः।\nकृत्स्नं हि सर्वं कुपितं जगत्स्याद्दृष्ट्वैव रामं व्यसने निमग्नम्।।2.12.104।।",
+      "transliteration": "",
+      "translation": "This entire world will be inflamed to see Rama plunged in adversity. Fathers will abandon their sons. Wives, attached to their husbands, will forsake them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-94",
+      "number": 94,
+      "type": "shloka",
+      "original": "अहं पुनर्देवकुमाररूपमलङ्कृतं तं सुतमाव्रजन्तम्।\nनन्दामि पश्यन्नपि दर्शनेन भवामि दृष्ट्वैव च पुनर्युवेव।।2.12.105।।",
+      "transliteration": "",
+      "translation": "When I see my son, handsome and welladorned like the son of a celestial deity, coming towards me, I rejoice. Even his very sight makes me grow young again.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-95",
+      "number": 95,
+      "type": "shloka",
+      "original": "विनाऽपि सूर्येण भवेत्प्रवृत्तिरवर्षता वज्रधरेण वाऽपि।\nरामं तु गच्छन्तमित स्समीक्ष्य जीवेन्न कश्चित्त्विति चेतना मे।।2.12.106।।",
+      "transliteration": "",
+      "translation": "Nature's activity will continue even without the Sun or even if  Indra, wielder of the thunderbolt, sends no rain but none will live to see Rama departing to the forest. This is my conviction.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-96",
+      "number": 96,
+      "type": "shloka",
+      "original": "विनाशकामामहिताममित्रामावासयं मृत्युमिवात्मनस्त्वाम्।\nचिरं बताङ्केन धृतासि सर्पी महाविषा तेन हतोऽस्मि मोहात्।।2.12.107।।",
+      "transliteration": "",
+      "translation": "Alas I carried all along on my lap a highly poisonous female snake I gave you shelter while you were like death .This delusion is the cause of my ruin.You were my enemy. You wished me harm. You wished my destruction.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-97",
+      "number": 97,
+      "type": "shloka",
+      "original": "मया च रामेण च लक्ष्मणेन प्रशास्तु हीनो भरतस्त्वया सह।\nपुरं च राष्ट्रं च निहत्य बान्धवान् ममाहितानां च भवाभिहर्षिणी।।2.12.108।।",
+      "transliteration": "",
+      "translation": "With Rama and Lakshmana withdrawn from me, my kinsmen killed, let Bharata along with you rule the city and the kingdom causing delight to my enemies.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-98",
+      "number": 98,
+      "type": "shloka",
+      "original": "नृशंसवृत्ते व्यसनप्रहारिणि प्रसह्य वाक्यं यदिहाद्य भाषसे।\nन नाम ते केन मुखात्पतन्त्यधो विशीर्यमाणा दशना स्सहस्रधा।।2.12.109।।",
+      "transliteration": "",
+      "translation": "O cruelhearted woman, you strike one in adversity. Why are your teeth with which you are now speaking (such harsh words) do not fall to the ground, broken into a thousand fragments?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-99",
+      "number": 99,
+      "type": "shloka",
+      "original": "न किञ्चिदाहाहितमप्रियं वचो न वेत्ति रामः परुषाणि भाषितुम्।\nकथन्नु रामे ह्यभिरामवादिनि ब्रवीषि दोषान्गुणनित्यसम्मते।।2.12.110।।",
+      "transliteration": "",
+      "translation": "How do you find fault with Rama who does not utter even one harmful or unpalatable word, who does not know how to use harsh words, and who speaks pleasingly and who is always honoured for his virtues?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-100",
+      "number": 100,
+      "type": "shloka",
+      "original": "प्रताम्य वा प्रज्वल वा प्रणश्य वा सहस्रशो वा स्फुटिता महीं व्रज। \nन ते करिष्यामि वच स्सुदारुणं ममाहितं केकयराजपांसनि।।2.12.111।।",
+      "transliteration": "",
+      "translation": "O obloquy on the house of Kekaya, you may grieve or burn yourself in the fire, or get  destroyed. Even if you fall down on earth broken into a thousand pieces I will not act on your terrible, harmful words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-101",
+      "number": 101,
+      "type": "shloka",
+      "original": "क्षुरोपमां नित्यमसत्प्रियंवदां प्रदुष्टभावां स्वकुलोपघातिनीम्।\nन जीवितुं त्वां विषहेऽमनोरमां दिधक्षमाणां हृदयं सबन्धनम्।।2.12,112।।",
+      "transliteration": "",
+      "translation": "You are like a knife. You always speak palatable lies. You are  malevolent. You are a destroyer of your own race. You displease the mind. You are intent on burning down all the links of my heart. I cannot bear to see you alive in this world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-102",
+      "number": 102,
+      "type": "shloka",
+      "original": "न जीवितं मेऽस्ति पुनःकुत स्सुखं विनाऽऽत्मजेनाऽत्मवतः कुतो रतिः।\nममाहितं देवि न कर्तुमर्हसि स्पृशामि पादावपि ते प्रसीद मे।।2.12.113।।",
+      "transliteration": "",
+      "translation": "There is no life for me without my son (Rama). What to speak of happiness again? Where is pleasure for a selfrespecting man like me? O queen, it does not behove you to do this harmful act. I will touch your feet. Show pity on me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-12-103",
+      "number": 103,
+      "type": "shloka",
+      "original": "स भूमिपालो विलपन्ननाथवत्स्त्रिया गृहीतो हृदयेऽतिमात्रया।\nपपात देव्याश्चरणौ प्रसारितावुभावसम्स्पृश्य यथाऽतुरस्तथा।।2.12.114।।",
+      "transliteration": "",
+      "translation": "The king, with his heart in the grip of a woman, wailing like an orphan tried to reach her feet, exceeding the limit of selfrespect but, unable to touch them as she pulled  them apart, he collapsed like a sick man. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे द्वादशस्सर्गः।। Thus ends the twelfth sarga of Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

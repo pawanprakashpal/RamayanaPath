@@ -1,0 +1,459 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 40,
+    "title": "Rama, Lakshmana and Sita set out for the forest--wailing of citizens, queens and the king.",
+    "titleSanskrit": "",
+    "totalShlokas": 49
+  },
+  "shlokas": [
+    {
+      "id": "v2-40-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "अथ रामश्च सीता च लक्ष्मणश्च कृताञ्जलिः। \nउपसङ्गृह्य राजानं चक्रुर्दीना: प्रदक्षिणम्।।2.40.1।।",
+      "transliteration": "",
+      "translation": "Thereafter, Sita, Rama and Lakshmana with folded palms in a forlom state touched (the feet of) the king and circumambulated him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तं चापि समनुज्ञाप्य धर्मज्ञस्सीतया सह। \nराघव श्शोकसम्मूढो जननीमभ्यवादयत्।।2.40.2।।",
+      "transliteration": "",
+      "translation": "Taking leave of Dasaratha, the righteous descendant of the Raghus (Rama) along with Sita paid obeisance to his mother Kausalya who was afflicted with deep grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "अअन्वक्षं लक्ष्मणो भ्रातुः कौशल्यामभ्यवादयत्। \nअथ मातु स्सुमित्राया जग्राह चरणौ पुनः।।2.40.3।।",
+      "transliteration": "",
+      "translation": "Immediately following Rama, his brother, Lakshmana also paid obeisance to Kausalya and, thereafter, held the feet of his own mother Sumitra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तं वन्दमानं रुदती माता सौमित्रिमब्रवीत्।\nहितकामा महाबाहुं मूध्नर्युपाघ्राय लक्ष्मणम्।।2.40.4।।",
+      "transliteration": "",
+      "translation": "While the mightyarmed Lakshmana paid her homage, Sumitra wailed, kissed him on his forehead, wished him well and said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "सृष्टस्त्वं वनवासाय स्वनुरक्तस्सुहृज्जने। \nरामे प्रमादं मा कार्षीः पुत्र भ्रातरि गच्छति।।2.40.5।।",
+      "transliteration": "",
+      "translation": "Although deeply attached to your beloved ones, O Son, you are born to dwell in the forest. Never be inattentive towards your brother Rama who is on his way (to the forest).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "व्यसनी वा समृद्धो वा गतिरेष तवानघ। \nएष लोके सतां धर्मो यज्ज्येष्ठवशगो भवेत्।।2.40.6।।",
+      "transliteration": "",
+      "translation": "Rama is your refuge in times of adversity or prosperity, O sinless one To be  obedient to the eldest (brother) is the duty of virtuous men in this world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "इदं हि वृत्तमुचितं कुलस्यास्य सनातनम्।\nदानं दीक्षा च यज्ञेषु तनुत्यागो मृधेषु च।।2.40.7।।",
+      "transliteration": "",
+      "translation": "Charity, initiation at sacrifices and yielding life in battles are the befitting ancient traditions prevailing in your race.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "लक्ष्मणं त्वेवमुक्त्वा सा संसिद्धं प्रियराघवम्।\nसुमित्रा गच्छ गच्छेति पुनः पुनरुवाच तम्।।2.40.8।।",
+      "transliteration": "",
+      "translation": "Having said this to Lakshmana Sumitra again and again said to her beloved Rama, who was fully prepared, 'Go, go'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "रामं दशरथं विद्धि मां विद्धि जनकात्मजाम्। \nअयोध्यामटवीं विध्दि गच्छ तात यथासुखम्।।2.40.9।।",
+      "transliteration": "",
+      "translation": "(To Lakshmana she said) Regard Rama as Dasaratha, Sita as me and the forest as Ayodhya. My child, go in peace.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "ततः सुमन्त्रः काकुत्स्थं प्राञ्जलिर्वाक्यमब्रवीत्। \nविनीतो विनयज्ञश्च मातलिर्वासवं यथा।।2.40.10।।",
+      "transliteration": "",
+      "translation": "Then Sumantra who knows the ways of politeness and humility spoke to Rama, with folded hands as Matali did to Indra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "ररथमारोह भद्रं ते राजपुत्र महायशः। \nक्षिप्रं त्वां प्रापयिष्यामि यत्र मां राम वक्ष्यसि।।2.40.11।।",
+      "transliteration": "",
+      "translation": "O Illustrious prince, wish you well Mount the chariot. I shall convey you speedily whereever you want.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "चतुर्दश हि वर्षाणि वस्तव्यानि वने त्वया। \nतान्युपक्रमितव्यानि यानि देव्यासि चोदितः।।2.40.12।।",
+      "transliteration": "",
+      "translation": "You have been directed by Kaikeyi to live in the forest for fourteen years. Accordingly you must now commence counting those years as directed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तं रथं सूर्यसङ्काशं सीता हृष्टेन चेतसा। \nआरुरोह वरारोहा कृत्वालङ्कारमात्मनः।।2.40.13।।",
+      "transliteration": "",
+      "translation": "Sita of lovely limbs decorated herself and with a cheerful mind boarded the chariot which was shining like the Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "अथो ज्वलनसङ्काशं चामीकरविभूषितम्। \nतमारुरुहतुस्तूर्णं भ्रातरौ रामलक्ष्मणौ।।2.40.14।।",
+      "transliteration": "",
+      "translation": "Thereafter, Rama and Lakshmana also boarded that chariot decorated with gold and  shining like blazing fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "वनवासं हि संख्याय वासांस्याभरणानि च। \nभर्तारमनुगच्छन्त्यै सीतायै श्वशुरो ददौ।।2.40.15।।",
+      "transliteration": "",
+      "translation": "Fatherinlaw (Dasaratha) gave clothes and ornaments on the assessment of the number of years Sita was going to spend in the forest with her husband.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तथैवायुधजालानि भ्रातृभ्य��ं कवचानि च। \nरथोपस्थे प्रतिन्यस्य सचर्म कठिनं च तत्।।2.40.16।।\nसीतातृतीयानारूढान् दृष्ट्वा दृष्टमचोदयत्। \nसुमन्त्रस्सम्मतानश्वान् वायुवेगसमान्जवे।।2.40.17।।",
+      "transliteration": "",
+      "translation": "So also Dasaratha secured a multitude of weapons, shields and protective leathercoverings for hands and placed them at the centre of the chariot, for use by the brothers. When Sumantra ensured that Sita, Rama and Lakshmana boarded the chariot,  he briskly hastened the horses which were as speedy as the wind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "प्रतियाते महारण्यं चिररात्राय राघवे। \nबभूव नगरे मूर्छा बलमूर्छा जनस्य च।।2.40.18।।",
+      "transliteration": "",
+      "translation": "Having seen Rama set out  for the great forest for a long period, the city was stilled and men were enervated.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तत्समाकुलसम्भ्रान्तं मत्तसङ्कुपितद्विपम्। \nहयशिञ्जितनिर्घोषं पुरमासीन्महास्वनम्।।2.40.19।।",
+      "transliteration": "",
+      "translation": "The city was distressed and flurried by the intoxicated elephants, provoked by the  mighty sound of the tinkling of bells and the neighing of the horses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तत स्सबालवृद्धा सा पुरी परमपीडिता। \nराममेवाभिदुद्राव घर्मार्ता सलिलं यथा।।2.40.20।।",
+      "transliteration": "",
+      "translation": "Thereafter the extremely afflicted people of the city, including young and old alike, ran towards Rama like men oppressed with heat running for water.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "पार्श्वतः पृष्ठतश्चापि लम्बमानास्तदुन्मुखाः। \nबाष्पपूर्णमुखास्सर्वे तमूचुर्भृशनिस्वनाः।।2.40.21।।",
+      "transliteration": "",
+      "translation": "All the people hanging from the chariot from behind and by the sides, heaving deeply, their faces covered with tears, thus addressed to Sumantra:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "संयच्छ वाजिनां रश्मीन् सूत याहि शनैश्शनैः। \nमुखं द्रक्ष्याम रामस्य दुर्दर्शं नो भविष्यति।।2.40.22।।",
+      "transliteration": "",
+      "translation": "O charioteer, control the reins of the horses and go slow so that we may look at the face of Rama, for soon we will not be able to see him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "आयसं हृदयं नूनं राममातुरसंशयम्।\nयद्देवगर्भप्रतिमे वनं याति न भिद्यते।।2.40.23।।",
+      "transliteration": "",
+      "translation": "Alas, the heart of Kausalya whose son, Rama, resembles the offspring of the gods, does not break even though he is going to the forest Undoubtedly it must be made of iron.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "कृतकृत्या हि वैदेही छायेवानुगता पतिम्। \nन जहाति रता धर्मे मेरुमर्कप्रभा यथा।।2.40.24।।",
+      "transliteration": "",
+      "translation": "Sita, deeply attached to her duty, and with her desire fulfilled is following her husband like a shadow just as the sunlight which never leaves mount Meru.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "अहो लक्ष्मण सिद्धार्थ स्सततं प्रियवादिनम्।\nभ्रातरं देवसङ्काशं यस्त्वं परिचरिष्यसि।।2.40.25।।",
+      "transliteration": "",
+      "translation": "With your desires fulfilled, O Lakshmana, you will attend to your godlike brother who always speaks pleasant words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "महत्येषा हि ते सिध्दिरेष चाभ्युदयो महान्। \nएष स्वर्गस्य मार्गश्च यदेनमनुगच्छसि।।2.40.26।।",
+      "transliteration": "",
+      "translation": "The very fact that you are  following Rama is a great achievement and a great fortune for you. This, in fact, is the way to heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "एवं वदन्तस्ते सोढुं न शेकुर्बा���्पमागतम्। \nनरास्तमनुगच्छन्तः प्रियमिक्ष्वाकुनन्दनम्।।2.40.27।।",
+      "transliteration": "",
+      "translation": "Speaking thus, the people following their beloved Rama, the delight of the Ikshvaku dynasty, were not able to bear (restrain) the tears flowing from their eyes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "अथ राजा वृत स्त्रीभिर्दीनाभिर्दीनचेतनः।\nनिर्जगाम प्रियं पुत्रं द्रक्ष्यामीति ब्रुवन् गृहात्।।2.40.28।।",
+      "transliteration": "",
+      "translation": "I wish to see my beloved son said the king with a sense of desolation and emerged, surrounded by forlorn women, from the palace.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "शुश्रुवे चाग्रतः स्त्रीणां रुदन्तीनां महास्वनः।\nयथा नादः करेणूनां बद्धे महति कुञ्जरे।।2.40.29।।",
+      "transliteration": "",
+      "translation": "He heard the women crying loudly in front like wailings of cowelephants when their bull elephant is captured.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "पिता हि राजा काकुत्स्थः श्रीमान् सन्नस्तदाऽभवत्। \nपरिपूर्णः शशी काले ग्रहेणोपप्लुतो यथा।।2.40.30।।",
+      "transliteration": "",
+      "translation": "The king born in the race of Kakutstha, though bright, looked dull then like the full Moon eclipsed (by Rahu).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "स च श्रीमानचिन्त्यात्मा रामो दशरथात्मजः।\nसूतं सञ्चोदयामास त्वरितं वाह्यतामिति।।2.40.31।।",
+      "transliteration": "",
+      "translation": "The son of Dasaratha, glorious Rama of inconceivable courage, exhorted the charioteer to drive the chariot fast.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "रामो याहीति सूतं तं तिष्ठेति स जनस्तदा। \nउभयं नाशकत्सूतः कर्तुमध्वनि चोदितः।।2.40.32।।",
+      "transliteration": "",
+      "translation": "Urged by Rama to drive fast on the one hand and by the citizens to stay, on the other, the charioteer could do neither on the way.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "निर्गच्छति महाबाहौ रामे पौरजनाश्रुभिः।\nपतितैरभ्यवहितं प्रशशाम महीरजः।।2.40.33।।",
+      "transliteration": "",
+      "translation": "As the mightyarmed Rama was going away, the dust raised from the earth subsided with the tears falling from the citizens' (eyes).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "रुदिताश्रुपरिद्यूनं हाहाकृतमचेतनम्।  \nप्रयाणे राघवस्यासीत्पुरं परमपीडितम्।।2.40.34।।",
+      "transliteration": "",
+      "translation": "At the time of Rama's departure, the insensate city was drenched with tears of the deeply afflicted people crying, 'Alas, Alas'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "सुस्राव नयनैः स्त्रीणामस्रमायाससम्भवम्।\nमीनसङ्क्षोभचलितै स्सलिलं पङ्कजैरिव।।2.40.35।।",
+      "transliteration": "",
+      "translation": "Tears born of anguish fell from the eyes of women just as waterdrops fall from lotuses shaken by the movements of fishes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "दृष्ट्वा तु नृपति श्श्रीमानेकचित्तगतं पुरम्। \nनिपपातैव दुःखेन हतमूल इव द्रुमः।।2.40.36।।",
+      "transliteration": "",
+      "translation": "Having seen the city (people) absorbed in one single thought, the prosperous king, griefstricken, fell down on the ground like a tree severed at its root.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "ततो हलहलाशब्दो जज्ञे रामस्य पृष्ठतः।\nनराणां प्रेक्ष्य राजानं सीदन्तं भृशदुःखितम्।।2.40.37।।",
+      "transliteration": "",
+      "translation": "When the people saw the king enfeebled by deep grief, they raised an uproar behind Rama's (chariot).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "हा रामेति जनाः केचिद्राममातेति चापरे। \nअन्तःपुरं समृद्धं च क्रोशन्तः पर्यदेवयन्।।2.40.38।।",
+      "transliteration": "",
+      "translation": "Some among them wailed 'Oh Rama', while some others cried 'Oh mother of Rama' By crying loudly, they made the women in the inner apartment cry too.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "अन्वीक्षमाणो रामस्तु विषण्णं भ्रान्तचेतसम्।\nराजानं मातरं चैव ददर्शानुगतौ पथि।।2.40.39।।",
+      "transliteration": "",
+      "translation": "When Rama glanced back, he saw his mother and father trailing behind him on the highway, with an agitated and dejected mind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "स बद्ध इव पाशेन किशोरो मातरं यथा।\nधर्मपाशेन सङ्क्षिप्तः प्रकाशं नाभ्युदैक्षत।।2.40.40।।",
+      "transliteration": "",
+      "translation": "Like a fastened foal cannot see its mother, Rama restrained by bonds of duty could not see his parents clearly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "पदातिनौ च यानार्हावदुःखार्हौ सुखोचितौ। \nदृष्ट्वा सञ्चोदयामास शीघ्रं याहीति सारथिम्।।2.40.41।।",
+      "transliteration": "",
+      "translation": "Seeing his parents, who were worthy of riding a chariot now going on foot, who were accustomed to comforts and did not deserve any suffering, Rama urged his charioteer to drive fast.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "न हि तत्पुरुषव्याघ्रो दुःखदं दर्शनं पितुः। \nमातुश्च सहितुं शक्तस्तोत्रार्दित इव द्विपः।।2.40.42।।",
+      "transliteration": "",
+      "translation": "Rama the best among men, could not, like an elephant tormented by the goad, endure that pitiful sight of his father and mother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "प्रत्यगारमिवायान्ती वत्सला वत्सकारणात्। \nबद्धवत्सा यथा धेनू राममाताभ्यधावत।।2.40.43।।",
+      "transliteration": "",
+      "translation": "Rama's mother ran after the chariot, like an affectionate cow running towards the shed to join its fastened calf.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "तथा रुदन्तीं कौसल्यां रथं तमनुधावतीम्। \nक्रोशन्तीं राम रामेति हा सीते लक्ष्मणेति च।।2.40.44।।\nरामलक्ष्मणसीतार्थं स्रवन्तीं वारि नेत्रजम्। \nअसकृत्प्रैक्षत तदा नृत्यन्तीमिव मातरम्।।2.40.45।।",
+      "transliteration": "",
+      "translation": "While Kausalya was weeping and running after the chariot, crying O 'Rama, O Sita, O Lakshmana, shedding tears for them, Rama repeatedly glanced at her who was  twisting and bending as if in a dancing pose.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "तिष्ठेति राजा चुक्रोश याहि याहीति राघवः। \nसुमन्त्रस्य बभूवात्मा चक्रयोरिव चान्तरा।।2.40.46।।",
+      "transliteration": "",
+      "translation": "The king cried, 'Stay, Stay', while Rama said 'Go on, Go on'. Sumantra's mind was caught as if in between two wheels.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "नाश्रौषमिति राजानमुपालब्धोऽपि वक्ष्यसि। \nचिरं दुःखस्य पापिष्ठमिति रामस्तमब्रवीत्।।2.40.47।।",
+      "transliteration": "",
+      "translation": "When the king reproaches you for not stopping the chariot, you can say 'I could not hear'.Prolonging agony is sinful, said Rama to Sumantra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "रामस्य स वचः कुर्वन्ननुज्ञाप्य च तं जनम्। \nव्रजतोऽपि हयान् शीघ्रं चोदयामास सारथिः।।2.40.48।।",
+      "transliteration": "",
+      "translation": "Obeying the command of Rama and after taking leave of the people, Sumantra hastened the horses although they were galloping.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "न्यवर्तत जनो राज्ञो रामं कृत्वा प्रदक्षिणम्। \nमनसाप्यश्रुवेगैश्च न न्यवर्तत मानुषम्।।2.40.49।।",
+      "transliteration": "",
+      "translation": "The king's men returned, with Rama circumambulated (on the plane of their minds). But from their minds they could not hold back their tears (grief).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "यमिच्छेत्पुनरायान्तं नैनं दूरमनुव्रजेत्। \nइत्यमात्या महाराजमूचुर्दशरथं वचः।।2.40.50।।",
+      "transliteration": "",
+      "translation": "We should not follow over a long distance those we wish to return, said the ministers to king Dasaratha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-40-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "तेषां वचः सर्वगुणोपपन्नं \nप्रस्विन्नगात्रः प्रविषण्णरूपः। \nनिशम्य राजा कृपणः सभार्यो \nव्यवस्थितस्तं सुतमीक्षमाणः।।2.40.51।।",
+      "transliteration": "",
+      "translation": "Dasaratha and his wives, overcome with grief, heard their words steeped in virtue  (wisdom). The king stood there with his perspiring body and melancholic appearance, fixing his gaze on his son. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे चत्वारिंशस्सर्गः।। Thus ends the fortieth sarga of Ayodhyakanda of the holy Ramayana, the first epic  composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

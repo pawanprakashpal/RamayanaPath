@@ -1,0 +1,189 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 50,
+    "title": "Arrival of Rama in the court of Janaka--Viswamitra introduces Rama and Lakshmana.",
+    "titleSanskrit": "",
+    "totalShlokas": 19
+  },
+  "shlokas": [
+    {
+      "id": "v1-50-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तत: प्रागुत्तरां गत्वा रामस्सौमित्रिणा सह।\nविश्वामित्रं पुरस्कृत्य यज्ञवाटमुपागमत्।।1.50.1।।",
+      "transliteration": "",
+      "translation": "Rama accompanied by Lakshmana with Viswamitra ahead proceeded in northeasterly direction and reached the sacrificial ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-50-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "रामस्तु मुनिशार्दूलमुवाच सहलक्ष्मण:।\nसाध्वी यज्ञसमृद्धिर्हि जनकस्य महात्मन:।।1.50.2।।",
+      "transliteration": "",
+      "translation": "Rama with Lakshmana told the tiger among ascetics Viswamitra that the preparations or the sacrifice by the illustrious king Janaka were excellent.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-50-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "बहूनीह सहस्राणि नानादेशनिवासिनाम्।\nब्राह्मणानां महाभाग वेदाध्ययनशालिनाम्।।1.50.3।।\nऋषिवाटाश्च दृश्यन्ते शकटीशतसङ्कुला:।\nदेशो विधीयतां ब्रह्मन् यत्र वत्स्यामहे वयम्।।1.50.4।।",
+      "transliteration": "",
+      "translation": "O Illustrious sage thousands of brahmins living in different countries and versed in  the study of the vedas have assembled here. The shelters for ascetics are thronged with hundreds of carts. O Great ascetic let us choose a place where we can stay.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-50-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "रामस्य वचनं श्रुत्वा विश्वामित्रो महामुनि:।\nनिवेशमकरोद्देशे विविक्ते सलिलायुते।।1.50.5।।",
+      "transliteration": "",
+      "translation": "Great ascetic Viswamitra, hearing Rama's words, chose a nottoocrowded place near a watersource for encampment.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-50-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "विश्वामित्रमनुप्राप्तं श्रुत्वा स नृपतिस्तदा।\nशतानन्दं पुरस्कृत्य पुरोहितमनिन्दितम्।।1.50.6।।  \nप्रत्युज्जगाम सहसा विनयेन समन्वित:।",
+      "transliteration": "",
+      "translation": "When the king heard of the arrival of Viswamitra he went forward with Satananda, the blemishless family priest walking ahead in order to welcome him with humility.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-50-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "ऋत्विजोऽपि महात्मानस्त्वर्घ्यमादाय सत्वरम्।।1.50.7।।\nविश्वामित्राय धर्मेण ददुर्मंन्त्रपुरस्कृतम्।",
+      "transliteration": "",
+      "translation": "Eminent officiating priests speedily brought the offerings of worship and paid obeisance to Viswamitra with prayers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-50-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "प्रतिगृह्य च तां पूजां जनकस्य महात्मन:।।1.50.8।।\nपप्रच्छ कुशलं राज्ञो यज्ञस्य च निरामयम्।",
+      "transliteration": "",
+      "translation": "Viswamitra received illustrious king Janaka's worship and enquired about the welfare of the king and the conduct of the sacrifice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-50-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "स तांश्चापि मुनीन् पृष्ट्वा सोपाध्यायपुरोधस:।।1.50.9।।\nयथान्यायं ततस्सर्वैस्समागच्छत्प्रहृष्टवत्।",
+      "transliteration": "",
+      "translation": "Viswamitra duly enquired the wellbeing of the sages and the spiritual teachers, priests in right order. And thereafter the rest joined them in great delight.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-50-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "अथ राजा मुनिश्रेष्ठं कृताञ्जलिरभाषत।।1.50.10।।\nआसने भगवानास्तां सहैभिर्मुनिपुङ्गवै:।",
+      "transliteration": "",
+      "translation": "The king then folded his hands in supplication to the foremost of ascetics, Viswamitra, saying \"O Venerable one please be seated along with the eminent ascetics.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-50-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "जनकस्य वचश्श्रुत्वा निषसाद महामुनि:।।1.50.11।।\nपुरोधा ऋत्विजश्चैव राजा च सह मन्त्रिभि:।",
+      "transliteration": "",
+      "translation": "In response to Janaka's words, great sage Viswamitra occupied his seat. Thereafter the family priests, officiationg priests of the sacrifice, counsellors and also the king occupied their seats according to their rank.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-50-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "आसनेषु यथान्यायमुपविष्टान् समन्तत:।।1.50.12।।\nदृष्ट्वा स नृपतिस्तत्र विश्वामित्रमथाब्रवीत्।",
+      "transliteration": "",
+      "translation": "Thereafter the king looked on all sides and  saw all of them seated  according to their rank and addressed Viswamitra saying:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-50-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अद्य यज्ञसमृध्दिर्मे सफला दैवतै: कृता।।1.50.13।।\nअद्य यज्ञफलं प्राप्तं भगवद्दर्शनान्मया।",
+      "transliteration": "",
+      "translation": "\"Today my sacrifice has been rendered fruitful by the devatas. I have reaped the fruit of my sacrifice today by your venerable presence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-50-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "धन्योऽस्म्यनुगृहीतोऽस्मि यस्य मे मुनिपुङ्गव।।1.50.14।।\nयज्ञोपसदनं ब्रह्मन् प्राप्तोऽसि मुनिभि: सह।",
+      "transliteration": "",
+      "translation": "O Preeminent among ascetics O brahmana you have come to my sacrificial mandap along with these ascetics Blessed am I Obliged am I.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-50-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "द्वादशाहं तु ब्रह्मर्षे शेषमाहुर्मनीषिण:।।1.50.15।।\nततो भागार्थिनो देवान् द्रष्टुमर्हसि कौशिक।",
+      "transliteration": "",
+      "translation": "O Brahmarshi learned men say, only twelve days remain for completion of this acrifice. Thereafter O Viswamitra you should see devatas claiming their shares\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-50-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "इत्युक्त्वा मुनिशार��दूलं प्रहृष्टवदनस्तदा।।1.50.16।।\nपुनस्तं परिपप्रच्छ प्राञ्जलि: प्रणतो ��ृप:।",
+      "transliteration": "",
+      "translation": "Having said this, the king (Janaka) with a cheerful countenance and saluting with folded palms again asked that tiger among ascetics (Viswamitra):",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-50-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "इमौ कुमारौ भद्रं ते देवतुल्यपराक्रमौ।।1.50.17।।\nगजसिंहगती वीरौ शार्दूलवृषभोपमौ।\nपद्मपत्रविशालाक्षौ खड्गतूणीधनुर्धरौ।।1.50.18।।\nअश्विनाविव रूपेण समुपस्थितयौवनौ।\nयदृच्छयैव गां प्राप्तौ देवलोकादिवामरौ।।1.50.19।।\nकथं पद्भ्यामिह प्राप्तौ किमर्थं कस्य वा मुने।",
+      "transliteration": "",
+      "translation": "\"O Sage (Viswamitra), be blessed. Who are these two young men with the prowess of the celestials the gait of an elephant or a lion? They resemble a tiger or a bull in courage. They have large eyes like lotuspetals. They are armed with scimitars bows and quivers. With their approaching youth, they resemble the Aswinikumaras in beauty. They look like gods who have descended on earth from heaven out of their free will. Whose sons are they? How did they come here on foot? And for what purpose?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-50-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "वरायुधधरौ वीरौ कस्य पुत्रौ महामुने।।1.50.20।।\nभूषयन्ताविमं देशं चन्द्रसूर्याविवाम्बरम्। \nपरस्परस्य सदृशौ प्रमाणेङ्गितचेष्टितै:।।1.50.21।।\nकाकपक्षधरौ वीरौ श्रोतुमिच्छामि तत���त्वत:।",
+      "transliteration": "",
+      "translation": "Great ascetic, these two young men with hair falling on their temples like the wings of a crow, each of them resemble the other in personality, expressions and gestures. Wielding excellent weapons they adorn this land like the Moon and the Sun deck the sky. Whose sons are they? I wish truly to hear about these heroes\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-50-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तस्य तद्वचनं श्रुत्वा जनकस्य महात्मन:।।1.50.22।।\nन्यवेदयन्महात्मानौ पुत्रौ दशरथस्य तौ।",
+      "transliteration": "",
+      "translation": "Hearing the words of the magnanimous Janaka, Viswamitra presented them to him saying that they were the illustrious sons of Dasaratha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-50-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "सिद्धाश्रमनिवासं च राक्षसानां वधं तथा।।1.50.23।।\nतच्चागमनमव्यग्रं विशालायाश्च दर्शनम्।\nअहल्यादर्शनं चैव गौतमेन समागमम्।।1.50.24।। \nमहाधनुषि जिज्ञासां कर्तुमागमनं तथा।\nएतत्सर्वं महातेजा जनकाय महात्मने ।।1.50.25।।\nनिवेद्य विररामाथ विश्वामित्रो महामुनि:।",
+      "transliteration": "",
+      "translation": "The great ascetic Viswamitra, who was highly powerful related to the distinguished Janaka in full their undaunted journey to Siddhashrama and the slaughter of rakshasas there, the view of the city of Vishala, meeting with Ahalya and Gautama and the inquisitiveness about the great bow which brought them to Mithila and then kept quiet. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाणडे पञ्चाशस्सर्ग:।।  Thus ends the fiftieth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

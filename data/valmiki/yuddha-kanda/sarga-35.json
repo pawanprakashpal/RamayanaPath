@@ -1,0 +1,315 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 35,
+    "title": "Malyavan beholds evil portents and advises Ravana to make peace with Rama.",
+    "titleSanskrit": "",
+    "totalShlokas": 33
+  },
+  "shlokas": [
+    {
+      "id": "v6-35-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तेनशङ्खविमिश्रेणभेरीशब्देनराघवः ।\nउपयातिमहाबाहूरामःपरपुरञ्जयः ।।6.35.1।।",
+      "transliteration": "",
+      "translation": "The mighty armed Rama, the conqueror of enemy cities, Raghava marched forth with the noise of the blowing of conches and the sounds of drums.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तंनिनादंनिशम्याथरावणोराक्षसेश्वरः ।\nमुहूर्तंध्यानमास्थायसचिवानभ्युदैक्षत ।।6.35.2।।",
+      "transliteration": "",
+      "translation": "Ravana, the Lord of Rakshasas, looked at his ministers on hearing the sounds and reflecting for a moment.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "अथतान्सचिवांस्तत्रसर्वानाभाष्यरावणः ।\nसभांसन्नादयन् सर्वामित्युवाचमहाबलः ।।6.35.3।।\nजगत्सन्तापन्क्रूरोगर्हयन्राक्षसेश्वरः ।",
+      "transliteration": "",
+      "translation": "Thereafter the mighty Lord of Rakshasas, a cruel one, a scourge of the world addressed the assembly of his ministers and spoke abusing them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तरणंसागरस्यापिविक्रमंबलसञ्जियम् ।।6.35.4।।\nयदुक्तवन्तोरामस्यभवन्तस्तन्मयाश्रुतम् ।",
+      "transliteration": "",
+      "translation": "\"You have told me about the valour of Hanuman the messenger of Rama and his prowess in crossing the ocean which I heard just now.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "भवतश्चाप्यहंवेमदियुद्धेसत्यपराक्रमान् ।।6.35.5।।\nतूषिकानीक्षतोऽन्योन्यंविदित्वारामविक्रमम् ।",
+      "transliteration": "",
+      "translation": "\"Even though you are truly valorous in war, on knowing Rama's prowess, you are standing mute looking at each other. I know that.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "ततस्तुसुमहाप्राज्ञोमाल्यवान्नामराक्षसः ।।6.35.6।।\nरावणस्यवचश्श्रुत्वामातुःपैतामहोऽब्रवीत् ।",
+      "transliteration": "",
+      "translation": "Then, Malyavan the maternal grandfather of Ravana, a very wise Rakshasa indeed said this on hearing Ravana's statement.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "विद्यास्वभिविनीतोयोराजाराजन्नयानुगः ।।6.35.7।।\nसशास्तिचिरमैश्वर्यमरींश्चकुरुतेवशे ।",
+      "transliteration": "",
+      "translation": "\"O king! Whoever is well versed in all the fourteen sciences and is a follower of justice, he alone wins over enemies and rules the kingdom for long.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "सन्दधानोहिकालेनविगृह्णंश्चारिभिस्सह ।।6.35.8।।\nस्वपक्षवर्थनंकुर्वन्महदैश्वर्यमश्नुते ।",
+      "transliteration": "",
+      "translation": "\"Continuing to act in that way in course of time a king who encounters his enemies and expands his own side, enjoys great sovereignty.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "हीयमानेनकर्तव्योराज्ञासन्धिस्समेवच ।।6.35.9।।\nनशत्रुमवमन्येतज्यायान्कुर्वीतविग्रहम् ।",
+      "transliteration": "",
+      "translation": "\"When a king is losing strength, he should join hand s with the enemy who is equal to him. He should not disrespect the enemy but quit his hostility and join him (if the enemy is more powerful).\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तन्मह्यंरोचतेसन्धिस्सहरामेणरावण ।।6.35.10।।\nयदर्थमभियुक्ता: स्मसीतातस्मैप्रदीयताम् ।",
+      "transliteration": "",
+      "translation": "\"O Ravana! Joining with that Rama is agreeable to me. Let that Sita for whose sake you have been attacked be restored to him.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "यस्यदेवर्षयस्सर्वेगन्धर्वाश्चजयैषिणः ।।6.35.11।।\nविरोथंमागमस्तेनसन्धिस्तेतेनरोचताम् ।",
+      "transliteration": "",
+      "translation": "All the celestial sages and Gandharvas are wishing him victory. Therefore, do not have enmity. Making an alliance with him is desirable for you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "असृजद्भगवान्पक्षौद्वावेनहिपितामहः ।।6.35.12।।\nसुराणामसुराणांचधर्माधर्मौतदाश्रयौ ।",
+      "transliteration": "",
+      "translation": "\"The divine Brahma, the grandfather of the universe created two orders, deities and devils. They took the refuge of virtues and vices respectively.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "धर्मोहिश्रूयतेपक्षीह्यमराणांमहात्मनाम् ।।6.35.13।।\nअधर्मोरक्षसांपक्षोह्यसुराणांचराक्षस ।",
+      "transliteration": "",
+      "translation": "\"The great souls were towards righteousness and Rakshasas took the side of unrighteousness.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "धर्मोवैग्रसतेऽधर्मंततःकृतमभूद्युगम् ।।6.35.14।।\nअधर्मोग्रसतेधर्मंततस्तिष्यःप्रवर्तते ।",
+      "transliteration": "",
+      "translation": "\"When moral merit destroys unrighteousness, it is called Krtayuga. So also, when virtue gets eclipsed by unrighteousness, it is called Kaliyuga.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तत्त्वयाचरयालोकान्धर्मोपिविनिहतोमहान् ।।6.35.15।।\nअधर्मःप्रगृहीतश्चतेनास्मद्बलिनःपरे ।",
+      "transliteration": "",
+      "translation": "\"While you were ranging in all the worlds, you gave up righteousness and embraced unrighteousness. Therefore, the enemy who is righteous is stronger than you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "सप्रमादावदिवृद्धस्तेऽधर्मोहिग्रसतेहिनः ।।6.35.16।।\nविवर्थयतिपक्षंचसुराणांसुरभावनः ।",
+      "transliteration": "",
+      "translation": "\"You are nourishing unrighteousness mistakenly. Therefore, it is going to swallow us. It has become the cause for the divine celestial side to become powerful.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "विषयेषुप्रसक्तेनयत्किञ्चित्कारणात्वया ।।6.35.17।।\nऋषीणामग्नकल्पानामुद्वेगोजनितोमहान् ।",
+      "transliteration": "",
+      "translation": "\"Being engaged in matters of sense pleasures you have created great agitation(disturbance) in the minds of the seers (engaged in penance) who resemble gods of burning fire.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तेषांप्रभावोदुर्धर्षःप्रदीप्तइवपावकः ।।6.35.18।।\nतपसाभावितात्मानोधर्मस्यानुग्रहेरताः ।\nमुख्यर्यज्ञैर्यजन्त्येतेनित्यंतैस्सैर्द्विजातयः ।।6.35.19।।\nजुह्वत्यनगींश्चविधिवद्वेदांश्चोच्चैरधीयते ।\nअभिभूयचरक्षांसिब्रह्मघोषानुदैरयन् ।।6.35.20।।\nदिशोऽपिविद्रुतास्सर्वेस्तनयित्नुरिवोष्णगे ।",
+      "transliteration": "",
+      "translation": "\"Their power is difficult to overcome as they are pure souls and blazing like fire by their austerity. They follow virtues faithfully intending to acquire merit like brahmanas. They are standing firmly curbing their senses doing sacrifices offering oblations into sacrificial fires following tradition. Having subdued the Rakshasas, they are continuing to recite Vedas and on hearing Vedas the Rakshasas are running away in different directions like the rain cloud is scattered in the hot season.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "ऋषीणामग्निकल्पानामग्निहोत्रासमुत्थितः ।।6.35.21।।\nअदत्तेरक्षसांतेजोधूमोव्याप्यदिशोदश ।",
+      "transliteration": "",
+      "translation": "\"By the spread of smoke in different directions from the sacrificial fires from the oblations offered by the seers the brilliance of the Rakshasas is taken away.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तेषुतेषुचदेशेषुपुण्येष्वेवदृढव्रतैः ।।6.35.22।।\nचर्यमाणंतपस्तीव्रंसन्तापयतिराक्षसान् ।",
+      "transliteration": "",
+      "translation": "\"The intense austerities performed by the sages in different regions determined firmly are tormenting the Rakshasas.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "देवदानवयक्षेभ्योगृहीतश्चवरस्त्वया ।।6.35.23।।\nमनुषावानराऋक्षागोलाङ्गूलामहाबलाः ।\nबलवन्तइहागम्यगर्जन्तीदृढविक्रमाः ।।6.35.24।।",
+      "transliteration": "",
+      "translation": "\"You have secured boons of immunity against death at the hand s of strong and mighty and powerful valour, like gods, Danavas, Yakshas and human beings. The Vanaras, Bears and monkeys with dark faces are coming here now thundering.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "उत्पातान्विविधान्दृष्टवाघोरन्बहुविधांस्तथा ।\nविनाशमनुपश्यामिसर्वेषांरक्षसामहम् ।।6.35.25।।",
+      "transliteration": "",
+      "translation": "\"Beholding different dreadful ones rising up in various directions, I foresee destruction of all Rakshasas.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "खराभिस्न्तिताघोरामेघाःप्रतिभयङ्कराः ।\nशोणितेनाभिवर्षन्तिलङ्कामुष्णेनसर्वतः ।।6.35.26।।",
+      "transliteration": "",
+      "translation": "\"Formidable clouds are emitting hot and most frightening thunder drenched by rain of blood all over Lanka.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "रुदतांवाहनानांचप्रपवन्त्यौस्रबिन्दवः ।\nध्वजाध्वस्ताविवर्णाश्चनप्रभान्तियथापुरम् ।।6.35.27।।",
+      "transliteration": "",
+      "translation": "\"With tear drops falling from the eyes of weeping horses and elephants (carrying army) they are discoloured by dust and are not shining like before.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "व्याळागोमायवोगृध्रावाश्यन्तिचसुभैरवम् ।\nप्रविश्यलङ्कामनिशंसमवायांश्चकुर्वते ।।6.35.28।।",
+      "transliteration": "",
+      "translation": "\"Wicked jackals and vultures are entering deep into Lanka and gathering. They are crying most frightfully.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "काळिकाःपाण्डुरैर्दन्तै: प्रहसन्त्यग्रतःस्थिताः ।\nस्त्रियस्स्वप्नेषुमुष्ण्नत्योगृहाणिप्रतिभाष्यच ।।6.35.29।।",
+      "transliteration": "",
+      "translation": "\"Women of dark colour like coal with yellow teeth are speaking unpleasant things standing before us in dreams laughing heartily.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "गृहाणांबलिकर्माणिश्वानःपर्युपभुञ्जते ।\nखरागोषुप्रजायन्तेमूषकानकुलैस्सह ।।6.35.30।।",
+      "transliteration": "",
+      "translation": "\"In the houses, food offerings made for gods are eaten by dogs, donkeys are procreating cows and rats of mongoose.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "मार्जाराद्वीपिभिस्सार्थंसूकराश्शुनकैस्सह ।\nकिन्नराराक्ष��ैश्चापिसमीयुर्मानुषैस्सह ।।6.35.31।।",
+      "transliteration": "",
+      "translation": "\"Cats are having the company of (mating) Leopards, pigs are mating with dogs, Kinneras with Rakshasas as well as human beings also.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "पाण्डुरारक्तपादाश्चविहङ्गाःकालचोदिताः ।\nराक्षसानांविनाशायकपोताविचरन्तिच ।।6.35.32।।",
+      "transliteration": "",
+      "translation": "\"The white and redfooted doves are moving about impelled by time spirit boding destruction of Rakshasas.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "वीचीकूचीतिवाश्य्नत्यश्शारिकावेश्मसुस्थिताः ।\nपतन्तिग्रथिताश्चापिनिर्जिताःकलहैषिणः ।।6.35.33।।",
+      "transliteration": "",
+      "translation": "\"Minas living in households grappling with bellicose birds in delight are falling down dead.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "पक्षिणश्चमृगास्सर्वेप्रत्यादित्यंरुदन्तिच ।\nकराळोविकटोमुण्डःपुरुषःकष्णपिङ्गळः ।।6.35.34।।\nकालोगृहाणिसर्वेषांकालेकालेऽन्ववेक्षते ।\nएतान्यन्यानिदुष्टानिनिमित्तान्युत्पतन्तिच ।।6.35.35।।",
+      "transliteration": "",
+      "translation": "All birds and animals are making hostile noise. Time is always coming in a dreadful and monstrous blackish form with a shaved head, morning, and evening. Considering all these sinister portents are making an appearance at all households.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "विष्णुंमन्यामहेरामंमानुषंरूपमास्थितम् ।\nनहिमानुषमात्रोऽसौराघवोदृढविक्रमः ।।6.35.36।।\nयेनबद्धःसमुद्रेचसेतुःसपरमाद्भुतः ।\nकुरुष्वनरराजेनसधनिंरामेणरावण ।।6.35.37।।\nज्ञात्वावधार्यकर्माणिक्रियतामायतिक्षमम् ।",
+      "transliteration": "",
+      "translation": "Rama is Lord Vishnu in human form endowed with fortitude and prowess. One who has constructed an amazing bridge on the ocean is not just a human being. O Ravana! Align with the ruler of men, Sri Rama. After careful thinking and determining correctly, do what is good.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-35-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "इदंवचस्तत्रनिशम्यमाल्यवान्परीक्ष्यरक्षोधिपतेर्मनःपुनः ।\nअनुत्तमेषूत्तमपौरुषोबलीबभूवतूष्णींसमवेक्ष्यरावणम् ।।6.35.38।।",
+      "transliteration": "",
+      "translation": "\"Best among men and foremost of counsellors, mighty Malyavan beholding Ravana, the Lord of Rakshasas and keenly observing his mind (that Ravana is not liking the counsel) remained silent.\" ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामा���णेआदिकाव्येयुद्धकाण्डेपञ्चत्रिंशस्सर्गः ।। This is the end of the thirty fifth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

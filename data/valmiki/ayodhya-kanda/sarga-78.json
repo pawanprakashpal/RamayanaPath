@@ -1,0 +1,252 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 78,
+    "title": "While Bharata looks at Manthara furiously, Satrughna drags her and throws her down -- Kaikeyi pleads for mercy and pacifies Manthara.",
+    "titleSanskrit": "",
+    "totalShlokas": 26
+  },
+  "shlokas": [
+    {
+      "id": "v2-78-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "अथ यात्रां समीहन्तं शत्रुघ्नो लक्ष्मणानुजः।\nभरतं शोकसन्तप्तमिदं वचनमब्रवीत्।।2.78.1।।",
+      "transliteration": "",
+      "translation": "As the griefstricken Bharata was intending to proceed to Rama, Lakshmana's younger brother Satrughna said to him:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-78-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "गतिर्य स्सर्वभूतानां दुःखे किं पुनरात्मनः।\nस राम स्सत्त्वसम्पन्नः स्त्रिया प्रव्राजितो वनम्।।2.78.2।।",
+      "transliteration": "",
+      "translation": "Couldn't the mighty Rama who is the ultimate refuge of all beings protect himself in his own distress? That Rama has been exiled to the forest by a woman.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-78-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "बलवान्वीर्यसम्पन्नो लक्ष्मणो नाम योऽप्यसौ।\nकिं न मोचयते रामं कृत्वा स्म पितृनिग्रहम्।।2.78.3।।",
+      "transliteration": "",
+      "translation": "And why did not Lakshmana who is strong and powerful release Rama from exile by restraining our father?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-78-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "पूर्वमेव तु निग्राह्य स्समवेक्ष्य नयानयौ।\nउत्पथं यस्समारूढो राजा नार्या वशं गतः।।2.78.4।।",
+      "transliteration": "",
+      "translation": "In the first place, the king could have restrained himself by reflecting on whether the course of action adopted by him under the influence of a woman was just or unjust.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-78-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "इति सम्भाषमाणे तु शत्रुघ्ने लक्ष्मणानुजे।\nप्राग्द्वारेऽभूत्तदा कुब्जा सर्वाभरणभूषिता।।2.78.5।।",
+      "transliteration": "",
+      "translation": "While Satrughna, brother of Lakshmana was conversing thus, the hunchback Manthara decorated with all kinds of ornaments arrived at the entrance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-78-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "लिप्ता चन्दनसारेण राजवस्त्राणि बिभ्रती।\nविविधं विविधै स्तैस्तैर्भूषणैश्च विभूषिता।।2.78.6।।",
+      "transliteration": "",
+      "translation": "She had besmeared herself with the essence of sandal, had put on royal garments and  adorned herself in many ways with every kind of ornament.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-78-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "मेखलादामभिश्चित्रैरन्यैश्च शुभभूषणैः।\nबभासे बहुभिर्बद्धा रज्जुबद्धेव वानरी।।2.78.7।।",
+      "transliteration": "",
+      "translation": "Tied with colourful girdle strings and wearing many other auspicious ornaments, she  looked like a female monkey tied with a rope.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-78-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तां समीक्ष्य तदा द्वास्स्थास्सुभृशं पापकारिणीम्।\nगृहीत्वाऽकरुणां कुब्जां शत्रुघ्नाय न्यवेदयन्।।2.78.8।।",
+      "transliteration": "",
+      "translation": "Seeing the hunchback, doer of many sinful deeds, the gatekeepers caught hold of her and informed Satrughna.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-78-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "यस्याः कृते वने रामो न्यस्तदेहश्च वः पिता।\nसेयं पापा नृशंसा च तस्याः कुरु यथामति।।2.78.9।।",
+      "transliteration": "",
+      "translation": "Here is that sinful, cruel woman on whose account Rama is in the forest and your father has forsaken his body. Do with her as it pleases you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-78-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "शत्रुघ्नश्च तदाज्ञाय वचनं भृशदुःखितः।\nअन्तःपुरचरान्सर्वानित्युवाच धृत व्रतः।।2.78.10।।",
+      "transliteration": "",
+      "translation": "Intensely grieved to hear those words, Satrughna who was steadfast in his vows said to the inmates of the inner apartment:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-78-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तीव्रमुत्पादितं दुःखं भ्रात्रूणां मे तथा पितुः।\nयया सेयं नृशंसस्य कर्मणः फलमश्नुताम्।।2.78.11।।",
+      "transliteration": "",
+      "translation": "Let this woman, who caused deep sorrow to our brothers and father, reap the fruit of her malicious actions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-78-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "एवमुक्त्वा तु तेनाशु सखीजनसमावृता।\nगृहीता बलवत्कुब्जा सा तद्गृहमनादयत्।।2.78.12।।",
+      "transliteration": "",
+      "translation": "Saying thus, he forcibly caught hold of the hunchback amidst her companions when she filled the house with her cries.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-78-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तत स्सुभृशसन्तप्तस्तस्या स्सर्व स्सखीजनः।\nक्रुद्धमाज्ञाय शत्रुघ्नं विपलायत सर्वशः।।2.78.13।।",
+      "transliteration": "",
+      "translation": "Perceiving the enraged Satrughna all her companions shook in terror and fled in different directions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-78-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "आमन्त्रयत कृत्स्न श्च तस्या स्सर्व स्सखीजनः।\nयथाऽयं समुपक्रान्तो निश्शेषां नः करिष्यति।।2.78.14।।",
+      "transliteration": "",
+      "translation": "All her companions conversed among themselves. The way he began, it looks he will finish all of us.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-78-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "सानुक्रोशां वदान्यां च धर्मज्ञां च यशस्विनीम्।\nकौसल्यां शरणं याम सा हि नोऽस्तु ध्रुवा गतिः।।2.78.15।।",
+      "transliteration": "",
+      "translation": "Let us seek refuge under the illustrious Kausalya, who is compassionate, generous,  and knower of righteousness. She is our sure saviour.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-78-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "स च रोषेण ताम्राक्ष श्शत्रुघ्न श्शत्रुतापनः।\nविचकर्ष तदा कुब्जां क्रोशन्तीं धरणीतले।।2.78.16।।",
+      "transliteration": "",
+      "translation": "With bloodshot eyes Satrughna, the scorcher of enemies, dragged the shrieking hunchback down the ground in fury.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-78-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तस्या ह्याकृष्यमाणाया मन्थराया स्ततस्ततः।\nचित्रं बहुविधं भाण्डं पृथिव्यां तद्व्यशीर्यत।।2.78.17।।",
+      "transliteration": "",
+      "translation": "While Manthara was being dragged by Satrughna, the collection of ornaments of many colours and of various kinds worn by her were broken and  scattered here and there all over the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-78-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तेन भाण्डेन संस्तीर्णं श्रीमद्राजनिवेशनम्।\nअशोभत तदा भूयः शारदं गगनं यथा।।2.78.18।।",
+      "transliteration": "",
+      "translation": "The resplendent royal palace, strewn all over with several ornaments on the ground  shone like the autumnal sky (studded with innumerable stars).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-78-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "स बली बलवत्क्रोधाद्गृहीत्वा पुरुषर्षभः।\nकैकेयीमभिनिर्भर्त्स्य बभाषे परुषं वचः।।2.78.19।।",
+      "transliteration": "",
+      "translation": "The mighty and the best of men Satrughna seized with fury, forcibly caught hold of that hunchback and censured Kaikeyi with harsh words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-78-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तैर्वाक्यैः परुषैर्दुःखैः कैकेयी भृशदुःखिता।\nशत्रुघ्नभयसन्त्रस्ता पुत्रं शरणमागता।।2.78.20।।",
+      "transliteration": "",
+      "translation": "Kaikeyi, deeply distressed at those harsh and grievous words was afraid of Satrughna and sought the protection of her son Bharata.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-78-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तं प्रेक्ष्य भरतः क्रुद्धं शत्रुघ्नमिदमब्रवीत्।\nअवध्या स्सर्वभूतानां प्रमदाः क्षम्यतामिति।।2.78.21।।",
+      "transliteration": "",
+      "translation": "Bharata, addressing the enraged Satrughna said Of all beings a lady is not to be killed.  Pardon her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-78-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "हन्यामहमिमां पापां कैकेयीं दुष्टचारिणीम्।\nयदि मां धार्मिको रामो नासूयेन्मातृघातकम्।।2.78.22।।",
+      "transliteration": "",
+      "translation": "If righteous Rama were not to accuse me of slaying a mother, I would have killed the sinful Kaikeyi of wicked deeds myself.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-78-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "इमामपि हतां कुब्जां यदि जानाति राघवः।\nत्वां च मां च हि धर्मात्मा नाभिभाषिष्यते ध्रुवम्।।2.78.23।।",
+      "transliteration": "",
+      "translation": "If righteous Rama comes to know that this hunchback has been slain by us, he will certainly never talk to you or me.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-78-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "भरतस्य वचश्श्रुत्वा शत्रुघ्नो लक्ष्मणानुजः।\nन्यवर्तत ततो रोषात्तां मुमोच च मन्थराम्।।2.78.24।।",
+      "transliteration": "",
+      "translation": "Hearing the words of Bharata, Satrughna, the younger brother of Lakshmana restrained his fury and also released Manthara.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-78-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "सा पादमूले कैकेय्या मन्थरा निपपात ह।\nनिश्श्वसन्ती सुदुःखार्ता कृपणं विललाप च।।2.78.25।।",
+      "transliteration": "",
+      "translation": "Manthara, tormented with grief, fell at the feet of Kaikeyi and began heaving deep sighs.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-78-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "शत्रुघ्नविक्षेपविमूढसंज्ञां समीक्ष्य कुब्जां भरतस्य माता।\nशनैस्समाश्वासयदार्तरूपां क्रौञ्चीं विलग्नामिव वीक्षमाणाम्।।2.78.26।।",
+      "transliteration": "",
+      "translation": ". Seeing the hunchback thrown down by Satrughna and lying senseless and anguished  like a female krauncha bird caught in a net looking in different directions, Kaikeyi gently soothed her. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे अष्टसप्ततितमस्सर्गः।। Thus ends the seventyeighth sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

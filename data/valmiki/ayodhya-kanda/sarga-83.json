@@ -1,0 +1,216 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 83,
+    "title": "Bharata's journey with queens, ministers and all others.",
+    "titleSanskrit": "",
+    "totalShlokas": 22
+  },
+  "shlokas": [
+    {
+      "id": "v2-83-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तत स्समुत्थितः काल्यमास्थाय स्यन्दनोत्तमम्।\nप्रययौ भरतश्शीघ्रं रामदर्शनकाङ्क्षया।।2.83.1।।",
+      "transliteration": "",
+      "translation": "Getting up at dawn, Bharata boarded his excellent chariot and set forth swiftly, longing to see Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-83-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अग्रतः प्रययुस्तस्य सर्वे मन्त्रिपुरोधसः।\nअधिरुह्य हयैर्युक्तान्रथान्सूर्यरथोपमान्।।2.83.2।।",
+      "transliteration": "",
+      "translation": "All the ministers and priests went ahead of Bharata mounting their chariots,  harnessed with horses and resembling the chariot of the Sun god.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-83-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "नवनागसहस्राणि कल्पितानि यथाविधि।\nअन्वयुर्भरतं यान्तमिक्ष्वाकुकुलनन्दनम्।।2.83.3।।",
+      "transliteration": "",
+      "translation": "As per tradition, nine thousand elephants were arranged to follow Bharata, delight of  the race of the Ikshvakus as he set out.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-83-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "षष्टी रथसहस्राणि धन्विनो विविधायुधाः।\nअन्वयुर्भरतं यान्तं राजपुत्रं यशस्विनम्।।2.83.4।।",
+      "transliteration": "",
+      "translation": "Sixty thousands chariots and many archers holding weapons of every kind followed the illustrious prince Bharata as he went.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-83-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "शतं सहस्राण्यश्वानां समारूढानि राघवम्।\nअन्वयुर्भरतं यान्तं सत्यसन्धं जितेन्द्रियम्।।2.83.5।।",
+      "transliteration": "",
+      "translation": "One hundred thousand horses each mounted by a rider followed Bharata, one who had conquered  his passion and adhered to truth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-83-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "कैकेयी च सुमित्रा च कौसल्या च यशस्विनी।\nरामानयनसंहृष्टा ययुर्यानेन भास्वता।।2.83.6।।",
+      "transliteration": "",
+      "translation": "Kaikeyi, Sumitra as well as the illustrious Kausalya travelled by a resplendent chariot, delighted with the thought of bringing Rama back.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-83-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "प्रयाताश्चार्यसङ्घाता रामं द्रष्टुं सलक्ष्मणम्।\nतस्यैव च कथाश्चित्राः कुर्वाणा हृष्टमानसाः।।2.83.7।।",
+      "transliteration": "",
+      "translation": "Venerable people in groups, narrating various accomplishments of Rama and eager to see him with Lakshmana, proceeded in a delightful mood.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-83-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "मेघश्यामं महाबाहुं स्थिरसत्त्वं दृढव्रतम्।\nकदा द्रक्ष्यामहे रामं जगत श्शोकनाशनम्।।2.83.8।।",
+      "transliteration": "",
+      "translation": "When shall we see that mightyarmed Rama of darkblue complexion like the raincloud, firm in strength and steadfast in vows and the destroyer of the sorrows of  this world?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-83-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "दृष्ट एव हि न श्शोकमपनेष्यति राघवः।\nतम स्सर्वस्य लोकस्य समुद्यन्निव भास्करः।।2.83.9।।",
+      "transliteration": "",
+      "translation": "At his sight alone our sorrows will be dispelled, the way the darkness of the entire world is dispelled by the rising Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-83-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "इत्येवं कथयन्तस्ते सम्प्रहृष्टाः कथा श्शुभाः।\nपरिष्वजानाश्चान्योन्यं ययुर्नागरिका जनाः।।2.83.10।।",
+      "transliteration": "",
+      "translation": "The inhabitants of the town proceeded joyfully, narrating Rama's delightful achievements on their way by embracing one another.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-83-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "ये च तत्रापरे सर्वे सम्मता ये च नैगमाः।\nरामं प्रति ययुर्हृष्टा स्सर्वाः प्रकृतयस्तथा।।2.83.11।।",
+      "transliteration": "",
+      "translation": "Respectable city folks, like traders and other subjects went along in great delight towards Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-83-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "मणिकाराश्च ये केचित्कुम्भकाराश्च शोभनाः।\nसूत्रकर्मकृतश्चैव ये च शस्त्रोपजीविनः।2.83.12।।\nमयूरकाः क्राकचिका रोचका वेधकास्तथा।\nदन्तकारा स्सुधाकारा स्तथा गन्धोपजीविनः।।2.83.13।।\nसुवर्णकाराः प्रख्यातास्तथा कम्बलधावकाः।\nस्नापकोष्णोदका वैद्याधूपकाश्शौण्डिकास्तथा।।2.83.14।।\nरजकास्तुन्नवायाश्च ग्रामघोषमहत्तराः।\nशैलूषाश्च सह स्त्रीभिर्ययुः कैवर्तकास्तथा।।2.83.15।।",
+      "transliteration": "",
+      "translation": "Gempolishers, potters, weaponsmiths, weavers, makers of adornments with peacock feathers, sawyers, makers of artificial ornaments, perforators of shells and ornaments, ivoryworkers, whitewashers, purveyors of fragrant essences, renowned goldsmiths, blanketcleaners, hotbath attendants, physicians, vintners, incense merchants, washermen, tailors, headmen of villages and hamlets, actors along with their wives, fishermen -- all followed Bharata.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-83-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "समाहिता वेदविदो ब्राह्मणा वृत्तसम्मताः।\nगोरथैर्भरतं यान्तमनुजग्मु स्सहस्रशः।।2.83.16।।",
+      "transliteration": "",
+      "translation": "Brahmins learned in the Vedas and renowned for their virtuous conduct followed Bharta in their thousands on bullock carts with composed minds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-83-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "सुवेषा श्शुद्धवसनास्ताम्रमृष्टानुलेपनाः।\nसर्वे ते विविधैर्यानै श्शनैर्भरतमन्वयुः।।2.83.17।।",
+      "transliteration": "",
+      "translation": "Dressed well in clean clothes and anointed with pure red sandalpaste, they all slowly followed Bharata, mounting on various vehicles.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-83-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "प्रहृष्टमुदिता सेना साऽन्वयात्कैकयीसुतम्।\nभ्रातुरानयने यान्तं भरतं भ्रातृवत्सलम्।।2.83.18।।",
+      "transliteration": "",
+      "translation": "The army, overwhelmed with joy and cheer followed the devoted brother Bharata who had set out to bring back Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-83-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "ते गत्वा दूरमध्वानं रथयानाश्वकुञ्जरैः।\nसमासेदुस्ततो गङ्गां शृङ्गीबेरपुरं प्रति।।2.83.19।।\nयत्र रामसखो वीरो गुहो ज्ञातिगणैर्वृतः।\nनिवसत्यप्रमादेन देशं तं परिपालयन्।।2.83.20।।",
+      "transliteration": "",
+      "translation": "After travelling a long distance on chariots, carriages, horses and elephants, they reached the river Ganga close to Srngiberapura, a country ruled vigilantly by Rama's friend, the valiant Guha who lived there along with his relatives.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-83-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "उपेत्य तीरं ग��्गायाश्चक्रवाकैरलङ्कृतम्।\nव्यवातिष्ठत सा सेना भरतस्यानुयायिनी।।2.83.21।।",
+      "transliteration": "",
+      "translation": "The army following Bharata reached the bank of the river Ganga, graced by chakravakas (ruddy geese) and halted there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-83-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "निरीक्ष्यानुगतां सेनां तां च गङ्गां शिवोदकाम्।\nभरतस्सचिवान्सर्वानब्रवीद्वाक्यकोविदः।।2.83.22।।",
+      "transliteration": "",
+      "translation": "As he beheld the army following him and the river Ganga of sacred waters in front of him, Bharata who was proficient in speech said to his ministers:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-83-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "निवेशयत मे सैन्यमभिप्रायेण सर्वतः।\nविश्रान्ताः प्रतरिष्यामश्श्व इदानीमिमां नदीम्।।2.83.23।।",
+      "transliteration": "",
+      "translation": "You may, according to your convenience, halt the army anywhere here and, after taking rest (for the night), we shall cross the river Ganga tomorrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-83-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "दातुं च तावदिच्छामि स्वर्गतस्य महीपतेः।\nऔर्ध्वदेहनिमित्तार्थमवतीर्योदकं नदीम्।।2.83.24।।",
+      "transliteration": "",
+      "translation": "Meanwhile, I shall get into this river and offer libations with water to the departed king for the good of his life in the other world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-83-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तस्यैवं ब्रुवतोऽमात्यास्तथेत्युक्त्वा समाहिताः।\nन्यवेशयंस्तां छन्देन स्वेन स्वेन पृथक्पृथक्।।2.83.25।।",
+      "transliteration": "",
+      "translation": "While he (Bharata's) was speaking this way, all the ministers assented by saying 'Be it so' and made arrangement for their troops to rest separately according to their pleasure.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-83-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "निवेश्य गङ्गामनु तां महानदीं चमूं विधानैः परिबर्हशोभिनीम्।\nउवास रामस्य तदा महात्मनो विचिन्तयानो भरतो निवर्तनम्।।2.83.26।।",
+      "transliteration": "",
+      "translation": "The army encamped by Bharata looked splendid with royal insigaia. After making necessary arrangements for the army on the bank of the mighty river Ganga and pondering over the means of bringing back the magnanimous Rama, Bharata stayed. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे त्र्यशीतितमस्सर्गः।। Thus ends the eightythird sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

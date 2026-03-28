@@ -1,0 +1,252 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 34,
+    "title": "Surpanakha describes Rama and Sita to Ravana--incites him to abduct Sita and make her his wife.",
+    "titleSanskrit": "",
+    "totalShlokas": 26
+  },
+  "shlokas": [
+    {
+      "id": "v3-34-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततश्शूर्पणखां दृष्ट्वा ब्रुवन्तीं परुषं वचः।\nअमात्यमध्ये सङ्क्रुद्धः परिपप्रच्छ रावणः।।3.34.1।।",
+      "transliteration": "",
+      "translation": "Incensed at the harsh words Surpanakha used in the midst of ministers, Ravana said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-34-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "कश्च रामः कथंवीर्यः किंरूपः किंपराक्रमः।\nकिमर्थं दण्डकारण्यं प्रविष्टस्सुदुरासदम्।।3.34.2।।",
+      "transliteration": "",
+      "translation": "Who is Rama? What is his strength? How does he look? How valiant is he? For what purpose has he entered the impenetrable Dandaka forest?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-34-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "आयुधं किञ्च रामस्य निहता येन राक्षसाः।\nखरश्च निहतस्संख्ये दूषणस्त्रिशिरास्तथा।।3.34.3।।",
+      "transliteration": "",
+      "translation": "With what weapons he has killed demons like Khara, Dusana and Trisira ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-34-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "इत्युक्ता राक्षसेन्द्रेण राक्षसी क्रोधमूर्छिता।\nततो रामं यथातत्वमाख्यातुमुपचक्रमे।।3.34.4।।",
+      "transliteration": "",
+      "translation": "Thus questioned by Ravana, the demoness, overcome by anger, began telling him about Rama faithfully:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-34-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "दीर्घबाहुर्विशालाक्ष श्चीरकृष्णाजिनाम्बरः।\nकन्दर्पसमरूपश्च रामो दशरथात्मजः।।3.34.5।।",
+      "transliteration": "",
+      "translation": "Rama, Dasaratha's son, has long arms, large eyes. He is clad in deerskin and bark. He resembles Cupid.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-34-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "शक्रचापनिभं चापं विकृष्य कनकाङ्गदम्।\nदीप्तान् क्षिपति नाराचान्सर्पानिव महाविषान्।।3.34.6।।",
+      "transliteration": "",
+      "translation": "His bow resembles Indra's, He is adorned with gold bands. Drawing the bow, he releases glittering arrows like highly poisonous snakes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-34-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "नाददानं शरान्घोरान्नमुञ्चन्तं शिलीमुखान्।\nन कार्मुकं विकर्षन्तं रामं पश्यामि संयुगे।।3.34.7।।",
+      "transliteration": "",
+      "translation": "I could not see Rama in the dreadful war while he was pulling an arrow from the quiver, aiming the dart, and drawing the bowstring.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-34-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "हन्यमानं तु तत्सैन्यं पश्यामि शरवृष्टिभिः।\nइन्द्रेणेवोत्तमं सस्यमाहतन्त्वश्मवृष्टिभिः।।3.34.8।।",
+      "transliteration": "",
+      "translation": "Just as Indra destroys the crop ready for harvest by raining hailstones, I have seen Rama killing the army with a shower of arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-34-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "रक्षसां भीमरूपाणां सहस्राणि चतुर्दश।\nनिहतानि शरै स्तीक्ष्णैस्तेनैकेन पदातिना।।3.34.9।।\nअर्धाधिकमुहूर्तेन खरश्च सहदूषणः।",
+      "transliteration": "",
+      "translation": "Fighting alone on foot with his sharp arrows Rama killed within a span of one and a half muhurta, the fourteen thousand dreadful demons including Dusana and Khara.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-34-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "ऋषीणामभयं दत्तं कृतक्षेमाश्च दण्डकाः।।3.34.10।।\nएका कथञ्चिन्मुक्ताहं परिभूय महात्मना। \nस्त्रीवधं शङ्कमानेन रामेण विदितात्मना।।3.34.11।।",
+      "transliteration": "",
+      "translation": "Sages have been assured safety. Peace has been restored to Dandaka forest. As Rama, the great soul, who knows the self, hesitated to kill a woman, I was alone saved after this humiliation.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-34-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "भ्राता चास्य महातेजा गुणतस्तुल्यविक्रमः।\nअनुरक्तश्च भक्तश्च लक्ष्मणो नाम वीर्यवान्।।3.34.12।।",
+      "transliteration": "",
+      "translation": "His brother called Lakshmana looks radiant. He is virtuous and courageous like him, valiant, devoted and loyal.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-34-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अमर्षी दुर्जयो जेता विक्रान्तो बुद्धिमान्बली।\nरामस्य दक्षिणो बाहुर्नित्यं प्राणो बहिश्चरः।।3.34.13।।",
+      "transliteration": "",
+      "translation": "He is impatient, invincible, victorious, bold, intelligent and strong. He is even the right hand of Rama, his outer life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-34-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "रामस्य तु विशालाक्षी पूर्णेन्दुसदृशानना।\nधर्मपत्नी प्रिया भर्तुर्नित्यं प्रियहिते रता।।3.34.14।।",
+      "transliteration": "",
+      "translation": "Rama's beloved consort is a largeeyed lady. Her face is like the full moon. She is engaged in the wellbeing of her husband.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-34-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "सा सुकेशी सुनासोरुस्सुरूपा च यशस्विनी।\nदेवतेव वनस्यास्य राजते श्रीरिवापरा।।3.34.15।।",
+      "transliteration": "",
+      "translation": "She is an illustrious lady. She is goodlooking with her long hair, wellshaped nose and things. She appears to be the presiding deity of the forest, another goddess of wealth (Laxmi).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-34-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तप्तकाञ्चनवर्णाभा रक्ततुङ्गनखी शुभा।\nसीता नाम वरारोहा वैदेही तनुमध्यमा।।3.34.16।।",
+      "transliteration": "",
+      "translation": "She is Sita, princess of Videha, a virtuous lady of golden complexion, a beautiful lady of slender waist and heavy hips.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-34-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "नैव देवी न गन्धर्वी न यक्षी न च किन्नरी।\nनैवंरूपा मया नारी दृष्टपूर्वा महीतले।।3.34.17।।",
+      "transliteration": "",
+      "translation": "I had not seen such a beautiful woman earlier, among the gandharvas, or yakshas, or kinneras. I have not seen such a beauty among the humans on earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-34-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "यस्य सीता भवेद्भार्या यं च हृष्टा परिष्वजेत्।\nअतिजीवेत्स सर्वेषु लोकेष्वपि पुरन्दरात्।।3.34.18।।",
+      "transliteration": "",
+      "translation": "Whosoever gets Sita as his wife, whoever she embraces happily will wish to live longer than Indra, the breaker of fortresses in this world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-34-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "सा सुशीला वपुश्श्लाघ्या रूपेणाप्रतिमा भुवि।\nतवानुरूपा भार्या स्यात्त्वं च तस्यास्तथा पतिः।।3.34.19।।",
+      "transliteration": "",
+      "translation": "She is a woman of good conduct, of praiseworthy beauty. She is matchless in her beauty on earth. She will be a suitable wife for you and you, a suitable husband for her.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-34-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तां तु विस्तीर्णजघनां पीनश्रोणिपयोधराम्।\nभार्यार्थे च तवानेतुमुद्यताहं वराननाम्।।3.34.20।।\nविरूपितास्मि क्रूरेण लक्ष्मणेन महाभुज।",
+      "transliteration": "",
+      "translation": "O mightyarmed one  I have been disfigured by cruel Lakshmana as I was attempting to bring that lady of broad thighs, pointed breasts, heavy hips and a beautiful face to make her your wife.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-34-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तां तु दृष्ट्वाद्य वैदे���ीं पूर्णचन्द्रनिभाननाम्।\nमन्मथस्य शराणां वै त्वं विधेयो भविष्यसि।।3.34.21।।",
+      "transliteration": "",
+      "translation": "If you see her today, this lady with a face like the fullmoon, you will (instantaneously) fall a victim to the arrows of the god of love.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-34-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "यदि तस्यामभिप्रायो भार्यार्थे तव जायते।\nशीघ्रमुद्ध्रियतां पादो जयार्थमिह दक्षिणः।।3.34.22।।",
+      "transliteration": "",
+      "translation": "If you intend her to be your wife, raise your right foot now and proceed to win her over.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-34-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "कुरु प्रियं तथा तेषां रक्षसां राक्षसेश्वर।\nवधात्तस्य नृशंसस्य रामस्याश्रमवासिनः।।3.34.23।।",
+      "transliteration": "",
+      "translation": "O lord of the demons, do a favour to your clan by  killing that cruel Rama dwelling in the hermitage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-34-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तं शरैर्निशितैर्हत्वा लक्ष्मणं च महारथम्।\nहतनाथां सुखं सीतां यथावदुपभोक्ष्यसि।।3.34.24।।",
+      "transliteration": "",
+      "translation": "Kill Rama, that great warrior along with Lakshmana with sharp arrows and enjoy the  company of Sita happily as you like, with her husband dead.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-34-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "रोचते यति ते वाक्यं ममैतद्राक्षसेश्वर।\nक्रियतां निर्विशङ्केन वचनं मम रावण।।3.34.25।।",
+      "transliteration": "",
+      "translation": "If you like what I have said, do accordingly without any hesitation, O Ravana, lord of the demons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-34-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "विज्ञायेहात्मशक्तिं च ह्रियतामबला बलात्।\nसीता सर्वानवद्याङ्गी भार्यार्थे राक्षसेश्वर।।3.34.26।।",
+      "transliteration": "",
+      "translation": "Assess your own strength, O Lord of the demons, before you forcefully abduct that delicate Sita who is charming in all respects and make her your wife.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-34-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "निशम्य रामेण शरैरजिह्मगै र्हतान् जनस्थानगतान्निशाचरान्।\nखरं च बुद्ध्वा निहतं च दूषणं त्वमत्र कृत्यं प्रतिपत्तुमर्हसि।।3.34.27।।",
+      "transliteration": "",
+      "translation": "On hearing about the death of the demons including Khara and Dusana who fell to the straight and swift arrows of Rama, you should decide your course of action. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे चतु���्त्रिंशस्सर्गः।। Thus ends the thirtytfourth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

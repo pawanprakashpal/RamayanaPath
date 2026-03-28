@@ -1,0 +1,216 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 40,
+    "title": "Rama catches the sight of Ravana standing on top of the palace. Provoked by anger Sugriva springs from the top of the mountain to Ravana, fights with him and returns back successfully.",
+    "titleSanskrit": "",
+    "totalShlokas": 22
+  },
+  "shlokas": [
+    {
+      "id": "v6-40-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततोरामस्सुवेलाग्रं��ोजनद्वयमण्डलम् ।\nअरुरोहससुग्रीवोहरियूधपसम्वृतः ।।6.40.1।।",
+      "transliteration": "",
+      "translation": "Rama accompanied by Vanara troop and Sugriva, ascended the peak of Suvela mountain spread over yojanas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-40-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "स्थित्वामुहूर्तंतत्रैवदिशोदशविलोकयन् ।\nत्रिकूटशिखरेरम्येनिर्मितांविश्वकर्मणा ।।6.40.2।।\nददर्शलङ्कांसुन्यस्तांरम्यकाननशोभिताम् ।",
+      "transliteration": "",
+      "translation": "Remaining there for a short while, Rama observed the view of Lanka in all directions. He saw Lanka built on the charming peak of Trikuta strongly by Vishwakarma, endowed with delightful groves.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-40-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "तस्यांगोपुरशृङ्गस्थंराक्षसेन्द्रंदुरासदम् ।।6.40.3।।\nश्वेतचामरपर्यन्तंविजयच्छत्रशोभितम् ।\nरक्तचन्दनसंलिप्तंरत्नाभरणभूषितम् ।।6.40.4।।\nनीलजीमूतसङ्काशंहेमसञ्छादिताम्बरम् ।\nऐरावतविषाणाग्रैरुत्कृष्टकिणवक्षसम् ।।6.40.5।।\nशशलोहितरागेणसंवीतंरक्तवाससा ।\nसन्ध्यातपेनसंवीतंमेघराशिमिवाम्बरे ।।6.40.6।।",
+      "transliteration": "",
+      "translation": "From there Rama saw on the peak of the tower the Rakshasa king, who is difficult to approach. He was fanned by white whisks on both sides, graced with triumphal parasol, decorated his body with red sandal paste, adorned in redcoloured ornaments, resembling dark clouds, attired in red like the hare's blood, embroidered with golden thread, with scars on his chest caused by indentations made by the tusks of Airavata the elephant of Indra, looked like a mass of cloud covered by sunshine at dusk.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-40-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "पश्यतांवानरेन्द्राणांराघवस्यापिपश्यतः ।\nदर्शनाद्राक्षसेन्द्रस्यसुग्रीवस्सहसोत्थितः ।।6.40.7।।",
+      "transliteration": "",
+      "translation": "Looking at the sight of Raghava seeing Rakshasa king, Sugriva the king of Vanaras got up instantly rashly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-40-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "क्रोधवेगेनसंयुक्तस्सत्त्वेनचबलेनच ।\nअचलाग्रादथोत्थायपुप्लुवेगोपुरस्थले ।।6.40.8।।",
+      "transliteration": "",
+      "translation": "Provoked by anger, courageous and strong Sugriva rose up impelled by impetuosity and flew to the peak of the tower.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-40-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "स्थित्वामुहूर्तंसम्प्रेक्ष्यनिर्भयेनान्तरात्मना ।\nतृणीकृत्यचतद्रक्षस्सोऽब्रवीत्परुषंवचः ।।6.40.9।।",
+      "transliteration": "",
+      "translation": "For a moment he stood looking at the ogre fearlessly in his mind and treating him like straw spoke harsh words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-40-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "लोकनाथस्यरामस्यसखादासोऽस्मिराक्षस ।\nनमयामोक्ष्यसेऽद्यत्वंपार्थिवेन्द्रस्यतेजसा ।।6.40.10।।",
+      "transliteration": "",
+      "translation": "\"O Rakshasa! I am a friend and servant of the king of kings, ruler of the world. By his power I will not leave you!\", Sugriva said.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-40-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "इत्युक्त्वासहसोत्पत्यपुप्लुवेतस्यचोपरि ।\nआकृष्यमुकुटंचित्रंपातयित्वाऽपतद्भुवि ।।6.40.11।।",
+      "transliteration": "",
+      "translation": "Having spoken thus, Sugriva got up speedily and flew to the top of the tower (here Ravana was located) held the diadem and pushed it on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-40-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "समीक्ष्यतूर्णमायान्तमबभाषेनिशाचरः ।\nसुग्रीवस्त्वपरोक्षम् मेहीनग्रीवोभविष्यसि ।।6.40.12।।",
+      "transliteration": "",
+      "translation": "Observing Sugriva coming towards him, Ravana said, \"When you were not seen by me you had a neck. I will make you neckless.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-40-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "इत्युक्त्वोत्थायतंक्षिप्रंबाहुभ्यामाक्षिपत्तले ।\nकन्तुवत्तंसमुत्थायबाहुभ्यामाक्षिपद्धरि ।।6.40.13।।",
+      "transliteration": "",
+      "translation": "Telling like that that Ravana got up and threw Sugriva by his hand s to the ground. Then Sugriva getting up like a ball fallen pushed Ravana down.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-40-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "परस्परंस्वेदविदग्धगात्रौपरस्परंशोणितदिग्धदेहौ ।\nपरस्परंलशिष्टनिरुद्धचेष्टौपरस्परंशाल्मलिकिंशुकौयधा ।।6.40.14।।\nमुष्टिप्रहारैश्चतलप्रहारैररत्निघातैश्चकराग्रघातैः ।\nतौचक्रतुर्युद्धमसह्यरूपंमहाबलौराक्षसवानरेन्द्रौ ।।6.40.15।।",
+      "transliteration": "",
+      "translation": "Sugriva and Ravana, their bodies sweating all over, bodies coloured red with blood looking like red silk cotton trees, their bodies clinging together interlocked with each other stood motionless. They were fighting with their fists, palms and blows of forearms, hurting each other with nails and carrying out unbearable forms of war.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-40-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "कृत्वानियुद्धंभृशमुग्रवेगौकालंचिर, गोपुरवेदिमध्ये ।\nउत्क्षिप्यचोत्क्षिप्यविनम्यदेहौपादक्रमाद्गोपुरवेदिलग्नौ ।।6.40.16।।",
+      "transliteration": "",
+      "translation": "Violently fighting like that aggressively for long, throwing each other down repeatedly, bending and moving their feet in a direction, stood on the fl at area of the peak in the middle portion.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-40-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "अन्योन्यमाविध्यवेदिलग्नौतौपेततुस्सालनिखातमध्ये ।\nउत्पेततुर्भूतलमस्पृशन्तौस्थित्वामुहूर्तंत्वभिनिश्श्वसन्तौ ।।6.40.17।।",
+      "transliteration": "",
+      "translation": "Squeezing their bodies of each other they dropped down between the boundary of the peak and the moat. They were gasping heavily for a moment and clung their body to each other jumping.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-40-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "आलिङ् ग्यचालिङ् ग्यचबाहुयोक्स्रैस्संयोजयामासतुराहवेतौ ।\nसम्रम्भशिक्षाबलसम्प्रयुक्तौसंचेरतुस्सम्प्रतियुद्धमार्गैः ।।6.40.18।।",
+      "transliteration": "",
+      "translation": "Both pressing their bosom to each other, clung to each other, and fastened themselves in embrace in the comb at having received similar training in war and both endowed with might. At this time, they went on in comb at using several war methods.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-40-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "शार्दूरसिंहाविवजातदर्पौगजेन्द्रपोताविवसम्प्रयुक्तौ ।\nसंहत्यचापीड्यचतावुरोभ्यांनिपेततुर्वैयुगपद्धरण्याम् ।।6.40.19।।",
+      "transliteration": "",
+      "translation": "Both of them resembled a tiger and lion affected by pride, connecting to each other through their shoulders like Lordly elephants, hitting and hurting one another holding one another fell down at once simultaneously.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-40-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "उद्यम्यचान्योन्यमधिक्षिपन्तौसञ्चक्रमातेबहुयुद्धमार्गे: ।\nव्यायामशिक्षाबलसम्प्रयुक्तौक्लमंनतौजग्मतुराशुवीरौ ।।6.40.20।।",
+      "transliteration": "",
+      "translation": "Both of them were holding one another, snubbing each other gradually following many kinds of combat. As both the heroes were well trained in wrestling and fighting, they did not feel tiresome.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-40-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "बाहूत्तमैर्वारणवारणाभैर्निवारयन्तौवरवारणाभौ ।\nचिरेणकालेनतुसम्प्रयुक्तौसञ्चेरतुर्मण्डलमार्गमाशु ।।6.40.21।।",
+      "transliteration": "",
+      "translation": "Both Ravana and Sugriva endowed with mighty arms, were resisting each other, and keeping away one another engaging in comb at for a long time. They kept on moving, going around each other swiftly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-40-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तौपरस्परमासाद्ययत्तावन्योन्यसूदने ।\nमार्जाराविवभक्ष्यार्थेऽवितस्थातेमुहुर्मुहुः ।।6.40.22।।",
+      "transliteration": "",
+      "translation": "Both of them intent on destroying each other were approaching one another and now and then growling like cats for the sake of food.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-40-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "मण्डलानिविचित्राणिस्थानानिविविधानिच ।\nमूत्रकाणिचित्राणिगतप्रत्यागतानिच ।।6.40.23।।\nतिरच्शीनगतान्येवतथावक्रगतानिच ।\nपरिमोक्षंप्रहाराणांवर्जनंपरिधावनम् ।।6.40.24।।\nअभिद्रवणमाप्लावमावस्थानंसविग्रहम् ।\nपरावृत्तमपावृत्तमपद्रुतमवप्लुतम् ।।6.40.25।।\nउपन्यस्तपमन्यस्तंयुद्धमार्गविशारदौ ।\nतौसञ्चेचेरतुरन्योन्यंवानरेन्द्रश्चरावणः ।।6.40.26।।",
+      "transliteration": "",
+      "translation": "Both Vanara king and Ravana being learned in war craft, went around in circles like ox's urine, stood in different wonderful postures, moved forward and backward horizontally and obliquely to evade movements, hitting, and delivering each other, standing steadily motionless, striking, jumping, assaulting each other coming forward and going away, going backwards jumping from behind, holding hands and folding to resist exhibiting their skill in combat.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-40-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "ए���स्मिन्नन्तरेरक्षोमायाबलमथात्मनः ।\nआरब्धुमुपसंपेदेज्ञात्वातंवानराधिपः ।।6.40.27।।\nउत्पपाततदाकाशंजितकाशीजितक्लमः ।\nरावणःस्थितएवात्रहरिराजेववञ्चितः ।।6.40.28।।",
+      "transliteration": "",
+      "translation": "In the meantime, Ravana thought of exhibiting his superiority by jugglery and jumped to the sky. Knowing that Sugriva, the untiring Vanara king assumed the air of victor and rose up to the sky. Baffled Ravana stood thinking Sugriva would come there.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-40-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "अथहरिवरनाथःप्राप्यसङ्ग्रामकीर्तिंनिशिचरपतिमाजौयोजयित्वाश्रमेण ।\nगगनमतिविशालंलङ्घयित्वार्कसूनुर्हरिगणमध्येरामपार्श्वंजगाम ।।6.40.29।।",
+      "transliteration": "",
+      "translation": "Then Sugriva, the Sun god's son, the Lord of Vanara chiefs, who had won fame of winning in battles, victorious exhausting Ravana in comb at flying the extensive sky reached Rama who was amid Vanara army.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-40-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "इतिससवितृसूनुस्तत्रतत्कर्मकृत्वापवनगतिरनीकंप्राविशत्ससम्प्रहृष्टः ।\nरघुवरनृपसूनोद्वर्धयन्युद्धहर्षंतरुमृगगणमुख्यैःपूज्यमानोहरीन्द्रः ।।6.40.30।।",
+      "transliteration": "",
+      "translation": "Sugriva the son of the Sun god, having completed the feat, rejoiced by increasing the joy of foremost of Raghus. Then he who is adored by the monkey chiefs entered the army of Vanaras. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेचत्वारिंशस्सर्गः ।। This is the end of the fortieth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

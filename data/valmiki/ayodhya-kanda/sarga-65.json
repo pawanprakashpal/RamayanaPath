@@ -1,0 +1,270 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 65,
+    "title": "Dasaratha's death -- heartbroken Kausalya and Sumitra -- palace echoes with the lamentations of Dasaratha's wives.",
+    "titleSanskrit": "",
+    "totalShlokas": 28
+  },
+  "shlokas": [
+    {
+      "id": "v2-65-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "अथ रात्र्यां व्यतीतायां प्रातरेवापरेऽहनि।\nवन्दिनः पर्युपातिष्ठंस्तत्पार्थिव निवेशनम्।।2.65.1।।\nसूताः परमसंस्कारा मङ्गलाश्चोत्तमश्रुताः।\nगायका: स्तुतिशीलाश्च निगदन्तः पृथक् पृथक��।।2.65.2।।",
+      "transliteration": "",
+      "translation": "Then on the following day (unaware of Dasaratha's death) panegyrists uttering benedictions, highly accomplished bards and genealogists proficient in reciting auspicious words, singers versed in musical science reached the palace one after another eulogising the king's glory.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-65-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अथ रात्र्यां व्यतीतायां प्रातरेवापरेऽहनि।\nवन्दिनः पर्युपातिष्ठंस्तत्पार्थिव निवेशनम्।।2.65.1।।\nसूताः परमसंस्कारा मङ्गलाश्चोत्तमश्रुताः।\nगायका: स्तुतिशीलाश्च निगदन्तः पृथक् पृथक्।।2.65.2।।",
+      "transliteration": "",
+      "translation": "Then on the following day (unaware of Dasaratha's death) panegyrists uttering benedictions, highly accomplished bards and genealogists proficient in reciting auspicious words, singers versed in musical science reached the palace one after another eulogising the king's glory.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-65-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "राजानं स्तुवतां तेषामुदात्ताभिहिताशिषाम्।\nप्रासादाऽभोगविस्तीर्णः स्तुतिशब्दोह्यवर्तत।।2.65.3।।",
+      "transliteration": "",
+      "translation": "The songs of those who were eulogising the king and uttering benedictions at high pitch pervaded the entire palace.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-65-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "ततस्तु स्तुवतां तेषां सूतानां पाणिवादकाः।\nअपदानान्युदाहृत्य पाणिवादा नवादयन्।।2.65.4।।",
+      "transliteration": "",
+      "translation": "While the bards sang the praise of the king, those who praise clapping their palms  clapped, citing the wonderful deeds of Dasaratha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-65-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तेन शब्देन विहगाः प्रतिबुद्धा विसस्वनुः।\nशाखास्थाः पञ्जरस्थाश्च ये राजकुलगोचराः।।2.65.5।।",
+      "transliteration": "",
+      "translation": "The birds perched on the branches and some in cages awoke and began to twitter all over the palace.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-65-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "व्याहृताः पुण्यशब्दाश्च वीणानां चापि निस्स्वनाः।\nआशीर्गेयं च गाथानां पूरयामास वेश्म तत्।।2.65.6।।",
+      "transliteration": "",
+      "translation": "The sacred songs of bards and panegyrists, notes of veena, chantings of metrical hymns and benedictory verses filled the palace.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-65-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तत श्शुचिसमाचाराः पर्युपस्थानकोविदाः।\nस्त्रीवर्ष धरभूयिष्ठा उपतस्थुर्यथापुरम्।।2.65.7।।",
+      "transliteration": "",
+      "translation": "Thereafter, as usual, men observing purificatory practices and skilled in royal service  assembled along with women and eunuchs.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-65-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "हरिचन्दनसम्पृक्तमुदकं काञ्चनैर्घटैः।\nआनिन्युस्स्नानशिक्षाज्ञा यथाकालं यथाविधि।।2.65.8।।",
+      "transliteration": "",
+      "translation": "The bathattendants brought water mixed with yellow sandal paste in golden vessels at appropriate times in accordance with tradition.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-65-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "मङ्गलालम्भनीयानि प्राशनीयान्युपस्करान्।\nउपनिन्युस्तथाप्यन्याः कुमारीबहुलाः स्त्रियः।।2.65.9।।",
+      "transliteration": "",
+      "translation": "Also, a group of women mostly young maidens brought auspicious unguents, articles gratifying the senses and those necessary accessories for completion of bathing process.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-65-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "सर्वलक्षणसम्पन्नं सर्वं विधिवदर्चितम्।\nसर्वं सुगुणलक्ष्मीवत्तद्बभूवाभिहारिकम्।।2.65.10।।",
+      "transliteration": "",
+      "translation": "All the articles brought for the king (for his bath) were presentable and as per tradition. In quality they were excellent and auspicious.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-65-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तत स्सूर्योदयं यावत्सर्वं परिसमुत्सुकम्।\nतस्थावनुपसम्प्राप्तं किंस्विदित्युपशङ्कितम्।।2.65.11।।",
+      "transliteration": "",
+      "translation": "All the highly enthusiastic attendants waited for the king till sunrise. Unable to see the king  they doubted about what had happened",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-65-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अथ याः कोसलेन्द्रस्य शयनं प्रत्यनन्तराः।\nताः स्त्रियस्तु समागम्य भर्तारं प्रत्यबोधयन्।।2.65.12।।",
+      "transliteration": "",
+      "translation": "The women who usually attend to the bed (maids who do the bed in the morning) of Dasaratha (king of Kosala) without any restrictions, approached the king and began waking him up.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-65-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तथाप्युचितवृत्ता स्ता विनयेन नयेन च।\nनह्यस्य शयनं स्पृष्ट्वा किञ्चिदप्युपलेभिरे।।2.65.13।।",
+      "transliteration": "",
+      "translation": "Conducting themselves agreeably with restraint and obedience,  the women touched the bed of Dasaratha but did not perceive any sign of life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-65-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "ताः स्त्रियस्स्वप्नशीलज्ञाश्चेष्टासञ्चलनादिषु \nता वेपथुपरीताश्च राज्ञः प्राणेषु शङ्किताः।\nप्रतिस्रोतस्तृणाग���राणां सदृशं सञ्चकाशिरे।।2.65.14।।",
+      "transliteration": "",
+      "translation": "Those women knowledgeable in ascertaining the nature of sleep based on the actions, movements, etc. were apprehensive whether the king was  alive or not. Trembling severely  they seemed like the tips of reeds that  stand against the current.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-65-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "अथ सन्देहमानानां स्त्रीणां दृष्ट्वा च पार्थिवम्।\nयत्तदाशङ्कितं पापं तस्य जज्ञे विनिश्चयः।।2.65.15।।",
+      "transliteration": "",
+      "translation": "Having seen the king more closely, those women who were apprehensive till then, became certain of the inevitable.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-65-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "कौसल्या च सुमत्रच पुत्रशोकपराजिते।\nप्रसुप्ते न प्रबुध्येते यथा कालसमन्विते।।2.65.16।।",
+      "transliteration": "",
+      "translation": "Overpowered by grief on account of separation from their sons, Sumitra and Kausalya were fast asleep and did not wake up as if they were possessed by death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-65-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "निष्प्रभा च विवर्णा च सन्ना शोकेन सन्नता।\nन व्यराजत कौसल्या तारेव तिमिरावृता।।2.65.17।।",
+      "transliteration": "",
+      "translation": "Kausalya, with her face dull and pallid, sank down, her limbs contracted. She looked lustreless like stars enveloped in darkness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-65-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "कौसल्याऽनन्तरं राज्ञस्सुमित्रा तदन्तनरम्।\nन स्म विभ्राजते देवी शोकाश्रुलुलितानना।।2.65.18।।",
+      "transliteration": "",
+      "translation": "There lay Sumitra next to Kausalya by the side of the king. Queen Kausalya's face was dull, drooping  down on account of shedding tears of sorrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-65-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "ते च दृष्ट्वा तथा सुप्ते शुभे देव्यौ च तं नृपम्।\nसुप्तमेवोद्गतप्राणमन्तःपुरमदृश्यत।।2.65.19।।",
+      "transliteration": "",
+      "translation": "Having seen the two auspicious queens asleep, the women in the inner apartment thought the king died in his sleep.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-65-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "ततः प्रचुक्रुशुर्दीना स्सस्वरं ता वराङ्गनाः।\nकरेणव इवारण्ये स्थानप्रच्युतयूथपाः।।2.65.20।।",
+      "transliteration": "",
+      "translation": "Then those women bewailed bitterly and loudly in distress like female elephants in the forest when their leader has fallen out of the herd.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-65-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तासामाक्रन्दशब्देन सहसोद्धतचेतने।\nकौसल्या च सुमित्रा च त्यक्त निद्रे बभूवतुः।।2.65.21।।",
+      "transliteration": "",
+      "translation": "Hearing the lamentations of the women suddenly Kausalya and Sumitra woke up from sleep, their senses recovered.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-65-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "कौसल्या च सुमित्रा च दृष्ट्वा स्प़ृष्ट्वा च पार्थिवम्।\nहा नाथेति परिक्रुश्य पेततुर्धरणीतले।।2.65.22।।",
+      "transliteration": "",
+      "translation": "Kausalya and Sumitra looked at the king, touched his body, cried aloud, 'Ah, lord' and collapsed on the floor.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-65-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "सा कोसलेन्द्रदुहिता वेष्टमाना महीतले।\nन बभ्राज रजोध्वस्ता तारेव गगनाच्च्युता।।2.65.23।।",
+      "transliteration": "",
+      "translation": "Kausalya, daughter of the lord of Kosala, lay on the ground writhing in pain, coated  with dust, and devoid of brightness like a star without radiance fallen from the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-65-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "नृपे शान्तगुणे जाते कौसल्यां पतितां भुवि।\nअपश्यंस्ताः स्त्रियः सर्वा हतां नागवधूमिव।।2.65.24।।",
+      "transliteration": "",
+      "translation": "Dasaratha with his body lying still, all the women looked at Kausalya fallen down on the floor like a slain female elephant.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-65-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "ततस्सर्वा नरेन्द्रस्य कैकेयीप्रमुखाः स्त्रियः।\nरुदन्त्य श्शोकसन्तप्ता निपेतुर्गतचेतनाः।।2.65.25।।",
+      "transliteration": "",
+      "translation": "Then all the wives of the king led by Kaikeyi,  burning with grief and weeping, lost their senses and fell down.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-65-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "ताभिस्स बलवान्नादः क्रोशन्तीभिरनुद्रुतः।\nयेन स्फीतीकृतं भूयस्तद्गृहं समनादयत् ।। 2.65.26 ।।",
+      "transliteration": "",
+      "translation": "The wailings of the women grew louder and louder until the whole palace reverberated with their lamentations.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-65-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "तत् परित्रस्तन्त्रसम्भ्रान्त पर्युत्सुकजनाकुलम्।\nसर्वतस्तुमुलाक्रन्दं परितापार्तबान्धवम्।।2.65.27।।\nसद्यो निपतितानन्दं दीनविक्लबदर्शनम्।\nबभूव नरदेवस्य सद्म दिष्टान्तमीयुषः।।2.65.28।।",
+      "transliteration": "",
+      "translation": "On the demise of Dasaratha, joy instantly vanished. The palace was thronged with anxious people who were exceedingly bewildered and frightened. The royal family was anguished with distress. The palace was filled all over with the tumult of cries of agony. And it looked miserable with grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-65-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "अतीतमाज्ञाय तु पार्थिवर्षभं यशस्विनं सम्परिवार्य पत्नयः।\nभृशं रुदन्त्यः करुणं सुदुःखिताः प्रगृह्य बाहू व्यलपन्ननाथवत्।।2.65.29।।",
+      "transliteration": "",
+      "translation": "Realising that the great and illustrious king, Dasaratha, had passed away, his wives gathered around him, weeping piteously and bitterly and holding one another's hands  bewailed like orphans. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे पञ्चषष्टितमस्सर्गः।। Thus ends the sixtyfifth sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,954 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 131,
+    "title": "Bharata requests Sri Rama to take over the kingdom. Celebration of Sri Rama's coronation on a grand scale. Sri Rama offers gifts to guests and bids farewell.",
+    "titleSanskrit": "",
+    "totalShlokas": 104
+  },
+  "shlokas": [
+    {
+      "id": "v6-131-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "शिरस्यञ्जलिमाधायकैकेय्यानन्��वर्धनः ।\nबभाषेभरतोज्येष्ठंरामंसत्यपराक्रमम् ।।6.131.1।।",
+      "transliteration": "",
+      "translation": "Bharata, the enhancer of Kaikeyi's joy, of unfailing valour, with folded palms on head submitted to his elder brother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "पूजितामामिकामातादत्तंराज्यमिदंमम ।\nतद्ददामिपुनस्तुभ्यंयथात्वमददामम ।।6.131.2।।",
+      "transliteration": "",
+      "translation": "\"This kingdom was bestowed on me and my mother. I return it back to you now again.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "धुरमेकाकिनान्यस्तांवृषभेणबलीयसा ।\nकिशोरवद्गुरुंभारं न वोढुमहमुत्सहे ।।6.131.3।।",
+      "transliteration": "",
+      "translation": "\"I am not able to bear the heavy burden transferred to me any more like a young ox can't bear like a bull.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "वारिवेगेनमहताभिन्नस्सेतुरिवक्षरन् ।\nदुर्बन्धनमिदंमन्येराज्यच्छ्रिदमसम्वृतम् ।।6.131.4।।",
+      "transliteration": "",
+      "translation": "\"If the kingdom containing vulnerable points is not protected on all sides, it can't stand, just as a strong rush of water can be prevented from breach only by constructing a dam.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "गतिंखरइवाश्वस्यहंसस्येव च वायसः ।\nनान्वेतुमुत्सहेराम तवमार्गमरिन्दम ।।6.131.5।।",
+      "transliteration": "",
+      "translation": "\"O Rama! Donkey can't run like horse crow can't run like swan. I am not able to bear the burden of kingdom like you, O tormentor of enemies.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "यथाचारोपितोवृक्षोजातश्चार्न्न्तिवेशने ।\nमहांश्चसुदुरारोहोमहास्कन्दःप्रशाखवान् ।।6.131.6।।\nशीर्येतपुष्पितोभूत्वा न फलानिप्रदर्शयन् ।\nतस्यनानुभवेदर्थंयस्यहेतोस्सरोपितः ।।6.131.7।।\nएषोपमामहाबाहोत्वमर्थंवेत्तुमर्हसि ।\nयद्यस्मान्मनुजेन्द्रत्वंभर्ताभृत्यान्नशाधिहि ।।6.131.8।।",
+      "transliteration": "",
+      "translation": "\"If for example you have planted a tree in your own house, it becomes huge and difficult to climb in spite of a large trunk, many branches and after flowering does not yield fruits and is withered, the person who planted will not enjoy the fruit. In that way O mighty armed Rama, you are the ruler of the people, if you would not take care of us, your dependants, I solicit you ought to understand what I mean.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "जगदद्याभिषिक्तंत्वामनुपश्यतुराघव ।\nप्रतपन्तमिवादित्यंमध्याह्नेदीप्ततेजसम् ।।6.131.9।।",
+      "transliteration": "",
+      "translation": "\"Raghava, let you be consecrated in the afternoon and the world will see you dazzling in brilliance like the sun today.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तूर्यसङ्घान्तिर्घोषैःकाञ्चीनूपुरनिःस्वनैः ।\nमधुरैर्गीतशब्दैश्चप्रतिबुध्यस्वशेष्व च ।।6.131.10।।",
+      "transliteration": "",
+      "translation": "May you wake up to the sounds of musical instruments and the tinkling of ornaments worn around the waist and anklets and sweet sounds of singing.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "यावदावर्ततेचक्रंयावती च वसुन्धरा ।\nतावत्त्वमिहलोकस्यस्वामित्वमनुवर्तय ।।6.131.11।।",
+      "transliteration": "",
+      "translation": "As long as the stellar sphere goes round, and as long as the earth revolves around that long you enjoy the rulership of the world.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "भरतस्यवच्श्रुत्वारामःपरपुरञ्जयः ।\nतथेतिप्रतिजग्राहनिषसादासनेशुभे ।।6.131.12।।",
+      "transliteration": "",
+      "translation": "Hearing Bharata's words, the conqueror of enemies, Rama said 'Be it so'. Then Bharata took the auspicious seat.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "ततश्शत्रुघ्नवचनान्निपुणाःश्मश्रुवर्धनाः ।\nसुखहस्ताःसुशीघ्राश्चराघवंपर्यवारयन् ।।6.131.13।।",
+      "transliteration": "",
+      "translation": "Then at the command of Shatrughna's words, experts with hand work (barbers) who had soft skills quickly surrounded Raghava.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "पूर्वंतुभरतेस्नातेलक्ष्मणे च महाबले ।\nसुग्रीवेवानरेन्द्रे च राक्षसेन्द्रेविभीषणे ।।6.131.14।।\nविशोधितजटस्स्नातश्चित्रमाल्यानुलेपनः ।\nमहार्हवसनोपेतस्तस्थौतत्रश्रियाज्वलन् ।।6.131.15।।",
+      "transliteration": "",
+      "translation": "Bharata had his bath first, and mighty Lakshmana, Sugriva the monkey king, and Vibheeshana the Rakshasa king followed him. Sri Rama removed the matted hair, had bath, adorned with colourful garlands, and daubed with sandal paste and clothed in exquisite robes stood glowing and shining.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "प्रतिकर्म च रामस्यकारयामासवीर्यवान ।\nलक्ष्मणस्य च लक्ष्मीवानिक्ष्वाकुकुलवर्धनः ।।6.131.16।।",
+      "transliteration": "",
+      "translation": "Then valiant and prosperous, Shatrughna, who is an enhancer of the glory of Ikshvaku race decorated Sri Rama and Lakshmana (duly with ornaments).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "प्रतिकर्मचसी���ायास्सर्वादशरथस्त्रियः ।\nआत्मनैवतदाचक्रुर्मनस्विन्योमनोहरम् ।।6.131.17।।",
+      "transliteration": "",
+      "translation": "Then all the nobleminded Dasharatha's wives themselves decorated Sita beautifully.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "ततोवानरपत्नीनांसर्वासामेवशोभनम् ।\nचकारयत्नात्कौसल्याप्रहृष्टापुत्रवत्सला ।।6.131.18।।",
+      "transliteration": "",
+      "translation": "The very delighted Kausalya, lover of her sons started making effort to decorate the wives of all Vanaras in a splendid manner.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तत: श्शत्रुघ्नवचनात्सुमन्त्रोनामसारथिः ।\nयोजयित्वाभिचक्रामरथंसर्वाङ्गशोभनम् ।।6.131.19।।",
+      "transliteration": "",
+      "translation": "Then Sumantra the charioteer, commanded by Shatrughna came there with all parts of the chariot decorated and yoked.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अर्कमण्डलसङ्काशंदिव्यंदृष्टवारथंस्थितम् ।\nआरुरोहमहाबाहूरामःपरपुरंञ्जयः ।।6.131.20।।",
+      "transliteration": "",
+      "translation": "Seeing the wonderful chariot like the radiance of the planet sun, mighty armed Rama the conqueror of hostile enemies ascended.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "सुग्रीवोहनुमांश्चैवमहेन्द्रसदृशद्युती ।\nस्नातौदिव्यनिभैर्वस्त्रैर्जग्मतुश्शुभकुण्डलौ ।।6.131.21।।",
+      "transliteration": "",
+      "translation": "Sugriva and Hanuman having bathed wore sparkling earrings, clothed in heavenly robes vied with Mahendra in splendour, started.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "सर्वाभरणजुष्टाश्चयुयुस्तश्शुभकुण्डलाः ।\nसुग्रीवपत्नयःसीता च द्रष्टुंनगरमुत्सुकाः ।।6.131.22।।",
+      "transliteration": "",
+      "translation": "Sugriva's wife and Sita decked with all kinds of ornaments and earrings, enthused to see the city, started.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "अयोध्यायांतुसचिवाराज्ञोदशरथस्य च ।\nपुरोहितंपुरस्कृत्यमन्त्रयामासुरर्थवत् ।।6.131.23।।",
+      "transliteration": "",
+      "translation": "At Ayodhya also, king Dasharatha's ministers, priests started to Vasishta and thought of the required arrangements.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "अशोकोविजयश्चैवसिद्धार्थश्चसमाहिताः ।\nमन्त्रयन्रामवृध्यर्थंबुध्यर्थंनगरस्य च ।।6.131.24।।",
+      "transliteration": "",
+      "translation": "Ashoka, Vijaya, Siddhartha, collected together and started consulting with each other for the growth of Rama and the City.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "सर्वमेवाभिषेकार्थंजयार्हस्यमहात्मनः ।\nकर्तुमर्हथरामस्ययद्यन्मङ्गलपूर्वकम् ।।6.131.25।।",
+      "transliteration": "",
+      "translation": "For the success of the great soul Rama's consecration, whatever was auspicious, all that ought to be done as he deserves.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "इतितेमन्त्रिणस्सर्वेसन्दिश्य च पुरोहितम् ।\nनगरान्निर्ययुस्तूर्णंरामदर्शनबुद्धयः ।।6.131.26।।",
+      "transliteration": "",
+      "translation": "All those ministers, priests thus communicating with each other, speedily set forth to have a glance at Sri Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "हरियुक्तंसहस्राक्षोरथमिन्द्रइवानघः ।\nप्रययौरथमास्थायरामोनगरमुत्तमम् ।।6.131.27।।",
+      "transliteration": "",
+      "translation": "Like the thousand eyed Indra seated in the excellent chariot yoked to green horses, the sinless Rama departed to the city.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "जग्राहभरतोरमशीन्शत्रुघ्नश्चत्रमाददे ।\nलक्ष्मणोव्यजनंतस्यमूर्ध्निसम्पर्��वीजयत् ।।6.131.28।।\nश्वेतं च वालव्यजनंजगृहेपरितस्स्थितः ।\nअपरंचन्द्रसङ्काशंराक्षसेन्द्रोविभीषणः ।।6.131.29।।",
+      "transliteration": "",
+      "translation": "Bharata held the reins, Shatrughna took hold of the parasol, Lakshmana standing in front held the fan, and the Rakshasa king Vibheeshana held a white whisk which was like a moon for driving the air.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "ऋषिसङ्घैस्तदाकाशेदेवैश्चसमरुद्गणैः ।\nस्तूयमास्यरामस्यशुश्रुवमधुरध्वनिः ।।6.131.30।।",
+      "transliteration": "",
+      "translation": "Then the host of sages, Rudras and gods from the heaven started praising Rama with sweet sounding chanting.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "ततःशत्रुञ्जयंनामकुञ्जरंपर्वतोपमम् ।\nआरुरोहमहातेजास्सुग्रीवःप्लवगर्षभः ।।6.131.31।।",
+      "transliteration": "",
+      "translation": "Then resplendent Sugriva, the bull among Vanaras, ascended the mountain like elephant by the name Satrumjaya.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "नवनागसहस्राणिययुरास्थायवानराः ।\nमानुषंविग्रहंकृत्वासर्वाभरणभूषिताः ।।6.131.32।।",
+      "transliteration": "",
+      "translation": "Assuming human semblance, the Vanaras adorned with ornaments ascended nine thousand elephants and departed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "शङ्खशब्दप्रणादैश्चदुन्दुभीनां च निस्स्वनैः ।\nप्रययौपुरुषव्याघ्रस्तांपुरींहर्म्यमालिनीम् ।।6.131.33।।",
+      "transliteration": "",
+      "translation": "Sri Rama the tiger among men went accompanied by sounds of blasts of conches and shouts and roll of drums along the rows of mansions in the city.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "ददृशुस्तेसमायान्तंराघवंसपुरस्सरम् ।\nविराजमानंवपुषारथेनातिरथंतदा ।।6.131.34।।",
+      "transliteration": "",
+      "translation": "Then they saw all those who had gone to Ayodhya coming in advance in accordance with tradition, to receive Rama, the great car warrior, who was shining brightly advancing by the chariot.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "तेवर्थयित्वाकाकुत्स्थंरामेणप्रतिनन्दिताः ।\nअनुजग्मुर्महात्मानंभ्रातृभिःपरिवारितम् ।।6.131.35।।",
+      "transliteration": "",
+      "translation": "They were blessing Sri Rama in turn and Rama responded to them very happily. Surrounded by brothers and all followed Rama the great soul.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "अमात्यैर्ब्राह्मणैश्चैवतथाप्रकृतिभिर्ववृतः ।\nश्रियाविरुरुचेरामोनक्षत्ररिवचन्द्रमाः ।।6.131.36।।",
+      "transliteration": "",
+      "translation": "Surrounded by ministers, brahmins and common people, glorious Rama shone brightly like the moon surrounded by stars.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "स पुरोगामिभिस्तूर्यैस्तालस्वस्तिकपाणिभिः ।\nप्रव्याहरद्भिर्मुदितैर्मङ्गलानिवृतोययौ ।।6.131.37।।",
+      "transliteration": "",
+      "translation": "He went forward surrounded by bands, trumpets, wooden cymbals and swastikas and very happily singing auspicious festive songs.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "अक्षतंजातरूपं च गावःकन्यास्सहद्विजाः ।\nनरामोदकहस्ताश्चरामस्यपुरतोययुः ।।6.131.38।।",
+      "transliteration": "",
+      "translation": "Taking yellow rice (rice smeared with turmeric) appearing like gold, cows, virgin women, brahmins with Modakas in hand went before Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "सख्यं च रामस्सुग्रीवेप्रभावंचानिलात्मजे ।\nवानराणां च तत्कर्मह्याचचक्षेऽऽथमन्त्रिणाम् ।।6.131.39।।",
+      "transliteration": "",
+      "translation": "Rama narrated about his friendship with Sugriva and the distinct performance of Hanuman and Vanaras to the ministers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "श्रुत्वा च विस्मयंजग्मुरयोध्यापुरवासिनः ।\nवानराणां च ततकर्मराक्षसानां च तद्बलम् ।।6.131.40।।",
+      "transliteration": "",
+      "translation": "Hearing about the action of Vanaras and the strength of Rakshasas, the citizens of Ayodhya were astonished.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "विभीषणस्यसम्योगमाचचक्षेऽथमन्त्रिणाम् ।\nद्युतिमानेतदाख्यायरामोवानरसम्युतः ।।6.131.41।।\nहृष्टपुष्टजनाकीर्णमयोध्यांप्रविवेशसः ।",
+      "transliteration": "",
+      "translation": "Sri Rama narrated about Vibheeshana's friendship to the ministers. Splendorous Rama then entered Ayodhya filled with very happy people accompanied by Vanaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "ततोह्यभ्युच्छ्रयन्पौराःपताकाश्चगृहेगृहे ।।6.131.42।।\nऐक्ष्वाकुध्युषितंरम्यमाससादपितुर्गृहम् ।",
+      "transliteration": "",
+      "translation": "The citizens of Ayodhya held the flags up in every house. Thereupon Rama reached the beautiful home of his father, the abode of the Ikshvaku dynasty.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "अथाब्रवीद्राजपुत्रोभरतंधर्मिणांवरम् ।।6.131.43।।\nअर्धोपहितयावाचामधुरंरघुनन्दनः ।\nपितुर्भवनमासाद्यप्रविश्य च महात्मनः ।।6.131.44।।\nकौसल्यां च सुमित्रां च कैकेयीमभिवाद्य च ।",
+      "transliteration": "",
+      "translation": "And thereafter prince Rama, the joy of Raghus, the great soul reached father's mansion and then to Kausalya's and to Sumitra, to Kaikeyi and greeted them. He then spoke meaningful words to virtuous Bharata in a sweet tone.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "यच्छमद्भवनंश्रेष्ठंसाशोकवनिकंमहत् ।।6.131.45।।\nमुक्तावैदूर्यसङ्कीर्णंसुग्रीवायनिवेदय ।",
+      "transliteration": "",
+      "translation": "Let the splendid, excellent mansion attached to Ashoka grove, encrusted with cat's eye gems and pearls be placed at the disposal of Sugriva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "तस्यतद्वचनंश्रुत्वाभरतस्सत्यविक्रमः ।।6.131.46।।\nहस्तेगृहीत्वासुग्रीवंप्रविवेशतमालयम् ।",
+      "transliteration": "",
+      "translation": "Then that upright Bharata hearing the words of Rama taking the hand of Sugriva led him to that temple like abode.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "तत: स्स्सैलप्रदीपांश्चपर्यङ्कास्तरणानि च ।।6.131.47।।\nगृहीत्वाविविशुःक्षिप्रंशत्रुघ्नेप्रचोदिताः ।",
+      "transliteration": "",
+      "translation": "Then as commanded by Shatrughna, people taking glowing oil lamps and coverlets for the couches quickly entered the palace.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "उवाच च महातेजास्सुग्रीवंराघवानुजः ।।6.131.48।।\nअभिषेकायरामस्यदूतानाज्ञापयप्रभो ।",
+      "transliteration": "",
+      "translation": "Highly brilliant Sugriva said to Bharata, \"Let envoys be sent for the consecration of Rama.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "सौवर्णान्वानरेन्द्राणांचतुर्णांचतुरोघटान् ।।6.131.49।।\nददौक्षिप्रंससुग्रीवस्सर्वरत्नविभूषितान् ।",
+      "transliteration": "",
+      "translation": "Sugriva instantly gave four golden pots decorated well to the four Vanara leaders.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "यथाप्रत्यूषसमयेचतुर्णांसागराम्बसाम् ।।6.131.50।।\nपूर्णघटैःप्रतीक्षध्वंतथाकुरुतवानराः ।",
+      "transliteration": "",
+      "translation": "Sugriva gave four pots to the four of the Vanaras to get them filled with the water of the four oceans and get them by early morning and said to await for him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "एवमुक्तामहात्मानोवानरावारणोपमाः ।।6.131.51।।\nउत्पेतुर्गगनंशीघ्रंगरुडाइवशीघ्रगाः ।",
+      "transliteration": "",
+      "translation": "Having spoken like that by Sugriva, the Vanaras of mountainlike forms fled like Garuda into the sky quickly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "जाम्बवांश्चहनूमांश्चवेगदर्शी च वानरः ।।6.131.52।।\nऋषभश्चैवकलशान्जलपूर्णानथानयन् ।\nनदीशतानांपञ्चानांजलंकुम्भैरुपाहरन् ।।6.131.53।।\nपूर्वात्समुद्रात्कलशंजलपूर्णमथानयत् ।\nसुषेणस्सत्त्वसम्पन्नस्सर्वरत्नविभूषितम् ।।6.131.54।।",
+      "transliteration": "",
+      "translation": "Jambavan, Hanuman, Vegadarsa and Rshaba brought pots of water from the seas. Another five hundred monkeys brought five hundred pots from five hundred rivers of the country. Jambavan richly endowed with courage brought in a pot encrusted with all kinds of gems. Sushena brought water from the eastern sea.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "ऋषभोदक्षिणात्तूर्णंसमुद्राज्जलमानयत् ।\nरक्तचन्दनशाखाभिस्सम्वृतंकाञ्चनंघटम् ।।6.131.55।।",
+      "transliteration": "",
+      "translation": "Rshaba quickly brought water from the southern sea in a golden pot covered with sandal paste.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "गवयःपश्चिमात्तोयमाजहारमहार्णवात् ।\nरत्नकुम्भेनमहताशीतंमारुतविक्रमः ।।6.131.56।।",
+      "transliteration": "",
+      "translation": "Gavaya, an expert like WindGod brought cold water from the abode of Varuna in the west, in a pot encrusted with gems.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "उत्तराच्चजलंशीघ्रंगरुडानिलविक्रमः ।\nआजहार स धर्मात्मानलःसर्वगुणान्वितः ।।6.131.57।।",
+      "transliteration": "",
+      "translation": "Nala who vied with Garuda in speed, a righteous one, endowed with all virtues quickly brought water from the north.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "ततस्तैर्वानरश्रेष्ठैरानीतंप्रेक्ष्यतज्जलम् ।\nअभिषेकायरामस्यशत्रुघ्नस्सचिवैस्सह ।।6.131.58।।\nपुरोहितायश्रेष्ठायसुहृद्भ्यश्चन्यवेदयत् ।",
+      "transliteration": "",
+      "translation": "Then seeing the water brought by the monkeys for Rama's consecration Shatrugna along with ministers placed them at the disposal of the supreme priest along with friends.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "ततस्सप्रयतोवृद्धोवसिष्ठोब्राह्मणैःसह ।।6.131.59।।\nरामंरत्नमयेपीठेससीतंसन्नयवेशयत् ।",
+      "transliteration": "",
+      "translation": "Then accompanied by brahmins, sage Vasishta, active though aged, asked Sita and Sri Rama to occupy the plank made with full of precious stones.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "वसिष्ठोवामदेवश्चजाबालिरथकाश्यपः ।।6.131.60।।\nकात्यायनोसुयज्ञश्चगौतमोविजयस्तथा ।\nअभ्यषिञ्चन्नरव्याघ्रंप्रसन्नेनसुगन्धिना ।।6.131.61।।\nसलिलेनसहस्राक्षंवसवोवासवंयथा ।",
+      "transliteration": "",
+      "translation": "Eight sages, Vasishta, Vama Deva, Jabali, Kasyapa, Katyayana, Suyajna, Gautama and Vijaya consecrated Sri Rama, the tiger among men, with pure fragrant waters as the Vasus consecrated the thousand eyed Indra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-54",
+      "number": 54,
+      "type": "shloka",
+      "original": "ऋग्भिर्भ्राह्मणैःपूर्वंकन्याभिर्मन्त्रिभिस्तथा ।।6.131.62।।\nयोथौश्चैवाभ्यषिञ्चंस्तेसम्प्रहृष्टास्सनैगमैः ।\nसर्वौषधीनसैश्चापिदैवतैर्नभसिस्थितैः ।।6.131.63।।\nचतुर्भिर्लोकपालैश्चसर्वैर्देवैश्चसङ्गतैः ।",
+      "transliteration": "",
+      "translation": "First by priests, followed by brahmins, virgin women, so also ministers, merchants, warriors consecrated. Those who stood in the sky, the gods, the rulers of the four quarters, and all gods consecrated by sprinkling water containing medicinal herbs. All were very delighted.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-55",
+      "number": 55,
+      "type": "shloka",
+      "original": "ब्रह्मणानिर्मितंपूर्वंकिरीटंरत्नशोभितम् ।।6.131.64।।\nअभिषिक्तःपुरायेवमनुस्तंदीप्ततेजसम् ।\nतस्यान्ववायेराजानःक्रमाद्येनाभिषेचिताः ।।6.131.65।।\nसभायांहेमक्लुप्तायांशोभितायांमहाधनैः ।\nरत्नैर्नानाविधैश्चवचित्रितायांसुशोभनैः ।।6.131.66।।\nनानारत्नमयेपीठेकल्पयित्वायथाविधि ।\nकिरीटेनततःपश्चाद्वसिष्ठेनमहात्मना ।।6.131.67।।\nऋत्विगिमभगिर्भूषणैश्चैवसमयोक्ष्यतराघवः ।",
+      "transliteration": "",
+      "translation": "In the past, Manu was consecrated with a crown encrusted with gems crafted by Brahma and it was adorned at consecration by successive kings. After the consecration, Rama was dazzling seated on a throne made of several kinds of gems as per tradition. The council hall was also made of gold with charming pictures and looked splendid. The great soul Raghava was crowned and adorned with ornaments by Vasishta and the priests.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-56",
+      "number": 56,
+      "type": "shloka",
+      "original": "छत्रंतस्य च जग्राहशत्रघ्नःपाण्डुरंशुभम् ।।6.131.68।।\nश्वेतं च वालव्यजनंसुग्रीवोवानरेश्वरः ।\nअपरंचन्द्रसङ्काशंराक्षसेन्द्रोविभीषणः ।।6.131.69।।",
+      "transliteration": "",
+      "translation": "Shatrughna held white auspicious parasol, Sugriva the Vanara Lord held a white whisk, Vibheeshana the Lord of Rakshasas held a white whisk shining like the moon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-57",
+      "number": 57,
+      "type": "shloka",
+      "original": "मालांज्वलन्तींवपुषाकाञ्चनींशतपुष्कराम् ।\nराघवायददौवायुर्वासवेनप्रचोदितः ।।6.131.70।।",
+      "transliteration": "",
+      "translation": "The WindGod prompted by deity Indra presented a dazzling golden garland of hundred flowers to Raghava.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-58",
+      "number": 58,
+      "type": "shloka",
+      "original": "सर्वरत्नसमायुक्तंमणिभिश्चविभूषितम् ।\nमुक्ताहारंनरेन्द्रायददौशक्रप्रचोदितः ।।6.131.71।।",
+      "transliteration": "",
+      "translation": "Urged by Indra the wind god gave a dazzling pearls chain intercepted by several kinds of gems and precious stones to the ruler of the world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-59",
+      "number": 59,
+      "type": "shloka",
+      "original": "प्रजगुर्धेवगन्धर्वाननृतुश्चाप्सरोगणाः ।\nअभिषेकेतदर्हस्यतदारामस्यधीमतः ।।6.131.72।।",
+      "transliteration": "",
+      "translation": "The Gandharvas from among the gods sang and Apsara groups danced for Rama's consecration.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-60",
+      "number": 60,
+      "type": "shloka",
+      "original": "भूमिःसस्यवतीचैवफलवन्तश्चपादपाः ।\nगन्धवन्ति च पुष्पाणिबभूवूराघवोत्सवे ।।6.131.73।।",
+      "transliteration": "",
+      "translation": "At the time of celebration of Rama's coronation, earth became green with crops, trees bore fruits and filled with flowers which spread fragrance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-61",
+      "number": 61,
+      "type": "shloka",
+      "original": "सहस्रशतमश्वानांधेनूनां च गवांतथा ।\nददौशतवृषान्पूर्वंद्विजेभ्योमनुजर्षभः ।।6.131.74।।",
+      "transliteration": "",
+      "translation": "Sri Rama, the bull among men gave first, a hundred thousand cows with just born calves to hundred thousand brahmins.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-62",
+      "number": 62,
+      "type": "shloka",
+      "original": "त्रिंशत्कोटीर्हिरण्यस्यब्राह्मणेभ्योददौपुनः ।\nनानाभरणवस्त्राणिमहार्हाणि च राघवः ।।6.131.75।।",
+      "transliteration": "",
+      "translation": "Raghava again gave brahmins thirty crores of golden coins and different kinds of ornaments and clothes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-63",
+      "number": 63,
+      "type": "shloka",
+      "original": "अर्करश्मिप्रतीकाशांकाञ्चनींमणिविग्रहाम् ।\nसुग्रीवायस्रजंदिव्यांप्रायच्छन्मनुजाधिपः ।।6.131.76।।",
+      "transliteration": "",
+      "translation": "Sri Rama gave a wonderful golden garland with a stretch of gems tied to it which was dazzling like the sun's rays to Sugriva.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-64",
+      "number": 64,
+      "type": "shloka",
+      "original": "वैदूर्यमयचित्रे च मणिरत्नविभूषिते ।\nवालिपुत्रायधृतिमानङ्गदायाङ्गदेददौ ।।6.131.77।।",
+      "transliteration": "",
+      "translation": "Very lovingly Rama gave Angada the son of Vali, wonderful armlets encrusted with cat's eye stones and precious gems.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-65",
+      "number": 65,
+      "type": "shloka",
+      "original": "मणिप्रवरजुष्टंतुमुक्ताहारमनुत्तमम् ।\nसीतायैप्रददौरामश्चन्द्ररश्मिसमप्रभम् ।।6.131.78।।\nअरजेवाससीदिव्येशुभान्याभरणानि च ।\nअवेक्षमाणावैदेहीप्रददौवायुसूनवे ।।6.131.79।।",
+      "transliteration": "",
+      "translation": "Rama gave Sita an unsurpassed pearl chain (given to him by the wind god) encrusted with the best of gems and corals wonderfully shining like moonbeams. And Sita looking at Rama presented that immaculate wonderful pearl chain, and splendid clothes with some ornaments to Hanuman.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-66",
+      "number": 66,
+      "type": "shloka",
+      "original": "अवमुच्यात्मनःकण्ठाद्दारंजनकनन्दिनी ।\nअवैक्षतहरीन्सर्वान्भर्तारं च मुहुर्मुहुः ।।6.131.80।।",
+      "transliteration": "",
+      "translation": "Removing the pearl chain from her neck, Janaki looked at all the monkeys as well as her husband again and again.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-67",
+      "number": 67,
+      "type": "shloka",
+      "original": "तामिङ्गितज्ञस्सम्प्रेक्ष्य बभाषे जनकात्मजाम् ।\nप्रदेहिसुभगेहारंयस्यतुष्टासिभामिनि ।।6.131.81।।\nतेजोधृतिर्यशोदाक्ष्यंसामर्थ्यंविनयोनयः ।\nपौरुषंविक्रमोबुद्धिर्यस्मिन्नेतानिसर्वदा ।।6.131.82।।",
+      "transliteration": "",
+      "translation": "Seeing Janaki looking at him, Rama who could read her mind, and said\" Lovely Sita, Beautiful young lady, give the pearl chain to one with whom you are pleased.\" Sita you may give the chain to one in whom you always found to have brilliance, determination, fame, dexterity, capacity, modesty, prudence, virility, prowess, and intelligence always.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-68",
+      "number": 68,
+      "type": "shloka",
+      "original": "ददौसावायुपुत्रायतंहारमसितेक्षणा ।\nहनूमांस्तेनहारेणशुशुभेवानरर्षभः ।।6.131.83।।\nचन्रांशुचयगौरेणश्वेताभ्रेणयथाचलः ।",
+      "transliteration": "",
+      "translation": "Blackeyed Sita, gave that chain to Hanuman, the bull among Vanaras who shone like a mountain behind white silver like cloud.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-69",
+      "number": 69,
+      "type": "shloka",
+      "original": "तोद्विविदमैन्धाभ्यांनीलाय च परन्तपः\nसर्वेवानरवृद्धाश्चयेचान्येवानरोत्तमाः ।।6.131.84।।\nवासोभिर्भूषणैश्चैवयथार्हंप्रतिपूजिताः ।\nसर्वान्कामगुणावनीक्ष्यप्रददौवसुधाधिपः।।। 6.131.85।।",
+      "transliteration": "",
+      "translation": "Then Sri Rama, the tormentor of enemies, the ruler of the earth looking at Mainda, Dwivida and Neela presented articles according to their desires. For the aged among the Vanaras and the foremost Vanaras, he gave ornaments and garments duly as much as they deserved and worshipped.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-70",
+      "number": 70,
+      "type": "shloka",
+      "original": "विभीषणोऽथसुग्रीवोहनुमान्जाम्बवांस्तथा ।।6.131.86।।\nसर्वेवानरमुख्याश्चरामेणाक्लिष्टकर्मणा ।\nयथार्हंपूजिताःसर्वेकामैरत्नैश्चपुष्कलैः ।।6.131.87।।\nप्रहृष्टमानसःसर्वेजग्मुरेवयथागतम् ।",
+      "transliteration": "",
+      "translation": "And thereafter Vibheeshana, Sugriva, Hanuman, Jambavan, all Vanara chiefs of unwearied action having received gifts, abundant gems, and desired objects as they deserved from Rama. They worshipped Rama and very delighted at heart went to their respective places.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-71",
+      "number": 71,
+      "type": "shloka",
+      "original": "दृष्ट्वासर्वेमहात्मानस्ततस्तेवानरर्षभाः ।।6.131.88।।\nविसृष्टाःपार्थिवेन्द्रेणकिष्किन्धांसमुपागमन् ।",
+      "transliteration": "",
+      "translation": "All the high souled bulls among Vanaras, lauded by the ruler of the earth departed to Kishkinda after seeing the great celebration.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-72",
+      "number": 72,
+      "type": "shloka",
+      "original": "सुग्रीवोवानरश्रेष्ठो दृष्टवारामभिषेचनम् ।।6.131.89।।\nपूजितश्चैवरामेयकिष्किन्धांप्राविशत्पुरीम् ।",
+      "transliteration": "",
+      "translation": "Sugriva, the foremost of the Vanaras having seen Rama's coronation and been honoured, entered Kishkinda.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-73",
+      "number": 73,
+      "type": "shloka",
+      "original": "विभीषणोऽपिधर्मात्मासहतैर्नैरृतर्षभैः ।।6.131.90।।\nलब्ध्वाकुलधनंराजालङ्कांप्रायान् महायशाः ।",
+      "transliteration": "",
+      "translation": "Vibheeshana, the bull of Rakshasas, of great fame and a righteous king, having received family fortune departed to Lanka.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-74",
+      "number": 74,
+      "type": "shloka",
+      "original": "सराज्यमखिलंशासन्निहतारिर्महायशाः ।।6.131.91।।\nराघवःपरमोदारश्शशासपरयामुदा ।",
+      "transliteration": "",
+      "translation": "Highly renowned and generous Raghava, putting an end to enemies ruled the entire kingdom with great joy. He said to Lakshmana who was a lover of duty and knower of dharma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-75",
+      "number": 75,
+      "type": "shloka",
+      "original": "उवाचलक्ष्मणंरामोधर्मज्ञंधर्मवत्सलः ।।6.131.92।।\nआतिष्ठधर्मज्ञ मयासहेमांगांपूर्वराजाध्युषितांबलेन ।\nतुल्यंमयात्वंपितृभिर्धृतायातांयौवराज्येधुरमुद्वहस्व ।।6.131.93।।",
+      "transliteration": "",
+      "translation": "\"Lakshmana! You are a knower of dharma and a lover of dharma. Prior to my consecration, this kingdom was ruled by former kings, fathers, and forefathers also with the help of the army. You bear the burden equally with me by being installed as Prince Regent\", said Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-76",
+      "number": 76,
+      "type": "shloka",
+      "original": "सर्वात्मनापर्यनुनीयमानोयदा न सौमित्रिरुपैतियोगम् ।\nनियुज्यमानोऽपि च यौवराज्येततोऽभ्यषिञ्चद्भरतंमहात्मा ।।6.131.94।।",
+      "transliteration": "",
+      "translation": "When Saumithri was compelled repeatedly to accept the position of Prince Regent by the high soul great Rama, he had not accepted. Rama consecrated Bharata as Prince Regent.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-77",
+      "number": 77,
+      "type": "shloka",
+      "original": "पौण्डरीकाश्वमेधाभ्यांवाजपेयेनचासकृत् ।\nअन्यैश्चविविधैर्यज्ञैरयजत्पार्थिवात्मजः ।।6.131.95।।",
+      "transliteration": "",
+      "translation": "Rama, the son of Dasharatha, had performed many a time Pundarika, Aswamedha, Vajapeya and several other yajnas and propitiated gods.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-78",
+      "number": 78,
+      "type": "shloka",
+      "original": "राज्यंदशसहस्राणिप्राप्यवर्षाणिराघवः ।\nशताश्वमेधानाजह्रेसदश्वान् भूरिदक्षिणान् ।।6.131.96।।",
+      "transliteration": "",
+      "translation": "Raghava in the ten thousand years of his rule performed hundred horse sacrifices with excellent horses and gave donations liberally.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-79",
+      "number": 79,
+      "type": "shloka",
+      "original": "आजानुलम्बिबाहुस्समहावक्षाःप्रतापवान् ।\nलक्ष्मणानुचरोरामःशशासपृथिवीमिमाम् ।।6.131.97।।",
+      "transliteration": "",
+      "translation": "Sri Rama whose arms reached unto knees, endowed with broadchest and stupendous glory, ruled this earth with Lakshmana as his follower.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-80",
+      "number": 80,
+      "type": "shloka",
+      "original": "राघवश्चापिधर्मात्माप्राप्यराज्यमनुत्तमम् ।\nईजेबहुविधैर्यज्ञैससुतभ्रातृबान्धवः ।।6.131.98।।",
+      "transliteration": "",
+      "translation": "Righteous Rama also, having inherited the kingdom, conducted several sacrifices with brothers, friends and relatives.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-81",
+      "number": 81,
+      "type": "shloka",
+      "original": "स पर्यदेवन्विधवा न च व्यालकृतंभयम् ।\nन व्याधिजंभयंचासीद्रामेराज्यंप्रशासति ।।6.131.99।।",
+      "transliteration": "",
+      "translation": "While Rama was ruling there was no lamentation of widows (over their loss), fear of cruel animals, or fear of disease.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-82",
+      "number": 82,
+      "type": "shloka",
+      "original": "निर्दस्युरभवल्लोकोनानर्थंकश्चिदस्पृशत् ।\nन च स्मवृद्धाबालानांप्रेतकार्याणिकुर्वते ।।6.131.100।।",
+      "transliteration": "",
+      "translation": "There were no thieves, indeed there was no loss, aged did not perform obsequies (no deaths in the young population) for the young and no harm to people.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-83",
+      "number": 83,
+      "type": "shloka",
+      "original": "सर्वंमुदितमेवासीत्सर्वोधर्मपरोऽभवत् ।\nराममेवानुपश्यन्तोनाभ्यहिंसन् परस्परम् ।।6.131.101।।",
+      "transliteration": "",
+      "translation": "All were happy, and followed the righteous path, looking at Rama alone and no one hit another.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-84",
+      "number": 84,
+      "type": "shloka",
+      "original": "आसन्वर्षसहस्राणितथापुत्रसहस्रिणः ।\nनिरामयाविशोकाश्चरामेराज्यंप्रशासति ।।6.131.102।।",
+      "transliteration": "",
+      "translation": "While Rama was ruling for thousands of years, people were blessed with thousands of sons and lived free from trouble and sorrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-85",
+      "number": 85,
+      "type": "shloka",
+      "original": "रामोरामोराम: इतिप्रजानामभवन्कथाः ।\nरामभूतंजगदभूद्रामेराज्यंप्रशासति ।।6.131.103।।",
+      "transliteration": "",
+      "translation": "While Rama was ruling the kingdom, everything was Rama, Rama, and Rama. People spoke stories of Rama and the world was resonating with Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-86",
+      "number": 86,
+      "type": "shloka",
+      "original": "नित्यपुष्पानित्यफलान्तरवस्तत्रनिर्व्रणाः ।\nकामवर्षी च पर्जन्यस्सुखस्पर्शश्चमारुतः ।।6.131.104।।",
+      "transliteration": "",
+      "translation": "The trees were always in bloom, and always bore fruits. Clouds sent rain when desired. People lived with delightful feelings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-87",
+      "number": 87,
+      "type": "shloka",
+      "original": "ब्राह्मणाःक्षत्रियावैश्याश्शूद्रालोभविवर्जिताः ।\nस्वकर्मसुप्रवर्तन्तेतुष्टास्स्वैरेवकर्मभिः ।।6.131.105।।\nआसन्प्रजाधर्मपरारामेशासतिनानृताः ।",
+      "transliteration": "",
+      "translation": "While Rama ruled brahmins, kshatriyas, vaisyas and sudras were free from avarice, were engaged in their own avocations and delighted. People remained righteous, pious, and never told lies.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-88",
+      "number": 88,
+      "type": "shloka",
+      "original": "सर्वेलक्षणसम्पन्नास्सर्वेधर्मपरायणाः ।।6.131.106।।\nदशवर्षसहस्राणिदशवर्षशतानि च\nभ्रातृभि: सहितःश्रीमानरामोराज्यमकारयत् ।",
+      "transliteration": "",
+      "translation": "All were endowed with signs of good culture, given to righteous behaviour. Rama ruled the kingdom for ten thousand years with brothers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-89",
+      "number": 89,
+      "type": "shloka",
+      "original": "धन्यंयशस्यमायुष्यंराज्ञां च वियावहम् ।।6.131.107।।\nआदिकाव्यमिदंचार्षंपुरावाल्मीकिनाकृतम् ।\nपठेध्यःशृणुयाल्लोकेनरःपापात्प्रमुच्यते ।।6.131.108।।",
+      "transliteration": "",
+      "translation": "He who reads, listens to this first epic, a noble text composed by Valmiki will be blessed, attain fame, enjoy long life and victory in this world and will be rid of sins.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-90",
+      "number": 90,
+      "type": "shloka",
+      "original": "पुत्रकामश्चपुत्रान्वैधनकामोधनानि च ।\nलभतेमनुजोलोकेश्रुत्वारामाभिषेचनम् ।।6.131.109।।\nमहींविजयतेराजारिपूंश्चाप्यधितिष्ठति ।",
+      "transliteration": "",
+      "translation": "On hearing about Rama's consecration, in this world, one who is seeking sons will get sons, one who is desirous of wealth will attain wealth, kings will overcome enemies and conquer earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-91",
+      "number": 91,
+      "type": "shloka",
+      "original": "राघवेणयथामातासुमित्रालक्ष्मणेन च ।।6.131.110।।\nभरतेन च कैकेयीजीवपुत्रास्तथास्त्रियः ।\nभविष्यन्तिसदानन्दाःपुत्रपौत्रसमन्विताः ।।6.131.111।।",
+      "transliteration": "",
+      "translation": "Women listening to Ramayana will have Kausalya's Rama, Sumitra's Lakshmana, Kaikeyi's Bharata as living sons and will be always happy and blessed with sons and grandsons.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-92",
+      "number": 92,
+      "type": "shloka",
+      "original": "श्रुत्वारामायणमिदंदीर्घमायुश्चविन्दति ।\nरामस्यविजयंचैवसर्वमक्लिष्टकर्मणः ।।6.131.112।।",
+      "transliteration": "",
+      "translation": "He who listens to Ramayana, the story of Rama of unwearied action will be victorious and blessed with long life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-93",
+      "number": 93,
+      "type": "shloka",
+      "original": "शृणोति य इदंकाव्यंपुरावाल्मीकिनाकृतम् ।\nश्रद्धधानोजितक्रोधोदुर्गाण्यतितरत्यसौ ।।6.131.113।।",
+      "transliteration": "",
+      "translation": "He who listens with devotion, this epic composed by sage Valmiki in the past, will conquer anger and overcome difficulties.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-94",
+      "number": 94,
+      "type": "shloka",
+      "original": "समागम्यप्रवासान्तेरमन्तेसहबान्धवैः ।\nशृण्वन्ति य इदंकाव्यंपुरावाल्मीकिनाकृतम् ।।6.131.114।।",
+      "transliteration": "",
+      "translation": "Whoever listens to this epic written in the past by sage Valmiki will be united with relations and rejoice with them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-95",
+      "number": 95,
+      "type": "shloka",
+      "original": "तेप्रार्थितान्वरान्सर्वान्प्राप्नुवन्तीहराघवात् ।\nश्रवणेनसुरास्सर्वेप्रीयन्��ेसम्प्रशृण्वताम् ।।6.131.115।।",
+      "transliteration": "",
+      "translation": "Those who listen well to Ramayana will obtain all boons here in this world and all gods will be pleased.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-96",
+      "number": 96,
+      "type": "shloka",
+      "original": "विनायकाश्चशाम्यन्तिगृहेतिष्ठन्तियस्यवै ।\nविजयेतमहींराजाप्रवासीस्वस्तिमान्भवेत् ।।6.131.116।।",
+      "transliteration": "",
+      "translation": "The god who removes obstacles will be staying in peace in the house where Ramayana is there. The kings listening to Ramayana will conquer the world and those gone out of home will return back safe.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-97",
+      "number": 97,
+      "type": "shloka",
+      "original": "स्त्रियोरजस्वला्श्रुत्वापुत्रान्सूयुरनुत्तमान् ।\nपूजयंश्चपठंश्चैवमितिहासंपुरातनम् ।।6.131.117।।\nसर्वपापैःप्रमुच्येतदीर्घमायुरवाप्नुयात् ।",
+      "transliteration": "",
+      "translation": "Women listening to Ramayana prior to pregnancy will deliver sons. This ancient epic if worshipped or read, one will get rid of all sins and attain long life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-98",
+      "number": 98,
+      "type": "shloka",
+      "original": "प्रणम्यशिरसानित्यंश्रोतव्यंक्षत्रियैर्द्विजात् ।।6.131.118।।\nऐश्वर्यंपुत्रलाभाश्चभविष्यति न संशयः ।\nरामायणमिदंकृत्स्नंशृण्वतःपठतस्सदा ।।6.131.119।।",
+      "transliteration": "",
+      "translation": "A kshatriya should always offer salutations with his head bent down before listening to Ramayana from a brahmin. Such a kshatriya will obtain kingship and also beget sons in future. There is no doubt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-99",
+      "number": 99,
+      "type": "shloka",
+      "original": "प्रीयतेसततंरामस्सहिविष्णुस्सनातनः ।\nआदिदेवोमहाबाहुर्हरिन्नारायणःप्रभुः ।।6.131.120।।\nसाक्षाद्रामोरघुश्रेष्ठश्शेषोलक्ष्मणउच्यते ।",
+      "transliteration": "",
+      "translation": "Rama is said to be ever pleased with him who listens or reads the Ramayana daily. Foremost of Raghus, the mighty armed Rama is eternal Lord Vishnu himself. He is Hari, the ruler Narayana and Lakshmana is Sesha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-100",
+      "number": 100,
+      "type": "shloka",
+      "original": "एवमेतत्पुरावृत्तमाख्यानंभद्रमस्तुवः ।।6.131.121।।\nप्रव्याहरतविस्रब्धंबलंविष्णोःप्रवर्थताम् ।",
+      "transliteration": "",
+      "translation": "This way Ramayana is the ancient narration. Read it daily with trust and devotion. You be auspicious and let the strength of Vishnu grow in you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-101",
+      "number": 101,
+      "type": "shloka",
+      "original": "देवाश्चसर्वेतुष्यन्तिग्रहणाच्छ्रवणात्तथा ।।6.131.122।।\nरामायणस्यश्रवणेतुष्यन्तिपितस्सदा ।",
+      "transliteration": "",
+      "translation": "By grasping and listening to Ramayana, all gods will be delighted, ancestors will be pleased.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-102",
+      "number": 102,
+      "type": "shloka",
+      "original": "भक्त्यारामस्ययेचेमांसंसितामृषिणाकृताम् ।।6.131.123।।\nयेलिखन्ती ह च नरास्तेषांवासस्त्रिविष्टपे ।",
+      "transliteration": "",
+      "translation": "Residence in heaven is assured for those who transcribe this Ramayana with devotion and full of meaning, composed by the great sage.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-103",
+      "number": 103,
+      "type": "shloka",
+      "original": "कुटुम्बवृद्धिंधनधान्यवृद्धिंस्त्रियश्चमुख्यास्सुखमुत्तमं च ।\nश्रुत्वाशुभंकाव्यमिदंमहार्थंप्राप्नोतिसर्वांभुविचार्थसिद्धम् ।।6.131.124।।",
+      "transliteration": "",
+      "translation": "Listening to this great auspicious epic will result in the growth of the family, excellent women, augmentation of wealth and grains and comfort on the earth and accomplishment of one's objectives.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-131-104",
+      "number": 104,
+      "type": "shloka",
+      "original": "आयुष्यमारोग्यकरंयशस्यंसौभ्रातृकंबुद्धिकरंशुभं च ।\nश्रोतव्यमेतन्नियमेनसद्भिराख्यानमोजस्करमृद्धिकामैः ।।6.131.125।।",
+      "transliteration": "",
+      "translation": "If the narrative of Ramayana is regularly heard it is auspicious and beneficial for those desiring long life, intelligence, purity, fame, health, wisdom, friendliness, and vitality. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येचतुर्विंशत्सहस्रिकायांसम्हितायां श्रीयुद्धकाण्डेश्रीरामपट्टाभिषेकोनामएकत्रिंशत्युत्तरशततमस्सर्गः ।। This is the end of one hundred thirtyone sarga of Yuddha Kanda, of Sri Rama's coronation of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

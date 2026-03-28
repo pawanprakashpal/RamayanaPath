@@ -1,0 +1,198 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 1,
+    "title": "Rama, Sita and Lakshmana enter the Dandaka forest -- Sages at Dandaka offer prayers and welcome Sri Rama.",
+    "titleSanskrit": "",
+    "totalShlokas": 20
+  },
+  "shlokas": [
+    {
+      "id": "v3-1-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "प्रविश्य तु महारण्यं दण्डकारण्यमात्मवान्।\nददर्श रामो दुर्धर्षस्तापसाश्रममण्डलम्।।3.1.1।।",
+      "transliteration": "",
+      "translation": "The invincible and selfpossessed Rama entered the great forest of Dandaka and saw there a multitude of hermitages of the ascetics.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-1-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "कुशचीरपरिक्षिप्तं ब्राह्म्या लक्ष्म्या समावृतम्।\nयथा प्रदीप्तं दुर्दर्शं गगने सूर्यमण्डलम्।।3.1.2।।",
+      "transliteration": "",
+      "translation": "They (the hermitages) were strewn all over with kusa grass and robes by bark with auspicious sacrificial materials around and hence dazzling like the orb of the sun in the sky difficult to gaze.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-1-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "शरण्यं सर्वभूतानां सुसम्मृष्टाजिरं सदा।\nमृगैर्बहुभिराकीर्णं पक्षिसङ्घैस्समावृतम्।।3.1.3।।",
+      "transliteration": "",
+      "translation": "The courtyards (of the hermitages) were cleanswept, sprinkled with water and decorated. They provided shelter to all kinds of creatures and were filled all over with  flocks of birds and antelopes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-1-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "पूजितं च प्रनृत्तं च नित्यमप्सरसां गणैः।\nविशालैरग्निशरणैः स्रुग्भाण्डैरजिनैः कुशैः।।3.1.4।।\nसमिद्भिस्तोयकलशैः फलमूलैश्च शोभितम्।\nआरण्यैश्च महावृक्षैः पुण्यैस्स्वादुफलैर्वृतम्।।3.1.5।।",
+      "transliteration": "",
+      "translation": "The hermitages looked glorified with dances by celestial damsels. They were  adorned with vast fire sanctuaries, ladles for sacrificial ceremonies, deerskins and kusa grass faggots for pots of water, roots and fruits. They looked delightful with huge sacred trees of the forest laden with sweet fruits.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-1-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "बलिहोमार्चितं पुण्यं ब्रह्मघोषनिनादितम्।\nपुष्पैश्चान्यैः परिक्षिप्तं पद्मिन्या च सपद्मया।।3.1.6।।\nफलमूलाशनैर्दान्तैश्चीरकृष्णाजिनाम्बरैः।\nसूर्यवैश्वानराभैश्च पुराणैर्मुनिभिर्वुतम्।।3.1.7।।",
+      "transliteration": "",
+      "translation": "The hermitages where various sacrificial offerings were made reverberated with Vedic chantings. Flowers were scattered all over. There was a lotuspond with lotuses. There were aged, selfrestrained sages glowing like the Sun or the fire, living on fruits and roots, clothed in bark and dark  deerskin.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-1-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "पुण्यैश्च नियताहारैः शोभितं परमर्षिभिः।\nतद्ब्रह्मभवनप्रख्यं ब्रह्मघोषनिनादितम्।।3.1.8।।",
+      "transliteration": "",
+      "translation": "The hermitages echoing with  the sounds of Vedic recitations and resembling the very abode of Brahma were adorned with great, holy sages living on regulated diet.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-1-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "ब्रह्मविद्भिर्महाभागैर्ब्राह्मणैरुपशोभितम्।\nतद्दृष्ट्वा राघवः श्रीमांस्तापसाश्रममण्डलम्।।3.1.9।।\nअभ्यगच्छन्महातेजा विज्यं कृत्वा महद्धनुः।",
+      "transliteration": "",
+      "translation": "The illustrious, effulgent Rama saw groups of hermitages adorned with venerable brahmins, with knowledge of the Supreme Spirit. On seeing them he loosened the string of his great bow and went forward.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-1-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "दिव्यज्ञानोपपन्नास्ते रामं दृष्ट्वा महर्षयः।।3.1.10।।\nअभ्यगच्छन्स्तदा प्रीता वैदेहीं च यशस्विनीम्।",
+      "transliteration": "",
+      "translation": "On seeing Rama with illustrious Sita, the great sages, richly endowed with divine knowledge, went forward to greet him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-1-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "ते तं सोममिवोद्यन्तं दृष्ट्वा वै धर्मचारिणम्।।3.1.11।।\nलक्ष्मणं चैव दृष्ट्वा तु वैदेहीं च यशस्विनीम्।\nमङ्गलानि प्रयुञ्जानाः प्रत्यगृह्णन्दृढव्रताः।।3.1.12।।",
+      "transliteration": "",
+      "translation": "The sages, steadfast in their vows, saw Rama who was shining like the rising Moon, Lakshmana and the famed Sita went forward and received them with words of benediction.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-1-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "रूपसंहननं लक्ष्मीं सौकुमार्यं सुवेषताम्।\nददृशुर्विस्मिताकारा रामस्य वनवासिनः।।3.1.13।।",
+      "transliteration": "",
+      "translation": "Those sages living  in the forest were wonderstruck to see the handsome, graceful, delicate and welldressed Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-1-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "वैदेहीं लक्ष्मणं रामं नेत्रैरनिमिषैरिव।\nआश्चर्यभूतान्ददृशुः सर्वे ते वनचारिणः।।3.1.14।।",
+      "transliteration": "",
+      "translation": "All the foresters looked at the wonderful figures of Rama, Sita and Lakshmana with unblinking eyes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-1-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अत्रैनं हि महाभागा स्सर्वभूतहिते रताः।\nअतिथिं पर्णशालायां राघवं संन्यवेशयन्।।3.1.15।।",
+      "transliteration": "",
+      "translation": "Ever engaged in the welfare of all beings, the sages made Rama, their guest, sit in their leafy hut.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-1-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "ततो रामस्य सत्कृत्य विधिना पावकोपमाः।\nआजह्रुस्ते महाभागाः सलिलं धर्मचारिणः।।3.1.16।।",
+      "transliteration": "",
+      "translation": "The great sages comparable to the firegod and followers of righteousness honoured Rama  according to tradition by offering water.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-1-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "पुष्पं मूलं फलं सर्वमाश्रमं च महात्मनः।\nनिवेदयित्वा धर्मज्ञास्ते ततः प्राञ्जलयोऽब्रुवन्।।3.1.17।।",
+      "transliteration": "",
+      "translation": "The sages who were knowers of dharma saluted the noble Rama, offered fruits, roots and flowers available  at the hermitage and with folded palms said thus:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-1-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "धर्मपालो जनस्यास्य शरण्यस्त्वं महायशाः।\nपूजनीयश्च मान्यश्च राजा दण्डधरो गुरुः।।3.1.18।।",
+      "transliteration": "",
+      "translation": "O king of great reputation, you are the refuge of the people, a protector of dharma, a chastiser of wrongdoers, a worshipful and respectable preceptor.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-1-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "इन्द्रस्येह चतुर्भागः प्रजा रक्षति राघव।\nराजा तस्माद्वरान्भोगान्रम्यान् भुङक्तेलोकनमस्कृतः।।3.1.19।।",
+      "transliteration": "",
+      "translation": "O Rama, in this world a king is considered the fourth part of Indra as he protects the people. Therefore, he is respected and he enjoys the choicest pleasures of life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-1-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "ते वयं भवता रक्ष्या भवद्विषयवासिनः।\nनगरस्थो वनस्थो वा त्वं नो राजा जनेश्वरः।।3.1.20।।",
+      "transliteration": "",
+      "translation": "Since we are the residents of your territory we deserve to be protected by you. Whether you live in the city or in the forest, you are the lord of the people and our king.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-1-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "न्यस्तदण्डा वयं राजञ्जितक्रोधा जितेन्द्रियाः।\nरक्षणीयास्त्वया शश्वदगर्भभूतास्तपोधनाः।।3.1.21।।",
+      "transliteration": "",
+      "translation": "O king, we have conquered our anger and have controlled our senses. We ascetics have cast aside all our authority. We are like your children and need to be protected by you forever",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-1-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "एवमुक्त्वा फलैर्मूलैः पुष्पैर्वन्यैश्च राघवम्।\nअन्यैश्च विविधाहारैः सलक्ष्मणमपूजयन्।।3.1.22।।",
+      "transliteration": "",
+      "translation": "Having said so, the ascetics offered with reverence fruits, roots, flowers and other forest  products to Rama and Lakshmana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-1-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तथान्ये तापसास्सिद्धा रामं वैश्वानरोपमाः।\nन्यायवृत्ता यथान्यायं तर्पयामासुरीश्वरम्।।3.1.23।।",
+      "transliteration": "",
+      "translation": "The lawabiding ascetics, who were comparable to fire and who were accomplished in their penances,  pleased lord Rama in a befitting manner. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे प्रथमस्सर्गः।।  Thus ends the first sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

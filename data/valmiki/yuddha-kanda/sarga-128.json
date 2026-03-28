@@ -1,0 +1,360 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 128,
+    "title": "Instructed by Rama, Hanuman informs Guha and Bharata about Rama's arrival.",
+    "titleSanskrit": "",
+    "totalShlokas": 38
+  },
+  "shlokas": [
+    {
+      "id": "v6-128-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "अयोध्यांतुसमालोक्यचिन्तयामासराघवः ।\nप्रियकामःप्रियंरा��स्ततस्त्वरितविक्रमः ।।6.128.1।।",
+      "transliteration": "",
+      "translation": "There upon Raghava who was quick in exhibiting his prowess started thinking with his friends looking at Ayodhya (from Pushpaka).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "चिन्तयित्वाततोदृष्टिंवानरेषुन्यपातयत् ।\nउवाचधीमांस्तेजस्वीहनूमन्तंप्लवङ्गमम् ।।6.128.2।।",
+      "transliteration": "",
+      "translation": "Then wise and energetic Rama, thinking, casting his attention on the Vanaras, spoke to Hanuman.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "अयोध्यांत्वरितोगत्वाशीघ्रंप्लवगसत्तम ।\nजानीहिकछचित्कुशलीजनोनृपतिमन्दिरे ।।6.128.3।।",
+      "transliteration": "",
+      "translation": "\"Chief of monkeys! Going quickly to the king's mansion in Ayodhya try to find out about the wellbeing of the people.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "शृङ्गबेरिपुरंप्राप्यगुहंगहनगोचरम् ।\nनिषादाधिपतिंब्रूहिकुशलंवचनान्मम ।।6.128.4।।",
+      "transliteration": "",
+      "translation": "\"Go to Sringaberipuram which is seen from the sky, meet Guha the leader of Nishadas and tell him of my inquiry and wellbeing.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "श्रुत्वातुमांकुशलिनमरोगंविगतज्वरम् ।\nभविष्यतिगुहःप्रीतस्सममात्मसमस्सखा ।।6.128.5।।",
+      "transliteration": "",
+      "translation": "\"He will be very happy to hear that I am in good health free from anxiety. He is equal to me and my friend.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अयोध्यायाश्चतेमार्गंप्रवृत्तिंभरतस्य च ।\nनिवेदयिष्यतिप्रीतोनिषादाधिपतिर्गुहः ।।6.128.6।।",
+      "transliteration": "",
+      "translation": "\"Dear Guha, the king of Nishadas will tell you the way to Ayodhya and Bharata's nature.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "भरतस्तुत्वयावाच्यःकुशलंवचनान्मम ।\nसिद्धार्थंशंसमांतस्मैसभार्यंसहलक्ष्मणम् ।।6.128.7।।",
+      "transliteration": "",
+      "translation": "\"Please tell Bharata my words of inquiry of his wellbeing and that having accomplished my purpose I returned with my wife and Lakshmana.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "हरणंचापिवैदेह्यारावणेनबलीयसा ।\nसुग्रीवेण च सम्वादंवालिनश्चवधंरणे ।।6.128.8।।",
+      "transliteration": "",
+      "translation": "\"O powerful Hanuman! you may tell him of the abduction of Vaidehi by Ravana, my friendship with Sugriva and killing of Vali in combat.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "मैथिल्यन्वेषणंचैवयथाचाधिगतात्वया ।\nलङ्घयित्वामहातोयमापगापतिमव्ययम् ।।6.128.9।।",
+      "transliteration": "",
+      "translation": "\"You may tell him of the search for Mythili by you, crossing the vast never decreasing stretch of water, leaping across and finding Sita.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "उपयानंसमुद्रस्यसागरस्य च दर्शनम् ।\nयथा च कारितस्सेतूरावणश्चयथाहतः ।।6.128.10।।",
+      "transliteration": "",
+      "translation": "\" Also, about my going near ocean and his (Ocean god) appearance before me, construction of the bridge killing of Ravana.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "वरदानंमहेन्द्रेणब्रह्मणावरुणेन च ।\nमहादेवप्रसादाच्छपित्राममसमागमम् ।।6.128.11।।",
+      "transliteration": "",
+      "translation": "\" About Mahendra accompanied by Brahma and Varuna bestowing boon and by the grace of Mahadeva and meeting my father.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "उपयातं च मांसौम्य भरतायनिवेदय ।\nसहराक्षसराजेनहरीणामीश्वरेण च ।।6.128.12।।",
+      "transliteration": "",
+      "translation": "\"Gentle Hanuman! tell him about my coming with Sugriva the king of Vanaras, and king of Rakshasas, Vibheeshana.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "जित्वाशत्रुगणान्रामःप्राप्यचानुत्तमंयशः ।\nउपायानंसमृद्धार्थस्सहमित्रैर्महाबलैः ।।6.128.13।।",
+      "transliteration": "",
+      "translation": "\"Tell him that Rama , after conquering hosts of enemies, attaining unsurpassed fame, accomplished his purpose, has returned with mighty friends.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "एतच्छ्रुत्वायमाकारंभजतेभरतस्ततः ।\nस च तेवेदितव्यःस्यात्सर्वंयच्छापिमांप्रति ।।6.128.14।।",
+      "transliteration": "",
+      "translation": "\"Listening to Bharata, and seeing his form, expression on hearing this news and knowing his intent, checking all this you may return to me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "ज्ञेयाःसर्वे च वृत्तान्ताःभरतस्येङ्गितानि च ।\nतत्त्वेनमुखवर्णेनदृष्ट्याव्याभाषितेन च ।।6.128.15।।",
+      "transliteration": "",
+      "translation": "\" All the information, everything to be known by his facial colour, expression, by his speech, his intention to be ascertained truly.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "सर्वकालसमृद्धंहिहस्त्यश्वरथसङ्कुलम् ।\nपितृपैतामहंराज्यंकस्यनावर्तयेन्मनः ।।6.128.16।।",
+      "transliteration": "",
+      "translation": "\"Whose mind will not be tempted at the abundance of elephants and horses of father's and grandfather's kingdom?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "सङ्गत्याभरत्श्रीमान् राज्येनार्थीस्वयंभवेत् ।\nप्रशास्तुवसुधांसर्वामखिलांरघुनन्दनः ।।6.128.17।।",
+      "transliteration": "",
+      "translation": "\"If the glorious Bharata who is an enhancer of the joy of Raghus having enjoyed the kingdom for long himself, let him rule all the entire earth it is laudable.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तस्यबुद्धिं च विज्ञायव्यवसायं च वानर ।\nयावन्नदूरंयाताःस्मक्षिप्रमागन्तुमर्हसि ।।6.128.18।।",
+      "transliteration": "",
+      "translation": "\"Hanuman, making an effort to know his mind you ought to come quickly before we go too far a distance.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "इतिप्रतिसमादिष्टोहनूमान्मारुतात्मजः ।\nमानुषःधारयनृपमयोध्यांत्वरितोययौ ।।6.128.19।।",
+      "transliteration": "",
+      "translation": "Commanded like that Hanuman went speedily taking human form to Ayodhya.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "अतोत्पपातवेगेनहनूमान्मारुतात्मजः ।\nगरुत्मानिववेगेनजिघृक्षन्पन्नगोत्तमम् ।।6.128.20।।",
+      "transliteration": "",
+      "translation": "Then Hanuman rose up just like Garuda who goes at great speed to vanquish the best of serpents.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "लङ्घयित्वापितृपथंविहगेन्द्रालयंशुभम् ।\nगङ्गायमुनयोर्भीमंसमतीत्यसमागमम् ।।6.128.21।।\nशृङ्गबेरपुरंप्राप्यगुहमासाद्यवीर्यवान् ।\nस वाचाशुभयाहृष्टोहनुमानिदमब्रवीत् ।।6.128.22।।",
+      "transliteration": "",
+      "translation": "Valiant Hanuman, flying through the course of the birds, through the auspicious path of the wind god, leaping across Ganga and Yamuna, reached Sringaberipuram, saw Guha, rejoiced and thus spoke charming words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "सखातुतवकाकुत्स्थोरामस्सत्यपराक्रमः ।\nससीतस्सहसौमित्रिस्सत्वांकुशलमब्रवीत् ।।6.128.23।।",
+      "transliteration": "",
+      "translation": "\"Your friend Rama, truly valiant one, with his wife Sita, with Lakshmana conveys his welfare to you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "पञ्चमीमद्यरजनीमुषित्वावचनान्मुनेः ।\nभरद्वाजाभ्यनुज्ञातंद्रक्ष्यस्यद्यैवराघवम् ।।6.128.24।।",
+      "transliteration": "",
+      "translation": "\"Tomorrow that is the fifth lunar day, after spending the night at sage Bharadwaja's hermitage Raghava will see you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "एवमुक्त्वामहातेजास्सम्प्रहृष्टतनूरुहः ।\nउत्पपातमहावेगाद्वेगवान्विचारयन् ।।6.128.25।।",
+      "transliteration": "",
+      "translation": "Highly energetic Hanuman, was thrilled, overcome with happiness (that he was able to communicate to Guha) and unmindful of the fatigue, being endowed with speed and swift movement, went up.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "सोऽपश्यद्रामतीर्थं च नदींवालुकिनींतथा ।\nवरूथींगोमतींचैवभीमंशालवनंतथा ।।6.128.26।।\nप्रजाश्चबहुसाहस्रीःस्फीतान्जनपदानपि ।",
+      "transliteration": "",
+      "translation": "He saw waters associated with Parasurama, and rivers Valukini, Varuthini, and Gomathi so also fearful woods of Sala trees and thousands of people, numerous kingdoms on the way.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "सःगत्वादूरमध्वानंत्वरितःकपिकुञ्जरः ।।6.128.27।।\nआससादद्रुमान् फुल्लान्नन्दिग्रामसमीपगान् ।\nस्त्रीभिस्सपुत्रैर्वृद्धैश्चरममाणैःस्वलङ्कृतैः ।\nसुराधिपस्योपवनेयथाचैत्ररथेद्रुमान् ।।6.128.28।।",
+      "transliteration": "",
+      "translation": "Speeding on the journey for long distance Hanuman, the elephant among the monkeys saw women, their sons, grand sons and the old, well decorated, sporting in the gardens which were like the gardens of Indra and the gardens of Chaitraratha of Kubera with trees and close to Nandigrama, he saw trees full of blossoms.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "क्रोशमात्रेत्वयोध्यायाचशीरकृष्णाजिनम्बरम् ।।6.128.29।।\nददर्शभरतंदीनंकृशमाश्रमवासिनम् ।\nजटिलंमलदिग्धाङ्गंभ्रातृव्यसनकर्शितम् ।।6.128.30 ।\nफलमूलाशिनंदान्तंतापसंधर्मचारिणम् ।\nसमुन्नतजटाभारंवल्कलाजिनवाससम् ।।6.128.31।।\nनियतंभावितात्मानंब्रह्मर्षिसमतेजसम् ।\nपादुकेतेपुरस्कृत्यप्रशासन्तंवसुन्धराम् ।।6.128.32 ।\nचातुर्वर्णस्यलोकस्यत्रातारंमहतोभयात् ।\nउपस्थितममात्यैश्चशुचिभिश्चपुरोहितैः ।।6.128.33।।\nबलमुख्यैश्चयुक्तैश्चकाषायाम्बरदारिभिः ।",
+      "transliteration": "",
+      "translation": "' At a distance of two miles from Ayodhya, Hanuman saw Bharata living in a hermitage wearing black skin of antelope, emaciated, piteous, not clean, without any cleaning of the body, affected by the separation from brother living on fruits and roots, subdued practicing austerities, following righteous practices disciplined, soul purified by meditation, like Brahmarshi in brilliance, placing your sandals on ground ruling the earth, all the four divisions free from fear on all sides, protecting the upright, ministers, priests, united with chiefs of army stood there' (reported Hanuman).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "नहितेराजपुत्रंतंचीरकृष्णाजिनाम्बरम् ।।6.128.34।।\nपरिभोक्तुंव्यवस्यन्तिपौरावैधर्मवत्सलाः ।",
+      "transliteration": "",
+      "translation": "The citizens (of Ayodhya) who were lovers of virtues did not enjoy any luxuries, not inclined for pleasures as the prince himself was wearing bark of trees and skin of antelope.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "तम्धर्ममिवधर्मज्ञंदेहवन्तमिवापरम् ।।6.128.35।।\nउवाचप्राञ्जलिर्वाक्यंहनूमान्मारुतात्मजः ।",
+      "transliteration": "",
+      "translation": "Maruti's son Hanuman offered salutations to Bharata who was seen like a supreme body of dharma itself as if he was another form of dharma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "वसन्तंदण्डकारण्येयंत्वंचीरजटाधरम् ।।6.128.36।।\nअनुशोचसिकाकुत्स्थं स त्वांकौशलमब्रवीत् ।",
+      "transliteration": "",
+      "translation": "\"That Kakuthsa for whom you are worrying and living as he was at Dandaka forest with bark tree fabric, and matted hair sent me to tell you about his welfare.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "प्रियमाख्यामितेदेवशोकंत्यजसुदारुणम् ।।6.128.37।।\nअस्मिन्मुहूर्तेभ्रात्रात्वंरामेणसहसङ्गतः ।",
+      "transliteration": "",
+      "translation": "\"O God! I will tell you some pleasant news. Give up that terrible grief. You will be reunited with your brother this moment.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "निहत्यरावणंरामःप्रतिलभ्य च मैथिलीम् ।।6.128.38।।\nउपयातिसमृद्धार्थःसहमित्रैर्महाबलैः ।",
+      "transliteration": "",
+      "translation": "\"Rama killed Ravana and recovered Mythili. He, having accomplished the purpose, is coming with his mighty friends.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "लक्ष्मणश्चमहातेजावैदेही च यशस्विनी ।।6.128.39।।\nसीतासमग्रारामेणमहेन्द्रेणशचीयथा ।",
+      "transliteration": "",
+      "translation": "\"Lakshmana who is endowed with extraordinary energy, and illustrious Sita accompanied by Rama will be coming as Sachi with Mahendra.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "एवमुक्तोहनुमताभरतःकैकयीसुतः ।।6.128.40।।\nपपातसहसाहृष्टोहर्षान्मोहमुपागमत् ।",
+      "transliteration": "",
+      "translation": "Hanuman having said that, the son of Kaikeyi was delighted and instantly fell on ground and lost senses by extreme joy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "ततोमुहूर्तादुत्थायप्रत्याश्वस्य च राघवः ।।6.128.41।।\nहनूमन्तमुवाचेदंभरतःप्रियवादिनम् ।",
+      "transliteration": "",
+      "translation": "Bharata got up in a moment and saw Hanuman, who is sweet in speech said this.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "अशोकजैःप्रीतिमयैःकपिमालिङ्ग्यसम्भ्रमात् ।।6.128.42।।\nसिषेचभरतःश्रीमान्विपुलैरश्रुबिन्धुभिः ।",
+      "transliteration": "",
+      "translation": "Glorious Bharata was overwhelmed with joy and embraced Hanuman and copious tears of joy born of joy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "देवोवामानुषोवात्वमनुक्रोशादिहागतः ।।6.128.43।।\nप्रियाख्यानस्यतेसौम्यददामिब्रुवतःप्रियम् ।\nगवांशतसहस्रं च ग्रामाणां च शतंपरम् ।।6.128.44।।\nसकुण्डलाश्शुभाचाराभार्याःकन्यास्तुषोडश ।\nहेमवर्णास्सुनासोरूश्शशिसौम्याननाःस्त्रियः ।।6.128.45।।\nसर्वाभरणसम्पन्नास्सम्पन्नाःकुलजातिभिः ।",
+      "transliteration": "",
+      "translation": "\"O Gentle Hanuman! You have come here with great compassion. Are you God or a human being? For the sweet tidings brought by you to me, I will bestow a hundred thousand cows, hundred best villages, sixteen virgin women of good conduct as wives with earrings, with shapely noses, full moon like face, golden complexioned, decked with ornaments and rich women.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-128-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "निशम्यरामागमनंनृपात्मजःकपिप्रवीरस्यतदाद्भुतोपमम् ।\nप्रहर्षितोरामदिदृक्ष्याऽभवत्पुनश्चहर्षादिदमब्रवीद्वचः ।।6.128.46।।",
+      "transliteration": "",
+      "translation": "Prince Bharata became ecstatic on hearing from the monkey leader about the return of Rama and that he will be able to see Rama again. With great delight he spoke to Hanuman. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेष्टाविंशत्युत्तरशततमस्सर्गः ।। This is the end of one hundred and twenty eighth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

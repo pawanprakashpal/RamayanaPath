@@ -1,0 +1,369 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 61,
+    "title": "Vibheeshana speaks to Rama about Kumbhakarna. By the command of Rama, the Vanaras take position at the gates of Lanka.",
+    "titleSanskrit": "",
+    "totalShlokas": 39
+  },
+  "shlokas": [
+    {
+      "id": "v6-61-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततोरामोमहातेजाधनुरादायवीर्यवान् ।\nकिरीट���नंमहाकायंकुम्भकर्णंददर्श ह ।।6.61.1।।",
+      "transliteration": "",
+      "translation": "On taking up a bow Rama saw Kumbhakarna of extraordinary energy, prodigious, and of large body, adorned with a crown.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तंदृष्टवाराक्षसश्रेष्ठंपर्वताकारदर्शनम् ।\nक्रममाणमिवाकाशंपुरानारायणंप्रभुम् ।।6.61.2।।",
+      "transliteration": "",
+      "translation": "That foremost of Rakshasas was like a mountain in appearance, it was like Lord Narayana taking steps to the sky earlier.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "सतोयाम्बुदसङ्काशंकाञ्चनाङ्गदभूषणम् ।\nदृष्टवापुनःप्रदुद्रवावानराणांमहाचमूः ।।6.61.3।।",
+      "transliteration": "",
+      "translation": "Seeing the Rakshasa who was like a rainy cloud with water, decked with gold ornaments, the commander in chief of Vanaras ran.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "विद्रुतांवाहिनींदृष्टवावर्धमानं च राक्षसम् ।\nसविस्मयमिदंरामोविभीषणमुवाच ह ।।6.61.4।।",
+      "transliteration": "",
+      "translation": "Seeing the army scared away and the army of Rakshasas growing in size, Rama was astonished and thus spoke to Vibheeshana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "कोऽसौपर्वतसङ्काशःकिरीटीहरिलोचनः ।\nलङ्कायांदृश्यतेवीरःसविद्युदिवतोयदः ।।6.61.5।।",
+      "transliteration": "",
+      "translation": "\"Who is that hero resembling a mountain, a crowned one with tawny eyes, looking like a rainy cloud driven by lightning? He is seen in Lanka.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "पृथिव्यांकेतुभूतोऽसौमहानेकोऽत्रदृश्यते ।\nयंदृष्टवावानरास्सर्वेविद्रवन्तिततस्ततः ।।6.61.6।।",
+      "transliteration": "",
+      "translation": "\"He is seen here like a lone comet on earth. Seeing him the Vanaras are fleeing hither and thither.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "आचक्षवसुमहान् कोऽसौरक्षोवायदिवाऽसुरः ।\nन मयैवंविधंभूतंदृष्टपूर्वंकदाचन ।।6.61.7।।",
+      "transliteration": "",
+      "translation": "\"Who is he, that gigantic Rakshasa? Is he a demon or perhaps a colossus? No such being was seen by me earlier.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "संपृष्टोराजपुत्रेणरामेणाक्लिष्टकर्मणा ।\nविभीषणोमहाप्राज्ञःकाकुत्थ्समिदमब्रवीत् ।।6.61.8।।",
+      "transliteration": "",
+      "translation": "Asked by the prince Rama, of unwearied action, highly intelligent Vibheeshana spoke.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "येनवैवस्वतोयुद्धेवासवश्चपराजितः ।\nसैषविश्रवसःपुत्रःकुम्भकर्णःप्रतापवान् ।।6.61.9।।\nअस्यप्रमाणसदृशोराक्षसाऽन्यो न विद्यते ।",
+      "transliteration": "",
+      "translation": "\"Vyvasvatha (Lord of death) as well as Vasava (Indra) were defeated by him in war. He is Kumbhakarna, the son of sage Visrava, a stupendous one and there is no other Rakshasa who equals him in size.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "एतेनदेवायुधिदानवाश्चयक्षाभुजङ्गाःपिशिताशनाश्च ।\nगन्धर्वविद्याधरकिन्नरैश्चसहस्रशोराघवसम्प्रभग्नाः ।।6.61.10।।",
+      "transliteration": "",
+      "translation": "\"O Raghava! In war Devas, Danavas, Yakshas, Nagas, ogres, Gandharvas, Vidydharas, Kinneras in thousands were defeated by him.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "शूलपाणिंविरूपाक्षंकुम्भकर्णंमहाबलम् ।\nहन्तुं न शेकुस्त्रिदशाःकालोऽयमितिमोहिताः ।।6.61.11।।",
+      "transliteration": "",
+      "translation": "\"This Kumbhakarna with pike in hand and fierce eyes, is mighty strong. All the Devatas could not kill him, deluded that he is death personified.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "प्रकृत्याह्येषतेजस्वीकुम्भकर्णोमहाबलः ।\nअन्येषांराक्षसेन्द्राणांवरदानकृतंबलम् ।।6.61.12।।",
+      "transliteration": "",
+      "translation": "\"Kumbhakarna is by nature (by birth) energetic and mighty. The strength of other Rakshasas is on account of their boons received by them.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "एतेनजातमात्रेणक्षुधार्तेनमहात्मना ।\nभक्षितानिसहस्राणिसत्त्वानांसुबहून्यपि ।।6.61.13।।",
+      "transliteration": "",
+      "translation": "\" As soon as he was born, he was hungry and this great soul being strong consumed thousands of created beings.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तेषुसंभक्षयमाणेषुप्रजाभयनिपीडिताः ।\nयान्तिस्मशरणंशक्रंतमप्यर्थंन्यवेदयन् ।।6.61.14।।",
+      "transliteration": "",
+      "translation": "\"In that way when Kumbhakarna was devouring, out of fear all people sought the refuge of Indra and represented.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "सकुन्भकर्णंकुपितोमहेन्द्रोजघानवज्रेणशितेनवज्री ।\nसशक्रवज्राभिहतोमहात्माचचालकोपाच्चभृशंननाद ।।6.61.15।।",
+      "transliteration": "",
+      "translation": "\"Mahendra who was armed with thunderbolt got enraged and hurt Kumbhakarna with thunderbolt. He reeled and roared with the strike.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तस्यनानद्यमानस्यकुम्भकर्णस्यरक्षसः ।\nश्रुत्वानिनादंवित्रस्ताःभूमिभूयोवितत्रसे ।।6.61.16।।",
+      "transliteration": "",
+      "translation": "\"People were already afraid of Kumbhakarna, and after hearing the lion roar of this Rakshasa they were even more scared.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तत्रकोपान्महेन्द्रस्यकुम्भकर्णोमहाबलः ।\nविकृष्यैरावताद्धन्तंजघानोरसिवासवम् ।।6.61.17।।",
+      "transliteration": "",
+      "translation": "\"Then mighty Kumbhakarna, who was enraged, pulled out the tusk of Airavatham and struck at the chest of Indra.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "कुम्भकर्णप्रहारार्तोविजज्वाल स वासवः ।\nततोविषेदुस्सहसादेवाब्रह्मर्षिदानवाः ।।6.61.18।।\nप्रजाभिस्सहशक्रश्चययौस्थानंस्वयम्भुवः ।",
+      "transliteration": "",
+      "translation": "\"Hit by Kumbhakarna Indra felt tormented. The Devatas, Brahmarshis and Danavas became despondent. Accompanied by created beings they complained to Brahma.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "कुम्भकर्णस्यदौरात्म्यंशशंसुस्तेप्रजापतेः ।।6.61.19।।\nप्रजानांभक्षणंचापिधर्षणं च दिवौकसाम् ।\nआश्रमध्वंसनंचापिपरस्त्रीहरणंभृशम् ।।6.61.20।।",
+      "transliteration": "",
+      "translation": "\"They reported to Brahma about Kumbhakarna's ruthless deeds, devouring created beings, insulting, harsh and also destroying the abodes of sages violently and abducting others' wives.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "एवंप्रजायदित्वेषभक्षयिष्यतिनित्यशः ।\nअचिरेणैवकालेनशून्योलोकोभविष्यति ।।6.61.21।।",
+      "transliteration": "",
+      "translation": "\"If he consumes created beings every day like that, in the course of time the world will be devoid of beings.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "वासवस्यवचश्श्रुत्वासर्वलोकपितामहः ।\nरक्षांस्यावाहयामासकुम्भकर्णंददर्श ह ।।6.61.22।।",
+      "transliteration": "",
+      "translation": "Hearing the words of Indra, Brahma conjured the Rakshasas and saw Kumbhakarna with them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "कुम्भकर्णंसमीक्ष्यैववितत्रासप्रजापतिः ।\nदृष्टवाविश्वास्यचैवैनंस्वयम्भूरिदमब्रवीत् ।।6.61.23।।",
+      "transliteration": "",
+      "translation": "\"Beholding Kumbhakarna, Brahma was alarmed and spoke to him to restore the confidence of Kumbhakarna.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "ध्रुवंलोकविनाशायपौलस्त्येनासिनिर्मितः ।\nतस्मात्त्वमद्यप्रभृतिमृतकल्पःशयिष्यसे ।।6.61.24।।",
+      "transliteration": "",
+      "translation": "\"Surely you are begotten by Paulastya for the destruction of the universe. Therefore, remain sleeping like a dead one from today, ' said Brahma and cursed him.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "ब्रह्मशापाभिभूतोऽथनिपपाताग्रतःप्रभोः ।\nततःपरमसम्भ्रान्तोरावणोवाक्यमब्रवीत् ।।6.61.25।।",
+      "transliteration": "",
+      "translation": "\"Thereafter, by the curse of Lord Brahma, Kumbhakarna fell in front. Highly agitated at this Ravana spoke these words to Brahma.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "विवृद्धःकाञ्चनोवृक्षःफलकालेनिकृत्यते ।\nन नप्तारंस्वकंन्यायंशप्तुमेवंप्रजापते ।।6.61.26।।",
+      "transliteration": "",
+      "translation": "\"Oh Brahma! Cutting a golden tree at the stage of fruiting is not fair. It is not proper for you to curse your great grandson in that way.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "न मिथ्यावचनश्चत्वं���्वप्स्यत्येष न संशयः ।\nकालस्तुक्रियतामस्यशयनेजागरेतथा ।।6.61.27।।",
+      "transliteration": "",
+      "translation": "\"Your words will not become untrue, no doubt. Sleep, he must but waking time may be fixed.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "रावणस्यवचश्श्रुत्वास्वयम्भूरिदमब्रवीत् ।\nशयिताह्येषषण्मासानेकाहंजागरिष्यति ।।6.61.28।।",
+      "transliteration": "",
+      "translation": "On hearing Ravana's words, Brahma said\" He will sleep for six months and stay awake for a day.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "एकेनाह्नात्वसौवीरश्चरन् भूमिंबुभुक्षितः ।\nव्यात्तास्योभक्षयेल्लोकान् सङ्कृद्धइवपावकः ।।6.61.29।।",
+      "transliteration": "",
+      "translation": "\"This hero will open his mouth wide and move about and alone he will consume the world like the swollen fire.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "सोऽसौव्यसमापन्नःकुम्भकर्णमबोधयत् ।\nत्वत्पराक्रमभीतश्चराजासम्प्रतिरावणः ।।6.61.30।।",
+      "transliteration": "",
+      "translation": "\"Overtaken by worry, the king out of fear of your prowess just awakened sleeping Kumbhakarna.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "स एषनिर्गतोवीरःशिबिराद्भीमविक्रमः ।\nवानरान्भृशसङ्कृद्धोभक्षयन्परिधावति ।।6.61.31।।",
+      "transliteration": "",
+      "translation": "\"This heroic Kumbhakarna has come out of his residence extremely angry and going to and from to consume all Vanaras.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "कुम्भकर्णंसमीक्ष्यैवहरयोऽद्यप्रविद्रुतुः ।\nकथमेनंरणेक्रुद्धंवारयिष्यन्तिवानराः ।।6.61.32।।",
+      "transliteration": "",
+      "translation": "\"On merely seeing Kumbhakarna, the monkeys are running away. How will they check him who is enraged in war?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "उच्यन्तांवानराःसर्वेयन्त्रमेतत्समुच्छ्रितम् ।\nइतिविज्ञायहरयोभविष्यन्तीहनिर्भयाः ।।6.61.33।।",
+      "transliteration": "",
+      "translation": "\"Let all the Vanaras be told, that this one standing high is a machine then the Vanaras will not be scared of victory.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "विभीषणवचश्श्रुत्वाहेतुमत्सुमुखेरितम् ।\nउवाचराघवोवाक्यंनीलंसेनापतिंतदा ।।6.61.34।।",
+      "transliteration": "",
+      "translation": "Hearing the words of Vibheeshana, which was reasonable and, in their favour, Raghava said this to Nila, the commander in chief of the army.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "गच्छसैन्यानिसर्वाणिव्यूह्यतिष्ठस्वपावके ।\nद्वाराण्यादायलङ्कायाश्चर्याश्चाप्यथसङ्क्रमान् ।।6.61.35।।",
+      "transliteration": "",
+      "translation": "\"Pavaka, go and organize all the army and get together to occupy all the gates, highways, bridges in Lanka.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "शैलशृङ्गाणिवृक्षांश्चशिलाश्चाप्युपसंहर ।\nतिष्ठन्तुसायुधास्सर्वेसायुधाश्शैलपाणयः ।।6.61.36।।",
+      "transliteration": "",
+      "translation": "\"Be ready staying on mountain tops, trees, rocks armed with weapons and rocks in hand.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "राघवेणसमादिष्टोनीलोहरिचमूपतिः ।\nशशासवानरानीकंयथावत्कपिकुञ्जरः ।।6.61.37।।",
+      "transliteration": "",
+      "translation": "As instructed by Raghava, the monkey leader Nila, elephant among the monkeys, ordered the monkey troops as instructed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "ततोगवाक्षश्शरभोहनूमानङ्गदस्तथा ।\nशैलशृङ्गाणिशैलाभागृहीत्वाद्वारमभ्ययुः ।।6.61.38।।",
+      "transliteration": "",
+      "translation": "Then taking mountains, Gavaksha, Sarabha, Hanuman, Angada who looked like mountains themselves marched to the gate.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "रामवाक्यमुपश्रुत्य हरयो जितकाशिनः ।\nपादपैरर्दयवनीरावानराःपरवाहिनीम् ।।6.61.39।।",
+      "transliteration": "",
+      "translation": "The monkeys desiring to be triumphant, took trees and began to strike at the enemies on hearing Rama's control.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-61-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "ततोहरीणांतदनीकमुग्रंरराजशैलोद्यतदीप्तहस्तम् ।\nगिरेःसमीपानुगतंयथैवहन्महाम्भोधरजालमुग्रम् ।।6.61.40।।",
+      "transliteration": "",
+      "translation": "Then Vanaras taking trees and mountains in their shining hand s marching close to each other seemed like a huge mass of terrible clouds hanging close to a mountain. ।।इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेषष्टितमस्सर्गः ।। This is the end of the sixty first sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

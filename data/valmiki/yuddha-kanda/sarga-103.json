@@ -1,0 +1,333 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 103,
+    "title": "Indra sends a chariot to Rama who is seen standing on the ground and fighting with Ravana in chariot. Rama ascends the chariot and renews the fight,",
+    "titleSanskrit": "",
+    "totalShlokas": 35
+  },
+  "shlokas": [
+    {
+      "id": "v6-103-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "लक्ष्मणेनतुतद्वाक्यमुक्तंश्रु��्वा स राघवः ।\nसन्दधेपरवीरघ्नोधनुरादायवीर्यवान् ।।6.103.1।।",
+      "transliteration": "",
+      "translation": "Courageous Raghava, the destroyer of enemies on hearing the words spoken by Lakshmana took up his bow and fixed it.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "रावणायशरानघोरान्विससर्जचमूमुखे ।\nअधान्यंरथमास्थायरावणोराक्षसाधिपः ।।6.103.2।।\nअभ्यधावतकाकुत्स्थंस्वर्भानुरिवभास्करम् ।",
+      "transliteration": "",
+      "translation": "Rama discharged dreadful shafts at Ravana's army in the forefront. Ravana ascended another chariot and went towards Rama, just as the planet Rahu moved towards the Sun.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "दशग्रीवोरधस्थस्तुरामंवज्रोपमैश्शरैः ।।6.103.3।।\nआजघानमहाशैलंधाराभिरिवतोयदः ।",
+      "transliteration": "",
+      "translation": "Seated in the chariot, the ten headed Ravana showered thunderbolt like shafts just as rain cloud showers on a huge mountain and struck.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "दीप्तपावकसङ्काशैःशरैःकाञ्चनभूषणैः ।।6.103.4।।\nअभ्यवर्षद्रणरामोदशग्रीवंसमाहितः ।",
+      "transliteration": "",
+      "translation": "Sri Rama steadily covered Ravana, the ten headed Rakshasa with shining shafts covered with gold glowing like fire in the battle.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "भूमौस्थितस्यरामस्यरथस्थस्य च रक्षसः ।।6.103.5।।\nन समंयुद्धमित्याहुर्देवगन्धर्वकिन्नराः ।",
+      "transliteration": "",
+      "translation": "Rama standing on the earth and Ravana seated on the chariot and waging war is not fair, declared Devas, Gandharvas and Kinneras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "ततोदेववरर्श्रीमान् श्रुत्वातेषांवचोऽमृतम् ।।6.103.6।।\nआहूयमातलिंशक्रोवचनंचेदमब्रवीत् ।",
+      "transliteration": "",
+      "translation": "The foremost of Devas, the glorious Indra, on hearing their sweet words called his charioteer Matali and spoke as follows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "रथेनममभूमिष्ठंशीघ्रंयाहिरघूत्तमम् ।।6.103.7।।\nआहूयभूतलंयातःकुरुदेवहितंमहत् ।",
+      "transliteration": "",
+      "translation": "\"Proceed quickly in my chariot to the foremost of the Raghus on the earth, where Sri Rama stands and call him to sit in the chariot as per the words of Devas.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "इत्युक्तोदेवराजेनमातलिर्देवसारथिः ।।6.103.8।।\nप्रणम्यशिरसादेवंततोवचनमब्रवीत् ।",
+      "transliteration": "",
+      "translation": "Lord of Devas having spoken that way, the charioteer of Devas offering salutations to Devas in obedience spoke these words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "शीघ्रंयास्यामिदेवेन्द्रसारथ्यं च करोम्यहम् ।।6.103.9।।\nततोहयैश्चसम्योज्यहरितैःस्यन्दनोत्तमम् ।",
+      "transliteration": "",
+      "translation": "\"O Devendra, I will do the duty of charioteer duly to the Lord of gods with green horses proceeding quickly\", said the charioteer.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "ततःकाञ्चनचित्राङ्गःकिङ्किणीशतभूषितः ।।6.103.10।।\nतरुणादित्यसङ्काशोवैदूर्यमयकूबरः ।\nसदश्वैःकाञ्चनापीडैर्युक्तश्श्वेतप्रकीर्णकैः ।।6.103.11।।\nहरिभिःसूर्यसङ्काशैर्हेमजालविभूषितैः ।\nरुक्मवेणुध्वज्श्रीमन्देवराजरथोवरः ।।6.103.12।।\nदेवराजेनन्दिष्टोरथमारुह्यमातलिः ।\nअभ्यवर्ततकाकुत्स्थमवतीर्यत्रिवष्टपात् ।।6.103.13।।",
+      "transliteration": "",
+      "translation": "Thereafter, Matali brought the glorious chariot of Lord of Devas. It was decked with charming gold wheels, body fitted with hundreds of gold bells that shone like the early morning sun, decked with gold on top, green horses with white whisks shining like the Sun, decked with golden net, the horses yoked to staff, and the flag fitted on golden bamboo staff. Descending from the chariot, like from heaven, Matali went towards Kakuthsa.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "अब्रवीच्चतदारामंसप्रतोदोरथेस्थितः ।\nप्राञ्जलिर्मातलिर्वाक्यंसहस्राक्षस्यसारथिः ।।6.103.14।।",
+      "transliteration": "",
+      "translation": "Then the thousand eyed charioteer, holding the whip in hand, from the chariot, offered salutations with folded palms to Sri Rama and spoke these words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "सहस्राक्षेणकाकुत्थ्सरथोऽयंविजयायते ।\nदत्तस्तवमहासत्त्वश्रीमन् शत्रुनिबर्हण ।।6.103.15।।",
+      "transliteration": "",
+      "translation": "\"To you, Kakuthsa, who are endowed with great prowess, destroyer of enemies, this chariot has been sent by Indra for your victory.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "इदमैन्द्रंमहच्चापंकवचंचानगिसन्निभम् ।\nशराश्चादित्यसङ्काशाःशक्तिश्चविमलाशिवा ।।6.103.16।।",
+      "transliteration": "",
+      "translation": "\"Here is Indra's mighty bow, armour shining like fire, shafts resembling the Sun and stainless auspicious javelin.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "आरुह���येमंरथंवीरराक्षसंजहिरावणम् ।\nमयासारथिनाराजन् महेन्द्रइवदानवान् ।।6.103.17।।",
+      "transliteration": "",
+      "translation": "\"O heroic king! With me as charioteer, mounting this chariot, kill the Rakshasa Ravana as Mahendra killed the demons.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "इत्युक्तःसम्परिक्रम्यरथंतमभिवाद्य च ।\nआरुरोहतदारामोलोकान् लक्ष्मविराजयन् ।।6.103.18।।",
+      "transliteration": "",
+      "translation": "Speaking like that, Matali went round Sri Rama, and went round the chariot clockwise saluting him. Sri Rama then ascended the chariot, illuminating his splendour to the world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "तद्भभूवाद्भुतंयुद्धंतुमुलंरोमहर्षणम् ।\nरामस्य च महाबाहोरावणस्य च रक्षसः ।।6.103.19।।",
+      "transliteration": "",
+      "translation": "Then a wonderful, severe thrilling fight took place between Sri Rama and Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "स गान्धर्वेणगान्धर्वंदैवंदैवेनराघवः ।\nअस्त्रंराक्षसराजस्यजघानपरमास्त्रवित् ।।6.103.20।।",
+      "transliteration": "",
+      "translation": "Raghava who was highly skilled in the use of supreme weapons destroyed that missile presided over by Gandharvas and gods, released by Ravana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "अस्त्रंतुपरमंघोरंराक्षसंराक्षसाधिपः ।\nससर्जपरमक्रुद्धःपुनरेवनिशाचरः ।।6.103.21।।",
+      "transliteration": "",
+      "translation": "The Rakshasa king, the night ranger, became highly furious and once again discharged the most terrific missile presided over by Rakshasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तेरावणधनुर्मुक्ताःशराःकाञ्चनभूषणाः ।\nअभ्यवर्तन्तकाकुत्स्थंसर्पाभूत्वामहाविषाः ।।6.103.22।।",
+      "transliteration": "",
+      "translation": "The shafts released from Ravana's bow were covered with gold and highly venomous like serpents reached near Kakuthsa.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "तेदीप्तवदनादीप्तंसमन्तोज्वलनंमुखैः ।\nराममेवाभ्यवर्तन्तव्यादितास्याभयानकाः ।।6.103.23।।",
+      "transliteration": "",
+      "translation": "Those shafts with wide flaming mouths, vomiting fire, glowing, frightening, and striking went over to Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तैर्वासुकिसमस्पर्शैर्दीप्तभोगैर्महाविषैः ।\nदिशश्चसन्ततास्सर्वाप्रदिशश्चसमावृताः ।।6.103.24।।",
+      "transliteration": "",
+      "translation": "Flaming coils like the Vasuki, covering all quarters with poison, enveloped all over.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तान् दृष्टवापन्नगान् रामःसमापततआहवे ।\nअस्त्रंगारुत्मतंघोरंप्रादुश्चक्रेभयावहम् ।।6.103.25।।",
+      "transliteration": "",
+      "translation": "Seeing the dreadful reptiles approaching, Rama discharged the missile presided over by Garuda.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तेराघवधनुर्मुक्तारुक्मपुङ्खाःशिखिप्रभाः ।\nसुपर्णाःकाञ्चनाभूत्वाविचेरुःसर्पशत्रवः ।।6.103.26।।",
+      "transliteration": "",
+      "translation": "By the missile discharged by Raghava those reptiles and snakes turned into golden feathered eagles and by the shine of the feathers, the reptiles flew.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "तेतान्सर्वान् जघ्नुस्सर्परूपान्महाजवान् ।\nसुपर्णरूपारामस्यविशिखाःकामरूपिणः ।।6.103.27।।",
+      "transliteration": "",
+      "translation": "Those shafts of Rama in the form of eagles which could change their form at will, destroyed the serpent forms and they flew at great speed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "अस्त्रेप्रतिहतेक्रुद्धोरावणोराक्षसाधिपः ।\nअभ्यवर्षत्तदारामंघोराभिःशरवृष्टिभिः ।।6.103.28।।",
+      "transliteration": "",
+      "translation": "King of Rakshasas knocked back, became enraged and covered Rama with a terrific shower of shafts.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "ततश्शरसहस्रेणराममक्लिष्टकारिणम् ।\nअर्दयित्वाशरौघेणमातलिम्प्रत्यविध्यत ।।6.103.29।।",
+      "transliteration": "",
+      "translation": "Thereafter having showered a thousand shafts on Rama, of unwearied action, Ravana pierced Matali with shafts.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "चिच्छेदकेतुमुद्धिश्यशरेणैकेनरावणः ।\nपातयित्वारथोपस्थेरथात्केतुं च काञ्चनम् ।।6.103.30।।\nऐन्द्रानपिजघानाश्वान्शरजालेनरावणः ।",
+      "transliteration": "",
+      "translation": "Ravana attacked the flag post of the chariot with one arrow and felled it down. Then he released a network of arrows on Indra's horses and struck them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "तदृष्ट्वासुमहातत्कर्मरावणस्यदुरात्मना: ।\nविषेदुर्देवगन्धर्वाचारणादानवैस्सह ।।6.103.31।।\nराममार्तंतदादृष्टवासिद्धाश्चपरमर्षयः ।\nव्यथितावानरेन्द्राश्चबभूवुस्सविभीषणाः ।।6.103.32।।\nरामचन्द्रमसंदृष्टवाग्रस्तंरावणराहुणा ।",
+      "transliteration": "",
+      "translation": "On seeing Sri Rama afflicted by the action of evilminded Ravana, the Devas, Gandharvas, Charanas, Danavas also, Siddhas and foremost rishis were despondent. Seeing the moon like Sri Rama eclipsed by planet Rahu in the form of Ravana, the Vanara leaders and Vibheeshana became worried.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "प्राजात्यं च नक्षत्रंरोहिणींकशशिनःप्रियाम् ।।6.103.33।।\nसमाक्रम्यबुधस्तस्थौप्रजानामशुभावहः ।",
+      "transliteration": "",
+      "translation": "When the planet Budha comes closer to the Rohini planet presided over by the Lord of creation, people predict bad luck.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "सधूमपरिवृत्तोर्मिःप्रज्वलन्निवसागरः ।।6.103.34।।\nउत्पपाततदाक्रुद्धस्स्पृशन्निवदिवाकरम् ।",
+      "transliteration": "",
+      "translation": "The waves of the ocean were, as if in fury, waves covered with mist turning around as though to touch the radiant sun rose high.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "शस्त्रवर्णस्सुपरुषोमन्दरश्मिद्दिवाकरः ।।6.103.35।।\nअदृश्यतकबन्धाङ्कःसंसक्तोधूमकेतुना ।",
+      "transliteration": "",
+      "translation": "The Sun seemed without radiance like the colour of weapon (grey), in the form of Kabhanda (headless trunk), combined with Dhumakethu.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "कोसलानां च नक्षत्रंव्यक्तमिन्द्राग्निदैवतम् ।।6.103.36।।\nआक्रम्याङ्गारकस्तस्थौविशाखामपिचाम्बरे ।",
+      "transliteration": "",
+      "translation": "In the sky, the planet Mars too stood in constellation with Visakha star presided over by gods Indra and Agni in heaven, which was propitious for the kosala kings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "दशास्योविंशतिभुजःप्रगृहीतशरासनः ।।6.103.37।।\nअदृशास्यःदशग्रीवःमैनाकःपर्वतःइव",
+      "transliteration": "",
+      "translation": "Ravana with ten heads and twenty arms seizing his bow appeared like the Mynaka mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "निरस्यमानोरामस्तुदशग्रीवेणरक्षसा ।।6.103.38।।\nनाशक्नोदभिसन्धातुंसायकान्रणमूर्धनि ।",
+      "transliteration": "",
+      "translation": "While Ravana with ten heads and arms was ready in the forefront of the battle, Sri Rama had no possibility to fix his arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-103-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "सःकृत्वाभ्रुकुटिंक्रुद्धःकिञ्चित्सम्रक्तलोचनः ।।6.103.39।।\nजगामसुमहाक्रोधंनिर्दहन्निवचक्षुषा ।",
+      "transliteration": "",
+      "translation": "Enraged Ravana, knitting his eyebrows in anger, eyes turned red as if he was going to burn the world, became very angry. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेत्ऱ्युत्तरशततमस्सर्गः ।। This is the end of the hundred and third sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

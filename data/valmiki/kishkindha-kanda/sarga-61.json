@@ -1,0 +1,162 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "kishkindha-kand",
+    "name": "Kishkindha Kanda",
+    "nameSanskrit": "किष्किन्धाकाण्डम्",
+    "index": 4,
+    "totalSargas": 67
+  },
+  "sarga": {
+    "number": 61,
+    "title": "Sampati's revelation to sage Nishakara about his burnt wings.",
+    "titleSanskrit": "",
+    "totalShlokas": 16
+  },
+  "shlokas": [
+    {
+      "id": "v4-61-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "ततस्तद्दारुणं कर्म दुष्करं सहसात्कृतम्।\nआचचक्षे मुनेस्सर्वं सूर्यानुगमनं तथा।।4.61.1।।",
+      "transliteration": "",
+      "translation": "'Then I revealed everything to the sage,including the arrogant, impetuous action of rashly following the Sun (for challenging Indra).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-61-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "भगवन्व्रणयुक्तत्वाल्लज्जया व्याकुलेन्द्रियः।\nपरिश्रान्तो न शक्नोमि वचनं परिभाषितुम्।।4.61.2।।",
+      "transliteration": "",
+      "translation": "'O revered sage I am exhausted and my senses are depressed. I am ashamed of myself. My body is wounded. Therefore I am not able to reply.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-61-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "अहं चैव जटायुश्च सङ्घर्��ाद्धर्पमोहितौ।\nआकाशं पतितौ वीरौ जिज्ञासन्तौ पराक्रमम्।।4.61.3।।",
+      "transliteration": "",
+      "translation": "'Deluded by pride, I and my brother Jatayu challenging each other to test our relative strength flew  far into the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-61-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "कैलासशिखरे बद्ध्वा मुनीनामग्रतः पणम्।\nरविस्स्यादनुयातव्यो यावदस्तं महागिरिम्।।4.61.4।।",
+      "transliteration": "",
+      "translation": "'Both of us made a bet on the peak of mount Kailasa in the presence of sages to follow the Sungod until he sets on the western mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-61-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "अथाऽवां युगपत्प्राप्तावपश्याव महीतले।\nरथचक्रप्रमाणानि नगराणि पृथक्पृथक्।।4.61.5।।",
+      "transliteration": "",
+      "translation": "'And from there both of us looked at all the cities on the land which seemed like the size of chariot wheels one after the other.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-61-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "क्वचिद्वादित्रघोषांश्च ब्रह्मघोषांश्च शुश्रुवः।\nगायन्तीश्चाङ्गना बह्वीः पश्यावो रक्तवाससः।।4.61.6।।",
+      "transliteration": "",
+      "translation": "'We heard at some places sounds of musical instruments, sounds of Vedic chanting, and many lovely young women dressed in redsinging.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-61-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तूर्णमुत्पत्य चाकाशमादित्यपथमाश्रितौ।\nआवामालोकयावस्तद्वनं शाद्वलसन्निभम्।।4.61.7।।",
+      "transliteration": "",
+      "translation": "'We flew quickly into the sky and reached the path of the Sun and looked down at the forest which looked like a green lawn.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-61-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "उपलैरिव सञ्छन्ना दृश्यते भूश्शिलोच्चयैः।\nआपगाभिश्च संवीता सूत्रैरिव वसुन्धरा।।4.61.8।।",
+      "transliteration": "",
+      "translation": "'The earth filled with lofty mountains appeared as if it is covered with pebbles. Surrounded by rivers meandering, it looked as though it was entwined with threads.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-61-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "हिमवांश्चैव विन्ध्यश्च मेरुश्च सुमहान्नगः।\nभूतले सम्प्रकाशन्ते नागा इव जलाशये।।4.61.9।।",
+      "transliteration": "",
+      "translation": "'The mountains of the earth, Himavan and Vindhya and the great Meru looked like huge elephants in a huge pond.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-61-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तीव्रस्स्वेदश्च खेदश्च भयं चासीत्तदाऽऽवयोः।\nसमाविशति मोहश्च तमो मूर्छा च दारुणा।।4.61.10।।",
+      "transliteration": "",
+      "translation": "'Much sweat, pain and fear generated in us while we went on and up. This led to terrific confusion and stupor.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-61-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "न दिग्विज्ञायते याम्या नाग्नेयी न च वारुणी।\nयुगान्ते नियतो लोको हतो दग्ध इवाग्निना।।4.61.11।।",
+      "transliteration": "",
+      "translation": "'I did not know which the southern direction was or the southeast or the west. It looked as if the world had been consumed by fire and dissolved, as if it was the end of the yuga.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-61-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "मनश्च मे हतं भूयस्सन्निवर्त्यतु संश्रयम्।\nयत्नेन महता ह्यस्मिन्पुनस्सन्धाय चक्षुषी।।4.61.12।।\nयत्नेन महता भूयो भास्करः प्रतिलोकितः।\nतुल्यः पृथ्वीप्रमाणेन भास्करः प्रतिभाति नौ।।4.61.13।।",
+      "transliteration": "",
+      "translation": "'My mind was disturbed and I turned my attention from the object. Once again I  focused my attention (on the Sun) and could see the Sungod with great effort. The Sun appeared to us equal in size to earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-61-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "जटायुर्मामनापृच्छ्य निपपात महीं ततः।\nतं दृष्ट्वा तूर्णमाकाशादात्मानं मुक्तवानहम्।।4.61.14।।",
+      "transliteration": "",
+      "translation": "'Without taking leave of me Jatayu descended down to the earth. Seeing that, I also followed him down quickly from the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-61-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "पक्षाभ्यां च मया गुप्तो जटायुर्न प्रदह्यते।\nप्रमादात्तत्र निर्दग्धः पतन्वायुपथादहम्।।4.61.15।।",
+      "transliteration": "",
+      "translation": "'I protected Jatayu with my wings so that he was not burnt. I, however, got burnt miserably and fell down from the aerial region.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-61-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "आशङ्के तं निपतितं जनस्थाने जटायुषम्।\nअहं तु पतितो विन्ध्ये दग्धपक्षो जडीकृतः।।4.61.16।।",
+      "transliteration": "",
+      "translation": "'I thought Jatayu had fallen down somewhere at Janasthana, but I fell on Vindhya, wings burnt, in an unconscious state.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v4-61-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "राज्येन हीनो भ्रात्रा च पक्षाभ्यां विक्रमेण च।\nसर्वथा मर्तुमेवेच्छन्पतिष्ये शिखराद्गीरेः।।4.61.17।।",
+      "transliteration": "",
+      "translation": "'Bereft of my kingdom, my brother and my wings, and having lost my strength I desire to fall down from the mountain top and die.' इत्यार्षे श्रीमद्रामायणे वल्��ीकीय आदिकाव्ये किष्किन्धाकाण्डे एकषष्टितमस्सर्गः।। Thus ends the sixtyfirst sarga in Kishkindakanda of the first epic, the Holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

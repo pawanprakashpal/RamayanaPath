@@ -1,0 +1,324 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 46,
+    "title": "Lakshmana departs from the hermitage -- Ravana arrives in a saint's robes -- praises Sita and enquires of her -- Sita reveals details about her family to Ravana.",
+    "titleSanskrit": "",
+    "totalShlokas": 34
+  },
+  "shlokas": [
+    {
+      "id": "v3-46-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तया परुषमुक्तस्तु कुपितो राघवानुजः।\nस विकाङ्क्षन्भृशं रामं प्रतस्थे नचिरादिव।।3.46.1।।",
+      "transliteration": "",
+      "translation": "Lakshmana, brother of Rama, hurt by the harsh words of Sita, hastened with Rama's wellbeing in mind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "तदासाद्य दशग्रीवः क्षिप्रमन्तरमास्थितः।\nअभिचक्राम वैदेहीं परिव्राजकरूपधृक्।।3.46.2।।",
+      "transliteration": "",
+      "translation": "The tenheaded Ravana who was in hiding assumed the guise of a wandering mendicant and approached Sita.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "श्लक्ष्णकाषायसंवीतश्शिखी छत्री उपानही।\nवामे चांसेऽवसज्याथ शुभे यष्टिकमण्डलू।।3.46.3।।\nपरिव्राजकरूपेण वैदेहीमन्वपद्यत।",
+      "transliteration": "",
+      "translation": "And then Ravana wearing fine orange robes, with hair knotted on the head, carrying a parasol, wearing sandals, hanging a kamandalu (waterpot), and a staff on the auspicious left shoulder walked towards Vaidehi like a mendicant.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "तामाससादातिबलो भ्रातृभ्यां रहितां वने।।3.46.4।।\nरहितां चन्द्रसूर्याभ्यां सन्ध्यामिव महत्तमः।",
+      "transliteration": "",
+      "translation": "Mighty Ravana approached Sita deprived of both the brothers, Like darkness encompasses the evening twilight in the absence of the Sun and the Moon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तामपश्यत्ततो बालां रामपत्नीं यशस्विनीम्।।3.46.5।।\nरोहिणीं शशिना हीनां ग्रहवद्भृशदारुणः।",
+      "transliteration": "",
+      "translation": "The extremely cruel Ravana saw the illustrious young wife of Rama just as Ketu looks at Rohini star in the absence of the Moon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तमुग्रतेजःकर्माणं जनस्थानरूहा द्रुमाः।।3.46.6।।\nसमीक्ष्य सम्प्रकम्पन्ते न प्रवाति च मारुतः।",
+      "transliteration": "",
+      "translation": "Seeing the ferocious Ravana, the huge trees at Janasthana shook vidently. Even the wind ceased to blow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "शीघ्रस्रोताश्च तं दृष्ट्वा वीक्षन्तं रक्तलोचनम्।।3.46.7।।\nस्तिमितं गन्तुमारेभे भयाद्गोदावरी नदी।",
+      "transliteration": "",
+      "translation": "Seeing Ravana with his bloodred eyes, the swiftflowing river Godavari slowed down out of fear.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "रामस्य त्वन्तरप्रेप्सुर्दशग्रीवस्तदन्तरे।।3.46.8।।\nउपतस्थे च वै देहीं भिक्षुरूपेण रावणः।",
+      "transliteration": "",
+      "translation": "The tenheaded Ravana who was waiting for Rama's absence now got it. Disguised as a mendicant he stepped toward to where Sita was.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "अभव्यो भव्यरूपेण भर्तारमनुशोचतीम्।।3.46.9।।\nअभ्यवर्तत वैदेहीं चित्रामिव शनैश्चरः।",
+      "transliteration": "",
+      "translation": "The evilminded Ravana in the guise of a holy man, like Saturn moves towards Chitra  star, came close to Sita who was brooding over her husband.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "स पापो भव्यरूपेण तृणैः कूप इवावृतः।।3.46.10।।\nअतिष्ठत्प्रेक्ष्य वैदेहीं रामपत्निं यशस्विनीम्।",
+      "transliteration": "",
+      "translation": "Just like a well is concealed by an overgrowth of grass, Ravana guised as a holy man stood looking at illustrious Sita, the wife of Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "शुभां रुचिरदन्तोष्ठीं पूर्णचन्द्रनिभाननाम्।।3.46.11।।\nआसीनां पर्णशालायां बाष्पशोकाभिपीडिताम्।\nस तां पद्मपलाशाक्षीं पीतकौशेयवासिनीम्।।3.46.12।।\nअभ्यगच्छत वैदेहीं दुष्टचेता निशाचरः।",
+      "transliteration": "",
+      "translation": "The wicked demon came close to that auspicious princess from Videha sitting in the cottage Her face was like the full moon. Her teeth and lips were lovely. She was clad in yellow silk. Her eyes were like lotus petals tormented by tears of grief.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "स मन्मथशराविष्टो ब्रह्मघोषमुदीरयन्।।3.46.13।।\nअब्रवीत्प्रश्रितं वाक्यं रहिते राक्षसाधिपः।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तामुत्तमां स्त्रियं लोके पद्महीनामिव श्रियम्।।3.46.14।।\nविभ्राजमानां वपुषा रावणः प्रशशंस ह।",
+      "transliteration": "",
+      "translation": "Sita was the most lovely lady of the world shining in beauty. She was like the goddess of wealth (Laxmi) without her lotus. Ravana praised her thus:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "का त्वं काञ्चनवर्णाभे पीतकौशेयवासिनि।।3.46.15।।\nकमलानां शुभां मालां पद्मिनीव हि बिभ्रती।",
+      "transliteration": "",
+      "translation": "Who are you with a golden complexion, clad in yellow silk, and looking like a lotuspond and wearing an auspicious lotus garland?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "ह्रीः कीर्तिः श्रीश्शुभा लक्ष्मीरप्सरा वा शुभानने।।3.46.16।।\nभूतिर्वा त्वं वरारोहे रतिर्वा स्वैरचारिणी।",
+      "transliteration": "",
+      "translation": "O lady with a beautiful face, with lovely thighs, are you 'hri', shyness personified? Are you the auspicious lovely Lakshmi, the  goddess of wealth? Are you the goddess of fame? Are you an apsara? Are you Bhuti, the goddess of fortune? Or are you Rati, the goddess of love moving at your free will ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "समाश्शिखरिणस्स्निग्धाः पाण्डुरा ���शनास्तव।।3.46.17।।\nविशाले विमले नेत्रे रक्तान्ते कृष्णतारके।",
+      "transliteration": "",
+      "translation": "Your teeth are even and pointed, white and beautiful.Your eyes are large and clear and sparkling with dark pupils with a red tinge at the corner.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "विशालं जघनं पीनमूरू करिकरोपमौ।।3.46.18।।\nएतावुपचितौ वृत्तौ संहतौ सम्प्रवल्गितौ।\nपीनोन्नतमुखौ कान्तौ स्निग्धौ तालफलोपमौ।।3.46.19।।\nमणिप्रवेकाभरणौ रुचिरौ ते पयोधरौ।",
+      "transliteration": "",
+      "translation": "Your big hips are stout and strong, Your smooth thighs are like the trunk of an elephant, your breasts adorned with gems, are round and robust like palm fruits and drooping with heaviness with projected stiff nipples, shining and delightful, adding beauty.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "चारुस्मिते चारुदति चारुनेत्रे विलासिनि।।3.46.20।।\nमनो हरसि मे कान्ते नदी कूलमिवाम्भसा।\nकरान्तमितमध्यासि सुकेशी संहतस्तनी।।3.46.21।।",
+      "transliteration": "",
+      "translation": "O lady with an elegant smile, beautiful teeth, lovely  eyes you are enticing.Your slender waist can be compassed by my fist.Your hair is beautiful and your large breasts are rubbing against each other.You are capturing my mind  just as the flow of water in a river  touches its banks.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "नैव देवी न गन्धर्वी न यक्षी न च किन्नरी।\nनैवंरूपा मया नारी दृष्टपूर्वा महीतले।।3.46.22।।",
+      "transliteration": "",
+      "translation": "O beautiful lady I have not seen such a beauty earlier either among goddesses or among gandharavis, or yakshis or even among kinneris.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "रूपमग्र्यं च लोकेषु सौकुमार्यं वयश्चते।\nइह वासश्च कान्तारे चित्तमुन्मादयन्ति मे।।3.46.23।।",
+      "transliteration": "",
+      "translation": "You are the most beautiful among women in the world. With all your tenderness and youth you are living in this forlorn forest. This maddens my heart.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "सा प्रतिक्राम भद्रं ते नैवं वस्तुमिहार्हसि।\nराक्षसानामयं वासो घोराणां कामरूपिणाम्।।3.46.24।।",
+      "transliteration": "",
+      "translation": "It is not safe for a lady like you to reside here. Move out at once. This is only fit for the dwelling of horrible demons who can change their form at will.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "प्रासादाग्राणि रम्याणि नगरोपवनानि च।\nसम्पन्नानि सुगन्धीनि युक्तान्याचरितुं त्वया।।3.46.25।।",
+      "transliteration": "",
+      "translation": "You deserve to stroll in the terraces of palaces, in beautiful, luxurious and fragrant city gardens.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "वरं माल्यं वरं भोज्यं वरं वस्त्रं च शोभने।\nभर्तारं च वरं मन्ये त्वद्युक्तमसितेक्षणे।।3.46.26।।",
+      "transliteration": "",
+      "translation": "O beautiful, blackeyed lady, I think you deserve the best of garlands, best of food,  and clothes and a suitable husband.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "का त्वं भवसि रुद्राणां मरुतां वा वरानने।\nवसूनां वा वरावोहे देवता प्रतिभासि मे।।3.46.27।।",
+      "transliteration": "",
+      "translation": "O best of women O lady with beautiful buttocks  can you be one  of the Rudras or Maruts or Vasus? To me, you appear like a goddess.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "नेह गच्छन्ति गन्धर्वा न देवा न च किन्नराः।\nराक्षसानामयं वासः कथं नु त्वमिहागता।।3.46.28।।",
+      "transliteration": "",
+      "translation": "Neither gandharvas, nor kinnaras, nor gods move here. This is only a dwelling place for the demons. How did you come here ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "इह शाखामृगास्सिंहा द्वीपिव्याघ्रमृगास्तथा।\nऋक्षास��तरक्षवः कङ्काः कथं तेभ्यो न बिभ्यसि।।3.46.29।।",
+      "transliteration": "",
+      "translation": "There are monkeys, lions, panthers, tigers, hyenas, bears, kanka birds and other wild animals here. How is it that you are not afraid of them?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "मदान्वितानां घोराणां कुञ्जराणां तरस्विनाम्।\nकथमेका महारण्ये न बिभेषि वरानने।।3.46.30।।",
+      "transliteration": "",
+      "translation": "O Charming lady how is it that although alone you are not afraid of the dreadful, swift, powerful wild animals like elephants in rut ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "कासि कस्य कुतश्चित्त्वं किं निमित्तं च दण्डकान्।\nएका चरसि कल्याणि घोरान्राक्षससेवितान्।।3.46.31।।",
+      "transliteration": "",
+      "translation": "Who are you, O auspicious lady ? Who are your people? Why are you here? From where have you come? For what reason are you going about alone in this fierce Dandaka tract, inhabited by demons?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "इति प्रशस्ता वैदेही रावणेन दुरात्मना।\nद्विजातिवेशेण हि तं दृष्ट्वा रावणमागतम्।।3.46.32।।\nसर्वैरतिथिसत्कारैः पूजयामास मैथिली।",
+      "transliteration": "",
+      "translation": "Seeing Ravana, a villain in the guise of a brahmin praising her, Sita, the princess of  Videha, honoured him with all hospitality.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "उपनीयासनं पूर्वं पाद्येनाभिनिमन्त्र्य च।।3.46.33।।\nअब्रवीत्सिद्धमित्येव तदा तं सौम्यदर्शनम्।",
+      "transliteration": "",
+      "translation": "She offered the handsome guest a seat first and then water for washing his feet with, and then invited him for food.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "द्विजातिवेषेण समीक्ष्य मैथिली समागतं पात्रकुसुम्भधारिणम्।\nअशक्यमुद्वेष्टुमपायदर्शनम् न्यमन्त्रयद्ब्राह्मणवत्तदाङ्गना।।3.46.34।।",
+      "transliteration": "",
+      "translation": "Sita, being a lady, was unable to doubt him since he came in the guise of a brahmin, holding a bottlegourd and a begging bowl. Without knowing his illintention she invited him in, mistaking him for a brahmin.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "इयं बृसी ब्राह्मण काममास्यतामिदं च पाद्यं प्रतिगृह्यतामिति।\nइदं च सिद्धं वनजातमुत्तमं त्वदर्थमव्यग्रमिहोपभुज्यताम्।।3.46.35।।",
+      "transliteration": "",
+      "translation": "O brahmin, here is the seat for you. Feel free to sit. Here is water to wash your feet with. This is the best of food for you collected from the forest. Please partake this without hesitation.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "निमन्त्र्यमाणः प्रतिपूर्णभाषिणीं नरेन्द्रपत्नीं प्रसमीक्ष्य मैथिलीम्।\nप्रसह्य तस्याहरणे धृतं मनः समर्पयत्स्वात्मवधाय रावणः।।3.46.36।।",
+      "transliteration": "",
+      "translation": "Ravana was observing the princess from Mithila, wife of a king inviting him  and speaking to him in cordial manner. Looking at her, he resolved to  abduct her forcibly, inviting his own death.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-46-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "ततः सुवेषं मृगयागतं पतिं प्रतीक्षमाणा सहलक्ष्मणं तदा।\nविवीक्षमाणा हरितं ददर्श तन्महद्वनं नैव तु रामलक्ष्णौ।।3.46.37।।",
+      "transliteration": "",
+      "translation": "Sita looked out for the beautiful figure of Rama who had gone to hunt the deer along with Lakshmana. Waiting eagerly for her husband, she only saw the vast stretch of green forest  but not Rama and Lakshmana. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे षट्चत्वारिंशस्सर्गः।। Thus ends the fortysixth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

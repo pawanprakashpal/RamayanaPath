@@ -1,0 +1,288 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 15,
+    "title": "Dasaratha commences putreshti under the guidance of Rsyasringa--Gods approach Brahma, the creator to suggest means of killing Ravana who could not be killed by anyone except man, monkeys and bears--Visnu appears--gods request Visnu to  incarnate in the world of men as son of Dasaratha--He agrees",
+    "titleSanskrit": "",
+    "totalShlokas": 30
+  },
+  "shlokas": [
+    {
+      "id": "v1-15-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "मेथावी तु ततो ध्यात्वा स किञ्चिदिदमुत्तरम्।\nलब्धसंज्ञस्ततस्तं तु वेदज्ञो नृपमब्रवीत्।।1.15.1।।",
+      "transliteration": "",
+      "translation": "Rsyasringa, a highly  intellectual and knowledgeable one in the Vedas, pondered for a while, revived his memory  and said to the king.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-15-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "इष्टिं तेऽहं करिष्यामि पुत्रीयां पुत्रकारणात्।\nअथर्वशिरसि प्रोक्तैर्मन्त्रैस्सिद्धां विधानत:।।1.15.2।।",
+      "transliteration": "",
+      "translation": "\"I shall perform putriyeshti to help you beget sons. This is to be done in accordance with tradition for fulfilment of desires through mantras as declared in a portion of the Vedas, 'atharva siras'\" .",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-15-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "तत: प्राक्रमदिष्टिं तां पुत्रीयां पुत्रकारणात्।\nजुहाव चाग्नौ तेजस्वी मन्त्रदृष्टेन कर्मणा।।1.15.3।।",
+      "transliteration": "",
+      "translation": "To help Dasaratha beget sons, brilliant Rsyasringa  commenced putriyeshti, a sacrifice for begetting children, by pouring oblations into sacrificial fire and chanting mantras in accordance with traditions.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-15-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "ततो देवास्सगन्धर्वास्सिद्धाश्च परमर्षय: ।\nभागप्रतिग्रहार्थं वै समवेता यथाविधि।।1.15.4।।",
+      "transliteration": "",
+      "translation": "All the celestial deities etc., along with gandharvas according to tradition, gathered at the sacrifice to receive their share of offerings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-15-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तास्समेत्य यथान्यायं तस्मिन्सदसि देवता:।\nअब्रुवन् लोककर्तारं ब्रह्माणं वचनं महत्।।1.15.5।।",
+      "transliteration": "",
+      "translation": "All devatas assembled there as per tradition and thus addressed Lord Brahma the creator of the worlds:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-15-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "भगवन्त्वत्प्रसादेन रावणो नाम राक्षस:।\nसर्वान्नो बाधते वीर्याच्छासितुं तं न शक्नुम:।।1.15.6।।",
+      "transliteration": "",
+      "translation": "\"O lord a rakshasa by name Ravana who had obtained prowess through your grace is oppressing us. We are unable to punish him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-15-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "त्वया तस्मै वरो दत्त: प्रीतेन भगवन्पुरा।\nमानयन्तश्च तं नित्यं सर्वं तस्य क्षमामहे।।1.15.7।।",
+      "transliteration": "",
+      "translation": "Pleased with his penance, Lord, you had granted him a boon. By honour that boon and daily endure all his cruelty.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-15-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "उद्वेजयति लोकान्स्तीनुच्छ्रितान्द्वेष्टि दुर्मति:।\nशक्रं त्रिदशराजानं प्रधर्षयितुमिच्छति।।1.15.8।।",
+      "transliteration": "",
+      "translation": "The evilminded Ravana is inflicting pains on the three worlds. He hates the guardians of the earth and intends to assault Indra, lord of the celestials.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-15-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "ऋषीन्यक्षान्सगन्धर्वानसुरान्ब्राह्मणांस्तथा।\nअतिक्रामति दुर्धर्षो वरदानेन मोहित:।।1.15.9।।",
+      "transliteration": "",
+      "translation": "Because of your boon he has become unassailable and puffed with pride deties sages, yakshas, gandharvas, demons and brahmins.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-15-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "नैनं सूर्य: प्रतपति पार्श्वे वाति न मारुत:।\nचलोर्मिमाली तं दृष्ट्वा समुद्रोऽपि न कम्पते।।1.15.10।।",
+      "transliteration": "",
+      "translation": "The Sun does not scorch him  and the wind does not blow by him. Even the ocean with its incessantly moving waves becomes still in his presence.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-15-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "तन्महन्नो भयं तस्माद्राक्षसाद्घोरदर्शनात्।\nवधार्थं तस्य भगवन्नुपायं कर्तुमर्हसि।।1.15.11।।",
+      "transliteration": "",
+      "translation": "His dreamful appearance of that rakshasa strikes terror into us. O Lord do find some means to kill him\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-15-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "एवमुक्तस्सुरैस्सर्वैश्चिन्तयित्वा ततोऽब्रवीत्।\nहन्तायं विदितस्तस्य वधोपायो दुरात्मन:।।1.15.12।।",
+      "transliteration": "",
+      "translation": "After listening to the words of the devatas and reflecting over the matter, Brahma said,    \"Oh, the means of destruction of that wicked (rakshasa) has struck my mind\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-15-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तेन गन्धर्वयक्षाणां देवदानवरक्षसाम्।\nअवध्योऽस्मीति वागुक्ता तथेत्युक्तं च तन्मया।।1.15.13।।",
+      "transliteration": "",
+      "translation": "When he asked gandharvas, yakshas, gods, demons or rakshasas should never be able to kill him, I said, \"So be it\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-15-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "नाकीर्तयदवज्ञानात्तद्रक्षो मानुषान् प्रति।\nतस्मात्स मानुषाद्वध्यो मृत्युर्नान्योऽस्य विद्यते।।1.15.14।।",
+      "transliteration": "",
+      "translation": "\"The rakshasa did not include man monkey and bear because of his disdain for men. As such he is fit to be destroyed by a man and not by any other means\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-15-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "एतच्छ्रुत्वा प्रियं वाक्यं ब्रह्मणा समुदाहृतम्।\nसर्वे महर्षयो देवाः प्रहृष्टास्तेऽभवंस्तदा।।1.15.15।।",
+      "transliteration": "",
+      "translation": "Having heard these pleasing words uttered by Brahma, all the devatas and maharshis were overwhelmed with joy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-15-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "एतस्मिन्नन्तरे विष्णुरुपयातो महाद्युति:।\nशङ्खचक्रगदापाणि: पीतवासा जगत्पति:।।1.15.16।।",
+      "transliteration": "",
+      "translation": "At this juncture Visnu the lord of the world, highly effulgent and bearing conch, discus and mace in his hands and in yellow apparel arrived.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-15-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "ब्रह्मणा च समागम्य तत्र तस्थौ समाहित:। 1\nतमब्रुवन्सुरास्सर्वे समभिष्टूय सन्नता:।।1.15.17।।",
+      "transliteration": "",
+      "translation": "Lord Visnu stayed there with a composed mind after meeting Brahma Then thus spoke the devatas prostrated before Visnu and paying him homage with hymns.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-15-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "त्वान्नियोक्ष्यामहे विष्णो लोकानां हितकाम्यया। 1 \nराज्ञो दशरथस्य त्वमयोध्याधिपते: प्रभो:।।1.15.18। \nधर्मज्ञस्य वदान्यस्य महर्षिसमतेजस: । 18\nतस्य भार्यासु तिसृषु ह्रीश्रीकीर्त्युपमासु च।।1.15.19।।\nविष्णो पुत्रत्वमागच्छ कृत्वाऽऽत्मानं चतुर्विधम्। 1",
+      "transliteration": "",
+      "translation": "\"O Visnu we pray for the welfare of all the worlds. The sovereign of Ayodhya, king Dasaratha is a righteous, virtuous and  generous king equal with rishis in lusture. Pray form into four and incarnate in the of four sons of his three wives, resembling hri (modesty), shree (auspiciousness), kirti (fame).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-15-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "तत्र त्वं मानुषो भूत्वा प्रवृद्धं लोककण्टकम्।\nअवध्यं दैवतैर्विष्णो समरे जहि रावणम्।।1.15.20।।",
+      "transliteration": "",
+      "translation": "\"O Visnu assuring human form, kill Ravana in the battle. He has become a source of torment to the worlds and is invincible by gods.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-15-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "स हि देवांश्च गन्धर्वान्सिद्धांश्च मुनिसत्तमान्।\nराक्षसो रावणो मूर्खो वीर्योत्सेकेन बाधते।।1.15.21।।",
+      "transliteration": "",
+      "translation": "\"That stupid rakshasa, Ravana, with his haughty prowess, is terrorising the gods, gandharvas, siddhas and great rishis.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-15-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "ऋषयश्च ततस्तेन गन्धर्वाप्सरसस्तथा।\nक्रीडन्तो नन्दनवने क्रूरेण किल हिंसिता:।।1.15.22।।",
+      "transliteration": "",
+      "translation": "It is reported that a cruel rakshasa with his haughty prowess has tortured rishis, gandharvas and apsaras sporting in Nandana groves.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-15-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "वधार्थं वयमायातास्तस्य वै मुनिभिस्सह।\nसिद्धगन्धर्वयक्षाश्च ततस्त्वां शरणं गता:।।1.15.23।।",
+      "transliteration": "",
+      "translation": "We siddhas, gandharvas and yakshas along with ascetics, have hence come here to devise ways of his death. We take refuge in you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-15-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "त्वं गति: परमा देव सर्वेषां न: परन्तप:।\nवधाय देवशत्रूणां नृणां लोके मन: कुरु।।1.15.24।।",
+      "transliteration": "",
+      "translation": "O tormentor of enemies, O Visnu, you are the supreme, refuge for all of us. Resolve to be born in the world of men for the destruction of enemies of the gods (rakshasas)\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-15-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु देवेशो विष्णुस्त्रिदशपुङ्गव:।\nपितामहपुरोगांस्तान्सर्वलोकनमस्कृत:।।1.15.25।।\nअब्रवीत्त्रिदशान्सर्वान्समेतान्धर्मसंहितान् ।।1.15.26।।",
+      "transliteration": "",
+      "translation": "Visnu, the lord of the celestials, foremost among the gods and bowed by all in the worlds addressed the assembled devatas who were guided by the law of righteousness and were led by the grand sire, Brahma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-15-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "भयं त्यजत भद्रं वो हितार्थं युधि रावणम्।\nसपुत्रपौत्रं सामात्यं समित्रज्ञातिबान्धवम्।।1.15.27।।\nहत्वा क्रूरं दुरात्मानं देवर्षीणां भयावहम्।\nदशवर्षसहस्राणि दशवर्षशतानि च।\nवत्स्यामि मानुषे लोके पालयन्पृथिवीमिमाम्।।1.15.28।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-15-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "एवं दत्वा वरं देवो देवानां विष्णुरात्मवान्।\nमानुषे चिन्तयामास जन्मभूमिमथात्मन:।।1.15.29।।",
+      "transliteration": "",
+      "translation": "Lord Visnu, supreme soul having given boon to devatas in this manner, reflected as to the place where he should take birth as a man in this world of men.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-15-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "तत: पद्मपलाशाक्ष: कृत्वाऽऽत्मानं चतुर्विधम्।\nपितरं रोचयामास तथा दशरथन्नृपम्।।1.15.30।।",
+      "transliteration": "",
+      "translation": "Thereafter, the Lord with eyes like the lotus petal was pleased to transform himself into four forms and to choose king Dasaratha as his father.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-15-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "तदा देवर्षि गन्धर्वास्सरुद्रास्साप्सरोगणा:।\nस्तुतिभिर्दिव्यरूपाभिस्तुष्टुवुर्मधुसूदनम्।।1.15.31।।",
+      "transliteration": "",
+      "translation": "Then along with gandharvas, groups of apsaras, rishis, rudras and devatas sang in praise of the 'Lord Slayer of Madhu', with hymns of celestial beauty.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-15-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "तमुद्धतं रावणमुग्रतेजसं\nप्रवृद्धदर्पं त्रिदशेश्वरद्विषम्।\nविरावणं साधुतपस्विकण्टकं\nतपस्विनामुद्धर तं भयावहम्।।1.15.32।।",
+      "transliteration": "",
+      "translation": "\"Therefore, uproot that mighty Ravana possessing frightful prowess, inflamed pride, limitless insolence causing agony to the three worlds, a source of vexation to ascetics and  a dreadful enemy of Indra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-15-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "तमेव हत्वा सबलं सबान्धवं\nविरावणं रावणमग्य्रपौरुषम्।\nस्वर्लोकमागच्छ गतज्वरश्चिरं\nसुरेन्द्रगुप्तं गतदोषकल्मषम्।।1.15.33।।",
+      "transliteration": "",
+      "translation": "Kill Ravana, the cause of distress in the worlds, kill his forces and relatives. Them return to heaven  protected by Indra after freeing from distress, faults and sins\". इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे पञ्चदशस्सर्ग:।। Thus ends the fifteenth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

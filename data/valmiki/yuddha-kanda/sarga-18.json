@@ -1,0 +1,342 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 18,
+    "title": "Sri Rama decided to accept friendship with Vibheeshana.",
+    "titleSanskrit": "",
+    "totalShlokas": 36
+  },
+  "shlokas": [
+    {
+      "id": "v6-18-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "अथरामःप्रसन्नात्माशृत्वावायुसुतस्यह ।\nप्रत्यभाषतदुर्धषश्रुत��ानात्मनिस्थितम् ।।6.18.1।।",
+      "transliteration": "",
+      "translation": "Having heard Hanuman (son of wind god) formidable Rama was highly pleased at heart and started to tell his opinion.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "ममापितुविवक्षाऽस्तिकाचित्प्रतिविभीषणम् ।\nश्रोतुमिच्छामितत्सर्वंभवद्भिश्श्रेयसिस्थितैः ।।6.18.2।।",
+      "transliteration": "",
+      "translation": "\"Even I desire to speak a few words about Vibheeshana. I wish you, who are my well wishers and devoted to me, also hear me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "मित्रभावेनसम्प्राप्तंनत्यजेयंकथञ्चन ।\nदोषोयद्यपितस्यस्यात्सतामेतदगर्हितम् ।।6.18.3।।",
+      "transliteration": "",
+      "translation": "Although he (Vibheeshana) has defects, as he has come here with a friendly feeling, I cannot reject him. Good people are not reprehensible.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "सुग्रीस्त्वथतद्वाक्यमाभाष्यचविमृश्यच ।\nततश्शुभतरंवाक्यमुवाचहरिपुङ्गवः ।।6.18.4।।",
+      "transliteration": "",
+      "translation": "Then Sugriva, the leader of Vanaras reflecting on what was spoken by Rama said these words favouring Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "सुदुष्टोवाप्यदुष्टोवाकिमेषरजनीचरः ।\nईदृशंव्यसनंप्राप्तंभ्रातरंयःपरित्यजेत् ।।6.18.5।।\nकोनामसभवेत्तस्ययमेषनपरित्यजेत् ।",
+      "transliteration": "",
+      "translation": "\"Let this Rakshasa (night ranger) be a wicked one or not a wicked one, what have we to worry about such a person? He has come here abandoned by his brother and who will not send away such a person? Who will not do so?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "वानराधिपतेर्वाक्यंश्रुत्वासर्वानुदीक्ष्यच ।।6.18.6।।\nईषदुत्स्मयमानस्तुलक्ष्मणंपुण्यलक्षणम् ।\nइतिहोवाचकाकुत्स्थोवाक्यंसत्यपराक्रमः ।।6.18.7।।",
+      "transliteration": "",
+      "translation": "On hearing the words of the king of Vanaras, Rama of Kakuthsa dynasty and of truthful valour looked at all and threw a smile slightly at meritorious Lakshmana and spoke these words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "अनधीत्यचशास्त्राणिवृद्धाननुपसेव्यच ।\nनशक्यमीदृशंवक्तुंयदुवाचहरीश्वरः ।।6.18.8।।",
+      "transliteration": "",
+      "translation": "\"That which has been spoken by the Lord of monkeys in this way is not possible for one who has not studied sastras or served the elders.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "अस्तिसूक्ष्मतरंकिंचिद्यदत्रप्रतिभातिमे ।\nप्रत्यक्षंलौकिकंचापिविद्यतेसर्वराजसु ।।6.18.9।।",
+      "transliteration": "",
+      "translation": "\"It strikes me that in this regard, as it is openly known for all the kings or at least in a subtle manner from a worldly point of view.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "अमित्रास्तत्कुलीनाश्चप्रातिदेश्याश्चकीर्तिताः ।\nव्यसनेषुप्रहर्तारस्तस्मादयमिहागतः ।।6.18.10।।",
+      "transliteration": "",
+      "translation": "\"When in difficulty kings of the same clan of adjoining countries keep attacking the renowned and so they are declared as enemies. It is on account of this cause he (Vibheeshana) has come here.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अपापास्तत्कुलीनाश्चमानयन्तिस्वकान्हितान् ।\nएषप्रायोनरेन्द्राणांशङ्कनीयस्तुशोभनः ।।6.18.11।।",
+      "transliteration": "",
+      "translation": "\"The sinless ones respect the kings of their clan as friendly ones. But by and large such kings also do not believe the virtuous ones among the kings.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "यस्तुदोषस्त्वयाप्रोक्तोह्यादानेऽरिबलस्यच ।\nतत्रतेकीर्तयिष्यामियथाशास्त्रमिदंशृणु ।।6.18.12।।",
+      "transliteration": "",
+      "translation": "\"I will tell you what the scriptures have said about the demerit in accepting an enemy's strength that you have spoken. You may listen.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "नवयंतत्कुलीनाश्चराज्यकाङ् क्षीचराक्षसः ।\nपण्डिताहिभविष्यन्तितस्माद्ग्राह्योविभीषणः ।।6.18.13।।",
+      "transliteration": "",
+      "translation": "\"We do not belong to their clan. Among Rakshasas there are some learned ones. Vibheeshana has come because of his desire for their (Rakshasa) kingdom, perhaps ?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "अव्यग्राश्चप्रहृष्टाश्चनभविष्यन्तिसङ्गता ।\nप्रणादश्चमहानेषततोऽस्यभयमागतम् ।।6.18.14।।\nइतिभेदंगमिष्यन्तितस्माग्राह्योविभीषणः ।",
+      "transliteration": "",
+      "translation": "\"Kinsmen will not be satisfied with one another and are not free from anxiety. That way they will not be together. Vibheeshana who has come out of fear in this way crying loudly for help and is worthy to accept.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "नसर्वेभ्रातरस्तातभवन्तिभरतोपमाः ।\nमद्विथावापितुःपुत्रास्सुहृदोनाभवद्विथाः ।।6.18.15।।",
+      "transliteration": "",
+      "translation": "\"O dear All brothers cannot be like Bharata, all sons will not be like me, or all friends like you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "एवमुक्तस्तुरामेणसुग्रीवस्सहलक्ष्मणः ।\nउत्थायेदंमहाप्राज्ञःप्रणतोवाक्यमब्रवीत् ।।6.18.16।।",
+      "transliteration": "",
+      "translation": "When Rama had spoken that way, sagacious Sugriva along with Lakshmana got up and saluted him and spoke these words to Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "रावणेनप्रणिहितंतमवेहिविभीषणम् ।\nतस्याहंनिग्रहंमन्येक्षमंक्षमवतांवर ।।6.18.17।।",
+      "transliteration": "",
+      "translation": "\"Rama, you are exceptional in excusing Vibheeshana. Realize that he has been dispatched here by Ravana. I consider befitting for you to captivate him.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "राक्षसोजिह्मयाबुध्यासन्दिष्टोऽयमिहागतः ।\nप्रहर्तुंत्वयिविश्वस्तेप्रच्छन्नोमयिवानघ ।।6.18.18।।\nलक्ष्मणेवामहाबाहो सवध्यस्सचिवैस्सहा ।\nरावणस्यनृशंसस्यभ्राताह्येषविभीषणः ।।\nएवमुक्त्वारघुश्रेष्ठंसुग्रीवोवाहिनीपतिः ।\nवाक्यज्ञोवाक्यकुशलंततोमौनमुपागमत् ।।6.18.19।।",
+      "transliteration": "",
+      "translation": "\"O sinless mightyarmed Rama I believe that this Rakshasa has been sent to come here covertly to strike at you or me or Lakshmana. On knowing that you are here the cruel Ravana's brother has come greedily along with his counsellors to kill you.\" Sugriva the chief of the army, who was good at speech and adept in expression, having said to Rama, the best among the Raghu race, remained silent thereafter.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "सुग्रीवस्यतुतद्वाक्यंरामश्रुत्वाविमृश्यच ।\nततश्शुभतरंवाक्यमुवाचहरिपुङ्गवम् ।।6.18.20।।",
+      "transliteration": "",
+      "translation": "Having heard the words of the leader of Vanaras that were nobler, Rama spoke these auspicious words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "सुदुष्टोवाप्यदुष्टोवाकिमेषरजनीचरः ।\nसूक्ष्ममप्यहितंकर्तुंममाशक्तःकथञ्चन ।।6.18.21।।",
+      "transliteration": "",
+      "translation": "\"Whether this night ranger is wicked or not wicked, is he capable of doing even subtlest harm to me?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "पिशाचानदानवान् यक्ष I नपृथिव्यांचैवराक्षसान् ।\nअङ्गुल्यग्रेणतान् हन्यामिच्छन् हरिगणेश्वर ।।6.18.22।।",
+      "transliteration": "",
+      "translation": "\"O leader of the Vanara troop If I so desire, I can kill with the tip of my big finger the devils, Danavas, Yakshas and the Rakshasas on this earth.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "श्रूयतेहिकपोतेनशत्रुश्शरणमागतः ।\nअर्चितश्चयथान्यायंस्वैश्चमांसैर्निमन्त्रितः ।।6.18.23।।",
+      "transliteration": "",
+      "translation": "\"You have heard of the (story of a) dove that offered his own flesh to an enemy who came to seek protection according to tradition (of hospitality).\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "सहितंप्रतिजग्राहभार्याहर्तारमागतः ।\nकपोतोवानरश्रेष्ठ: किंपुनर्मद्विधोजनः ।।6.18.24।।",
+      "transliteration": "",
+      "translation": "\"O Supreme Vanara When the fowler who had carried away the mate came near the dove it received him and in turn protected him. What more can a man like me do?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "ऋषेःकण्वस्यपुत्रेणकण्डुनापरमर्षिणा ।\nशृणुगाथांपुरागीतांधर्मिष्ठासत्यवादिना ।।6.18.25।।",
+      "transliteration": "",
+      "translation": "\"In the past Kanva's son called Kandu, a sage and a truthful one used to sing verses inculcating righteousness. (I shall recite) You may listen.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "बद्धाञ्जलिपुटंदीनंयाचन्तंशरणागतम् ।\nनहन्यदानृशंस्यार्थमपिशत्रुंपरन्तप ।।6.18.26।।",
+      "transliteration": "",
+      "translation": "\"O scorcher of enemies To one who greets reverentially with folded hands and begs for protection, we should not be cruel, and he is not to be killed.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "आर्तोवायदिवादृप्तःपरेषांशरणांगतः ।\nअरिःप्राणान्परित्यज्यरक्षितव्यःकृतात्मना ।।6.18.27।।",
+      "transliteration": "",
+      "translation": "An enemy who comes for protection against another enemy should be protected, even giving up one's own life whoever he may be, even if he is afflicted or arrogant.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "सचेद्भयाद्वामोहाद्वाकामाद्वापिनरक्षति ।\nस्वयाशक्त्यायथासत्त्वंतत्पापंलोकगर्हितम् ।।6.18.28।।",
+      "transliteration": "",
+      "translation": "\"If one does not protect, or give refuge, according to his capacity out of fear, desire (to gain) or delusion, the sin acquired by him will be censured by the world.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "विनष्टःपश्यतस्तस्यारक्षिणश्शरणागतः ।\nआदायसुकृतंतस्यसर्वंगच्छेदरक्षित:।। 6.18.29।।",
+      "transliteration": "",
+      "translation": "\"One who fails to protect a refugee who seeks protection from him is ruined in the eyes of the refugee and he takes away all the merit.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "एवंदोषोमहानत्रप्रपन्नानामरक्षणे ।\nअस्वर्ग्यंचायशस्यंचबलवीर्यविनाशनम् ।।6.18.30।।",
+      "transliteration": "",
+      "translation": "\"One who resorts to failure in protecting a refugee, will be doing a great sin that way and will be shut out of heaven, be infamy and his strength and virility will be lost.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "करिष्यामियथार्थंतुकण्डोर्वचनमुत्तमम् ।\nधर्मिष्ठंचयशस्यंचस्वर्ग्यंस्यात्तुफलोदये ।।6.18.31।।",
+      "transliteration": "",
+      "translation": "\"Excellent and meaningful words have been said by sage Kandu (about one who protects a refugee), that is by doing one's righteous duty. He will be not only famous but reach heaven as a result of his action.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "सकृदेवप्रपन्नायतवास्मीतिचयाचते ।\nअभयंसर्वभूतेभ्योददाम्येतद्व्रतंमम ।।6.18.32।।",
+      "transliteration": "",
+      "translation": "\"I will provide protection from all living beings for the one who seeks protection from me and begs in this way. This is my vow.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "अनयैनंहरिश्रेष्���: दत्तमस्याभयंमया ।\nविभीषणोवासुग्रीव: यदिवारावणस्स्वयम् ।।6.18.33।।",
+      "transliteration": "",
+      "translation": "\"O best of Vanaras Sugriva Either Vibheeshana or any one by himself and even Ravana who is unprotected thus seeks security from me, I will offer protection.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "रामस्यतुवच्शुत्वासुग्रीवःप्लवगेश्वरः ।\nप्रत्यभाषतकाकुत्स्थंसौहार्देनप्रचोदितः ।।6.18.34।।",
+      "transliteration": "",
+      "translation": "Having heard the inciting words spoken by Rama so lovingly, the king of Vanaras replied.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "किमत्रचित्रंधर्मज्ञ: लोकनाथ: सुखावहा: ।\nयत्त्वमार्यंप्रभाषेथास्सत्त्ववान् सत्पथेस्थितः ।।6.18.35।।",
+      "transliteration": "",
+      "translation": "\"What wonderful words have been spoken by you, Rama? You are the knower of righteous duty, protector of the world, a virtuous and upright one.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "ममचाप्यन्तरात्मायंशुद्धंवेत्तिविभीषणम् ।\nअनुमानाच्चभावाच्चसर्वतस्सुपरीक्षितः ।।6.18.36।।",
+      "transliteration": "",
+      "translation": "\"My inner self is aware that this Vibheeshana is pure. He has been tested in all respects with doubtful feelings.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "तस्मात् क्षिप्रंसहास्माभिस्तुल्योभवतराघव: ।\nविभीषणोमहाप्राज्ञस्सखित्वंचाभ्युपैतुनः ।।6.18.37।।",
+      "transliteration": "",
+      "translation": "\"Rama therefore, let this highly sagacious Vibheeshana be with you like a friend in equal terms and enjoy.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-18-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "ततस्तुसुग्रीववचोनिशम्यतद्दरीश्वरेणाभिहितंनरेश्वरः ।\nविभीषणेनाशुजगामसङ्गमंपतत्त्रिराजेनयथापुरन्दरः ।।6.18.38।।",
+      "transliteration": "",
+      "translation": "Perceiving Sugriva's befitting words, king Rama went to meet Vibheeshana like Indra arranged to meet with the king of birds. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेअष्टादशस्सर्गः ।। This is the end of the eighteenth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

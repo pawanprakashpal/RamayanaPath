@@ -1,0 +1,342 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 24,
+    "title": "Kausalya insists on Rama to take her along with him to the forest --Rama tells her that service to one's husband is the supreme virtue--Kauslaya allows Rama to proceed.",
+    "titleSanskrit": "",
+    "totalShlokas": 36
+  },
+  "shlokas": [
+    {
+      "id": "v2-24-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तं समीक्ष्य त्ववहितं पितुर्निर्देश पालने।\nकौशल्या बाष्पसंरुद्धा वचो धर्मिष्ठमब्रवीत्।।2.24.1।।",
+      "transliteration": "",
+      "translation": "Having perceived that Rama was determined to carry out his father's command, Kausalya with her throat choked with tears said these words of piety:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अदृष्टदुःखो धर्मात्मा सर्वभूतप्रियंवदः।\nमयि जातो दशरथात्कथमुञ्छेन वर्तयेत्।।2.24.2।।",
+      "transliteration": "",
+      "translation": "How will this righteous Rama, born to me through Dasaratha, who speaks pleasantly to all, and who has not experienced any sorrow before live on the grains gleaned?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "यस्य भृत्याश्च दासाश्च मृष्टान्यन्नानि भुञ्जते।\nकथं स भोक्ष्यतेऽनाथो वने मूलफलान्ययम्।।2.24.3।।",
+      "transliteration": "",
+      "translation": "How will Rama live on roots and fruits in the forest hereafter when his servants and attendants enjoy delicious food (here)?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "कः एतच्छ्रद्दधेच्छ्रुत्वा कस्य वा न भवेद्भयम्।\nगुणवान्दयितो राज्ञा राघवो यद्विवास्यते।।2.24.4।।",
+      "transliteration": "",
+      "translation": "Who will believe that the virtuous and affectionate scion of the Raghus is exiled this way by the king? Who will not tremble in fear to hear this?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "नूनं तु बलवान् लोके कृतान्तस्सर्वमादिशन्।\nलोके रामाभिरामस्त्वं वनं यत्र गमिष्यसि।।2.24.5।।",
+      "transliteration": "",
+      "translation": "O Rama if you, being the delight of the world, are (ordered) to go to the forest, it  has to be said certainly that destiny which rules everything is allpowerful.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अयं तु मामात्मभव स्तवादर्शनमारुतः।\nविलापदुःखसमिधो रुदिताश्रुहुताहुतिः।।2.24.6।।\nचिन्ताबाष्पमहाधूमस्तवागमनचित्तजः।  \nकर्शयित्वा भृशं पुत्र निश्वासायाससम्भवः।।2.24.7।।\nत्वया विहीनामिह मां शोकाग्निरतुलो महान्।\nप्रधक्ष्यति यथा कक्षं चित्रभानुर्हिमात्यये।।2.24.8।।",
+      "transliteration": "",
+      "translation": "After your departure, O son, an incomparably huge fire of grief with sighs of exhaustion will burst from my body, fanned by the wind of your absence and fuelled by lamentation and affliction. My wailing tears will be the oblations. My anxiety will be the great smoke rising vapour. This fire of grief will leave me very much emaciated and burn me like fire burns a forest of dead trees or a bunch of dry grass in summer.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "कथं हि धेनु स्स्वं वत्सं गच्छन्तं नानुगच्छति।\nअहं त्वाऽनुगमिष्यामि यत्र पुत्र गमिष्यसि।।2.24.9.।।",
+      "transliteration": "",
+      "translation": "I shall follow you wherever you go, my son, like a cow following its calf. How is it possible for a cow not to follow its wandering calf?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तथा निगदितं मात्रा तद्वाक्यं पुरुषर्षभः।\nश्रुत्वा रामोऽब्रवीद्वाक्यं मातरं भृशदुःखिताम्।।2.24.10।।",
+      "transliteration": "",
+      "translation": "At these words of his mother who was deeply afflicted Rama, best among men replied:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "कैकेय्या वञ्चितो राजा मयि चारण्यमाश्रिते।\nभवत्या च परित्यक्तो न नूनं वर्तयिष्यति।।2.24.11।।",
+      "transliteration": "",
+      "translation": "The king was deceived by Kaikeyi. If you also desert him after I have gone to the forest, surely he will not live.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "भर्तुः किल परित्यागो नृशंसः केवलं स्त्रियाः।\nस भवत्या न कर्तव्यो मनसाऽपि विगर्हितः।।2.24.12।।",
+      "transliteration": "",
+      "translation": "For a woman, to desert her husband is a cruel act. You must not do that which is  contemptible even to think.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "यावज्जीवति काकुत्स्थः पिता मे जगतीपतिः।\nशुश्रूषा क्रियतां तावत्सहि धर्मस्सनातनः।।2.24.13।।",
+      "transliteration": "",
+      "translation": "As long as the king, my father, the lord of the earth, a descendant of Kakutshta lives, you shall serve him. This is eternal virtue (in a woman).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "एवमुक्ता तु रामेण कौशल्या शुभदर्शना। \nतथेत्युवाच सुप्रीता राममक्लिष्टकारिणम्।।2.24.14।।",
+      "transliteration": "",
+      "translation": "At these words of Rama, unshakable in action, auspiciouslooking Kausalya, exceedingly pleased said 'Be it so'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "एवमुक्तस्तु वचनं रामो धर्मभृतां वरः।\nभूयस्तामब्रवीद्वाक्यं मातरं भृशदुःखिताम्।।2.24.15।।",
+      "transliteration": "",
+      "translation": "Thus addressed, Rama, the foremost among upholders of righteousness, said to his mother who was in deep grief:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "मया चैव भवत्या च कर्तव्यं वचनं पितुः।\nराजा भर्ता गुरु श्श्रेष्ठस्सर्वेषामीश्वरः प्रभुः।।2.24.16।।",
+      "transliteration": "",
+      "translation": "You and I should obey father's words. He is the king, supporter, preceptor, the best (among men) and  lord and master of all of us.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "इमानि तु महारण्ये विहृत्य नव पञ्च च।\nवर्षाणि परमप्रीतः स्थास्यामि वचने तव।।2.24.17।।",
+      "transliteration": "",
+      "translation": "Roaming the wild forest for fourteen years I shall abide by your words with supreme pleasure.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "एवमुक्ता प्रियं पुत्रं बाष्पपूर्णानना तदा।\nउवाच परमार्ता तु कौशल्या पुत्रवत्सला।।2.24.18।।",
+      "transliteration": "",
+      "translation": "Thus addressed by Rama, the affectionate Kausalya, deeply distressed, her eyes filled with tears, said to her beloved son:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "आसां राम सपत्नीनां वस्तुं मध्ये न मे क्षमम्।\nनय मामपि काकुत्स्थ वनं वन्यां मृगीं यथा।।2.24.19।।\nयदि ते गमने बुद्धिः कृता पितुरपेक्षया।",
+      "transliteration": "",
+      "translation": "O Rama, I am not able to live in the midst of these cowives. O descendant of Kakutstha, if you have resolved to go to the forest as per the wishes of your father take mea wild deeralong with you into the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तां तथा रुदतीं रामो रुदन्वचनमब्रवीत्।।2.24.20।।\nजीवन्त्या हि स्त्रिया भर्ता दैवतं प्रभुरेव च",
+      "transliteration": "",
+      "translation": "Adding his tears to his mother's who was wailing Rama said As long as a woman lives, her husband is her god and also her lord (master).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "भवत्या मम चैवाद्य राजा प्रभवति प्रभुः।\nन ह्यनाथा वयं राज्ञा लोकनाथेन धीमता।।2.24.21।।",
+      "transliteration": "",
+      "translation": "The powerful king has authority over you as well as over me. As long as he is the sagacious lord of the entire world, how can we be without a master?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "भरतश्चापि धर्मात्मा सर्वभूतप्रियंवदः।\nभवतीमनुवर्तेत स हि धर्मरतस्सदा।।2.24.22।।",
+      "transliteration": "",
+      "translation": "Bharata, who is virtuous and speaks pleasantly to all beings and who is always  attached to righteousness will surely remain obedient to you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "यथा मयि तु निष्क्रान्ते पुत्रशोकेन पार्थिवः।\nश्रमं नावाप्नुयात्किञ्चिदप्रमत्ता तथा कुरु।।2.24.23।।",
+      "transliteration": "",
+      "translation": "After my departure, you must see that the king is not  overpowered by grief for his son and struggles as little as possible.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "दारुणश्चाप्ययं शोको यथैनं न विनाशयेत्।\nराज्ञो वृद्धस्य सततं हितं चर समाहिता।।2.24.24।।",
+      "transliteration": "",
+      "translation": "See that the old king does not succumb to this terrible grief. Serve him with a composed mind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "व्रतोपवासनिरता या नारी परमोत्तमा।\nभर्तारं नानुवर्तेत सा तु पापगतिर्भवेत्।।2.24.25।।",
+      "transliteration": "",
+      "translation": "A woman may be highly pious engaged in vows and fastings, but if she does not follow her husband, she will be condemned to hell.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "भर्तु श्शुश्रूषया नारी लभते स्वर्गमुत्तमम्।\nअपि या निर्नमस्कारा निवृत्ता देवपूजनात्।।2.24.26।।",
+      "transliteration": "",
+      "translation": "A woman who serves her husband will attain the highest heaven even if she pays no homage to gods and abstains from worshipping them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "शुश्रूषामेव कुर्वीत भर��तुः प्रियहिते रता।\nएष धर्मः पुरा दृष्टो लोके वेदे श्रुतः स्मृतः।।2.24.27।।",
+      "transliteration": "",
+      "translation": "A wife who serves her husband and who is engaged in doing good to him is righteous. This dharma exists in this world since ancient times, declared in the Vedas and the smritis.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "अग्निकार्येषु च सदा सुमनोभिश्च देवताः।\nपूज्यास्ते मत्कृते देवि बाह्मणाश्चैव सुव्रताः।।2.24.28।।",
+      "transliteration": "",
+      "translation": "For my sake, O devi worship the firegod with offerings of oblations and flowers, and brahmins who are true to religious vows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "एवं कालं प्रतीक्षस्व ममागमनकाङ्क्षिणी।\nनियता नियताहारा भर्तृशुश्रूषणे रता।।2.24.29।।",
+      "transliteration": "",
+      "translation": "Looking forward to my return, spend your time this way with moderate intake, a mind under control and a life devoted to the service of your husband.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "प्राप्स्यसे परमं कामं मयि प्रत्यागते सति।\nयदि धर्मभृतां श्रेष्ठो धारयिष्यति जीवितम्।।2.24.30।।",
+      "transliteration": "",
+      "translation": "If my father, who is the best among the upholders of righteousness, survives till I come back, you will have your highest desires fulfilled.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "एवमुक्ता तु रामेण बाष्पपर्याकुलेक्षणा।\nकौशल्या पुत्रशोकार्ता रामं वचनमब्रवीत्।।2.24.31।।",
+      "transliteration": "",
+      "translation": "To these words of Rama, Kausalya, distressed with grief for her son, replied with her eyes filled with tears:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "गमने सुकृतां बुद्धिं न ते शक्नोमि पुत्रक।\nविनिवर्तयितुं वीर नूनं कालो दुरत्ययः।।2.24.32।।",
+      "transliteration": "",
+      "translation": "I am unable to dissuade you, O my brave son, from your firm resolve to go to the forest. It is surely difficult (for me) to bide time.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "गच्छ पुत्र त्वमेकाग्रो भद्रं तेऽस्तु सदा विभुः।\nपुनस्त्वयि निवृत्ते तु भविष्यामि गतव्यथा।।2.24.33।।",
+      "transliteration": "",
+      "translation": "Go with a steadfast mind, O my son May god be gracious. Only with your return, I shall be relieved of my suffering.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "प्रत्यागते महाभागे कृतार्थे चरितव्रते।\nपितुरानृण्यतां प्राप्ते त्वयि लप्स्ये परं सुखम्।।2.24.34।।",
+      "transliteration": "",
+      "translation": "O reverend one, when you come back after having accomplished your purpose, performed your vows and acquitted yourself of the debt you owe your father, I shall attain supreme happiness.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "कृतान्तस्य गतिः पुत्र दुर्विभाव्या सदा भुवि।\nयस्त्वां सञ्चोदयति मे वच आच्छिद्य राघव।।2.24.35।।",
+      "transliteration": "",
+      "translation": "O Rama inconceivable is the course of destiny which is inciting you to go to the forest disregarding my words.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "गच्छेदानीं महाबाहो क्षेमेण पुनरागतः।\nनन्दयिष्यसि मां पुत्र साम्ना वाक्येन चारुणा।।2.24.36।।",
+      "transliteration": "",
+      "translation": "Go now, O my mightyarmed son and come back safe. And on your return, delight me with your sweet, gentle utterances.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "अपीदानीं स कालस्स्याद्वनात्प्रत्यागतं पुनः।\nयत्त्वां पुत्रक पश्येयं जटावल्कलधारिणम्।।2.24.37।।",
+      "transliteration": "",
+      "translation": "O my dear child, how pleasing would it be, if today were to be the day of your return  from the forest when I can see you wearing matted hair and robes of bark",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-24-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "तथा हि रामं वनवासनिश्चितं\nसमीक्ष्य देवी परमेण चेतसा।\nउवाच रामं शुभलक्षणं वचो\nबभूव च स्वस्त्ययनाभिकाङ्क्षिणी।।2.24.38।।",
+      "transliteration": "",
+      "translation": "Seeing Rama full of auspicious qualities resolved to go to the forest and having spoken to him with the fullness of her heart, Devi Kausalya now braced herself up to perform ceremonies in the interest of  Rama's wellbeing. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे चतुर्विंशस्सर्गः।। Thus ends the twentyfourth sarga of Ayodhyakanda of  the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

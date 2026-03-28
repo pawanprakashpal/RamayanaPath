@@ -1,0 +1,225 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 123,
+    "title": "At Rama's request Indra brings back life to all Vanaras and Bears lost life in combat. All the gods who came to witness Rama return.",
+    "titleSanskrit": "",
+    "totalShlokas": 23
+  },
+  "shlokas": [
+    {
+      "id": "v6-123-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "प्रतिप्रयातेकाकुत्स्थेमहेन्द्रःपाकशासनः ।\nअब्रवीत्परमप्रीतोराघवंप्राञ्जलिंस्थितम् ।।6.123.1।।",
+      "transliteration": "",
+      "translation": "Mahendra, the tamer of demon Paka, spoke very affectionately to Rama, who stood with joined palms before Dasharatha who had returned.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-123-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अमोघंदर्शनंराम तवास्माकंनरर्षभ ।\nप्रीतियुक्ताःस्मतेनत्वंब्रूहियन्मनसेप्सितम् ।।6.123.2।।",
+      "transliteration": "",
+      "translation": "\"O Rama, a bull among men! Your sight was amazing, and we are happy. Please tell us the desire in your mind?\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-123-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "एवमुक्तोमहेन्द्रेणप्रसन्नेनमहात्मना ।\nसुप्रसन्नमनाहृष्टोवचनंप्राहराघवः ।।6.123.3।।",
+      "transliteration": "",
+      "translation": "Gratified by Mahendra's words, Raghava was very happy and pleased, submitting to him as follows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-123-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "यदिप्रीतिस्समुत्पन्नामयितेविबुधेश्वर ।\nवक्ष्यामिकुरुमेसत्यंवचनंवदतांवर ।।6.123.4।।",
+      "transliteration": "",
+      "translation": "\"O Lord of gods, you are one who is good at expression. If happiness has risen in, you please make my words true.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-123-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "ममहेतोःपराक्रान्तायेगतायमसादनम् ।\nतेसर्वेजीवितंप्राप्यसमुततिष्ठन्तुवानराः ।।6.123.5।।",
+      "transliteration": "",
+      "translation": "\"The Vanaras have fought for my cause and reached the abode of Yama. Make them rise up and get them back to life.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-123-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "मत्कृतेविप्रयुक्तायेपुत्रैर्दारैश्चवानराः ।\nतान्प्रीतमनसःसर्वान्द्रष्टुमिच्छामिमानद ।।6.123.6।।",
+      "transliteration": "",
+      "translation": "\"O honourable Indra! I wish to see all those Vanaras who are separated forever from their sons, and wives for my cause, delighted.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-123-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "विक्रान्ताश्चापिशूराश्च न मृत्युंगणयन्ति च ।\nकृतयत्नाविपन्नाश्चजीवयैनान् पुरन्दर ।।6.123.7।।",
+      "transliteration": "",
+      "translation": "\"They were valiant and courageous and did not care for life. They did their utmost, died and fell into adversity. Purandara! Get all of them back to life.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-123-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "मत्प्रियेष्वभिरक्ताश्च न मृत्युंगणयन्तिये ।\nत्वत्प्रसादात्समेयुस्तेवरमेतमहंवृणे ।।6.123.8।।",
+      "transliteration": "",
+      "translation": "\"They were fond of doing and not counted death. I seek your grace to give a boon to relieve all of them from death.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-123-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "नीरुजोनिर्व्रणांश्चैवसम्पन्नबलपौरुषान् ।\nगोलाङ्गूलांस्तथैवर्क्षांन्द्रष्टुमिच्छामिमानद ।।6.123.9।।",
+      "transliteration": "",
+      "translation": "\"Bestower of honour! I wish to see the longtailed Vanaras, and Bears rid of pain and death, enriched with strength and courage.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-123-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "अकालेचापिपुष्पाणिमूलानि च फलानि च ।\nनद्यश्चविमलास्तत्रतिष्ठेयुर्यत्रवानराः ।।6.123.10।।",
+      "transliteration": "",
+      "translation": "\"Let the location where Vanaras lived, have flowers, roots, fruits even though out of season and rivers with pure water.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-123-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "श्रुत्वातुवचनंतस्यराघवस्यमहात्मनः ।\nमहेन्द्रःप्रत्युवाचेदंवचनंप्रीतिसंयुतम् ।।6.123.11।।",
+      "transliteration": "",
+      "translation": "Hearing high souled Raghava's words, Mahendra in turn replied as follows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-123-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "महानयंवरस्तातयस्त्वयोक्तोरघूत्तम ।\nवदिर्मयानोक्तपूर्वं च तस्मादेतद्भविष्यति ।।6.123.12।।",
+      "transliteration": "",
+      "translation": "\"Dear Rama! that which has been sought by you is great. Nothing has been revised by me in the past. Therefore, everything asked by you will be granted by this boon.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-123-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "समुत्तिष्ठन्तुतेसर्वेहतायेयुधिराक्षसैः ।\nऋक्षाश्चसहगोपुच्छैर्निकृत्ताननबाहवः ।।6.123.13।।",
+      "transliteration": "",
+      "translation": "\"Let those long tailed Vanaras and Bears killed by Rakshasas, whose heads and arms had been severed, duly rise to life.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-123-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "नीरुजोनिर्व्रणाश्चैवसम्पन्नबलपौरुषाः ।\nसमुत्थास्यन्तिहरयस्सुप्तानिद्राक्ष्येयथा ।।6.123.14।।",
+      "transliteration": "",
+      "translation": "The monkeys duly healed, so also from death, enriched with strength and power rose up like rising from sleep.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-123-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "सुहृद्भिर्बान्धवैश्चैवज्ञातिभिःस्वजनेन च ।\nसर्वएवसमेष्यन्तिसम्युक्ताःपरयामुदा ।।6.123.15।।",
+      "transliteration": "",
+      "translation": "\"Let all in that way happily get reunited and highly rejoiced, with relatives, own clan and own people get united.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-123-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "अकालेपुष्पशबलाःफलवन्तश्चपादपाः ।\nभविष्यन्तिमहेष्वास नद्यश्चसलिलायुताः ।।6.123.16।।",
+      "transliteration": "",
+      "translation": "The trees will be with blossoms and fruits even though it is unseasonal. The rivers will remain with waters.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-123-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "सव्रणैःप्रथमंगात्रैरिदानींनिर्व्रणैस्समैः ।\nततस्समुत्थितास्सर्वेसुप्त्वेवहरियूथपाः ।।6.123.17।।\nबभूवुर्वानरास्सर्वेकिंन्वेतदितिविस्मिताः ।",
+      "transliteration": "",
+      "translation": "All the army of Vanaras healed from the wounds, who were earlier covered with wounds and all the dead monkeys together rose up like getting up from sleep. They were amazed and started saying 'What happened'!",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-123-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "काकुत्स्थंपरिपूर्णार्थंदृष्टवासर्वेसुरोत्तमाः ।।6.123.18।।\nअब्रुवन्परमप्रीतास्स्तुत्वारामंसलक्ष्मणम् ।",
+      "transliteration": "",
+      "translation": "Seeing all of them fully accomplished, the best of Suras very affectionately praised Rama and Lakshmana and spoke.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-123-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "गच्छायोध्यामितोराजन्विसर्जय च वानरान् ।।6.123.19।।\nमैथिली���सान्त्वयस्वैनामनुरक्तांयशस्विनीम् ।",
+      "transliteration": "",
+      "translation": "\"King, return from here to Ayodhya leaving the monkeys. Reassure Mythili, who is very dear to you and an illustrious one.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-123-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "भ्रारातरंभरतंपश्यत्वच्छोकाद्व्रतचारिणम् ।।6.123.20।।\nशत्रुघ्नं च महात्मानंमात्रूःसर्वाःपरन्तप ।\nअभिषेचयचात्मानंपौरान्गत्वाप्रहर्षय ।।6.123.21।।",
+      "transliteration": "",
+      "translation": "\"Subduer of enemies! See your brothers, great souls Bharata and Satrughna devoted to you who are in grief due to your separation, see your mothers. Get consecrated. People will rejoice.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-123-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "एवमुक्त्वासहस्राक्षोरामंसौमित्रिणासह ।\nविमानैःसूर्यसङ्काशैर्ययौहृष्टःसुरैःसह ।।6.123.22।।",
+      "transliteration": "",
+      "translation": "The thousand eyed Indra, having spoken in that way to Rama and Saumithri, delighted, they returned to heaven in an aerial car with Suras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-123-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "अभिवाद्य च काकुत्स्थ: सर्वांस्तांस्त्रिदशोत्तमान् ।\nलक्ष्मणेनसहभ्रात्रावासमाज्ञापयत्तदा ।।6.123.23।।",
+      "transliteration": "",
+      "translation": "Then greeting all the jewels among gods present there, accompanied by brother Lakshmana, Kakuthsa Rama ordered all Vanaras to go home and rest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-123-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "ततस्तुसालक्ष्मणरामपालितामहाचमूर्हृष्टजनायशस्विनी ।\nश्रियाज्वलन्तीविरराजसर्वतोनिशाप्रणीतेवहिशीतरश्मिना ।।6.123.24।।",
+      "transliteration": "",
+      "translation": "Then the huge army protected by Rama and Lakshmana, were delighted and causing splendour all over. As they advanced, they shone like the night illumined by moon. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेत्रयोविंशत्युत्तरशततमस्सर्गः ।। This is the end of one hundred and twenty third sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

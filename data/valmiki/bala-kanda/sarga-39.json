@@ -1,0 +1,243 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 39,
+    "title": "Indra steals the sacrificial horse released by king Sagara Sons of Sagara excavate the earth in search of the horse the gods approach  Brahma.",
+    "titleSanskrit": "",
+    "totalShlokas": 25
+  },
+  "shlokas": [
+    {
+      "id": "v1-39-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "विश्वामित्रवचश्श्रुत्वा कथाऽन्ते रघुनन्दन:।\nउवाच परमप्रीतो मुनिं दीप्तमिवानलम्।।1.39.1।।",
+      "transliteration": "",
+      "translation": "Immensely pleased with the words of Viswamitra, to the ascetic flaming bright like fire, Rama spoke towards the end of the narration:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-39-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "श्रोतुमिच्छामि भद्रं ते विस्तरेण कथामिमाम्।\nपूर्वको मे कथं ब्रह्मन् यज्ञं वै समुपाहरत्।।1.39.2।।",
+      "transliteration": "",
+      "translation": "\"O Brahman I wish to listen in detail as to how my ancestors made preparations for the sacrifice? Prosperity to you\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-39-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "विश्वामित्रस्तु काकुत्स्थमुवाच प्रहसन्निव।\nश्रूयतां विस्तरो राम सगरस्य महात्मन:।।1.39.3।।",
+      "transliteration": "",
+      "translation": "Viswamitra addressing the son of the Kakusthas (Rama) with a smile said, \"O Rama hear in detail the story of the magnanimous king Sagara\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-39-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "शङ्करश्वशुरो नाम हिमवानचलोत्तम:।\nविंध्यपर्वतमासाद्य निरीक्षेते परस्परम्।।1.39.4।।",
+      "transliteration": "",
+      "translation": "\"Sankara's fatherinlaw named Himavan is the greatest mountain. Himavan and Vindhya came close and began looking at one another. (because both are of extreme height and in between them there was no obstruction).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-39-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तयोर्मध्ये प्रवृत्तोऽभूद्यज्ञ स्सपुरुषोत्तम।\nस हि देशो नरव्याघ्र प्रशस्तो यज्ञकर्मणि।।1.39.5।।",
+      "transliteration": "",
+      "translation": "\"O best of men, the sacrifice took place in the region in between these two  mountains. O tiger among men the region was appropriate for conducting sacrificial acts.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-39-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "तस्याश्वचर्यां काकुत्स्थ दृढधन्वा महारथ:।\nअंशुमानकरोत्तात सगरस्य मते स्थित:।।1.39.6।।",
+      "transliteration": "",
+      "translation": "\"O child, O son of the Kakutsthas, the great charioteer Anshuman (who can fight with eleven thousand charioteers), wielding a strong bow  followed the  sacrificial horse (in order to protect it) in compliance with Sagara's wish.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-39-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "तस्य पर्वणि तं यज्ञं यजमानस्य वासव:।\nराक्षसीं तनुमास्थाय यज्ञीयाश्वमपाहरत्।।1.39.7।।",
+      "transliteration": "",
+      "translation": "On the concluding day of the fortnight (full moon day) while the sacrifice was being performed, Vasava (Indra) assuming the form of rakshasa, had stolen away Sagara's sacrificial horse.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-39-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "ह्रियमाणे तु काकुत्स्थ तस्मिन्नश्वे महात्मन:।\nउपाध्यायगणास्सर्वे यजमानमथाब्रुवन्।।1.39.8।।",
+      "transliteration": "",
+      "translation": "O son of the Kakutsthas, when the magnanimous king Sagara's sacrificial horse was stolen away, all the high priests addressing the performer of the sacrifice said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-39-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "अयं पर्वणि वेगेन यज्ञियाश्वोऽपनीयते।\nहर्तारं जहि काकुत्स्थ हयश्चैवोपनीयताम्।।1.39.9।।",
+      "transliteration": "",
+      "translation": "'O Kakutstha on this auspicious (fullmoon) day the sacrificial horse has been stolen away suddenly and forcibly. Slay the thief and bring back the horse'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-39-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "यज्ञच्छिद्रं भवत्येतत्सर्वेषामशिवाय न:।\nतत्तथा क्रियतां राजन् यथाऽच्छिद्र: क्रतुर्भवेत्।।1.39.10।।",
+      "transliteration": "",
+      "translation": "'This flaw in sacrifice will be inauspicious for all of us. Hence O king do everything which will ensure flawlessness to this sacrifice'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-39-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "उपाध्यायवच श्श्रुत्वा तस्मिन् सदसि पार्थिव:।\nषष्टिं पुत्रसहस्राणि वाक्यमेतदुवाच ह।।1.39.11।।",
+      "transliteration": "",
+      "translation": "Having heard the words of the officiating priests, the king (Sagara) addressed his sixty thousand sons in the sacrificial assembly, saying:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-39-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "गतिं पुत्रा: न पश्यामि रक्षसां परुषर्षभा:।\nमन्त्रपूतैर्महाभागैरास्थितो हि महाक्रतु:।।1.39.12।।",
+      "transliteration": "",
+      "translation": "'O Best among men, O sons I do not the hand of rakshasas in this as this great sacrifice is consecrated by mantras (to prevent any interruption) and is presided over by eminent priests.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-39-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तद्गच्छत विचिन्वध्वं पुत्रका: भद्रमस्तु व:।\nसमुद्रमालिनीं सर्वां पृथिवीमनुगच्छत।।1.39.13।।",
+      "transliteration": "",
+      "translation": "'Therefore my sons, go and search this entire earth surrounded by oceans. May you be safe'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-39-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "एकैकयोजनं पुत्रा विस्तारमधिगच्छत।\nयावत्तुरगसन्दर्श: तावत् खनत मेदिनीम्।\nतं चैव हयहर्तारं मार्गमाणा ममाज्ञया।।1.39.14।।",
+      "transliteration": "",
+      "translation": "'O sons, acquiring yojana by yojana the length and breadth of the earth, search for the  thief of the horse. Excavate the earth till the time the horse is found. This is my command'.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-39-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "दीक्षित: पौत्रसहितस्सोपाध्यायगणो ह्यहम्।\nइह स्थास्यामि भद्रं वो यावत्तुरगदर्शनम्।।1.39.15।।",
+      "transliteration": "",
+      "translation": "'Having been initiated into the sacrifice, I, along with my grandson, Anshuman and  other spiritual preceptors will stay here till such time the horse is found. May you be safe'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-39-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "इत्युक्ता हृष्टमनसो राजपुत्रा महाबला:।\nजग्मुर्महीतलं राम पितुर्वचनयन्त्रिता:।।1.39.16।।",
+      "transliteration": "",
+      "translation": "\"O Rama thus commanded by Sagara, the highly powerful princes with cheeful hearts departed in obedience to their father's command in quest of the horse on earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-39-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "योजनायामविस्तारमेकैको धरणीतलम्।\nबिभिदु: परुषव्याघ्र वज्रस्पर्शसमैर्नखै:।।1.39.17।।",
+      "transliteration": "",
+      "translation": "O Tiger among men each one of them occupying one yojana in length and breadth of ground, dug up the earth with their nails that were sharp as diamonds.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-39-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "शूलैरशनिकल्पैश्च हलैश्चापि सुदारुणै:।\nभिद्यमाना वसुमती ननाद रघुनन्दन।।1.39.18।।",
+      "transliteration": "",
+      "translation": "O Son of the Raghus (Rama) dreadful sounds emanated while the earth was being broken open by  ploughs and lances similar to thunderbolt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-39-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "नागानां मथ्यमानानामसुराणां च राघव ।\nराक्षसानां च दुर्धर्षस्सत्त्वानां निनदोऽभवत्।।1.39.19।।",
+      "transliteration": "",
+      "translation": "O descendant of Raghu when the earth was being churned, an irrepressible sound of serpents, demons and rakshasas --of all creatures emerged.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-39-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "योजनानां सहस्राणि षष्टिं तु रघुनन्दन ।\nबिभिदुर्धरणीं वीरा: रसातलमनुत्तमम्।।1.39.20।।",
+      "transliteration": "",
+      "translation": "O Descendant of the Raghus the heroic sons of Sagara excavated sixty thousand yojanas of earth reaching the nether world (one of the several regions below the earth).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-39-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "एवं पर्वतसम्बाधं जम्बूद्वीपं नृपात्मजा:।\nखनन्तो नरशार्दूल सर्वत: परिचक्रमु:।।1.39.21।।",
+      "transliteration": "",
+      "translation": "O Foremost among men (Rama) the princes while thus excavating Jambu dweepa,  in  this way filled with mountains, moved around everywhere.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-39-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "ततो देवास्सगन्धर्वास्सासुरास्सहपन्नगा:।\nसम्भ्रान्तमनसस्सर्वे पितामहमुपागमन्।।1.39.22।।",
+      "transliteration": "",
+      "translation": "Then the gods together with the gandharvas, asuras and serpents in bewildered minds approached Lord Brahma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-39-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "ते प्रसाद्य महात्मानं विषण्णवदनास्तदा। \nऊचु: परमसन्त्रस्ता पितामहमिदं वच:।।1.39.23।।",
+      "transliteration": "",
+      "translation": "With highly agitated minds and meloncholic faces, all of them approached magnanimous Brahma and having propitiated him said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-39-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "भगवन् पृथिवी सर्वा खन्यते सगरात्मजै:।\nबहवश्च महात्मानो हन्यन्ते तलवासिन:।।1.39.24।।",
+      "transliteration": "",
+      "translation": "O Venerable one the entire earth is being excavated by the sons of Sagara. Many great beings living in the lower worlds are being killed.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-39-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "अयं यज्ञहरोऽस्माकमनेनाश्वोऽपनीयते।\nइति ते सर्वभूतानि निघ्नन्ति सगरात्मजा:।।1.39.25।।",
+      "transliteration": "",
+      "translation": "'This one  is the destroyer of our sacrifice. He  has stolen away our horse' saying so the sons of Sagara are slaying all living beings\". इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे एकोनचत्वारिंशस्सर्ग: ।। Thus ends the thirtyninth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

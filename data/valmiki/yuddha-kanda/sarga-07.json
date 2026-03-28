@@ -1,0 +1,225 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 7,
+    "title": "All the Rakshasas praise their might and inspire confidence in Ravana.",
+    "titleSanskrit": "",
+    "totalShlokas": 23
+  },
+  "shlokas": [
+    {
+      "id": "v6-7-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "इत्युक्ताराक्षसेन्द्रेणराक्षसास्तेमहाबलाः ।\nऊचुःप्रान्ज��यःसर्वेरावणंराक्षसेश्वरम् ।।6.7.1।।",
+      "transliteration": "",
+      "translation": "All the Rakshasas of mighty strength, having heard the Lord of Rakshasas, thus spoke to their leader, greeting with folded hands.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-7-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "द्विषत्पक्षमविज्ञायनीतिबाह्यास्त्वबुद्धयः ।\nराजन्परिघशक्त्यृष्टिशूलपट्टिशकुन्तलम् ।।6.7.2।।",
+      "transliteration": "",
+      "translation": "\"O King The ogres are not having political intelligence. They have submitted themselves, even though they are mighty and are having iron bars, javelins, sharp edged spears, and doubleedged swords.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-7-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "इत्युक्ताराक्षसेन्द्रेणराक्षसास्तेमहाबलाः ।\nऊचुःप्रान्जलयःसर्वेरावणंराक्षसेश्वरम् ।।6.7.3।।\nद्विषत्पक्षमविज्ञायनीतिबाह्यास्त्वबुद्धयः ।",
+      "transliteration": "",
+      "translation": "The Lord of Rakshasas having spoken like that, to the Rakshasas, who were very strong, but ignorant about the enemy's strength and who were not endowed with political wisdom, spoke to Ravana, the king of Rakshasas, the following words with folded hands.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-7-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "राजन्परिघशक्त्यृष्टिशूलपट्टिशकुन्तलम् ।।6.7.4।।",
+      "transliteration": "",
+      "translation": "\"Oh king, (our army is equipped with) iron bars, javelins, double edged swords, spears, three pointed weapons, ploughs etc.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-7-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "सुमहन्नोबलंकस्माद्विषादंभजतेभवान् ।\nत्वयाभोगवतींगत्वानिर्जिताःपन्नगायुधि ।।6.7.5।।",
+      "transliteration": "",
+      "translation": "\"Why are you despondent? You have huge and mighty army strength. When you went to Bhogavathi, the Nagas were subdued in war by your mighty army.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-7-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "कैलासशिखरावासीयक्षैर्बहुभिरावृतः ।\nसुमहत्कदनंकृत्वावश्यस्तेधनदःकृतः ।।6.7.6।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-7-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "समहेश्वरसख्येनश्लाघमानस्त्वयाविभो ।\nनिर्जितःसमरेरोषाल्लोकपालोमहाबलः ।।6.7.7।।",
+      "transliteration": "",
+      "translation": "\"O King Proud of his friendship with Lord Maheshwara (Siva), that mighty ruler of the world Kubera was subdued by you in the conflict.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-7-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "विनिहत्यचयक्षौघान्विक्षोभ्यचविनिगृह्यच ।\nत्वयाकैलासशिखराद्विमानमिदमाहृतम् ।।6.7.8।।",
+      "transliteration": "",
+      "translation": "\"Causing terrific disturbance to the hordes of Yakshas and taking them as prisoners, you have brought the great aerial chariot from mount Kailas.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-7-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "मयेनदानवेन्द्रेणत्वद्भयात्सख्यमिच्छता ।\nदुहितातवभार्यार्थेदत्ताराक्षसपुङ्गव ।।6.7.9।।",
+      "transliteration": "",
+      "translation": "\"Maya, the ruler of Danavas has given his daughter (Mandodari) to you as a wife out of fear of you, O leader of Rakshasas\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-7-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "दानवेन्द्रोमधुर्नामवीर्योत्सिक्तोदुरासदः ।\nविगृह्यवशमानीतःकुम्भीनस्याःसुखावहः ।।6.7.10।।",
+      "transliteration": "",
+      "translation": "\"Madhu, another ruler of Danavas who was proud of his valour and difficult to approach, the husband of Kumbhinasi was subjugated by you by your offering to fight with him.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-7-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "निर्जितास्तेमहाबाहोनागागत्वारसातलम् ।\nवासुकिस्तक्षकःशङखोजटीचवशमाहृताः ।।6.7.11।।",
+      "transliteration": "",
+      "translation": "\"O mighty armed king Going to the subterranean world, you won over the serpent demons Vasuki, Takshaka, Shanka and Jati and made them submit to you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-7-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "अक्षयाबलवन्तश्चशूरालब्धवराःपुनः ।\nत्वयासंवत्सरंयुद्ध्वासमरेदानवाविभो ।।6.7.12।।",
+      "transliteration": "",
+      "translation": "\"The mighty and strong Danava warriors who had obtained boon were made to fight a war by you for one year.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-7-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "स्वबलंसमुपाश्रित्यनीतावशमरिन्दम ।\nमायाश्चाधिगतास्तत्रबह्व्योवैराक्षसाधिप ।।6.7.13।।",
+      "transliteration": "",
+      "translation": "\"O king of Rakshasas (Those Danavas) were reduced to sub mission by resorting to your own strength. Oh subduer of enemies, many deceitful tricks were learned from them.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-7-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "शूराश्चबलवन्तश्चवरुणस्यसुतारणे ।\nनिर्जितास्तेमहाभागचतुर्विधबलानुगाः ।।6.7.14।।",
+      "transliteration": "",
+      "translation": "\"O blessed king Mighty strong sons of Varuna, heroes capable of war and of all the four kinds of army have been won by you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-7-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "मृत्युदण्डमहाग्राहंशाल्मलिद्रुममण्डितम् ।\nकालपाशमहावीचिंयमक���ंकरपन्नगम् ।।6.7.15।।\nमहाज्वरेणदुर्धर्षंयमलोकमहार्णवम् ।\nअवगाह्यत���वयाराजन्यमस्यबलसागरम् ।।6.7.16।।\nजयश्चविपुलःप्राप्तोमृत्युश्चप्रतिषेधितः ।\nसुयुद्धेनचतेसर्वेलोकास्तत्रसुतोषिताः ।।6.7.17।।",
+      "transliteration": "",
+      "translation": "\"Oh King Plunging into the ocean, which was in the shape of Yama's realm, with an enormous alligator in the form of rod of death, adorned with Salmali trees, turbulent with a huge wave in the form of Death 's noose, infested with Lord of  Death's attendants as serpents, unassailable on account of the mighty Jwara (spirit of fever), you have obtained a great victory over the Lord of Death 's great army and the army was warded off. By your good battle all the people (of the world) were delighted.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-7-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "क्षत्रियैर्बहुभिर्वीरैःशक्रतुल्यपराक्रमैः ।\nआसीद्वसुमतीपूर्णामहद्भिरिवपादपैः ।।6.7.18।।",
+      "transliteration": "",
+      "translation": "\"The earth was fully filled with Kshatriya heroes of great prowess, equal to Indra in war who stood like trees on earth.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-7-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तेषांवीर्यगुणोत्साहैर्नसमोराघवोरणे ।\nप्रसह्यतेत्वयाराजन्हताःसमरदुर्जयाः ।।6.7.19।।",
+      "transliteration": "",
+      "translation": "\"Raghava is not equal to them in valour, excellence and energy. Those warriors who were difficult to overcome by battle were overpowered and killed by you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-7-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "तिष्ठवाकिंमहाराजश्रमे णतववानरान् ।\nअयमेकोमहाबाहुरिन्द्रजित्क्षपयिष्यति ।।6.7.20।।",
+      "transliteration": "",
+      "translation": "\"Oh great king, you stay here calmly. Why exert yourself? This strong armed Indrajith alone can destroy those Vanaras.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-7-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "अनेनहिमहाराजमहेश्वरमनुत्तमम् ।\nइष्ट्वायज्ञंवरोलब्धोलोकेपरमदुर्लभः ।।6.7.21।।",
+      "transliteration": "",
+      "translation": "\"Oh Great King By performing supreme sacrifices, Indrajith obtained boons from Lord Maheswara, which are very difficult to get.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-7-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "शक्तितोमरमीनंचविनिकीर्णान्त्रशैवलम् ।\nगजकछपसम्बाधमश्वमण्डूकसंकुलम् ।।6.7.22।।\nरुद्रादित्यमहाग्राहंमरुद्वसुमहोरगम् ।\nरथश्वगजतोयौघंपदातिपुलिनंमहत् ।।6.7.23।।\nअनेनहिसमासाद्यदेवानांबलसागरम् ।\nगृहीतोदैवतपतिर्लङ्कांचापिप्रवेशितः ।।6.7.24।।",
+      "transliteration": "",
+      "translation": "",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-7-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "पितामहनियोगाच्चमुक्तःशम्बरवृत्रहा ।\nगतस्त्रिविष्टपम्राजन्सर्वदेवनमस्कृतः ।।6.7.25।।",
+      "transliteration": "",
+      "translation": "\"Liberated by the command of creator Brahma, Indra the destroyer of Sambara and Vrtra entered heaven was adorned and greeted by all Devas.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-7-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "तमेवत्वंमहाराजविसृजेन्द्रजितंसुतम् ।\nयावद्वानरसेनांतांसरामांनयतिक्षयम् ।।6.7.26।।",
+      "transliteration": "",
+      "translation": "\"O great king You send your son, the mighty Indrajith to lead. He would destroy all those Vanaras and also Rama.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-7-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "राजन्नापदयुक्तेयमागताप्राकृताज्जनात् ।\nहृदिनैवत्वयाकार्यात्वंवधिष्यसिराघवम् ।।6.7.27।।",
+      "transliteration": "",
+      "translation": "\"O King This danger has come to you from ordinary people. You should not take it to heart. You shall kill Raghava.\" ।।इत्यार्षेश्रीवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेसप्तमःसर्गः।। This is the end of the seventh sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

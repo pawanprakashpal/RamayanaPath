@@ -1,0 +1,414 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 25,
+    "title": "Kausalya performs benedictory rites for Rama and offers prayers to all gods to protect him Rama departs for the palace of Sita.",
+    "titleSanskrit": "",
+    "totalShlokas": 44
+  },
+  "shlokas": [
+    {
+      "id": "v2-25-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "साऽवनीय तमायासमुपस्पृश्य जलं शुचिः।\nचकार माता रामस्य मङ्गलानि मनस्विनी।।2.25.1।।",
+      "transliteration": "",
+      "translation": "Highminded mother Kausalya, her anguish subdued, performed the sipping rite (achamana) and her self rendered pure, performed auspicious ceremonies for Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "न शक्यसे वारयितुं गच्छेदानीं रघूत्तम।\nशीघ्रं च विनिवर्तस्व वर्तस्व च सतां क्रमे।।2.25.2।।",
+      "transliteration": "",
+      "translation": "I am unable to dissuade you, O the best among the descendants of Raghus, from going into the forest. Go now and return soon. Follow in the footsteps of the virtuous.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "यं पालयसि धर्मं त्वं धृत्या च नियमेन च।\nस वै राघवशार्दूल धर्मस्त्वामभिरक्षतु।।2.25.3।।",
+      "transliteration": "",
+      "translation": "The duty which you are carrying out with courage and selfdiscipline, O tiger among the descendants of Raghu will alone protect you.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "येभ्यः प्रणमसे पुत्र चैत्येष्वायतनेषु च।\nते च त्वामभिरक्षन्तु वने सह महर्षिभिः।।2.25.4।।",
+      "transliteration": "",
+      "translation": "O my son may the gods in the temples and in other sacred places and the maharshis you bow to protect you in the forest",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "यानि दत्तानि तेऽस्त्राणि विश्वामित्रेण धीमता।\nतानि त्वामभिरक्षन्तु गुणैस्समुदितं सदा।।2.25.5।।",
+      "transliteration": "",
+      "translation": "May the weapons endowed with mantric qualities, which were bestowed on you by sagacious Viswamitra always protect you",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "पितृशुश्रूषया पुत्र मातृशुश्रूषया तथा।\nसत्येन च महाबाहो चिरं जीवाभिरक्षितः।।2.25.6।।",
+      "transliteration": "",
+      "translation": "O my mighty armed son protected by the service to your father, mother and to  truth, live long",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "समित्कुश पवित्राणि वेद्यश्चायतनानि च।\nस्थण्डिलानि विचित्राणि शैला वृक्षाः क्षुपा ह्रदाः।।2.25.7।।\nपतङ्गाः पन्नगास्सिंहास्त्वां रक्षन्तु नरोत्तम।",
+      "transliteration": "",
+      "translation": "O best of men may sacrificial fuel, kusa grass and sacred rings made of kusha grass, sacrificial altars, temples, various levelled sacrificial grounds, mountains, trees, plants, lakes, birds, serpents and lions protect you",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "स्वस्तिसाध्याश्च विश्वे च मरुतश्च महर्षयः।\nस्वस्ति धाता विधाता च स्वस्ति पूषा भगोऽर्यमा।।2.25.8।।\nलोकपालाश्च ते सर्वे वासवप्रमुखास्तथा।",
+      "transliteration": "",
+      "translation": "May all gods known as Sadhyas, Visvedevatas, Maruts, great ascetics, the sustainer (Virat Purusha), the preserver of creation (lord Brahma), Sun, Bhaga, Aryama, and all other important guardians of the world headed by Indra bestow their blessings on you",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "ऋतवश्चैव पक्षाश्च मासा स्संवत्सराः क्षपाः।।2.25.9।।\nदिनानि च मुहूर्ताश्च स्वस्ति कुर्वन्तु ते सदा।",
+      "transliteration": "",
+      "translation": "May the six seasons, years, months, fortnights, nights, days and moments bring good to you",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "स्मृतिर्धृतिश्च धर्मश्च पातु त्वां पुत्र सर्वतः।।2.25.10।।\nस्कन्दश्च भगवान्देव स्सोमश्च स बृहस्पतिः।\nसप्तर्षयो नारदश्च ते त्वां रक्षन्तु सर्वतः।।2.25.11।।",
+      "transliteration": "",
+      "translation": "O my son may Smriti, Dhriti and Dharma always guard you. May divine personages and gods, Skanda, Soma, Brihaspati, the seven rishis and Narada protect you at all times",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "याश्चापि सर्वतस्सिध्दा दिशश्च सदिगीश्वराः।\nस्तुता मया वने तस्मिन्पान्तु त्वां पुत्र नित्यशः।।2.25.12।।",
+      "transliteration": "",
+      "translation": "May Siddhas, guardians of the quarters invoked by me protect you from all  directions in that forest at all times, O my son",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "शैलास्सर्वे समुद्राश्च राजा वरुण एव च।\nद्यौरन्तरिक्षं पृथिवी नद्यस्सर्वास्तथैव च।।2.25.13।।\nनक्षत्राणि च सर्वाणि ग्रहाश्च सहदेवताः।\nअहोरात्रे तथा सन्ध्ये पान्तु त्वां वनमाश्रितम्।।2.25.14।।",
+      "transliteration": "",
+      "translation": "When you dwell in the forest may all the mountains, seas, lord Varuna, heaven, space, and earth and also all rivers, all stars and planets with their presiding deities, day, night, dawn and dusk protect you",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "ऋतवश्चैव षट्पुण्या मासास्संवत्सरास्तथा।\nकलाश्च काष्ठाश्च तथा तव शर्म दिशन्तु ते।।2.25.15।।",
+      "transliteration": "",
+      "translation": "May all the six pious seasons, months, years, kala and kashta contribute to your wellbeing",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "महावने विचरतो मुनिवेषस्य धीमतः।\nतवादित्याश्च दैत्याश्च भवन्तु सुखदास्सदा।।2.25.16।।",
+      "transliteration": "",
+      "translation": "May gods and demons always give you happiness when you wander in that great forest clad in ascetic garb",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "राक्षसानां पिशाचानां रौद्राणां क्रूरकर्मणाम्।\nक्रव्यादानां च सर्वेषां मा भूत्पुत्रक ते भयम्।।2.25.17।।",
+      "transliteration": "",
+      "translation": "Let there be no fear from rakshasas who are fearful to look at and commit cruel acts, from pisachas (evil spirits) and from flesheating animals, O my child",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "प्लवगा वृश्चिका दंशामशकाश्चैव कानने।\nसरीसृपाश्च कीटाश्च मा भूवन्गहने तव।।2.25.18।।",
+      "transliteration": "",
+      "translation": "May monkeys, scorpions, wild gnats, mosquitoes, reptiles and insects in that inaccessible forest not trouble you",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "महाद्विपाश्च सिंहाश्च व्याघ्रा ऋक्षाश्च दंष्ट्रिणः।\nमहिषा श्शृङ्गिणो रौद्रा न ते द्रुह्यन्तु पुत्रक।।2.25.19।।",
+      "transliteration": "",
+      "translation": "May the mighty elephants, lions with pointed incisors, tigers, bears and fierce, wild, horned buffaloes, do you no harm, O my dear son",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "नृमांसभोजना रौद्रा ये चान्ये सत्वजातयः।\nमा च त्वां हिंसिषुः पुत्र मया संपूजितास्त्विह।।2.25.20।।",
+      "transliteration": "",
+      "translation": "May the ferocious breed of cernivores I worship not harm you, O my child",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "आगमास्ते शिवास्सन्तु सिध्यन्तु च पराक्रमाः। \nसर्वसम्पत्तये राम स्वस्तिमान्गच्छ पुत्रक।।2.25.21।।",
+      "transliteration": "",
+      "translation": "O Rama may your path be auspecious May your valour be fruitful Go safel and achieve success in everything",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "स्वस्ति ते ऽस्त्वन्तरिक्षेभ्यः पार्थिवेभ्यः पुनः पुनः।\nसर्वेभ्यश्चैव देवेभ्यो ये च वै परिपन्थिनः।।2.25.22।।",
+      "transliteration": "",
+      "translation": "May gods from the sky, the earth and all other gods protect you and let there be no harm to you from your foes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "गुरुस्सोमश्च सूर्यश्च धनदोऽथ यमस्तथा।\nपान्तु त्वामर्चिता राम दण्डकारण्यवासिनम्।।2.25.23।।",
+      "transliteration": "",
+      "translation": "Propitiated by my worship, O Rama may Brihaspati, Moon, Sun, Kubera and Yama protect you when you are in Dandaka forest",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "अग्निर्वायुस्तथा धूमो मन्त्राश्चर्षिमुखाच्च्युताः।\nउपस्पर्शनकाले तु पान्तु त्वां रघुनन्दन।।2.25.24।।",
+      "transliteration": "",
+      "translation": "May Fire, Wind, Smoke and Mantras emanated from the mouths of rishis protect you when you take your ablutions, O Son of the Raghu race O Joy of the Raghus",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "सर्वलोकप्रभुर्ब्रह्मा भूतभर्ता तथर्षयः।\nये च शेषास्सुरास्ते त्वां रक्षन्तु वनवासिनम्।।2.25.25।।",
+      "transliteration": "",
+      "translation": "May Siva, lord of all the worlds, Visnu, supporter of living beings, Brahma, rishis and all the rest of the gods protect you while you dwell in the forest",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "इति माल्यैस्सुरगणान्गन्धैश्चापि यशस्विनी।\nस्तुतिभिश्चानुरूपाभिरानर्चाऽयतलोचना।।2.25.26।।",
+      "transliteration": "",
+      "translation": "Thus illustrious, largeeyed Kausalya worshipped hosts of gods by offering them garlands and fragrant substances with appropriate prayers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "ज्वलनं समुपादाय ब्राह्मणेन महात्मना।\nहावयामास विधिना राममङ्गलकारणात्।।2.25.27।।",
+      "transliteration": "",
+      "translation": "After collecting the sacred fire through great brahmins she duly offered oblations to the gods for the welfare of Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "घृतं श्वेतानि माल्यानि समिधश्श्वेतसर्षपान्।\nउपसम्पादयामास कौशल्या परमाङ्गना।।2.25.28।।",
+      "transliteration": "",
+      "translation": "Noble Kausalya procured clarified butter, garlands of white flowers, sacred fuel, and grains of white mustard seed (for oblations to the gods).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "उपाध्याय स्सविधिना हुत्वा शान्तिमनामयम्।\nहुतहव्यावशेषेण बाह्यं बलिमकल्पयत्।।2.25.29।।",
+      "transliteration": "",
+      "translation": "The officiating priest performed the ritual of sacrificial offerings strictly in accordance   with rules for peace and happiness of Rama. With the remainder of the offerings, he performed whatever ceremonies were to be done externally.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "मधु दध्यक्षतघृतैः स्वस्तिवाच्यद्विजांस्ततः।\nवाचयामास रामस्य वनेस्वस्त्ययनक्रियाः।।2.25.30।।",
+      "transliteration": "",
+      "translation": "Thereafter she made the brahmins pronounce benedictory prayers, offering honey, curd, rice and clarified butter.Then she got mantras (expiatory rites) recited for averting evil to Rama while in the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "ततस्तस्मै द्विजेन्द्राय राममाता यशस्विनी।\nदक्षिणां प्रददौ काम्यां राघवं चेदमब्रवीत्।।2.25.31।।",
+      "transliteration": "",
+      "translation": "The illustrious Kausalya, mother of Rama gave abundant gifts to the best of the brahmins and thereafter said to him:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "यन्मङ्गलं सहस्राक्षे सर्वदेवनमस्कृते।\nवृत्रनाशे समभवत्तत्ते भवतु मङ्गलम्।।2.25.32।।",
+      "transliteration": "",
+      "translation": "May the same blessings bestowed by all the gods on the thousandeyed Indra at the time of killing Vritra be with you",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "यन्मङ्गलं सुपर्णस्य विनताऽकल्पयत्पुरा।\nअमृतं प्रार्थयानस्य तत्ते भवतु मङ्गलम्।।2.25.33।।",
+      "transliteration": "",
+      "translation": "May you be conferred with the same blessings which Vinata bestowed on Garuda at the time of bringing nectar",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "अमृतोत्पादने दैत्यान् घ्नतो वज्रधरस्य यत्।\nअदितिर्मङ्गलं प्रादात्तत्ते भवतु मङ्गलम्।।2.25.34।।",
+      "transliteration": "",
+      "translation": "May you be bestowed with the same blessings conferred by Aditi on Indra, the wielder of thunder for the killing of daityas at the time nectar was generated",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "त्रीन्विक्रमान्प्रक्रमतो विष्णोरमिततेजसः।\nयदासीन्मङ्गलं राम तत्ते भवतु मङ्गलम्।।2.25.35।।",
+      "transliteration": "",
+      "translation": "O Rama by occupying three footsteps of space, highly lustrous Visnu owned the three worlds and obtained glory. May you obtain similar auspiciousness",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "ऋतवस्सागरा द्वीपा वेदा लोका दिशश्च ते।\nमङ्गलानि महाबाहो दिशन्तु शुभमङ्गलाः।।2.25.36।।",
+      "transliteration": "",
+      "translation": "O mightyarmed Rama may the auspicious and prosperous seasons, seas, islands. the Vedas, the worlds and the quarters bless you",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "इति पुत्रस्य शेषांश्च कृत्वा शिरसि भामिनी।\nगन्धैश्चापि समालभ्य राममायतलोचना।।2.25.37।।\nओषधीं चापि सिद्धार्थां विशल्यकरणीं शुभाम्।\nचकार रक्षां कौशल्या मन्त्रैरभिजजाप च।।2.25.38।।",
+      "transliteration": "",
+      "translation": "The largeeyed Kausalya placed the remains of the offerings on his (Rama's) head and  applied sandal cream to his body. She tied an auspicious medicinal herb known as Vishalyakarani to his arm for attainment of his objectives, repeatedly muttering  prayers.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "उवाचातिप्रहृष्टेव सा दुःखवशवर्तिनी।\nवाङ्ग्मात्रेण न भावेन वाचाऽसंसज्जमानया।।2.25.39।।",
+      "transliteration": "",
+      "translation": "Even though Kausalya was filled with distress, she appeared as if she was very much happy. She uttered  mere words in a confusing tone without applying her mind.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "आनम्य मूर्ध्नि चाघ्राय परिष्वज्य यशस्विनी।\nअवदत्पुत्र सिद्धार्थो गच्छ राम यथासुखम्।।2.25.40।।",
+      "transliteration": "",
+      "translation": "Illustrious Kausalya embraced Rama, bending his head down and smelt his forehead. And then said O Rama go in peace and come back after accomplishing the objective.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "अरोगं सर्वसिद्धार्थमयोध्यां पुनरागतम्।\nपश्यामि त्वा�� सुखं वत्स सुस्थितं राजवर्त्मनि।।2.25.41।।",
+      "transliteration": "",
+      "translation": "O my son I shall be happy to behold you back in Ayodhya in sound health   successful in your objectives and firmly established in the kingdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "प्रणष्टदुःखसङ्कल्पा हर्षविद्योतितानना।\nद्रक्ष्यामि त्वां वनात्प्राप्तं पूर्णचन्द्रमिवोदितम्।।2.25.42।।",
+      "transliteration": "",
+      "translation": "When you return from the forest like the full Moon rising, I shall behold you with my anxieties gone and my face sparkling with joy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "भद्रासनगतं राम वनवासादिहागतम्।\nद्रक्ष्यामि च पुनस्त्वां तु तीर्णवन्तं पितुर्वचः।।2.25.43।।",
+      "transliteration": "",
+      "translation": "After you have fulfilled your father's words and returned from your exile I shall behold you seated on the throne, O Rama",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "मङ्गलैरुपसपन्नो वनवासादिहागतः।\nवध्वा मम च नित्यं त्वं कामान्संवर्ध याहि भोः।।2.25.44।।",
+      "transliteration": "",
+      "translation": "O Rama, credited with auspicious events on return from the forest, fulfil my desires and those of my daughterinlaw (Sita).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "मयाऽर्चिता देवगणाश्शिवादयो\nमहर्षयो भूतमहासुरोरगाः।\nअभिप्रयातस्य वनं चिराय ते\nहितानि काङ्क्षन्तु दिशश्च राघव।।2.25.45।।",
+      "transliteration": "",
+      "translation": "O son of the Raghu race Lord Siva and other gods, the great rishis, bhutas, great asuras and serpents and four quarters worshipped by me will always promote your welfare when you dwell in the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "इतीव साऽश्रुप्रतिपूर्णलोचना\nसमाप्य च स्वस्त्ययनं यथाविधि।\nप्रदक्षिणं चैव चकार राघवं\nपुनः पुनश्चापि निपीड्य सस्वजे।।2.25.46।।",
+      "transliteration": "",
+      "translation": "Thus with her eyes brimming with tears, she duly completed the benedictory rites and  circumambulated the scion of the Raghus and embraced him again and again holding him tight.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-25-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "तथा तु देव्या स कृतप्रदक्षिणो \nनिपीड्य मातुश्चरणौ पुनः पुनः।\nजगाम सीतानिलयं महायशा\nस्स राघवः प्रज्वलित स्स्वया श्रिया।।2.25.47।।",
+      "transliteration": "",
+      "translation": "Circumambulated by mother Kausalya, the illustrious scion of the Raghu race clasped his mother's feet again and again. And shining in his glory, proceeded to the palace of Sita. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे पञ्चविंशस्सर्गः।। Thus ends the twentyfifth sarga of Ayodhyakanda of  the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "aranya-kand",
+    "name": "Aranya Kanda",
+    "nameSanskrit": "अरण्यकाण्डम्",
+    "index": 3,
+    "totalSargas": 75
+  },
+  "sarga": {
+    "number": 2,
+    "title": "Viradha attacks Rama and Lakshmana -- carries away Sita.",
+    "titleSanskrit": "",
+    "totalShlokas": 23
+  },
+  "shlokas": [
+    {
+      "id": "v3-2-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "कृतातिथ्योऽथ रामस्तु सूर्यस्योदयनं प्रति।\nआम्नत्ऱ्य स मुनीन्सर्वान्वनमेवान्वगाहत।।3.2.1।।",
+      "transliteration": "",
+      "translation": "After receiving hospitality from the sages, Rama took of all of them at sunrise and entered deep into the forest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-2-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "नानामृगगणाकीर्णमृक्षशार्दूल सेवितम्।\nध्वस्तवृक्षलतागुल्मं दुर्दर्शसलिलाशयम्।।3.2.2।।\nनिष्कूजनानाशकुनिझिल्लिकागणनादितम्।\nलक्ष्मणानुगतो रामो वनमध्यं ददर्श ह।।3.2.3।।",
+      "transliteration": "",
+      "translation": "With Lakshmana following, Rama went through the forest, filled with herds of animals and inhabited by bears and tigers. It was a place where trees, creepers and bushes were crushed (by frequent visits of demons). It was difficult to locate a water source.  And it resounded with the chirping of various birds and insects (crickets).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-2-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "सीतया सह काकुत्स्थस्तस्मिनघोरमृगायुते।\nददर्श गिरिशृङ्गाभं पुरुषादं महास्वनम्।।3.2.4।।",
+      "transliteration": "",
+      "translation": "While Rama along with Sita was wandering in the forest infested with  dreadful animals, he saw a roaring cannibal resembling the peak of a mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-2-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "गम्भीराक्षं महावक्त्रं विकटं विषमोदरम्।\nबीभत्सं विषमं दीर्घं विकृतं घोरदर्शनम्।।3.2.5।।",
+      "transliteration": "",
+      "translation": "He was of dreadful appearance with deep eyes, a huge face and a big belly. He looked tall, ugly and frightening.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-2-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "वसानं चर्म वैयाघ्रं वसार्द्रं रुधिरोक्षितम्।\nत्रासनं सर्वभूतानां व्यादितास्यमिवान्तकम्।।3.2.6।।",
+      "transliteration": "",
+      "translation": "Wearing a tigerskin, he resembled the god of death. With a wide, open mouth, wet with marrow and drenched with blood, he struck terror into  all beings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-2-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "त्रीन्सिम्हान्श्चतुरो व्याघ्रान्द्वौ वृकौ पृषतान्दश।\nसविषाणं वसादिग्धं गजस्य च शिरो महत्।\nअवसज्यायसे शूले विनदन्तं महास्वनम्।।3.2.7।।",
+      "transliteration": "",
+      "translation": "Roaring loudly, he carried an iron spit in which were pierced three lions, four tigers, two wolves, ten deer  and the huge head of an elephant with its tusks smeared with the fat of flesh.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-2-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "स रामं लक्ष्मणं चैव सीतां दृष्ट्वा च मैथिलीम्।\nअभ्यधावत्सुसङ्कृद्धः प्रजाः काल इवान्तकः।।3.2.8।।",
+      "transliteration": "",
+      "translation": "Looking extremely furious, he ran towards Rama, Lakshmana and Sita like the god of death rushes towards the (dying) people.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-2-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "स कृत्वा भैरवं नादं चालयन्निव मेदिनीम्।\nअङ्केनादाय वैदेहीमपक्रम्य ततोऽब्रवीत्।।3.2.9।।",
+      "transliteration": "",
+      "translation": "Making a dreadful sound, as if shaking the earth, he took Sita on his lap, stepped aside and said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-2-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "युवां जटाचीरधरौ सभार्यौ क्षीणजीवितौ।\nप्रविष्टौ दण्डकारण्यं शरचापासिधारिणौ।।3.2.10।।",
+      "transliteration": "",
+      "translation": "You both clad in bark and wearing matted hair, holding bows, arrows and swords have entered into the Dandaka forest with your wife. Your life has been cut short indeed৷৷",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-2-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "कथं तापसयोर्वां च वासः प्रमदया सह।\nअधर्मचारिणौ पापौ कौ युवां मुनिदूषकौ।।3.2.11।।",
+      "transliteration": "",
+      "translation": "How is it that you both, dressed in the robes of ascetics, live  with a woman? Leading an unrighteous and sinful life, who are you who have brought disgrace to the ascetic discipline ?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-2-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "अहं वनमिदं दुर्गं विराधो नाम राक्षसः।\nचरामि सायुधो नित्यमृषिमांसानि भक्षयन्।।3.2.12।।",
+      "transliteration": "",
+      "translation": "I am a demon named Viradha. I move in this dense forest with my weapons eating the flesh of the sages.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-2-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "इयं नारी वरारोहा मम भार्या भविष्यति।\nयुवयोः पापयोश्चाहं पास्यामि रुधिरं मृधे।।3.2.13।।",
+      "transliteration": "",
+      "translation": "This  woman of fine hips shall be my wife. You sinners I shall drink  the blood of both of you in the fight.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-2-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तस्यैवं ब्रुवतो दुष्टं विराधस्य दुरात्मनः।\nश्रुत्वा सगर्वितं वाक्यं सम्भ्रान्ता जनकात्मजा।।3.2.14।।",
+      "transliteration": "",
+      "translation": "Sita, daughter of Janaka was bewildered out of fear when she heard the cruel  and boastful words of that wicked Viradha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-2-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "सीता प्रवेपतोद्वेगात् प्रावाते कदली यथा।।3.2.15।।\nतां दृष्ट्वा राघवः सीतां विराधाङ्कगतां शुभाम्।\nअब्रवील्लक्ष्मणं वाक्यं मुखेन परिशुष्यता।।3.2.16।।",
+      "transliteration": "",
+      "translation": "Seeing the auspicious Sita in the lap of Viradha shaken out of anxiety, like a plantain tree in a strong wind, Rama with his throat parched said to Lakshmana:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-2-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "पश्य सौम्य नरेन्द्रस्य जनकस्यात्मसम्भवाम्।\nमम भार्यां शुभाचारां विराधाङ्के प्रवेशिताम्।।3.2.17।।\nअत्यन्तसुखसंमव़ृद्धां राजपुत्रीं यशस्विनीम्।",
+      "transliteration": "",
+      "translation": "Gentle Lakshmana, see the illustrious daughter ofJanaka, a lady of good conduct,  brought up in utmost comfort caught in the lap of Viradha",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-2-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "यदभिप्रेतमस्मासु प्रियं वरवृतं च यत्।।3.2.18।।\nकैकेय्यास्तु सुसंवृत्तं क्षिप्रमद्यैव लक्ष्मण।",
+      "transliteration": "",
+      "translation": "O Lakshmana whatever Kaikeyi desired through her boons has now come true so soon.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-2-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "या न तुष्यति राज्येन पुत्रार्थे दीर्घदर्शिनी।।3.2.19।।\nययाहं सर्वभूतानां प्रियः प्रस्थापितो वनम्।\nअद्येदानीं सकामा सा या माता मध्यमा मम।।3.2.20।।",
+      "transliteration": "",
+      "translation": "Kaikeyi, my middle mother is farsighted indeed  Not content with the kingdom alone see sent me, beloved of all  beings, away to the forest. Let her cherished desire be fulfilled.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-2-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "परस्पर्शात्तु वैदेह्याः न दुःखतरमस्तिमे।\nपितुर्विनाशात्सौमित्रे  स्वराज्यहरणात्तथा।।3.2.21।।",
+      "transliteration": "",
+      "translation": "O Lakshmana nothing is more sorrowful to me than the touch of Vaidehi by another. It is more painful to me than the death of my father or loss of my kingdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-2-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "इति ब्रुवति काकुत्स्थे बाष्पशोकपरिप्लुते।\nअब्रवील्लक्ष्मणः क्रुद्धो रुद्धो नाग इव श्वसन्।।3.2.22।।",
+      "transliteration": "",
+      "translation": "As Rama was thus full of tears of sorrow, Lakshmana sighed heavily in anger like a hissing serpant in confinement. And said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-2-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "अनाथ इव भूतानां नाथस्त्वं वासवोपमः।\nमया प्रेष्येण काकुत्स्थ किमर्थं परितप्यसे।।3.2.23।।",
+      "transliteration": "",
+      "translation": "O Rama, you are, like Indra, lord of all beings. What makes you feel sad like an orphan when I am at your service like a servant?",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-2-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "शरेण निहतस्याद्य मया क्रुद्धेन रक्षसः।\nविराधस्य गतासोर्हि मही पास्यति शोणितम्।।3.2.24।।",
+      "transliteration": "",
+      "translation": "The earth will drink the blood of Viradha with his life gone, slain by my angry arrow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-2-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "राज्यकामे मम क्रोधो भरते यो बभूव ह।\nतं विराधे प्रमोक्ष्यामि वज्री वज्रमिवाचले।।3.2.25।।",
+      "transliteration": "",
+      "translation": "Like Indra who hits the mountain with his thunderbolt, I shall release on Viradha the anger I felt against Bharata for his passion for the kingdom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v3-2-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "मम भुजबलवेगवेगितः पततु शरोऽस्य महान्महोरसि।\nव्यपनयतु तनोश्च जीवितं पततु ततस्समहीं विघूर्णितः।।3.2.26।।",
+      "transliteration": "",
+      "translation": "Spurred by the speed of my strong arms, my arrow will fall on his broad chest and separate his life from his body. Then his body reeling round and round will fall on the ground. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे द्वितीयस्सर्गः।। Thus ends the second sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

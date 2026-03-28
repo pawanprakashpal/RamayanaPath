@@ -1,0 +1,279 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "ayodhya-kand",
+    "name": "Ayodhya Kanda",
+    "nameSanskrit": "अयोध्याकाण्डम्",
+    "index": 2,
+    "totalSargas": 119
+  },
+  "sarga": {
+    "number": 112,
+    "title": "Sages praise Rama and Bharata for their virtues -- Bharata proclaims to stay outside Ayodhya and rule under the security of Rama's sandals.",
+    "titleSanskrit": "",
+    "totalShlokas": 29
+  },
+  "shlokas": [
+    {
+      "id": "v2-112-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "तमप्रतिमतेजोभ्यां भ्रातृभ्यां रोमहर्षणम्।\nविस्मिता: स‌ङ्गमं प्रेक्ष्य समवेता महर्षयः।।2.112.1।।",
+      "transliteration": "",
+      "translation": "The great sages assembled there were amazed at witnessing the meeting of the two brothers (Rama and Bharata) of umparalleled briliance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-112-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "अन्तर्हिता मुनिगणास्सिद्धाश्च परमर्षयः। \nतौ भ्रातरौ महात्मानौ काकुत्स्थौ प्रशशंसिरे।।2.112.2।।",
+      "transliteration": "",
+      "translation": "The hosts of sages, siddhas and devarshis watching invisible the two Kakutstha  brothers extoled them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-112-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "स धन्यो यस्य पुत्रौ द्वौ धर्मज्ञौ धर्मविक्रमौ।\nश्रुत्वा वयं हि सम्भाषामुभयोस्स्पृहयामहे।।2.112.3।।",
+      "transliteration": "",
+      "translation": "On hearing their dialogue we are deeply drawn towards them, these two sons of king Dasaratha who was fortunate to have these practioners of righteousness and whose strength is dharma.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-112-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "ततस्त्वृषिगणाः क्षिप्रं दशग्रीववधैषिणः।\nभरतं राजशार्दूलमित्यूचु: स‌ङ्गता वचः।।2.112.4।।",
+      "transliteration": "",
+      "translation": "Thereafter hosts of rishis desiring the speedy destruction of tenheaded Ravana said these words to Bharata, the best of kings.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-112-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "कुले जात महाप्राज्ञ महावृत्त महायशः।\nग्राह्यं रामस्य वाक्यं ते पितरं यद्यवेक्षसे।।2.112.5।।",
+      "transliteration": "",
+      "translation": "O Bharata, born in an illustrious race, highly sagacious and a man of virtuous conduct and great renown, accept Rama's proposal if you have any regard for your father.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-112-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "सदाऽनृणमिमं रामं वयमिच्छामहे पितुः।\nआनृणत्वाच्च कैकेय्या: स्वर्गम् दशरथो गतः।।2.112.6।।",
+      "transliteration": "",
+      "translation": "We always desire that Rama should discharge his debt to his father. Dasaratha, who by redeeming himself of his obligation to Kaikeyi, had ascended heaven.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-112-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "एतावदुक्त्वा वचनं गन्धर्वा: स‌महर्षयः।\nराजर्षयश्चैव तदा सर्वे स्वां स्वां गतिं गताः।।2.112.7।।",
+      "transliteration": "",
+      "translation": "Then the great rishis, gandharvas and royal sages having said this, returned to their respective abodes.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-112-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "ह्लादितस्तेन वाक्येन शुभेन शुभदर्शनः।\nराम स्संहृष्टवदनस्तानृषीनभ्यपूजयत्।।2.112.8।।",
+      "transliteration": "",
+      "translation": "Of pleasing appearance, Rama, gladdened by the auspicious statements (of the sages),  paid them homage with a cheerful countenance.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-112-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "त्रस्तगात्रस्तु भरतस्स वाचा सज्जमानया।\nकृताञ्जलिरिदं वाक्यं राघवं पुनरब्रवीत्।।2.112.9।।",
+      "transliteration": "",
+      "translation": "Before Bharata, with his limbs trembling and with palms folded (in reverence) was   ready to depart, he said to Rama:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-112-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "राजधर्ममनुप्रेक्ष्य कुलधर्मानुसन्ततिम्।\nकर्तुमर्हसि काकुत्स्थ मम मातुश्च याचनाम्।।2.112.10।।",
+      "transliteration": "",
+      "translation": "O Rama, keeping in view the code of kings and tradition of our family, it behoves you to consider my supplication and that of my mother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-112-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "रक्षितुं सुमहद्राज्यमहमेकस्तु नोत्सहे।\nपौरजानपदांश्चापि रक्तान्रञ्जयितुं तथा।।2.112.11।।",
+      "transliteration": "",
+      "translation": "I do not venture to protect this kingdom all by myself and keep the inhabitants of the towns and villages who are loyal to you pleased.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-112-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "ज्ञातयश्च हि योधाश्च मित्राणि सुहृदश्च नः।\nत्वामेव प्रतिवीक्षन्ते पर्जन्यमिव कर्षकाः।।2.112.12।।",
+      "transliteration": "",
+      "translation": "All our relatives, warriors, friends and wellwishers long to see you like farmers yearn for the raincloud.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-112-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "इदं राज्यं महाप्राज्ञ स्थापय प्रतिपद्य हि।\nशक्तिमानसि काकुत्स्थ लोकस्य परिपालने।।2.112.13।।",
+      "transliteration": "",
+      "translation": "O sagacious Rama, accept this kingdom and ensure its stability. You are powerful enough to govern this world. So accept this kingdom and restore its stability.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-112-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "इत्युक्त्वा न्यपतद्भ्रातुः पादयोर्भरतस्तदा।\nभृशं सम्प्रार्थयामास राममेव प्रियंवदः।।2.112.14।।",
+      "transliteration": "",
+      "translation": "Having said this, Bharata, fell at the feet of his brother, and speaking sweetly, he profusely  entreated  Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-112-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "तमङ्के भरतं कृत्वा रामो वचनमब्रवीत्।\nश्यामं नलिनपत्राक्षं मत्तहंसस्वरं स्वयम्।।2.112.15।।",
+      "transliteration": "",
+      "translation": "Rama took his in his arms Bharata who had a darkblue complexion, whose eyes were like petals of lotus and whose voice was the voice of an amorous swan.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-112-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "आगता त्वामियं बुद्धिस्स्वजा वैनयिकी च या।\nभृशमुत्सहसे तात रक्षितुं पृथिवीमपि।।2.112.16।।",
+      "transliteration": "",
+      "translation": "O child, this wisdom of yours is both inborn and imbibed through training. With this,   you are perfectly capable of protecting the earth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-112-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "अमात्यैश्च सुहृद्भिश्च बुद्धिमद्भिश्च मन्त्रिभिः।\nसर्वकार्याणि सम्मन्त्र्य सुमहन्त्यपि कारय।।2.112.17।।",
+      "transliteration": "",
+      "translation": "After due consultation with ministers, friends, counsellors and prudent persons,   accomplish all tasks, however formidable they may appear.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-112-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "लक्ष्मीश्चन्द्रादपेयाद्वा हिमवान्वा हिमं त्यजेत्।\nअतीयात्सागरो वेलां न प्रतिज्ञामहं पितुः।।2.112.18।।",
+      "transliteration": "",
+      "translation": "The Moon might lose its splendour, snow might abandon the Himavat mountain, the ocean might overstep its shores, but I shall not forsake the promise made to my father.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-112-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "कामाद्वा तात लोभाद्वा मात्रातुभ्यमिदं कृतम्।\nन ��न्मनसि कर्तव्यं वर्तितव्यं च मातृवत्।।2.112.19।।",
+      "transliteration": "",
+      "translation": "Dear brother, whether out of affection or greed, your mother has done this for your  sake. It should not agitate your mind. You should conduct yourself as one should towards one's mother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-112-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "एवं ब्रुवाणं भरतः कौसल्यासुतमब्रवीत्।\nतेजसाऽऽदित्यसङ्काशं प्रतिपच्चन्द्रदर्शनम्।।2.112.20।।",
+      "transliteration": "",
+      "translation": "On hearing this, Bharata replied to the son of  Kausalya who looked like the Sun or the new Moon in brilliance:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-112-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "आधिरोहाऽर्य पादाभ्यां पादुके हेमभूषिते।\nएतेहि सर्वलोकस्य योगक्षेमं विधास्यतः।।2.112.21।।",
+      "transliteration": "",
+      "translation": "O noble one, place your feet on these sandals decorated with gold. They will secure the prosperity and safety of the entire world.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-112-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "सोऽधिरुह्य नरव्याघ्रः पादुके ह्यवरुह्य च।\nप्रायच्छत्सुमहातेजा भरताय महात्मने।।2.112.22।।",
+      "transliteration": "",
+      "translation": "Rama, the best of men, one with great brilliance, put on and then put off the sandals  and presented them to the magnanimous Bharata.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-112-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "स पादुके सम्प्रणम्य रामं वचनमब्रवीत्\nचतुर्दश हि वर्षाणि जटाचीरधरो ह्याहम्।।2.112.23।।\nफलमूलाशनो वीर भवेयं रघुनन्दन।\nतवाऽगमनमाकाङ्क्षान्वसन्वै नगराद्बहिः।।2.112.24।।\nतव पादुकयोर्न्यस्तराज्यतन्त्रः परन्तप।",
+      "transliteration": "",
+      "translation": "Bharata bowed before the sandals and said to Rama, 'O tormentorr of enemies, O hero, wearing matted locks and bark garments, living on fruits and roots, placing the responsibility of ruling the kingdom on your sandals and looking forward to your arrival, I shall reside outside the city for fourteen years.'",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-112-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "चतुर्दशे तु संपूर्णे वर्षेऽहनि रघूत्तम।।2.112.25।।\nन द्रक्ष्यामि यदि त्वां तु प्रवेक्ष्यामि हुताशनम्।",
+      "transliteration": "",
+      "translation": "O best of the Raghus, if I do not behold you on the day after completion of fourteen years I shall enter the blazing fire.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-112-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "तथेति च प्रतिज्ञाय तं परिष्वज्य सादरम्।।2.112.26।।\nशत्रुघ्नं च परिष्वज्य भरतं चेदमब्रवीत्।",
+      "transliteration": "",
+      "translation": "'Be it so', assured Rama and then affectionately embracing both Bharata and Satrughna, said to Bharata:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-112-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "मातरं रक्ष कैकेयीं मा रोषं कुरु तां प्रति।।2.112.27।।\nमया च सीतया चैव शप्तोऽसि रघुसत्तम।\nइत्युक्त्वाऽश्रुपरीताक्षो भ्रातरं विससर्ज ह।।2.112.28।।",
+      "transliteration": "",
+      "translation": "Look after your mother, O chief of the Raghus Do not be angry with her. Swear in my name and in the name of Sita. So saying, eyes filled with tears, Rama took leave of his brother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-112-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "स पादुके ते भरतः प्रतापवान् स्वलङ्कृते सम्परिपूज्य धर्मवित्।\nप्रदक्षिणं चैव चकार राघवम् चकार ते चोत्तमनागमूर्धनि।।2.112.29।।",
+      "transliteration": "",
+      "translation": "The valiant and righteous Bharata, worshipped the welldecorated sandals and after circumambulating Rama reverentially placed them atop the best of elephants.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-112-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "अथाऽनुपूर्व्यात्प्रतिनन्द्य तं जनं गुरूंश्च मन्त्रिप्रकृतीस्तथाऽनुजौ।\nव्यसर्जयद्राघववंशवर्धनस्थिरः स्वधर्मे हिमवानिवाचलः।।2.112.30।।",
+      "transliteration": "",
+      "translation": "Inflexibly fixed in his own code of righteouness, like the Himavat mountain, Rama, the enhancer of the progeny of the Raghu dynasty, paid respect due to the preceptors, ministers and subjects in accordance with their rank, blessed his younger brothers, Bharata and Satrughna and sent them forth.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v2-112-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "तं मातरो बाष्पगृहीतकण्ठ्यो दुःखेन नामन्त्रयितुं हि शेकुः।\nस त्वेव मात्रृ़रभिवाद्य सर्वारुदन्कुटीं स्वां प्रविवेश राघवः।।2.112.31।।",
+      "transliteration": "",
+      "translation": "His mothers were unable to bid him farewell their throats were choked with tears of sorrow but Rama himself paid obeisance to them and entered his hut in tears. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे द्वादशोत्तरशततमस्सर्गः।। Thus ends the hundredtwelfth sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

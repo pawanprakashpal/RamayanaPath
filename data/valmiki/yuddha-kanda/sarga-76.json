@@ -1,0 +1,810 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "lanka-kand",
+    "name": "Yuddha Kanda",
+    "nameSanskrit": "युद्धकाण्डम्",
+    "index": 6,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 76,
+    "title": "Angada kills Kampana and Prajaghna, Dwivida kills Sonithaksha, Mainda kills Yupaksha and Sugriva kills Kumbha in the terrific encounter between Rakshasas and Vanaras.",
+    "titleSanskrit": "",
+    "totalShlokas": 88
+  },
+  "shlokas": [
+    {
+      "id": "v6-76-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "प्रवृत्तेसङ्कुलेतस्मिन् घोरेवीरजनक्ष्ये ।\nअङ्गदःकम्पनंवीरमाससादरणोत्सुकः ।।6.76.1।।",
+      "transliteration": "",
+      "translation": "While the fierce fight brought destruction of heroes in the ongoing combat, Angada eager to fight, assailed gallant Kampana.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "आहूयसोङ्गदंकोपात्ताडयामासवेगितः ।\nगदयाकम्पनःपूर्वं स चचालभृशाहतः ।।6.76.2।।",
+      "transliteration": "",
+      "translation": "Kampana struck Angada challenging himin anticipation. He swiftly hurled a mace in anger and hurt him grievously and Angada reeled.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "स संज्ञांप्राप्यतेजस्वीचिक्षेपशिखरंगिरेः ।\nअर्दितस्तत्प्रहारेणकम्पनःपतितोभुवि ।।6.76.3।।",
+      "transliteration": "",
+      "translation": "Rejuvenated Angada, after gaining consciousness acquired a mountain peak and shattered Kampana with a blow. wounded Kampana fell down.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "ततस्तुकम्पनंदृष्टवाशोणिताक्षोहतंरणे ।\nरथेनाभ्यपतत् क्षिप्रंतत्राङ्गदमभीतवत् ।।6.76.4।।",
+      "transliteration": "",
+      "translation": "Then seeing Kampana killed, Sonitaksha, a fearless hero, quickly reached Angada by chariot.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "सोङ्गदंनिशितैर्बाणैस्तदाविव्याधवेगितः ।\nशरीरदारणैस्तीक्ष्णैःकालाग्निसमविग्रहैः ।।6.76.5।।\nक्षुरक्षुरप्रैर्नाराचैर्वत्सदन्तैश्शिलीमुखैः ।\nकर्णिशल्यविपाठैश्चबहुभिश्चशितैश्शरैः ।।6.76.6।।",
+      "transliteration": "",
+      "translation": "He (Sonitaksha) swiftly pierced with pointed shafts resembling fire raging at the time of dissolution and struck Angada with arrows known by names, Ksura, Ksurapra, Naracha, Vatsadanta, Silimukha, Karni, Salya, vipada and many sharp arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "अङ्गदःप्रतिविद्धाङ्गोवालिपुत्रःप्रतापवान् ।\nधनुरग्य्रंरथंबाणान्ममर्दतरसाबली ।।6.76.7।।",
+      "transliteration": "",
+      "translation": "Courageous son of Vali, the mighty Angada encountered with vigour and crumbled the formidable bow (of Sonitaksha), his chariot and arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "शोणिताक्षस्ततःक्षिप्रमसिचर्मसमाददे ।\nउत्पपातदिवंक्रुद्धोवेगवानविचारयन् ।।6.76.8।।",
+      "transliteration": "",
+      "translation": "Thereupon enraged Sonitaksha, quickly sprang up to the sky at high speed with sword and shield.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "तंक्षिप्रतरमाफ्लुत��यपरामृश्याङ्गदोबली ।\nकरेणतस्यतंखङ्गंसमाच्छिद्यननाद च ।।6.76.9।।",
+      "transliteration": "",
+      "translation": "Mighty Angada springing up at a higher speed grasped his (Sonitaksha) hand and irritated him with a sword making loud noise.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "तस्यांसफलकेखडगंनिजघानततोऽङ्गदः ।\nयज्ञोपवीतवच्चैनंचिच्छेदकपिकुञ्जरः ।।6.76.10।।",
+      "transliteration": "",
+      "translation": "Then Angada pierced his sword on the fl at surface of his shoulder diagonally and cut him with his sword.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "तंप्रगृह्यमहाखडगंविनद्य च पुनःपुनः ।\nवालिपुत्रोऽभिदुद्रावरणशीर्षेपरानरीन् ।।6.76.11।।",
+      "transliteration": "",
+      "translation": "Vali's son, seizing that great sword again and again, roaring to finally terminate the remaining Rakshasas, went forward.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "आयसींतुगदांप्रगृह्य स वीरःकनकाङ्गदः ।\nशोणिताक्षस्समाविध्यतमेवानुपपात ह ।।6.76.12।।",
+      "transliteration": "",
+      "translation": "Sonitha adorned with golden armlets taking hold of iron mace rushed behind Angada.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "प्रजङ्घसहितोवीरोयूपाक्षस्तुततोबली ।\nरथेनाभिययौक्रुद्दोवालिपुत्रंमहाबलम् ।।6.76.13।।",
+      "transliteration": "",
+      "translation": "Then mighty Yupaksha, and Prajaghna for his part in fury assailed mighty Angada's chariot.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "तयोर्मध्येकपिश्रेष्ठश्शोणिताक्षप्रजङ्घयोः ।\nविशाखयोर्मध्यगतःपूर्णचन्द्रइवाभवत् ।।6.76.14।।",
+      "transliteration": "",
+      "translation": "Angada, the foremost of Vanaras, coming between both Sonitaksha and Prajaghna shone like a full moon between the Visakha stars.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "अङ्गदंपरिरक्षन्तौमैन्दोद्विविदएव च ।\nतस्यतस्थतुरभ्याशेपरस्परदिदृक्ष्या ।।6.76.15।।",
+      "transliteration": "",
+      "translation": "Both Mainda and Dwivida (maternal uncles of Angada) took position for the protection of one another facing the enemy.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "भिपेतुर्महाकायाःप्रतियत्तामहाबलाः ।\nराक्षसावानरान् रोषादसिचर्मगदाधराः ।।6.76.16।।",
+      "transliteration": "",
+      "translation": "Rakshasas wielding swords and mace, endowed with stupendous strength and of huge body agitated and assailed Vanaras.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "त्रयाणांवानरेन्द्राणांत्रिभीराक्षसपुङ्गवैः ।\nसंसक्तानांमहद्युद्धमभवद्रोमहर्षणम् ।।6.76.17।।",
+      "transliteration": "",
+      "translation": "A momentous war took place between the three Rakshasas (Prajaghna, Yupaksha and Sonitaksha) and Vanara chiefs (Angada, Dwivida and Mainda) that caused horripilation.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "तेतुवृक्षान् समादायसम्प्रचिपुराहवे ।\nखडगेनप्रतिचिच्छेदतान् प्रजङ्घोमहाबलः ।।6.76.18।।",
+      "transliteration": "",
+      "translation": "In the comb at the Vanaras seizing hold of trees hurled violently and mighty Prajaghna with his sword shattered them",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "रथानश्वान् द्रुमैश्शैलैस्तेप्रचिक्षिपुराहवे ।\nशरौघैःप्रतिचिच्छेदतान्यूपाक्षोनिशाचरः ।।6.76.19।।",
+      "transliteration": "",
+      "translation": "In that war the Vanaras hurled trees, rocks on chariots and horses and Yupaksha encountered them and tore them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "सृष्टाव्निविदमैन्दाभ्यांद्रुमानुत्पाट्यवीर्यवान् ।\nबभञ्जगदयामध्येशोणिताक्षःप्रतापवान् ।।6.76.20।।",
+      "transliteration": "",
+      "translation": "Heroic and courageous Sonitaksha tore the trees hurled by Dwivida and Mainda in midway by his mace and crushed them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "उद्यम्यविपुलंखडगंपरमर्मनिकृन्तनम् ।\nप्रजङ्घोवालिपुत्रायअभिदुद्राववेगितः ।।6.76.21।।",
+      "transliteration": "",
+      "translation": "Prajaghna taking up a huge sword went forward swiftly and assailed Angada.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "तमभ्याशगतंदृष्टवावानरेन्द्रोमहाबलः ।\nआजघानाश्वकर्णेनद्रुमेणातिबलस्तदा ।।6.76.22।।",
+      "transliteration": "",
+      "translation": "Then Vanara leader Angada who was endowed with extraordinary strength, seeing Prajaghna of stupendous power coming forward, hit him with Aswakarna tree.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "बाहुंचास्यसनिस्त्रिंशमाजघान स मुष्टिना ।\nवालिपुत्रस्यघातेन स पपातक्षितावसिः ।।6.76.23।।",
+      "transliteration": "",
+      "translation": "Angada hit the shoulder of Prajaghna which held the sword, with his fist. By that blow the sword got broken and dropped down",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "तंदृष्टवापतितंभूमौखङ्गमुलसन्निभम् ।\nमुष्टिंसम्वर्तयामासवज्रकल्पंमहाबलः ।।6.76.24।।",
+      "transliteration": "",
+      "translation": "Seeing the pestle shaped sword fallen on the ground, mighty Prajaghna clenched his fist, which was as hard as the thunderbolt.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "स ललाटेमहावीर्यमङ्गदंवानरर्षभम् ।\nआजघानमहातेजास्समुहूर्तंचचाल ह ।।6.76.25।।",
+      "transliteration": "",
+      "translation": "Sonitaksha of extraordinary energy hit at the forehead of highly valiant Angada. For a while Angada was unable to move.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "स संज्ञांप्राप्यतेजस्वीवालिपुत्रःप्रतापवान् ।\nप्रजङ्घस्यशिरःकायातखङ्गेनपातयत्क्षितौ ।।6.76.26।।",
+      "transliteration": "",
+      "translation": "Son of Vali, who was full of vigour, on regaining consciousness hit Prajaghna on the head and trunk and made him fall down.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-26",
+      "number": 26,
+      "type": "shloka",
+      "original": "स यूपाक्षोऽश्रुपूर्णाक्षःपितृव्येनिहतेरणे ।\nअवरुह्यरथात्क्षिप्रंक्षीणेषुखङ्गमाददे ।।6.76.27।।",
+      "transliteration": "",
+      "translation": "Instantly alighting from the chariot, Yupaksha seeing the uncle exhausted and hurt, eyes filled with tears, he wielded the sword.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-27",
+      "number": 27,
+      "type": "shloka",
+      "original": "तमापतन्तंसम्प्रेक्ष्ययूपाक्षंद्विविदस्त्वरन् ।\nआजघानोरसिक्रुद्धोजग्राह च बलाद्बली ।।6.76.28।।",
+      "transliteration": "",
+      "translation": "Observing Yupakasha fallen and rushing quickly, furious Dwivida struck him in the bosom with force and caught him",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-28",
+      "number": 28,
+      "type": "shloka",
+      "original": "गृहीतंभ्रातरंदृष्टवाशोणिताक्षोमहाबलः ।\nआजघानगदाग्रेणवक्षसिद्विविदंततः ।।6.76.29।।",
+      "transliteration": "",
+      "translation": "Then seeing the brother caught, mighty Sonitaksha struck Dwivida in the bosom by a mace.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-29",
+      "number": 29,
+      "type": "shloka",
+      "original": "स गदाभिहतस्तेनसञ्चचालमहाबलः ।\nउद्यता च पुनस्तस्यजहारद्विविदोगदाम् ।।6.76.30।।",
+      "transliteration": "",
+      "translation": "Dwivida, though mighty reeled and could not move when struck by Sonitaksha. He got up and again and snatched the mace from Sonithaksha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-30",
+      "number": 30,
+      "type": "shloka",
+      "original": "तस्मिन्नन्तरेमैन्दोवीरोवानरयूथपः ।\nयूपाक्षंताडयामासतलेनोरसिवीर्यवान् ।।6.76.31।।",
+      "transliteration": "",
+      "translation": "In the meantime, valiant Vanara leader Mainda arrived and struck with his palm on the chest of Yupaksha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-31",
+      "number": 31,
+      "type": "shloka",
+      "original": "तौशोणिताक्ष्यूपाक्षौप्लवङ्गाभ्यांतरस्विनौ ।\nचक्रतुस्समरेतीव्रमाकर्षोत्पाटनंभृशम् ।।6.76.32।।",
+      "transliteration": "",
+      "translation": "In that fight, courageous Sonitaksha and Yupaksha contested with the two monkeys pulling one another violently and throwing intensely.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-32",
+      "number": 32,
+      "type": "shloka",
+      "original": "द्विविदश्शोणिताक्षंतुविददारनखैर्मुखै ।\nनिष्पिपेष च वेगेनक्षितावाविध्यवीर्यवान् ।।6.76.33।।",
+      "transliteration": "",
+      "translation": "Valiant Dwivida, for his part, tore Sonitaksha on his face with his nails, and quickening his pace threw him on the surface of the ground and bruised him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-33",
+      "number": 33,
+      "type": "shloka",
+      "original": "पाक्षमभिसङ्कृद्धो मैन्दो वानरयूथपः ।\nपीडयामासबाहुभ्यांसपपातहतःक्षितौ ।।6.76.34।।",
+      "transliteration": "",
+      "translation": "Vanara leader, Mainda on his part, angrily pierced Yupaksha many times who fell on the ground dead.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-34",
+      "number": 34,
+      "type": "shloka",
+      "original": "हतप्रवीराव्यथिताराक्षसेन्द्रचमूस्तदा ।\nजगामाभिमुखीसातुकुम्भ���र्णसुतोयतः ।।6.76.35।।",
+      "transliteration": "",
+      "translation": "Then many heroes died, Rakshasa king's army was distressed and went towards where Kumbhakarna's son was fighting.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-35",
+      "number": 35,
+      "type": "shloka",
+      "original": "आपततनीं च वेगेनकुम्भस्तांसान्त्वयच्चमूम् ।\nअथोत्कष्टंमहावीर्यैर्लब्धलक्ष्यैःप्लवङ्गमैः ।।6.76.36।।\nनिपातितमहावीरांदृष्टवारक्षश्चमूंततः ।\nकुम्भःप्रचक्रेतेजस्वीरणेकर्मसुदुष्करम् ।।6.76.37।।",
+      "transliteration": "",
+      "translation": "Kumbha quickly restored the confidence of the troops. Then energetic Kumbha seeing the eminent heroes of Rakshasa army struck down, he found a favourable opportunity and drew up an excellent strategy and performed an extremely difficult deed in the battlefield.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-36",
+      "number": 36,
+      "type": "shloka",
+      "original": "स धनुर्धन्विनांश्रेष्ठःप्रगृह्यसुसमाहितः ।\nमुमोचाशीविषप्रख्यान्शरान्देहविदारणान् ।।6.76.38।।",
+      "transliteration": "",
+      "translation": "He (Kumbha), the foremost wielder of bow, taking up the bow, remaining fully composed released arrows that resembled poisonous serpents capable of tearing the flesh.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-37",
+      "number": 37,
+      "type": "shloka",
+      "original": "तस्यतच्छुशुभेभूयस्सशरंधनुरुत्तमम् ।\nविद्युदैरावतार्चिष्मद्िद्वतीयेन्द्रधनुर्यथा ।।6.76.39।।",
+      "transliteration": "",
+      "translation": "Those best arrows fixed to the bow were shining like the cloud with flashes of lightning, and like a second bow of Indra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-38",
+      "number": 38,
+      "type": "shloka",
+      "original": "आकर्णाकृष्टमुक्तेनजघानद्विविदंतदा ।\nतेनहाटकपुङ्खेनपत्रतिणापत्त्रवाससा ।।6.76.40।।",
+      "transliteration": "",
+      "translation": "Then he struck Dwivida with a golden shafted arrow that was loosened to kill by stretching the bow till the ear and released.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-39",
+      "number": 39,
+      "type": "shloka",
+      "original": "सहसाभिहतस्तेनविप्रमुक्तपदस्स्फुरन् ।\nनिपपाताद्रिकूटाभोविह्वलन् प्लवगोत्तमः ।।6.76.41।।",
+      "transliteration": "",
+      "translation": "Struck all of a sudden, the foremost Vanara (Dwivida) alarmed, fell with legs, outstretched, trembling.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-40",
+      "number": 40,
+      "type": "shloka",
+      "original": "मन्दस्तुभ्रातरंभग्नंदृष्टवातत्रमहाहवे ।\nलभिदुद्राववेगेनप्रगृह्यमहतींशिलाम् ।।6.76.42।।",
+      "transliteration": "",
+      "translation": "Seeing the brother shattered in the great combat, Mainda on his part seizing a huge rock rushed swiftly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-41",
+      "number": 41,
+      "type": "shloka",
+      "original": "तांशिलांतुप्रचिक्षेपराक्षसायमहाबलः ।\nबिभेदतांशिलांकुम्भःप्रसन्नैःपञ्चभिश्शरैः ।।6.76.43।।",
+      "transliteration": "",
+      "translation": "The mighty Vanara (Mainda) for his part hurled the rock to crush the Rakshasa. Kumbha attacked him with five sharp arrows and rock got broken.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-42",
+      "number": 42,
+      "type": "shloka",
+      "original": "सन्धायचान्यंसुमुखंशरमाशीविषोपमम् ।\nआजघानमहातेजावक्षसिद्विविदाग्रजम् ।।6.76.44।।",
+      "transliteration": "",
+      "translation": "Haughty Kumbha, fixed a charming arrow resembling a venomous serpent and struck at Dwivida's brother.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-43",
+      "number": 43,
+      "type": "shloka",
+      "original": "स तुतेनप्रहारेणमैन्दोवानरयूथपः ।\nमर्मण्यभिहतस्तेनपपा त भुविमूर्छितः ।।6.76.45।।",
+      "transliteration": "",
+      "translation": "That blow hit the Vanara leader in his private parts, and Mainda lost consciousness and fell down.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-44",
+      "number": 44,
+      "type": "shloka",
+      "original": "अङ्गदोमातुलौदृष्टवापथितौतुमहाबलौ ।\nअभिदुद्राववेगेनकुम्भमुद्यतकार्मुकम् ।।6.76.46।।",
+      "transliteration": "",
+      "translation": "Seeing the two maternal uncles fallen, Angada, who was endowed with great strength, attacked Kumbha, wielding a bow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-45",
+      "number": 45,
+      "type": "shloka",
+      "original": "तमापतन्तंविव्याधकुम्भःपञ्चभिरायसैः ।\nत्रिभिश्चान्यैश्शितैर्बाणैर्मातङ्गमिवतोमरैः ।।6.76.47।।",
+      "transliteration": "",
+      "translation": "Kumbha seeing Angada advancing towards him, with five steel arrows and three shafts pierced him just as an elephant is pierced with lances.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-46",
+      "number": 46,
+      "type": "shloka",
+      "original": "सोऽङ्गदंविविधैभिर्बाणैःकुम्भोविव्याथवीर्यवान् ।\nअकुण्ठधारैर्निशितैस्तीक्ष्णैःकनकभूषणैः ।।6.76.48।।",
+      "transliteration": "",
+      "translation": "Kumbha, a valiant hero pierced Angada continuously with several sharp and pointed arrows decked with gold.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-47",
+      "number": 47,
+      "type": "shloka",
+      "original": "अङ्गदःप्रतिविद्धाङ्गोवालिपुत्रो न कम्पते ।\nशिलापादपवर्षाणितस्यमूर्ध्निववर्ष ह ।।6.76.49।।",
+      "transliteration": "",
+      "translation": "Vali's son was not shaken by the strike, showered rain of rocks and trees on his (Kumbha) forehead.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-48",
+      "number": 48,
+      "type": "shloka",
+      "original": "स प्रचिच्छेदतान् सर्वान् बिभेद च पुनश्शिलाः ।\nकुम्भकर्णात्मजश्रशीमान् वालिपुत्त्रसमीरितान् ।।6.76.50।।",
+      "transliteration": "",
+      "translation": "Prosperous Kumbhakarna's son also shattered the rocks hurled on him, breaking them.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-49",
+      "number": 49,
+      "type": "shloka",
+      "original": "आपतन्तं च ससम्प्रेक्ष्यकुम्भोवानरयूथपम् ।\nभ्रुवोर्विव्याथबाणाभ्यामुल्काभ्यामिवकुञ्जरम् ।।6.76.51।।",
+      "transliteration": "",
+      "translation": "Kumbha observing the Vanara leader coming towards him attacked him with fire sticks and pierced his eyebrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-50",
+      "number": 50,
+      "type": "shloka",
+      "original": "तस्यसुस्रावरुधिरंपिहितेचास्यलोचने ।\nअङ्गदःपाणिनानेत्रेपिधायरुधिरोक्षिते ।।6.76.52।।\nसालमासन्नमेकेनपरिजग्राहपाणिवा ।",
+      "transliteration": "",
+      "translation": "Blood flowed from his injured eyes and his eyes got veiled by blood. Covering his eyes with one hand he took hold of a Sal tree nearby.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-51",
+      "number": 51,
+      "type": "shloka",
+      "original": "सम्पीड्यरसिचास्कन्धम् करेणाभिनिवेश्य च ।।6.76.53।।\nकिञ्चिदभ्यवनम्यैनमुन्ममाथयथागजः ।",
+      "transliteration": "",
+      "translation": "Compressing the trunk of the tree on the chest with one hand and bending forward a little its branches with another hand, he (Angada) tore Kumbha in that way in the great fight like an elephant.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-52",
+      "number": 52,
+      "type": "shloka",
+      "original": "तमिन्द्रकेतुप्रतिमंवृक्षंमन्दरसन्निभम् ।।6.76.54।।\nसमुत्सृजन्तंवेगेनपश्यतांसर्वरक्षसाम् ।",
+      "transliteration": "",
+      "translation": "All the Rakshasas seeing the tall tree, which was like Mandara mountain, resembling Indra's banner hurriedly was about to let loose.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-53",
+      "number": 53,
+      "type": "shloka",
+      "original": "सबिभेदशितैर्बाणैस्सप्तभिःकायभेदनैः ।।6.76.55।।\nअङ्गदोविव्यधेऽभीक्षणंससादचमुमोह च ।",
+      "transliteration": "",
+      "translation": "Kumbha shattered Angada with seven sharp arrows capable of tearing the body. Angada, pained by that screamed and lost his senses.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-54",
+      "number": 54,
+      "type": "shloka",
+      "original": "अङ्गदंव्यथितंदृष्टवासीदन्तमिवसागरम् ।।6.76.56।।\nदुरासदंहरिश्रेष्ठंरामायन्येन्यवेदयन् ।",
+      "transliteration": "",
+      "translation": "Seeing the foremost Vanara, Angada who was difficult to encounter fell and like sinking into the ocean of despondency, the foremost Vanaras submitted to Rama.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-55",
+      "number": 55,
+      "type": "shloka",
+      "original": "रामस्तुव्यथितंश्रुत्वावालिपुत्त्रंरणाजरे ।।6.76.57।।\nव्यादिदेशहरिश्रेष्ठान्जाम्बवत्प्रमुखांस्ततः ।",
+      "transliteration": "",
+      "translation": "On hearing that Angada was tormented in the battlefield and pained he ordered Jambavan and the best of monkey leaders to help him.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-56",
+      "number": 56,
+      "type": "shloka",
+      "original": "तेतुवानरशार्दूलाश्श्रुत्वारामस्यशासनम् ।।6.76.58।।\nअभिपेतुस्सुसङ्कृद्धाःकुम्भमुद्यतकार्मुकम् ।",
+      "transliteration": "",
+      "translation": "On hearing Rama's command, the enraged Vanara tigers took up bows to attack Kumbha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-57",
+      "number": 57,
+      "type": "shloka",
+      "original": "ततोद्रुमशिलाहस्ताःकोपसंरक्तलोचनाः ।।6.76.59।।\nरिरक्षिषन्तोऽभ्यपतन्नङ्गदंवानरर्षभाः ।",
+      "transliteration": "",
+      "translation": "Bulls among Vanaras then took trees, and rocks in hand, with their eyes red in anger started for the protection of Angada.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-58",
+      "number": 58,
+      "type": "shloka",
+      "original": "जाम्बवांश्चसुषेणश्चवेगदर्शी च वानरः ।।6.76.60।।\nकुम्भकर्णात्मजंवीरंक्रुद्धास्समभिदुद्रुवुः ।",
+      "transliteration": "",
+      "translation": "Jambavan, Sushena, Vegadarsi and other heroic Vanaras, full of anger also rushed to assail Kumbhakarna's son.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-59",
+      "number": 59,
+      "type": "shloka",
+      "original": "��मीक्ष्यापततस्तांस्तुवानरेन्द्रान् महाबलान् ।।6.76.61।।\nआववारशरौघेणनगेनेवजलाशयम् ।",
+      "transliteration": "",
+      "translation": "Perceiving that great army of Vanara leaders are advancing, Kumbha obstructed them with a volley of arrows just like a mountain obstructing the path of torrent.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-60",
+      "number": 60,
+      "type": "shloka",
+      "original": "तस्यबाणपथंप्राप्य न शेकुरतिवर्तितुम् ।।6.76.62।।\nवानरेन्द्रामहात्मानोवेलामिवमहादधिः ।",
+      "transliteration": "",
+      "translation": "The Vanara leaders could not bear the range of arrows of Kumbhaka, just as a tide can't overstep the shore of an ocean.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-61",
+      "number": 61,
+      "type": "shloka",
+      "original": "तांस्तुदृष्टवाहरिगणान् शरवृष्टिभिरर्दितान् ।।6.76.63।।\nअङ्गदंपृष्ठतःकृत्वाभ्रातृजंप्लवगेश्वरः ।\nभिदुद्राववेगेनसुग्रीवःकुम्भमाहवे ।।6.76.64।।\nशैलसानुचरंनागंवेगवानिवकेसरी ।",
+      "transliteration": "",
+      "translation": "Seeing the Vanara army pained by the rain of arrows, Sugriva, the Lord of Vanaras having Angada in his rear, swiftly rushed and assailed Kumbhakarna's son just like a lion roaming in the mountains attacks elephants.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-62",
+      "number": 62,
+      "type": "shloka",
+      "original": "उत्पाट्य च महाशैलनश्वकर्णान्दवान्बहून् ।।6.76.65।।\nअन्यांश्चविविधान्ववृक्षाचिक्षेपचिमहाबलः ।",
+      "transliteration": "",
+      "translation": "Mighty strong he was, uprooting Aswakarna and many other several kinds of trees he hurled at them (Rakshasas).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-63",
+      "number": 63,
+      "type": "shloka",
+      "original": "तांछादयन्तीमाकाशंवृक्षवृष्टिंदुरासदाम् ।।6.76.66।।\nकुम्भकर्णात्मजश्शीघ्रंचिच्छेदनिशितैश्शरैः ।",
+      "transliteration": "",
+      "translation": "Frenzied Kumbhakarna's son was torn under the shower of trees that covered space with sharp arrows which was difficult to approach.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-64",
+      "number": 64,
+      "type": "shloka",
+      "original": "अभिलक्षेणतीव्रेणकुम्भेननिशितैश्शरैः ।।6.76.67।।\nअचितास्तेद्रुमारेजुर्यथाघोराषतघ्नयः ।",
+      "transliteration": "",
+      "translation": "The sharp arrows aimed at the target by Kumbha covered the trees and they shone like dreadful Sataghnis.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-65",
+      "number": 65,
+      "type": "shloka",
+      "original": "द्रुमवर्षंतुसञ्छिन्नंदृष्टवाकुम्भोनवीर्यवान् ।।6.76.68।।\nवानराधिपति: शीमान्महासत्त्वो न विव्यथे ।",
+      "transliteration": "",
+      "translation": "Valiant hero, the prosperous and noble Sugriva, the chief of Vanaras did not get distressed when tormented with rain of trees.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-66",
+      "number": 66,
+      "type": "shloka",
+      "original": "निर्भिद्यमानस्सहसासहमानश्चतान् शरान् ।।6.76.69।।\nकुम्भस्यधनुराक्षिप्यबभञ्जेन्द्रधनुष्प्रभम् ।",
+      "transliteration": "",
+      "translation": "He snatched the bow of Kumbha forcibly which was like Indra's rainbow, pulled it and broke, while tolerating the pain of the arrows.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-67",
+      "number": 67,
+      "type": "shloka",
+      "original": "अवफ्लुत्यततश्शीघ्रंकृत्वाकर्मसुदुष्करम् ।।6.76.70।।\nअब्रवीत्कुपितःकुम्भंभग्नशृङ्गमिवद्विपम् ।",
+      "transliteration": "",
+      "translation": "Then Sugriva leapt into the chariot, which was a difficult deed to perform, saw Kumbha who was like an elephant and whose tusks were broken and spoke.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-68",
+      "number": 68,
+      "type": "shloka",
+      "original": "निकुम्भाग्रजवीर्यंतेबाणवेगवदद्भुतम् ।।6.76.71।।\nसन्नतिश्चप्रभावश्चतववारावणस्यवा ।",
+      "transliteration": "",
+      "translation": "\"Oh, elder brother of Nikumbha! Your valour, speed of your arrows, compliance, and glory is wonderful like that of Ravana's.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-69",
+      "number": 69,
+      "type": "shloka",
+      "original": "प्रह्लादबलिवृत्रघ्नकुभेरवरुणोपम ।।6.76.72।।\nएकस्त्वमनुजातोऽसिपितरंबलवृत्ततः ।",
+      "transliteration": "",
+      "translation": "\"You are equal to Prahlada, Bali, Indra, Kubera and Varuna in might. You alone have taken over like your father.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-70",
+      "number": 70,
+      "type": "shloka",
+      "original": "त्वामेवैकंमहाबाहुंचापहस्तमरिन्दमम् ।।6.76.73।।\nत्रिदशानातिवर्तन्तेजितेन्द्रियमिवाधयः ।\nविक्रमस्वमहाबुद्धे कर्माणिममपश्यतः ।।6.76.74।।",
+      "transliteration": "",
+      "translation": "\"Oh! mightyarmed, Kumbha! wielding pike in hand, you are a tamer of enemies, you alone are the one that gods are not able to overcome, a pre eminent one who has gained over senses, highly intelligent, exhibiting your prowess and deeds before me.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-71",
+      "number": 71,
+      "type": "shloka",
+      "original": "वरदानापतितृव्यस्तेसहतेदेवदानवान् ।\nकुम्भकर्णस्तुवीर्येणसहते च सुरासुरान् ।।6.76.75।।",
+      "transliteration": "",
+      "translation": "\"Your uncle Ravana is able to withstand the Devas and Danavas by virtue of the boons and Kumbhakarna was able to with stand gods and demons by virtue of his courage.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-72",
+      "number": 72,
+      "type": "shloka",
+      "original": "ततःकुम्भस्तुसुग्रीवंबाहुभ्यांजगृहेतदा ।\nगजाविवाहितमदौनिश्श्वसन्तौमुहुर्मुहु 76.81।।\nअन्योन्यगात्रग्रथितौकर्षन्तावितरेतरम् ।\nसधूमांमुखतोज्वालांविसृजन्तौपरिश्रमात् ।��6.76.82।।",
+      "transliteration": "",
+      "translation": "Thereafter Kumbha held Sugriva's shoulders. They were like two intoxicated elephants holding one another's limbs and rubbing each other and breathing heavily. In exertion they let out from their face fire mixed with smoke.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-73",
+      "number": 73,
+      "type": "shloka",
+      "original": "महाविमर्दंसमरेमयासहतवाद्भुतम् ।\nअद्यभूतानिपश्यन्तुशक्रशम्बरयोरिव ।।6.76.77।।",
+      "transliteration": "",
+      "translation": "\"Just as the wonderful conflict between Indra and Sambara let the beings witness the mighty comb at between me and you.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-74",
+      "number": 74,
+      "type": "shloka",
+      "original": "कृतमप्रतिमंकर्मदर्शितंचास्त्रकौशलम् ।\nपातिताहरिवीराश्चत्वयावैभीमविक्रमाः ।।6.76.78।।",
+      "transliteration": "",
+      "translation": "\"By an unequal deed done by you in the efficiency in the use of weapons has been exhibited. The monkey heroes of terrific valour have been made to fall.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-75",
+      "number": 75,
+      "type": "shloka",
+      "original": "उपालम्भभयाच्चापिनासिवीरमयाहतः ।\nकृतकर्मपरिश्रान्तोविश्रान्तःपश्यमेबलम् ।।6.76.79।।",
+      "transliteration": "",
+      "translation": "\"O Stalwart! You have not been finished by me for the fear of reproaching. You are exhausted by your deeds and resting. Having rested, witness my strength now.\"",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-76",
+      "number": 76,
+      "type": "shloka",
+      "original": "तेनसुग्रीववाक्येनसावमानेनमानितः ।\nअग्नेराज्याहुतस्येवतेजस्तस्याभ्यवर्धत ।।6.76.80।।",
+      "transliteration": "",
+      "translation": "Sugriva's words of flattering royalty captivated Kumbha's fire of energy, which doubled like fire fed with ghee.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-77",
+      "number": 77,
+      "type": "shloka",
+      "original": "तयोःपादाभिघाताच्चनिमग्नाचाभवन्महि ।\nव्याघूर्णिततरङ्गश्चचुक्षुभेवरुणालयः ।।6.76.83।।",
+      "transliteration": "",
+      "translation": "Then by the trampling of their feet the earth sank down, the abode of Varuna (ocean) was agitated with rolling waves.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-78",
+      "number": 78,
+      "type": "shloka",
+      "original": "ततःकुम्भंसमुत्क्षिप्यसुग्रीवोलवणाम्भसि ।\nपातयामासवेगेनदर्शयन्नुदधेस्तलम् ।।6.76.84।।",
+      "transliteration": "",
+      "translation": "Then Sugriva lifted Kumbha and threw him into the ocean quickly, to show him the bottom.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-79",
+      "number": 79,
+      "type": "shloka",
+      "original": "ततःकुम्भनिपातेनजलराशिस्समुत्थितः ।\nव्निध्यमन्दरसङ्काशोविससर्पसमन्ततः ।।6.76.85।।",
+      "transliteration": "",
+      "translation": "By Kumbha falling into the ocean, it got swollen to the form of Vindhya and Mandara mountain and water flowed all over.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-80",
+      "number": 80,
+      "type": "shloka",
+      "original": "ततःकुम्भस्समुत्पत्यसुग्रीवमभिपद्य च ।\nआजघानोरसिक्रुद्धोवज्रवेगेनमुष्टिना ।।6.76.86।।",
+      "transliteration": "",
+      "translation": "Then Kumbha hit Sugriva in anger with his fist at the speed of a thunderbolt on his chest.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-81",
+      "number": 81,
+      "type": "shloka",
+      "original": "तस्यचचर्मच पुस्फोटबहुसुस्रावशोणितम् ।\nस च मुष्टिर्महावेगःप्रतिजघ्नेऽस्थिमण्डले ।।6.76.87।।",
+      "transliteration": "",
+      "translation": "The armour of Sugriva slit open, and blood flowed at high speed and excessively. The first hit of Kumbha hit the skeletal framework of Sugriva in return.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-82",
+      "number": 82,
+      "type": "shloka",
+      "original": "त्दावेगेनतत्रासीत्तेजःप्रज्वलितंमहत् ।\nवज्रनिष्पेषसञ्जाताज्वालामेरोर्यथागिरेः ।।6.76.88।।",
+      "transliteration": "",
+      "translation": "Then by the speed of the hit on Sugriva's chest by Kumbha's fist a flame burst forth like the flame of Meru Mountain.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-83",
+      "number": 83,
+      "type": "shloka",
+      "original": "स तत्राभिहतस्तेनसुग्रीवोवानरर्षभः ।\nमुष्टिंसम्वर्तयामासवज्रकल्पंमहाबलः ।।6.76.89।।",
+      "transliteration": "",
+      "translation": "Then mighty Sugriva, the bull among Vanaras, hit by the fist, clenched his fist adamantly.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-84",
+      "number": 84,
+      "type": "shloka",
+      "original": "अर्चिस्सहस्रविकचरविमण्डलसप्रभम् ।\nस मुष्टिंपातयामासकुम्भस्योरसिवीर्यवान् ।।6.76.90।।",
+      "transliteration": "",
+      "translation": "Sugriva, the champion pressed his first which shone like the Sun encircled with rays on the chest of Kumbha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-85",
+      "number": 85,
+      "type": "shloka",
+      "original": "स तुतेनप्रहारेणविह्वलोभृशताडितः ।\nनिपपाततदाकुम्भोगतार्चिरिवपावकः ।।6.76.91।।",
+      "transliteration": "",
+      "translation": "By the blow of Sugriva, that Kumbha was pained severely and overcome by fear he fell like fire which has lost its glow.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-86",
+      "number": 86,
+      "type": "shloka",
+      "original": "मुष्टिनाभिहतस्तेननिपपाताशुराक्षसः ।\nलोहिताङ्गइवाकाशाददीप्तरमशिर्यदृच्छया ।।6.76.92।।",
+      "transliteration": "",
+      "translation": "Struck by the fist of Sugriva, the Rakshasa fell just as the glowing planet endowed with brightness accidentally fell from the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-87",
+      "number": 87,
+      "type": "shloka",
+      "original": "कुम्भस्यपततोरूपंभग्��स्योरसिमुष्टीना ।\nबभौरुद्राभिपन्नस्ययथारूपंगवांपतेः ।।6.76.93।।",
+      "transliteration": "",
+      "translation": "Struck in the chest by Sugriva's fist, Kumbha fell down and shone like the Sun god over powered by Rudra।।",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v6-76-88",
+      "number": 88,
+      "type": "shloka",
+      "original": "तस्मिन्हतेभीमपराक्रमेणप्लवङ्गमानामृषभेणयुद्धे ।\nमहीसशैलासवनाचचालभयं च रक्षांस्यधिकंविवेश ।।6.76.94।।",
+      "transliteration": "",
+      "translation": "When Kumbha was killed in combat by the bull among the monkeys of terrific courage, the earth shook with mountains and the Rakshasas feared even more. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेषटसप्ततितमस्सर्गः ।। This is the end of the seventy sixth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

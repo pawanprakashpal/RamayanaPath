@@ -1,0 +1,243 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "bal-kand",
+    "name": "Bala Kanda",
+    "nameSanskrit": "बालकाण्डम्",
+    "index": 1,
+    "totalSargas": 77
+  },
+  "sarga": {
+    "number": 30,
+    "title": "Sri Rama slays rakshasas and protects the sacrifice of Viswamitra",
+    "titleSanskrit": "",
+    "totalShlokas": 25
+  },
+  "shlokas": [
+    {
+      "id": "v1-30-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "अथ तौ देशकालज्ञौ राजापुत्रावरिन्दमौ।\nदेशे काले च वाक्यज्ञावब्रूतां कौशिकं वच:।।1.30.1।।",
+      "transliteration": "",
+      "translation": "Thus spoke the two princes to Viswamitra. They were conscious of place and time to speak and capable of conquering enemies.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-30-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "भगवन् श्रोतुमिच्छावो यस्मिन् काले निशाचरौ।\nसंरक्षणीयौ तौ ब्रह्मन्नातिवर्तेत तत्क्षणम्।।1.30.2।।",
+      "transliteration": "",
+      "translation": "\"O adorable Brahmarshi, we want to know around what time the rakshasas will make their appearance so that the sacrifice can be protected. Let  not that moment pass\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-30-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "एवं ब्रुवाणौ काकुत्स्थौ त्वरमाणौ युयुत्सया।\nसर्वे ते मुनय: प्रीता: प्रशशंसुर्नृपात्मजौ।।1.30.3।।",
+      "transliteration": "",
+      "translation": "The sages (of the asrama) were very pleased. They extolled the princes of Kakustha dynasty, who were eager to fight the rakshasas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-30-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "अद्यप्रभृति षड्रात्रं रक्षतं राघवौ युवाम्।\nदीक्षां गतो ह्येष मुनिर्मौनित्वं च गमिष्यति।।1.30.4।।",
+      "transliteration": "",
+      "translation": "\"O sons of Raghu's lineage protect the sacrifice for six nights from today. With the ceremoney initiated, the sage would  observe silence said the inmates\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-30-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "तौ तु तद्वचनं श्रुत्वा राजपुत्रौ यशस्विनौ।\nअनिद्रौ षडहोरात्रं तपोवनमरक्षताम्।।1.30.5।।",
+      "transliteration": "",
+      "translation": "At these words of the sages the illustrious princes got ready to protect the tapovana for six days and six nights without sleep.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-30-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "उपासाञ्चक्रतुर्वीरौ यत्तौ परमधन्विनौ।\nररक्षतुर्मुनिवरं विश्वामित्रमरिन्दमौ।।1.30.6।।",
+      "transliteration": "",
+      "translation": "The two mighty, heroic archers (Rama and Lakshmana), destroyers of enemies  attended upon the sacrifice in order to protect sage Viswamitra.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-30-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "अथ काले गते तस्मिन् षष्ठेऽहनि समागते।\nसौमित्रिमब्रवीद्रामो यत्तो भव समाहित:।।1.30.7।।",
+      "transliteration": "",
+      "translation": "Time passed. When the sixth day arrived Rama cautioned Lakshmana to be vigilant.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-30-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "रामस्यैवं ब्रुवाणस्य त्वरितस्य युयुत्सया।\nप्रजज्वाल ततो वेदिस्सोपाध्यायपुरोहिता।।1.30.8।।",
+      "transliteration": "",
+      "translation": "While he was fracing up for a fight, the fire on the sacrificial altar with the officiating priests and spiritual guides suddenly brightened.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-30-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "सदर्भचमसस्रुक्का ससमित्कुसुमोच्चया।\nविश्वामित्रेण सहिता वेदिर्जज्वाल सर्त्विजा।।1.30.9।।",
+      "transliteration": "",
+      "translation": "The altar with Viswamitra and the officiating priests, kusa grass, ladles and square  vessels, bundles of sticks and  flowers, (used in the sacrificfial fire) got brightened up.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-30-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "मन्त्रवच्च यथान्यायं यज्ञोऽसौ सम्प्रवर्तते।\nआकाशे च महान् शब्द: प्रादुरासीद्भयानक:।।1.30.10।।",
+      "transliteration": "",
+      "translation": "While the sacrifice was being performed in accordance with mantras, a great sound causing fear emerged from the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-30-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "आवार्य गगनं मेघो यथा प्रावृषि निर्गत:।\nतथामायां विकुर्वाणौ राक्षसावभ्यधावताम्।।1.30.11।।",
+      "transliteration": "",
+      "translation": "Like the clouds in the rainy season, the two rakshasas (Maricha and Subahu), covering the sky through their power of illusion, came running (to the sacrificial place).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-30-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "मारीचश्च सुबाहुश्च तयोरनुचराश्च ये।\nआगम्य भीमसङ्काशा रुधिरौघमवासृजन्।।1.30.12।।",
+      "transliteration": "",
+      "translation": "Maricha and Subahu of fearful appearance arrived with their followers and rained streams of blood (on the sacrificial altar).",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-30-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "सा तेन रुधिरौघेण वेदिर्जज्वाल मण्डिता।\nसहसाऽभिद्रुतो रामस्तानपश्य त्ततो दिवि।।1.30.13।।",
+      "transliteration": "",
+      "translation": "Flames rose on the sacrificial altar drenched by the stream of blood. Immediately Rama rushed forward and beheld them in the sky.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-30-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "तावापतन्तौ सहसा दृष्ट्वा राजीवलोचन:।\nलक्ष्मणं त्वभिसम्प्रेक्ष्य रामो वचनमब्रवीत्।।1.30.14।।",
+      "transliteration": "",
+      "translation": "Having seen them (Maricha and Subahu) suddenly advancing the lotuseyed Rama gazed at Lakshmana and said:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-30-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "पश्य लक्ष्मण दुर्वृत्तान् राक्षसान् पिशिताशनान्।\nमानवास्त्रसमाधूताननिलेन यथा घनान्।।1.30.15।।",
+      "transliteration": "",
+      "translation": "\"O Lakshmana, behold, by manavaastra I shall chase, like clouds scattered by winds those wicked rakshasas who eat human flesh\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-30-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "मानवं परमोदारमस्त्रं परमभास्वरम्।\nचि���्षेप परमक्रुद्धो मारीचोरसि राघव:।।1.30.16।।",
+      "transliteration": "",
+      "translation": "The inflamed Rama hurled the highly powerful and effulgent Manavaastra on the chest of Maricha.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-30-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "स तेन परमास्त्रेण मानवेन समाहित:।\nसंपूर्णं योजनशतं क्षिप्तस्सागरसम्प्लवे।।1.30.17।।",
+      "transliteration": "",
+      "translation": "Smitten by that powerful Manavaastra, Maricha was thrown to a full distance of hundred yojanas into the surging high seas.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-30-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "विचेतनं विघूर्णन्तं शीतेषु बलताडितम्।\nनिरस्तं दृश्य मारीचं रामो लक्ष्मणमब्रवीत्।।1.30.18।।",
+      "transliteration": "",
+      "translation": "Having seen Maricha beaten by the power of that coolarrowed astra, thrown to a distance, reeling and lying unconscious, Rama spoke to Lakshmana:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-30-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "पश्य लक्ष्मण शीतेषुं मानवं धर्मसंहितम्।\nमोहयित्वा नयत्येनं न च प्राणैर्व्ययुज्यत।।1.30.19।।",
+      "transliteration": "",
+      "translation": "\"O Lakshmana behold this Manavaastra associated with righteousness employing a cool arrow, which carries him away by making him unconscious and yet not taking his life.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-30-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "इमानपि वधिष्यामि निर्घृणान् दुष्टचारिण:।\nराक्षसान् पापकर्मस्थान् यज्ञघ्नान् रुधिराशनान्।।1.30.20।।",
+      "transliteration": "",
+      "translation": "\"I shall slay these merciless, wicked, doers of sinful acts, destroyers of sacrifices and blood-thirsty rakshasas\".",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-30-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "सङ्गृह्यास्त्रं ततो रामो दिव्यमाग्नेयमद्भुतम्।\nसुबाहूरसि चिक्षेप सविद्ध: प्रापतद्भुवि।।1.30.21।।",
+      "transliteration": "",
+      "translation": "Then Rama took hold of the celestial, marvellous Agneya weapon and hurled it into the chest of Subahu. Struck, Subahuhe fell down on the ground.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-30-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "शेषान् वायव्यमादाय निजघान महायशा:।\nराघव: परमोदारो मुनीनां मुदमावहन्।।1.30.22।।",
+      "transliteration": "",
+      "translation": "Illustrious and highly generous Rama killed the  remaining rakshasas  with the Vayavya weapon to the delight of the ascetics.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-30-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "स हत्वा राक्षसान् सर्वान् यज्ञघ्नान् रघुनन्दन:।\nऋषिभि: पूजितस्तत्र यथेन्द्रो विजये पुरा।।1.30.23।।",
+      "transliteration": "",
+      "translation": "Having killed the rakshasas, obstructors of sacrifices, Rama was worshipped by the hermits like Indra was honoured in the past when he was victorious.",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-30-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "अथ यज्ञे समाप्ते तु विश्वामित्रो महामुनि:।\nनिरीतिका दिशो दृष्टवा काकुत्स्थमिदमब्रवीत्।।1.30.24।।",
+      "transliteration": "",
+      "translation": "Thereafter, when the sacrifice was completed, maharshi Viswamitra beholding all the directions  bereft of evils, said to Rama:",
+      "metre": "anushtubh"
+    },
+    {
+      "id": "v1-30-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "कृतार्थोऽस्मि महाबाहो कृतं गुरुवचस्त्वया।\nसिद्धाश्रममिदं सत्यं कृतं राम महायश:।।1.30.25।।",
+      "transliteration": "",
+      "translation": "\"O mightyarmed Rama I am fulfilled. Your father's commands have been executed. O  Illustrious one, Siddhaashrama has proved true to its name\". इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे त्रिंशस्सर्ग:।।02 Thus ends the thirtieth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+      "metre": "anushtubh"
+    }
+  ]
+}

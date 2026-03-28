@@ -21,12 +21,13 @@ export default function VersionSelector() {
     setVersion(newVersion);
     document.cookie = `${VERSION_COOKIE}=${newVersion}; path=/; max-age=31536000; SameSite=Lax`;
 
-    // If user is on a doha/sarga page, navigate to the kand overview
+    // Navigate to kand overview if on a doha/sarga page, otherwise force reload
     const kandMatch = pathname.match(/^\/([^/]+)\/(doha|sarga)\//);
     if (kandMatch) {
       router.push(`/${kandMatch[1]}`);
     } else {
-      router.refresh();
+      // Force full page reload to re-render server components (sidebar) with new cookie
+      window.location.reload();
     }
   };
 

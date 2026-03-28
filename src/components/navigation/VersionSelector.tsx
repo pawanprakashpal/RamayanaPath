@@ -1,13 +1,14 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { useRouter } from "next/navigation";
+import { useRouter, usePathname } from "next/navigation";
 import type { Version } from "@/types";
 import { VERSION_LABELS, DEFAULT_VERSION, VERSION_COOKIE } from "@/lib/constants";
 
 export default function VersionSelector() {
   const [version, setVersion] = useState<Version>(DEFAULT_VERSION);
   const router = useRouter();
+  const pathname = usePathname();
 
   useEffect(() => {
     const match = document.cookie.match(new RegExp(`${VERSION_COOKIE}=([^;]+)`));
@@ -19,7 +20,14 @@ export default function VersionSelector() {
   const handleChange = (newVersion: Version) => {
     setVersion(newVersion);
     document.cookie = `${VERSION_COOKIE}=${newVersion}; path=/; max-age=31536000; SameSite=Lax`;
-    router.refresh();
+
+    // If user is on a doha/sarga page, navigate to the kand overview
+    const kandMatch = pathname.match(/^\/([^/]+)\/(doha|sarga)\//);
+    if (kandMatch) {
+      router.push(`/${kandMatch[1]}`);
+    } else {
+      router.refresh();
+    }
   };
 
   return (

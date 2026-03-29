@@ -1,0 +1,17 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "uttar-kand",
+    "name": "Uttara Kanda",
+    "nameSanskrit": "उत्तरकाण्डम्",
+    "index": 7,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 130,
+    "title": "Sarga 130",
+    "titleSanskrit": "",
+    "totalShlokas": 0
+  },
+  "shlokas": []
+}

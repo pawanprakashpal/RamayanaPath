@@ -1,0 +1,135 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "uttar-kand",
+    "name": "Uttara Kanda",
+    "nameSanskrit": "उत्तरकाण्डम्",
+    "index": 7,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 80,
+    "title": "The Story of Mandhata",
+    "titleSanskrit": "",
+    "totalShlokas": 13
+  },
+  "shlokas": [
+    {
+      "id": "vu-80-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "The night having come, Shatrughna enquired of the son of Bhrigu, Cyavana, concerning the strength of Lavana, saying:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-80-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“O Brahmin, how powerful is his weapon? Who did Lavana formerly slay with that splendid shaft in combat?”",
+      "metre": ""
+    },
+    {
+      "id": "vu-80-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "Thus questioned by him, the extremely virtuous Cyavana answered the magnanimous Shatrughna, the Joy of the Raghus, saying:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-80-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“O Son of Raghu, innumerable are his exploits! Hear what befell a descendant of Ikshvaku. Formerly there reigned in Ayodhya, the valiant son of Yavanashva, Mandhata, who was renowned in the Three Worlds for his prowess.",
+      "metre": ""
+    },
+    {
+      "id": "vu-80-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Having placed the entire earth under his yoke, that monarch sought to conquer the Celestial Realm. Great was the fear of Indra and the Gods on beholding Mandhata’s preparations, who wished to conquer the region of the Devas. Learning of his intention to share Indra’s throne and kingdom, the God, who chastised Paka, addressed Yuvanashva’s son in propitiatory accents and said:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-80-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“‘You dost not yet rule over the entire earth, not having wholly subjugated it, O King, yet you aspirest to the celestial throne. When the whole earth is under your dominion, then, with your servants, thine army and your chariots, do you take possession of the kingdom of the Gods.’",
+      "metre": ""
+    },
+    {
+      "id": "vu-80-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Thus did Indra speak, and Mandhata answered him, saying:",
+      "metre": ""
+    },
+    {
+      "id": "vu-80-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“‘Who on the face of the earth has contested my domination?’ Then the God of a Thousand Eyes said:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-80-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“‘The Rakshasa named Lavana, son of Madhu, who dwells in the forest, has not recognized thine authority, O Irreproachable Warrior!’",
+      "metre": ""
+    },
+    {
+      "id": "vu-80-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“At these extremely unpleasing words uttered by Indra, the king hung his head in shame, being unable to answer him. Thereafter, paying obeisance to the Thousand-eyed God, he departed with bowed head and returned to earth.",
+      "metre": ""
+    },
+    {
+      "id": "vu-80-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Then that Prince, the Slayer of His Foes, concealing his anger, placed himself at the head of his servants, infantry and cavalry and marched against the son of Madhu in order to conquer him. And that foremost of men sent a messenger to Lavana to challenge him to combat, who, coming before him, covered the son of Madhu with abuses and, while he was still speaking, the Rakshasa devoured him.",
+      "metre": ""
+    },
+    {
+      "id": "vu-80-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“As his envoy failed to return, the king, enraged, assailed Lavana with a hail of arrows, whereupon the Rakshasa, taking up his trident, mockingly hurled it upon him in order to exterminate him and his followers, and the flaming trident, that formidable weapon, reduced the king, his servants, his infantry and cavalry to ashes and returned to the hand of its master.",
+      "metre": ""
+    },
+    {
+      "id": "vu-80-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Thus did that great monarch perish with his footsoldiers and chariots. O My Friend, it was through the power of that trident, which is unsurpassed! To-morrow at dawn you shalt without doubt slay Lavana ere he has taken up his weapon; your victory is assured! The worlds will be freed as a result of thine exploit. O Foremost of Men, I have now told you all concerning the wicked Lavana; it is on this account that Mandhata succumbed in his undertaking. To-morrow at dawn, O Magnanimous One, you shalt undoubtedly slay him! He will have set out in search of food without his trident. Your victory is therefore assured, O Foremost of Men.”",
+      "metre": ""
+    }
+  ]
+}

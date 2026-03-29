@@ -1,0 +1,72 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "uttar-kand",
+    "name": "Uttara Kanda",
+    "nameSanskrit": "उत्तरकाण्डम्",
+    "index": 7,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 125,
+    "title": "The Supreme Virtue Of The Ramayana",
+    "titleSanskrit": "",
+    "totalShlokas": 6
+  },
+  "shlokas": [
+    {
+      "id": "vu-125-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "This then is the whole of the great epic and its sequel called the Ramayana, which was composed by Valmiki and is revered by Brahma Himself.",
+      "metre": ""
+    },
+    {
+      "id": "vu-125-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "The Lord Vishnu returned to Svargaloka as erstwhile, He Who pervades the Three Worlds and all they contain, both the moving and the fixed. Gods, Gandharvas, Siddhas and great Rishis in heaven, ever listen with delight to the poem ‘Ramayana’. This epic, which promotes long life, grants good fortune and destroys sin, is equal to the Veda and should be recited by the wise to men of faith.",
+      "metre": ""
+    },
+    {
+      "id": "vu-125-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "On hearing it, he who has no son will obtain a son, he who has no fortune will become wealthy; to read but a foot of this poem will absolve him from all sin. He who commits sins daily will be wholly purified by reciting a single sloka.",
+      "metre": ""
+    },
+    {
+      "id": "vu-125-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "The reciter of this narrative should be rewarded with raiment, cows and gold, for, if he is satisfied, all the Gods are satisfied. He who recites this epic ‘Ramayana’ that prolongs life, will be blessed with his sons and grandsons in this world and after his death, in the other world. He who, with devotion, recites the ‘Ramayana’ at the hour when the cows are loosed or at noon or at dusk, will never suffer adversity.",
+      "metre": ""
+    },
+    {
+      "id": "vu-125-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "The enchanting City of Ayodhya, having remained deserted for countless years, will be re-peopled by a Prince named Rishabha.",
+      "metre": ""
+    },
+    {
+      "id": "vu-125-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "This narrative, that grants longevity, with the ‘Bhavishya’ and ‘Uttara’, whose author is the son of Pracetas, has the approval of Brahma Himself.",
+      "metre": ""
+    }
+  ]
+}

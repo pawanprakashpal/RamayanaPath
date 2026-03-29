@@ -1,0 +1,72 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "uttar-kand",
+    "name": "Uttara Kanda",
+    "nameSanskrit": "उत्तरकाण्डम्",
+    "index": 7,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 46,
+    "title": "Sarga 46",
+    "titleSanskrit": "",
+    "totalShlokas": 6
+  },
+  "shlokas": [
+    {
+      "id": "vu-46-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "The illustrious Rishi Agastya, sprung from a vessel, paying obeisance to Rama, as Brahma pays homage to Shiva, addressed that hero whose prowess was truth, saying:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-46-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Do you hear me!”",
+      "metre": ""
+    },
+    {
+      "id": "vu-46-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "Thereafter the highly effulgent Agastya began to relate the subsequent events in that legend, and the blessed Sage with a delighted heart described to Rama all he had heard narrated, saying:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-46-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“O Illustrious and Long-armed Rama, it is on this account that the vicious-souled Ravana stole Sita, the daughter of Janaka, away. O You who art possessed of long arms, O Great Warrior, O You who art invincible, Narada recounted this tale to me on the summit of the Meru Mountain. O Raghava, the highly effulgent One told me this story in the presence of the Devas, Gandharvas, Siddhas, Ascetics and other great Beings. O Lord of Monarchs, O Conferer of Honours, do you hear this tale which removes great sins!",
+      "metre": ""
+    },
+    {
+      "id": "vu-46-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "Listening to it, O You of long arms, the Rishis and the Devas, with delighted hearts, their eyes shining with the splendour of lotus flowers, said to the Ascetic Narada:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-46-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“‘He, who listens to or relates this story with faith and devotion, shall be blessed with sons and grandsons and, after his death, be honoured in the Celestial Region.’”",
+      "metre": ""
+    }
+  ]
+}

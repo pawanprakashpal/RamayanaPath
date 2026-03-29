@@ -1,0 +1,72 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "uttar-kand",
+    "name": "Uttara Kanda",
+    "nameSanskrit": "उत्तरकाण्डम्",
+    "index": 7,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 42,
+    "title": "Homage is paid to Shri Rama",
+    "titleSanskrit": "",
+    "totalShlokas": 6
+  },
+  "shlokas": [
+    {
+      "id": "vu-42-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "The installation of Kakutstha, who was versed in the science of the Self, having taken place, the following night was spent by his subjects in rejoicing and when it had passed, at dawn, those who were charged with waking the king assembled at the palace. Thereafter these sweet-voiced minstrels, like unto the learned Kinneras, chanted pleasantly to that valiant prince as to a cherished son:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-42-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“O Gentle Hero, awake! O You who increases the felicity of Kausbalya, when you dost sleep the whole universe is wrapped in slumber, O Monarch! Thine heroism is equal to Vishnu’s and your beauty to the Ashvins. You, the rival of Brihaspati in wisdom, art a second Prajapati. Your life’s span is like the earth’s, your radiance like the sun’s, you are endowed with the swiftness of the wind and your profundity is like the deep. You are unshakable like unto Sthanu [i.e., Shiva] and your charm rivals the moon. No king was ever like unto you in the past nor shall there ever be such a monarch in time to come, O Sovereign. O Lion among Men, since you are invincible, firm in your duty and ever seeks the welfare of your subjects, glory and prosperity will never desert you. Humility and piety ever reside in you, O Kakutstha!”",
+      "metre": ""
+    },
+    {
+      "id": "vu-42-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "These and similar praises were addressed to him by the bards as also the Sutas [i.e., A class of personal attendants], who, with divine hymns, sought to rouse Raghava, and it was amidst these melodious chants that he woke from sleep and rose from his couch, that was covered with white stuffs, like unto Vishnu when he leaves the snake that has served as his bed.",
+      "metre": ""
+    },
+    {
+      "id": "vu-42-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "Then that magnanimous hero stood up and countless attendants approached him, bowing with joined palms, offering him beautiful ewers for washing and, having bathed and purified himself, he went at the appointed hour to kindle the sacrificial fire and thereafter with swift steps, he entered the sacred pavilion reserved for the Ikshvakus. There for a long time Rama paid homage to the Gods, his ancestors and the brahmins, according to tradition, then, coming forth surrounded by his people, he went to the outer court of the palace accompanied by his counsellors and also the family priests, who shone in their own effulgence, led by Vasishtha. Wealthy Kshatriyas, Lords of countless provinces walked at Rama’s side, as the Celestials by Shakra. Bharata, Lakshmana and Shatrughna, of great renown, joyfully formed an escort of honour round him, like unto the Three Vedas at the Adhvara Sacrifice[1]. At bis side walked innumerable attendants with joined palms and radiant countenance, named Muditas. Twenty monkeys full of energy and prowess led by Sugriva followed Rama, and Bibishana between four Rakshasas walked beside that hero, as Guhyakas by the Lord of Wealth. Elders, and merchants and those of noble families, bowing to the king, followed him with dignity, and that Sovereign, surrounded by the blessed and illustrious Rishis, mighty kings, monkeys and Rakshasas, like unto the Chief of the Gods, received continual homage from the ascetics; and the countless praises of those who entered Rama’s presence, and traditions, full of eloquence and piety, were constantly recited by the magnanimous brahmins versed in the Scriptures.",
+      "metre": ""
+    },
+    {
+      "id": "vu-42-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "Footnotes and references:\n[back to top]",
+      "metre": ""
+    },
+    {
+      "id": "vu-42-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "Adhvara—A religious sacrifice, especially the Soma Sacrifice.",
+      "metre": ""
+    }
+  ]
+}

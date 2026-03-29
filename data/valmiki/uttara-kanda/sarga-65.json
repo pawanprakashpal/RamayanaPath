@@ -1,0 +1,153 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "uttar-kand",
+    "name": "Uttara Kanda",
+    "nameSanskrit": "उत्तरकाण्डम्",
+    "index": 7,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 65,
+    "title": "The Story of Nimi",
+    "titleSanskrit": "",
+    "totalShlokas": 15
+  },
+  "shlokas": [
+    {
+      "id": "vu-65-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“I have related the cursing of Nriga in detail but, if you so desires, listen to the following story!”",
+      "metre": ""
+    },
+    {
+      "id": "vu-65-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "On this, Saumitri said:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-65-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“I never tire of hearing these marvellous tales, O King!”",
+      "metre": ""
+    },
+    {
+      "id": "vu-65-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "Thus spoke Lakshmana, and Rama, the Joy of the Ikshvakus, began to recount many exceedingly instructive legends, saying",
+      "metre": ""
+    },
+    {
+      "id": "vu-65-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“There was once a king named Nimi, the twelfth son of the magnanimous offspring of the Ikshvakus and he was full of courage and truth. That highly valorous monarch founded a beautiful city, resembling that of the Gods, in the vicinity of Gautama’s hermitage, and the name of that city was Vaijanta! It served as the residence of the royal Sage Nimi and, while he dwelt in that vast capital, he reflected ‘I will perform a great sacrifice to gratify my sire!’",
+      "metre": ""
+    },
+    {
+      "id": "vu-65-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Having invited his father, Ikshvaku, the son of Manu, he first welcomed Vasishtha, the foremost of Rishis; thereafter the Rajarishi Nimi, the Joy of Ikshvaku, invited Atri, Angira and also Bhrigu, that treasury of asceticism.",
+      "metre": ""
+    },
+    {
+      "id": "vu-65-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Meanwhile Vasishtha said to Nimi, the foremost of royal Sages:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-65-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "‘I am already pledged to Indra, therefore wait for me till his sacrifice is completed.’",
+      "metre": ""
+    },
+    {
+      "id": "vu-65-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Soon afterwards, the great ascetic Gautama undertook the sacrifice [i.e., In Vasishtha’s place] whilst the mighty Vasishtha was officiating at Indra’s ceremony.",
+      "metre": ""
+    },
+    {
+      "id": "vu-65-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“King Nimi, that foremost of men, having assembled the brahmins, celebrated a sacrifice in the vicinity of his city on the side of the Himavat Mountain, its term exceeding five thousand years.",
+      "metre": ""
+    },
+    {
+      "id": "vu-65-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Indra’s sacrifice being completed, the blessed and irreproachable Sage Vasishtha returned to the king and offered himself as officiating priest. Observing that Gautama had, in the interval, filled that office, Vasishtha was transported with rage and, anxious to behold the king, sought out the monarch, but that day he lay in a deep sleep and the fury of the magnanimous Vasishtha burst forth anew, so that he began to curse the king, who was unaware of his presence there, saying:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-65-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“‘Since you didst choose another and have failed to treat me with due respect, O King, your body will be rendered lifeless!’",
+      "metre": ""
+    },
+    {
+      "id": "vu-65-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Thereupon the king awoke and, hearing the curse pronounced against him, in a transport of rage, said to the son of Brahma:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-65-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“‘When I was unconscious and asleep, you, beside thyself with anger, hast subjected me to the fire of your wrath like unto the Rod of Yama! For this, be assured your body too, O Brahmarishi, shall be bereft of sensation for a long time.’",
+      "metre": ""
+    },
+    {
+      "id": "vu-65-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Thus both dominated by anger, the foremost of kings and the chief of the ascetics, mutually cursed one another and they, whose powers were equal to the Gods, were both instantly deprived of their bodies.”",
+      "metre": ""
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "uttar-kand",
+    "name": "Uttara Kanda",
+    "nameSanskrit": "उत्तरकाण्डम्",
+    "index": 7,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 25,
+    "title": "Sarga 25",
+    "titleSanskrit": "",
+    "totalShlokas": 8
+  },
+  "shlokas": [
+    {
+      "id": "vu-25-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“After reflecting awhile, the Lord of Lanka went to the Solar Region, passing the night on the enchanting summit of Mount Sumeru. Riding in the Pushpaka Chariot, which was endowed with the speed of the sun’s steeds, he, by various ways advanced, and beheld the glorious and resplendent Sun, the purifier of all, adorned with golden bracelets and crowned with a halo encrusted with gems. His lovely countenance was graced with a pair of brilliant earrings, his person embellished with Keyuras, golden ornaments and garlands of crimson lotuses. His body was annointed with red sandalwood and he was blazing with a thousand rays.",
+      "metre": ""
+    },
+    {
+      "id": "vu-25-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Beholding the Sun, foremost of the Gods, Surya, that primeval Deity without end or middle, having Uchaisravas as his steed, He the Witness of the World, Lord of the Earth, Ravana was overwhelmed by His rays and said to Prahasta:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-25-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“‘O Counsellor, do you go at my behest and apprise the Sim of mine intention saying, ‘Ravana has come hither to challenge you, do you fight or admit defeat; do one or the other speedily!’",
+      "metre": ""
+    },
+    {
+      "id": "vu-25-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Hearing these words, that Rakshasa advanced towards the sun and beheld two door-keepers named Pingala and Dandi and, having communicated Ravana’s resolutions to them, he stood silent, being overpowered by the sun’s rays.",
+      "metre": ""
+    },
+    {
+      "id": "vu-25-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Approaching the Sun, Dandi related the matter to him and, hearing of Ravana’s intention, the sagacious Surya, that enemy of the night, said to him:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-25-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“‘O Dandi, either subdue Ravana or say to him “I have been defeated, do as you deemest best!”",
+      "metre": ""
+    },
+    {
+      "id": "vu-25-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“At this command, Dandi approached the high-souled Ravana and informed him of what the Sun had said.",
+      "metre": ""
+    },
+    {
+      "id": "vu-25-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Hearing Dandi’s words, the Lord of the Rakshasas proclaimed his victory by a roll of drums and went away.”",
+      "metre": ""
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "uttar-kand",
+    "name": "Uttara Kanda",
+    "nameSanskrit": "उत्तरकाण्डम्",
+    "index": 7,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 68,
+    "title": "Shukra curses Yayati",
+    "titleSanskrit": "",
+    "totalShlokas": 16
+  },
+  "shlokas": [
+    {
+      "id": "vu-68-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "Thus spoke Rama, and Lakshmana, the Slayer of His Foes, said to his mighty brother who was blazing with effulgence:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-68-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“O Lion among Monarchs, this ancient history of the King of Videha and the Sage Vasishtha is astonishing and wonderful, but why was King Nimi, a warrior full of valour, who had received initiation, unable to forgive the Rishi Vasishtha?”",
+      "metre": ""
+    },
+    {
+      "id": "vu-68-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "Thus questioned by Lakshmana, who was conversant with the Shastras, Rama, the foremost of warriors, answered his illustrious brother, saying:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-68-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“O Valiant One, forgiveness is not always shown by men! O Saumitri, hear with what resignation King Yayati bore the injuries done to him!",
+      "metre": ""
+    },
+    {
+      "id": "vu-68-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“King Yayati, the prosperity of his people, was the son of Nahusha—he had two wives, whose beauty was unequalled on earth. One was his favourite, Sharmishtha, born of Diti and the Daitya Vrashparvan, the other consort of Yayati was the daughter of Shukacarya and called Devayani, who was not beloved of her husband.",
+      "metre": ""
+    },
+    {
+      "id": "vu-68-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Two sons of great beauty and amiability were born to them, Sharmishtha begot Puru and Devayani, Yadu.",
+      "metre": ""
+    },
+    {
+      "id": "vu-68-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "Puru was the favourite of his sire on account of his good qualities and also because of his mother, whereupon Yadu, much distressed, said to Devayani:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-68-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“‘You, who art born in the family of the divine son of Bhrigu of imperishable exploits, art exposed to misery and contempt. It is intolerable, let us both enter the fire, O Queen, and let the King amuse himself for innumerable nights with the daughter of the Daitya. Or, if you are able to endure it, then allow me to go my way. Do you suffer this for I shall not brook it and have resolved to put an end to my life.’",
+      "metre": ""
+    },
+    {
+      "id": "vu-68-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“At these words from her son, who was weeping, Devayani, overcome by grief, highly indignant, called her Sire to mind and being thought upon, Bhargava instantly appeared before his daughter and, beholding her perturbed and beside herself, he enquired of her saying:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-68-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“‘O Child, what is the matter?’",
+      "metre": ""
+    },
+    {
+      "id": "vu-68-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "Then Bhargava, his heart wrung, questioned her again and again, whereupon Devayani, enraged, answered her father, saying:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-68-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“‘I shall enter the fire or drink poison or cast myself in the waters for I will not continue living. You dost not know to what misery and contempt I am subject! When a tree is neglected, those who live thereon suffer. The king disregards me and treats me with disdain, therefore you too art disregarded!’",
+      "metre": ""
+    },
+    {
+      "id": "vu-68-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“At these words, which filled him with fury, the descendant of Bhrigu began to curse the son of Nahusha, saying:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-68-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“‘O Nahusha, since in the wickedness of your heart, you have looked upon me with contempt, old age shall come upon you and you shalt become senile.’",
+      "metre": ""
+    },
+    {
+      "id": "vu-68-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Having spoken thus and comforted his daughter, the descendant of Bhrigu, that highly illustrious Brahmarishi returned to his own abode.",
+      "metre": ""
+    },
+    {
+      "id": "vu-68-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Having solaced his daughter, Devayani, and pronounced that curse on the king, the foremost of the Twice-born, Shukra, radiant as the sun, departed.”",
+      "metre": ""
+    }
+  ]
+}

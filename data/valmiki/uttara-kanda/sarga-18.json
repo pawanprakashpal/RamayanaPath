@@ -1,0 +1,243 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "uttar-kand",
+    "name": "Uttara Kanda",
+    "nameSanskrit": "उत्तरकाण्डम्",
+    "index": 7,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 18,
+    "title": "The Gods assume a thousand Forms in fear of Ravana",
+    "titleSanskrit": "",
+    "totalShlokas": 25
+  },
+  "shlokas": [
+    {
+      "id": "vu-18-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Vedavati having entered the fire, Ravana remounted his chariot and began to range the earth once more. Having reached Ushirabija, he beheld the King Marutta performing a sacrifice in company with the Gods.",
+      "metre": ""
+    },
+    {
+      "id": "vu-18-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“A Brahmarishi named Samvarta, the brother of Brihaspati himself, conversant with the tradition, was assisting amidst the Celestial Host. Perceiving the Rakshasa, rendered invincible on account of the boons he had received, the Gods, fearing an outrage on his part, assumed the shape of animals.",
+      "metre": ""
+    },
+    {
+      "id": "vu-18-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Indra became a peacock, Dharmaraja a crow, Kuvera a chameleon and Varuna a swan. The other Deities having escaped in a like manner, O Slayer of Your Foes, Ravana penetrated into the place of sacrifice like an unclean dog.",
+      "metre": ""
+    },
+    {
+      "id": "vu-18-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Approaching the king, Ravana, the Lord of the Rakshasas said to him:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-18-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“‘Fight or submit!’",
+      "metre": ""
+    },
+    {
+      "id": "vu-18-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Then the monarch replied, ‘Who art you?’ to which Ravana, with a sneering laugh, answered:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-18-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“‘I am charmed with your simplicity, seeing you dost not flee before me, Ravana, the younger brother of Dhanada. In the Three Worlds can there be any other who is ignorant of my strength, I who vanquished my brother and carried off his aerial car?’",
+      "metre": ""
+    },
+    {
+      "id": "vu-18-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Thai the King Marutta answered Ravana, saying:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-18-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“‘Forsooth you are highly fortunate that you have triumphed over thine elder brother in combat. None in the Three Worlds can equal you in glory, yet unrighteous deeds can never be commended. Having committed this foul act, you dost preen thyself on having vanquished your brother! What course of asceticism didst you follow formerly that has earned you this boon? I have never heard aught equal to that which you have related to me. Halt where you standest; never shalt you approach me alive! This very hour, with my sharp arrows, I shall send you to the abode of death 1’",
+      "metre": ""
+    },
+    {
+      "id": "vu-18-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Speaking thus, the king, armed with his bow and arrows, in the height of anger, rushed out, but Samvarta barred the way; then the great Rishi said to Marutta:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-18-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“‘Hear the words inspired by my attachment for you! You should not enter into combat. If this sacrifice in honour of Maheshwara remain uncompleted, your race will be destroyed. How can one, who has undertaken a sacrifice, fight? How can he show anger? Further, it is doubtful that you will triumph; the Rakshasa is difficult to overcome.’",
+      "metre": ""
+    },
+    {
+      "id": "vu-18-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Hearing the words of his Guru, Marutta, that Lord of the Earth, throwing away his bow and arrows, grew calm and gave himself wholly to the ceremony.",
+      "metre": ""
+    },
+    {
+      "id": "vu-18-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Then Shuka, deeming he had accepted defeat, proclaimed with shouts of triumph, ‘Ravana is the victor!’",
+      "metre": ""
+    },
+    {
+      "id": "vu-18-14",
+      "number": 14,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Having devoured the great Rishis, who were present at the sacrifice, Ravana, gorged with their blood, began to range the earth once more. When he had departed, the Celestials with Indra at their head returned and spoke to those creatures whose forms they had borrowed.",
+      "metre": ""
+    },
+    {
+      "id": "vu-18-15",
+      "number": 15,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“In his delight, Indra said to the peacock, whose tail was dark blue:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-18-16",
+      "number": 16,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "‘“I am pleased with you, O Virtuous Bird, you shalt have nothing to fear from serpents; you shalt bear a thousand eyes on your tail and shalt manifest your joy when it rains, as a testimony of my satisfaction.’",
+      "metre": ""
+    },
+    {
+      "id": "vu-18-17",
+      "number": 17,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Such was the boon conferred on the peacock by that great lord. O Monarch, the tails of peacocks, which were dark blue formerly, have become brilliantly hued on account of this boon.",
+      "metre": ""
+    },
+    {
+      "id": "vu-18-18",
+      "number": 18,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“O Rama, Dharmaraja then said to the crow, who had perched on the sacrificial post:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-18-19",
+      "number": 19,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“‘O Bird, I am gratified with you, listen to mine auspicious words. You shalt not be visited by the various diseases to which all beings are subject, for you have gratified me, be assured thereof! Through the grace of the boon I shall confer on you, O Bird, you shalt have no need to fear death and shalt live long, till you are slain by man. Those inhabiting my empire, who are tormented by hunger, shall be satisfied, as also their kinsfolk when you have fed.’",
+      "metre": ""
+    },
+    {
+      "id": "vu-18-20",
+      "number": 20,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Varuna, in his turn, said to the swan, the King of Winged Creatures, who was disporting itself in the waters of the Ganges:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-18-21",
+      "number": 21,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“‘You shalt appear in a ravishing and graceful form, radiant as the lunar orb, supremely beautiful, white as pure foam. In contact with mine element, you will rejoice continually. You shalt taste a happiness that is unparalleled, which will be the mark of mine approval!’",
+      "metre": ""
+    },
+    {
+      "id": "vu-18-22",
+      "number": 22,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“O Rama, formerly swans were not wholly white, their wings were dark at the tips and their breasts were the colour of emerald.",
+      "metre": ""
+    },
+    {
+      "id": "vu-18-23",
+      "number": 23,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“In his turn, Kuvera addressed the chameleon who was resting on a rock and said:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-18-24",
+      "number": 24,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“‘I confer on you a golden hue on account of the pleasure you have given me. Your head will be of an unalterable golden colour as a mark of my favour.’",
+      "metre": ""
+    },
+    {
+      "id": "vu-18-25",
+      "number": 25,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Such were the boons conferred on those creatures after the sacrifice of the Gods, who, when the ceremony had been completed, returned with their king to their abode.”",
+      "metre": ""
+    }
+  ]
+}

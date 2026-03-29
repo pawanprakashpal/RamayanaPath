@@ -1,0 +1,135 @@
+{
+  "version": "valmiki",
+  "kanda": {
+    "id": "uttar-kand",
+    "name": "Uttara Kanda",
+    "nameSanskrit": "उत्तरकाण्डम्",
+    "index": 7,
+    "totalSargas": 131
+  },
+  "sarga": {
+    "number": 74,
+    "title": "The Story of Madhu",
+    "titleSanskrit": "",
+    "totalShlokas": 13
+  },
+  "shlokas": [
+    {
+      "id": "vu-74-1",
+      "number": 1,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "Then Kakutstha enquired of those ascetics, who had spoken thus, saying:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-74-2",
+      "number": 2,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Say what shall I do, O Munis, in order to dispel this danger for you?”",
+      "metre": ""
+    },
+    {
+      "id": "vu-74-3",
+      "number": 3,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "At these words from Kakutstha, Bhargava replied:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-74-4",
+      "number": 4,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Learn the cause of our fears and from whence they spring, O Prince! Formerly in the Krita-yuga, a highly intelligent Daitya, the great Asura Madhu, the eldest son of Lola, who was well-disposed to the brahmins and protected all those who sought refuge in him, was united in an unequalled friendship to the supremely illustrious Gods. And Madhu, who was endowed with valour and ever fixed in his duty, received a marvellous weapon from Rudra, who held him in high esteem.",
+      "metre": ""
+    },
+    {
+      "id": "vu-74-5",
+      "number": 5,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "Taking from his own trident, another of great power and beauty, that magnanimous One, well pleased, conferred it upon him and said:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-74-6",
+      "number": 6,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“‘You have fulfilled your duty in a remarkable degree, which has evoked my grace! In the supreme delight that I now experience, I confer this excellent weapon upon you. As long as you dost not attack the Gods or the brahmins, O Great Asura, this spear will remain with you, otherwise it will vanish. Whoever rashly provokes you to combat will be reduced to ashes by this weapon which, thereafter, will return to thine hand!’",
+      "metre": ""
+    },
+    {
+      "id": "vu-74-7",
+      "number": 7,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Having received this rare gift from Rudra, the great Asura prostrated himself before Mahadeva and said:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-74-8",
+      "number": 8,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“‘O Lord, You who art the Chief of the Gods, O Blessed One, may this weapon ever remain in my family.’",
+      "metre": ""
+    },
+    {
+      "id": "vu-74-9",
+      "number": 9,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Thus spoke Madhu, and the Lord of all beings, Shiva, that great God, anwered him saying:—",
+      "metre": ""
+    },
+    {
+      "id": "vu-74-10",
+      "number": 10,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“‘Nay, that may not be, nevertheless since your plea finds favour with me, it shall not have been uttered in vain; your son shall inherit this weapon. As long as it is in his hand, he will be invulnerable to all beings, but only if it remains there.’",
+      "metre": ""
+    },
+    {
+      "id": "vu-74-11",
+      "number": 11,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Then Madhu, the foremost of the Asuras, having received that great and marvellous gift from the God, built himself a magnificent abode. He had a beloved wife, the fortunate and illustrious Kumbhinasi, who was born of Vishvasu by Anala, and she bore him a son full of vigour named Lavana. Cruel and perverse from infancy, he was ever engaged in harming others and, seeing the iniquitous conduct of his son, Madhu was incensed and grieved but he said nothing. After a time he left this world and entered Varuna’s abode, having bequeathed the weapon to Lavana and instructed him in the nature of the gift.",
+      "metre": ""
+    },
+    {
+      "id": "vu-74-12",
+      "number": 12,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Now Lavana, due to the power of that weapon and his natural perversity, has become the scourge of the Three Worlds and particularly of the Sages, his might being equalled by the power of that weapon. You have heard all, now it is for you to decide, O Kakutstha, for you are our supreme refuge.",
+      "metre": ""
+    },
+    {
+      "id": "vu-74-13",
+      "number": 13,
+      "type": "shloka",
+      "original": "",
+      "transliteration": "",
+      "translation": "“Many monarchs, O Rama, have been solicited by the Sages to deliver them from fear, but, O Valiant Prince, we have not found a protector. Learning that you had destroyed Ravana with his infantry and cavalry, we have recognized you as our saviour, O Dear Son. We know of no other king on earth capable of delivering us; we entreat you to free us from the terror which Lavana inspires in us. This, O Rama, is the cause of our present fear; you are able to dispel it; fulfil our desire, O You whose valour is unconquerable.”",
+      "metre": ""
+    }
+  ]
+}

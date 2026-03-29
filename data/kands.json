@@ -40,7 +40,7 @@
       "index": 7,
       "slug": "uttar-kand",
       "tulsidas": { "name": "Uttar Kand", "nameOriginal": "उत्तरकाण्ड", "totalUnits": 130, "available": true },
-      "valmiki": { "name": "Uttara Kanda", "nameOriginal": "उत्तरकाण्डम्", "totalUnits": 110, "available": false }
+      "valmiki": { "name": "Uttara Kanda", "nameOriginal": "उत्तरकाण्डम्", "totalUnits": 131, "available": true }
     }
   ]
 }

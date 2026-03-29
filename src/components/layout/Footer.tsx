@@ -13,8 +13,18 @@ export default function Footer() {
               Original verses from Tulsidas Ramcharitmanas &amp; Valmiki Ramayana
             </p>
           </div>
-          <div className="text-xs text-[var(--muted)]">
-            Verses are in the public domain. Translations provided for educational purposes.
+          <div className="text-xs text-[var(--muted)] text-center sm:text-right">
+            <p>Verses are in the public domain. Translations provided for educational purposes.</p>
+            <p className="mt-1">
+              Sanskrit texts sourced from{" "}
+              <a href="https://www.valmiki.iitk.ac.in/" target="_blank" rel="noopener noreferrer" className="underline hover:text-[var(--foreground)]">
+                IIT Kanpur Valmiki Ramayanam
+              </a>
+              {" "}&amp;{" "}
+              <a href="https://www.ramcharitmanas.iitk.ac.in/" target="_blank" rel="noopener noreferrer" className="underline hover:text-[var(--foreground)]">
+                IIT Kanpur Ramcharitmanas
+              </a>
+            </p>
           </div>
         </div>
       </div>

@@ -37,23 +37,25 @@ export default function VerseCard({ verse, verseLabel }: VerseCardProps) {
         </details>
       )}
 
-      {/* Hindi Translation */}
+      {/* Hindi Translation — collapsible */}
       {verse.hindiTranslation && (
-        <div className="mb-4">
-          <p className="text-xs font-medium text-[var(--muted)] uppercase tracking-wider mb-1">
-            हिन्दी अर्थ
-          </p>
-          <div className="verse-translation font-devanagari">{verse.hindiTranslation}</div>
-        </div>
+        <details className="mb-4 group">
+          <summary className="text-xs font-medium text-[var(--muted)] uppercase tracking-wider cursor-pointer select-none hover:text-[var(--foreground)] transition-colors">
+            <span className="group-open:hidden">हिन्दी अर्थ देखें</span>
+            <span className="hidden group-open:inline">हिन्दी अर्थ</span>
+          </summary>
+          <div className="verse-translation font-devanagari mt-2">{verse.hindiTranslation}</div>
+        </details>
       )}
 
-      {/* English Translation */}
-      <div>
-        <p className="text-xs font-medium text-[var(--muted)] uppercase tracking-wider mb-1">
-          English Translation
-        </p>
-        <div className="verse-translation">{verse.translation}</div>
-      </div>
+      {/* English Translation — collapsible */}
+      <details className="group" open>
+        <summary className="text-xs font-medium text-[var(--muted)] uppercase tracking-wider cursor-pointer select-none hover:text-[var(--foreground)] transition-colors">
+          <span className="group-open:hidden">Show English Translation</span>
+          <span className="hidden group-open:inline">English Translation</span>
+        </summary>
+        <div className="verse-translation mt-2">{verse.translation}</div>
+      </details>
     </div>
   );
 }

@@ -7,6 +7,7 @@ export interface BaseVerse {
   original: string;
   transliteration: string;
   translation: string;
+  hindiTranslation?: string;
 }
 
 export interface TulsidasVerse extends BaseVerse {

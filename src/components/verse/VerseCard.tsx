@@ -37,7 +37,17 @@ export default function VerseCard({ verse, verseLabel }: VerseCardProps) {
         </details>
       )}
 
-      {/* Translation */}
+      {/* Hindi Translation */}
+      {verse.hindiTranslation && (
+        <div className="mb-4">
+          <p className="text-xs font-medium text-[var(--muted)] uppercase tracking-wider mb-1">
+            हिन्दी अर्थ
+          </p>
+          <div className="verse-translation font-devanagari">{verse.hindiTranslation}</div>
+        </div>
+      )}
+
+      {/* English Translation */}
       <div>
         <p className="text-xs font-medium text-[var(--muted)] uppercase tracking-wider mb-1">
           English Translation

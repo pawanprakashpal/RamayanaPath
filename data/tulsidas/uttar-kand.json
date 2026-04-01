@@ -2706,7 +2706,8 @@
           "original": "प्रेम सहित मुनि नारद बरनि राम गुन ग्राम।\nसोभासिंधु हृदयँ धरि गए जहाँ बिधि धाम।।51।।",
           "transliteration": "prema sahita muni nārada barani rāma guna grāma.\nsobhāsiṃdhu hṛdayaṃ dhari gae jahāṃ ba",
           "translation": "With love, sage Narada praised Rama's assemblage of virtues. Then, holding the Ocean of beauty in his heart, he went to Brahma's abode.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "प्रेमपूर्वक मुनि नारद ने श्रीराम के गुण-समूह वर्णन किए। शोभासिन्धु (श्रीराम) को हृदय में धारण करके ब्रह्मलोक गए।"
         }
       ]
     },
@@ -2719,7 +2720,8 @@
           "original": "गिरिजा सुनहु बिसद यह कथा। मैं सब कही मोरि मति जथा।।\nराम चरित सत कोटि अपारा। श्रुति सारदा न बरनै पारा।।",
           "transliteration": "girijā sunahu bisada yaha kathā. maiṃ saba kahī mori mati jathā.\nrāma carita sata koṭi a",
           "translation": "O Girija, hear this pure and clear narrative. I have told it all according to my understanding. Rama's story has a hundred crore versions, all infinite.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी कहते हैं) हे गिरिजा! यह विशद (स्पष्ट) कथा सुनो। मैंने सब अपनी मति के अनुसार कही। श्रीराम-चरित्र — सौ करोड़ अनन्त।"
         },
         {
           "id": "ut-52-c2",
@@ -2727,7 +2729,8 @@
           "original": "राम अनंत अनंत गुनानी। जन्म कर्म अनंत नामानी।।\nजल सीकर महि रज गनि जाहीं। रघुपति चरित न बरनि सिराहीं।।",
           "transliteration": "rāma ananta ananta gunānī. janma karma ananta nāmānī.\njala sīkara mahi raja gani jāhīṃ",
           "translation": "Rama is infinite, His virtues infinite, His births, deeds, and names infinite. Drops of water and grains of earth can be counted, but not His glories.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "श्रीराम अनन्त, अनन्त गुणवान। जन्म-कर्म अनन्त, नाम अनन्त। जल की बूँदें और पृथ्वी के कण गिने जा सकते — (पर श्रीराम की महिमा नहीं)।"
         },
         {
           "id": "ut-52-c3",
@@ -2735,7 +2738,8 @@
           "original": "बिमल कथा हरि पद दायनी। भगति होइ सुनि अनपायनी।।\nउमा कहिउँ सब कथा सुहाई। जो भुसुंडि खगपतिहि सुनाई।।",
           "transliteration": "bimala kathā hari pada dāyanī. bhagati hoi suni anapāyanī.\numā kahiuṃ saba kathā suhāī.",
           "translation": "This pure narrative bestows Hari's abode and unfailing devotion to all who hear it. O Uma, I have told you the entire beautiful story.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "यह विमल कथा श्रीहरि का पद देने वाली। सुनने से अनपायनी (कभी न मिटने वाली) भक्ति होती है। उमा! मैंने सब सुहावनी कथा कही।"
         },
         {
           "id": "ut-52-c4",
@@ -2743,7 +2747,8 @@
           "original": "कछुक राम गुन कहेउँ बखानी। अब का कहौं सो कहहु भवानी।।\nसुनि सुभ कथा उमा हरषानी। बोली अति बिनीत मृदु बानी।।",
           "transliteration": "kachuka rāma guna kaheuṃ bakhānī. aba kā kahauṃ so kahahu bhavānī.\nsunata subha kathā umā",
           "translation": "I have described some of Rama's virtues. Now what more shall I say? Tell me, O Bhavani. Hearing the auspicious story, Uma rejoiced.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "कुछ श्रीराम के गुण बखानकर कहे। अब क्या कहूँ — कहो, भवानी! शुभ कथा सुनकर उमा (प्रसन्न हुईं)।"
         },
         {
           "id": "ut-52-c5",
@@ -2751,7 +2756,8 @@
           "original": "धन्य धन्य मैं धन्य पुरारी। सुनेउँ राम गुन भव भय हारी।।",
           "transliteration": "dhanya dhanya maiṃ dhanya purārī. suneuṃ rāma guna bhava bhaya hārī.",
           "translation": "'Blessed, blessed am I, O Lord of Kailash! I have heard Rama's virtues that destroy the fear of worldly existence.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(उमा ने कहा) धन्य-धन्य मैं धन्य, हे पुरारि (शिवजी)! भव-भय हरने वाले श्रीराम के गुण सुने।"
         },
         {
           "id": "ut-52-d",
@@ -2759,7 +2765,8 @@
           "original": "तुम्हरी कृपाँ कृपायतन अब कृतकृत्य न मोह।\nजानेउँ राम प्रताप प्रभु चिदानंद संदोह।।52(क)।।\nनाथ तवानन ससि स्रवत कथा सुधा रघुबीर।\nश्रवन पुटन्हि मन पान करि नहिं अघात मतिधीर।।52(ख)।।",
           "transliteration": "tumharī kṛpāṃ kṛpāyatana aba kṛtakṛtya na moha.\njāneuṃ rāma pratāpa prabhu cidāna",
           "translation": "'By Your grace, O abode of mercy, I am now fulfilled and free from delusion. I have known Rama's glory, O Lord — the Consciousness-Bliss Supreme.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(उमा ने कहा) आपकी कृपा से, हे कृपायतन! अब कृतकृत्य हूँ — मोह नहीं। श्रीराम का प्रताप जान लिया, हे प्रभु! — चिदानन्द।"
         }
       ]
     },
@@ -2772,7 +2779,8 @@
           "original": "राम चरित जे सुनत अघाहीं। रस बिसेष जाना तिन्ह नाहीं।।\nजीवनमुक्त महामुनि जेऊ। हरि गुन सुनहीं निरंतर तेऊ।।",
           "transliteration": "rāma carita je sunata aghāhīṃ. rasa biseṣa jānā tinha nāhīṃ.\njīvanamukta mahāmuni",
           "translation": "Those who never tire of hearing Rama's story have not truly known its special essence. Even liberated great sages listen to it.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(उमा ने कहा) जो श्रीराम-चरित्र सुनकर अघाते (तृप्त) नहीं — उन्होंने विशेष रस नहीं जाना। जीवन्मुक्त, महामुनि (भी सुनते हैं)।"
         },
         {
           "id": "ut-53-c2",
@@ -2780,7 +2788,8 @@
           "original": "भव सागर चह पार जो पावा। राम कथा ता कहँ दृढ़ नावा।।\nबिषइन्ह कहँ पुनि हरि गुन ग्रामा। श्रवन सुखद अरु मन अभिरामा।।",
           "transliteration": "bhava sāgara caha pāra jo pāvā. rāma kathā tā kahaṃ dṛḍha nāvā.\nbiṣainha kahaṃ puni hara",
           "translation": "One who wishes to cross the ocean of existence — Rama's story is his firm boat. For worldly people too, it destroys sins.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(उमा ने कहा) जो भवसागर पार पाना चाहे — श्रीराम-कथा उसके लिए दृढ़ नौका। विषयी (भोगी) लोगों के लिए भी (पाप-नाशक)।"
         },
         {
           "id": "ut-53-c3",
@@ -2788,7 +2797,8 @@
           "original": "श्रवनवंत अस को जग माहीं। जाहि न रघुपति चरित सोहाहीं।।\nते जड़ जीव निजात्मक घाती। जिन्हहि न रघुपति कथा सोहाती।।",
           "transliteration": "śravanavanta asa ko jaga māhīṃ. jāhi na raghupati carita sohāhīṃ.\nte jaḍa jīva nijāta",
           "translation": "Who in this world has ears and yet does not delight in Raghupati's deeds? Such dull beings are dead even while alive, like serpents without gems.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(उमा ने कहा) जगत में कान वाला ऐसा कौन है — जिसे श्रीरघुपति का चरित्र न सुहाए? वे जड़ जीव — (मृत समान)।"
         },
         {
           "id": "ut-53-c4",
@@ -2796,7 +2806,8 @@
           "original": "हरिचरित्र मानस तुम्ह गावा। सुनि मैं नाथ अमिति सुख पावा।।\nतुम्ह जो कही यह कथा सुहाई। कागभसुंडि गरुड़ प्रति गाई।।",
           "transliteration": "haricaritra mānasa tumha gāvā. suni maiṃ nātha amiti sukha pāvā.\ntumha jo kahī",
           "translation": "'You have sung the Manas of Hari's deeds — hearing it, O Lord, I have found immeasurable joy. What you have told is the supreme narrative.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(उमा ने कहा) श्रीहरि-चरित्र-मानस आपने गाया — सुनकर, हे नाथ! अमित सुख पाया। आपने जो कथा कही (वह परम)।"
         },
         {
           "id": "ut-53-d",
@@ -2804,7 +2815,8 @@
           "original": "बिरति ग्यान बिग्यान दृढ़ राम चरन अति नेह।\nबायस तन रघुपति भगति मोहि परम संदेह।।53।।",
           "transliteration": "birati gyāna bigyāna dṛḍha rāma carana ati neha.\nbāyasa tana raghupati bhagati mohi parama",
           "translation": "'Dispassion, knowledge, realization, firm love for Rama's feet — and devotion to Raghupati in a crow's body! This seems supremely wondrous to me.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(उमा ने कहा) वैराग्य, ज्ञान, विज्ञान दृढ़ — श्रीराम-चरणों में अत्यन्त प्रेम। कौए के शरीर में श्रीरघुपति-भक्ति — मुझे परम (आश्चर्य)।"
         }
       ]
     },
@@ -2817,7 +2829,8 @@
           "original": "नर सहस्त्र महँ सुनहु पुरारी। कोउ एक होइ धर्म ब्रतधारी।।\nधर्मसील कोटिक महँ कोई। बिषय बिमुख बिराग रत होई।।",
           "transliteration": "nara sahastra mahaṃ sunahu purārī. kou eka hoi dharma bratadhārī.\ndharmasīla koṭika",
           "translation": "'Among thousands of men, hear me O Lord, perhaps one observes the vow of dharma. Among millions of the virtuous, one is truly detached.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(उमा ने पूछा) हजारों मनुष्यों में, सुनो हे पुरारि! कोई एक धर्म-व्रतधारी होता है। धर्मशीलों में करोड़ों में —"
         },
         {
           "id": "ut-54-c2",
@@ -2825,7 +2838,8 @@
           "original": "कोटि बिरक्त मध्य श्रुति कहई। सम्यक ग्यान सकृत कोउ लहई।।\nग्यानवंत कोटिक महँ कोऊ। जीवनमुक्त सकृत जग सोऊ।।",
           "transliteration": "koṭi birakta madhya śruti kaheī. samyaka gyāna sakṛta kou laheī.\ngyānavanta koṭika",
           "translation": "'Among millions of the detached, the scriptures say, perhaps one truly attains right knowledge. Among millions of the wise, rare is the knower of Brahman.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(उमा ने पूछा) करोड़ वैरागियों में — श्रुति कहती है — सम्यक् ज्ञान कभी कोई एक पाता। ज्ञानवानों में करोड़ों —"
         },
         {
           "id": "ut-54-c3",
@@ -2833,7 +2847,8 @@
           "original": "तिन्ह सहस्त्र महुँ सब सुख खानी। दुर्लभ ब्रह्मलीन बिग्यानी।।\nधर्मसील बिरक्त अरु ग्यानी। जीवनमुक्त ब्रह्मपर प्रानी।।",
           "transliteration": "tinha sahastra mahūṃ saba sukha khānī. durlabha brahmalīna bigyānī.\ndharmasīla bi",
           "translation": "'Among thousands of such knowers, rare is the one absorbed in Brahman, the liberated sage — the mine of all happiness. Rare indeed are such souls.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(उमा ने पूछा) उन हजारों में — सब सुख की खान — दुर्लभ ब्रह्मलीन विज्ञानी। धर्मशील, विरक्त —"
         },
         {
           "id": "ut-54-c4",
@@ -2841,7 +2856,8 @@
           "original": "सब ते सो दुर्लभ सुरराया। राम भगति रत गत मद माया।।\nसो हरिभगति काग किमि पाई। बिस्वनाथ मोहि कहहु बुझाई।।",
           "transliteration": "saba te so durlabha surarāyā. rāma bhagati rata gata mada māyā.\nso haribhagati kāga kimi",
           "translation": "'Rarest of all, O king of gods, is one devoted to Rama, free from pride and Maya. How then did a crow obtain such devotion to Hari?'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(उमा ने पूछा) सबसे दुर्लभ, हे देवराज! — श्रीराम-भक्ति-रत, मद-माया से मुक्त। वह श्रीहरि-भक्ति — कौए को कैसे मिली?"
         },
         {
           "id": "ut-54-d",
@@ -2849,7 +2865,8 @@
           "original": "राम परायन ग्यान रत गुनागार मति धीर।\nनाथ कहहु केहि कारन पायउ काक सरीर।।54।।",
           "transliteration": "rāma parāyana gyāna rata gunāgāra mati dhīra.\nnātha kahahu kehi kārana pāyau kāka sarīra.",
           "translation": "'Devoted to Rama, absorbed in knowledge, a treasury of virtue with a steady mind — O Lord, tell me, for what reason did he obtain a crow's body?'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(उमा ने पूछा) श्रीराम-परायण, ज्ञान-रत, गुणागार, धीर बुद्धि। हे नाथ! कहो — किस कारण काक (कौए) का शरीर पाया?"
         }
       ]
     },
@@ -2862,7 +2879,8 @@
           "original": "यह प्रभु चरित पवित्र सुहावा। कहहु कृपाल काग कहँ पावा।।\nतुम्ह केहि भाँति सुना मदनारी। कहहु मोहि अति कौतुक भारी।।",
           "transliteration": "yaha prabhu carita pavitra suhāvā. kahahu kṛpāla kāga kahaṃ pāvā.\ntumha kehi bhāṃta",
           "translation": "'This sacred and beautiful story of the Lord — tell me, O gracious one, how did the crow obtain it? And in what manner did you hear it from him?'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(उमा ने पूछा) यह पवित्र, सुहावना प्रभु-चरित्र — कहो, हे कृपालु! कौए को कैसे मिला? आपने किस प्रकार (उनसे) सुना?"
         },
         {
           "id": "ut-55-c2",
@@ -2870,7 +2888,8 @@
           "original": "गरुड़ महाग्यानी गुन रासी। हरि सेवक अति निकट निवासी।।\nतेहिं केहि हेतु काग सन जाई। सुनी कथा मुनि निकर बिहाई।।",
           "transliteration": "garuḍa mahāgyānī guna rāsī. hari sevaka ati nikaṭa nivāsī.\ntehiṃ kehi hetu ka",
           "translation": "'Garuda is supremely wise, a treasury of virtue, and an intimate servant of Hari who lives very close to Him. For what reason did he go to the crow?'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(उमा ने पूछा) गरुड़ — महाज्ञानी, गुणों की राशि — श्रीहरि के सेवक, अत्यन्त निकट निवासी। उन्होंने किस कारण (कौए के पास जाकर) —"
         },
         {
           "id": "ut-55-c3",
@@ -2878,7 +2897,8 @@
           "original": "कहहु कवन बिधि भा संबादा। दोउ हरिभगत काग उरगादा।।\nगौरि गिरा सुनि सरल सुहाई। बोले सिव सादर सुख पाई।।",
           "transliteration": "kahahu kavana bidhi bhā sambādā. dou haribhagata kāga uragādā.\ngauri girā suni sarala su",
           "translation": "'Tell me, how did the conversation between them take place — the two devotees of Hari, the crow and the serpent-eater (Garuda)?' Hearing Gauri's simple and sweet question, Shiva was pleased.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(उमा ने पूछा) कहो, किस प्रकार दोनों हरिभक्तों — कौए और गरुड़ — का संवाद हुआ? गौरी की सरल, सुन्दर वाणी सुनकर (शिवजी प्रसन्न)।"
         },
         {
           "id": "ut-55-c4",
@@ -2886,7 +2906,8 @@
           "original": "धन्य सती पावन मति तोरी। रघुपति चरन प्रीति नहिं थोरी।।\nसुनहु परम पुनीत इतिहासा। जो सुनि सकल लोक भ्रम नासा।।",
           "transliteration": "dhanya satī pāvana mati torī. raghupati carana prīti nahiṃ thorī.\nsunahu parama punīta",
           "translation": "'Blessed are you, O Sati, pure is your understanding! Your love for Raghupati's feet is not small. Hear the supremely sacred narrative.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) धन्य सती! तुम्हारी पावन बुद्धि! श्रीरघुपति-चरणों में कम प्रीति नहीं। परम पुनीत (कथा) सुनो।"
         },
         {
           "id": "ut-55-c5",
@@ -2894,7 +2915,8 @@
           "original": "उपजइ राम चरन बिस्वासा। भव निधि तर नर बिनहिं प्रयासा।।",
           "transliteration": "upajai rāma carana bisvāsā. bhava nidhi tara nara binahiṃ prayāsā.",
           "translation": "'When faith in Rama's feet arises, one crosses the ocean of existence without effort.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(शिवजी ने कहा) श्रीराम-चरणों में विश्वास उत्पन्न होने पर — भवनिधि (संसार-सागर) बिना प्रयास तर जाते।"
         },
         {
           "id": "ut-55-d",
@@ -2902,7 +2924,8 @@
           "original": "ऐसिअ प्रस्न बिहंगपति कीन्ह काग सन जाइ।\nसो सब सादर कहिहउँ सुनहु उमा मन लाइ।।55।।",
           "transliteration": "aisia prasna bihaṅgapati kīnha kāga sana jāi.\nso saba sādara kahihauṃ sunahu umā mana",
           "translation": "Such was the question that Garuda, the king of birds, asked Kakbhushundi. I shall narrate it all reverently — hear it, O Uma, with a focused mind.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(शिवजी ने कहा) ऐसा ही प्रश्न पक्षिराज (गरुड़) ने कौए (काकभुशुण्डि) से जाकर किया। वह सब आदरपूर्वक कहूँगा — सुनो उमा! मन लगाकर।"
         }
       ]
     },
@@ -2915,7 +2938,8 @@
           "original": "मैं जिमि कथा सुनी भव मोचनि। सो प्रसंग सुनु सुमुखि सुलोचनि।।\nप्रथम दच्छ गृह तव अवतारा। सती नाम तब रहा तुम्हारा।।",
           "transliteration": "maiṃ jimi kathā sunī bhava mocanī. so prasaṅga sunu sumukhi sulocanī.\nprathama daccha",
           "translation": "I shall tell you how I heard this story that liberates from worldly existence. Listen, O beautiful-faced, lovely-eyed one. First, Daksha held his sacrifice.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) जिस प्रकार मैंने यह भव-मोचनी (संसार से मुक्ति देने वाली) कथा सुनी — वह प्रसंग सुनो, हे सुमुखि, सुलोचनि! पहले दक्ष-यज्ञ —"
         },
         {
           "id": "ut-56-c2",
@@ -2923,7 +2947,8 @@
           "original": "दच्छ जग्य तब भा अपमाना। तुम्ह अति क्रोध तजे तब प्राना।।\nमम अनुचरन्ह कीन्ह मख भंगा। जानहु तुम्ह सो सकल प्रसंगा।।",
           "transliteration": "daccha jagya taba bhā apamānā. tumha ati krodha taje taba prānā.\nmama anucaranha kī",
           "translation": "At Daksha's sacrifice, you were insulted. In great anger, you then gave up your life. My attendants wreaked havoc.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) दक्ष-यज्ञ में तब अपमान हुआ। तुमने (सती ने) अत्यन्त क्रोध से प्राण त्यागे। मेरे अनुचरों ने —"
         },
         {
           "id": "ut-56-c3",
@@ -2931,7 +2956,8 @@
           "original": "तब अति सोच भयउ मन मोरें। दुखी भयउँ बियोग प्रिय तोरें।।\nसुंदर बन गिरि सरित तड़ागा। कौतुक देखत फिरउँ बेरागा।।",
           "transliteration": "taba ati soca bhayau mana moreṃ. dukhī bhayauṃ biyoga priya toreṃ.\nsundara bana giri sa",
           "translation": "Then great sorrow arose in my heart; I was grieved by separation from you, my dear. I wandered through beautiful forests and mountains.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) तब मेरे मन में अत्यन्त शोक हुआ — तुम्हारे वियोग से दुखी। सुन्दर वन, पर्वत (खोजते) —"
         },
         {
           "id": "ut-56-c4",
@@ -2939,7 +2965,8 @@
           "original": "गिरि सुमेर उत्तर दिसि दूरी। नील सैल एक सुन्दर भूरी।।\nतासु कनकमय सिखर सुहाए। चारि चारु मोरे मन भाए।।",
           "transliteration": "giri sumeru uttara disi dūrī. nīla saila eka sundara bhūrī.\ntāsu kanakamaya sikhara sa",
           "translation": "Far to the north of Mount Sumeru, there is a very beautiful blue mountain. On its golden peak, adorned with beauty.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) सुमेरु पर्वत से उत्तर दिशा में दूर — एक अत्यन्त सुन्दर नीला पर्वत। उसकी सोने की चोटी पर —"
         },
         {
           "id": "ut-56-c5",
@@ -2947,7 +2974,8 @@
           "original": "तिन्ह पर एक एक बिटप बिसाला। बट पीपर पाकरी रसाला।।\nसैलोपरि सर सुंदर सोहा। मनि सोपान देखि मन मोहा।।",
           "transliteration": "tinha para eka eka biṭapa bisālā. baṭa pīpara pākarī rasālā.\nsailopari sara sundara soha",
           "translation": "On them stood one great tree each — a banyan, a pipal, a pakar, and a mango. On top of the mountain, a beautiful lake shone.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) उन पर एक-एक विशाल वृक्ष — बड़, पीपल, पाकड़ और आम। पर्वत के ऊपर सुन्दर सरोवर शोभित।"
         },
         {
           "id": "ut-56-d",
@@ -2955,7 +2983,8 @@
           "original": "-सीतल अमल मधुर जल जलज बिपुल बहुरंग।\nकूजत कल रव हंस गन गुंजत मजुंल भृंग।।56।।",
           "transliteration": "sītala amala madhura jala jalaja bipula bahuraṅga.\nkūjata kala rava haṃsa gana guñjata mañjula bhṛṅga",
           "translation": "Cool, pure, sweet water filled with abundant lotuses of many colors. Flocks of swans sang melodiously, and beautiful bees hummed sweetly.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(शिवजी ने कहा) शीतल, निर्मल, मधुर जल — अनेक रंगों के विपुल कमल। सुन्दर स्वर में हंसों के झुण्ड कूजते — मधुर भौंरे गुंजार करते।"
         }
       ]
     },
@@ -2968,7 +2997,8 @@
           "original": "तेहिं गिरि रुचिर बसइ खग सोई। तासु नास कल्पांत न होई।।\nमाया कृत गुन दोष अनेका। मोह मनोज आदि अबिबेका।।",
           "transliteration": "tehiṃ giri rucira basai khaga soī. tāsu nāsa kalpānta na hoī.\nmāyā kṛta guna doṣa",
           "translation": "On that beautiful mountain dwelt that bird (Kakbhushundi). He is imperishable — even the dissolution of the universe cannot destroy him. The effects of Maya's qualities and faults pervade the world.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) उस सुन्दर पर्वत पर वही पक्षी (काकभुशुण्डि) बसता। कल्पान्त (प्रलय) में भी उसका नाश नहीं। माया-कृत गुण-दोष —"
         },
         {
           "id": "ut-57-c2",
@@ -2976,7 +3006,8 @@
           "original": "रहे ब्यापि समस्त जग माहीं। तेहि गिरि निकट कबहुँ नहिं जाहीं।।\nतहँ बसि हरिहि भजइ जिमि कागा। सो सुनु उमा सहित अनुरागा।।",
           "transliteration": "rahe byāpi samasta jaga māhīṃ. tehi giri nikaṭa kabahūṃ nahiṃ jāhīṃ.\ntahaṃ basi ha",
           "translation": "They spread throughout the world but never approach that mountain. There, that devotee of Hari dwells and practices devotion.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) (माया के गुण-दोष) सम्पूर्ण जगत में व्याप्त हैं — पर उस पर्वत के निकट कभी नहीं जाते। वहाँ बसकर वह श्रीहरि-भक्ति करता।"
         },
         {
           "id": "ut-57-c3",
@@ -2984,7 +3015,8 @@
           "original": "पीपर तरु तर ध्यान सो धरई। जाप जग्य पाकरि तर करई।।\nआँब छाहँ कर मानस पूजा। तजि हरि भजनु काजु नहिं दूजा।।",
           "transliteration": "pīpara taru tara dhyāna so dharaī. jāpa jagya pākari tara karaī.\nāṃba chāhāṃ kara mānasa pūja",
           "translation": "Under the pipal tree he meditates; under the pakar tree he performs chanting and sacrifice. Under the mango's shade he conducts mental worship.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) पीपल के नीचे ध्यान धरता। पाकड़ के नीचे जप-यज्ञ करता। आम की छाँव में मानस-पूजा।"
         },
         {
           "id": "ut-57-c4",
@@ -2992,7 +3024,8 @@
           "original": "बर तर कह हरि कथा प्रसंगा। आवहिं सुनहिं अनेक बिहंगा।।\nराम चरित बिचीत्र बिधि नाना। प्रेम सहित कर सादर गाना।।",
           "transliteration": "bara tara kaha hari kathā prasaṅgā. āvahiṃ sunahiṃ aneka bihaṅgā.\nrāma carita bicītra",
           "translation": "Under the banyan tree he narrates Hari's stories. Many birds come to listen. Rama's wondrous deeds are sung there.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) बड़ के नीचे श्रीहरि-कथा-प्रसंग कहता। अनेक पक्षी आकर सुनते। श्रीराम-चरित्र — विचित्र।"
         },
         {
           "id": "ut-57-c5",
@@ -3000,7 +3033,8 @@
           "original": "सुनहिं सकल मति बिमल मराला। बसहिं निरंतर जे तेहिं ताला।।\nजब मैं जाइ सो कौतुक देखा। उर उपजा आनंद बिसेषा।।",
           "transliteration": "sunahiṃ sakala mati bimala marālā. basahiṃ nirantara je tehiṃ tālā.",
           "translation": "The pure-minded swans who always dwell in that lake listen to everything.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) निर्मल बुद्धि वाले हंस — जो उस तालाब में निरन्तर बसते — सब सुनते। जब मैं (शिवजी) वहाँ गया —"
         },
         {
           "id": "ut-57-d",
@@ -3008,7 +3042,8 @@
           "original": "तब कछु काल मराल तनु धरि तहँ कीन्ह निवास।\nसादर सुनि रघुपति गुन पुनि आयउँ कैलास।।57।।",
           "transliteration": "jaba maiṃ jāi so taba kachhu kāla marāla tanu dhari tahaṃ kīnha nivāsa.\nsādara suni raghupati guna puni āyau",
           "translation": "Once I went there in the form of a swan and dwelt there for some time. Having reverently heard Raghupati's virtues, I returned to Kailash.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(शिवजी ने कहा) तब कुछ काल हंस-शरीर धारण करके वहाँ निवास किया। आदरपूर्वक श्रीरघुपति के गुण सुनकर — फिर (कैलाश) लौट आया।"
         }
       ]
     },
@@ -3021,7 +3056,8 @@
           "original": "गिरिजा कहेउँ सो सब इतिहासा। मैं जेहि समय गयउँ खग पासा।।\nअब सो कथा सुनहु जेही हेतू। गयउ काग पहिं खग कुल केतू।।",
           "transliteration": "girijā kaheuṃ so saba itihāsā. maiṃ jehi samaya gayauṃ khaga pāsā.\naba so kathā sunaha",
           "translation": "O Girija, I have told you that entire history. Now hear the story of when I went to that bird. It is a most beautiful narrative.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) हे गिरिजा! वह सब इतिहास कह दिया — मैं जिस समय पक्षी (काकभुशुण्डि) के पास गया। अब वह कथा सुनो —"
         },
         {
           "id": "ut-58-c2",
@@ -3029,7 +3065,8 @@
           "original": "जब रघुनाथ कीन्हि रन क्रीड़ा। समुझत चरित होति मोहि ब्रीड़ा।।\nइंद्रजीत कर आपु बँधायो। तब नारद मुनि गरुड़ पठायो।।",
           "transliteration": "jaba raghunātha kīnhi rana krīḍā. samujhata carita hoti mohi brīḍā.\niṃdrajīta ka",
           "translation": "When Raghunath performed His sport of battle, I feel ashamed even to recall it. Indrajit bound Rama and Lakshmana with serpent-arrows.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) जब श्रीरघुनाथ ने रण-क्रीड़ा की — चरित्र समझते मुझे लज्जा होती है। इन्द्रजीत ने (नागपाश से बाँधा)।"
         },
         {
           "id": "ut-58-c3",
@@ -3037,7 +3074,8 @@
           "original": "बंधन काटि गयो उरगादा। उपजा हृदयँ प्रचंड बिषादा।।\nप्रभु बंधन समुझत बहु भाँती। करत बिचार उरग आराती।।",
           "transliteration": "bandhana kāṭi gayo uragādā. upajā hṛdayaṃ pracaṇḍa biṣādā.\nprabhu bandhana samujhata bahu",
           "translation": "Garuda came and cut the bonds, freeing them. But intense grief arose in his heart. Thinking about the Lord's bondage, many doubts surfaced.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) गरुड़ ने बन्धन काटकर (मुक्त किया)। हृदय में प्रचण्ड विषाद उत्पन्न हुआ। प्रभु का बन्धन समझते — बहुत (सन्देह)।"
         },
         {
           "id": "ut-58-c4",
@@ -3045,7 +3083,8 @@
           "original": "ब्यापक ब्रह्म बिरज बागीसा। माया मोह पार परमीसा।।\nसो अवतार सुनेउँ जग माहीं। देखेउँ सो प्रभाव कछु नाहीं।।",
           "transliteration": "byāpaka brahma biraja bāgīsā. māyā moha pāra paramīsā.\nso avatāra suneuṃ jaga mā",
           "translation": "The all-pervading Brahman, pure, beyond speech — the Supreme Lord beyond Maya and delusion. 'I heard He incarnated in this world, yet He was bound!'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(गरुड़ ने सोचा) व्यापक ब्रह्म, विरज (निर्मल), वाणी से परे। माया-मोह से पार, परमेश्वर। उन्होंने अवतार लिया — जगत में सुना।"
         },
         {
           "id": "ut-58-d",
@@ -3053,7 +3092,8 @@
           "original": "-भव बंधन ते छूटहिं नर जपि जा कर नाम।\nखर्च निसाचर बाँधेउ नागपास सोइ राम।।58।।",
           "transliteration": "bhava bandhana te chūṭahiṃ nara japi jā kara nāma.\nkharca nisācara bāṃdheu nāgapāsa soi rāma",
           "translation": "'Beings are freed from worldly bondage by chanting His Name. Yet that same Rama was bound by serpent-arrows — how strange!'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(गरुड़ ने सोचा) जिनका नाम जपकर मनुष्य भव-बन्धन से छूटते — उन्हीं श्रीराम को राक्षसों ने नागपाश से बाँधा!"
         }
       ]
     },
@@ -3066,7 +3106,8 @@
           "original": "नाना भाँति मनहि समुझावा। प्रगट न ग्यान हृदयँ भ्रम छावा।।\nखेद खिन्न मन तर्क बढ़ाई। भयउ मोहबस तुम्हरिहिं नाई।।",
           "transliteration": "nānā bhāṃti manahi samujhāvā. pragaṭa na gyāna hṛdayaṃ bhrama chāvā.\nkheda khinna mana",
           "translation": "He tried to reason with his mind in many ways, but wisdom did not dawn and doubt covered his heart. Dejected and sorrowful, his mind was troubled.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(गरुड़ ने) अनेक प्रकार से मन को समझाया। पर ज्ञान प्रकट न हुआ — हृदय में भ्रम छाया। खेद-खिन्न मन —"
         },
         {
           "id": "ut-59-c2",
@@ -3074,7 +3115,8 @@
           "original": "ब्याकुल गयउ देवरिषि पाहीं। कहेसि जो संसय निज मन माहीं।।\nसुनि नारदहि लागि अति दाया। सुनु खग प्रबल राम कै माया।।",
           "transliteration": "byākula gayau devarishi pāhīṃ. kahesi jo saṃsaya nija mana māhīṃ.\nsuni nāradahi lā",
           "translation": "Distressed, he went to the divine sage Narada and told him of the doubt in his heart. Hearing him, Narada laughed.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "व्याकुल होकर देवर्षि (नारद) के पास गया। अपने मन का सन्देह बताया। सुनकर नारदजी को — (हँसी आई)।"
         },
         {
           "id": "ut-59-c3",
@@ -3082,7 +3124,8 @@
           "original": "जो ग्यानिन्ह कर चित अपहरई। बरिआई बिमोह मन करई।।\nजेहिं बहु बार नचावा मोही। सोइ ब्यापी बिहंगपति तोही।।",
           "transliteration": "jo gyāninha kara cita apaharaī. bariāī bimoha mana karaī.\njehiṃ bahu bāra nacāvā mo",
           "translation": "'He whose Maya steals the minds of the wise, whose power bewilders even the greatest — He who has made even me dance many times.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(नारदजी ने कहा) जो ज्ञानियों का चित्त हरती है — बलपूर्वक मन को मोहित करती है। जिसने बहुत बार मुझे भी नचाया।"
         },
         {
           "id": "ut-59-c4",
@@ -3090,7 +3133,8 @@
           "original": "महामोह उपजा उर तोरें। मिटिहि न बेगि कहें खग मोरें।।\nचतुरानन पहिं जाहु खगेसा। सोइ करेहु जेहि होइ निदेसा।।",
           "transliteration": "mahāmoha upajā ura toreṃ. miṭihi na begī kaheṃ khaga moreṃ.\ncaturānana pahiṃ jāhu",
           "translation": "'A great delusion has arisen in your heart. It will not easily go by my words, O bird. Go to the four-faced Brahma.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(नारदजी ने कहा) तुम्हारे हृदय में महामोह उत्पन्न हुआ। मेरे कहने से शीघ्र नहीं मिटेगा, हे पक्षी! चतुरानन (ब्रह्मा) के पास जाओ।"
         },
         {
           "id": "ut-59-d",
@@ -3098,7 +3142,8 @@
           "original": "अस कहि चले देवरिषि करत राम गुन गान।\nहरि माया बल बरनत पुनि पुनि परम सुजान।।59।।",
           "transliteration": "asa kahi cale devarishi karata rāma guna gāna.\nhari māyā bala baranata puni puni parama suja",
           "translation": "So saying, the divine sage departed, singing Rama's praises and describing the power of Hari's Maya again and again, the supremely wise one.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "ऐसा कहकर देवर्षि (नारद) चले — श्रीराम-गुण-गान करते। श्रीहरि-माया का बल वर्णन करते — बार-बार, परम सुजान।"
         }
       ]
     },
@@ -3111,7 +3156,8 @@
           "original": "तब खगपति बिरंचि पहिं गयऊ। निज संदेह सुनावत भयऊ।।\nसुनि बिरंचि रामहि सिरु नावा। समुझि प्रताप प्रेम अति छावा।।",
           "transliteration": "taba khagapati biraṃci pahiṃ gayaū. nija saṃdeha sunāvata bhayaū.\nsuni biraṃci rāmahi sira",
           "translation": "Then the king of birds went to Brahma and told him of his doubt. Hearing this, Brahma bowed to Rama.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "तब खगपति (गरुड़) ब्रह्मा के पास गया। अपना सन्देह सुनाया। सुनकर ब्रह्मा ने श्रीराम को सिर नवाया।"
         },
         {
           "id": "ut-60-c2",
@@ -3119,7 +3165,8 @@
           "original": "मन महुँ करइ बिचार बिधाता। माया बस कबि कोबिद ग्याता।।\nहरि माया कर अमिति प्रभावा। बिपुल बार जेहिं मोहि नचावा।।",
           "transliteration": "mana mahūṃ karai bicāra bidhātā. māyā basa kabi kobida gyātā.\nhari māyā kara amiti",
           "translation": "Brahma pondered in his heart: 'Poets, scholars, and the learned are all under Maya's spell. Hari's Maya is of immeasurable power.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "विधाता (ब्रह्मा) ने मन में विचार किया — कवि, कोविद (विद्वान), ज्ञाता — सब माया के वश। श्रीहरि-माया का अमित (बल)।"
         },
         {
           "id": "ut-60-c3",
@@ -3127,7 +3174,8 @@
           "original": "अग जगमय जग मम उपराजा। नहिं आचरज मोह खगराजा।।\nतब बोले बिधि गिरा सुहाई। जान महेस राम प्रभुताई।।",
           "transliteration": "aga jagamaya jaga mama uparājā. nahiṃ ācaraja moha khagarājā.\ntaba bole bidhi girā suhāī.",
           "translation": "'The world of animate and inanimate things is My creation. It is no wonder that delusion has overcome the king of birds.' Then Brahma spoke sweet words.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(ब्रह्मा ने सोचा) जड़-चेतनमय जगत — मेरा रचा। मोह होना कोई आश्चर्य नहीं, हे खगराज! तब ब्रह्मा ने सुन्दर वाणी बोली।"
         },
         {
           "id": "ut-60-c4",
@@ -3135,7 +3183,8 @@
           "original": "बैनतेय संकर पहिं जाहू। तात अनत पूछहु जनि काहू।।\nतहँ होइहि तव संसय हानी। चलेउ बिहंग सुनत बिधि बानी।।",
           "transliteration": "bainateya saṅkara pahiṃ jāhū. tāta anata pūchahu jani kāhū.\ntahaṃ hoihi tava saṃsaya hānī",
           "translation": "'O son of Vinata, go to Shankara. Dear one, do not ask anyone else. There your doubt will be destroyed.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(ब्रह्मा ने कहा) हे विनता-पुत्र (गरुड़)! शंकर (शिवजी) के पास जाओ। हे तात! किसी और से मत पूछो। वहाँ तुम्हारा सन्देह मिटेगा।"
         },
         {
           "id": "ut-60-d",
@@ -3143,7 +3192,8 @@
           "original": "परमातुर बिहंगपति आयउ तब मो पास।\nजात रहेउँ कुबेर गृह रहिहु उमा कैलास।।60।।",
           "transliteration": "paramātura bihaṅgapati āyau taba mo pāsa.\njāta raheuṃ kubera gṛha rahihu umā kailāsa.",
           "translation": "Greatly agitated, the king of birds then came to me. I was going to Kubera's house. O Uma, stay at Kailash.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(शिवजी ने कहा) परम आतुर पक्षिराज (गरुड़) तब मेरे पास आया। मैं कुबेर के घर जा रहा था — हे उमा! कैलास (पर रहो)।"
         }
       ]
     },
@@ -3156,7 +3206,8 @@
           "original": "तेहिं मम पद सादर सिरु नावा। पुनि आपन संदेह सुनावा।।\nसुनि ता करि बिनती मृदु बानी। परेम सहित मैं कहेउँ भवानी।।",
           "transliteration": "tehiṃ mama pada sādara siru nāvā. puni āpana saṃdeha sunāvā.\nsuni tā kari binatī",
           "translation": "He reverently bowed his head at my feet and then told me of his doubt. Hearing his humble entreaty, I spoke.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) उसने (गरुड़ ने) मेरे चरणों पर आदरपूर्वक सिर नवाया। फिर अपना सन्देह सुनाया। उसकी विनती सुनकर (मैंने कहा)।"
         },
         {
           "id": "ut-61-c2",
@@ -3164,7 +3215,8 @@
           "original": "मिलेहु गरुड़ मारग महँ मोही। कवन भाँति समुझावौं तोही।।\nतबहि होइ सब संसय भंगा। जब बहु काल करिअ सतसंगा।।",
           "transliteration": "milehu garuḍa māraga mahāṃ mohī. kavana bhāṃti samujhāvauṃ tohī.\ntabahi hoi saba saṃsaya",
           "translation": "'O Garuda, I met you on the way. How can I properly instruct you now? Only then will all your doubt be resolved.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) हे गरुड़! मार्ग में मुझसे मिले — किस प्रकार तुम्हें समझाऊँ? तभी सब सन्देह दूर होगा।"
         },
         {
           "id": "ut-61-c3",
@@ -3172,7 +3224,8 @@
           "original": "सुनिअ तहाँ हरि कथा सुहाई। नाना भाँति मुनिन्ह जो गाई।।\nजेहि महुँ आदि मध्य अवसाना। प्रभु प्रतिपाद्य राम भगवाना।।",
           "transliteration": "sunia tahāṃ hari kathā suhāī. nānā bhāṃti muninha jo gāī.\njehi mahūṃ ādi madhya",
           "translation": "'There, beautiful stories of Hari are told in many ways by the sages. In which the beginning, middle, and end all speak of Rama.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) वहाँ श्रीहरि की सुहानी कथा सुनाई जाती — मुनियों ने अनेक प्रकार से गाई। जिसमें आदि, मध्य (और अन्त — सब राम)।"
         },
         {
           "id": "ut-61-c4",
@@ -3180,7 +3233,8 @@
           "original": "नित हरि कथा होत जहँ भाई। पठवउँ तहाँ सुनहि तुम्ह जाई।।\nजाइहि सुनत सकल संदेहा। राम चरन होइहि अति नेहा।।",
           "transliteration": "nita hari kathā hota jahaṃ bhāī. paṭhavauṃ tahāṃ sunahi tumha jāī.\njāihi sunata sakala sa",
           "translation": "'Where Hari's story is told daily, brother, I send you there — go and listen. All your doubts will vanish upon hearing it.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) जहाँ प्रतिदिन श्रीहरि-कथा होती, भाई! — वहाँ तुम्हें भेजता हूँ — जाकर सुनो। सुनते ही सब सन्देह जाएँगे।"
         },
         {
           "id": "ut-61-d",
@@ -3188,7 +3242,8 @@
           "original": "बिनु सतसंग न हरि कथा तेहि बिनु मोह न भाग।\nमोह गएँ बिनु राम पद होइ न दृढ़ अनुराग।।61।।",
           "transliteration": "binu satasaṅga na hari kathā tehi binu moha na bhāga.\nmoha gaeṃ binu rāma pada hoi na dṛḍha",
           "translation": "Without the company of saints, there is no hearing of Hari's story; without that, delusion does not flee. Without delusion fleeing, firm love for Rama's feet cannot arise.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(शिवजी ने कहा) सत्संग बिना श्रीहरि-कथा नहीं — उसके बिना मोह नहीं भागता। मोह गए बिना श्रीराम-पद में दृढ़ (प्रेम नहीं होता)।"
         }
       ]
     },
@@ -3201,7 +3256,8 @@
           "original": "मिलहिं न रघुपति बिनु अनुरागा। किएँ जोग तप ग्यान बिरागा।।\nउत्तर दिसि सुंदर गिरि नीला। तहँ रह काकभुसुंडि सुसीला।।",
           "transliteration": "milahiṃ na raghupati binu anurāgā. kieṃ joga tapa gyāna birāgā.\nuttara disi su",
           "translation": "One cannot meet Raghupati without love, even through yoga, penance, knowledge, or dispassion. To the north of Mount Sumeru dwells that sage.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) बिना अनुराग (प्रेम) — श्रीरघुपति नहीं मिलते — चाहे योग, तप, ज्ञान, वैराग्य करो। उत्तर दिशा में (काकभुशुण्डि बसते)।"
         },
         {
           "id": "ut-62-c2",
@@ -3209,7 +3265,8 @@
           "original": "राम भगति पथ परम प्रबीना। ग्यानी गुन गृह बहु कालीना।।\nराम कथा सो कहइ निरंतर। सादर सुनहिं बिबिध बिहंगबर।।",
           "transliteration": "rāma bhagati patha parama prabīnā. gyānī guna gṛha bahu kālīnā.\nrāma kathā so kahai ni",
           "translation": "He is supremely skilled on the path of Rama's devotion — wise, virtuous, ancient. He narrates Rama's story constantly.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) श्रीराम-भक्ति-पथ में परम प्रवीण — ज्ञानी, गुणों का घर, बहुत प्राचीन। श्रीराम-कथा वे निरन्तर कहते।"
         },
         {
           "id": "ut-62-c3",
@@ -3217,7 +3274,8 @@
           "original": "जाइ सुनहु तहँ हरि गुन भूरी। होइहि मोह जनित दुख दूरी।।\nमैं जब तेहि सब कहा बुझाई। चलेउ हरषि मम पद सिरु नाई।।",
           "transliteration": "jāi sunahu tahāṃ hari guna bhūrī. hoihi moha janita dukha dūrī.\nmaiṃ jaba tehi saba ka",
           "translation": "'Go there and hear Hari's abundant virtues — the suffering born of delusion will be dispelled. When I told him all this, he understood.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) जाकर वहाँ श्रीहरि के बहुत गुण सुनो — मोह-जनित दुख दूर होगा। जब मैंने उन्हें (गरुड़ को) सब बात कही।"
         },
         {
           "id": "ut-62-c4",
@@ -3225,7 +3283,8 @@
           "original": "ताते उमा न मैं समुझावा। रघुपति कृपाँ मरमु मैं पावा।।\nहोइहि कीन्ह कबहुँ अभिमाना। सो खौवै चह कृपानिधाना।।",
           "transliteration": "tāte umā na maiṃ samujhāvā. raghupati kṛpāṃ maramu maiṃ pāvā.\nhoihi kīnha kabahūṃ",
           "translation": "'Therefore, O Uma, I did not try to explain it myself. By Raghupati's grace I understood the secret. What was destined to happen had been ordained long ago.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) इसलिए, उमा! मैंने स्वयं नहीं समझाया। श्रीरघुपति की कृपा से मैंने रहस्य पाया। जो होना था — वह पहले से निश्चित।"
         },
         {
           "id": "ut-62-c5",
@@ -3233,7 +3292,8 @@
           "original": "कछु तेहि ते पुनि मैं नहिं राखा। समुझइ खग खगही कै भाषा।।\nप्रभु माया बलवंत भवानी। जाहि न मोह कवन अस ग्यानी।।",
           "transliteration": "kachu tehi te puni maiṃ nahiṃ rākhā. samujhai khaga khagahī kī bhāṣā.\nprabhu māyā balava",
           "translation": "'I held nothing back from him. A bird understands a bird's language. The Lord's Maya is supremely powerful.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) मैंने उनसे (गरुड़ से) कुछ नहीं छिपाया। पक्षी पक्षी की भाषा समझता है। प्रभु की माया बलवती।"
         },
         {
           "id": "ut-62-d",
@@ -3241,7 +3301,8 @@
           "original": "ग्यानि भगत सिरोमनि त्रिभुवनपति कर जान।\nताहि मोह माया नर पावँर करहिं गुमान।।62(क)।।\nसिव बिरंचि कहुँ मोहइ को है बपुरा आन।\nअस जियँ जानि भजहिं मुनि माया पति भगवान।।62(ख)।।",
           "transliteration": "gyāni bhagata siromanī tribhuvanapati kara jāna.\ntāhi moha māyā nara pāṃvara karahiṃ gu",
           "translation": "He who is the supreme devotee and jewel among the wise, vehicle of the Lord of the three worlds — that such a one was deluded by Maya is mocked by foolish men as surprising.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) ज्ञानी-भक्त-शिरोमणि, त्रिभुवनपति का वाहन — उसे मोह-माया! पामर (तुच्छ) मनुष्य (उपहास) करते।"
         }
       ]
     },
@@ -3254,7 +3315,8 @@
           "original": "गयउ गरुड़ जहँ बसइ भुसुंडा। मति अकुंठ हरि भगति अखंडा।।\nदेखि सैल प्रसन्न मन भयऊ। माया मोह सोच सब गयऊ।।",
           "transliteration": "gayau garuḍa jahaṃ basai bhusunḍā. mati akuṇṭha hari bhagati akhaṇḍā.\ndekhi saila prasanna",
           "translation": "Garuda went to where Kakbhushundi dwelt — one of unimpaired intellect and unbroken devotion to Hari. Seeing the mountain, he was pleased.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "गरुड़ वहाँ गया जहाँ काकभुशुण्डि बसते — अकुण्ठ (अबाधित) बुद्धि, अखण्ड हरि-भक्ति। पर्वत देखकर प्रसन्न।"
         },
         {
           "id": "ut-63-c2",
@@ -3262,7 +3324,8 @@
           "original": "करि तड़ाग मज्जन जलपाना। बट तर गयउ हृदयँ हरषाना।।\nबृद्ध बृद्ध बिहंग तहँ आए। सुनै राम के चरित सुहाए।।",
           "transliteration": "kari taḍāga majjana jalapānā. baṭa tara gayau hṛdayaṃ haraṣānā.\nbṛddha bṛddha bihaṅga tahāṃ",
           "translation": "Having bathed in the lake and drunk its water, he went under the banyan tree, his heart full of joy. There he found many old birds assembled.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "तालाब में स्नान और जलपान करके — बड़ के नीचे गया, हृदय हर्षित। बहुत-से वृद्ध-वृद्ध पक्षी वहाँ (बैठे)।"
         },
         {
           "id": "ut-63-c3",
@@ -3270,7 +3333,8 @@
           "original": "कथा अरंभ करै सोइ चाहा। तेही समय गयउ खगनाहा।।\nआवत देखि सकल खगराजा। हरषेउ बायस सहित समाजा।।",
           "transliteration": "kathā arambha karai soi cāhā. tehī samaya gayau khaganāhā.\nāvata dekhi sakala khagarājā. haraṣe",
           "translation": "Kakbhushundi was about to begin the narration when the king of birds arrived. Seeing the king of all birds, all were delighted.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि) कथा आरम्भ करना ही चाहते थे — उसी समय खगनाथ (गरुड़) आया। सब पक्षियों के राजा को आते देखकर — हर्षित।"
         },
         {
           "id": "ut-63-c4",
@@ -3278,7 +3342,8 @@
           "original": "अति आदर खगपति कर कीन्हा। स्वागत पूछि सुआसन दीन्हा।।\nकरि पूजा समेत अनुरागा। मधुर बचन तब बोलेउ कागा।।",
           "transliteration": "ati ādara khagapati kara kīnhā. svāgata pūchi suāsana dīnhā.\nkari pūjā sameta anura",
           "translation": "He received the king of birds with great honor, asked of his welfare, and offered him a good seat. He worshipped him lovingly.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "खगपति (गरुड़) का अत्यन्त आदर किया। स्वागत पूछकर सुन्दर आसन दिया। पूजा करके प्रेमपूर्वक।"
         },
         {
           "id": "ut-63-d",
@@ -3286,7 +3351,8 @@
           "original": "नाथ कृतारथ भयउँ मैं तव दरसन खगराज।\nआयसु देहु सो करौं अब प्रभु आयहु केहि काज।।63(क)।।\nसदा कृतारथ रूप तुम्ह कह मृदु बचन खगेस।\nजेहि कै अस्तुति सादर निज मुख कीन्हि महेस।।63(ख)।।",
           "transliteration": "nātha kṛtāratha bhayauṃ maiṃ tava darasana khagarāja.\nāyasu dehu so karauṃ aba prabhu āyahu keha",
           "translation": "'Lord, I am fulfilled by your darshan, O king of birds. Command me — what shall I do? For what purpose have you come, O master?'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) हे नाथ! आपके दर्शन से मैं कृतार्थ हुआ, हे खगराज! आज्ञा दें — वह करूँ। हे प्रभु! किस कारण पधारे?"
         }
       ]
     },
@@ -3299,7 +3365,8 @@
           "original": "सुनहु तात जेहि कारन आयउँ। सो सब भयउ दरस तव पायउँ।।\nदेखि परम पावन तव आश्रम। गयउ मोह संसय नाना भ्रम।।",
           "transliteration": "sunahu tāta jehi kārana āyauṃ. so saba bhayau darasa tava pāyauṃ.\ndekhi parama pāvana tava āśa",
           "translation": "'Hear me, father — the purpose for which I came has been fulfilled just by seeing you. Seeing your supremely sacred hermitage, my heart is at peace.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(गरुड़ ने कहा) सुनो तात! जिस कारण आया — वह सब आपके दर्शन पाकर हो गया। आपका परम पावन आश्रम देखकर।"
         },
         {
           "id": "ut-64-c2",
@@ -3307,7 +3374,8 @@
           "original": "अब श्रीराम कथा अति पावनि। सदा सुखद दुख पुंज नसावनि।।\nसादर तात सुनावहु मोही। बार बार बिनवउँ प्रभु तोही।।",
           "transliteration": "aba śrīrāma kathā ati pāvanī. sadā sukhada dukha puṃja nasāvanī.\nsādara tāta sunāvahu",
           "translation": "'Now please narrate the supremely sacred story of Shri Rama — ever blissful, destroyer of heaps of sorrow. Tell it to me reverently, dear one.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(गरुड़ ने कहा) अब श्रीराम की अत्यन्त पावन कथा — सदा सुखद, दुखों के पुंज (समूह) नष्ट करने वाली। आदरपूर्वक, तात! सुनाओ।"
         },
         {
           "id": "ut-64-c3",
@@ -3315,7 +3383,8 @@
           "original": "सुनत गरुड़ कै गिरा बिनीता। सरल सुप्रेम सुखद सुपुनीता।।\nभयउ तासु मन परम उछाहा। लाग कहै रघुपति गुन गाहा।।",
           "transliteration": "sunata garuḍa kai girā binītā. sarala suprema sukhada supunītā.\nbhayau tāsu mana parama",
           "translation": "Hearing Garuda's humble, simple, loving, joyful, and pure words, supreme delight arose in Kakbhushundi's heart.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "गरुड़ की विनीत, सरल, सप्रेम, सुखद, पुनीत वाणी सुनकर — काकभुशुण्डि के मन में परम प्रसन्नता हुई।"
         },
         {
           "id": "ut-64-c4",
@@ -3323,7 +3392,8 @@
           "original": "प्रथमहिं अति अनुराग भवानी। रामचरित सर कहेसि बखानी।।\nपुनि नारद कर मोह अपारा। कहेसि बहुरि रावन अवतारा।।",
           "transliteration": "prathamahiṃ ati anurāga bhavānī. rāmacarita sara kahesi bakhānī.\npuni nārada kara moha a",
           "translation": "First, O Bhavani, with great love he described the lake of Rama's story. Then he told of Narada's delusion.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने) पहले अत्यन्त अनुराग से, हे भवानी! श्रीरामचरित-सरोवर (की कथा) बखानकर कही। फिर नारद का मोह (बताया)।"
         },
         {
           "id": "ut-64-c5",
@@ -3331,7 +3401,8 @@
           "original": "प्रभु अवतार कथा पुनि गाई। तब सिसु चरित कहेसि मन लाई।।",
           "transliteration": "prabhu avatāra kathā puni gāī. taba sisu carita kahesi mana lāī.",
           "translation": "Then he sang the story of the Lord's incarnation, and after that narrated the childhood deeds with a focused mind.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(काकभुशुण्डि ने) प्रभु के अवतार की कथा फिर गाई। तब शिशु-चरित्र (बाल-लीला) मन लगाकर कहा।"
         },
         {
           "id": "ut-64-d",
@@ -3339,7 +3410,8 @@
           "original": "बालचरित कहिं बिबिध बिधि मन महँ परम उछाह।\nरिषि आगवन कहेसि पुनि श्री रघुबीर बिबाह।।64।।",
           "transliteration": "bālacarita kahiṃ bibidha bidhi mana mahaṃ parama uchāha.\nriṣi āgavana kahesi puni śrī raghu",
           "translation": "He narrated the childhood deeds in many ways with supreme joy in his heart. Then he told of the arrival of the sage Vishwamitra and Shri Raghubir's glorious deeds.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "बाल-चरित्र विविध प्रकार से कहे — मन में परम उत्साह। फिर ऋषि (विश्वामित्र) के आगमन का प्रसंग — श्रीरघुवीर (के शौर्य)।"
         }
       ]
     },
@@ -3352,7 +3424,8 @@
           "original": "बहुरि राम अभिषेक प्रसंगा। पुनि नृप बचन राज रस भंगा।।\nपुरबासिन्ह कर बिरह बिषादा। कहेसि राम लछिमन संबादा।।",
           "transliteration": "bahuri rāma abhiṣeka prasaṅgā. puni nṛpa bacana rāja rasa bhaṅgā.\npurabāsinha kara bira",
           "translation": "Then the topic of Rama's coronation, followed by the king's words that shattered the joy of the kingdom. He described the grief of the citizens.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने) फिर श्रीराम-अभिषेक प्रसंग। फिर राजा (दशरथ) के वचन — राज-रस-भंग। नगरवासियों का विरह (दुख)।"
         },
         {
           "id": "ut-65-c2",
@@ -3360,7 +3433,8 @@
           "original": "बिपिन गवन केवट अनुरागा। सुरसरि उतरि निवास प्रयागा।।\nबालमीक प्रभु मिलन बखाना। चित्रकूट जिमि बसे भगवाना।।",
           "transliteration": "bipina gavana kevaṭa anurāgā. surasari utari nivāsa prayāgā.\nbālamīka prabhu milana",
           "translation": "The forest journey, Kevat's devotion, crossing the Ganges, staying at Prayag. The meeting with sage Valmiki.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) वन-गमन, केवट का अनुराग। गंगा पार करके प्रयाग में निवास। वाल्मीकि से प्रभु का मिलन।"
         },
         {
           "id": "ut-65-c3",
@@ -3368,7 +3442,8 @@
           "original": "सचिवागवन नगर नृप मरना। भरतागवन प्रेम बहु बरना।।\nकरि नृप क्रिया संग पुरबासी। भरत गए जहँ प्रभु सुख रासी।।",
           "transliteration": "sacivāgavana nagara nṛpa maranā. bharatāgavana prema bahu baranā.\nkari nṛpa kriyā saṅga pura",
           "translation": "The arrival of ministers, the king's death in the city, Bharata's coming — he described with much love. The performance of the king's last rites with the citizens.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) मन्त्री (सुमन्त्र) का आगमन, नगर में राजा (दशरथ) की मृत्यु। भरत का आगमन — बहुत प्रेम वर्णन किया। राजा की अन्त्येष्टि — नगरवासियों सहित।"
         },
         {
           "id": "ut-65-c4",
@@ -3376,7 +3451,8 @@
           "original": "पुनि रघुपति बहु बिधि समुझाए। लै पादुका अवधपुर आए।।\nभरत रहनि सुरपति सुत करनी। प्रभु अरु अत्रि भेंट पुनि बरनी।।",
           "transliteration": "puni raghupati bahu bidhi samujhāe. lai pādukā avadhapura āe.\nbharata rahani surapati suta",
           "translation": "Then Raghupati consoled Bharata in many ways. Taking the sandals, they returned to Ayodhya. Bharata's stay and Indra's son's episode were narrated.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) फिर श्रीरघुपति ने बहुत प्रकार से (भरत को) समझाया। पादुकाएँ लेकर अवधपुर आए। भरत का (नन्दिग्राम में) रहना। इन्द्रपुत्र (जयन्त) का प्रसंग।"
         },
         {
           "id": "ut-65-d",
@@ -3384,7 +3460,8 @@
           "original": "कहि बिराध बध जेहि बिधि देह तजी सरभंग।।\nबरनि सुतीछन प्रीति पुनि प्रभु अगस्ति सतसंग।।65।।",
           "transliteration": "kahi birādha badha jehi bidhi deha tajī sarabhaṅga.\nbarani sutīchana prīti puni prabhu a",
           "translation": "He told of the slaying of Viradha and how Sharabhanga shed his body. Then he described Sutikshna's love and the Lord's visit to sage Agastya.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(काकभुशुण्डि ने) विराध-वध बताया — किस प्रकार शरभंग ने देह त्यागी। सुतीक्ष्ण की प्रीति वर्णन करके — फिर प्रभु और अगस्त्य (का मिलन)।"
         }
       ]
     },
@@ -3397,7 +3474,8 @@
           "original": "कहि दंडक बन पावनताई। गीध मइत्री पुनि तेहिं गाई।।\nपुनि प्रभु पंचवटीं कृत बासा। भंजी सकल मुनिन्ह की त्रासा।।",
           "transliteration": "kahi daṇḍaka bana pāvanatāī. gīdha maitrī puni tehiṃ gāī.",
           "translation": "He narrated the sacredness of Dandaka forest and then sang of the friendship with Jatayu.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने) दण्डक-वन की पवित्रता कही। गीध (जटायु) की मित्रता फिर गाई। फिर प्रभु की पंचवटी (में कृत लीला)।"
         },
         {
           "id": "ut-66-c2",
@@ -3405,7 +3483,8 @@
           "original": "पुनि लछिमन उपदेस अनूपा। सूपनखा जिमि कीन्हि कुरूपा।।\nखर दूषन बध बहुरि बखाना। जिमि सब मरमु दसानन जाना।।",
           "transliteration": "puni lacchimana upadesu anūpā. sūpanakhā jimi kīnhi kurūpā.\nkhara dūṣana badha bahuri ba",
           "translation": "Then the incomparable teaching to Lakshmana, how Surpanakha was disfigured. The slaying of Khara and Dushana was told next.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने) फिर लक्ष्मण का अनूठा उपदेश। शूर्पणखा को किस प्रकार कुरूप किया। खर-दूषण-वध फिर कहा।"
         },
         {
           "id": "ut-66-c3",
@@ -3413,7 +3492,8 @@
           "original": "दसकंधर मारीच बतकहीं। जेहि बिधि भई सो सब तेहिं कही।।\nपुनि माया सीता कर हरना। श्रीरघुबीर बिरह कछु बरना।।",
           "transliteration": "dasakandhara mārīca batakahīṃ. jehi bidhi bhaī so saba tehiṃ kahī.\npuni māyā sītā kara",
           "translation": "The conversation between Ravana and Maricha — how everything happened, all was narrated. Then the episode of the illusory Sita.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने) दशकंधर (रावण) और मारीच की बातचीत — जिस प्रकार हुई, वह सब कही। फिर माया-सीता (का प्रसंग)।"
         },
         {
           "id": "ut-66-c4",
@@ -3421,7 +3501,8 @@
           "original": "पुनि प्रभु गीध क्रिया जिमि कीन्ही। बधि कबंध सबरिहि गति दीन्ही।।\nबहुरि बिरह बरनत रघुबीरा। जेहि बिधि गए सरोबर तीरा।।",
           "transliteration": "puni prabhu gīdha kriyā jimi kīnhī. badhi kabandha sabarihi gati dīnhī.\nbahuri",
           "translation": "Then how the Lord performed the last rites for Jatayu, slew Kabandha, and granted liberation to Shabari.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने) फिर प्रभु ने गीध (जटायु) की क्रिया (अन्त्येष्टि) किस प्रकार की। कबन्ध वधकर, शबरी को गति दी।"
         },
         {
           "id": "ut-66-d",
@@ -3429,7 +3510,8 @@
           "original": "प्रभु नारद संबाद कहि मारुति मिलन प्रसंग।\nपुनि सुग्रीव मिताई बालि प्रान कर भंग।।66((क)।।\nकपिहि तिलक करि प्रभु कृत सैल प्रबरषन बास।\nबरनन बर्षा सरद अरु राम रोष कपि त्रास।।66(ख)।।",
           "transliteration": "prabhu nārada sambāda kahi māruti milana prasaṅga.\npuni sugrīva mitāī bāli prāna",
           "translation": "He told the dialogue between the Lord and Narada, the episode of meeting Hanuman, then the friendship with Sugriva and the killing of Vali.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने) प्रभु-नारद-संवाद कहा। मारुति (हनुमान) मिलन-प्रसंग। फिर सुग्रीव-मित्रता, बालि-प्राण (वध)।"
         }
       ]
     },
@@ -3442,7 +3524,8 @@
           "original": "जेहि बिधि कपिपति कीस पठाए। सीता खोज सकल दिसि धाए।।\nबिबर प्रबेस कीन्ह जेहि भाँती। कपिन्ह बहोरि मिला संपाती।।",
           "transliteration": "jehi bidhi kapipati kīsa paṭhāe. sītā khoja sakala disi dhāe.\nbibara prabesa kīnha ja",
           "translation": "How the monkey king sent monkeys in all directions to search for Sita — they ran in every direction. How they entered the cave.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) किस प्रकार कपिपति (सुग्रीव) ने वानर भेजे — सीता-खोज में सब दिशाओं में दौड़े। गुफा-प्रवेश —"
         },
         {
           "id": "ut-67-c2",
@@ -3450,7 +3533,8 @@
           "original": "सुनि सब कथा समीरकुमारा। नाघत भयउ पयोधि अपारा।।\nलंकाँ कपि प्रबेस जिमि कीन्हा। पुनि सीतहि धीरजु जिमि दीन्हा।।",
           "transliteration": "suni saba kathā samīrakumārā. nāghata bhayau payodhi apārā.\nlaṅkāṃ kapi prabesa jimi ka",
           "translation": "Hearing the whole story, the son of the Wind leaped across the boundless ocean. How the monkey entered Lanka.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) सब कथा सुनकर समीरकुमार (हनुमान) — अपार समुद्र लाँघने लगे। लंका में कपि का प्रवेश — किस प्रकार।"
         },
         {
           "id": "ut-67-c3",
@@ -3458,7 +3542,8 @@
           "original": "बन उजारि रावनहि प्रबोधी। पुर दहि नाघेउ बहुरि पयोधी।।\nआए कपि सब जहँ रघुराई। बैदेही कि कुसल सुनाई।।",
           "transliteration": "bana ujāri rāvanahi prabodhī. pura dahi nāgheu bahuri payodhī.\nāe kapi saba jahaṃ raghu",
           "translation": "He destroyed the garden, warned Ravana, burned the city, and leaped back across the ocean. All the monkeys came to where Raghubir was.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) वन उजाड़कर रावण को चेतावनी दी। नगर जलाकर फिर समुद्र लाँघे। सब वानर जहाँ श्रीरघुवीर (थे, आए)।"
         },
         {
           "id": "ut-67-c4",
@@ -3466,7 +3551,8 @@
           "original": "सेन समेति जथा रघुबीरा। उतरे जाइ बारिनिधि तीरा।।\nमिला बिभीषन जेहि बिधि आई। सागर निग्रह कथा सुनाई।।",
           "transliteration": "sena sameti jathā raghubīrā. utare jāi bārinidhi tīrā.\nmilā bibhīṣana jehi bidhi",
           "translation": "How Raghubir went with His army and camped on the ocean shore. How Vibhishana came and joined them.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) सेना समेत किस प्रकार श्रीरघुवीर — समुद्र-तीर जाकर उतरे। विभीषण किस प्रकार मिले।"
         },
         {
           "id": "ut-67-d",
@@ -3474,7 +3560,8 @@
           "original": "सेतु बाँधि कपि सेन जिमि उतरी सागर पार।\nगयउ बसीठी बीरबर जेहि बिधि बालिकुमार।।67(क)।।\nनिसिचर कीस लराई बरनिसि बिबिध प्रकार।\nकुंभकरन घननाद कर बल पौरुष संघार।।67(ख)।।",
           "transliteration": "setu bāṃdhi kapi sena jimi utarī sāgara pāra.\ngayau basīṭhī bīrabara jehi bidhi bālika",
           "translation": "How the bridge was built and the monkey army crossed the ocean. How the brave hero Angad went as an envoy — all was narrated.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) सेतु बाँधकर वानर-सेना — किस प्रकार सागर पार उतरी। वीरवर (अंगद) दूत बनकर गए — किस प्रकार।"
         }
       ]
     },
@@ -3487,7 +3574,8 @@
           "original": "निसिचर निकर मरन बिधि नाना। रघुपति रावन समर बखाना।।\nरावन बध मंदोदरि सोका। राज बिभीषण देव असोका।।",
           "transliteration": "nisicara nikara marana bidhi nānā. raghupati rāvana samara bakhānā.\nrāvana badha mandodari soka",
           "translation": "The various ways the demon hosts were slain, the battle between Raghupati and Ravana was described. Ravana's death, Mandodari's grief.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने) राक्षस-समूहों के मरने की अनेक विधियाँ — श्रीरघुपति-रावण-युद्ध वर्णन किया। रावण-वध, मन्दोदरी का शोक।"
         },
         {
           "id": "ut-68-c2",
@@ -3495,7 +3583,8 @@
           "original": "सीता रघुपति मिलन बहोरी। सुरन्ह कीन्ह अस्तुति कर जोरी।।\nपुनि पुष्पक चढ़ि कपिन्ह समेता। अवध चले प्रभु कृपा निकेता।।",
           "transliteration": "sītā raghupati milana bahorī. suranha kīnha astuti kara jorī.\npuni puṣpaka caḍha",
           "translation": "The reunion of Sita and Raghupati, the gods' hymn of praise with folded hands. Then mounting the Pushpak chariot.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने) सीता-रघुपति-मिलन फिर। देवताओं ने हाथ जोड़कर स्तुति की। फिर पुष्पक (विमान) पर चढ़कर।"
         },
         {
           "id": "ut-68-c3",
@@ -3503,7 +3592,8 @@
           "original": "जेहि बिधि राम नगर निज आए। बायस बिसद चरित सब गाए।।\nकहेसि बहोरि राम अभिषैका। पुर बरनत नृपनीति अनेका।।",
           "transliteration": "jehi bidhi rāma nagara nija āe. bāyasa bisada carita saba gāe.\nkahesi bahori rāma abhiṣe",
           "translation": "How Rama came to His own city — the crow (Kakbhushundi) sang all the pure deeds. Then he told of Rama's coronation.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने) किस प्रकार श्रीराम अपने नगर आए — कौए (काकभुशुण्डि) ने विशद (स्पष्ट) सब चरित्र गाए। फिर श्रीराम-अभिषेक (का वर्णन)।"
         },
         {
           "id": "ut-68-c4",
@@ -3511,7 +3601,8 @@
           "original": "कथा समस्त भुसुंड बखानी। जो मैं तुम्ह सन कही भवानी।।\nसुनि सब राम कथा खगनाहा। कहत बचन मन परम उछाहा।।",
           "transliteration": "kathā samasta bhusunḍa bakhānī. jo maiṃ tumha sana kahī bhavānī.\nsuni saba rāma kathā khaga",
           "translation": "Kakbhushundi narrated the entire story — the same that I have told you, O Bhavani. Hearing the complete story of Rama, the king of birds was delighted.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने) सम्पूर्ण कथा बखानी — जो मैंने (शिवजी ने) तुम्हें (उमा को) कही, हे भवानी! सम्पूर्ण श्रीराम-कथा सुनकर खगराज (गरुड़) —"
         },
         {
           "id": "ut-68-d",
@@ -3519,7 +3610,8 @@
           "original": "गयउ मोर संदेह सुनेउँ सकल रघुपति चरित।\nभयउ राम पद नेह तव प्रसाद बायस तिलक।।68(क)।।\nमोहि भयउ अति मोह प्रभु बंधन रन महुँ निरखि।\nचिदानंद संदोह राम बिकल कारन कवन। 68(ख)।।",
           "transliteration": "gayau mora sandeha suneuṃ sakala raghupati carita.\nbhayau rāma pada neha tava prasāda bāyasa ti",
           "translation": "'My doubt has vanished, having heard all of Raghupati's deeds. Love for Rama's feet has arisen in me — by your grace, O revered crow!'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(गरुड़ ने कहा) मेरा सन्देह मिट गया — सम्पूर्ण श्रीरघुपति-चरित्र सुनकर। श्रीराम-पद में स्नेह उत्पन्न हुआ — आपकी कृपा से, हे काक-तिलक (काकभुशुण्डि)!"
         }
       ]
     },
@@ -3532,7 +3624,8 @@
           "original": "देखि चरित अति नर अनुसारी। भयउ हृदयँ मम संसय भारी।।\nसोइ भ्रम अब हित करि मैं माना। कीन्ह अनुग्रह कृपानिधाना।।",
           "transliteration": "dekhi carita ati nara anusārī. bhayau hṛdayaṃ mama saṃsaya bhārī.\nsoi bhrama aba hita kari",
           "translation": "'Seeing the Lord's deeds so closely resembling a mortal's, a heavy doubt arose in my heart. That same doubt has now done me good.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(गरुड़ ने कहा) मनुष्य-अनुसारी (मानवीय) अत्यन्त चरित्र देखकर — मेरे हृदय में भारी सन्देह हुआ था। वही भ्रम अब हित कर गया।"
         },
         {
           "id": "ut-69-c2",
@@ -3540,7 +3633,8 @@
           "original": "जो अति आतप ब्याकुल होई। तरु छाया सुख जानइ सोई।।\nजौं नहिं होत मोह अति मोही। मिलतेउँ तात कवन बिधि तोही।।",
           "transliteration": "jo ati ātapa byākula hoī. taru chāyā sukha jānai soī.\njauṃ nahiṃ hota moha ati ma",
           "translation": "'One who is tormented by intense heat — only he knows the joy of a tree's shade. Had not such great delusion overcome me, how would I have heard this beautiful story of Hari?'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(गरुड़ ने कहा) जो अत्यन्त धूप से व्याकुल होता — वही वृक्ष की छाया का सुख जानता है। यदि ऐसा महामोह न होता।"
         },
         {
           "id": "ut-69-c3",
@@ -3548,7 +3642,8 @@
           "original": "सुनतेउँ किमि हरि कथा सुहाई। अति बिचित्र बहु बिधि तुम्ह गाई।।\nनिगमागम पुरान मत एहा। कहहिं सिद्ध मुनि नहिं संदेहा।।",
           "transliteration": "sunateuṃ kimi hari kathā suhāī. ati bicitra bahu bidhi tumha gāī.\nnigamāgama pa",
           "translation": "'How would I have heard this beautiful tale of Hari that you have sung in so many wonderful ways? The essence of the Vedas, Agamas, and Puranas — I have received it all.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(गरुड़ ने कहा) तो श्रीहरि की सुहानी कथा कैसे सुनता? — अत्यन्त विचित्र, अनेक प्रकार से आपने गाई। वेद, आगम, पुराण (का सार)।"
         },
         {
           "id": "ut-69-c4",
@@ -3556,7 +3651,8 @@
           "original": "संत बिसुद्ध मिलहिं परि तेही। चितवहिं राम कृपा करि जेही।।\nराम कृपाँ तव दरसन भयऊ। तव प्रसाद सब संसय गयऊ।।",
           "transliteration": "santa bisuddha milahiṃ pari tehī. citavahiṃ rāma kṛpā kari jehī.\nrāma kṛpāṃ tava",
           "translation": "'Pure saints are found only by those upon whom Rama's grace falls. By Rama's grace, I found your company, O revered one.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(गरुड़ ने कहा) शुद्ध सन्त उसी को मिलते — जिसे श्रीराम कृपा-दृष्टि से देखें। श्रीराम की कृपा से आपका (सत्संग मिला)।"
         },
         {
           "id": "ut-69-d",
@@ -3564,7 +3660,8 @@
           "original": "सुनि बिहंगपति बानी सहित बिनय अनुराग।\nपुलक गात लोचन सजल मन हरषेउ अति काग।।69(क)।।\nश्रोता सुमति सुसील सुचि कथा रसिक हरि दास।\nपाइ उमा अति गोप्यमपि सज्जन करहिं प्रकास।।69(ख)।।",
           "transliteration": "suni bihaṅgapati bānī sahita binaya anurāga.\npulaka gāta locana sajala mana haraṣeu ati kā",
           "translation": "Hearing the king of birds' words, full of humility and love, Kakbhushundi was thrilled — his body hair stood on end, his eyes filled with tears, his heart overflowed with joy.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "पक्षिराज (गरुड़) की विनय और अनुराग सहित वाणी सुनकर — पुलकित शरीर, नेत्रों में जल — काकभुशुण्डि का मन अत्यन्त हर्षित।"
         }
       ]
     },
@@ -3577,7 +3674,8 @@
           "original": "बोलेउ काकभसुंड बहोरी। नभग नाथ पर प्रीति न थोरी।।\nसब बिधि नाथ पूज्य तुम्ह मेरे। कृपापात्र रघुनायक केरे।।",
           "transliteration": "boleu kākabhusunḍa bahorī. nabhaga nātha para prīti na thorī.\nsaba bidhi nātha pūjya tuma",
           "translation": "Kakbhushundi spoke again: 'O lord of the sky, my love for you is not small. In every way you are worthy of worship.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "काकभुशुण्डि फिर बोले — (कहा) हे नभग (आकाश-विचरण करने वाले) नाथ! आप पर मेरी प्रीति कम नहीं। सब विधि, हे नाथ! आप पूज्य।"
         },
         {
           "id": "ut-70-c2",
@@ -3585,7 +3683,8 @@
           "original": "तुम्हहि न संसय मोह न माया। मो पर नाथ कीन्ह तुम्ह दाया।।\nपठइ मोह मिस खगपति तोही। रघुपति दीन्हि बड़ाई मोही।।",
           "transliteration": "tumhahi na saṃsaya moha na māyā. mo para nātha kīnha tumha dāyā.\npaṭhai moha misa khaga",
           "translation": "'You have no doubt, delusion, or Maya. O lord, you have shown compassion to me. You sent delusion as a pretext to visit this bird.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) आपको न सन्देह, न मोह, न माया। मुझ पर, हे नाथ! आपने दया की। मोह का बहाना बनाकर (मेरे पास) पक्षी (रूप में) भेजा।"
         },
         {
           "id": "ut-70-c3",
@@ -3593,7 +3692,8 @@
           "original": "तुम्ह निज मोह कही खग साईं। सो नहिं कछु आचरज गोसाईं।।\nनारद भव बिरंचि सनकादी। जे मुनिनायक आतमबादी।।",
           "transliteration": "tumha nija moha kahī khaga sāīṃ. so nahiṃ kachu ācaraja gosāīṃ.\nnārada bhava biraṃci sana",
           "translation": "'You spoke of your own delusion, O lord of birds — but that is no wonder at all, O master. Narada, Shiva, and Brahma — all have experienced it.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) आपने अपना मोह कहा, हे पक्षिराज! वह कोई आश्चर्य नहीं, हे गोसाईं! नारद, शिव, ब्रह्मा — सबको (मोह हुआ)।"
         },
         {
           "id": "ut-70-c4",

@@ -3722,7 +3722,8 @@
           "original": "गुन कृत सन्यपात नहिं केही। कोउ न मान मद तजेउ निबेही।।\nजोबन ज्वर केहि नहिं बलकावा। ममता केहि कर जस न नसावा।।",
           "transliteration": "guna kṛta sanyapāta nahiṃ kehī. kou na māna mada tajeu nibehī.\njobana jvara kehi na",
           "translation": "'Whom have the gunas not driven mad? Who has pride not abandoned when humbled? Whom has the fever of youth not afflicted?'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "गुणों ने किसे पागल (सन्यपात) नहीं किया? कौन है जिसने मान-मद निर्लिप्त होकर नहीं त्यागा? यौवन-ज्वर — किसे नहीं सताया?"
         },
         {
           "id": "ut-71-c2",
@@ -3730,7 +3731,8 @@
           "original": "मच्छर काहि कलंक न लावा। काहि न सोक समीर डोलावा।।\nचिंता साँपिनि को नहिं खाया। को जग जाहि न ब्यापी माया।।",
           "transliteration": "macchara kāhi kalaṅka na lāvā. kāhi na soka samīra ḍolāvā.\ncintā sāṃpini ko nahiṃ",
           "translation": "'Whom has jealousy not tainted? Whom has the wind of grief not shaken? Whom has the serpent of worry not bitten?'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "मत्सर ने किसे कलंक नहीं लगाया? शोक की हवा ने किसे नहीं हिलाया? चिन्ता-साँपिन ने किसे नहीं डसा?"
         },
         {
           "id": "ut-71-c3",
@@ -3738,7 +3740,8 @@
           "original": "कीट मनोरथ दारु सरीरा। जेहि न लाग घुन को अस धीरा।।\nसुत बित लोक ईषना तीनी। केहि के मति इन्ह कृत न मलीनी।।",
           "transliteration": "kīṭa manoratha dāru sarīrā. jehi na lāga ghuna ko asa dhīrā.\nsuta bita loka īṣanā tīna",
           "translation": "'The body is like wood, desires like termites — who is so steadfast that the worm has not eaten them? Three types of yearning — for children, wealth, and fame.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "कीड़ा (कीट) — मनोरथ, लकड़ी — शरीर। जिसे घुन नहीं लगा — ऐसा धीर कौन? पुत्र, धन, लोक — तीन प्रकार की ईषणा (तृष्णा)।"
         },
         {
           "id": "ut-71-c4",
@@ -3746,7 +3749,8 @@
           "original": "यह सब माया कर परिवारा। प्रबल अमिति को बरनै पारा।।\nसिव चतुरानन जाहि डेराहीं। अपर जीव केहि लेखे माहीं।।",
           "transliteration": "yaha saba māyā kara parivārā. prabala amiti ko barnai pārā.\nsiva caturānana jāhi ḍera",
           "translation": "'All these are the family of Maya — mighty and immeasurable, who can describe them? Even Shiva and Brahma fear them.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "यह सब माया का परिवार — प्रबल, अमित — कौन वर्णन कर सकता? शिव और ब्रह्मा भी जिससे डरते।"
         },
         {
           "id": "ut-71-d",
@@ -3754,7 +3758,8 @@
           "original": "ब्यापि रहेउ संसार महुँ माया कटक प्रचंड।।\nसेनापति कामादि भट दंभ कपट पाषंड।।71(क)।।\nसो दासी रघुबीर कै समुझें मिथ्या सोपि।\nछूट न राम कृपा बिनु नाथ कहउँ पद रोपि।।71(ख)।।",
           "transliteration": "byāpi raheu saṃsāra mahuṃ māyā kaṭaka pracaṇḍa.\nsenāpati kāmādi bhaṭa dambha kapaṭa pāṣa",
           "translation": "Maya's fierce army pervades the whole world. Desire and other passions are its generals; deceit, fraud, and illusion are its foot soldiers.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "संसार में व्याप्त है माया की प्रचण्ड सेना। सेनापति — काम आदि योद्धा। दम्भ-कपट — (सैनिक)।"
         }
       ]
     },
@@ -3767,7 +3772,8 @@
           "original": "जो माया सब जगहि नचावा। जासु चरित लखि काहुँ न पावा।।\nसोइ प्रभु भ्रू बिलास खगराजा। नाच नटी इव सहित समाजा।।",
           "transliteration": "jo māyā saba jagahi nacāvā. jāsu carita lakhi kāhūṃ na pāvā.\nsoi prabhu bhrū bila",
           "translation": "That Maya which makes the whole world dance, whose workings none can fathom — she vanishes at a mere frown of the Lord.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) जो माया सारे जगत को नचाती — जिसकी चाल कोई नहीं जान पाया। वही प्रभु की भृकुटि (भौं) के विलास से —"
         },
         {
           "id": "ut-72-c2",
@@ -3775,7 +3781,8 @@
           "original": "सोइ सच्चिदानंद घन रामा। अज बिग्यान रूपो बल धामा।।\nब्यापक ब्याप्य अखंड अनंता। अखिल अमोघसक्ति भगवंता।।",
           "transliteration": "soi saccidānanda ghana rāmā. aja bigyāna rūpo bala dhāmā.\nbyāpaka byāpya akhaṇḍa",
           "translation": "That Being is Rama — pure Existence-Consciousness-Bliss, unborn, the very form of supreme knowledge and the abode of power. All-pervading, undivided, unchanging.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "वही सच्चिदानन्द-घन श्रीराम। अज (अजन्मा), विज्ञान-रूप, बल के धाम। व्यापक, व्याप्य (सर्वत्र), अखण्ड।"
         },
         {
           "id": "ut-72-c3",
@@ -3783,7 +3790,8 @@
           "original": "अगुन अदभ्र गिरा गोतीता। सबदरसी अनवद्य अजीता।।\nनिर्मम निराकार निरमोहा। नित्य निरंजन सुख संदोहा।।",
           "transliteration": "aguna adabhra girā gotītā. sabadarasī anavadya ajītā.\nnirmama nirākāra niramohā.",
           "translation": "Without qualities, limitless, beyond speech and senses. All-seeing, faultless, unconquered. Free from attachment, formless, free from delusion.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "गुणरहित, अपार, वाणी-इन्द्रियों से परे। सर्वदर्शी, निर्दोष, अजेय। निर्मम, निराकार, मोहरहित।"
         },
         {
           "id": "ut-72-c4",
@@ -3791,7 +3799,8 @@
           "original": "प्रकृति पार प्रभु सब उर बासी। ब्रह्म निरीह बिरज अबिनासी।।\nइहाँ मोह कर कारन नाहीं। रबि सन्मुख तम कबहुँ कि जाहीं।।",
           "transliteration": "prakṛti pāra prabhu saba ura bāsī. brahma nirīha biraja abināsī.\nihāṃ moha kara",
           "translation": "Beyond Nature, dwelling in all hearts, the desireless, passionless, imperishable Brahman. Here, what scope is there for delusion?",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "प्रकृति से परे, सबके हृदय में बसने वाले प्रभु। ब्रह्म — निस्पृह, निर्मल, अविनाशी। यहाँ मोह का (क्या अवसर)।"
         },
         {
           "id": "ut-72-d",
@@ -3799,7 +3808,8 @@
           "original": "भगत हेतु भगवान प्रभु राम धरेउ तनु भूप।\nकिए चरित पावन परम प्राकृत नर अनुरूप।।72(क)।।\nजथा अनेक बेष धरि नृत्य करइ नट कोइ।\nसोइ सोइ भाव देखावइ आपुन होइ न सोइ।।72(ख)।।",
           "transliteration": "bhagata hetu bhagavāna prabhu rāma dhareu tanu bhūpa.\nkie carita pāvana parama prākṛta nara anu",
           "translation": "For the sake of His devotees, Lord Rama assumed a royal human form. He performed supremely sacred deeds, appearing like an ordinary man.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "भक्तों के लिए भगवान प्रभु श्रीराम ने राजा का शरीर धारण किया। परम पावन चरित्र किए — साधारण मनुष्य के अनुरूप।"
         }
       ]
     },
@@ -3812,7 +3822,8 @@
           "original": "असि रघुपति लीला उरगारी। दनुज बिमोहनि जन सुखकारी।।\nजे मति मलिन बिषयबस कामी। प्रभु मोह धरहिं इमि स्वामी।।",
           "transliteration": "asi raghupati līlā uragārī. danuja bimohanī jana sukhakārī.\nje mati malina biṣayabasa ka",
           "translation": "Such is Raghupati's divine play, O enemy of serpents — it deludes the demons and delights the devotees. Those whose minds are impure, enslaved by sense-pleasures.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) ऐसी श्रीरघुपति की लीला है, हे उरगारि (गरुड़)! दानवों को मोहित करने वाली, भक्तों को सुखकारी। जिनकी बुद्धि मलिन — विषय-वश।"
         },
         {
           "id": "ut-73-c2",
@@ -3820,7 +3831,8 @@
           "original": "नयन दोष जा कहँ जब होई। पीत बरन ससि कहुँ कह सोई।।\nजब जेहि दिसि भ्रम होइ खगेसा। सो कह पच्छिम उयउ दिनेसा।।",
           "transliteration": "nayana doṣa jā kahaṃ jaba hoī. pīta barana sasi kahuṃ kaha soī.\njaba jehi disi bhrama hoi",
           "translation": "When one's eyes have a defect, one says the moon appears yellow. Wherever delusion exists, one projects it there.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) जिसकी आँखों में दोष हो — चन्द्रमा को पीला कहता है। जिस दिशा में भ्रम हो — वहीं (दोष दिखता)।"
         },
         {
           "id": "ut-73-c3",
@@ -3828,7 +3840,8 @@
           "original": "नौकारूढ़ चलत जग देखा। अचल मोह बस आपुहि लेखा।।\nबालक भ्रमहिं न भ्रमहिं गृहादीं। कहहिं परस्पर मिथ्याबादी।।",
           "transliteration": "naukārūḍha calata jaga dekhā. acala moha basa āpuhi lekhā.\nbālaka bhramahiṃ na bhramahiṃ ga",
           "translation": "One riding a boat sees the world moving but under delusion thinks oneself still. Children spin around but the houses do not spin — this is delusion.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) नौका पर बैठा जगत को चलता देखता — अचल (स्वयं) मोहवश समझता। बालक घूमते — पर घर नहीं घूमते।"
         },
         {
           "id": "ut-73-c4",
@@ -3836,7 +3849,8 @@
           "original": "हरि बिषइक अस मोह बिहंगा। सपनेहुँ नहिं अग्यान प्रसंगा।।\nमायाबस मतिमंद अभागी। हृदयँ जमनिका बहुबिधि लागी।।",
           "transliteration": "hari biṣaika asa moha bihaṅgā. sapanehūṃ nahiṃ agyāna prasaṅgā.\nmāyābasa matimanda a",
           "translation": "Regarding Hari, O bird, such delusion never arises — not even in dreams is there any connection with ignorance. The dull-witted, under Maya's sway, are foolish.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) श्रीहरि-विषयक ऐसा मोह, हे पक्षी! — सपने में भी अज्ञान-प्रसंग नहीं। मायावश मन्दबुद्धि।"
         },
         {
           "id": "ut-73-c5",
@@ -3844,7 +3858,8 @@
           "original": "ते सठ हठ बस संसय करहीं। निज अग्यान राम पर धरहीं।।",
           "transliteration": "te saṭha haṭha basa saṃsaya karahīṃ. nija agyāna rāma para dharahīṃ.",
           "translation": "Those fools, out of obstinacy, harbor doubts and project their own ignorance onto Rama.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) वे मूर्ख हठवश सन्देह करते — अपना अज्ञान श्रीराम पर आरोपित करते।"
         },
         {
           "id": "ut-73-d",
@@ -3852,7 +3867,8 @@
           "original": "काम क्रोध मद लोभ रत गृहासक्त दुखरूप।\nते किमि जानहिं रघुपतिहि मूढ़ परे तम कूप।।73(क)।।\nनिर्गुन रूप सुलभ अति सगुन जान नहिं कोइ।\nसुगम अगम नाना चरित सुनि मुनि मन भ्रम होइ।।73(ख)।।",
           "transliteration": "kāma krodha mada lobha rata gṛhāsakta dukharūpa.\nte kimi jānahiṃ raghupatīhi mūḍha pare",
           "translation": "Those who are devoted to lust, anger, pride, and greed, attached to home and steeped in misery — how can such fools know Raghupati, fallen as they are into the pit of delusion?",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) काम, क्रोध, मद, लोभ में रत — गृहासक्त, दुखरूप। वे मूढ़ श्रीरघुपति को कैसे जानेंगे — भ्रमकूप (मोह-गड्ढे) में पड़े!"
         }
       ]
     },
@@ -3865,7 +3881,8 @@
           "original": "सुनु खगेस रघुपति प्रभुताई। कहउँ जथामति कथा सुहाई।।\nजेहि बिधि मोह भयउ प्रभु मोही। सोउ सब कथा सुनावउँ तोही।।",
           "transliteration": "sunu khagesa raghupati prabhutāī. kahauṃ jathāmati kathā suhāī.\njehi bidhi moha bhayau pa",
           "translation": "'Hear, O king of birds, I shall tell Raghupati's greatness as best I can — a beautiful tale. How great delusion arose and was destroyed.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) सुनो खगेश! श्रीरघुपति की प्रभुता — यथामति सुहानी कथा कहता हूँ। किस प्रकार मोह हुआ — (और मिटा)।"
         },
         {
           "id": "ut-74-c2",
@@ -3873,7 +3890,8 @@
           "original": "राम कृपा भाजन तुम्ह ताता। हरि गुन प्रीति मोहि सुखदाता।।\nताते नहिं कछु तुम्हहिं दुरावउँ। परम रहस्य मनोहर गावउँ।।",
           "transliteration": "rāma kṛpā bhājana tumha tātā. hari guna prīti mohi sukhadātā.\ntāte nahiṃ kachu",
           "translation": "'You are a vessel of Rama's grace, dear one. Your love for Hari's virtues gives me joy. Therefore I hold nothing back from you.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) आप श्रीराम-कृपा के पात्र हो, तात! श्रीहरि-गुण-प्रीति मुझे सुखदाता। इसलिए कुछ (नहीं छिपाता)।"
         },
         {
           "id": "ut-74-c3",
@@ -3881,7 +3899,8 @@
           "original": "सुनहु राम कर सहज सुभाऊ। जन अभिमान न राखहिं काऊ।।\nसंसृत मूल सूलप्रद नाना। सकल सोक दायक अभिमाना।।",
           "transliteration": "sunahu rāma kara sahaja subhāū. jana abhimāna na rākhahiṃ kāū.\nsaṃsṛta mūla sūlaprada nāna",
           "translation": "'Hear Rama's innate nature — He never tolerates pride in His servants. Pride is the root of worldly existence, the source of many sufferings.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) सुनो श्रीराम का सहज स्वभाव — भक्तों में अभिमान कभी नहीं रखने देते। संसार का मूल — शूल (कष्ट) देने वाला — अनेक (अभिमान)।"
         },
         {
           "id": "ut-74-c4",
@@ -3889,7 +3908,8 @@
           "original": "ताते करहिं कृपानिधि दूरी। सेवक पर ममता अति भूरी।।\nजिमि सिसु तन ब्रन होइ गोसाई। मातु चिराव कठिन की नाईं।।",
           "transliteration": "tāte karahiṃ kṛpānidhi dūrī. sevaka para mamatā ati bhūrī.\njimi sisu tana brana ho",
           "translation": "'Therefore the treasury of mercy removes it, having supreme affection for His servants. Just as boils appear on a child's body, the mother applies medicine.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) इसलिए कृपानिधि (अभिमान) दूर करते — सेवकों पर अत्यन्त ममता। जैसे शिशु के शरीर पर फोड़ा हो — (माता दवा लगाती)।"
         },
         {
           "id": "ut-74-d",
@@ -3897,7 +3917,8 @@
           "original": "जदपि प्रथम दुख पावइ रोवइ बाल अधीर।\nब्याधि नास हित जननी गनति न सो सिसु पीर।।74(क)।।\nतिमि रघुपति निज दासकर हरहिं मान हित लागि।\nतुलसिदास ऐसे प्रभुहि कस न भजहु भ्रम त्यागि।।74(ख)।।",
           "transliteration": "jadapi prathama dukha pāvai rovai bāla adhīra.\nbyādhi nāsa hita jananī ganati na so sisu",
           "translation": "Although the child first suffers and cries impatiently, the mother does not count the child's pain — she works to cure the disease.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) यद्यपि पहले बालक दुख पाता — अधीर होकर रोता। पर माता रोग-नाश के लिए — शिशु की पीड़ा नहीं गिनती।"
         }
       ]
     },
@@ -3910,7 +3931,8 @@
           "original": "राम कृपा आपनि जड़ताई। कहउँ खगेस सुनहु मन लाई।।\nजब जब राम मनुज तनु धरहीं। भक्त हेतु लीला बहु करहीं।।",
           "transliteration": "rāma kṛpā āpanī jaḍatāī. kahauṃ khagesa sunahu mana lāī.\njaba jaba rāma manuja tanu dharahī",
           "translation": "'I shall tell of Rama's grace and my own dullness — listen attentively, O king of birds. Whenever Rama assumes human form.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) श्रीराम की कृपा और अपनी जड़ता — कहता हूँ, हे खगेश! मन लगाकर सुनो। जब-जब श्रीराम मनुष्य-शरीर धारण करते —"
         },
         {
           "id": "ut-75-c2",
@@ -3918,7 +3940,8 @@
           "original": "तब तब अवधपुरी मैं ज़ाऊँ। बालचरित बिलोकि हरषाऊँ।।\nजन्म महोत्सव देखउँ जाई। बरष पाँच तहँ रहउँ लोभाई।।",
           "transliteration": "taba taba avadhapurī maiṃ jāūṃ. bālacarita biloki haraṣāūṃ.\njanma mahotsava dekhauṃ jā",
           "translation": "'Then I go to Ayodhya and delight in watching His childhood sports. I witness the festival of His birth.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) तब-तब अवधपुरी जाता हूँ। बाल-चरित्र देखकर हर्षित होता। जन्म-महोत्सव देखता।"
         },
         {
           "id": "ut-75-c3",
@@ -3926,7 +3949,8 @@
           "original": "इष्टदेव मम बालक रामा। सोभा बपुष कोटि सत कामा।।\nनिज प्रभु बदन निहारि निहारी। लोचन सुफल करउँ उरगारी।।",
           "transliteration": "iṣṭadeva mama bālaka rāmā. sobhā bapuṣa koṭi sata kāmā.\nnija prabhu badana nihāri ni",
           "translation": "'My beloved Lord is the child Rama — His beauty surpasses a hundred crore Kamas. Gazing at my Lord's face, I find supreme peace.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) मेरे इष्टदेव बालक श्रीराम — सौ करोड़ कामदेवों से सुन्दर। अपने प्रभु का मुख निहारकर — परम शान्ति।"
         },
         {
           "id": "ut-75-c4",
@@ -3934,7 +3958,8 @@
           "original": "लघु बायस बपु धरि हरि संगा। देखउँ बालचरित बहुरंगा।।",
           "transliteration": "laghu bāyasa bapu dhari hari saṅgā. dekhauṃ bālacarita bahuragā.",
           "translation": "'Taking the form of a small crow, I accompany Hari and watch His many-colored childhood play.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) छोटे कौए का शरीर धारण करके श्रीहरि के संग — बहुरंगी बालचरित्र देखता।"
         },
         {
           "id": "ut-75-d",
@@ -3942,7 +3967,8 @@
           "original": "लरिकाईं जहँ जहँ फिरहिं तहँ तहँ संग उड़ाउँ।\nजूठनि परइ अजिर महँ सो उठाइ करि खाउँ।।75(क)।।\nएक बार अतिसय सब चरित किए रघुबीर।\nसुमिरत प्रभु लीला सोइ पुलकित भयउ सरीर।।75(ख)।।",
           "transliteration": "larikāīṃ jahaṃ jahaṃ phirahiṃ tahaṃ tahaṃ saṅga uḍāūṃ.\njūṭhani parai ajira mahaṃ so uṭhāi",
           "translation": "'Wherever He toddles as a child, I fly along with Him. When His food-offerings fall in the courtyard, I pick them up and eat them.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) बचपन में जहाँ-जहाँ फिरते — वहाँ-वहाँ संग उड़ता। जूठन आँगन में गिरती — उठाकर खाता।"
         }
       ]
     },
@@ -3955,7 +3981,8 @@
           "original": "कहइ भसुंड सुनहु खगनायक। रामचरित सेवक सुखदायक।।\nनृपमंदिर सुंदर सब भाँती। खचित कनक मनि नाना जाती।।",
           "transliteration": "kahai bhusuṃḍa sunahu khaganāyaka. rāmacarita sevaka sukhadāyaka.\nnṛpamandira sundara saba bhāṃtī",
           "translation": "Kakbhushundi said, 'Hear, O king of birds — Rama's deeds are the delight of His servants. The royal palace was beautiful in every way.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि) कहते हैं — सुनो खगनायक (गरुड़)! श्रीराम-चरित्र सेवकों को सुख देने वाला। राजमहल सब प्रकार सुन्दर।"
         },
         {
           "id": "ut-76-c2",
@@ -3963,7 +3990,8 @@
           "original": "बरनि न जाइ रुचिर अँगनाई। जहँ खेलहिं नित चारिउ भाई।।\nबालबिनोद करत रघुराई। बिचरत अजिर जननि सुखदाई।।",
           "transliteration": "barani na jāi rucira aṃganāī. jahaṃ khelahiṃ nita cāriu bhāī.\nbālabiroda karata raghu rā",
           "translation": "The beautiful courtyard is beyond description — where the four brothers played daily. Raghurai performed childish sports.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "सुन्दर आँगन — वर्णन नहीं हो सकती — जहाँ नित्य चारों भाई खेलते। बालक श्रीराम बालविनोद करते।"
         },
         {
           "id": "ut-76-c3",
@@ -3971,7 +3999,8 @@
           "original": "मरकत मृदुल कलेवर स्यामा। अंग अंग प्रति छबि बहु कामा।।\nनव राजीव अरुन मृदु चरना। पदज रुचिर नख ससि दुति हरना।।",
           "transliteration": "marakata mṛdula kalevara śyāmā. aṅga aṅga prati chabi bahu kāmā.\nnava rājīva aruna mṛ",
           "translation": "His tender, emerald-hued body was dark — each limb possessed the beauty of many Kamas. Fresh as a red lotus, His soft, rosy limbs.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "मरकत (पन्ना) जैसा मृदुल, श्याम शरीर। अंग-अंग की छवि — सौ-सौ कामदेव। नए कमल-सा अरुण (लाल)।"
         },
         {
           "id": "ut-76-c4",
@@ -3979,7 +4008,8 @@
           "original": "ललित अंक कुलिसादिक चारी। नूपुर चारू मधुर रवकारी।।\nचारु पुरट मनि रचित बनाई। कटि किंकिन कल मुखर सुहाई।।",
           "transliteration": "lalita aṅka kulisādika cārī. nūpura cāru madhura ravakārī.\ncāru puraṭa mani racita ba",
           "translation": "Beautiful anklets with charming tinkling sounds, and four auspicious marks including the thunderbolt on His lovely feet. Golden ornaments studded with gems.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "सुन्दर अंक (चिह्न) — वज्र आदि चार। सुन्दर नूपुर — मधुर ध्वनि। सोने और मणियों से रचित।"
         },
         {
           "id": "ut-76-d",
@@ -3987,7 +4017,8 @@
           "original": "रेखा त्रय सुन्दर उदर नाभी रुचिर गँभीर।\nउर आयत भ्राजत बिबिध बाल बिभूषन चीर।।76।।",
           "transliteration": "rekhā traya sundara udara nābhī rucira gaṃbhīra.\nura āyata bhrājata bibidha bāla bibhūṣana",
           "translation": "Three lines adorned His beautiful belly, His navel was charmingly deep. His broad chest shone with various childhood ornaments.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "तीन रेखाएँ, सुन्दर उदर (पेट), सुन्दर गहरी नाभि। विशाल वक्ष — विविध बाल-आभूषण शोभित।"
         }
       ]
     },
@@ -4000,7 +4031,8 @@
           "original": "अरुन पानि नख करज मनोहर। बाहु बिसाल बिभूषन सुंदर।।\nकंध बाल केहरि दर ग्रीवा। चारु चिबुक आनन छबि सींवा।।",
           "transliteration": "aruna pāni nakha karaja manohara. bāhu bisāla bibhūṣana sundara.\nkaṃdha bāla kehari dara gra",
           "translation": "Red palms, lovely nails and fingers, broad arms with beautiful ornaments. Shoulders like a young lion, a beautiful throat.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "अरुण (लाल) हथेलियाँ, मनोहर नख-करज (नाखून)। विशाल बाहुएँ, सुन्दर आभूषण। सिंह-शावक जैसे कन्धे, सुन्दर गला।"
         },
         {
           "id": "ut-77-c2",
@@ -4008,7 +4040,8 @@
           "original": "कलबल बचन अधर अरुनारे। दुइ दुइ दसन बिसद बर बारे।।\nललित कपोल मनोहर नासा। सकल सुखद ससि कर सम हासा।।",
           "transliteration": "kalabala bacana adhara arunāre. dui dui dasana bisada bara bāre.\nlalita kapola manohara nāsā.",
           "translation": "Babbling words, reddish lips, two or two little white teeth just beginning to appear. Charming cheeks, a lovely nose.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "तुतलाते वचन, लाल होंठ। दो-दो स्वच्छ, श्रेष्ठ, नए दाँत। सुन्दर गाल, मनोहर नाक।"
         },
         {
           "id": "ut-77-c3",
@@ -4016,7 +4049,8 @@
           "original": "नील कंज लोचन भव मोचन। भ्राजत भाल तिलक गोरोचन।।\nबिकट भृकुटि सम श्रवन सुहाए। कुंचित कच मेचक छबि छाए।।",
           "transliteration": "nīla kaṃja locana bhava mocana. bhrājata bhāla tilaka gorōcana.\nbikaṭa bhṛkuṭi sama śravana su",
           "translation": "His lotus eyes that liberate from existence, a bright tilak of gorochan shining on His forehead. Beautiful eyebrows, lovely ears.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "नील कमल-से नेत्र — भव-मोचन (संसार से मुक्ति देने वाले)। मस्तक पर गोरोचन का तिलक शोभित। विकट भौंहें, सुन्दर कान।"
         },
         {
           "id": "ut-77-c4",
@@ -4024,7 +4058,8 @@
           "original": "पीत झीनि झगुली तन सोही। किलकनि चितवनि भावति मोही।।\nरूप रासि नृप अजिर बिहारी। नाचहिं निज प्रतिबिंब निहारी।।",
           "transliteration": "pīta jhīni jhagulī tana sohī. kilakani citavani bhāvati mohī.\nrūpa rāsi nṛpa ajira ba",
           "translation": "A thin yellow garment adorned His body — His laughter and glances captivated me. The treasury of beauty played in the royal courtyard.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "पीली पतली झगुली (कुर्ता) शरीर पर शोभित। किलकारी और चितवन — मुझे भाती। रूप-राशि — राजा के आँगन में।"
         },
         {
           "id": "ut-77-c5",
@@ -4032,7 +4067,8 @@
           "original": "मोहि सन करहीं बिबिध बिधि क्रीड़ा। बरनत मोहि होति अति ब्रीड़ा।।\nकिलकत मोहि धरन जब धावहिं। चलउँ भागि तब पूप देखावहिं।।",
           "transliteration": "mohi sana karahīṃ bibidha bidhi krīḍā. baranata mohi hoti ati brīḍā.\nkilakata ma",
           "translation": "He would play with me in many ways — I feel shy to describe them. He would laugh and reach out to catch me.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) मुझसे विविध प्रकार की क्रीड़ा करते। वर्णन करते मुझे अत्यन्त लाज आती। किलकारते —"
         },
         {
           "id": "ut-77-d",
@@ -4040,7 +4076,8 @@
           "original": "आवत निकट हँसहिं प्रभु भाजत रुदन कराहिं।\nजाउँ समीप गहन पद फिरि फिरि चितइ पराहिं।।77(क)।।\nप्राकृत सिसु इव लीला देखि भयउ मोहि मोह।\nकवन चरित्र करत प्रभु चिदानंद संदोह।।77(ख)।।",
           "transliteration": "āvata nikaṭa haṃsahiṃ prabhu bhājata rudana karāhiṃ.\njāūṃ samīpa gahana pada phiri phiri cita",
           "translation": "When I came near, the Lord would laugh; when I fled, He would cry. I would approach His feet, and He would gaze at me again and again.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) निकट आता तो प्रभु हँसते — भागता तो रोने लगते। समीप जाता — चरण पकड़ने को — फिर-फिर देखते।"
         }
       ]
     },
@@ -4053,7 +4090,8 @@
           "original": "एतना मन आनत खगराया। रघुपति प्रेरित ब्यापी माया।।\nसो माया न दुखद मोहि काहीं। आन जीव इव संसृत नाहीं।।",
           "transliteration": "etanā mana ānata khagarāyā. raghupati prerita byāpī māyā.\nso māyā na dukhada mohi ka",
           "translation": "As I was thinking this, O king of birds, Raghupati's Maya spread by the Lord's will. But that Maya was not painful or deluding to me.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) इतना मन में आनते ही, हे खगराज! — श्रीरघुपति-प्रेरित माया व्याप गई। पर वह माया मुझे दुखद नहीं।"
         },
         {
           "id": "ut-78-c2",
@@ -4061,7 +4099,8 @@
           "original": "नाथ इहाँ कछु कारन आना। सुनहु सो सावधान हरिजाना।।\nग्यान अखंड एक सीताबर। माया बस्य जीव सचराचर।।",
           "transliteration": "nātha ihāṃ kachu kārana ānā. sunahu so sāvadhāna harijānā.\ngyāna akhaṇḍa eka sītābara.",
           "translation": "'Lord, there is another reason here — listen carefully, O devotee of Hari. Sita's Lord is the one and only undivided knowledge.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) हे नाथ! यहाँ कुछ और कारण है — सावधान होकर सुनो, हे हरिभक्त! अखण्ड एक ज्ञान — सीतापति (श्रीराम)।"
         },
         {
           "id": "ut-78-c3",
@@ -4069,7 +4108,8 @@
           "original": "जौं सब कें रह ग्यान एकरस। ईस्वर जीवहि भेद कहहु कस।।\nमाया बस्य जीव अभिमानी। ईस बस्य माया गुनखानी।।",
           "transliteration": "jauṃ saba keṃ raha gyāna ekarasa. īsvara jīvahi bheda kahahu kasa.\nmāyā basya jīva abhima",
           "translation": "'If knowledge remains the same in all, then how do you explain the difference between God and the individual soul? The soul is under Maya's sway and subject to ego.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) यदि सबमें एकरस ज्ञान रहे — तो ईश्वर और जीव में भेद कैसे कहोगे? जीव — माया के वश, अभिमानी।"
         },
         {
           "id": "ut-78-c4",
@@ -4077,7 +4117,8 @@
           "original": "परबस जीव स्वबस भगवंता। जीव अनेक एक श्रीकंता।।\nमुधा भेद जद्यपि कृत माया। बिनु हरि जाइ न कोटि उपाया।।",
           "transliteration": "parabasa jīva svabasa bhagavantā. jīva aneka eka śrīkaṃtā.\nmudhā bheda jadyapi kṛta māyā",
           "translation": "'The soul is dependent, the Lord is self-sovereign. Souls are many, Shri Kanta (Lord) is one. Though the distinction is false (created by Maya), it does not vanish without realization.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) जीव — परवश (पराधीन), भगवान — स्ववश (स्वतन्त्र)। जीव — अनेक, श्रीकान्त (भगवान) — एक। भेद मिथ्या — यद्यपि माया-कृत।"
         },
         {
           "id": "ut-78-d",
@@ -4085,7 +4126,8 @@
           "original": "रामचंद्र के भजन बिनु जो चह पद निर्बान।\nग्यानवंत अपि सो नर पसु बिनु पूँछ बिषान।।78(क)।।\nराकापति षोड़स उअहिं तारागन समुदाइ।।\nसकल गिरिन्ह दव लाइअ बिनु रबि राति न जाइ।।78(ख)।।",
           "transliteration": "rāmacandra ke bhajana binu jo caha pada nirbāna.\ngyānavanta api so nara pasu binu pūṃ",
           "translation": "Without worshipping Ramachandra, whoever seeks the state of Nirvana — even if wise, that person is like an animal without a tail.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) श्रीरामचन्द्र के भजन बिना जो निर्वाण-पद चाहे — ज्ञानवान होकर भी वह मनुष्य — बिना पूँछ के पशु।"
         }
       ]
     },
@@ -4098,7 +4140,8 @@
           "original": "ऐसेहिं हरि बिनु भजन खगेसा। मिटइ न जीवन्ह केर कलेसा।।\nहरि सेवकहि न ब्याप अबिद्या। प्रभु प्रेरित ब्यापइ तेहि बिद्या।।",
           "transliteration": "aisehiṃ hari binu bhajana khagesā. miṭai na jīvanha kera kalesā.\nhari sevakahi na byā",
           "translation": "'Even so, O king of birds, without worshipping Hari, the suffering of beings does not end. Maya does not trouble the servant of Hari.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) ऐसे ही श्रीहरि-भजन बिना, हे खगेश! — जीवों का कष्ट नहीं मिटता। श्रीहरि के सेवक को माया नहीं व्यापती।"
         },
         {
           "id": "ut-79-c2",
@@ -4106,7 +4149,8 @@
           "original": "ताते नास न होइ दास कर। भेद भगति भाढ़इ बिहंगबर।।\nभ्रम ते चकित राम मोहि देखा। बिहँसे सो सुनु चरित बिसेषा।।",
           "transliteration": "tāte nāsa na hoi dāsa kara. bheda bhagati bhāḍhai bihaṅgabara.\nbhrama te cakita rāma mohi",
           "translation": "'Therefore the servant's destruction never comes. The distinction between devotion and its opposite is clear, O best of birds. By a playful freak, Rama deluded me.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) इसलिए दास का नाश नहीं होता। भक्ति का भेद बढ़ता है, हे पक्षिवर! भ्रम से चकित — श्रीराम ने मुझे —"
         },
         {
           "id": "ut-79-c3",
@@ -4114,7 +4158,8 @@
           "original": "तेहि कौतुक कर मरमु न काहूँ। जाना अनुज न मातु पिताहूँ।।\nजानु पानि धाए मोहि धरना। स्यामल गात अरुन कर चरना।।",
           "transliteration": "tehiṃ kautuka kara maramu na kāhūṃ. jānā anuja na mātu pitāhūṃ.\njānu pāni dhāe ma",
           "translation": "'No one — not His brother, nor mother, nor father — knew the secret of that sport. Crawling on hands and knees, He rushed towards me.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) उस कौतुक का रहस्य कोई नहीं जाना — न अनुज, न माता, न पिता। घुटनों-हाथों के बल (रेंगते) — मेरी ओर दौड़े।"
         },
         {
           "id": "ut-79-c4",
@@ -4122,7 +4167,8 @@
           "original": "तब मैं भागि चलेउँ उरगामी। राम गहन कहँ भुजा पसारी।।\nजिमि जिमि दूरि उड़ाउँ अकासा। तहँ भुज हरि देखउँ निज पासा।।",
           "transliteration": "taba maiṃ bhāgi caleuṃ uragāmī. rāma gahana kahaṃ bhujā pasārī.\njimi jimi dūri uḍā",
           "translation": "'Then I flew away, O serpent-eater. Rama stretched out His arms to catch me. The further I flew, the more He kept reaching.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) तब मैं भागकर चला, हे उरगारि (गरुड़)! श्रीराम ने पकड़ने को भुजाएँ पसारीं। जितना दूर उड़ता —"
         },
         {
           "id": "ut-79-d",
@@ -4130,7 +4176,8 @@
           "original": "ब्रह्मलोक लगि गयउँ मैं चितयउँ पाछ उड़ात।\nजुग अंगुल कर बीच सब राम भुजहि मोहि तात।।79(क)।।\nसप्ताबरन भेद करि जहाँ लगें गति मोरि।\nगयउँ तहाँ प्रभु भुज निरखि ब्याकुल भयउँ बहोरि।।79(ख)।।",
           "transliteration": "brahmaloka lagi gayauṃ maiṃ citayauṃ pācha uḍāta.\njuga aṅgula kara bīca saba rāma bhujahi",
           "translation": "'I flew all the way to Brahmaloka, looking back as I flew. But Rama's arms were always just two fingers' width away!'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) ब्रह्मलोक तक गया — उड़ते हुए पीछे देखा। दो अंगुल के अन्तर में — सब श्रीराम की भुजाएँ!"
         }
       ]
     },
@@ -4143,7 +4190,8 @@
           "original": "मूदेउँ नयन त्रसित जब भयउँ। पुनि चितवत कोसलपुर गयऊँ।।\nमोहि बिलोकि राम मुसुकाहीं। बिहँसत तुरत गयउँ मुख माहीं।।",
           "transliteration": "mūdeuṃ nayana trasita jaba bhayauṃ. puni citavata kosalapura gayaūṃ.\nmohi biloki rāma ma",
           "translation": "'When I closed my eyes in terror, I found myself back in Ayodhya. Seeing me, Rama smiled.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) जब भयभीत होकर आँखें बन्द कीं — फिर देखता तो कोसलपुर (अवध) पहुँच गया। मुझे देखकर श्रीराम मुस्कुराए।"
         },
         {
           "id": "ut-80-c2",
@@ -4151,7 +4199,8 @@
           "original": "उदर माझ सुनु अंडज राया। देखेउँ बहु ब्रह्मांड निकाया।।\nअति बिचित्र तहँ लोक अनेका। रचना अधिक एक ते एका।।",
           "transliteration": "udara mājha sunu aṇḍaja rāyā. dekheuṃ bahu brahmāṇḍa nikāyā.\nati bicitra tahaṃ",
           "translation": "'Inside His belly, hear me O king of birds, I saw multitudes of universes. Exceedingly wonderful things were there.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) उदर (पेट) के अन्दर, सुनो हे अण्डज-राज (गरुड़)! — बहुत ब्रह्माण्डों के समूह देखे। अत्यन्त विचित्र।"
         },
         {
           "id": "ut-80-c3",
@@ -4159,7 +4208,8 @@
           "original": "कोटिन्ह चतुरानन गौरीसा। अगनित उडगन रबि रजनीसा।।\nअगनित लोकपाल जम काला। अगनित भूधर भूमि बिसाला।।",
           "transliteration": "koṭinha caturānana gaurīsā. aganita uḍagana rabi rajanīsā.\naganita lokapāla jama kālā.",
           "translation": "'Millions of Brahmas and Shivas, countless stars, suns, and moons. Countless world-guardians, Yamas, and Deaths.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) करोड़ों ब्रह्मा और शिव। अनगिनत तारे, सूर्य, चन्द्रमा। अनगिनत लोकपाल, यम, काल।"
         },
         {
           "id": "ut-80-c4",
@@ -4167,7 +4217,8 @@
           "original": "सागर सरि सर बिपिन अपारा। नाना भाँति सृष्टि बिस्तारा।।\nसुर मुनि सिद्ध नाग नर किंनर। चारि प्रकार जीव सचराचर।।",
           "transliteration": "sāgara sari sara bipina apārā. nānā bhāṃti sṛṣṭi bistārā.\nsura muni siddha na",
           "translation": "'Boundless oceans, rivers, lakes, and forests. The creation spread in countless forms. Gods, sages, Siddhas, and serpents.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) अपार सागर, नदी, तालाब, वन। अनेक प्रकार की सृष्टि का विस्तार। देवता, मुनि, सिद्ध, नाग।"
         },
         {
           "id": "ut-80-d",
@@ -4175,7 +4226,8 @@
           "original": "जो नहिं देखा नहिं सुना जो मनहूँ न समाइ।\nसो सब अद्भुत देखेउँ बरनि कवनि बिधि जाइ।।80(क)।।\nएक एक ब्रह्मांड महुँ रहउँ बरष सत एक।\nएहि बिधि देखत फिरउँ मैं अंड कटाह अनेक।।80(ख)।।",
           "transliteration": "jo nahiṃ dekhā nahiṃ sunā jo manahūṃ na samāi.\nso saba adbhuta dekheuṃ barani kavani",
           "translation": "'What had never been seen, never heard, what the mind could not contain — all that wondrous creation I beheld. How can I describe it?'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) जो न देखा, न सुना, जो मन में भी नहीं समाता — वह सब अद्भुत देखा — वर्णन कैसे करूँ?"
         }
       ]
     },
@@ -4188,7 +4240,8 @@
           "original": "लोक लोक प्रति भिन्न बिधाता। भिन्न बिष्नु सिव मनु दिसित्राता।।\nनर गंधर्ब भूत बेताला। किंनर निसिचर पसु खग ब्याला।।",
           "transliteration": "loka loka prati bhinna bidhātā. bhinna biṣṇu siva manu disittrātā.\nnara gandharva",
           "translation": "'In each universe was a separate Brahma, a separate Vishnu, Shiva, Manu, and guardian of the quarters. Different celestials, Gandharvas everywhere.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) लोक-लोक में भिन्न-भिन्न ब्रह्मा। भिन्न विष्णु, शिव, मनु, दिक्पाल। मनुष्य, गन्धर्व —"
         },
         {
           "id": "ut-81-c2",
@@ -4196,7 +4249,8 @@
           "original": "देव दनुज गन नाना जाती। सकल जीव तहँ आनहि भाँती।।\nमहि सरि सागर सर गिरि नाना। सब प्रपंच तहँ आनइ आना।।",
           "transliteration": "deva danuja gana nānā jātī. sakala jīva tahaṃ ānahi bhāṃtī.\nmahi sari sāgara sara giri na",
           "translation": "'Gods and demons of many species, all beings of different kinds. Earth, rivers, oceans, lakes, mountains.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) देवता-दानव — अनेक जातियों के गण। सब जीव — अन्य प्रकार (विविध)। पृथ्वी, नदी, सागर, तालाब, पर्वत।"
         },
         {
           "id": "ut-81-c3",
@@ -4204,7 +4258,8 @@
           "original": "अंडकोस प्रति प्रति निज रुपा। देखेउँ जिनस अनेक अनूपा।।\nअवधपुरी प्रति भुवन निनारी। सरजू भिन्न भिन्न नर नारी।।",
           "transliteration": "aṇḍakosa prati prati nija rūpā. dekheuṃ jinasa aneka anūpā.\navadhapurī prati bhu",
           "translation": "'In each cosmic egg, I saw my own form in many unique varieties! In each universe an Ayodhya.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(काकभुशुण्डि ने कहा) प्रत्येक अण्डकोश में अपना-अपना रूप देखा — अनेक अनुपम प्रकार के। प्रत्येक ब्रह्माण्ड में अवधपुरी।"
         },
         {
           "id": "ut-81-c4",

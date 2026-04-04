@@ -6234,7 +6234,8 @@
           "original": "रामकथा सुंदर कर तारी। संसय बिहग उडावनिहारी।।\nरामकथा कलि बिटप कुठारी। सादर सुनु गिरिराजकुमारी।।",
           "transliteration": "",
           "translation": "'The story of Rama is like the beautiful snapping of fingers that drives away the birds of doubt. The story of Rama is like an axe to the tree of the Kali age. Listen reverently, O daughter of the mountain king.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "श्रीराम-कथा — सुन्दर हाथ की ताली — सन्देह-पक्षी उड़ाने वाली। श्रीराम-कथा — कलियुग (के मल नाशने वाली)।"
         },
         {
           "id": "bk-114-c2",
@@ -6242,7 +6243,8 @@
           "original": "राम नाम गुन चरित सुहाए। जनम करम अगनित श्रुति गाए।।\nजथा अनंत राम भगवाना। तथा कथा कीरति गुन नाना।।",
           "transliteration": "",
           "translation": "'The names, virtues, and lovely deeds of Rama, his births and actions — the Vedas sing of them without end. Just as Lord Rama is infinite, so too are his stories, fame, and virtues without limit.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "श्रीराम-नाम, गुण, सुहावने चरित्र — जन्म-कर्म अनगिनत — श्रुति (वेद) गाते। जैसे।"
         },
         {
           "id": "bk-114-c3",
@@ -6250,7 +6252,8 @@
           "original": "तदपि जथा श्रुत जसि मति मोरी। कहिहउँ देखि प्रीति अति तोरी।।\nउमा प्रस्न तव सहज सुहाई। सुखद संतसंमत मोहि भाई।।",
           "transliteration": "",
           "translation": "'Yet as I have heard and as my intellect permits, I shall narrate them, seeing your great love. O Uma, your question is naturally beautiful, delightful, and approved by the saints — it has pleased me.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "तदपि जैसा सुना, जैसी मेरी बुद्धि — कहूँगा — तुम्हारी अत्यन्त प्रीति देखकर।"
         },
         {
           "id": "bk-114-c4",
@@ -6258,7 +6261,8 @@
           "original": "एक बात नहि मोहि सोहानी। जदपि मोह बस कहेहु भवानी।।\nतुम जो कहा राम कोउ आना। जेहि श्रुति गाव धरहिं मुनि ध्याना।।",
           "transliteration": "",
           "translation": "'But one thing you said did not please me — even though you spoke it under the influence of delusion, O Bhavani. You suggested that Rama is someone other than the one whom the Vedas praise and upon whom the sages meditate.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) एक बात मुझे नहीं सुहाती — यद्यपि मोहवश कही, भवानी! तुमने जो (पूछा)।"
         },
         {
           "id": "bk-114-d",
@@ -6266,7 +6270,8 @@
           "original": "कहहि सुनहि अस अधम नर ग्रसे जे मोह पिसाच।\nपाषंडी हरि पद बिमुख जानहिं झूठ न साच।।114।।",
           "transliteration": "",
           "translation": "'Those degraded people who say and hear such things are possessed by the demon of delusion. Heretics who are averse to Hari's feet — they cannot distinguish truth from falsehood.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(शिवजी ने कहा) ऐसा कहते-सुनते अधम मनुष्य — मोह-पिशाच से ग्रस्त। पाखण्डी — श्रीहरि-पद (से विमुख)।"
         }
       ]
     },
@@ -6279,7 +6284,8 @@
           "original": "अग्य अकोबिद अंध अभागी। काई बिषय मुकर मन लागी।।\nलंपट कपटी कुटिल बिसेषी। सपनेहुँ संतसभा नहिं देखी।।",
           "transliteration": "",
           "translation": "'The ignorant, the unlearned, the blind, and the unfortunate — whose minds cling to the mirror of sense objects. Lustful, deceitful, and especially crooked — they have never even seen the assembly of saints, not even in a dream.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) अज्ञानी, अविद्वान, अन्धे, अभागे। कालिख (लगे) विषय-रूपी दर्पण में मन लगा। लम्पट, कपटी।"
         },
         {
           "id": "bk-115-c2",
@@ -6287,7 +6293,8 @@
           "original": "कहहिं ते बेद असंमत बानी। जिन्ह कें सूझ लाभु नहिं हानी।।\nमुकर मलिन अरु नयन बिहीना। राम रूप देखहिं किमि दीना।।",
           "transliteration": "",
           "translation": "'They speak words contrary to the Vedas, unable to see gain from loss. Their mirror is dirty and they are also blind — how can such wretched ones behold Rama's form?'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) वे वेद-विरुद्ध वाणी कहते — जिन्हें लाभ-हानि नहीं सूझती।"
         },
         {
           "id": "bk-115-c3",
@@ -6295,7 +6302,8 @@
           "original": "जिन्ह कें अगुन न सगुन बिबेका। जल्पहिं कल्पित बचन अनेका।।\nहरिमाया बस जगत भ्रमाहीं। तिन्हहि कहत कछु अघटित नाहीं।।",
           "transliteration": "",
           "translation": "'Those who have no understanding of either the formless or the formed aspect of God babble many imagined words. Deluded by Hari's Maya, they wander the world — nothing is impossible for them to say.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) जिनमें निर्गुण-सगुण का विवेक नहीं — अनेक कल्पित वचन बकते।"
         },
         {
           "id": "bk-115-c4",
@@ -6303,7 +6311,8 @@
           "original": "बातुल भूत बिबस मतवारे। ते नहिं बोलहिं बचन बिचारे।।\nजिन्ह कृत महामोह मद पाना। तिन् कर कहा करिअ नहिं काना।।",
           "transliteration": "",
           "translation": "'The insane, the possessed, the intoxicated — they do not speak considered words. Those who have drunk the wine of great delusion — do not lend your ear to their words.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) बातूनी, भूत-विवश, मतवाले — वे विचारपूर्ण वचन नहीं बोलते। जिनमें।"
         },
         {
           "id": "bk-115-d",
@@ -6311,7 +6320,8 @@
           "original": "अस निज हृदयँ बिचारि तजु संसय भजु राम पद।\nसुनु गिरिराज कुमारि भ्रम तम रबि कर बचन मम।।115।।",
           "transliteration": "",
           "translation": "'Reflect thus in your heart and abandon doubt; worship Rama's feet. Listen, O daughter of the mountain king — my words are like sunlight to the darkness of delusion.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(शिवजी ने कहा) ऐसा अपने हृदय में विचारकर — सन्देह त्यागो, श्रीराम-पद भजो। सुनो, हे गिरिराज-कुमारी!"
         }
       ]
     },
@@ -6324,7 +6334,8 @@
           "original": "सगुनहि अगुनहि नहिं कछु भेदा। गावहिं मुनि पुरान बुध बेदा।।\nअगुन अरुप अलख अज जोई। भगत प्रेम बस सगुन सो होई।।",
           "transliteration": "",
           "translation": "'Between the formed and the formless, there is no difference at all — so say the wise, the Puranas, and the Vedas. The one who is without attributes, form, invisible, and unborn becomes, through the power of a devotee's love, the same with form and attributes.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) सगुण और निर्गुण में कोई भेद नहीं — मुनि, पुराण, बुद्धिमान, वेद गाते।"
         },
         {
           "id": "bk-116-c2",
@@ -6332,7 +6343,8 @@
           "original": "जो गुन रहित सगुन सोइ कैसें। जलु हिम उपल बिलग नहिं जैसें।।\nजासु नाम भ्रम तिमिर पतंगा। तेहि किमि कहिअ बिमोह प्रसंगा।।",
           "transliteration": "",
           "translation": "'How can the attributeless become the one with attributes? Just as water and ice are not different. He whose very name is like a moth to the darkness of delusion — how can one speak of him in connection with bewilderment?'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) जो गुणरहित — सगुण वही कैसे? जैसे जल और बर्फ — अलग नहीं।"
         },
         {
           "id": "bk-116-c3",
@@ -6340,7 +6352,8 @@
           "original": "राम सच्चिदानंद दिनेसा। नहिं तहँ मोह निसा लवलेसा।।\nसहज प्रकासरुप भगवाना। नहिं तहँ पुनि बिग्यान बिहाना।।",
           "transliteration": "",
           "translation": "'Rama is like the sun of truth-consciousness-bliss; not a trace of the night of delusion exists there. The Lord is by nature self-luminous; there is no dawn of knowledge there (for he is ever luminous).'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) श्रीराम — सच्चिदानन्द-सूर्य। वहाँ मोह-रात्रि — लवलेश भी नहीं। सहज प्रकाश।"
         },
         {
           "id": "bk-116-c4",
@@ -6348,7 +6361,8 @@
           "original": "हरष बिषाद ग्यान अग्याना। जीव धर्म अहमिति अभिमाना।।\nराम ब्रह्म ब्यापक जग जाना। परमानन्द परेस पुराना।।",
           "transliteration": "",
           "translation": "'Joy and sorrow, knowledge and ignorance, the nature of the individual soul and the sense of ego — Rama is the all-pervading Brahman, known to the world as the Supreme Bliss, the ancient supreme Lord.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) हर्ष-विषाद, ज्ञान-अज्ञान। जीव-धर्म — 'अहम्' (मैं) अभिमान। श्रीराम (में नहीं)।"
         },
         {
           "id": "bk-116-d",
@@ -6356,7 +6370,8 @@
           "original": "पुरुष प्रसिद्ध प्रकास निधि प्रगट परावर नाथ।।\nरघुकुलमनि मम स्वामि सोइ कहि सिवँ नायउ माथ।।116।।",
           "transliteration": "",
           "translation": "'He is the famous Supreme Person, the treasury of light, the manifest Lord of the high and the low. That jewel of the Raghu dynasty is my Master.' So saying, Shiva bowed his head.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(शिवजी ने कहा) पुरुष — प्रसिद्ध, प्रकाश-निधि। प्रकट — परावर (सबके) नाथ। रघुकुलमणि।"
         }
       ]
     },
@@ -6369,7 +6384,8 @@
           "original": "निज भ्रम नहिं समुझहिं अग्यानी। प्रभु पर मोह धरहिं जड़ प्रानी।।\nजथा गगन घन पटल निहारी। झाँपेउ मानु कहहिं कुबिचारी।।",
           "transliteration": "",
           "translation": "'The ignorant do not understand their own delusion, and foolish beings attribute bewilderment to the Lord. Just as, seeing a veil of clouds in the sky, ill-minded ones declare that the sun has been covered.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) अपना भ्रम नहीं समझते अज्ञानी — प्रभु पर मोह आरोपित करते, जड़ (मूढ़)।"
         },
         {
           "id": "bk-117-c2",
@@ -6377,7 +6393,8 @@
           "original": "चितव जो लोचन अंगुलि लाएँ। प्रगट जुगल ससि तेहि के भाएँ।।\nउमा राम बिषइक अस मोहा। नभ तम धूम धूरि जिमि सोहा।।",
           "transliteration": "",
           "translation": "'One who looks with a finger pressed against the eye sees two moons where there is one. O Uma, such is the delusion regarding Rama — it is like darkness, smoke, or dust appearing in the sky.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) आँखों पर उँगली लगाकर देखे — दो चन्द्रमा दिखते उसे।"
         },
         {
           "id": "bk-117-c3",
@@ -6385,7 +6402,8 @@
           "original": "बिषय करन सुर जीव समेता। सकल एक तें एक सचेता।।\nसब कर परम प्रकासक जोई। राम अनादि अवधपति सोई।।",
           "transliteration": "",
           "translation": "'Sense objects, the senses, the gods, and the individual soul — each one is more conscious than the one before. He who is the supreme illuminator of them all — that Rama, the beginningless Lord of Ayodhya, is the same.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) विषय, इन्द्रियाँ, देवता, जीव समेत — सब एक से एक सचेत। सबका परम (प्रेरक)।"
         },
         {
           "id": "bk-117-c4",
@@ -6393,7 +6411,8 @@
           "original": "जगत प्रकास्य प्रकासक रामू। मायाधीस ग्यान गुन धामू।।\nजासु सत्यता तें जड माया। भास सत्य इव मोह सहाया।।",
           "transliteration": "",
           "translation": "'The world is that which is illuminated, and Rama is the illuminator — the Lord of Maya, the abode of knowledge and virtue. It is due to his reality that inert Maya appears to be real, aided by delusion.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) जगत — प्रकाश्य (प्रकाशित होने वाला), श्रीराम — प्रकाशक। मायाधीश, ज्ञान-गुण के धाम। जिनकी।"
         },
         {
           "id": "bk-117-d",
@@ -6401,7 +6420,8 @@
           "original": "रजत सीप महुँ मास जिमि जथा भानु कर बारि।\nजदपि मृषा तिहुँ काल सोइ भ्रम न सकइ कोउ टारि।।117।।",
           "transliteration": "",
           "translation": "'Just as silver appears in a shell, or a mirage appears in sunlight — though false in all three times, no one can remove that illusion (without true knowledge).'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(शिवजी ने कहा) सीप में चाँदी, (सूखे) मास (दाल) में जल — जैसे सूर्य-किरण। यद्यपि मिथ्या — तीनों (लोकों में)।"
         }
       ]
     },
@@ -6414,7 +6434,8 @@
           "original": "एहि बिधि जग हरि आश्रित रहई। जदपि असत्य देत दुख अहई।।\nजौं सपनें सिर काटै कोई। बिनु जागें न दूरि दुख होई।।",
           "transliteration": "",
           "translation": "'In this way, the world exists dependent on Hari; though unreal, it causes suffering. If someone cuts off your head in a dream, the pain does not go away without waking up.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) इस प्रकार जगत श्रीहरि-आश्रित रहता — यद्यपि असत्य, दुख देता। यदि।"
         },
         {
           "id": "bk-118-c2",
@@ -6422,7 +6443,8 @@
           "original": "जासु कृपाँ अस भ्रम मिटि जाई। गिरिजा सोइ कृपाल रघुराई।।\nआदि अंत कोउ जासु न पावा। मति अनुमानि निगम अस गावा।।",
           "transliteration": "",
           "translation": "'The one by whose grace such delusion is destroyed — O Girija, that compassionate one is Raghurai. No one has found his beginning or end; the Vedas, reasoning by inference, have sung thus.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) जिसकी कृपा से ऐसा भ्रम मिट जाए — हे गिरिजा! वही कृपालु श्रीरघुराई।"
         },
         {
           "id": "bk-118-c3",
@@ -6430,7 +6452,8 @@
           "original": "बिनु पद चलइ सुनइ बिनु काना। कर बिनु करम करइ बिधि नाना।।\nआनन रहित सकल रस भोगी। बिनु बानी बकता बड़ जोगी।।",
           "transliteration": "",
           "translation": "'He walks without feet, hears without ears, performs all manner of actions without hands. Without a face, he enjoys all tastes; without speech, he is the greatest orator and yogi.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) बिना पैर चलते, बिना कान सुनते। बिना हाथ अनेक प्रकार के कर्म करते।"
         },
         {
           "id": "bk-118-c4",
@@ -6438,7 +6461,8 @@
           "original": "तनु बिनु परस नयन बिनु देखा। ग्रहइ घ्रान बिनु बास असेषा।।\nअसि सब भाँति अलौकिक करनी। महिमा जासु जाइ नहिं बरनी।।",
           "transliteration": "",
           "translation": "'Without a body, he touches; without eyes, he sees; without a nose, he perceives all fragrances. Such are his supernatural doings in every way — his glory cannot be described.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) बिना शरीर स्पर्श, बिना नेत्र देखते। बिना नाक सम्पूर्ण गन्ध ग्रहण करते।"
         },
         {
           "id": "bk-118-d",
@@ -6446,7 +6470,8 @@
           "original": "जेहि इमि गावहि बेद बुध जाहि धरहिं मुनि ध्यान।।\nसोइ दसरथ सुत भगत हित कोसलपति भगवान।।118।।",
           "transliteration": "",
           "translation": "'He whom the Vedas and the wise thus sing, upon whom the sages meditate — that same one is the son of Dasharatha, devoted to his devotees, the Lord of Koshala, the Supreme God.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(शिवजी ने कहा) जिन्हें वेद-बुद्धिमान ऐसे गाते — मुनि ध्यान धरते। वही दशरथ (के पुत्र)।"
         }
       ]
     },
@@ -6459,7 +6484,8 @@
           "original": "कासीं मरत जंतु अवलोकी। जासु नाम बल करउँ बिसोकी।।\nसोइ प्रभु मोर चराचर स्वामी। रघुबर सब उर अंतरजामी।।",
           "transliteration": "",
           "translation": "'Seeing beings dying in Kashi, by the power of whose name I free them from sorrow — that Lord is my master of all animate and inanimate beings, Raghuvara, the indweller of all hearts.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) काशी में मरते जीव देखकर — जिनके नाम-बल से मैं शोकरहित करता। वही प्रभु।"
         },
         {
           "id": "bk-119-c2",
@@ -6467,7 +6493,8 @@
           "original": "बिबसहुँ जासु नाम नर कहहीं। जनम अनेक रचित अघ दहहीं।।\nसादर सुमिरन जे नर करहीं। भव बारिधि गोपद इव तरहीं।।",
           "transliteration": "",
           "translation": "'Even those who utter his name unwittingly burn away sins accumulated over countless births. Those who remember him reverently cross the ocean of worldly existence as easily as a cow's hoofprint.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) विवश (बिना इच्छा) भी जो मनुष्य जिनका नाम कहें — अनेक जन्मों के पाप जलते। आदर से (जपने पर)।"
         },
         {
           "id": "bk-119-c3",
@@ -6475,7 +6502,8 @@
           "original": "राम सो परमातमा भवानी। तहँ भ्रम अति अबिहित तव बानी।।\nअस संसय आनत उर माहीं। ग्यान बिराग सकल गुन जाहीं।।",
           "transliteration": "",
           "translation": "'Rama is the Supreme Soul, O Bhavani; to raise doubt about this is most improper — your words were wrong. Bringing such doubt into one's heart destroys all knowledge, dispassion, and virtues.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) श्रीराम — वही परमात्मा, हे भवानी! वहाँ भ्रम — अत्यन्त अनुचित तुम्हारी वाणी। ऐसा।"
         },
         {
           "id": "bk-119-c4",
@@ -6483,7 +6511,8 @@
           "original": "सुनि सिव के भ्रम भंजन बचना। मिटि गै सब कुतरक कै रचना।।\nभइ रघुपति पद प्रीति प्रतीती। दारुन असंभावना बीती।।",
           "transliteration": "",
           "translation": "Hearing Shiva's words that shattered delusion, all the constructions of false reasoning were demolished. Faith and love for Raghupati's feet arose, and the terrible impossibility was overcome.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "शिवजी के भ्रम-भंजन वचन सुनकर — सब कुतर्क की रचना मिट गई।"
         },
         {
           "id": "bk-119-d",
@@ -6491,7 +6520,8 @@
           "original": "पुनि पुनि प्रभु पद कमल गहि जोरि पंकरुह पानि।\nबोली गिरिजा बचन बर मनहुँ प्रेम रस सानि।।119।।",
           "transliteration": "",
           "translation": "Again and again clasping the Lord's lotus feet, with lotus-like palms joined, Girija spoke beautiful words that were steeped in the nectar of love.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "बार-बार प्रभु के पद-कमल पकड़कर — कमल-हाथ जोड़कर। गिरिजा (पार्वती) बोलीं।"
         }
       ]
     },
@@ -6504,7 +6534,8 @@
           "original": "ससि कर सम सुनि गिरा तुम्हारी। मिटा मोह सरदातप भारी।।\nतुम्ह कृपाल सबु संसउ हरेऊ। राम स्वरुप जानि मोहि परेऊ।।",
           "transliteration": "",
           "translation": "'Hearing your words, cool as moonbeams, my heavy delusion — like the heat of autumn — has been dispelled. O compassionate Lord, you have removed all my doubt; I now understand Rama's true nature.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(पार्वती ने कहा) चन्द्र-किरण-समान आपकी वाणी सुनकर — भारी मोह-शरद-ताप मिटा। आपकी।"
         },
         {
           "id": "bk-120-c2",
@@ -6512,7 +6543,8 @@
           "original": "नाथ कृपाँ अब गयउ बिषादा। सुखी भयउँ प्रभु चरन प्रसादा।।\nअब मोहि आपनि किंकरि जानी। जदपि सहज जड नारि अयानी।।",
           "transliteration": "",
           "translation": "'By your grace, O Lord, my sorrow is gone; I am now happy through the blessing of your feet. Now, knowing me as your humble maidservant — though I am by nature foolish and ignorant, being a woman —'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(पार्वती ने कहा) हे नाथ! कृपा से अब विषाद गया। प्रभु-चरण-प्रसाद से सुखी हुई।"
         },
         {
           "id": "bk-120-c3",
@@ -6520,7 +6552,8 @@
           "original": "प्रथम जो मैं पूछा सोइ कहहू। जौं मो पर प्रसन्न प्रभु अहहू।।\nराम ब्रह्म चिनमय अबिनासी। सर्ब रहित सब उर पुर बासी।।",
           "transliteration": "",
           "translation": "'Please answer what I first asked, if you are pleased with me, O Lord. Rama is Brahman — pure consciousness, imperishable, free from all, yet dwelling in the hearts of all.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(पार्वती ने कहा) पहले जो मैंने पूछा — वही कहो। यदि मुझ पर प्रसन्न, प्रभु!"
         },
         {
           "id": "bk-120-c4",
@@ -6528,7 +6561,8 @@
           "original": "नाथ धरेउ नरतनु केहि हेतू। मोहि समुझाइ कहहु बृषकेतू।।\nउमा बचन सुनि परम बिनीता। रामकथा पर प्रीति पुनीता।।",
           "transliteration": "",
           "translation": "'O Lord, for what reason did he assume a human body? Please explain this to me, O bull-bannered one.' Hearing Uma's words, so deeply humble, and seeing her pure love for the story of Rama —",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(पार्वती ने पूछा) हे नाथ! मनुष्य-शरीर किस कारण धारण किया? मुझे समझाकर कहो, हे वृषकेतु! उमा।"
         },
         {
           "id": "bk-120-d",
@@ -6536,7 +6570,8 @@
           "original": "हिंयँ हरषे कामारि तब संकर सहज सुजान\nबहु बिधि उमहि प्रसंसि पुनि बोले कृपानिधान।।120(क)।।\nसुनु सुभ कथा भवानि रामचरितमानस बिमल।\nकहा भुसुंडि बखानि सुना बिहग नायक गरुड।।120(ख)।।\nसो संबाद उदार जेहि बिधि भा आगें कहब।\nसुनहु राम अवतार चरित परम सुंदर अनघ।।120(ग)।।\nहरि गुन नाम अपार कथा रूप अगनित अमित।\nमैं निज मति अनुसार कहउँ उमा सादर सुनहु।।120(घ।।",
           "transliteration": "",
           "translation": "The enemy of Kamadeva rejoiced in his heart. The naturally wise Shankara praised Uma in many ways and then the treasury of compassion spoke: 'Listen to the pure and beautiful story, O Bhavani — the spotless Ramcharitmanas. Kakabhushundi narrated it, and the king of birds, Garuda, listened to it. That noble dialogue — how it came about, I shall tell you next. Now hear of Rama's incarnation — his supremely beautiful and sinless character. The names and virtues of Hari are infinite, his stories countless and immeasurable. I shall tell them according to my own understanding; listen attentively, O Uma.'",
-          "lineCount": 8
+          "lineCount": 8,
+          "hindiTranslation": "कामारि (शिवजी) का हृदय हर्षित — सहज सुजान शंकर। बहुत प्रकार से उमा को प्रसन्न (करके)।"
         }
       ]
     },
@@ -6549,7 +6584,8 @@
           "original": "सुनु गिरिजा हरिचरित सुहाए। बिपुल बिसद निगमागम गाए।।\nहरि अवतार हेतु जेहि होई। इदमित्थं कहि जाइ न सोई।।",
           "transliteration": "",
           "translation": "'Listen, O Girija, to the delightful deeds of Hari — the Vedas and scriptures have sung of them in abundance and clarity. The reason for Hari's incarnation cannot be stated as simply this or that.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) सुनो गिरिजा! श्रीहरि-चरित्र सुहावने — विपुल, विशद (स्पष्ट) — वेद-शास्त्र गाते। श्रीहरि।"
         },
         {
           "id": "bk-121-c2",
@@ -6557,7 +6593,8 @@
           "original": "राम अर्तक्य बुद्धि मन बानी। मत हमार अस सुनहि सयानी।।\nतदपि संत मुनि बेद पुराना। जस कछु कहहिं स्वमति अनुमाना।।",
           "transliteration": "",
           "translation": "'Rama is beyond the grasp of reason, mind, and speech — this is my considered view, O wise one. Yet the saints, sages, Vedas, and Puranas speak of it as they infer from their own understanding.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) श्रीराम — बुद्धि, मन, वाणी से अतर्क्य (तर्क से परे)। हमारा मत ऐसा — सुनो, हे चतुर!"
         },
         {
           "id": "bk-121-c3",
@@ -6565,7 +6602,8 @@
           "original": "तस मैं सुमुखि सुनावउँ तोही। समुझि परइ जस कारन मोही।।\nजब जब होइ धरम कै हानी। बाढहिं असुर अधम अभिमानी।।",
           "transliteration": "",
           "translation": "'So too, O fair-faced one, I shall tell you what reason appears to me. Whenever there is a decline in righteousness, and wicked, arrogant demons proliferate —'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) वैसा ही, हे सुमुखि! तुम्हें सुनाता हूँ। जो कारण मुझे समझ पड़ा। जब।"
         },
         {
           "id": "bk-121-c4",
@@ -6573,7 +6611,8 @@
           "original": "करहिं अनीति जाइ नहिं बरनी। सीदहिं बिप्र धेनु सुर धरनी।।\nतब तब प्रभु धरि बिबिध सरीरा। हरहि कृपानिधि सज्जन पीरा।।",
           "transliteration": "",
           "translation": "'When they commit unspeakable injustices and the Brahmins, cows, gods, and the earth suffer — then the compassionate Lord assumes various forms and relieves the suffering of the virtuous.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) (दुष्ट) अवर्णनीय अनीति करते — ब्राह्मण, गाय, देवता, पृथ्वी — सीदते (दुखी होते)।"
         },
         {
           "id": "bk-121-d",
@@ -6581,7 +6620,8 @@
           "original": "असुर मारि थापहिं सुरन्ह राखहिं निज श्रुति सेतु।\nजग बिस्तारहिं बिसद जस राम जन्म कर हेतु।।121।।",
           "transliteration": "",
           "translation": "'Slaying the demons, he establishes the gods, preserves the boundaries set by the Vedas, and spreads his pure glory throughout the world — this is the purpose of Rama's birth.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(शिवजी ने कहा) असुर मारकर देवताओं को स्थापित करते — अपने वेद-सेतु (मर्यादा) रखते। जगत-विश्वास।"
         }
       ]
     },
@@ -6594,7 +6634,8 @@
           "original": "सोइ जस गाइ भगत भव तरहीं। कृपासिंधु जन हित तनु धरहीं।।\nराम जनम के हेतु अनेका। परम बिचित्र एक तें एका।।",
           "transliteration": "",
           "translation": "'Singing that glory, devotees cross the ocean of worldly existence; the ocean of mercy takes a body for the sake of his devotees. The reasons for Rama's birth are many — each one more wonderfully varied than the last.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) वही यश गाकर भक्त भवसागर तरते। कृपासिन्धु — भक्तों के हित शरीर धारण करते। श्रीराम।"
         },
         {
           "id": "bk-122-c2",
@@ -6602,7 +6643,8 @@
           "original": "जनम एक दुइ कहउँ बखानी। सावधान सुनु सुमति भवानी।।\nद्वारपाल हरि के प्रिय दोऊ। जय अरु बिजय जान सब कोऊ।।",
           "transliteration": "",
           "translation": "'I shall describe one or two of them in detail; listen attentively, O wise Bhavani. The two beloved gatekeepers of Hari — Jaya and Vijaya, known to all —'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) एक-दो जन्म बखानकर कहता हूँ — सावधान सुनो, सुबुद्धि भवानी! द्वारपाल (जय-विजय)।"
         },
         {
           "id": "bk-122-c3",
@@ -6610,7 +6652,8 @@
           "original": "बिप्र श्राप तें दूनउ भाई। तामस असुर देह तिन्ह पाई।।\nकनककसिपु अरु हाटक लोचन। जगत बिदित सुरपति मद मोचन।।",
           "transliteration": "",
           "translation": "'Due to a Brahmin's curse, those two brothers received demonic bodies of the tamasic nature. One became Hiranyakashipu and the other Hiranyaksha — famous throughout the world as humiliators of Indra.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) ब्राह्मण-शाप से दोनों भाई — तामस (राक्षस) शरीर पाया। सोने का (नगर)।"
         },
         {
           "id": "bk-122-c4",
@@ -6618,7 +6661,8 @@
           "original": "बिजई समर बीर बिख्याता। धरि बराह बपु एक निपाता।।\nहोइ नरहरि दूसर पुनि मारा। जन प्रहलाद सुजस बिस्तारा।।",
           "transliteration": "",
           "translation": "'Victorious in battle, these mighty warriors were renowned. Taking the form of a boar, the Lord slew one. Assuming the form of Narasimha, he killed the other and spread the fame of his devotee Prahlada.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) विजयी, युद्ध-वीर, विख्यात। वराह-रूप धारण करके एक (हिरण्याक्ष) को मारा। नरसिंह (रूप में)।"
         },
         {
           "id": "bk-122-d",
@@ -6626,7 +6670,8 @@
           "original": "भए निसाचर जाइ तेइ महाबीर बलवान।\nकुंभकरन रावण सुभट सुर बिजई जग जान।।122 ।",
           "transliteration": "",
           "translation": "'Those same two were reborn as demons — mighty and powerful warriors. Kumbhakarna and Ravana, great champions, conquerors of the gods — the world knows them well.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "वे ही राक्षस बने — महावीर, बलवान। कुम्भकर्ण, रावण — श्रेष्ठ योद्धा — देवताओं (को पीड़ा देने वाले)।"
         }
       ]
     },
@@ -6639,7 +6684,8 @@
           "original": "मुकुत न भए हते भगवाना। तीनि जनम द्विज बचन प्रवाना।।\nएक बार तिन्ह के हित लागी। धरेउ सरीर भगत अनुरागी।।",
           "transliteration": "",
           "translation": "'They were not liberated even though slain by the Lord, for the Brahmin's curse was for three births. Once again, for their sake, the Lord who is devoted to his devotees assumed a body.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) भगवान ने मारे — पर मुक्त नहीं हुए। तीन जन्म — ब्राह्मण-वचन प्रमाण। एक (कल्प)।"
         },
         {
           "id": "bk-123-c2",
@@ -6647,7 +6693,8 @@
           "original": "कस्यप अदिति तहाँ पितु माता। दसरथ कौसल्या बिख्याता।।\nएक कलप एहि बिधि अवतारा। चरित्र पवित्र किए संसारा।।",
           "transliteration": "",
           "translation": "'There, Kashyapa and Aditi were his father and mother, known as Dasharatha and Kausalya. In one cosmic cycle, the incarnation took place in this manner, and the Lord sanctified the world with his holy deeds.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) कश्यप-अदिति — वहाँ माता-पिता। दशरथ-कौसल्या — विख्यात। एक (कल्प में)।"
         },
         {
           "id": "bk-123-c3",
@@ -6655,7 +6702,8 @@
           "original": "एक कलप सुर देखि दुखारे। समर जलंधर सन सब हारे।।\nसंभु कीन्ह संग्राम अपारा। दनुज महाबल मरइ न मारा।।",
           "transliteration": "",
           "translation": "'In another cosmic cycle, seeing the gods in distress, all defeated in battle by the demon Jalandhara — Shambhu waged a great war, but the mighty demon could not be killed.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) एक कल्प में देवता दुखी देखकर — जलन्धर से युद्ध में सब हारे। शम्भु (शिव) ने।"
         },
         {
           "id": "bk-123-c4",
@@ -6663,7 +6711,8 @@
           "original": "परम सती असुराधिप नारी। तेहि बल ताहि न जितहिं पुरारी।।",
           "transliteration": "",
           "translation": "'The wife of the demon lord was supremely virtuous; by her power, even the destroyer of Tripura could not defeat him.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(शिवजी ने कहा) परम सती — असुराधिप (जलन्धर) की पत्नी। उस (सतीत्व के) बल से पुरारि (शिव) भी नहीं जीत सकते।"
         },
         {
           "id": "bk-123-d",
@@ -6671,7 +6720,8 @@
           "original": "छल करि टारेउ तासु ब्रत प्रभु सुर कारज कीन्ह।।\nजब तेहि जानेउ मरम तब श्राप कोप करि दीन्ह।।123।।",
           "transliteration": "",
           "translation": "'The Lord destroyed her vow through deception and thus accomplished the gods' purpose. When the demoness discovered the truth, she cursed the Lord in anger.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(शिवजी ने कहा) छल करके उसका (वृन्दा का) व्रत तोड़ा — प्रभु (विष्णु) ने देवताओं का काम किया। जब उसने (वृन्दा ने) जाना।"
         }
       ]
     },

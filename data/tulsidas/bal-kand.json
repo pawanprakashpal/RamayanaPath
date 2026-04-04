@@ -792,7 +792,8 @@
           "original": "सारद सेस महेस बिधि आगम निगम पुरान।\nनेति नेति कहि जासु गुन करहिं निरंतर गान।।12।।",
           "transliteration": "",
           "translation": "Saraswati, Shesha, Shiva, Brahma, the scriptures, Vedas, and Puranas — even they, saying 'not this, not this,' ceaselessly sing His glories.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "शारदा (सरस्वती), शेष, महेश (शिव), विधि (ब्रह्मा), आगम, निगम (वेद) और पुराण — वे सब भी 'नेति-नेति' कहकर जिनके गुणों का निरन्तर गान करते।"
         }
       ]
     },
@@ -1295,7 +1296,8 @@
           "original": "नाम रूप गति अकथ कहानी। समुझत सुखद न परति बखानी।।\nअगुन सगुन बिच नाम सुसाखी। उभय प्रबोधक चतुर दुभाषी।।",
           "transliteration": "",
           "translation": "The relationship between Name and Form is an inexpressible tale — delightful to contemplate but impossible to fully describe. Between the attributeless and the personal God, the Name is a true witness — a skilled interpreter who illuminates both.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "नाम और रूप की गति (सम्बन्ध) — अकथ कहानी। समझने में सुखद — पर बखानी (वर्णित) नहीं जाती। सगुण और निर्गुण के बीच नाम — सुसाक्षी (सच्चा गवाह)। दोनों को प्रकाशित करने वाला चतुर दुभाषी।"
         },
         {
           "id": "bk-21-d",
@@ -1303,7 +1305,8 @@
           "original": "राम नाम मनिदीप धरु जीह देहरी द्वार।\nतुलसी भीतर बाहेरहुँ जौं चाहसि उजिआर।।21।।",
           "transliteration": "",
           "translation": "Place the jewel-lamp of Rama's Name on the threshold of your tongue, O Tulsi, if you desire light both within and without.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(तुलसीदास कहते हैं) जीभ-रूपी देहरी (दहलीज) पर राम-नाम-रूपी मणिदीप (रत्नजड़ित दीपक) रखो। हे तुलसी! यदि भीतर-बाहर दोनों ओर उजाला चाहते हो।"
         }
       ]
     },
@@ -2101,7 +2104,8 @@
           "original": "जस मानस जेहि बिधि भयउ जग प्रचार जेहि हेतु।\nअब सोइ कहउँ प्रसंग सब सुमिरि उमा बृषकेतु।।35।।",
           "transliteration": "",
           "translation": "How this Manas came into being, and how and why it spread in the world — I shall now tell that whole story, remembering Uma and the Bull-bannered Shiva.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "जिस प्रकार यह 'मानस' (ग्रन्थ) बना, जिस कारण जगत में इसका प्रचार हुआ — उमा और वृषकेतु (शिवजी) का स्मरण करके अब वही सब प्रसंग कहता हूँ।"
         }
       ]
     },
@@ -5689,7 +5693,8 @@
           "original": "जबहिं संभु कैलासहिं आए। सुर सब निज निज लोक सिधाए।।\nजगत मातु पितु संभु भवानी। तेही सिंगारु न कहउँ बखानी।।",
           "transliteration": "",
           "translation": "When Shambhu arrived at Kailasa, all the gods departed to their respective abodes. Shambhu and Bhavani are the father and mother of the universe — I shall not describe their conjugal bliss.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "जब शम्भु (शिव) कैलास आए — सब देवता अपने-अपने लोक चले गए। जगत के माता-पिता — शम्भु-भवानी — उनका श्रृंगार (विहार) बखानकर नहीं कहता।"
         },
         {
           "id": "bk-103-c3",
@@ -5697,7 +5702,8 @@
           "original": "करहिं बिबिध बिधि भोग बिलासा। गनन्ह समेत बसहिं कैलासा।।\nहर गिरिजा बिहार नित नयऊ। एहि बिधि बिपुल काल चलि गयऊ।।",
           "transliteration": "",
           "translation": "They enjoyed pleasures of various kinds and dwelt at Kailasa with the attendants. Hara and Girija found ever-new delight each day; in this manner, a vast span of time passed.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "विविध प्रकार के भोग-विलास करते — गणों समेत कैलास में बसते। हर (शिव) और गिरिजा (पार्वती) का नित नया विहार — इस प्रकार बहुत काल बीत गया।"
         },
         {
           "id": "bk-103-c4",
@@ -5705,7 +5711,8 @@
           "original": "तब जनमेउ षटबदन कुमारा। तारकु असुर समर जेहिं मारा।।\nआगम निगम प्रसिद्ध पुराना। षन्मुख जन्मु सकल जग जाना।।",
           "transliteration": "",
           "translation": "Then their six-faced son Kumara (Kartikeya) was born, who slew the demon Taraka in battle. His birth is renowned in the Agamas, Nigamas, and Puranas — the whole world knows of Shanmukha's birth.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "तब षड्मुख (छह मुख वाले) कुमार (कार्तिकेय) का जन्म हुआ — जिन्होंने तारक असुर को संग्राम (युद्ध) में मारा। आगम, निगम (वेद), पुराणों में प्रसिद्ध — षण्मुख का जन्म सकल जग जाना।"
         },
         {
           "id": "bk-103-ch",
@@ -5713,7 +5720,8 @@
           "original": "जगु जान षन्मुख जन्मु कर्मु प्रतापु पुरुषारथु महा।\nतेहि हेतु मैं बृषकेतु सुत कर चरित संछेपहिं कहा।।\nयह उमा संगु बिबाहु जे नर नारि कहहिं जे गावहीं।\nकल्यान काज बिबाह मंगल सर्बदा सुखु पावहीं।।",
           "transliteration": "",
           "translation": "The whole world knows of the birth, deeds, valor, and great heroism of Shanmukha. For that reason, I have briefly told the story of the son of the bull-bannered one. Those men and women who narrate or sing of this union and marriage of Uma shall always enjoy happiness, auspiciousness, and the blessings of a joyful wedding.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "जगत जानता है — षण्मुख का जन्म, कर्म, प्रताप और महान पुरुषार्थ। इसी कारण मैंने वृषकेतु (शिव) के पुत्र का चरित्र संक्षेप में कहा। यह उमा-संग (विवाह) — जो नर-नारी कहें, गाएँ — कल्याणकारी विवाह-मंगल — सर्वदा सुख पाएँ।"
         },
         {
           "id": "bk-103-d",
@@ -5721,7 +5729,8 @@
           "original": "चरित सिंधु गिरिजा रमन बेद न पावहिं पारु।\nबरनै तुलसीदासु किमि अति मतिमंद गवाँरु।।103।।",
           "transliteration": "",
           "translation": "The exploits of Girija's lord are an ocean; even the Vedas cannot find its further shore. How then can the dull and ignorant Tulsidas describe them?",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(तुलसीदास कहते हैं) गिरिजा-रमण (शिव) के चरित्र — समुद्र-समान — वेद भी पार नहीं पाते। अति मतिमन्द (मूढ़) गँवार तुलसीदास कैसे वर्णन करे?"
         }
       ]
     },
@@ -6734,7 +6743,8 @@
           "original": "तासु श्राप हरि दीन्ह प्रमाना। कौतुकनिधि कृपाल भगवाना।।\nतहाँ जलंधर रावन भयऊ। रन हति राम परम पद दयऊ।।",
           "transliteration": "",
           "translation": "'The Lord accepted her curse, for the playful and compassionate God respects such things. In that cycle, Jalandhara became Ravana, and Rama slew him in battle and granted him the supreme state.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) उसके (वृन्दा के) शाप को श्रीहरि ने प्रमाण (स्वीकार) किया। कौतुकनिधि (लीला-प्रिय) कृपालु भगवान।"
         },
         {
           "id": "bk-124-c2",
@@ -6742,7 +6752,8 @@
           "original": "एक जनम कर कारन एहा। जेहि लागि राम धरी नरदेहा।।\nप्रति अवतार कथा प्रभु केरी। सुनु मुनि बरनी कबिन्ह घनेरी।।",
           "transliteration": "",
           "translation": "'This is the reason for one incarnation — for which Rama assumed a human body. In each incarnation, the Lord's story has been extensively narrated by many poets, O sage.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) एक जन्म का कारण यह — जिसके लिए श्रीराम ने मनुष्य-देह धारण की। प्रत्येक अवतार (में कारण)।"
         },
         {
           "id": "bk-124-c3",
@@ -6750,7 +6761,8 @@
           "original": "नारद श्राप दीन्ह एक बारा। कलप एक तेहि लगि अवतारा।।\nगिरिजा चकित भई सुनि बानी। नारद बिष्नुभगत पुनि ग्यानि।।",
           "transliteration": "",
           "translation": "'Once, Narada's curse was the reason for the incarnation in a particular cosmic cycle.' Girija was astonished to hear this. 'Narada — a devotee of Vishnu and a man of wisdom!'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) नारद ने एक बार शाप दिया — एक कल्प में उसी कारण अवतार। हे गिरिजा!"
         },
         {
           "id": "bk-124-c4",
@@ -6758,7 +6770,8 @@
           "original": "कारन कवन श्राप मुनि दीन्हा। का अपराध रमापति कीन्हा।।\nयह प्रसंग मोहि कहहु पुरारी। मुनि मन मोह आचरज भारी।।",
           "transliteration": "",
           "translation": "'For what reason did the sage give a curse, and what offense did the Lord of Lakshmi commit? Tell me this episode, O destroyer of Tripura — it is a great wonder that a sage's mind should be deluded.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(पार्वती ने पूछा) किस कारण मुनि (नारद) ने शाप दिया? रमापति (विष्णु) ने क्या अपराध किया? यह (बताओ)।"
         },
         {
           "id": "bk-124-d",
@@ -6766,7 +6779,8 @@
           "original": "बोले बिहसि महेस तब ग्यानी मूढ़ न कोइ।\nजेहि जस रघुपति करहिं जब सो तस तेहि छन होइ।।124(क)।।\nकहउँ राम गुन गाथ भरद्वाज सादर सुनहु।\nभव भंजन रघुनाथ भजु तुलसी तजि मान मद।।124(ख)।।",
           "transliteration": "",
           "translation": "Maheshwara laughed and said, 'No one is truly wise or foolish. Whomever Raghupati makes whatever at any given moment — that is what they become at that instant.' 'I shall now tell the tale of Rama's glories; listen attentively, O Bharadvaja. Worship Raghunatha, the destroyer of worldly existence, and abandon pride and arrogance, says Tulsi.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "महेश (शिवजी) हँसकर तब बोले — ज्ञानी-मूढ़ कोई नहीं। जिसे जैसे श्रीरघुपति करते।"
         }
       ]
     },
@@ -6779,7 +6793,8 @@
           "original": "हिमगिरि गुहा एक अति पावनि। बह समीप सुरसरी सुहावनि।।\nआश्रम परम पुनीत सुहावा। देखि देवरिषि मन अति भावा।।",
           "transliteration": "",
           "translation": "In the Himalayas there was a most sacred cave, near which flowed the beautiful river Ganga. The hermitage was supremely holy and charming; seeing it, the divine sage (Narada) was greatly pleased.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) हिमगिरि (हिमालय) में एक अत्यन्त पवित्र गुफा। पास में सुहावनी गंगा बहती। आश्रम।"
         },
         {
           "id": "bk-125-c2",
@@ -6787,7 +6802,8 @@
           "original": "निरखि सैल सरि बिपिन बिभागा। भयउ रमापति पद अनुरागा।।\nसुमिरत हरिहि श्राप गति बाधी। सहज बिमल मन लागि समाधी।।",
           "transliteration": "",
           "translation": "Gazing at the mountain, river, and forest, love for the feet of Lakshmi's Lord arose in him. As he remembered Hari, the power of the curse was obstructed, and naturally pure meditation settled in his mind.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) पर्वत, नदी, वन-विभाग निरखकर — रमापति (विष्णु) के पद में अनुराग हुआ। स्मरण।"
         },
         {
           "id": "bk-125-c3",
@@ -6795,7 +6811,8 @@
           "original": "मुनि गति देखि सुरेस डेराना। कामहि बोलि कीन्ह सनमाना।।\nसहित सहाय जाहु मम हेतू। चकेउ हरषि हियँ जलचरकेतू।।",
           "transliteration": "",
           "translation": "Seeing the sage's state, Indra became alarmed. He summoned Kamadeva and honored him, saying, 'Go with your helpers for my sake.' The fish-bannered one was startled yet glad at heart.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) मुनि (नारद) की गति (स्थिति) देखकर इन्द्र डरा। कामदेव को बुलाकर सम्मान किया।"
         },
         {
           "id": "bk-125-c4",
@@ -6803,7 +6820,8 @@
           "original": "सुनासीर मन महुँ असि त्रासा। चहत देवरिषि मम पुर बासा।।\nजे कामी लोलुप जग माहीं। कुटिल काक इव सबहि डेराहीं।।",
           "transliteration": "",
           "translation": "Indra had this fear in his mind: 'The divine sage wants to take my heavenly throne.' Those who are lustful and greedy in this world — like cunning crows, they are frightened of everyone.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(इन्द्र ने सोचा) मन में ऐसा भय — देवर्षि (नारद) मेरा पद (इन्द्रासन) चाहते।"
         },
         {
           "id": "bk-125-d",
@@ -6811,7 +6829,8 @@
           "original": "सुख हाड़ लै भाग सठ स्वान निरखि मृगराज।\nछीनि लेइ जनि जान जड़ तिमि सुरपतिहि न लाज।।125।।",
           "transliteration": "",
           "translation": "'The fool is like a dog who, seeing a lion, runs away with a dry bone, lest the lion snatch it away.' Similarly, Indra had no shame.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(इन्द्र ने कामदेव से कहा) सुख की हड्डी लेकर भागा मूर्ख कुत्ता — सिंह देखकर। छीन लेगा — जानकर (सावधान)।"
         }
       ]
     },
@@ -6824,7 +6843,8 @@
           "original": "तेहि आश्रमहिं मदन जब गयऊ। निज मायाँ बसंत निरमयऊ।।\nकुसुमित बिबिध बिटप बहुरंगा। कूजहिं कोकिल गुंजहि भृंगा।।",
           "transliteration": "",
           "translation": "When Kamadeva reached that hermitage, he created spring through his own magic. Trees of many colors blossomed, cuckoos sang, and bees hummed.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "उस आश्रम में जब कामदेव गया — अपनी माया से वसन्त रच दिया। फूलों (से सजा)।"
         },
         {
           "id": "bk-126-c2",
@@ -6832,7 +6852,8 @@
           "original": "चली सुहावनि त्रिबिध बयारी। काम कृसानु बढ़ावनिहारी।।\nरंभादिक सुरनारि नबीना । सकल असमसर कला प्रबीना।।",
           "transliteration": "",
           "translation": "A delightful threefold breeze began to blow — one that fans the fire of passion. Rambha and other young celestial nymphs, all skilled in the art of the bodiless god of love, appeared.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "सुहावनी तीन प्रकार की हवा चली — काम-अग्नि बढ़ाने वाली। रम्भा (अप्सरा)।"
         },
         {
           "id": "bk-126-c3",
@@ -6840,7 +6861,8 @@
           "original": "करहिं गान बहु तान तरंगा। बहुबिधि क्रीड़हि पानि पतंगा।।\nदेखि सहाय मदन हरषाना। कीन्हेसि पुनि प्रपंच बिधि नाना।।",
           "transliteration": "",
           "translation": "They sang songs in many melodious tunes and played various games like butterflies in their hands. Seeing his allies, Kamadeva rejoiced and devised many more deceptive schemes.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "अनेक तान-तरंगों में गान करतीं — बहुत प्रकार से क्रीड़ा करती तितलियाँ।"
         },
         {
           "id": "bk-126-c4",
@@ -6848,7 +6870,8 @@
           "original": "काम कला कछु मुनिहि न ब्यापी। निज भयँ डरेउ मनोभव पापी।।\nसीम कि चाँपि सकइ कोउ तासु। बड़ रखवार रमापति जासू।।",
           "transliteration": "",
           "translation": "But none of Kamadeva's arts affected the sage at all. The sinful Kamadeva himself trembled with fear. Can anyone violate the boundaries of one whose mighty protector is the Lord of Lakshmi?",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "काम-कला — मुनि (नारद) को कुछ नहीं व्यापी। अपने ही भय से डरा पापी कामदेव।"
         },
         {
           "id": "bk-126-d",
@@ -6856,7 +6879,8 @@
           "original": "सहित सहाय सभीत अति मानि हारि मन मैन।\nगहेसि जाइ मुनि चरन तब कहि सुठि आरत बैन।।126।।",
           "transliteration": "",
           "translation": "Greatly frightened, Kamadeva and his companions accepted defeat in their hearts. He went and clasped the sage's feet, speaking words of extreme distress.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "सहायकों सहित अत्यन्त भयभीत — हार मानकर मन में कामदेव। जाकर मुनि (नारद) के चरण पकड़े।"
         }
       ]
     },
@@ -6869,7 +6893,8 @@
           "original": "भयउ न नारद मन कछु रोषा। कहि प्रिय बचन काम परितोषा।।\nनाइ चरन सिरु आयसु पाई। गयउ मदन तब सहित सहाई।।",
           "transliteration": "",
           "translation": "No anger arose in Narada's mind; he consoled Kamadeva with kind words. Bowing his head at the sage's feet and receiving permission, Kamadeva departed with his allies.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "नारदजी के मन में कुछ रोष नहीं हुआ। प्रिय वचन कहकर काम को सन्तुष्ट किया। सिर नवाकर।"
         },
         {
           "id": "bk-127-c2",
@@ -6877,7 +6902,8 @@
           "original": "मुनि सुसीलता आपनि करनी। सुरपति सभाँ जाइ सब बरनी।।\nसुनि सब कें मन अचरजु आवा। मुनिहि प्रसंसि हरिहि सिरु नावा।।",
           "transliteration": "",
           "translation": "The sage's good nature and his own experience — Kamadeva went to the court of Indra and described it all. Hearing everything, all were amazed; they praised the sage and bowed to Hari.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "मुनि (नारद) ने अपनी सुशीलता और करनी — इन्द्रसभा में जाकर सब वर्णन की। सुनकर।"
         },
         {
           "id": "bk-127-c3",
@@ -6885,7 +6911,8 @@
           "original": "तब नारद गवने सिव पाहीं। जिता काम अहमिति मन माहीं।।\nमार चरित संकरहिं सुनाए। अतिप्रिय जानि महेस सिखाए।।",
           "transliteration": "",
           "translation": "Then Narada went to Shiva, with the pride in his heart that he had conquered Kamadeva. He narrated the episode of Kamadeva to Shankara, and Maheshwara, knowing him to be very dear, gave him counsel.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "तब नारद शिवजी के पास गए — 'काम जीता' — ऐसा अभिमान मन में। कामदेव (को मारने की बात)।"
         },
         {
           "id": "bk-127-c4",
@@ -6893,7 +6920,8 @@
           "original": "बार बार बिनवउँ मुनि तोहीं। जिमि यह कथा सुनायहु मोहीं।।\nतिमि जनि हरिहि सुनावहु कबहूँ। चलेहुँ प्रसंग दुराएडु तबहूँ।।",
           "transliteration": "",
           "translation": "'Again and again I entreat you, O sage — just as you have told this story to me, never tell it to Hari. And if the topic comes up, conceal it even then.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(पार्वती ने कहा) बार-बार विनती करती हूँ, मुनि! — जैसे यह कथा मुझे सुनाई। वैसे ही (आगे कहो)।"
         },
         {
           "id": "bk-127-d",
@@ -6901,7 +6929,8 @@
           "original": "संभु दीन्ह उपदेस हित नहिं नारदहि सोहान।\nभारद्वाज कौतुक सुनहु हरि इच्छा बलवान।।127।।",
           "transliteration": "",
           "translation": "Shambhu gave this beneficial advice, but Narada did not find it agreeable. O Bharadvaja, hear this amusing tale — the will of Hari is all-powerful.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(शिवजी ने कहा) शम्भु ने हितकर उपदेश दिया — पर नारदजी को नहीं सुहाया। हे भरद्वाज! कौतुक (देखो)।"
         }
       ]
     },
@@ -6914,7 +6943,8 @@
           "original": "राम कीन्ह चाहहिं सोइ होई। करै अन्यथा अस नहिं कोई।।\nसंभु बचन मुनि मन नहिं भाए। तब बिरंचि के लोक सिधाए।।",
           "transliteration": "",
           "translation": "'Whatever Rama wills, that alone happens; no one can make it otherwise.' Shambhu's words did not please the sage, so he proceeded to the realm of Brahma.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) श्रीराम जो चाहें — वही होता। कोई अन्यथा नहीं कर सकता। शम्भु (ने कहा था)।"
         },
         {
           "id": "bk-128-c2",
@@ -6922,7 +6952,8 @@
           "original": "एक बार करतल बर बीना। गावत हरि गुन गान प्रबीना।।\nछीरसिंधु गवने मुनिनाथा। जहँ बस श्रीनिवास श्रुतिमाथा।।",
           "transliteration": "",
           "translation": "Once, with his excellent veena in hand, singing the glories of Hari with great skill, the lord of sages traveled to the Ocean of Milk, where Shrinivasa, the crown of the Vedas, resides.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "एक बार हाथ में सुन्दर वीणा — श्रीहरि-गुण-गान गाते प्रवीण (नारद)। क्षीरसागर।"
         },
         {
           "id": "bk-128-c3",
@@ -6930,7 +6961,8 @@
           "original": "हरषि मिले उठि रमानिकेता। बैठे आसन रिषिहि समेता।।\nबोले बिहसि चराचर राया। बहुते दिनन कीन्हि मुनि दाया।।",
           "transliteration": "",
           "translation": "The Lord of Lakshmi rose joyfully to greet him and seated the sage beside him. The Lord of all creation laughed and said, 'After many days has the sage shown us this kindness.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "हर्षित होकर उठकर रमानिकेत (विष्णु) मिले। ऋषि सहित आसन पर बैठे। बोले।"
         },
         {
           "id": "bk-128-c4",
@@ -6938,7 +6970,8 @@
           "original": "काम चरित नारद सब भाषे। जद्यपि प्रथम बरजि सिवँ राखे।।\nअति प्रचंड रघुपति कै माया। जेहि न मोह अस को जग जाया।।",
           "transliteration": "",
           "translation": "Narada narrated the entire episode of Kamadeva, even though Shiva had previously warned him against it. Most powerful is the Maya of Raghupati — who in this world, having been born, has not been deluded by it?",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "काम-चरित्र नारद ने सब कहे — यद्यपि पहले शिवजी ने मना किया था। अत्यन्त (अभिमान)।"
         },
         {
           "id": "bk-128-d",
@@ -6946,7 +6979,8 @@
           "original": "रूख बदन करि बचन मृदु बोले श्रीभगवान ।\nतुम्हरे सुमिरन तें मिटहिं मोह मार मद मान।।128।।",
           "transliteration": "",
           "translation": "Making his face stern but his words gentle, Shri Bhagavan said, 'By remembering you, delusion, passion, pride, and arrogance are all destroyed.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "मुख पर रुखाई करके — मृदु वचन बोले श्रीभगवान। (श्रीहरि ने कहा) तुम्हारे स्मरण से।"
         }
       ]
     },
@@ -6959,7 +6993,8 @@
           "original": "सुनु मुनि मोह होइ मन ताकें। ग्यान बिराग हृदय नहिं जाके।।\nब्रह्मचरज ब्रत रत मतिधीरा। तुम्हहि कि करइ मनोभव पीरा।।",
           "transliteration": "",
           "translation": "'Listen, O sage — delusion befalls one whose heart lacks knowledge and dispassion. You are steadfast in your vow of celibacy, firm of mind — can Kamadeva's torment ever trouble you?'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(श्रीहरि ने कहा) सुनो मुनि! मोह उसके मन में होता — जिसके हृदय में ज्ञान-वैराग्य नहीं।"
         },
         {
           "id": "bk-129-c2",
@@ -6967,7 +7002,8 @@
           "original": "नारद कहेउ सहित अभिमाना। कृपा तुम्हारि सकल भगवाना।।\nकरुनानिधि मन दीख बिचारी। उर अंकुरेउ गरब तरु भारी।।",
           "transliteration": "",
           "translation": "Narada replied with pride, 'It is all your grace, O Lord.' The compassionate Lord looked into Narada's mind and saw that a great tree of pride had sprouted in his heart.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "नारद ने अभिमानपूर्वक कहा — (नारद ने कहा) हे भगवान! सब आपकी कृपा। करुणा (करें)।"
         },
         {
           "id": "bk-129-c3",
@@ -6975,7 +7011,8 @@
           "original": "बेगि सो मै डारिहउँ उखारी। पन हमार सेवक हितकारी।।\nमुनि कर हित मम कौतुक होई। अवसि उपाय करबि मै सोई।।",
           "transliteration": "",
           "translation": "'I shall quickly uproot it, for my vow is to protect the welfare of my servants. For the sage's own good, I shall arrange a playful sport; I shall certainly devise a plan for that.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(श्रीहरि ने सोचा) शीघ्र मैं वह (अभिमान) उखाड़ फेंकूँगा — मेरा प्रण — सेवक का हितकारी। मुनि (के अभिमान को)।"
         },
         {
           "id": "bk-129-c4",
@@ -6983,7 +7020,8 @@
           "original": "तब नारद हरि पद सिर नाई। चले हृदयँ अहमिति अधिकाई।।\nश्रीपति निज माया तब प्रेरी। सुनहु कठिन करनी तेहि केरी।।",
           "transliteration": "",
           "translation": "Then Narada bowed at Hari's feet and departed, his heart swelling with pride. The Lord of Lakshmi then set his own Maya in motion. Now hear of her formidable doings.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "तब नारद ने श्रीहरि-पद पर सिर नवाया — मन में अत्यधिक अभिमान लिए चले। श्रीपति (विष्णु ने)।"
         },
         {
           "id": "bk-129-d",
@@ -6991,7 +7029,8 @@
           "original": "बिरचेउ मग महुँ नगर तेहिं सत जोजन बिस्तार।\nश्रीनिवासपुर तें अधिक रचना बिबिध प्रकार।।129।।",
           "transliteration": "",
           "translation": "She created a city on the sage's path, a hundred yojanas in extent — more magnificent than the city of Shrinivasa himself, with designs of every kind.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(श्रीहरि ने) मार्ग में नगर रचा — सौ योजन विस्तार। 'श्रीनिवासपुर' (नाम दिया)।"
         }
       ]
     },
@@ -7004,7 +7043,8 @@
           "original": "बसहिं नगर सुंदर नर नारी। जनु बहु मनसिज रति तनुधारी।।\nतेहिं पुर बसइ सीलनिधि राजा। अगनित हय गय सेन समाजा।।",
           "transliteration": "",
           "translation": "Handsome men and women dwelt in the city, as if many Kamadevas and Ratis had taken bodily form. In that city lived a king who was a treasure of virtue, with countless horses, elephants, and armies.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "नगर में सुन्दर नर-नारी बसते — मानो बहुत कामदेव और रति ने शरीर धारण किए। (अत्यन्त सुन्दर)।"
         },
         {
           "id": "bk-130-c2",
@@ -7012,7 +7052,8 @@
           "original": "सत सुरेस सम बिभव बिलासा। रूप तेज बल नीति निवासा।।\nबिस्वमोहनी तासु कुमारी। श्री बिमोह जिसु रूपु निहारी।।",
           "transliteration": "",
           "translation": "His splendor and luxury equaled that of a hundred Indras; he was a treasury of beauty, majesty, strength, and wisdom. His daughter enchanted the whole world — even Lakshmi would be bewildered seeing her beauty.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "सौ इन्द्रों-सा वैभव-विलास। रूप, तेज, बल, नीति-निवास। विश्व (प्रसिद्ध)।"
         },
         {
           "id": "bk-130-c3",
@@ -7020,7 +7061,8 @@
           "original": "सोइ हरिमाया सब गुन खानी। सोभा तासु कि जाइ बखानी।।\nकरइ स्वयंबर सो नृपबाला। आए तहँ अगनित महिपाला।।",
           "transliteration": "",
           "translation": "She was Hari's own Maya, a mine of all virtues — who could describe her beauty? That princess was to hold a swayamvara (self-choice wedding), and countless kings had gathered there.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "वही श्रीहरि-माया — सब गुणों की खान। उसकी शोभा — वर्णन कैसे हो? करती।"
         },
         {
           "id": "bk-130-c4",
@@ -7028,7 +7070,8 @@
           "original": "मुनि कौतुकी नगर तेहिं गयऊ। पुरबासिन्ह सब पूछत भयऊ।।\nसुनि सब चरित भूपगृहँ आए। करि पूजा नृप मुनि बैठाए।।",
           "transliteration": "",
           "translation": "The curious sage entered that city and asked the citizens about everything. Hearing the full account, he went to the king's palace, where the king worshipped him and seated the sage.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "कौतुकी मुनि (नारद) उस नगर में गए। नगरवासियों से सब पूछने लगे। सुनकर।"
         },
         {
           "id": "bk-130-d",
@@ -7036,7 +7079,8 @@
           "original": "आनि देखाई नारदहि भूपति राजकुमारि।\nकहहु नाथ गुन दोष सब एहि के हृदयँ बिचारि।।130।।",
           "transliteration": "",
           "translation": "The king brought the princess to show Narada and said, 'O Lord, examine her carefully and tell me all her merits and faults, reflecting in your heart.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "राजा ने नारदजी को लाकर राजकुमारी दिखाई। (राजा ने कहा) कहो, नाथ! गुण-दोष सब — ये (बताओ)।"
         }
       ]
     },
@@ -7049,7 +7093,8 @@
           "original": "देखि रूप मुनि बिरति बिसारी। बड़ी बार लगि रहे निहारी।।\nलच्छन तासु बिलोकि भुलाने। हृदयँ हरष नहिं प्रगट बखाने।।",
           "transliteration": "",
           "translation": "Seeing her beauty, the sage forgot his detachment and kept gazing at her for a long time. He studied her auspicious marks and was enraptured, but he rejoiced only in his heart without speaking openly.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "रूप देखकर मुनि (नारद) वैराग्य भूले। बहुत देर तक निहारते रहे।"
         },
         {
           "id": "bk-131-c2",
@@ -7057,7 +7102,8 @@
           "original": "जो एहि बरइ अमर सोइ होई। समरभूमि तेहि जीत न कोई।।\nसेवहिं सकल चराचर ताही। बरइ सीलनिधि कन्या जाही।।",
           "transliteration": "",
           "translation": "'Whoever marries her shall become immortal; no one shall defeat him on the battlefield. All beings, animate and inanimate, shall serve him — whoever that treasury of virtue gives her daughter to.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(नारद ने सोचा) जो इसे वरेगा — वह अमर होगा। रणभूमि में उसे कोई नहीं जीतेगा। सेवन करें।"
         },
         {
           "id": "bk-131-c3",
@@ -7065,7 +7111,8 @@
           "original": "लच्छन सब बिचारि उर राखे। कछुक बनाइ भूप सन भाषे।।\nसुता सुलच्छन कहि नृप पाहीं। नारद चले सोच मन माहीं।।",
           "transliteration": "",
           "translation": "He considered all the auspicious marks and kept them to himself; he spoke only selectively to the king. Having told the king that his daughter was most fortunate, Narada departed with anxiety in his heart.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "सब लक्षण विचारकर हृदय में रखे। कुछ बनाकर (गढ़कर) राजा से कहे। (कहा) सुता।"
         },
         {
           "id": "bk-131-c4",
@@ -7073,7 +7120,8 @@
           "original": "करौं जाइ सोइ जतन बिचारी। जेहि प्रकार मोहि बरै कुमारी।।\nजप तप कछु न होइ तेहि काला। हे बिधि मिलइ कवन बिधि बाला।।",
           "transliteration": "",
           "translation": "'I shall go and devise a plan so that the princess chooses me. Neither meditation nor penance will avail at this time. O Creator, how can I obtain the maiden?'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(नारद ने सोचा) जाकर वह उपाय करूँ — जिस प्रकार कुमारी मुझे वरे।"
         },
         {
           "id": "bk-131-d",
@@ -7081,7 +7129,8 @@
           "original": "एहि अवसर चाहिअ परम सोभा रूप बिसाल।\nजो बिलोकि रीझै कुअँरि तब मेलै जयमाल।।131।।",
           "transliteration": "",
           "translation": "'At this moment, I need supreme beauty and a magnificent form. If the princess is pleased seeing me, she will place the victory garland around my neck.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(नारद ने सोचा) इस अवसर पर चाहिए — परम शोभा, विशाल रूप। जो देखकर कुँवरी रीझे।"
         }
       ]
     },
@@ -7094,7 +7143,8 @@
           "original": "हरि सन मागौं सुंदरताई। होइहि जात गहरु अति भाई।।\nमोरें हित हरि सम नहिं कोऊ। एहि अवसर सहाय सोइ होऊ।।",
           "transliteration": "",
           "translation": "'I shall ask Hari for beauty; there is great urgency in going, brother. No one cares for me more than Hari; may he be my helper at this time.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(नारद ने सोचा) श्रीहरि से सुन्दरता माँगूँ — जाने में बहुत देर, भाई! मेरे हृदय (में)।"
         },
         {
           "id": "bk-132-c2",
@@ -7102,7 +7152,8 @@
           "original": "बहुबिधि बिनय कीन्हि तेहि काला। प्रगटेउ प्रभु कौतुकी कृपाला।।\nप्रभु बिलोकि मुनि नयन जुड़ाने। होइहि काजु हिएँ हरषाने।।",
           "transliteration": "",
           "translation": "He made many kinds of entreaties at that time, and the playful, compassionate Lord appeared. Seeing the Lord, the sage's eyes were cooled; his heart rejoiced, thinking his purpose would be accomplished.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "बहुत प्रकार की विनती की उस समय। कौतुकी कृपालु प्रभु प्रकट हुए।"
         },
         {
           "id": "bk-132-c3",
@@ -7110,7 +7161,8 @@
           "original": "अति आरति कहि कथा सुनाई। करहु कृपा करि होहु सहाई।।\nआपन रूप देहु प्रभु मोही। आन भाँति नहिं पावौं ओही।।",
           "transliteration": "",
           "translation": "With great earnestness, he told his story and said, 'Show me your grace and help me. Give me your own form, O Lord; in no other way can I obtain her.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(नारद ने) अत्यन्त आर्ति (व्याकुलता) से कथा सुनाई — (कहा) कृपा करो, सहायक बनो। अपना रूप।"
         },
         {
           "id": "bk-132-c4",
@@ -7118,7 +7170,8 @@
           "original": "जेहि बिधि नाथ होइ हित मोरा। करहु सो बेगि दास मैं तोरा।।\nनिज माया बल देखि बिसाला। हियँ हँसि बोले दीनदयाला।।",
           "transliteration": "",
           "translation": "'In whatever way my good may be achieved, O Lord, please do that quickly — I am your servant.' Seeing the great power of his own Maya, the compassionate Lord smiled within and spoke.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(नारद ने कहा) जिस विधि, हे नाथ! मेरा हित हो — वह शीघ्र करो, दास हूँ आपका।"
         },
         {
           "id": "bk-132-d",
@@ -7126,7 +7179,8 @@
           "original": "जेहि बिधि होइहि परम हित नारद सुनहु तुम्हार।\nसोइ हम करब न आन कछु बचन न मृषा हमार।।132।।",
           "transliteration": "",
           "translation": "'Whatever is in your supreme interest, O Narada, hear — that alone shall I do. I shall do nothing else; my words are never false.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(श्रीहरि ने कहा) जिस विधि तुम्हारा परम हित होगा — नारद! सुनो। वही हम करेंगे।"
         }
       ]
     },
@@ -7139,7 +7193,8 @@
           "original": "कुपथ माग रुज ब्याकुल रोगी। बैद न देइ सुनहु मुनि जोगी।।\nएहि बिधि हित तुम्हार मैं ठयऊ। कहि अस अंतरहित प्रभु भयऊ।।",
           "transliteration": "",
           "translation": "'A doctor does not give a patient what he craves if it would worsen his disease — listen, O sage and yogi. In this way, I have resolved what is best for you.' Saying this, the Lord disappeared.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(श्रीहरि ने सोचा) कुमार्ग माँगे — रोग-व्याकुल रोगी — वैद्य नहीं देता, सुनो मुनि-योगी!"
         },
         {
           "id": "bk-133-c2",
@@ -7147,7 +7202,8 @@
           "original": "माया बिबस भए मुनि मूढ़ा। समुझी नहिं हरि गिरा निगूढ़ा।।\nगवने तुरत तहाँ रिषिराई। जहाँ स्वयंबर भूमि बनाई।।",
           "transliteration": "",
           "translation": "Under the spell of Maya, the sage became foolish and did not understand Hari's cryptic words. The lord of sages immediately went to the place where the swayamvara arena had been prepared.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "माया-विवश मुनि (नारद) मूढ़ हुए — श्रीहरि की गूढ़ (गहरी) वाणी नहीं समझी।"
         },
         {
           "id": "bk-133-c3",
@@ -7155,7 +7211,8 @@
           "original": "निज निज आसन बैठे राजा। बहु बनाव करि सहित समाजा।।\nमुनि मन हरष रूप अति मोरें। मोहि तजि आनहि बारिहि न भोरें।।",
           "transliteration": "",
           "translation": "Each king sat on his own throne, elaborately adorned with their retinues. The sage thought, 'My form is supremely handsome; she will not even glance at anyone else.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "अपने-अपने आसन पर राजा बैठे — बहुत सजावट, समाज सहित। मुनि (नारद)।"
         },
         {
           "id": "bk-133-c4",
@@ -7163,7 +7220,8 @@
           "original": "मुनि हित कारन कृपानिधाना। दीन्ह कुरूप न जाइ बखाना।।\nसो चरित्र लखि काहुँ न पावा। नारद जानि सबहिं सिर नावा।।",
           "transliteration": "",
           "translation": "For the sage's own good, the compassionate Lord had given him an unspeakably ugly form. No one perceived this trick, but Narada, thinking everyone respected him, bowed to all.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "मुनि के हित कृपानिधान ने — कुरूप दिया, वर्णन नहीं हो सकता। वह (रूप)।"
         },
         {
           "id": "bk-133-d",
@@ -7171,7 +7229,8 @@
           "original": "रहे तहाँ दुइ रुद्र गन ते जानहिं सब भेउ।\nबिप्रबेष देखत फिरहिं परम कौतुकी तेउ।।133।।",
           "transliteration": "",
           "translation": "Two attendants of Shiva were present there, and they knew the whole secret. Disguised as Brahmins, these supremely playful ones walked about watching everything.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "वहाँ दो रुद्र-गण थे — वे सब भेद (रहस्य) जानते। ब्राह्मण-वेश में देखते।"
         }
       ]
     },
@@ -7184,7 +7243,8 @@
           "original": "जेंहि समाज बैंठे मुनि जाई। हृदयँ रूप अहमिति अधिकाई।।\nतहँ बैठ महेस गन दोऊ। बिप्रबेष गति लखइ न कोऊ।।",
           "transliteration": "",
           "translation": "In the assembly where the sage sat, swelling with pride in his beauty, those two attendants of Maheshwara also sat, disguised as Brahmins, their true identity known to no one.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "जिस सभा में मुनि (नारद) जाकर बैठे — हृदय में रूप का अत्यधिक अभिमान। वहीं महेश (शिव) के दोनों गण बैठे — विप्र-वेश में — उनकी गति (असलियत) कोई नहीं जानता।"
         },
         {
           "id": "bk-134-c2",
@@ -7192,7 +7252,8 @@
           "original": "करहिं कूटि नारदहि सुनाई। नीकि दीन्हि हरि सुंदरताई।।\nरीझहि राजकुअँरि छबि देखी। इन्हहि बरिहि हरि जानि बिसेषी।।",
           "transliteration": "",
           "translation": "They mockingly said within Narada's hearing, 'Hari has certainly given him fine beauty! The princess will be charmed by his looks and will choose him, knowing him to be Hari's special favorite!'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिव-गण) कूट (व्यंग्य) करके नारद को सुनाते — (कहा) अच्छी दी श्रीहरि ने सुन्दरता! राजकुँवरी छवि देखकर रीझेगी — इन्हें वरेगी — श्रीहरि ने विशेष (कृपा) जानकर।"
         },
         {
           "id": "bk-134-c3",
@@ -7200,7 +7261,8 @@
           "original": "मुनिहि मोह मन हाथ पराएँ। हँसहिं संभु गन अति सचु पाएँ।।\nजदपि सुनहिं मुनि अटपटि बानी। समुझि न परइ बुद्धि भ्रम सानी।।",
           "transliteration": "",
           "translation": "The sage's mind was deluded, controlled by another's hand; Shambhu's attendants laughed heartily at the fun. Though the sage heard their cryptic remarks, his understanding, mixed with delusion, could not grasp their meaning.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "मुनि को मोह — मन पराए हाथ में। शम्भु-गण अत्यन्त सुख पाकर हँसते। यद्यपि मुनि अटपटी (व्यंग्य) वाणी सुनते — समझ नहीं पड़ती — बुद्धि भ्रम में सनी (डूबी)।"
         },
         {
           "id": "bk-134-c4",
@@ -7208,7 +7270,8 @@
           "original": "काहुँ न लखा सो चरित बिसेषा। सो सरूप नृपकन्याँ देखा।।\nमर्कट बदन भयंकर देही। देखत हृदयँ क्रोध भा तेही।।",
           "transliteration": "",
           "translation": "No one else perceived this special trick, but the princess saw his true form — a monkey's face on a hideous body. Seeing it, anger arose in her heart.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "किसी ने वह विशेष चरित्र (चाल) नहीं देखा — पर राजकन्या ने वह स्वरूप देखा। वानर-मुख, भयंकर देह — देखते ही हृदय में क्रोध हुआ।"
         },
         {
           "id": "bk-134-d",
@@ -7216,7 +7279,8 @@
           "original": "सखीं संग लै कुअँरि तब चलि जनु राजमराल।\nदेखत फिरइ महीप सब कर सरोज जयमाल।।134।।",
           "transliteration": "",
           "translation": "The princess then walked with her companions like a royal swan, viewing all the kings with the victory garland in her lotus-like hands.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "सखियों को साथ लेकर कुँवरी तब चलीं — मानो राजहंसी। सब राजाओं को देखती फिरतीं — कर-सरोज (कमल-हाथ) में जयमाला।"
         }
       ]
     },
@@ -7229,7 +7293,8 @@
           "original": "जेहि दिसि बैठे नारद फूली। सो दिसि देहि न बिलोकी भूली।।\nपुनि पुनि मुनि उकसहिं अकुलाहीं। देखि दसा हर गन मुसकाहीं।।",
           "transliteration": "",
           "translation": "In the direction where the inflated Narada sat, the princess did not even glance, not even by mistake. Again and again the sage rose and strained forward; seeing his state, Shiva's attendants smiled.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "जिस दिशा में नारद फूलकर (गर्व से) बैठे — उस दिशा को भूलकर भी नहीं देखा। बार-बार मुनि उकसते, अकुलाते — दशा देखकर हर-गण मुस्कुराते।"
         },
         {
           "id": "bk-135-c2",
@@ -7237,7 +7302,8 @@
           "original": "धरि नृपतनु तहँ गयउ कृपाला। कुअँरि हरषि मेलेउ जयमाला।।\nदुलहिनि लै गे लच्छिनिवासा। नृपसमाज सब भयउ निरासा।।",
           "transliteration": "",
           "translation": "The compassionate Lord himself came there in the form of a king, and the princess joyfully placed the victory garland around his neck. The Lord of Lakshmi took the bride away, and the entire assembly of kings was left in despair.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "नृप-तनु (राजा का शरीर) धारण करके वहाँ कृपालु (श्रीहरि) गए — कुँवरी ने हर्षित होकर जयमाला डाली। दुलहिन को लक्ष्मीनिवास (विष्णु) ले गए — नृप-समाज सब निराश हुआ।"
         },
         {
           "id": "bk-135-c3",
@@ -7245,7 +7311,8 @@
           "original": "मुनि अति बिकल मोंहँ मति नाठी। मनि गिरि गई छूटि जनु गाँठी।।\nतब हर गन बोले मुसुकाई। निज मुख मुकुर बिलोकहु जाई।।",
           "transliteration": "",
           "translation": "The sage was utterly distraught; his senses had fled, as if a jewel had slipped from a loosened knot. Then Shiva's attendants spoke with a smile: 'Go and see your face in a mirror!'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "मुनि अत्यन्त विकल — मोह से मति (बुद्धि) नष्ट हुई — मानो गाँठ छूटकर मणि गिर गई। तब हर-गण मुस्कुराकर बोले — (कहा) जाकर अपना मुख दर्पण में देखो!"
         },
         {
           "id": "bk-135-c4",
@@ -7253,7 +7320,8 @@
           "original": "अस कहि दोउ भागे भयँ भारी। बदन दीख मुनि बारि निहारी।।\nबेषु बिलोकि क्रोध अति बाढ़ा। तिन्हहि सराप दीन्ह अति गाढ़ा।।",
           "transliteration": "",
           "translation": "Saying this, both of them fled in great fear. The sage looked at his face reflected in water. Seeing his appearance, his anger swelled enormously, and he cursed them both with a terrible curse.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "ऐसा कहकर दोनों भारी भय से भागे। मुनि ने जल में निहारकर अपना मुख देखा। वेष (बन्दर-मुख) देखकर क्रोध अत्यन्त बढ़ा — उन दोनों को अत्यन्त कठोर शाप दिया।"
         },
         {
           "id": "bk-135-d",
@@ -7261,7 +7329,8 @@
           "original": "होहु निसाचर जाइ तुम्ह कपटी पापी दोउ।\nहँसेहु हमहि सो लेहु फल बहुरि हँसेहु मुनि कोउ।।135।।",
           "transliteration": "",
           "translation": "'Go and become demons, you two deceitful sinners! You laughed at me — now reap the fruit of it. Let no other sage ever laugh again.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(नारद ने शाप दिया) जाओ, तुम दोनों निशाचर (राक्षस) हो जाओ — कपटी, पापी! हमारी हँसी उड़ाई — सो फल लो। फिर कोई मुनि (तुम पर) हँसे!"
         }
       ]
     },
@@ -7274,7 +7343,8 @@
           "original": "पुनि जल दीख रूप निज पावा। तदपि हृदयँ संतोष न आवा।।\nफरकत अधर कोप मन माहीं। सपदी चले कमलापति पाहीं।।",
           "transliteration": "",
           "translation": "Then, looking in the water again, he saw his own true form restored, yet his heart found no peace. His lips quivered with anger as he strode swiftly toward the Lord of Lakshmi.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "फिर जल में देखा — अपना निज रूप पाया — तदपि हृदय में सन्तोष नहीं आया। अधर फड़कते, मन में कोप — तुरन्त कमलापति (विष्णु) के पास चले।"
         },
         {
           "id": "bk-136-c2",
@@ -7282,7 +7352,8 @@
           "original": "देहउँ श्राप कि मरिहउँ जाई। जगत मोर उपहास कराई।।\nबीचहिं पंथ मिले दनुजारी। संग रमा सोइ राजकुमारी।।",
           "transliteration": "",
           "translation": "'I shall either curse him or go and die — he has made me a laughingstock before the world!' On the way, he met the slayer of demons, with Lakshmi and that same princess by his side.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(नारद ने सोचा) शाप दूँगा या मरकर जाऊँगा — जगत में मेरा उपहास कराया! बीच पथ (रास्ते) में दनुजारि (विष्णु) मिले — संग में रमा (लक्ष्मी) और वही राजकुमारी।"
         },
         {
           "id": "bk-136-c3",
@@ -7290,7 +7361,8 @@
           "original": "बोले मधुर बचन सुरसाईं। मुनि कहँ चले बिकल की नाईं।।\nसुनत बचन उपजा अति क्रोधा। माया बस न रहा मन बोधा।।",
           "transliteration": "",
           "translation": "The Lord of the gods spoke in sweet words: 'O sage, where are you going in such agitation?' Hearing his words, extreme anger arose; under Maya's power, wisdom did not remain in his mind.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "सुरसाईं (देवताओं के स्वामी विष्णु) ने मधुर वचन बोले — (कहा) मुनि! कहाँ चले, विकल (व्याकुल) की तरह? वचन सुनते ही अत्यन्त क्रोध उपजा — माया-वश मन में बोध (ज्ञान) नहीं रहा।"
         },
         {
           "id": "bk-136-c4",
@@ -7298,7 +7370,8 @@
           "original": "पर संपदा सकहु नहिं देखी। तुम्हरें इरिषा कपट बिसेषी।।\nमथत सिंधु रुद्रहि बौरायहु। सुरन्ह प्रेरी बिष पान करायहु।।",
           "transliteration": "",
           "translation": "'You cannot bear to see another's prosperity; you are full of envy and deceit. When churning the ocean, you drove Rudra mad and made the gods give him poison to drink.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(नारद ने कहा) पर-सम्पदा (दूसरों की सम्पत्ति) नहीं देख सकते! तुम्हारे (हृदय में) विशेष ईर्ष्या और कपट। समुद्र-मन्थन में रुद्र (शिव) को बौराया — देवताओं को प्रेरित करके विष पिलाया।"
         },
         {
           "id": "bk-136-d",
@@ -7306,7 +7379,8 @@
           "original": "असुर सुरा बिष संकरहि आपु रमा मनि चारु।\nस्वारथ साधक कुटिल तुम्ह सदा कपट ब्यवहारु।।136।।",
           "transliteration": "",
           "translation": "'You gave the demons the wine, poison to Shankara, and kept Lakshmi and the precious jewel for yourself. You are a selfish schemer — your dealings are always full of deceit.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(नारद ने कहा) असुरों को सुरा (मदिरा), विष शंकर को — और आप (ने) रमा (लक्ष्मी) और चारु (सुन्दर) मणि (कौस्तुभ रखी)। स्वार्थ-साधक, कुटिल तुम — सदा कपट-व्यवहार!"
         }
       ]
     },
@@ -7319,7 +7393,8 @@
           "original": "परम स्वतंत्र न सिर पर कोई। भावइ मनहि करहु तुम्ह सोई।।\nभलेहि मंद मंदेहि भल करहू। बिसमय हरष न हियँ कछु धरहू।।",
           "transliteration": "",
           "translation": "'You are supremely independent with no one above you; you do whatever pleases your mind. You turn good into bad and bad into good, with neither wonder nor joy in your heart.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(नारद ने कहा) परम स्वतन्त्र — सिर पर कोई नहीं। जो मन को भाए — वही करो। भले को मन्द, मन्द को भला करो — हृदय में न विस्मय, न हर्ष रखो।"
         },
         {
           "id": "bk-137-c2",
@@ -7327,7 +7402,8 @@
           "original": "डहकि डहकि परिचेहु सब काहू। अति असंक मन सदा उछाहू।।\nकरम सुभासुभ तुम्हहि न बाधा। अब लगि तुम्हहि न काहूँ साधा।।",
           "transliteration": "",
           "translation": "'Deceiving and cheating everyone, your mind is always fearless and joyful. Good or bad deeds do not bind you; until now, no one has bested you.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(नारद ने कहा) डहक-डहककर (छल से) सबको परखते (ठगते) — अत्यन्त निशंक, मन में सदा उत्साह। कर्म शुभ-अशुभ — तुम्हें नहीं बाधा — अब तक तुम्हें किसी ने नहीं साधा (वश नहीं किया)।"
         },
         {
           "id": "bk-137-c3",
@@ -7335,7 +7411,8 @@
           "original": "भले भवन अब बायन दीन्हा। पावहुगे फल आपन कीन्हा।।\nबंचेहु मोहि जवनि धरि देहा। सोइ तनु धरहु श्राप मम एहा।।",
           "transliteration": "",
           "translation": "'Well, you have now given a fine wedding gift! You shall reap the fruit of what you have done. The form in which you deceived me — that very body you shall assume; this is my curse.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(नारद ने कहा) भले भवन (घर) में अब बायना (उपहार) दिया — अपनी करनी का फल पाओगे! जिस शरीर (वानर-रूप) को धारण करके मुझे वंचित (ठगा) — वही तनु (शरीर) धारण करो — यह मेरा शाप!"
         },
         {
           "id": "bk-137-c4",
@@ -7343,7 +7420,8 @@
           "original": "कपि आकृति तुम्ह कीन्हि हमारी। करिहहिं कीस सहाय तुम्हारी।।\nमम अपकार कीन्ही तुम्ह भारी। नारी बिरहँ तुम्ह होब दुखारी।।",
           "transliteration": "",
           "translation": "'You gave me the face of a monkey — monkeys shall be your helpers. You have done me great harm; you shall suffer the anguish of separation from your wife.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(नारद ने कहा) कपि (वानर) आकृति तुमने हमारी की — (अब) कीस (वानर) तुम्हारी सहायता करेंगे। मेरा भारी अपकार किया तुमने — नारी-विरह में तुम दुखी होगे।"
         },
         {
           "id": "bk-137-d",
@@ -7351,7 +7429,8 @@
           "original": "श्राप सीस धरी हरषि हियँ प्रभु बहु बिनती कीन्हि।\nनिज माया कै प्रबलता करषि कृपानिधि लीन्हि।।137।।",
           "transliteration": "",
           "translation": "The Lord joyfully accepted the curse upon his head and humbly entreated the sage in many ways. Then the compassionate Lord drew back the power of his own Maya.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "शाप को सिर पर धारण किया — हर्षित हृदय से प्रभु (विष्णु) ने बहुत विनती की। अपनी माया की प्रबलता — कृपानिधि ने खींचकर ले ली (वापस)।"
         }
       ]
     },
@@ -7364,7 +7443,8 @@
           "original": "जब हरि माया दूरि निवारी। नहिं तहँ रमा न राजकुमारी।।\nतब मुनि अति सभीत हरि चरना। गहे पाहि प्रनतारति हरना।।",
           "transliteration": "",
           "translation": "When Hari withdrew his Maya, neither Lakshmi nor the princess was there any longer. Then the sage, greatly frightened, clasped Hari's feet, crying, 'Protect me, O reliever of the suppliant's distress!'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "जब श्रीहरि ने माया दूर हटाई — न वहाँ रमा (लक्ष्मी), न राजकुमारी। तब मुनि (नारद) अत्यन्त भयभीत — श्रीहरि के चरण पकड़े — (कहा) रक्षा करो, प्रणत (शरणागत) की आर्ति (पीड़ा) हरने वाले!"
         },
         {
           "id": "bk-138-c2",
@@ -7372,7 +7452,8 @@
           "original": "मृषा होउ मम श्राप कृपाला। मम इच्छा कह दीनदयाला।।\nमैं दुर्बचन कहे बहुतेरे। कह मुनि पाप मिटिहिं किमि मेरे।।",
           "transliteration": "",
           "translation": "'Let my curse become false, O compassionate Lord!' 'It is my will,' said the merciful one. 'I spoke many harsh words,' said the sage; 'how shall my sins be cleansed?'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(नारद ने कहा) मिथ्या हो मेरा शाप, कृपालु! दीनदयालु (विष्णु) ने कहा — मेरी इच्छा (से ही सब हुआ)। (नारद ने कहा) मैंने बहुत दुर्वचन कहे — मुनि बोले — मेरे पाप कैसे मिटेंगे?"
         },
         {
           "id": "bk-138-c3",
@@ -7380,7 +7461,8 @@
           "original": "जपहु जाइ संकर सत नामा। होइहि हृदयँ तुरंत बिश्रामा।।\nकोउ नहिं सिव समान प्रिय मोरें। असि परतीति तजहु जनि भोरें।।",
           "transliteration": "",
           "translation": "'Go and chant the hundred names of Shankara; your heart will find peace at once. No one is as dear to me as Shiva; never abandon this faith, not even in confusion.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(श्रीहरि ने कहा) जाकर शंकर के सौ नामों का जप करो — हृदय में तुरन्त विश्राम (शान्ति) होगा। शिव-समान मुझे कोई प्रिय नहीं — यह प्रतीति (विश्वास) भूलकर भी मत त्यागो।"
         },
         {
           "id": "bk-138-c4",
@@ -7388,7 +7470,8 @@
           "original": "जेहि पर कृपा न करहिं पुरारी। सो न पाव मुनि भगति हमारी।।\nअस उर धरि महि बिचरहु जाई। अब न तुम्हहि माया निअराई।।",
           "transliteration": "",
           "translation": "'One upon whom the destroyer of Tripura does not bestow his grace can never obtain devotion to me, O sage. Hold this truth in your heart and go wander the earth; henceforth, Maya shall never come near you.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(श्रीहरि ने कहा) जिस पर पुरारि (शिवजी) कृपा नहीं करें — वह मुनि! हमारी भक्ति नहीं पाता। यह हृदय में धारण करके पृथ्वी पर विचरो — अब तुम्हें माया निकट नहीं आएगी।"
         },
         {
           "id": "bk-138-d",
@@ -7396,7 +7479,8 @@
           "original": "बहुबिधि मुनिहि प्रबोधि प्रभु तब भए अंतरधान।।\nसत्यलोक नारद चले करत राम गुन गान।।138।।",
           "transliteration": "",
           "translation": "Having consoled the sage in many ways, the Lord then vanished from sight. Narada went to Satyaloka, singing the glories of Rama.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "बहु विधि मुनि को प्रबोधित (समझाकर) करके प्रभु तब अन्तर्धान हुए। सत्यलोक नारद चले — श्रीराम-गुण-गान करते।"
         }
       ]
     },
@@ -7409,7 +7493,8 @@
           "original": "हर गन मुनिहि जात पथ देखी। बिगतमोह मन हरष बिसेषी।।\nअति सभीत नारद पहिं आए। गहि पद आरत बचन सुनाए।।",
           "transliteration": "",
           "translation": "Shiva's attendants saw the sage going along the path, free from delusion and with great joy in his heart. Greatly frightened, they approached Narada, clasped his feet, and spoke words of distress.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "हर-गण ने मुनि को पथ (रास्ते) में जाते देखा — विगतमोह (मोह-रहित), मन में विशेष हर्ष। अत्यन्त भयभीत नारद के पास आए — पद (चरण) पकड़कर आर्त (दुखी) वचन सुनाए।"
         },
         {
           "id": "bk-139-c2",
@@ -7417,7 +7502,8 @@
           "original": "हर गन हम न बिप्र मुनिराया। बड़ अपराध कीन्ह फल पाया।।\nश्राप अनुग्रह करहु कृपाला। बोले नारद दीनदयाला।।",
           "transliteration": "",
           "translation": "'We are Shiva's attendants, not Brahmins, O lord of sages. We committed a great sin and have received the consequence. Please grant us both your curse and your grace, O compassionate one.' Narada, merciful to the helpless, spoke:",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(हर-गणों ने कहा) हम हर (शिव) के गण हैं — विप्र (ब्राह्मण) नहीं, मुनिराय! बड़ा अपराध किया — फल पाया। शाप और अनुग्रह (कृपा) करो, कृपालु! नारद बोले — दीनदयालु।"
         },
         {
           "id": "bk-139-c3",
@@ -7425,7 +7511,8 @@
           "original": "निसिचर जाइ होहु तुम्ह दोऊ। बैभव बिपुल तेज बल होऊ।।\nभुजबल बिस्व जितब तुम्ह जहिआ। धरिहहिं बिष्नु मनुज तनु तहिआ।",
           "transliteration": "",
           "translation": "'Go, both of you, and become demons. You shall have immense wealth, splendor, and strength. When you conquer the world by the might of your arms, then Vishnu shall assume a human body.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(नारद ने कहा) निशाचर (राक्षस) जाकर होओ तुम दोनों — विपुल वैभव, तेज, बल हो। भुजबल से विश्व जीतोगे तुम — जब (ऐसा होगा) तब विष्णु मनुज-तनु (मानव-शरीर) धारण करेंगे।"
         },
         {
           "id": "bk-139-c4",
@@ -7433,7 +7520,8 @@
           "original": "समर मरन हरि हाथ तुम्हारा। होइहहु मुकुत न पुनि संसारा।।\nचले जुगल मुनि पद सिर नाई। भए निसाचर कालहि पाई।।",
           "transliteration": "",
           "translation": "'You shall die at the hands of Hari in battle, and you shall attain liberation — never to return to this world.' Bowing their heads at the sage's feet, both departed. When the time came, they were born as demons.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "समर (युद्ध) में श्रीहरि के हाथों तुम्हारा मरण होगा — मुक्त होगे, फिर संसार नहीं। दोनों मुनि के पद (चरणों) पर सिर नवाकर चले — काल पाकर निशाचर हुए।"
         },
         {
           "id": "bk-139-d",
@@ -7441,7 +7529,8 @@
           "original": "एक कलप एहि हेतु प्रभु लीन्ह मनुज अवतार।\nसुर रंजन सज्जन सुखद हरि भंजन भुबि भार।।139।।",
           "transliteration": "",
           "translation": "In one cosmic cycle, for this very reason, the Lord took a human incarnation — to delight the gods, bring happiness to the virtuous, to destroy the wicked, and to relieve the earth's burden.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "एक कल्प में इसी कारण प्रभु ने मनुज (मानव) अवतार लिया — सुर-रंजन (देवताओं को प्रसन्न करने वाले), सज्जन-सुखद, श्रीहरि — भुवि (पृथ्वी) का भार भंजन (नाश) करने वाले।"
         }
       ]
     },
@@ -7454,7 +7543,8 @@
           "original": "एहि बिधि जनम करम हरि केरे। सुंदर सुखद बिचित्र घनेरे।।\nकलप कलप प्रति प्रभु अवतरहीं। चारु चरित नानाबिधि करहीं।।",
           "transliteration": "",
           "translation": "In this way, Hari's births and deeds are numerous, beautiful, blissful, and wonderfully varied. In each cosmic cycle, the Lord incarnates and performs charming deeds in diverse ways.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "इस प्रकार श्रीहरि के जन्म-कर्म — सुन्दर, सुखद, विचित्र, अनेक। कल्प-कल्प में प्रभु अवतरते — चारु (सुन्दर) चरित्र नाना विधि करते।"
         },
         {
           "id": "bk-140-c2",
@@ -7462,7 +7552,8 @@
           "original": "तब तब कथा मुनीसन्ह गाई। परम पुनीत प्रबंध बनाई।।\nबिबिध प्रसंग अनूप बखाने। करहिं न सुनि आचरजु सयाने।।",
           "transliteration": "",
           "translation": "Each time, the great sages have composed and sung these supremely holy narratives. They have described incomparable episodes of various kinds; the wise are not surprised to hear them.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "तब-तब मुनीश्वरों ने कथा गाई — परम पुनीत प्रबन्ध (ग्रन्थ) बनाए। विविध अनूप (अनुपम) प्रसंग बखाने — सुनकर सयाने (बुद्धिमान) आश्चर्य नहीं करते।"
         },
         {
           "id": "bk-140-c3",
@@ -7470,7 +7561,8 @@
           "original": "हरि अनंत हरिकथा अनंता। कहहिं सुनहिं बहुबिधि सब संता।।\nरामचंद्र के चरित सुहाए। कलप कोटि लगि जाहिं न गाए।।",
           "transliteration": "",
           "translation": "Hari is infinite and his stories are infinite; the saints tell and hear them in manifold ways. The delightful deeds of Ramachandra cannot be fully sung even in countless cosmic cycles.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "श्रीहरि अनन्त — हरि-कथा अनन्त। सब सन्त बहु विधि कहते-सुनते। श्रीरामचन्द्र के सुहावने चरित्र — कोटि कल्प में भी गाए नहीं जाते।"
         },
         {
           "id": "bk-140-c4",
@@ -7478,7 +7570,8 @@
           "original": "यह प्रसंग मैं कहा भवानी। हरिमायाँ मोहहिं मुनि ग्यानी।।\nप्रभु कौतुकी प्रनत हितकारी।।सेवत सुलभ सकल दुख हारी।।",
           "transliteration": "",
           "translation": "'This episode I have told you, O Bhavani — how Hari's Maya deludes even wise sages. The Lord is playful, a benefactor of the suppliant, easy to serve, and the remover of all suffering.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) यह प्रसंग मैंने कहा, भवानी! हरि-माया ज्ञानी मुनि को भी मोहित करती। प्रभु — कौतुकी (लीलाप्रिय), प्रणत (शरणागत) के हितकारी — सेवन सुलभ, सकल दुख हारी।"
         },
         {
           "id": "bk-140-d",
@@ -7486,7 +7579,8 @@
           "original": "सुर नर मुनि कोउ नाहिं जेहि न मोह माया प्रबल।।\nअस बिचारि मन माहिं भजिअ महामाया पतिहि।।140।।",
           "transliteration": "",
           "translation": "'There is no god, man, or sage whom the mighty Maya has not deluded. Reflecting thus in your heart, worship the Lord of that great Maya.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "सुर, नर, मुनि — कोई नहीं जिसे प्रबल माया ने नहीं मोहा। ऐसा मन में विचारकर — महामाया-पति (श्रीहरि) को भजो।"
         }
       ]
     },
@@ -7499,7 +7593,8 @@
           "original": "अपर हेतु सुनु सैलकुमारी। कहउँ बिचित्र कथा बिस्तारी।।\nजेहि कारन अज अगुन अरूपा। ब्रह्म भयउ कोसलपुर भूपा।।",
           "transliteration": "",
           "translation": "'Now hear another reason, O daughter of the mountain, which I shall narrate as an elaborate and wonderful tale — the reason why the unborn, attributeless, formless Brahman became the king of Koshala.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) अपर (और एक) कारण सुनो, शैलकुमारी (पार्वती)! विचित्र कथा विस्तार से कहता हूँ। जिस कारण अज (अजन्मा), अगुण (निर्गुण), अरूप (निराकार) ब्रह्म — कोसलपुर के भूप (राजा) बने।"
         },
         {
           "id": "bk-141-c2",
@@ -7507,7 +7602,8 @@
           "original": "जो प्रभु बिपिन फिरत तुम्ह देखा। बंधु समेत धरें मुनिबेषा।।\nजासु चरित अवलोकि भवानी। सती सरीर रहिहु बौरानी।।",
           "transliteration": "",
           "translation": "'The Lord whom you saw wandering in the forest with his brother, dressed as sages — upon seeing whose deeds, O Bhavani, you, as Sati, became so bewildered —'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) जो प्रभु तुमने विपिन (वन) में फिरते देखा — बन्धु (भाई) समेत, मुनि-वेष धरे। जिनके चरित्र अवलोककर (देखकर), भवानी! सती-शरीर में बौरानी (भ्रमित) रहीं।"
         },
         {
           "id": "bk-141-c3",
@@ -7515,7 +7611,8 @@
           "original": "अजहुँ न छाया मिटति तुम्हारी। तासु चरित सुनु भ्रम रुज हारी।।\nलीला कीन्हि जो तेहिं अवतारा। सो सब कहिहउँ मति अनुसारा।।",
           "transliteration": "",
           "translation": "'Even now the shadow of that delusion has not left you. Listen to his story, which cures the disease of doubt. The divine deeds he performed in that incarnation — I shall narrate them all according to my understanding.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) अभी तक तुम्हारी छाया (भ्रम) नहीं मिटी — उनके चरित्र सुनो — भ्रम-रोग हरने वाले। जो लीला उन्होंने उस अवतार में की — वह सब मति (बुद्धि) अनुसार कहूँगा।"
         },
         {
           "id": "bk-141-c4",
@@ -7523,7 +7620,8 @@
           "original": "भरद्वाज सुनि संकर बानी। सकुचि सप्रेम उमा मुसकानी।।\nलगे बहुरि बरने बृषकेतू। सो अवतार भयउ जेहि हेतू।।",
           "transliteration": "",
           "translation": "O Bharadvaja, hearing Shankara's words, Uma shyly smiled with love. The bull-bannered one resumed his narration, telling of the reason for that incarnation.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "भरद्वाज! शंकर की वाणी सुनकर — सकुचाकर, सप्रेम उमा मुस्कुराईं। वृषकेतु (शिवजी) फिर वर्णन करने लगे — वह अवतार जिस कारण हुआ।"
         },
         {
           "id": "bk-141-d",
@@ -7531,7 +7629,8 @@
           "original": "सो मैं तुम्ह सन कहउँ सबु सुनु मुनीस मन लाई।।\nराम कथा कलि मल हरनि मंगल करनि सुहाइ।।141।।",
           "transliteration": "",
           "translation": "'All this I shall tell you; listen attentively, O lord of sages. The story of Rama destroys the impurities of the Kali age and is auspicious and beautiful.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(शिवजी ने कहा) वह सब मैं तुम्हें कहता हूँ — सुनो, मुनीश! मन लगाकर। राम-कथा — कलियुग का मल हरने वाली — मंगलकारिणी, सुहावनी।"
         }
       ]
     },
@@ -7544,7 +7643,8 @@
           "original": "स्वायंभू मनु अरु सतरूपा। जिन्ह तें भै नरसृष्टि अनूपा।।\nदंपति धरम आचरन नीका। अजहुँ गाव श्रुति जिन्ह कै लीका।।",
           "transliteration": "",
           "translation": "'Svayambhuva Manu and Shatarupa — from whom the matchless human creation arose — this couple practiced exemplary righteousness; even now the Vedas sing of their noble way of life.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) स्वायम्भुव मनु और शतरूपा — जिनसे अनूप (अनुपम) नर-सृष्टि हुई। दम्पति का धर्म-आचरण श्रेष्ठ — अभी भी श्रुति (वेद) उनकी रीति गाते।"
         },
         {
           "id": "bk-142-c2",
@@ -7552,7 +7652,8 @@
           "original": "नृप उत्तानपाद सुत तासू। ध्रुव हरि भगत भयउ सुत जासू।।\nलघु सुत नाम प्रिय्रब्रत ताही। बेद पुरान प्रसंसहि जाही।।",
           "transliteration": "",
           "translation": "'King Uttanapada was their son, and Dhruva, the great devotee of Hari, was born as his son. Their younger son was named Priyavrata, whom the Vedas and Puranas praise.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) उनके पुत्र राजा उत्तानपाद — जिनके पुत्र ध्रुव — श्रीहरि के भक्त हुए। लघु (छोटे) पुत्र का नाम प्रियव्रत — जिनकी वेद-पुराण प्रशंसा करते।"
         },
         {
           "id": "bk-142-c3",
@@ -7560,7 +7661,8 @@
           "original": "देवहूति पुनि तासु कुमारी। जो मुनि कर्दम कै प्रिय नारी।।\nआदिदेव प्रभु दीनदयाला। जठर धरेउ जेहिं कपिल कृपाला।।",
           "transliteration": "",
           "translation": "'Devahuti was his daughter, the beloved wife of the sage Kardama. The primeval, compassionate Lord — the merciful Kapila — was borne in her womb.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) देवहूति — उनकी (मनु की) पुत्री — जो मुनि कर्दम की प्रिय पत्नी। आदिदेव, प्रभु, दीनदयालु — जिन्होंने (देवहूति के) जठर (गर्भ) में कपिल कृपालु को धारण किया।"
         },
         {
           "id": "bk-142-c4",
@@ -7568,7 +7670,8 @@
           "original": "सांख्य सास्त्र जिन्ह प्रगट बखाना। तत्व बिचार निपुन भगवाना।।\nतेहिं मनु राज कीन्ह बहु काला। प्रभु आयसु सब बिधि प्रतिपाला।।",
           "transliteration": "",
           "translation": "'He who revealed the Sankhya philosophy, the Lord who is supremely skilled in the analysis of truth. That Manu ruled for a very long time, upholding the Lord's commands in every way.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) जिन्होंने (कपिल ने) सांख्य-शास्त्र प्रकट करके बखाना — तत्त्व-विचार में निपुण भगवान। उन मनु ने बहुत काल तक राज किया — प्रभु की आज्ञा सब विधि से प्रतिपाला (निभाई)।"
         },
         {
           "id": "bk-142-d",
@@ -7576,7 +7679,8 @@
           "original": "होइ न बिषय बिराग भवन बसत भा चौथपन।\nहृदयँ बहुत दुख लाग जनम गयउ हरिभगति बिनु।।142।।",
           "transliteration": "",
           "translation": "'Living in a household, detachment from sense objects did not arise, and old age arrived. Great sorrow filled his heart that his life had passed without devotion to Hari.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "भवन (गृहस्थ) में बसते विषय-वैराग्य नहीं हुआ — चौथापन (वृद्धावस्था) आ गया। हृदय में बहुत दुख लगा — जन्म बीत गया हरि-भक्ति बिना।"
         }
       ]
     },
@@ -7589,7 +7693,8 @@
           "original": "बरबस राज सुतहि तब दीन्हा। नारि समेत गवन बन कीन्हा।।\nतीरथ बर नैमिष बिख्याता। अति पुनीत साधक सिधि दाता।।",
           "transliteration": "",
           "translation": "'He forcibly handed over the kingdom to his son and departed for the forest with his wife. The famous sacred site of Naimisha, supremely holy and granting success to spiritual seekers —'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) बरबस (जबरदस्ती) राज्य पुत्र को दिया — नारी (पत्नी) समेत वन को गमन किया। तीर्थ-वर (श्रेष्ठ तीर्थ) नैमिष विख्यात — अत्यन्त पुनीत, साधकों को सिद्धि देने वाला।"
         },
         {
           "id": "bk-143-c2",
@@ -7597,7 +7702,8 @@
           "original": "बसहिं तहाँ मुनि सिद्ध समाजा। तहँ हियँ हरषि चलेउ मनु राजा।।\nपंथ जात सोहहिं मतिधीरा। ग्यान भगति जनु धरें सरीरा।।",
           "transliteration": "",
           "translation": "'Hosts of sages and perfected beings dwelt there. There the king went with a glad heart. On the way, the steadfast couple shone like knowledge and devotion incarnate.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) वहाँ मुनि-सिद्ध समाज बसते — वहीं हृदय में हर्षित होकर मनु राजा चले। पथ (मार्ग) में जाते मतिधीर (धीर-बुद्धि दम्पति) शोभित — मानो ज्ञान और भक्ति ने शरीर धारण किया।"
         },
         {
           "id": "bk-143-c3",
@@ -7605,7 +7711,8 @@
           "original": "पहुँचे जाइ धेनुमति तीरा। हरषि नहाने निरमल नीरा।।\nआए मिलन सिद्ध मुनि ग्यानी। धरम धुरंधर नृपरिषि जानी।।",
           "transliteration": "",
           "translation": "'They reached the bank of the Dhenumati River and joyfully bathed in its pure waters. Sages, perfected beings, and men of knowledge came to meet them, recognizing them as royal sages and champions of righteousness.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) धेनुमती (नदी) के तीर (किनारे) जाकर पहुँचे — हर्षित होकर निर्मल जल में नहाए। सिद्ध, मुनि, ज्ञानी मिलने आए — धर्म-धुरन्धर नृप-ऋषि जानकर।"
         },
         {
           "id": "bk-143-c4",
@@ -7613,7 +7720,8 @@
           "original": "जहँ जँह तीरथ रहे सुहाए। मुनिन्ह सकल सादर करवाए।।\nकृस सरीर मुनिपट परिधाना। सत समाज नित सुनहिं पुराना ।",
           "transliteration": "",
           "translation": "'They reverently visited all the beautiful sacred places there, guided by the sages. Their bodies were thin, they wore the garb of ascetics, and daily they listened to the Puranas in the company of saints.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) जहाँ-जहाँ सुहावने तीर्थ थे — मुनियों ने सब सादर करवाए। कृश (दुबला) शरीर, मुनि-वस्त्र पहने — सत्समाज में नित्य पुराण सुनते।"
         },
         {
           "id": "bk-143-d",
@@ -7621,7 +7729,8 @@
           "original": "द्वादस अच्छर मंत्र पुनि जपहिं सहित अनुराग।\nबासुदेव पद पंकरुह दंपति मन अति लाग।।143।।",
           "transliteration": "",
           "translation": "'They chanted the twelve-syllabled mantra with love, and the couple's minds were deeply attached to the lotus feet of Vasudeva.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "द्वादश-अक्षर (बारह अक्षर के) मन्त्र ('ॐ नमो भगवते वासुदेवाय') अनुराग (प्रेम) सहित जपते। वासुदेव के पद-पंकरुह (चरण-कमल) में दम्पति का मन अत्यन्त लगा।"
         }
       ]
     },
@@ -7634,7 +7743,8 @@
           "original": "करहिं अहार साक फल कंदा। सुमिरहिं ब्रह्म सच्चिदानंदा।।\nपुनि हरि हेतु करन तप लागे। बारि अधार मूल फल त्यागे।।",
           "transliteration": "",
           "translation": "'They ate only vegetables, fruits, and roots, meditating on Brahman — the truth, consciousness, and bliss. Then, to attain Hari, they began performing austerities, giving up roots and fruits and subsisting on water alone.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) साग, फल, कन्द — आहार करते। सच्चिदानन्द ब्रह्म का स्मरण करते। फिर श्रीहरि-प्राप्ति के लिए तप करने लगे — जल-आधार (केवल जल पीकर), मूल-फल त्यागे।"
         },
         {
           "id": "bk-144-c2",
@@ -7642,7 +7752,8 @@
           "original": "उर अभिलाष निंरंतर होई। देखअ नयन परम प्रभु सोई।।\nअगुन अखंड अनंत अनादी। जेहि चिंतहिं परमारथबादी।।",
           "transliteration": "",
           "translation": "'A constant longing filled their hearts — to behold with their own eyes that supreme Lord who is without attributes, indivisible, infinite, and beginningless — upon whom the seekers of the highest truth meditate.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "हृदय में निरन्तर अभिलाषा होती — नयनों से उन परम प्रभु को देखें। अगुण (निर्गुण), अखण्ड, अनन्त, अनादि — जिन्हें परमार्थवादी (तत्त्वज्ञानी) चिन्तन करते।"
         },
         {
           "id": "bk-144-c3",
@@ -7650,7 +7761,8 @@
           "original": "नेति नेति जेहि बेद निरूपा। निजानंद निरुपाधि अनूपा।।\nसंभु बिरंचि बिष्नु भगवाना। उपजहिं जासु अंस तें नाना।।",
           "transliteration": "",
           "translation": "'The one whom the Vedas describe as \"not this, not this\" — self-blissful, without limitations, and incomparable. Shambhu, Brahma, Vishnu, and many other gods arise from a mere fraction of his being.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "'नेति-नेति' ('यह नहीं, यह नहीं') — जिन्हें वेद निरूपित करते। निजानन्द (स्वयं आनन्दस्वरूप), निरुपाधि (उपाधि-रहित), अनूप (अनुपम)। शम्भु (शिव), विरञ्चि (ब्रह्मा), विष्णु भगवान — जिनके अंश से अनेक उत्पन्न होते।"
         },
         {
           "id": "bk-144-c4",
@@ -7658,7 +7770,8 @@
           "original": "ऐसेउ प्रभु सेवक बस अहई। भगत हेतु लीलातनु गहई।।\nजौं यह बचन सत्य श्रुति भाषा। तौ हमार पूजहि अभिलाषा।।",
           "transliteration": "",
           "translation": "'Yet even such a Lord is under the control of his servants and assumes a body for the sake of his devotees. If the Vedas speak truly, then may our wish be fulfilled.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "ऐसे भी प्रभु सेवक के वश में रहते — भक्त के लिए लीला-तनु (शरीर) धारण करते। यदि यह वचन सत्य — श्रुति (वेद) भाषा (कहती है) — तो हमारी अभिलाषा पूरी हो।"
         },
         {
           "id": "bk-144-d",
@@ -7666,7 +7779,8 @@
           "original": "एहि बिधि बीतें बरष षट सहस बारि आहार।\nसंबत सप्त सहस्त्र पुनि रहे समीर अधार।।144।।",
           "transliteration": "",
           "translation": "'In this way, six thousand years passed with water as their only sustenance. Then for another seven thousand years, they lived on air alone.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "इस प्रकार छह हजार वर्ष बीते — जल-आहार (केवल जल पीकर)। फिर सात हजार वर्ष — समीर (वायु) आधार (केवल वायु पर) रहे।"
         }
       ]
     },
@@ -7679,7 +7793,8 @@
           "original": "बरष सहस दस त्यागेउ सोऊ। ठाढ़े रहे एक पद दोऊ।।\nबिधि हरि तप देखि अपारा। मनु समीप आए बहु बारा।।",
           "transliteration": "",
           "translation": "Manu renounced even that for ten thousand years, standing on one foot the whole time. Seeing his boundless austerity, Brahma and Vishnu came near him many times.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "दस हजार वर्ष वह (वायु) भी त्यागा — एक पैर पर खड़े रहे दोनों। विधि (ब्रह्मा) और हरि (विष्णु) ने अपार तप देखकर — मनु के समीप बहुत बार आए।"
         },
         {
           "id": "bk-145-c2",
@@ -7687,7 +7802,8 @@
           "original": "मागहु बर बहु भाँति लोभाए। परम धीर नहिं चलहिं चलाए।।\nअस्थिमात्र होइ रहे सरीरा। तदपि मनाग मनहिं नहिं पीरा।।",
           "transliteration": "",
           "translation": "They tempted him in many ways saying 'Ask for a boon,' but the supremely steadfast one would not be moved. His body was reduced to mere bones, yet he felt not the slightest pain in his mind.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(ब्रह्मा-विष्णु ने कहा) वर माँगो — बहुत भाँति लोभाए। परम धीर (मनु) — चलाए (भी) नहीं चलते। अस्थिमात्र (केवल हड्डियाँ) हो रहे शरीर — तदपि मन में लेशमात्र पीड़ा नहीं।"
         },
         {
           "id": "bk-145-c3",
@@ -7695,7 +7811,8 @@
           "original": "प्रभु सर्बग्य दास निज जानी। गति अनन्य तापस नृप रानी।।\nमागु मागु बरु भै नभ बानी। परम गभीर कृपामृत सानी।।",
           "transliteration": "",
           "translation": "The omniscient Lord, recognizing them as His own devotees and knowing the unwavering devotion of the ascetic king and queen, spoke from the sky: 'Ask, ask for a boon!' — a voice supremely deep, steeped in the nectar of compassion.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "प्रभु सर्वज्ञ — अपने दास जानकर। तापस नृप-रानी की गति (भक्ति) अनन्य। 'माँगो, माँगो वर' — नभ (आकाश) से वाणी हुई — परम गम्भीर, कृपामृत (कृपा-अमृत) सनी (भीगी)।"
         },
         {
           "id": "bk-145-c4",
@@ -7703,7 +7820,8 @@
           "original": "मृतक जिआवनि गिरा सुहाई। श्रबन रंध्र होइ उर जब आई।।\nह्रष्टपुष्ट तन भए सुहाए। मानहुँ अबहिं भवन ते आए।।",
           "transliteration": "",
           "translation": "That beautiful voice, capable of reviving the dead, when it entered through the ears into the heart, their bodies became healthy and radiant, as if they had just arrived from home.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "मृतक (मरे हुए) को जिलाने वाली सुहावनी गिरा (वाणी) — श्रवण-रन्ध्र (कान) से हृदय में जब आई। हृष्ट-पुष्ट (स्वस्थ-सुन्दर) शरीर हो गए — मानो अभी भवन (घर) से आए।"
         },
         {
           "id": "bk-145-d",
@@ -7711,7 +7829,8 @@
           "original": "श्रवन सुधा सम बचन सुनि पुलक प्रफुल्लित गात।\nबोले मनु करि दंडवत प्रेम न हृदयँ समात।।145।।",
           "transliteration": "",
           "translation": "Hearing words sweet as nectar, with thrilled and joyful bodies, Manu prostrated himself and spoke, his heart overflowing with love.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "श्रवण (कान) में सुधा (अमृत) समान वचन सुनकर — पुलकित, प्रफुल्लित शरीर। मनु ने दण्डवत (साष्टांग प्रणाम) करके कहा — प्रेम हृदय में समाता नहीं।"
         }
       ]
     },
@@ -7724,7 +7843,8 @@
           "original": "सुनु सेवक सुरतरु सुरधेनु। बिधि हरि हर बंदित पद रेनू।।\nसेवत सुलभ सकल सुख दायक। प्रनतपाल सचराचर नायक।।",
           "transliteration": "",
           "translation": "Listen, O Lord who is like the wish-fulfilling tree and divine cow for devotees, whose feet's dust is worshipped by Brahma, Vishnu, and Shiva. You are easy to serve, bestower of all happiness, protector of the humble, and lord of all animate and inanimate creation.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(मनु ने कहा) सुनो! सेवकों के लिए सुरतरु (कल्पवृक्ष), सुरधेनु (कामधेनु)। विधि (ब्रह्मा), हरि (विष्णु), हर (शिव) द्वारा वन्दित पद-रेणु (चरण-धूलि)। सेवन सुलभ, सकल सुख दायक। प्रणतपाल (शरणागतों के रक्षक), सचराचर (जड़-चेतन) के नायक।"
         },
         {
           "id": "bk-146-c2",
@@ -7732,7 +7852,8 @@
           "original": "जौं अनाथ हित हम पर नेहू। तौ प्रसन्न होइ यह बर देहू।।\nजो सरूप बस सिव मन माहीं। जेहि कारन मुनि जतन कराहीं।।",
           "transliteration": "",
           "translation": "If You have affection for us helpless ones, then be pleased and grant this boon: that form which dwells in Shiva's heart, for which sages strive with great effort—",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(मनु ने कहा) यदि अनाथों के हित हम पर स्नेह है — तो प्रसन्न होकर यह वर दो। जो स्वरूप शिव के मन में बसता — जिस कारण मुनि यत्न (प्रयास) करते।"
         },
         {
           "id": "bk-146-c3",
@@ -7740,7 +7861,8 @@
           "original": "जो भुसुंडि मन मानस हंसा। सगुन अगुन जेहि निगम प्रसंसा।।\nदेखहिं हम सो रूप भरि लोचन। कृपा करहु प्रनतारति मोचन।।",
           "transliteration": "",
           "translation": "That form which is the swan in the Manasa lake of Bhushundi's mind, which the Vedas praise as both with and without attributes— let us behold that form with our eyes filled. Be gracious, O reliever of the devotees' distress.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(मनु ने कहा) जो भुशुण्डि के मन-मानस (हृदय-सरोवर) में हंस (विराजते)। सगुण-अगुण — जिनकी निगम (वेद) प्रशंसा करते। वह रूप नेत्र भरकर देखें — कृपा करो, प्रणत (शरणागत) की आर्ति (पीड़ा) मोचन (दूर करने वाले)!"
         },
         {
           "id": "bk-146-c4",
@@ -7748,7 +7870,8 @@
           "original": "दंपति बचन परम प्रिय लागे। मुदुल बिनीत प्रेम रस पागे।।\nभगत बछल प्रभु कृपानिधाना। बिस्वबास प्रगटे भगवाना।।",
           "transliteration": "",
           "translation": "The couple's words were supremely pleasing — gentle, humble, and steeped in the essence of love. The Lord, who is fond of devotees and an ocean of compassion, manifested before them with full faith.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "दम्पति के वचन परम प्रिय लगे — मृदुल (कोमल), विनीत (विनम्र), प्रेम-रस में पगे। भक्तवत्सल प्रभु कृपानिधान — विश्वास से प्रकट हुए भगवान।"
         },
         {
           "id": "bk-146-d",
@@ -7756,7 +7879,8 @@
           "original": "नील सरोरुह नील मनि नील नीरधर स्याम।\nलाजहिं तन सोभा निरखि कोटि कोटि सत काम।।146।।",
           "transliteration": "",
           "translation": "Dark as the blue lotus, blue sapphire, and blue rain-cloud, millions upon millions of Kamadevas felt abashed beholding the beauty of His form.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "नील सरोरुह (नीलकमल), नील मणि, नील नीरधर (मेघ) — श्याम (साँवले)। उनकी तन-शोभा निरखकर (देखकर) करोड़ों-करोड़ों कामदेव लजाते।"
         }
       ]
     },
@@ -7769,7 +7893,8 @@
           "original": "सरद मयंक बदन छबि सींवा। चारु कपोल चिबुक दर ग्रीवा।।\nअधर अरुन रद सुंदर नासा। बिधु कर निकर बिनिंदक हासा।।",
           "transliteration": "",
           "translation": "His face was the very limit of the beauty of the autumn moon. Beautiful were His cheeks, chin, and graceful neck. His lips were red, teeth lovely, nose beautiful, and His smile put to shame the rays of the moon.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "शरद-मयंक (शरद-चन्द्रमा) — मुख-छवि की सीमा। सुन्दर कपोल (गाल), चिबुक (ठोड़ी), दर (सुन्दर) ग्रीवा (गर्दन)। अरुण (लाल) अधर (होंठ), सुन्दर दाँत, नासा (नाक)। विधु (चन्द्रमा) किरणों को लजाने वाली हँसी।"
         },
         {
           "id": "bk-147-c2",
@@ -7777,7 +7902,8 @@
           "original": "नव अबुंज अंबक छबि नीकी। चितवनि ललित भावँती जी की।।\nभुकुटि मनोज चाप छबि हारी। तिलक ललाट पटल दुतिकारी।।",
           "transliteration": "",
           "translation": "The beauty of His eyes was like fresh lotuses; His glance was charming and captivating to the heart. His eyebrows defeated the beauty of Kamadeva's bow; the tilak on His forehead enhanced its radiance.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "नव (नए) अम्बुज (कमल) — नेत्रों की छबि सुन्दर। चितवन (दृष्टि) ललित (मनोहर), जी को भाने वाली। भृकुटि (भौंहें) — मनोज (कामदेव) के चाप (धनुष) की छबि हारी। ललाट (माथे) पर तिलक — पटल (समूह) की दुतिकारी (शोभा बढ़ाने वाला)।"
         },
         {
           "id": "bk-147-c3",
@@ -7785,7 +7911,8 @@
           "original": "कुंडल मकर मुकुट सिर भ्राजा। कुटिल केस जनु मधुप समाजा।।\nउर श्रीबत्स रुचिर बनमाला। पदिक हार भूषन मनिजाला।।",
           "transliteration": "",
           "translation": "Makara-shaped earrings and a crown shone on His head; His curly locks were like a swarm of bees. On His chest was the Shrivatsa mark, a beautiful garland of forest flowers, a pearl necklace, and ornaments studded with gems.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "मकर-कुण्डल, मुकुट सिर पर भ्राजित (चमकते)। कुटिल (घुँघराले) केश — मानो मधुप (भौंरों) का समाज। उर (छाती) पर श्रीवत्स (चिह्न), रुचिर (सुन्दर) वनमाला। पद्मक (मोतियों) का हार, भूषण, मणि-जाल (रत्नों का समूह)।"
         },
         {
           "id": "bk-147-c4",
@@ -7793,7 +7920,8 @@
           "original": "केहरि कंधर चारु जनेउ। बाहु बिभूषन सुंदर तेऊ।।\nकरि कर सरि सुभग भुजदंडा। कटि निषंग कर सर कोदंडा।।",
           "transliteration": "",
           "translation": "His neck was like a lion's, adorned with a beautiful sacred thread; His arms too bore lovely ornaments. His mighty arms were like the trunk of an elephant; at His waist hung a quiver, and in His hands were arrows and a bow.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "केहरि (सिंह)-कन्धर (गर्दन), चारु (सुन्दर) जनेऊ (यज्ञोपवीत)। बाहु-विभूषण भी सुन्दर। करि-कर (हाथी की सूँड़) सरि (समान) सुभग भुजदण्ड। कटि (कमर) पर निषंग (तरकश), कर (हाथ) में सर (बाण) और कोदण्ड (धनुष)।"
         },
         {
           "id": "bk-147-d",
@@ -7801,7 +7929,8 @@
           "original": "तडित बिनिंदक पीत पट उदर रेख बर तीनि।।\nनाभि मनोहर लेति जनु जमुन भवँर छबि छीनि।।147।।",
           "transliteration": "",
           "translation": "His yellow garment put lightning to shame; on His belly were three beautiful lines. His beautiful navel seemed to steal the charm of a whirlpool in the Yamuna.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "तड़ित (बिजली) को लजाने वाला पीत (पीला) पट (वस्त्र)। उदर (पेट) पर तीन सुन्दर रेखाएँ। नाभि मनोहर — मानो यमुना के भँवर की छबि छीन लेती।"
         }
       ]
     },
@@ -7814,7 +7943,8 @@
           "original": "पद राजीव बरनि नहि जाहीं। मुनि मन मधुप बसहिं जेन्ह माहीं।।\nबाम भाग सोभति अनुकूला। आदिसक्ति छबिनिधि जगमूला।।",
           "transliteration": "",
           "translation": "His lotus feet cannot be described — in them dwell the bee-like minds of sages. On His left side shone His consort, the primordial power, treasure-house of beauty, and root of the universe.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "पद-राजीव (चरण-कमल) — वर्णन नहीं हो सकता — जिनमें मुनि-मन-रूपी मधुप (भौंरे) बसते। बाम (बायें) भाग में अनुकूला (प्रिया) शोभित — आदिशक्ति, छबिनिधि (सौन्दर्य-खान), जगमूल (जगत का मूल)।"
         },
         {
           "id": "bk-148-c2",
@@ -7822,7 +7952,8 @@
           "original": "जासु अंस उपजहिं गुनखानी। अगनित लच्छि उमा ब्रह्मानी।।\nभृकुटि बिलास जासु जग होई। राम बाम दिसि सीता सोई।।",
           "transliteration": "",
           "translation": "From a fraction of whom are born all virtuous Lakshmis, Umas, and Brahmanis — by the play of whose brow the world comes into being — that Sita stood at Rama's left side.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "जिनके अंश से गुणखानी (गुणों की खान) — अगणित लक्ष्मी, उमा, ब्रह्माणी उत्पन्न होतीं। जिनकी भृकुटि (भौंह)-विलास से जगत होता — वही सीता श्रीराम की बायीं ओर।"
         },
         {
           "id": "bk-148-c3",
@@ -7830,7 +7961,8 @@
           "original": "छबिसमुद्र हरि रूप बिलोकी। एकटक रहे नयन पट रोकी।।\nचितवहिं सादर रूप अनूपा। तृप्ति न मानहिं मनु सतरूपा।।",
           "transliteration": "",
           "translation": "Beholding the ocean-of-beauty form of Hari, they gazed with unblinking eyes. They gazed reverently at that incomparable form, yet Manu and Shatarupa could not feel satiated.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "छबि-समुद्र श्रीहरि का रूप देखकर — एकटक (निमिष-रहित) रहे, नयन-पट (पलकें) रोककर। सादर अनूप (अनुपम) रूप चितवते (निहारते) — तृप्ति नहीं मानते मनु-शतरूपा।"
         },
         {
           "id": "bk-148-c4",
@@ -7838,7 +7970,8 @@
           "original": "हरष बिबस तन दसा भुलानी। परे दंड इव गहि पद पानी।।\nसिर परसे प्रभु निज कर कंजा। तुरत उठाए करुनापुंजा।।",
           "transliteration": "",
           "translation": "Overwhelmed with joy, they forgot the state of their bodies and fell like sticks, clasping His feet with their hands. The Lord, that mass of compassion, touched their heads with His lotus hands and quickly raised them up.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "हर्ष-विवश — तन की दशा भूली। दण्ड (लकड़ी) की भाँति गिरे — पद (चरण) पकड़कर। प्रभु ने अपने कर-कंज (कमल-हाथ) से सिर स्पर्श किया — करुणापुंज (करुणा-राशि) ने तुरन्त उठाया।"
         },
         {
           "id": "bk-148-d",
@@ -7846,7 +7979,8 @@
           "original": "बोले कृपानिधान पुनि अति प्रसन्न मोहि जानि।\nमागहु बर जोइ भाव मन महादानि अनुमानि।।148।।",
           "transliteration": "",
           "translation": "The ocean of mercy spoke again: 'Know Me to be supremely pleased. Ask whatever boon your heart desires, regarding Me as the greatest of givers.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "कृपानिधान फिर बोले — (कहा) मुझे अति प्रसन्न जानो। जो मन में भाए — वर माँगो — महादानी (महान दाता) अनुमानकर (जानकर)।"
         }
       ]
     },
@@ -7859,7 +7993,8 @@
           "original": "सुनि प्रभु बचन जोरि जुग पानी। धरि धीरजु बोली मृदु बानी।।\nनाथ देखि पद कमल तुम्हारे। अब पूरे सब काम हमारे।।",
           "transliteration": "",
           "translation": "Hearing the Lord's words, joining both palms together and gathering courage, Manu spoke in gentle words: 'Lord, having seen Your lotus feet, all our desires are now fulfilled.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "प्रभु-वचन सुनकर दोनों हाथ जोड़कर — धीरज धरकर मृदु (कोमल) वाणी बोले। (मनु ने कहा) नाथ! आपके पद-कमल देखकर — अब सब काम (इच्छाएँ) हमारे पूरे हुए।"
         },
         {
           "id": "bk-149-c2",
@@ -7867,7 +8002,8 @@
           "original": "एक लालसा बड़ि उर माही। सुगम अगम कहि जात सो नाहीं।।\nतुम्हहि देत अति सुगम गोसाईं। अगम लाग मोहि निज कृपनाईं।।",
           "transliteration": "",
           "translation": "'Yet one great longing remains in my heart — one that is both easy and impossible to express. For You to give it is very easy, O Master, but my own meagreness makes it seem impossible.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(मनु ने कहा) एक बड़ी लालसा हृदय में है — सुगम (सरल) भी, अगम (कठिन) भी — कही नहीं जाती। आपको देना अत्यन्त सुगम, गोसाईं (स्वामी)! — पर मुझे अपनी कृपणता (दीनता) से अगम लगती।"
         },
         {
           "id": "bk-149-c3",
@@ -7875,7 +8011,8 @@
           "original": "जथा दरिद्र बिबुधतरु पाई। बहु संपति मागत सकुचाई।।\nतासु प्रभा जान नहिं सोई। तथा हृदयँ मम संसय होई।।",
           "transliteration": "",
           "translation": "'Just as a poor man who obtains the wish-fulfilling tree feels shy to ask for great wealth, not knowing its power — similarly, there is doubt in my heart.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(मनु ने कहा) जैसे दरिद्र (गरीब) कल्पवृक्ष पाकर — बहुत सम्पत्ति माँगते सकुचाता (संकोच करता)। उसकी प्रभा (शक्ति) वह नहीं जानता — वैसे ही हृदय में मेरा संशय।"
         },
         {
           "id": "bk-149-c4",
@@ -7883,7 +8020,8 @@
           "original": "सो तुम्ह जानहु अंतरजामी। पुरवहु मोर मनोरथ स्वामी।।\nसकुच बिहाइ मागु नृप मोहि। मोरें नहिं अदेय कछु तोही।।",
           "transliteration": "",
           "translation": "'You know it, O Indweller of all hearts! Fulfill my desire, O Lord!' The Lord replied: 'Set aside your hesitation and ask, O King — there is nothing that I cannot give you.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(मनु ने कहा) वह आप जानो, अन्तर्यामी! मेरा मनोरथ पूरो, स्वामी! (श्रीहरि ने कहा) संकोच छोड़कर माँगो, नृप! मेरे पास तुम्हें अदेय (न देने योग्य) कुछ नहीं।"
         },
         {
           "id": "bk-149-d",
@@ -7891,7 +8029,8 @@
           "original": "दानि सिरोमनि कृपानिधि नाथ कहउँ सतिभाउ।।\nचाहउँ तुम्हहि समान सुत प्रभु सन कवन दुराउ।।149।।",
           "transliteration": "",
           "translation": "'O crest-jewel of givers, O ocean of compassion, Lord, I speak my true feeling. I desire a son like You — what can one hide from the Lord?'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(मनु ने कहा) दानी-शिरोमणि, कृपानिधि, नाथ! सत्यभाव (सच्चा भाव) कहता हूँ। आप-समान पुत्र चाहता हूँ — प्रभु से कौन-सा छिपाव (रहस्य)?"
         }
       ]
     },
@@ -7904,7 +8043,8 @@
           "original": "देखि प्रीति सुनि बचन अमोले। एवमस्तु करुनानिधि बोले।।\nआपु सरिस खोजौं कहँ जाई। नृप तव तनय होब मैं आई।।",
           "transliteration": "",
           "translation": "Seeing their love and hearing their priceless words, the ocean of compassion said 'So be it.' 'Where shall I go searching for one equal to Myself? O King, I shall Myself come and be born as your son.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "प्रीति देखकर, अमोल (अमूल्य) वचन सुनकर — करुणानिधि बोले — 'एवमस्तु' (ऐसा ही हो)। (श्रीहरि ने कहा) अपने-सरिस (समान) कहाँ जाकर खोजूँ? नृप! तुम्हारा तनय (पुत्र) मैं आकर होऊँगा।"
         },
         {
           "id": "bk-150-c2",
@@ -7912,7 +8052,8 @@
           "original": "सतरूपहि बिलोकि कर जोरें। देबि मागु बरु जो रुचि तोरे।।\nजो बरु नाथ चतुर नृप मागा। सोइ कृपाल मोहि अति प्रिय लागा।।",
           "transliteration": "",
           "translation": "Looking at Shatarupa standing with folded hands, He said: 'O Queen, ask for whatever boon pleases you.' She replied: 'The boon that my wise husband asked for — that same one, O Merciful Lord, is supremely dear to me.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "शतरूपा को हाथ जोड़कर देखकर (श्रीहरि ने कहा) — देवि! जो रुचि हो, वर माँगो। (शतरूपा ने कहा) जो वर नाथ से चतुर नृप (मनु) ने माँगा — वही, कृपालु! मुझे अत्यन्त प्रिय लगा।"
         },
         {
           "id": "bk-150-c3",
@@ -7920,7 +8061,8 @@
           "original": "प्रभु परंतु सुठि होति ढिठाई। जदपि भगत हित तुम्हहि सोहाई।।\nतुम्ह ब्रह्मादि जनक जग स्वामी। ब्रह्म सकल उर अंतरजामी।।",
           "transliteration": "",
           "translation": "'But Lord, it is great boldness on my part to say more, even though such boldness pleases You for the sake of Your devotees. You are the father of Brahma and all, the Lord of the universe, the Supreme Spirit dwelling in every heart.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शतरूपा ने कहा) प्रभु! पर अत्यन्त ढिठाई (धृष्टता) होती — यद्यपि भक्त-हित आपको सोहाती (अच्छी लगती)। आप ब्रह्मा आदि के जनक, जग-स्वामी — ब्रह्म, सकल उर (हृदय) के अन्तर्यामी।"
         },
         {
           "id": "bk-150-c4",
@@ -7928,7 +8070,8 @@
           "original": "अस समुझत मन संसय होई। कहा जो प्रभु प्रवान पुनि सोई।।\nजे निज भगत नाथ तव अहहीं। जो सुख पावहिं जो गति लहहीं।।",
           "transliteration": "",
           "translation": "'Thinking thus, doubt arises in my mind. But whatever the Lord has promised, that shall come true. Those who are Your true devotees, Lord — whatever joy they obtain, whatever state they reach—'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शतरूपा ने कहा) ऐसा समझते मन में संशय होता — (पर) जो प्रभु ने कहा — वही प्रमाण। जो आपके निज-भक्त हैं, नाथ! — जो सुख पाते, जो गति (दशा) लहते —"
         },
         {
           "id": "bk-150-d",
@@ -7936,7 +8079,8 @@
           "original": "सोइ सुख सोइ गति सोइ भगति सोइ निज चरन सनेहु।।\nसोइ बिबेक सोइ रहनि प्रभु हमहि कृपा करि देहु।।150।।",
           "transliteration": "",
           "translation": "'That same joy, that same state, that same devotion, that same love for Your feet, that same wisdom, that same way of life — Lord, graciously grant all that to us.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(शतरूपा ने कहा) वही सुख, वही गति, वही भक्ति, वही निज-चरण-स्नेह। वही विवेक, वही रहनि (जीवन-शैली) — प्रभु! हमें कृपा करके दो।"
         }
       ]
     },
@@ -7949,7 +8093,8 @@
           "original": "सुनु मृदु गूढ़ रुचिर बर रचना। कृपासिंधु बोले मृदु बचना।।\nजो कछु रुचि तुम्हेर मन माहीं। मैं सो दीन्ह सब संसय नाहीं।।",
           "transliteration": "",
           "translation": "Hearing her gentle, profound, and beautiful prayer, the ocean of compassion spoke soft words: 'Whatever is in your heart's desire, I have given it all — have no doubt.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "मृदु (कोमल), गूढ़ (गहन), रुचिर (सुन्दर) वर-रचना (प्रार्थना) सुनकर — कृपासिन्धु मृदु वचन बोले। (श्रीहरि ने कहा) जो कुछ तुम्हारे मन में रुचि है — मैंने वह सब दिया, संशय नहीं।"
         },
         {
           "id": "bk-151-c2",
@@ -7957,7 +8102,8 @@
           "original": "मातु बिबेक अलोकिक तोरें। कबहुँ न मिटिहि अनुग्रह मोरें ।\nबंदि चरन मनु कहेउ बहोरी। अवर एक बिनति प्रभु मोरी।।",
           "transliteration": "",
           "translation": "'Mother, your extraordinary wisdom shall never fade by My grace.' Bowing at His feet, Manu spoke again: 'Lord, I have one more request.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(श्रीहरि ने कहा) माता! तुम्हारा अलौकिक विवेक — मेरे अनुग्रह (कृपा) से कभी नहीं मिटेगा। मनु ने चरण वन्दन करके फिर कहा — (कहा) प्रभु! और एक विनती मेरी।"
         },
         {
           "id": "bk-151-c3",
@@ -7965,7 +8111,8 @@
           "original": "सुत बिषइक तव पद रति होऊ। मोहि बड़ मूढ़ कहै किन कोऊ।।\nमनि बिनु फनि जिमि जल बिनु मीना। मम जीवन तिमि तुम्हहि अधीना।।",
           "transliteration": "",
           "translation": "'May I have devotion to Your feet even when I am blessed with sons — let anyone call me a great fool for it. Like a serpent without its gem, like a fish without water, my life is dependent on You.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(मनु ने कहा) पुत्र-विषयक (पुत्र मिलने पर भी) आपके पद में रति (प्रेम) हो — मुझे कोई बड़ा मूढ़ कहे (तो कहे)। मणि बिना फन (साँप) जैसे, जल बिना मीना (मछली) — वैसे मेरा जीवन आपके अधीन।"
         },
         {
           "id": "bk-151-c4",
@@ -7973,7 +8120,8 @@
           "original": "अस बरु मागि चरन गहि रहेऊ। एवमस्तु करुनानिधि कहेऊ।।\nअब तुम्ह मम अनुसासन मानी। बसहु जाइ सुरपति रजधानी।।",
           "transliteration": "",
           "translation": "Having asked this boon, he clung to the Lord's feet. The ocean of mercy said 'So be it.' 'Now, following My command, go and dwell in the capital of Indra.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "ऐसा वर माँगकर चरण पकड़कर रहे। करुणानिधि ने कहा — 'एवमस्तु' (ऐसा ही हो)। (श्रीहरि ने कहा) अब तुम मेरे अनुशासन (आज्ञा) मानकर — जाकर सुरपति (इन्द्र) की राजधानी (अमरावती) में बसो।"
         },
         {
           "id": "bk-151-d",
@@ -7981,7 +8129,8 @@
           "original": "तहँ करि भोग बिसाल तात गउँ कछु काल पुनि।\nहोइहहु अवध भुआल तब मैं होब तुम्हार सुत।।151।।",
           "transliteration": "",
           "translation": "'There, enjoying great pleasures for some time, dear one, you shall then become the king of Ayodhya, and I shall become your son.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(श्रीहरि ने कहा) वहाँ विशाल भोग करके, तात! कुछ काल बीतने पर — अवध (अयोध्या) के भूपाल (राजा) होगे — तब मैं तुम्हारा सुत (पुत्र) होऊँगा।"
         }
       ]
     },
@@ -7994,7 +8143,8 @@
           "original": "इच्छामय नरबेष सँवारें। होइहउँ प्रगट निकेत तुम्हारे।।\nअंसन्ह सहित देह धरि ताता। करिहउँ चरित भगत सुखदाता।।",
           "transliteration": "",
           "translation": "'Assuming a human form of My own will, I shall manifest in your home. Along with My partial incarnations, I shall take a body, dear one, and perform deeds that delight the devotees.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(श्रीहरि ने कहा) इच्छामय नर-वेष सँवारकर — तुम्हारे निकेत (घर) में प्रकट होऊँगा। अंशों सहित देह धारण करके, तात! भक्त-सुखदाता — चरित्र करूँगा।"
         },
         {
           "id": "bk-152-c2",
@@ -8002,7 +8152,8 @@
           "original": "जे सुनि सादर नर बड़भागी। भव तरिहहिं ममता मद त्यागी।।\nआदिसक्ति जेहिं जग उपजाया। सोउ अवतरिहि मोरि यह माया।।",
           "transliteration": "",
           "translation": "'Those fortunate people who hear these deeds with reverence shall cross the ocean of worldly existence, abandoning attachment and pride. The primordial power who created the universe — she too, My Maya, shall incarnate.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(श्रीहरि ने कहा) जो सुनकर सादर — नर बड़भागी (भाग्यशाली) — भव (संसार) तरेंगे, ममता-मद त्यागकर। आदिशक्ति जिसने जग उपजाया — वह भी अवतरेगी — मेरी यह माया।"
         },
         {
           "id": "bk-152-c3",
@@ -8010,7 +8161,8 @@
           "original": "पुरउब मैं अभिलाष तुम्हारा। सत्य सत्य पन सत्य हमारा।।\nपुनि पुनि अस कहि कृपानिधाना। अंतरधान भए भगवाना।।",
           "transliteration": "",
           "translation": "'I shall fulfill your desire — this is My true, true, and again true vow.' Saying this again and again, the ocean of mercy, the Lord, disappeared.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(श्रीहरि ने कहा) पूरूँगा मैं तुम्हारी अभिलाषा — सत्य, सत्य — मेरा प्रण (वचन) सत्य। बार-बार ऐसा कहकर कृपानिधान — अन्तर्धान हुए भगवान।"
         },
         {
           "id": "bk-152-c4",
@@ -8018,7 +8170,8 @@
           "original": "दंपति उर धरि भगत कृपाला। तेहिं आश्रम निवसे कछु काला।।\nसमय पाइ तनु तजि अनयासा। जाइ कीन्ह अमरावति बासा।।",
           "transliteration": "",
           "translation": "The couple enshrined the gracious Lord in their hearts and lived in that hermitage for some time. When the right time came, they effortlessly gave up their bodies and went to dwell in Amaravati, Indra's city.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "दम्पति ने हृदय में भक्त-कृपालु (श्रीहरि) को धारण किया — उस आश्रम में कुछ काल बसे। समय पाकर शरीर अनायास (सहज ही) त्यागा — जाकर अमरावती में निवास किया।"
         },
         {
           "id": "bk-152-d",
@@ -8026,7 +8179,8 @@
           "original": "यह इतिहास पुनीत अति उमहि कही बृषकेतु।\nभरद्वाज सुनु अपर पुनि राम जनम कर हेतु।।152।।",
           "transliteration": "",
           "translation": "This most sacred story Shiva told to Uma. Now listen, Bharadvaja, to yet another cause of Rama's birth.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "यह इतिहास अत्यन्त पुनीत (पवित्र) — उमा को वृषकेतु (शिवजी) ने कही। भरद्वाज! सुनो — अपर (और एक) राम-जन्म का कारण।"
         }
       ]
     },
@@ -8039,7 +8193,8 @@
           "original": "सुनु मुनि कथा पुनीत पुरानी। जो गिरिजा प्रति संभु बखानी।।\nबिस्व बिदित एक कैकय देसू। सत्यकेतु तहँ बसइ नरेसू।।",
           "transliteration": "",
           "translation": "Listen, O sage, to this ancient and sacred tale that Shambhu narrated to Girija. There is a well-known country called Kaikaya, where dwelt a king named Satyaketu.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(शिवजी ने कहा) सुनो मुनि! पुनीत (पवित्र), पुरानी (प्राचीन) कथा — जो गिरिजा (पार्वती) से शम्भु (शिव) ने बखानी। विश्व-विदित (संसार-प्रसिद्ध) एक कैकय देश — सत्यकेतु नरेश (राजा) वहाँ बसते।"
         },
         {
           "id": "bk-153-c2",
@@ -8047,7 +8202,8 @@
           "original": "धरम धुरंधर नीति निधाना। तेज प्रताप सील बलवाना।।\nतेहि कें भए जुगल सुत बीरा। सब गुन धाम महा रनधीरा।।",
           "transliteration": "",
           "translation": "He was a champion of righteousness, a treasure of wisdom, mighty in valor, glory, virtue, and strength. He had two heroic sons, repositories of all virtues and supremely brave in battle.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "धर्म-धुरन्धर (धर्म के स्तम्भ), नीति-निधान (नीति के भण्डार)। तेज, प्रताप, शील (सदाचार), बलवान। उनके दो वीर पुत्र हुए — सब गुणों के धाम, महा रणधीर (युद्ध में अत्यन्त वीर)।"
         },
         {
           "id": "bk-153-c3",
@@ -8055,7 +8211,8 @@
           "original": "राज धनी जो जेठ सुत आही। नाम प्रतापभानु अस ताही।।\nअपर सुतहि अरिमर्दन नामा। भुजबल अतुल अचल संग्रामा।।",
           "transliteration": "",
           "translation": "The elder son was heir to the throne — his name was Pratapabhanu. The younger son was named Arimardana — of incomparable strength and immovable in war.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "राज-धनी (राज्य के स्वामी) — जो ज्येष्ठ (बड़े) पुत्र — उनका नाम प्रतापभानु। अपर (दूसरे) पुत्र का नाम अरिमर्दन — भुजबल अतुल (अतुलनीय), संग्राम (युद्ध) में अचल (अडिग)।"
         },
         {
           "id": "bk-153-c4",
@@ -8063,7 +8220,8 @@
           "original": "भाइहि भाइहि परम समीती। सकल दोष छल बरजित प्रीती।।\nजेठे सुतहि राज नृप दीन्हा। हरि हित आपु गवन बन कीन्हा।।",
           "transliteration": "",
           "translation": "The two brothers had supreme affection for each other — a love free from all faults and deceit. The king gave the kingdom to his elder son and himself retired to the forest for the sake of Hari.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "भाई-भाई में परम समीति (प्रेम) — सकल दोष-छल-वर्जित प्रीति। ज्येष्ठ पुत्र को नृप (राजा) ने राज दिया — हरि-हित आपु (स्वयं) वन को गमन किया।"
         },
         {
           "id": "bk-153-d",
@@ -8071,7 +8229,8 @@
           "original": "जब प्रतापरबि भयउ नृप फिरी दोहाई देस।\nप्रजा पाल अति बेदबिधि कतहुँ नहीं अघ लेस।।153।।",
           "transliteration": "",
           "translation": "When Pratapabhanu became king, his fame spread throughout the land. He ruled his subjects strictly according to the Vedas, and there was not a trace of sin anywhere.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "जब प्रतापरवि (प्रतापभानु) नृप (राजा) हुए — देश में दोहाई (आज्ञा) फिरी। प्रजापाल — अत्यन्त वेद-विधि (अनुसार शासन) — कहीं अघ (पाप) का लेश (अंश) नहीं।"
         }
       ]
     },
@@ -8084,7 +8243,8 @@
           "original": "नृप हितकारक सचिव सयाना। नाम धरमरुचि सुक्र समाना।।\nसचिव सयान बंधु बलबीरा। आपु प्रतापपुंज रनधीरा।।",
           "transliteration": "",
           "translation": "The king had a wise minister who served his interests, named Dharmaruchi, equal to Shukra. With a clever minister, a brave brother, and himself being a mighty warrior in battle—",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "नृप (राजा) का हितकारक सयाना (बुद्धिमान) सचिव (मन्त्री) — नाम धर्मरुचि, शुक्र (शुक्राचार्य) समान। सचिव सयान (चतुर), बन्धु (भाई) बलवीर — आपु (स्वयं राजा) प्रतापपुंज (प्रताप-राशि), रणधीर (युद्ध में वीर)।"
         },
         {
           "id": "bk-154-c2",
@@ -8092,7 +8252,8 @@
           "original": "सेन संग चतुरंग अपारा। अमित सुभट सब समर जुझारा।।\nसेन बिलोकि राउ हरषाना। अरु बाजे गहगहे निसाना।।",
           "transliteration": "",
           "translation": "His army was vast, with all four divisions beyond measure — countless warriors, all fierce in combat. Seeing the army, the king was delighted, and war drums resounded mightily.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "सेना — चतुरंग (चार अंगों वाली) अपार। अमित (अगणित) सुभट (योद्धा), सब समर (युद्ध) में जूझने वाले। सेना देखकर राजा हर्षित — और गहगहे (गम्भीर) निशान (युद्ध-ढोल) बजे।"
         },
         {
           "id": "bk-154-c3",
@@ -8100,7 +8261,8 @@
           "original": "बिजय हेतु कटकई बनाई। सुदिन साधि नृप चलेउ बजाई।।\nजँह तहँ परीं अनेक लराईं। जीते सकल भूप बरिआई।।",
           "transliteration": "",
           "translation": "Having assembled his army for conquest, the king set out on an auspicious day with drums beating. Wherever they went, many battles were fought, and he defeated all kings by force.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "विजय हेतु कटकई (सेना) बनाई — सुदिन (शुभ दिन) साधकर नृप बाजे बजाते चले। जहाँ-तहाँ अनेक लड़ाइयाँ पड़ीं — सब राजाओं को बरिआई (बलपूर्वक) जीता।"
         },
         {
           "id": "bk-154-c4",
@@ -8108,7 +8270,8 @@
           "original": "सप्त दीप भुजबल बस कीन्हे। लै लै दंड छाड़ि नृप दीन्हें।।\nसकल अवनि मंडल तेहि काला। एक प्रतापभानु महिपाला।।",
           "transliteration": "",
           "translation": "He conquered the seven continents by the strength of his arms; exacting tribute, he released the kings. In that entire age, on all the earth, Pratapabhanu alone was the sovereign.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "सप्त द्वीप भुजबल से वश किए — दण्ड (कर) लेकर राजाओं को छोड़ दिया। सकल अवनि (पृथ्वी) मण्डल में उस काल — एक प्रतापभानु ही महीपाल (राजा)।"
         },
         {
           "id": "bk-154-d",
@@ -8116,7 +8279,8 @@
           "original": "स्वबस बिस्व करि बाहुबल निज पुर कीन्ह प्रबेसु।\nअरथ धरम कामादि सुख सेवइ समयँ नरेसु।।154।।",
           "transliteration": "",
           "translation": "Having brought the whole world under his control by the strength of his arms, he returned to his own city. The king enjoyed the pleasures of wealth, duty, and desire, each in its proper time.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "बाहुबल से विश्व स्वबस (अधीन) करके निज पुर (नगर) में प्रवेश किया। अर्थ, धर्म, काम आदि सुख — समय-समय पर नरेश (राजा) सेवन करते।"
         }
       ]
     },
@@ -8129,7 +8293,8 @@
           "original": "भूप प्रतापभानु बल पाई। कामधेनु भै भूमि सुहाई।।\nसब दुख बरजित प्रजा सुखारी। धरमसील सुंदर नर नारी।।",
           "transliteration": "",
           "translation": "Empowered by King Pratapabhanu, the earth became like the wish-fulfilling cow. The people were free from all sorrow and happy; men and women were virtuous and beautiful.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "प्रतापभानु के बल पाकर भूमि — सुहावनी कामधेनु हुई। सब दुख-वर्जित प्रजा सुखी — धर्मशील, सुन्दर नर-नारी।"
         },
         {
           "id": "bk-155-c2",
@@ -8137,7 +8302,8 @@
           "original": "सचिव धरमरुचि हरि पद प्रीती। नृप हित हेतु सिखव नित नीती।।\nगुर सुर संत पितर महिदेवा। करइ सदा नृप सब कै सेवा।।",
           "transliteration": "",
           "translation": "Minister Dharmaruchi had devotion to Lord Hari's feet and would always teach the king wise counsel for his benefit. The king constantly served his guru, the gods, saints, ancestors, and brahmins.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "सचिव धर्मरुचि — हरि-पद (चरणों) में प्रीति (प्रेम) — नृप (राजा) के हित नित नीति सिखाते। गुरु, देवता, सन्त, पितर (पूर्वज), महीदेवा (ब्राह्मण) — सबकी सेवा नृप सदा करते।"
         },
         {
           "id": "bk-155-c3",
@@ -8145,7 +8311,8 @@
           "original": "भूप धरम जे बेद बखाने। सकल करइ सादर सुख माने।।\nदिन प्रति देह बिबिध बिधि दाना। सुनहु सास्त्र बर बेद पुराना।।",
           "transliteration": "",
           "translation": "Whatever duties of a king the Vedas prescribe, the king performed them all respectfully and joyfully. Daily he gave various kinds of charity; he listened to the scriptures, Vedas, and Puranas.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "भूप-धर्म (राजधर्म) जो वेद ने बखाने — सब सादर, सुख मानकर करते। प्रतिदिन विविध प्रकार के दान देते — सुनते शास्त्र, वर (श्रेष्ठ) वेद-पुराण।"
         },
         {
           "id": "bk-155-c4",
@@ -8153,7 +8320,8 @@
           "original": "नाना बापीं कूप तड़ागा। सुमन बाटिका सुंदर बागा।।\nबिप्रभवन सुरभवन सुहाए। सब तीरथन्ह बिचित्र बनाए।।",
           "transliteration": "",
           "translation": "He built numerous wells, step-wells, tanks, flower gardens, and beautiful orchards. He constructed beautiful homes for brahmins and temples for the gods at all holy places.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "नाना बावड़ी, कूप (कुएँ), तड़ाग (तालाब)। सुमन (पुष्प) वाटिका, सुन्दर बाग। विप्र-भवन (ब्राह्मणों के घर), सुर-भवन (मन्दिर) सुहावने — सब तीर्थों में विचित्र (सुन्दर) बनाए।"
         },
         {
           "id": "bk-155-d",
@@ -8161,7 +8329,8 @@
           "original": "जँह लगि कहे पुरान श्रुति एक एक सब जाग।\nबार सहस्त्र सहस्त्र नृप किए सहित अनुराग।।155।।",
           "transliteration": "",
           "translation": "Every sacrifice that the Puranas and Vedas mention, the king performed each one thousands upon thousands of times with great devotion.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "जहाँ तक पुराण-श्रुति (वेद) ने कहे — एक-एक सब यज्ञ। हजारों-हजारों बार नृप ने अनुराग (प्रेम) सहित किए।"
         }
       ]
     },
@@ -8174,7 +8343,8 @@
           "original": "हृदयँ न कछु फल अनुसंधाना। भूप बिबेकी परम सुजाना।।\nकरइ जे धरम करम मन बानी। बासुदेव अर्पित नृप ग्यानी।।",
           "transliteration": "",
           "translation": "In his heart there was no desire for any reward — the king was supremely wise and discerning. Whatever righteous deeds he performed in mind, word, and deed, the enlightened king offered them all to Lord Vasudeva.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "हृदय में फल का अनुसन्धान (इच्छा) कुछ नहीं — भूप विवेकी, परम सुजान (बुद्धिमान)। जो धर्म-कर्म मन-वाणी से करते — ज्ञानी नृप वासुदेव (श्रीहरि) को अर्पित करते।"
         },
         {
           "id": "bk-156-c2",
@@ -8182,7 +8352,8 @@
           "original": "चढ़ि बर बाजि बार एक राजा। मृगया कर सब साजि समाजा।।\nबिंध्याचल गभीर बन गयऊ। मृग पुनीत बहु मारत भयऊ।।",
           "transliteration": "",
           "translation": "Once, mounting a fine horse, the king set out with full hunting equipment for the chase. He entered the deep forests of the Vindhya mountains, and slew many sanctified deer.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "एक बार उत्तम अश्व पर चढ़कर राजा — मृगया (शिकार) का सब साज-समाज सजाकर। विन्ध्याचल के गभीर (घने) वन में गए — बहुत पुनीत (श्रेष्ठ) मृग (हिरण) मारने लगे।"
         },
         {
           "id": "bk-156-c3",
@@ -8190,7 +8361,8 @@
           "original": "फिरत बिपिन नृप दीख बराहू। जनु बन दुरेउ ससिहि ग्रसि राहू।।\nबड़ बिधु नहि समात मुख माहीं। मनहुँ क्रोधबस उगिलत नाहीं।।",
           "transliteration": "",
           "translation": "While roaming the forest, the king spotted a wild boar — as if Rahu had hidden in the woods after swallowing the moon. The great moon would not fit in its mouth, as though it was spitting it out in rage.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "वन में फिरते नृप ने बराह (सूअर) देखा — मानो शशि (चन्द्रमा) को ग्रसकर (निगलकर) राहु वन में छिपा। बड़ा विधु (चन्द्रमा) मुख में नहीं समाता — मानो क्रोधवश उगलता नहीं।"
         },
         {
           "id": "bk-156-c4",
@@ -8198,7 +8370,8 @@
           "original": "कोल कराल दसन छबि गाई। तनु बिसाल पीवर अधिकाई।।\nघुरुघुरात हय आरौ पाएँ। चकित बिलोकत कान उठाएँ।।",
           "transliteration": "",
           "translation": "Its terrible tusks shone gloriously; its body was huge and exceedingly fat. It snorted as it came near the horse, which stood startled, ears pricked up.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "कोल (दाढ़ — सूअर के दाँत) कराल (भयंकर), दसन (दाँत) की छबि (शोभा) गाई। तनु (शरीर) विशाल, पीवर (मोटा) अधिकाई (बहुत)। घुरघुराता — घोड़े के निकट आया। चकित (विस्मित) कान उठाकर (घोड़ा) देखता।"
         },
         {
           "id": "bk-156-d",
@@ -8206,7 +8379,8 @@
           "original": "नील महीधर सिखर सम देखि बिसाल बराहु।\nचपरि चलेउ हय सुटुकि नृप हाँकि न होइ निबाहु।।156।।",
           "transliteration": "",
           "translation": "Seeing the massive boar, like the peak of a dark mountain, the king spurred his horse and galloped after it — for he could not let it escape.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "नील महीधर (पर्वत) शिखर समान — विशाल बराह (सूअर) देखकर। चपरि (एड़ लगाकर) घोड़ा सुटुककर (दौड़ाकर) नृप चला — हाँकि (बिना मारे) निबाह (गुजारा) नहीं होता।"
         }
       ]
     },
@@ -8219,7 +8393,8 @@
           "original": "आवत देखि अधिक रव बाजी। चलेउ बराह मरुत गति भाजी।।\nतुरत कीन्ह नृप सर संधाना। महि मिलि गयउ बिलोकत बाना।।",
           "transliteration": "",
           "translation": "Seeing the horse approaching with great noise, the boar fled swift as the wind. The king immediately drew his bow, but as he watched, the arrow fell to the ground without hitting.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "घोड़े का अधिक रव (शब्द) आता देखकर — बराह मरुत (वायु) गति से भागा। तुरन्त नृप ने सर (बाण) सन्धान (संधान) किया — बाण देखते-देखते भूमि में मिल गया (चूक गया)।"
         },
         {
           "id": "bk-157-c2",
@@ -8227,7 +8402,8 @@
           "original": "तकि तकि तीर महीस चलावा। करि छल सुअर सरीर बचावा।।\nप्रगटत दुरत जाइ मृग भागा। रिस बस भूप चलेउ संग लागा।।",
           "transliteration": "",
           "translation": "The king aimed and shot arrow after arrow, but the boar craftily dodged them all. The deer kept appearing and disappearing as it fled; in anger, the king followed relentlessly.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "तक-तककर (निशाना लगाकर) महीश (राजा) ने तीर चलाए — छल करके सूअर ने शरीर बचाया। प्रकट होता, छिपता — मृग भागता जाता। रिस (क्रोध) वश भूप (राजा) साथ लगा चला।"
         },
         {
           "id": "bk-157-c3",
@@ -8235,7 +8411,8 @@
           "original": "गयउ दूरि घन गहन बराहू। जहँ नाहिन गज बाजि निबाहू।।\nअति अकेल बन बिपुल कलेसू। तदपि न मृग मग तजइ नरेसू।।",
           "transliteration": "",
           "translation": "The boar went far into the dense, dark forest where neither elephant nor horse could follow. Utterly alone, the king suffered great distress in the forest, yet he would not abandon the chase.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "बराह दूर — घन (घना) गहन (गहरा) वन में गया — जहाँ गज (हाथी), बाजि (घोड़े) का निबाह (गुजारा) नहीं। अत्यन्त अकेले, वन में विपुल क्लेश (कष्ट) — तदपि नरेश (राजा) मृग (का) मग (पीछा) नहीं छोड़ते।"
         },
         {
           "id": "bk-157-c4",
@@ -8243,7 +8420,8 @@
           "original": "कोल बिलोकि भूप बड़ धीरा। भागि पैठ गिरिगुहाँ गभीरा।।\nअगम देखि नृप अति पछिताई। फिरेउ महाबन परेउ भुलाई।।",
           "transliteration": "",
           "translation": "Seeing the brave king's resolve, the boar fled and hid in a deep mountain cave. Finding the cave inaccessible, the king deeply regretted, and turning back, he lost his way in the great forest.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "कोल (सूअर) ने भूप (राजा) को बड़ा धीर (दृढ़) देखकर — भागकर गिरिगुहा (पर्वत-गुफा) में गहन (गहरी) पैठ गया। अगम (दुर्गम) देखकर नृप अत्यन्त पछताए — फिरे (लौटे) — महावन में भुलाई (भटक) पड़े।"
         },
         {
           "id": "bk-157-d",
@@ -8251,7 +8429,8 @@
           "original": "खेद खिन्न छुद्धित तृषित राजा बाजि समेत।\nखोजत ब्याकुल सरित सर जल बिनु भयउ अचेत।।157।।",
           "transliteration": "",
           "translation": "Weary, dejected, hungry, and thirsty, the king along with his horse searched desperately for a river or lake, and fainted from lack of water.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "खेद, खिन्न (दुखी), क्षुधित (भूखे), तृषित (प्यासे) — राजा बाजि (घोड़ा) समेत। व्याकुल होकर सरित (नदी), सर (तालाब) खोजते — जल बिना अचेत (बेहोश) हुए।"
         }
       ]
     },
@@ -8264,7 +8443,8 @@
           "original": "फिरत बिपिन आश्रम एक देखा। तहँ बस नृपति कपट मुनिबेषा।।\nजासु देस नृप लीन्ह छड़ाई। समर सेन तजि गयउ पराई।।",
           "transliteration": "",
           "translation": "Wandering in the forest, he saw a hermitage where a king dwelt disguised as a sage. This was the king whose country Pratapabhanu had seized, whose army had fled in battle.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "वन में फिरते एक आश्रम देखा — वहाँ कपट-मुनिवेष (झूठे साधु-वेश) में एक नृपति (राजा) बसता। जिसका देश नृप (प्रतापभानु) ने छीन लिया था — समर (युद्ध) में सेना छोड़कर भाग गया था।"
         },
         {
           "id": "bk-158-c2",
@@ -8272,7 +8452,8 @@
           "original": "समय प्रतापभानु कर जानी। आपन अति असमय अनुमानी।।\nगयउ न गृह मन बहुत गलानी। मिला न राजहि नृप अभिमानी।।",
           "transliteration": "",
           "translation": "He recognized it was Pratapabhanu's time of fortune and deemed it his own time of misfortune. Full of shame, he had not returned home, and being too proud, he had not sought the king's pardon.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "प्रतापभानु का समय (सौभाग्य) जानकर — अपना अत्यन्त असमय (दुर्भाग्य) अनुमानकर। गृह (घर) नहीं गया — मन में बहुत ग्लानि (लज्जा)। अभिमानी नृप — राजा से मिला नहीं।"
         },
         {
           "id": "bk-158-c3",
@@ -8280,7 +8461,8 @@
           "original": "रिस उर मारि रंक जिमि राजा। बिपिन बसइ तापस कें साजा।।\nतासु समीप गवन नृप कीन्हा। यह प्रतापरबि तेहि तब चीन्हा।।",
           "transliteration": "",
           "translation": "Suppressing his rage like a pauper, the king lived in the forest in the guise of an ascetic. When the king approached him, the false ascetic recognized Pratapabhanu at once.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "हृदय में रिस (क्रोध) मारकर (दबाकर) — रंक (दरिद्र) की तरह राजा — विपिन (वन) में तापस (तपस्वी) के साज (वेश) में बसता। उसके समीप नृप (प्रतापभानु) ने गमन किया — प्रतापरवि को उसने तब पहचाना।"
         },
         {
           "id": "bk-158-c4",
@@ -8288,7 +8470,8 @@
           "original": "राउ तृषित नहि सो पहिचाना। देखि सुबेष महामुनि जाना।।\nउतरि तुरग तें कीन्ह प्रनामा। परम चतुर न कहेउ निज नामा।।",
           "transliteration": "",
           "translation": "But the thirsty king did not recognize him. Seeing his fine ascetic garb, he took him for a great sage. Dismounting, he bowed in reverence — shrewd as he was, he did not reveal his own name.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "राजा प्यासा — उसने (कपट-तापस को) नहीं पहचाना। सुन्दर वेष देखकर महामुनि जाना। तुरग (घोड़े) से उतरकर प्रणाम किया — परम चतुर (होने से) अपना नाम नहीं कहा।"
         },
         {
           "id": "bk-158-d",
@@ -8296,7 +8479,8 @@
           "original": "भूपति तृषित बिलोकि तेहिं सरबरु दीन्ह देखाइ।\nमज्जन पान समेत हय कीन्ह नृपति हरषाइ।।158।।",
           "transliteration": "",
           "translation": "Seeing the king was thirsty, the false sage showed him a lake. The king joyfully bathed and drank along with his horse.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "भूपति (राजा) को तृषित (प्यासा) देखकर उसने सरबर (तालाब) दिखा दिया। मज्जन (स्नान) और पान (पानी पीना) — अश्व समेत — नृपति ने हर्षित होकर किया।"
         }
       ]
     },
@@ -8309,7 +8493,8 @@
           "original": "गै श्रम सकल सुखी नृप भयऊ। निज आश्रम तापस लै गयऊ।।\nआसन दीन्ह अस्त रबि जानी। पुनि तापस बोलेउ मृदु बानी।।",
           "transliteration": "",
           "translation": "All fatigue left him, and the king felt refreshed. The ascetic took him to his hermitage. Seeing the sun about to set, he offered him a seat, and then the ascetic spoke in gentle words.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "सब श्रम गई — नृप सुखी हुआ। तापस अपने आश्रम ले गया। रवि (सूर्य) अस्त जानकर आसन दिया — फिर तापस मृदु (कोमल) वाणी बोला।"
         },
         {
           "id": "bk-159-c2",
@@ -8317,7 +8502,8 @@
           "original": "को तुम्ह कस बन फिरहु अकेलें। सुंदर जुबा जीव परहेलें।।\nचक्रबर्ति के लच्छन तोरें। देखत दया लागि अति मोरें।।",
           "transliteration": "",
           "translation": "'Who are you, and why do you wander alone in the forest — young and handsome, risking your life? You bear the marks of an emperor; seeing you, I feel great compassion.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(तापस ने पूछा) तुम कौन हो? वन में अकेले क्यों फिरते हो? सुन्दर, युवा — जीव परहेले (खतरे में डालकर)। चक्रवर्ती के लक्षण तुम्हारे — देखते मुझे अत्यन्त दया लगती।"
         },
         {
           "id": "bk-159-c3",
@@ -8325,7 +8511,8 @@
           "original": "नाम प्रतापभानु अवनीसा। तासु सचिव मैं सुनहु मुनीसा।।\nफिरत अहेरें परेउँ भुलाई। बडे भाग देखउँ पद आई।।",
           "transliteration": "",
           "translation": "The king replied: 'I am a minister of King Pratapabhanu. Listen, O great sage: I lost my way while hunting and by great fortune I have come to your feet.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(नृप ने कहा) प्रतापभानु अवनीश (पृथ्वी के स्वामी) — नाम। उनका सचिव (मन्त्री) मैं — सुनो, मुनीश (मुनियों के स्वामी)! अहेर (शिकार) में फिरते भुलाई (भटक) पड़ा — बड़े भाग्य से आपके पद (चरणों) में आकर देखता हूँ।"
         },
         {
           "id": "bk-159-c4",
@@ -8333,7 +8520,8 @@
           "original": "हम कहँ दुर्लभ दरस तुम्हारा। जानत हौं कछु भल होनिहारा।।\nकह मुनि तात भयउ अँधियारा। जोजन सत्तरि नगरु तुम्हारा।।",
           "transliteration": "",
           "translation": "'Your sight is rare for the likes of me — I feel something good is about to happen.' The sage replied: 'Son, it has grown dark; your city is seventy yojanas away.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(नृप ने कहा) हमें आपका दर्शन दुर्लभ — जानता हूँ कुछ भला होने वाला है। मुनि ने कहा — तात! अँधियारा (अँधेरा) हो गया। तुम्हारा नगर सत्तर योजन (दूर) है।"
         },
         {
           "id": "bk-159-d",
@@ -8341,7 +8529,8 @@
           "original": "निसा घोर गम्भीर बन पंथ न सुनहु सुजान।\nबसहु आजु अस जानि तुम्ह जाएहु होत बिहान।।159(क)।।\nतुलसी जसि भवतब्यता तैसी मिलइ सहाइ।\nआपुनु आवइ ताहि पहिं ताहि तहाँ लै जाइ।।159(ख)।।",
           "transliteration": "",
           "translation": "'The night is dark, the forest deep, and there is no path — listen, wise one. Stay here tonight; you may leave at dawn.' Tulsidas says: as destiny decrees, so comes the helper — fate itself brings a person to the right place and takes them there.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(तापस ने कहा) रात्रि घोर (अँधेरी), गम्भीर वन, पथ (रास्ता) नहीं — सुनो, सुजान (बुद्धिमान)! आज यहीं रहो — ऐसा जानकर। बिहान (सवेरा) होते जाना। (तुलसीदास कहते हैं) जैसी भवतव्यता (भाग्य-लिपि) — वैसी सहायता मिलती। आप ही उसके पास आता — उसे वहाँ ले जाता।"
         }
       ]
     },
@@ -8354,7 +8543,8 @@
           "original": "भलेहिं नाथ आयसु धरि सीसा। बाँधि तुरग तरु बैठ महीसा।।\nनृप बहु भाँती प्रसंसेउ ताही। चरन बंदी निज भाग्य सराही।।",
           "transliteration": "",
           "translation": "'Very well, my lord,' said the king, placing the command on his head. He tied his horse to a tree and sat down. He praised the sage in many ways, bowed at his feet, and counted his own fortune blessed.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(नृप ने कहा) भलेहीं, नाथ! आयसु (आज्ञा) सिर पर धरकर। वृक्ष से तुरग (घोड़ा) बाँधकर महीश (राजा) बैठा। नृप ने बहुत भाँति उसकी प्रशंसा की — चरण वन्दना करके निज भाग्य सराहा।"
         },
         {
           "id": "bk-160-c2",
@@ -8362,7 +8552,8 @@
           "original": "पुनि बोले मृदु गिरा सुहाई। जानि पिता प्रभु करउँ ढिठाई।।\nमोहि मुनीस सुत सेवक जानी। नाथ नाम निज कहहु बखानी।।",
           "transliteration": "",
           "translation": "Then he spoke again in gentle, pleasant words: 'Knowing you to be like a father, Lord, I make bold. Considering me your son and servant, please tell me your revered name.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "फिर मृदु (कोमल) सुहावनी गिरा (वाणी) बोली — (कहा) पिता-प्रभु जानकर ढिठाई (धृष्टता) करता हूँ। मुझे मुनीश (मुनियों के ईश)! पुत्र-सेवक जानकर — नाथ! अपना नाम बखानकर कहो।"
         },
         {
           "id": "bk-160-c3",
@@ -8370,7 +8561,8 @@
           "original": "तेहि न जान नृप नृपहि सो जाना। भूप सुह्रद सो कपट सयाना।।\nबैरी पुनि छत्री पुनि राजा। छल बल कीन्ह चहइ निज काजा।।",
           "transliteration": "",
           "translation": "The king did not know the ascetic, but the ascetic knew the king. The king was guileless, but the other was cunning. He was an enemy, moreover a Kshatriya, moreover a king — by deceit and force he wished to accomplish his purpose.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "उसने (कपट-तापस ने) नृप को नहीं जाना — नृप ने उसे (पहचान लिया)। भूप सुहृद (सरल-हृदय) — वह कपट-सयाना (छल में चतुर)। बैरी (शत्रु), फिर क्षत्रिय, फिर राजा — छल-बल से अपना काज (काम) करना चाहता।"
         },
         {
           "id": "bk-160-c4",
@@ -8378,7 +8570,8 @@
           "original": "समुझि राजसुख दुखित अराती। अवाँ अनल इव सुलगइ छाती।।\nसरल बचन नृप के सुनि काना। बयर सँभारि हृदयँ हरषाना।।",
           "transliteration": "",
           "translation": "Brooding over his lost royal pleasures, the enemy's breast burned like a furnace of fire. Hearing the king's guileless words, he recalled his enmity and felt delighted within.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "राजसुख समझकर (याद करके) दुखी अराती (शत्रु) — अवाँ (भट्ठे) की अग्नि जैसे छाती सुलगती। नृप के सरल वचन कान से सुनकर — वैर (शत्रुता) सम्भारकर (याद करके) हृदय में हर्षित हुआ।"
         },
         {
           "id": "bk-160-d",
@@ -8386,7 +8579,8 @@
           "original": "कपट बोरि बानी मृदुल बोलेउ जुगुति समेत।\nनाम हमार भिखारि अब निर्धन रहित निकेति।।160।।",
           "transliteration": "",
           "translation": "Steeping his words in deceit, he spoke gently and with cunning: 'My name is Bhikhari (beggar) — I am now a penniless, homeless wanderer.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "कपट में बोरकर (डुबोकर) मृदुल (कोमल) वाणी — युक्ति (चतुराई) समेत बोला। (कहा) नाम हमारा 'भिखारी' — अब निर्धन (गरीब), निकेत (घर) रहित।"
         }
       ]
     },
@@ -8399,7 +8593,8 @@
           "original": "कह नृप जे बिग्यान निधाना। तुम्ह सारिखे गलित अभिमाना।।\nसदा रहहि अपनपौ दुराएँ। सब बिधि कुसल कुबेष बनाएँ।।",
           "transliteration": "",
           "translation": "The king said: 'Those who are treasure-houses of wisdom, who like you have dissolved all pride, always conceal their identity and remain hidden in every way, wearing the garb of the humble.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "नृप ने कहा — जो विज्ञान-निधान (ज्ञान के भण्डार) — तुम्हारे-सरिखे (समान) गलित (विलीन) अभिमान। सदा अपनापन छिपाकर रहते — सब विधि कुशल, कुवेष (साधारण वेष) बनाकर।"
         },
         {
           "id": "bk-161-c2",
@@ -8407,7 +8602,8 @@
           "original": "तेहि तें कहहि संत श्रुति टेरें। परम अकिंचन प्रिय हरि केरें।।\nतुम्ह सम अधन भिखारि अगेहा। होत बिरंचि सिवहि संदेहा।।",
           "transliteration": "",
           "translation": "'That is why the saints and Vedas declare that those who are utterly possessionless are most dear to the Lord. Even Brahma and Shiva would doubt whether someone could be as rich in renunciation as you — homeless and a beggar.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(नृप ने कहा) इसीलिए सन्त कहते, श्रुति (वेद) टेरती (पुकारती) — परम अकिंचन (निर्धन) श्रीहरि के प्रिय। तुम-सम अधन (धनहीन), भिखारी, अगेहा (गृहहीन) — विरञ्चि (ब्रह्मा), शिव को भी सन्देह हो (कि ऐसा कौन हो सकता!)।"
         },
         {
           "id": "bk-161-c3",
@@ -8415,7 +8611,8 @@
           "original": "जोसि सोसि तव चरन नमामी। मो पर कृपा करिअ अब स्वामी।।\nसहज प्रीति भूपति कै देखी। आपु बिषय बिस्वास बिसेषी।।",
           "transliteration": "",
           "translation": "'Whatever you may be, I bow at your feet. Now be gracious to me, O master.' Seeing the king's natural affection and having great confidence in his own disguise,",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(नृप ने कहा) जो भी हो — आपके चरणों को नमन करता हूँ। अब मुझ पर कृपा करें, स्वामी! (तापस ने) नृप की सहज प्रीति देखी — अपने विषय (बात) पर विशेष विश्वास (हो गया)।"
         },
         {
           "id": "bk-161-c4",
@@ -8423,7 +8620,8 @@
           "original": "सब प्रकार राजहि अपनाई। बोलेउ अधिक सनेह जनाई।।\nसुनु सतिभाउ कहउँ महिपाला। इहाँ बसत बीते बहु काला।।",
           "transliteration": "",
           "translation": "the false ascetic embraced the king in every way and spoke with heightened affection: 'Listen to the truth, O king — many ages have passed since I have been living here.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "सब प्रकार से राजा को अपनाकर — अधिक स्नेह जताकर बोला। (कहा) सुनो, सत्य भाव कहता हूँ, महीपाल (राजा)! यहाँ बसते बहुत काल बीते।"
         },
         {
           "id": "bk-161-d",
@@ -8431,7 +8629,8 @@
           "original": "अब लगि मोहि न मिलेउ कोउ मैं न जनावउँ काहु।\nलोकमान्यता अनल सम कर तप कानन दाहु।।161(क)।।\nतुलसी देखि सुबेषु भूलहिं मूढ़ न चतुर नर।\nसुंदर केकिहि पेखु बचन सुधा सम असन अहि।।161(ख)।।",
           "transliteration": "",
           "translation": "'Until now no one has met me, nor do I reveal myself to anyone. Public fame is like fire that burns the forest of austerity.' Tulsidas says: seeing a fine appearance, not only the foolish but even the wise are deceived. Behold the beautiful peacock — its voice is sweet as nectar but it feeds on serpents.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(तापस ने कहा) अब तक मुझे कोई नहीं मिला — मैं किसी को नहीं जनाता (बताता)। लोक-मान्यता (यश) अग्नि समान — तप-रूपी कानन (वन) का दाह (जलाने वाली)। (तुलसीदास कहते हैं) सुन्दर वेष देखकर मूढ़ ही नहीं, चतुर नर भी भूलते। सुन्दर केकी (मोर) को देखो — वचन सुधा (अमृत) समान, आशन (भोजन) अहि (साँप)।"
         }
       ]
     },
@@ -8444,7 +8643,8 @@
           "original": "तातें गुपुत रहउँ जग माहीं। हरि तजि किमपि प्रयोजन नाहीं।।\nप्रभु जानत सब बिनहिं जनाएँ। कहहु कवनि सिधि लोक रिझाएँ।।",
           "transliteration": "",
           "translation": "'Therefore I remain hidden in the world — apart from Hari, I have no other purpose. The Lord knows everything without being told — what is gained by pleasing the world?'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(तापस ने कहा) इसलिए जग (संसार) में गुप्त रहता हूँ — हरि को छोड़कर किंचित् भी प्रयोजन (काम) नहीं। प्रभु बिना जनाए सब जानते — कहो, लोक रिझाकर कौन-सी सिद्धि (मिलती)?"
         },
         {
           "id": "bk-162-c2",
@@ -8452,7 +8652,8 @@
           "original": "तुम्ह सुचि सुमति परम प्रिय मोरें। प्रीति प्रतीति मोहि पर तोरें।।\nअब जौं तात दुरावउँ तोही। दारुन दोष घटइ अति मोही।।",
           "transliteration": "",
           "translation": "'You are pure of heart, supremely dear to me; you have love and faith in me. If I now conceal anything from you, a terrible fault would attach to me.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(तापस ने कहा) तुम सुचि (पवित्र), सुमति (सद्बुद्धि) — मेरे परम प्रिय। मुझ पर तुम्हारी प्रीति-प्रतीति (प्रेम-विश्वास)। अब यदि, तात! तुमसे छिपाऊँ — दारुण (भयंकर) दोष मुझे अत्यन्त लगता।"
         },
         {
           "id": "bk-162-c3",
@@ -8460,7 +8661,8 @@
           "original": "जिमि जिमि तापसु कथइ उदासा। तिमि तिमि नृपहि उपज बिस्वासा।।\nदेखा स्वबस कर्म मन बानी। तब बोला तापस बगध्यानी।।",
           "transliteration": "",
           "translation": "The more the ascetic spoke of his indifference to the world, the more faith arose in the king's heart. Seeing the king completely under his spell in thought, word, and deed, the heron-like meditative impostor then spoke.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "जैसे-जैसे तापस उदासीनता (वैराग्य) कहता — वैसे-वैसे नृप को विश्वास उपजता। मन-वाणी-कर्म से स्वबस (वश में) देखकर — तब बगध्यानी (बगुले-जैसा ढोंगी) तापस बोला।"
         },
         {
           "id": "bk-162-c4",
@@ -8468,7 +8670,8 @@
           "original": "नाम हमार एकतनु भाई। सुनि नृप बोले पुनि सिरु नाई।।\nकहहु नाम कर अरथ बखानी। मोहि सेवक अति आपन जानी।।",
           "transliteration": "",
           "translation": "'My name is Ekatanu, brother.' Hearing this, the king bowed his head and said: 'Please explain the meaning of your name, considering me your very own servant.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(तापस ने कहा) नाम हमारा 'एकतनु', भाई! सुनकर नृप ने फिर सिर नवाकर कहा — (नृप ने कहा) नाम का अर्थ बखानकर कहो — मुझे अत्यन्त अपना सेवक जानकर।"
         },
         {
           "id": "bk-162-d",
@@ -8476,7 +8679,8 @@
           "original": "आदिसृष्टि उपजी जबहिं तब उतपति भै मोरि।\nनाम एकतनु हेतु तेहि देह न धरी बहोरि।।162।।",
           "transliteration": "",
           "translation": "'When the first creation arose, then was my birth. The name Ekatanu (one body) is because I have never taken another body since.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(तापस ने कहा) आदि-सृष्टि (पहली सृष्टि) जब उपजी — तब मेरी उत्पत्ति हुई। नाम 'एकतनु' इसलिए — फिर (दूसरी) देह नहीं धारी।"
         }
       ]
     },
@@ -8489,7 +8693,8 @@
           "original": "जनि आचरुज करहु मन माहीं। सुत तप तें दुर्लभ कछु नाहीं।।\nतपबल तें जग सृजइ बिधाता। तपबल बिष्नु भए परित्राता।।",
           "transliteration": "",
           "translation": "'Do not be amazed in your mind, son — nothing is impossible to obtain through austerity. By the power of austerity, Brahma creates the world; by the power of austerity, Vishnu became the preserver.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(तापस ने कहा) मन में आश्चर्य मत करो, सुत (पुत्र)! तप से दुर्लभ कुछ नहीं। तपबल से जगत सृजता विधाता (ब्रह्मा) — तपबल से विष्णु परित्राता (रक्षक) हुए।"
         },
         {
           "id": "bk-163-c2",
@@ -8497,7 +8702,8 @@
           "original": "तपबल संभु करहिं संघारा। तप तें अगम न कछु संसारा।।\nभयउ नृपहि सुनि अति अनुरागा। कथा पुरातन कहै सो लागा।।",
           "transliteration": "",
           "translation": "'By the power of austerity, Shambhu destroys; nothing in the world is beyond the reach of penance.' The king became greatly enamored hearing this, and the sage began telling ancient stories.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(तापस ने कहा) तपबल से शम्भु (शिव) संहार करते — तप से संसार में अगम (असम्भव) कुछ नहीं। सुनकर नृप को अत्यन्त अनुराग (प्रेम) हुआ — पुरातन (प्राचीन) कथा वह कहने लगा।"
         },
         {
           "id": "bk-163-c3",
@@ -8505,7 +8711,8 @@
           "original": "करम धरम इतिहास अनेका। करइ निरूपन बिरति बिबेका।।\nउदभव पालन प्रलय कहानी। कहेसि अमित आचरज बखानी।।",
           "transliteration": "",
           "translation": "He narrated many tales of duty, karma, and history, and discoursed on renunciation and wisdom. He told stories of creation, preservation, and dissolution with infinite wonder.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "कर्म, धर्म, इतिहास अनेक — विरक्ति (वैराग्य) और विवेक का निरूपण करता। उद्भव (सृष्टि), पालन, प्रलय की कहानी — अमित (अपार) आश्चर्य बखानकर कहे।"
         },
         {
           "id": "bk-163-c4",
@@ -8513,7 +8720,8 @@
           "original": "सुनि महिप तापस बस भयऊ। आपन नाम कहत तब लयऊ।।\nकह तापस नृप जानउँ तोही। कीन्हेहु कपट लाग भल मोही।।",
           "transliteration": "",
           "translation": "Hearing all this, the king came under the ascetic's spell. Then the sage changed the subject. The sage said: 'King, I know who you are. You practiced deception — but I liked that.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "सुनकर महीप (राजा) तापस के वश हो गया। तब अपना नाम कहने लगा। तापस ने कहा — नृप! जानता हूँ तुम्हें। कपट किया — (पर) मुझे अच्छा लगा।"
         },
         {
           "id": "bk-163-d",
@@ -8521,7 +8729,8 @@
           "original": "सुनु महीस असि नीति जहँ तहँ नाम न कहहिं नृप।\nमोहि तोहि पर अति प्रीति सोइ चतुरता बिचारि तव।।163।।",
           "transliteration": "",
           "translation": "'Listen, O King, it is a wise policy that a king should not reveal his name everywhere. I have great affection for you — consider it your prudence that you concealed your identity.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(तापस ने कहा) सुनो, महीश (राजा)! ऐसी नीति है — जहाँ-तहाँ नृप (राजा) नाम नहीं कहते। मुझे तुम पर अत्यन्त प्रीति — वही तुम्हारी चतुरता विचारी (समझता हूँ)।"
         }
       ]
     },
@@ -8534,7 +8743,8 @@
           "original": "नाम तुम्हार प्रताप दिनेसा। सत्यकेतु तव पिता नरेसा।।\nगुर प्रसाद सब जानिअ राजा। कहिअ न आपन जानि अकाजा।।",
           "transliteration": "",
           "translation": "'Your name is Pratapa Dinesa (sun of glory), and your father was King Satyaketu. O King, by the guru's grace one comes to know all things — do not consider it harmful that I know your secret.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(तापस ने कहा) तुम्हारा नाम प्रताप-दिनेश (प्रताप-सूर्य) — सत्यकेतु तुम्हारे पिता नरेश (राजा)। गुरु-प्रसाद से सब जाना जाता, राजा! अपना (नाम छिपाना) — अकाज (हानिकारक) मत जानो।"
         },
         {
           "id": "bk-164-c2",
@@ -8542,7 +8752,8 @@
           "original": "देखि तात तव सहज सुधाई। प्रीति प्रतीति नीति निपुनाई।।\nउपजि परि ममता मन मोरें। कहउँ कथा निज पूछे तोरें।।",
           "transliteration": "",
           "translation": "'Seeing, dear son, your natural goodness, love, faith, and skill in conduct, affection has arisen in my heart. I have told you my story because you asked.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(तापस ने कहा) तात! तुम्हारी सहज सुधाई (सज्जनता) देखकर — प्रीति, प्रतीति (विश्वास), नीति-निपुणता। मेरे मन में ममता उपजी — अपनी कथा तुम्हारे पूछने पर कही।"
         },
         {
           "id": "bk-164-c3",
@@ -8550,7 +8761,8 @@
           "original": "अब प्रसन्न मैं संसय नाहीं। मागु जो भूप भाव मन माहीं।।\nसुनि सुबचन भूपति हरषाना। गहि पद बिनय कीन्हि बिधि नाना।।",
           "transliteration": "",
           "translation": "'Now I am pleased, have no doubt — ask whatever you desire, O King.' Hearing these kind words, the king was overjoyed and grasped the sage's feet, entreating him in many ways.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(तापस ने कहा) अब प्रसन्न हूँ — संशय नहीं। माँगो, भूप (राजा)! जो मन में भाव (इच्छा)। सुवचन सुनकर भूपति हर्षित — पद (चरण) पकड़कर नाना विधि विनय की।"
         },
         {
           "id": "bk-164-c4",
@@ -8558,7 +8770,8 @@
           "original": "कृपासिंधु मुनि दरसन तोरें। चारि पदारथ करतल मोरें।।\nप्रभुहि तथापि प्रसन्न बिलोकी। मागि अगम बर होउँ असोकी।।",
           "transliteration": "",
           "translation": "'O ocean of mercy, O sage, by your sight, the four goals of life are in my grasp. Yet seeing the Lord so pleased, let me ask for an impossible boon and be free from sorrow.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(नृप ने कहा) कृपासिन्धु! मुनि! आपके दर्शन से — चार पदार्थ (धर्म-अर्थ-काम-मोक्ष) मेरे करतल (हाथ) में। प्रभु को तथापि प्रसन्न देखकर — अगम (दुर्लभ) वर माँगकर अशोकी (शोक-रहित) होऊँ।"
         },
         {
           "id": "bk-164-d",
@@ -8566,7 +8779,8 @@
           "original": "जरा मरन दुख रहित तनु समर जितै जनि कोउ।\nएकछत्र रिपुहीन महि राज कलप सत होउ।।164।।",
           "transliteration": "",
           "translation": "'May my body be free from old age, death, and suffering; may no one defeat me in battle. May I reign as sole emperor over a rivalless earth for a hundred kalpas.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(नृप ने कहा) जरा (बुढ़ापा), मरण, दुख-रहित तनु (शरीर) हो — समर (युद्ध) में कोई न जीते। एकछत्र, रिपुहीन (शत्रु-रहित) पृथ्वी — सौ कल्प तक राज्य हो।"
         }
       ]
     },
@@ -8579,7 +8793,8 @@
           "original": "कह तापस नृप ऐसेइ होऊ। कारन एक कठिन सुनु सोऊ।।\nकालउ तुअ पद नाइहि सीसा। एक बिप्रकुल छाड़ि महीसा।।",
           "transliteration": "",
           "translation": "The ascetic said: 'O King, so shall it be. But listen — there is one difficult condition. Even Death shall bow his head at your feet, O King — except from the curse of a Brahmin.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "तापस ने कहा — नृप! ऐसे ही हो। (पर) कारण एक कठिन — सुनो वह भी। काल भी तुम्हारे पद (चरणों) पर सिर नवाएगा — एक विप्रकुल (ब्राह्मण-वंश) छोड़कर, महीश (राजा)!"
         },
         {
           "id": "bk-165-c2",
@@ -8587,7 +8802,8 @@
           "original": "तपबल बिप्र सदा बरिआरा। तिन्ह के कोप न कोउ रखवारा।।\nजौं बिप्रन्ह सब करहु नरेसा। तौ तुअ बस बिधि बिष्नु महेसा।।",
           "transliteration": "",
           "translation": "'By the power of their austerity, Brahmins are always mighty; no one can protect you from their anger. But if you bring all Brahmins under your control, O King, then Brahma, Vishnu, and Mahesh themselves shall be in your power.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(तापस ने कहा) तपबल से विप्र (ब्राह्मण) सदा बरिआरा (बलवान)। उनके कोप (क्रोध) से कोई रखवारा (रक्षक) नहीं। यदि सब विप्रों को वश करो, नरेश! — तो विधि (ब्रह्मा), विष्णु, महेश (शिव) भी तुम्हारे वश।"
         },
         {
           "id": "bk-165-c3",
@@ -8595,7 +8811,8 @@
           "original": "चल न ब्रह्मकुल सन बरिआई। सत्य कहउँ दोउ भुजा उठाई।।\nबिप्र श्राप बिनु सुनु महिपाला। तोर नास नहि कवनेहुँ काला।।",
           "transliteration": "",
           "translation": "'One cannot prevail against the Brahmin clan — I speak the truth, raising both arms. Listen, O King: without a Brahmin's curse, your destruction can never come by any means.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(तापस ने कहा) ब्रह्मकुल (ब्राह्मणों) से बरिआई (बल) नहीं चलती — सत्य कहता हूँ, दोनों भुजाएँ उठाकर। विप्र-शाप बिना, सुनो महीपाल (राजा)! — तुम्हारा नाश किसी भी काल में नहीं।"
         },
         {
           "id": "bk-165-c4",
@@ -8603,7 +8820,8 @@
           "original": "हरषेउ राउ बचन सुनि तासू। नाथ न होइ मोर अब नासू।।\nतव प्रसाद प्रभु कृपानिधाना। मो कहुँ सर्ब काल कल्याना।।",
           "transliteration": "",
           "translation": "The king rejoiced hearing his words: 'Lord, now my destruction can never occur. By your grace, O merciful master, all times shall be auspicious for me.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "उसके वचन सुनकर राजा हर्षित हुआ — (कहा) नाथ! अब मेरा नाश नहीं होगा। आपके प्रसाद (कृपा) से, प्रभु कृपानिधान! — मुझे सर्वकाल कल्याण (शुभ) है।"
         },
         {
           "id": "bk-165-d",
@@ -8611,7 +8829,8 @@
           "original": "एवमस्तु कहि कपटमुनि बोला कुटिल बहोरि।\nमिलब हमार भुलाब निज कहहु त हमहि न खोरि।।165।।",
           "transliteration": "",
           "translation": "Saying 'So be it,' the deceitful sage spoke again with cunning: 'If you forget about our meeting, then do not blame me.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "'एवमस्तु' (ऐसा ही हो) कहकर कपट-मुनि फिर कुटिल (छली) बोला — (कहा) हमारा मिलना भूल जाना — तो हमें खोरि (दोष) मत देना।"
         }
       ]
     },
@@ -8624,7 +8843,8 @@
           "original": "तातें मै तोहि बरजउँ राजा। कहें कथा तव परम अकाजा।।\nछठें श्रवन यह परत कहानी। नास तुम्हार सत्य मम बानी।।",
           "transliteration": "",
           "translation": "'Therefore I warn you, O King — if this tale is told, it would bring you supreme ruin. If this story reaches a sixth ear, your destruction is certain — my words are true.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(तापस ने कहा) इसलिए मैं तुम्हें बरजता (रोकता) हूँ, राजा! कथा कहने से तुम्हारा परम अकाज (विनाश) होगा। छठे श्रवण (कान) — अर्थात् तीसरे व्यक्ति — तक यह कहानी पहुँचने पर — तुम्हारा नाश — मेरी वाणी सत्य।"
         },
         {
           "id": "bk-166-c2",
@@ -8632,7 +8852,8 @@
           "original": "यह प्रगटें अथवा द्विजश्रापा। नास तोर सुनु भानुप्रतापा।।\nआन उपायँ निधन तव नाहीं। जौं हरि हर कोपहिं मन माहीं।।",
           "transliteration": "",
           "translation": "'If this is revealed, or through a Brahmin's curse — listen, O Pratapabhanu — your destruction shall come. By no other means can your death occur, even if Hari and Hara become wrathful.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(तापस ने कहा) यह प्रकट होने पर अथवा द्विज-शाप (ब्राह्मण-शाप) से — तुम्हारा नाश, सुनो भानुप्रताप (प्रतापभानु)! अन्य उपाय से तुम्हारा निधन (मृत्यु) नहीं — चाहे हरि (विष्णु) और हर (शिव) मन में कोपें (क्रोधित हों)।"
         },
         {
           "id": "bk-166-c3",
@@ -8640,7 +8861,8 @@
           "original": "सत्य नाथ पद गहि नृप भाषा। द्विज गुर कोप कहहु को राखा।।\nराखइ गुर जौं कोप बिधाता। गुर बिरोध नहिं कोउ जग त्राता।।",
           "transliteration": "",
           "translation": "Grasping the sage's feet, the king said truthfully: 'Tell me, who can save one from a Brahmin's or guru's wrath? If the guru is angry, even if the Creator protects, no savior exists; but if the guru is against you, no one in the world can protect you.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(नृप ने कहा) सत्य, नाथ! पद (चरण) पकड़कर नृप बोला — द्विज (ब्राह्मण), गुरु के कोप से कहो, कौन बचाता? गुरु बचाता है यदि विधाता (ब्रह्मा) कोपे — (पर) गुरु-विरोध में जग में कोई त्राता (रक्षक) नहीं।"
         },
         {
           "id": "bk-166-c4",
@@ -8648,7 +8870,8 @@
           "original": "जौं न चलब हम कहे तुम्हारें। होउ नास नहिं सोच हमारें।।\nएकहिं डर डरपत मन मोरा। प्रभु महिदेव श्राप अति घोरा।।",
           "transliteration": "",
           "translation": "'If I do not follow your instructions, let me be destroyed — I care not. Only one fear haunts my mind — Lord, the terrible curse of the Brahmins.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(नृप ने कहा) यदि तुम्हारे कहे पर नहीं चलूँगा — नाश हो, मुझे सोच (चिन्ता) नहीं। एक ही डर से मेरा मन डरता — प्रभु! महीदेव (ब्राह्मण) का शाप अत्यन्त घोर।"
         },
         {
           "id": "bk-166-d",
@@ -8656,7 +8879,8 @@
           "original": "होहिं बिप्र बस कवन बिधि कहहु कृपा करि सोउ।\nतुम्ह तजि दीनदयाल निज हितू न देखउँ कोउँ।।166।।",
           "transliteration": "",
           "translation": "'By what means can Brahmins be brought under control? Tell me, graciously. Other than you, O compassionate friend of the poor, I see no well-wisher.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(नृप ने पूछा) विप्र (ब्राह्मण) किस विधि वश होंगे — कृपा करके वह भी कहो। तुम्हें छोड़कर, दीनदयाल! अपना कोई हितू (हितैषी) नहीं देखता।"
         }
       ]
     },
@@ -8669,7 +8893,8 @@
           "original": "सुनु नृप बिबिध जतन जग माहीं। कष्टसाध्य पुनि होहिं कि नाहीं।।\nअहइ एक अति सुगम उपाई। तहाँ परंतु एक कठिनाई।।",
           "transliteration": "",
           "translation": "'Listen, O King: there are many methods in the world, but they are difficult to accomplish and may or may not succeed. There is one very easy remedy, but it has one difficulty.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(तापस ने कहा) सुनो, नृप! जग में विविध यत्न (उपाय) हैं — कष्टसाध्य, फिर होंगे या नहीं (अनिश्चित)। एक अत्यन्त सुगम (सरल) उपाय है — पर उसमें एक कठिनाई।"
         },
         {
           "id": "bk-167-c2",
@@ -8677,7 +8902,8 @@
           "original": "मम आधीन जुगुति नृप सोई। मोर जाब तव नगर न होई।।\nआजु लगें अरु जब तें भयऊँ। काहू के गृह ग्राम न गयऊँ।।",
           "transliteration": "",
           "translation": "'That device, O King, depends on me — but I cannot come to your city. From today, and ever since I have existed, I have never gone to anyone's house or village.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(तापस ने कहा) वह युक्ति मेरे अधीन है, नृप! — (पर) मेरा तुम्हारे नगर जाना नहीं हो सकता। आज से लेकर — और जब से हुआ (जन्म लिया) — किसी के गृह-ग्राम (घर-गाँव) नहीं गया।"
         },
         {
           "id": "bk-167-c3",
@@ -8685,7 +8911,8 @@
           "original": "जौं न जाउँ तव होइ अकाजू। बना आइ असमंजस आजू।।\nसुनि महीस बोलेउ मृदु बानी। नाथ निगम असि नीति बखानी।।",
           "transliteration": "",
           "translation": "'Yet if I do not go, your purpose will fail. A dilemma has presented itself today.' The king spoke in gentle words: 'Lord, the Vedas proclaim this principle—'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(तापस ने कहा) यदि नहीं जाऊँ — तुम्हारा अकाज (नुकसान) होगा। असमंजस (दुविधा) आज आकर बना। सुनकर महीश (राजा) मृदु (कोमल) वाणी बोला — (कहा) नाथ! निगम (वेद) ने ऐसी नीति बखानी —"
         },
         {
           "id": "bk-167-c4",
@@ -8693,7 +8920,8 @@
           "original": "बड़े सनेह लघुन्ह पर करहीं। गिरि निज सिरनि सदा तृन धरहीं।।\nजलधि अगाध मौलि बह फेनू। संतत धरनि धरत सिर रेनू।।",
           "transliteration": "",
           "translation": "'The great always show kindness to the small. Mountains always bear grass on their peaks. The unfathomable ocean carries foam on its surface; the earth always bears dust upon its head.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(नृप ने कहा) बड़े छोटों पर स्नेह करते। गिरि (पर्वत) अपने शिर (शिखर) पर सदा तृण (घास) धारते। अगाध जलधि (समुद्र) मौलि (मस्तक) पर फेना (झाग) बहाता। सन्तत (सदा) धरनि (पृथ्वी) सिर पर रेणु (धूल) धरती।"
         },
         {
           "id": "bk-167-d",
@@ -8701,7 +8929,8 @@
           "original": "अस कहि गहे नरेस पद स्वामी होहु कृपाल।\nमोहि लागि दुख सहिअ प्रभु सज्जन दीनदयाल।।167।।",
           "transliteration": "",
           "translation": "So saying, the king grasped the sage's feet: 'Be gracious, O Master! For my sake, please endure this trouble, Lord — for the virtuous are compassionate to the humble.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "ऐसा कहकर नरेश ने पद (चरण) पकड़े — (कहा) स्वामी! कृपालु होओ। मेरे लिए दुख सहो, प्रभु! — सज्जन दीनदयालु (होते हैं)।"
         }
       ]
     },
@@ -8714,7 +8943,8 @@
           "original": "जानि नृपहि आपन आधीना। बोला तापस कपट प्रबीना।।\nसत्य कहउँ भूपति सुनु तोही। जग नाहिन दुर्लभ कछु मोही।।",
           "transliteration": "",
           "translation": "Knowing the king was completely under his control, the ascetic, skilled in deception, spoke: 'I tell you the truth, O King, listen — nothing in the world is impossible for me.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "नृप को अपने अधीन जानकर — कपट-प्रवीण तापस बोला। (कहा) सत्य कहता हूँ, भूपति! सुनो — जग में मुझे कुछ दुर्लभ नहीं।"
         },
         {
           "id": "bk-168-c2",
@@ -8722,7 +8952,8 @@
           "original": "अवसि काज मैं करिहउँ तोरा। मन तन बचन भगत तैं मोरा।।\nजोग जुगुति तप मंत्र प्रभाऊ। फलइ तबहिं जब करिअ दुराऊ।।",
           "transliteration": "",
           "translation": "'I shall certainly accomplish your task — you are my devotee in mind, body, and speech. But yoga, technique, austerity, and the power of mantras bear fruit only when they are kept secret.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(तापस ने कहा) अवश्य मैं तुम्हारा काज करूँगा — मन-तन-वचन से तुम मेरे भक्त हो। योग, युक्ति, तप, मन्त्र का प्रभाव — तभी फलता जब दुराव (गोपनीयता) किया जाए।"
         },
         {
           "id": "bk-168-c3",
@@ -8730,7 +8961,8 @@
           "original": "जौं नरेस मैं करौं रसोई। तुम्ह परुसहु मोहि जान न कोई।।\nअन्न सो जोइ जोइ भोजन करई। सोइ सोइ तव आयसु अनुसरई।।",
           "transliteration": "",
           "translation": "'If I, O King, prepare the food, and you serve it — with no one knowing about me — then whoever eats that food shall obey your every command.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(तापस ने कहा) यदि मैं, नरेश! रसोई (भोजन) बनाऊँ — तुम परोसो, मुझे कोई न जाने। उस अन्न से जो-जो भोजन करेगा — वह-वह तुम्हारी आज्ञा अनुसरण (पालन) करेगा।"
         },
         {
           "id": "bk-168-c4",
@@ -8738,7 +8970,8 @@
           "original": "पुनि तिन्ह के गृह जेवँइ जोऊ। तव बस होइ भूप सुनु सोऊ।।\nजाइ उपाय रचहु नृप एहू। संबत भरि संकलप करेहू।।",
           "transliteration": "",
           "translation": "'And further, whoever eats at their homes in turn shall also come under your control, O King. Go and arrange this plan — make a vow for an entire year.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(तापस ने कहा) फिर उनके घर जो भी खाएगा — भूप! सुनो, वह भी तुम्हारे वश होगा। जाकर यह उपाय रचो, नृप! — सम्वत (वर्ष) भर का संकल्प करो।"
         },
         {
           "id": "bk-168-d",
@@ -8746,7 +8979,8 @@
           "original": "नित नूतन द्विज सहस सत बरेहु सहित परिवार।\nमैं तुम्हरे संकलप लगि दिनहिंकरिब जेवनार।।168।।",
           "transliteration": "",
           "translation": "'Every day, invite a fresh hundred thousand Brahmins with their families. For the sake of your vow, I shall prepare the feast each day.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(तापस ने कहा) नित नूतन (रोज नए) एक लाख द्विज (ब्राह्मण) — सपरिवार बुलाओ। तुम्हारे संकल्प तक मैं प्रतिदिन भोजन बनाऊँगा।"
         }
       ]
     },
@@ -8759,7 +8993,8 @@
           "original": "एहि बिधि भूप कष्ट अति थोरें। होइहहिं सकल बिप्र बस तोरें।।\nकरिहहिं बिप्र होम मख सेवा। तेहिं प्रसंग सहजेहिं बस देवा।।",
           "transliteration": "",
           "translation": "'In this way, O King, with very little effort, all Brahmins shall come under your control. The Brahmins will perform fire-rituals, sacrifices, and worship — and through that, the gods will naturally come under your power too.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(तापस ने कहा) इस प्रकार, भूप! अत्यन्त थोड़े कष्ट से — सकल विप्र (ब्राह्मण) तुम्हारे वश होंगे। विप्र होम (हवन), मख (यज्ञ), सेवा करेंगे — उस प्रसंग से सहज ही देवता वश (होंगे)।"
         },
         {
           "id": "bk-169-c2",
@@ -8767,7 +9002,8 @@
           "original": "और एक तोहि कहऊँ लखाऊ। मैं एहि बेष न आउब काऊ।।\nतुम्हरे उपरोहित कहुँ राया। हरि आनब मैं करि निज माया।।",
           "transliteration": "",
           "translation": "'And one more thing I tell you as a hint: I shall not come in this guise ever. I shall bring away your family priest, O King, by my magical power.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(तापस ने कहा) और एक लखाऊ (संकेत) कहता हूँ — मैं इस वेष में कभी नहीं आऊँगा। तुम्हारे उपरोहित (पुरोहित) को, राजा! — श्रीहरि (को) अपनी माया से ले आऊँगा।"
         },
         {
           "id": "bk-169-c3",
@@ -8775,7 +9011,8 @@
           "original": "तपबल तेहि करि आपु समाना। रखिहउँ इहाँ बरष परवाना।।\nमैं धरि तासु बेषु सुनु राजा। सब बिधि तोर सँवारब काजा।।",
           "transliteration": "",
           "translation": "'By the power of my austerity, I shall make him look like me and keep him here for a year. And I, assuming his appearance, O King, shall manage all your affairs in every way.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(तापस ने कहा) तपबल से उसे (पुरोहित को) अपने समान बनाकर — यहाँ वर्ष-परवाना (भर) रखूँगा। मैं उसका वेष धारण करके, सुनो राजा! — सब विधि तुम्हारा काज सँवारूँगा।"
         },
         {
           "id": "bk-169-c4",
@@ -8783,7 +9020,8 @@
           "original": "गै निसि बहुत सयन अब कीजे। मोहि तोहि भूप भेंट दिन तीजे।।\nमैं तपबल तोहि तुरग समेता। पहुँचेहउँ सोवतहि निकेता।।",
           "transliteration": "",
           "translation": "'Much of the night has passed — now sleep. O King, you and I shall meet on the third day. By my ascetic power, I shall transport you along with your horse to your palace while you sleep.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(तापस ने कहा) बहुत रात बीत गई — अब शयन करो। भूप! तीसरे दिन मुझसे भेंट (होगी)। मैं तपबल से तुम्हें तुरग (घोड़ा) समेत — सोते ही निकेत (घर) पहुँचा दूँगा।"
         },
         {
           "id": "bk-169-d",
@@ -8791,7 +9029,8 @@
           "original": "मैं आउब सोइ बेषु धरि पहिचानेहु तब मोहि।\nजब एकांत बोलाइ सब कथा सुनावौं तोहि।।169।।",
           "transliteration": "",
           "translation": "'I shall come in that same disguise; you will recognize me then. When you call me aside in private, I shall tell you everything.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(तापस ने कहा) मैं वही वेष धारकर आऊँगा — तब मुझे पहचान लेना। जब एकान्त में बुलाना — सब कथा तुम्हें सुनाऊँगा।"
         }
       ]
     },
@@ -8804,7 +9043,8 @@
           "original": "सयन कीन्ह नृप आयसु मानी। आसन जाइ बैठ छलग्यानी।।\nश्रमित भूप निद्रा अति आई। सो किमि सोव सोच अधिकाई।।",
           "transliteration": "",
           "translation": "The king obeyed and lay down to sleep; the cunning schemer sat on his seat. The weary king fell into deep slumber, but the other could not sleep due to his excessive scheming.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "नृप ने आज्ञा मानकर शयन किया — छलज्ञानी (छली ज्ञानी) जाकर आसन पर बैठा। श्रमित (थका) भूप — अत्यन्त निद्रा आई। वह (तापस) कैसे सोए — अत्यधिक सोच (चिन्ता) में।"
         },
         {
           "id": "bk-170-c2",
@@ -8812,7 +9052,8 @@
           "original": "कालकेतु निसिचर तहँ आवा। जेहिं सूकर होइ नृपहि भुलावा।।\nपरम मित्र तापस नृप केरा। जानइ सो अति कपट घनेरा।।",
           "transliteration": "",
           "translation": "Then came Kalanemi, the demon who had assumed the form of the boar that had led the king astray. He was the closest friend of the disguised king-turned-ascetic, and knew all his many intrigues.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "कालकेतु निशाचर (राक्षस) वहाँ आया — जिसने सूकर (सूअर) होकर नृप को भुलाया था। तापस-नृप का परम मित्र — वह अत्यन्त कपट जानता।"
         },
         {
           "id": "bk-170-c3",
@@ -8820,7 +9061,8 @@
           "original": "तेहि के सत सुत अरु दस भाई। खल अति अजय देव दुखदाई।।\nप्रथमहि भूप समर सब मारे। बिप्र संत सुर देखि दुखारे।।",
           "transliteration": "",
           "translation": "He had a hundred sons and ten brothers — all wicked, invincible, and tormenting the gods. The king had earlier slain them all in battle, while Brahmins, saints, and gods looked on in distress.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "उसके सौ पुत्र और दस भाई — खल (दुष्ट), अत्यन्त अजय (अजेय), देवताओं को दुख देने वाले। पहले भूप (प्रतापभानु) ने समर (युद्ध) में सब मारे — विप्र, सन्त, देवता देखकर दुखी हुए।"
         },
         {
           "id": "bk-170-c4",
@@ -8828,7 +9070,8 @@
           "original": "तेहिं खल पाछिल बयरु सँभरा। तापस नृप मिलि मंत्र बिचारा।।\nजेहि रिपु छय सोइ रचेन्हि उपाऊ। भावी बस न जान कछु राऊ।।",
           "transliteration": "",
           "translation": "The wicked one recalled his old enmity; together with the ascetic-king, they hatched a plot. They devised a scheme to destroy their enemy — but the king, controlled by destiny, knew nothing of it.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "उस खल (दुष्ट) ने पिछला वैर (शत्रुता) सम्भारा (याद किया) — तापस-नृप से मिलकर मन्त्र (षड्यन्त्र) विचारा। जिससे रिपु (शत्रु) का क्षय (विनाश) हो — वही उपाय रचा। भावी (भाग्य) वश — राजा कुछ नहीं जानता।"
         },
         {
           "id": "bk-170-d",
@@ -8836,7 +9079,8 @@
           "original": "रिपु तेजसी अकेल अपि लघु करि गनिअ न ताहु।\nअजहुँ देत दुख रबि ससिहि सिर अवसेषित राहु।।170।।",
           "transliteration": "",
           "translation": "An enemy should not be belittled even if he is powerful and alone. Even today, though reduced to just a head, Rahu continues to torment the sun and moon.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "रिपु (शत्रु) तेजस्वी हो, अकेला भी हो — उसे लघु (छोटा) करके मत गिनो। आज भी रवि (सूर्य) और शशि (चन्द्रमा) को दुख देता — सिर-अवशेषित (केवल सिर बचा) राहु।"
         }
       ]
     },
@@ -8849,7 +9093,8 @@
           "original": "तापस नृप निज सखहि निहारी। हरषि मिलेउ उठि भयउ सुखारी।।\nमित्रहि कहि सब कथा सुनाई। जातुधान बोला सुख पाई।।",
           "transliteration": "",
           "translation": "The ascetic-king, seeing his friend, rose joyfully to embrace him. He told his friend the whole story, and the demon spoke with delight.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "तापस-नृप ने अपने सखा (मित्र) को निहारकर (देखकर) — हर्षित होकर उठकर मिला, सुखी हुआ। मित्र को सब कथा सुनाई — जातुधान (राक्षस) सुख पाकर बोला।"
         },
         {
           "id": "bk-171-c2",
@@ -8857,7 +9102,8 @@
           "original": "अब साधेउँ रिपु सुनहु नरेसा। जौं तुम्ह कीन्ह मोर उपदेसा।।\nपरिहरि सोच रहहु तुम्ह सोई। बिनु औषध बिआधि बिधि खोई।।",
           "transliteration": "",
           "translation": "'Now I have ensnared the enemy — listen, O King — if you have followed my advice. Set aside your worry and rest easy; without medicine, fate itself shall cure the disease.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(राक्षस ने कहा) अब रिपु (शत्रु) को साधा (फँसाया) — सुनो, नरेश (राजा)! यदि तुमने मेरा उपदेश माना। सोच (चिन्ता) छोड़कर रहो — बिना औषध विधि (भाग्य) ने व्याधि (रोग) खोई (मिटाई)।"
         },
         {
           "id": "bk-171-c3",
@@ -8865,7 +9111,8 @@
           "original": "कुल समेत रिपु मूल बहाई। चौथे दिवस मिलब मैं आई।।\nतापस नृपहि बहुत परितोषी। चला महाकपटी अतिरोषी।।",
           "transliteration": "",
           "translation": "'I shall uproot the enemy along with his entire clan. On the fourth day I shall return to meet you.' The demon greatly reassured the ascetic-king and departed — the great deceiver, filled with rage.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(राक्षस ने कहा) कुल समेत रिपु (शत्रु) को मूल (जड़) से बहाऊँगा — चौथे दिवस (दिन) मैं आकर मिलूँगा। तापस-नृप को बहुत परितोषित (सन्तुष्ट) करके — महाकपटी, अत्यन्त क्रोधी चला।"
         },
         {
           "id": "bk-171-c4",
@@ -8873,7 +9120,8 @@
           "original": "भानुप्रतापहि बाजि समेता। पहुँचाएसि छन माझ निकेता।।\nनृपहि नारि पहिं सयन कराई। हयगृहँ बाँधेसि बाजि बनाई।।",
           "transliteration": "",
           "translation": "He transported Pratapabhanu along with his horse to his palace in an instant. He put the king to sleep beside his queen and tied the horse carefully in the stable.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "भानुप्रताप (प्रतापभानु) को बाजि (घोड़ा) समेत — क्षण में निकेत (घर) पहुँचा दिया। नृप को नारी (पत्नी) के पास शयन कराया — हयगृह (अस्तबल) में बाजि (घोड़ा) बनाकर (सजाकर) बाँधा।"
         },
         {
           "id": "bk-171-d",
@@ -8881,7 +9129,8 @@
           "original": "राजा के उपरोहितहि हरि लै गयउ बहोरि।\nलै राखेसि गिरि खोह महुँ मायाँ करि मति भोरि।।171।।",
           "transliteration": "",
           "translation": "Then he carried away the king's family priest, took him far off, and placed him in a mountain cave, confusing his mind with his magic.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "राजा के उपरोहित (पुरोहित) को हरि (उठाकर) ले गया — फिर। गिरि-खोह (पर्वत-गुफा) में लाकर रखा — माया से मति (बुद्धि) भोरि (भ्रमित) करके।"
         }
       ]
     },
@@ -8894,7 +9143,8 @@
           "original": "आपु बिरचि उपरोहित रूपा। परेउ जाइ तेहि सेज अनूपा।।\nजागेउ नृप अनभएँ बिहाना। देखि भवन अति अचरजु माना।।",
           "transliteration": "",
           "translation": "Assuming the form of the family priest himself, the demon went and lay on that same splendid bed. The king awoke before dawn and was greatly amazed to find himself in his own palace.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "आपु (स्वयं) उपरोहित (पुरोहित) का रूप रचकर — उसी अनूप (अनुपम) सेज (शय्या) पर जाकर पड़ा। नृप (राजा) बिहान (सवेरा) होने से पहले जागा — भवन (महल) देखकर अत्यन्त आश्चर्य माना।"
         },
         {
           "id": "bk-172-c2",
@@ -8902,7 +9152,8 @@
           "original": "मुनि महिमा मन महुँ अनुमानी। उठेउ गवँहि जेहि जान न रानी।।\nकानन गयउ बाजि चढ़ि तेहीं। पुर नर नारि न जानेउ केहीं।।",
           "transliteration": "",
           "translation": "Attributing it to the sage's miraculous power, he rose and left so quietly that even the queen did not know. He rode that same horse to the forest, and no man or woman in the city knew of his departure.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "मुनि-महिमा मन में अनुमानकर (सोचकर) — उठा, गवँही (चुपके) जिसे रानी भी न जाने। उसी बाजि (घोड़े) पर चढ़कर कानन (वन) गया — पुर (नगर) के नर-नारी — किसी ने नहीं जाना।"
         },
         {
           "id": "bk-172-c3",
@@ -8910,7 +9161,8 @@
           "original": "गएँ जाम जुग भूपति आवा। घर घर उत्सव बाज बधावा।।\nउपरोहितहि देख जब राजा। चकित बिलोकि सुमिरि सोइ काजा।।",
           "transliteration": "",
           "translation": "When two watches had passed, the king returned. Every home rang with festive music and celebrations. When the king saw his family priest, he was startled, remembering the whole scheme.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "दो जाम (पहर) बीतने पर भूपति आया — घर-घर उत्सव बाज-बधावा (बजे)। उपरोहित (पुरोहित) को जब राजा ने देखा — चकित होकर देखा — वही काज (षड्यन्त्र) याद करके।"
         },
         {
           "id": "bk-172-c4",
@@ -8918,7 +9170,8 @@
           "original": "जुग सम नृपहि गए दिन तीनी। कपटी मुनि पद रह मति लीनी।।\nसमय जानि उपरोहित आवा। नृपहि मते सब कहि समुझावा।।",
           "transliteration": "",
           "translation": "Those three days felt like ages to the king, whose mind was absorbed in thoughts of the deceitful sage. At the right time, the false priest came and explained the whole plan to the king.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "युग-समान नृप को तीन दिन बीते — कपटी मुनि के पद (चरणों) में मति लीन (लगी)। समय जानकर उपरोहित (छद्म-पुरोहित) आया — नृप को सब मत (योजना) कहकर समझाया।"
         },
         {
           "id": "bk-172-d",
@@ -8926,7 +9179,8 @@
           "original": "नृप हरषेउ पहिचानि गुरु भ्रम बस रहा न चेत।\nबरे तुरत सत सहस बर बिप्र कुटुंब समेत।।172।।",
           "transliteration": "",
           "translation": "The king was overjoyed to recognize his so-called guru, but remained unaware due to his delusion. He immediately invited a hundred thousand fine Brahmins with their families.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "नृप हर्षित हुआ — गुरु पहचानकर। भ्रमवश चेत (होश) नहीं रहा। तुरन्त एक लाख श्रेष्ठ विप्र (ब्राह्मण) — कुटुम्ब (परिवार) समेत बुलाए।"
         }
       ]
     },
@@ -8939,7 +9193,8 @@
           "original": "उपरोहित जेवनार बनाई। छरस चारि बिधि जसि श्रुति गाई।।\nमायामय तेहिं कीन्ह रसोई। बिंजन बहु गनि सकइ न कोई।।",
           "transliteration": "",
           "translation": "The false priest prepared a feast — with six flavors and four kinds of food, as the scriptures prescribe. With his magic he prepared the meal; the dishes were so numerous that no one could count them.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "उपरोहित (छद्म-पुरोहित) ने भोजन बनाया — छह रस (स्वाद), चार विधि (प्रकार) — जैसी श्रुति (वेद) ने गाई। मायामय (माया-युक्त) उसने रसोई बनाई — व्यंजन इतने कि कोई गिन न सके।"
         },
         {
           "id": "bk-173-c2",
@@ -8947,7 +9202,8 @@
           "original": "बिबिध मृगन्ह कर आमिष राँधा। तेहि महुँ बिप्र माँसु खल साँधा।।\nभोजन कहुँ सब बिप्र बोलाए। पद पखारि सादर बैठाए।।",
           "transliteration": "",
           "translation": "He cooked the flesh of various animals, and among it the wicked one mixed the flesh of Brahmins. All the Brahmins were invited for the feast, their feet were washed, and they were seated with respect.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "विविध मृगों (पशुओं) का आमिष (माँस) पकाया — उसमें खल (दुष्ट) ने विप्र (ब्राह्मण) का माँस मिलाया। भोजन के लिए सब विप्र बुलाए — पद (पैर) पखारकर (धोकर) सादर बैठाए।"
         },
         {
           "id": "bk-173-c3",
@@ -8955,7 +9211,8 @@
           "original": "परुसन जबहिं लाग महिपाला। भै अकासबानी तेहि काला।।\nबिप्रबृंद उठि उठि गृह जाहू। है बड़ि हानि अन्न जनि खाहू।।",
           "transliteration": "",
           "translation": "Just as the king was about to serve the food, a voice came from the sky: 'O hosts of Brahmins, rise up and go to your homes! There is great harm — do not eat this food!'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "परोसने जब महीपाल (राजा) लगा — उस समय आकाशवाणी हुई। (आकाशवाणी) विप्रवृन्द (ब्राह्मण-समूह)! उठ-उठकर घर जाओ! बड़ी हानि है — अन्न मत खाओ!"
         },
         {
           "id": "bk-173-c4",
@@ -8963,7 +9220,8 @@
           "original": "भयउ रसोईं भूसुर माँसू। सब द्विज उठे मानि बिस्वासू।।\nभूप बिकल मति मोहँ भुलानी। भावी बस आव मुख बानी।।",
           "transliteration": "",
           "translation": "The food has been made with the flesh of Brahmins! All the Brahmins rose, believing the heavenly voice. The king was distressed, his mind bewildered by delusion — controlled by destiny, words came from his mouth unawares.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(आकाशवाणी) रसोई में भूसुर (ब्राह्मण) का माँस है! सब द्विज (ब्राह्मण) विश्वास मानकर उठे। भूप विकल (व्याकुल) — मति (बुद्धि) मोह में भूली। भावी (भाग्य) वश मुख से वाणी आई।"
         },
         {
           "id": "bk-173-d",
@@ -8971,7 +9229,8 @@
           "original": "बोले बिप्र सकोप तब नहिं कछु कीन्ह बिचार।\nजाइ निसाचर होहु नृप मूढ़ सहित परिवार।।173।।",
           "transliteration": "",
           "translation": "Then the Brahmins spoke in anger without any further thought: 'Go, become a demon, O King — you fool — along with your entire family!'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "तब विप्र (ब्राह्मणों) ने सक्रोध (क्रोधपूर्वक) बोले — कुछ विचार नहीं किया। (कहा) जाकर निशाचर (राक्षस) हो जाओ, नृप (राजा)! मूढ़! सहित परिवार।"
         }
       ]
     },

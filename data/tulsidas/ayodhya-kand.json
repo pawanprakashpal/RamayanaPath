@@ -1517,7 +1517,8 @@
           "original": "आगें दीखि जरत रिस भारी। मनहुँ रोष तरवारि उघारी।।\nमूठि कुबुद्धि धार निठुराई। धरी कूबरीं सान बनाई।।",
           "transliteration": "āgeṃ dīkhi jarata risa bhārī, manahuṃ roṣa taravāri ughārī.\nmūṭhi kubuddhi dhāra niṭhurāī, dharī kūbarīṃ sāna banāī.",
           "translation": "Before him he saw her burning with fierce anger, as if the sword of rage had been unsheathed. Its hilt was her evil mind and its edge was her cruelty, sharpened on the whetstone of the hunchback.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "आगे देखा — भारी क्रोध में जलती — मानो रोष (क्रोध) की तलवार उघारी (खींची)। मूठि (मूठ) कुबुद्धि (दुर्बुद्धि) — धार निठुराई (क्रूरता) — कूबरी (मन्थरा) ने सान (तेज) बनाई।"
         },
         {
           "id": "ay-31-c2",
@@ -1525,7 +1526,8 @@
           "original": "लखी महीप कराल कठोरा। सत्य कि जीवनु लेइहि मोरा।।\nबोले राउ कठिन करि छाती। बानी सबिनय तासु सोहाती।।",
           "transliteration": "lakhī mahīpa karāla kaṭhorā, satya ki jīvanu leihi morā.\nbole rāu kaṭhina kari chātī, bānī sabinaya tāsu sohātī.",
           "translation": "The king saw her fierce and stern and thought, 'Will she truly take my life?' Steeling his heart, the king spoke words that, though humble, pleased her.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "महीप (राजा) ने देखा — कराल (भयंकर), कठोर। (सोचा) सत्य ही मेरा जीवन ले लेगी? राजा कठिन करके छाती (हृदय) — बोले वाणी — सविनय (विनम्र) — उसे सोहाती (अच्छी लगे)।"
         },
         {
           "id": "ay-31-c3",
@@ -1533,7 +1535,8 @@
           "original": "प्रिया बचन कस कहसि कुभाँती। भीर प्रतीति प्रीति करि हाँती।।\nमोरें भरतु रामु दुइ आँखी। सत्य कहउँ करि संकरू साखी।।",
           "transliteration": "priyā bacana kasa kahasi kubhāṃtī, bhīra pratīti prīti kari hāṃtī.\nmoreṃ bharatu rāmu dui āṃkhī, satya kahauṃ kari saṃkaru sākhī.",
           "translation": "'My darling, why do you speak such unseemly words? By this distrust and ill-feeling, you ruin our love. Bharata and Rama are my two eyes. I speak the truth, with Lord Shiva as my witness.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(दशरथ ने कहा) प्रिया! कुभाँति (बुरे ढंग) वचन क्यों कहती? भीर (संकट)-प्रतीति (विश्वास) — प्रीति हाँटी (नष्ट) करके। मेरे भरत-राम — दोनों आँखें। सत्य कहता हूँ — शंकर (शिव) साक्षी करके।"
         },
         {
           "id": "ay-31-c4",
@@ -1541,7 +1544,8 @@
           "original": "अवसि दूतु मैं पठइब प्राता। ऐहहिं बेगि सुनत दोउ भ्राता।।\nसुदिन सोधि सबु साजु सजाई। देउँ भरत कहुँ राजु बजाई।।",
           "transliteration": "avasi dūtu maiṃ paṭhaiba prātā, aihahiṃ begi sunata dou bhrātā.\nsudina sodhi sabu sāju sajāī, deuṃ bharata kahuṃ rāju bajāī.",
           "translation": "'I shall certainly send a messenger at dawn. Both brothers will come quickly. Finding an auspicious day and making all arrangements, I shall give the kingdom to Bharata with full ceremony.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(दशरथ ने कहा) अवश्य प्रातः (सवेरे) दूत भेजूँगा — दोनों भाई सुनते ही शीघ्र आएँगे। सुदिन (शुभ दिन) शोधकर (जाँचकर) — सब साज सजाकर — भरत को राज बजाकर (घोषणा से) दूँ।"
         },
         {
           "id": "ay-31-d",
@@ -1549,7 +1553,8 @@
           "original": "लोभु न रामहि राजु कर बहुत भरत पर प्रीति।\nमैं बड़ छोट बिचारि जियँ करत रहेउँ नृपनीति।।31।।",
           "transliteration": "lobhu na rāmahi rāju kara bahuta bharata para prīti.\nmaiṃ baṛa choṭa bicāri jiyaṃ karata raheuṃ nṛpanīti.",
           "translation": "'Rama has no greed for the kingdom. He has great love for Bharata. Considering the order of elder and younger, I was merely following royal protocol.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(दशरथ ने कहा) राम को राज्य का लोभ नहीं — भरत पर बहुत प्रीति। मैं बड़ा-छोटा विचारकर जी (हृदय) में — नृपनीति (राजनीति) करता रहा।"
         }
       ]
     },
@@ -1562,7 +1567,8 @@
           "original": "राम सपथ सत कहुउँ सुभाऊ। राममातु कछु कहेउ न काऊ।।\nमैं सबु कीन्ह तोहि बिनु पूँछें। तेहि तें परेउ मनोरथु छूछें।।",
           "transliteration": "rāma sapatha sata kahuuṃ subhāū, rāmamātu kachu kaheu na kāū.\nmaiṃ sabu kīnha tohi binu pūṃcheṃ, tehi teṃ pareu manorathtu chūcheṃ.",
           "translation": "'I swear by Rama and tell you my true nature: Rama's mother never said a word about this. I did everything without consulting you — that is why my desire has come to nothing.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(दशरथ ने कहा) राम-सपथ (शपथ) — सच कहता हूँ स्वभाव। राममाता (कौसल्या) ने कभी कुछ नहीं कहा। मैंने सब तुझसे बिना पूछे किया — इसलिए मनोरथ छूछा (खाली) पड़ा।"
         },
         {
           "id": "ay-32-c2",
@@ -1570,7 +1576,8 @@
           "original": "रिस परिहरू अब मंगल साजू। कछु दिन गएँ भरत जुबराजू।।\nएकहि बात मोहि दुखु लागा। बर दूसर असमंजस मागा।।",
           "transliteration": "risa pariharu aba maṅgala sājū, kachu dina gaeṃ bharata jubarājū.\nekahi bāta mohi dukhu lāgā, bara dūsara asamaṃjasa māgā.",
           "translation": "'Set aside your anger and let the auspicious preparations proceed. In a few days, Bharata shall be Crown Prince. One thing alone pains me — the second boon you demand creates a dilemma.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(दशरथ ने कहा) क्रोध छोड़ो — अब मंगल-साज (तैयारी) करो। कुछ दिन बीतने पर भरत युवराज। एक ही बात मुझे दुख लगा — दूसरा वर — असमंजस (दुविधा-भरा) माँगा।"
         },
         {
           "id": "ay-32-c3",
@@ -1578,7 +1585,8 @@
           "original": "अजहुँ हृदय जरत तेहि आँचा। रिस परिहास कि साँचेहुँ साँचा।।\nकहु तजि रोषु राम अपराधू। सबु कोउ कहइ रामु सुठि साधू।।",
           "transliteration": "ajahuṃ hṛdaya jarata tehi āṃcā, risa parihāsa ki sāṃcehuṃ sāṃcā.\nkahu taji roṣu rāma aparādhū, sabu kou kahai rāmu suṭhi sādhū.",
           "translation": "'My heart still burns with that fire. Was it anger in jest, or truly in earnest? Tell me, setting aside your anger — what is Rama's offense? Everyone says Rama is supremely virtuous.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(दशरथ ने कहा) अभी भी हृदय उस आँच (ताप) से जलता। क्रोध-परिहास (मजाक) या सचमुच सच? रोष (क्रोध) छोड़कर कहो — राम का अपराध (क्या)? सब कोई कहता — राम सुठि (अत्यन्त) साधु (सज्जन)।"
         },
         {
           "id": "ay-32-c4",
@@ -1586,7 +1594,8 @@
           "original": "तुहूँ सराहसि करसि सनेहू। अब सुनि मोहि भयउ संदेहू।।\nजासु सुभाउ अरिहि अनुकूला। सो किमि करिहि मातु प्रतिकूला।।",
           "transliteration": "tuhūṃ sarāhasi karasi sanehū, aba suni mohi bhayau saṃdehū.\njāsu subhāu arihi anukūlā, so kimi karihi mātu pratikūlā.",
           "translation": "'You yourself praise him and show him love. Now hearing this, I am filled with doubt. One whose nature is favorable even to enemies — how could he act against his mother?'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(दशरथ ने कहा) तू भी सराहती — स्नेह करती। अब सुनकर मुझे सन्देह हुआ। जिसका स्वभाव शत्रु के भी अनुकूल — वह कैसे माता के प्रतिकूल करेगा?"
         },
         {
           "id": "ay-32-d",
@@ -1594,7 +1603,8 @@
           "original": "प्रिया हास रिस परिहरहि मागु बिचारि बिबेकु।\nजेहिं देखाँ अब नयन भरि भरत राज अभिषेकु।।32।।",
           "transliteration": "priyā hāsa risa pariharahi māgu bicāri bibeku.\njehiṃ dekhāṃ aba nayana bhari bharata rāja abhiṣeku.",
           "translation": "'My dear, set aside your jest and anger. Ask with discernment and wisdom for something by which I may see Bharata's royal consecration with my own eyes.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(दशरथ ने कहा) प्रिया! हास (मजाक)-रोष (क्रोध) छोड़ो — विवेक विचारकर माँगो। जिससे अब नयन (आँखें) भरकर — भरत-राज-अभिषेक देखूँ।"
         }
       ]
     },
@@ -1607,7 +1617,8 @@
           "original": "जिऐ मीन बरू बारि बिहीना। मनि बिनु फनिकु जिऐ दुख दीना।।\nकहउँ सुभाउ न छलु मन माहीं। जीवनु मोर राम बिनु नाहीं।।",
           "transliteration": "jiai mīna baru bāri bihīnā, mani binu phaniku jiai dukha dīnā.\nkahauṃ subhāu na chalu mana māhīṃ, jīvanu mora rāma binu nāhīṃ.",
           "translation": "'A fish may live without water, or a serpent without its jewel may live in misery — but I speak my true nature with no deceit in my heart: without Rama there is no life for me.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(दशरथ ने कहा) मीन (मछली) चाहे बारि (जल)-बिहीन (बिना) जिए। मणि बिना फनिक (साँप) दुख-दीन जिए। स्वभाव कहता हूँ — मन में छल नहीं — राम बिना मेरा जीवन नहीं।"
         },
         {
           "id": "ay-33-c2",
@@ -1615,7 +1626,8 @@
           "original": "समुझि देखु जियँ प्रिया प्रबीना। जीवनु राम दरस आधीना।।\nसुनि म्रदु बचन कुमति अति जरई। मनहुँ अनल आहुति घृत परई।।",
           "transliteration": "samujhi dekhu jiyaṃ priyā prabīnā, jīvanu rāma darasa ādhīnā.\nsuni mṛdu bacana kumati ati jaraī, manahuṃ anala āhuti ghṛta paraī.",
           "translation": "'Think and see for yourself, O wise beloved — my life depends on the sight of Rama.' Hearing these gentle words, the wicked woman burned all the more, as if ghee had been poured on a fire.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(दशरथ ने कहा) जी में देखकर समझो, प्रिया प्रबीन (बुद्धिमान)! जीवन — राम-दर्शन-अधीन। मृदु (कोमल) वचन सुनकर कुमति (कैकेयी) अत्यन्त जलती — मानो अनल (अग्नि)-आहुति (में) घृत (घी) पड़ा।"
         },
         {
           "id": "ay-33-c3",
@@ -1623,7 +1635,8 @@
           "original": "कहइ करहु किन कोटि उपाया। इहाँ न लागिहि राउरि माया।।\nदेहु कि लेहु अजसु करि नाहीं। मोहि न बहुत प्रपंच सोहाहीं।",
           "transliteration": "kahai karahu kina koṭi upāyā, ihāṃ na lāgihi rāuri māyā.\ndehu ki lehu ajasu kari nāhīṃ, mohi na bahuta prapaṃca sohāhīṃ.",
           "translation": "She said, 'Try a million tricks if you will — your magic will not work here! Give the boons or refuse and earn disgrace. Your elaborate excuses don't impress me.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(कैकेयी ने कहा) करो — कोटि (करोड़ों) उपाय — यहाँ आपकी माया नहीं लगेगी। दो या लो — अयश (बदनामी) करके नहीं। मुझे बहुत प्रपञ्च (बहाने) नहीं सुहाते।"
         },
         {
           "id": "ay-33-c4",
@@ -1631,7 +1644,8 @@
           "original": "रामु साधु तुम्ह साधु सयाने। राममातु भलि सब पहिचाने।।\nजस कौसिलाँ मोर भल ताका। तस फलु उन्हहि देउँ करि साका।।",
           "transliteration": "rāmu sādhu tumha sādhu sayāne, rāmamātu bhali saba pahicāne.\njasa kausalāṃ mora bhala tākā, tasa phalu unhahi deuṃ kari sākā.",
           "translation": "'Rama is virtuous, you are virtuous and wise, Rama's mother is good — everyone knows that. Whatever good Kausalya has wished me, I shall return that very fruit to them in full measure.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(कैकेयी ने कहा) राम साधु, तुम साधु-सयाने — राममाता भली — सब पहचाने। जैसा कौसल्या ने मेरा भला चाहा — वैसा फल उन्हें दूँ — साका (शपथपूर्वक)।"
         },
         {
           "id": "ay-33-d",
@@ -1639,7 +1653,8 @@
           "original": "होत प्रात मुनिबेष धरि जौं न रामु बन जाहिं।\nमोर मरनु राउर अजस नृप समुझिअ मन माहिं।।33।।",
           "transliteration": "hota prāta munibeṣa dhari jauṃ na rāmu bana jāhiṃ.\nmora maranu rāura ajasa nṛpa samujhia mana māhiṃ.",
           "translation": "'If by dawn Rama does not go to the forest in ascetic garb, then my death and your disgrace will follow, O King — understand this in your mind.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(कैकेयी ने कहा) प्रातः (सवेरे) होते — मुनिवेष (तपस्वी-वेश) धारकर — यदि राम वन नहीं जाएँ। मेरा मरण और आपका अयश (बदनामी) — नृप (राजा)! मन में समझो।"
         }
       ]
     },
@@ -1652,7 +1667,8 @@
           "original": "अस कहि कुटिल भई उठि ठाढ़ी। मानहुँ रोष तरंगिनि बाढ़ी।।\nपाप पहार प्रगट भइ सोई। भरी क्रोध जल जाइ न जोई।।",
           "transliteration": "asa kahi kuṭila bhaī uṭhi ṭhāṛhī, mānahuṃ roṣa taraṃgini bāṛhī.\npāpa pahāra pragaṭa bhai soī, bharī krodha jala jāi na joī.",
           "translation": "So saying, the cruel woman rose and stood up, as if a river of rage had flooded. She was like a mountain of sin that had become manifest, filled with the waters of wrath — impossible to behold.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "ऐसा कहकर कुटिल (दुष्ट) उठकर खड़ी हुई — मानो रोष-तरंगिनी (क्रोध-नदी) बाढ़ी। पाप-पहाड़ प्रकट हुई वही — क्रोध-जल से भरी — देखी नहीं जाती।"
         },
         {
           "id": "ay-34-c2",
@@ -1660,7 +1676,8 @@
           "original": "दोउ बर कूल कठिन हठ धारा। भवँर कूबरी बचन प्रचारा।।\nढाहत भूपरूप तरु मूला। चली बिपति बारिधि अनुकूला।।",
           "transliteration": "dou bara kūla kaṭhina haṭha dhārā, bhavaṃra kūbarī bacana pracārā.\nḍhāhata bhūparūpa taru mūlā, calī bipati bāridhi anukūlā.",
           "translation": "The two boons were the riverbanks, her stubborn determination the fierce current, the hunchback's words were the eddies. This river of calamity was uprooting the king's life-tree, flowing toward the ocean of disaster.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "दोनों वर — कूल (किनारे) — कठिन हठ — धारा (प्रवाह)। कूबरी (मन्थरा)-वचन — प्रचार (फैलाव) — भँवर (भंवर)। भूपरूप (राजा-रूपी) वृक्ष-मूल ढहाती — विपत्ति-वारिधि (सागर) अनुकूल (की ओर) चली।"
         },
         {
           "id": "ay-34-c3",
@@ -1668,7 +1685,8 @@
           "original": "लखी नरेस बात फुरि साँची। तिय मिस मीचु सीस पर नाची।।\nगहि पद बिनय कीन्ह बैठारी। जनि दिनकर कुल होसि कुठारी।।",
           "transliteration": "lakhī naresa bāta phuri sāṃcī, tiya misa mīcu sīsa para nācī.\ngahi pada binaya kīnha baiṭhārī, jani dinakara kula hosi kuṭhārī.",
           "translation": "The king saw that her words were truly final. Death was dancing on his head in the guise of a woman. He clasped her feet and implored her, seating her down: 'Do not become an axe to the Solar dynasty!'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "नरेश (राजा) ने बात फुरि (पक्की) साँची (सच्ची) देखी। तिय (स्त्री) मिस (बहाने) मृत्यु सिर पर नाची। पद (चरण) पकड़कर विनय करके बैठाई — (कहा) दिनकर (सूर्य)-कुल की कुठारी (कुल्हाड़ी) मत बनो।"
         },
         {
           "id": "ay-34-c4",
@@ -1676,7 +1694,8 @@
           "original": "मागु माथ अबहीं देउँ तोही। राम बिरहँ जनि मारसि मोही।।\nराखु राम कहुँ जेहि तेहि भाँती। नाहिं त जरिहि जनम भरि छाती।।",
           "transliteration": "māgu mātha abahīṃ deuṃ tohī, rāma birahaṃ jani mārasi mohī.\nrākhu rāma kahuṃ jehi tehi bhāṃtī, nāhiṃ ta jarihi janama bhari chātī.",
           "translation": "'I will give you my head this very moment, but do not kill me with separation from Rama! Keep Rama here by whatever means — otherwise my heart will burn for the rest of my life.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(दशरथ ने कहा) माथा (मस्तक) अभी दूँ तुझे — (पर) राम-विरह में मत मारो मुझे। राम को किसी भी भाँति रखो — नहीं तो जन्मभर छाती जलेगी।"
         },
         {
           "id": "ay-34-d",
@@ -1684,7 +1703,8 @@
           "original": "देखी ब्याधि असाध नृपु परेउ धरनि धुनि माथ।\nकहत परम आरत बचन राम राम रघुनाथ।।34।।",
           "transliteration": "dekhī byādhi asādha nṛpu pareu dharani dhuni mātha.\nkahata parama ārata bacana rāma rāma raghunātha.",
           "translation": "Seeing the malady incurable, the king fell to the ground, beating his head, uttering words of extreme anguish: 'Rama! Rama! O Lord of the Raghus!'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "असाध्य (लाइलाज) व्याधि (रोग) देखकर — नृप (राजा) धरनी (पृथ्वी) पर गिरे — माथा धुनकर (पीटकर)। परम आर्त (दुखी) वचन कहते — 'राम! राम! रघुनाथ!'"
         }
       ]
     },
@@ -1697,7 +1717,8 @@
           "original": "ब्याकुल राउ सिथिल सब गाता। करिनि कलपतरु मनहुँ निपाता।।\nकंठु सूख मुख आव न बानी। जनु पाठीनु दीन बिनु पानी।।",
           "transliteration": "byākula rāu sithila saba gātā, karini kalapataru manahuṃ nipātā.\nkaṃṭhu sūkha mukha āva na bānī, janu pāṭhīnu dīna binu pānī.",
           "translation": "The distressed king's whole body went limp, as if a she-elephant had felled a wish-fulfilling tree. His throat dried up and no words came, like a fish gasping without water.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "व्याकुल राजा — सब शरीर शिथिल (ढीला)। मानो करिनी (हथिनी) ने कल्पतरु (कल्पवृक्ष) गिराया। कण्ठ (गला) सूखा — मुख से वाणी नहीं आती। मानो पाठीन (रोहू मछली) — दीन (दयनीय) — बिना पानी।"
         },
         {
           "id": "ay-35-c2",
@@ -1705,7 +1726,8 @@
           "original": "पुनि कह कटु कठोर कैकेई। मनहुँ घाय महुँ माहुर देई।।\nजौं अंतहुँ अस करतबु रहेऊ। मागु मागु तुम्ह केहिं बल कहेऊ।।",
           "transliteration": "puni kaha kaṭu kaṭhora kaikeī, manahuṃ ghāya mahuṃ māhura deī.\njauṃ aṃtahuṃ asa karatbu rahaeū, māgu māgu tumha kehiṃ bala kahaeū.",
           "translation": "Again Kaikeyi spoke sharp and harsh words, as if pouring venom into a wound: 'If this is how you intended to end up, by whose authority did you say, \"Ask! Ask!\"?'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "फिर कैकेयी कटु (कड़वे)-कठोर वचन कहती — मानो घाव में माहुर (विष) देती। (कहती) यदि अन्त में ऐसा करना था — 'माँगो-माँगो' किसके बल पर कहा?"
         },
         {
           "id": "ay-35-c3",
@@ -1713,7 +1735,8 @@
           "original": "दुइ कि होइ एक समय भुआला। हँसब ठठाइ फुलाउब गाला।।\nदानि कहाउब अरु कृपनाई। होइ कि खेम कुसल रौताई।।",
           "transliteration": "dui ki hoi eka samaya bhuālā, haṃsaba ṭhaṭhāi phulāuba gālā.\ndāni kahāuba aru kṛpanāī, hoi ki khema kusala rautāī.",
           "translation": "'Can two things be true at the same time, O King? Laughing loudly while puffing up your cheeks? Can one be called generous while being miserly? Can a warrior find safety and ease?'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(कैकेयी ने कहा) क्या एक समय दो (बातें) होती, भुआल (राजा)? ठहाका लगाकर हँसना और गाल (गर्व) फुलाना? दानी कहलाना और कृपणता (कंजूसी)? रौताई (राजपन) में क्षेम-कुशल होती क्या?"
         },
         {
           "id": "ay-35-c4",
@@ -1721,7 +1744,8 @@
           "original": "छाड़हु बचनु कि धीरजु धरहू। जनि अबला जिमि करुना करहू।।\nतनु तिय तनय धामु धनु धरनी। सत्यसंध कहुँ तृन सम बरनी।।",
           "transliteration": "chāṛahu bacanu ki dhīraju dharahū, jani abalā jimi karunā karahū.\ntanu tiya tanaya dhāmu dhanu dharanī, satyasaṃdha kahuṃ tṛna sama baranī.",
           "translation": "'Either break your word or have patience! Do not weep like a helpless woman! Body, wife, son, home, wealth, and land — for one who is truth-bound, these are described as trivial as straw.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(कैकेयी ने कहा) वचन छोड़ो या धीरज धरो। अबला (निर्बल स्त्री) जैसे करुणा (रोना) मत करो। तन (शरीर), तिय (पत्नी), तनय (पुत्र), धाम (घर), धन, धरनी (भूमि) — सत्यसन्ध (सत्यव्रती) के लिए तृण (तिनके)-सम वर्णित।"
         },
         {
           "id": "ay-35-d",

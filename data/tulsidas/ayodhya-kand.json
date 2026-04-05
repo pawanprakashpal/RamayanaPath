@@ -7332,7 +7332,8 @@
           "original": "भूप सुमंत्रु लीन्ह उर लाई। बूड़त कछु अधार जनु पाई।।\nसहित सनेह निकट बैठारी। पूँछत राउ नयन भरि बारी।।",
           "transliteration": "bhūpa sumaṃtru līnha ura lāī. būḍata kachu adhāra janu pāī..\nsahita saneha nikaṭa baiṭhārī. pūṃchata rāu nayana bhari bārī..",
           "translation": "The king embraced Sumantra to his breast as a drowning man grasps at some support. Seating him near with affection, the king asked with eyes full of tears.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "भूप (राजा) ने सुमन्त्र को उर (हृदय) से लगाया — मानो डूबते को कुछ अधार (सहारा) मिला। स्नेह सहित निकट बैठाकर — राजा ने नयन (आँखें) भरकर पूछा।"
         },
         {
           "id": "ay-149-c2",
@@ -7340,7 +7341,8 @@
           "original": "राम कुसल कहु सखा सनेही। कहँ रघुनाथु लखनु बैदेही।।\nआने फेरि कि बनहि सिधाए। सुनत सचिव लोचन जल छाए।।",
           "transliteration": "rāma kusala kahu sakhā sanehī. kahaṃ raghunāthu lakhanu baidehī..\nāne pheri ki banahi sidhāe. sunata saciva locana jala chāe..",
           "translation": "'Tell me of Rama's welfare, dear friend. Where is Raghunatha, Lakshmana, and Vaidehi? Did you bring them back, or did they proceed to the forest?' Hearing this, the minister's eyes filled with tears.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(दशरथ ने पूछा) राम-कुशल कहो, सखा (मित्र) स्नेही! कहाँ (हैं) रघुनाथ-लक्ष्मण-बैदेही (सीता)? लौटाकर लाए या वन गए? सुनते सचिव (सुमन्त्र) के लोचन (नेत्रों) में जल छाया।"
         },
         {
           "id": "ay-149-c3",
@@ -7348,7 +7350,8 @@
           "original": "सोक बिकल पुनि पूँछ नरेसू। कहु सिय राम लखन संदेसू।।\nराम रूप गुन सील सुभाऊ। सुमिरि सुमिरि उर सोचत राऊ।।",
           "transliteration": "soka bikala puni pūṃcha naresū. kahu siya rāma lakhana saṃdesū..\nrāma rūpa guna sīla subhāū. sumiri sumiri ura socata rāū..",
           "translation": "Stricken with grief, the king again asked, 'Tell me the message of Sita, Rama, and Lakshmana.' Remembering Rama's beauty, virtues, gentleness, and nature, the king kept sighing and grieving.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "शोक-विकल (दुख-व्याकुल) नरेश (राजा) फिर पूछते — (कहते) सीता-राम-लक्ष्मण सन्देश कहो। राम-रूप-गुण-शील-सुभाव — स्मरण कर-करके राजा हृदय में सोचते।"
         },
         {
           "id": "ay-149-c4",
@@ -7356,7 +7359,8 @@
           "original": "राउ सुनाइ दीन्ह बनबासू। सुनि मन भयउ न हरषु हराँसू।।\nसो सुत बिछुरत गए न प्राना। को पापी बड़ मोहि समाना।।",
           "transliteration": "rāu sunāi dīnha banabāsū. suni mana bhayau na haraṣu harāṃsū..\nso suta bichurata gae na prānā. ko pāpī baḍa mohi samānā..",
           "translation": "The king was told that exile had been given. Hearing this, there was neither joy nor sorrow in his heart. 'That son was separated from me, yet my life did not depart. Who is a greater sinner than I?'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(सुमन्त्र ने) राजा को सुनाया — वनवास दिया (= राम वन गए)। सुनकर मन में न हर्ष, न विषाद। (दशरथ कहते) वह सुत बिछुड़ते प्राण नहीं गए — मुझसम बड़ा पापी कौन?"
         },
         {
           "id": "ay-149-d",
@@ -7364,7 +7368,8 @@
           "original": "सखा रामु सिय लखनु जहँ तहाँ मोहि पहुँचाउ।\nनाहिं त चाहत चलन अब प्रान कहउँ सतिभाउ।।149।।",
           "transliteration": "sakhā rāmu siya lakhanu jahaṃ tahāṃ mohi pahūṃcāu.\nnāhiṃ ta cāhata calana aba prāna kahauṃ satibhāu..149..",
           "translation": "'Friend, take me to where Rama, Sita, and Lakshmana are. Otherwise, I tell you truly, my life is about to depart.'",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(दशरथ ने कहा) सखा! राम-सीता-लक्ष्मण जहाँ — वहाँ मुझे पहुँचाओ। नहीं तो — अब प्राण चलना चाहते — सत्यभाव (सच) कहता हूँ।"
         }
       ]
     },
@@ -7377,7 +7382,8 @@
           "original": "पुनि पुनि पूँछत मंत्रहि राऊ। प्रियतम सुअन सँदेस सुनाऊ।।\nकरहि सखा सोइ बेगि उपाऊ। रामु लखनु सिय नयन देखाऊ।।",
           "transliteration": "puni puni pūṃchata maṃtrahi rāū. priyatama suana saṃdesa sunāū..\nkarahi sakhā soi begi upāū. rāmu lakhanu siya nayana dekhāū..",
           "translation": "Again and again the king asked the minister, 'Tell me news of my dearest son. Dear friend, quickly find some means by which I may see Rama, Lakshmana, and Sita.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "बार-बार राजा मन्त्री (सुमन्त्र) से पूछते — (कहते) प्रियतम सुअन (पुत्र) सन्देश सुनाओ। सखा! वही शीघ्र उपाय करो — राम-लक्ष्मण-सीता नयनों (आँखों) दिखाओ।"
         },
         {
           "id": "ay-150-c2",
@@ -7385,7 +7391,8 @@
           "original": "सचिव धीर धरि कह मुदु बानी। महाराज तुम्ह पंडित ग्यानी।।\nबीर सुधीर धुरंधर देवा। साधु समाजु सदा तुम्ह सेवा।।",
           "transliteration": "saciva dhīra dhari kaha mudu bānī. mahārāja tumha paṃḍita gyānī..\nbīra sudhīra dhuraṃdhara devā. sādhu samāju sadā tumha sevā..",
           "translation": "The minister gathered his courage and spoke gently: 'O great king, you are a learned and wise man. You are brave, patient, a pillar of strength, O lord; you have always kept the company of the virtuous.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "सचिव (सुमन्त्र) ने धीरज धरकर मृदु (कोमल) वाणी कही — (कहा) महाराज! आप पण्डित (विद्वान), ज्ञानी। वीर, सुधीर (धैर्यवान), धुरन्धर (स्तम्भ), देव (स्वामी)। साधु-समाज सदा आपकी सेवा।"
         },
         {
           "id": "ay-150-c3",
@@ -7393,7 +7400,8 @@
           "original": "जनम मरन सब दुख भोगा। हानि लाभ प्रिय मिलन बियोगा।।\nकाल करम बस हौहिं गोसाईं। बरबस राति दिवस की नाईं।।",
           "transliteration": "janama marana saba dukha bhogā. hāni lābhu priya milana biyogā..\nkāla karama basa hauhiṃ gosāīṃ. barabasa rāti divasa kī nāīṃ..",
           "translation": "'Birth and death, all kinds of suffering, loss and gain, meeting and separation with loved ones — these happen by the power of time and fate, O lord, as inevitably as night follows day.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(सुमन्त्र ने कहा) जन्म-मरण — सब दुख-भोग। हानि-लाभ — प्रिय-मिलन-वियोग। काल (समय)-कर्म वश होते, गोसाईं! — बरबस (अवश्य) — रात-दिन की भाँति।"
         },
         {
           "id": "ay-150-c4",
@@ -7401,7 +7409,8 @@
           "original": "सुख हरषहिं जड़ दुख बिलखाहीं। दोउ सम धीर धरहिं मन माहीं।।\nधीरज धरहु बिबेकु बिचारी। छाड़िअ सोच सकल हितकारी।।",
           "transliteration": "sukha haraṣahiṃ jaḍa dukha bilakhāhīṃ. dou sama dhīra dharahiṃ mana māhīṃ..\ndhīraja dharahu bibeku bicārī. chāḍia soca sakala hitakārī..",
           "translation": "'Fools rejoice in happiness and wail in sorrow; the wise hold both equally in their minds. Be patient, reflecting with discrimination, and abandon your grief — this is in the interest of all.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(सुमन्त्र ने कहा) सुख में जड़ (मूर्ख) हर्षित, दुख में विलखाते (रोते)। दोनों सम (समान) धीर (धैर्यवान) मन में धरते। धीरज धरो — विवेक विचारकर। सोच (चिन्ता) छोड़ो — सकल हितकारी (सबके लिए भलाई)।"
         },
         {
           "id": "ay-150-d",
@@ -7409,7 +7418,8 @@
           "original": "प्रथम बासु तमसा भयउ दूसर सुरसरि तीर।\nन्हाई रहे जलपानु करि सिय समेत दोउ बीर।।150।।",
           "transliteration": "prathama bāsu tamasā bhayau dūsara surasari tīra.\nnhāī rahe jalapānu kari siya sameta dou bīra..150..",
           "translation": "The first night's halt was on the bank of the Tamasa, and the second on the bank of the Ganga. Both heroes along with Sita bathed and took only water as sustenance.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(सुमन्त्र ने कहा) प्रथम तमसा (नदी) पर रात हुई — दूसरी सुरसरि (गंगा) तीर (किनारे)। नहाकर — जलपान करके रहे — सीता समेत दोनों वीर।"
         }
       ]
     },
@@ -7422,7 +7432,8 @@
           "original": "केवट कीन्हि बहुत सेवकाई। सो जामिनि सिंगरौर गवाँई।।\nहोत प्रात बट छीरु मगावा। जटा मुकुट निज सीस बनावा।।",
           "transliteration": "kevaṭa kīnhi bahuta sevakāī. so jāmini siṃgaraura gavāṃī..\nhota prāta baṭa chīru magāvā. jaṭā mukuṭa nija sīsa banāvā..",
           "translation": "The boatman rendered much service. That night was spent at Shringaverapura. At dawn, Rama sent for the milk of a banyan tree and fashioned a matted-hair crown upon his head.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(सुमन्त्र ने कहा) केवट (नाविक) ने बहुत सेवकाई की। वह रात श्रृंगवेरपुर में बिताई। प्रातः (सवेरे) बट (वटवृक्ष)-छीर (दूध) मँगवाया। जटा-मुकुट निज सिर बनाया।"
         },
         {
           "id": "ay-151-c2",
@@ -7430,7 +7441,8 @@
           "original": "राम सखाँ तब नाव मगाई। प्रिया चढ़ाइ चढ़े रघुराई।।\nलखन बान धनु धरे बनाई। आपु चढ़े प्रभु आयसु पाई।।",
           "transliteration": "rāma sakhāṃ taba nāva magāī. priyā caḍhāi caḍhe raghurāī..\nlakhana bāna dhanu dhare banāī. āpu caḍhe prabhu āyasu pāī..",
           "translation": "Then Rama's friend (the boatman) brought a boat. The Lord of the Raghus helped His beloved aboard and then climbed in himself. Lakshmana arranged the bow and arrows beautifully and boarded the boat with the Lord's permission.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(सुमन्त्र ने कहा) राम-सखा (केवट) ने तब नाव मँगवाई। प्रिया (सीता) चढ़ाकर रघुराई चढ़े। लक्ष्मण — बाण-धनुष सजाकर — प्रभु-आज्ञा पाकर आपु (स्वयं) चढ़े।"
         },
         {
           "id": "ay-151-c3",
@@ -7438,7 +7450,8 @@
           "original": "बिकल बिलोकि मोहि रघुबीरा। बोले मधुर बचन धरि धीरा।।\nतात प्रनामु तात सन कहेहु। बार बार पद पंकज गहेहू।।",
           "transliteration": "bikala biloki mohi raghubīrā. bole madhura bacana dhari dhīrā..\ntāta pranāmu tāta sana kahehu. bāra bāra pada paṃkaja gahehu..",
           "translation": "Seeing me distressed, the hero of the Raghus spoke sweet words with composure: 'Dear one, convey my respects to my father. Clasp his lotus feet again and again.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(सुमन्त्र ने कहा) मुझे विकल (व्याकुल) देखकर रघुवीर — धीरज धरकर मधुर वचन बोले। (कहा) तात (प्रिय)! तात (पिताजी) से प्रणाम कहना। बार-बार पद-पंकज (चरण-कमल) पकड़ना।"
         },
         {
           "id": "ay-151-c4",
@@ -7446,7 +7459,8 @@
           "original": "करबि पायँ परि बिनय बहोरी। तात करिअ जनि चिंता मोरी।।\nबन मग मंगल कुसल हमारें। कृपा अनुग्रह पुन्य तुम्हारें।।",
           "transliteration": "karabi pāyaṃ pari binaya bahorī. tāta karia jani ciṃtā morī..\nbana maga maṃgala kusala hamāreṃ. kṛpā anugraha punya tumhāreṃ..",
           "translation": "'Then, falling at his feet, make this further entreaty: Father, please do not worry about me. By your grace, blessing, and merit, all shall be well and auspicious with us on the forest path.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(राम ने कहा) पैर पड़कर फिर विनय करना — (कहना) तात! मेरी चिन्ता मत करें। वन-मार्ग मंगल-कुशल हमारे — कृपा-अनुग्रह-पुण्य आपके।"
         }
       ]
     },
@@ -7459,7 +7473,8 @@
           "original": "पुरजन परिजन सकल निहोरी। तात सुनाएहु बिनती मोरी।।\nसोइ सब भाँति मोर हितकारी। जातें रह नरनाहु सुखारी।।",
           "transliteration": "purajana parijana sakala nihorī. tāta sunāehu binatī morī..\nsoi saba bhāṃti mora hitakārī. jāteṃ raha naranāhu sukhārī..",
           "translation": "'Humbly entreat all the citizens and family members and convey my supplication to them: that person is my well-wisher in every way who keeps the king happy.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(राम ने कहा) पुरजन (नगरवासी)-परिजन (रिश्तेदार) — सबसे निहोरी (विनती) करके — तात! मेरी विनती सुनाना। वही सब भाँति मेरा हितकारी — जिससे नरनाह (राजा) सुखी रहें।"
         },
         {
           "id": "ay-152-c2",
@@ -7467,7 +7482,8 @@
           "original": "कहब सँदेसु भरत के आएँ। नीति न तजिअ राजपदु पाएँ।।\nपालेहु प्रजहि करम मन बानी। सेएहु मातु सकल सम जानी।।",
           "transliteration": "kahaba saṃdesu bharata ke āeṃ. nīti na tajia rājapadu pāeṃ..\npālehu prajahi karama mana bānī. seehu mātu sakala sama jānī..",
           "translation": "'Deliver this message when Bharata arrives: upon receiving the throne, do not abandon righteous conduct. Protect the subjects with deed, mind, and speech, and serve all the mothers equally.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(राम ने कहा) भरत के आने पर सन्देश कहना — राजपद (राज-गद्दी) पाकर नीति न त्यागें। प्रजा पालें — कर्म-मन-वाणी। सब माताओं को समान जानकर सेवा करें।"
         },
         {
           "id": "ay-152-c3",
@@ -7475,7 +7491,8 @@
           "original": "ओर निबाहेहु भायप भाई। करि पितु मातु सुजन सेवकाई।।\nतात भाँति तेहि राखब राऊ। सोच मोर जेहिं करै न काऊ।।",
           "transliteration": "ora nibāhehu bhāyapa bhāī. kari pitu mātu sujana sevakāī..\ntāta bhāṃti tehi rākhaba rāū. soca mora jehiṃ karai na kāū..",
           "translation": "'Fulfill your brotherly duty, O brother, serving father, mother, and the virtuous. Dear one, keep the king in such a way that he never grieves for me.'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(राम ने कहा) भायप (भ्रातृत्व) और निभाना, भाई! — पिता-माता-सुजन (सज्जन) सेवकाई करके। तात! उसी भाँति राजा रखना — जिससे मेरा सोच (चिन्ता) कभी न करें।"
         },
         {
           "id": "ay-152-c4",
@@ -7483,7 +7500,8 @@
           "original": "लखन कहे कछु बचन कठोरा। बरजि राम पुनि मोहि निहोरा।।\nबार बार निज सपथ देवाई। कहबि न तात लखन लरिकाई।।",
           "transliteration": "lakhana kahe kachu bacana kaṭhorā. baraji rāma puni mohi nihorā..\nbāra bāra nija sapatha devāī. kahabi na tāta lakhana larikāī..",
           "translation": "'Lakshmana spoke some harsh words, but Rama stopped him and then pleaded with me. Making me swear again and again by his own name, he said, \"Dear one, please do not speak of Lakshmana's youthful impetuosity.\"'",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(सुमन्त्र ने कहा) लक्ष्मण ने कुछ कठोर वचन कहे — राम ने रोककर फिर मुझसे निहोरा (विनती) किया। बार-बार निज सपथ (शपथ) दिलाकर (कहा) — तात! लक्ष्मण की लड़कपन (की बात) मत कहना।"
         },
         {
           "id": "ay-152-d",
@@ -7491,7 +7509,8 @@
           "original": "कहि प्रनाम कछु कहन लिय सिय भइ सिथिल सनेह।\nथकित बचन लोचन सजल पुलक पल्लवित देह।।152।।",
           "transliteration": "kahi pranāma kachu kahana liya siya bhai sithila saneha.\nthakita bacana locana sajala pulaka pallavita deha..152..",
           "translation": "Having said her respects, Sita wanted to say something but was overcome by affection. Her voice choked, her eyes filled with tears, and her body thrilled with emotion.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "(सुमन्त्र ने कहा) प्रणाम कहकर सीता कुछ कहने लगीं — स्नेह से शिथिल (विह्वल) हुईं। थकित (रुकी) वाणी — लोचन (नेत्र) सजल (आँसू-भरे) — पुलक-पल्लवित (रोमांचित) देह।"
         }
       ]
     },
@@ -7504,7 +7523,8 @@
           "original": "तेहि अवसर रघुबर रूख पाई। केवट पारहि नाव चलाई।।\nरघुकुलतिलक चले एहि भाँती। देखउँ ठाढ़ कुलिस धरि छाती।।",
           "transliteration": "tehi avasara raghubara rūkha pāī. kevaṭa pārahi nāva calāī..\nraghukulatilaka cale ehi bhāṃtī. dekhauṃ ṭhāḍha kulisa dhari chātī..",
           "translation": "At that moment, understanding the wishes of the chief of the Raghus, the boatman began rowing the boat to the other shore. The jewel of the Raghu clan departed in this manner; I stood watching with a thunderbolt lodged in my breast.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(सुमन्त्र ने कहा) उस अवसर पर रघुवर-रुख (इच्छा) पाकर — केवट (नाविक) ने पार नाव चलाई। रघुकुलतिलक इस भाँति चले — मैं खड़ा देखता — छाती पर कुलिस (वज्र) धरकर।"
         },
         {
           "id": "ay-153-c2",
@@ -7512,7 +7532,8 @@
           "original": "मैं आपन किमि कहौं कलेसू। जिअत फिरेउँ लेइ राम सँदेसू।।\nअस कहि सचिव बचन रहि गयऊ। हानि गलानि सोच बस भयऊ।।",
           "transliteration": "maiṃ āpana kimi kahauṃ kalesū. jiata phireuṃ lei rāma saṃdesū..\nasa kahi saciva bacana rahi gayaū. hāni galāni soca basa bhayaū..",
           "translation": "'How can I describe my own anguish? I returned alive, carrying only Rama's message.' So saying, the minister's speech gave way; he was overcome by loss, shame, and anxiety.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "(सुमन्त्र ने कहा) मैं अपना क्लेश (कष्ट) कैसे कहूँ? जीवित लौटा — राम-सन्देश लेकर। ऐसा कहकर सचिव (सुमन्त्र) वचन रह गया (रुक गया)। हानि-ग्लानि (पछतावा)-सोच (चिन्ता) वश हुआ।"
         },
         {
           "id": "ay-153-c3",
@@ -7520,7 +7541,8 @@
           "original": "सुत बचन सुनतहिं नरनाहू। परेउ धरनि उर दारुन दाहू।।\nतलफत बिषम मोह मन मापा। माजा मनहुँ मीन कहुँ ब्यापा।।",
           "transliteration": "suta bacana sunatahiṃ naranāhū. pareu dharani ura dāruna dāhū..\ntalaphata biṣama moha mana māpā. mājā manahūṃ mīna kahūṃ byāpā..",
           "translation": "Hearing the words about his son, the king fell to the ground with a terrible burning in his heart. He writhed in agony; delusion gripped his mind like the fatal illness that afflicts a fish.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "सुत (पुत्र)-वचन सुनते ही नरनाह (राजा) — धरनी (पृथ्वी) पर गिरे — उर (हृदय) में दारुण (भयंकर) दाह (जलन)। तड़फते — विषम (भयंकर) मोह — मन मापा (व्याप्त)। माजा (= बीच धारा में) — मानो मीन (मछली) को (जाल) व्यापा।"
         },
         {
           "id": "ay-153-c4",
@@ -7528,7 +7550,8 @@
           "original": "करि बिलाप सब रोवहिं रानी। महा बिपति किमि जाइ बखानी।।\nसुनि बिलाप दुखहू दुखु लागा। धीरजहू कर धीरजु भागा।।",
           "transliteration": "kari bilāpa saba rovahiṃ rānī. mahā bipati kimi jāi bakhānī..\nsuni bilāpa dukhahū dukhu lāgā. dhīrajahū kara dhīraju bhāgā..",
           "translation": "All the queens wailed in lamentation; how can such great calamity be described? Hearing their cries, even grief itself felt grieved, and even patience lost its patience.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "विलाप करके सब रानियाँ रोतीं — महाविपत्ति कैसे वर्णन हो? विलाप सुनकर दुख को भी दुख लगा। धीरज का भी धीरज भागा।"
         },
         {
           "id": "ay-153-d",
@@ -7536,7 +7559,8 @@
           "original": "भयउ कोलाहलु अवध अति सुनि नृप राउर सोरु।\nबिपुल बिहग बन परेउ निसि मानहुँ कुलिस कठोरु।।153।।",
           "transliteration": "bhayau kolāhalu avadha ati suni nṛpa rāura soru.\nbipula bihaga bana pareu nisi mānahūṃ kulisa kaṭhoru..153..",
           "translation": "A great uproar arose in Ayodhya hearing the cries of the royal household. It was as though a hard thunderbolt had fallen at night on a forest full of birds.",
-          "lineCount": 2
+          "lineCount": 2,
+          "hindiTranslation": "अवध (अयोध्या) में अत्यन्त कोलाहल हुआ — नृप (राजा) राउर (राजमहल) शोर (विलाप) सुनकर। मानो विपुल (बड़े) विहग (पक्षी)-वन पर रात में — कुलिस (वज्र) कठोर गिरा।"
         }
       ]
     },
@@ -7549,7 +7573,8 @@
           "original": "प्रान कंठगत भयउ भुआलू। मनि बिहीन जनु ब्याकुल ब्यालू।।\nइद्रीं सकल बिकल भइँ भारी। जनु सर सरसिज बनु बिनु बारी।।",
           "transliteration": "prāna kaṃṭhagata bhayau bhuālū. mani bihīna janu byākula byālū..\niṃdrīṃ sakala bikala bhaiṃ bhārī. janu sara sarasija banu binu bārī..",
           "translation": "The king's life-breath came up to his throat; he was like a serpent deprived of its jewel. All his senses became utterly helpless, like lotuses in a lake without water.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "भुआल (राजा) प्राण कण्ठगत (गले तक) हुए — मणि-बिहीन (मणि-रहित) व्याकुल व्याल (साँप) मानो। सकल इन्द्रियाँ अत्यन्त विकल (व्याकुल) — मानो सर (तालाब) — सरसिज (कमल)-बन — बिना बारी (जल)।"
         },
         {
           "id": "ay-154-c2",
@@ -7557,7 +7582,8 @@
           "original": "कौसल्याँ नृपु दीख मलाना। रबिकुल रबि अँथयउ जियँ जाना।\nउर धरि धीर राम महतारी। बोली बचन समय अनुसारी।।",
           "transliteration": "kausalyāṃ nṛpu dīkha malānā. rabikula rabi aṃthayau jiyaṃ jānā.\nura dhari dhīra rāma mahatārī. bolī bacana samaya anusārī..",
           "translation": "Kausalya saw the king fading and knew in her heart that the sun of the solar dynasty was setting. Rama's mother gathered her courage and spoke words suited to the occasion.",
-          "lineCount": 4
+          "lineCount": 4,
+          "hindiTranslation": "कौसल्या ने नृप (राजा) मलाना (मुरझाता) देखा — जी (मन) में जाना — रविकुल (सूर्यवंश)-रवि (सूर्य) अस्त हुआ। उर (हृदय) में धीरज धरकर राम-महतारी (माता) — समय अनुसार वचन बोलीं।"
         },
         {
           "id": "ay-154-c3",

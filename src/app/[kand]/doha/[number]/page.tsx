@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import { getDohaGroup, getTulsidasKand, getKandBySlug } from "@/lib/data";
 import VerseCard from "@/components/verse/VerseCard";
 import PrevNextNav from "@/components/navigation/PrevNextNav";
+import JsonLd from "@/components/seo/JsonLd";
 
 interface DohaPageProps {
   params: Promise<{ kand: string; number: string }>;
@@ -15,9 +16,14 @@ export async function generateMetadata({ params }: DohaPageProps): Promise<Metad
   const group = await getDohaGroup(kandSlug, dohaNumber);
   if (!kand || !group) return {};
   const title = group.label ?? `Doha ${dohaNumber}`;
+  const verseCount = group.verses.length;
+  const firstVerse = group.verses[0]?.original?.slice(0, 80) ?? "";
   return {
     title: `${title} — ${kand.tulsidas.name}`,
-    description: `Read ${title} of ${kand.tulsidas.name} from Tulsidas Ramcharitmanas with English translation.`,
+    description: `${title} of ${kand.tulsidas.name} (${kand.tulsidas.nameOriginal}) — ${verseCount} verses with original text, Hindi meaning & English translation. ${firstVerse}...`,
+    alternates: {
+      canonical: `/${kandSlug}/doha/${dohaNumber}`,
+    },
   };
 }
 
@@ -57,13 +63,43 @@ export default async function DohaPage({ params }: DohaPageProps) {
   const prevDoha = currentIndex > 0 ? dohaNumbers[currentIndex - 1] : undefined;
   const nextDoha = currentIndex < dohaNumbers.length - 1 ? dohaNumbers[currentIndex + 1] : undefined;
 
+  const pageTitle = group.label ?? `Doha ${dohaNumber}`;
+  const pageUrl = `https://ramayanpath.com/${kandSlug}/doha/${dohaNumber}`;
+
   return (
     <div>
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          itemListElement: [
+            { "@type": "ListItem", position: 1, name: "Home", item: "https://ramayanpath.com" },
+            { "@type": "ListItem", position: 2, name: kand.tulsidas.name, item: `https://ramayanpath.com/${kandSlug}` },
+            { "@type": "ListItem", position: 3, name: pageTitle, item: pageUrl },
+          ],
+        }}
+      />
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "CreativeWork",
+          name: `${pageTitle} — ${kand.tulsidas.name}`,
+          author: { "@type": "Person", name: "Goswami Tulsidas" },
+          inLanguage: ["awa", "hi", "en"],
+          isPartOf: {
+            "@type": "Book",
+            name: "Ramcharitmanas",
+            author: { "@type": "Person", name: "Goswami Tulsidas" },
+          },
+          url: pageUrl,
+        }}
+      />
+
       {/* Page header */}
       <div className="mb-8">
         <p className="text-sm text-[var(--muted)] mb-1">{kand.tulsidas.name}</p>
         <h1 className="text-2xl font-bold">
-          {group.label ?? `Doha ${dohaNumber}`}
+          {pageTitle}
         </h1>
         <p className="text-sm text-[var(--muted)] mt-1">
           {group.verses.length} verse{group.verses.length > 1 ? "s" : ""}

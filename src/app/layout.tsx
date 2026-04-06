@@ -24,6 +24,9 @@ export const metadata: Metadata = {
   },
   description: SITE_DESCRIPTION,
   metadataBase: new URL("https://ramayanpath.com"),
+  alternates: {
+    canonical: "/",
+  },
   openGraph: {
     title: SITE_NAME,
     description: SITE_DESCRIPTION,
@@ -74,6 +77,24 @@ export default function RootLayout({
         />
       </head>
       <body className="min-h-full flex flex-col antialiased">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              name: SITE_NAME,
+              url: "https://ramayanpath.com",
+              description: SITE_DESCRIPTION,
+              inLanguage: ["en", "hi", "sa"],
+              potentialAction: {
+                "@type": "SearchAction",
+                target: "https://ramayanpath.com/search?q={search_term_string}",
+                "query-input": "required name=search_term_string",
+              },
+            }),
+          }}
+        />
         <Header />
         <main className="flex-1">{children}</main>
         <Footer />

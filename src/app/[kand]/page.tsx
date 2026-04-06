@@ -14,7 +14,10 @@ export async function generateMetadata({ params }: KandPageProps): Promise<Metad
   if (!kand) return {};
   return {
     title: `${kand.tulsidas.name} — Read Ramayana`,
-    description: `Read ${kand.tulsidas.name} (${kand.tulsidas.nameOriginal}) with original verses and English translations.`,
+    description: `Read ${kand.tulsidas.name} (${kand.tulsidas.nameOriginal}) of Tulsidas Ramcharitmanas — ${kand.tulsidas.totalUnits} dohas with original Awadhi verses, Hindi meanings, and English translations.`,
+    alternates: {
+      canonical: `/${kandSlug}`,
+    },
   };
 }
 

@@ -642,13 +642,22 @@
           "hindiTranslation": "(बालि ने कहा) वे प्रभु स्वयं मेरे नेत्रों के सामने आ गए। फिर कभी ऐसा सौभाग्य बनेगा क्या?"
         },
         {
-          "id": "ki-10-ch",
+          "id": "kk-10-ch1",
           "type": "chhand",
-          "original": "सो नयन गोचर जासु गुन नित नेति कहि श्रुति गावहीं।\nजिति पवन मन गो निरस करि मुनि ध्यान कबहुँक पावहीं।।\nमोहि जानि अति अभिमान बस प्रभु कहेउ राखु सरीरही।\nअस कवन सठ हठि काटि सुरतरु बारि करिहि बबूरही।।1।।\nअब नाथ करि करुना बिलोकहु देहु जो बर मागऊँ।\nजेहिं जोनि जन्मौं कर्म बस तहँ राम पद अनुरागऊँ।।\nयह तनय मम सम बिनय बल कल्यानप्रद प्रभु लीजिऐ।\nगहि बाहँ सुर नर नाह आपन दास अंगद कीजिऐ।।2।।",
+          "original": "सो नयन गोचर जासु गुन नित नेति कहि श्रुति गावहीं।\nजिति पवन मन गो निरस करि मुनि ध्यान कबहुँक पावहीं।।\nमोहि जानि अति अभिमान बस प्रभु कहेउ राखु सरीरही।\nअस कवन सठ हठि काटि सुरतरु बारि करिहि बबूरही।।1।।",
           "transliteration": "so nayana gocara jāsu guna nita neti kahi śruti gāvahīṁ,\njiti pavana mana go nirasa kari muni dhyāna kabahūṁka pāvahīṁ.\nmohi jāni ati abhimāna basa prabhu kaheu rākhu sarīrahī,\nasa kavana saṭha haṭhi kāṭi surataru bāri karihi babūrahī. 1.\naba nātha kari karunā bilokahu dehu jo bara māgaūṁ,\njehiṁ joni janmauṁ karma basa tahaṁ rāma pada anurāgaūṁ.\nyaha tanaya mama sama binaya bala kalyāṇaprada prabhu lījai,\ngahi bāhaṁ sura nara nāha āpana dāsa aṁgada kījai. 2.",
           "translation": "That Lord, whose virtues the Vedas ever praise saying 'not this, not this,' whom sages rarely attain through meditation after conquering breath, mind, and senses — that Lord has appeared before my eyes! Knowing me to be ruled by pride, the Lord said 'keep your body alive.' What fool would cut down a wish-fulfilling tree and plant a thorny bush instead? Now, Lord, look upon me with compassion and grant the boon I ask: in whatever womb I may be born by the force of my deeds, may I have devotion to Rama's feet. This son of mine, equal to me in humility and strength — O beneficent Lord, accept him. Grasping his arm, O Lord of gods and men, make Angad Your own servant.",
-          "lineCount": 8,
+          "lineCount": 4,
           "hindiTranslation": "वे नेत्रों के सामने हैं जिनके गुणों को वेद भी नित्य 'नेति-नेति' कहकर गाते हैं। पवन और मन को जीतकर, इन्द्रियों को निरस करके, मुनि ध्यान में (जिन्हें) खोजते हैं।"
+        },
+        {
+          "id": "kk-10-ch2",
+          "type": "chhand",
+          "original": "अब नाथ करि करुना बिलोकहु देहु जो बर मागऊँ।\nजेहिं जोनि जन्मौं कर्म बस तहँ राम पद अनुरागऊँ।।\nयह तनय मम सम बिनय बल कल्यानप्रद प्रभु लीजिऐ।\nगहि बाहँ सुर नर नाह आपन दास अंगद कीजिऐ।।2।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 4,
+          "hindiTranslation": ""
         },
         {
           "id": "ki-10-d",
@@ -937,13 +946,22 @@
           "hindiTranslation": "(श्रीराम ने कहा) विविध जीवों से भरी पृथ्वी शोभित है — जैसे सुराज्य पाकर प्रजा बढ़ती है। जहाँ-तहाँ थके पथिक रुके हुए हैं।"
         },
         {
-          "id": "ki-15-d",
+          "id": "kk-15-d1",
           "type": "doha",
-          "original": "कबहुँ प्रबल बह मारुत जहँ तहँ मेघ बिलाहिं।\nजिमि कपूत के उपजें कुल सद्धर्म नसाहिं।।15(क)।।\nकबहुँ दिवस महँ निबिड़ तम कबहुँक प्रगट पतंग।\nबिनसइ उपजइ ग्यान जिमि पाइ कुसंग सुसंग।।15(ख)।।",
+          "original": "कबहुँ प्रबल बह मारुत जहँ तहँ मेघ बिलाहिं।\nजिमि कपूत के उपजें कुल सद्धर्म नसाहिं।।15(क)।।",
           "transliteration": "kabahūṁ prabala baha māruta jahaṁ tahaṁ megha bilāhiṁ,\njimi kapūta ke upajeṁ kula saddharma nasāhiṁ. 15(ka).\nkabahūṁ divasa mahaṁ nibiṛa tama kabahūṁka pragaṭa pataṁga,\nbinasai upajai gyāna jimi pāi kusaṁga susaṁga. 15(kha).",
           "translation": "'Sometimes fierce winds blow and clouds scatter here and there, just as with the birth of an unworthy son, the noble traditions of a family are destroyed. Sometimes there is thick darkness even in daytime, and sometimes the sun appears — just as knowledge perishes with bad company and arises with good company.'",
-          "lineCount": 4,
+          "lineCount": 2,
           "hindiTranslation": "कभी प्रबल वायु चलती है, जहाँ-तहाँ बादल बिखर जाते हैं — जैसे कुपुत्र पैदा होने से कुल के सद्धर्म नष्ट हो जाते हैं।"
+        },
+        {
+          "id": "kk-15-d2",
+          "type": "doha",
+          "original": "कबहुँ दिवस महँ निबिड़ तम कबहुँक प्रगट पतंग।\nबिनसइ उपजइ ग्यान जिमि पाइ कुसंग सुसंग।।15(ख)।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
         }
       ]
     },
@@ -1822,13 +1840,22 @@
           "hindiTranslation": "कपि-सेना संग मिलकर राक्षसों का संहार करके श्रीराम सीताजी को लाएँगे। तीनों लोकों को पवित्र करने वाला सुयश — देवता, मुनि, नारद आदि गाएँगे।"
         },
         {
-          "id": "ki-30-d",
+          "id": "kk-30-d1",
           "type": "doha",
-          "original": "भव भेषज रघुनाथ जसु सुनहि जे नर अरु नारि।\nतिन्ह कर सकल मनोरथ सिद्ध करिहि त्रिसिरारि।।30(क)।।\nनीलोत्पल तन स्याम काम कोटि सोभा अधिक।\nसुनिअ तासु गुन ग्राम जासु नाम अघ खग बधिक।।30(ख)।।",
+          "original": "भव भेषज रघुनाथ जसु सुनहि जे नर अरु नारि।\nतिन्ह कर सकल मनोरथ सिद्ध करिहि त्रिसिरारि।।30(क)।।",
           "transliteration": "bhava bheṣaja raghunātha jasu sunahi je nara aru nāri,\ntinha kara sakala manoratha siddha karihi trisirāri. 30(ka).\nnīlotpala tana syāma kāma koṭi sobhā adhika,\nsunia tāsu guna grāma jāsu nāma agha khaga badhika. 30(kha).",
           "translation": "The fame of the Lord of the Raghus is the remedy for worldly existence. Those men and women who hear it — the slayer of Trishira (Rama) will fulfill all their desires. His body is dark as a blue lotus, His beauty surpasses that of a million Kamadevas. Hear the multitude of virtues of Him whose very name is the hunter that slays the bird of sin.",
-          "lineCount": 4,
+          "lineCount": 2,
           "hindiTranslation": "भव-रोग की औषधि श्रीरघुनाथ का यश — जो नर और नारी सुनें, उनके सकल मनोरथ त्रिशिरारि (श्रीराम) सिद्ध करेंगे।"
+        },
+        {
+          "id": "kk-30-d2",
+          "type": "doha",
+          "original": "नीलोत्पल तन स्याम काम कोटि सोभा अधिक।\nसुनिअ तासु गुन ग्राम जासु नाम अघ खग बधिक।।30(ख)।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
         }
       ]
     }

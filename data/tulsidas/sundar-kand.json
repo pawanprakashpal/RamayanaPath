@@ -28,6 +28,15 @@
           "translation": "O Lord of the Raghus, there is no other desire in my heart — I speak the truth, and You are the inner soul of all beings. O best of the Raghus, grant me overflowing devotion and make my mind free from faults such as lust and other vices.",
           "lineCount": 4,
           "hindiTranslation": "हे रघुपते! मेरे हृदय में कोई अन्य इच्छा नहीं है। मैं सत्य कहता हूँ और आप सबके अन्तरात्मा हैं। हे रघुकुल श्रेष्ठ! मुझे निश्छल भक्ति प्रदान करें और मेरे मन को काम आदि दोषों से रहित कर दें।"
+        },
+        {
+          "id": "sk-0-s3",
+          "type": "shloka",
+          "original": "अतुलितबलधामं हेमशैलाभदेहं\nदनुजवनकृशानुं ज्ञानिनामग्रगण्यम्।\nसकलगुणनिधानं वानराणामधीशं\nरघुपतिप्रियभक्तं वातजातं नमामि॥3॥",
+          "transliteration": "atulitabaladhāmaṃ hemaśailābhadehaṃ\ndanujavanakṛśānuṃ jñānināmagraganṇyam.\nsakalaguṇanidhānaṃ vānarāṇāmadhīśaṃ\nraghupatipiriyabhaktaṃ vātajātaṃ namāmi..",
+          "translation": "I bow to the son of the Wind, the abode of immeasurable strength, whose body shines like a mountain of gold, who is like fire to the forest of demons, who is foremost among the wise, the treasure-house of all virtues, the lord of the monkeys, and the beloved devotee of Lord Raghupati.",
+          "lineCount": 4,
+          "hindiTranslation": "अतुल बल के धाम, सोने के पर्वत (सुमेरु) के समान कान्तियुक्त शरीरवाले, दैत्यरूपी वन को ध्वंस करने के लिए अग्निरूप, ज्ञानियों में अग्रगण्य, सम्पूर्ण गुणों के निधान, वानरों के स्वामी, श्रीरघुनाथजी के प्रिय भक्त पवनपुत्र श्रीहनुमान्जी को मैं प्रणाम करता हूँ।"
         }
       ]
     },
@@ -216,13 +225,31 @@
           "hindiTranslation": "अत्यन्त ऊँचा, चारों ओर समुद्र, सोने के परकोटे का परम प्रकाश।"
         },
         {
-          "id": "sk-3-ch",
+          "id": "sk-3-ch1",
           "type": "chhand",
-          "original": "कनक कोट बिचित्र मनि कृत सुंदरायतना घना।\nचउहट्ट हट्ट सुबट्ट बीथीं चारु पुर बहु बिधि बना।।\nगज बाजि खच्चर निकर पदचर रथ बरूथिन्ह को गनै।।\nबहुरूप निसिचर जूथ अतिबल सेन बरनत नहिं बनै।।\nबन बाग उपबन बाटिका सर कूप बापीं सोहहीं।\nनर नाग सुर गंधर्ब कन्या रूप मुनि मन मोहहीं।।\nकहुँ माल देह बिसाल सैल समान अतिबल गर्जहीं।\nनाना अखारेन्ह भिरहिं बहु बिधि एक एकन्ह तर्जहीं।।\nकरि जतन भट कोटिन्ह बिकट तन नगर चहुँ दिसि रच्छहीं।\nकहुँ महिष मानषु धेनु खर अज खल निसाचर भच्छहीं।।\nएहि लागि तुलसीदास इन्ह की कथा कछु एक है कही।\nरघुबीर सर तीरथ सरीरन्हि त्यागि गति पैहहिं सही।।",
-          "transliteration": "kanaka koṭa bicitra mani kṛta suṃdarāyatanā ghanā.\ncauhaṭṭa haṭṭa subaṭṭa bīthīṃ cāru pura bahu bidhi banā..\ngaja bāji khaccara nikara padacara ratha barūthinha ko ganai..\nbahurūpa nisicara jūtha atibala sena baranata nahiṃ banai..\nbana bāga upabana bāṭikā sara kūpa bāpīṃ sohahīṃ..\nnara nāga sura gaṃdharba kanyā rūpa muni mana mohahīṃ..\nkahuṃ māla deha bisāla saila samāna atibala garjahīṃ..\nnānā akhārenha bhirahiṃ bahu bidhi eka ekanha tarjahīṃ..\nkari jatana bhaṭa koṭinha bikaṭa tana nagara cahuṃ disi racchahīṃ..\nkahuṃ mahiṣa mānaṣu dhenu khara aja khala nisācara bhacchahīṃ..\nehi lāgi tulasīdāsa inha kī kathā kachu eka hai kahī..\nraghubīra sara tīratha sarīranha tyāgi gati paihahiṃ sahī..",
-          "translation": "Golden ramparts studded with wondrous gems, with dense and beautiful mansions. Crossroads, markets, fine lanes and streets — the lovely city was adorned in every way. Who could count the elephants, horses, mules, foot-soldiers, chariots, and their troops? Hosts of demons of many forms and a mighty army beyond description. Forests, gardens, groves, orchards, lakes, wells, and step-wells adorned the city. Maidens of men, serpents, gods, and gandharvas enchanted the minds of sages with their beauty. Somewhere, wrestlers with massive bodies like mountains roared with great might. In various arenas they wrestled in many ways, threatening one another. With great effort, crores of fierce-bodied warriors guarded the city on all four sides. Somewhere, the wicked demons devoured buffaloes, humans, cows, donkeys, and goats. For this reason, Tulsidas has told some part of their story — by giving up their bodies at the sacred pilgrimage of Raghubir's arrows, they will surely attain liberation.",
-          "lineCount": 12,
-          "hindiTranslation": "सोने का परकोटा, विचित्र मणियों से बनी सुन्दर और विस्तृत अट्टालिकाएँ। चौराहे, बाज़ार, सुन्दर गलियाँ — नगर में बहुत सी शोभा। यह देखकर हनुमानजी ने विचार किया।"
+          "original": "कनक कोट बिचित्र मनि कृत सुंदरायतना घना।\nचउहट्ट हट्ट सुबट्ट बीथीं चारु पुर बहु बिधि बना।।\nगज बाजि खच्चर निकर पदचर रथ बरूथिन्ह को गनै।।\nबहुरूप निसिचर जूथ अतिबल सेन बरनत नहिं बनै।।",
+          "transliteration": "kanaka koṭa bicitra mani kṛta suṃdarāyatanā ghanā.\ncauhaṭṭa haṭṭa subaṭṭa bīthīṃ cāru pura bahu bidhi banā..\ngaja bāji khaccara nikara padacara ratha barūthinha ko ganai..\nbahurūpa nisicara jūtha atibala sena baranata nahiṃ banai..",
+          "translation": "The golden rampart is studded with wonderful gems; within it are many beautiful houses. There are crossroads, markets, fine streets and lanes; the lovely city is adorned in many ways. Who can count the elephants, horses, mules, foot-soldiers and chariots? The army of demons of many forms is mighty beyond description.",
+          "lineCount": 4,
+          "hindiTranslation": "विचित्र मणियों से जड़ा हुआ सोने का परकोटा है, उसके अन्दर बहुत-से सुन्दर-सुन्दर घर हैं। चौराहे, बाजार, सुन्दर मार्ग और गलियाँ हैं; सुन्दर नगर बहुत प्रकार से सजा हुआ है। हाथी, घोड़े, खच्चरों के समूह तथा पैदल और रथों के समूहों को कौन गिन सकता है? अनेक रूपों के राक्षसों के दल हैं, उनकी अत्यन्त बलवती सेना वर्णन करते नहीं बनती।"
+        },
+        {
+          "id": "sk-3-ch2",
+          "type": "chhand",
+          "original": "बन बाग उपबन बाटिका सर कूप बापीं सोहहीं।\nनर नाग सुर गंधर्ब कन्या रूप मुनि मन मोहहीं।।\nकहुँ माल देह बिसाल सैल समान अतिबल गर्जहीं।\nनाना अखारेन्ह भिरहिं बहु बिधि एक एकन्ह तर्जहीं।।",
+          "transliteration": "",
+          "translation": "Forests, gardens, groves, orchards, lakes, wells and step-wells adorn the city. Maidens of men, Nagas, gods and Gandharvas captivate even sages' minds with their beauty. Somewhere mighty wrestlers with huge bodies like mountains roar with great strength, wrestling in many arenas and challenging one another.",
+          "lineCount": 4,
+          "hindiTranslation": "वन, बाग, उपवन, बाटिका, तालाब, कुएँ और बावलियाँ सुशोभित हैं। मनुष्य, नाग, देवताओं और गन्धर्वों की कन्याएँ अपने सौन्दर्य से मुनियों के भी मनों को मोह लेती हैं। कहीं पर्वत के समान विशाल शरीरवाले बड़े ही बलवान् मल्ल (पहलवान) गर्ज रहे हैं। वे अनेकों अखाड़ों में बहुत प्रकार से भिड़ते और एक-दूसरे को ललकारते हैं।"
+        },
+        {
+          "id": "sk-3-ch3",
+          "type": "chhand",
+          "original": "करि जतन भट कोटिन्ह बिकट तन नगर चहुँ दिसि रच्छहीं।\nकहुँ महिष मानषु धेनु खर अज खल निसाचर भच्छहीं।।\nएहि लागि तुलसीदास इन्ह की कथा कछु एक है कही।\nरघुबीर सर तीरथ सरीरन्हि त्यागि गति पैहहिं सही।।",
+          "transliteration": "",
+          "translation": "Crores of fierce warriors with terrible bodies carefully guard the city on all four sides. Somewhere wicked demons devour buffaloes, men, cows, donkeys and goats. For this reason Tulsidas has told their story briefly — they will surely attain salvation by giving up their bodies at the sacred pilgrimage of Shri Rama's arrows.",
+          "lineCount": 4,
+          "hindiTranslation": "भयंकर शरीरवाले करोड़ों योद्धा यत्न करके (बड़ी सावधानी से) नगर की चारों दिशाओं में (सब ओर से) रखवाली करते हैं। कहीं दुष्ट राक्षस भैंसों, मनुष्यों, गायों, गदहों और बकरों को खा रहे हैं। तुलसीदास ने इनकी कथा इसीलिए कुछ थोड़ी-सी कही है कि ये निश्चय ही श्रीरामचन्द्रजी के बाणरूपी तीर्थ में शरीरों को त्यागकर परमगति पावेंगे।"
         },
         {
           "id": "sk-3-d",
@@ -1987,13 +2014,22 @@
           "hindiTranslation": "नख ही आयुध थे, पर्वत और वृक्ष धारण किए — आकाश और पृथ्वी पर इच्छानुसार विचरने वाले। भालू और वानर सिंहनाद कर रहे थे। दिग्गज और पृथ्वी डगमगा रहे थे।"
         },
         {
-          "id": "sk-35-ch",
+          "id": "sk-35-ch1",
           "type": "chhand",
-          "original": "चिक्करहिं दिग्गज डोल महि गिरि लोल सागर खरभरे।\nमन हरष सभ गंधर्ब सुर मुनि नाग किन्नर दुख टरे।।\nकटकटहिं मर्कट बिकट भट बहु कोटि कोटिन्ह धावहीं।\nजय राम प्रबल प्रताप कोसलनाथ गुन गन गावहीं।।1।।\nसहि सक न भार उदार अहिपति बार बारहिं मोहई।\nगह दसन पुनि पुनि कमठ पृष्ट कठोर सो किमि सोहई।।\nरघुबीर रुचिर प्रयान प्रस्थिति जानि परम सुहावनी।\nजनु कमठ खर्पर सर्पराज सो लिखत अबिचल पावनी।।2।।",
-          "transliteration": "cikkarahiṃ diggaja ḍola mahi giri lola sāgara kharabhare.\nmana haraṣa sabha gaṃdharba sura muni nāga kinnara dukha ṭare..\nkaṭakaṭahiṃ markaṭa bikaṭa bhaṭa bahu koṭi koṭinha dhāvahīṃ.\njaya rāma prabala pratāpa kosalanātha guṇa gaṇa gāvahīṃ..1..\nsahi saka na bhāra udāra ahipati bāra bārahiṃ mohāī.\ngaha dasana puni puni kamaṭha pṛṣṭha kaṭhora so kimi sohāī..\nraghubīra rucira prayāna prasthiti jāni parama suhāvanī.\njanu kamaṭha kharpara sarparāja so likhata abicala pāvanī..2..",
-          "translation": "The elephants of the quarters trumpeted, the earth shook, mountains swayed, and the oceans were agitated. The gandharvas, gods, sages, nagas, and kinnaras were all glad at heart—their sorrows were ended. Fierce and formidable monkey warriors in tens of millions surged forward, singing, 'Victory to Rama of mighty glory, Lord of Kosala!'—and chanting his virtues.\nThe noble Sheshanaga could not bear the weight and fainted again and again. He gripped the back of the tortoise (Kurma) with his teeth repeatedly—how hard that must have looked! Knowing the march of the Hero of Raghu's line to be supremely beautiful, it was as if the King of Serpents was engraving that sacred and eternal scene upon the tortoise's shell.",
-          "lineCount": 8,
+          "original": "चिक्करहिं दिग्गज डोल महि गिरि लोल सागर खरभरे।\nमन हरष सभ गंधर्ब सुर मुनि नाग किन्नर दुख टरे।।\nकटकटहिं मर्कट बिकट भट बहु कोटि कोटिन्ह धावहीं।\nजय राम प्रबल प्रताप कोसलनाथ गुन गन गावहीं।।",
+          "transliteration": "cikkarahiṃ diggaja ḍola mahi giri lola sāgara kharabhare.\nmana haraṣa sabha gaṃdharba sura muni nāga kinnara dukha ṭare..\nkaṭakaṭahiṃ markaṭa bikaṭa bhaṭa bahu koṭi koṭinha dhāvahīṃ.\njaya rāma prabala pratāpa kosalanātha guṇa gaṇa gāvahīṃ..1..",
+          "translation": "The elephants of the quarters trumpeted, the earth shook, mountains trembled and the ocean was agitated. Gandharvas, gods, sages, Nagas and Kinnaras were all glad at heart that their sorrows were ended. Fierce monkey warriors gnashed their teeth; many crores upon crores rushed forward, singing the glories of Rama, the mighty Lord of Kosala.",
+          "lineCount": 4,
           "hindiTranslation": "दिग्गज चिंघाड़ रहे, पृथ्वी डोल रही, पर्वत हिल रहे, सागर उथल-पुथल। मन में प्रसन्न गन्धर्व, देवता, मुनि, नाग, किन्नर सब श्रीराम का यश गा रहे थे।"
+        },
+        {
+          "id": "sk-35-ch2",
+          "type": "chhand",
+          "original": "सहि सक न भार उदार अहिपति बार बारहिं मोहई।\nगह दसन पुनि पुनि कमठ पृष्ट कठोर सो किमि सोहई।।\nरघुबीर रुचिर प्रयान प्रस्थिति जानि परम सुहावनी।\nजनु कमठ खर्पर सर्पराज सो लिखत अबिचल पावनी।।",
+          "transliteration": "",
+          "translation": "The noble Sheshnaag could not bear the weight and fainted again and again. He gripped the hard back of the tortoise with his teeth repeatedly — how splendid he looked! As if, knowing Shri Rama's beautiful departure to be supremely auspicious, the serpent-king was inscribing its eternal sacred story on the tortoise's shell.",
+          "lineCount": 4,
+          "hindiTranslation": "उदार (परम श्रेष्ठ एवं महान्) सर्पराज शेषजी भी सेना का बोझ नहीं सह सकते, वे बार-बार मोहित हो जाते (घबड़ा जाते) हैं और पुनः-पुनः कच्छप की कठोर पीठ को दाँतों से पकड़ते हैं। ऐसा करते (अर्थात् बार-बार दाँतों को गड़ाकर कच्छप की पीठ पर लकीर-सी खींचते हुए) वे कैसे शोभा दे रहे हैं मानो श्रीरामचन्द्रजी की सुन्दर प्रस्थानयात्रा को परम सुहावनी जानकर उसकी अचल पवित्र कथा को सर्पराज शेषजी कच्छप की पीठ पर लिख रहे हों।"
         },
         {
           "id": "sk-35-d",
@@ -2214,13 +2250,22 @@
           "hindiTranslation": "(विभीषण ने कहा) शरण जाने पर प्रभु उसे भी नहीं त्यागते जिस पर विश्व-द्रोह का पाप लगा हो। जिनके नाम से त्रिविध ताप नष्ट हो जाते हैं।"
         },
         {
-          "id": "sk-39-d",
+          "id": "sk-39-d1",
           "type": "doha",
-          "original": "बार बार पद लागउँ बिनय करउँ दससीस।\nपरिहरि मान मोह मद भजहु कोसलाधीस।।39(क)।।\nमुनि पुलस्ति निज सिष्य सन कहि पठई यह बात।\nतुरत सो मैं प्रभु सन कही पाइ सुअवसरु तात।।39(ख)।।",
+          "original": "बार बार पद लागउँ बिनय करउँ दससीस।\nपरिहरि मान मोह मद भजहु कोसलाधीस।।39(क)।।",
           "transliteration": "bāra bāra pada lāgaum̐ binaya karaum̐ dasasīsa.\nparihari māna moha mada bhajahu kosalādhīsa..\nmuni pulasti nija siṣya sana kahi paṭhaī yaha bāta.\nturata so maiṃ prabhu sana kahī pāi suavasaru tāta..",
           "translation": "Again and again I clasp your feet and entreat you, O ten-headed one: abandon pride, delusion, and arrogance, and worship the Lord of Kosala.\nThe sage Pulastya sent this very message through his disciple. I have conveyed it to you at once, my lord, finding this opportune moment.",
-          "lineCount": 4,
+          "lineCount": 2,
           "hindiTranslation": "(विभीषण ने कहा) बार-बार चरणों में लगता हूँ, हे दशमुख! विनती करता हूँ। मान, मोह और मद छोड़कर कोसलाधीश (श्रीराम) का भजन करो। मुनि पुलस्त्य के वंश को नष्ट मत करो।"
+        },
+        {
+          "id": "sk-39-d2",
+          "type": "doha",
+          "original": "मुनि पुलस्ति निज सिष्य सन कहि पठई यह बात।\nतुरत सो मैं प्रभु सन कही पाइ सुअवसरु तात।।39(ख)।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
         }
       ]
     },
@@ -2741,13 +2786,22 @@
           "hindiTranslation": "(श्रीराम ने कहा) यद्यपि, सखा! तुम्हारी इच्छा नहीं (राज्य की), पर मेरा दर्शन जगत में अमोघ (व्यर्थ नहीं जाता)। ऐसा कहकर श्रीराम ने उन्हें राजतिलक किया। देवताओं ने फूल बरसाए।"
         },
         {
-          "id": "sk-49-d",
+          "id": "sk-49-d1",
           "type": "doha",
-          "original": "रावन क्रोध अनल निज स्वास समीर प्रचंड।\nजरत बिभीषनु राखेउ दीन्हेहु राजु अखंड।।49(क)।।\nजो संपति सिव रावनहि दीन्हि दिएँ दस माथ।\nसोइ संपदा बिभीषनहि सकुचि दीन्ह रघुनाथ।।49(ख)।।",
-          "transliteration": "rāvana krodha anala nija svāsa samīra pracaṃḍa.\njarata bibhīṣanu rākheū dīnhehu rāju akhaṃḍa..49(ka)..\njo saṃpati siva rāvanahi dīnhi diem̐ dasa mātha.\nsoi saṃpadā bibhīṣanahi sakuci dīnha raghunāthā..49(kha)..",
-          "translation": "Vibhishana was burning in the fierce fire of Ravana's wrath, fanned by his own sighs as wind; yet the Lord saved him and bestowed upon him undivided sovereignty. (49a) The same wealth that Shiva gave Ravana in return for his ten heads — that very fortune Raghunath humbly bestowed upon Vibhishana. (49b)",
-          "lineCount": 4,
+          "original": "रावन क्रोध अनल निज स्वास समीर प्रचंड।\nजरत बिभीषनु राखेउ दीन्हेहु राजु अखंड।।49(क)।।",
+          "transliteration": "rāvana krodha anala nija svāsa samīra pracaṃḍa.\njarata bibhīṣanu rākheū dīnhehu rāju akhaṃḍa..49(ka)..",
+          "translation": "Shri Rama saved Vibhishana who was burning in the blazing fire of Ravana's fury, fanned by the fierce wind of his own breath, and bestowed upon him an unbroken kingdom.",
+          "lineCount": 2,
           "hindiTranslation": "रावण का क्रोध अग्नि है, उसकी स्वयं की साँसें प्रचण्ड वायु। जलते हुए विभीषण को (श्रीराम ने) बचाया और अखण्ड राज्य दिया।"
+        },
+        {
+          "id": "sk-49-d2",
+          "type": "doha",
+          "original": "जो संपति सिव रावनहि दीन्हि दिएँ दस माथ।\nसोइ संपदा बिभीषनहि सकुचि दीन्ह रघुनाथ।।49(ख)।।",
+          "transliteration": "",
+          "translation": "The same wealth that Shiva gave to Ravana in return for his ten heads — that very wealth Shri Raghunath bestowed upon Vibhishana with great modesty.",
+          "lineCount": 2,
+          "hindiTranslation": "शिवजी ने जो सम्पत्ति रावण को दसों सिरों की बलि देने पर दी थी, वही सम्पत्ति श्रीरघुनाथजी ने विभीषण को बहुत सकुचते हुए दी।"
         }
       ]
     },
@@ -3100,13 +3154,22 @@
           "hindiTranslation": "(शुक ने कहा) श्रीरामानुज (लक्ष्मणजी) ने यह पत्री दी है। हे नाथ! पढ़कर छाती जुड़ाइए। रावण ने हँसकर बाएँ हाथ से ली। मन्त्री से पढ़ने को कहा।"
         },
         {
-          "id": "sk-56-d",
+          "id": "sk-56-d1",
           "type": "doha",
-          "original": "बातन्ह मनहि रिझाइ सठ जनि घालसि कुल खीस।\nराम बिरोध न उबरसि सरन बिष्नु अज ईस।।56(क)।।\nकी तजि मान अनुज इव प्रभु पद पंकज भृंग।\nहोहि कि राम सरानल खल कुल सहित पतंग।।56(ख)।।",
-          "transliteration": "bātanha manahi rijhāi saṭha jani ghālasi kula khīsa.\nrāma birodha na ubarasi sarana biṣṇu aja īsa..56(ka)..\nkī taji māna anuja iva prabhu pada paṃkaja bhṛṃga.\nhohi ki rāma sarānala khala kula sahita pataṃga..56(kha)..",
-          "translation": "'Fool, do not please your mind with mere words and destroy your entire race. You cannot survive enmity with Rama, even if Vishnu, Brahma, and Shiva were to shelter you. (56a) Either abandon pride and become a bee at the Lord's lotus feet like His younger brother, or become a moth with your whole clan in the fire of Rama's arrows. (56b)'",
-          "lineCount": 4,
+          "original": "बातन्ह मनहि रिझाइ सठ जनि घालसि कुल खीस।\nराम बिरोध न उबरसि सरन बिष्नु अज ईस।।56(क)।।",
+          "transliteration": "bātanha manahi rijhāi saṭha jani ghālasi kula khīsa.\nrāma birodha na ubarasi sarana biṣṇu aja īsa..56(ka)..",
+          "translation": "O fool, do not ruin your clan by merely flattering your mind with words! By opposing Rama, you cannot escape even if you take refuge with Vishnu, Brahma or Shiva.",
+          "lineCount": 2,
           "hindiTranslation": "(लक्ष्मण का सन्देश) बातों से मन बहलाकर, मूर्ख! कुल नष्ट मत कर। श्रीराम के विरोध से नहीं बचेगा — चाहे विष्णु, ब्रह्मा या शिव की शरण ले।"
+        },
+        {
+          "id": "sk-56-d2",
+          "type": "doha",
+          "original": "की तजि मान अनुज इव प्रभु पद पंकज भृंग।\nहोहि कि राम सरानल खल कुल सहित पतंग।।56(ख)।।",
+          "transliteration": "",
+          "translation": "Either abandon your pride and become a bee at the Lord's lotus feet like your younger brother, or O wicked one, become a moth in the fire of Rama's arrows along with your entire clan.",
+          "lineCount": 2,
+          "hindiTranslation": "या तो अभिमान छोड़कर अपने छोटे भाई विभीषण की भाँति प्रभु के चरण-कमलों का भ्रमर बन जा। अथवा रे दुष्ट! श्रीरामजी के बाणरूपी अग्नि में परिवार सहित पतिंगा हो जा (दोनों में से जो अच्छा लगे सो कर)।"
         }
       ]
     },

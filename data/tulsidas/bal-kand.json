@@ -193,13 +193,22 @@
           "hindiTranslation": "ब्रह्मा, विष्णु, शिव — कवि-कोविद की वाणी — साधुओं की महिमा कहते सकुचाती। वह मुझसे कहने को (कौन)।"
         },
         {
-          "id": "bk-3-d",
+          "id": "bk-3-d1",
           "type": "doha",
-          "original": "बंदउँ संत समान चित हित अनहित नहिं कोइ।\nअंजलि गत सुभ सुमन जिमि सम सुगंध कर दोइ।।3(क)।।\nसंत सरल चित जगत हित जानि सुभाउ सनेहु।\nबालबिनय सुनि करि कृपा राम चरन रति देहु।।3(ख)।।",
+          "original": "बंदउँ संत समान चित हित अनहित नहिं कोइ।\nअंजलि गत सुभ सुमन जिमि सम सुगंध कर दोइ।।3(क)।।",
           "transliteration": "",
           "translation": "I bow to the saints, whose minds are impartial, with no friend or foe — like a fragrant flower in cupped hands that perfumes both palms equally. (3a) Saints are simple-hearted and devoted to the world's welfare; knowing their loving nature, hear this child's humble prayer, be gracious, and grant me love for Rama's feet. (3b)",
-          "lineCount": 4,
+          "lineCount": 2,
           "hindiTranslation": "सन्तों को वन्दन — जिनका चित्त समान — न हितकारी, न शत्रु। अंजलि (चुल्लू) में रखे शुभ फूल — सम (बराबर) सुगन्ध देते।"
+        },
+        {
+          "id": "bk-3-d2",
+          "type": "doha",
+          "original": "संत सरल चित जगत हित जानि सुभाउ सनेहु।\nबालबिनय सुनि करि कृपा राम चरन रति देहु।।3(ख)।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
         }
       ]
     },
@@ -447,13 +456,40 @@
           "hindiTranslation": "धुआँ कुसंगति से कालिख बनता — (पर) वही मसि (स्याही) सुन्दर पुराण लिखती। वही जल, अग्नि, वायु।"
         },
         {
-          "id": "bk-7-d",
+          "id": "bk-7-d1",
           "type": "doha",
-          "original": "ग्रह भेषज जल पवन पट पाइ कुजोग सुजोग।\nहोहि कुबस्तु सुबस्तु जग लखहिं सुलच्छन लोग।।7(क)।।\nसम प्रकास तम पाख दुहुँ नाम भेद बिधि कीन्ह।\nससि सोषक पोषक समुझि जग जस अपजस दीन्ह।।7(ख)।।\nजड़ चेतन जग जीव जत सकल राममय जानि।\nबंदउँ सब के पद कमल सदा जोरि जुग पानि।।7(ग)।।\nदेव दनुज नर नाग खग प्रेत पितर गंधर्ब।\nबंदउँ किंनर रजनिचर कृपा करहु अब सर्ब।।7(घ)।।",
+          "original": "ग्रह भेषज जल पवन पट पाइ कुजोग सुजोग।\nहोहि कुबस्तु सुबस्तु जग लखहिं सुलच्छन लोग।।7(क)।।",
           "transliteration": "",
           "translation": "Planets, medicine, water, wind, and cloth — finding bad or good association, things become harmful or beneficial in this world; wise people discern the auspicious signs. (7a) The bright and dark fortnights equally share the same moonlight, yet Providence named them differently; considering the moon to be the nourisher in one and the waster in the other, the world assigned fame and infamy accordingly. (7b) Knowing that all beings in the world — animate and inanimate — are pervaded by Rama, I bow with folded hands at the lotus feet of all. (7c) Gods, demons, humans, serpents, birds, spirits, ancestors, and celestial beings — I bow to the Kinnaras and night-wanderers too; may you all be gracious now. (7d)",
-          "lineCount": 8,
+          "lineCount": 2,
           "hindiTranslation": "ग्रह, औषधि, जल, वायु, वस्त्र — कुसंग-सुसंग पाकर। कुवस्तु सुवस्तु बनती — जगत के लोग देखते।"
+        },
+        {
+          "id": "bk-7-d2",
+          "type": "doha",
+          "original": "सम प्रकास तम पाख दुहुँ नाम भेद बिधि कीन्ह।\nससि सोषक पोषक समुझि जग जस अपजस दीन्ह।।7(ख)।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
+        },
+        {
+          "id": "bk-7-d3",
+          "type": "doha",
+          "original": "जड़ चेतन जग जीव जत सकल राममय जानि।\nबंदउँ सब के पद कमल सदा जोरि जुग पानि।।7(ग)।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
+        },
+        {
+          "id": "bk-7-d4",
+          "type": "doha",
+          "original": "देव दनुज नर नाग खग प्रेत पितर गंधर्ब।\nबंदउँ किंनर रजनिचर कृपा करहु अब सर्ब।।7(घ)।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
         }
       ]
     },
@@ -660,13 +696,22 @@
           "hindiTranslation": "मंगलकारिणी, कलियुग का मल हरने वाली — तुलसी की श्रीरघुनाथ-कथा। कुटिल कविता-नदी की गति।"
         },
         {
-          "id": "bk-10-d",
+          "id": "bk-10-d1",
           "type": "doha",
-          "original": "प्रिय लागिहि अति सबहि मम भनिति राम जस संग।\nदारु बिचारु कि करइ कोउ बंदिअ मलय प्रसंग।।10(क)।।\nस्याम सुरभि पय बिसद अति गुनद करहिं सब पान।\nगिरा ग्राम्य सिय राम जस गावहिं सुनहिं सुजान।।10(ख)।।",
+          "original": "प्रिय लागिहि अति सबहि मम भनिति राम जस संग।\nदारु बिचारु कि करइ कोउ बंदिअ मलय प्रसंग।।10(क)।।",
           "transliteration": "",
           "translation": "My composition, accompanied by Rama's glory, will become dear to all. Does anyone judge the sandalwood tree itself when it is to be revered for its fragrance? (10a) The milk of a dark cow is very white and rich in virtues; all drink it. Likewise, even if the language is rustic, the wise sing and listen to the glory of Sita and Rama. (10b)",
-          "lineCount": 4,
+          "lineCount": 2,
           "hindiTranslation": "सबको अत्यन्त प्रिय लगेगी मेरी रचना — श्रीराम-यश के संग। लकड़ी का विचार कौन करता — (जब उसमें) चन्दन (की सुगन्ध हो)?"
+        },
+        {
+          "id": "bk-10-d2",
+          "type": "doha",
+          "original": "स्याम सुरभि पय बिसद अति गुनद करहिं सब पान।\nगिरा ग्राम्य सिय राम जस गावहिं सुनहिं सुजान।।10(ख)।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
         }
       ]
     },
@@ -914,13 +959,67 @@
           "hindiTranslation": "आपकी कृपा से वह सुलभ मेरे लिए — सुन्दरियों को सुहावना — टाट (मोटा कपड़ा) भी पटोरी (रेशम) जैसा।"
         },
         {
-          "id": "bk-14-d",
+          "id": "bk-14-d1",
           "type": "doha",
-          "original": "सरल कबित कीरति बिमल सोइ आदरहिं सुजान।\nसहज बयर बिसराइ रिपु जो सुनि करहिं बखान।।14(क)।।\nसो न होइ बिनु बिमल मति मोहि मति बल अति थोर।\nकरहु कृपा हरि जस कहउँ पुनि पुनि करउँ निहोर।।14(ख)।।\nकबि कोबिद रघुबर चरित मानस मंजु मराल।\nबाल बिनय सुनि सुरुचि लखि मोपर होहु कृपाल।।14(ग)।।\nबंदउँ मुनि पद कंजु रामायन जेहिं निरमयउ।\nसखर सुकोमल मंजु दोष रहित दूषन सहित।।14(घ)।।\nबंदउँ चारिउ बेद भव बारिधि बोहित सरिस।\nजिन्हहि न सपनेहुँ खेद बरनत रघुबर बिसद जसु।।14(ङ)।।\nबंदउँ बिधि पद रेनु भव सागर जेहि कीन्ह जहँ।\nसंत सुधा ससि धेनु प्रगटे खल बिष बारुनी।।14(च)।।\nबिबुध बिप्र बुध ग्रह चरन बंदि कहउँ कर जोरि।\nहोइ प्रसन्न पुरवहु सकल मंजु मनोरथ मोरि।।14(छ)।।",
+          "original": "सरल कबित कीरति बिमल सोइ आदरहिं सुजान।\nसहज बयर बिसराइ रिपु जो सुनि करहिं बखान।।14(क)।।",
           "transliteration": "",
           "translation": "Simple poetry and spotless fame — that alone the wise admire; even enemies forget their natural hostility and praise it when they hear it. (14a) But that is not possible without a pure intellect, and my intellectual power is very little. Be gracious that I may speak Hari's glory; again and again I entreat you. (14b) O poets and scholars, who are like beautiful swans in the Manasa lake of Raghuvara's story — hearing this child's prayer and seeing my sincere taste, be merciful to me. (14c) I bow at the lotus feet of the sage who composed the Ramayana — hard yet soft, beautiful, free of flaws yet containing Dushana. (14d) I bow to the four Vedas, which are like ships for crossing the ocean of existence — they who know not even a dream of weariness while narrating the pure fame of Raghuvara. (14e) I bow to the dust of Brahma's feet, by whom this ocean of existence was created — from which emerged saints like the moon and nectar, the wish-fulfilling cow, and also the wicked like poison and liquor. (14f) Bowing at the feet of gods, Brahmins, the wise, and planets, I say with folded hands — be pleased and fulfill all my beautiful desires. (14g)",
-          "lineCount": 14,
+          "lineCount": 2,
           "hindiTranslation": "सरल कविता, विमल कीर्ति — वही सुजान (बुद्धिमान) आदर करते। स्वाभाविक वैर भुलाकर — शत्रु भी जो (सराहे)।"
+        },
+        {
+          "id": "bk-14-d2",
+          "type": "doha",
+          "original": "सो न होइ बिनु बिमल मति मोहि मति बल अति थोर।\nकरहु कृपा हरि जस कहउँ पुनि पुनि करउँ निहोर।।14(ख)।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
+        },
+        {
+          "id": "bk-14-d3",
+          "type": "doha",
+          "original": "कबि कोबिद रघुबर चरित मानस मंजु मराल।\nबाल बिनय सुनि सुरुचि लखि मोपर होहु कृपाल।।14(ग)।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
+        },
+        {
+          "id": "bk-14-d4",
+          "type": "doha",
+          "original": "बंदउँ मुनि पद कंजु रामायन जेहिं निरमयउ।\nसखर सुकोमल मंजु दोष रहित दूषन सहित।।14(घ)।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
+        },
+        {
+          "id": "bk-14-d5",
+          "type": "doha",
+          "original": "बंदउँ चारिउ बेद भव बारिधि बोहित सरिस।\nजिन्हहि न सपनेहुँ खेद बरनत रघुबर बिसद जसु।।14(ङ)।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
+        },
+        {
+          "id": "bk-14-d6",
+          "type": "doha",
+          "original": "बंदउँ बिधि पद रेनु भव सागर जेहि कीन्ह जहँ।\nसंत सुधा ससि धेनु प्रगटे खल बिष बारुनी।।14(च)।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
+        },
+        {
+          "id": "bk-14-d7",
+          "type": "doha",
+          "original": "बिबुध बिप्र बुध ग्रह चरन बंदि कहउँ कर जोरि।\nहोइ प्रसन्न पुरवहु सकल मंजु मनोरथ मोरि।।14(छ)।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
         }
       ]
     },
@@ -1668,13 +1767,22 @@
           "hindiTranslation": "श्रीराम — स्नेह-निसोते (निमित्तमात्र) से रीझते। जगत में मुझसे मन्द, मलिनमति कौन?"
         },
         {
-          "id": "bk-28-d",
+          "id": "bk-28-d1",
           "type": "doha",
-          "original": "सठ सेवक की प्रीति रुचि रखिहहिं राम कृपालु।\nउपल किए जलजान जेहिं सचिव सुमति कपि भालु।।28(क)।।\nहौहु कहावत सबु कहत राम सहत उपहास।\nसाहिब सीतानाथ सो सेवक तुलसीदास।।28(ख)।।",
+          "original": "सठ सेवक की प्रीति रुचि रखिहहिं राम कृपालु।\nउपल किए जलजान जेहिं सचिव सुमति कपि भालु।।28(क)।।",
           "transliteration": "",
           "translation": "The gracious Rama will honor even the love and devotion of a foolish servant — He who turned stones into boats, with wise counselors like monkeys and bears. (28a) Though I am called all sorts of names and endure ridicule, my master is Sitanatha, and his servant is Tulsidas. (28b)",
-          "lineCount": 4,
+          "lineCount": 2,
           "hindiTranslation": "मूर्ख सेवक की प्रीति-रुचि — रखेंगे श्रीराम कृपालु। पत्थर के जहाज़ बनाए जिन्होंने (समुद्र पार कराया)।"
+        },
+        {
+          "id": "bk-28-d2",
+          "type": "doha",
+          "original": "हौहु कहावत सबु कहत राम सहत उपहास।\nसाहिब सीतानाथ सो सेवक तुलसीदास।।28(ख)।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
         }
       ]
     },
@@ -1718,13 +1826,31 @@
           "hindiTranslation": "वही करतूत विभीषण की — सपने में भी श्रीराम ने हृदय में नहीं देखी (दोष)। वे भरत (से भी अधिक प्रिय)।"
         },
         {
-          "id": "bk-29-d",
+          "id": "bk-29-d1",
           "type": "doha",
-          "original": "प्रभु तरु तर कपि डार पर ते किए आपु समान।।\nतुलसी कहूँ न राम से साहिब सीलनिधान।।29(क)।।\nराम निकाईं रावरी है सबही को नीक।\nजों यह साँची है सदा तौ नीको तुलसीक।।29(ख)।।\nएहि बिधि निज गुन दोष कहि सबहि बहुरि सिरु नाइ।\nबरनउँ रघुबर बिसद जसु सुनि कलि कलुष नसाइ।।29(ग)।।",
+          "original": "प्रभु तरु तर कपि डार पर ते किए आपु समान।।\nतुलसी कहूँ न राम से साहिब सीलनिधान।।29(क)।।",
           "transliteration": "",
           "translation": "The Lord is the tree, and the monkey on its branch — yet He raised them to be His equals. Says Tulsi, there is no master like Rama, that ocean of grace. (29a) O Rama, by Your goodness, all is well for everyone; if this is always true, then all is well for Tulsi too. (29b) Having thus described my own merits and faults, and bowing to all once more, I now narrate the bright fame of Raghuvara — hearing which, the impurities of the Kali age are destroyed. (29c)",
-          "lineCount": 6,
+          "lineCount": 2,
           "hindiTranslation": "प्रभु — वृक्ष (के तले), कपि (हनुमान) — डाल पर। उन्हें अपने समान किया। तुलसी — कहीं भी श्रीराम-समान (कृपालु नहीं)।"
+        },
+        {
+          "id": "bk-29-d2",
+          "type": "doha",
+          "original": "राम निकाईं रावरी है सबही को नीक।\nजों यह साँची है सदा तौ नीको तुलसीक।।29(ख)।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
+        },
+        {
+          "id": "bk-29-d3",
+          "type": "doha",
+          "original": "एहि बिधि निज गुन दोष कहि सबहि बहुरि सिरु नाइ।\nबरनउँ रघुबर बिसद जसु सुनि कलि कलुष नसाइ।।29(ग)।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
         }
       ]
     },
@@ -1768,13 +1894,22 @@
           "hindiTranslation": "तीनों काल — अपने ज्ञान से जानते — करतल (हथेली) पर रखे आँवले-समान। और जो श्रीहरि-भक्त।"
         },
         {
-          "id": "bk-30-d",
+          "id": "bk-30-d1",
           "type": "doha",
-          "original": "मै पुनि निज गुर सन सुनी कथा सो सूकरखेत।\nसमुझी नहि तसि बालपन तब अति रहेउँ अचेत।।30(क)।।\nश्रोता बकता ग्याननिधि कथा राम कै गूढ़।\nकिमि समुझौं मै जीव जड़ कलि मल ग्रसित बिमूढ़।।30(ख)।।",
+          "original": "मै पुनि निज गुर सन सुनी कथा सो सूकरखेत।\nसमुझी नहि तसि बालपन तब अति रहेउँ अचेत।।30(क)।।",
           "transliteration": "",
           "translation": "I too heard this story from my own Guru at Sukarkshetra. But I did not understand it then, being just a child, quite unconscious at the time. (30a) The narrator and listener are both treasuries of wisdom, and the story of Rama is profound. How can I, a dull soul, grasped by the impurities of the Kali age, utterly bewildered, understand it? (30b)",
-          "lineCount": 4,
+          "lineCount": 2,
           "hindiTranslation": "मैंने फिर अपने गुरु से सुनी — वह कथा — सूकरक्षेत्र (शूकरक्षेत्र) में। बचपन में समझ नहीं आई।"
+        },
+        {
+          "id": "bk-30-d2",
+          "type": "doha",
+          "original": "श्रोता बकता ग्याननिधि कथा राम कै गूढ़।\nकिमि समुझौं मै जीव जड़ कलि मल ग्रसित बिमूढ़।।30(ख)।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
         }
       ]
     },
@@ -1922,13 +2057,22 @@
           "hindiTranslation": "सकल पुण्य-फल — भूरि भोग-समान। जगत-हित — निरुपाधि (निष्कपट) साधु लोग-समान। सेवक।"
         },
         {
-          "id": "bk-32-d",
+          "id": "bk-32-d1",
           "type": "doha",
-          "original": "कुपथ कुतरक कुचालि कलि कपट दंभ पाषंड।\nदहन राम गुन ग्राम जिमि इंधन अनल प्रचंड।।32(क)।।\nरामचरित राकेस कर सरिस सुखद सब काहु।\nसज्जन कुमुद चकोर चित हित बिसेषि बड़ लाहु।।32(ख)।।",
+          "original": "कुपथ कुतरक कुचालि कलि कपट दंभ पाषंड।\nदहन राम गुन ग्राम जिमि इंधन अनल प्रचंड।।32(क)।।",
           "transliteration": "",
           "translation": "Evil ways, false arguments, crooked conduct, the deceit, hypocrisy, and heresy of the Kali age — Rama's virtues burn them all like a blazing fire burns fuel. (32a) Rama's story is like the rays of the full moon, delightful for all. For the virtuous, who are like the night lotus and the chakora bird, it is especially beneficial and of great profit. (32b)",
-          "lineCount": 4,
+          "lineCount": 2,
           "hindiTranslation": "कुपथ, कुतर्क, कुचाल — कलियुग का कपट, दम्भ, पाखण्ड। दहन (जलाने वाला) — श्रीराम-गुण-ग्राम — जैसे (अग्नि)।"
+        },
+        {
+          "id": "bk-32-d2",
+          "type": "doha",
+          "original": "रामचरित राकेस कर सरिस सुखद सब काहु।\nसज्जन कुमुद चकोर चित हित बिसेषि बड़ लाहु।।32(ख)।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
         }
       ]
     },
@@ -2580,13 +2724,22 @@
           "hindiTranslation": "जिन्होंने इस जल से मानस (मन) नहीं धोया — वे कायर — कलिकाल ने बिगाड़ दिए। प्यासे (रहे)।"
         },
         {
-          "id": "bk-43-d",
+          "id": "bk-43-d1",
           "type": "doha",
-          "original": "मति अनुहारि सुबारि गुन गनि मन अन्हवाइ।\nसुमिरि भवानी संकरहि कह कबि कथा सुहाइ।।43(क)।।\nअब रघुपति पद पंकरुह हियँ धरि पाइ प्रसाद ।\nकहउँ जुगल मुनिबर्ज कर मिलन सुभग संबाद।।43(ख)।।",
+          "original": "मति अनुहारि सुबारि गुन गनि मन अन्हवाइ।\nसुमिरि भवानी संकरहि कह कबि कथा सुहाइ।।43(क)।।",
           "transliteration": "",
           "translation": "Having counted these qualities of the excellent water according to my understanding, and having bathed my mind in it, remembering Bhavani and Shankara, the poet tells this delightful story. (43a) Now, enshrining the lotus feet of Raghupati in my heart and receiving His grace, I narrate the beautiful and auspicious dialogue between the two great sages. (43b)",
-          "lineCount": 4,
+          "lineCount": 2,
           "hindiTranslation": "बुद्धि-अनुसार सुन्दर जल — गुण गिनकर — मन स्नान करे। भवानी-शंकर स्मरण करके।"
+        },
+        {
+          "id": "bk-43-d2",
+          "type": "doha",
+          "original": "अब रघुपति पद पंकरुह हियँ धरि पाइ प्रसाद ।\nकहउँ जुगल मुनिबर्ज कर मिलन सुभग संबाद।।43(ख)।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
         }
       ]
     },
@@ -2830,13 +2983,22 @@
           "hindiTranslation": "उसी अवसर पृथ्वी-भार-भंजन हेतु — श्रीहरि ने रघुवंश में अवतार लिया। पिता (दशरथ)।"
         },
         {
-          "id": "bk-48-d",
+          "id": "bk-48-d1",
           "type": "doha",
-          "original": "ह्दयँ बिचारत जात हर केहि बिधि दरसनु होइ।\nगुप्त रुप अवतरेउ प्रभु गएँ जान सबु कोइ।।48(क)।।\nसंकर उर अति छोभु सती न जानहिं मरमु सोइ।।\nतुलसी दरसन लोभु मन डरु लोचन लालची।।48(ख)।।",
+          "original": "ह्दयँ बिचारत जात हर केहि बिधि दरसनु होइ।\nगुप्त रुप अवतरेउ प्रभु गएँ जान सबु कोइ।।48(क)।।",
           "transliteration": "",
           "translation": "As Hara journeyed, he wondered in his heart: how might I have His darshan? The Lord has incarnated in secret form — once gone, everyone will know. (48a) Shankara felt great agitation in his heart, but Sati did not know its cause. Says Tulsi, longing for a sight of Him, the mind was fearful while the eyes were eager. (48b)",
-          "lineCount": 4,
+          "lineCount": 2,
           "hindiTranslation": "हृदय में विचार करते जाते शिवजी — किस प्रकार दर्शन हो? गुप्त रूप (में) अवतार।"
+        },
+        {
+          "id": "bk-48-d2",
+          "type": "doha",
+          "original": "संकर उर अति छोभु सती न जानहिं मरमु सोइ।।\nतुलसी दरसन लोभु मन डरु लोचन लालची।।48(ख)।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
         }
       ]
     },
@@ -6574,13 +6736,40 @@
           "hindiTranslation": "(पार्वती ने पूछा) हे नाथ! मनुष्य-शरीर किस कारण धारण किया? मुझे समझाकर कहो, हे वृषकेतु! उमा।"
         },
         {
-          "id": "bk-120-d",
+          "id": "bk-120-d1",
           "type": "doha",
-          "original": "हिंयँ हरषे कामारि तब संकर सहज सुजान\nबहु बिधि उमहि प्रसंसि पुनि बोले कृपानिधान।।120(क)।।\nसुनु सुभ कथा भवानि रामचरितमानस बिमल।\nकहा भुसुंडि बखानि सुना बिहग नायक गरुड।।120(ख)।।\nसो संबाद उदार जेहि बिधि भा आगें कहब।\nसुनहु राम अवतार चरित परम सुंदर अनघ।।120(ग)।।\nहरि गुन नाम अपार कथा रूप अगनित अमित।\nमैं निज मति अनुसार कहउँ उमा सादर सुनहु।।120(घ।।",
+          "original": "हिंयँ हरषे कामारि तब संकर सहज सुजान\nबहु बिधि उमहि प्रसंसि पुनि बोले कृपानिधान।।120(क)।।",
           "transliteration": "",
           "translation": "The enemy of Kamadeva rejoiced in his heart. The naturally wise Shankara praised Uma in many ways and then the treasury of compassion spoke: 'Listen to the pure and beautiful story, O Bhavani — the spotless Ramcharitmanas. Kakabhushundi narrated it, and the king of birds, Garuda, listened to it. That noble dialogue — how it came about, I shall tell you next. Now hear of Rama's incarnation — his supremely beautiful and sinless character. The names and virtues of Hari are infinite, his stories countless and immeasurable. I shall tell them according to my own understanding; listen attentively, O Uma.'",
-          "lineCount": 8,
+          "lineCount": 2,
           "hindiTranslation": "कामारि (शिवजी) का हृदय हर्षित — सहज सुजान शंकर। बहुत प्रकार से उमा को प्रसन्न (करके)।"
+        },
+        {
+          "id": "bk-120-d2",
+          "type": "doha",
+          "original": "सुनु सुभ कथा भवानि रामचरितमानस बिमल।\nकहा भुसुंडि बखानि सुना बिहग नायक गरुड।।120(ख)।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
+        },
+        {
+          "id": "bk-120-d3",
+          "type": "doha",
+          "original": "सो संबाद उदार जेहि बिधि भा आगें कहब।\nसुनहु राम अवतार चरित परम सुंदर अनघ।।120(ग)।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
+        },
+        {
+          "id": "bk-120-d4",
+          "type": "doha",
+          "original": "हरि गुन नाम अपार कथा रूप अगनित अमित।\nमैं निज मति अनुसार कहउँ उमा सादर सुनहु।।120(घ।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
         }
       ]
     },
@@ -6774,13 +6963,22 @@
           "hindiTranslation": "(पार्वती ने पूछा) किस कारण मुनि (नारद) ने शाप दिया? रमापति (विष्णु) ने क्या अपराध किया? यह (बताओ)।"
         },
         {
-          "id": "bk-124-d",
+          "id": "bk-124-d1",
           "type": "doha",
-          "original": "बोले बिहसि महेस तब ग्यानी मूढ़ न कोइ।\nजेहि जस रघुपति करहिं जब सो तस तेहि छन होइ।।124(क)।।\nकहउँ राम गुन गाथ भरद्वाज सादर सुनहु।\nभव भंजन रघुनाथ भजु तुलसी तजि मान मद।।124(ख)।।",
+          "original": "बोले बिहसि महेस तब ग्यानी मूढ़ न कोइ।\nजेहि जस रघुपति करहिं जब सो तस तेहि छन होइ।।124(क)।।",
           "transliteration": "",
           "translation": "Maheshwara laughed and said, 'No one is truly wise or foolish. Whomever Raghupati makes whatever at any given moment — that is what they become at that instant.' 'I shall now tell the tale of Rama's glories; listen attentively, O Bharadvaja. Worship Raghunatha, the destroyer of worldly existence, and abandon pride and arrogance, says Tulsi.'",
-          "lineCount": 4,
+          "lineCount": 2,
           "hindiTranslation": "महेश (शिवजी) हँसकर तब बोले — ज्ञानी-मूढ़ कोई नहीं। जिसे जैसे श्रीरघुपति करते।"
+        },
+        {
+          "id": "bk-124-d2",
+          "type": "doha",
+          "original": "कहउँ राम गुन गाथ भरद्वाज सादर सुनहु।\nभव भंजन रघुनाथ भजु तुलसी तजि मान मद।।124(ख)।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
         }
       ]
     },
@@ -8524,13 +8722,22 @@
           "hindiTranslation": "(नृप ने कहा) हमें आपका दर्शन दुर्लभ — जानता हूँ कुछ भला होने वाला है। मुनि ने कहा — तात! अँधियारा (अँधेरा) हो गया। तुम्हारा नगर सत्तर योजन (दूर) है।"
         },
         {
-          "id": "bk-159-d",
+          "id": "bk-159-d1",
           "type": "doha",
-          "original": "निसा घोर गम्भीर बन पंथ न सुनहु सुजान।\nबसहु आजु अस जानि तुम्ह जाएहु होत बिहान।।159(क)।।\nतुलसी जसि भवतब्यता तैसी मिलइ सहाइ।\nआपुनु आवइ ताहि पहिं ताहि तहाँ लै जाइ।।159(ख)।।",
+          "original": "निसा घोर गम्भीर बन पंथ न सुनहु सुजान।\nबसहु आजु अस जानि तुम्ह जाएहु होत बिहान।।159(क)।।",
           "transliteration": "",
           "translation": "'The night is dark, the forest deep, and there is no path — listen, wise one. Stay here tonight; you may leave at dawn.' Tulsidas says: as destiny decrees, so comes the helper — fate itself brings a person to the right place and takes them there.",
-          "lineCount": 4,
+          "lineCount": 2,
           "hindiTranslation": "(तापस ने कहा) रात्रि घोर (अँधेरी), गम्भीर वन, पथ (रास्ता) नहीं — सुनो, सुजान (बुद्धिमान)! आज यहीं रहो — ऐसा जानकर। बिहान (सवेरा) होते जाना। (तुलसीदास कहते हैं) जैसी भवतव्यता (भाग्य-लिपि) — वैसी सहायता मिलती। आप ही उसके पास आता — उसे वहाँ ले जाता।"
+        },
+        {
+          "id": "bk-159-d2",
+          "type": "doha",
+          "original": "तुलसी जसि भवतब्यता तैसी मिलइ सहाइ।\nआपुनु आवइ ताहि पहिं ताहि तहाँ लै जाइ।।159(ख)।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
         }
       ]
     },
@@ -8624,13 +8831,22 @@
           "hindiTranslation": "सब प्रकार से राजा को अपनाकर — अधिक स्नेह जताकर बोला। (कहा) सुनो, सत्य भाव कहता हूँ, महीपाल (राजा)! यहाँ बसते बहुत काल बीते।"
         },
         {
-          "id": "bk-161-d",
+          "id": "bk-161-d1",
           "type": "doha",
-          "original": "अब लगि मोहि न मिलेउ कोउ मैं न जनावउँ काहु।\nलोकमान्यता अनल सम कर तप कानन दाहु।।161(क)।।\nतुलसी देखि सुबेषु भूलहिं मूढ़ न चतुर नर।\nसुंदर केकिहि पेखु बचन सुधा सम असन अहि।।161(ख)।।",
+          "original": "अब लगि मोहि न मिलेउ कोउ मैं न जनावउँ काहु।\nलोकमान्यता अनल सम कर तप कानन दाहु।।161(क)।।",
           "transliteration": "",
           "translation": "'Until now no one has met me, nor do I reveal myself to anyone. Public fame is like fire that burns the forest of austerity.' Tulsidas says: seeing a fine appearance, not only the foolish but even the wise are deceived. Behold the beautiful peacock — its voice is sweet as nectar but it feeds on serpents.",
-          "lineCount": 4,
+          "lineCount": 2,
           "hindiTranslation": "(तापस ने कहा) अब तक मुझे कोई नहीं मिला — मैं किसी को नहीं जनाता (बताता)। लोक-मान्यता (यश) अग्नि समान — तप-रूपी कानन (वन) का दाह (जलाने वाली)। (तुलसीदास कहते हैं) सुन्दर वेष देखकर मूढ़ ही नहीं, चतुर नर भी भूलते। सुन्दर केकी (मोर) को देखो — वचन सुधा (अमृत) समान, आशन (भोजन) अहि (साँप)।"
+        },
+        {
+          "id": "bk-161-d2",
+          "type": "doha",
+          "original": "तुलसी देखि सुबेषु भूलहिं मूढ़ न चतुर नर।\nसुंदर केकिहि पेखु बचन सुधा सम असन अहि।।161(ख)।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
         }
       ]
     },
@@ -9474,13 +9690,22 @@
           "hindiTranslation": "भोगावती जैसे अहिकुल (नागों) का निवास। अमरावती जैसे शक्र (इन्द्र) का निवास। उनसे भी अधिक रम्य, अत्यन्त बंका (दुर्गम) — जग-विख्यात — नाम उसका लंका।"
         },
         {
-          "id": "bk-178-d",
+          "id": "bk-178-d1",
           "type": "doha",
-          "original": "खाईं सिंधु गभीर अति चारिहुँ दिसि फिरि आव।\nकनक कोट मनि खचित दृढ़ बरनि न जाइ बनाव।।178(क)।।\nहरिप्रेरित जेहिं कलप जोइ जातुधानपति होइ।\nसूर प्रतापी अतुलबल दल समेत बस सोइ।।178(ख)।।",
+          "original": "खाईं सिंधु गभीर अति चारिहुँ दिसि फिरि आव।\nकनक कोट मनि खचित दृढ़ बरनि न जाइ बनाव।।178(क)।।",
           "transliteration": "",
           "translation": "Around it flowed an exceedingly deep ocean moat on all four sides. Its golden ramparts were studded with gems — their beauty is beyond description. In each cosmic cycle, whoever is destined to be the lord of demons, being valorous, mighty, and of incomparable strength, occupies it with his army.",
-          "lineCount": 4,
+          "lineCount": 2,
           "hindiTranslation": "खाई (गड्ढा) — अत्यन्त गहरा सिन्धु (समुद्र) — चारों दिशाओं से फिरकर आता। कनक (सोने) का कोट (किला), मणि-खचित (रत्नजड़ित), दृढ़ — बनावट वर्णन नहीं हो सकती। हरि-प्रेरित — जिस कल्प में जो जातुधानपति (राक्षसपति) होता — शूर (वीर), प्रतापी, अतुलबल — दल समेत वही बसता।"
+        },
+        {
+          "id": "bk-178-d2",
+          "type": "doha",
+          "original": "हरिप्रेरित जेहिं कलप जोइ जातुधानपति होइ।\nसूर प्रतापी अतुलबल दल समेत बस सोइ।।178(ख)।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
         }
       ]
     },
@@ -9701,13 +9926,22 @@
           "hindiTranslation": "सब भयभीत आज्ञा करते — नित्य आकर विनीत (विनम्र) होकर चरणों में नवते (झुकते)।"
         },
         {
-          "id": "bk-182-d",
+          "id": "bk-182-d1",
           "type": "doha",
-          "original": "भुजबल बिस्व बस्य करि राखेसि कोउ न सुतंत्र।\nमंडलीक मनि रावन राज करइ निज मंत्र।।182(क)।।\nदेव जच्छ गंधर्व नर किंनर नाग कुमारि।\nजीति बरीं निज बाहुबल बहु सुंदर बर नारि।।182ख।।",
+          "original": "भुजबल बिस्व बस्य करि राखेसि कोउ न सुतंत्र।\nमंडलीक मनि रावन राज करइ निज मंत्र।।182(क)।।",
           "transliteration": "",
           "translation": "Having conquered the world by the strength of his arms, he left none independent. The crest-jewel among emperors, Ravana ruled by his own counsel. Princesses of gods, Yakshas, Gandharvas, humans, Kinnaras, and Nagas — he conquered and took many beautiful and noble women by the force of his arms.",
-          "lineCount": 4,
+          "lineCount": 2,
           "hindiTranslation": "भुजबल से विश्व वश करके रखा — कोई स्वतन्त्र नहीं। मण्डलीक (सम्राटों) में मणि (शिरोमणि) रावण — निज मन्त्र (बुद्धि) से राज करता। देव, यक्ष, गन्धर्व, नर, किन्नर, नाग-कुमारियाँ — जीतकर वरीं (ब्याहीं) — निज बाहुबल से — बहुत सुन्दर, श्रेष्ठ नारियाँ।"
+        },
+        {
+          "id": "bk-182-d2",
+          "type": "doha",
+          "original": "देव जच्छ गंधर्व नर किंनर नाग कुमारि।\nजीति बरीं निज बाहुबल बहु सुंदर बर नारि।।182ख।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
         }
       ]
     },
@@ -9883,13 +10117,40 @@
       "dohaNumber": 186,
       "verses": [
         {
-          "id": "bk-186-ch",
+          "id": "bk-186-ch1",
           "type": "chhand",
-          "original": "जय जय सुरनायक जन सुखदायक प्रनतपाल भगवंता।\nगो द्विज हितकारी जय असुरारी सिधुंसुता प्रिय कंता।।\nपालन सुर धरनी अद्भुत करनी मरम न जानइ कोई।\nजो सहज कृपाला दीनदयाला करउ अनुग्रह सोई।।\nजय जय अबिनासी  सब घट बासी ब्यापक परमानंदा।\nअबिगत गोतीतं चरित पुनीतं मायारहित मुकुंदा।।\nजेहि लागि बिरागी अति अनुरागी बिगतमोह मुनिबृंदा।\nनिसि बासर ध्यावहिं गुन गन गावहिं जयति सच्चिदानंदा।।\nजेहिं सृष्टि उपाई त्रिबिध बनाई संग सहाय न दूजा।\nसो करउ अघारी चिंत हमारी जानिअ भगति न पूजा।।\nजो भव भय भंजन मुनि मन रंजन गंजन बिपति बरूथा।\nमन बच क्रम बानी छाड़ि सयानी सरन सकल सुर जूथा।।\nसारद श्रुति सेषा रिषय असेषा जा कहुँ कोउ नहि जाना।\nजेहि दीन पिआरे बेद पुकारे द्रवउ सो श्रीभगवाना।।\nभव बारिधि मंदर सब बिधि सुंदर गुनमंदिर सुखपुंजा।\nमुनि सिद्ध सकल सुर परम भयातुर नमत नाथ पद कंजा।।",
+          "original": "जय जय सुरनायक जन सुखदायक प्रनतपाल भगवंता।\nगो द्विज हितकारी जय असुरारी सिधुंसुता प्रिय कंता।।\nपालन सुर धरनी अद्भुत करनी मरम न जानइ कोई।\nजो सहज कृपाला दीनदयाला करउ अनुग्रह सोई।।",
           "transliteration": "",
           "translation": "Glory, glory to the Lord of gods, giver of joy to devotees, protector of the humble, O Lord! Benefactor of cows and Brahmins, glory to the slayer of demons, beloved husband of Lakshmi! Protector and sustainer of gods and earth, performer of wondrous deeds whose mystery none can know — may that naturally compassionate, merciful-to-the-meek Lord bestow His grace! Glory, glory to the imperishable, all-pervading, infinite Lord!",
-          "lineCount": 16,
+          "lineCount": 4,
           "hindiTranslation": "जय-जय सुरनायक (देवताओं के नायक)! जन-सुखदायक! प्रणतपाल (शरणागत-रक्षक) भगवन्त! गो-द्विज-हितकारी! जय असुरारि (असुर-शत्रु)! सिन्धुसुता (लक्ष्मी) के प्रिय कान्त (पति)! पालन — सुर (देवता), धरनी (पृथ्वी) का। अद्भुत करनी — मर्म (रहस्य) कोई नहीं जानता। जो सहज कृपालु, दीनदयालु — वही अनुग्रह (कृपा) करें। जय-जय अविनाशी! सब घट (हृदय) में वासी! व्यापक, परमानन्द! अविगत (अज्ञेय), गोतीत (इन्द्रियातीत), चरित पुनीत (पवित्र)! मायारहित, मुकुन्द! जिनके लिए विरागी, अत्यन्त अनुरागी, विगतमोह (मोह-रहित) मुनिवृन्द — रात-दिन ध्यावते (ध्यान करते), गुणगण गावते — जयति सच्चिदानन्द! जिसने सृष्टि उपजाई — त्रिविध (तीन प्रकार की) बनाई — संग सहाय न दूजा। वही अघारि (पाप-शत्रु) हमारी चिन्ता करें — (उन्हें) भक्ति जानिए, न पूजा (चाहिए)। जो भव-भय-भंजन (संसार-भय नाशक), मुनि-मन-रंजन (मुनियों के मन को प्रसन्न करने वाले), विपत्ति-बरूथ (समूह) गंजन (नाशक)। मन-वचन-कर्म (से) वाणी — छोड़कर सयानी (चतुराई) — शरण सकल सुर-जूथ (देवता-समूह)। शारदा (सरस्वती), श्रुति (वेद), शेष, ऋषि अशेष (सभी) — जिन्हें कोई नहीं जाना। जिन्हें दीन प्यारे — वेद पुकारते — द्रवें (कृपा करें) वे श्रीभगवान। भव-वारिधि (संसार-सागर) मन्दर (मन्थन-पर्वत), सब विधि सुन्दर, गुणमन्दिर (गुणों के मन्दिर), सुखपुंज (सुख-राशि)। मुनि, सिद्ध, सकल सुर — परम भयातुर (भयभीत) — नमते नाथ के पद-कंज (चरण-कमल)।"
+        },
+        {
+          "id": "bk-186-ch2",
+          "type": "chhand",
+          "original": "जय जय अबिनासी  सब घट बासी ब्यापक परमानंदा।\nअबिगत गोतीतं चरित पुनीतं मायारहित मुकुंदा।।\nजेहि लागि बिरागी अति अनुरागी बिगतमोह मुनिबृंदा।\nनिसि बासर ध्यावहिं गुन गन गावहिं जयति सच्चिदानंदा।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 4,
+          "hindiTranslation": ""
+        },
+        {
+          "id": "bk-186-ch3",
+          "type": "chhand",
+          "original": "जेहिं सृष्टि उपाई त्रिबिध बनाई संग सहाय न दूजा।\nसो करउ अघारी चिंत हमारी जानिअ भगति न पूजा।।\nजो भव भय भंजन मुनि मन रंजन गंजन बिपति बरूथा।\nमन बच क्रम बानी छाड़ि सयानी सरन सकल सुर जूथा।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 4,
+          "hindiTranslation": ""
+        },
+        {
+          "id": "bk-186-ch4",
+          "type": "chhand",
+          "original": "सारद श्रुति सेषा रिषय असेषा जा कहुँ कोउ नहि जाना।\nजेहि दीन पिआरे बेद पुकारे द्रवउ सो श्रीभगवाना।।\nभव बारिधि मंदर सब बिधि सुंदर गुनमंदिर सुखपुंजा।\nमुनि सिद्ध सकल सुर परम भयातुर नमत नाथ पद कंजा।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 4,
+          "hindiTranslation": ""
         },
         {
           "id": "bk-186-d",
@@ -10165,13 +10426,40 @@
       "dohaNumber": 192,
       "verses": [
         {
-          "id": "bk-192-ch",
+          "id": "bk-192-ch1",
           "type": "chhand",
-          "original": "भए प्रगट कृपाला दीनदयाला कौसल्या हितकारी।\nहरषित महतारी मुनि मन हारी अद्भुत रूप बिचारी।।\nलोचन अभिरामा तनु घनस्यामा निज आयुध भुज चारी।\nभूषन बनमाला नयन बिसाला सोभासिंधु खरारी।।\nकह दुइ कर जोरी अस्तुति तोरी केहि बिधि करौं अनंता।\nमाया गुन ग्यानातीत अमाना बेद पुरान भनंता।।\nकरुना सुख सागर सब गुन आगर जेहि गावहिं श्रुति संता।\nसो मम हित लागी जन अनुरागी भयउ प्रगट श्रीकंता।।\nब्रह्मांड निकाया निर्मित माया रोम रोम प्रति बेद कहै।\nमम उर सो बासी यह उपहासी सुनत धीर पति थिर न रहै।।\nउपजा जब ग्याना प्रभु मुसकाना चरित बहुत बिधि कीन्ह चहै।\nकहि कथा सुहाई मातु बुझाई जेहि प्रकार सुत प्रेम लहै।।\nमाता पुनि बोली सो मति डौली तजहु तात यह रूपा।\nकीजै सिसुलीला अति प्रियसीला यह सुख परम अनूपा।।\nसुनि बचन सुजाना रोदन ठाना होइ बालक सुरभूपा।\nयह चरित जे गावहिं हरिपद पावहिं ते न परहिं भवकूपा।।",
+          "original": "भए प्रगट कृपाला दीनदयाला कौसल्या हितकारी।\nहरषित महतारी मुनि मन हारी अद्भुत रूप बिचारी।।\nलोचन अभिरामा तनु घनस्यामा निज आयुध भुज चारी।\nभूषन बनमाला नयन बिसाला सोभासिंधु खरारी।।",
           "transliteration": "",
           "translation": "The merciful Lord, compassionate to the lowly, benefactor of Kausalya, appeared. The mother was overjoyed, and sages' minds were captivated beholding His wondrous form. His eyes were enchanting, His body dark as a cloud, and He bore His own weapons in four arms. Adorned with ornaments and a garland of forest flowers, with large eyes, He was an ocean of beauty, the slayer of demon Khara. With joined palms, the mother spoke in praise...",
-          "lineCount": 16,
+          "lineCount": 4,
           "hindiTranslation": "कृपालु, दीनदयालु प्रकट हुए — कौसल्या-हितकारी। हर्षित महतारी (माता) — मुनि-मन-हारी — अद्भुत रूप विचारी (देखकर)। लोचन (नेत्र) अभिराम (सुन्दर), तनु (शरीर) घनश्याम (मेघ-जैसा साँवला) — निज आयुध (हथियार) चार भुजाओं में। भूषण (आभूषण), वनमाला, नयन विशाल — शोभासिन्धु (सौन्दर्य-सागर), खरारि (खर-राक्षस के शत्रु)। (कौसल्या ने कहा) दो हाथ जोड़कर — आपकी स्तुति किस विधि करूँ, अनन्त! माया, गुण, ज्ञानातीत (ज्ञान से परे), अमान (अभिमान-रहित) — वेद-पुराण भनन्त (कहते)। करुणा-सुख-सागर, सब गुणों के आगर (भण्डार) — जिन्हें गाते श्रुति (वेद)-सन्त। वही मेरे हित — जन-अनुरागी (भक्तों को प्रेम करने वाले) — श्रीकान्त (लक्ष्मीपति) प्रकट हुए। ब्रह्माण्ड-निकाय (समूह) — निर्मित माया — रोम-रोम प्रति (में) वेद कहते। मेरे उर (हृदय) में वही बासी (निवास करने वाले) — यह उपहासी (हास्यास्पद) — सुनत (सुनकर) धीर (धैर्यवान) पति भी स्थिर नहीं रहते। ज्ञान उपजा तब — प्रभु मुस्कुराए — बहुत विधि चरित्र करना चाहते। सुहावनी कथा कहकर माता को बुझाई (समझाया) — जिस प्रकार सुत (पुत्र) का प्रेम लहे (पाए)। माता फिर बोली — (कहा) वह मति (बुद्धि) डोली (बदली) — तात! यह रूप (चतुर्भुज) त्यागो। शिशु-लीला करो — अत्यन्त प्रियशील — यह सुख परम अनूप (अनुपम)। सुजान (बुद्धिमान) के वचन सुनकर — रोदन (रोना) ठाना — सुरभूप (देवताओं के राजा) बालक हो गए। यह चरित्र जो गावें (गाते) — हरि-पद (श्रीहरि का पद) पावें — वे भवकूप (संसार-कूप) में नहीं गिरते।"
+        },
+        {
+          "id": "bk-192-ch2",
+          "type": "chhand",
+          "original": "कह दुइ कर जोरी अस्तुति तोरी केहि बिधि करौं अनंता।\nमाया गुन ग्यानातीत अमाना बेद पुरान भनंता।।\nकरुना सुख सागर सब गुन आगर जेहि गावहिं श्रुति संता।\nसो मम हित लागी जन अनुरागी भयउ प्रगट श्रीकंता।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 4,
+          "hindiTranslation": ""
+        },
+        {
+          "id": "bk-192-ch3",
+          "type": "chhand",
+          "original": "ब्रह्मांड निकाया निर्मित माया रोम रोम प्रति बेद कहै।\nमम उर सो बासी यह उपहासी सुनत धीर पति थिर न रहै।।\nउपजा जब ग्याना प्रभु मुसकाना चरित बहुत बिधि कीन्ह चहै।\nकहि कथा सुहाई मातु बुझाई जेहि प्रकार सुत प्रेम लहै।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 4,
+          "hindiTranslation": ""
+        },
+        {
+          "id": "bk-192-ch4",
+          "type": "chhand",
+          "original": "माता पुनि बोली सो मति डौली तजहु तात यह रूपा।\nकीजै सिसुलीला अति प्रियसीला यह सुख परम अनूपा।।\nसुनि बचन सुजाना रोदन ठाना होइ बालक सुरभूपा।\nयह चरित जे गावहिं हरिपद पावहिं ते न परहिं भवकूपा।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 4,
+          "hindiTranslation": ""
         },
         {
           "id": "bk-192-d",
@@ -11019,13 +11307,22 @@
           "hindiTranslation": "अत्यन्त आदर से दोनों तनयों (पुत्रों) को बुलाया — हृदय से लगाकर बहुत भाँति सिखाया। (कहा) मेरे प्राण (हैं) नाथ! दोनों पुत्र — आप (विश्वामित्र) मुनि-पिता — और कोई नहीं।"
         },
         {
-          "id": "bk-208-d",
+          "id": "bk-208-d1",
           "type": "doha",
-          "original": "सौंपे भूप रिषिहि सुत बहु बिधि देइ असीस।\nजननी भवन गए प्रभु चले नाइ पद सीस।।208(क)।।\nपुरुषसिंह दोउ बीर हरषि चले मुनि भय हरन।।\nकृपासिंधु मतिधीर अखिल बिस्व कारन करन।।208(ख)।।",
+          "original": "सौंपे भूप रिषिहि सुत बहु बिधि देइ असीस।\nजननी भवन गए प्रभु चले नाइ पद सीस।।208(क)।।",
           "transliteration": "",
           "translation": "The king entrusted his sons to the sage, blessing them in many ways. The Lord bowed at His mothers' feet and then departed with head bowed at the sage's feet. The two brothers, lions among men, set forth joyfully with the sage, dispellers of fear. The ocean of mercy, firm of mind — cause and creator of the entire universe.",
-          "lineCount": 4,
+          "lineCount": 2,
           "hindiTranslation": "भूप (राजा) ने ऋषि को पुत्र सौंपे — बहु विधि आशीर्वाद देकर। जननी-भवन (माता के भवन) गए प्रभु — फिर पद (चरणों) पर सिर नवाकर चले। पुरुषसिंह (नरश्रेष्ठ) दोनों वीर — हर्षित मुनि के साथ चले — भय-हरण (करने वाले)। कृपासिन्धु, मतिधीर — अखिल विश्व के कारण-करण (कारण और कर्ता)।"
+        },
+        {
+          "id": "bk-208-d2",
+          "type": "doha",
+          "original": "पुरुषसिंह दोउ बीर हरषि चले मुनि भय हरन।।\nकृपासिंधु मतिधीर अखिल बिस्व कारन करन।।208(ख)।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
         }
       ]
     },
@@ -11151,13 +11448,40 @@
       "dohaNumber": 211,
       "verses": [
         {
-          "id": "bk-211-ch",
+          "id": "bk-211-ch1",
           "type": "chhand",
-          "original": "परसत पद पावन सोक नसावन प्रगट भई तपपुंज सही।\nदेखत रघुनायक जन सुख दायक सनमुख होइ कर जोरि रही।।\nअति प्रेम अधीरा पुलक सरीरा मुख नहिं आवइ बचन कही।\nअतिसय बड़भागी चरनन्हि लागी जुगल नयन जलधार बही।।\nधीरजु मन कीन्हा प्रभु कहुँ चीन्हा रघुपति कृपाँ भगति पाई।\nअति निर्मल बानीं अस्तुति ठानी ग्यानगम्य जय रघुराई।।\nमै नारि अपावन प्रभु जग पावन रावन रिपु जन सुखदाई।\nराजीव बिलोचन भव भय मोचन पाहि पाहि सरनहिं आई।।\nमुनि श्राप जो दीन्हा अति भल कीन्हा परम अनुग्रह मैं माना।\nदेखेउँ भरि लोचन हरि भवमोचन इहइ लाभ संकर जाना।।\nबिनती प्रभु मोरी मैं मति भोरी नाथ न मागउँ बर आना।\nपद कमल परागा रस अनुरागा मम मन मधुप करै पाना।।\nजेहिं पद सुरसरिता परम पुनीता प्रगट भई सिव सीस धरी।\nसोइ पद पंकज जेहि पूजत अज मम सिर धरेउ कृपाल हरी।।\nएहि भाँति सिधारी गौतम नारी बार बार हरि चरन परी।\nजो अति मन भावा सो बरु पावा गै पतिलोक अनंद भरी।।",
+          "original": "परसत पद पावन सोक नसावन प्रगट भई तपपुंज सही।\nदेखत रघुनायक जन सुख दायक सनमुख होइ कर जोरि रही।।\nअति प्रेम अधीरा पुलक सरीरा मुख नहिं आवइ बचन कही।\nअतिसय बड़भागी चरनन्हि लागी जुगल नयन जलधार बही।।",
           "transliteration": "",
           "translation": "At the touch of His holy feet, destroyer of sorrow, Ahalya — a mass of accumulated austerity — was restored to her true form. Beholding the Lord of the Raghus, giver of joy to His devotees, she stood facing Him with folded hands. Overwhelmed with love, her body thrilling, no words would come from her mouth. Supremely blessed, she fell at His feet as streams of tears flowed from both eyes. Steadying herself, she began to offer praise...",
-          "lineCount": 16,
+          "lineCount": 4,
           "hindiTranslation": "पावन (पवित्र) पद (चरण) का स्पर्श — शोक-नाशक — (उससे) तप-पुंज (तपस्विनी अहल्या) सचमुच प्रकट हुई। रघुनायक को देखते — जन-सुखदायक — सन्मुख होकर हाथ जोड़कर रही। अत्यन्त प्रेम से अधीर — पुलकित शरीर — मुख से वचन नहीं आता। अतिशय बड़भागी (भाग्यशाली) — चरणों लगी — दोनों नयनों से जलधार बही। धीरज मन में किया — प्रभु को पहचाना — रघुपति-कृपा से भक्ति पाई। अत्यन्त निर्मल वाणी से स्तुति ठानी (की) — (कहा) ज्ञानगम्य (ज्ञान से जानने योग्य)! जय रघुराई! (कहा) मैं नारी — अपावन (अपवित्र)। प्रभु — जग-पावन (जगत को पवित्र करने वाले), रावण-रिपु, जन-सुखदाई। राजीव-लोचन (कमल-नेत्र)! भव-भय-मोचन (संसार-भय-मुक्तिदाता)! पाहि-पाहि (रक्षा करो)! शरण आई। मुनि (गौतम) ने जो शाप दिया — अत्यन्त भला किया — परम अनुग्रह (कृपा) मैंने माना। नेत्र भरकर हरि — भवमोचन (संसार से मुक्ति देने वाले) — देखा — यही लाभ शंकर (शिव) ने जाना। प्रभु! मेरी विनती — मैं मति-भोरी (मूढ़-बुद्धि) — नाथ! आन (और कोई) वर नहीं माँगती। पद-कमल-परागा (चरण-कमल-रज) के रस (प्रेम) में अनुरागी (लीन) — मेरा मन-मधुप (मन-रूपी भ्रमर) पान (रसपान) करे। जिस पद (चरण) से सुरसरिता (गंगा) — परम पुनीत (पवित्र) — प्रकट हुई, शिव ने शीश (सिर) पर धरी। वही पद-पंकज (चरण-कमल) — जिन्हें अज (ब्रह्मा) पूजते — कृपालु हरि ने मेरे सिर पर धरा। इस भाँति गौतम-नारी (अहल्या) सिधारीं (चलीं) — बार-बार हरि-चरण पर गिरकर। जो अत्यन्त मन भाया — वह वर पाया — पतिलोक (पति के लोक) में आनन्द-भरी गईं।"
+        },
+        {
+          "id": "bk-211-ch2",
+          "type": "chhand",
+          "original": "धीरजु मन कीन्हा प्रभु कहुँ चीन्हा रघुपति कृपाँ भगति पाई।\nअति निर्मल बानीं अस्तुति ठानी ग्यानगम्य जय रघुराई।।\nमै नारि अपावन प्रभु जग पावन रावन रिपु जन सुखदाई।\nराजीव बिलोचन भव भय मोचन पाहि पाहि सरनहिं आई।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 4,
+          "hindiTranslation": ""
+        },
+        {
+          "id": "bk-211-ch3",
+          "type": "chhand",
+          "original": "मुनि श्राप जो दीन्हा अति भल कीन्हा परम अनुग्रह मैं माना।\nदेखेउँ भरि लोचन हरि भवमोचन इहइ लाभ संकर जाना।।\nबिनती प्रभु मोरी मैं मति भोरी नाथ न मागउँ बर आना।\nपद कमल परागा रस अनुरागा मम मन मधुप करै पाना।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 4,
+          "hindiTranslation": ""
+        },
+        {
+          "id": "bk-211-ch4",
+          "type": "chhand",
+          "original": "जेहिं पद सुरसरिता परम पुनीता प्रगट भई सिव सीस धरी।\nसोइ पद पंकज जेहि पूजत अज मम सिर धरेउ कृपाल हरी।।\nएहि भाँति सिधारी गौतम नारी बार बार हरि चरन परी।\nजो अति मन भावा सो बरु पावा गै पतिलोक अनंद भरी।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 4,
+          "hindiTranslation": ""
         },
         {
           "id": "bk-211-d",
@@ -16859,13 +17183,22 @@
           "hindiTranslation": "इस प्रकार सीता मण्डप में आईं — प्रमुदित (अत्यन्त प्रसन्न) मुनिराज शान्तिपाठ पढ़ते। उस अवसर पर विधि-व्यवहार (रीति-रिवाज) — दोनों कुलगुर (गुरुओं) ने सब आचार किया।"
         },
         {
-          "id": "bk-323-ch",
+          "id": "bk-323-ch1",
           "type": "chhand",
-          "original": "आचारु करि गुर गौरि गनपति मुदित बिप्र पुजावहीं।\nसुर प्रगटि पूजा लेहिं देहिं असीस अति सुखु पावहीं।।\nमधुपर्क मंगल द्रब्य जो जेहि समय मुनि मन महुँ चहैं।\nभरे कनक कोपर कलस सो सब लिएहिं परिचारक रहैं।।1।।\nकुल रीति प्रीति समेत रबि कहि देत सबु सादर कियो।\nएहि भाँति देव पुजाइ सीतहि सुभग सिंघासनु दियो।।\nसिय राम अवलोकनि परसपर प्रेम काहु न लखि परै।।\nमन बुद्धि बर बानी अगोचर प्रगट कबि कैसें करै।।2।।",
+          "original": "आचारु करि गुर गौरि गनपति मुदित बिप्र पुजावहीं।\nसुर प्रगटि पूजा लेहिं देहिं असीस अति सुखु पावहीं।।\nमधुपर्क मंगल द्रब्य जो जेहि समय मुनि मन महुँ चहैं।\nभरे कनक कोपर कलस सो सब लिएहिं परिचारक रहैं।।1।।",
           "transliteration": "",
           "translation": "After performing the rites, the gurus joyfully had Gauri and Ganesha worshipped by the Brahmins. The gods appeared visibly, accepted the worship, gave blessings, and experienced great joy. Whatever ceremonial offerings and auspicious articles the sages desired at each moment—all appeared filled in golden vessels, and attendants stood by with them. All the customs were lovingly performed as the sun-god directed and everyone respectfully complied. In this way, having the gods worshipped, a beautiful throne was given to Sita. Sita and Rama gazed at each other, but their mutual love no one could detect. What is beyond the reach of mind, intellect, and even the finest speech—how can a poet make it manifest?",
-          "lineCount": 8,
+          "lineCount": 4,
           "hindiTranslation": "आचार करके — गुरुओं ने गौरी-गणपति (गणेश) — मुदित (प्रसन्न) विप्रों (ब्राह्मणों) से पुजवाए। सुर (देवता) प्रकट होकर पूजा लेते — आशीष देते — अत्यन्त सुख पाते। मधुपर्क (अर्घ्य), मंगल-द्रव्य (शुभ सामग्री) — जो जिस समय मुनि मन में चाहें — कनक (सोने)-कोपर (ताँबे) कलश भरे — वह सब परिचारक (सेवक) लिए खड़े रहते। कुल-रीति प्रीति समेत — रवि (सूर्यदेव) कहकर देते — सब सादर किया। इस भाँति देव पुजवाकर सीता को सुभग (सुन्दर) सिंहासन दिया। सीता-राम परस्पर देखते — प्रेम — किसी को दिखता नहीं। मन-बुद्धि-श्रेष्ठ वाणी से अगोचर — प्रकट कवि कैसे करे?"
+        },
+        {
+          "id": "bk-323-ch2",
+          "type": "chhand",
+          "original": "कुल रीति प्रीति समेत रबि कहि देत सबु सादर कियो।\nएहि भाँति देव पुजाइ सीतहि सुभग सिंघासनु दियो।।\nसिय राम अवलोकनि परसपर प्रेम काहु न लखि परै।।\nमन बुद्धि बर बानी अगोचर प्रगट कबि कैसें करै।।2।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 4,
+          "hindiTranslation": ""
         },
         {
           "id": "bk-323-d",
@@ -16918,13 +17251,40 @@
           "hindiTranslation": "मुनि वेद-मंगल-वाणी पढ़ते — गगन (आकाश) से अवसर जानकर सुमन (फूल) झड़ते। वर (दूल्हा) देखकर दम्पति (जनक-सुनयना) अनुरागे (प्रेममग्न) — पुनीत (पवित्र) पाँव (पैर) पखारने (धोने) लगे।"
         },
         {
-          "id": "bk-324-ch",
+          "id": "bk-324-ch1",
           "type": "chhand",
-          "original": "लागे पखारन पाय पंकज प्रेम तन पुलकावली।\nनभ नगर गान निसान जय धुनि उमगि जनु चहुँ दिसि चली।।\nजे पद सरोज मनोज अरि उर सर सदैव बिराजहीं।\nजे सकृत सुमिरत बिमलता मन सकल कलि मल भाजहीं।।1।।\nजे परसि मुनिबनिता लही गति रही जो पातकमई।\nमकरंदु जिन्ह को संभु सिर सुचिता अवधि सुर बरनई।।\nकरि मधुप मन मुनि जोगिजन जे सेइ अभिमत गति लहैं।\nते पद पखारत भाग्यभाजनु जनकु जय जय सब कहै।।2।।\nबर कुअँरि करतल जोरि साखोचारु दोउ कुलगुर करैं।\nभयो पानिगहनु बिलोकि बिधि सुर मनुज मुनि आँनद भरैं।।\nसुखमूल दूलहु देखि दंपति पुलक तन हुलस्यो हियो।\nकरि लोक बेद बिधानु कन्यादानु नृपभूषन कियो।।3।।\nहिमवंत जिमि गिरिजा महेसहि हरिहि श्री सागर दई।\nतिमि जनक रामहि सिय समरपी बिस्व कल कीरति नई।।\nक्यों करै बिनय बिदेहु कियो बिदेहु मूरति सावँरी।\nकरि होम बिधिवत गाँठि जोरी होन लागी भावँरी।।4।।",
+          "original": "लागे पखारन पाय पंकज प्रेम तन पुलकावली।\nनभ नगर गान निसान जय धुनि उमगि जनु चहुँ दिसि चली।।\nजे पद सरोज मनोज अरि उर सर सदैव बिराजहीं।\nजे सकृत सुमिरत बिमलता मन सकल कलि मल भाजहीं।।1।।",
           "transliteration": "",
           "translation": "They began washing the lotus feet, love producing waves of goosebumps on their bodies. Songs, instruments, and cries of \"Victory!\" seemed to surge forth in all directions from sky and city. Those lotus feet that ever dwell in the lake of the heart of Shiva—by whose mere remembrance the mind's every impurity of Kaliyuga is dispelled. Those feet whose touch liberated the sage's wife Ahalya who had been steeped in sin; whose nectar Shiva bears on his head—the gods declare it the very limit of purity; which sage-yogis serve as bees of the mind and thereby attain their desired salvation—those feet Janaka now washed, and all exclaimed \"Victory!\" to that vessel of good fortune. The groom and the princess joined their palms while both family priests recited the marriage vows. The wedding-clasping-of-hands took place; beholding it, gods, men, and sages were filled with bliss. The parents were overjoyed seeing the auspicious groom; with thrilled bodies and elated hearts, the jewel among kings performed the gift of the bride following both worldly and Vedic custom. Just as Himavat gave Girija to Mahesha, and the Ocean gave Lakshmi to Hari, so Janaka offered Sita to Rama—a new and beautiful glory resounded throughout the universe. How can Videha make supplication? He has become truly bodiless before that dark-hued form. The sacred fire was kindled as prescribed, the knot was tied, and the circumambulations began.",
-          "lineCount": 16,
+          "lineCount": 4,
           "hindiTranslation": "पद-पंकज (चरण-कमल) पखारने (धोने) लगे — प्रेम से तन पर पुलकावली (रोमांच)। नभ-नगर में गान-निशान (नगाड़े) — 'जय' ध्वनि उमगकर चारों दिशाओं में चली। जो पद-सरोज मनोज-अरि (कामदेव-शत्रु शिव) के उर (हृदय)-सर (सरोवर) में सदैव विराजते। जो सकृत (एक बार) स्मरण करते ही मन विमल (निर्मल) — सकल कलि-मल (कलियुग के पाप) भागते। जिन्हें स्पर्श करके मुनि-वनिता (गौतम-पत्नी अहल्या) ने गति (मुक्ति) पाई — जो पातकमई (पाप-भरी) रही। जिनका मकरन्द (पराग-रस) शम्भु (शिव) सिर पर (धारते) — शुचिता (पवित्रता)-अवधि (सीमा) सुर (देवता) वर्णन करते। करि (हृदय-रूपी) मधुप (भ्रमर)-मन — मुनि-योगीजन जो सेवन करके अभिमत (इच्छित) गति पाते। वे पद पखारते — भाग्यभाजन (भाग्यशाली) जनक — सब 'जय-जय' कहते। श्रेष्ठ वर-कुँवरी (दूल्हा-दुल्हन) करतल (हथेली) जोड़कर — साखोचार (वेदी-प्रदक्षिणा) दोनों कुलगुर करवाते। पाणिग्रहण (हाथ पकड़ना) देखकर — विधि (ब्रह्मा), सुर (देवता), मनुज (मनुष्य), मुनि — आनन्द भरते। सुखमूल (सुख-कारण) दूल्हा देखकर दम्पति — पुलकित तन, हुलसा (प्रफुल्लित) हृदय। लोक-वेद-विधान (रीति) से कन्यादान — नृपभूषण (राजाओं में श्रेष्ठ जनक) ने किया। हिमवन्त (हिमालय) ने जैसे गिरिजा (पार्वती) महेश (शिव) को — हरि (विष्णु) को श्री (लक्ष्मी) सागर ने दी। वैसे जनक ने राम को सीता समर्पी — विश्व में कल (सुन्दर) कीर्ति नई। क्या विनय करें विदेह (जनक) — (उन्होंने) विदेह (देह-रहित = निर्लिप्त) साँवरी मूर्ति (श्रीराम) को (कन्यादान) किया। होम विधिवत करके — गाँठ जोड़ी — भाँवरी (फेरे) होने लगी।"
+        },
+        {
+          "id": "bk-324-ch2",
+          "type": "chhand",
+          "original": "जे परसि मुनिबनिता लही गति रही जो पातकमई।\nमकरंदु जिन्ह को संभु सिर सुचिता अवधि सुर बरनई।।\nकरि मधुप मन मुनि जोगिजन जे सेइ अभिमत गति लहैं।\nते पद पखारत भाग्यभाजनु जनकु जय जय सब कहै।।2।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 4,
+          "hindiTranslation": ""
+        },
+        {
+          "id": "bk-324-ch3",
+          "type": "chhand",
+          "original": "बर कुअँरि करतल जोरि साखोचारु दोउ कुलगुर करैं।\nभयो पानिगहनु बिलोकि बिधि सुर मनुज मुनि आँनद भरैं।।\nसुखमूल दूलहु देखि दंपति पुलक तन हुलस्यो हियो।\nकरि लोक बेद बिधानु कन्यादानु नृपभूषन कियो।।3।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 4,
+          "hindiTranslation": ""
+        },
+        {
+          "id": "bk-324-ch4",
+          "type": "chhand",
+          "original": "हिमवंत जिमि गिरिजा महेसहि हरिहि श्री सागर दई।\nतिमि जनक रामहि सिय समरपी बिस्व कल कीरति नई।।\nक्यों करै बिनय बिदेहु कियो बिदेहु मूरति सावँरी।\nकरि होम बिधिवत गाँठि जोरी होन लागी भावँरी।।4।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 4,
+          "hindiTranslation": ""
         },
         {
           "id": "bk-324-d",
@@ -16986,13 +17346,40 @@
           "hindiTranslation": "अरुण (लाल) पराग (पराग) से जलज (कमल) भरी नीकें (अच्छी तरह)। शशि (चन्द्रमा) को भूषित — अहि (शेषनाग) अमी (अमृत) के लोभ (से)। फिर वसिष्ठ ने अनुशासन (आज्ञा) दिया — वर-दुलहिनी (दूल्हा-दुल्हन) एक आसन पर बैठे।"
         },
         {
-          "id": "bk-325-ch",
+          "id": "bk-325-ch1",
           "type": "chhand",
-          "original": "बैठे बरासन रामु जानकि मुदित मन दसरथु भए।\nतनु पुलक पुनि पुनि देखि अपनें सुकृत सुरतरु फल नए।।\nभरि भुवन रहा उछाहु राम बिबाहु भा सबहीं कहा।\nकेहि भाँति बरनि सिरात रसना एक यहु मंगलु महा।।1।।\nतब जनक पाइ बसिष्ठ आयसु ब्याह साज सँवारि कै।\nमाँडवी श्रुतिकीरति उरमिला कुअँरि लईं हँकारि के।।\nकुसकेतु कन्या प्रथम जो गुन सील सुख सोभामई।\nसब रीति प्रीति समेत करि सो ब्याहि नृप भरतहि दई।।2।।\nजानकी लघु भगिनी सकल सुंदरि सिरोमनि जानि कै।\nसो तनय दीन्ही ब्याहि लखनहि सकल बिधि सनमानि कै।।\nजेहि नामु श्रुतकीरति सुलोचनि सुमुखि सब गुन आगरी।\nसो दई रिपुसूदनहि भूपति रूप सील उजागरी।।3।।\nअनुरुप बर दुलहिनि परस्पर लखि सकुच हियँ हरषहीं।\nसब मुदित सुंदरता सराहहिं सुमन सुर गन बरषहीं।।\nसुंदरी सुंदर बरन्ह सह सब एक मंडप राजहीं।\nजनु जीव उर चारिउ अवस्था बिमुन सहित बिराजहीं।।4।।",
+          "original": "बैठे बरासन रामु जानकि मुदित मन दसरथु भए।\nतनु पुलक पुनि पुनि देखि अपनें सुकृत सुरतरु फल नए।।\nभरि भुवन रहा उछाहु राम बिबाहु भा सबहीं कहा।\nकेहि भाँति बरनि सिरात रसना एक यहु मंगलु महा।।1।।",
           "transliteration": "",
           "translation": "Rama and Janaki sat upon the bridal seat; Dasharatha was delighted at heart. With thrilling body, gazing at them again and again, he saw the wish-fulfilling tree of his own merit bearing fresh fruit. Joy filled all the worlds—everyone said the marriage of Rama had taken place. How can a single tongue describe the exhaustless flow of this great festivity? Then Janaka, receiving Vasishtha's command, prepared the wedding arrangements. He summoned the princesses Mandavi, Shrutakirti, and Urmila. The daughter of Kushakethu, the eldest, endowed with virtue, goodness, joy, and beauty—her he gave in marriage to Bharata with all rites and love. Janaki's younger sister, acknowledged as the crown-jewel of all beauties, he gave in marriage to Lakshmana with all due honor. And the one named Shrutakirti, bright-eyed, fair-faced, and a mine of all virtues—that princess the king gave to Shatrughna, radiant in beauty and virtue. Beholding the well-matched brides and grooms, all felt shy delight in their hearts. Everyone praised the beauty and the gods showered flowers. The beautiful brides with their handsome grooms all shone in the single pavilion, as if the four states of the soul, together with liberation, sat enthroned in the heart.",
-          "lineCount": 16,
+          "lineCount": 4,
           "hindiTranslation": "बरासन (वर-आसन) पर राम-जानकी बैठे — मुदित (प्रसन्न) मन दशरथ हुए। तन पुलकित — बार-बार देखकर — अपने सुकृत (पुण्य)-सुरतरु (कल्पवृक्ष) नए (नये) फल। भुवनों (लोकों) में भरा उछाह (उत्साह) — राम-विवाह हुआ — सबने कहा। किस भाँति वर्णन करे — सिराती (थकती) एक रसना (जीभ) — यह महामंगल। तब जनक ने वसिष्ठ-आज्ञा पाकर — विवाह-साज सँवारकर। माण्डवी, श्रुतकीर्ति, ऊर्मिला — कुँवरी (राजकुमारियाँ) बुलवाकर लीं। कुशकेतु-कन्या प्रथम — जो गुण-शील-सुख-शोभामयी — सब रीति प्रीति समेत करके — वह ब्याहकर नृप (राजा) ने भरत को दी। जानकी की लघु (छोटी) भगिनी (बहन) — सकल सुन्दरियों में शिरोमणि जानकर — वह तनया (पुत्री) ब्याहकर लक्ष्मण को दी — सकल विधि सम्मान करके। जिनका नाम श्रुतकीर्ति — सुलोचनी (सुन्दर नेत्रों वाली), सुमुखी (सुन्दर मुख वाली), सब गुणों की आगरी (भण्डार)। वह रिपुसूदन (शत्रुघ्न) को भूपति (राजा) ने दी — रूप-शील उजागरी (शोभित)। अनुरूप (योग्य) वर-दुलहिनी — परस्पर लखकर (देखकर) — सकुचाकर हृदय में हर्षित। सब मुदित (प्रसन्न) — सुन्दरता सराहते — सुमन (फूल) सुरगण (देवता) बरसाते। सुन्दरी-सुन्दर वरों सह — सब एक मण्डप में राजतीं — मानो जीव के उर (हृदय) में चारों अवस्था — विमुन (निर्गुण) सहित विराजतीं।"
+        },
+        {
+          "id": "bk-325-ch2",
+          "type": "chhand",
+          "original": "तब जनक पाइ बसिष्ठ आयसु ब्याह साज सँवारि कै।\nमाँडवी श्रुतिकीरति उरमिला कुअँरि लईं हँकारि के।।\nकुसकेतु कन्या प्रथम जो गुन सील सुख सोभामई।\nसब रीति प्रीति समेत करि सो ब्याहि नृप भरतहि दई।।2।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 4,
+          "hindiTranslation": ""
+        },
+        {
+          "id": "bk-325-ch3",
+          "type": "chhand",
+          "original": "जानकी लघु भगिनी सकल सुंदरि सिरोमनि जानि कै।\nसो तनय दीन्ही ब्याहि लखनहि सकल बिधि सनमानि कै।।\nजेहि नामु श्रुतकीरति सुलोचनि सुमुखि सब गुन आगरी।\nसो दई रिपुसूदनहि भूपति रूप सील उजागरी।।3।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 4,
+          "hindiTranslation": ""
+        },
+        {
+          "id": "bk-325-ch4",
+          "type": "chhand",
+          "original": "अनुरुप बर दुलहिनि परस्पर लखि सकुच हियँ हरषहीं।\nसब मुदित सुंदरता सराहहिं सुमन सुर गन बरषहीं।।\nसुंदरी सुंदर बरन्ह सह सब एक मंडप राजहीं।\nजनु जीव उर चारिउ अवस्था बिमुन सहित बिराजहीं।।4।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 4,
+          "hindiTranslation": ""
         },
         {
           "id": "bk-325-d",
@@ -17045,13 +17432,40 @@
           "hindiTranslation": "याचकों को जो जिसे भाया — वह दिया। उबरा (बचा) जनवासे (अतिथि-गृह) में आया। तब हाथ जोड़कर जनक मृदु (कोमल) वाणी — सब बारात सम्मानकर बोले।"
         },
         {
-          "id": "bk-326-ch",
+          "id": "bk-326-ch1",
           "type": "chhand",
-          "original": "सनमानि सकल बरात आदर दान बिनय बड़ाइ कै।\nप्रमुदित महा मुनि बृंद बंदे पूजि प्रेम लड़ाइ कै।।\nसिरु नाइ देव मनाइ सब सन कहत कर संपुट किएँ।\nसुर साधु चाहत भाउ सिंधु कि तोष जल अंजलि दिएँ।।1।।\nकर जोरि जनकु बहोरि बंधु समेत कोसलराय सों।\nबोले मनोहर बयन सानि सनेह सील सुभाय सों।।\nसंबंध राजन रावरें हम बड़े अब सब बिधि भए।\nएहि राज साज समेत सेवक जानिबे बिनु गथ लए।।2।।\nए दारिका परिचारिका करि पालिबीं करुना नई।\nअपराधु छमिबो बोलि पठए बहुत हौं ढीट्यो कई।।\nपुनि भानुकुलभूषन सकल सनमान निधि समधी किए।\nकहि जाति नहिं बिनती परस्पर प्रेम परिपूरन हिए।।3।।\nबृंदारका गन सुमन बरिसहिं राउ जनवासेहि चले।\nदुंदुभी जय धुनि बेद धुनि नभ नगर कौतूहल भले।।\nतब सखीं मंगल गान करत मुनीस आयसु पाइ कै।\nदूलह दुलहिनिन्ह सहित सुंदरि चलीं कोहबर ल्याइ कै।।4।।",
+          "original": "सनमानि सकल बरात आदर दान बिनय बड़ाइ कै।\nप्रमुदित महा मुनि बृंद बंदे पूजि प्रेम लड़ाइ कै।।\nसिरु नाइ देव मनाइ सब सन कहत कर संपुट किएँ।\nसुर साधु चाहत भाउ सिंधु कि तोष जल अंजलि दिएँ।।1।।",
           "transliteration": "",
           "translation": "Having honored the entire wedding party with respect, gifts, humility, and praise, he joyfully bowed to the great sages, worshipping them with overflowing love. Bowing his head, he propitiated the gods and addressed everyone with palms joined: \"Can gods and saints be pleased with a mere handful of water offered to the ocean of goodwill?\" With folded hands, Janaka again addressed the King of Kosala along with his kinsmen, in charming words steeped in affection, virtue, and grace: \"O King, by your alliance I have become great in every way. Please consider this kingdom, its wealth, and me as your servant, freely taken without price.\" \"These girls—please treat them as maidservants and raise them with fresh compassion. Forgive their faults; I have been very presumptuous in sending them forth.\" Then the Ornament of the Solar Race treated his in-law with every honor. The mutual courtesies cannot be told; both hearts were brimming with love. Hosts of gods showered flowers as the king proceeded to the guest quarters. Drums, victory-cries, Vedic chanting, and festive excitement filled the sky and city. Then the friends, singing auspicious songs on the sage's command, led the grooms together with their brides to the nuptial chamber.",
-          "lineCount": 16,
+          "lineCount": 4,
           "hindiTranslation": "सकल बारात सम्मान — आदर-दान-विनय-बड़ाई करके। प्रमुदित महामुनिवृन्द (समूह) वन्दे (नमस्कार किए) — पूजकर प्रेम लड़ाकर (जताकर)। सिर नवाकर, देव मनाकर — सबसे कर-सम्पुट (हाथ जोड़कर) कहते। (जनक ने कहा) सुर-साधु चाहते भाव (प्रेम) — सिन्धु (सागर) को क्या तोष (सन्तुष्टि) — जल-अंजलि दिए? हाथ जोड़कर जनक फिर बन्धु (भाई कुशध्वज) समेत कोसलराज (दशरथ) से — मनोहर वचन बोले — स्नेह-शील-सुभाव से सने। (जनक ने कहा) सम्बन्ध, राजन्! आपसे — हम बड़े — अब सब विधि हुए। यह राज-साज (वैभव) समेत सेवक जानें — बिना गथ (सम्पत्ति) लिए। ये दारिका (पुत्रियाँ) — परिचारिका (सेविका) करके — करुणा नई (नयी) — पालना। अपराध क्षमा करना — बहुत मैंने ढीठाई (धृष्टता) की — कहकर भेजा। फिर भानुकुलभूषण (सूर्यवंश-भूषण दशरथ) ने — सकल सम्मान-निधि समधी (ससुर जनक) किए। विनती परस्पर — कहा नहीं जाती — प्रेम-परिपूर्ण हृदय। वृन्दारका-गण (देवता-समूह) सुमन (फूल) बरसाते — राजा जनवास चले। दुन्दुभी (नगाड़े), 'जय' ध्वनि, वेद-ध्वनि — नभ-नगर में भले कौतूहल। तब सखियों ने मंगल-गान करते — मुनीश-आज्ञा पाकर — दूल्हा-दुल्हनियों सहित — सुन्दरियाँ कोहबर (कोहबर = गृहप्रवेश-कक्ष) ले गईं।"
+        },
+        {
+          "id": "bk-326-ch2",
+          "type": "chhand",
+          "original": "कर जोरि जनकु बहोरि बंधु समेत कोसलराय सों।\nबोले मनोहर बयन सानि सनेह सील सुभाय सों।।\nसंबंध राजन रावरें हम बड़े अब सब बिधि भए।\nएहि राज साज समेत सेवक जानिबे बिनु गथ लए।।2।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 4,
+          "hindiTranslation": ""
+        },
+        {
+          "id": "bk-326-ch3",
+          "type": "chhand",
+          "original": "ए दारिका परिचारिका करि पालिबीं करुना नई।\nअपराधु छमिबो बोलि पठए बहुत हौं ढीट्यो कई।।\nपुनि भानुकुलभूषन सकल सनमान निधि समधी किए।\nकहि जाति नहिं बिनती परस्पर प्रेम परिपूरन हिए।।3।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 4,
+          "hindiTranslation": ""
+        },
+        {
+          "id": "bk-326-ch4",
+          "type": "chhand",
+          "original": "बृंदारका गन सुमन बरिसहिं राउ जनवासेहि चले।\nदुंदुभी जय धुनि बेद धुनि नभ नगर कौतूहल भले।।\nतब सखीं मंगल गान करत मुनीस आयसु पाइ कै।\nदूलह दुलहिनिन्ह सहित सुंदरि चलीं कोहबर ल्याइ कै।।4।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 4,
+          "hindiTranslation": ""
         },
         {
           "id": "bk-326-d",
@@ -17113,13 +17527,40 @@
           "hindiTranslation": "सुन्दर भृकुटि (भौंहें), मनोहर नासा (नाक)। भाल (माथे पर) तिलक — रुचिरता (सुन्दरता) का निवास। माथे पर मनोहर मौर (मुकुट) शोभित — मंगलमय — मुकुता (मोती)-मणि गाथे (गुँथे)।"
         },
         {
-          "id": "bk-327-ch",
+          "id": "bk-327-ch1",
           "type": "chhand",
-          "original": "गाथे महामनि मौर मंजुल अंग सब चित चोरहीं।\nपुर नारि सुर सुंदरीं बरहि बिलोकि सब तिन तोरहीं।।\nमनि बसन भूषन वारि आरति करहिं मंगल गावहिं।\nसुर सुमन बरिसहिं सूत मागध बंदि सुजसु सुनावहीं।।1।।\nकोहबरहिं आने कुँअर कुँअरि सुआसिनिन्ह सुख पाइ कै।\nअति प्रीति लौकिक रीति लागीं करन मंगल गाइ कै।।\nलहकौरि गौरि सिखाव रामहि सीय सन सारद कहैं।\nरनिवासु हास बिलास रस बस जन्म को फलु सब लहैं।।2।।\nनिज पानि मनि महुँ देखिअति मूरति सुरूपनिधान की।\nचालति न भुजबल्ली बिलोकनि बिरह भय बस जानकी।।\nकौतुक बिनोद प्रमोदु प्रेमु न जाइ कहि जानहिं अलीं।\nबर कुअँरि सुंदर सकल सखीं लवाइ जनवासेहि चलीं।।3।।\nतेहि समय सुनिअ असीस जहँ तहँ नगर नभ आनँदु महा।\nचिरु जिअहुँ जोरीं चारु चारयो मुदित मन सबहीं कहा।।\nजोगीन्द्र सिद्ध मुनीस देव बिलोकि प्रभु दुंदुभि हनी।\nचले हरषि बरषि प्रसून निज निज लोक जय जय जय भनी।।4।।",
+          "original": "गाथे महामनि मौर मंजुल अंग सब चित चोरहीं।\nपुर नारि सुर सुंदरीं बरहि बिलोकि सब तिन तोरहीं।।\nमनि बसन भूषन वारि आरति करहिं मंगल गावहिं।\nसुर सुमन बरिसहिं सूत मागध बंदि सुजसु सुनावहीं।।1।।",
           "transliteration": "",
           "translation": "The great gems strung in the splendid crown and all his beautiful limbs steal everyone's heart. The women of the city and the celestial maidens, beholding the groom, all lose their composure. Waving gems, garments, and ornaments, they perform arati and sing auspicious songs. Gods shower flowers; bards, minstrels, and panegyrists proclaim his fair renown. The auspicious women brought the prince and princess to the nuptial chamber with great joy. With deep love, they began performing the worldly rites, singing auspicious songs. Gauri teaches Rama the nuptial games with Sita, and Saraswati instructs. The whole inner court is immersed in laughter, sport, and sentiment—all taste the true fruit of life. Sita gazes at the gem in her hand and sees reflected there the image of the supremely beautiful Lord. Her vine-like arms will not move; her eyes will not look away, Janaki being held by the fear of separation. The play, amusement, joy, and love that ensued cannot be told—only her intimate friends know. With the fair prince and princess, all the friends then led them to the guest quarters. At that moment, blessings were heard everywhere—in the city and the sky, great bliss prevailed. \"Long live the four lovely couples!\" everyone said gladly. Mighty yogis, adepts, great sages, and gods, beholding the Lord, sounded their celestial drums. They departed happily, showering flowers, returning to their own realms, proclaiming \"Victory! Victory! Victory!\"",
-          "lineCount": 16,
+          "lineCount": 4,
           "hindiTranslation": "महामणि गाथे (गुँथे) मौर (मुकुट) — मंजुल (सुन्दर) अंग — सब चित्त (मन) चोरते। पुर-नारी, सुर-सुन्दरियाँ — वर (दूल्हे) को देखकर — सब तिन (उनके) तोड़ती (मोहित)। मणि-वसन (वस्त्र)-भूषण (आभूषण) वारकर (न्योछावर कर) — आरती करतीं — मंगल गातीं। सुर (देवता) सुमन (फूल) बरसाते — सूत-मागध-बन्दी सुयश सुनाते। कोहबर में कुँवर-कुँवरियाँ — सुवासिनियों (सुहागिनों) ने सुख पाकर ले आईं। अत्यन्त प्रीति से लौकिक रीतियाँ — मंगल गाकर करने लगीं। लहकौरी (खिलौने का खेल) गौरी (पार्वती) सिखातीं — राम को। सीता से शारद (सरस्वती) कहतीं। रनिवास (अन्तःपुर) — हास-विलास-रस-वश — जन्म का फल सब पाते। निज पाणि (हाथ) — मणि में देखी जाती — सुरूपनिधान (सौन्दर्य-भण्डार) की मूर्ति। चलती नहीं भुजवल्ली (भुजा-लता) — विरह-भय-वश — जानकी देखतीं। कौतुक-विनोद-प्रमोद-प्रेम — कहा नहीं जाता — जानतीं सखियाँ। वर-कुँवरी (दूल्हा-दुल्हन) — सब सुन्दर सखियाँ लवाकर (साथ ले) — जनवासे (अतिथि-गृह) चलीं। उस समय जहाँ-तहाँ आशीष सुनाई — नगर-नभ (आकाश) — महान आनन्द। (कहते) चिर (दीर्घकाल) जीवें — चारों सुन्दर जोड़ियाँ — मुदित (प्रसन्न) मन सबने कहा। योगीन्द्र, सिद्ध, मुनीश, देवता — प्रभु देखकर — दुन्दुभी (नगाड़े) बजाई। हर्षित, प्रसून (फूल) बरसाकर — निज-निज लोक चले — 'जय-जय-जय' कहकर।"
+        },
+        {
+          "id": "bk-327-ch2",
+          "type": "chhand",
+          "original": "कोहबरहिं आने कुँअर कुँअरि सुआसिनिन्ह सुख पाइ कै।\nअति प्रीति लौकिक रीति लागीं करन मंगल गाइ कै।।\nलहकौरि गौरि सिखाव रामहि सीय सन सारद कहैं।\nरनिवासु हास बिलास रस बस जन्म को फलु सब लहैं।।2।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 4,
+          "hindiTranslation": ""
+        },
+        {
+          "id": "bk-327-ch3",
+          "type": "chhand",
+          "original": "निज पानि मनि महुँ देखिअति मूरति सुरूपनिधान की।\nचालति न भुजबल्ली बिलोकनि बिरह भय बस जानकी।।\nकौतुक बिनोद प्रमोदु प्रेमु न जाइ कहि जानहिं अलीं।\nबर कुअँरि सुंदर सकल सखीं लवाइ जनवासेहि चलीं।।3।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 4,
+          "hindiTranslation": ""
+        },
+        {
+          "id": "bk-327-ch4",
+          "type": "chhand",
+          "original": "तेहि समय सुनिअ असीस जहँ तहँ नगर नभ आनँदु महा।\nचिरु जिअहुँ जोरीं चारु चारयो मुदित मन सबहीं कहा।।\nजोगीन्द्र सिद्ध मुनीस देव बिलोकि प्रभु दुंदुभि हनी।\nचले हरषि बरषि प्रसून निज निज लोक जय जय जय भनी।।4।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 4,
+          "hindiTranslation": ""
         },
         {
           "id": "bk-327-d",
@@ -18281,13 +18722,22 @@
           "hindiTranslation": "मानो जन्म-रंक (जन्म से गरीब) ने पारस (पत्थर) पाया — अन्धे को लोचन (नेत्र)-लाभ सुहावना। मूक (गूँगे) बदन (मुख) पर मानो शारदा (सरस्वती) छाई। मानो समर (युद्ध) में शूर (वीर) ने जय पाई।"
         },
         {
-          "id": "bk-350-d",
+          "id": "bk-350-d1",
           "type": "doha",
-          "original": "एहि सुख ते सत कोटि गुन पावहिं मातु अनंदु।।\nभाइन्ह सहित बिआहि घर आए रघुकुलचंदु।।350(क)।।\nलोक रीत जननी करहिं बर दुलहिनि सकुचाहिं।\nमोदु बिनोदु बिलोकि बड़ रामु मनहिं मुसकाहिं।।350(ख)।।",
+          "original": "एहि सुख ते सत कोटि गुन पावहिं मातु अनंदु।।\nभाइन्ह सहित बिआहि घर आए रघुकुलचंदु।।350(क)।।",
           "transliteration": "",
           "translation": "A hundred million times greater than such joys was the mothers' bliss. With his brothers, having married, the Moon of the Raghu dynasty had come home. The mothers performed the customary rites; the brides shyly submitted. Seeing the great joy and merriment, Rama smiled within his heart.",
-          "lineCount": 4,
+          "lineCount": 2,
           "hindiTranslation": "इस सुख से सत (सौ) कोटि (करोड़) गुना — माताएँ आनन्द पातीं। भाइयों सहित ब्याहकर घर आए — रघुकुलचन्दु (रघुवंश-चन्द्रमा)। लोक-रीति जननी (माताएँ) करतीं — वर-दुलहिनी सकुचातीं। मोद-विनोद (आनन्द-खेल) देखकर — बड़ — राम मन में मुस्कुराते।"
+        },
+        {
+          "id": "bk-350-d2",
+          "type": "doha",
+          "original": "लोक रीत जननी करहिं बर दुलहिनि सकुचाहिं।\nमोदु बिनोदु बिलोकि बड़ रामु मनहिं मुसकाहिं।।350(ख)।।",
+          "transliteration": "",
+          "translation": "",
+          "lineCount": 2,
+          "hindiTranslation": ""
         }
       ]
     },

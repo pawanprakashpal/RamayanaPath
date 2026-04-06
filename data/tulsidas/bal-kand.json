@@ -9,6 +9,74 @@
   },
   "dohaGroups": [
     {
+      "dohaNumber": 0,
+      "verses": [
+        {
+          "id": "bk-0-s1",
+          "type": "shloka",
+          "original": "वर्णानामर्थसंघानां रसानां छन्दसामपि।\nमंगलानां च कर्त्तारौ वन्दे वाणीविनायकौ॥1॥",
+          "transliteration": "varṇānāmarthasaṅghānāṃ rasānāṃ chandasāmapi.\nmaṅgalānāṃ ca karttārau vande vāṇīvināyakau..",
+          "translation": "I bow to the creators of letters and their meanings, of poetic sentiments and metres, and of all auspiciousness — Goddess Saraswati (Vani) and Lord Ganesha (Vinayaka).",
+          "lineCount": 2,
+          "hindiTranslation": "वर्णों (अक्षरों), अर्थसमूहों, रसों, छन्दों तथा मंगलों के करने वाले वाणी (सरस्वती) और विनायक (गणेश) की मैं वन्दना करता हूँ।"
+        },
+        {
+          "id": "bk-0-s2",
+          "type": "shloka",
+          "original": "भवानीशंकरौ वन्दे श्रद्धाविश्वासरूपिणौ।\nयाभ्यां विना न पश्यन्ति सिद्धाः स्वान्तःस्थमीश्वरम्॥2॥",
+          "transliteration": "bhavānīśaṅkarau vande śraddhāviśvāsarūpiṇau.\nyābhyāṃ vinā na paśyanti siddhāḥ svāntaḥsthamīśvaram..",
+          "translation": "I bow to Bhavani and Shankara, who are the embodiments of faith and belief, without whom even the perfected souls cannot perceive the Lord dwelling in their own hearts.",
+          "lineCount": 2,
+          "hindiTranslation": "श्रद्धा और विश्वास के स्वरूप भवानी-शंकर की मैं वन्दना करता हूँ, जिनके बिना सिद्ध पुरुष भी अपने अन्तःकरण में स्थित ईश्वर को नहीं देख पाते।"
+        },
+        {
+          "id": "bk-0-s3",
+          "type": "shloka",
+          "original": "वन्दे बोधमयं नित्यं गुरुं शंकररूपिणम्।\nयमाश्रितो हि वक्रोऽपि चन्द्रः सर्वत्र वन्द्यते॥3॥",
+          "transliteration": "vande bodhamayaṃ nityaṃ guruṃ śaṅkararūpiṇam.\nyamāśrito hi vakro'pi candraḥ sarvatra vandyate..",
+          "translation": "I bow to the Guru, who is the embodiment of wisdom, eternal, and a form of Lord Shankara — by whose grace even the crooked moon is worshipped everywhere.",
+          "lineCount": 2,
+          "hindiTranslation": "ज्ञानमय, नित्य, शंकररूपी गुरु की मैं वन्दना करता हूँ, जिनका आश्रय पाकर टेढ़ा चन्द्रमा भी सर्वत्र वन्दनीय है।"
+        },
+        {
+          "id": "bk-0-s4",
+          "type": "shloka",
+          "original": "सीतारामगुणग्रामपुण्यारण्यविहारिणौ।\nवन्दे विशुद्धविज्ञानौ कवीश्वरकपीश्वरौ॥4॥",
+          "transliteration": "sītārāmaguṇagrāmapuṇyāraṇyavihāriṇau.\nvande viśuddha-vijñānau kavīśvara-kapīśvarau..",
+          "translation": "I bow to the Lord of poets (Valmiki) and the Lord of monkeys (Hanuman), both of pure wisdom, who roam in the sacred forest of Sita-Rama's virtues.",
+          "lineCount": 2,
+          "hindiTranslation": "सीता-राम के गुणसमूहरूपी पुण्य वन में विहार करने वाले, विशुद्ध विज्ञान सम्पन्न कवीश्वर (वाल्मीकि) और कपीश्वर (हनुमान) की मैं वन्दना करता हूँ।"
+        },
+        {
+          "id": "bk-0-s5",
+          "type": "shloka",
+          "original": "उद्भवस्थितिसंहारकारिणीं क्लेशहारिणीम्।\nसर्वश्रेयस्करीं सीतां नतोऽहं रामवल्लभाम्॥5॥",
+          "transliteration": "udbhavasthitisaṃhārakāriṇīṃ kleśahāriṇīm.\nsarvaśreyaskarīṃ sītāṃ nato'haṃ rāmavallabhām..",
+          "translation": "I bow to Sita, the beloved of Rama, who causes creation, preservation and dissolution, who removes all afflictions, and who bestows all blessings.",
+          "lineCount": 2,
+          "hindiTranslation": "उत्पत्ति, स्थिति और संहार करने वाली, क्लेशों को हरने वाली, सब श्रेय (कल्याण) करने वाली रामप्रिया सीता को मैं नमस्कार करता हूँ।"
+        },
+        {
+          "id": "bk-0-s6",
+          "type": "shloka",
+          "original": "यन्मायावशवर्ति विश्वमखिलं ब्रह्मादिदेवासुरा\nयत्सत्त्वादमृषैव भाति सकलं रज्जौ यथाहेर्भ्रमः।\nयत्पादप्लवमेकमेव हि भवाम्भोधेस्तितीर्षावतां\nवन्देऽहं तमशेषकारणपरं रामाख्यमीशं हरिम्॥6॥",
+          "transliteration": "yanmāyāvaśavarti viśvamakhilaṃ brahmādidēvāsurā\nyatsattvādamṛṣaiva bhāti sakalaṃ rajjau yathāhērbhramaḥ.\nyatpādaplavam ēkamēva hi bhavāmbhōdhēstitīrṣāvatāṃ\nvandē'haṃ tamaśēṣakāraṇaparaṃ rāmākhyamīśaṃ harim..",
+          "translation": "The entire universe including Brahma, gods and demons dances to His Maya; by His reality alone all appears true, as the illusion of a snake in a rope. His feet alone are the raft for those who wish to cross the ocean of existence. I bow to that Supreme Cause of all, the Lord called Rama, who is Hari.",
+          "lineCount": 4,
+          "hindiTranslation": "जिनकी माया के वश में समस्त विश्व, ब्रह्मा आदि देवता और असुर हैं; जिनकी सत्ता से यह सब कुछ सत्य-सा प्रतीत होता है, जैसे रस्सी में साँप का भ्रम; जो संसार-समुद्र से पार होने की इच्छा रखने वालों के लिए एकमात्र पैर-रूपी नौका हैं — उन समस्त कारणों से परे राम नामक ईश्वर हरि को मैं वन्दन करता हूँ।"
+        },
+        {
+          "id": "bk-0-s7",
+          "type": "shloka",
+          "original": "नानापुराणनिगमागमसम्मतं यद्\nरामायणे निगदितं क्वचिदन्यतोऽपि।\nस्वान्तःसुखाय तुलसी रघुनाथगाथा\nभाषानिबन्धमतिमञ्जुलमातनोति॥7॥",
+          "transliteration": "nānāpurāṇanigamāgamasammataṃ yad\nrāmāyaṇe nigaditaṃ kvacidanyato'pi.\nsvāntaḥsukhāya tulasī raghunāthagāthā\nbhāṣānibandhamatimañjulamātanoti..",
+          "translation": "That which is approved by the various Puranas, Vedas and Agamas, and is narrated in the Ramayana and elsewhere — for the delight of his own heart, Tulasi composes a most beautiful rendering of the story of Raghunath in the common tongue.",
+          "lineCount": 4,
+          "hindiTranslation": "जो बात अनेक पुराणों, वेदों और आगमों से सम्मत है और जो रामायण में तथा कहीं अन्यत्र भी कही गई है — अपने अन्तःकरण के सुख के लिए तुलसी रघुनाथ की कथा का अत्यन्त मनोहर भाषा-निबन्ध रचता है।"
+        }
+      ]
+    },
+    {
       "dohaNumber": 1,
       "verses": [
         {

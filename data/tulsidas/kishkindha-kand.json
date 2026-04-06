@@ -9,6 +9,20 @@
   },
   "dohaGroups": [
     {
+      "dohaNumber": 0,
+      "verses": [
+        {
+          "id": "kk-0-s1",
+          "type": "shloka",
+          "original": "कुन्देन्दीवरसुन्दरावतिबलौ विज्ञानधामावुभौ\nशोभाढ्यौ वरधन्विनौ श्रुतिनुतौ गोविप्रवृन्दप्रियौ।\nमायामानुषरूपिणौ रघुवरौ सद्धर्मवर्मौ हितौ\nसीतान्वेषणतत्परौ पथिगतौ भक्तिप्रदौ तौ हि नः॥1॥",
+          "transliteration": "",
+          "translation": "Beautiful as jasmine and blue lotus, immensely powerful, both abodes of supreme knowledge, resplendent, bearing excellent bows, praised by the Vedas, dear to cows and Brahmins, appearing in human form through Maya, the best of the Raghus, shielded by true dharma, benevolent, intent on searching for Sita, on the path — may those two Lords bestow devotion upon us.",
+          "lineCount": 4,
+          "hindiTranslation": "कुन्द और नील कमल के समान सुन्दर, अतिबलवान, दोनों विज्ञान के धाम, शोभा से पूर्ण, श्रेष्ठ धनुर्धर, वेदों द्वारा स्तुत, गो-विप्र समुदाय को प्रिय, माया से मनुष्य रूप धारण करने वाले, रघुकुल में श्रेष्ठ, सद्धर्म के कवच, हित करने वाले, सीता की खोज में तत्पर, पथ पर चलते हुए — वे दोनों (राम-लक्ष्मण) हमें भक्ति प्रदान करें।"
+        }
+      ]
+    },
+    {
       "dohaNumber": 1,
       "verses": [
         {

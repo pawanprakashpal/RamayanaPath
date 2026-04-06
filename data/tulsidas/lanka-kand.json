@@ -9,6 +9,38 @@
   },
   "dohaGroups": [
     {
+      "dohaNumber": 0,
+      "verses": [
+        {
+          "id": "lk-0-s1",
+          "type": "shloka",
+          "original": "रामं कामारिसेव्यं भवभयहरणं कालमत्तेभसिंहं\nयोगीन्द्रं ज्ञानगम्यं गुणनिधिमजितं निर्गुणं निर्विकारम्।\nमायातीतं सुरेशं खलवधनिरतं ब्रह्मवृन्दैकदेवं\nवन्दे कन्दावदातं सरसिजनयनं देवमुर्वीशरामम्॥1॥",
+          "transliteration": "",
+          "translation": "I bow to Rama, the Lord of the earth, served by the enemy of Kama (Shiva), the remover of the fear of worldly existence, a lion against the maddened elephant of Death, the greatest of Yogis, attainable through knowledge, the treasure of virtues, unconquered, beyond the gunas, unchanging, beyond Maya, Lord of the gods, devoted to slaying the wicked, the one God of all the Brahman hosts — with lotus eyes and a complexion fair as the root of a lily.",
+          "lineCount": 4,
+          "hindiTranslation": "कामारि (शिव) द्वारा सेवित, भवभय हरने वाले, कालरूपी मतवाले हाथी के लिए सिंह समान, योगीन्द्र, ज्ञान द्वारा प्राप्य, गुणनिधि, अजित, निर्गुण, निर्विकार, माया से परे, सुरेश, दुष्टों के वध में निरत, ब्रह्मवृन्दों के एकमात्र देव, कन्द (कुमुद) के समान उज्ज्वल, सरोजनयन, भूपति देव श्रीराम की मैं वन्दना करता हूँ।"
+        },
+        {
+          "id": "lk-0-s2",
+          "type": "shloka",
+          "original": "शंखेन्द्वाभमतीवसुन्दरतनुं शार्दूलचर्माम्बरं\nकालव्यालकरालभूषणधरं गंगाशशांकप्रियम्।\nकाशीशं कलिकल्मषौघशमनं कल्याणकल्पद्रुमं\nनौमीड्यं गिरिजापतिं गुणनिधिं कन्दर्पहं शंकरम्॥2॥",
+          "transliteration": "",
+          "translation": "I bow to the praiseworthy Shankara, the Lord of Girija (Parvati), the destroyer of Kandarpa (Cupid), the treasure of virtues — whose beautiful body shines like a conch and the moon, who wears a tiger-skin garment, who bears the terrible ornament of the serpent of Time, who is dear to Ganga and the moon, who is the Lord of Kashi, the destroyer of the sins of Kali age, and the wish-fulfilling tree of auspiciousness.",
+          "lineCount": 4,
+          "hindiTranslation": "शंख और चन्द्रमा के समान अत्यन्त सुन्दर शरीर वाले, व्याघ्रचर्म वस्त्र धारण करने वाले, कालसर्प के भयंकर आभूषण धारण करने वाले, गंगा और शशांक (चन्द्रमा) को प्रिय, काशी के ईश्वर, कलियुग के पापसमूह का शमन करने वाले, कल्याणरूपी कल्पवृक्ष, स्तुत्य, गिरिजापति, गुणनिधि, कन्दर्प (कामदेव) को मारने वाले शंकर को मैं नमस्कार करता हूँ।"
+        },
+        {
+          "id": "lk-0-s3",
+          "type": "shloka",
+          "original": "यो ददाति सतां शम्भुः कैवल्यमपि दुर्लभम्।\nखलानां दण्डकृद्योऽसौ शंकरः शं तनोतु मे॥3॥",
+          "transliteration": "",
+          "translation": "May that Shankara, who grants even the rare gift of liberation to the virtuous, and who punishes the wicked — may He bestow welfare upon me.",
+          "lineCount": 2,
+          "hindiTranslation": "जो सज्जनों को दुर्लभ कैवल्य (मोक्ष) भी प्रदान करते हैं और दुष्टों को दण्ड देते हैं — वे शंकरजी मेरा कल्याण करें।"
+        }
+      ]
+    },
+    {
       "dohaNumber": 1,
       "verses": [
         {

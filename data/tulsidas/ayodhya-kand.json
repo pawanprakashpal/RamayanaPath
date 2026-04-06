@@ -9,6 +9,38 @@
   },
   "dohaGroups": [
     {
+      "dohaNumber": 0,
+      "verses": [
+        {
+          "id": "ay-0-s1",
+          "type": "shloka",
+          "original": "यस्यांके च विभाति भूधरसुता देवापगा मस्तके\nभाले बालविधुर्गले च गरलं यस्योरसि व्यालराट्।\nसोऽयं भूतिविभूषणः सुरवरः सर्वाधिपः सर्वदा\nशर्वः सर्वगतः शिवः शशिनिभः श्रीशंकरः पातु माम्॥1॥",
+          "transliteration": "yasyāṅke ca vibhāti bhūdharasutā devāpagā mastake\nbhāle bālavidhurgale ca garalaṃ yasyorasi vyālarāṭ.\nso'yaṃ bhūtivibhūṣaṇaḥ suravaraḥ sarvādhipaḥ sarvadā\nśarvaḥ sarvagataḥ śivaḥ śaśinibhaḥ śrīśaṅkaraḥ pātu mām..",
+          "translation": "On whose lap shines the daughter of the mountain (Parvati), on whose head flows the celestial river (Ganga), on whose forehead is the crescent moon, in whose throat is poison, and on whose chest is the king of serpents — that Lord, adorned with sacred ashes, the best of gods, the ruler of all, the ever-auspicious, all-pervading, moon-like Sri Shankara — may He protect me!",
+          "lineCount": 4,
+          "hindiTranslation": "जिनकी गोद में पर्वतपुत्री (पार्वती) विराजती हैं, मस्तक पर देवनदी गंगा, ललाट पर बालचन्द्र, गले में विष और छाती पर सर्पराज शोभित है — वे भस्म-विभूषित, देवश्रेष्ठ, सर्वाधिपति, सर्वदा, सर्वव्यापी, कल्याणकारी, चन्द्रमा-सदृश श्रीशंकर मेरी रक्षा करें।"
+        },
+        {
+          "id": "ay-0-s2",
+          "type": "shloka",
+          "original": "प्रसन्नतां या न गताभिषेकत-\nस्तथा न मम्ले वनवासदुःखतः।\nमुखाम्बुजश्री रघुनन्दनस्य मे\nसदास्तु सा मञ्जुलमङ्गलप्रदा॥2॥",
+          "transliteration": "prasannatāṃ yā na gatābhiṣekata-\nstathā na mamle vanavāsaduḥkhataḥ.\nmukhāmbujaśrī raghunandanasya me\nsadāstu sā mañjulamaṅgalapradā..",
+          "translation": "The radiance of Sri Raghunandana's lotus face, which neither increased with the joy of coronation nor withered with the sorrow of forest exile — may that beauty, the bestower of auspicious blessings, ever be with me.",
+          "lineCount": 4,
+          "hindiTranslation": "जो राज्याभिषेक के अवसर पर (अधिक) प्रसन्न नहीं हुई और न वनवास के दुःख से मुरझाई — श्रीरघुनन्दन के मुखकमल की वह शोभा, मंगल प्रदान करने वाली, सदा मेरे पास रहे।"
+        },
+        {
+          "id": "ay-0-s3",
+          "type": "shloka",
+          "original": "नीलाम्बुजश्यामलकोमलाङ्गं\nसीतासमारोपितवामभागम्।\nपाणौ महासायकचारुचापं\nनमामि रामं रघुवंशनाथम्॥3॥",
+          "transliteration": "nīlāmbujaśyāmalakōmalāṅgaṃ\nsītāsamārōpitavāmabhāgam.\npāṇau mahāsāyakacārucāpaṃ\nnamāmi rāmaṃ raghuvaṃśanātham..",
+          "translation": "I bow to Rama, the Lord of the Raghu dynasty, whose gentle body is dark as a blue lotus, who has Sita seated on His left side, and who holds a mighty arrow and a beautiful bow in His hands.",
+          "lineCount": 4,
+          "hindiTranslation": "नील कमल के समान श्यामल कोमल अंगों वाले, बाएँ भाग में सीताजी को विराजमान किए, हाथ में महान बाण और सुन्दर धनुष धारण किए रघुवंश के नाथ श्रीराम को मैं नमस्कार करता हूँ।"
+        }
+      ]
+    },
+    {
       "dohaNumber": 1,
       "verses": [
         {

@@ -9,6 +9,29 @@
   },
   "dohaGroups": [
     {
+      "dohaNumber": 0,
+      "verses": [
+        {
+          "id": "ak-0-s1",
+          "type": "shloka",
+          "original": "मूलं धर्मतरोर्विवेकजलधेः पूर्णेन्दुमानन्ददं\nवैराग्याम्बुजभास्करं ह्यघघनध्वान्तापहं तापहम्।\nमोहाम्भोधरपूगपाटनविधौ स्वःसम्भवं शंकरं\nवन्दे ब्रह्मकुलं कलंकशमनं श्रीरामभूपप्रियम्॥1॥",
+          "transliteration": "",
+          "translation": "I bow to the one who is the root of the tree of dharma, the full moon of joy for the ocean of discrimination, the sun for the lotus of dispassion, the destroyer of the darkness of sin, the remover of afflictions; who in scattering the clouds of delusion is like the celestial wind; who is of the lineage of Brahma, the dispeller of disgrace, dear to King Rama — I bow to Lord Shankara.",
+          "lineCount": 4,
+          "hindiTranslation": "धर्मरूपी वृक्ष की जड़, विवेकरूपी समुद्र के लिए आनन्ददायी पूर्णचन्द्र, वैराग्यरूपी कमल को विकसित करने वाले सूर्य, पापरूपी घने अन्धकार को दूर करने वाले, ताप को हरने वाले, मोहरूपी मेघसमूह को छिन्न-भिन्न करने में स्वर्ग से उत्पन्न वायु समान, ब्रह्मकुल के, कलंक शमन करने वाले, श्रीरामभूप को प्रिय शंकरजी की मैं वन्दना करता हूँ।"
+        },
+        {
+          "id": "ak-0-s2",
+          "type": "shloka",
+          "original": "सान्द्रानन्दपयोदसौभगतनुं पीताम्बरं सुन्दरं\nपाणौ बाणशरासनं कटिलसत्तूणीरभारं वरम्।\nराजीवायतलोचनं धृतजटाजूटेन संशोभितं\nसीतालक्ष्मणसंयुतं पथिगतं रामाभिरामं भजे॥2॥",
+          "transliteration": "",
+          "translation": "I worship the most beautiful Rama, whose graceful body is like a cloud of intense bliss, who wears yellow garments, who holds a bow and arrow in His hands with a quiver gleaming at His waist, whose large eyes are like lotuses, who is adorned with matted locks, who is accompanied by Sita and Lakshmana, and who is on the forest path.",
+          "lineCount": 4,
+          "hindiTranslation": "घने आनन्दरूपी मेघ के समान सौभाग्यशाली शरीर वाले, पीताम्बर धारी, सुन्दर, हाथ में बाण और धनुष लिए, कटि पर सुशोभित तूणीर का भार धारण किए, कमल के समान विशाल नेत्रों वाले, जटाजूट से सुशोभित, सीता और लक्ष्मण सहित मार्ग पर चलते हुए अत्यन्त सुन्दर श्रीराम को मैं भजता हूँ।"
+        }
+      ]
+    },
+    {
       "dohaNumber": 1,
       "verses": [
         {

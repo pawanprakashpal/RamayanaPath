@@ -9,6 +9,38 @@
   },
   "dohaGroups": [
     {
+      "dohaNumber": 0,
+      "verses": [
+        {
+          "id": "uk-0-s1",
+          "type": "shloka",
+          "original": "केकीकण्ठाभनीलं सुरवरविलसद्विप्रपादाब्जचिह्नं\nशोभाढ्यं पीतवस्त्रं सरसिजनयनं सर्वदा सुप्रसन्नम्।\nपाणौ नाराचचापं कपिनिकरयुतं बन्धुना सेव्यमानं\nनौमीड्यं जानकीशं रघुवरमनिशं पुष्पकारूढरामम्॥1॥",
+          "transliteration": "",
+          "translation": "I ever bow to the praiseworthy Rama, the Lord of Janaki, the best of the Raghus, seated on the Pushpaka (aerial chariot) — who is blue as a peacock's neck, whose feet bear the auspicious marks worshipped by the greatest gods and Brahmins, who is resplendent and wears yellow garments, whose eyes are like lotuses, who is ever gracious, who holds arrows and a bow in His hands, who is accompanied by the host of monkeys, and who is attended by His brother.",
+          "lineCount": 4,
+          "hindiTranslation": "मोर के कण्ठ के समान नीले, देवश्रेष्ठ और विप्रों के चरणकमल के चिह्न से सुशोभित, शोभा से पूर्ण, पीतवस्त्र धारी, कमलनयन, सर्वदा प्रसन्न, हाथ में बाण और धनुष लिए, वानरसमूह सहित, बन्धु (लक्ष्मण) द्वारा सेवित, पुष्पक विमान पर आरूढ़, स्तुत्य, जानकीश, रघुवर श्रीराम को मैं सदा नमस्कार करता हूँ।"
+        },
+        {
+          "id": "uk-0-s2",
+          "type": "shloka",
+          "original": "कोसलेन्द्रपदकञ्जमञ्जुलौ\nकोमलावजमहेशवन्दितौ।\nजानकीकरसरोजलालितौ\nचिन्तकस्य मनभृंगसंगिनौ॥2॥",
+          "transliteration": "",
+          "translation": "The beautiful, tender lotus feet of the Lord of Kosala, worshipped by Brahma and Maheshwara, caressed by the lotus hands of Janaki — may they be companions of the bee-like mind of the devotee who meditates on them.",
+          "lineCount": 4,
+          "hindiTranslation": "कोसलपति के सुन्दर, कोमल चरणकमल, जो ब्रह्मा और महेश्वर द्वारा वन्दित हैं, जानकी के करकमल से लालित हैं — वे चिन्तन करने वाले के मनरूपी भ्रमर के संगी हों।"
+        },
+        {
+          "id": "uk-0-s3",
+          "type": "shloka",
+          "original": "कुन्दइन्दुदरगौरसुन्दरं\nअम्बिकापतिमभीष्टसिद्धिदम्।\nकारुणीककलकञ्जलोचनं\nनौमि शंकरमनंगमोचनम्॥3॥",
+          "transliteration": "",
+          "translation": "I bow to Shankara, the destroyer of Ananga (Cupid), who is beautiful and fair as jasmine, moon, and conch, who is the Lord of Ambika (Parvati), the bestower of desired accomplishments, and whose eyes are like lotuses of compassion.",
+          "lineCount": 4,
+          "hindiTranslation": "कुन्द, चन्द्रमा और शंख के समान गौर-सुन्दर, अम्बिकापति (पार्वती के स्वामी), अभीष्ट सिद्धि प्रदान करने वाले, करुणामय कमल-नेत्रों वाले, अनंग (कामदेव) को भस्म करने वाले शंकरजी को मैं नमस्कार करता हूँ।"
+        }
+      ]
+    },
+    {
       "dohaNumber": 1,
       "verses": [
         {

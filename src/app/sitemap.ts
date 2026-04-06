@@ -40,6 +40,13 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   // Static pages
   entries.push({
+    url: `${BASE_URL}/about`,
+    lastModified: new Date(),
+    changeFrequency: "monthly",
+    priority: 0.6,
+  });
+
+  entries.push({
     url: `${BASE_URL}/search`,
     lastModified: new Date(),
     changeFrequency: "monthly",

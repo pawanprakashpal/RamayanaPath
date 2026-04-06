@@ -118,7 +118,7 @@ export default function AboutPage() {
 
         {/* Sources */}
         <section>
-          <h2 className="text-xl font-semibold mb-3">Sources &amp; References</h2>
+          <h2 className="text-xl font-semibold mb-3">Sources & References</h2>
           <p className="text-[var(--muted)] leading-relaxed mb-3">
             We take accuracy seriously. Our text and structure are verified against
             authoritative editions:
@@ -143,7 +143,7 @@ export default function AboutPage() {
                 >
                   Ramcharitmanas
                 </a>
-                {" &amp; "}
+                {" & "}
                 <a
                   href="https://www.valmiki.iitk.ac.in/"
                   target="_blank"

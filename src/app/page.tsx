@@ -20,8 +20,11 @@ export default async function HomePage() {
         <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-4 animate-hero-title">
           <span className="text-[var(--accent)]">Ramayana</span>Path
         </h1>
-        <p className="text-lg sm:text-xl text-[var(--muted)] max-w-2xl mx-auto mb-6 animate-hero-subtitle">
+        <p className="text-lg sm:text-xl text-[var(--muted)] max-w-2xl mx-auto mb-4 animate-hero-subtitle">
           Read the epic Ramayana with original verses and English translations.
+        </p>
+        <p className="text-sm text-[var(--muted)] mb-6 animate-hero-subtitle">
+          <span className="font-semibold text-[var(--foreground)]">6,072</span> verses across <span className="font-semibold text-[var(--foreground)]">7 Kands</span> — with Hindi meanings &amp; English translations
         </p>
         <p className="font-devanagari text-base text-[var(--muted)] animate-hero-verse">
           मंगल भवन अमंगल हारी। द्रवउ सो दसरथ अजिर बिहारी॥

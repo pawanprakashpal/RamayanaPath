@@ -8,6 +8,7 @@ import TtsProvider from "@/components/verse/TtsProvider";
 import TtsControls from "@/components/verse/TtsControls";
 import ShareButton from "@/components/verse/ShareButton";
 import KeyboardNav from "@/components/navigation/KeyboardNav";
+import ReadingProgress from "@/components/verse/ReadingProgress";
 
 interface DohaPageProps {
   params: Promise<{ kand: string; number: string }>;
@@ -149,6 +150,7 @@ export default async function DohaPage({ params }: DohaPageProps) {
         prevHref={prevDoha !== undefined ? `/${kandSlug}/doha/${prevDoha}` : undefined}
         nextHref={nextDoha !== undefined ? `/${kandSlug}/doha/${nextDoha}` : undefined}
       />
+      <ReadingProgress kandSlug={kandSlug} dohaNumber={dohaNumber} />
     </div>
   );
 }

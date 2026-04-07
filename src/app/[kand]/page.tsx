@@ -3,6 +3,7 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { getKandBySlug, getTulsidasKand, getValmikiTotalSargas } from "@/lib/data";
 import { getServerVersion } from "@/lib/version";
+import ContinueReading from "@/components/navigation/ContinueReading";
 
 interface KandPageProps {
   params: Promise<{ kand: string }>;
@@ -38,7 +39,10 @@ export default async function KandPage({ params }: KandPageProps) {
         <div className="mb-8 animate-fade-in">
           <h1 className="text-3xl font-bold mb-2">{kand.tulsidas.name}</h1>
           <p className="font-devanagari text-xl text-[var(--muted)]">{kand.tulsidas.nameOriginal}</p>
-          <p className="text-sm text-[var(--muted)] mt-2">{data.kand.totalDohas} Dohas</p>
+          <div className="flex items-center gap-4 mt-2">
+            <p className="text-sm text-[var(--muted)]">{data.kand.totalDohas} Dohas</p>
+            <ContinueReading kandSlug={kandSlug} />
+          </div>
         </div>
 
         <div className="grid gap-3 animate-stagger">

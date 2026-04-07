@@ -6,6 +6,8 @@ import PrevNextNav from "@/components/navigation/PrevNextNav";
 import JsonLd from "@/components/seo/JsonLd";
 import TtsProvider from "@/components/verse/TtsProvider";
 import TtsControls from "@/components/verse/TtsControls";
+import ShareButton from "@/components/verse/ShareButton";
+import KeyboardNav from "@/components/navigation/KeyboardNav";
 
 interface DohaPageProps {
   params: Promise<{ kand: string; number: string }>;
@@ -100,10 +102,15 @@ export default async function DohaPage({ params }: DohaPageProps) {
       <TtsProvider>
         {/* Page header */}
         <div className="mb-8">
-          <p className="text-sm text-[var(--muted)] mb-1">{kand.tulsidas.name}</p>
-          <h1 className="text-2xl font-bold">
-            {pageTitle}
-          </h1>
+          <div className="flex items-start justify-between">
+            <div>
+              <p className="text-sm text-[var(--muted)] mb-1">{kand.tulsidas.name}</p>
+              <h1 className="text-2xl font-bold">
+                {pageTitle}
+              </h1>
+            </div>
+            <ShareButton title={`${pageTitle} — ${kand.tulsidas.name}`} url={`/${kandSlug}/doha/${dohaNumber}`} />
+          </div>
           <div className="flex items-center justify-between mt-2">
             <p className="text-sm text-[var(--muted)]">
               {group.verses.length} verse{group.verses.length > 1 ? "s" : ""}
@@ -137,6 +144,10 @@ export default async function DohaPage({ params }: DohaPageProps) {
         nextLabel={nextDoha !== undefined ? `Doha ${nextDoha}` : undefined}
         kandHref={`/${kandSlug}`}
         kandLabel={`All ${kand.tulsidas.name} Dohas`}
+      />
+      <KeyboardNav
+        prevHref={prevDoha !== undefined ? `/${kandSlug}/doha/${prevDoha}` : undefined}
+        nextHref={nextDoha !== undefined ? `/${kandSlug}/doha/${nextDoha}` : undefined}
       />
     </div>
   );

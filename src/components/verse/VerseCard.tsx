@@ -1,5 +1,7 @@
 import type { BaseVerse } from "@/types";
 import VerseTypeBadge from "./VerseTypeBadge";
+import SpeakButton from "./SpeakButton";
+import VerseHighlight from "./VerseHighlight";
 
 interface VerseCardProps {
   verse: BaseVerse;
@@ -8,7 +10,7 @@ interface VerseCardProps {
 
 export default function VerseCard({ verse, verseLabel }: VerseCardProps) {
   return (
-    <div className="verse-card">
+    <VerseHighlight verseId={verse.id}>
       {/* Header */}
       <div className="flex items-center justify-between mb-4">
         <div className="flex items-center gap-2">
@@ -17,6 +19,12 @@ export default function VerseCard({ verse, verseLabel }: VerseCardProps) {
             <span className="text-xs text-[var(--muted)]">{verseLabel}</span>
           )}
         </div>
+        <SpeakButton
+          verseId={verse.id}
+          original={verse.original}
+          hindiTranslation={verse.hindiTranslation}
+          translation={verse.translation}
+        />
       </div>
 
       {/* Original text */}
@@ -56,6 +64,6 @@ export default function VerseCard({ verse, verseLabel }: VerseCardProps) {
         </summary>
         <div className="verse-translation mt-2">{verse.translation}</div>
       </details>
-    </div>
+    </VerseHighlight>
   );
 }

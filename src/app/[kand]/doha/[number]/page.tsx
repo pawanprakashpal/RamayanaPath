@@ -4,6 +4,8 @@ import { getDohaGroup, getTulsidasKand, getKandBySlug } from "@/lib/data";
 import VerseCard from "@/components/verse/VerseCard";
 import PrevNextNav from "@/components/navigation/PrevNextNav";
 import JsonLd from "@/components/seo/JsonLd";
+import TtsProvider from "@/components/verse/TtsProvider";
+import TtsControls from "@/components/verse/TtsControls";
 
 interface DohaPageProps {
   params: Promise<{ kand: string; number: string }>;
@@ -95,27 +97,37 @@ export default async function DohaPage({ params }: DohaPageProps) {
         }}
       />
 
-      {/* Page header */}
-      <div className="mb-8">
-        <p className="text-sm text-[var(--muted)] mb-1">{kand.tulsidas.name}</p>
-        <h1 className="text-2xl font-bold">
-          {pageTitle}
-        </h1>
-        <p className="text-sm text-[var(--muted)] mt-1">
-          {group.verses.length} verse{group.verses.length > 1 ? "s" : ""}
-        </p>
-      </div>
+      <TtsProvider>
+        {/* Page header */}
+        <div className="mb-8">
+          <p className="text-sm text-[var(--muted)] mb-1">{kand.tulsidas.name}</p>
+          <h1 className="text-2xl font-bold">
+            {pageTitle}
+          </h1>
+          <div className="flex items-center justify-between mt-2">
+            <p className="text-sm text-[var(--muted)]">
+              {group.verses.length} verse{group.verses.length > 1 ? "s" : ""}
+            </p>
+            <TtsControls verses={group.verses.map((v) => ({
+              id: v.id,
+              original: v.original,
+              hindiTranslation: v.hindiTranslation,
+              translation: v.translation,
+            }))} />
+          </div>
+        </div>
 
-      {/* Verses */}
-      <div className="space-y-4">
-        {group.verses.map((verse, index) => (
-          <VerseCard
-            key={verse.id}
-            verse={verse}
-            verseLabel={`${index + 1} of ${group.verses.length}`}
-          />
-        ))}
-      </div>
+        {/* Verses */}
+        <div className="space-y-4">
+          {group.verses.map((verse, index) => (
+            <VerseCard
+              key={verse.id}
+              verse={verse}
+              verseLabel={`${index + 1} of ${group.verses.length}`}
+            />
+          ))}
+        </div>
+      </TtsProvider>
 
       {/* Navigation */}
       <PrevNextNav

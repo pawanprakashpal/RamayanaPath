@@ -154,3 +154,100 @@ body {
   filter: invert(1) !important;
 }
 
+/* ---- Animations ---- */
+
+/* Fade-in-up for page content */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeInUp 0.5s ease-out both;
+}
+
+/* Staggered children — use on parent container */
+.animate-stagger > * {
+  opacity: 0;
+  animation: fadeInUp 0.4s ease-out both;
+}
+.animate-stagger > *:nth-child(1) { animation-delay: 0.05s; }
+.animate-stagger > *:nth-child(2) { animation-delay: 0.1s; }
+.animate-stagger > *:nth-child(3) { animation-delay: 0.15s; }
+.animate-stagger > *:nth-child(4) { animation-delay: 0.2s; }
+.animate-stagger > *:nth-child(5) { animation-delay: 0.25s; }
+.animate-stagger > *:nth-child(6) { animation-delay: 0.3s; }
+.animate-stagger > *:nth-child(7) { animation-delay: 0.35s; }
+.animate-stagger > *:nth-child(n+8) { animation-delay: 0.4s; }
+
+/* Hero entrance */
+@keyframes heroFloat {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+}
+
+.animate-hero-icon {
+  animation: fadeInUp 0.6s ease-out both, heroFloat 4s ease-in-out 1s infinite;
+}
+
+.animate-hero-title {
+  animation: fadeInUp 0.6s ease-out 0.15s both;
+}
+
+.animate-hero-subtitle {
+  animation: fadeInUp 0.5s ease-out 0.3s both;
+}
+
+.animate-hero-verse {
+  animation: fadeInUp 0.5s ease-out 0.45s both;
+}
+
+/* Smooth details expand */
+details summary {
+  transition: color 0.2s ease;
+}
+
+details[open] > summary ~ * {
+  animation: fadeInUp 0.3s ease-out both;
+}
+
+/* Verse card hover lift */
+.verse-card {
+  transition: background-color 0.2s ease, border-color 0.2s ease,
+              transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.verse-card:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.dark .verse-card:hover {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Pulse for active TTS verse */
+@keyframes ttsPulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(249, 115, 22, 0.3); }
+  50% { box-shadow: 0 0 0 6px rgba(249, 115, 22, 0); }
+}
+
+.tts-active {
+  animation: ttsPulse 2s ease-in-out infinite;
+}
+
+/* Reduce motion for accessibility */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+

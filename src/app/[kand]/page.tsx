@@ -35,13 +35,13 @@ export default async function KandPage({ params }: KandPageProps) {
 
     return (
       <div>
-        <div className="mb-8">
+        <div className="mb-8 animate-fade-in">
           <h1 className="text-3xl font-bold mb-2">{kand.tulsidas.name}</h1>
           <p className="font-devanagari text-xl text-[var(--muted)]">{kand.tulsidas.nameOriginal}</p>
           <p className="text-sm text-[var(--muted)] mt-2">{data.kand.totalDohas} Dohas</p>
         </div>
 
-        <div className="grid gap-3">
+        <div className="grid gap-3 animate-stagger">
           {data.dohaGroups.map((group) => (
             <Link
               key={group.dohaNumber}

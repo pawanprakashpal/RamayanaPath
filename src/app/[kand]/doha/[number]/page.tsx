@@ -118,7 +118,7 @@ export default async function DohaPage({ params }: DohaPageProps) {
         </div>
 
         {/* Verses */}
-        <div className="space-y-4">
+        <div className="space-y-4 animate-stagger">
           {group.verses.map((verse, index) => (
             <VerseCard
               key={verse.id}

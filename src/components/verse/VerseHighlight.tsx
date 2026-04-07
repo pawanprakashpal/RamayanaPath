@@ -23,7 +23,7 @@ export default function VerseHighlight({ verseId, children }: VerseHighlightProp
     <div
       ref={ref}
       className={`verse-card transition-all duration-300 ${
-        isActive ? "ring-2 ring-[var(--accent)] ring-offset-2 ring-offset-[var(--background)]" : ""
+        isActive ? "ring-2 ring-[var(--accent)] ring-offset-2 ring-offset-[var(--background)] tts-active" : ""
       }`}
     >
       {children}

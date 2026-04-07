@@ -1,7 +1,8 @@
 # RamayanaPath - Project Guide
 
 ## Project Overview
-- **Site**: https://ramayanpath.com (Vercel auto-deploy on push to master)
+
+- **Site**: <https://ramayanpath.com> (Vercel auto-deploy on push to master)
 - **Repo**: github.com/pawanprakashpal/RamayanaPath (PUBLIC)
 - **Stack**: Next.js 16 (App Router), TypeScript, Tailwind CSS
 - **Purpose**: Read the Ramayana with original verses, Hindi meanings, and English translations
@@ -9,6 +10,7 @@
 ## Content Status
 
 ### Tulsidas Ramcharitmanas — 6,072 verses, 100% translated
+
 | Kand | Groups | Verses | Shlokas (group 0) | English | Hindi |
 |------|--------|--------|-------------------|---------|-------|
 | Bal Kand | 362 | 1,951 | 7 | 100% | 100% |
@@ -20,10 +22,12 @@
 | Uttar Kand | 131 | 855 | 3 | 100% | 100% |
 
 ### Valmiki Ramayana — 20,214 shlokas, ALL COMPLETE
+
 - 6 Kandas from IIT Kanpur (Sanskrit + English)
 - 1 Kanda (Uttara) from WisdomLib (English only)
 
 ## QA Completed (April 2026)
+
 - Split 136 combined dohas (ka/kha/ga/gha) into individual verses
 - Split 29 combined chhands into proper 4-line verses
 - Added Hanuman Vandana shloka to Sundar Kand
@@ -32,6 +36,7 @@
 - Security audit: rate limiting, security headers, npm vulnerabilities fixed
 
 ## Features Implemented
+
 - **TTS Audio**: Azure Neural voices (hi-IN-MadhurNeural, en-US-Andrew) with browser TTS fallback
 - **Language toggle**: Original / Hindi / English for TTS playback
 - **Play All**: Sequential verse playback with auto-scroll and active verse highlight (pulse)
@@ -48,23 +53,30 @@
 ## Remaining TODO
 
 ### 1. Soratha Identification (BLOCKED — needs Gita Press book)
+
 55 sorathas across all Kands currently typed as "doha" need retyping to "soratha":
+
 - Bal Kand: 25, Ayodhya: 13, Aranya: 6, Kishkindha: 1, Sundar: 1, Lanka: 4, Uttar: 5
 - **How**: Get physical Gita Press Ramcharitmanas, find verses marked "सो." or "सोरठा", change `type` from `"doha"` to `"soratha"` in the JSON files
 - **Reference PDF**: ~/Downloads/Sunderkand-Gitapress-Gorakhpur.pdf (Sundar Kand only)
 
 ### 2. Valmiki Content Expansion (future)
+
 - Currently complete but could add Hindi translations for Valmiki shlokas
 
 ## Environment Variables
+
 ```
 AZURE_SPEECH_KEY=<Azure Speech Services key>    # .env (gitignored)
 AZURE_SPEECH_REGION=centralindia                 # .env (gitignored)
 ```
+
 Also set on Vercel → Settings → Environment Variables.
+
 - Azure F0 free tier: 500K chars/month, never charges, falls back to browser TTS when exhausted
 
 ## Key Files
+
 - **Data**: `data/tulsidas/{kand-name}.json`, `data/valmiki/{kanda-name}/sarga-{NN}.json`
 - **Manifest**: `data/kands.json`
 - **Types**: `src/types/verse.ts`, `src/types/kand.ts`, `src/types/common.ts`
@@ -94,6 +106,7 @@ Also set on Vercel → Settings → Environment Variables.
 - **Security**: `next.config.ts` (security headers)
 
 ## Verse JSON Structure
+
 ```json
 {
   "id": "sk-1-c1",
@@ -107,6 +120,7 @@ Also set on Vercel → Settings → Environment Variables.
 ```
 
 ## Translation Workflow
+
 1. Read verses from JSON: `data/tulsidas/{kand-name}.json`
 2. Write a Node.js script at `c:/tmp/` that maps verse IDs to Hindi/English text
 3. Run the script to apply translations
@@ -114,6 +128,7 @@ Also set on Vercel → Settings → Environment Variables.
 5. Commit & push: auto-deploys to Vercel
 
 ## Dev Commands
+
 ```bash
 cd c:/_work/RamayanaPath
 npx next dev --port 3000    # local dev
@@ -122,6 +137,7 @@ git push origin master       # auto-deploys to Vercel
 ```
 
 ## Data Sources
+
 - **Tulsidas verses**: IIT Kanpur (ramcharitmanas.iitk.ac.in)
 - **Gita Press Gorakhpur**: Authoritative reference for verse structure and numbering
 - **Valmiki shlokas**: IIT Kanpur (valmiki.iitk.ac.in)
@@ -129,6 +145,7 @@ git push origin master       # auto-deploys to Vercel
 - **Translations**: Original work
 
 ## UI Notes
+
 - Ram icon: white silhouette PNG on orange (#f97316) circle, gentle float animation
 - Card hover: border #fb923c, lift + shadow
 - Translations collapsible (Hindi collapsed, English open by default)

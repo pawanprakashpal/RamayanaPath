@@ -52,12 +52,18 @@
 
 ## Remaining TODO
 
-### 1. Soratha Identification (BLOCKED — needs Gita Press book)
+### 1. Soratha Identification (IN PROGRESS — 79% done)
 
-55 sorathas across all Kands currently typed as "doha" need retyping to "soratha":
+62 sorathas identified from Gita Press text across all 7 Kands:
 
-- Bal Kand: 25, Ayodhya: 13, Aranya: 6, Kishkindha: 1, Sundar: 1, Lanka: 4, Uttar: 5
-- **How**: Get physical Gita Press Ramcharitmanas, find verses marked "सो." or "सोरठा", change `type` from `"doha"` to `"soratha"` in the JSON files
+- Bal Kand: 23, Ayodhya: 11, Aranya: 6, Kishkindha: 1, Sundar: 2, Lanka: 5, Uttar: 13
+- **Done**: 49 sorathas retyped from "doha" to "soratha" (84 individual verses)
+- **Remaining**: 13 sorathas missing from JSON data entirely (need source Devanagari text):
+  - Ayodhya Kand: dohas 25, 100, 126, 151, 176, 201, 251, 276, 301, 326 (10 missing)
+  - Aranya Kand: 1 unnumbered soratha after doha 21 ("mukti janma mahi jani")
+  - Sundar/Lanka boundary: 1 unnumbered ("sindhu bacana suni")
+  - Ayodhya conclusion: 1 unnumbered ("uma rama guna guRha")
+- **Gita Press digital**: https://archive.org/details/RamcharitmanasGitapressEnglish (full text available as djvu.txt)
 - **Reference PDF**: ~/Downloads/Sunderkand-Gitapress-Gorakhpur.pdf (Sundar Kand only)
 
 ### 2. Valmiki Content Expansion (future)

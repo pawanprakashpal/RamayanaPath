@@ -52,14 +52,15 @@
 
 ## Remaining TODO
 
-### 1. Soratha Identification (IN PROGRESS — 79% done)
+### 1. Soratha Identification (IN PROGRESS — 95% done)
 
 62 sorathas identified from Gita Press text across all 7 Kands:
 
 - Bal Kand: 23, Ayodhya: 11, Aranya: 6, Kishkindha: 1, Sundar: 2, Lanka: 5, Uttar: 13
-- **Done**: 49 sorathas retyped from "doha" to "soratha" (84 individual verses)
-- **Remaining**: 13 sorathas missing from JSON data entirely (need source Devanagari text):
-  - Ayodhya Kand: dohas 25, 100, 126, 151, 176, 201, 251, 276, 301, 326 (10 missing)
+- **Done**: 59 sorathas completed across all 7 Kands (94 individual verses)
+  - 49 doha groups retyped from "doha" to "soratha"
+  - 10 Ayodhya Kand sorathas added (were missing from JSON entirely)
+- **Remaining**: 3 unnumbered sorathas (not part of standard doha numbering, need editorial placement):
   - Aranya Kand: 1 unnumbered soratha after doha 21 ("mukti janma mahi jani")
   - Sundar/Lanka boundary: 1 unnumbered ("sindhu bacana suni")
   - Ayodhya conclusion: 1 unnumbered ("uma rama guna guRha")

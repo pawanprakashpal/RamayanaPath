@@ -52,20 +52,16 @@
 
 ## Remaining TODO
 
-### 1. Soratha Identification (IN PROGRESS — 95% done)
+### 1. Soratha Identification (COMPLETE)
 
-62 sorathas identified from Gita Press text across all 7 Kands:
+62 sorathas identified and completed from Gita Press text across all 7 Kands (99 individual verses):
 
-- Bal Kand: 23, Ayodhya: 11, Aranya: 6, Kishkindha: 1, Sundar: 2, Lanka: 5, Uttar: 13
-- **Done**: 59 sorathas completed across all 7 Kands (94 individual verses)
-  - 49 doha groups retyped from "doha" to "soratha"
-  - 10 Ayodhya Kand sorathas added (were missing from JSON entirely)
-- **Remaining**: 3 unnumbered sorathas (not part of standard doha numbering, need editorial placement):
-  - Aranya Kand: 1 unnumbered soratha after doha 21 ("mukti janma mahi jani")
-  - Sundar/Lanka boundary: 1 unnumbered ("sindhu bacana suni")
-  - Ayodhya conclusion: 1 unnumbered ("uma rama guna guRha")
-- **Gita Press digital**: https://archive.org/details/RamcharitmanasGitapressEnglish (full text available as djvu.txt)
-- **Reference PDF**: ~/Downloads/Sunderkand-Gitapress-Gorakhpur.pdf (Sundar Kand only)
+- Bal Kand: 23, Ayodhya: 12, Aranya: 7, Kishkindha: 1, Sundar: 3, Lanka: 5, Uttar: 13
+- 49 doha groups retyped from "doha" to "soratha"
+- 10 Ayodhya Kand sorathas added (were missing from JSON entirely)
+- 3 unnumbered sorathas added (Aranya doha 21, Sundar doha 60, Ayodhya doha 326)
+- **Source**: Gita Press digital text from https://archive.org/details/RamcharitmanasGitapressEnglish
+- **Cross-referenced**: IIT Kanpur, BharatDiscovery, Ramcharit.in
 
 ### 2. Valmiki Content Expansion (future)
 

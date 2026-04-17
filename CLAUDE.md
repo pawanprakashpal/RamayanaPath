@@ -63,9 +63,20 @@
 - **Source**: Gita Press digital text from https://archive.org/details/RamcharitmanasGitapressEnglish
 - **Cross-referenced**: IIT Kanpur, BharatDiscovery, Ramcharit.in
 
-### 2. Valmiki Content Expansion (future)
+### 2. Valmiki Hindi Translations (IN PROGRESS)
 
-- Currently complete but could add Hindi translations for Valmiki shlokas
+441 Hindi translations added across Sarga 1 of all 7 Kandas (proof of concept):
+
+- Bala: 20/90 (partial — summarizer blocked full fetch)
+- Ayodhya: 49/49 ✓
+- Aranya: 20/20 ✓
+- Kishkindha: 127/127 ✓
+- Sundara: 192/192 ✓
+- Yuddha: 19/19 ✓
+- Uttara: 14/14 ✓
+
+**Source**: ramcharit.in (Gita Press-based Hindi translations, cross-verified)
+**Remaining**: 70 Bala Kanda Sarga 1 shlokas + 19,703 shlokas across other sargas (future phases)
 
 ## Environment Variables
 

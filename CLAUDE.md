@@ -65,9 +65,9 @@
 
 ### 2. Valmiki Hindi Translations (IN PROGRESS)
 
-441 Hindi translations added across Sarga 1 of all 7 Kandas (proof of concept):
+511 Hindi translations complete — all of Sarga 1 across all 7 Kandas:
 
-- Bala: 20/90 (partial — summarizer blocked full fetch)
+- Bala: 90/90 ✓
 - Ayodhya: 49/49 ✓
 - Aranya: 20/20 ✓
 - Kishkindha: 127/127 ✓
@@ -75,8 +75,8 @@
 - Yuddha: 19/19 ✓
 - Uttara: 14/14 ✓
 
-**Source**: ramcharit.in (Gita Press-based Hindi translations, cross-verified)
-**Remaining**: 70 Bala Kanda Sarga 1 shlokas + 19,703 shlokas across other sargas (future phases)
+**Source**: Gita Press Hindi edition (archive.org) + ramcharit.in, cross-verified
+**Remaining**: 19,703 shlokas across other sargas (sarga 2+) — future phases
 
 ## Environment Variables
 

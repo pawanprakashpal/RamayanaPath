@@ -75,18 +75,26 @@
 - Yuddha: 19/19 ✓
 - Uttara: 14/14 ✓
 
-**Source**: Gita Press Hindi edition (archive.org) + ramcharit.in, cross-verified
+**Source for Sarga 1**: Gita Press Hindi edition (archive.org) + ramcharit.in
 **Vol 1** (Bala/Ayodhya/Aranya/Kishkindha): https://archive.org/details/HindiBookValmikiRamayanPartIByGitaPress
 **Vol 2** (Sundara/Yuddha/Uttara): https://archive.org/details/valmiki-ramayan-part-2-gita-press_202307
 
-**Remaining**: 19,703 shlokas across other sargas (sarga 2+) — future phases.
+**Remaining**: 19,703 shlokas across other sargas (sarga 2+).
 
-**Scaling blocker**: Gita Press OCR text has shloka-by-shloka Hindi translations
-in clean format (`॥ N ॥` markers), but OCR quality varies — Devanagari numerals
-sometimes misread (१ as ६ etc.), and combined-shloka translations (like ॥ १९-२० ॥)
-need special handling. A parser exists at `c:/tmp/parse_valmiki_v2.py` but needs
-refinement for production use. Alternative: per-sarga manual extraction
-(~30 min/sarga) or sourcing a cleaner digital edition.
+**Recommended source for Sargas 2+**: mnsgranth.com
+- Pattern: `mnsgranth.com/valmikiramayan/{kanda}-sarg-{N}-{N+9}/`
+- Clean Devanagari Unicode (no OCR errors), Gita Press-quality translations
+- Direct curl works (no Mod_Security blocking)
+- ~65-75 page fetches cover all 7 Kandas
+- The "AI" in URLs refers to AI-narrated audio, not AI-translated text
+
+**Plan**:
+1. Build mnsgranth HTML scraper (curl + Python parser, ~1 session)
+2. Per-Kanda rollout: extract → apply to JSON → build/test/commit (1 session/Kanda)
+3. Quality verification pass
+
+**Avoid**: ramcharit.in (curl returns 406 Mod_Security), AI-only datasets,
+OCR-based extraction (Gita Press archive.org has variable OCR quality).
 
 ## Environment Variables
 

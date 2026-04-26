@@ -76,7 +76,17 @@
 - Uttara: 14/14 ✓
 
 **Source**: Gita Press Hindi edition (archive.org) + ramcharit.in, cross-verified
-**Remaining**: 19,703 shlokas across other sargas (sarga 2+) — future phases
+**Vol 1** (Bala/Ayodhya/Aranya/Kishkindha): https://archive.org/details/HindiBookValmikiRamayanPartIByGitaPress
+**Vol 2** (Sundara/Yuddha/Uttara): https://archive.org/details/valmiki-ramayan-part-2-gita-press_202307
+
+**Remaining**: 19,703 shlokas across other sargas (sarga 2+) — future phases.
+
+**Scaling blocker**: Gita Press OCR text has shloka-by-shloka Hindi translations
+in clean format (`॥ N ॥` markers), but OCR quality varies — Devanagari numerals
+sometimes misread (१ as ६ etc.), and combined-shloka translations (like ॥ १९-२० ॥)
+need special handling. A parser exists at `c:/tmp/parse_valmiki_v2.py` but needs
+refinement for production use. Alternative: per-sarga manual extraction
+(~30 min/sarga) or sourcing a cleaner digital edition.
 
 ## Environment Variables
 

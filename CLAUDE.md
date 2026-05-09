@@ -65,28 +65,35 @@
 
 ### 2. Valmiki Hindi Translations (IN PROGRESS)
 
-511 Hindi translations complete — all of Sarga 1 across all 7 Kandas:
+**~3,633 Hindi translations complete** across Bala (full) + Ayodhya (partial) + Sarga 1 of all 7 Kandas:
 
-- Bala: 90/90 ✓
-- Ayodhya: 49/49 ✓
-- Aranya: 20/20 ✓
-- Kishkindha: 127/127 ✓
-- Sundara: 192/192 ✓
-- Yuddha: 19/19 ✓
-- Uttara: 14/14 ✓
+- Bala: 77/77 sargas, ~2,054 shlokas ✓ (mnsgranth scrape)
+- Ayodhya: 42/119 sargas, ~1,588 shlokas (mnsgranth scrape, sargas 1-42 only)
+- Aranya: 1/75 sargas (Sarga 1 only)
+- Kishkindha: 1/67 sargas (Sarga 1 only)
+- Sundara: 1/68 sargas (Sarga 1 only)
+- Yuddha: 1/128 sargas (Sarga 1 only)
+- Uttara: 1/131 sargas (Sarga 1 only)
 
-**Source for Sarga 1**: Gita Press Hindi edition (archive.org) + ramcharit.in
+**Sources**:
+- Sarga 1: Gita Press Hindi edition (archive.org) + ramcharit.in
+- Bala (all) + Ayodhya 1-42: mnsgranth.com per-sarga URLs (Gita Press-quality)
+
 **Vol 1** (Bala/Ayodhya/Aranya/Kishkindha): https://archive.org/details/HindiBookValmikiRamayanPartIByGitaPress
 **Vol 2** (Sundara/Yuddha/Uttara): https://archive.org/details/valmiki-ramayan-part-2-gita-press_202307
 
-**Remaining**: 19,703 shlokas across other sargas (sarga 2+).
+**Discovered access constraints on mnsgranth.com**:
+- ✓ Public: Bala 1-77 per-sarga, Ayodhya 1-42 per-sarga
+- ✗ Password-protected: Aranya, Kishkindha, Sundara per-sarga URLs
+- ✗ Password-protected: Yuddha, Uttara grouped pages
+- ✗ 404: Ayodhya 43-119 (no individual pages exist)
 
-**Recommended source for Sargas 2+**: mnsgranth.com
-- Pattern: `mnsgranth.com/valmikiramayan/{kanda}-sarg-{N}-{N+9}/`
-- Clean Devanagari Unicode (no OCR errors), Gita Press-quality translations
-- Direct curl works (no Mod_Security blocking)
-- ~65-75 page fetches cover all 7 Kandas
-- The "AI" in URLs refers to AI-narrated audio, not AI-translated text
+**Remaining**: ~16,580 shlokas across protected/missing sargas.
+
+**Next-step options for remaining**:
+- ramcharit.in via WebFetch agents (Sarga 1 worked, summarizer refusals intermittent)
+- Gita Press OCR text cleanup (msgs/numerals fuzzy)
+- Manual transcription
 
 **Plan**:
 1. Build mnsgranth HTML scraper (curl + Python parser, ~1 session)

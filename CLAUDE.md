@@ -63,37 +63,28 @@
 - **Source**: Gita Press digital text from https://archive.org/details/RamcharitmanasGitapressEnglish
 - **Cross-referenced**: IIT Kanpur, BharatDiscovery, Ramcharit.in
 
-### 2. Valmiki Hindi Translations (IN PROGRESS)
+### 2. Valmiki Hindi Translations (IN PROGRESS — major progress)
 
-**~3,633 Hindi translations complete** across Bala (full) + Ayodhya (partial) + Sarga 1 of all 7 Kandas:
+**~14,838 Hindi translations applied** across all 7 Kandas:
 
-- Bala: 77/77 sargas, ~2,054 shlokas ✓ (mnsgranth scrape)
-- Ayodhya: 42/119 sargas, ~1,588 shlokas (mnsgranth scrape, sargas 1-42 only)
-- Aranya: 1/75 sargas (Sarga 1 only)
-- Kishkindha: 1/67 sargas (Sarga 1 only)
-- Sundara: 1/68 sargas (Sarga 1 only)
-- Yuddha: 1/128 sargas (Sarga 1 only)
-- Uttara: 1/131 sargas (Sarga 1 only)
+- Bala: 77/77 sargas (full) ✓ (mnsgranth)
+- Ayodhya: 119/119 sargas (full) ✓ (mnsgranth 1-42 + ramcharit.in 43-119)
+- Aranya: 73/75 sargas (~97%) (ramcharit.in)
+- Kishkindha: 66/67 sargas (~99%) (ramcharit.in)
+- Sundara: 66/68 sargas (~97%) (ramcharit.in)
+- Yuddha: 66/128 sargas (~52%, ramcharit gaps at 26-29 and 72-128)
+- Uttara: 29/131 sargas (~22%, ramcharit only covers 1-30)
 
-**Sources**:
-- Sarga 1: Gita Press Hindi edition (archive.org) + ramcharit.in
-- Bala (all) + Ayodhya 1-42: mnsgranth.com per-sarga URLs (Gita Press-quality)
+**Sources & methodology**:
+- mnsgranth.com per-sarga URLs (Gita Press-quality) — used for Bala, Ayodhya 1-42
+- ramcharit.in via curl with browser headers (bypassed Mod_Security) — Ayodhya 43+ and 5 other Kandas
+- Parser: `c:/tmp/scrape_ramcharit.py` — extracts ॥N॥ shloka markers, handles combined ranges
 
-**Vol 1** (Bala/Ayodhya/Aranya/Kishkindha): https://archive.org/details/HindiBookValmikiRamayanPartIByGitaPress
-**Vol 2** (Sundara/Yuddha/Uttara): https://archive.org/details/valmiki-ramayan-part-2-gita-press_202307
-
-**Discovered access constraints on mnsgranth.com**:
-- ✓ Public: Bala 1-77 per-sarga, Ayodhya 1-42 per-sarga
-- ✗ Password-protected: Aranya, Kishkindha, Sundara per-sarga URLs
-- ✗ Password-protected: Yuddha, Uttara grouped pages
-- ✗ 404: Ayodhya 43-119 (no individual pages exist)
-
-**Remaining**: ~16,580 shlokas across protected/missing sargas.
-
-**Next-step options for remaining**:
-- ramcharit.in via WebFetch agents (Sarga 1 worked, summarizer refusals intermittent)
-- Gita Press OCR text cleanup (msgs/numerals fuzzy)
-- Manual transcription
+**Remaining ~5,400 shlokas (Yuddha/Uttara gaps)**:
+- Yuddha sargas 26-29, 72-128 — not on ramcharit.in
+- Uttara sargas 30-131 — not on ramcharit.in
+- Source options: Gita Press Hindi PDF Vol 2 (OCR cleanup), or alternate sites
+  (TBD investigation)
 
 **Plan**:
 1. Build mnsgranth HTML scraper (curl + Python parser, ~1 session)

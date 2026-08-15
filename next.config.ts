@@ -1,6 +1,11 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  // The search route reads the verse JSON at runtime via a computed path, which
+  // file tracing cannot follow — without this the data is missing in production.
+  outputFileTracingIncludes: {
+    "/api/search": ["./data/**/*.json"],
+  },
   async headers() {
     return [
       {

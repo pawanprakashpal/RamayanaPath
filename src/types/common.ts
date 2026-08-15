@@ -1,6 +1,8 @@
 export type Version = "tulsidas" | "valmiki";
 export type Theme = "light" | "dark";
-export type VerseType = "chaupai" | "doha" | "sortha" | "chhand" | "shloka";
+// The JSON data spells this "soratha"; "sortha" is kept as an alias so older
+// records keep type-checking.
+export type VerseType = "chaupai" | "doha" | "soratha" | "sortha" | "chhand" | "shloka";
 
 export interface Bookmark {
   id: string;

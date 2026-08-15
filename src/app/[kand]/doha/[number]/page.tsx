@@ -8,6 +8,8 @@ import { BASE_URL, breadcrumbJsonLd, dohaTitle, excerpt } from "@/lib/seo";
 import TtsProvider from "@/components/verse/TtsProvider";
 import TtsControls from "@/components/verse/TtsControls";
 import ShareButton from "@/components/verse/ShareButton";
+import BookmarkButton from "@/components/verse/BookmarkButton";
+import { bookmarkId } from "@/lib/bookmarks";
 import KeyboardNav from "@/components/navigation/KeyboardNav";
 import ReadingProgress from "@/components/verse/ReadingProgress";
 
@@ -146,7 +148,16 @@ export default async function DohaPage({ params }: DohaPageProps) {
                 </span>
               </h1>
             </div>
-            <ShareButton title={`${pageTitle} — ${kand.tulsidas.name}`} url={`/${kandSlug}/doha/${dohaNumber}`} />
+            <div className="flex items-center gap-2">
+              <BookmarkButton
+                id={bookmarkId("tulsidas", kandSlug, "doha", dohaNumber)}
+                version="tulsidas"
+                kandSlug={kandSlug}
+                label={`${kand.tulsidas.name} — ${pageTitle}`}
+                href={`/${kandSlug}/doha/${dohaNumber}`}
+              />
+              <ShareButton title={`${pageTitle} — ${kand.tulsidas.name}`} url={`/${kandSlug}/doha/${dohaNumber}`} />
+            </div>
           </div>
           <div className="flex items-center justify-between mt-2">
             <p className="text-sm text-[var(--muted)]">

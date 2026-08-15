@@ -9,6 +9,8 @@ export interface Bookmark {
   version: Version;
   kand: string;
   label: string;
+  /** Path back to the passage, e.g. "/sundar-kand/doha/1". */
+  href: string;
   timestamp: number;
 }
 

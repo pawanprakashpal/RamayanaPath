@@ -12,6 +12,17 @@ interface PaathPageProps {
   params: Promise<{ kand: string }>;
 }
 
+/**
+ * Rough recitation time at ~2.5 verses a minute, which puts Sundar Kand a
+ * little over two hours — in line with how long a paath actually takes.
+ */
+function formatRecitationTime(verseCount: number): string {
+  const minutes = Math.round(verseCount / 2.5);
+  if (minutes < 90) return `${minutes} minutes`;
+  const hours = Math.round(minutes / 30) / 2;
+  return `${hours} hours`;
+}
+
 export async function generateStaticParams() {
   const { getKandManifest } = await import("@/lib/data");
   const manifest = await getKandManifest();
@@ -30,8 +41,11 @@ export async function generateMetadata({ params }: PaathPageProps): Promise<Meta
   const verseCount = data.dohaGroups.reduce((sum, g) => sum + g.verses.length, 0);
   const path = `/${kandSlug}/paath`;
 
+  const seo = getKandSeo(kandSlug);
   const title = `${name} Paath (${kand.tulsidas.nameOriginal}) — Full Text in One Page`;
-  const description = `Complete ${name} paath — all ${kand.tulsidas.totalUnits} dohas and ${verseCount} verses on a single page in the original Awadhi, with Hindi meaning and English translation on tap. Continuous audio recitation and saved reading position.`;
+  const description = `Complete ${name} paath — all ${kand.tulsidas.totalUnits} dohas and ${verseCount} verses on a single page in the original Awadhi, with Hindi meaning and English translation on tap.${
+    seo?.paathNote ? " Traditionally recited on Tuesdays and Saturdays." : ""
+  } Continuous audio recitation and saved reading position.`;
 
   return {
     title,
@@ -108,8 +122,12 @@ export default async function PaathPage({ params }: PaathPageProps) {
         </h1>
         <p className="text-[var(--muted)]">
           Complete text — {kand.tulsidas.totalUnits} dohas, {verseCount} verses, one page.
-          Tap any verse for its Hindi meaning and English translation.
+          About {formatRecitationTime(verseCount)} to recite. Tap any verse for its Hindi
+          meaning and English translation.
         </p>
+        {seo?.paathNote && (
+          <p className="mt-4 card p-4 text-sm leading-relaxed max-w-3xl">{seo.paathNote}</p>
+        )}
         {seo && (
           <p className="mt-3 text-sm leading-relaxed text-[var(--muted)] max-w-3xl">
             {seo.summary}

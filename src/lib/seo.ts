@@ -22,6 +22,8 @@ interface KandSeoEntry {
   summary: string;
   /** Well-known passages/episodes searched by name. */
   highlights: string;
+  /** Recitation tradition, shown on the paath page where one exists. */
+  paathNote?: string;
 }
 
 const KAND_SEO: Record<string, KandSeoEntry> = {
@@ -51,6 +53,8 @@ const KAND_SEO: Record<string, KandSeoEntry> = {
       "Sundar Kand recounts Hanuman's leap across the ocean to Lanka, his search for Sita, their meeting in the Ashok Vatika, the burning of Lanka, and his return with Sita's message — the Kand most often recited as a complete paath.",
     highlights:
       "Hanuman's ocean leap, the Ashok Vatika meeting, Lanka Dahan, and the Ram-Sugriv Sanvad",
+    paathNote:
+      "Sundar Kand is the Kand most often recited on its own, traditionally on Tuesdays and Saturdays — the days associated with Hanuman — and often completed in a single sitting.",
   },
   "lanka-kand": {
     summary:

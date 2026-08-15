@@ -4,6 +4,8 @@ import { getValmikiSarga, getKandBySlug, getValmikiTotalSargas, getValmikiSargaN
 import VerseCard from "@/components/verse/VerseCard";
 import PrevNextNav from "@/components/navigation/PrevNextNav";
 import JsonLd from "@/components/seo/JsonLd";
+import BookmarkButton from "@/components/verse/BookmarkButton";
+import { bookmarkId } from "@/lib/bookmarks";
 import { BASE_URL, breadcrumbJsonLd, excerpt } from "@/lib/seo";
 
 interface SargaPageProps {
@@ -137,10 +139,21 @@ export default async function SargaPage({ params }: SargaPageProps) {
 
       {/* Page header */}
       <div className="mb-8">
-        <p className="text-sm text-[var(--muted)] mb-1">{kand.valmiki.name}</p>
-        <h1 className="text-2xl font-bold">
-          Sarga {sargaNumber}: {sarga.sarga.title}
-        </h1>
+        <div className="flex items-start justify-between gap-4">
+          <div>
+            <p className="text-sm text-[var(--muted)] mb-1">{kand.valmiki.name}</p>
+            <h1 className="text-2xl font-bold">
+              Sarga {sargaNumber}: {sarga.sarga.title}
+            </h1>
+          </div>
+          <BookmarkButton
+            id={bookmarkId("valmiki", kandSlug, "sarga", sargaNumber)}
+            version="valmiki"
+            kandSlug={kandSlug}
+            label={`${kand.valmiki.name} — Sarga ${sargaNumber}`}
+            href={`/${kandSlug}/sarga/${sargaNumber}`}
+          />
+        </div>
         <p className="font-devanagari text-[var(--muted)]">
           {sarga.sarga.titleSanskrit || `${kand.valmiki.nameOriginal} · सर्ग ${sargaNumber}`}
         </p>

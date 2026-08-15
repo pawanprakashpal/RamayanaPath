@@ -59,9 +59,22 @@ export default function KandCard({ kand }: KandCardProps) {
     </div>
   );
 
-  if (isAvailable) {
-    return <Link href={`/${kand.slug}`}>{content}</Link>;
-  }
+  if (!isAvailable) return content;
 
-  return content;
+  return (
+    <div className="h-full flex flex-col">
+      <Link href={`/${kand.slug}`} className="flex-1">
+        {content}
+      </Link>
+      {kand.tulsidas.available && (
+        // Sits outside the card link — nesting an anchor inside another is invalid.
+        <Link
+          href={`/${kand.slug}/paath`}
+          className="mt-2 text-center text-xs px-3 py-2 rounded-lg border border-[var(--card-border)] text-[var(--muted)] hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors"
+        >
+          Read full paath →
+        </Link>
+      )}
+    </div>
+  );
 }

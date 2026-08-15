@@ -1,36 +1,49 @@
 import type { MetadataRoute } from "next";
-import { getKandManifest } from "@/lib/data";
-
-const BASE_URL = "https://ramayanpath.com";
+import { getKandManifest, getTulsidasKand, getValmikiSargaNumbers } from "@/lib/data";
+import { BASE_URL } from "@/lib/seo";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const manifest = await getKandManifest();
   const entries: MetadataRoute.Sitemap = [];
+  const lastModified = new Date();
 
   // Home page
   entries.push({
     url: BASE_URL,
-    lastModified: new Date(),
+    lastModified,
     changeFrequency: "weekly",
     priority: 1,
   });
 
-  // Kand listing pages + all doha pages
   for (const kand of manifest.kands) {
     // Kand overview page
     entries.push({
       url: `${BASE_URL}/${kand.slug}`,
-      lastModified: new Date(),
+      lastModified,
       changeFrequency: "monthly",
       priority: 0.9,
     });
 
-    // All doha pages for this kand
+    // Tulsidas doha pages — derived from the data so the sitemap can never
+    // advertise a URL that 404s (or miss one that exists).
     if (kand.tulsidas.available) {
-      for (let i = 0; i <= kand.tulsidas.totalUnits; i++) {
+      const data = await getTulsidasKand(kand.slug);
+      for (const group of data?.dohaGroups ?? []) {
         entries.push({
-          url: `${BASE_URL}/${kand.slug}/doha/${i}`,
-          lastModified: new Date(),
+          url: `${BASE_URL}/${kand.slug}/doha/${group.dohaNumber}`,
+          lastModified,
+          changeFrequency: "monthly",
+          priority: 0.7,
+        });
+      }
+    }
+
+    // Valmiki sarga pages
+    if (kand.valmiki.available) {
+      for (const sargaNumber of await getValmikiSargaNumbers(kand.slug)) {
+        entries.push({
+          url: `${BASE_URL}/${kand.slug}/sarga/${sargaNumber}`,
+          lastModified,
           changeFrequency: "monthly",
           priority: 0.7,
         });
@@ -41,21 +54,21 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   // Static pages
   entries.push({
     url: `${BASE_URL}/about`,
-    lastModified: new Date(),
+    lastModified,
     changeFrequency: "monthly",
     priority: 0.6,
   });
 
   entries.push({
     url: `${BASE_URL}/search`,
-    lastModified: new Date(),
+    lastModified,
     changeFrequency: "monthly",
     priority: 0.5,
   });
 
   entries.push({
     url: `${BASE_URL}/bookmarks`,
-    lastModified: new Date(),
+    lastModified,
     changeFrequency: "monthly",
     priority: 0.4,
   });

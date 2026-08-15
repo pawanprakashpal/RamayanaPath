@@ -4,6 +4,7 @@ import { getDohaGroup, getTulsidasKand, getKandBySlug } from "@/lib/data";
 import VerseCard from "@/components/verse/VerseCard";
 import PrevNextNav from "@/components/navigation/PrevNextNav";
 import JsonLd from "@/components/seo/JsonLd";
+import { BASE_URL, breadcrumbJsonLd, dohaTitle, excerpt } from "@/lib/seo";
 import TtsProvider from "@/components/verse/TtsProvider";
 import TtsControls from "@/components/verse/TtsControls";
 import ShareButton from "@/components/verse/ShareButton";
@@ -20,15 +21,38 @@ export async function generateMetadata({ params }: DohaPageProps): Promise<Metad
   const kand = await getKandBySlug(kandSlug);
   const group = await getDohaGroup(kandSlug, dohaNumber);
   if (!kand || !group) return {};
-  const title = group.label ?? `Doha ${dohaNumber}`;
+
+  const label = dohaTitle(dohaNumber, group.label);
   const verseCount = group.verses.length;
-  const firstVerse = group.verses[0]?.original?.slice(0, 80) ?? "";
+  const firstVerse = group.verses[0];
+  const path = `/${kandSlug}/doha/${dohaNumber}`;
+
+  // Devanagari in the title captures Hindi-script queries; the trailing
+  // keywords capture "meaning" / "translation" intent.
+  const title = `${kand.tulsidas.name} ${label} (${kand.tulsidas.nameOriginal}) — Meaning & English Translation`;
+  const description = firstVerse
+    ? `${excerpt(firstVerse.original, 90)} — ${label} of ${kand.tulsidas.name}, Ramcharitmanas. ${verseCount} verse${verseCount > 1 ? "s" : ""} with original Awadhi text, Hindi meaning (अर्थ) and English translation.`
+    : `${label} of ${kand.tulsidas.name} (${kand.tulsidas.nameOriginal}) — Ramcharitmanas verses with Hindi meaning and English translation.`;
+
   return {
-    title: `${title} — ${kand.tulsidas.name}`,
-    description: `${title} of ${kand.tulsidas.name} (${kand.tulsidas.nameOriginal}) — ${verseCount} verses with original text, Hindi meaning & English translation. ${firstVerse}...`,
-    alternates: {
-      canonical: `/${kandSlug}/doha/${dohaNumber}`,
+    title,
+    description,
+    keywords: [
+      `${kand.tulsidas.name} ${label}`,
+      `${kand.tulsidas.name} ${label} meaning`,
+      `Ramcharitmanas ${label}`,
+      `${kand.tulsidas.nameOriginal} ${label}`,
+      "Ramcharitmanas English translation",
+      "Awadhi text with Hindi meaning",
+    ],
+    alternates: { canonical: path },
+    openGraph: {
+      type: "article",
+      title,
+      description,
+      url: path,
     },
+    twitter: { card: "summary_large_image", title, description },
   };
 }
 
@@ -68,33 +92,42 @@ export default async function DohaPage({ params }: DohaPageProps) {
   const prevDoha = currentIndex > 0 ? dohaNumbers[currentIndex - 1] : undefined;
   const nextDoha = currentIndex < dohaNumbers.length - 1 ? dohaNumbers[currentIndex + 1] : undefined;
 
-  const pageTitle = group.label ?? `Doha ${dohaNumber}`;
-  const pageUrl = `https://ramayanpath.com/${kandSlug}/doha/${dohaNumber}`;
+  const pageTitle = dohaTitle(dohaNumber, group.label);
+  const pageUrl = `${BASE_URL}/${kandSlug}/doha/${dohaNumber}`;
 
   return (
     <div>
       <JsonLd
-        data={{
-          "@context": "https://schema.org",
-          "@type": "BreadcrumbList",
-          itemListElement: [
-            { "@type": "ListItem", position: 1, name: "Home", item: "https://ramayanpath.com" },
-            { "@type": "ListItem", position: 2, name: kand.tulsidas.name, item: `https://ramayanpath.com/${kandSlug}` },
-            { "@type": "ListItem", position: 3, name: pageTitle, item: pageUrl },
-          ],
-        }}
+        data={breadcrumbJsonLd([
+          { name: "Home", path: "/" },
+          { name: kand.tulsidas.name, path: `/${kandSlug}` },
+          { name: pageTitle, path: `/${kandSlug}/doha/${dohaNumber}` },
+        ])}
       />
       <JsonLd
         data={{
           "@context": "https://schema.org",
           "@type": "CreativeWork",
-          name: `${pageTitle} — ${kand.tulsidas.name}`,
+          name: `${kand.tulsidas.name} ${pageTitle} — Ramcharitmanas`,
+          alternateName: `${kand.tulsidas.nameOriginal} ${pageTitle}`,
           author: { "@type": "Person", name: "Goswami Tulsidas" },
           inLanguage: ["awa", "hi", "en"],
+          text: group.verses.map((v) => v.original).join("\n"),
+          position: dohaNumber,
           isPartOf: {
-            "@type": "Book",
-            name: "Ramcharitmanas",
-            author: { "@type": "Person", name: "Goswami Tulsidas" },
+            "@type": "Chapter",
+            name: kand.tulsidas.name,
+            alternateName: kand.tulsidas.nameOriginal,
+            position: kand.index,
+            url: `${BASE_URL}/${kandSlug}`,
+            isPartOf: {
+              "@type": "Book",
+              name: "Ramcharitmanas",
+              alternateName: "श्रीरामचरितमानस",
+              author: { "@type": "Person", name: "Goswami Tulsidas" },
+              inLanguage: "awa",
+              url: BASE_URL,
+            },
           },
           url: pageUrl,
         }}
@@ -107,7 +140,10 @@ export default async function DohaPage({ params }: DohaPageProps) {
             <div>
               <p className="text-sm text-[var(--muted)] mb-1">{kand.tulsidas.name}</p>
               <h1 className="text-2xl font-bold">
-                {pageTitle}
+                {pageTitle}{" "}
+                <span className="font-devanagari font-normal text-[var(--muted)]">
+                  ({kand.tulsidas.nameOriginal})
+                </span>
               </h1>
             </div>
             <ShareButton title={`${pageTitle} — ${kand.tulsidas.name}`} url={`/${kandSlug}/doha/${dohaNumber}`} />

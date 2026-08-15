@@ -1,8 +1,10 @@
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
-import { getValmikiSarga, getKandBySlug, getValmikiTotalSargas } from "@/lib/data";
+import { getValmikiSarga, getKandBySlug, getValmikiTotalSargas, getValmikiSargaNumbers } from "@/lib/data";
 import VerseCard from "@/components/verse/VerseCard";
 import PrevNextNav from "@/components/navigation/PrevNextNav";
+import JsonLd from "@/components/seo/JsonLd";
+import { BASE_URL, breadcrumbJsonLd, excerpt } from "@/lib/seo";
 
 interface SargaPageProps {
   params: Promise<{ kand: string; number: string }>;
@@ -13,10 +15,35 @@ export async function generateMetadata({ params }: SargaPageProps): Promise<Meta
   const sargaNumber = parseInt(number, 10);
   const kand = await getKandBySlug(kandSlug);
   const sarga = await getValmikiSarga(kandSlug, sargaNumber);
-  if (!kand || !sarga) return {};
+  if (!kand) return {};
+
+  const path = `/${kandSlug}/sarga/${sargaNumber}`;
+
+  if (!sarga) {
+    return {
+      title: `${kand.valmiki.name} Sarga ${sargaNumber} — Valmiki Ramayana`,
+      alternates: { canonical: path },
+      robots: { index: false, follow: true },
+    };
+  }
+
+  const title = `${kand.valmiki.name} Sarga ${sargaNumber} (${kand.valmiki.nameOriginal}) — Sanskrit Shloka with English Translation`;
+  const firstShloka = sarga.shlokas[0];
+  const description = `${sarga.sarga.title}. Sarga ${sargaNumber} of ${kand.valmiki.name}, Valmiki Ramayana — ${sarga.shlokas.length} Sanskrit shlokas in Devanagari with English translation${firstShloka?.hindiTranslation ? " and Hindi meaning" : ""}. ${firstShloka ? excerpt(firstShloka.original, 70) : ""}`;
+
   return {
-    title: `Sarga ${sargaNumber}: ${sarga.sarga.title} — ${kand.valmiki.name}`,
-    description: `Read Sarga ${sargaNumber} of ${kand.valmiki.name} from Valmiki Ramayana with English translation.`,
+    title,
+    description,
+    keywords: [
+      `${kand.valmiki.name} Sarga ${sargaNumber}`,
+      `Valmiki Ramayana Sarga ${sargaNumber}`,
+      `${kand.valmiki.nameOriginal} सर्ग ${sargaNumber}`,
+      "Valmiki Ramayana Sanskrit shloka with English translation",
+      "Ramayana Sanskrit text",
+    ],
+    alternates: { canonical: path },
+    openGraph: { type: "article", title, description, url: path },
+    twitter: { card: "summary_large_image", title, description },
   };
 }
 
@@ -27,9 +54,9 @@ export async function generateStaticParams() {
 
   for (const kand of manifest.kands) {
     if (!kand.valmiki.available) continue;
-    // For now, only generate params for sargas that have data files
-    // In production, this would enumerate all sarga files
-    params.push({ kand: kand.slug, number: "1" });
+    for (const sargaNumber of await getValmikiSargaNumbers(kand.slug)) {
+      params.push({ kand: kand.slug, number: String(sargaNumber) });
+    }
   }
 
   return params;
@@ -72,13 +99,51 @@ export default async function SargaPage({ params }: SargaPageProps) {
 
   return (
     <div>
+      <JsonLd
+        data={breadcrumbJsonLd([
+          { name: "Home", path: "/" },
+          { name: kand.valmiki.name, path: `/${kandSlug}` },
+          { name: `Sarga ${sargaNumber}`, path: `/${kandSlug}/sarga/${sargaNumber}` },
+        ])}
+      />
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "CreativeWork",
+          name: `${kand.valmiki.name} Sarga ${sargaNumber} — ${sarga.sarga.title}`,
+          alternateName: sarga.sarga.titleSanskrit || undefined,
+          author: { "@type": "Person", name: "Maharshi Valmiki" },
+          inLanguage: ["sa", "en"],
+          text: sarga.shlokas.map((s) => s.original).join("\n"),
+          position: sargaNumber,
+          isPartOf: {
+            "@type": "Chapter",
+            name: kand.valmiki.name,
+            alternateName: kand.valmiki.nameOriginal,
+            position: kand.index,
+            url: `${BASE_URL}/${kandSlug}`,
+            isPartOf: {
+              "@type": "Book",
+              name: "Valmiki Ramayana",
+              alternateName: "वाल्मीकि रामायणम्",
+              author: { "@type": "Person", name: "Maharshi Valmiki" },
+              inLanguage: "sa",
+              url: BASE_URL,
+            },
+          },
+          url: `${BASE_URL}/${kandSlug}/sarga/${sargaNumber}`,
+        }}
+      />
+
       {/* Page header */}
       <div className="mb-8">
         <p className="text-sm text-[var(--muted)] mb-1">{kand.valmiki.name}</p>
         <h1 className="text-2xl font-bold">
           Sarga {sargaNumber}: {sarga.sarga.title}
         </h1>
-        <p className="font-devanagari text-[var(--muted)]">{sarga.sarga.titleSanskrit}</p>
+        <p className="font-devanagari text-[var(--muted)]">
+          {sarga.sarga.titleSanskrit || `${kand.valmiki.nameOriginal} · सर्ग ${sargaNumber}`}
+        </p>
         <p className="text-sm text-[var(--muted)] mt-1">
           {sarga.shlokas.length} shloka{sarga.shlokas.length > 1 ? "s" : ""}
         </p>

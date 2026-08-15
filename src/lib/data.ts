@@ -37,18 +37,34 @@ export async function getTulsidasTotalDohas(kandSlug: string): Promise<number> {
   return data.kand.totalDohas;
 }
 
+// Map tulsidas slug to valmiki folder name
+const VALMIKI_FOLDER_MAP: Record<string, string> = {
+  "sundar-kand": "sundara-kanda",
+  "bal-kand": "bala-kanda",
+  "ayodhya-kand": "ayodhya-kanda",
+  "aranya-kand": "aranya-kanda",
+  "kishkindha-kand": "kishkindha-kanda",
+  "lanka-kand": "yuddha-kanda",
+  "uttar-kand": "uttara-kanda",
+};
+
+/** Sarga numbers that actually have a data file, ascending. */
+export async function getValmikiSargaNumbers(kandSlug: string): Promise<number[]> {
+  const folder = VALMIKI_FOLDER_MAP[kandSlug] ?? kandSlug;
+  try {
+    const files = await fs.readdir(path.join(DATA_DIR, "valmiki", folder));
+    return files
+      .map((f) => /^sarga-(\d+)\.json$/.exec(f))
+      .filter((m): m is RegExpExecArray => m !== null)
+      .map((m) => parseInt(m[1], 10))
+      .sort((a, b) => a - b);
+  } catch {
+    return [];
+  }
+}
+
 export async function getValmikiSarga(kandSlug: string, sargaNumber: number): Promise<ValmikiSargaData | null> {
-  // Map tulsidas slug to valmiki folder name
-  const valmikiFolderMap: Record<string, string> = {
-    "sundar-kand": "sundara-kanda",
-    "bal-kand": "bala-kanda",
-    "ayodhya-kand": "ayodhya-kanda",
-    "aranya-kand": "aranya-kanda",
-    "kishkindha-kand": "kishkindha-kanda",
-    "lanka-kand": "yuddha-kanda",
-    "uttar-kand": "uttara-kanda",
-  };
-  const folder = valmikiFolderMap[kandSlug] ?? kandSlug;
+  const folder = VALMIKI_FOLDER_MAP[kandSlug] ?? kandSlug;
   const filePath = path.join(DATA_DIR, "valmiki", folder, `sarga-${String(sargaNumber).padStart(2, "0")}.json`);
   try {
     const raw = await fs.readFile(filePath, "utf-8");

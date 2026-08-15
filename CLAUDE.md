@@ -43,7 +43,15 @@
 - **Share button**: WhatsApp, X/Twitter, Copy Link (native share on mobile)
 - **Keyboard navigation**: ← → arrow keys for prev/next doha
 - **Reading progress**: Saves last-read doha per Kand in localStorage, "Continue Reading" button
-- **SEO**: Sitemap, robots.txt, OG image, JSON-LD (WebSite + BreadcrumbList + CreativeWork), canonical URLs
+- **SEO**: Sitemap (1,760 URLs — every doha *and* sarga), robots.txt, JSON-LD
+  (WebSite + BreadcrumbList + Book/Chapter/CreativeWork + FAQPage), canonical URLs,
+  keyword+Devanagari titles, per-Kand summaries & FAQ sections (`src/lib/seo.ts`)
+- **Dynamic OG cards**: per-verse social previews with the Devanagari text rendered
+  (`src/lib/og.tsx`, `public/fonts/NotoSansDevanagari-*.ttf`, `opengraph-image.tsx` per route)
+- **Static generation**: all 1,749 doha + sarga pages prerender as static HTML. The
+  version cookie is read client-side (`VersionSwitchedSidebar`) — reading it in
+  `[kand]/layout.tsx` previously made every verse page server-rendered on demand.
+  Don't call `getServerVersion()` in that layout or in verse pages.
 - **Google Search Console**: Verified, sitemap submitted
 - **About page**: /about with mission, sources, verse table
 - **Animations**: Hero entrance, staggered cards, verse hover, details expand, TTS pulse

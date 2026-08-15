@@ -2,6 +2,7 @@ import Link from "next/link";
 import { SITE_NAME } from "@/lib/constants";
 import ThemeToggle from "@/components/ui/ThemeToggle";
 import VersionSelector from "@/components/navigation/VersionSelector";
+import LanguageLink from "./LanguageLink";
 
 const KANDS = [
   { slug: "bal-kand", name: "Bal Kand", nameHindi: "बालकाण्ड", available: true },
@@ -41,6 +42,7 @@ export default function Header() {
             <Link href="/about" className="text-sm text-[var(--muted)] hover:text-[var(--foreground)] transition-colors">
               About
             </Link>
+            <LanguageLink />
           </nav>
 
           {/* Controls */}

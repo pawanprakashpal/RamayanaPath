@@ -13,6 +13,7 @@ import {
   faqPageJsonLd,
   getKandSeo,
 } from "@/lib/seo";
+import { languageAlternates } from "@/lib/i18n";
 
 interface KandPageProps {
   params: Promise<{ kand: string }>;
@@ -39,7 +40,7 @@ export async function generateMetadata({ params }: KandPageProps): Promise<Metad
       `${kand.valmiki.name} Valmiki Ramayana`,
       `${kand.valmiki.name} Sanskrit shloka with English translation`,
     ],
-    alternates: { canonical: `/${kandSlug}` },
+    alternates: { canonical: `/${kandSlug}`, languages: languageAlternates(`/${kandSlug}`) },
     openGraph: { type: "article", title, description: description.slice(0, 200), url: `/${kandSlug}` },
     twitter: { card: "summary_large_image", title, description: description.slice(0, 200) },
   };

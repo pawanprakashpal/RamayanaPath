@@ -3,6 +3,7 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { getKandBySlug, getTulsidasKand } from "@/lib/data";
 import { BASE_URL, breadcrumbJsonLd, dohaTitle, getKandSeo } from "@/lib/seo";
+import { languageAlternates } from "@/lib/i18n";
 import JsonLd from "@/components/seo/JsonLd";
 import TtsProvider from "@/components/verse/TtsProvider";
 import PaathBar from "@/components/paath/PaathBar";
@@ -59,7 +60,7 @@ export async function generateMetadata({ params }: PaathPageProps): Promise<Meta
       `read ${name} online`,
       "Ramcharitmanas paath",
     ],
-    alternates: { canonical: path },
+    alternates: { canonical: path, languages: languageAlternates(path) },
     openGraph: { type: "article", title, description, url: path },
     twitter: { card: "summary_large_image", title, description },
   };

@@ -60,6 +60,32 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     }
   }
 
+  // Hindi surface — home, Kand pages and paath pages.
+  entries.push({
+    url: `${BASE_URL}/hi`,
+    lastModified,
+    changeFrequency: "weekly",
+    priority: 1,
+  });
+
+  for (const kand of manifest.kands) {
+    if (!kand.tulsidas.available) continue;
+    entries.push(
+      {
+        url: `${BASE_URL}/hi/${kand.slug}`,
+        lastModified,
+        changeFrequency: "monthly",
+        priority: 0.9,
+      },
+      {
+        url: `${BASE_URL}/hi/${kand.slug}/paath`,
+        lastModified,
+        changeFrequency: "monthly",
+        priority: 0.9,
+      }
+    );
+  }
+
   // Static pages
   entries.push({
     url: `${BASE_URL}/about`,

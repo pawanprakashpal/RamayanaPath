@@ -26,6 +26,11 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://ramayanpath.com"),
   alternates: {
     canonical: "/",
+    languages: {
+      "en-IN": "/",
+      hi: "/hi",
+      "x-default": "/",
+    },
   },
   openGraph: {
     title: SITE_NAME,

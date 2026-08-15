@@ -43,7 +43,15 @@
 - **Share button**: WhatsApp, X/Twitter, Copy Link (native share on mobile)
 - **Keyboard navigation**: ← → arrow keys for prev/next doha
 - **Reading progress**: Saves last-read doha per Kand in localStorage, "Continue Reading" button
-- **SEO**: Sitemap (1,760 URLs — every doha *and* sarga), robots.txt, JSON-LD
+- **Paath mode**: `/{kand}/paath` — the whole Kand on one static page, original text
+  only, meanings fetched per doha group from `/api/meaning` on expand. Inlining them
+  made Bal Kand 1.3MB gzipped; lazy it is 466KB, Sundar Kand 93KB. Sticky progress
+  bar, continuous audio, resumes via the existing reading-progress key.
+- **Search**: `/search` + `/api/search` — server-side over 26,301 verses. Index built
+  once per instance (~350ms), scan ~7ms. IAST diacritics folded both sides, so
+  "Sanjivani" finds "sañjīvanī". Recognises "Sundar Kand doha 1" as a reference.
+  Needs `outputFileTracingIncludes` in next.config.ts to ship data/ with the route.
+- **SEO**: Sitemap (1,767 URLs — every doha, sarga *and* paath page), robots.txt, JSON-LD
   (WebSite + BreadcrumbList + Book/Chapter/CreativeWork + FAQPage), canonical URLs,
   keyword+Devanagari titles, per-Kand summaries & FAQ sections (`src/lib/seo.ts`)
 - **Dynamic OG cards**: per-verse social previews with the Devanagari text rendered

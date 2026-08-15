@@ -151,6 +151,17 @@ export default async function KandPage({ params }: KandPageProps) {
               {seo.summary}
             </p>
           )}
+
+          <Link
+            href={`/${kandSlug}/paath`}
+            className="inline-flex items-center gap-2 mt-4 px-4 py-2 rounded-lg text-sm font-medium bg-[var(--accent)] text-white hover:opacity-90 transition-opacity"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20" />
+              <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z" />
+            </svg>
+            Read the full {kand.tulsidas.name} paath
+          </Link>
         </div>
 
         <div className="grid gap-3 animate-stagger">

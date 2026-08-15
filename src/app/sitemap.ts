@@ -27,6 +27,15 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     // Tulsidas doha pages — derived from the data so the sitemap can never
     // advertise a URL that 404s (or miss one that exists).
     if (kand.tulsidas.available) {
+      // Full-text paath page — a primary landing target, so it ranks above
+      // the individual doha pages.
+      entries.push({
+        url: `${BASE_URL}/${kand.slug}/paath`,
+        lastModified,
+        changeFrequency: "monthly",
+        priority: 0.9,
+      });
+
       const data = await getTulsidasKand(kand.slug);
       for (const group of data?.dohaGroups ?? []) {
         entries.push({

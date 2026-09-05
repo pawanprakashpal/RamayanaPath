@@ -5,6 +5,7 @@ import VerseCard from "@/components/verse/VerseCard";
 import PrevNextNav from "@/components/navigation/PrevNextNav";
 import JsonLd from "@/components/seo/JsonLd";
 import { BASE_URL, breadcrumbJsonLd, dohaTitle, excerpt } from "@/lib/seo";
+import { languageAlternates } from "@/lib/i18n";
 import TtsProvider from "@/components/verse/TtsProvider";
 import TtsControls from "@/components/verse/TtsControls";
 import ShareButton from "@/components/verse/ShareButton";
@@ -47,7 +48,7 @@ export async function generateMetadata({ params }: DohaPageProps): Promise<Metad
       "Ramcharitmanas English translation",
       "Awadhi text with Hindi meaning",
     ],
-    alternates: { canonical: path },
+    alternates: { canonical: path, languages: languageAlternates(path) },
     openGraph: {
       type: "article",
       title,

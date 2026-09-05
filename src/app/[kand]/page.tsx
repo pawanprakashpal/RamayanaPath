@@ -1,9 +1,9 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
-import { getKandBySlug, getTulsidasKand, getValmikiTotalSargas, getValmikiSargaNumbers } from "@/lib/data";
-import { getServerVersion } from "@/lib/version";
+import { getKandBySlug, getTulsidasKand, getValmikiSargaNumbers } from "@/lib/data";
 import ContinueReading from "@/components/navigation/ContinueReading";
+import VersionSwitch from "@/components/navigation/VersionSwitch";
 import JsonLd from "@/components/seo/JsonLd";
 import {
   BASE_URL,
@@ -17,6 +17,12 @@ import { languageAlternates } from "@/lib/i18n";
 
 interface KandPageProps {
   params: Promise<{ kand: string }>;
+}
+
+export async function generateStaticParams() {
+  const { getKandManifest } = await import("@/lib/data");
+  const manifest = await getKandManifest();
+  return manifest.kands.map((k) => ({ kand: k.slug }));
 }
 
 export async function generateMetadata({ params }: KandPageProps): Promise<Metadata> {
@@ -52,20 +58,19 @@ export default async function KandPage({ params }: KandPageProps) {
 
   if (!kand) notFound();
 
-  const [version, data, sargaNumbers] = await Promise.all([
-    getServerVersion(),
+  const [data, sargaNumbers] = await Promise.all([
     getTulsidasKand(kandSlug),
     getValmikiSargaNumbers(kandSlug),
   ]);
 
-  const seo = getKandSeo(kandSlug);
-  const totalVerses = data?.dohaGroups.reduce((sum, g) => sum + g.verses.length, 0) ?? 0;
-  const faq = buildKandFaq(kand, data?.dohaGroups.length ?? 0, totalVerses);
+  if (!data) notFound();
 
-  // Rendered on both version branches so every Kand page carries the same
-  // schema and so crawlers always reach both texts from here.
-  const seoBlocks = (
-    <>
+  const seo = getKandSeo(kandSlug);
+  const totalVerses = data.dohaGroups.reduce((sum, g) => sum + g.verses.length, 0);
+  const faq = buildKandFaq(kand, data.dohaGroups.length, totalVerses);
+
+  return (
+    <div>
       <JsonLd
         data={breadcrumbJsonLd([
           { name: "Home", path: "/" },
@@ -105,209 +110,144 @@ export default async function KandPage({ params }: KandPageProps) {
         }}
       />
       <JsonLd data={faqPageJsonLd(faq)} />
-    </>
-  );
 
-  // FAQ markup must be visible on the page for the rich result to qualify.
-  const faqSection = (
-    <section className="mt-12 card p-6" aria-labelledby="kand-faq">
-      <h2 id="kand-faq" className="text-xl font-semibold mb-4">
-        Frequently asked about {kand.tulsidas.name}
-      </h2>
-      <div className="space-y-4">
-        {faq.map((item) => (
-          <div key={item.question}>
-            <h3 className="font-medium">{item.question}</h3>
-            <p className="text-sm text-[var(--muted)] mt-1">{item.answer}</p>
-          </div>
-        ))}
-      </div>
-    </section>
-  );
-
-  if (version === "tulsidas") {
-    if (!data) notFound();
-
-    return (
-      <div>
-        {seoBlocks}
-        <div className="mb-8 animate-fade-in">
-          <h1 className="text-3xl font-bold mb-2">
-            {kand.tulsidas.name}{" "}
-            <span className="font-devanagari font-normal text-[var(--muted)]">
-              ({kand.tulsidas.nameOriginal})
-            </span>
-          </h1>
-          <p className="text-[var(--muted)]">
-            Ramcharitmanas verses with Hindi meaning &amp; English translation
-          </p>
-          <div className="flex items-center gap-4 mt-2">
-            <p className="text-sm text-[var(--muted)]">
-              {data.kand.totalDohas} Dohas · {totalVerses} verses
-            </p>
-            <ContinueReading kandSlug={kandSlug} />
-          </div>
-          {seo && (
-            <p className="mt-4 text-sm leading-relaxed text-[var(--muted)] max-w-3xl">
-              {seo.summary}
-            </p>
-          )}
-
-          <Link
-            href={`/${kandSlug}/paath`}
-            className="inline-flex items-center gap-2 mt-4 px-4 py-2 rounded-lg text-sm font-medium bg-[var(--accent)] text-white hover:opacity-90 transition-opacity"
-          >
-            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-              <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20" />
-              <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z" />
-            </svg>
-            Read the full {kand.tulsidas.name} paath
-          </Link>
-        </div>
-
-        <div className="grid gap-3 animate-stagger">
-          {data.dohaGroups.map((group) => (
-            <Link
-              key={group.dohaNumber}
-              href={`/${kandSlug}/doha/${group.dohaNumber}`}
-              className="card p-4 hover:border-[var(--accent)] transition-colors group"
-            >
-              <div className="flex items-center justify-between gap-4">
-                <div className="min-w-0">
-                  <h3 className="font-medium group-hover:text-[var(--accent)] transition-colors">
-                    {dohaTitle(group.dohaNumber, group.label)}
-                  </h3>
-                  <p className="text-sm text-[var(--muted)] truncate font-devanagari mt-0.5">
-                    {group.verses[0]?.original.split('\n')[0] ?? ""}
-                  </p>
-                  <p className="text-xs text-[var(--muted)] mt-0.5">
-                    {group.verses.length} verse{group.verses.length > 1 ? "s" : ""}
-                  </p>
-                </div>
-                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-[var(--muted)] group-hover:text-[var(--accent)] flex-shrink-0">
-                  <polyline points="9 18 15 12 9 6" />
-                </svg>
-              </div>
-            </Link>
-          ))}
-        </div>
-
-        <OtherVersionLinks
-          heading={`${kand.valmiki.name} — Valmiki Ramayana (Sanskrit)`}
-          blurb={`The same Kand in Maharshi Valmiki's original Sanskrit, across ${kand.valmiki.totalUnits} sargas with English translation.`}
-          links={sargaNumbers.map((n) => ({
-            href: `/${kandSlug}/sarga/${n}`,
-            label: `Sarga ${n}`,
-          }))}
-        />
-
-        {faqSection}
-      </div>
-    );
-  }
-
-  // Valmiki version
-  const totalSargas = await getValmikiTotalSargas(kandSlug);
-
-  return (
-    <div>
-      {seoBlocks}
-      <div className="mb-8">
+      {/* One h1, always the Ramcharitmanas name — this is the page's search
+          identity, and the version toggle below only swaps the listing. */}
+      <div className="mb-8 animate-fade-in">
         <h1 className="text-3xl font-bold mb-2">
-          {kand.valmiki.name}{" "}
+          {kand.tulsidas.name}{" "}
           <span className="font-devanagari font-normal text-[var(--muted)]">
-            ({kand.valmiki.nameOriginal})
+            ({kand.tulsidas.nameOriginal})
           </span>
         </h1>
         <p className="text-[var(--muted)]">
-          Valmiki Ramayana — Sanskrit shlokas with English translation
+          Ramcharitmanas verses with Hindi meaning &amp; English translation
         </p>
-        <p className="text-sm text-[var(--muted)] mt-2">{totalSargas} Sargas</p>
+        <div className="flex items-center gap-4 mt-2">
+          <p className="text-sm text-[var(--muted)]">
+            {data.kand.totalDohas} Dohas · {totalVerses} verses
+          </p>
+          <ContinueReading kandSlug={kandSlug} />
+        </div>
         {seo && (
           <p className="mt-4 text-sm leading-relaxed text-[var(--muted)] max-w-3xl">
             {seo.summary}
           </p>
         )}
+
+        <Link
+          href={`/${kandSlug}/paath`}
+          className="inline-flex items-center gap-2 mt-4 px-4 py-2 rounded-lg text-sm font-medium bg-[var(--accent)] text-white hover:opacity-90 transition-opacity"
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+            <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20" />
+            <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z" />
+          </svg>
+          Read the full {kand.tulsidas.name} paath
+        </Link>
       </div>
 
-      <div className="grid gap-3">
-        {Array.from({ length: totalSargas }, (_, i) => i + 1).map((sargaNum) => (
-          <Link
-            key={sargaNum}
-            href={`/${kandSlug}/sarga/${sargaNum}`}
-            className="card p-4 hover:border-[var(--accent)] transition-colors group"
-          >
-            <div className="flex items-center justify-between">
-              <h3 className="font-medium group-hover:text-[var(--accent)] transition-colors">
-                Sarga {sargaNum}
-              </h3>
-              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-[var(--muted)] group-hover:text-[var(--accent)]">
-                <polyline points="9 18 15 12 9 6" />
-              </svg>
+      <VersionSwitch
+        tulsidas={
+          <section aria-label={`${kand.tulsidas.name} dohas`}>
+            <div className="grid gap-3 animate-stagger">
+              {data.dohaGroups.map((group) => (
+                <Link
+                  key={group.dohaNumber}
+                  href={`/${kandSlug}/doha/${group.dohaNumber}`}
+                  className="card p-4 hover:border-[var(--accent)] transition-colors group"
+                >
+                  <div className="flex items-center justify-between gap-4">
+                    <div className="min-w-0">
+                      <h3 className="font-medium group-hover:text-[var(--accent)] transition-colors">
+                        {dohaTitle(group.dohaNumber, group.label)}
+                      </h3>
+                      <p className="text-sm text-[var(--muted)] truncate font-devanagari mt-0.5">
+                        {group.verses[0]?.original.split("\n")[0] ?? ""}
+                      </p>
+                      <p className="text-xs text-[var(--muted)] mt-0.5">
+                        {group.verses.length} verse{group.verses.length > 1 ? "s" : ""}
+                      </p>
+                    </div>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-[var(--muted)] group-hover:text-[var(--accent)] flex-shrink-0">
+                      <polyline points="9 18 15 12 9 6" />
+                    </svg>
+                  </div>
+                </Link>
+              ))}
             </div>
-          </Link>
-        ))}
-      </div>
 
-      {data && (
-        <OtherVersionLinks
-          heading={`${kand.tulsidas.name} — Tulsidas Ramcharitmanas (Awadhi)`}
-          blurb={`The same Kand in Goswami Tulsidas's Awadhi retelling, across ${data.kand.totalDohas} dohas with Hindi meaning and English translation.`}
-          links={data.dohaGroups.map((g) => ({
-            href: `/${kandSlug}/doha/${g.dohaNumber}`,
-            label: dohaTitle(g.dohaNumber, g.label),
-          }))}
-        />
-      )}
+            {sargaNumbers.length > 0 && (
+              <section className="mt-12 pt-8 border-t border-[var(--card-border)]">
+                <h2 className="text-xl font-semibold mb-1">
+                  {kand.valmiki.name} — Valmiki Ramayana (Sanskrit)
+                </h2>
+                <p className="text-sm text-[var(--muted)] mb-4">
+                  The same Kand in Maharshi Valmiki&apos;s original Sanskrit, across{" "}
+                  {kand.valmiki.totalUnits} sargas with English translation.
+                </p>
+                <div className="flex flex-wrap gap-2">
+                  {sargaNumbers.map((n) => (
+                    <Link
+                      key={n}
+                      href={`/${kandSlug}/sarga/${n}`}
+                      className="text-sm px-3 py-1.5 rounded-md border border-[var(--card-border)] text-[var(--muted)] hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors"
+                    >
+                      Sarga {n}
+                    </Link>
+                  ))}
+                </div>
+              </section>
+            )}
+          </section>
+        }
+        valmiki={
+          <section aria-label={`${kand.valmiki.name} sargas`}>
+            <h2 className="text-xl font-semibold mb-1">
+              {kand.valmiki.name}{" "}
+              <span className="font-devanagari font-normal text-[var(--muted)]">
+                ({kand.valmiki.nameOriginal})
+              </span>
+            </h2>
+            <p className="text-sm text-[var(--muted)] mb-4">
+              {kand.valmiki.totalUnits} Sargas — Sanskrit shlokas with English translation
+            </p>
+            <div className="grid gap-3">
+              {sargaNumbers.map((sargaNum) => (
+                <Link
+                  key={sargaNum}
+                  href={`/${kandSlug}/sarga/${sargaNum}`}
+                  className="card p-4 hover:border-[var(--accent)] transition-colors group"
+                >
+                  <div className="flex items-center justify-between">
+                    <h3 className="font-medium group-hover:text-[var(--accent)] transition-colors">
+                      Sarga {sargaNum}
+                    </h3>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-[var(--muted)] group-hover:text-[var(--accent)]">
+                      <polyline points="9 18 15 12 9 6" />
+                    </svg>
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </section>
+        }
+      />
 
-      {faqSection}
+      {/* FAQ markup must be visible on the page for the rich result to qualify. */}
+      <section className="mt-12 card p-6" aria-labelledby="kand-faq">
+        <h2 id="kand-faq" className="text-xl font-semibold mb-4">
+          Frequently asked about {kand.tulsidas.name}
+        </h2>
+        <div className="space-y-4">
+          {faq.map((item) => (
+            <div key={item.question}>
+              <h3 className="font-medium">{item.question}</h3>
+              <p className="text-sm text-[var(--muted)] mt-1">{item.answer}</p>
+            </div>
+          ))}
+        </div>
+      </section>
     </div>
-  );
-}
-
-/**
- * Compact link grid to the other recension. Without it the inactive version's
- * pages have no inbound internal links at all — the version toggle is a cookie,
- * so a crawler only ever sees one of the two listings.
- */
-function OtherVersionLinks({
-  heading,
-  blurb,
-  links,
-}: {
-  heading: string;
-  blurb: string;
-  links: { href: string; label: string }[];
-}) {
-  if (links.length === 0) return null;
-
-  // Cap the grid so a 362-doha Kand doesn't add thousands of anchors; the
-  // primary listing above already links every unit of the active version.
-  const MAX_LINKS = 140;
-  const shown = links.slice(0, MAX_LINKS);
-
-  return (
-    <section className="mt-12 pt-8 border-t border-[var(--card-border)]" aria-labelledby="other-version">
-      <h2 id="other-version" className="text-xl font-semibold mb-1">
-        {heading}
-      </h2>
-      <p className="text-sm text-[var(--muted)] mb-4">{blurb}</p>
-      <div className="flex flex-wrap gap-2">
-        {shown.map((link) => (
-          <Link
-            key={link.href}
-            href={link.href}
-            className="text-sm px-3 py-1.5 rounded-md border border-[var(--card-border)] text-[var(--muted)] hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors"
-          >
-            {link.label}
-          </Link>
-        ))}
-        {links.length > shown.length && (
-          <span className="text-sm px-3 py-1.5 text-[var(--muted)]">
-            +{links.length - shown.length} more
-          </span>
-        )}
-      </div>
-    </section>
   );
 }

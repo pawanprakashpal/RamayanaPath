@@ -84,6 +84,16 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
         priority: 0.9,
       }
     );
+
+    const hindiData = await getTulsidasKand(kand.slug);
+    for (const group of hindiData?.dohaGroups ?? []) {
+      entries.push({
+        url: `${BASE_URL}/hi/${kand.slug}/doha/${group.dohaNumber}`,
+        lastModified,
+        changeFrequency: "monthly",
+        priority: 0.7,
+      });
+    }
   }
 
   // Static pages

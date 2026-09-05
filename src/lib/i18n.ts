@@ -92,3 +92,14 @@ export function languageAlternates(path: string) {
     "x-default": langPath("en", path),
   };
 }
+
+/**
+ * Hindi label for a doha group. Rendering "Doha 1" on a Hindi page misses
+ * every query written as "दोहा 1" — which is how Hindi readers search.
+ * Numerals stay Arabic because that is how these queries are typed.
+ */
+export function dohaTitleHi(dohaNumber: number, label?: string | null): string {
+  if (label) return label;
+  if (dohaNumber === 0) return "मंगलाचरण";
+  return `दोहा ${dohaNumber}`;
+}

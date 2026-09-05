@@ -2,8 +2,8 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { getKandBySlug, getTulsidasKand } from "@/lib/data";
-import { BASE_URL, breadcrumbJsonLd, dohaTitle, getKandSeo } from "@/lib/seo";
-import { languageAlternates, t } from "@/lib/i18n";
+import { BASE_URL, breadcrumbJsonLd, getKandSeo } from "@/lib/seo";
+import { dohaTitleHi, languageAlternates, t } from "@/lib/i18n";
 import JsonLd from "@/components/seo/JsonLd";
 import TtsProvider from "@/components/verse/TtsProvider";
 import PaathBar from "@/components/paath/PaathBar";
@@ -132,7 +132,7 @@ export default async function HindiPaathPage({ params }: Props) {
               className="scroll-mt-32"
             >
               <h2 className="text-sm font-semibold text-[var(--muted)] uppercase tracking-wider mb-3">
-                {dohaTitle(group.dohaNumber, group.label)}
+                {dohaTitleHi(group.dohaNumber, group.label)}
               </h2>
               <div className="space-y-3">
                 {group.verses.map((verse) => (

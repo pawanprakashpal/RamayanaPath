@@ -22,7 +22,10 @@ function hasHindiVersion(pathname: string): boolean {
   const parts = pathname.split("/").filter(Boolean);
   if (parts.length === 0) return true; // home
   if (!KAND_SLUGS.has(parts[0])) return false; // /about, /search, /bookmarks
-  return parts.length === 1 || (parts.length === 2 && parts[1] === "paath");
+  if (parts.length === 1) return true;
+  if (parts.length === 2 && parts[1] === "paath") return true;
+  // /{kand}/doha/{n} has a Hindi counterpart; /{kand}/sarga/{n} does not.
+  return parts.length === 3 && parts[1] === "doha";
 }
 
 export default function LanguageLink() {

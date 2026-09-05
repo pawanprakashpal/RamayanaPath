@@ -2,8 +2,8 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { getKandBySlug, getTulsidasKand } from "@/lib/data";
-import { BASE_URL, breadcrumbJsonLd, dohaTitle, getKandSeo } from "@/lib/seo";
-import { languageAlternates, t } from "@/lib/i18n";
+import { BASE_URL, breadcrumbJsonLd, getKandSeo } from "@/lib/seo";
+import { dohaTitleHi, languageAlternates, t } from "@/lib/i18n";
 import JsonLd from "@/components/seo/JsonLd";
 
 interface Props {
@@ -110,11 +110,11 @@ export default async function HindiKandPage({ params }: Props) {
         {data.dohaGroups.map((group) => (
           <Link
             key={group.dohaNumber}
-            href={`/${kandSlug}/doha/${group.dohaNumber}`}
+            href={`/hi/${kandSlug}/doha/${group.dohaNumber}`}
             className="card p-4 hover:border-[var(--accent)] transition-colors group"
           >
             <h2 className="font-medium group-hover:text-[var(--accent)] transition-colors">
-              {dohaTitle(group.dohaNumber, group.label)}
+              {dohaTitleHi(group.dohaNumber, group.label)}
             </h2>
             <p className="text-sm text-[var(--muted)] truncate mt-0.5">
               {group.verses[0]?.original.split("\n")[0] ?? ""}

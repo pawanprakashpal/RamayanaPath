@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { getAvailableKands } from "@/lib/data";
 import KandCard from "@/components/home/KandCard";
 
@@ -32,6 +33,27 @@ export default async function HomePage() {
         <p className="text-sm text-[var(--muted)] italic mt-1 animate-hero-verse">
           May He who sports in the courtyard of Dasaratha remove all sorrows and bring blessings.
         </p>
+      </div>
+
+      {/* Navratri paath — seasonal entry point into the nine-day plan */}
+      <div className="card p-6 mb-10 flex flex-wrap items-center justify-between gap-4">
+        <div>
+          <h2 className="text-lg font-semibold mb-1">
+            Navratri Ramayana Paath{" "}
+            <span className="font-devanagari font-normal text-[var(--muted)]">
+              (नवाह्न पारायण)
+            </span>
+          </h2>
+          <p className="text-sm text-[var(--muted)]">
+            The complete Ramcharitmanas in nine days, following the traditional विश्राम pauses.
+          </p>
+        </div>
+        <Link
+          href="/navahn-parayan"
+          className="px-4 py-2 rounded-lg text-sm font-medium bg-[var(--accent)] text-white hover:opacity-90 transition-opacity whitespace-nowrap"
+        >
+          See the nine-day plan →
+        </Link>
       </div>
 
       {/* Kand Grid */}

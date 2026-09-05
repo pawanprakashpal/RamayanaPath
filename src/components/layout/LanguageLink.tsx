@@ -21,6 +21,7 @@ const KAND_SLUGS = new Set([
 function hasHindiVersion(pathname: string): boolean {
   const parts = pathname.split("/").filter(Boolean);
   if (parts.length === 0) return true; // home
+  if (parts[0] === "navahn-parayan") return parts.length === 1;
   if (!KAND_SLUGS.has(parts[0])) return false; // /about, /search, /bookmarks
   if (parts.length === 1) return true;
   if (parts.length === 2 && parts[1] === "paath") return true;

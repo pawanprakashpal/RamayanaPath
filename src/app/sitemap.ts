@@ -96,6 +96,22 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     }
   }
 
+  // Navahn parayan — the Navratri landing pages, in both languages.
+  entries.push(
+    {
+      url: `${BASE_URL}/navahn-parayan`,
+      lastModified,
+      changeFrequency: "monthly",
+      priority: 0.9,
+    },
+    {
+      url: `${BASE_URL}/hi/navahn-parayan`,
+      lastModified,
+      changeFrequency: "monthly",
+      priority: 0.9,
+    }
+  );
+
   // Static pages
   entries.push({
     url: `${BASE_URL}/about`,

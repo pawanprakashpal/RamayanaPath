@@ -155,6 +155,7 @@ export default async function KandPage({ params }: KandPageProps) {
                 <Link
                   key={group.dohaNumber}
                   href={`/${kandSlug}/doha/${group.dohaNumber}`}
+                  prefetch={false}
                   className="card p-4 hover:border-[var(--accent)] transition-colors group"
                 >
                   <div className="flex items-center justify-between gap-4">
@@ -191,6 +192,7 @@ export default async function KandPage({ params }: KandPageProps) {
                     <Link
                       key={n}
                       href={`/${kandSlug}/sarga/${n}`}
+                      prefetch={false}
                       className="text-sm px-3 py-1.5 rounded-md border border-[var(--card-border)] text-[var(--muted)] hover:border-[var(--accent)] hover:text-[var(--accent)] transition-colors"
                     >
                       Sarga {n}
@@ -217,6 +219,7 @@ export default async function KandPage({ params }: KandPageProps) {
                 <Link
                   key={sargaNum}
                   href={`/${kandSlug}/sarga/${sargaNum}`}
+                  prefetch={false}
                   className="card p-4 hover:border-[var(--accent)] transition-colors group"
                 >
                   <div className="flex items-center justify-between">

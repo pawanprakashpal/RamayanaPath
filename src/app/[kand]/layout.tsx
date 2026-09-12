@@ -24,6 +24,11 @@ function SidebarNav({ items }: { items: { label: string; href: string }[] }) {
         <Link
           key={item.href}
           href={item.href}
+          // This nav renders every doha and sarga of the Kand — 439 links on
+          // Bal Kand — on all 1,749 verse pages. Default prefetching fetches
+          // each one that scrolls into view, and every such fetch of a static
+          // route bills as a Vercel ISR read.
+          prefetch={false}
           className="block text-sm px-3 py-1.5 rounded-md text-[var(--muted)] hover:text-[var(--foreground)] hover:bg-[var(--verse-bg)] transition-colors"
         >
           {item.label}

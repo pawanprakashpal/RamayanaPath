@@ -111,6 +111,7 @@ export default async function HindiKandPage({ params }: Props) {
           <Link
             key={group.dohaNumber}
             href={`/hi/${kandSlug}/doha/${group.dohaNumber}`}
+            prefetch={false}
             className="card p-4 hover:border-[var(--accent)] transition-colors group"
           >
             <h2 className="font-medium group-hover:text-[var(--accent)] transition-colors">

@@ -14,7 +14,7 @@ export default function Footer() {
               Original verses from Tulsidas Ramcharitmanas & Valmiki Ramayana
             </p>
             <div className="flex items-center gap-3 mt-2 justify-center sm:justify-start">
-              <Link href="/about" className="text-xs text-[var(--accent)] hover:underline">About</Link>
+              <Link href="/about" className="text-xs text-[var(--accent)] hover:underline" prefetch={false}>About</Link>
               <span className="text-[var(--card-border)]">|</span>
               <a href="https://github.com/pawanprakashpal/RamayanaPath" target="_blank" rel="noopener noreferrer" className="text-xs text-[var(--accent)] hover:underline">GitHub</a>
             </div>

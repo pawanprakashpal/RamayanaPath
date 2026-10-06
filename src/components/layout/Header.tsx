@@ -20,7 +20,7 @@ export default function Header() {
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="flex h-16 items-center justify-between">
           {/* Logo */}
-          <Link href="/" className="flex items-center gap-3 group">
+          <Link href="/" className="flex items-center gap-3 group" prefetch={false}>
             <div className="w-9 h-9 rounded-full bg-[#f97316] dark:bg-[#f97316] p-1.5 flex items-center justify-center">
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img src="/ram-icon.png" alt="Shree Ram" width="24" height="24" className="w-6 h-6" />
@@ -32,17 +32,17 @@ export default function Header() {
 
           {/* Navigation */}
           <nav className="hidden md:flex items-center gap-6">
-            <Link href="/" className="text-sm text-[var(--muted)] hover:text-[var(--foreground)] transition-colors">
+            <Link href="/" className="text-sm text-[var(--muted)] hover:text-[var(--foreground)] transition-colors" prefetch={false}>
               Home
             </Link>
             <KandsDropdown />
-            <Link href="/navahn-parayan" className="text-sm text-[var(--muted)] hover:text-[var(--foreground)] transition-colors">
+            <Link href="/navahn-parayan" className="text-sm text-[var(--muted)] hover:text-[var(--foreground)] transition-colors" prefetch={false}>
               Navratri Paath
             </Link>
-            <Link href="/bookmarks" className="text-sm text-[var(--muted)] hover:text-[var(--foreground)] transition-colors">
+            <Link href="/bookmarks" className="text-sm text-[var(--muted)] hover:text-[var(--foreground)] transition-colors" prefetch={false}>
               Bookmarks
             </Link>
-            <Link href="/about" className="text-sm text-[var(--muted)] hover:text-[var(--foreground)] transition-colors">
+            <Link href="/about" className="text-sm text-[var(--muted)] hover:text-[var(--foreground)] transition-colors" prefetch={false}>
               About
             </Link>
             <LanguageLink />
@@ -84,6 +84,7 @@ function KandsDropdown() {
                 key={kand.slug}
                 href={`/${kand.slug}`}
                 className="flex items-center justify-between px-3 py-2 rounded-md text-sm hover:bg-[var(--verse-bg)] transition-colors"
+                prefetch={false}
               >
                 <span>{kand.name}</span>
                 <span className="font-devanagari text-xs text-[var(--muted)]">{kand.nameHindi}</span>
@@ -116,7 +117,7 @@ function MobileMenu() {
           </svg>
         </summary>
         <nav className="absolute right-0 top-full mt-2 w-56 rounded-lg border border-[var(--card-border)] bg-[var(--card-bg)] shadow-lg p-2 z-50">
-          <Link href="/" className="block px-3 py-2 rounded-md text-sm hover:bg-[var(--verse-bg)] transition-colors">
+          <Link href="/" className="block px-3 py-2 rounded-md text-sm hover:bg-[var(--verse-bg)] transition-colors" prefetch={false}>
             Home
           </Link>
           <div className="my-1 border-t border-[var(--card-border)]" />
@@ -127,6 +128,7 @@ function MobileMenu() {
                 key={kand.slug}
                 href={`/${kand.slug}`}
                 className="flex items-center justify-between px-3 py-2 rounded-md text-sm hover:bg-[var(--verse-bg)] transition-colors"
+                prefetch={false}
               >
                 <span>{kand.name}</span>
                 <span className="font-devanagari text-xs text-[var(--muted)]">{kand.nameHindi}</span>
@@ -142,13 +144,13 @@ function MobileMenu() {
             )
           )}
           <div className="my-1 border-t border-[var(--card-border)]" />
-          <Link href="/navahn-parayan" className="block px-3 py-2 rounded-md text-sm hover:bg-[var(--verse-bg)] transition-colors">
+          <Link href="/navahn-parayan" className="block px-3 py-2 rounded-md text-sm hover:bg-[var(--verse-bg)] transition-colors" prefetch={false}>
             Navratri Paath
           </Link>
-          <Link href="/bookmarks" className="block px-3 py-2 rounded-md text-sm hover:bg-[var(--verse-bg)] transition-colors">
+          <Link href="/bookmarks" className="block px-3 py-2 rounded-md text-sm hover:bg-[var(--verse-bg)] transition-colors" prefetch={false}>
             Bookmarks
           </Link>
-          <Link href="/about" className="block px-3 py-2 rounded-md text-sm hover:bg-[var(--verse-bg)] transition-colors">
+          <Link href="/about" className="block px-3 py-2 rounded-md text-sm hover:bg-[var(--verse-bg)] transition-colors" prefetch={false}>
             About
           </Link>
         </nav>

@@ -45,10 +45,14 @@ export default function LanguageLink() {
   }
 
   return (
+    // prefetch={false} because this sits in the header of every page and
+    // points at the same page in the other language - so leaving it on
+    // fetched a second copy of all 1,749 pages, once per view.
     <Link
       href={href}
       hrefLang={isHindi ? "en" : "hi"}
       className="text-sm text-[var(--muted)] hover:text-[var(--foreground)] transition-colors"
+      prefetch={false}
     >
       {label}
     </Link>

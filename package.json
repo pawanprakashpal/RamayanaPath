@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "check:budget": "node scripts/check-request-budget.mjs",
+    "check:budget:live": "node scripts/check-request-budget.mjs --live"
   },
   "dependencies": {
     "next": "16.2.1",

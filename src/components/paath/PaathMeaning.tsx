@@ -23,7 +23,10 @@ function loadGroup(kandSlug: string, dohaNumber: number): Promise<Meaning[]> {
   const key = `${kandSlug}:${dohaNumber}`;
   let pending = cache.get(key);
   if (!pending) {
-    pending = fetch(`/api/meaning?kand=${encodeURIComponent(kandSlug)}&doha=${dohaNumber}`)
+    // Static file written by scripts/build-cf-assets.mjs. This was an API
+    // route reading ./data at request time; the text only changes on
+    // redeploy, so there is nothing for a server to decide.
+    pending = fetch(`/meanings/${encodeURIComponent(kandSlug)}/${dohaNumber}.json`)
       .then((res) => {
         if (!res.ok) throw new Error("Failed");
         return res.json();

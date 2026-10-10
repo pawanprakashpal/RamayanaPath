@@ -1,11 +1,10 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  // The search route reads the verse JSON at runtime via a computed path, which
-  // file tracing cannot follow — without this the data is missing in production.
-  outputFileTracingIncludes: {
-    "/api/search": ["./data/**/*.json"],
-  },
+  // Static export: every page is prerendered already, so there is nothing for
+  // a Node origin to do. Cache headers move to public/_headers, which
+  // Cloudflare Pages reads; headers() here does not run in an export.
+  output: "export",
   async headers() {
     return [
       {

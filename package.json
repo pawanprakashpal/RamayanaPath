@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "node scripts/build-cf-assets.mjs && next build && node scripts/prune-export.mjs",
     "start": "next start",
     "lint": "eslint",
     "check:budget": "node scripts/check-request-budget.mjs",

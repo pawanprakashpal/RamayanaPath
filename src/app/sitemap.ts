@@ -2,6 +2,9 @@ import type { MetadataRoute } from "next";
 import { getKandManifest, getTulsidasKand, getValmikiSargaNumbers } from "@/lib/data";
 import { BASE_URL } from "@/lib/seo";
 
+// Static export: The sitemap is built from the manifest at build time.
+export const dynamic = "force-static";
+
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const manifest = await getKandManifest();
   const entries: MetadataRoute.Sitemap = [];

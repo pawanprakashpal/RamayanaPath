@@ -1,5 +1,8 @@
 import { ImageResponse } from "next/og";
 
+// Static export: One card for the whole site, rendered once at build.
+export const dynamic = "force-static";
+
 export const runtime = "edge";
 export const alt = "RamayanaPath — Read the Ramayana with translations";
 export const size = { width: 1200, height: 630 };

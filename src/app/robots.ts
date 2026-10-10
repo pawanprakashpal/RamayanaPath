@@ -1,5 +1,8 @@
 import type { MetadataRoute } from "next";
 
+// Static export: Fixed rules; nothing here varies per request.
+export const dynamic = "force-static";
+
 /**
  * Crawlers are only ~3% of our requests, so this is not about request volume.
  * It is about Fast Origin Transfer, which is charged when an edge region has

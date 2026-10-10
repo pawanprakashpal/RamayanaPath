@@ -71,7 +71,18 @@ export default function SearchClient() {
         setResult(null);
         return;
       }
-      if (!res.ok) throw new Error("Search failed");
+      if (!res.ok) {
+        // Prefer what the server says over a generic apology: it may be
+        // telling the reader something true and lasting rather than asking
+        // them to try again.
+        const body = await res.json().catch(() => null);
+        if (body?.error) {
+          setError(body.error);
+          setResult(null);
+          return;
+        }
+        throw new Error("Search failed");
+      }
 
       setResult(await res.json());
     } catch {

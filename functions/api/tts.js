@@ -73,6 +73,10 @@ export async function onRequestPost({ request, env }) {
           "Ocp-Apim-Subscription-Key": key,
           "Content-Type": "application/ssml+xml",
           "X-Microsoft-OutputFormat": "audio-24khz-96kbitrate-mono-mp3",
+          // Azure's speech endpoint requires a User-Agent and answers 400
+          // without one. Node's fetch sent a default; a Worker's fetch sends
+          // none, which is why the same request worked on Vercel and not here.
+          "User-Agent": "RamayanaPath/1.0",
         },
         body: ssml,
       }

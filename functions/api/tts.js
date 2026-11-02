@@ -79,7 +79,10 @@ export async function onRequestPost({ request, env }) {
     );
 
     if (!res.ok) {
-      return json({ error: "Azure TTS failed", status: res.status }, 502);
+      // Azure says why in the body (wrong region, bad key, SSML it dislikes);
+      // without it a 502 here is a guess. Nothing secret comes back in it.
+      const detail = (await res.text().catch(() => "")).slice(0, 300);
+      return json({ error: "Azure TTS failed", status: res.status, region, detail }, 502);
     }
 
     return new Response(res.body, {

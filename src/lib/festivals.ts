@@ -5,7 +5,8 @@
  *
  * Windows are inclusive and in the reader's local time. Navratri runs the
  * nine nights up to Vijayadashami; Diwali is shown from Dhanteras through
- * Bhai Dooj, since the homecoming is read in the days around the night.
+ * Bhai Dooj - and from ten days before, since the festive run-up is when
+ * people come looking for the homecoming.
  */
 export type Festival = {
   key: "navratri" | "diwali";
@@ -15,9 +16,9 @@ export type Festival = {
 
 export const FESTIVALS: Festival[] = [
   { key: "navratri", from: "2026-10-11", to: "2026-10-20" },
-  { key: "diwali",   from: "2026-11-06", to: "2026-11-10" },
+  { key: "diwali",   from: "2026-10-29", to: "2026-11-10" },
   { key: "navratri", from: "2027-09-30", to: "2027-10-09" },
-  { key: "diwali",   from: "2027-10-26", to: "2027-10-30" },
+  { key: "diwali",   from: "2027-10-18", to: "2027-10-30" },
 ];
 
 export function festivalOn(date: Date): Festival["key"] | null {

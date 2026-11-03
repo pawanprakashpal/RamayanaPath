@@ -37,7 +37,7 @@ export default function Header() {
             </Link>
             <KandsDropdown />
             <Link href="/navahn-parayan" className="text-sm text-[var(--muted)] hover:text-[var(--foreground)] transition-colors" prefetch={false}>
-              Navratri Paath
+              Nine-day Paath
             </Link>
             <Link href="/bookmarks" className="text-sm text-[var(--muted)] hover:text-[var(--foreground)] transition-colors" prefetch={false}>
               Bookmarks
@@ -145,7 +145,7 @@ function MobileMenu() {
           )}
           <div className="my-1 border-t border-[var(--card-border)]" />
           <Link href="/navahn-parayan" className="block px-3 py-2 rounded-md text-sm hover:bg-[var(--verse-bg)] transition-colors" prefetch={false}>
-            Navratri Paath
+            Nine-day Paath
           </Link>
           <Link href="/bookmarks" className="block px-3 py-2 rounded-md text-sm hover:bg-[var(--verse-bg)] transition-colors" prefetch={false}>
             Bookmarks

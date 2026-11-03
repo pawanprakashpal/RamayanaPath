@@ -1,4 +1,5 @@
 import Link from "next/link";
+import SeasonalBanner from "@/components/home/SeasonalBanner";
 import type { Metadata } from "next";
 import { getAvailableKands } from "@/lib/data";
 import { getKandSeo } from "@/lib/seo";
@@ -62,19 +63,8 @@ export default async function HindiHomePage() {
         </p>
       </div>
 
-      <Link href="/hi/navahn-parayan" className="block mb-10 group">
-        <div className="card p-6 flex flex-wrap items-center justify-between gap-4 hover:border-[#fb923c] hover:shadow-xl hover:-translate-y-1 hover:scale-[1.02] cursor-pointer transition-all duration-300 ease-out">
-          <div>
-            <h2 className="text-lg font-semibold mb-1">नवरात्रि रामायण पाठ</h2>
-            <p className="text-sm text-[var(--muted)]">
-              नवाह्न पारायण — नौ विश्रामों के अनुसार नौ दिनों में सम्पूर्ण मानस का पाठ।
-            </p>
-          </div>
-          <span className="px-4 py-2 rounded-lg text-sm font-medium bg-[var(--accent)] text-white group-hover:opacity-90 transition-opacity whitespace-nowrap">
-            नौ दिन की योजना देखें →
-          </span>
-        </div>
-      </Link>
+      {/* Seasonal entry point: the nine-day plan, or the festival of the day */}
+      <SeasonalBanner lang="hi" />
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 animate-stagger">
         {kands.map((kand) => {
